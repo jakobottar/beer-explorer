@@ -40,7 +40,7 @@ These data represent `r length(ba$review_overall)` different reviews of `r lengt
 
 ## Plots
 
-```{r plots1, fig.align="center"}
+```{r plots1, fig.align="center", warning=FALSE}
 p1 <- ggplot(ba) +
   stat_bin(aes(x = review_overall), binwidth = 0.25, fill = "#d1730c")
 p1
