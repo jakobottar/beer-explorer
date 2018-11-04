@@ -59,7 +59,7 @@ Another challenge the data will present is that of location. Since we are only p
 
 Because of our relatively limited data columns and very large number of rows we're faced with a couple of challenges for our visulization. We're mostly interested in inspecting our data by brewery, for example which breweries, on average, have the best beer. Below is an example table idea we had.
 
-# INSERT EXAMPLE TABLE PICTURE HERE
+![Example Table Vis](process_img/table_vis.jpg)
 
 1. The basic idea is to do somthing similar to the world cup assignment, where each row in the table
    represents a brewery, and data cells would be some visualization of the average for that brewery.
@@ -80,7 +80,7 @@ filter down the rows in the table to just the breweries selected in the area.
    beer change throughout the night as they drink more. Ultimately however we thought this would be
    unreasonably difficult to create a visualization for.
 
-# GIVE AN EXAMPLE VISUALIZATION FOR TIMING OF REVIEWS
+### GIVE AN EXAMPLE VISUALIZATION FOR TIMING OF REVIEWS
 
 # Must-Have Features
 
