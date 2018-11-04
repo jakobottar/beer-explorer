@@ -45,3 +45,11 @@ p1 <- ggplot(ba) +
   stat_bin(aes(x = review_overall), binwidth = 0.25, fill = "#d1730c")
 p1
 ```
+
+```{r breweries}
+
+brew <- unique(ba$brewery_name)
+
+beer <- unique(ba$beer_name)
+
+```
