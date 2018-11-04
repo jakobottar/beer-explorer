@@ -82,7 +82,9 @@ filter down the rows in the table to just the breweries selected in the area.
 
 Another idea we had was to look at the timestamps by user, and see if peoples subjective opinions of
 beer change throughout the night as they drink more. Ultimately however we thought this would be
-unreasonably difficult to create a visualization for.
+unreasonably difficult to create a visualization for. With the biggest issue being how we aggregate the user data together. 
+Not to mention any inconsistency in the data that we would need to account for. So we ultimately decided against this idea, but we did
+draft a sample visualization of what that may look like.
 
 ![Example Time Vis](process_img/time_vis.jpg)
 
