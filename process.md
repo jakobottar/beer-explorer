@@ -4,7 +4,7 @@
 
 Title: The best beer in the world!
 
-Names: Jakob Johnson ( A01976871, Jakob.Johnson@usu.edu) and Derek Hunter, team `nullpointer`
+Names: Jakob Johnson ( A01976871, Jakob.Johnson@usu.edu) and Derek Hunter(a01389046, derek.hunter@aggiemail.usu.edu), team `nullpointer`
 
 [Repo Link](https://github.com/jakobottar/cs5890-final-project)
 
