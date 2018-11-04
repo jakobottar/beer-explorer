@@ -63,12 +63,12 @@ Because of our relatively limited data columns and very large number of rows we'
 
 ![Example Table Vis](process_img/table_vis.jpg)
 
-The basic idea is to do somthing similar to the world cup assignment, where each row in the table
+The basic idea is to do something similar to the world cup assignment, where each row in the table
 represents a brewery, and data cells would be some visualization of the average for that brewery.
 In the example given above, we used a horizontal boxplot to represent the rating. This could of
 course be represented by some kind of start system or even just a number. We feel this
 could end up being a little misleading because we're throwing out the distributional information
-contained in the dataset. After then the inteded behavior would be a user to click on a brewery
+contained in the dataset. After then the intended behavior would be a user to click on a brewery
 of interest and this would add on new rows that would represent each beer that brewery has created.
 With similar information to the brewery itself.
 
@@ -84,15 +84,34 @@ Another idea we had was to look at the timestamps by user, and see if peoples su
 beer change throughout the night as they drink more. Ultimately however we thought this would be
 unreasonably difficult to create a visualization for.
 
-### FIX ME!!!!! GIVE AN EXAMPLE VISUALIZATION FOR TIMING OF REVIEWS
+![Example Time Vis](process_img/time_vis.jpg)
+
+## Stacked Distribution
+
+In order to show the rating distribution differences between different beer styles, we could use a stacked histogram or distribution plot. The user would be able to select specific beer styles to compare or display a summary of all ratings.
+
+This kind of plot would be relatively lightweight compared to our other ideas as we could pre-process the data and draw the plot with a small summary dataset.
+
+![Example Stacked Vis](process_img/stacked_vis.jpg)
 
 # Must-Have Features
 
 <!-- List the features without which you would consider your project to be a failure. -->
 
+A filterable table that summarizes the a selection, either of beer style or brewery.  We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
+
+We also need to have some kind of map showing geographic distribution of breweries. This may or may not be interactive, and may or may not display every brewery represented in the dataset.
+
+When a brewery is selected from the table, a "dashboard" of information will be displayed, such as a "top 10" of individual beers, as well as a ratings breakdown by style.
+
 # Optional Features
 
 <!-- List the features which you consider to be nice to have, but not critical. -->
+
+The map will be interactive, allowing brushing to select a subset to display in the table and will contain every brewery.
+This will be difficult as getting this data requires pulling from Google Maps or some similar map database.
+
+"falling" and "dropping" animations when styles are selected or deselected from the stacked distribution plot. 
 
 # Project Schedule
 
