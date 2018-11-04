@@ -111,15 +111,15 @@ The core of the design is of a dig-down style. The envisioned use would be to fi
 
 <!-- List the features without which you would consider your project to be a failure. -->
 
-A filterable table that summarizes a selection, either of beer style or brewery. We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
-
-We also need to have some kind of map showing geographic distribution of breweries. This may or may not be interactive, and may or may not display every brewery represented in the dataset.
+A filterable table that summarizes a selection, either of beer style or brewery. We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive. So being able to have some kind of filter is necessary.
 
 When a brewery is selected from the table, a "dashboard" of information will be displayed, such as a "top 10" of individual beers, as well as a ratings breakdown by style.
 
 # Optional Features
 
 <!-- List the features which you consider to be nice to have, but not critical. -->
+
+We also need to have some kind of map showing geographic distribution of breweries. This may or may not display every brewery represented in the dataset.
 
 The map will be interactive, allowing brushing to select a subset to display in the table and will contain every brewery.
 This will be difficult as getting this data requires pulling from Google Maps or some similar map database.
