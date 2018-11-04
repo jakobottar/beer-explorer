@@ -100,7 +100,7 @@ This kind of plot would be relatively lightweight compared to our other ideas as
 
 <!-- List the features without which you would consider your project to be a failure. -->
 
-A filterable table that summarizes the a selection, either of beer style or brewery.  We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
+A filterable table that summarizes a selection, either of beer style or brewery.  We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
 
 We also need to have some kind of map showing geographic distribution of breweries. This may or may not be interactive, and may or may not display every brewery represented in the dataset.
 
