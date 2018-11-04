@@ -59,16 +59,18 @@ Another challenge the data will present is that of location. Since we are only p
 
 Because of our relatively limited data columns and very large number of rows we're faced with a couple of challenges for our visulization. We're mostly interested in inspecting our data by brewery, for example which breweries, on average, have the best beer. Below is an example table idea we had.
 
+## Visualizing Brewery Information
+
 ![Example Table Vis](process_img/table_vis.jpg)
 
-1. The basic idea is to do somthing similar to the world cup assignment, where each row in the table
-   represents a brewery, and data cells would be some visualization of the average for that brewery.
-   In the example given above, we used a horizontal boxplot to represent the rating. This could of
-   course be represented by some kind of start system or even just a number. We feel this
-   could end up being a little misleading because we're throwing out the distributional information
-   contained in the dataset. After then the inteded behavior would be a user to click on a brewery
-   of interest and this would add on new rows that would represent each beer that brewery has created.
-   With similar information to the brewery itself.
+The basic idea is to do somthing similar to the world cup assignment, where each row in the table
+represents a brewery, and data cells would be some visualization of the average for that brewery.
+In the example given above, we used a horizontal boxplot to represent the rating. This could of
+course be represented by some kind of start system or even just a number. We feel this
+could end up being a little misleading because we're throwing out the distributional information
+contained in the dataset. After then the inteded behavior would be a user to click on a brewery
+of interest and this would add on new rows that would represent each beer that brewery has created.
+With similar information to the brewery itself.
 
 This method for visualizing the data has a couple issues though. The main one being that we don't want
 to create a table with over 5000 rows. We wouldn't be simplifying the dataset enough.
