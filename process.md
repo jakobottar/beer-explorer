@@ -82,7 +82,7 @@ filter down the rows in the table to just the breweries selected in the area.
 
 Another idea we had was to look at the timestamps by user, and see if peoples subjective opinions of
 beer change throughout the night as they drink more. Ultimately however we thought this would be
-unreasonably difficult to create a visualization for. With the biggest issue being how we aggregate the user data together. 
+unreasonably difficult to create a visualization for. With the biggest issue being how we aggregate the user data together.
 Not to mention any inconsistency in the data that we would need to account for. So we ultimately decided against this idea, but we did
 draft a sample visualization of what that may look like.
 
@@ -99,15 +99,19 @@ This kind of plot would be relatively lightweight compared to our other ideas as
 ## Proposed Visualization
 
 After reviewing our visualization ideas we decided that trying to build something relating to the timestamp information was really
-not feasible. Our proposed visualization incorporates the idea of the stacked distribution and the fitler-able table into the final design. 
+not feasible. Our proposed visualization incorporates the idea of the stacked distribution and the fitler-able table into the final design.
 
 The core of the design is of a dig-down style. The envisioned use would be to filter a table of all breweries to ones of interest, for instance breweries near me. Then for the user to select the brewery they're interested in which would hide the table, and bring up a 'dashboard' for the brewery. Which has a list of beers grouped by style, as well as a group a distributions histograms for that brewery, for the 5 interesting review metrics(Overall, Aroma, Appearance, and Taste).
+
+![Proposed Vis Screen 1](process_img/final_vis_1.jpg)
+
+![Proposed Vis Screen 2](process_img/final_vis_2.jpg)
 
 # Must-Have Features
 
 <!-- List the features without which you would consider your project to be a failure. -->
 
-A filterable table that summarizes a selection, either of beer style or brewery.  We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
+A filterable table that summarizes a selection, either of beer style or brewery. We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive.
 
 We also need to have some kind of map showing geographic distribution of breweries. This may or may not be interactive, and may or may not display every brewery represented in the dataset.
 
@@ -120,7 +124,7 @@ When a brewery is selected from the table, a "dashboard" of information will be 
 The map will be interactive, allowing brushing to select a subset to display in the table and will contain every brewery.
 This will be difficult as getting this data requires pulling from Google Maps or some similar map database.
 
-"falling" and "dropping" animations when styles are selected or deselected from the stacked distribution plot. 
+"falling" and "dropping" animations when styles are selected or deselected from the stacked distribution plot.
 
 # Project Schedule
 
