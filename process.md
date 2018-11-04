@@ -96,6 +96,13 @@ This kind of plot would be relatively lightweight compared to our other ideas as
 
 ![Example Stacked Vis](process_img/stacked_vis.jpg)
 
+## Proposed Visualization
+
+After reviewing our visualization ideas we decided that trying to build something relating to the timestamp information was really
+not feasible. Our proposed visualization incorporates the idea of the stacked distribution and the fitler-able table into the final design. 
+
+The core of the design is of a dig-down style. The envisioned use would be to filter a table of all breweries to ones of interest, for instance breweries near me. Then for the user to select the brewery they're interested in which would hide the table, and bring up a 'dashboard' for the brewery. Which has a list of beers grouped by style, as well as a group a distributions histograms for that brewery, for the 5 interesting review metrics(Overall, Aroma, Appearance, and Taste).
+
 # Must-Have Features
 
 <!-- List the features without which you would consider your project to be a failure. -->
