@@ -78,11 +78,13 @@ To solve this problem we would like to be able to grab the lat/long of the brewe
 and draw them on a map. From there the user would be able to add a selection to the map which would
 filter down the rows in the table to just the breweries selected in the area.
 
-2. Another idea we had was to look at the timestamps by user, and see if peoples subjective opinions of
-   beer change throughout the night as they drink more. Ultimately however we thought this would be
-   unreasonably difficult to create a visualization for.
+## Visualizing Review Timestamp Information
 
-### GIVE AN EXAMPLE VISUALIZATION FOR TIMING OF REVIEWS
+Another idea we had was to look at the timestamps by user, and see if peoples subjective opinions of
+beer change throughout the night as they drink more. Ultimately however we thought this would be
+unreasonably difficult to create a visualization for.
+
+### FIX ME!!!!! GIVE AN EXAMPLE VISUALIZATION FOR TIMING OF REVIEWS
 
 # Must-Have Features
 
