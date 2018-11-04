@@ -14,6 +14,16 @@ Names: Jakob Johnson ( A01976871, Jakob.Johnson@usu.edu) and Derek Hunter(a01389
 
 In 2007, the Brewer's Association of America consisted of 422 breweries. In 2017, it had grown to nearly 4,000. As the taste of American beer drinkers diversified, simply asking for "a pint of your finest ale, please" was no longer sufficient. Instead, the new craft beer drinkers needed a way to quantify and track which beers they liked and didn't like. A number of beer rating sites sprang up, and BeerAdvocate rose to the top as the most popular.
 
+I (Jakob) chose this dataset because beer is tasty and interests me greatly. Even though a number of beer review sites exist, none of them are particularly good-looking or have good visualizations of the massive databases they collect and store.
+
+![BeerAdvocate Example 1](process_img/ba_bbb_example.png)
+
+This is an example of a beer's page, and though it has a review histogram, very little other information is displayed. [Link.](https://www.beeradvocate.com/beer/profile/22893/73618/)
+
+![BeerAdvocate Example 2](process_img/ba_epic_example.png)
+
+In the overall brewery page, there are no visualizations, only some basic summary stats and a table of beers (that often has duplicates). [Link.](https://www.beeradvocate.com/beer/profile/22893/)
+
 # Project Objectives
 
 <!-- Provide the primary questions you are trying to answer with your visualization. What would you like to learn and accomplish? List the benefits. -->
@@ -43,6 +53,8 @@ The dataset consists of individual reviews, each with 13 attributes,
 
 We might also look at including data from RateBeer or Untappd, because they seem to be more open to public data use.
 
+For brewery locations, we will automatically get the lat/long coordinates from Google Maps and store them in the data files.
+
 # Data Processing
 
 <!-- Do you expect to do substantial data cleanup? What quantities do you plan to derive from your data? How will data processing be implemented? -->
@@ -50,6 +62,8 @@ We might also look at including data from RateBeer or Untappd, because they seem
 Processing this massive amount of data will be a challenge. The dataset is fairly large, it had to be split into 4 different `.csv` files, each around 50 Mb to fit into GitHub. Together these take about 5 sec to simply read into a webpage.
 
 We plan on removing data that are too small to be relevant or useful, such as beers with only one or very few reviews, as well as removing attributes that are not useful such as user IDs.
+
+A significant amount of the data will be pre-processed in R, to allow for quicker load and update times.
 
 Another challenge the data will present is that of location. Since we are only provided with a brewery name, we will either have to manually collect data for the largest/best/most relevant breweries or build in some method of retrieving that data from Google Maps or something.
 
@@ -129,3 +143,8 @@ This will be difficult as getting this data requires pulling from Google Maps or
 # Project Schedule
 
 <!-- Make sure that you plan your work so that you can avoid a big rush right before the final project deadline, and delegate different modules and responsibilities among your team members. Write this in terms of weekly deadlines. -->
+
+- Week 1 (Nov 5-9): Data Pre-processing and Maps Collection, begin table/map implementation.
+- Week 2 (Nov 12-16): Rough Table and Map completed, dashboard prototyped with placeholders (Prototype due)
+- Week 3 (Nov 19-23): Dashboard implementation, begin design work and cleanup
+- Week 4 (Nov 26-30): Final cleanup and animations
