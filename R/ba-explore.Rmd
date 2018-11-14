@@ -32,7 +32,7 @@ colnames(ba_raw) # the variables:
 Let's get rid of some of those extra variables that we don't care about
 
 ```{r import2}
-ba <- select(ba_raw, -c(brewery_id, review_time, review_profilename, beer_beerid))
+ba <- select(ba_raw, -c(brewery_id, review_time, review_profilename))
 knitr::kable(head(ba))
 ```
 
@@ -56,7 +56,7 @@ style <- unique(ba$beer_style)
 
 ```
 
-```{r plots2}
+```{r plots2, fig.align="center"}
 
 overTime <- tibble(time = c(8, 9, 10, 11, 12,
                             8, 9, 10, 11, 12,
@@ -90,3 +90,50 @@ time_plot
 ggsave("process_img/time_vis.jpg", time_plot, width = 6, height = 4, units = 'in')
 
 ```
+
+<br>
+
+## Data Cleaning and Grouping
+
+```{r byBeerGrouping, cache = TRUE}
+by_beer <- ba %>%
+  group_by(beer_name) %>%
+  summarize(beer_id = beer_beerid[1],
+            brewery_name = brewery_name[1],
+            beer_style = beer_style[1],
+            beer_abv = beer_abv[1],
+            mean_overall = mean(review_overall),
+            mean_aroma = mean(review_aroma),
+            mean_appearance = mean(review_appearance),
+            mean_palate = mean(review_palate),
+            mean_taste = mean(review_taste),
+            n_reviews = length(beer_name))%>%
+  filter(n_reviews >= 5)
+
+write.csv(by_beer, "data/byBeer.csv")
+
+knitr::kable(filter(by_beer, brewery_name == "Uinta Brewing Company") %>% head(.,10))
+```
+
+After grouping reviews of the same beer, and removing beers with <5 reviews, we are now down to `r nrow(by_beer)` observations and `r ncol(by_beer)` variables. 
+
+```{r byBreweryGrouping, cache = TRUE}
+by_brewery <- ba %>%
+  group_by(brewery_name) %>%
+  summarize(beers = length(unique(beer_name)), # TODO: Make a json
+            beers_id = length(unique(beer_beerid)), # TODO: Make a json
+            n_beers = length(unique(beer_name)),
+            mean_overall = mean(review_overall),
+            mean_aroma = mean(review_aroma),
+            mean_appearance = mean(review_appearance),
+            mean_palate = mean(review_palate),
+            mean_taste = mean(review_taste),
+            n_reviews = length(brewery_name)) %>%
+  filter(n_beers >= 5)
+
+write.csv(by_brewery, "data/byBrewery.csv")
+
+knitr::kable(sample_n(by_brewery, 10))
+```
+
+After grouping reviews from beers at the same brewery, and removing breweries with <5 beers, we are now down to `r nrow(by_brewery)` observations and `r ncol(by_brewery)` variables. 
