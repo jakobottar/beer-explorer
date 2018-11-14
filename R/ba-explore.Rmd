@@ -120,8 +120,8 @@ After grouping reviews of the same beer, and removing beers with <5 reviews, we 
 ```{r byBreweryGrouping, cache = TRUE}
 by_brewery <- ba %>%
   group_by(brewery_name) %>%
-  summarize(beers = length(unique(beer_name)), # TODO: Make a json
-            beers_id = length(unique(beer_beerid)), # TODO: Make a json
+  summarize(beers = jsonlite::toJSON(unique(beer_name)), 
+            beers_id = jsonlite::toJSON(as.character(unique(beer_beerid))), 
             n_beers = length(unique(beer_name)),
             mean_overall = mean(review_overall),
             mean_aroma = mean(review_aroma),
