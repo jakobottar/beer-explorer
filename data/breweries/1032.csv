@@ -1,277 +1,181 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1032,"Five Seasons Prado",1044278312,4,3,4.5,"Extra Special / Strong Bitter (ESB)",4.5,3.5,"Copperhead ESB",NA,4146
-"2",1032,"Five Seasons Prado",1167589475,4,4,4,"American Double / Imperial IPA",3,3.5,"GFYPA",NA,29659
-"3",1032,"Five Seasons Prado",1154529642,4,4,4,"American Double / Imperial IPA",4,4.5,"GFYPA",NA,29659
-"4",1032,"Five Seasons Prado",1174862363,3.5,2.5,4,"Kölsch",4,4,"Kounterfeit Kölsch",NA,4189
-"5",1032,"Five Seasons Prado",1201479091,5,4.5,5,"Dubbel",5,4.5,"Delerium Dubbel",NA,4194
-"6",1032,"Five Seasons Prado",1182728039,4.5,4,5,"German Pilsener",5,4.5,"Phoenix Pils",NA,4193
-"7",1032,"Five Seasons Prado",1304383116,4,4.5,4,"American IPA",3,4,"Hopgasm",6.5,45891
-"8",1032,"Five Seasons Prado",1193616334,5,4.5,5,"American Porter",5,5,"Blackbird Porter",NA,4187
-"9",1032,"Five Seasons Prado",1319414170,4,3.5,3.5,"American Pale Lager",4,4,"Hop To Conclusion",5.5,74403
-"10",1032,"Five Seasons Prado",1182490285,3,3.5,3.5,"German Pilsener",3,2.5,"Phoenix Pils",NA,4193
-"11",1032,"Five Seasons Prado",1319303982,4.5,3.5,4,"American Pale Lager",4,4,"Hop To Conclusion",5.5,74403
-"12",1032,"Five Seasons Prado",1304382599,4,3.5,4.5,"Dubbel",5,4,"Lumbergh Dubbel",10,65015
-"13",1032,"Five Seasons Prado",1302886846,3,3.5,4,"Dubbel",3.5,3.5,"Lumbergh Dubbel",10,65015
-"14",1032,"Five Seasons Prado",1298852590,4.5,4,5,"Dubbel",4,4.5,"Lumbergh Dubbel",10,65015
-"15",1032,"Five Seasons Prado",1294091842,4,4,4,"Dubbel",4.5,4.5,"Lumbergh Dubbel",10,65015
-"16",1032,"Five Seasons Prado",1315616378,4,4,4,"Scottish Ale",4,4.5,"Kilt Lifter Scotch Ale",8,45832
-"17",1032,"Five Seasons Prado",1309715935,4.5,3.5,4,"Scottish Ale",4,4.5,"Kilt Lifter Scotch Ale",8,45832
-"18",1032,"Five Seasons Prado",1307291230,3.5,3,3,"Scottish Ale",4,3.5,"Kilt Lifter Scotch Ale",8,45832
-"19",1032,"Five Seasons Prado",1297737262,4,4,4,"Scottish Ale",4,3.5,"Kilt Lifter Scotch Ale",8,45832
-"20",1032,"Five Seasons Prado",1166818418,4,4,4,"Belgian Pale Ale",4,4,"Afterglow Flanders Blonde",7.6,18455
-"21",1032,"Five Seasons Prado",1239553879,3.5,3,4,"Scottish Ale",4,4,"Kilt Lifter Scotch Ale",8,45832
-"22",1032,"Five Seasons Prado",1239497769,3.5,3.5,4,"Scottish Ale",3.5,4,"Kilt Lifter Scotch Ale",8,45832
-"23",1032,"Five Seasons Prado",1226269853,4.5,4,4.5,"Scottish Ale",5,4.5,"Kilt Lifter Scotch Ale",8,45832
-"24",1032,"Five Seasons Prado",1317051803,3.5,3.5,4.5,"Hefeweizen",4,3.5,"Humdinger Hefeweizen",4.5,71363
-"25",1032,"Five Seasons Prado",1312383190,3.5,4,3.5,"Hefeweizen",4,4,"Humdinger Hefeweizen",4.5,71363
-"26",1032,"Five Seasons Prado",1311551343,3.5,3.5,4.5,"Hefeweizen",4,3.5,"Humdinger Hefeweizen",4.5,71363
-"27",1032,"Five Seasons Prado",1244835757,4,4,3.5,"Witbier",4,4,"Belgian Wit",NA,10555
-"28",1032,"Five Seasons Prado",1190592116,4.5,4.5,4.5,"Witbier",4.5,4.5,"Belgian Wit",NA,10555
-"29",1032,"Five Seasons Prado",1171144815,4,4,3.5,"Witbier",3.5,4,"Belgian Wit",NA,10555
-"30",1032,"Five Seasons Prado",1056236857,5,3,4,"Witbier",4,3.5,"Belgian Wit",NA,10555
-"31",1032,"Five Seasons Prado",1280708490,4,4,4,"Irish Dry Stout",3.5,4,"Dodgey's Dry Irish Stout",NA,7479
-"32",1032,"Five Seasons Prado",1228376483,4,3.5,4,"Irish Dry Stout",3.5,4,"Dodgey's Dry Irish Stout",NA,7479
-"33",1032,"Five Seasons Prado",1187497843,4,4,4,"Irish Dry Stout",4,4,"Dodgey's Dry Irish Stout",NA,7479
-"34",1032,"Five Seasons Prado",1182728620,4.5,4.5,5,"Irish Dry Stout",4.5,4.5,"Dodgey's Dry Irish Stout",NA,7479
-"35",1032,"Five Seasons Prado",1182491184,2,3,3.5,"Irish Dry Stout",4,1,"Dodgey's Dry Irish Stout",NA,7479
-"36",1032,"Five Seasons Prado",1039381112,4,3,5,"Irish Dry Stout",5,3.5,"Dodgey's Dry Irish Stout",NA,7479
-"37",1032,"Five Seasons Prado",1280708630,4.5,4.5,3.5,"Tripel",4.5,4.5,"Long Strange Triple",8,51012
-"38",1032,"Five Seasons Prado",1247109202,4,4,4.5,"Tripel",4,4.5,"Long Strange Triple",8,51012
-"39",1032,"Five Seasons Prado",1219707079,3.5,4,4.5,"English Barleywine",3.5,4,"Blackfriars Barleywine",11.5,44530
-"40",1032,"Five Seasons Prado",1022797037,4,4,3.5,"Dunkelweizen",3.5,3.5,"Dunkelweizen",NA,3933
-"41",1032,"Five Seasons Prado",1305813738,3.5,3,4,"English Dark Mild Ale",4,3.5,"Brave Sir Robin's English Mild",4.5,66296
-"42",1032,"Five Seasons Prado",1298851722,4.5,4,4,"English Dark Mild Ale",4.5,4.5,"Brave Sir Robin's English Mild",4.5,66296
-"43",1032,"Five Seasons Prado",1297737225,4.5,4,4,"English Dark Mild Ale",4,4.5,"Brave Sir Robin's English Mild",4.5,66296
-"44",1032,"Five Seasons Prado",1310476456,2,2.5,3,"Irish Red Ale",3,1.5,"O'Dempsey's Big Red",5,53837
-"45",1032,"Five Seasons Prado",1306549741,3.5,4,4,"Irish Red Ale",3.5,3.5,"O'Dempsey's Big Red",5,53837
-"46",1032,"Five Seasons Prado",1257085537,4,4,4,"Irish Red Ale",4,4,"O'Dempsey's Big Red",5,53837
-"47",1032,"Five Seasons Prado",1211225038,4,4,4,"Maibock / Helles Bock",4,4,"Me262 Maibock",NA,3934
-"48",1032,"Five Seasons Prado",1180403379,4.5,4,5,"Maibock / Helles Bock",4.5,4.5,"Me262 Maibock",NA,3934
-"49",1032,"Five Seasons Prado",1116541007,4,4,4,"Maibock / Helles Bock",4,4,"Me262 Maibock",NA,3934
-"50",1032,"Five Seasons Prado",1022797279,4,4,3,"Maibock / Helles Bock",3,3.5,"Me262 Maibock",NA,3934
-"51",1032,"Five Seasons Prado",1289850083,4,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
-"52",1032,"Five Seasons Prado",1254098113,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",NA,52029
-"53",1032,"Five Seasons Prado",1253310336,3.5,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
-"54",1032,"Five Seasons Prado",1252171099,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Farmhouse Ale",NA,52029
-"55",1032,"Five Seasons Prado",1250875545,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
-"56",1032,"Five Seasons Prado",1284302919,3.5,3,4,"American Pale Ale (APA)",3.5,4,"Damage Control",5,60432
-"57",1032,"Five Seasons Prado",1280708679,4,4,4,"American Pale Ale (APA)",4,4,"Damage Control",5,60432
-"58",1032,"Five Seasons Prado",1280104725,4,4,4,"American Pale Ale (APA)",4.5,4,"Damage Control",5,60432
-"59",1032,"Five Seasons Prado",1232395664,4,3.5,3.5,"Belgian Dark Ale",4,4,"Kartoon Brune",NA,14245
-"60",1032,"Five Seasons Prado",1232058803,4,4,3.5,"Belgian Dark Ale",4,4,"Kartoon Brune",NA,14245
-"61",1032,"Five Seasons Prado",1227488775,4.5,4.5,4.5,"Belgian Dark Ale",5,4.5,"Kartoon Brune",NA,14245
-"62",1032,"Five Seasons Prado",1225800801,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Kartoon Brune",NA,14245
-"63",1032,"Five Seasons Prado",1171511211,4.5,4.5,4,"Belgian Dark Ale",5,4.5,"Kartoon Brune",NA,14245
-"64",1032,"Five Seasons Prado",1154047341,4.5,4,4,"Belgian Dark Ale",4.5,4.5,"Kartoon Brune",NA,14245
-"65",1032,"Five Seasons Prado",1145288415,3.5,3.5,3,"Belgian Dark Ale",4,3.5,"Kartoon Brune",NA,14245
-"66",1032,"Five Seasons Prado",1145280127,4,4,4.5,"Belgian Dark Ale",4.5,4.5,"Kartoon Brune",NA,14245
-"67",1032,"Five Seasons Prado",1068959171,4.5,4.5,4,"Belgian Dark Ale",4,4.5,"Kartoon Brune",NA,14245
-"68",1032,"Five Seasons Prado",1305143720,4,4.5,3.5,"Scotch Ale / Wee Heavy",4,4,"AAAH... Bacon! Scotch Ale",8,68961
-"69",1032,"Five Seasons Prado",1317225423,4,4,3.5,"Maibock / Helles Bock",3.5,4,"Maibock",8,69668
-"70",1032,"Five Seasons Prado",1307459024,3.5,4,3.5,"Maibock / Helles Bock",4,4,"Maibock",8,69668
-"71",1032,"Five Seasons Prado",1307061574,3.5,4,4,"Maibock / Helles Bock",4,3.5,"Maibock",8,69668
-"72",1032,"Five Seasons Prado",1287967927,4,4,4,"Belgian Pale Ale",4,4.5,"Afterglow Flanders Blonde",7.6,18455
-"73",1032,"Five Seasons Prado",1225800656,4,4,4,"Belgian Pale Ale",4,4,"Afterglow Flanders Blonde",7.6,18455
-"74",1032,"Five Seasons Prado",1088746899,4,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Afterglow Flanders Blonde",7.6,18455
-"75",1032,"Five Seasons Prado",1317223506,4,3.5,4,"Märzen / Oktoberfest",4,4,"Seven Sisters Münchner",NA,3932
-"76",1032,"Five Seasons Prado",1270241500,4.5,3.5,4.5,"Märzen / Oktoberfest",4.5,4,"Seven Sisters Münchner",NA,3932
-"77",1032,"Five Seasons Prado",1253310119,4,3.5,4,"Märzen / Oktoberfest",5,4,"Seven Sisters Münchner",NA,3932
-"78",1032,"Five Seasons Prado",1217348459,4,4,4,"Märzen / Oktoberfest",4,3.5,"Seven Sisters Münchner",NA,3932
-"79",1032,"Five Seasons Prado",1202572170,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Seven Sisters Münchner",NA,3932
-"80",1032,"Five Seasons Prado",1182490712,2.5,3,3,"Märzen / Oktoberfest",5,2.5,"Seven Sisters Münchner",NA,3932
-"81",1032,"Five Seasons Prado",1180720732,3,2.5,3.5,"Märzen / Oktoberfest",3.5,2.5,"Seven Sisters Münchner",NA,3932
-"82",1032,"Five Seasons Prado",1174072724,4.5,4,4,"Märzen / Oktoberfest",3.5,4,"Seven Sisters Münchner",NA,3932
-"83",1032,"Five Seasons Prado",1167080933,5,3.5,5,"Märzen / Oktoberfest",4.5,4,"Seven Sisters Münchner",NA,3932
-"84",1032,"Five Seasons Prado",1142479669,4.5,3,3,"Märzen / Oktoberfest",3.5,4,"Seven Sisters Münchner",NA,3932
-"85",1032,"Five Seasons Prado",1141792461,2,3,3,"Märzen / Oktoberfest",2.5,3,"Seven Sisters Münchner",NA,3932
-"86",1032,"Five Seasons Prado",1113185485,4,3.5,4,"Märzen / Oktoberfest",3.5,3,"Seven Sisters Münchner",NA,3932
-"87",1032,"Five Seasons Prado",1109317725,2.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Seven Sisters Münchner",NA,3932
-"88",1032,"Five Seasons Prado",1022796888,4.5,2.5,3,"Märzen / Oktoberfest",3,3,"Seven Sisters Münchner",NA,3932
-"89",1032,"Five Seasons Prado",1078604361,4,4,4,"Bock",3.5,4.5,"Kidd Bock",NA,16361
-"90",1032,"Five Seasons Prado",1233349567,3,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3.5,"Copperhead ESB",NA,4146
-"91",1032,"Five Seasons Prado",1221859700,4,4.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Copperhead ESB",NA,4146
-"92",1032,"Five Seasons Prado",1174862696,4,2.5,5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Copperhead ESB",NA,4146
-"93",1032,"Five Seasons Prado",1141793792,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Copperhead ESB",NA,4146
-"94",1032,"Five Seasons Prado",1077622272,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3,4,"Copperhead ESB",NA,4146
-"95",1032,"Five Seasons Prado",1144241577,3.5,5,4,"American Double / Imperial IPA",4,4.5,"GFYPA",NA,29659
-"96",1032,"Five Seasons Prado",1253310635,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"285 Gridlock ESB",5,52030
-"97",1032,"Five Seasons Prado",1251068278,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"285 Gridlock ESB",5,52030
-"98",1032,"Five Seasons Prado",1250876450,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"285 Gridlock ESB",5,52030
-"99",1032,"Five Seasons Prado",1270240979,4,3.5,4,"Irish Dry Stout",3.5,4,"No Blarney Stout",5.5,57159
-"100",1032,"Five Seasons Prado",1269816040,4.5,4.5,5,"Irish Dry Stout",4,4.5,"No Blarney Stout",5.5,57159
-"101",1032,"Five Seasons Prado",1217348184,4.5,4,4.5,"Bock",4,4.5,"Transcendental Bock",NA,4195
-"102",1032,"Five Seasons Prado",1238163002,3,3,4,"Irish Red Ale",3,3.5,"McNerney's Irish Red",5,48736
-"103",1032,"Five Seasons Prado",1238077627,4,4,4.5,"Irish Red Ale",4.5,4,"McNerney's Irish Red",5,48736
-"104",1032,"Five Seasons Prado",1317015225,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,4184
-"105",1032,"Five Seasons Prado",1085623877,4,3.5,4,"German Pilsener",4,3.5,"Phoenix Pils",NA,4193
-"106",1032,"Five Seasons Prado",1286234313,3.5,3.5,4,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
-"107",1032,"Five Seasons Prado",1253309765,3,3.5,3.5,"Munich Helles Lager",4,3,"Munich Helles",NA,4184
-"108",1032,"Five Seasons Prado",1228376201,3.5,3,3,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
-"109",1032,"Five Seasons Prado",1202572490,4,3,3.5,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
-"110",1032,"Five Seasons Prado",1192760815,2,2,3,"Munich Helles Lager",3,2,"Munich Helles",NA,4184
-"111",1032,"Five Seasons Prado",1172448329,4,4,4,"Munich Helles Lager",4.5,4,"Munich Helles",NA,4184
-"112",1032,"Five Seasons Prado",1167263873,4.5,4,4,"Munich Helles Lager",4.5,4.5,"Munich Helles",NA,4184
-"113",1032,"Five Seasons Prado",1162687214,3.5,4,3.5,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
-"114",1032,"Five Seasons Prado",1145288196,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,4184
-"115",1032,"Five Seasons Prado",1109317508,1.5,2.5,3,"Munich Helles Lager",2.5,1.5,"Munich Helles",NA,4184
-"116",1032,"Five Seasons Prado",1066680454,3,3,3.5,"Munich Helles Lager",3,3,"Munich Helles",NA,4184
-"117",1032,"Five Seasons Prado",1053250827,4.5,3.5,3,"Munich Helles Lager",3.5,4,"Munich Helles",NA,4184
-"118",1032,"Five Seasons Prado",1044277764,4.5,3,3.5,"Munich Helles Lager",3.5,4,"Munich Helles",NA,4184
-"119",1032,"Five Seasons Prado",1142359714,3.5,3,4,"Kölsch",3,3,"Kounterfeit Kölsch",NA,4189
-"120",1032,"Five Seasons Prado",1141791796,2.5,3,3,"Kölsch",3,2.5,"Kounterfeit Kölsch",NA,4189
-"121",1032,"Five Seasons Prado",1083808881,3.5,3,3,"Kölsch",3.5,3.5,"Kounterfeit Kölsch",NA,4189
-"122",1032,"Five Seasons Prado",1324675984,4,3.5,4.5,"Scotch Ale / Wee Heavy",4,4.5,"Redneck Reindeer",NA,65014
-"123",1032,"Five Seasons Prado",1294091613,4.5,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Redneck Reindeer",NA,65014
-"124",1032,"Five Seasons Prado",1254098569,4.5,4,4.5,"Fruit / Vegetable Beer",4.5,4.5,"Barrel Aged Raspberry TruffAle",NA,51763
-"125",1032,"Five Seasons Prado",1252169995,4,4.5,4,"Fruit / Vegetable Beer",4,4,"Barrel Aged Raspberry TruffAle",NA,51763
-"126",1032,"Five Seasons Prado",1249872102,4,4.5,3.5,"Fruit / Vegetable Beer",4,4.5,"Barrel Aged Raspberry TruffAle",NA,51763
-"127",1032,"Five Seasons Prado",1113185696,4,3,4,"American IPA",4.5,3,"Lionheart Pale Ale",NA,4185
-"128",1032,"Five Seasons Prado",1111028548,4,3.5,4,"American IPA",4,3.5,"Lionheart Pale Ale",NA,4185
-"129",1032,"Five Seasons Prado",1109317284,3,2.5,3,"American IPA",3,2.5,"Lionheart Pale Ale",NA,4185
-"130",1032,"Five Seasons Prado",1066680210,3.5,3,3.5,"American IPA",3,2.5,"Lionheart Pale Ale",NA,4185
-"131",1032,"Five Seasons Prado",1063778114,4,3,4,"American IPA",3,3,"Lionheart Pale Ale",NA,4185
-"132",1032,"Five Seasons Prado",1185157074,4,4.5,4,"American IPA",4,4,"Spiney Norman IPA",NA,15315
-"133",1032,"Five Seasons Prado",1141794325,4,4,3.5,"American IPA",3.5,3.5,"Spiney Norman IPA",NA,15315
-"134",1032,"Five Seasons Prado",1073544355,4,4,5,"American IPA",4,4,"Spiney Norman IPA",NA,15315
-"135",1032,"Five Seasons Prado",1199541592,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
-"136",1032,"Five Seasons Prado",1142819952,3.5,4,4,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
-"137",1032,"Five Seasons Prado",1138562458,4,4,4,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
-"138",1032,"Five Seasons Prado",1134167034,4,5,4.5,"American Pale Ale (APA)",4,4.5,"Big Hoppy Monster",NA,4196
-"139",1032,"Five Seasons Prado",1066680660,3.5,3,3,"American Pale Ale (APA)",3,3,"Big Hoppy Monster",NA,4196
-"140",1032,"Five Seasons Prado",1053250603,4,4.5,4,"American Pale Ale (APA)",3,4,"Big Hoppy Monster",NA,4196
-"141",1032,"Five Seasons Prado",1052529291,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Big Hoppy Monster",NA,4196
-"142",1032,"Five Seasons Prado",1210602685,4,3,4,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"143",1032,"Five Seasons Prado",1194030602,3.5,3,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"144",1032,"Five Seasons Prado",1182491632,4,4.5,3.5,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"145",1032,"Five Seasons Prado",1180404304,4.5,3.5,4.5,"Scotch Ale / Wee Heavy",4.5,5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"146",1032,"Five Seasons Prado",1167264354,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"147",1032,"Five Seasons Prado",1156529115,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"148",1032,"Five Seasons Prado",1113186155,4,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"149",1032,"Five Seasons Prado",1022796710,4.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
-"150",1032,"Five Seasons Prado",1228375906,4,3.5,4,"Märzen / Oktoberfest",4,4,"Bavarian Ecstasy Festbier",NA,4192
-"151",1032,"Five Seasons Prado",1193615878,4.5,4,4.5,"Märzen / Oktoberfest",5,4.5,"Bavarian Ecstasy Festbier",NA,4192
-"152",1032,"Five Seasons Prado",1233349906,4,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",NA,4148
-"153",1032,"Five Seasons Prado",1192760633,5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Bavarian Ecstasy Festbier",NA,4192
-"154",1032,"Five Seasons Prado",1064789897,4,3.5,5,"Märzen / Oktoberfest",4,3.5,"Bavarian Ecstasy Festbier",NA,4192
-"155",1032,"Five Seasons Prado",1324252011,4.5,4,5,"Scotch Ale / Wee Heavy",4.5,4.5,"Bourbon Trail Scotch Ale",8,47660
-"156",1032,"Five Seasons Prado",1235660869,4,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Bourbon Trail Scotch Ale",8,47660
-"157",1032,"Five Seasons Prado",1233619288,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Bourbon Trail Scotch Ale",8,47660
-"158",1032,"Five Seasons Prado",1233529322,3.5,4,4,"Scotch Ale / Wee Heavy",3,3.5,"Bourbon Trail Scotch Ale",8,47660
-"159",1032,"Five Seasons Prado",1087436942,3.5,3,4,"Altbier",3.5,3.5,"Düsseldorf Alt",NA,4191
-"160",1032,"Five Seasons Prado",1061090500,4,3.5,4,"Altbier",3.5,3.5,"Düsseldorf Alt",NA,4191
-"161",1032,"Five Seasons Prado",1105850988,4,4,3.5,"English Brown Ale",2.5,4,"Nut Brown Ale",NA,4148
-"162",1032,"Five Seasons Prado",1066023050,4,3.5,3,"English Brown Ale",4,4,"Nut Brown Ale",NA,4148
-"163",1032,"Five Seasons Prado",1317053943,3.5,3.5,4,"Czech Pilsener",3.5,3,"Happy Pils",4.5,61632
-"164",1032,"Five Seasons Prado",1288495683,4,3.5,3.5,"Czech Pilsener",4,4,"Happy Pils",4.5,61632
-"165",1032,"Five Seasons Prado",1286203775,4.5,4,4,"Czech Pilsener",4,4.5,"Happy Pils",4.5,61632
-"166",1032,"Five Seasons Prado",1283787536,4.5,4,4,"Czech Pilsener",4,4,"Happy Pils",4.5,61632
-"167",1032,"Five Seasons Prado",1200241803,4,4,4,"American Pale Ale (APA)",3.5,4,"Sledgehammer West Coast Ale",NA,4186
-"168",1032,"Five Seasons Prado",1178119735,3.5,3,3.5,"American Pale Ale (APA)",3.5,4,"Sledgehammer West Coast Ale",NA,4186
-"169",1032,"Five Seasons Prado",1177285990,4.5,3.5,5,"American Pale Ale (APA)",4.5,4.5,"Sledgehammer West Coast Ale",NA,4186
-"170",1032,"Five Seasons Prado",1171144359,3,3,3,"American Pale Ale (APA)",3,2.5,"Sledgehammer West Coast Ale",NA,4186
-"171",1032,"Five Seasons Prado",1167264124,4,3.5,4,"American Pale Ale (APA)",4,4,"Sledgehammer West Coast Ale",NA,4186
-"172",1032,"Five Seasons Prado",1113185947,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Sledgehammer West Coast Ale",NA,4186
-"173",1032,"Five Seasons Prado",1056297734,4,4,3,"American Pale Ale (APA)",4,3.5,"Sledgehammer West Coast Ale",NA,4186
-"174",1032,"Five Seasons Prado",1217348596,4.5,4.5,4.5,"Quadrupel (Quad)",4.5,5,"Quinte55ence",11.4,37867
-"175",1032,"Five Seasons Prado",1194099316,3,4,3,"Quadrupel (Quad)",3.5,4,"Quinte55ence",11.4,37867
-"176",1032,"Five Seasons Prado",1185196355,4.5,3.5,3.5,"Quadrupel (Quad)",4,4.5,"Quinte55ence",11.4,37867
-"177",1032,"Five Seasons Prado",1219439525,4.5,4.5,4.5,"Oatmeal Stout",4,5,"Imperial Coffee Oatmeal Stout",NA,41800
-"178",1032,"Five Seasons Prado",1212634229,5,4.5,4.5,"Oatmeal Stout",5,4.5,"Imperial Coffee Oatmeal Stout",NA,41800
-"179",1032,"Five Seasons Prado",1207333958,4,4,4,"Oatmeal Stout",4.5,4.5,"Imperial Coffee Oatmeal Stout",NA,41800
-"180",1032,"Five Seasons Prado",1206491929,5,5,5,"Oatmeal Stout",4.5,4.5,"Imperial Coffee Oatmeal Stout",NA,41800
-"181",1032,"Five Seasons Prado",1101161325,3.5,4,4,"Tripel",4,5,"West Mall Tripel",9.4,20879
-"182",1032,"Five Seasons Prado",1244833663,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Abbey Winter Wheat",NA,47704
-"183",1032,"Five Seasons Prado",1234651704,3.5,4,4.5,"Belgian Strong Dark Ale",3.5,3.5,"Abbey Winter Wheat",NA,47704
-"184",1032,"Five Seasons Prado",1233631101,4.5,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Abbey Winter Wheat",NA,47704
-"185",1032,"Five Seasons Prado",1217348340,4,4,4,"English Strong Ale",4,4,"Big \""O\"" Strong Ale",NA,35464
-"186",1032,"Five Seasons Prado",1172448148,4.5,4.5,4.5,"English Strong Ale",4.5,4.5,"Big \""O\"" Strong Ale",NA,35464
-"187",1032,"Five Seasons Prado",1172447612,4.5,3,4.5,"Bock",4.5,4.5,"Big Horn Bock",NA,4147
-"188",1032,"Five Seasons Prado",1077621694,4.5,4,4,"Bock",3.5,4,"Big Horn Bock",NA,4147
-"189",1032,"Five Seasons Prado",1044279294,4,3.5,4,"Bock",4,4,"Big Horn Bock",NA,4147
-"190",1032,"Five Seasons Prado",1244829554,4,3.5,4,"Tripel",3.5,4,"Classic Tripel",10.2,18454
-"191",1032,"Five Seasons Prado",1225800997,4,4,4,"Tripel",4,4.5,"Classic Tripel",10.2,18454
-"192",1032,"Five Seasons Prado",1222653144,4,4,5,"Tripel",4.5,4,"Classic Tripel",10.2,18454
-"193",1032,"Five Seasons Prado",1109316997,3,2.5,3,"Tripel",3,3,"West Mall Tripel",9.4,20879
-"194",1032,"Five Seasons Prado",1194399850,4,3.5,4,"Tripel",4,4,"Classic Tripel",10.2,18454
-"195",1032,"Five Seasons Prado",1193752525,4,4,4,"Tripel",4,4,"Classic Tripel",10.2,18454
-"196",1032,"Five Seasons Prado",1175565785,4,4,4,"Tripel",4,4,"Classic Tripel",10.2,18454
-"197",1032,"Five Seasons Prado",1143403725,3.5,4,3.5,"Tripel",3.5,3.5,"Classic Tripel",10.2,18454
-"198",1032,"Five Seasons Prado",1141795302,3.5,4,3.5,"Tripel",3.5,3.5,"Classic Tripel",10.2,18454
-"199",1032,"Five Seasons Prado",1088746390,4,3.5,3.5,"Tripel",4,4,"Classic Tripel",10.2,18454
-"200",1032,"Five Seasons Prado",1230056134,4,4,4,"Tripel",4,3.5,"West Mall Tripel",9.4,20879
-"201",1032,"Five Seasons Prado",1227490424,5,4.5,5,"Tripel",5,5,"West Mall Tripel",9.4,20879
-"202",1032,"Five Seasons Prado",1171510796,5,5,4.5,"Tripel",5,4.5,"West Mall Tripel",9.4,20879
-"203",1032,"Five Seasons Prado",1140802888,3.5,3.5,4,"Tripel",4,4.5,"West Mall Tripel",9.4,20879
-"204",1032,"Five Seasons Prado",1284301593,3.5,4,4,"Hefeweizen",3,3.5,"Big Blonde HefeWeizen",NA,4190
-"205",1032,"Five Seasons Prado",1187498195,4.5,3.5,3,"Hefeweizen",4.5,4.5,"Big Blonde HefeWeizen",NA,4190
-"206",1032,"Five Seasons Prado",1182728274,4.5,4,4.5,"Hefeweizen",4.5,4.5,"Big Blonde HefeWeizen",NA,4190
-"207",1032,"Five Seasons Prado",1182489918,3.5,4,3,"Hefeweizen",3.5,3.5,"Big Blonde HefeWeizen",NA,4190
-"208",1032,"Five Seasons Prado",1150745445,4,4.5,4,"Hefeweizen",4,4.5,"Big Blonde HefeWeizen",NA,4190
-"209",1032,"Five Seasons Prado",1061089929,4.5,3.5,3,"Hefeweizen",4.5,4,"Big Blonde HefeWeizen",NA,4190
-"210",1032,"Five Seasons Prado",1060366476,3,3.5,3,"Hefeweizen",3,3,"Big Blonde HefeWeizen",NA,4190
-"211",1032,"Five Seasons Prado",1227490708,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Bob's Gnarley WIne",12,28834
-"212",1032,"Five Seasons Prado",1189458424,4,4,4,"American Barleywine",4.5,4,"Bob's Gnarley WIne",12,28834
-"213",1032,"Five Seasons Prado",1167589318,4,4,5,"American Barleywine",4,3.5,"Bob's Gnarley WIne",12,28834
-"214",1032,"Five Seasons Prado",1153847945,3.5,4,4,"American Barleywine",4,4,"Bob's Gnarley WIne",12,28834
-"215",1032,"Five Seasons Prado",1141795669,4,3.5,3.5,"American Barleywine",3.5,3.5,"Bob's Gnarley WIne",12,28834
-"216",1032,"Five Seasons Prado",1200240563,4,4,4,"Dubbel",4.5,4.5,"Delerium Dubbel",NA,4194
-"217",1032,"Five Seasons Prado",1141794949,4,3.5,4,"Dubbel",4,3.5,"Delerium Dubbel",NA,4194
-"218",1032,"Five Seasons Prado",1141656900,4,4,4,"Dubbel",4,4,"Delerium Dubbel",NA,4194
-"219",1032,"Five Seasons Prado",1140374383,3.5,3,4,"Dubbel",4,4,"Delerium Dubbel",NA,4194
-"220",1032,"Five Seasons Prado",1138761768,3.5,2.5,3.5,"Dubbel",3,3,"Delerium Dubbel",NA,4194
-"221",1032,"Five Seasons Prado",1107591550,4.5,5,4,"Dubbel",4,5,"Delerium Dubbel",NA,4194
-"222",1032,"Five Seasons Prado",1105849690,3,3,3,"Dubbel",3,3,"Delerium Dubbel",NA,4194
-"223",1032,"Five Seasons Prado",1073543990,4,4,4,"Dubbel",3.5,4.5,"Delerium Dubbel",NA,4194
-"224",1032,"Five Seasons Prado",1317293564,4.5,4.5,4,"American IPA",4,4.5,"Hopgasm",6.5,45891
-"225",1032,"Five Seasons Prado",1314468244,4.5,4.5,4,"American IPA",4,4.5,"Hopgasm",6.5,45891
-"226",1032,"Five Seasons Prado",1310014980,4.5,4,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
-"227",1032,"Five Seasons Prado",1297570852,5,5,5,"American IPA",5,5,"Hopgasm",6.5,45891
-"228",1032,"Five Seasons Prado",1271113996,5,4.5,4.5,"American IPA",5,4.5,"Hopgasm",6.5,45891
-"229",1032,"Five Seasons Prado",1255302557,4.5,4.5,4.5,"American IPA",4,4.5,"Hopgasm",6.5,45891
-"230",1032,"Five Seasons Prado",1254339581,4.5,4,4,"American IPA",4,4,"Hopgasm",6.5,45891
-"231",1032,"Five Seasons Prado",1253310902,4,4.5,3.5,"American IPA",4,4,"Hopgasm",6.5,45891
-"232",1032,"Five Seasons Prado",1242958903,4.5,4,4,"American IPA",4.5,4,"Hopgasm",6.5,45891
-"233",1032,"Five Seasons Prado",1239505603,4,4,4,"American IPA",3.5,4,"Hopgasm",6.5,45891
-"234",1032,"Five Seasons Prado",1234652008,4,5,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
-"235",1032,"Five Seasons Prado",1232398641,4,4.5,4,"American IPA",4.5,4,"Hopgasm",6.5,45891
-"236",1032,"Five Seasons Prado",1232370804,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
-"237",1032,"Five Seasons Prado",1180720172,4,4,4,"American Stout",4.5,4.5,"Wired Straight Stout",NA,21590
-"238",1032,"Five Seasons Prado",1232058156,4.5,4.5,4.5,"American IPA",4,4.5,"Hopgasm",6.5,45891
-"239",1032,"Five Seasons Prado",1230052488,4.5,4,4,"American IPA",4,4,"Hopgasm",6.5,45891
-"240",1032,"Five Seasons Prado",1226547116,4.5,4.5,5,"American IPA",5,4.5,"Hopgasm",6.5,45891
-"241",1032,"Five Seasons Prado",1100040094,4.5,3,3.5,"Herbed / Spiced Beer",3,3.5,"Witches Brew",NA,20695
-"242",1032,"Five Seasons Prado",1233946748,3,3,3.5,"California Common / Steam Beer",4,3.5,"InaugurAle",5,47557
-"243",1032,"Five Seasons Prado",1233095112,3.5,3.5,4,"California Common / Steam Beer",4,3.5,"InaugurAle",5,47557
-"244",1032,"Five Seasons Prado",1254341498,4,4,4,"California Common / Steam Beer",4,4,"Stimulus Package",4.5,50009
-"245",1032,"Five Seasons Prado",1252171569,4,3.5,4,"California Common / Steam Beer",4,4,"Stimulus Package",4.5,50009
-"246",1032,"Five Seasons Prado",1244832189,3.5,4,4,"California Common / Steam Beer",3.5,4,"Stimulus Package",4.5,50009
-"247",1032,"Five Seasons Prado",1243208293,4,3.5,4,"California Common / Steam Beer",4.5,4,"Stimulus Package",4.5,50009
-"248",1032,"Five Seasons Prado",1177286456,4.5,5,5,"American Stout",4.5,4,"Wired Straight Stout",NA,21590
-"249",1032,"Five Seasons Prado",1106530908,4,4,4,"American Stout",4,4.5,"Wired Straight Stout",NA,21590
-"250",1032,"Five Seasons Prado",1106527564,4,4,4,"American Stout",4,3.5,"Wired Straight Stout",NA,21590
-"251",1032,"Five Seasons Prado",1105848900,3,3.5,3,"American Stout",3.5,3.5,"Wired Straight Stout",NA,21590
-"252",1032,"Five Seasons Prado",1280708434,4.5,4,4,"Cream Ale",4,4,"Chug Monkey Cream Ale",NA,41799
-"253",1032,"Five Seasons Prado",1207330348,4.5,3.5,4,"Cream Ale",4,4,"Chug Monkey Cream Ale",NA,41799
-"254",1032,"Five Seasons Prado",1206491399,4,4,4.5,"Cream Ale",4,4.5,"Chug Monkey Cream Ale",NA,41799
-"255",1032,"Five Seasons Prado",1232934125,3.5,4,4.5,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry TruffAle",NA,47398
-"256",1032,"Five Seasons Prado",1232391952,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"Raspberry TruffAle",NA,47398
-"257",1032,"Five Seasons Prado",1294091874,4,4,4,"English Porter",4,4,"Two Pence Porter",5,55642
-"258",1032,"Five Seasons Prado",1265741537,4.5,4,4,"English Porter",4.5,4,"Two Pence Porter",5,55642
-"259",1032,"Five Seasons Prado",1264377909,4,4,4.5,"English Porter",4.5,4,"Two Pence Porter",5,55642
-"260",1032,"Five Seasons Prado",1268164805,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Flanders Golden Ale",NA,28115
-"261",1032,"Five Seasons Prado",1241668806,5,4,4,"Belgian Strong Pale Ale",3.5,4.5,"Flanders Golden Ale",NA,28115
-"262",1032,"Five Seasons Prado",1217348789,4.5,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
-"263",1032,"Five Seasons Prado",1185156765,5,5,5,"Belgian Strong Pale Ale",4.5,4.5,"Flanders Golden Ale",NA,28115
-"264",1032,"Five Seasons Prado",1178120149,3,4,4,"Belgian Strong Pale Ale",2.5,3.5,"Flanders Golden Ale",NA,28115
-"265",1032,"Five Seasons Prado",1167589401,3.5,3.5,3,"Belgian Strong Pale Ale",4,3.5,"Flanders Golden Ale",NA,28115
-"266",1032,"Five Seasons Prado",1141790891,3.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Flanders Golden Ale",NA,28115
-"267",1032,"Five Seasons Prado",1141656318,4.5,5,4.5,"Belgian Strong Pale Ale",4.5,5,"Flanders Golden Ale",NA,28115
-"268",1032,"Five Seasons Prado",1140466075,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
-"269",1032,"Five Seasons Prado",1138761131,4.5,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
-"270",1032,"Five Seasons Prado",1321840595,4,4,4.5,"Dunkelweizen",4,4.5,"Slam Dunkel",5.5,75569
-"271",1032,"Five Seasons Prado",1243204825,4.5,5,4.5,"Maibock / Helles Bock",4,4.5,"It's Maibock",7,50007
-"272",1032,"Five Seasons Prado",1187497567,4.5,4,4,"German Pilsener",4,4,"Phoenix Pils",NA,4193
-"273",1032,"Five Seasons Prado",1192761068,3,3.5,4,"American Porter",3,4.5,"Blackbird Porter",NA,4187
-"274",1032,"Five Seasons Prado",1162686750,3.5,4,4,"American Porter",3.5,4,"Blackbird Porter",NA,4187
-"275",1032,"Five Seasons Prado",1087437248,4,4,4,"American Porter",4,4,"Blackbird Porter",NA,4187
-"276",1032,"Five Seasons Prado",1044278032,4,3,4,"American Porter",4,3.5,"Blackbird Porter",NA,4187
+"2",1032,"Five Seasons Prado",1201479091,5,4.5,5,"Dubbel",5,4.5,"Delerium Dubbel",NA,4194
+"3",1032,"Five Seasons Prado",1304383116,4,4.5,4,"American IPA",3,4,"Hopgasm",6.5,45891
+"4",1032,"Five Seasons Prado",1193616334,5,4.5,5,"American Porter",5,5,"Blackbird Porter",NA,4187
+"5",1032,"Five Seasons Prado",1315616378,4,4,4,"Scottish Ale",4,4.5,"Kilt Lifter Scotch Ale",8,45832
+"6",1032,"Five Seasons Prado",1309715935,4.5,3.5,4,"Scottish Ale",4,4.5,"Kilt Lifter Scotch Ale",8,45832
+"7",1032,"Five Seasons Prado",1307291230,3.5,3,3,"Scottish Ale",4,3.5,"Kilt Lifter Scotch Ale",8,45832
+"8",1032,"Five Seasons Prado",1297737262,4,4,4,"Scottish Ale",4,3.5,"Kilt Lifter Scotch Ale",8,45832
+"9",1032,"Five Seasons Prado",1239553879,3.5,3,4,"Scottish Ale",4,4,"Kilt Lifter Scotch Ale",8,45832
+"10",1032,"Five Seasons Prado",1239497769,3.5,3.5,4,"Scottish Ale",3.5,4,"Kilt Lifter Scotch Ale",8,45832
+"11",1032,"Five Seasons Prado",1226269853,4.5,4,4.5,"Scottish Ale",5,4.5,"Kilt Lifter Scotch Ale",8,45832
+"12",1032,"Five Seasons Prado",1244835757,4,4,3.5,"Witbier",4,4,"Belgian Wit",NA,10555
+"13",1032,"Five Seasons Prado",1190592116,4.5,4.5,4.5,"Witbier",4.5,4.5,"Belgian Wit",NA,10555
+"14",1032,"Five Seasons Prado",1171144815,4,4,3.5,"Witbier",3.5,4,"Belgian Wit",NA,10555
+"15",1032,"Five Seasons Prado",1056236857,5,3,4,"Witbier",4,3.5,"Belgian Wit",NA,10555
+"16",1032,"Five Seasons Prado",1280708490,4,4,4,"Irish Dry Stout",3.5,4,"Dodgey's Dry Irish Stout",NA,7479
+"17",1032,"Five Seasons Prado",1228376483,4,3.5,4,"Irish Dry Stout",3.5,4,"Dodgey's Dry Irish Stout",NA,7479
+"18",1032,"Five Seasons Prado",1187497843,4,4,4,"Irish Dry Stout",4,4,"Dodgey's Dry Irish Stout",NA,7479
+"19",1032,"Five Seasons Prado",1182728620,4.5,4.5,5,"Irish Dry Stout",4.5,4.5,"Dodgey's Dry Irish Stout",NA,7479
+"20",1032,"Five Seasons Prado",1182491184,2,3,3.5,"Irish Dry Stout",4,1,"Dodgey's Dry Irish Stout",NA,7479
+"21",1032,"Five Seasons Prado",1039381112,4,3,5,"Irish Dry Stout",5,3.5,"Dodgey's Dry Irish Stout",NA,7479
+"22",1032,"Five Seasons Prado",1022797037,4,4,3.5,"Dunkelweizen",3.5,3.5,"Dunkelweizen",NA,3933
+"23",1032,"Five Seasons Prado",1289850083,4,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
+"24",1032,"Five Seasons Prado",1254098113,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",NA,52029
+"25",1032,"Five Seasons Prado",1253310336,3.5,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
+"26",1032,"Five Seasons Prado",1252171099,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Farmhouse Ale",NA,52029
+"27",1032,"Five Seasons Prado",1250875545,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Farmhouse Ale",NA,52029
+"28",1032,"Five Seasons Prado",1232395664,4,3.5,3.5,"Belgian Dark Ale",4,4,"Kartoon Brune",NA,14245
+"29",1032,"Five Seasons Prado",1232058803,4,4,3.5,"Belgian Dark Ale",4,4,"Kartoon Brune",NA,14245
+"30",1032,"Five Seasons Prado",1227488775,4.5,4.5,4.5,"Belgian Dark Ale",5,4.5,"Kartoon Brune",NA,14245
+"31",1032,"Five Seasons Prado",1225800801,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Kartoon Brune",NA,14245
+"32",1032,"Five Seasons Prado",1171511211,4.5,4.5,4,"Belgian Dark Ale",5,4.5,"Kartoon Brune",NA,14245
+"33",1032,"Five Seasons Prado",1154047341,4.5,4,4,"Belgian Dark Ale",4.5,4.5,"Kartoon Brune",NA,14245
+"34",1032,"Five Seasons Prado",1145288415,3.5,3.5,3,"Belgian Dark Ale",4,3.5,"Kartoon Brune",NA,14245
+"35",1032,"Five Seasons Prado",1145280127,4,4,4.5,"Belgian Dark Ale",4.5,4.5,"Kartoon Brune",NA,14245
+"36",1032,"Five Seasons Prado",1068959171,4.5,4.5,4,"Belgian Dark Ale",4,4.5,"Kartoon Brune",NA,14245
+"37",1032,"Five Seasons Prado",1317225423,4,4,3.5,"Maibock / Helles Bock",3.5,4,"Maibock",8,69668
+"38",1032,"Five Seasons Prado",1307459024,3.5,4,3.5,"Maibock / Helles Bock",4,4,"Maibock",8,69668
+"39",1032,"Five Seasons Prado",1307061574,3.5,4,4,"Maibock / Helles Bock",4,3.5,"Maibock",8,69668
+"40",1032,"Five Seasons Prado",1317223506,4,3.5,4,"Märzen / Oktoberfest",4,4,"Seven Sisters Münchner",NA,3932
+"41",1032,"Five Seasons Prado",1270241500,4.5,3.5,4.5,"Märzen / Oktoberfest",4.5,4,"Seven Sisters Münchner",NA,3932
+"42",1032,"Five Seasons Prado",1253310119,4,3.5,4,"Märzen / Oktoberfest",5,4,"Seven Sisters Münchner",NA,3932
+"43",1032,"Five Seasons Prado",1217348459,4,4,4,"Märzen / Oktoberfest",4,3.5,"Seven Sisters Münchner",NA,3932
+"44",1032,"Five Seasons Prado",1202572170,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Seven Sisters Münchner",NA,3932
+"45",1032,"Five Seasons Prado",1182490712,2.5,3,3,"Märzen / Oktoberfest",5,2.5,"Seven Sisters Münchner",NA,3932
+"46",1032,"Five Seasons Prado",1180720732,3,2.5,3.5,"Märzen / Oktoberfest",3.5,2.5,"Seven Sisters Münchner",NA,3932
+"47",1032,"Five Seasons Prado",1174072724,4.5,4,4,"Märzen / Oktoberfest",3.5,4,"Seven Sisters Münchner",NA,3932
+"48",1032,"Five Seasons Prado",1167080933,5,3.5,5,"Märzen / Oktoberfest",4.5,4,"Seven Sisters Münchner",NA,3932
+"49",1032,"Five Seasons Prado",1142479669,4.5,3,3,"Märzen / Oktoberfest",3.5,4,"Seven Sisters Münchner",NA,3932
+"50",1032,"Five Seasons Prado",1141792461,2,3,3,"Märzen / Oktoberfest",2.5,3,"Seven Sisters Münchner",NA,3932
+"51",1032,"Five Seasons Prado",1113185485,4,3.5,4,"Märzen / Oktoberfest",3.5,3,"Seven Sisters Münchner",NA,3932
+"52",1032,"Five Seasons Prado",1109317725,2.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Seven Sisters Münchner",NA,3932
+"53",1032,"Five Seasons Prado",1022796888,4.5,2.5,3,"Märzen / Oktoberfest",3,3,"Seven Sisters Münchner",NA,3932
+"54",1032,"Five Seasons Prado",1233349567,3,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3.5,"Copperhead ESB",NA,4146
+"55",1032,"Five Seasons Prado",1221859700,4,4.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Copperhead ESB",NA,4146
+"56",1032,"Five Seasons Prado",1174862696,4,2.5,5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Copperhead ESB",NA,4146
+"57",1032,"Five Seasons Prado",1141793792,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Copperhead ESB",NA,4146
+"58",1032,"Five Seasons Prado",1077622272,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3,4,"Copperhead ESB",NA,4146
+"59",1032,"Five Seasons Prado",1317015225,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,4184
+"60",1032,"Five Seasons Prado",1286234313,3.5,3.5,4,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
+"61",1032,"Five Seasons Prado",1253309765,3,3.5,3.5,"Munich Helles Lager",4,3,"Munich Helles",NA,4184
+"62",1032,"Five Seasons Prado",1228376201,3.5,3,3,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
+"63",1032,"Five Seasons Prado",1202572490,4,3,3.5,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
+"64",1032,"Five Seasons Prado",1192760815,2,2,3,"Munich Helles Lager",3,2,"Munich Helles",NA,4184
+"65",1032,"Five Seasons Prado",1172448329,4,4,4,"Munich Helles Lager",4.5,4,"Munich Helles",NA,4184
+"66",1032,"Five Seasons Prado",1167263873,4.5,4,4,"Munich Helles Lager",4.5,4.5,"Munich Helles",NA,4184
+"67",1032,"Five Seasons Prado",1162687214,3.5,4,3.5,"Munich Helles Lager",4,3.5,"Munich Helles",NA,4184
+"68",1032,"Five Seasons Prado",1145288196,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,4184
+"69",1032,"Five Seasons Prado",1109317508,1.5,2.5,3,"Munich Helles Lager",2.5,1.5,"Munich Helles",NA,4184
+"70",1032,"Five Seasons Prado",1066680454,3,3,3.5,"Munich Helles Lager",3,3,"Munich Helles",NA,4184
+"71",1032,"Five Seasons Prado",1053250827,4.5,3.5,3,"Munich Helles Lager",3.5,4,"Munich Helles",NA,4184
+"72",1032,"Five Seasons Prado",1044277764,4.5,3,3.5,"Munich Helles Lager",3.5,4,"Munich Helles",NA,4184
+"73",1032,"Five Seasons Prado",1113185696,4,3,4,"American IPA",4.5,3,"Lionheart Pale Ale",NA,4185
+"74",1032,"Five Seasons Prado",1111028548,4,3.5,4,"American IPA",4,3.5,"Lionheart Pale Ale",NA,4185
+"75",1032,"Five Seasons Prado",1109317284,3,2.5,3,"American IPA",3,2.5,"Lionheart Pale Ale",NA,4185
+"76",1032,"Five Seasons Prado",1066680210,3.5,3,3.5,"American IPA",3,2.5,"Lionheart Pale Ale",NA,4185
+"77",1032,"Five Seasons Prado",1063778114,4,3,4,"American IPA",3,3,"Lionheart Pale Ale",NA,4185
+"78",1032,"Five Seasons Prado",1199541592,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
+"79",1032,"Five Seasons Prado",1142819952,3.5,4,4,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
+"80",1032,"Five Seasons Prado",1138562458,4,4,4,"American Pale Ale (APA)",4,4,"Big Hoppy Monster",NA,4196
+"81",1032,"Five Seasons Prado",1134167034,4,5,4.5,"American Pale Ale (APA)",4,4.5,"Big Hoppy Monster",NA,4196
+"82",1032,"Five Seasons Prado",1066680660,3.5,3,3,"American Pale Ale (APA)",3,3,"Big Hoppy Monster",NA,4196
+"83",1032,"Five Seasons Prado",1053250603,4,4.5,4,"American Pale Ale (APA)",3,4,"Big Hoppy Monster",NA,4196
+"84",1032,"Five Seasons Prado",1052529291,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Big Hoppy Monster",NA,4196
+"85",1032,"Five Seasons Prado",1210602685,4,3,4,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"86",1032,"Five Seasons Prado",1194030602,3.5,3,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"87",1032,"Five Seasons Prado",1182491632,4,4.5,3.5,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"88",1032,"Five Seasons Prado",1180404304,4.5,3.5,4.5,"Scotch Ale / Wee Heavy",4.5,5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"89",1032,"Five Seasons Prado",1167264354,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"90",1032,"Five Seasons Prado",1156529115,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"91",1032,"Five Seasons Prado",1113186155,4,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"92",1032,"Five Seasons Prado",1022796710,4.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Glenkevin Wee Heavy Scotch Ale",NA,3931
+"93",1032,"Five Seasons Prado",1233349906,4,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",NA,4148
+"94",1032,"Five Seasons Prado",1105850988,4,4,3.5,"English Brown Ale",2.5,4,"Nut Brown Ale",NA,4148
+"95",1032,"Five Seasons Prado",1066023050,4,3.5,3,"English Brown Ale",4,4,"Nut Brown Ale",NA,4148
+"96",1032,"Five Seasons Prado",1317053943,3.5,3.5,4,"Czech Pilsener",3.5,3,"Happy Pils",4.5,61632
+"97",1032,"Five Seasons Prado",1288495683,4,3.5,3.5,"Czech Pilsener",4,4,"Happy Pils",4.5,61632
+"98",1032,"Five Seasons Prado",1286203775,4.5,4,4,"Czech Pilsener",4,4.5,"Happy Pils",4.5,61632
+"99",1032,"Five Seasons Prado",1283787536,4.5,4,4,"Czech Pilsener",4,4,"Happy Pils",4.5,61632
+"100",1032,"Five Seasons Prado",1200241803,4,4,4,"American Pale Ale (APA)",3.5,4,"Sledgehammer West Coast Ale",NA,4186
+"101",1032,"Five Seasons Prado",1178119735,3.5,3,3.5,"American Pale Ale (APA)",3.5,4,"Sledgehammer West Coast Ale",NA,4186
+"102",1032,"Five Seasons Prado",1177285990,4.5,3.5,5,"American Pale Ale (APA)",4.5,4.5,"Sledgehammer West Coast Ale",NA,4186
+"103",1032,"Five Seasons Prado",1171144359,3,3,3,"American Pale Ale (APA)",3,2.5,"Sledgehammer West Coast Ale",NA,4186
+"104",1032,"Five Seasons Prado",1167264124,4,3.5,4,"American Pale Ale (APA)",4,4,"Sledgehammer West Coast Ale",NA,4186
+"105",1032,"Five Seasons Prado",1113185947,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Sledgehammer West Coast Ale",NA,4186
+"106",1032,"Five Seasons Prado",1056297734,4,4,3,"American Pale Ale (APA)",4,3.5,"Sledgehammer West Coast Ale",NA,4186
+"107",1032,"Five Seasons Prado",1217348596,4.5,4.5,4.5,"Quadrupel (Quad)",4.5,5,"Quinte55ence",11.4,37867
+"108",1032,"Five Seasons Prado",1194099316,3,4,3,"Quadrupel (Quad)",3.5,4,"Quinte55ence",11.4,37867
+"109",1032,"Five Seasons Prado",1185196355,4.5,3.5,3.5,"Quadrupel (Quad)",4,4.5,"Quinte55ence",11.4,37867
+"110",1032,"Five Seasons Prado",1101161325,3.5,4,4,"Tripel",4,5,"West Mall Tripel",9.4,20879
+"111",1032,"Five Seasons Prado",1244829554,4,3.5,4,"Tripel",3.5,4,"Classic Tripel",10.2,18454
+"112",1032,"Five Seasons Prado",1225800997,4,4,4,"Tripel",4,4.5,"Classic Tripel",10.2,18454
+"113",1032,"Five Seasons Prado",1222653144,4,4,5,"Tripel",4.5,4,"Classic Tripel",10.2,18454
+"114",1032,"Five Seasons Prado",1109316997,3,2.5,3,"Tripel",3,3,"West Mall Tripel",9.4,20879
+"115",1032,"Five Seasons Prado",1194399850,4,3.5,4,"Tripel",4,4,"Classic Tripel",10.2,18454
+"116",1032,"Five Seasons Prado",1193752525,4,4,4,"Tripel",4,4,"Classic Tripel",10.2,18454
+"117",1032,"Five Seasons Prado",1175565785,4,4,4,"Tripel",4,4,"Classic Tripel",10.2,18454
+"118",1032,"Five Seasons Prado",1143403725,3.5,4,3.5,"Tripel",3.5,3.5,"Classic Tripel",10.2,18454
+"119",1032,"Five Seasons Prado",1141795302,3.5,4,3.5,"Tripel",3.5,3.5,"Classic Tripel",10.2,18454
+"120",1032,"Five Seasons Prado",1088746390,4,3.5,3.5,"Tripel",4,4,"Classic Tripel",10.2,18454
+"121",1032,"Five Seasons Prado",1230056134,4,4,4,"Tripel",4,3.5,"West Mall Tripel",9.4,20879
+"122",1032,"Five Seasons Prado",1227490424,5,4.5,5,"Tripel",5,5,"West Mall Tripel",9.4,20879
+"123",1032,"Five Seasons Prado",1171510796,5,5,4.5,"Tripel",5,4.5,"West Mall Tripel",9.4,20879
+"124",1032,"Five Seasons Prado",1140802888,3.5,3.5,4,"Tripel",4,4.5,"West Mall Tripel",9.4,20879
+"125",1032,"Five Seasons Prado",1284301593,3.5,4,4,"Hefeweizen",3,3.5,"Big Blonde HefeWeizen",NA,4190
+"126",1032,"Five Seasons Prado",1187498195,4.5,3.5,3,"Hefeweizen",4.5,4.5,"Big Blonde HefeWeizen",NA,4190
+"127",1032,"Five Seasons Prado",1182728274,4.5,4,4.5,"Hefeweizen",4.5,4.5,"Big Blonde HefeWeizen",NA,4190
+"128",1032,"Five Seasons Prado",1182489918,3.5,4,3,"Hefeweizen",3.5,3.5,"Big Blonde HefeWeizen",NA,4190
+"129",1032,"Five Seasons Prado",1150745445,4,4.5,4,"Hefeweizen",4,4.5,"Big Blonde HefeWeizen",NA,4190
+"130",1032,"Five Seasons Prado",1061089929,4.5,3.5,3,"Hefeweizen",4.5,4,"Big Blonde HefeWeizen",NA,4190
+"131",1032,"Five Seasons Prado",1060366476,3,3.5,3,"Hefeweizen",3,3,"Big Blonde HefeWeizen",NA,4190
+"132",1032,"Five Seasons Prado",1227490708,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Bob's Gnarley WIne",12,28834
+"133",1032,"Five Seasons Prado",1189458424,4,4,4,"American Barleywine",4.5,4,"Bob's Gnarley WIne",12,28834
+"134",1032,"Five Seasons Prado",1167589318,4,4,5,"American Barleywine",4,3.5,"Bob's Gnarley WIne",12,28834
+"135",1032,"Five Seasons Prado",1153847945,3.5,4,4,"American Barleywine",4,4,"Bob's Gnarley WIne",12,28834
+"136",1032,"Five Seasons Prado",1141795669,4,3.5,3.5,"American Barleywine",3.5,3.5,"Bob's Gnarley WIne",12,28834
+"137",1032,"Five Seasons Prado",1200240563,4,4,4,"Dubbel",4.5,4.5,"Delerium Dubbel",NA,4194
+"138",1032,"Five Seasons Prado",1141794949,4,3.5,4,"Dubbel",4,3.5,"Delerium Dubbel",NA,4194
+"139",1032,"Five Seasons Prado",1141656900,4,4,4,"Dubbel",4,4,"Delerium Dubbel",NA,4194
+"140",1032,"Five Seasons Prado",1140374383,3.5,3,4,"Dubbel",4,4,"Delerium Dubbel",NA,4194
+"141",1032,"Five Seasons Prado",1138761768,3.5,2.5,3.5,"Dubbel",3,3,"Delerium Dubbel",NA,4194
+"142",1032,"Five Seasons Prado",1107591550,4.5,5,4,"Dubbel",4,5,"Delerium Dubbel",NA,4194
+"143",1032,"Five Seasons Prado",1105849690,3,3,3,"Dubbel",3,3,"Delerium Dubbel",NA,4194
+"144",1032,"Five Seasons Prado",1073543990,4,4,4,"Dubbel",3.5,4.5,"Delerium Dubbel",NA,4194
+"145",1032,"Five Seasons Prado",1317293564,4.5,4.5,4,"American IPA",4,4.5,"Hopgasm",6.5,45891
+"146",1032,"Five Seasons Prado",1314468244,4.5,4.5,4,"American IPA",4,4.5,"Hopgasm",6.5,45891
+"147",1032,"Five Seasons Prado",1310014980,4.5,4,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
+"148",1032,"Five Seasons Prado",1297570852,5,5,5,"American IPA",5,5,"Hopgasm",6.5,45891
+"149",1032,"Five Seasons Prado",1271113996,5,4.5,4.5,"American IPA",5,4.5,"Hopgasm",6.5,45891
+"150",1032,"Five Seasons Prado",1255302557,4.5,4.5,4.5,"American IPA",4,4.5,"Hopgasm",6.5,45891
+"151",1032,"Five Seasons Prado",1254339581,4.5,4,4,"American IPA",4,4,"Hopgasm",6.5,45891
+"152",1032,"Five Seasons Prado",1253310902,4,4.5,3.5,"American IPA",4,4,"Hopgasm",6.5,45891
+"153",1032,"Five Seasons Prado",1242958903,4.5,4,4,"American IPA",4.5,4,"Hopgasm",6.5,45891
+"154",1032,"Five Seasons Prado",1239505603,4,4,4,"American IPA",3.5,4,"Hopgasm",6.5,45891
+"155",1032,"Five Seasons Prado",1234652008,4,5,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
+"156",1032,"Five Seasons Prado",1232398641,4,4.5,4,"American IPA",4.5,4,"Hopgasm",6.5,45891
+"157",1032,"Five Seasons Prado",1232370804,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hopgasm",6.5,45891
+"158",1032,"Five Seasons Prado",1180720172,4,4,4,"American Stout",4.5,4.5,"Wired Straight Stout",NA,21590
+"159",1032,"Five Seasons Prado",1232058156,4.5,4.5,4.5,"American IPA",4,4.5,"Hopgasm",6.5,45891
+"160",1032,"Five Seasons Prado",1230052488,4.5,4,4,"American IPA",4,4,"Hopgasm",6.5,45891
+"161",1032,"Five Seasons Prado",1226547116,4.5,4.5,5,"American IPA",5,4.5,"Hopgasm",6.5,45891
+"162",1032,"Five Seasons Prado",1177286456,4.5,5,5,"American Stout",4.5,4,"Wired Straight Stout",NA,21590
+"163",1032,"Five Seasons Prado",1106530908,4,4,4,"American Stout",4,4.5,"Wired Straight Stout",NA,21590
+"164",1032,"Five Seasons Prado",1106527564,4,4,4,"American Stout",4,3.5,"Wired Straight Stout",NA,21590
+"165",1032,"Five Seasons Prado",1105848900,3,3.5,3,"American Stout",3.5,3.5,"Wired Straight Stout",NA,21590
+"166",1032,"Five Seasons Prado",1268164805,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Flanders Golden Ale",NA,28115
+"167",1032,"Five Seasons Prado",1241668806,5,4,4,"Belgian Strong Pale Ale",3.5,4.5,"Flanders Golden Ale",NA,28115
+"168",1032,"Five Seasons Prado",1217348789,4.5,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
+"169",1032,"Five Seasons Prado",1185156765,5,5,5,"Belgian Strong Pale Ale",4.5,4.5,"Flanders Golden Ale",NA,28115
+"170",1032,"Five Seasons Prado",1178120149,3,4,4,"Belgian Strong Pale Ale",2.5,3.5,"Flanders Golden Ale",NA,28115
+"171",1032,"Five Seasons Prado",1167589401,3.5,3.5,3,"Belgian Strong Pale Ale",4,3.5,"Flanders Golden Ale",NA,28115
+"172",1032,"Five Seasons Prado",1141790891,3.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Flanders Golden Ale",NA,28115
+"173",1032,"Five Seasons Prado",1141656318,4.5,5,4.5,"Belgian Strong Pale Ale",4.5,5,"Flanders Golden Ale",NA,28115
+"174",1032,"Five Seasons Prado",1140466075,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
+"175",1032,"Five Seasons Prado",1138761131,4.5,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Flanders Golden Ale",NA,28115
+"176",1032,"Five Seasons Prado",1321840595,4,4,4.5,"Dunkelweizen",4,4.5,"Slam Dunkel",5.5,75569
+"177",1032,"Five Seasons Prado",1192761068,3,3.5,4,"American Porter",3,4.5,"Blackbird Porter",NA,4187
+"178",1032,"Five Seasons Prado",1162686750,3.5,4,4,"American Porter",3.5,4,"Blackbird Porter",NA,4187
+"179",1032,"Five Seasons Prado",1087437248,4,4,4,"American Porter",4,4,"Blackbird Porter",NA,4187
+"180",1032,"Five Seasons Prado",1044278032,4,3,4,"American Porter",4,3.5,"Blackbird Porter",NA,4187

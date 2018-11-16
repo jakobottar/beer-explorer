@@ -1,140 +1,93 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1412,"Red Rock Brewing Company",1030007637,2.5,3,3.5,"American Pale Wheat Ale",2,2,"Red Rock Honey Wheat Ale",4,5622
-"2",1412,"Red Rock Brewing Company",1145738896,3.5,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Cream Stout",4,30087
-"3",1412,"Red Rock Brewing Company",1157839025,4,4,4,"American Porter",4,4,"Red Rock Porter",4,3803
-"4",1412,"Red Rock Brewing Company",1022103880,4,3.5,4,"Rye Beer",3,3,"Roggen Rock",4,3789
-"5",1412,"Red Rock Brewing Company",1030128087,3.5,3.5,4,"Scottish Ale",2.5,3,"Red Rock Scottish Ale",4,5637
-"6",1412,"Red Rock Brewing Company",1232138174,4,3,4,"American Blonde Ale",3.5,3.5,"Red Rock Blonde Ale",4,20866
-"7",1412,"Red Rock Brewing Company",1114800302,4,4,4,"American Amber / Red Ale",3.5,4,"Red Rock Amber Ale",4,3787
-"8",1412,"Red Rock Brewing Company",1146874798,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Rock Pale Ale",4,3785
-"9",1412,"Red Rock Brewing Company",1022101599,4,3,4,"American Pale Ale (APA)",3,3,"Red Rock Pale Ale",4,3785
-"10",1412,"Red Rock Brewing Company",1146875049,3.5,3.5,3.5,"English Pale Mild Ale",3.5,3.5,"English Summer",4,30311
-"11",1412,"Red Rock Brewing Company",1251519898,2.5,3,4,"American Pale Wheat Ale",2.5,2,"Red Rock Hefeweizen",4,20863
-"12",1412,"Red Rock Brewing Company",1232138001,3.5,3,3.5,"American Pale Wheat Ale",3,3,"Red Rock Hefeweizen",4,20863
-"13",1412,"Red Rock Brewing Company",1324754540,4,3.5,4,"Milk / Sweet Stout",4,4,"Cream Stout",4,30087
-"14",1412,"Red Rock Brewing Company",1030008271,3.5,3.5,4,"Irish Red Ale",2.5,2,"Red Rock Irish Ale",4,5624
-"15",1412,"Red Rock Brewing Company",1232137814,3,3,3.5,"American Pale Wheat Ale",3,3,"Red Rock Honey Wheat Ale",4,5622
-"16",1412,"Red Rock Brewing Company",1316060884,4.5,3.5,4,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
-"17",1412,"Red Rock Brewing Company",1239902032,3,3,3,"English Brown Ale",2.5,3,"Red Rock Nut Brown Ale",4,20867
-"18",1412,"Red Rock Brewing Company",1176584925,3.5,3.5,3.5,"English Brown Ale",3,3.5,"Red Rock Nut Brown Ale",4,20867
-"19",1412,"Red Rock Brewing Company",1148768683,3,3,4,"English Brown Ale",3,2.5,"Red Rock Nut Brown Ale",4,20867
-"20",1412,"Red Rock Brewing Company",1146875248,4,3.5,4,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
-"21",1412,"Red Rock Brewing Company",1101079785,4.5,3.5,3.5,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
-"22",1412,"Red Rock Brewing Company",1263752539,1.5,2,3,"Rauchbier",2,2,"Rauch Bier",4,53370
-"23",1412,"Red Rock Brewing Company",1255491209,2,4.5,3.5,"Rauchbier",2.5,3,"Rauch Bier",4,53370
-"24",1412,"Red Rock Brewing Company",1030007959,1.5,2.5,3.5,"Vienna Lager",2.5,1,"Red Rock Vienna Lager",4,5623
-"25",1412,"Red Rock Brewing Company",1078983190,3.5,3.5,3,"California Common / Steam Beer",3,3.5,"Red Rock Steamer",4,16449
-"26",1412,"Red Rock Brewing Company",1063678909,3,2.5,3,"Irish Red Ale",3,3,"Red Rock Irish Ale",4,5624
-"27",1412,"Red Rock Brewing Company",1239901734,3,3,4,"Extra Special / Strong Bitter (ESB)",3,2.5,"Special Bitter",4,29917
-"28",1412,"Red Rock Brewing Company",1217828342,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Special Bitter",4,29917
-"29",1412,"Red Rock Brewing Company",1200456723,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Special Bitter",4,29917
-"30",1412,"Red Rock Brewing Company",1197307795,4.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Special Bitter",4,29917
-"31",1412,"Red Rock Brewing Company",1145135461,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Special Bitter",4,29917
-"32",1412,"Red Rock Brewing Company",1322107538,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Elephino",8,61131
-"33",1412,"Red Rock Brewing Company",1316149060,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Elephino",8,61131
-"34",1412,"Red Rock Brewing Company",1303872406,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
-"35",1412,"Red Rock Brewing Company",1301203950,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
-"36",1412,"Red Rock Brewing Company",1298254404,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
-"37",1412,"Red Rock Brewing Company",1101073769,4,3.5,3.5,"American Pale Wheat Ale",3.5,3,"Red Rock Honey Wheat Ale",4,5622
-"38",1412,"Red Rock Brewing Company",1298138156,3.5,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Elephino",8,61131
-"39",1412,"Red Rock Brewing Company",1297387703,4,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Elephino",8,61131
-"40",1412,"Red Rock Brewing Company",1291257240,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Elephino",8,61131
-"41",1412,"Red Rock Brewing Company",1290450128,4,4,4,"American Double / Imperial IPA",4,4,"Elephino",8,61131
-"42",1412,"Red Rock Brewing Company",1282445481,4.5,4,4,"American Double / Imperial IPA",4,4,"Elephino",8,61131
-"43",1412,"Red Rock Brewing Company",1282091617,4,4,4,"American Double / Imperial IPA",3.5,4,"Elephino",8,61131
-"44",1412,"Red Rock Brewing Company",1261689949,3.5,3.5,4,"Herbed / Spiced Beer",3.5,3.5,"Holiday Ale",4,54989
-"45",1412,"Red Rock Brewing Company",1239661455,1.5,3,2,"American IPA",3,2,"IPA Junior",4,17144
-"46",1412,"Red Rock Brewing Company",1217828211,4.5,3.5,4,"American IPA",4,4,"IPA Junior",4,17144
-"47",1412,"Red Rock Brewing Company",1157839204,4,4,4,"American IPA",4,4,"IPA Junior",4,17144
-"48",1412,"Red Rock Brewing Company",1082157128,3.5,3,3.5,"American IPA",3,3.5,"IPA Junior",4,17144
-"49",1412,"Red Rock Brewing Company",1271448296,2.5,3,3.5,"American Pale Wheat Ale",3,3,"Red Rock Honey Wheat Ale",4,5622
-"50",1412,"Red Rock Brewing Company",1101080008,4,3,4,"American Porter",4,4.5,"Red Rock Porter",4,3803
-"51",1412,"Red Rock Brewing Company",1022169081,3.5,3.5,3,"American Porter",2.5,3,"Red Rock Porter",4,3803
-"52",1412,"Red Rock Brewing Company",1232137649,3.5,4,4,"Witbier",3.5,3.5,"Belgian Wit",4,47312
-"53",1412,"Red Rock Brewing Company",1255490819,2,3,3,"Dubbel",2,2.5,"Abbey Ale",4,29916
-"54",1412,"Red Rock Brewing Company",1237825254,4,4.5,4,"Dubbel",4,3.5,"Abbey Ale",4,29916
-"55",1412,"Red Rock Brewing Company",1145135255,3.5,3,3,"Dubbel",3.5,3.5,"Abbey Ale",4,29916
-"56",1412,"Red Rock Brewing Company",1300647784,4,4,3.5,"American Blonde Ale",4,4.5,"Golden Halo",8,67381
-"57",1412,"Red Rock Brewing Company",1276309413,4.5,4,4,"Tripel",3.5,4,"Rêve",9,40874
-"58",1412,"Red Rock Brewing Company",1263158924,2,4,2.5,"Tripel",1.5,3,"Rêve",9,40874
-"59",1412,"Red Rock Brewing Company",1259030217,3,3,3,"Tripel",3,3.5,"Rêve",9,40874
-"60",1412,"Red Rock Brewing Company",1148768150,3.5,3.5,4,"Milk / Sweet Stout",4,3.5,"Cream Stout",4,30087
-"61",1412,"Red Rock Brewing Company",1254201573,4.5,4.5,4,"Tripel",4,4.5,"Rêve",9,40874
-"62",1412,"Red Rock Brewing Company",1254093367,3.5,4.5,4.5,"Tripel",4,4,"Rêve",9,40874
-"63",1412,"Red Rock Brewing Company",1249357484,4.5,4.5,4,"Tripel",5,4,"Rêve",9,40874
-"64",1412,"Red Rock Brewing Company",1248237931,4,4,4.5,"Tripel",4,4.5,"Rêve",9,40874
-"65",1412,"Red Rock Brewing Company",1246489785,4,4,3,"Tripel",4,3.5,"Rêve",9,40874
-"66",1412,"Red Rock Brewing Company",1245341337,4,3.5,4,"Tripel",4,4,"Rêve",9,40874
-"67",1412,"Red Rock Brewing Company",1243211751,4,4,4,"Tripel",3.5,4.5,"Rêve",9,40874
-"68",1412,"Red Rock Brewing Company",1240961566,4.5,4,4.5,"Tripel",3.5,4.5,"Rêve",9,40874
-"69",1412,"Red Rock Brewing Company",1238637233,3.5,4.5,4,"Tripel",3.5,4,"Rêve",9,40874
-"70",1412,"Red Rock Brewing Company",1238474563,4,4,4.5,"Tripel",4.5,4,"Rêve",9,40874
-"71",1412,"Red Rock Brewing Company",1237952304,3,4,4,"Tripel",3.5,3.5,"Rêve",9,40874
-"72",1412,"Red Rock Brewing Company",1237365733,4,4.5,4.5,"Tripel",4,4.5,"Rêve",9,40874
-"73",1412,"Red Rock Brewing Company",1237184632,3.5,4.5,4.5,"Tripel",3.5,4,"Rêve",9,40874
-"74",1412,"Red Rock Brewing Company",1236911172,4.5,4,4,"Tripel",4.5,4.5,"Rêve",9,40874
-"75",1412,"Red Rock Brewing Company",1235402740,4,4.5,4,"Tripel",4.5,4.5,"Rêve",9,40874
-"76",1412,"Red Rock Brewing Company",1202164063,5,5,5,"Tripel",5,5,"Rêve",9,40874
-"77",1412,"Red Rock Brewing Company",1163312544,4.5,3,3.5,"Munich Dunkel Lager",5,4.5,"Munich Dunkel",4,30086
-"78",1412,"Red Rock Brewing Company",1145738595,3.5,3,3.5,"Munich Dunkel Lager",3,3.5,"Munich Dunkel",4,30086
-"79",1412,"Red Rock Brewing Company",1255490959,3.5,4,4,"Rye Beer",3,3.5,"Roggen Rock",4,3789
-"80",1412,"Red Rock Brewing Company",1251519745,4,3.5,4,"Rye Beer",3,3,"Roggen Rock",4,3789
-"81",1412,"Red Rock Brewing Company",1222304113,4,3,3.5,"Rye Beer",3.5,3.5,"Roggen Rock",4,3789
-"82",1412,"Red Rock Brewing Company",1082156906,3.5,3.5,3,"Rye Beer",3,3.5,"Roggen Rock",4,3789
-"83",1412,"Red Rock Brewing Company",1101079043,3.5,3.5,4,"American Blonde Ale",3.5,3.5,"Red Rock Blonde Ale",4,20866
-"84",1412,"Red Rock Brewing Company",1114798226,3.5,4.5,4,"Hefeweizen",3.5,4.5,"Red Rock Bavarian Weiss",4,3788
-"85",1412,"Red Rock Brewing Company",1062286483,3.5,3,3.5,"Hefeweizen",2.5,3,"Red Rock Bavarian Weiss",4,3788
-"86",1412,"Red Rock Brewing Company",1033651371,2.5,2.5,3.5,"Hefeweizen",2.5,1.5,"Red Rock Bavarian Weiss",4,3788
-"87",1412,"Red Rock Brewing Company",1030007859,0,2,0,"Hefeweizen",2.5,2,"Red Rock Bavarian Weiss",4,3788
-"88",1412,"Red Rock Brewing Company",1022103350,3.5,3,4,"Hefeweizen",2.5,3,"Red Rock Bavarian Weiss",4,3788
-"89",1412,"Red Rock Brewing Company",1258838517,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Harvest Ale",4,54278
-"90",1412,"Red Rock Brewing Company",1251520070,3,3,4,"American Amber / Red Ale",3,2.5,"Red Rock Amber Ale",4,3787
-"91",1412,"Red Rock Brewing Company",1239901200,2,2.5,3,"American Amber / Red Ale",2.5,2,"Red Rock Amber Ale",4,3787
-"92",1412,"Red Rock Brewing Company",1229370229,4.5,5,4.5,"American Amber / Red Ale",3,4.5,"Red Rock Amber Ale",4,3787
-"93",1412,"Red Rock Brewing Company",1216230245,4,4,4,"American Amber / Red Ale",3.5,4,"Red Rock Amber Ale",4,3787
-"94",1412,"Red Rock Brewing Company",1214605282,1,2,4,"American Amber / Red Ale",1,1,"Red Rock Amber Ale",4,3787
-"95",1412,"Red Rock Brewing Company",1202503877,3.5,3,4,"American Amber / Red Ale",3,3.5,"Red Rock Amber Ale",4,3787
-"96",1412,"Red Rock Brewing Company",1101079368,4.5,4,4,"American Amber / Red Ale",3,4,"Red Rock Amber Ale",4,3787
-"97",1412,"Red Rock Brewing Company",1063678804,3,2.5,4,"American Amber / Red Ale",3,2.5,"Red Rock Amber Ale",4,3787
-"98",1412,"Red Rock Brewing Company",1030008142,0,3,0,"American Amber / Red Ale",2.5,3.5,"Red Rock Amber Ale",4,3787
-"99",1412,"Red Rock Brewing Company",1022102883,4,4,4,"American Amber / Red Ale",3.5,3,"Red Rock Amber Ale",4,3787
-"100",1412,"Red Rock Brewing Company",1255490696,2.5,4,4,"Oatmeal Stout",2,2,"Red Rock Oatmeal Stout",4,5638
-"101",1412,"Red Rock Brewing Company",1237825412,3.5,4,3.5,"Oatmeal Stout",3.5,2.5,"Red Rock Oatmeal Stout",4,5638
-"102",1412,"Red Rock Brewing Company",1202503670,3,3,4,"Oatmeal Stout",3,3,"Red Rock Oatmeal Stout",4,5638
-"103",1412,"Red Rock Brewing Company",1197307581,3,3,3.5,"Oatmeal Stout",3.5,3,"Red Rock Oatmeal Stout",4,5638
-"104",1412,"Red Rock Brewing Company",1158531539,4,4,4.5,"Oatmeal Stout",3.5,3.5,"Red Rock Oatmeal Stout",4,5638
-"105",1412,"Red Rock Brewing Company",1101083871,3.5,3.5,4,"Oatmeal Stout",3.5,3,"Red Rock Oatmeal Stout",4,5638
-"106",1412,"Red Rock Brewing Company",1062285994,3,3,3,"Oatmeal Stout",3,3,"Red Rock Oatmeal Stout",4,5638
-"107",1412,"Red Rock Brewing Company",1030128186,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Red Rock Oatmeal Stout",4,5638
-"108",1412,"Red Rock Brewing Company",1210569454,4,4,4.5,"American Pale Ale (APA)",3,5,"Red Rock Pale Ale",4,3785
-"109",1412,"Red Rock Brewing Company",1205025091,3,3,3.5,"American Pale Ale (APA)",4,3,"Red Rock Pale Ale",4,3785
-"110",1412,"Red Rock Brewing Company",1297314792,3.5,4.5,4,"Belgian Strong Pale Ale",4,4,"Paardebloem",8.8,54974
-"111",1412,"Red Rock Brewing Company",1261608650,4.5,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Paardebloem",8.8,54974
-"112",1412,"Red Rock Brewing Company",1296754336,4.5,4.5,4.5,"German Pilsener",4,4.5,"Red Rock Pilsner",4,3822
-"113",1412,"Red Rock Brewing Company",1255203162,4,3.5,4,"German Pilsener",3.5,4,"Red Rock Pilsner",4,3822
-"114",1412,"Red Rock Brewing Company",1216229763,4.5,4,4,"German Pilsener",4.5,4,"Red Rock Pilsner",4,3822
-"115",1412,"Red Rock Brewing Company",1205024277,4,4,4,"German Pilsener",3.5,4,"Red Rock Pilsner",4,3822
-"116",1412,"Red Rock Brewing Company",1101075829,4,2.5,3.5,"German Pilsener",3.5,3.5,"Red Rock Pilsner",4,3822
-"117",1412,"Red Rock Brewing Company",1062286256,3.5,3,2.5,"German Pilsener",2.5,3,"Red Rock Pilsner",4,3822
-"118",1412,"Red Rock Brewing Company",1030007737,0,2,0,"German Pilsener",3,1.5,"Red Rock Pilsner",4,3822
-"119",1412,"Red Rock Brewing Company",1022212600,3.5,3.5,2.5,"German Pilsener",3,3,"Red Rock Pilsner",4,3822
-"120",1412,"Red Rock Brewing Company",1324610314,4.5,3.5,4.5,"Saison / Farmhouse Ale",4,4,"Le Quatre",6.2,72339
-"121",1412,"Red Rock Brewing Company",1101076299,3,2.5,3.5,"American Pale Wheat Ale",3,3,"Red Rock Hefeweizen",4,20863
-"122",1412,"Red Rock Brewing Company",1317001581,4,4,5,"Saison / Farmhouse Ale",4.5,4,"Le Quatre",6.2,72339
-"123",1412,"Red Rock Brewing Company",1313969786,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Le Quatre",6.2,72339
-"124",1412,"Red Rock Brewing Company",1255202484,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Autumn Fest",4,53278
-"125",1412,"Red Rock Brewing Company",1145135658,3,2.5,3,"English Pale Mild Ale",2.5,3,"Red Rock English Mild",4,20865
-"126",1412,"Red Rock Brewing Company",1101105167,4.5,4,4,"English Pale Mild Ale",3.5,2.5,"Red Rock English Mild",4,20865
-"127",1412,"Red Rock Brewing Company",1101078653,3,3.5,4.5,"English Pale Mild Ale",4,3,"Red Rock English Mild",4,20865
-"128",1412,"Red Rock Brewing Company",1239902260,3.5,3,3.5,"American IPA",3,3.5,"India Dark",4,43713
-"129",1412,"Red Rock Brewing Company",1216290521,3.5,3.5,4,"American IPA",3.5,3,"India Dark",4,43713
-"130",1412,"Red Rock Brewing Company",1215972355,3.5,3.5,4,"American IPA",3.5,3.5,"India Dark",4,43713
-"131",1412,"Red Rock Brewing Company",1030008039,0,2,0,"Dunkelweizen",2.5,2,"Red Rock Dunkel Weizen",4,3786
-"132",1412,"Red Rock Brewing Company",1022102511,3.5,3,2.5,"Dunkelweizen",2.5,3,"Red Rock Dunkel Weizen",4,3786
-"133",1412,"Red Rock Brewing Company",1320646328,4,4,4.5,"Schwarzbier",4,4,"Black Bier",4,53279
-"134",1412,"Red Rock Brewing Company",1255202814,4,3.5,4,"Schwarzbier",3.5,4,"Black Bier",4,53279
-"135",1412,"Red Rock Brewing Company",1291178234,3.5,3.5,4.5,"Herbed / Spiced Beer",3.5,4,"Griswald's Big Holiday",8.5,63742
-"136",1412,"Red Rock Brewing Company",1291086985,4.5,4.5,2.5,"Herbed / Spiced Beer",3.5,4,"Griswald's Big Holiday",8.5,63742
-"137",1412,"Red Rock Brewing Company",1290370040,4,3.5,3.5,"Herbed / Spiced Beer",3.5,4,"Griswald's Big Holiday",8.5,63742
-"138",1412,"Red Rock Brewing Company",1022104204,3.5,3,4,"American Stout",3,3.5,"Red Rock Stout",4,3790
-"139",1412,"Red Rock Brewing Company",1324754315,3.5,3.5,4,"California Common / Steam Beer",3,3.5,"Steamer",4,76654
+"1",1412,"Red Rock Brewing Company",1145738896,3.5,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Cream Stout",4,30087
+"2",1412,"Red Rock Brewing Company",1022103880,4,3.5,4,"Rye Beer",3,3,"Roggen Rock",4,3789
+"3",1412,"Red Rock Brewing Company",1114800302,4,4,4,"American Amber / Red Ale",3.5,4,"Red Rock Amber Ale",4,3787
+"4",1412,"Red Rock Brewing Company",1324754540,4,3.5,4,"Milk / Sweet Stout",4,4,"Cream Stout",4,30087
+"5",1412,"Red Rock Brewing Company",1316060884,4.5,3.5,4,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
+"6",1412,"Red Rock Brewing Company",1239902032,3,3,3,"English Brown Ale",2.5,3,"Red Rock Nut Brown Ale",4,20867
+"7",1412,"Red Rock Brewing Company",1176584925,3.5,3.5,3.5,"English Brown Ale",3,3.5,"Red Rock Nut Brown Ale",4,20867
+"8",1412,"Red Rock Brewing Company",1148768683,3,3,4,"English Brown Ale",3,2.5,"Red Rock Nut Brown Ale",4,20867
+"9",1412,"Red Rock Brewing Company",1146875248,4,3.5,4,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
+"10",1412,"Red Rock Brewing Company",1101079785,4.5,3.5,3.5,"English Brown Ale",4,4,"Red Rock Nut Brown Ale",4,20867
+"11",1412,"Red Rock Brewing Company",1263752539,1.5,2,3,"Rauchbier",2,2,"Rauch Bier",4,53370
+"12",1412,"Red Rock Brewing Company",1255491209,2,4.5,3.5,"Rauchbier",2.5,3,"Rauch Bier",4,53370
+"13",1412,"Red Rock Brewing Company",1239901734,3,3,4,"Extra Special / Strong Bitter (ESB)",3,2.5,"Special Bitter",4,29917
+"14",1412,"Red Rock Brewing Company",1217828342,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Special Bitter",4,29917
+"15",1412,"Red Rock Brewing Company",1200456723,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Special Bitter",4,29917
+"16",1412,"Red Rock Brewing Company",1197307795,4.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Special Bitter",4,29917
+"17",1412,"Red Rock Brewing Company",1145135461,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Special Bitter",4,29917
+"18",1412,"Red Rock Brewing Company",1322107538,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Elephino",8,61131
+"19",1412,"Red Rock Brewing Company",1316149060,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Elephino",8,61131
+"20",1412,"Red Rock Brewing Company",1303872406,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
+"21",1412,"Red Rock Brewing Company",1301203950,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
+"22",1412,"Red Rock Brewing Company",1298254404,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Elephino",8,61131
+"23",1412,"Red Rock Brewing Company",1298138156,3.5,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Elephino",8,61131
+"24",1412,"Red Rock Brewing Company",1297387703,4,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Elephino",8,61131
+"25",1412,"Red Rock Brewing Company",1291257240,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Elephino",8,61131
+"26",1412,"Red Rock Brewing Company",1290450128,4,4,4,"American Double / Imperial IPA",4,4,"Elephino",8,61131
+"27",1412,"Red Rock Brewing Company",1282445481,4.5,4,4,"American Double / Imperial IPA",4,4,"Elephino",8,61131
+"28",1412,"Red Rock Brewing Company",1282091617,4,4,4,"American Double / Imperial IPA",3.5,4,"Elephino",8,61131
+"29",1412,"Red Rock Brewing Company",1261689949,3.5,3.5,4,"Herbed / Spiced Beer",3.5,3.5,"Holiday Ale",4,54989
+"30",1412,"Red Rock Brewing Company",1232137649,3.5,4,4,"Witbier",3.5,3.5,"Belgian Wit",4,47312
+"31",1412,"Red Rock Brewing Company",1255490819,2,3,3,"Dubbel",2,2.5,"Abbey Ale",4,29916
+"32",1412,"Red Rock Brewing Company",1237825254,4,4.5,4,"Dubbel",4,3.5,"Abbey Ale",4,29916
+"33",1412,"Red Rock Brewing Company",1145135255,3.5,3,3,"Dubbel",3.5,3.5,"Abbey Ale",4,29916
+"34",1412,"Red Rock Brewing Company",1276309413,4.5,4,4,"Tripel",3.5,4,"Rêve",9,40874
+"35",1412,"Red Rock Brewing Company",1263158924,2,4,2.5,"Tripel",1.5,3,"Rêve",9,40874
+"36",1412,"Red Rock Brewing Company",1259030217,3,3,3,"Tripel",3,3.5,"Rêve",9,40874
+"37",1412,"Red Rock Brewing Company",1148768150,3.5,3.5,4,"Milk / Sweet Stout",4,3.5,"Cream Stout",4,30087
+"38",1412,"Red Rock Brewing Company",1254201573,4.5,4.5,4,"Tripel",4,4.5,"Rêve",9,40874
+"39",1412,"Red Rock Brewing Company",1254093367,3.5,4.5,4.5,"Tripel",4,4,"Rêve",9,40874
+"40",1412,"Red Rock Brewing Company",1249357484,4.5,4.5,4,"Tripel",5,4,"Rêve",9,40874
+"41",1412,"Red Rock Brewing Company",1248237931,4,4,4.5,"Tripel",4,4.5,"Rêve",9,40874
+"42",1412,"Red Rock Brewing Company",1246489785,4,4,3,"Tripel",4,3.5,"Rêve",9,40874
+"43",1412,"Red Rock Brewing Company",1245341337,4,3.5,4,"Tripel",4,4,"Rêve",9,40874
+"44",1412,"Red Rock Brewing Company",1243211751,4,4,4,"Tripel",3.5,4.5,"Rêve",9,40874
+"45",1412,"Red Rock Brewing Company",1240961566,4.5,4,4.5,"Tripel",3.5,4.5,"Rêve",9,40874
+"46",1412,"Red Rock Brewing Company",1238637233,3.5,4.5,4,"Tripel",3.5,4,"Rêve",9,40874
+"47",1412,"Red Rock Brewing Company",1238474563,4,4,4.5,"Tripel",4.5,4,"Rêve",9,40874
+"48",1412,"Red Rock Brewing Company",1237952304,3,4,4,"Tripel",3.5,3.5,"Rêve",9,40874
+"49",1412,"Red Rock Brewing Company",1237365733,4,4.5,4.5,"Tripel",4,4.5,"Rêve",9,40874
+"50",1412,"Red Rock Brewing Company",1237184632,3.5,4.5,4.5,"Tripel",3.5,4,"Rêve",9,40874
+"51",1412,"Red Rock Brewing Company",1236911172,4.5,4,4,"Tripel",4.5,4.5,"Rêve",9,40874
+"52",1412,"Red Rock Brewing Company",1235402740,4,4.5,4,"Tripel",4.5,4.5,"Rêve",9,40874
+"53",1412,"Red Rock Brewing Company",1202164063,5,5,5,"Tripel",5,5,"Rêve",9,40874
+"54",1412,"Red Rock Brewing Company",1163312544,4.5,3,3.5,"Munich Dunkel Lager",5,4.5,"Munich Dunkel",4,30086
+"55",1412,"Red Rock Brewing Company",1145738595,3.5,3,3.5,"Munich Dunkel Lager",3,3.5,"Munich Dunkel",4,30086
+"56",1412,"Red Rock Brewing Company",1255490959,3.5,4,4,"Rye Beer",3,3.5,"Roggen Rock",4,3789
+"57",1412,"Red Rock Brewing Company",1251519745,4,3.5,4,"Rye Beer",3,3,"Roggen Rock",4,3789
+"58",1412,"Red Rock Brewing Company",1222304113,4,3,3.5,"Rye Beer",3.5,3.5,"Roggen Rock",4,3789
+"59",1412,"Red Rock Brewing Company",1082156906,3.5,3.5,3,"Rye Beer",3,3.5,"Roggen Rock",4,3789
+"60",1412,"Red Rock Brewing Company",1114798226,3.5,4.5,4,"Hefeweizen",3.5,4.5,"Red Rock Bavarian Weiss",4,3788
+"61",1412,"Red Rock Brewing Company",1062286483,3.5,3,3.5,"Hefeweizen",2.5,3,"Red Rock Bavarian Weiss",4,3788
+"62",1412,"Red Rock Brewing Company",1033651371,2.5,2.5,3.5,"Hefeweizen",2.5,1.5,"Red Rock Bavarian Weiss",4,3788
+"63",1412,"Red Rock Brewing Company",1030007859,0,2,0,"Hefeweizen",2.5,2,"Red Rock Bavarian Weiss",4,3788
+"64",1412,"Red Rock Brewing Company",1022103350,3.5,3,4,"Hefeweizen",2.5,3,"Red Rock Bavarian Weiss",4,3788
+"65",1412,"Red Rock Brewing Company",1258838517,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Harvest Ale",4,54278
+"66",1412,"Red Rock Brewing Company",1251520070,3,3,4,"American Amber / Red Ale",3,2.5,"Red Rock Amber Ale",4,3787
+"67",1412,"Red Rock Brewing Company",1239901200,2,2.5,3,"American Amber / Red Ale",2.5,2,"Red Rock Amber Ale",4,3787
+"68",1412,"Red Rock Brewing Company",1229370229,4.5,5,4.5,"American Amber / Red Ale",3,4.5,"Red Rock Amber Ale",4,3787
+"69",1412,"Red Rock Brewing Company",1216230245,4,4,4,"American Amber / Red Ale",3.5,4,"Red Rock Amber Ale",4,3787
+"70",1412,"Red Rock Brewing Company",1214605282,1,2,4,"American Amber / Red Ale",1,1,"Red Rock Amber Ale",4,3787
+"71",1412,"Red Rock Brewing Company",1202503877,3.5,3,4,"American Amber / Red Ale",3,3.5,"Red Rock Amber Ale",4,3787
+"72",1412,"Red Rock Brewing Company",1101079368,4.5,4,4,"American Amber / Red Ale",3,4,"Red Rock Amber Ale",4,3787
+"73",1412,"Red Rock Brewing Company",1063678804,3,2.5,4,"American Amber / Red Ale",3,2.5,"Red Rock Amber Ale",4,3787
+"74",1412,"Red Rock Brewing Company",1030008142,0,3,0,"American Amber / Red Ale",2.5,3.5,"Red Rock Amber Ale",4,3787
+"75",1412,"Red Rock Brewing Company",1022102883,4,4,4,"American Amber / Red Ale",3.5,3,"Red Rock Amber Ale",4,3787
+"76",1412,"Red Rock Brewing Company",1255490696,2.5,4,4,"Oatmeal Stout",2,2,"Red Rock Oatmeal Stout",4,5638
+"77",1412,"Red Rock Brewing Company",1237825412,3.5,4,3.5,"Oatmeal Stout",3.5,2.5,"Red Rock Oatmeal Stout",4,5638
+"78",1412,"Red Rock Brewing Company",1202503670,3,3,4,"Oatmeal Stout",3,3,"Red Rock Oatmeal Stout",4,5638
+"79",1412,"Red Rock Brewing Company",1197307581,3,3,3.5,"Oatmeal Stout",3.5,3,"Red Rock Oatmeal Stout",4,5638
+"80",1412,"Red Rock Brewing Company",1158531539,4,4,4.5,"Oatmeal Stout",3.5,3.5,"Red Rock Oatmeal Stout",4,5638
+"81",1412,"Red Rock Brewing Company",1101083871,3.5,3.5,4,"Oatmeal Stout",3.5,3,"Red Rock Oatmeal Stout",4,5638
+"82",1412,"Red Rock Brewing Company",1062285994,3,3,3,"Oatmeal Stout",3,3,"Red Rock Oatmeal Stout",4,5638
+"83",1412,"Red Rock Brewing Company",1030128186,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Red Rock Oatmeal Stout",4,5638
+"84",1412,"Red Rock Brewing Company",1296754336,4.5,4.5,4.5,"German Pilsener",4,4.5,"Red Rock Pilsner",4,3822
+"85",1412,"Red Rock Brewing Company",1255203162,4,3.5,4,"German Pilsener",3.5,4,"Red Rock Pilsner",4,3822
+"86",1412,"Red Rock Brewing Company",1216229763,4.5,4,4,"German Pilsener",4.5,4,"Red Rock Pilsner",4,3822
+"87",1412,"Red Rock Brewing Company",1205024277,4,4,4,"German Pilsener",3.5,4,"Red Rock Pilsner",4,3822
+"88",1412,"Red Rock Brewing Company",1101075829,4,2.5,3.5,"German Pilsener",3.5,3.5,"Red Rock Pilsner",4,3822
+"89",1412,"Red Rock Brewing Company",1062286256,3.5,3,2.5,"German Pilsener",2.5,3,"Red Rock Pilsner",4,3822
+"90",1412,"Red Rock Brewing Company",1030007737,0,2,0,"German Pilsener",3,1.5,"Red Rock Pilsner",4,3822
+"91",1412,"Red Rock Brewing Company",1022212600,3.5,3.5,2.5,"German Pilsener",3,3,"Red Rock Pilsner",4,3822
+"92",1412,"Red Rock Brewing Company",1255202484,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Autumn Fest",4,53278

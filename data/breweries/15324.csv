@@ -1,121 +1,58 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",15324,"Five Seasons North",1174862190,4.5,4.5,5,"Irish Red Ale",4.5,4.5,"Connemara Irish Red Ale",NA,36051
-"2",15324,"Five Seasons North",1284929980,5,4.5,5,"American Double / Imperial IPA",5,5,"Big Boy Double IPA",NA,58987
-"3",15324,"Five Seasons North",1243475755,4.5,4.5,4,"American Barleywine",4.5,4.5,"Cloud Nine Barleywine",NA,40794
-"4",15324,"Five Seasons North",1239493230,4.5,4.5,4,"American Barleywine",4,4.5,"Cloud Nine Barleywine",NA,40794
-"5",15324,"Five Seasons North",1234325511,4.5,4.5,4,"American Barleywine",4,4,"Cloud Nine Barleywine",NA,40794
-"6",15324,"Five Seasons North",1234062006,4,4.5,4,"American Barleywine",3.5,4.5,"Cloud Nine Barleywine",NA,40794
-"7",15324,"Five Seasons North",1201643248,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Cloud Nine Barleywine",NA,40794
-"8",15324,"Five Seasons North",1231881913,4,3.5,4,"Märzen / Oktoberfest",4,4,"Oktoberfest Lager",NA,39277
-"9",15324,"Five Seasons North",1249002700,4,3.5,4,"American Blonde Ale",4,3.5,"Golden Number Ale",NA,38487
-"10",15324,"Five Seasons North",1208207297,3.5,4,3.5,"American Blonde Ale",3.5,3.5,"Golden Number Ale",NA,38487
-"11",15324,"Five Seasons North",1188855497,4,3,4,"American Blonde Ale",4.5,3,"Golden Number Ale",NA,38487
-"12",15324,"Five Seasons North",1275074120,4.5,4.5,4,"Dubbel",4.5,4.5,"French Beauty",12.5,50776
-"13",15324,"Five Seasons North",1268763720,4.5,4,5,"Dubbel",4.5,4,"French Beauty",12.5,50776
-"14",15324,"Five Seasons North",1246244901,4.5,4.5,4.5,"Dubbel",4.5,5,"French Beauty",12.5,50776
-"15",15324,"Five Seasons North",1212112150,5,4,4,"English Pale Mild Ale",4.5,4,"Lord Barfly's Re-Session Ale",3.9,42941
-"16",15324,"Five Seasons North",1255630637,4,3,3,"Märzen / Oktoberfest",4,4,"Oktoberfest Lager",NA,39277
-"17",15324,"Five Seasons North",1193088098,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest Lager",NA,39277
-"18",15324,"Five Seasons North",1255630305,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Amberlicious ESB",NA,52821
-"19",15324,"Five Seasons North",1253572494,4.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Amberlicious ESB",NA,52821
-"20",15324,"Five Seasons North",1249002555,4,4,4,"Weizenbock",4,4,"Weiss Asse Weizenbock",NA,38291
-"21",15324,"Five Seasons North",1187644801,4,3.5,4,"Weizenbock",3,3.5,"Weiss Asse Weizenbock",NA,38291
-"22",15324,"Five Seasons North",1286242436,4,4.5,3.5,"Quadrupel (Quad)",3.5,4.5,"The Question",NA,58724
-"23",15324,"Five Seasons North",1277140105,4.5,4,3,"Quadrupel (Quad)",4,4.5,"The Question",NA,58724
-"24",15324,"Five Seasons North",1275087291,4.5,4.5,3.5,"Quadrupel (Quad)",4,4.5,"The Question",NA,58724
-"25",15324,"Five Seasons North",1271530065,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Dark Saison",10,57606
-"26",15324,"Five Seasons North",1202593624,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3,4,"Poltergeist ESB",5.2,40933
-"27",15324,"Five Seasons North",1255631444,4.5,4,4.5,"American Brown Ale",4.5,4.5,"Decadent Brown Ale",6.5,40280
-"28",15324,"Five Seasons North",1198903687,4.5,4,4,"American Brown Ale",4.5,4,"Decadent Brown Ale",6.5,40280
-"29",15324,"Five Seasons North",1217903670,4.5,3.5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Shakti Saison",10.25,43483
-"30",15324,"Five Seasons North",1214937092,4.5,4.5,4.5,"Saison / Farmhouse Ale",2.5,4.5,"Shakti Saison",10.25,43483
-"31",15324,"Five Seasons North",1284929526,4,4,4.5,"Belgian Pale Ale",4,3.5,"Adam's Grand Cru Belgian Golden Ale",7.5,61953
-"32",15324,"Five Seasons North",1290483198,4,4.5,4.5,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
-"33",15324,"Five Seasons North",1252901030,4,4,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
-"34",15324,"Five Seasons North",1248961472,4,4.5,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
-"35",15324,"Five Seasons North",1248938335,4,4,4,"American Double / Imperial Stout",3.5,4,"The Grape Ape",10.1,47966
-"36",15324,"Five Seasons North",1248749580,4,4,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
-"37",15324,"Five Seasons North",1234719323,4.5,4.5,4.5,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
-"38",15324,"Five Seasons North",1234713772,4,4,4.5,"American Double / Imperial Stout",5,4.5,"The Grape Ape",10.1,47966
-"39",15324,"Five Seasons North",1249002478,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"ASB (American Special Bitter)",NA,51522
-"40",15324,"Five Seasons North",1258508126,5,4.5,4.5,"Dubbel",4.5,5,"Black Beauty",12,47160
-"41",15324,"Five Seasons North",1250563436,5,4.5,4,"Dubbel",4.5,5,"Black Beauty",12,47160
-"42",15324,"Five Seasons North",1249002088,4.5,4.5,4,"Dubbel",4.5,4.5,"Black Beauty",12,47160
-"43",15324,"Five Seasons North",1248911811,4.5,5,4.5,"Dubbel",4.5,5,"Black Beauty",12,47160
-"44",15324,"Five Seasons North",1236566732,4,3.5,3.5,"Dubbel",4.5,4.5,"Black Beauty",12,47160
-"45",15324,"Five Seasons North",1232679320,4.5,4,5,"Dubbel",5,4.5,"Black Beauty",12,47160
-"46",15324,"Five Seasons North",1231548150,4.5,4.5,4,"Dubbel",5,5,"Black Beauty",12,47160
-"47",15324,"Five Seasons North",1243972235,4,3.5,3.5,"Irish Dry Stout",4,4,"Dark Star Stout",NA,36050
-"48",15324,"Five Seasons North",1207362949,4,3.5,4.5,"Irish Dry Stout",4.5,4,"Dark Star Stout",NA,36050
-"49",15324,"Five Seasons North",1174862088,4.5,4.5,5,"Irish Dry Stout",4.5,5,"Dark Star Stout",NA,36050
-"50",15324,"Five Seasons North",1320854133,4,3.5,3.5,"Tripel",4,3.5,"Garden Gnome Trippel",NA,75065
-"51",15324,"Five Seasons North",1271528961,4,3.5,4,"Bock",4,3.5,"Spring Bock",NA,57605
-"52",15324,"Five Seasons North",1312556865,3.5,4.5,3.5,"English Pale Ale",4.5,4,"Pacemaker Pale Ale",NA,71731
-"53",15324,"Five Seasons North",1321119629,4.5,5,4.5,"Pumpkin Ale",4,5,"The Great Pumpkin Ale",5.25,39801
-"54",15324,"Five Seasons North",1232680043,4.5,4.5,4.5,"Pumpkin Ale",4,4.5,"The Great Pumpkin Ale",5.25,39801
-"55",15324,"Five Seasons North",1196196347,4.5,3.5,4.5,"Pumpkin Ale",4.5,3.5,"The Great Pumpkin Ale",5.25,39801
-"56",15324,"Five Seasons North",1201636551,3,3,4,"Belgian Pale Ale",3.5,3,"Flying Monkeys (Vliegende Aapen) Golden Ale",NA,40787
-"57",15324,"Five Seasons North",1233609709,5,4,4,"Dubbel",4.5,4.5,"Whiskey And Oak Black Beauty",NA,47661
-"58",15324,"Five Seasons North",1233536162,4.5,4.5,4,"Dubbel",4.5,5,"Whiskey And Oak Black Beauty",NA,47661
-"59",15324,"Five Seasons North",1275940532,4,4,4,"American Double / Imperial IPA",4.5,4,"Big Boy Double IPA",NA,58987
-"60",15324,"Five Seasons North",1231194594,4.5,4,4.5,"Herbed / Spiced Beer",4.5,4.5,"5 Golden Rings Wassail",10,47074
-"61",15324,"Five Seasons North",1291948078,4,4.5,3.5,"Quadrupel (Quad)",3,5,"Whisky Barrel Aged Quinte55ence",NA,39521
-"62",15324,"Five Seasons North",1227104655,4.5,4,4,"Quadrupel (Quad)",4,4.5,"Whisky Barrel Aged Quinte55ence",NA,39521
-"63",15324,"Five Seasons North",1209517782,4.5,4.5,4.5,"Quadrupel (Quad)",5,5,"Whisky Barrel Aged Quinte55ence",NA,39521
-"64",15324,"Five Seasons North",1209428892,4,4.5,4.5,"Quadrupel (Quad)",4,4.5,"Whisky Barrel Aged Quinte55ence",NA,39521
-"65",15324,"Five Seasons North",1204810898,4,4.5,4.5,"Quadrupel (Quad)",3.5,4,"Whisky Barrel Aged Quinte55ence",NA,39521
-"66",15324,"Five Seasons North",1194468620,4.5,5,4,"Quadrupel (Quad)",5,5,"Whisky Barrel Aged Quinte55ence",NA,39521
-"67",15324,"Five Seasons North",1316098502,4,3.5,4,"Belgian IPA",3.5,4,"Bear's Beer Belgian IPA",NA,73154
-"68",15324,"Five Seasons North",1193518500,4,3.5,4,"American Pale Ale (APA)",4.5,3.5,"Bunker Hill Pale Ale",5,39343
-"69",15324,"Five Seasons North",1281283219,4,4,4,"Saison / Farmhouse Ale",4.5,4,"Rye Saison",NA,60867
-"70",15324,"Five Seasons North",1295917740,4,3.5,4.5,"Quadrupel (Quad)",4,4,"Quinte55ence",NA,36690
-"71",15324,"Five Seasons North",1275074529,4,4,4,"Quadrupel (Quad)",4.5,4.5,"Quinte55ence",NA,36690
-"72",15324,"Five Seasons North",1251427084,4.5,4.5,4.5,"Quadrupel (Quad)",4.5,5,"Quinte55ence",NA,36690
-"73",15324,"Five Seasons North",1228433056,4,4,4.5,"Quadrupel (Quad)",5,4.5,"Quinte55ence",NA,36690
-"74",15324,"Five Seasons North",1178403506,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Quinte55ence",NA,36690
-"75",15324,"Five Seasons North",1275941735,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Reserve 500",NA,58988
-"76",15324,"Five Seasons North",1249003124,4,4,3.5,"American Pale Ale (APA)",4,4,"BR-549 Pale Ale",NA,46692
-"77",15324,"Five Seasons North",1230502580,3,3.5,4,"American Pale Ale (APA)",3.5,3,"BR-549 Pale Ale",NA,46692
-"78",15324,"Five Seasons North",1229727806,4.5,4.5,4,"American Pale Ale (APA)",4,4,"BR-549 Pale Ale",NA,46692
-"79",15324,"Five Seasons North",1310916390,4.5,4,4.5,"American IPA",5,4.5,"Echo St. IPA",6.1,70920
-"80",15324,"Five Seasons North",1310324584,4,3.5,4.5,"American IPA",4,4,"Echo St. IPA",6.1,70920
-"81",15324,"Five Seasons North",1270769064,4,5,3.5,"Tripel",4,4.5,"Westside Trippel Lindy",12,57437
-"82",15324,"Five Seasons North",1188782778,4,3.5,4,"English Dark Mild Ale",4,3.5,"AK-47 Mild Ale",3.9,38476
-"83",15324,"Five Seasons North",1229719105,4.5,3.5,3.5,"Dunkelweizen",3.5,4,"Doctor Moran's Dunkelweizen",NA,46687
-"84",15324,"Five Seasons North",1305579819,4,4,3.5,"American IPA",4,4.5,"Plan B IPA",7.3,39341
-"85",15324,"Five Seasons North",1255630952,5,4.5,5,"American IPA",4.5,5,"Plan B IPA",7.3,39341
-"86",15324,"Five Seasons North",1249002785,4.5,4.5,4,"American IPA",4.5,4,"Plan B IPA",7.3,39341
-"87",15324,"Five Seasons North",1193517547,4,3.5,4,"American IPA",4.5,4,"Plan B IPA",7.3,39341
-"88",15324,"Five Seasons North",1188152160,4,3.5,3.5,"Belgian Dark Ale",4.5,3.5,"Coltrane Belgian Ale",NA,38399
-"89",15324,"Five Seasons North",1315511133,3.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Tabla Saison",7.9,72932
-"90",15324,"Five Seasons North",1215757985,4,3.5,4,"Witbier",4,3.5,"Mighty Aphrodite Imperial White Beer",9,43484
-"91",15324,"Five Seasons North",1214937801,4.5,5,4,"Witbier",3,4,"Mighty Aphrodite Imperial White Beer",9,43484
-"92",15324,"Five Seasons North",1267994622,3.5,4,4,"Saison / Farmhouse Ale",4,3.5,"Crouching Tiger (Hidden Poulet) Saison",9.5,47329
-"93",15324,"Five Seasons North",1244156214,3.5,4.5,4,"Saison / Farmhouse Ale",4.5,5,"Crouching Tiger (Hidden Poulet) Saison",9.5,47329
-"94",15324,"Five Seasons North",1232163471,5,4.5,4,"Saison / Farmhouse Ale",4.5,5,"Crouching Tiger (Hidden Poulet) Saison",9.5,47329
-"95",15324,"Five Seasons North",1232761519,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Cowbell",6.8,47474
-"96",15324,"Five Seasons North",1243974475,3.5,3.5,3.5,"Tripel",3,4,"Haiku Belgian Tripel",13,50240
-"97",15324,"Five Seasons North",1288052101,2.5,2.5,4,"Witbier",3.5,2.5,"Venus Wit",4.8,39520
-"98",15324,"Five Seasons North",1249125881,4,4,4.5,"Witbier",3.5,4,"Venus Wit",4.8,39520
-"99",15324,"Five Seasons North",1208206738,4.5,4,5,"Witbier",4.5,4,"Venus Wit",4.8,39520
-"100",15324,"Five Seasons North",1194465423,3.5,3.5,4.5,"Witbier",4,3.5,"Venus Wit",4.8,39520
-"101",15324,"Five Seasons North",1218823741,4.5,3.5,4,"Fruit / Vegetable Beer",4,4,"Georgia Peach Honey Wheat Beer",NA,44332
-"102",15324,"Five Seasons North",1237771443,4,4,4.5,"Fruit / Vegetable Beer",4,4.5,"Watermelon Wheat",NA,46354
-"103",15324,"Five Seasons North",1228433878,3.5,3.5,3,"Fruit / Vegetable Beer",4,4,"Watermelon Wheat",NA,46354
-"104",15324,"Five Seasons North",1310394575,4,4,4,"Saison / Farmhouse Ale",5,4.5,"Pepe Le Pew Skunky Saison",NA,70943
-"105",15324,"Five Seasons North",1202706178,4,4,4,"American Double / Imperial Stout",3.5,4,"10W-30 Imperial Oatmeal Stout",9.4,40511
-"106",15324,"Five Seasons North",1200615809,3.5,4,4,"American Double / Imperial Stout",3.5,4,"10W-30 Imperial Oatmeal Stout",9.4,40511
-"107",15324,"Five Seasons North",1200019483,4,4,4,"American Double / Imperial Stout",5,4,"10W-30 Imperial Oatmeal Stout",9.4,40511
-"108",15324,"Five Seasons North",1255631643,4.5,4.5,5,"Belgian Strong Dark Ale",5,4.5,"Synesthaesia",NA,51548
-"109",15324,"Five Seasons North",1251688473,4,3.5,4.5,"Belgian Strong Dark Ale",4,3.5,"Synesthaesia",NA,51548
-"110",15324,"Five Seasons North",1250563980,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Synesthaesia",NA,51548
-"111",15324,"Five Seasons North",1249125989,4,4.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Synesthaesia",NA,51548
-"112",15324,"Five Seasons North",1206144201,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4,"Duck-billed Platypus Belgian Pale Ale",5.5,40957
-"113",15324,"Five Seasons North",1203096180,3.5,4,4,"Belgian Pale Ale",4.5,3.5,"Duck-billed Platypus Belgian Pale Ale",5.5,40957
-"114",15324,"Five Seasons North",1202707068,4.5,4,3.5,"Belgian Pale Ale",4,4,"Duck-billed Platypus Belgian Pale Ale",5.5,40957
-"115",15324,"Five Seasons North",1185418832,4,4,4,"American Amber / Red Ale",4,3.5,"Amber Alert",NA,37913
-"116",15324,"Five Seasons North",1218825913,3.5,4,4,"American Porter",3.5,3.5,"Pms Smoked Molasses Porter",4.5,44158
-"117",15324,"Five Seasons North",1217904005,3.5,3.5,4.5,"American Porter",3.5,3.5,"Pms Smoked Molasses Porter",4.5,44158
-"118",15324,"Five Seasons North",1214310317,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Saison DuBob",NA,41717
-"119",15324,"Five Seasons North",1208047508,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison DuBob",NA,41717
-"120",15324,"Five Seasons North",1206145831,4,4.5,5,"Saison / Farmhouse Ale",4,4,"Saison DuBob",NA,41717
+"1",15324,"Five Seasons North",1243475755,4.5,4.5,4,"American Barleywine",4.5,4.5,"Cloud Nine Barleywine",NA,40794
+"2",15324,"Five Seasons North",1239493230,4.5,4.5,4,"American Barleywine",4,4.5,"Cloud Nine Barleywine",NA,40794
+"3",15324,"Five Seasons North",1234325511,4.5,4.5,4,"American Barleywine",4,4,"Cloud Nine Barleywine",NA,40794
+"4",15324,"Five Seasons North",1234062006,4,4.5,4,"American Barleywine",3.5,4.5,"Cloud Nine Barleywine",NA,40794
+"5",15324,"Five Seasons North",1201643248,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Cloud Nine Barleywine",NA,40794
+"6",15324,"Five Seasons North",1231881913,4,3.5,4,"Märzen / Oktoberfest",4,4,"Oktoberfest Lager",NA,39277
+"7",15324,"Five Seasons North",1249002700,4,3.5,4,"American Blonde Ale",4,3.5,"Golden Number Ale",NA,38487
+"8",15324,"Five Seasons North",1208207297,3.5,4,3.5,"American Blonde Ale",3.5,3.5,"Golden Number Ale",NA,38487
+"9",15324,"Five Seasons North",1188855497,4,3,4,"American Blonde Ale",4.5,3,"Golden Number Ale",NA,38487
+"10",15324,"Five Seasons North",1255630637,4,3,3,"Märzen / Oktoberfest",4,4,"Oktoberfest Lager",NA,39277
+"11",15324,"Five Seasons North",1193088098,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest Lager",NA,39277
+"12",15324,"Five Seasons North",1271530065,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Dark Saison",10,57606
+"13",15324,"Five Seasons North",1255631444,4.5,4,4.5,"American Brown Ale",4.5,4.5,"Decadent Brown Ale",6.5,40280
+"14",15324,"Five Seasons North",1198903687,4.5,4,4,"American Brown Ale",4.5,4,"Decadent Brown Ale",6.5,40280
+"15",15324,"Five Seasons North",1290483198,4,4.5,4.5,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
+"16",15324,"Five Seasons North",1252901030,4,4,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
+"17",15324,"Five Seasons North",1248961472,4,4.5,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
+"18",15324,"Five Seasons North",1248938335,4,4,4,"American Double / Imperial Stout",3.5,4,"The Grape Ape",10.1,47966
+"19",15324,"Five Seasons North",1248749580,4,4,4,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
+"20",15324,"Five Seasons North",1234719323,4.5,4.5,4.5,"American Double / Imperial Stout",4,4,"The Grape Ape",10.1,47966
+"21",15324,"Five Seasons North",1234713772,4,4,4.5,"American Double / Imperial Stout",5,4.5,"The Grape Ape",10.1,47966
+"22",15324,"Five Seasons North",1258508126,5,4.5,4.5,"Dubbel",4.5,5,"Black Beauty",12,47160
+"23",15324,"Five Seasons North",1250563436,5,4.5,4,"Dubbel",4.5,5,"Black Beauty",12,47160
+"24",15324,"Five Seasons North",1249002088,4.5,4.5,4,"Dubbel",4.5,4.5,"Black Beauty",12,47160
+"25",15324,"Five Seasons North",1248911811,4.5,5,4.5,"Dubbel",4.5,5,"Black Beauty",12,47160
+"26",15324,"Five Seasons North",1236566732,4,3.5,3.5,"Dubbel",4.5,4.5,"Black Beauty",12,47160
+"27",15324,"Five Seasons North",1232679320,4.5,4,5,"Dubbel",5,4.5,"Black Beauty",12,47160
+"28",15324,"Five Seasons North",1231548150,4.5,4.5,4,"Dubbel",5,5,"Black Beauty",12,47160
+"29",15324,"Five Seasons North",1243972235,4,3.5,3.5,"Irish Dry Stout",4,4,"Dark Star Stout",NA,36050
+"30",15324,"Five Seasons North",1207362949,4,3.5,4.5,"Irish Dry Stout",4.5,4,"Dark Star Stout",NA,36050
+"31",15324,"Five Seasons North",1174862088,4.5,4.5,5,"Irish Dry Stout",4.5,5,"Dark Star Stout",NA,36050
+"32",15324,"Five Seasons North",1271528961,4,3.5,4,"Bock",4,3.5,"Spring Bock",NA,57605
+"33",15324,"Five Seasons North",1321119629,4.5,5,4.5,"Pumpkin Ale",4,5,"The Great Pumpkin Ale",5.25,39801
+"34",15324,"Five Seasons North",1232680043,4.5,4.5,4.5,"Pumpkin Ale",4,4.5,"The Great Pumpkin Ale",5.25,39801
+"35",15324,"Five Seasons North",1196196347,4.5,3.5,4.5,"Pumpkin Ale",4.5,3.5,"The Great Pumpkin Ale",5.25,39801
+"36",15324,"Five Seasons North",1291948078,4,4.5,3.5,"Quadrupel (Quad)",3,5,"Whisky Barrel Aged Quinte55ence",NA,39521
+"37",15324,"Five Seasons North",1227104655,4.5,4,4,"Quadrupel (Quad)",4,4.5,"Whisky Barrel Aged Quinte55ence",NA,39521
+"38",15324,"Five Seasons North",1209517782,4.5,4.5,4.5,"Quadrupel (Quad)",5,5,"Whisky Barrel Aged Quinte55ence",NA,39521
+"39",15324,"Five Seasons North",1209428892,4,4.5,4.5,"Quadrupel (Quad)",4,4.5,"Whisky Barrel Aged Quinte55ence",NA,39521
+"40",15324,"Five Seasons North",1204810898,4,4.5,4.5,"Quadrupel (Quad)",3.5,4,"Whisky Barrel Aged Quinte55ence",NA,39521
+"41",15324,"Five Seasons North",1194468620,4.5,5,4,"Quadrupel (Quad)",5,5,"Whisky Barrel Aged Quinte55ence",NA,39521
+"42",15324,"Five Seasons North",1281283219,4,4,4,"Saison / Farmhouse Ale",4.5,4,"Rye Saison",NA,60867
+"43",15324,"Five Seasons North",1295917740,4,3.5,4.5,"Quadrupel (Quad)",4,4,"Quinte55ence",NA,36690
+"44",15324,"Five Seasons North",1275074529,4,4,4,"Quadrupel (Quad)",4.5,4.5,"Quinte55ence",NA,36690
+"45",15324,"Five Seasons North",1251427084,4.5,4.5,4.5,"Quadrupel (Quad)",4.5,5,"Quinte55ence",NA,36690
+"46",15324,"Five Seasons North",1228433056,4,4,4.5,"Quadrupel (Quad)",5,4.5,"Quinte55ence",NA,36690
+"47",15324,"Five Seasons North",1178403506,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Quinte55ence",NA,36690
+"48",15324,"Five Seasons North",1249003124,4,4,3.5,"American Pale Ale (APA)",4,4,"BR-549 Pale Ale",NA,46692
+"49",15324,"Five Seasons North",1230502580,3,3.5,4,"American Pale Ale (APA)",3.5,3,"BR-549 Pale Ale",NA,46692
+"50",15324,"Five Seasons North",1229727806,4.5,4.5,4,"American Pale Ale (APA)",4,4,"BR-549 Pale Ale",NA,46692
+"51",15324,"Five Seasons North",1305579819,4,4,3.5,"American IPA",4,4.5,"Plan B IPA",7.3,39341
+"52",15324,"Five Seasons North",1255630952,5,4.5,5,"American IPA",4.5,5,"Plan B IPA",7.3,39341
+"53",15324,"Five Seasons North",1249002785,4.5,4.5,4,"American IPA",4.5,4,"Plan B IPA",7.3,39341
+"54",15324,"Five Seasons North",1193517547,4,3.5,4,"American IPA",4.5,4,"Plan B IPA",7.3,39341
+"55",15324,"Five Seasons North",1232761519,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Cowbell",6.8,47474
+"56",15324,"Five Seasons North",1237771443,4,4,4.5,"Fruit / Vegetable Beer",4,4.5,"Watermelon Wheat",NA,46354
+"57",15324,"Five Seasons North",1228433878,3.5,3.5,3,"Fruit / Vegetable Beer",4,4,"Watermelon Wheat",NA,46354

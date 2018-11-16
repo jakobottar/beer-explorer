@@ -1,282 +1,155 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",9784,"Zero Gravity Craft Brewery / American Flatbread",1228777970,4,4,4.5,"Bock",4.5,4,"Bock Obama",NA,45845
-"2",9784,"Zero Gravity Craft Brewery / American Flatbread",1285282655,4.5,3.5,4,"Hefeweizen",4.5,4,"Weizenheimer",NA,53949
-"3",9784,"Zero Gravity Craft Brewery / American Flatbread",1271251885,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Huchi Fuchi",NA,57191
-"4",9784,"Zero Gravity Craft Brewery / American Flatbread",1269920468,4,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Huchi Fuchi",NA,57191
-"5",9784,"Zero Gravity Craft Brewery / American Flatbread",1290555270,4.5,3.5,4,"Maibock / Helles Bock",4.5,4.5,"Hollis Bock",NA,63772
-"6",9784,"Zero Gravity Craft Brewery / American Flatbread",1290465705,4,2.5,4.5,"Maibock / Helles Bock",4.5,4,"Hollis Bock",NA,63772
-"7",9784,"Zero Gravity Craft Brewery / American Flatbread",1228667413,3.5,3.5,4.5,"Rauchbier",3.5,3.5,"Rauchbier",NA,39455
-"8",9784,"Zero Gravity Craft Brewery / American Flatbread",1223770092,4,3.5,4,"Rauchbier",3.5,4,"Rauchbier",NA,39455
-"9",9784,"Zero Gravity Craft Brewery / American Flatbread",1204400546,3,3,3.5,"Rauchbier",2.5,3,"Rauchbier",NA,39455
-"10",9784,"Zero Gravity Craft Brewery / American Flatbread",1194122796,4,4,4,"Rauchbier",4,4,"Rauchbier",NA,39455
-"11",9784,"Zero Gravity Craft Brewery / American Flatbread",1180203148,4,3,4,"Bock",4,4.5,"D'Kinna Bock",NA,35723
-"12",9784,"Zero Gravity Craft Brewery / American Flatbread",1173065484,4.5,4,3.5,"Bock",3.5,4,"D'Kinna Bock",NA,35723
-"13",9784,"Zero Gravity Craft Brewery / American Flatbread",1319513931,4.5,4,4,"Milk / Sweet Stout",4.5,4,"Milk Stout",NA,73972
-"14",9784,"Zero Gravity Craft Brewery / American Flatbread",1318213230,4,4,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,73972
-"15",9784,"Zero Gravity Craft Brewery / American Flatbread",1258951873,5,5,5,"Tripel",5,5,"Fools Gold Tripel",NA,44442
-"16",9784,"Zero Gravity Craft Brewery / American Flatbread",1286845365,2,2,2,"Saison / Farmhouse Ale",2,2,"Grisette",NA,50359
-"17",9784,"Zero Gravity Craft Brewery / American Flatbread",1219254458,3,4,2.5,"Tripel",4,3.5,"Fools Gold Tripel",NA,44442
-"18",9784,"Zero Gravity Craft Brewery / American Flatbread",1259421453,5,3,4,"Munich Helles Lager",4,4.5,"Munich Helles",NA,26358
-"19",9784,"Zero Gravity Craft Brewery / American Flatbread",1228777717,4.5,4,4,"Munich Helles Lager",4.5,4,"Munich Helles",NA,26358
-"20",9784,"Zero Gravity Craft Brewery / American Flatbread",1216053328,4,3,4,"Munich Helles Lager",4.5,4.5,"Munich Helles",NA,26358
-"21",9784,"Zero Gravity Craft Brewery / American Flatbread",1167761455,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,26358
-"22",9784,"Zero Gravity Craft Brewery / American Flatbread",1129144379,4.5,4,4,"Munich Helles Lager",4,4.5,"Munich Helles",NA,26358
-"23",9784,"Zero Gravity Craft Brewery / American Flatbread",1289668056,4,3.5,4,"Märzen / Oktoberfest",4,4,"Märzen",NA,63492
-"24",9784,"Zero Gravity Craft Brewery / American Flatbread",1222824729,3.5,3.5,4,"German Pilsener",3.5,4,"Keller Pils",NA,45126
-"25",9784,"Zero Gravity Craft Brewery / American Flatbread",1224000158,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Bufflehead Saison",6,37904
-"26",9784,"Zero Gravity Craft Brewery / American Flatbread",1222783804,4,4,3.5,"Saison / Farmhouse Ale",3.5,4.5,"Bufflehead Saison",6,37904
-"27",9784,"Zero Gravity Craft Brewery / American Flatbread",1185328968,4,4.5,3.5,"Saison / Farmhouse Ale",4,4,"Bufflehead Saison",6,37904
-"28",9784,"Zero Gravity Craft Brewery / American Flatbread",1180202664,4,4,4,"Märzen / Oktoberfest",4,4,"Fruhfest",NA,37010
-"29",9784,"Zero Gravity Craft Brewery / American Flatbread",1211569455,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Ahtanum",NA,42835
-"30",9784,"Zero Gravity Craft Brewery / American Flatbread",1226349980,4,3.5,3.5,"Bock",4,4.5,"Bock Obama",NA,45845
-"31",9784,"Zero Gravity Craft Brewery / American Flatbread",1282042473,5,5,5,"Bock",4.5,5,"Auerbock",6.5,54398
-"32",9784,"Zero Gravity Craft Brewery / American Flatbread",1271680918,4,3.5,4,"Bock",4,4,"Auerbock",6.5,54398
-"33",9784,"Zero Gravity Craft Brewery / American Flatbread",1269913689,4,4,4.5,"Bock",3.5,4,"Auerbock",6.5,54398
-"34",9784,"Zero Gravity Craft Brewery / American Flatbread",1259421275,3.5,4,4,"Bock",4,4.5,"Auerbock",6.5,54398
-"35",9784,"Zero Gravity Craft Brewery / American Flatbread",1201903629,4,4,4,"Tripel",4,4.5,"Third Degree Tripel",NA,40827
-"36",9784,"Zero Gravity Craft Brewery / American Flatbread",1214601441,4.5,4,4,"Maibock / Helles Bock",4.5,4.5,"Albee Bock",NA,42717
-"37",9784,"Zero Gravity Craft Brewery / American Flatbread",1210983071,4,3,4,"Maibock / Helles Bock",4,4,"Albee Bock",NA,42717
-"38",9784,"Zero Gravity Craft Brewery / American Flatbread",1210973889,2.5,3,4,"Maibock / Helles Bock",2.5,2.5,"Albee Bock",NA,42717
-"39",9784,"Zero Gravity Craft Brewery / American Flatbread",1253374954,5,3.5,4,"Vienna Lager",4,4.5,"Vienna Lager",5.6,43244
-"40",9784,"Zero Gravity Craft Brewery / American Flatbread",1219976710,4,3,4,"Vienna Lager",4.5,4,"Vienna Lager",5.6,43244
-"41",9784,"Zero Gravity Craft Brewery / American Flatbread",1218233997,4.5,4,4,"Vienna Lager",4.5,4.5,"Vienna Lager",5.6,43244
-"42",9784,"Zero Gravity Craft Brewery / American Flatbread",1215084037,4.5,4,4,"Vienna Lager",4,4.5,"Vienna Lager",5.6,43244
-"43",9784,"Zero Gravity Craft Brewery / American Flatbread",1213549590,4.5,4,4,"Vienna Lager",4,4,"Vienna Lager",5.6,43244
-"44",9784,"Zero Gravity Craft Brewery / American Flatbread",1286927786,4,3.5,3.5,"Tripel",3.5,3.5,"Ripley",8,45297
-"45",9784,"Zero Gravity Craft Brewery / American Flatbread",1279066884,4.5,4,4,"Tripel",4.5,4,"Ripley",8,45297
-"46",9784,"Zero Gravity Craft Brewery / American Flatbread",1223769584,4,3.5,4,"Tripel",4,4.5,"Ripley",8,45297
-"47",9784,"Zero Gravity Craft Brewery / American Flatbread",1223673010,4.5,4,4.5,"Tripel",4,4,"Ripley",8,45297
-"48",9784,"Zero Gravity Craft Brewery / American Flatbread",1219348345,4,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Wilson's Plover",NA,35722
-"49",9784,"Zero Gravity Craft Brewery / American Flatbread",1218828795,5,5,5,"Saison / Farmhouse Ale",5,5,"Wilson's Plover",NA,35722
-"50",9784,"Zero Gravity Craft Brewery / American Flatbread",1179017884,4,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Wilson's Plover",NA,35722
-"51",9784,"Zero Gravity Craft Brewery / American Flatbread",1173065296,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Wilson's Plover",NA,35722
-"52",9784,"Zero Gravity Craft Brewery / American Flatbread",1316962307,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"London Calling",3.8,42706
-"53",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539249,4,3.5,3.5,"English Pale Ale",4,4,"London Calling",3.8,42706
-"54",9784,"Zero Gravity Craft Brewery / American Flatbread",1244507062,4,3.5,4,"English Pale Ale",4,4,"London Calling",3.8,42706
-"55",9784,"Zero Gravity Craft Brewery / American Flatbread",1235071532,4,3.5,3.5,"English Pale Ale",4,3.5,"London Calling",3.8,42706
-"56",9784,"Zero Gravity Craft Brewery / American Flatbread",1218230406,3.5,3.5,4,"English Pale Ale",3,3.5,"London Calling",3.8,42706
-"57",9784,"Zero Gravity Craft Brewery / American Flatbread",1216699959,4,3.5,3.5,"English Pale Ale",4.5,4,"London Calling",3.8,42706
-"58",9784,"Zero Gravity Craft Brewery / American Flatbread",1211841607,4,4,4,"English Pale Ale",3.5,4,"London Calling",3.8,42706
-"59",9784,"Zero Gravity Craft Brewery / American Flatbread",1210941280,3.5,4,4,"English Pale Ale",3,3,"London Calling",3.8,42706
-"60",9784,"Zero Gravity Craft Brewery / American Flatbread",1312162051,4.5,4,4.5,"Doppelbock",4.5,4,"Masticator",6.7,58832
-"61",9784,"Zero Gravity Craft Brewery / American Flatbread",1276541577,4,3.5,4,"Doppelbock",3.5,4,"Masticator",6.7,58832
-"62",9784,"Zero Gravity Craft Brewery / American Flatbread",1275451545,4,4,4,"Doppelbock",3.5,4.5,"Masticator",6.7,58832
-"63",9784,"Zero Gravity Craft Brewery / American Flatbread",1300334638,4.5,4,4,"Scottish Gruit / Ancient Herbed Ale",4,4.5,"Solstice Gruit",NA,57611
-"64",9784,"Zero Gravity Craft Brewery / American Flatbread",1281358992,4.5,3.5,3.5,"Scottish Gruit / Ancient Herbed Ale",4,4,"Solstice Gruit",NA,57611
-"65",9784,"Zero Gravity Craft Brewery / American Flatbread",1280948493,2.5,4,4,"Scottish Gruit / Ancient Herbed Ale",3.5,3.5,"Solstice Gruit",NA,57611
-"66",9784,"Zero Gravity Craft Brewery / American Flatbread",1271549939,4.5,3.5,4,"Scottish Gruit / Ancient Herbed Ale",4,4,"Solstice Gruit",NA,57611
-"67",9784,"Zero Gravity Craft Brewery / American Flatbread",1280784310,4.5,3.5,4,"Saison / Farmhouse Ale",4,4.5,"Grisette",NA,50359
-"68",9784,"Zero Gravity Craft Brewery / American Flatbread",1244507647,3.5,3.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Grisette",NA,50359
-"69",9784,"Zero Gravity Craft Brewery / American Flatbread",1240251268,4,3.5,4,"Doppelbock",4,4,"Discombobulator",7,47921
-"70",9784,"Zero Gravity Craft Brewery / American Flatbread",1239459183,4,4,4,"Doppelbock",4,3.5,"Discombobulator",7,47921
-"71",9784,"Zero Gravity Craft Brewery / American Flatbread",1236980396,4.5,3.5,4,"Doppelbock",4,4,"Discombobulator",7,47921
-"72",9784,"Zero Gravity Craft Brewery / American Flatbread",1234488691,4,4,3.5,"Doppelbock",3.5,4,"Discombobulator",7,47921
-"73",9784,"Zero Gravity Craft Brewery / American Flatbread",1316962582,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Lumiere",6,69823
-"74",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491484,4,3.5,5,"Saison / Farmhouse Ale",3.5,4.5,"Lumiere",6,69823
-"75",9784,"Zero Gravity Craft Brewery / American Flatbread",1277312295,4,3.5,4,"Schwarzbier",4,3.5,"Mr. Black",NA,42705
-"76",9784,"Zero Gravity Craft Brewery / American Flatbread",1246917323,4,3.5,3.5,"Schwarzbier",3.5,3.5,"Mr. Black",NA,42705
-"77",9784,"Zero Gravity Craft Brewery / American Flatbread",1216699266,4,3.5,4,"Schwarzbier",4.5,4,"Mr. Black",NA,42705
-"78",9784,"Zero Gravity Craft Brewery / American Flatbread",1290553454,4,4,4,"Herbed / Spiced Beer",4,3.5,"Cornucopia",6.5,63798
-"79",9784,"Zero Gravity Craft Brewery / American Flatbread",1211753199,4,3.5,3.5,"Schwarzbier",4,4,"Mr. Black",NA,42705
-"80",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940679,3,3.5,4,"Schwarzbier",2.5,3.5,"Mr. Black",NA,42705
-"81",9784,"Zero Gravity Craft Brewery / American Flatbread",1269913482,4,4,4,"English Brown Ale",4,4,"Wassail",NA,57183
-"82",9784,"Zero Gravity Craft Brewery / American Flatbread",1203193454,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Northstar Saison",NA,41032
-"83",9784,"Zero Gravity Craft Brewery / American Flatbread",1203193714,5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Old Jake",NA,41033
-"84",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491561,4.5,4,5,"Scotch Ale / Wee Heavy",4,4,"Greg",6.8,69824
-"85",9784,"Zero Gravity Craft Brewery / American Flatbread",1267310261,4,3.5,4,"Kölsch",3.5,4,"Kolsch",NA,42106
-"86",9784,"Zero Gravity Craft Brewery / American Flatbread",1211752837,4,3.5,4,"Kölsch",3.5,4,"Kolsch",NA,42106
-"87",9784,"Zero Gravity Craft Brewery / American Flatbread",1207945202,4.5,4,4,"Kölsch",4.5,4.5,"Kolsch",NA,42106
-"88",9784,"Zero Gravity Craft Brewery / American Flatbread",1317768157,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Deus Aqua",4.7,73784
-"89",9784,"Zero Gravity Craft Brewery / American Flatbread",1217882803,4,3,4,"Dubbel",4.5,4,"Dubbel",NA,39440
-"90",9784,"Zero Gravity Craft Brewery / American Flatbread",1194054376,4,4,4,"Dubbel",4,4,"Dubbel",NA,39440
-"91",9784,"Zero Gravity Craft Brewery / American Flatbread",1286928594,3.5,4,3.5,"Belgian Pale Ale",4,3.5,"Belgian Crush",5.5,58831
-"92",9784,"Zero Gravity Craft Brewery / American Flatbread",1275451461,4.5,3.5,4,"Belgian Pale Ale",4,4,"Belgian Crush",5.5,58831
-"93",9784,"Zero Gravity Craft Brewery / American Flatbread",1288388727,4,4,4.5,"Pumpkin Ale",3.5,4,"Monster Mash",6.5,62982
-"94",9784,"Zero Gravity Craft Brewery / American Flatbread",1308584581,4.5,4,4,"American IPA",4,4.5,"Conehead Wheat IPA",NA,39093
-"95",9784,"Zero Gravity Craft Brewery / American Flatbread",1246917929,3.5,4,4,"American IPA",4,3,"Conehead Wheat IPA",NA,39093
-"96",9784,"Zero Gravity Craft Brewery / American Flatbread",1194054564,4,4,4,"American IPA",4,4,"Conehead Wheat IPA",NA,39093
-"97",9784,"Zero Gravity Craft Brewery / American Flatbread",1192412614,3.5,3.5,3.5,"American IPA",3.5,3,"Conehead Wheat IPA",NA,39093
-"98",9784,"Zero Gravity Craft Brewery / American Flatbread",1258952284,5,5,5,"Witbier",5,5,"Ur Wit",NA,40056
-"99",9784,"Zero Gravity Craft Brewery / American Flatbread",1197672603,4,3.5,4,"Witbier",3.5,3.5,"Ur Wit",NA,40056
-"100",9784,"Zero Gravity Craft Brewery / American Flatbread",1316713564,4,3.5,4,"Herbed / Spiced Beer",3.5,3.5,"Winter Gruit Ale",NA,40278
-"101",9784,"Zero Gravity Craft Brewery / American Flatbread",1285511831,3,3,3.5,"Herbed / Spiced Beer",3,3.5,"Winter Gruit Ale",NA,40278
-"102",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950420,5,5,5,"Herbed / Spiced Beer",5,5,"Winter Gruit Ale",NA,40278
-"103",9784,"Zero Gravity Craft Brewery / American Flatbread",1210003151,3.5,4.5,4,"Herbed / Spiced Beer",4,4,"Summer Gruit Ale",NA,37573
-"104",9784,"Zero Gravity Craft Brewery / American Flatbread",1236916796,3.5,4.5,3.5,"Herbed / Spiced Beer",2.5,3,"Winter Gruit Ale",NA,40278
-"105",9784,"Zero Gravity Craft Brewery / American Flatbread",1233673635,4.5,4,3.5,"Herbed / Spiced Beer",4,4,"Winter Gruit Ale",NA,40278
-"106",9784,"Zero Gravity Craft Brewery / American Flatbread",1230666346,4,3.5,4,"Herbed / Spiced Beer",4,4.5,"Winter Gruit Ale",NA,40278
-"107",9784,"Zero Gravity Craft Brewery / American Flatbread",1198888315,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Winter Gruit Ale",NA,40278
-"108",9784,"Zero Gravity Craft Brewery / American Flatbread",1316961875,4,4,4,"American Amber / Red Ale",4,4.5,"Local Potion (Sean Lawson Collaboration Brew)",5.1,60058
-"109",9784,"Zero Gravity Craft Brewery / American Flatbread",1280781824,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"Local Potion (Sean Lawson Collaboration Brew)",5.1,60058
-"110",9784,"Zero Gravity Craft Brewery / American Flatbread",1279064841,4,4.5,4,"American Amber / Red Ale",4,4.5,"Local Potion (Sean Lawson Collaboration Brew)",5.1,60058
-"111",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491280,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Wheelhouse",5.7,69821
-"112",9784,"Zero Gravity Craft Brewery / American Flatbread",1312495548,4.5,4,4.5,"Saison / Farmhouse Ale",4,4.5,"Madhava",9.2,71705
-"113",9784,"Zero Gravity Craft Brewery / American Flatbread",1228662507,3.5,4,3,"Herbed / Spiced Beer",4,4,"Summer Gruit Ale",NA,37573
-"114",9784,"Zero Gravity Craft Brewery / American Flatbread",1216992950,4,4,4,"Herbed / Spiced Beer",4.5,4.5,"Summer Gruit Ale",NA,37573
-"115",9784,"Zero Gravity Craft Brewery / American Flatbread",1185289658,3,3.5,3,"Herbed / Spiced Beer",3,3.5,"Summer Gruit Ale",NA,37573
-"116",9784,"Zero Gravity Craft Brewery / American Flatbread",1183767098,3,3,3,"Herbed / Spiced Beer",3,3,"Summer Gruit Ale",NA,37573
-"117",9784,"Zero Gravity Craft Brewery / American Flatbread",1285280241,4.5,4,3.5,"American IPA",4,4.5,"Sticky Fingers",7,53889
-"118",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950761,5,5,5,"American IPA",5,5,"Sticky Fingers",7,53889
-"119",9784,"Zero Gravity Craft Brewery / American Flatbread",1257540598,4.5,4,4,"American IPA",4.5,4.5,"Sticky Fingers",7,53889
-"120",9784,"Zero Gravity Craft Brewery / American Flatbread",1257265288,3.5,3.5,3.5,"American IPA",4,3.5,"Sticky Fingers",7,53889
-"121",9784,"Zero Gravity Craft Brewery / American Flatbread",1310316519,3.5,3,3,"Witbier",3.5,3,"Bob White",NA,43167
-"122",9784,"Zero Gravity Craft Brewery / American Flatbread",1247838850,4.5,4,4,"Witbier",4,4,"Bob White",NA,43167
-"123",9784,"Zero Gravity Craft Brewery / American Flatbread",1219975252,3.5,4,3.5,"Witbier",4,3.5,"Bob White",NA,43167
-"124",9784,"Zero Gravity Craft Brewery / American Flatbread",1214599724,4,3.5,4,"Witbier",4,3.5,"Bob White",NA,43167
-"125",9784,"Zero Gravity Craft Brewery / American Flatbread",1213201950,4.5,4,4,"Witbier",4.5,4,"Bob White",NA,43167
-"126",9784,"Zero Gravity Craft Brewery / American Flatbread",1112976415,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Extra Stout",NA,23044
-"127",9784,"Zero Gravity Craft Brewery / American Flatbread",1266865050,4,3.5,3,"Munich Dunkel Lager",4,3.5,"D.U.N.K.L.E",NA,44333
-"128",9784,"Zero Gravity Craft Brewery / American Flatbread",1298666201,4,4,4,"Foreign / Export Stout",4,4,"Extra Stout",NA,23044
-"129",9784,"Zero Gravity Craft Brewery / American Flatbread",1286928009,4.5,3,3.5,"Foreign / Export Stout",3.5,4,"Extra Stout",NA,23044
-"130",9784,"Zero Gravity Craft Brewery / American Flatbread",1280283614,4,3.5,4,"Foreign / Export Stout",4,3.5,"Extra Stout",NA,23044
-"131",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950990,5,5,5,"Foreign / Export Stout",5,5,"Extra Stout",NA,23044
-"132",9784,"Zero Gravity Craft Brewery / American Flatbread",1230671036,4,3.5,4,"Foreign / Export Stout",4.5,4,"Extra Stout",NA,23044
-"133",9784,"Zero Gravity Craft Brewery / American Flatbread",1220016407,4,4,4,"Foreign / Export Stout",5,4,"Extra Stout",NA,23044
-"134",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940038,4,3.5,3.5,"Foreign / Export Stout",4,3.5,"Extra Stout",NA,23044
-"135",9784,"Zero Gravity Craft Brewery / American Flatbread",1185330103,4,4,4,"Foreign / Export Stout",4.5,4,"Extra Stout",NA,23044
-"136",9784,"Zero Gravity Craft Brewery / American Flatbread",1183855520,3.5,3.5,4.5,"Foreign / Export Stout",3,2.5,"Extra Stout",NA,23044
-"137",9784,"Zero Gravity Craft Brewery / American Flatbread",1130948510,3.5,4,4,"Foreign / Export Stout",3.5,4,"Extra Stout",NA,23044
-"138",9784,"Zero Gravity Craft Brewery / American Flatbread",1124655213,3,3.5,3.5,"Foreign / Export Stout",3.5,3.5,"Extra Stout",NA,23044
-"139",9784,"Zero Gravity Craft Brewery / American Flatbread",1121888024,4,4,3.5,"Foreign / Export Stout",4,4,"Extra Stout",NA,23044
-"140",9784,"Zero Gravity Craft Brewery / American Flatbread",1218827059,4.5,4,3,"Munich Dunkel Lager",4,4,"D.U.N.K.L.E",NA,44333
-"141",9784,"Zero Gravity Craft Brewery / American Flatbread",1258949166,5,5,5,"American Brown Ale",5,5,"Session Brown Mild Ale",NA,25885
-"142",9784,"Zero Gravity Craft Brewery / American Flatbread",1167761245,4,4,4.5,"American Brown Ale",4,4.5,"Session Brown Mild Ale",NA,25885
-"143",9784,"Zero Gravity Craft Brewery / American Flatbread",1130948105,4,3,3,"American Brown Ale",3.5,3.5,"Session Brown Mild Ale",NA,25885
-"144",9784,"Zero Gravity Craft Brewery / American Flatbread",1126965128,2.5,2.5,3,"American Brown Ale",2.5,2.5,"Session Brown Mild Ale",NA,25885
-"145",9784,"Zero Gravity Craft Brewery / American Flatbread",1208815799,4,4.5,4,"Munich Dunkel Lager",4,3.5,"Dwayne's Dunkel",NA,41797
-"146",9784,"Zero Gravity Craft Brewery / American Flatbread",1206486297,4,3.5,4,"Munich Dunkel Lager",3.5,3.5,"Dwayne's Dunkel",NA,41797
-"147",9784,"Zero Gravity Craft Brewery / American Flatbread",1210003671,4,4,4,"American IPA",3.5,4.5,"Sim City IPA",NA,42108
-"148",9784,"Zero Gravity Craft Brewery / American Flatbread",1208794083,4.5,4,4.5,"American IPA",4,4.5,"Sim City IPA",NA,42108
-"149",9784,"Zero Gravity Craft Brewery / American Flatbread",1207947316,5,5,5,"American IPA",5,5,"Sim City IPA",NA,42108
-"150",9784,"Zero Gravity Craft Brewery / American Flatbread",1286845692,3,3.5,3,"Märzen / Oktoberfest",3.5,3,"Flatenbrot Oktoberfest",NA,52931
-"151",9784,"Zero Gravity Craft Brewery / American Flatbread",1285965571,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Flatenbrot Oktoberfest",NA,52931
-"152",9784,"Zero Gravity Craft Brewery / American Flatbread",1281375006,4,3.5,4,"Belgian Pale Ale",3.5,3.5,"The One",NA,60896
-"153",9784,"Zero Gravity Craft Brewery / American Flatbread",1253968836,5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Flatenbrot Oktoberfest",NA,52931
-"154",9784,"Zero Gravity Craft Brewery / American Flatbread",1210939591,3.5,4,4,"American IPA",3.5,3.5,"Captain Ron's IPA",NA,42268
-"155",9784,"Zero Gravity Craft Brewery / American Flatbread",1208815364,4,4,4,"American IPA",4,4.5,"Captain Ron's IPA",NA,42268
-"156",9784,"Zero Gravity Craft Brewery / American Flatbread",1208794751,4.5,4,4.5,"American IPA",4.5,4.5,"Captain Ron's IPA",NA,42268
-"157",9784,"Zero Gravity Craft Brewery / American Flatbread",1250555530,4,4.5,4,"Dubbel",4,4,"Blue Belle",7.2,51037
-"158",9784,"Zero Gravity Craft Brewery / American Flatbread",1250482842,4,4,4.5,"Dubbel",4.5,4,"Blue Belle",7.2,51037
-"159",9784,"Zero Gravity Craft Brewery / American Flatbread",1247272826,4,4,4,"Dubbel",4,4,"Blue Belle",7.2,51037
-"160",9784,"Zero Gravity Craft Brewery / American Flatbread",1283204240,4,4.5,4,"Tripel",5,4.5,"Zero Gravity Tripel",NA,61505
-"161",9784,"Zero Gravity Craft Brewery / American Flatbread",1290462911,4,3.5,4,"American Pale Ale (APA)",4,4.5,"Hop Dollop",4.1,62981
-"162",9784,"Zero Gravity Craft Brewery / American Flatbread",1288387829,4,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Hop Dollop",4.1,62981
-"163",9784,"Zero Gravity Craft Brewery / American Flatbread",1282856499,4.5,4.5,4,"Belgian Pale Ale",4,4,"The One",NA,60896
-"164",9784,"Zero Gravity Craft Brewery / American Flatbread",1319513211,4,4,4,"Fruit / Vegetable Beer",4,4,"Sasquash",NA,74501
-"165",9784,"Zero Gravity Craft Brewery / American Flatbread",1258951587,5,5,5,"Old Ale",5,5,"(Extra) Old Ale",NA,44443
-"166",9784,"Zero Gravity Craft Brewery / American Flatbread",1219254769,4,2.5,4.5,"Old Ale",4,3.5,"(Extra) Old Ale",NA,44443
-"167",9784,"Zero Gravity Craft Brewery / American Flatbread",1129144591,4.5,4.5,4,"Märzen / Oktoberfest",4.5,4.5,"Einstock Octoberfest",NA,26359
-"168",9784,"Zero Gravity Craft Brewery / American Flatbread",1304354168,4,4,4.5,"American Black Ale",4.5,4,"Narconaut Black IPA",NA,57451
-"169",9784,"Zero Gravity Craft Brewery / American Flatbread",1298623543,4.5,4,4,"American Black Ale",4,4.5,"Narconaut Black IPA",NA,57451
-"170",9784,"Zero Gravity Craft Brewery / American Flatbread",1295743425,4.5,4,4.5,"American Black Ale",4,5,"Narconaut Black IPA",NA,57451
-"171",9784,"Zero Gravity Craft Brewery / American Flatbread",1293240166,3.5,4.5,3,"American Black Ale",3.5,3.5,"Narconaut Black IPA",NA,57451
-"172",9784,"Zero Gravity Craft Brewery / American Flatbread",1271725503,4,4.5,4.5,"American Black Ale",3.5,3.5,"Narconaut Black IPA",NA,57451
-"173",9784,"Zero Gravity Craft Brewery / American Flatbread",1270853857,4.5,5,4,"American Black Ale",4,4.5,"Narconaut Black IPA",NA,57451
-"174",9784,"Zero Gravity Craft Brewery / American Flatbread",1167760944,3,3,3,"American IPA",3,3,"India Pale Ale",NA,23045
-"175",9784,"Zero Gravity Craft Brewery / American Flatbread",1126964843,3.5,3.5,3,"American IPA",3.5,3.5,"India Pale Ale",NA,23045
-"176",9784,"Zero Gravity Craft Brewery / American Flatbread",1121796029,4,4,4.5,"American IPA",4.5,4.5,"India Pale Ale",NA,23045
-"177",9784,"Zero Gravity Craft Brewery / American Flatbread",1121734756,4,4,3.5,"American IPA",4,3.5,"India Pale Ale",NA,23045
-"178",9784,"Zero Gravity Craft Brewery / American Flatbread",1258951391,5,5,5,"Bock",5,5,"Summer Bock",NA,25228
-"179",9784,"Zero Gravity Craft Brewery / American Flatbread",1130947173,3.5,3.5,4,"Bock",4,3.5,"Summer Bock",NA,25228
-"180",9784,"Zero Gravity Craft Brewery / American Flatbread",1123850049,4,3,4,"Bock",4,4,"Summer Bock",NA,25228
-"181",9784,"Zero Gravity Craft Brewery / American Flatbread",1308584926,4.5,4,3.5,"Dortmunder / Export Lager",4,4,"Schoen Dorf",4.9,69820
-"182",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491160,4,3.5,4,"Dortmunder / Export Lager",3.5,3.5,"Schoen Dorf",4.9,69820
-"183",9784,"Zero Gravity Craft Brewery / American Flatbread",1228180850,4.5,4,3.5,"Belgian Pale Ale",4,4,"7 Days Pail Ale",NA,44220
-"184",9784,"Zero Gravity Craft Brewery / American Flatbread",1218232007,4.5,4,4,"Belgian Pale Ale",4.5,4.5,"7 Days Pail Ale",NA,44220
-"185",9784,"Zero Gravity Craft Brewery / American Flatbread",1180202909,4,4,4,"Extra Special / Strong Bitter (ESB)",5,4.5,"Villier's Extra Special Bitter",NA,23043
-"186",9784,"Zero Gravity Craft Brewery / American Flatbread",1167760703,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Villier's Extra Special Bitter",NA,23043
-"187",9784,"Zero Gravity Craft Brewery / American Flatbread",1155591132,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Villier's Extra Special Bitter",NA,23043
-"188",9784,"Zero Gravity Craft Brewery / American Flatbread",1312494603,4,4,3.5,"American Double / Imperial IPA",3.5,4.5,"Ale Communication",7.3,67821
-"189",9784,"Zero Gravity Craft Brewery / American Flatbread",1133370524,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Villier's Extra Special Bitter",NA,23043
-"190",9784,"Zero Gravity Craft Brewery / American Flatbread",1130947445,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Villier's Extra Special Bitter",NA,23043
-"191",9784,"Zero Gravity Craft Brewery / American Flatbread",1123850584,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Villier's Extra Special Bitter",NA,23043
-"192",9784,"Zero Gravity Craft Brewery / American Flatbread",1121887854,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Villier's Extra Special Bitter",NA,23043
-"193",9784,"Zero Gravity Craft Brewery / American Flatbread",1112976261,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"Villier's Extra Special Bitter",NA,23043
-"194",9784,"Zero Gravity Craft Brewery / American Flatbread",1286846258,4.5,4.5,3.5,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
-"195",9784,"Zero Gravity Craft Brewery / American Flatbread",1285287103,4,4,4,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
-"196",9784,"Zero Gravity Craft Brewery / American Flatbread",1257537978,4.5,3.5,3.5,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
-"197",9784,"Zero Gravity Craft Brewery / American Flatbread",1258951230,5,5,5,"American Dark Wheat Ale",5,5,"Wheat IPA",NA,42704
-"198",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940275,4,4,3.5,"American Dark Wheat Ale",3,3.5,"Wheat IPA",NA,42704
-"199",9784,"Zero Gravity Craft Brewery / American Flatbread",1316534107,5,4,4,"Munich Helles Lager",4.5,4.5,"Helles",NA,73285
-"200",9784,"Zero Gravity Craft Brewery / American Flatbread",1280783214,4.5,4.5,4.5,"Belgian Pale Ale",4,4,"The Yaz",4.5,60061
-"201",9784,"Zero Gravity Craft Brewery / American Flatbread",1279069335,4.5,3.5,4,"Belgian Pale Ale",3.5,4.5,"The Yaz",4.5,60061
-"202",9784,"Zero Gravity Craft Brewery / American Flatbread",1316533819,4,4,4,"American Double / Imperial IPA",4,4,"Ale Communication",7.3,67821
-"203",9784,"Zero Gravity Craft Brewery / American Flatbread",1303593785,4,3,4,"American Double / Imperial IPA",4,3,"Ale Communication",7.3,67821
-"204",9784,"Zero Gravity Craft Brewery / American Flatbread",1301929593,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ale Communication",7.3,67821
-"205",9784,"Zero Gravity Craft Brewery / American Flatbread",1240243011,4.5,4,4.5,"American IPA",4,4.5,"Calamity IPA",NA,49068
-"206",9784,"Zero Gravity Craft Brewery / American Flatbread",1239989644,4.5,4,4,"American IPA",4.5,4.5,"Calamity IPA",NA,49068
-"207",9784,"Zero Gravity Craft Brewery / American Flatbread",1239414196,4.5,4,4,"American IPA",4,4,"Calamity IPA",NA,49068
-"208",9784,"Zero Gravity Craft Brewery / American Flatbread",1322415959,4.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Anniversary Ale",3.8,71704
-"209",9784,"Zero Gravity Craft Brewery / American Flatbread",1318211943,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Anniversary Ale",3.8,71704
-"210",9784,"Zero Gravity Craft Brewery / American Flatbread",1312493689,4,4.5,4,"American Pale Ale (APA)",4,4,"Anniversary Ale",3.8,71704
-"211",9784,"Zero Gravity Craft Brewery / American Flatbread",1307535251,4.5,4,4,"Tripel",3.5,4,"Tribbel",8.3,67825
-"212",9784,"Zero Gravity Craft Brewery / American Flatbread",1301941789,4,4,4,"Tripel",4,4,"Tribbel",8.3,67825
-"213",9784,"Zero Gravity Craft Brewery / American Flatbread",1280284085,4,3.5,4,"American Porter",4,4,"Black Cat Porter",5.3,40717
-"214",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539106,4,3.5,4,"American Porter",4.5,4,"Black Cat Porter",5.3,40717
-"215",9784,"Zero Gravity Craft Brewery / American Flatbread",1233327678,4,4,4,"American Porter",3.5,3.5,"Black Cat Porter",5.3,40717
-"216",9784,"Zero Gravity Craft Brewery / American Flatbread",1230670066,4.5,4,4,"American Porter",4,4.5,"Black Cat Porter",5.3,40717
-"217",9784,"Zero Gravity Craft Brewery / American Flatbread",1226349623,4.5,4,4,"American Porter",4.5,4.5,"Black Cat Porter",5.3,40717
-"218",9784,"Zero Gravity Craft Brewery / American Flatbread",1201308733,4,4,4,"American Porter",4,4,"Black Cat Porter",5.3,40717
-"219",9784,"Zero Gravity Craft Brewery / American Flatbread",1293907478,4,3.5,4,"Belgian Pale Ale",4,4,"Holy Matrimony-Ale",5.4,61381
-"220",9784,"Zero Gravity Craft Brewery / American Flatbread",1286321272,3.5,4,3.5,"Belgian Pale Ale",4,3.5,"Holy Matrimony-Ale",5.4,61381
-"221",9784,"Zero Gravity Craft Brewery / American Flatbread",1282857964,4,4,4,"Belgian Pale Ale",4,3.5,"Holy Matrimony-Ale",5.4,61381
-"222",9784,"Zero Gravity Craft Brewery / American Flatbread",1307713538,4,3.5,4,"Old Ale",4,3.5,"Old Ale",NA,35721
-"223",9784,"Zero Gravity Craft Brewery / American Flatbread",1295741556,4,3.5,4,"Old Ale",4,4,"Old Ale",NA,35721
-"224",9784,"Zero Gravity Craft Brewery / American Flatbread",1285512166,3.5,4,4,"Old Ale",3,4,"Old Ale",NA,35721
-"225",9784,"Zero Gravity Craft Brewery / American Flatbread",1316712677,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Boognish Brown",3.7,42813
-"226",9784,"Zero Gravity Craft Brewery / American Flatbread",1233672941,4,3.5,4,"Old Ale",3.5,3,"Old Ale",NA,35721
-"227",9784,"Zero Gravity Craft Brewery / American Flatbread",1204291364,3,3.5,3.5,"Old Ale",3.5,3,"Old Ale",NA,35721
-"228",9784,"Zero Gravity Craft Brewery / American Flatbread",1198888689,3.5,3.5,3.5,"Old Ale",3.5,3.5,"Old Ale",NA,35721
-"229",9784,"Zero Gravity Craft Brewery / American Flatbread",1173065059,4.5,4.5,4,"Old Ale",3.5,4,"Old Ale",NA,35721
-"230",9784,"Zero Gravity Craft Brewery / American Flatbread",1235070373,4,4,4.5,"Saison / Farmhouse Ale",3.5,3.5,"Reunion Saison",6,48037
-"231",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491390,4,4,3.5,"Vienna Lager",4,4.5,"Bach Nein",6.3,69822
-"232",9784,"Zero Gravity Craft Brewery / American Flatbread",1310317263,3.5,3.5,4,"German Pilsener",4,3.5,"Christina Pils",NA,50816
-"233",9784,"Zero Gravity Craft Brewery / American Flatbread",1286845977,3.5,3.5,4,"German Pilsener",4,4,"Christina Pils",NA,50816
-"234",9784,"Zero Gravity Craft Brewery / American Flatbread",1258949531,5,5,5,"German Pilsener",5,5,"Christina Pils",NA,50816
-"235",9784,"Zero Gravity Craft Brewery / American Flatbread",1247272597,4.5,4,4.5,"German Pilsener",4,4,"Christina Pils",NA,50816
-"236",9784,"Zero Gravity Craft Brewery / American Flatbread",1246413932,2.5,2.5,3,"German Pilsener",2,2,"Christina Pils",NA,50816
-"237",9784,"Zero Gravity Craft Brewery / American Flatbread",1153966146,4,4,4,"German Pilsener",4,4,"N. German Pilsner / Cristina Pils",5,31908
-"238",9784,"Zero Gravity Craft Brewery / American Flatbread",1318212512,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Boognish Brown",3.7,42813
-"239",9784,"Zero Gravity Craft Brewery / American Flatbread",1298665915,4,3.5,3.5,"English Brown Ale",4,3.5,"Boognish Brown",3.7,42813
-"240",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539307,4.5,3.5,4,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
-"241",9784,"Zero Gravity Craft Brewery / American Flatbread",1236981865,4,3.5,4,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
-"242",9784,"Zero Gravity Craft Brewery / American Flatbread",1211461887,4.5,4.5,3.5,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
-"243",9784,"Zero Gravity Craft Brewery / American Flatbread",1316713103,3.5,3.5,3.5,"Altbier",3.5,4,"Da Spalter Alt",4.7,37905
-"244",9784,"Zero Gravity Craft Brewery / American Flatbread",1239992551,4.5,3.5,4,"Altbier",4,4.5,"Da Spalter Alt",4.7,37905
-"245",9784,"Zero Gravity Craft Brewery / American Flatbread",1231608847,4,3.5,4,"Altbier",4,4,"Da Spalter Alt",4.7,37905
-"246",9784,"Zero Gravity Craft Brewery / American Flatbread",1185329493,3.5,3.5,3.5,"Altbier",3.5,3.5,"Da Spalter Alt",4.7,37905
-"247",9784,"Zero Gravity Craft Brewery / American Flatbread",1206994152,4,4.5,4.5,"American IPA",4.5,4.5,"Centennial",NA,40825
-"248",9784,"Zero Gravity Craft Brewery / American Flatbread",1204401095,4,4,4,"American IPA",3,4,"Centennial",NA,40825
-"249",9784,"Zero Gravity Craft Brewery / American Flatbread",1201902940,4,4.5,4,"American IPA",4,4.5,"Centennial",NA,40825
-"250",9784,"Zero Gravity Craft Brewery / American Flatbread",1257539293,5,4.5,4.5,"Hefeweizen",4.5,5,"Weizenheimer",NA,53949
-"251",9784,"Zero Gravity Craft Brewery / American Flatbread",1318212280,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Kind Of Blue",NA,73971
-"252",9784,"Zero Gravity Craft Brewery / American Flatbread",1269914888,4,4,4,"Witbier",4,4.5,"Witness",6.8,57186
-"253",9784,"Zero Gravity Craft Brewery / American Flatbread",1322417635,4.5,3.5,4.5,"German Pilsener",4.5,4.5,"Paul's Pils",4.8,24844
-"254",9784,"Zero Gravity Craft Brewery / American Flatbread",1212250986,4.5,4,4,"German Pilsener",4,4.5,"Paul's Pils",4.8,24844
-"255",9784,"Zero Gravity Craft Brewery / American Flatbread",1207943520,4.5,4,4,"German Pilsener",4.5,4,"Paul's Pils",4.8,24844
-"256",9784,"Zero Gravity Craft Brewery / American Flatbread",1130947867,5,4,4.5,"German Pilsener",4.5,4.5,"Paul's Pils",4.8,24844
-"257",9784,"Zero Gravity Craft Brewery / American Flatbread",1123850252,5,3.5,4,"German Pilsener",5,4.5,"Paul's Pils",4.8,24844
-"258",9784,"Zero Gravity Craft Brewery / American Flatbread",1121804095,5,4.5,5,"German Pilsener",5,5,"Paul's Pils",4.8,24844
-"259",9784,"Zero Gravity Craft Brewery / American Flatbread",1121735559,4,3.5,4,"German Pilsener",3.5,3.5,"Paul's Pils",4.8,24844
-"260",9784,"Zero Gravity Craft Brewery / American Flatbread",1303595818,3.5,4,4,"American Double / Imperial IPA",3,3.5,"Red-Handed",7.1,68340
-"261",9784,"Zero Gravity Craft Brewery / American Flatbread",1246917683,4,3.5,4,"American Amber / Red Lager",4,4,"India Pale Lager",NA,49207
-"262",9784,"Zero Gravity Craft Brewery / American Flatbread",1239990919,4.5,4,4,"American Amber / Red Lager",4,4.5,"India Pale Lager",NA,49207
-"263",9784,"Zero Gravity Craft Brewery / American Flatbread",1277312723,3.5,3.5,4,"Rye Beer",3.5,3.5,"Vermont Wry",NA,57613
-"264",9784,"Zero Gravity Craft Brewery / American Flatbread",1271725591,4,3.5,4,"Rye Beer",4,4,"Vermont Wry",NA,57613
-"265",9784,"Zero Gravity Craft Brewery / American Flatbread",1271552154,3.5,4,4,"Rye Beer",4,3.5,"Vermont Wry",NA,57613
-"266",9784,"Zero Gravity Craft Brewery / American Flatbread",1298387028,4.5,4,4,"American IPA",4,4,"TLA IPA",NA,38480
-"267",9784,"Zero Gravity Craft Brewery / American Flatbread",1296060491,4.5,4.5,4.5,"American IPA",4,4.5,"TLA IPA",NA,38480
-"268",9784,"Zero Gravity Craft Brewery / American Flatbread",1295274192,4,3.5,4,"American IPA",4,4,"TLA IPA",NA,38480
-"269",9784,"Zero Gravity Craft Brewery / American Flatbread",1286928241,4.5,4.5,4,"American IPA",3.5,4,"TLA IPA",NA,38480
-"270",9784,"Zero Gravity Craft Brewery / American Flatbread",1277311898,3.5,4,4.5,"American IPA",3.5,4,"TLA IPA",NA,38480
-"271",9784,"Zero Gravity Craft Brewery / American Flatbread",1271681330,4,3.5,4.5,"American IPA",4,4,"TLA IPA",NA,38480
-"272",9784,"Zero Gravity Craft Brewery / American Flatbread",1255039761,4.5,4.5,4.5,"American IPA",4.5,4,"TLA IPA",NA,38480
-"273",9784,"Zero Gravity Craft Brewery / American Flatbread",1243514373,4.5,4.5,4,"American IPA",3.5,5,"TLA IPA",NA,38480
-"274",9784,"Zero Gravity Craft Brewery / American Flatbread",1212251377,4.5,4,4,"American IPA",4,4,"TLA IPA",NA,38480
-"275",9784,"Zero Gravity Craft Brewery / American Flatbread",1206488738,4.5,4.5,4.5,"American IPA",4.5,4.5,"TLA IPA",NA,38480
-"276",9784,"Zero Gravity Craft Brewery / American Flatbread",1205971824,4,4,3.5,"American IPA",4,4,"TLA IPA",NA,38480
-"277",9784,"Zero Gravity Craft Brewery / American Flatbread",1204291816,4,4,3.5,"American IPA",3.5,4,"TLA IPA",NA,38480
-"278",9784,"Zero Gravity Craft Brewery / American Flatbread",1188834563,3.5,3.5,3.5,"American IPA",4,4,"TLA IPA",NA,38480
-"279",9784,"Zero Gravity Craft Brewery / American Flatbread",1223770530,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Herzbrau Oktoberfest",NA,45168
-"280",9784,"Zero Gravity Craft Brewery / American Flatbread",1223671960,4.5,4,4.5,"Märzen / Oktoberfest",4,4,"Herzbrau Oktoberfest",NA,45168
-"281",9784,"Zero Gravity Craft Brewery / American Flatbread",1223069310,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Herzbrau Oktoberfest",NA,45168
+"1",9784,"Zero Gravity Craft Brewery / American Flatbread",1285282655,4.5,3.5,4,"Hefeweizen",4.5,4,"Weizenheimer",NA,53949
+"2",9784,"Zero Gravity Craft Brewery / American Flatbread",1228667413,3.5,3.5,4.5,"Rauchbier",3.5,3.5,"Rauchbier",NA,39455
+"3",9784,"Zero Gravity Craft Brewery / American Flatbread",1223770092,4,3.5,4,"Rauchbier",3.5,4,"Rauchbier",NA,39455
+"4",9784,"Zero Gravity Craft Brewery / American Flatbread",1204400546,3,3,3.5,"Rauchbier",2.5,3,"Rauchbier",NA,39455
+"5",9784,"Zero Gravity Craft Brewery / American Flatbread",1194122796,4,4,4,"Rauchbier",4,4,"Rauchbier",NA,39455
+"6",9784,"Zero Gravity Craft Brewery / American Flatbread",1319513931,4.5,4,4,"Milk / Sweet Stout",4.5,4,"Milk Stout",NA,73972
+"7",9784,"Zero Gravity Craft Brewery / American Flatbread",1318213230,4,4,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,73972
+"8",9784,"Zero Gravity Craft Brewery / American Flatbread",1286845365,2,2,2,"Saison / Farmhouse Ale",2,2,"Grisette",NA,50359
+"9",9784,"Zero Gravity Craft Brewery / American Flatbread",1259421453,5,3,4,"Munich Helles Lager",4,4.5,"Munich Helles",NA,26358
+"10",9784,"Zero Gravity Craft Brewery / American Flatbread",1228777717,4.5,4,4,"Munich Helles Lager",4.5,4,"Munich Helles",NA,26358
+"11",9784,"Zero Gravity Craft Brewery / American Flatbread",1216053328,4,3,4,"Munich Helles Lager",4.5,4.5,"Munich Helles",NA,26358
+"12",9784,"Zero Gravity Craft Brewery / American Flatbread",1167761455,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Munich Helles",NA,26358
+"13",9784,"Zero Gravity Craft Brewery / American Flatbread",1129144379,4.5,4,4,"Munich Helles Lager",4,4.5,"Munich Helles",NA,26358
+"14",9784,"Zero Gravity Craft Brewery / American Flatbread",1289668056,4,3.5,4,"Märzen / Oktoberfest",4,4,"Märzen",NA,63492
+"15",9784,"Zero Gravity Craft Brewery / American Flatbread",1222824729,3.5,3.5,4,"German Pilsener",3.5,4,"Keller Pils",NA,45126
+"16",9784,"Zero Gravity Craft Brewery / American Flatbread",1253374954,5,3.5,4,"Vienna Lager",4,4.5,"Vienna Lager",5.6,43244
+"17",9784,"Zero Gravity Craft Brewery / American Flatbread",1219976710,4,3,4,"Vienna Lager",4.5,4,"Vienna Lager",5.6,43244
+"18",9784,"Zero Gravity Craft Brewery / American Flatbread",1218233997,4.5,4,4,"Vienna Lager",4.5,4.5,"Vienna Lager",5.6,43244
+"19",9784,"Zero Gravity Craft Brewery / American Flatbread",1215084037,4.5,4,4,"Vienna Lager",4,4.5,"Vienna Lager",5.6,43244
+"20",9784,"Zero Gravity Craft Brewery / American Flatbread",1213549590,4.5,4,4,"Vienna Lager",4,4,"Vienna Lager",5.6,43244
+"21",9784,"Zero Gravity Craft Brewery / American Flatbread",1316962307,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"London Calling",3.8,42706
+"22",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539249,4,3.5,3.5,"English Pale Ale",4,4,"London Calling",3.8,42706
+"23",9784,"Zero Gravity Craft Brewery / American Flatbread",1244507062,4,3.5,4,"English Pale Ale",4,4,"London Calling",3.8,42706
+"24",9784,"Zero Gravity Craft Brewery / American Flatbread",1235071532,4,3.5,3.5,"English Pale Ale",4,3.5,"London Calling",3.8,42706
+"25",9784,"Zero Gravity Craft Brewery / American Flatbread",1218230406,3.5,3.5,4,"English Pale Ale",3,3.5,"London Calling",3.8,42706
+"26",9784,"Zero Gravity Craft Brewery / American Flatbread",1216699959,4,3.5,3.5,"English Pale Ale",4.5,4,"London Calling",3.8,42706
+"27",9784,"Zero Gravity Craft Brewery / American Flatbread",1211841607,4,4,4,"English Pale Ale",3.5,4,"London Calling",3.8,42706
+"28",9784,"Zero Gravity Craft Brewery / American Flatbread",1210941280,3.5,4,4,"English Pale Ale",3,3,"London Calling",3.8,42706
+"29",9784,"Zero Gravity Craft Brewery / American Flatbread",1280784310,4.5,3.5,4,"Saison / Farmhouse Ale",4,4.5,"Grisette",NA,50359
+"30",9784,"Zero Gravity Craft Brewery / American Flatbread",1244507647,3.5,3.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Grisette",NA,50359
+"31",9784,"Zero Gravity Craft Brewery / American Flatbread",1277312295,4,3.5,4,"Schwarzbier",4,3.5,"Mr. Black",NA,42705
+"32",9784,"Zero Gravity Craft Brewery / American Flatbread",1246917323,4,3.5,3.5,"Schwarzbier",3.5,3.5,"Mr. Black",NA,42705
+"33",9784,"Zero Gravity Craft Brewery / American Flatbread",1216699266,4,3.5,4,"Schwarzbier",4.5,4,"Mr. Black",NA,42705
+"34",9784,"Zero Gravity Craft Brewery / American Flatbread",1290553454,4,4,4,"Herbed / Spiced Beer",4,3.5,"Cornucopia",6.5,63798
+"35",9784,"Zero Gravity Craft Brewery / American Flatbread",1211753199,4,3.5,3.5,"Schwarzbier",4,4,"Mr. Black",NA,42705
+"36",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940679,3,3.5,4,"Schwarzbier",2.5,3.5,"Mr. Black",NA,42705
+"37",9784,"Zero Gravity Craft Brewery / American Flatbread",1307491561,4.5,4,5,"Scotch Ale / Wee Heavy",4,4,"Greg",6.8,69824
+"38",9784,"Zero Gravity Craft Brewery / American Flatbread",1267310261,4,3.5,4,"Kölsch",3.5,4,"Kolsch",NA,42106
+"39",9784,"Zero Gravity Craft Brewery / American Flatbread",1211752837,4,3.5,4,"Kölsch",3.5,4,"Kolsch",NA,42106
+"40",9784,"Zero Gravity Craft Brewery / American Flatbread",1207945202,4.5,4,4,"Kölsch",4.5,4.5,"Kolsch",NA,42106
+"41",9784,"Zero Gravity Craft Brewery / American Flatbread",1217882803,4,3,4,"Dubbel",4.5,4,"Dubbel",NA,39440
+"42",9784,"Zero Gravity Craft Brewery / American Flatbread",1194054376,4,4,4,"Dubbel",4,4,"Dubbel",NA,39440
+"43",9784,"Zero Gravity Craft Brewery / American Flatbread",1288388727,4,4,4.5,"Pumpkin Ale",3.5,4,"Monster Mash",6.5,62982
+"44",9784,"Zero Gravity Craft Brewery / American Flatbread",1316713564,4,3.5,4,"Herbed / Spiced Beer",3.5,3.5,"Winter Gruit Ale",NA,40278
+"45",9784,"Zero Gravity Craft Brewery / American Flatbread",1285511831,3,3,3.5,"Herbed / Spiced Beer",3,3.5,"Winter Gruit Ale",NA,40278
+"46",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950420,5,5,5,"Herbed / Spiced Beer",5,5,"Winter Gruit Ale",NA,40278
+"47",9784,"Zero Gravity Craft Brewery / American Flatbread",1210003151,3.5,4.5,4,"Herbed / Spiced Beer",4,4,"Summer Gruit Ale",NA,37573
+"48",9784,"Zero Gravity Craft Brewery / American Flatbread",1236916796,3.5,4.5,3.5,"Herbed / Spiced Beer",2.5,3,"Winter Gruit Ale",NA,40278
+"49",9784,"Zero Gravity Craft Brewery / American Flatbread",1233673635,4.5,4,3.5,"Herbed / Spiced Beer",4,4,"Winter Gruit Ale",NA,40278
+"50",9784,"Zero Gravity Craft Brewery / American Flatbread",1230666346,4,3.5,4,"Herbed / Spiced Beer",4,4.5,"Winter Gruit Ale",NA,40278
+"51",9784,"Zero Gravity Craft Brewery / American Flatbread",1198888315,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Winter Gruit Ale",NA,40278
+"52",9784,"Zero Gravity Craft Brewery / American Flatbread",1228662507,3.5,4,3,"Herbed / Spiced Beer",4,4,"Summer Gruit Ale",NA,37573
+"53",9784,"Zero Gravity Craft Brewery / American Flatbread",1216992950,4,4,4,"Herbed / Spiced Beer",4.5,4.5,"Summer Gruit Ale",NA,37573
+"54",9784,"Zero Gravity Craft Brewery / American Flatbread",1185289658,3,3.5,3,"Herbed / Spiced Beer",3,3.5,"Summer Gruit Ale",NA,37573
+"55",9784,"Zero Gravity Craft Brewery / American Flatbread",1183767098,3,3,3,"Herbed / Spiced Beer",3,3,"Summer Gruit Ale",NA,37573
+"56",9784,"Zero Gravity Craft Brewery / American Flatbread",1285280241,4.5,4,3.5,"American IPA",4,4.5,"Sticky Fingers",7,53889
+"57",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950761,5,5,5,"American IPA",5,5,"Sticky Fingers",7,53889
+"58",9784,"Zero Gravity Craft Brewery / American Flatbread",1257540598,4.5,4,4,"American IPA",4.5,4.5,"Sticky Fingers",7,53889
+"59",9784,"Zero Gravity Craft Brewery / American Flatbread",1257265288,3.5,3.5,3.5,"American IPA",4,3.5,"Sticky Fingers",7,53889
+"60",9784,"Zero Gravity Craft Brewery / American Flatbread",1310316519,3.5,3,3,"Witbier",3.5,3,"Bob White",NA,43167
+"61",9784,"Zero Gravity Craft Brewery / American Flatbread",1247838850,4.5,4,4,"Witbier",4,4,"Bob White",NA,43167
+"62",9784,"Zero Gravity Craft Brewery / American Flatbread",1219975252,3.5,4,3.5,"Witbier",4,3.5,"Bob White",NA,43167
+"63",9784,"Zero Gravity Craft Brewery / American Flatbread",1214599724,4,3.5,4,"Witbier",4,3.5,"Bob White",NA,43167
+"64",9784,"Zero Gravity Craft Brewery / American Flatbread",1213201950,4.5,4,4,"Witbier",4.5,4,"Bob White",NA,43167
+"65",9784,"Zero Gravity Craft Brewery / American Flatbread",1112976415,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Extra Stout",NA,23044
+"66",9784,"Zero Gravity Craft Brewery / American Flatbread",1298666201,4,4,4,"Foreign / Export Stout",4,4,"Extra Stout",NA,23044
+"67",9784,"Zero Gravity Craft Brewery / American Flatbread",1286928009,4.5,3,3.5,"Foreign / Export Stout",3.5,4,"Extra Stout",NA,23044
+"68",9784,"Zero Gravity Craft Brewery / American Flatbread",1280283614,4,3.5,4,"Foreign / Export Stout",4,3.5,"Extra Stout",NA,23044
+"69",9784,"Zero Gravity Craft Brewery / American Flatbread",1258950990,5,5,5,"Foreign / Export Stout",5,5,"Extra Stout",NA,23044
+"70",9784,"Zero Gravity Craft Brewery / American Flatbread",1230671036,4,3.5,4,"Foreign / Export Stout",4.5,4,"Extra Stout",NA,23044
+"71",9784,"Zero Gravity Craft Brewery / American Flatbread",1220016407,4,4,4,"Foreign / Export Stout",5,4,"Extra Stout",NA,23044
+"72",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940038,4,3.5,3.5,"Foreign / Export Stout",4,3.5,"Extra Stout",NA,23044
+"73",9784,"Zero Gravity Craft Brewery / American Flatbread",1185330103,4,4,4,"Foreign / Export Stout",4.5,4,"Extra Stout",NA,23044
+"74",9784,"Zero Gravity Craft Brewery / American Flatbread",1183855520,3.5,3.5,4.5,"Foreign / Export Stout",3,2.5,"Extra Stout",NA,23044
+"75",9784,"Zero Gravity Craft Brewery / American Flatbread",1130948510,3.5,4,4,"Foreign / Export Stout",3.5,4,"Extra Stout",NA,23044
+"76",9784,"Zero Gravity Craft Brewery / American Flatbread",1124655213,3,3.5,3.5,"Foreign / Export Stout",3.5,3.5,"Extra Stout",NA,23044
+"77",9784,"Zero Gravity Craft Brewery / American Flatbread",1121888024,4,4,3.5,"Foreign / Export Stout",4,4,"Extra Stout",NA,23044
+"78",9784,"Zero Gravity Craft Brewery / American Flatbread",1304354168,4,4,4.5,"American Black Ale",4.5,4,"Narconaut Black IPA",NA,57451
+"79",9784,"Zero Gravity Craft Brewery / American Flatbread",1298623543,4.5,4,4,"American Black Ale",4,4.5,"Narconaut Black IPA",NA,57451
+"80",9784,"Zero Gravity Craft Brewery / American Flatbread",1295743425,4.5,4,4.5,"American Black Ale",4,5,"Narconaut Black IPA",NA,57451
+"81",9784,"Zero Gravity Craft Brewery / American Flatbread",1293240166,3.5,4.5,3,"American Black Ale",3.5,3.5,"Narconaut Black IPA",NA,57451
+"82",9784,"Zero Gravity Craft Brewery / American Flatbread",1271725503,4,4.5,4.5,"American Black Ale",3.5,3.5,"Narconaut Black IPA",NA,57451
+"83",9784,"Zero Gravity Craft Brewery / American Flatbread",1270853857,4.5,5,4,"American Black Ale",4,4.5,"Narconaut Black IPA",NA,57451
+"84",9784,"Zero Gravity Craft Brewery / American Flatbread",1167760944,3,3,3,"American IPA",3,3,"India Pale Ale",NA,23045
+"85",9784,"Zero Gravity Craft Brewery / American Flatbread",1126964843,3.5,3.5,3,"American IPA",3.5,3.5,"India Pale Ale",NA,23045
+"86",9784,"Zero Gravity Craft Brewery / American Flatbread",1121796029,4,4,4.5,"American IPA",4.5,4.5,"India Pale Ale",NA,23045
+"87",9784,"Zero Gravity Craft Brewery / American Flatbread",1121734756,4,4,3.5,"American IPA",4,3.5,"India Pale Ale",NA,23045
+"88",9784,"Zero Gravity Craft Brewery / American Flatbread",1180202909,4,4,4,"Extra Special / Strong Bitter (ESB)",5,4.5,"Villier's Extra Special Bitter",NA,23043
+"89",9784,"Zero Gravity Craft Brewery / American Flatbread",1167760703,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Villier's Extra Special Bitter",NA,23043
+"90",9784,"Zero Gravity Craft Brewery / American Flatbread",1155591132,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Villier's Extra Special Bitter",NA,23043
+"91",9784,"Zero Gravity Craft Brewery / American Flatbread",1133370524,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Villier's Extra Special Bitter",NA,23043
+"92",9784,"Zero Gravity Craft Brewery / American Flatbread",1130947445,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Villier's Extra Special Bitter",NA,23043
+"93",9784,"Zero Gravity Craft Brewery / American Flatbread",1123850584,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Villier's Extra Special Bitter",NA,23043
+"94",9784,"Zero Gravity Craft Brewery / American Flatbread",1121887854,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Villier's Extra Special Bitter",NA,23043
+"95",9784,"Zero Gravity Craft Brewery / American Flatbread",1112976261,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"Villier's Extra Special Bitter",NA,23043
+"96",9784,"Zero Gravity Craft Brewery / American Flatbread",1286846258,4.5,4.5,3.5,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
+"97",9784,"Zero Gravity Craft Brewery / American Flatbread",1285287103,4,4,4,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
+"98",9784,"Zero Gravity Craft Brewery / American Flatbread",1257537978,4.5,3.5,3.5,"Rauchbier",4.5,4.5,"Smokey The Beer",NA,53948
+"99",9784,"Zero Gravity Craft Brewery / American Flatbread",1258951230,5,5,5,"American Dark Wheat Ale",5,5,"Wheat IPA",NA,42704
+"100",9784,"Zero Gravity Craft Brewery / American Flatbread",1210940275,4,4,3.5,"American Dark Wheat Ale",3,3.5,"Wheat IPA",NA,42704
+"101",9784,"Zero Gravity Craft Brewery / American Flatbread",1316534107,5,4,4,"Munich Helles Lager",4.5,4.5,"Helles",NA,73285
+"102",9784,"Zero Gravity Craft Brewery / American Flatbread",1322415959,4.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Anniversary Ale",3.8,71704
+"103",9784,"Zero Gravity Craft Brewery / American Flatbread",1318211943,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Anniversary Ale",3.8,71704
+"104",9784,"Zero Gravity Craft Brewery / American Flatbread",1312493689,4,4.5,4,"American Pale Ale (APA)",4,4,"Anniversary Ale",3.8,71704
+"105",9784,"Zero Gravity Craft Brewery / American Flatbread",1280284085,4,3.5,4,"American Porter",4,4,"Black Cat Porter",5.3,40717
+"106",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539106,4,3.5,4,"American Porter",4.5,4,"Black Cat Porter",5.3,40717
+"107",9784,"Zero Gravity Craft Brewery / American Flatbread",1233327678,4,4,4,"American Porter",3.5,3.5,"Black Cat Porter",5.3,40717
+"108",9784,"Zero Gravity Craft Brewery / American Flatbread",1230670066,4.5,4,4,"American Porter",4,4.5,"Black Cat Porter",5.3,40717
+"109",9784,"Zero Gravity Craft Brewery / American Flatbread",1226349623,4.5,4,4,"American Porter",4.5,4.5,"Black Cat Porter",5.3,40717
+"110",9784,"Zero Gravity Craft Brewery / American Flatbread",1201308733,4,4,4,"American Porter",4,4,"Black Cat Porter",5.3,40717
+"111",9784,"Zero Gravity Craft Brewery / American Flatbread",1307713538,4,3.5,4,"Old Ale",4,3.5,"Old Ale",NA,35721
+"112",9784,"Zero Gravity Craft Brewery / American Flatbread",1295741556,4,3.5,4,"Old Ale",4,4,"Old Ale",NA,35721
+"113",9784,"Zero Gravity Craft Brewery / American Flatbread",1285512166,3.5,4,4,"Old Ale",3,4,"Old Ale",NA,35721
+"114",9784,"Zero Gravity Craft Brewery / American Flatbread",1316712677,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Boognish Brown",3.7,42813
+"115",9784,"Zero Gravity Craft Brewery / American Flatbread",1233672941,4,3.5,4,"Old Ale",3.5,3,"Old Ale",NA,35721
+"116",9784,"Zero Gravity Craft Brewery / American Flatbread",1204291364,3,3.5,3.5,"Old Ale",3.5,3,"Old Ale",NA,35721
+"117",9784,"Zero Gravity Craft Brewery / American Flatbread",1198888689,3.5,3.5,3.5,"Old Ale",3.5,3.5,"Old Ale",NA,35721
+"118",9784,"Zero Gravity Craft Brewery / American Flatbread",1173065059,4.5,4.5,4,"Old Ale",3.5,4,"Old Ale",NA,35721
+"119",9784,"Zero Gravity Craft Brewery / American Flatbread",1310317263,3.5,3.5,4,"German Pilsener",4,3.5,"Christina Pils",NA,50816
+"120",9784,"Zero Gravity Craft Brewery / American Flatbread",1286845977,3.5,3.5,4,"German Pilsener",4,4,"Christina Pils",NA,50816
+"121",9784,"Zero Gravity Craft Brewery / American Flatbread",1258949531,5,5,5,"German Pilsener",5,5,"Christina Pils",NA,50816
+"122",9784,"Zero Gravity Craft Brewery / American Flatbread",1247272597,4.5,4,4.5,"German Pilsener",4,4,"Christina Pils",NA,50816
+"123",9784,"Zero Gravity Craft Brewery / American Flatbread",1246413932,2.5,2.5,3,"German Pilsener",2,2,"Christina Pils",NA,50816
+"124",9784,"Zero Gravity Craft Brewery / American Flatbread",1318212512,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Boognish Brown",3.7,42813
+"125",9784,"Zero Gravity Craft Brewery / American Flatbread",1298665915,4,3.5,3.5,"English Brown Ale",4,3.5,"Boognish Brown",3.7,42813
+"126",9784,"Zero Gravity Craft Brewery / American Flatbread",1276539307,4.5,3.5,4,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
+"127",9784,"Zero Gravity Craft Brewery / American Flatbread",1236981865,4,3.5,4,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
+"128",9784,"Zero Gravity Craft Brewery / American Flatbread",1211461887,4.5,4.5,3.5,"English Brown Ale",4,4,"Boognish Brown",3.7,42813
+"129",9784,"Zero Gravity Craft Brewery / American Flatbread",1206994152,4,4.5,4.5,"American IPA",4.5,4.5,"Centennial",NA,40825
+"130",9784,"Zero Gravity Craft Brewery / American Flatbread",1204401095,4,4,4,"American IPA",3,4,"Centennial",NA,40825
+"131",9784,"Zero Gravity Craft Brewery / American Flatbread",1201902940,4,4.5,4,"American IPA",4,4.5,"Centennial",NA,40825
+"132",9784,"Zero Gravity Craft Brewery / American Flatbread",1257539293,5,4.5,4.5,"Hefeweizen",4.5,5,"Weizenheimer",NA,53949
+"133",9784,"Zero Gravity Craft Brewery / American Flatbread",1322417635,4.5,3.5,4.5,"German Pilsener",4.5,4.5,"Paul's Pils",4.8,24844
+"134",9784,"Zero Gravity Craft Brewery / American Flatbread",1212250986,4.5,4,4,"German Pilsener",4,4.5,"Paul's Pils",4.8,24844
+"135",9784,"Zero Gravity Craft Brewery / American Flatbread",1207943520,4.5,4,4,"German Pilsener",4.5,4,"Paul's Pils",4.8,24844
+"136",9784,"Zero Gravity Craft Brewery / American Flatbread",1130947867,5,4,4.5,"German Pilsener",4.5,4.5,"Paul's Pils",4.8,24844
+"137",9784,"Zero Gravity Craft Brewery / American Flatbread",1123850252,5,3.5,4,"German Pilsener",5,4.5,"Paul's Pils",4.8,24844
+"138",9784,"Zero Gravity Craft Brewery / American Flatbread",1121804095,5,4.5,5,"German Pilsener",5,5,"Paul's Pils",4.8,24844
+"139",9784,"Zero Gravity Craft Brewery / American Flatbread",1121735559,4,3.5,4,"German Pilsener",3.5,3.5,"Paul's Pils",4.8,24844
+"140",9784,"Zero Gravity Craft Brewery / American Flatbread",1246917683,4,3.5,4,"American Amber / Red Lager",4,4,"India Pale Lager",NA,49207
+"141",9784,"Zero Gravity Craft Brewery / American Flatbread",1239990919,4.5,4,4,"American Amber / Red Lager",4,4.5,"India Pale Lager",NA,49207
+"142",9784,"Zero Gravity Craft Brewery / American Flatbread",1298387028,4.5,4,4,"American IPA",4,4,"TLA IPA",NA,38480
+"143",9784,"Zero Gravity Craft Brewery / American Flatbread",1296060491,4.5,4.5,4.5,"American IPA",4,4.5,"TLA IPA",NA,38480
+"144",9784,"Zero Gravity Craft Brewery / American Flatbread",1295274192,4,3.5,4,"American IPA",4,4,"TLA IPA",NA,38480
+"145",9784,"Zero Gravity Craft Brewery / American Flatbread",1286928241,4.5,4.5,4,"American IPA",3.5,4,"TLA IPA",NA,38480
+"146",9784,"Zero Gravity Craft Brewery / American Flatbread",1277311898,3.5,4,4.5,"American IPA",3.5,4,"TLA IPA",NA,38480
+"147",9784,"Zero Gravity Craft Brewery / American Flatbread",1271681330,4,3.5,4.5,"American IPA",4,4,"TLA IPA",NA,38480
+"148",9784,"Zero Gravity Craft Brewery / American Flatbread",1255039761,4.5,4.5,4.5,"American IPA",4.5,4,"TLA IPA",NA,38480
+"149",9784,"Zero Gravity Craft Brewery / American Flatbread",1243514373,4.5,4.5,4,"American IPA",3.5,5,"TLA IPA",NA,38480
+"150",9784,"Zero Gravity Craft Brewery / American Flatbread",1212251377,4.5,4,4,"American IPA",4,4,"TLA IPA",NA,38480
+"151",9784,"Zero Gravity Craft Brewery / American Flatbread",1206488738,4.5,4.5,4.5,"American IPA",4.5,4.5,"TLA IPA",NA,38480
+"152",9784,"Zero Gravity Craft Brewery / American Flatbread",1205971824,4,4,3.5,"American IPA",4,4,"TLA IPA",NA,38480
+"153",9784,"Zero Gravity Craft Brewery / American Flatbread",1204291816,4,4,3.5,"American IPA",3.5,4,"TLA IPA",NA,38480
+"154",9784,"Zero Gravity Craft Brewery / American Flatbread",1188834563,3.5,3.5,3.5,"American IPA",4,4,"TLA IPA",NA,38480

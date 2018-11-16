@@ -1,59 +1,38 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1289,"The Ship Inn",1086927453,4,4,4,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.1,17737
-"2",1289,"The Ship Inn",1022178122,2,3,3.5,"English Brown Ale",2,2.5,"Pheasant Plucker",NA,3814
-"3",1289,"The Ship Inn",1210972049,4,4,4,"English Pale Mild Ale",4,3.5,"Spring Mild",NA,42010
-"4",1289,"The Ship Inn",1207695465,4.5,4,4,"English Pale Mild Ale",4.5,4.5,"Spring Mild",NA,42010
-"5",1289,"The Ship Inn",1085963165,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.1,17737
-"6",1289,"The Ship Inn",1219245409,4,3.5,3.5,"English Pale Ale",4,3.5,"Burton Pale Ale",NA,44433
-"7",1289,"The Ship Inn",1316271917,3.5,3.5,4,"Oatmeal Stout",3.5,3.5,"Oatmeal Stout",NA,36292
-"8",1289,"The Ship Inn",1176140478,4,4,3.5,"Oatmeal Stout",3.5,4,"Oatmeal Stout",NA,36292
-"9",1289,"The Ship Inn",1094617045,2,3,3,"Irish Dry Stout",2.5,2.5,"Irish Stout",NA,3817
-"10",1289,"The Ship Inn",1080081477,2.5,2.5,4,"Irish Dry Stout",2,2.5,"Irish Stout",NA,3817
-"11",1289,"The Ship Inn",1022179820,3.5,4,4.5,"Irish Dry Stout",4,4,"Irish Stout",NA,3817
-"12",1289,"The Ship Inn",1220224870,4.5,3.5,4,"English Pale Mild Ale",4.5,4,"Session Ale",NA,44651
-"13",1289,"The Ship Inn",1164152481,4,4,4.5,"English Brown Ale",4,4,"Pheasant Plucker",NA,3814
-"14",1289,"The Ship Inn",1100552887,4,4,4,"English Brown Ale",4,4,"Pheasant Plucker",NA,3814
-"15",1289,"The Ship Inn",1207502681,3,3,3,"English Pale Mild Ale",3,3,"Spring Mild",NA,42010
-"16",1289,"The Ship Inn",1280610398,3,3.5,3,"Extra Special / Strong Bitter (ESB)",2,2.5,"Extra Special Bitter",5.2,3816
-"17",1289,"The Ship Inn",1238084818,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Extra Special Bitter",5.2,3816
-"18",1289,"The Ship Inn",1236664852,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",5.2,3816
-"19",1289,"The Ship Inn",1204184363,5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Extra Special Bitter",5.2,3816
-"20",1289,"The Ship Inn",1183647267,4,3.5,3,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Extra Special Bitter",5.2,3816
-"21",1289,"The Ship Inn",1176084772,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",5.2,3816
-"22",1289,"The Ship Inn",1164151993,4.5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Extra Special Bitter",5.2,3816
-"23",1289,"The Ship Inn",1100553040,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Extra Special Bitter",5.2,3816
-"24",1289,"The Ship Inn",1022179290,1.5,3,4,"Extra Special / Strong Bitter (ESB)",2,2,"Extra Special Bitter",5.2,3816
-"25",1289,"The Ship Inn",1022178677,3,3.5,4,"American IPA",3,3.5,"Paddle Wheel (IPA)",NA,3815
-"26",1289,"The Ship Inn",1188363042,2.5,3,4.5,"English Porter",2,2.5,"Porter",NA,16765
-"27",1289,"The Ship Inn",1080079466,3,3,3.5,"English Porter",2.5,3,"Porter",NA,16765
-"28",1289,"The Ship Inn",1262824330,5,5,5,"English Porter",5,5,"Randy's Panhead Porter",NA,41241
-"29",1289,"The Ship Inn",1204183202,3.5,3.5,4,"English Porter",4,4,"Randy's Panhead Porter",NA,41241
-"30",1289,"The Ship Inn",1207501325,4.5,4,4.5,"English Porter",4,3.5,"White Winter Porter",NA,34059
-"31",1289,"The Ship Inn",1164926643,4,4,4.5,"English Porter",4,4,"White Winter Porter",NA,34059
-"32",1289,"The Ship Inn",1261201043,3,3,4,"English India Pale Ale (IPA)",3,3.5,"Northwest IPA",5.2,54859
-"33",1289,"The Ship Inn",1229378794,3.5,3.5,3.5,"English Stout",3.5,3.5,"Chocolate Stout",NA,46620
-"34",1289,"The Ship Inn",1263944806,5,3.5,3,"English Bitter",4,2.5,"Best Bitter",NA,3813
-"35",1289,"The Ship Inn",1261201085,3,3,3.5,"English Bitter",3,3.5,"Best Bitter",NA,3813
-"36",1289,"The Ship Inn",1207501983,4,3,3.5,"English Bitter",4,3.5,"Best Bitter",NA,3813
-"37",1289,"The Ship Inn",1176084397,3.5,4,3,"English Bitter",3,3.5,"Best Bitter",NA,3813
-"38",1289,"The Ship Inn",1165114865,4.5,4,4.5,"English Bitter",4.5,4.5,"Best Bitter",NA,3813
-"39",1289,"The Ship Inn",1108398246,3,4,3.5,"English Bitter",3.5,3.5,"Best Bitter",NA,3813
-"40",1289,"The Ship Inn",1108330586,4.5,4.5,4,"English Bitter",4.5,4,"Best Bitter",NA,3813
-"41",1289,"The Ship Inn",1094616342,2,3.5,3.5,"English Bitter",2,2.5,"Best Bitter",NA,3813
-"42",1289,"The Ship Inn",1085420926,4.5,4,5,"English Bitter",4,4.5,"Best Bitter",NA,3813
-"43",1289,"The Ship Inn",1080079997,2.5,3,2.5,"English Bitter",2.5,2.5,"Best Bitter",NA,3813
-"44",1289,"The Ship Inn",1022177519,2.5,3.5,4,"English Bitter",3,2.5,"Best Bitter",NA,3813
-"45",1289,"The Ship Inn",1108399277,3.5,3.5,4,"English Bitter",3.5,3.5,"Welsh Red",NA,20755
-"46",1289,"The Ship Inn",1100553188,4.5,4,4.5,"English Bitter",4.5,4.5,"Welsh Red",NA,20755
-"47",1289,"The Ship Inn",1164926000,4.5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Golden Wheat Light",NA,3812
-"48",1289,"The Ship Inn",1108398676,3.5,3.5,3,"American Pale Wheat Ale",3.5,3,"Golden Wheat Light",NA,3812
-"49",1289,"The Ship Inn",1100552763,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Golden Wheat Light",NA,3812
-"50",1289,"The Ship Inn",1080080602,3.5,4,4,"American Pale Wheat Ale",3,3.5,"Golden Wheat Light",NA,3812
-"51",1289,"The Ship Inn",1022176904,4.5,4.5,4.5,"American Pale Wheat Ale",4,4.5,"Golden Wheat Light",NA,3812
-"52",1289,"The Ship Inn",1308422518,3,3,3.5,"English Porter",3.5,3,"Tim's Porter",NA,70138
-"53",1289,"The Ship Inn",1312693811,5,5,5,"American Pale Ale (APA)",5,5,"Killer Bee",6,70143
-"54",1289,"The Ship Inn",1311642155,4.5,4.5,4,"American Pale Ale (APA)",3.5,4.5,"Killer Bee",6,70143
-"55",1289,"The Ship Inn",1308440752,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Killer Bee",6,70143
-"56",1289,"The Ship Inn",1263945284,5,4,4,"English Brown Ale",4,4,"Dark Charger",NA,41167
-"57",1289,"The Ship Inn",1203864221,3.5,3.5,4,"English Brown Ale",4,3.5,"Dark Charger",NA,41167
-"58",1289,"The Ship Inn",1085886621,4.5,4,4,"Herbed / Spiced Beer",4,4,"Tim's Ginger Beer",NA,17719
+"2",1289,"The Ship Inn",1085963165,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.1,17737
+"3",1289,"The Ship Inn",1219245409,4,3.5,3.5,"English Pale Ale",4,3.5,"Burton Pale Ale",NA,44433
+"4",1289,"The Ship Inn",1316271917,3.5,3.5,4,"Oatmeal Stout",3.5,3.5,"Oatmeal Stout",NA,36292
+"5",1289,"The Ship Inn",1176140478,4,4,3.5,"Oatmeal Stout",3.5,4,"Oatmeal Stout",NA,36292
+"6",1289,"The Ship Inn",1094617045,2,3,3,"Irish Dry Stout",2.5,2.5,"Irish Stout",NA,3817
+"7",1289,"The Ship Inn",1080081477,2.5,2.5,4,"Irish Dry Stout",2,2.5,"Irish Stout",NA,3817
+"8",1289,"The Ship Inn",1022179820,3.5,4,4.5,"Irish Dry Stout",4,4,"Irish Stout",NA,3817
+"9",1289,"The Ship Inn",1220224870,4.5,3.5,4,"English Pale Mild Ale",4.5,4,"Session Ale",NA,44651
+"10",1289,"The Ship Inn",1280610398,3,3.5,3,"Extra Special / Strong Bitter (ESB)",2,2.5,"Extra Special Bitter",5.2,3816
+"11",1289,"The Ship Inn",1238084818,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Extra Special Bitter",5.2,3816
+"12",1289,"The Ship Inn",1236664852,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",5.2,3816
+"13",1289,"The Ship Inn",1204184363,5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Extra Special Bitter",5.2,3816
+"14",1289,"The Ship Inn",1183647267,4,3.5,3,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Extra Special Bitter",5.2,3816
+"15",1289,"The Ship Inn",1176084772,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",5.2,3816
+"16",1289,"The Ship Inn",1164151993,4.5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Extra Special Bitter",5.2,3816
+"17",1289,"The Ship Inn",1100553040,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Extra Special Bitter",5.2,3816
+"18",1289,"The Ship Inn",1022179290,1.5,3,4,"Extra Special / Strong Bitter (ESB)",2,2,"Extra Special Bitter",5.2,3816
+"19",1289,"The Ship Inn",1188363042,2.5,3,4.5,"English Porter",2,2.5,"Porter",NA,16765
+"20",1289,"The Ship Inn",1080079466,3,3,3.5,"English Porter",2.5,3,"Porter",NA,16765
+"21",1289,"The Ship Inn",1229378794,3.5,3.5,3.5,"English Stout",3.5,3.5,"Chocolate Stout",NA,46620
+"22",1289,"The Ship Inn",1263944806,5,3.5,3,"English Bitter",4,2.5,"Best Bitter",NA,3813
+"23",1289,"The Ship Inn",1261201085,3,3,3.5,"English Bitter",3,3.5,"Best Bitter",NA,3813
+"24",1289,"The Ship Inn",1207501983,4,3,3.5,"English Bitter",4,3.5,"Best Bitter",NA,3813
+"25",1289,"The Ship Inn",1176084397,3.5,4,3,"English Bitter",3,3.5,"Best Bitter",NA,3813
+"26",1289,"The Ship Inn",1165114865,4.5,4,4.5,"English Bitter",4.5,4.5,"Best Bitter",NA,3813
+"27",1289,"The Ship Inn",1108398246,3,4,3.5,"English Bitter",3.5,3.5,"Best Bitter",NA,3813
+"28",1289,"The Ship Inn",1108330586,4.5,4.5,4,"English Bitter",4.5,4,"Best Bitter",NA,3813
+"29",1289,"The Ship Inn",1094616342,2,3.5,3.5,"English Bitter",2,2.5,"Best Bitter",NA,3813
+"30",1289,"The Ship Inn",1085420926,4.5,4,5,"English Bitter",4,4.5,"Best Bitter",NA,3813
+"31",1289,"The Ship Inn",1080079997,2.5,3,2.5,"English Bitter",2.5,2.5,"Best Bitter",NA,3813
+"32",1289,"The Ship Inn",1022177519,2.5,3.5,4,"English Bitter",3,2.5,"Best Bitter",NA,3813
+"33",1289,"The Ship Inn",1164926000,4.5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Golden Wheat Light",NA,3812
+"34",1289,"The Ship Inn",1108398676,3.5,3.5,3,"American Pale Wheat Ale",3.5,3,"Golden Wheat Light",NA,3812
+"35",1289,"The Ship Inn",1100552763,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Golden Wheat Light",NA,3812
+"36",1289,"The Ship Inn",1080080602,3.5,4,4,"American Pale Wheat Ale",3,3.5,"Golden Wheat Light",NA,3812
+"37",1289,"The Ship Inn",1022176904,4.5,4.5,4.5,"American Pale Wheat Ale",4,4.5,"Golden Wheat Light",NA,3812

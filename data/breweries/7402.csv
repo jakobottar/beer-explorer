@@ -1,150 +1,134 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",7402,"Wasatch Brew Pub",1254799963,3.5,3.5,4,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
 "2",7402,"Wasatch Brew Pub",1253339022,3,3.5,3.5,"Doppelbock",3,3.5,"The Devastator Double Bock",8,48148
-"3",7402,"Wasatch Brew Pub",1309713394,3.5,4,4,"Chile Beer",3.5,3.5,"Jalapeño Cream Ale",4,62799
-"4",7402,"Wasatch Brew Pub",1287703788,4,4,3.5,"Chile Beer",4,4,"Jalapeño Cream Ale",4,62799
-"5",7402,"Wasatch Brew Pub",1324868990,4,3.5,4,"Witbier",4.5,4,"White Label",6,53010
-"6",7402,"Wasatch Brew Pub",1322437712,3.5,3.5,2.5,"Witbier",3,3.5,"White Label",6,53010
-"7",7402,"Wasatch Brew Pub",1293748527,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Evolution Amber Ale",4,48438
-"8",7402,"Wasatch Brew Pub",1319230483,4,4,3.5,"Witbier",4,3.5,"White Label",6,53010
-"9",7402,"Wasatch Brew Pub",1314570496,2.5,3,3,"Witbier",2.5,3,"White Label",6,53010
-"10",7402,"Wasatch Brew Pub",1305237758,3,3.5,3,"Witbier",3,3.5,"White Label",6,53010
-"11",7402,"Wasatch Brew Pub",1293748954,4,4,3.5,"Witbier",4,4,"White Label",6,53010
-"12",7402,"Wasatch Brew Pub",1277403043,4,3,3.5,"Witbier",4,3.5,"White Label",6,53010
-"13",7402,"Wasatch Brew Pub",1272333570,3,3,3,"Witbier",2,3,"White Label",6,53010
-"14",7402,"Wasatch Brew Pub",1254368626,4,3,3.5,"Witbier",3.5,4,"White Label",6,53010
-"15",7402,"Wasatch Brew Pub",1324521032,4,4,3.5,"American Amber / Red Ale",4,4,"Winterfest",7.1,64727
-"16",7402,"Wasatch Brew Pub",1322370520,3.5,3.5,3.5,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
-"17",7402,"Wasatch Brew Pub",1322164157,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Winterfest",7.1,64727
-"18",7402,"Wasatch Brew Pub",1305501300,3,3,3,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
-"19",7402,"Wasatch Brew Pub",1324353763,2.5,3,3,"American Porter",2,2.5,"Polygamy Porter",4,43893
-"20",7402,"Wasatch Brew Pub",1300493955,3,3.5,4,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
-"21",7402,"Wasatch Brew Pub",1299865235,4,4.5,4,"American Amber / Red Ale",4,3.5,"Winterfest",7.1,64727
-"22",7402,"Wasatch Brew Pub",1295418139,3.5,4,4,"American Amber / Red Ale",4,4,"Winterfest",7.1,64727
-"23",7402,"Wasatch Brew Pub",1293854953,4,4,4.5,"American Amber / Red Ale",4.5,4.5,"Winterfest",7.1,64727
-"24",7402,"Wasatch Brew Pub",1293748749,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"Winterfest",7.1,64727
-"25",7402,"Wasatch Brew Pub",1296204347,3,3,3,"American Brown Ale",3,3,"Bobsled Brown",4,48530
-"26",7402,"Wasatch Brew Pub",1293722750,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Bobsled Brown",4,48530
-"27",7402,"Wasatch Brew Pub",1293583152,3,2,3,"American Brown Ale",2.5,3,"Bobsled Brown",4,48530
-"28",7402,"Wasatch Brew Pub",1242173655,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Bobsled Brown",4,48530
-"29",7402,"Wasatch Brew Pub",1237397574,3.5,3,4,"American Brown Ale",3,3.5,"Bobsled Brown",4,48530
-"30",7402,"Wasatch Brew Pub",1325037949,3.5,3,4,"American Amber / Red Ale",3.5,3,"Evolution Amber Ale",4,48438
-"31",7402,"Wasatch Brew Pub",1236899348,2.5,2,3.5,"American Amber / Red Ale",3,2,"Evolution Amber Ale",4,48438
-"32",7402,"Wasatch Brew Pub",1289070842,4,3.5,4,"American Amber / Red Ale",3.5,4,"Hopilicous",4,34341
-"33",7402,"Wasatch Brew Pub",1232917477,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Hopilicous",4,34341
-"34",7402,"Wasatch Brew Pub",1214874118,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Hopilicous",4,34341
-"35",7402,"Wasatch Brew Pub",1166317977,4,4,4,"American Amber / Red Ale",4,4,"Hopilicous",4,34341
-"36",7402,"Wasatch Brew Pub",1326053602,4,4,3,"Doppelbock",4,4.5,"The Devastator Double Bock",8,48148
-"37",7402,"Wasatch Brew Pub",1325042452,3.5,2.5,4,"Doppelbock",3,3.5,"The Devastator Double Bock",8,48148
-"38",7402,"Wasatch Brew Pub",1324793262,3,4,4,"Doppelbock",2.5,3,"The Devastator Double Bock",8,48148
-"39",7402,"Wasatch Brew Pub",1324021961,3.5,4,3,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
-"40",7402,"Wasatch Brew Pub",1316833044,4,4,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"41",7402,"Wasatch Brew Pub",1315257401,4.5,4,4.5,"Doppelbock",4.5,5,"The Devastator Double Bock",8,48148
-"42",7402,"Wasatch Brew Pub",1314428218,3.5,3,2.5,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
-"43",7402,"Wasatch Brew Pub",1313793987,3.5,3.5,4,"Doppelbock",4,3.5,"The Devastator Double Bock",8,48148
-"44",7402,"Wasatch Brew Pub",1312742738,2.5,2.5,3,"Doppelbock",3,2.5,"The Devastator Double Bock",8,48148
-"45",7402,"Wasatch Brew Pub",1311010225,3,3.5,3.5,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
-"46",7402,"Wasatch Brew Pub",1310780640,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
-"47",7402,"Wasatch Brew Pub",1303608579,2,2,3,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
-"48",7402,"Wasatch Brew Pub",1302483308,3,2.5,4,"Doppelbock",4,3,"The Devastator Double Bock",8,48148
-"49",7402,"Wasatch Brew Pub",1274394938,4,3.5,4,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
-"50",7402,"Wasatch Brew Pub",1259726978,3,3.5,4,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
-"51",7402,"Wasatch Brew Pub",1301637579,2,2,3.5,"Doppelbock",3,2.5,"The Devastator Double Bock",8,48148
-"52",7402,"Wasatch Brew Pub",1295839978,4,2.5,3,"Doppelbock",4,4.5,"The Devastator Double Bock",8,48148
-"53",7402,"Wasatch Brew Pub",1295587922,3.5,2.5,3,"Doppelbock",2.5,3.5,"The Devastator Double Bock",8,48148
-"54",7402,"Wasatch Brew Pub",1293749146,4,3.5,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"55",7402,"Wasatch Brew Pub",1293595112,2,3,4,"Doppelbock",2.5,2,"The Devastator Double Bock",8,48148
-"56",7402,"Wasatch Brew Pub",1285651500,3.5,4,3.5,"Doppelbock",3,4,"The Devastator Double Bock",8,48148
-"57",7402,"Wasatch Brew Pub",1284249597,3.5,2.5,4,"Doppelbock",3.5,2.5,"The Devastator Double Bock",8,48148
-"58",7402,"Wasatch Brew Pub",1282782944,3.5,3.5,4.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
-"59",7402,"Wasatch Brew Pub",1280212224,2,2.5,2.5,"Doppelbock",2.5,2,"The Devastator Double Bock",8,48148
-"60",7402,"Wasatch Brew Pub",1251004154,2.5,2.5,4,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
-"61",7402,"Wasatch Brew Pub",1248473779,4,3.5,3.5,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"62",7402,"Wasatch Brew Pub",1246838547,4,4,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"63",7402,"Wasatch Brew Pub",1241393012,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
-"64",7402,"Wasatch Brew Pub",1239071214,4,4,4.5,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"65",7402,"Wasatch Brew Pub",1237397753,4.5,3.5,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
-"66",7402,"Wasatch Brew Pub",1235657741,3,4.5,4,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
-"67",7402,"Wasatch Brew Pub",1325723132,3.5,3.5,3.5,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"68",7402,"Wasatch Brew Pub",1324945219,3.5,3.5,3.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
-"69",7402,"Wasatch Brew Pub",1320433108,2,2,2,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
-"70",7402,"Wasatch Brew Pub",1319000646,3.5,3.5,3.5,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
-"71",7402,"Wasatch Brew Pub",1318963413,2,4,2.5,"American Porter",1.5,2,"Polygamy Porter",4,43893
-"72",7402,"Wasatch Brew Pub",1318487051,3.5,3,3,"American Porter",2,3,"Polygamy Porter",4,43893
-"73",7402,"Wasatch Brew Pub",1316453225,3,3.5,3.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
-"74",7402,"Wasatch Brew Pub",1314843877,2.5,3,4,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
-"75",7402,"Wasatch Brew Pub",1313796279,3,2,4,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
-"76",7402,"Wasatch Brew Pub",1311266853,2.5,2.5,3.5,"American Porter",2,2.5,"Polygamy Porter",4,43893
-"77",7402,"Wasatch Brew Pub",1310889522,2,2,2.5,"American Porter",2,2,"Polygamy Porter",4,43893
-"78",7402,"Wasatch Brew Pub",1249615011,4.5,4,3,"American Porter",3,4.5,"Polygamy Porter",4,43893
-"79",7402,"Wasatch Brew Pub",1310268952,4,4,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"80",7402,"Wasatch Brew Pub",1309293805,3,3.5,3,"American Porter",3,3,"Polygamy Porter",4,43893
-"81",7402,"Wasatch Brew Pub",1308796773,3,3,2.5,"American Porter",2.5,3.5,"Polygamy Porter",4,43893
-"82",7402,"Wasatch Brew Pub",1306269730,3.5,3.5,4,"American Porter",3,4,"Polygamy Porter",4,43893
-"83",7402,"Wasatch Brew Pub",1306116650,3.5,3.5,2.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
-"84",7402,"Wasatch Brew Pub",1303445631,3.5,3,4,"American Porter",3,3,"Polygamy Porter",4,43893
-"85",7402,"Wasatch Brew Pub",1301182194,2.5,2.5,2,"American Porter",2.5,3,"Polygamy Porter",4,43893
-"86",7402,"Wasatch Brew Pub",1300498620,4.5,3,3.5,"American Porter",4,4,"Polygamy Porter",4,43893
-"87",7402,"Wasatch Brew Pub",1300331507,4,4,4,"American Porter",4.5,4,"Polygamy Porter",4,43893
-"88",7402,"Wasatch Brew Pub",1295230009,5,3.5,4.5,"American Porter",4,4,"Polygamy Porter",4,43893
-"89",7402,"Wasatch Brew Pub",1255143735,3.5,3.5,3.5,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"90",7402,"Wasatch Brew Pub",1289983138,4,3.5,4,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"91",7402,"Wasatch Brew Pub",1285282949,2,2,2.5,"American Porter",2,2,"Polygamy Porter",4,43893
-"92",7402,"Wasatch Brew Pub",1282785460,4.5,3.5,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
-"93",7402,"Wasatch Brew Pub",1280871882,4,3.5,4,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
-"94",7402,"Wasatch Brew Pub",1278562172,4,4,4.5,"American Porter",4,4,"Polygamy Porter",4,43893
-"95",7402,"Wasatch Brew Pub",1276573924,1.5,2,2.5,"American Porter",3,2,"Polygamy Porter",4,43893
-"96",7402,"Wasatch Brew Pub",1267231881,4,3,3.5,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
-"97",7402,"Wasatch Brew Pub",1266737701,4,4,3.5,"American Porter",3,4,"Polygamy Porter",4,43893
-"98",7402,"Wasatch Brew Pub",1264558927,4,3,3,"American Porter",4,4,"Polygamy Porter",4,43893
-"99",7402,"Wasatch Brew Pub",1256906932,3,3,3,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"100",7402,"Wasatch Brew Pub",1253426414,3.5,3.5,4,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
-"101",7402,"Wasatch Brew Pub",1248995806,4,4,3.5,"American Porter",4,4,"Polygamy Porter",4,43893
-"102",7402,"Wasatch Brew Pub",1248930168,4,3,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"103",7402,"Wasatch Brew Pub",1248655035,4,3.5,4,"American Porter",4,4,"Polygamy Porter",4,43893
-"104",7402,"Wasatch Brew Pub",1248654439,3.5,4,3,"American Porter",4,4,"Polygamy Porter",4,43893
-"105",7402,"Wasatch Brew Pub",1247892006,3,4,3.5,"American Porter",3,3,"Polygamy Porter",4,43893
-"106",7402,"Wasatch Brew Pub",1245803040,3.5,3,4,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"107",7402,"Wasatch Brew Pub",1242828750,4,4,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"108",7402,"Wasatch Brew Pub",1238278026,4,3.5,4,"American Porter",4,4,"Polygamy Porter",4,43893
-"109",7402,"Wasatch Brew Pub",1236899985,1,1.5,4.5,"American Porter",3.5,1.5,"Polygamy Porter",4,43893
-"110",7402,"Wasatch Brew Pub",1236482821,3,4,2.5,"American Porter",1.5,2,"Polygamy Porter",4,43893
-"111",7402,"Wasatch Brew Pub",1235656448,4,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
-"112",7402,"Wasatch Brew Pub",1235228605,3.5,4,3,"American Porter",3,3.5,"Polygamy Porter",4,43893
-"113",7402,"Wasatch Brew Pub",1232759779,4,3,3.5,"American Porter",3,4,"Polygamy Porter",4,43893
-"114",7402,"Wasatch Brew Pub",1232656390,4,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
-"115",7402,"Wasatch Brew Pub",1230098014,4,4,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"116",7402,"Wasatch Brew Pub",1223231849,4,4,4,"American Porter",4,4,"Polygamy Porter",4,43893
-"117",7402,"Wasatch Brew Pub",1220971063,4.5,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
-"118",7402,"Wasatch Brew Pub",1217827726,4,3.5,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"119",7402,"Wasatch Brew Pub",1216711405,4,3.5,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
-"120",7402,"Wasatch Brew Pub",1321310509,2.5,3,3,"Pumpkin Ale",2,2,"Pumpkin",4,73498
-"121",7402,"Wasatch Brew Pub",1320122398,3,3.5,3.5,"Pumpkin Ale",3,3.5,"Pumpkin",4,73498
-"122",7402,"Wasatch Brew Pub",1319907019,3.5,4.5,3,"Pumpkin Ale",4,4,"Pumpkin",4,73498
-"123",7402,"Wasatch Brew Pub",1319463871,3,4,4,"Pumpkin Ale",2,2.5,"Pumpkin",4,73498
-"124",7402,"Wasatch Brew Pub",1318132945,4,4,4,"Pumpkin Ale",4,4,"Pumpkin",4,73498
-"125",7402,"Wasatch Brew Pub",1317086127,4.5,4,4,"Pumpkin Ale",4,4,"Pumpkin",4,73498
-"126",7402,"Wasatch Brew Pub",1247544015,3.5,3,3.5,"Cream Ale",4.5,4,"Nitro Cream Ale",4,49748
-"127",7402,"Wasatch Brew Pub",1242174080,4.5,3,4,"Cream Ale",4.5,4.5,"Nitro Cream Ale",4,49748
-"128",7402,"Wasatch Brew Pub",1314250237,3.5,3,3.5,"American Pale Lager",4,3.5,"Summerbrau Lager",5.6,55890
-"129",7402,"Wasatch Brew Pub",1313791733,3,3,3.5,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
-"130",7402,"Wasatch Brew Pub",1311104243,3,3,3,"American Pale Lager",3.5,3,"Summerbrau Lager",5.6,55890
-"131",7402,"Wasatch Brew Pub",1306292916,3,3,3.5,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
-"132",7402,"Wasatch Brew Pub",1292038369,3,3,3,"American Pale Lager",3.5,2,"Summerbrau Lager",5.6,55890
-"133",7402,"Wasatch Brew Pub",1283996675,3.5,3,3.5,"American Pale Lager",3.5,3,"Summerbrau Lager",5.6,55890
-"134",7402,"Wasatch Brew Pub",1282431023,2.5,3,2,"American Pale Lager",3,2.5,"Summerbrau Lager",5.6,55890
-"135",7402,"Wasatch Brew Pub",1265416825,3,3,3,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
-"136",7402,"Wasatch Brew Pub",1226363172,4,4,4,"Bock",4,4.5,"Autumn Bock",4,34342
-"137",7402,"Wasatch Brew Pub",1166318201,4,3.5,3.5,"Bock",4,4,"Autumn Bock",4,34342
-"138",7402,"Wasatch Brew Pub",1295824593,5,5,5,"American Pale Ale (APA)",4.5,4.5,"Hops Bandit",4,65556
-"139",7402,"Wasatch Brew Pub",1308442936,3,3,4,"American Double / Imperial IPA",3,3,"Hop Rising",9,66763
-"140",7402,"Wasatch Brew Pub",1307498000,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hop Rising",9,66763
-"141",7402,"Wasatch Brew Pub",1305415381,3,3,3,"American Double / Imperial IPA",4.5,2.5,"Hop Rising",9,66763
-"142",7402,"Wasatch Brew Pub",1298866706,4,4,4,"American Double / Imperial IPA",4,4.5,"Hop Rising",9,66763
-"143",7402,"Wasatch Brew Pub",1242173374,3,3.5,3.5,"American Barleywine",3,3,"Superior Ale",4,48439
-"144",7402,"Wasatch Brew Pub",1236900965,1,2,2.5,"American Barleywine",1.5,1,"Superior Ale",4,48439
-"145",7402,"Wasatch Brew Pub",1235515404,4,4,3.5,"American Stout",4,4,"Cowboy Coffee Stout",4,45201
-"146",7402,"Wasatch Brew Pub",1223232055,4,4,4,"American Stout",4,4,"Cowboy Coffee Stout",4,45201
-"147",7402,"Wasatch Brew Pub",1263544245,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Christmas Ale",4,34343
-"148",7402,"Wasatch Brew Pub",1228067133,4.5,4,3.5,"American Amber / Red Ale",3.5,4,"Christmas Ale",4,34343
-"149",7402,"Wasatch Brew Pub",1166318467,4,3.5,3.5,"American Amber / Red Ale",4,4,"Christmas Ale",4,34343
+"3",7402,"Wasatch Brew Pub",1324868990,4,3.5,4,"Witbier",4.5,4,"White Label",6,53010
+"4",7402,"Wasatch Brew Pub",1322437712,3.5,3.5,2.5,"Witbier",3,3.5,"White Label",6,53010
+"5",7402,"Wasatch Brew Pub",1319230483,4,4,3.5,"Witbier",4,3.5,"White Label",6,53010
+"6",7402,"Wasatch Brew Pub",1314570496,2.5,3,3,"Witbier",2.5,3,"White Label",6,53010
+"7",7402,"Wasatch Brew Pub",1305237758,3,3.5,3,"Witbier",3,3.5,"White Label",6,53010
+"8",7402,"Wasatch Brew Pub",1293748954,4,4,3.5,"Witbier",4,4,"White Label",6,53010
+"9",7402,"Wasatch Brew Pub",1277403043,4,3,3.5,"Witbier",4,3.5,"White Label",6,53010
+"10",7402,"Wasatch Brew Pub",1272333570,3,3,3,"Witbier",2,3,"White Label",6,53010
+"11",7402,"Wasatch Brew Pub",1254368626,4,3,3.5,"Witbier",3.5,4,"White Label",6,53010
+"12",7402,"Wasatch Brew Pub",1324521032,4,4,3.5,"American Amber / Red Ale",4,4,"Winterfest",7.1,64727
+"13",7402,"Wasatch Brew Pub",1322370520,3.5,3.5,3.5,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
+"14",7402,"Wasatch Brew Pub",1322164157,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Winterfest",7.1,64727
+"15",7402,"Wasatch Brew Pub",1305501300,3,3,3,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
+"16",7402,"Wasatch Brew Pub",1324353763,2.5,3,3,"American Porter",2,2.5,"Polygamy Porter",4,43893
+"17",7402,"Wasatch Brew Pub",1300493955,3,3.5,4,"American Amber / Red Ale",3,3,"Winterfest",7.1,64727
+"18",7402,"Wasatch Brew Pub",1299865235,4,4.5,4,"American Amber / Red Ale",4,3.5,"Winterfest",7.1,64727
+"19",7402,"Wasatch Brew Pub",1295418139,3.5,4,4,"American Amber / Red Ale",4,4,"Winterfest",7.1,64727
+"20",7402,"Wasatch Brew Pub",1293854953,4,4,4.5,"American Amber / Red Ale",4.5,4.5,"Winterfest",7.1,64727
+"21",7402,"Wasatch Brew Pub",1293748749,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"Winterfest",7.1,64727
+"22",7402,"Wasatch Brew Pub",1296204347,3,3,3,"American Brown Ale",3,3,"Bobsled Brown",4,48530
+"23",7402,"Wasatch Brew Pub",1293722750,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Bobsled Brown",4,48530
+"24",7402,"Wasatch Brew Pub",1293583152,3,2,3,"American Brown Ale",2.5,3,"Bobsled Brown",4,48530
+"25",7402,"Wasatch Brew Pub",1242173655,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Bobsled Brown",4,48530
+"26",7402,"Wasatch Brew Pub",1237397574,3.5,3,4,"American Brown Ale",3,3.5,"Bobsled Brown",4,48530
+"27",7402,"Wasatch Brew Pub",1326053602,4,4,3,"Doppelbock",4,4.5,"The Devastator Double Bock",8,48148
+"28",7402,"Wasatch Brew Pub",1325042452,3.5,2.5,4,"Doppelbock",3,3.5,"The Devastator Double Bock",8,48148
+"29",7402,"Wasatch Brew Pub",1324793262,3,4,4,"Doppelbock",2.5,3,"The Devastator Double Bock",8,48148
+"30",7402,"Wasatch Brew Pub",1324021961,3.5,4,3,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
+"31",7402,"Wasatch Brew Pub",1316833044,4,4,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"32",7402,"Wasatch Brew Pub",1315257401,4.5,4,4.5,"Doppelbock",4.5,5,"The Devastator Double Bock",8,48148
+"33",7402,"Wasatch Brew Pub",1314428218,3.5,3,2.5,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
+"34",7402,"Wasatch Brew Pub",1313793987,3.5,3.5,4,"Doppelbock",4,3.5,"The Devastator Double Bock",8,48148
+"35",7402,"Wasatch Brew Pub",1312742738,2.5,2.5,3,"Doppelbock",3,2.5,"The Devastator Double Bock",8,48148
+"36",7402,"Wasatch Brew Pub",1311010225,3,3.5,3.5,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
+"37",7402,"Wasatch Brew Pub",1310780640,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
+"38",7402,"Wasatch Brew Pub",1303608579,2,2,3,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
+"39",7402,"Wasatch Brew Pub",1302483308,3,2.5,4,"Doppelbock",4,3,"The Devastator Double Bock",8,48148
+"40",7402,"Wasatch Brew Pub",1274394938,4,3.5,4,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
+"41",7402,"Wasatch Brew Pub",1259726978,3,3.5,4,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
+"42",7402,"Wasatch Brew Pub",1301637579,2,2,3.5,"Doppelbock",3,2.5,"The Devastator Double Bock",8,48148
+"43",7402,"Wasatch Brew Pub",1295839978,4,2.5,3,"Doppelbock",4,4.5,"The Devastator Double Bock",8,48148
+"44",7402,"Wasatch Brew Pub",1295587922,3.5,2.5,3,"Doppelbock",2.5,3.5,"The Devastator Double Bock",8,48148
+"45",7402,"Wasatch Brew Pub",1293749146,4,3.5,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"46",7402,"Wasatch Brew Pub",1293595112,2,3,4,"Doppelbock",2.5,2,"The Devastator Double Bock",8,48148
+"47",7402,"Wasatch Brew Pub",1285651500,3.5,4,3.5,"Doppelbock",3,4,"The Devastator Double Bock",8,48148
+"48",7402,"Wasatch Brew Pub",1284249597,3.5,2.5,4,"Doppelbock",3.5,2.5,"The Devastator Double Bock",8,48148
+"49",7402,"Wasatch Brew Pub",1282782944,3.5,3.5,4.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
+"50",7402,"Wasatch Brew Pub",1280212224,2,2.5,2.5,"Doppelbock",2.5,2,"The Devastator Double Bock",8,48148
+"51",7402,"Wasatch Brew Pub",1251004154,2.5,2.5,4,"Doppelbock",3.5,3,"The Devastator Double Bock",8,48148
+"52",7402,"Wasatch Brew Pub",1248473779,4,3.5,3.5,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"53",7402,"Wasatch Brew Pub",1246838547,4,4,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"54",7402,"Wasatch Brew Pub",1241393012,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"The Devastator Double Bock",8,48148
+"55",7402,"Wasatch Brew Pub",1239071214,4,4,4.5,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"56",7402,"Wasatch Brew Pub",1237397753,4.5,3.5,4,"Doppelbock",4,4,"The Devastator Double Bock",8,48148
+"57",7402,"Wasatch Brew Pub",1235657741,3,4.5,4,"Doppelbock",3,3,"The Devastator Double Bock",8,48148
+"58",7402,"Wasatch Brew Pub",1325723132,3.5,3.5,3.5,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"59",7402,"Wasatch Brew Pub",1324945219,3.5,3.5,3.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
+"60",7402,"Wasatch Brew Pub",1320433108,2,2,2,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
+"61",7402,"Wasatch Brew Pub",1319000646,3.5,3.5,3.5,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
+"62",7402,"Wasatch Brew Pub",1318963413,2,4,2.5,"American Porter",1.5,2,"Polygamy Porter",4,43893
+"63",7402,"Wasatch Brew Pub",1318487051,3.5,3,3,"American Porter",2,3,"Polygamy Porter",4,43893
+"64",7402,"Wasatch Brew Pub",1316453225,3,3.5,3.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
+"65",7402,"Wasatch Brew Pub",1314843877,2.5,3,4,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
+"66",7402,"Wasatch Brew Pub",1313796279,3,2,4,"American Porter",2.5,2.5,"Polygamy Porter",4,43893
+"67",7402,"Wasatch Brew Pub",1311266853,2.5,2.5,3.5,"American Porter",2,2.5,"Polygamy Porter",4,43893
+"68",7402,"Wasatch Brew Pub",1310889522,2,2,2.5,"American Porter",2,2,"Polygamy Porter",4,43893
+"69",7402,"Wasatch Brew Pub",1249615011,4.5,4,3,"American Porter",3,4.5,"Polygamy Porter",4,43893
+"70",7402,"Wasatch Brew Pub",1310268952,4,4,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"71",7402,"Wasatch Brew Pub",1309293805,3,3.5,3,"American Porter",3,3,"Polygamy Porter",4,43893
+"72",7402,"Wasatch Brew Pub",1308796773,3,3,2.5,"American Porter",2.5,3.5,"Polygamy Porter",4,43893
+"73",7402,"Wasatch Brew Pub",1306269730,3.5,3.5,4,"American Porter",3,4,"Polygamy Porter",4,43893
+"74",7402,"Wasatch Brew Pub",1306116650,3.5,3.5,2.5,"American Porter",2.5,3,"Polygamy Porter",4,43893
+"75",7402,"Wasatch Brew Pub",1303445631,3.5,3,4,"American Porter",3,3,"Polygamy Porter",4,43893
+"76",7402,"Wasatch Brew Pub",1301182194,2.5,2.5,2,"American Porter",2.5,3,"Polygamy Porter",4,43893
+"77",7402,"Wasatch Brew Pub",1300498620,4.5,3,3.5,"American Porter",4,4,"Polygamy Porter",4,43893
+"78",7402,"Wasatch Brew Pub",1300331507,4,4,4,"American Porter",4.5,4,"Polygamy Porter",4,43893
+"79",7402,"Wasatch Brew Pub",1295230009,5,3.5,4.5,"American Porter",4,4,"Polygamy Porter",4,43893
+"80",7402,"Wasatch Brew Pub",1255143735,3.5,3.5,3.5,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"81",7402,"Wasatch Brew Pub",1289983138,4,3.5,4,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"82",7402,"Wasatch Brew Pub",1285282949,2,2,2.5,"American Porter",2,2,"Polygamy Porter",4,43893
+"83",7402,"Wasatch Brew Pub",1282785460,4.5,3.5,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
+"84",7402,"Wasatch Brew Pub",1280871882,4,3.5,4,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
+"85",7402,"Wasatch Brew Pub",1278562172,4,4,4.5,"American Porter",4,4,"Polygamy Porter",4,43893
+"86",7402,"Wasatch Brew Pub",1276573924,1.5,2,2.5,"American Porter",3,2,"Polygamy Porter",4,43893
+"87",7402,"Wasatch Brew Pub",1267231881,4,3,3.5,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
+"88",7402,"Wasatch Brew Pub",1266737701,4,4,3.5,"American Porter",3,4,"Polygamy Porter",4,43893
+"89",7402,"Wasatch Brew Pub",1264558927,4,3,3,"American Porter",4,4,"Polygamy Porter",4,43893
+"90",7402,"Wasatch Brew Pub",1256906932,3,3,3,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"91",7402,"Wasatch Brew Pub",1253426414,3.5,3.5,4,"American Porter",3.5,3.5,"Polygamy Porter",4,43893
+"92",7402,"Wasatch Brew Pub",1248995806,4,4,3.5,"American Porter",4,4,"Polygamy Porter",4,43893
+"93",7402,"Wasatch Brew Pub",1248930168,4,3,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"94",7402,"Wasatch Brew Pub",1248655035,4,3.5,4,"American Porter",4,4,"Polygamy Porter",4,43893
+"95",7402,"Wasatch Brew Pub",1248654439,3.5,4,3,"American Porter",4,4,"Polygamy Porter",4,43893
+"96",7402,"Wasatch Brew Pub",1247892006,3,4,3.5,"American Porter",3,3,"Polygamy Porter",4,43893
+"97",7402,"Wasatch Brew Pub",1245803040,3.5,3,4,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"98",7402,"Wasatch Brew Pub",1242828750,4,4,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"99",7402,"Wasatch Brew Pub",1238278026,4,3.5,4,"American Porter",4,4,"Polygamy Porter",4,43893
+"100",7402,"Wasatch Brew Pub",1236899985,1,1.5,4.5,"American Porter",3.5,1.5,"Polygamy Porter",4,43893
+"101",7402,"Wasatch Brew Pub",1236482821,3,4,2.5,"American Porter",1.5,2,"Polygamy Porter",4,43893
+"102",7402,"Wasatch Brew Pub",1235656448,4,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
+"103",7402,"Wasatch Brew Pub",1235228605,3.5,4,3,"American Porter",3,3.5,"Polygamy Porter",4,43893
+"104",7402,"Wasatch Brew Pub",1232759779,4,3,3.5,"American Porter",3,4,"Polygamy Porter",4,43893
+"105",7402,"Wasatch Brew Pub",1232656390,4,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
+"106",7402,"Wasatch Brew Pub",1230098014,4,4,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"107",7402,"Wasatch Brew Pub",1223231849,4,4,4,"American Porter",4,4,"Polygamy Porter",4,43893
+"108",7402,"Wasatch Brew Pub",1220971063,4.5,4,4,"American Porter",4,3.5,"Polygamy Porter",4,43893
+"109",7402,"Wasatch Brew Pub",1217827726,4,3.5,3.5,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"110",7402,"Wasatch Brew Pub",1216711405,4,3.5,4,"American Porter",3.5,4,"Polygamy Porter",4,43893
+"111",7402,"Wasatch Brew Pub",1321310509,2.5,3,3,"Pumpkin Ale",2,2,"Pumpkin",4,73498
+"112",7402,"Wasatch Brew Pub",1320122398,3,3.5,3.5,"Pumpkin Ale",3,3.5,"Pumpkin",4,73498
+"113",7402,"Wasatch Brew Pub",1319907019,3.5,4.5,3,"Pumpkin Ale",4,4,"Pumpkin",4,73498
+"114",7402,"Wasatch Brew Pub",1319463871,3,4,4,"Pumpkin Ale",2,2.5,"Pumpkin",4,73498
+"115",7402,"Wasatch Brew Pub",1318132945,4,4,4,"Pumpkin Ale",4,4,"Pumpkin",4,73498
+"116",7402,"Wasatch Brew Pub",1317086127,4.5,4,4,"Pumpkin Ale",4,4,"Pumpkin",4,73498
+"117",7402,"Wasatch Brew Pub",1247544015,3.5,3,3.5,"Cream Ale",4.5,4,"Nitro Cream Ale",4,49748
+"118",7402,"Wasatch Brew Pub",1242174080,4.5,3,4,"Cream Ale",4.5,4.5,"Nitro Cream Ale",4,49748
+"119",7402,"Wasatch Brew Pub",1314250237,3.5,3,3.5,"American Pale Lager",4,3.5,"Summerbrau Lager",5.6,55890
+"120",7402,"Wasatch Brew Pub",1313791733,3,3,3.5,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
+"121",7402,"Wasatch Brew Pub",1311104243,3,3,3,"American Pale Lager",3.5,3,"Summerbrau Lager",5.6,55890
+"122",7402,"Wasatch Brew Pub",1306292916,3,3,3.5,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
+"123",7402,"Wasatch Brew Pub",1292038369,3,3,3,"American Pale Lager",3.5,2,"Summerbrau Lager",5.6,55890
+"124",7402,"Wasatch Brew Pub",1283996675,3.5,3,3.5,"American Pale Lager",3.5,3,"Summerbrau Lager",5.6,55890
+"125",7402,"Wasatch Brew Pub",1282431023,2.5,3,2,"American Pale Lager",3,2.5,"Summerbrau Lager",5.6,55890
+"126",7402,"Wasatch Brew Pub",1265416825,3,3,3,"American Pale Lager",3,3,"Summerbrau Lager",5.6,55890
+"127",7402,"Wasatch Brew Pub",1308442936,3,3,4,"American Double / Imperial IPA",3,3,"Hop Rising",9,66763
+"128",7402,"Wasatch Brew Pub",1307498000,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hop Rising",9,66763
+"129",7402,"Wasatch Brew Pub",1305415381,3,3,3,"American Double / Imperial IPA",4.5,2.5,"Hop Rising",9,66763
+"130",7402,"Wasatch Brew Pub",1298866706,4,4,4,"American Double / Imperial IPA",4,4.5,"Hop Rising",9,66763
+"131",7402,"Wasatch Brew Pub",1263544245,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Christmas Ale",4,34343
+"132",7402,"Wasatch Brew Pub",1228067133,4.5,4,3.5,"American Amber / Red Ale",3.5,4,"Christmas Ale",4,34343
+"133",7402,"Wasatch Brew Pub",1166318467,4,3.5,3.5,"American Amber / Red Ale",4,4,"Christmas Ale",4,34343

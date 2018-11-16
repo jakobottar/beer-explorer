@@ -1,135 +1,109 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",9139,"Feral Brewing Co.",1078049634,3,2.5,3,"Witbier",2.5,2.5,"Feral White",4.6,16190
-"2",9139,"Feral Brewing Co.",1270096650,4.5,4.5,4.5,"Belgian Dark Ale",4.5,5,"Feral JME 10",6.8,57231
-"3",9139,"Feral Brewing Co.",1319809734,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
-"4",9139,"Feral Brewing Co.",1078049313,3.5,3.5,3,"English Pale Ale",3,4,"Feral Pale Ale",4.9,16187
-"5",9139,"Feral Brewing Co.",1300580136,4,4.5,4,"American Wild Ale",4.5,4.5,"Funky Junky",4.7,64046
-"6",9139,"Feral Brewing Co.",1321368440,4,4.5,4,"American Amber / Red Ale",3.5,4,"Fantapants",7.4,54339
-"7",9139,"Feral Brewing Co.",1318070132,4,4.5,5,"American Amber / Red Ale",4,4,"Fantapants",7.4,54339
-"8",9139,"Feral Brewing Co.",1292289733,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Fantapants",7.4,54339
-"9",9139,"Feral Brewing Co.",1292235509,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Fantapants",7.4,54339
-"10",9139,"Feral Brewing Co.",1283932418,4,4.5,4,"American Amber / Red Ale",4,4,"Fantapants",7.4,54339
-"11",9139,"Feral Brewing Co.",1259228411,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Fantapants",7.4,54339
-"12",9139,"Feral Brewing Co.",1259040513,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Fantapants",7.4,54339
-"13",9139,"Feral Brewing Co.",1325065306,3,3,3.5,"Witbier",2.5,2.5,"Feral White",4.6,16190
-"14",9139,"Feral Brewing Co.",1313983449,3,3.5,3.5,"Witbier",3,3.5,"Feral White",4.6,16190
-"15",9139,"Feral Brewing Co.",1303941056,2.5,2,3,"Witbier",3,2.5,"Feral White",4.6,16190
-"16",9139,"Feral Brewing Co.",1294188167,3.5,3.5,3,"Witbier",4,4,"Feral White",4.6,16190
-"17",9139,"Feral Brewing Co.",1252580615,3.5,3.5,3,"Witbier",3,3.5,"Feral White",4.6,16190
-"18",9139,"Feral Brewing Co.",1248689497,3.5,3,3,"Witbier",4,3.5,"Feral White",4.6,16190
-"19",9139,"Feral Brewing Co.",1248084564,3.5,3.5,3,"Witbier",4,3.5,"Feral White",4.6,16190
-"20",9139,"Feral Brewing Co.",1247547427,3,3.5,4.5,"Witbier",3.5,3,"Feral White",4.6,16190
-"21",9139,"Feral Brewing Co.",1245401460,4,4,3.5,"Witbier",3.5,3.5,"Feral White",4.6,16190
-"22",9139,"Feral Brewing Co.",1137680553,3,4,4,"Witbier",3,3.5,"Feral White",4.6,16190
-"23",9139,"Feral Brewing Co.",1241254794,4,3.5,3.5,"Witbier",4,4,"Feral White",4.6,16190
-"24",9139,"Feral Brewing Co.",1222850520,3.5,3,3.5,"Witbier",3,3.5,"Feral White",4.6,16190
-"25",9139,"Feral Brewing Co.",1222678219,4,3,3,"Witbier",4,4,"Feral White",4.6,16190
-"26",9139,"Feral Brewing Co.",1211348008,4,3.5,3.5,"Witbier",3.5,4,"Feral White",4.6,16190
-"27",9139,"Feral Brewing Co.",1204184741,4,4,4,"Witbier",4,3.5,"Feral White",4.6,16190
-"28",9139,"Feral Brewing Co.",1202525202,4,3.5,3.5,"Witbier",3.5,3.5,"Feral White",4.6,16190
-"29",9139,"Feral Brewing Co.",1201066931,4,3.5,3.5,"Witbier",4.5,4,"Feral White",4.6,16190
-"30",9139,"Feral Brewing Co.",1189859688,3.5,3.5,2.5,"Witbier",3,3,"Feral White",4.6,16190
-"31",9139,"Feral Brewing Co.",1177668395,2,2.5,3.5,"Witbier",3,2,"Feral White",4.6,16190
-"32",9139,"Feral Brewing Co.",1157176610,3,3,3.5,"Witbier",3,3,"Feral White",4.6,16190
-"33",9139,"Feral Brewing Co.",1148819826,2,3,3,"Witbier",3,2.5,"Feral White",4.6,16190
-"34",9139,"Feral Brewing Co.",1305858465,4.5,4.5,4.5,"Witbier",4,4.5,"IWit 2.0",7.5,58646
-"35",9139,"Feral Brewing Co.",1305529897,4.5,4.5,4.5,"Witbier",4,4.5,"IWit 2.0",7.5,58646
-"36",9139,"Feral Brewing Co.",1275269602,4,4,4,"Witbier",4.5,4,"IWit 2.0",7.5,58646
-"37",9139,"Feral Brewing Co.",1274759275,4.5,4,4,"Witbier",4.5,4.5,"IWit 2.0",7.5,58646
-"38",9139,"Feral Brewing Co.",1318068481,4,4,4,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",4,56460
-"39",9139,"Feral Brewing Co.",1267283818,5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Farmhouse Ale",4,56460
-"40",9139,"Feral Brewing Co.",1318069257,4.5,4.5,5,"American IPA",4,4.5,"Barrel Fermented Hop Hog",5.8,63076
-"41",9139,"Feral Brewing Co.",1300579908,4,4,4,"American IPA",4.5,4,"Barrel Fermented Hop Hog",5.8,63076
-"42",9139,"Feral Brewing Co.",1292291062,3.5,4,4.5,"American IPA",4.5,4,"Barrel Fermented Hop Hog",5.8,63076
-"43",9139,"Feral Brewing Co.",1291890435,4,4.5,3.5,"American IPA",3.5,4.5,"Barrel Fermented Hop Hog",5.8,63076
-"44",9139,"Feral Brewing Co.",1288608526,4,4.5,4,"American IPA",4.5,4.5,"Barrel Fermented Hop Hog",5.8,63076
-"45",9139,"Feral Brewing Co.",1319809116,4.5,4.5,4,"American Black Ale",4,4,"Karma Citra",5.9,66323
-"46",9139,"Feral Brewing Co.",1307884005,4.5,4.5,4.5,"American Black Ale",4,4.5,"Karma Citra",5.9,66323
-"47",9139,"Feral Brewing Co.",1300580739,4,3.5,4,"American Black Ale",4,4,"Karma Citra",5.9,66323
-"48",9139,"Feral Brewing Co.",1299125660,4.5,4,5,"American Black Ale",4,4,"Karma Citra",5.9,66323
-"49",9139,"Feral Brewing Co.",1298542576,4.5,4,4.5,"American Black Ale",4.5,4,"Karma Citra",5.9,66323
-"50",9139,"Feral Brewing Co.",1298027566,4,4.5,4.5,"American Black Ale",4,4.5,"Karma Citra",5.9,66323
-"51",9139,"Feral Brewing Co.",1300957254,4,4.5,4,"American IPA",3.5,3.5,"Hop Hog",5.8,43579
-"52",9139,"Feral Brewing Co.",1297857320,4.5,4.5,4,"American Black Ale",4.5,4,"Karma Citra",5.9,66323
-"53",9139,"Feral Brewing Co.",1297812512,4,4,4.5,"American Black Ale",4,4,"Karma Citra",5.9,66323
-"54",9139,"Feral Brewing Co.",1319810198,3.5,4,4,"Belgian Dark Ale",3.5,4,"Feral Rust",6,43248
-"55",9139,"Feral Brewing Co.",1272594742,3,3,4,"Belgian Dark Ale",4,2.5,"Feral Rust",6,43248
-"56",9139,"Feral Brewing Co.",1272362142,2.5,3.5,2.5,"Belgian Dark Ale",2,3.5,"Feral Rust",6,43248
-"57",9139,"Feral Brewing Co.",1228123906,3,3.5,3,"Belgian Dark Ale",3.5,3.5,"Feral Rust",6,43248
-"58",9139,"Feral Brewing Co.",1213594856,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Feral Rust",6,43248
-"59",9139,"Feral Brewing Co.",1319805911,4,4,4,"English Brown Ale",4,3.5,"King Brown",6.9,74605
-"60",9139,"Feral Brewing Co.",1319807899,4.5,4.5,4,"American IPA",4.5,4.5,"Rye IPA",7.4,70811
-"61",9139,"Feral Brewing Co.",1318941097,4,4,4,"American IPA",4,4,"Rye IPA",7.4,70811
-"62",9139,"Feral Brewing Co.",1300580302,3.5,3.5,3.5,"American IPA",3.5,3.5,"Hop Hog",5.8,43579
-"63",9139,"Feral Brewing Co.",1310037397,4.5,4.5,4,"American IPA",4,4.5,"Rye IPA",7.4,70811
-"64",9139,"Feral Brewing Co.",1326013792,4,4.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
-"65",9139,"Feral Brewing Co.",1321701717,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"66",9139,"Feral Brewing Co.",1317991544,4,4,4,"American IPA",4.5,4,"Hop Hog",5.8,43579
-"67",9139,"Feral Brewing Co.",1317683787,4.5,4,3.5,"American IPA",5,4.5,"Hop Hog",5.8,43579
-"68",9139,"Feral Brewing Co.",1316589758,4.5,4.5,5,"American IPA",4,4.5,"Hop Hog",5.8,43579
-"69",9139,"Feral Brewing Co.",1311498221,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"70",9139,"Feral Brewing Co.",1305365089,4,4.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
-"71",9139,"Feral Brewing Co.",1304746480,4,4,4,"American IPA",4,4,"Hop Hog",5.8,43579
-"72",9139,"Feral Brewing Co.",1303941147,3.5,4,3,"American IPA",3,3,"Hop Hog",5.8,43579
-"73",9139,"Feral Brewing Co.",1302155477,5,3.5,4,"American IPA",4,3.5,"Hop Hog",5.8,43579
-"74",9139,"Feral Brewing Co.",1300042062,4,4,4,"American IPA",3.5,4.5,"Hop Hog",5.8,43579
-"75",9139,"Feral Brewing Co.",1299375891,4,4.5,4.5,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"76",9139,"Feral Brewing Co.",1298956264,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hop Hog",5.8,43579
-"77",9139,"Feral Brewing Co.",1292641663,4,4,3.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
-"78",9139,"Feral Brewing Co.",1289556639,3.5,4,3.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
-"79",9139,"Feral Brewing Co.",1289106305,3.5,3.5,4.5,"American IPA",3.5,3,"Hop Hog",5.8,43579
-"80",9139,"Feral Brewing Co.",1288349528,4,4.5,4.5,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"81",9139,"Feral Brewing Co.",1287740312,4,4.5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
-"82",9139,"Feral Brewing Co.",1287129383,4,4,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"83",9139,"Feral Brewing Co.",1286804173,4,4.5,3.5,"American IPA",4,4,"Hop Hog",5.8,43579
-"84",9139,"Feral Brewing Co.",1285223624,4,4,3.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
-"85",9139,"Feral Brewing Co.",1284503559,3.5,4,4,"American IPA",4,3.5,"Hop Hog",5.8,43579
-"86",9139,"Feral Brewing Co.",1276514786,4.5,3.5,3.5,"American IPA",4,4,"Hop Hog",5.8,43579
-"87",9139,"Feral Brewing Co.",1259707008,4,4,4.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
-"88",9139,"Feral Brewing Co.",1258328542,4.5,4.5,3.5,"American IPA",4.5,4.5,"Hop Hog",5.8,43579
-"89",9139,"Feral Brewing Co.",1252420181,4.5,5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
-"90",9139,"Feral Brewing Co.",1244469465,4,5,4.5,"American IPA",4.5,4,"Hop Hog",5.8,43579
-"91",9139,"Feral Brewing Co.",1324950518,2.5,3,3.5,"Belgian Pale Ale",3,2,"Golden Ace",5.6,67354
-"92",9139,"Feral Brewing Co.",1244466092,4,5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
-"93",9139,"Feral Brewing Co.",1237771741,4.5,4.5,4.5,"American IPA",4.5,4,"Hop Hog",5.8,43579
-"94",9139,"Feral Brewing Co.",1235306492,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"95",9139,"Feral Brewing Co.",1228123624,3.5,5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
-"96",9139,"Feral Brewing Co.",1215329099,4.5,3.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
-"97",9139,"Feral Brewing Co.",1319807251,4,4,4,"English Barleywine",4,4.5,"Razorback",10,48495
-"98",9139,"Feral Brewing Co.",1268090845,4,3.5,4,"English Barleywine",3.5,4,"Razorback",10,48495
-"99",9139,"Feral Brewing Co.",1262134644,3,4,4.5,"English Barleywine",4,4.5,"Razorback",10,48495
-"100",9139,"Feral Brewing Co.",1242822678,3.5,4,4,"English Barleywine",4,4,"Razorback",10,48495
-"101",9139,"Feral Brewing Co.",1237200591,3.5,3.5,4,"English Barleywine",2,3.5,"Razorback",10,48495
-"102",9139,"Feral Brewing Co.",1318212159,3.5,4.5,4,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
-"103",9139,"Feral Brewing Co.",1315029725,3.5,3.5,4,"Belgian Pale Ale",4.5,3.5,"Golden Ace",5.6,67354
-"104",9139,"Feral Brewing Co.",1313149146,3.5,3.5,3.5,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
-"105",9139,"Feral Brewing Co.",1313141553,3.5,4,3.5,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
-"106",9139,"Feral Brewing Co.",1308533943,3.5,3.5,3.5,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
-"107",9139,"Feral Brewing Co.",1307599710,3.5,3.5,4,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
-"108",9139,"Feral Brewing Co.",1300581245,3,3.5,3.5,"Belgian Pale Ale",2.5,3,"Golden Ace",5.6,67354
-"109",9139,"Feral Brewing Co.",1319808466,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"The Runt",4.7,57333
-"110",9139,"Feral Brewing Co.",1301274444,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"The Runt",4.7,57333
-"111",9139,"Feral Brewing Co.",1318067927,4,3.5,4,"Gose",4,3.5,"Jose The Gose",4.3,68705
-"112",9139,"Feral Brewing Co.",1304592867,4,3.5,3.5,"Gose",4,3.5,"Jose The Gose",4.3,68705
-"113",9139,"Feral Brewing Co.",1317602192,4.5,4,4,"Russian Imperial Stout",4,4,"Boris Imperial Stout",11.5,49716
-"114",9139,"Feral Brewing Co.",1308305284,5,5,5,"Russian Imperial Stout",5,5,"Boris Imperial Stout",11.5,49716
-"115",9139,"Feral Brewing Co.",1304400855,1.5,3,3.5,"Russian Imperial Stout",2,2.5,"Boris Imperial Stout",11.5,49716
-"116",9139,"Feral Brewing Co.",1283313222,4.5,4,4.5,"Russian Imperial Stout",3.5,4,"Boris Imperial Stout",11.5,49716
-"117",9139,"Feral Brewing Co.",1282691799,4.5,4,4.5,"Russian Imperial Stout",4.5,3.5,"Boris Imperial Stout",11.5,49716
-"118",9139,"Feral Brewing Co.",1242041421,3.5,4,4.5,"Russian Imperial Stout",4,4,"Boris Imperial Stout",11.5,49716
-"119",9139,"Feral Brewing Co.",1318070611,4,3.5,4,"American Porter",3.5,4,"Smoked Porter",4.7,54551
-"120",9139,"Feral Brewing Co.",1259997486,4,3.5,4,"American Porter",3.5,4,"Smoked Porter",4.7,54551
-"121",9139,"Feral Brewing Co.",1291292445,4.5,5,4,"Flanders Oud Bruin",4.5,5,"Dark Funk 2.0",5.3,64048
-"122",9139,"Feral Brewing Co.",1242040761,3.5,3.5,4,"German Pilsener",4,3.5,"Feral Organic Pilsner",5,16227
-"123",9139,"Feral Brewing Co.",1148820331,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Feral Organic Pilsner",5,16227
-"124",9139,"Feral Brewing Co.",1078133777,3.5,3.5,3,"German Pilsener",4,3.5,"Feral Organic Pilsner",5,16227
-"125",9139,"Feral Brewing Co.",1318071833,3.5,3,3.5,"American Pale Lager",4,3.5,"983.0",4.7,73909
-"126",9139,"Feral Brewing Co.",1304593495,4,4,3.5,"English Brown Ale",4,3.5,"Nice Guy, Dud Root",4.9,68706
-"127",9139,"Feral Brewing Co.",1274763625,5,5,4.5,"Flanders Red Ale",4.5,5,"Dark Funk",5.2,57334
-"128",9139,"Feral Brewing Co.",1319806702,4.5,4.5,4.5,"Belgian IPA",4,4.5,"Raging Flem",7.2,58644
-"129",9139,"Feral Brewing Co.",1287481459,3.5,4,4,"Belgian IPA",3.5,4,"Raging Flem",7.2,58644
-"130",9139,"Feral Brewing Co.",1274756066,4.5,4.5,4,"Belgian IPA",4.5,4.5,"Raging Flem",7.2,58644
-"131",9139,"Feral Brewing Co.",1149081472,2,2,3,"English Pale Ale",3,2,"Feral Pale Ale",4.9,16187
-"132",9139,"Feral Brewing Co.",1292290295,4.5,4.5,4,"American Wild Ale",4,4.5,"Funky Junky",4.7,64046
-"133",9139,"Feral Brewing Co.",1292119170,4.5,5,4,"American Wild Ale",3.5,4.5,"Funky Junky",4.7,64046
-"134",9139,"Feral Brewing Co.",1291289531,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Funky Junky",4.7,64046
+"2",9139,"Feral Brewing Co.",1319809734,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
+"3",9139,"Feral Brewing Co.",1321368440,4,4.5,4,"American Amber / Red Ale",3.5,4,"Fantapants",7.4,54339
+"4",9139,"Feral Brewing Co.",1318070132,4,4.5,5,"American Amber / Red Ale",4,4,"Fantapants",7.4,54339
+"5",9139,"Feral Brewing Co.",1292289733,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Fantapants",7.4,54339
+"6",9139,"Feral Brewing Co.",1292235509,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Fantapants",7.4,54339
+"7",9139,"Feral Brewing Co.",1283932418,4,4.5,4,"American Amber / Red Ale",4,4,"Fantapants",7.4,54339
+"8",9139,"Feral Brewing Co.",1259228411,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Fantapants",7.4,54339
+"9",9139,"Feral Brewing Co.",1259040513,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Fantapants",7.4,54339
+"10",9139,"Feral Brewing Co.",1325065306,3,3,3.5,"Witbier",2.5,2.5,"Feral White",4.6,16190
+"11",9139,"Feral Brewing Co.",1313983449,3,3.5,3.5,"Witbier",3,3.5,"Feral White",4.6,16190
+"12",9139,"Feral Brewing Co.",1303941056,2.5,2,3,"Witbier",3,2.5,"Feral White",4.6,16190
+"13",9139,"Feral Brewing Co.",1294188167,3.5,3.5,3,"Witbier",4,4,"Feral White",4.6,16190
+"14",9139,"Feral Brewing Co.",1252580615,3.5,3.5,3,"Witbier",3,3.5,"Feral White",4.6,16190
+"15",9139,"Feral Brewing Co.",1248689497,3.5,3,3,"Witbier",4,3.5,"Feral White",4.6,16190
+"16",9139,"Feral Brewing Co.",1248084564,3.5,3.5,3,"Witbier",4,3.5,"Feral White",4.6,16190
+"17",9139,"Feral Brewing Co.",1247547427,3,3.5,4.5,"Witbier",3.5,3,"Feral White",4.6,16190
+"18",9139,"Feral Brewing Co.",1245401460,4,4,3.5,"Witbier",3.5,3.5,"Feral White",4.6,16190
+"19",9139,"Feral Brewing Co.",1137680553,3,4,4,"Witbier",3,3.5,"Feral White",4.6,16190
+"20",9139,"Feral Brewing Co.",1241254794,4,3.5,3.5,"Witbier",4,4,"Feral White",4.6,16190
+"21",9139,"Feral Brewing Co.",1222850520,3.5,3,3.5,"Witbier",3,3.5,"Feral White",4.6,16190
+"22",9139,"Feral Brewing Co.",1222678219,4,3,3,"Witbier",4,4,"Feral White",4.6,16190
+"23",9139,"Feral Brewing Co.",1211348008,4,3.5,3.5,"Witbier",3.5,4,"Feral White",4.6,16190
+"24",9139,"Feral Brewing Co.",1204184741,4,4,4,"Witbier",4,3.5,"Feral White",4.6,16190
+"25",9139,"Feral Brewing Co.",1202525202,4,3.5,3.5,"Witbier",3.5,3.5,"Feral White",4.6,16190
+"26",9139,"Feral Brewing Co.",1201066931,4,3.5,3.5,"Witbier",4.5,4,"Feral White",4.6,16190
+"27",9139,"Feral Brewing Co.",1189859688,3.5,3.5,2.5,"Witbier",3,3,"Feral White",4.6,16190
+"28",9139,"Feral Brewing Co.",1177668395,2,2.5,3.5,"Witbier",3,2,"Feral White",4.6,16190
+"29",9139,"Feral Brewing Co.",1157176610,3,3,3.5,"Witbier",3,3,"Feral White",4.6,16190
+"30",9139,"Feral Brewing Co.",1148819826,2,3,3,"Witbier",3,2.5,"Feral White",4.6,16190
+"31",9139,"Feral Brewing Co.",1318068481,4,4,4,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",4,56460
+"32",9139,"Feral Brewing Co.",1267283818,5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Farmhouse Ale",4,56460
+"33",9139,"Feral Brewing Co.",1318069257,4.5,4.5,5,"American IPA",4,4.5,"Barrel Fermented Hop Hog",5.8,63076
+"34",9139,"Feral Brewing Co.",1300579908,4,4,4,"American IPA",4.5,4,"Barrel Fermented Hop Hog",5.8,63076
+"35",9139,"Feral Brewing Co.",1292291062,3.5,4,4.5,"American IPA",4.5,4,"Barrel Fermented Hop Hog",5.8,63076
+"36",9139,"Feral Brewing Co.",1291890435,4,4.5,3.5,"American IPA",3.5,4.5,"Barrel Fermented Hop Hog",5.8,63076
+"37",9139,"Feral Brewing Co.",1288608526,4,4.5,4,"American IPA",4.5,4.5,"Barrel Fermented Hop Hog",5.8,63076
+"38",9139,"Feral Brewing Co.",1319809116,4.5,4.5,4,"American Black Ale",4,4,"Karma Citra",5.9,66323
+"39",9139,"Feral Brewing Co.",1307884005,4.5,4.5,4.5,"American Black Ale",4,4.5,"Karma Citra",5.9,66323
+"40",9139,"Feral Brewing Co.",1300580739,4,3.5,4,"American Black Ale",4,4,"Karma Citra",5.9,66323
+"41",9139,"Feral Brewing Co.",1299125660,4.5,4,5,"American Black Ale",4,4,"Karma Citra",5.9,66323
+"42",9139,"Feral Brewing Co.",1298542576,4.5,4,4.5,"American Black Ale",4.5,4,"Karma Citra",5.9,66323
+"43",9139,"Feral Brewing Co.",1298027566,4,4.5,4.5,"American Black Ale",4,4.5,"Karma Citra",5.9,66323
+"44",9139,"Feral Brewing Co.",1300957254,4,4.5,4,"American IPA",3.5,3.5,"Hop Hog",5.8,43579
+"45",9139,"Feral Brewing Co.",1297857320,4.5,4.5,4,"American Black Ale",4.5,4,"Karma Citra",5.9,66323
+"46",9139,"Feral Brewing Co.",1297812512,4,4,4.5,"American Black Ale",4,4,"Karma Citra",5.9,66323
+"47",9139,"Feral Brewing Co.",1319810198,3.5,4,4,"Belgian Dark Ale",3.5,4,"Feral Rust",6,43248
+"48",9139,"Feral Brewing Co.",1272594742,3,3,4,"Belgian Dark Ale",4,2.5,"Feral Rust",6,43248
+"49",9139,"Feral Brewing Co.",1272362142,2.5,3.5,2.5,"Belgian Dark Ale",2,3.5,"Feral Rust",6,43248
+"50",9139,"Feral Brewing Co.",1228123906,3,3.5,3,"Belgian Dark Ale",3.5,3.5,"Feral Rust",6,43248
+"51",9139,"Feral Brewing Co.",1213594856,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Feral Rust",6,43248
+"52",9139,"Feral Brewing Co.",1319807899,4.5,4.5,4,"American IPA",4.5,4.5,"Rye IPA",7.4,70811
+"53",9139,"Feral Brewing Co.",1318941097,4,4,4,"American IPA",4,4,"Rye IPA",7.4,70811
+"54",9139,"Feral Brewing Co.",1300580302,3.5,3.5,3.5,"American IPA",3.5,3.5,"Hop Hog",5.8,43579
+"55",9139,"Feral Brewing Co.",1310037397,4.5,4.5,4,"American IPA",4,4.5,"Rye IPA",7.4,70811
+"56",9139,"Feral Brewing Co.",1326013792,4,4.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
+"57",9139,"Feral Brewing Co.",1321701717,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"58",9139,"Feral Brewing Co.",1317991544,4,4,4,"American IPA",4.5,4,"Hop Hog",5.8,43579
+"59",9139,"Feral Brewing Co.",1317683787,4.5,4,3.5,"American IPA",5,4.5,"Hop Hog",5.8,43579
+"60",9139,"Feral Brewing Co.",1316589758,4.5,4.5,5,"American IPA",4,4.5,"Hop Hog",5.8,43579
+"61",9139,"Feral Brewing Co.",1311498221,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"62",9139,"Feral Brewing Co.",1305365089,4,4.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
+"63",9139,"Feral Brewing Co.",1304746480,4,4,4,"American IPA",4,4,"Hop Hog",5.8,43579
+"64",9139,"Feral Brewing Co.",1303941147,3.5,4,3,"American IPA",3,3,"Hop Hog",5.8,43579
+"65",9139,"Feral Brewing Co.",1302155477,5,3.5,4,"American IPA",4,3.5,"Hop Hog",5.8,43579
+"66",9139,"Feral Brewing Co.",1300042062,4,4,4,"American IPA",3.5,4.5,"Hop Hog",5.8,43579
+"67",9139,"Feral Brewing Co.",1299375891,4,4.5,4.5,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"68",9139,"Feral Brewing Co.",1298956264,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hop Hog",5.8,43579
+"69",9139,"Feral Brewing Co.",1292641663,4,4,3.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
+"70",9139,"Feral Brewing Co.",1289556639,3.5,4,3.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
+"71",9139,"Feral Brewing Co.",1289106305,3.5,3.5,4.5,"American IPA",3.5,3,"Hop Hog",5.8,43579
+"72",9139,"Feral Brewing Co.",1288349528,4,4.5,4.5,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"73",9139,"Feral Brewing Co.",1287740312,4,4.5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
+"74",9139,"Feral Brewing Co.",1287129383,4,4,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"75",9139,"Feral Brewing Co.",1286804173,4,4.5,3.5,"American IPA",4,4,"Hop Hog",5.8,43579
+"76",9139,"Feral Brewing Co.",1285223624,4,4,3.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
+"77",9139,"Feral Brewing Co.",1284503559,3.5,4,4,"American IPA",4,3.5,"Hop Hog",5.8,43579
+"78",9139,"Feral Brewing Co.",1276514786,4.5,3.5,3.5,"American IPA",4,4,"Hop Hog",5.8,43579
+"79",9139,"Feral Brewing Co.",1259707008,4,4,4.5,"American IPA",4,3.5,"Hop Hog",5.8,43579
+"80",9139,"Feral Brewing Co.",1258328542,4.5,4.5,3.5,"American IPA",4.5,4.5,"Hop Hog",5.8,43579
+"81",9139,"Feral Brewing Co.",1252420181,4.5,5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
+"82",9139,"Feral Brewing Co.",1244469465,4,5,4.5,"American IPA",4.5,4,"Hop Hog",5.8,43579
+"83",9139,"Feral Brewing Co.",1324950518,2.5,3,3.5,"Belgian Pale Ale",3,2,"Golden Ace",5.6,67354
+"84",9139,"Feral Brewing Co.",1244466092,4,5,4.5,"American IPA",4,4.5,"Hop Hog",5.8,43579
+"85",9139,"Feral Brewing Co.",1237771741,4.5,4.5,4.5,"American IPA",4.5,4,"Hop Hog",5.8,43579
+"86",9139,"Feral Brewing Co.",1235306492,4,4.5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"87",9139,"Feral Brewing Co.",1228123624,3.5,5,4,"American IPA",3.5,4,"Hop Hog",5.8,43579
+"88",9139,"Feral Brewing Co.",1215329099,4.5,3.5,4,"American IPA",4,4,"Hop Hog",5.8,43579
+"89",9139,"Feral Brewing Co.",1319807251,4,4,4,"English Barleywine",4,4.5,"Razorback",10,48495
+"90",9139,"Feral Brewing Co.",1268090845,4,3.5,4,"English Barleywine",3.5,4,"Razorback",10,48495
+"91",9139,"Feral Brewing Co.",1262134644,3,4,4.5,"English Barleywine",4,4.5,"Razorback",10,48495
+"92",9139,"Feral Brewing Co.",1242822678,3.5,4,4,"English Barleywine",4,4,"Razorback",10,48495
+"93",9139,"Feral Brewing Co.",1237200591,3.5,3.5,4,"English Barleywine",2,3.5,"Razorback",10,48495
+"94",9139,"Feral Brewing Co.",1318212159,3.5,4.5,4,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
+"95",9139,"Feral Brewing Co.",1315029725,3.5,3.5,4,"Belgian Pale Ale",4.5,3.5,"Golden Ace",5.6,67354
+"96",9139,"Feral Brewing Co.",1313149146,3.5,3.5,3.5,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
+"97",9139,"Feral Brewing Co.",1313141553,3.5,4,3.5,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
+"98",9139,"Feral Brewing Co.",1308533943,3.5,3.5,3.5,"Belgian Pale Ale",4,3,"Golden Ace",5.6,67354
+"99",9139,"Feral Brewing Co.",1307599710,3.5,3.5,4,"Belgian Pale Ale",3.5,3.5,"Golden Ace",5.6,67354
+"100",9139,"Feral Brewing Co.",1300581245,3,3.5,3.5,"Belgian Pale Ale",2.5,3,"Golden Ace",5.6,67354
+"101",9139,"Feral Brewing Co.",1317602192,4.5,4,4,"Russian Imperial Stout",4,4,"Boris Imperial Stout",11.5,49716
+"102",9139,"Feral Brewing Co.",1308305284,5,5,5,"Russian Imperial Stout",5,5,"Boris Imperial Stout",11.5,49716
+"103",9139,"Feral Brewing Co.",1304400855,1.5,3,3.5,"Russian Imperial Stout",2,2.5,"Boris Imperial Stout",11.5,49716
+"104",9139,"Feral Brewing Co.",1283313222,4.5,4,4.5,"Russian Imperial Stout",3.5,4,"Boris Imperial Stout",11.5,49716
+"105",9139,"Feral Brewing Co.",1282691799,4.5,4,4.5,"Russian Imperial Stout",4.5,3.5,"Boris Imperial Stout",11.5,49716
+"106",9139,"Feral Brewing Co.",1242041421,3.5,4,4.5,"Russian Imperial Stout",4,4,"Boris Imperial Stout",11.5,49716
+"107",9139,"Feral Brewing Co.",1318070611,4,3.5,4,"American Porter",3.5,4,"Smoked Porter",4.7,54551
+"108",9139,"Feral Brewing Co.",1259997486,4,3.5,4,"American Porter",3.5,4,"Smoked Porter",4.7,54551

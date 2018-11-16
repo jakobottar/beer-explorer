@@ -1,120 +1,92 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",2312,"Tenaya Creek Brewery",1319467856,4,3.5,4,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
 "2",2312,"Tenaya Creek Brewery",1230662774,3.5,3,3,"Czech Pilsener",3,3,"Tenaya Creek Pilsner",5.2,8407
-"3",2312,"Tenaya Creek Brewery",1086762788,4.5,3.5,4,"American Pale Lager",4,4,"Tenaya Creek Centennial Lager",NA,17864
-"4",2312,"Tenaya Creek Brewery",1266020289,4,3.5,4,"American Pale Ale (APA)",4,4,"Tenaya Creek Pale Ale",NA,17863
-"5",2312,"Tenaya Creek Brewery",1086762371,3,3,4,"American Pale Ale (APA)",3.5,3,"Tenaya Creek Pale Ale",NA,17863
-"6",2312,"Tenaya Creek Brewery",1159729328,4.5,4,4,"Oatmeal Stout",4,5,"Tenaya Creek Oatmeal Stout",NA,9592
-"7",2312,"Tenaya Creek Brewery",1086763522,3.5,3.5,4,"Dunkelweizen",4,3.5,"Tenaya Creek Dunkle Weisse",NA,17865
-"8",2312,"Tenaya Creek Brewery",1230663050,3.5,3.5,4,"American Porter",4,3.5,"Tenaya Creek Robust Porter",NA,46934
-"9",2312,"Tenaya Creek Brewery",1325486950,3.5,3.5,3.5,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"10",2312,"Tenaya Creek Brewery",1323917129,4,4,3.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"11",2312,"Tenaya Creek Brewery",1319958189,4,3.5,4,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"12",2312,"Tenaya Creek Brewery",1317534014,4,4,4.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"13",2312,"Tenaya Creek Brewery",1316134881,4.5,4.5,4.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"14",2312,"Tenaya Creek Brewery",1310095897,3.5,4,4,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"15",2312,"Tenaya Creek Brewery",1309310792,3.5,3.5,3.5,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"16",2312,"Tenaya Creek Brewery",1307741235,3.5,3,3.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"17",2312,"Tenaya Creek Brewery",1305419621,4,3.5,4,"American IPA",4.5,4.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"18",2312,"Tenaya Creek Brewery",1302891220,3.5,3.5,3.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"19",2312,"Tenaya Creek Brewery",1300493892,2.5,3.5,3,"American IPA",2.5,2,"Tenaya Creek Hop Ride IPA",7.2,63770
-"20",2312,"Tenaya Creek Brewery",1298238413,3.5,3,3.5,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"21",2312,"Tenaya Creek Brewery",1297827609,4,4,4,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"22",2312,"Tenaya Creek Brewery",1295749802,4,3,4,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
-"23",2312,"Tenaya Creek Brewery",1291775091,3,3.5,2.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"24",2312,"Tenaya Creek Brewery",1290635236,3.5,3,4.5,"American IPA",4,3,"Tenaya Creek Hop Ride IPA",7.2,63770
-"25",2312,"Tenaya Creek Brewery",1290464464,4,3.5,4,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
-"26",2312,"Tenaya Creek Brewery",1325214308,3.5,3,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Stout",9.3,76846
-"27",2312,"Tenaya Creek Brewery",1322114170,4,4,4,"American Amber / Red Ale",4,4,"Red Ryder",6.2,70541
-"28",2312,"Tenaya Creek Brewery",1321328859,3.5,3,4,"American Amber / Red Ale",3,3.5,"Red Ryder",6.2,70541
-"29",2312,"Tenaya Creek Brewery",1310279727,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Red Ryder",6.2,70541
-"30",2312,"Tenaya Creek Brewery",1309314693,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Red Ryder",6.2,70541
-"31",2312,"Tenaya Creek Brewery",1316746098,4,3.5,4.5,"American Barleywine",4,4,"Old Jackalope",10.4,67808
-"32",2312,"Tenaya Creek Brewery",1304796469,3.5,3,4.5,"American Barleywine",4.5,3.5,"Old Jackalope",10.4,67808
-"33",2312,"Tenaya Creek Brewery",1301882621,3.5,4,3.5,"American Barleywine",3.5,3.5,"Old Jackalope",10.4,67808
-"34",2312,"Tenaya Creek Brewery",1070592211,4,3,3.5,"Kölsch",4,3.5,"Tenaya Creek Kolsch",5.1,9593
-"35",2312,"Tenaya Creek Brewery",1066016125,3.5,3.5,3,"Kölsch",3,4,"Tenaya Creek Kolsch",5.1,9593
-"36",2312,"Tenaya Creek Brewery",1051568163,4,4,4,"Kölsch",3.5,4,"Tenaya Creek Kolsch",5.1,9593
-"37",2312,"Tenaya Creek Brewery",1205609974,2,3,2,"American Amber / Red Ale",2,3,"American Amber",NA,41397
-"38",2312,"Tenaya Creek Brewery",1204779579,3.5,2,4,"American Amber / Red Ale",4,4,"American Amber",NA,41397
-"39",2312,"Tenaya Creek Brewery",1230662975,4,3.5,4,"Munich Dunkel Lager",3.5,4,"Tenaya Creek Black Widow Lager",4.5,17202
-"40",2312,"Tenaya Creek Brewery",1210701886,4,3.5,4.5,"Munich Dunkel Lager",4,4,"Tenaya Creek Black Widow Lager",4.5,17202
-"41",2312,"Tenaya Creek Brewery",1082489720,4,3.5,4,"Munich Dunkel Lager",4,4,"Tenaya Creek Black Widow Lager",4.5,17202
-"42",2312,"Tenaya Creek Brewery",1320279413,4,4,4.5,"Märzen / Oktoberfest",4.5,4,"Tenaya Creek Oktoberfest Lager",6,74810
-"43",2312,"Tenaya Creek Brewery",1230662851,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Tenaya Creek Ringtail Ale",6,8417
-"44",2312,"Tenaya Creek Brewery",1210856498,2,3,3.5,"American Pale Ale (APA)",3,2.5,"Tenaya Creek Ringtail Ale",6,8417
-"45",2312,"Tenaya Creek Brewery",1205609833,2.5,3,3,"American Pale Ale (APA)",2,3,"Tenaya Creek Ringtail Ale",6,8417
-"46",2312,"Tenaya Creek Brewery",1204779663,3.5,2.5,3,"American Pale Ale (APA)",3.5,3.5,"Tenaya Creek Ringtail Ale",6,8417
-"47",2312,"Tenaya Creek Brewery",1109910929,3,2.5,3.5,"American Pale Ale (APA)",2.5,3,"Tenaya Creek Ringtail Ale",6,8417
-"48",2312,"Tenaya Creek Brewery",1070592974,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Tenaya Creek Ringtail Ale",6,8417
-"49",2312,"Tenaya Creek Brewery",1044704232,4,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Tenaya Creek Ringtail Ale",6,8417
-"50",2312,"Tenaya Creek Brewery",1294683501,4,2.5,3.5,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
-"51",2312,"Tenaya Creek Brewery",1283749559,3.5,2.5,3.5,"Hefeweizen",3,3,"Tenaya Creek Hefeweizen",4.8,8419
-"52",2312,"Tenaya Creek Brewery",1249421983,3.5,3,4,"Hefeweizen",3,3,"Tenaya Creek Hefeweizen",4.8,8419
-"53",2312,"Tenaya Creek Brewery",1230662804,3.5,3,3,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
-"54",2312,"Tenaya Creek Brewery",1205609865,2.5,2.5,3,"Hefeweizen",2,2.5,"Tenaya Creek Hefeweizen",4.8,8419
-"55",2312,"Tenaya Creek Brewery",1204778937,2.5,2,3.5,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
-"56",2312,"Tenaya Creek Brewery",1086761891,2.5,2,3,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
-"57",2312,"Tenaya Creek Brewery",1070592654,3,3,3.5,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
-"58",2312,"Tenaya Creek Brewery",1044705090,3.5,3,3.5,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
-"59",2312,"Tenaya Creek Brewery",1110252385,3.5,3.5,4,"English Porter",4,3.5,"Tenaya Creek Chocolate Porter",NA,22160
-"60",2312,"Tenaya Creek Brewery",1044705394,4,4,4,"American Barleywine",4,4.5,"Tenaya Creek Winter Solstice Barleywine",9.2,8420
-"61",2312,"Tenaya Creek Brewery",1204778829,4,3,2,"American Barleywine",3,4,"Barleywine #8",9,41396
-"62",2312,"Tenaya Creek Brewery",1205609901,3,3.5,4,"Russian Imperial Stout",3,3,"Tenaya Creek Imperial Stout",8.9,40118
-"63",2312,"Tenaya Creek Brewery",1204779322,3.5,2,4,"Russian Imperial Stout",4,3.5,"Tenaya Creek Imperial Stout",8.9,40118
-"64",2312,"Tenaya Creek Brewery",1199923172,4,4,3.5,"Russian Imperial Stout",4.5,4,"Tenaya Creek Imperial Stout",8.9,40118
-"65",2312,"Tenaya Creek Brewery",1198348545,4,4,3.5,"Russian Imperial Stout",4,4,"Tenaya Creek Imperial Stout",8.9,40118
-"66",2312,"Tenaya Creek Brewery",1197940578,3.5,3,3,"Russian Imperial Stout",3,3.5,"Tenaya Creek Imperial Stout",8.9,40118
-"67",2312,"Tenaya Creek Brewery",1323230779,2.5,3,2.5,"American Double / Imperial IPA",3.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
-"68",2312,"Tenaya Creek Brewery",1322331279,2.5,4,3,"American Double / Imperial IPA",2.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
-"69",2312,"Tenaya Creek Brewery",1320836124,2.5,3,4,"American Double / Imperial IPA",3.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
-"70",2312,"Tenaya Creek Brewery",1318650084,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Tandem Double IPA",9,73870
-"71",2312,"Tenaya Creek Brewery",1318194925,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Tandem Double IPA",9,73870
-"72",2312,"Tenaya Creek Brewery",1318135834,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Tenaya Creek Tandem Double IPA",9,73870
-"73",2312,"Tenaya Creek Brewery",1318006473,3,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Tandem Double IPA",9,73870
-"74",2312,"Tenaya Creek Brewery",1159729075,4,4,4,"American Double / Imperial Pilsner",4.5,4,"Tenaya Creek Double Pilsner",7.5,30006
-"75",2312,"Tenaya Creek Brewery",1303326363,4,4,3.5,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
-"76",2312,"Tenaya Creek Brewery",1297707094,4,3.5,3.5,"English Brown Ale",3.5,4,"Tenaya Creek Nut Brown Ale",5.6,8418
-"77",2312,"Tenaya Creek Brewery",1294538279,2,3.5,3,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
-"78",2312,"Tenaya Creek Brewery",1278294044,4,3.5,4,"English Brown Ale",3.5,3.5,"Tenaya Creek Nut Brown Ale",5.6,8418
-"79",2312,"Tenaya Creek Brewery",1266017838,4,3.5,3.5,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
-"80",2312,"Tenaya Creek Brewery",1263753570,4,3.5,3.5,"English Brown Ale",3.5,4,"Tenaya Creek Nut Brown Ale",5.6,8418
-"81",2312,"Tenaya Creek Brewery",1230662895,3.5,3.5,3,"English Brown Ale",3.5,3.5,"Tenaya Creek Nut Brown Ale",5.6,8418
-"82",2312,"Tenaya Creek Brewery",1205609792,3,3,4,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
-"83",2312,"Tenaya Creek Brewery",1204779069,3,3,3,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
-"84",2312,"Tenaya Creek Brewery",1070593464,4,4,4,"English Brown Ale",4,4.5,"Tenaya Creek Nut Brown Ale",5.6,8418
-"85",2312,"Tenaya Creek Brewery",1044704831,4.5,3.5,4,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
-"86",2312,"Tenaya Creek Brewery",1230662207,3.5,3,3.5,"Herbed / Spiced Beer",3,3.5,"Tenaya Creek Spiced Ale",NA,44545
-"87",2312,"Tenaya Creek Brewery",1219789286,4,4,4.5,"Herbed / Spiced Beer",4,4,"Tenaya Creek Spiced Ale",NA,44545
-"88",2312,"Tenaya Creek Brewery",1282703818,5,5,4,"Czech Pilsener",5,5,"Tenaya Creek Pilsner",5.2,8407
-"89",2312,"Tenaya Creek Brewery",1210705945,4,3.5,4.5,"Czech Pilsener",4.5,4,"Tenaya Creek Pilsner",5.2,8407
-"90",2312,"Tenaya Creek Brewery",1205609751,3.5,3,3,"Czech Pilsener",3,3,"Tenaya Creek Pilsner",5.2,8407
-"91",2312,"Tenaya Creek Brewery",1204779195,2,2,4,"Czech Pilsener",3,1.5,"Tenaya Creek Pilsner",5.2,8407
-"92",2312,"Tenaya Creek Brewery",1154651463,4,3.5,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
-"93",2312,"Tenaya Creek Brewery",1121971048,4,4,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
-"94",2312,"Tenaya Creek Brewery",1109911143,4,4,3.5,"Czech Pilsener",4,4,"Tenaya Creek Pilsner",5.2,8407
-"95",2312,"Tenaya Creek Brewery",1070591301,4,3.5,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
-"96",2312,"Tenaya Creek Brewery",1044662305,4,4,3.5,"Czech Pilsener",4,4,"Tenaya Creek Pilsner",5.2,8407
-"97",2312,"Tenaya Creek Brewery",1326261687,4,3,3.5,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
-"98",2312,"Tenaya Creek Brewery",1325454550,4,3.5,3.5,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
-"99",2312,"Tenaya Creek Brewery",1320021077,4.5,3.5,4,"American Brown Ale",5,4,"Tenaya Creek Calico Brown Ale",5.6,64209
-"100",2312,"Tenaya Creek Brewery",1309310741,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
-"101",2312,"Tenaya Creek Brewery",1308259858,4.5,4.5,4,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
-"102",2312,"Tenaya Creek Brewery",1302126850,4,3.5,4,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
-"103",2312,"Tenaya Creek Brewery",1299118218,3,3.5,3.5,"American Brown Ale",3,3,"Tenaya Creek Calico Brown Ale",5.6,64209
-"104",2312,"Tenaya Creek Brewery",1294791731,4,3.5,4,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
-"105",2312,"Tenaya Creek Brewery",1292734587,4,3,3.5,"American Brown Ale",4,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
-"106",2312,"Tenaya Creek Brewery",1291776289,2,2,2.5,"American Brown Ale",2.5,2,"Tenaya Creek Calico Brown Ale",5.6,64209
-"107",2312,"Tenaya Creek Brewery",1205609938,1.5,2,3,"Tripel",2,1.5,"Tenaya Creek Belgian Triple",8.3,39707
-"108",2312,"Tenaya Creek Brewery",1204779449,3.5,4,4,"Tripel",3,4,"Tenaya Creek Belgian Triple",8.3,39707
-"109",2312,"Tenaya Creek Brewery",1198348817,3.5,4,3.5,"Tripel",4,3.5,"Tenaya Creek Belgian Triple",8.3,39707
-"110",2312,"Tenaya Creek Brewery",1195660304,4,3.5,4,"Tripel",4,3.5,"Tenaya Creek Belgian Triple",8.3,39707
-"111",2312,"Tenaya Creek Brewery",1325574342,4,4,4,"American Double / Imperial IPA",4,4,"Tenaya Creek Monsoon",8.5,64120
-"112",2312,"Tenaya Creek Brewery",1323666272,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Tenaya Creek Monsoon",8.5,64120
-"113",2312,"Tenaya Creek Brewery",1322851821,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Monsoon",8.5,64120
-"114",2312,"Tenaya Creek Brewery",1320937527,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Monsoon",8.5,64120
-"115",2312,"Tenaya Creek Brewery",1297956404,3,3.5,4,"American Double / Imperial IPA",3,3.5,"Tenaya Creek Monsoon",8.5,64120
-"116",2312,"Tenaya Creek Brewery",1292735250,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Tenaya Creek Monsoon",8.5,64120
-"117",2312,"Tenaya Creek Brewery",1291774816,3,2,4,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Monsoon",8.5,64120
-"118",2312,"Tenaya Creek Brewery",1070591749,4,3.5,3.5,"Märzen / Oktoberfest",4,3,"Tenaya Creek Oktoberfest",NA,8408
-"119",2312,"Tenaya Creek Brewery",1044662554,4,3.5,4,"Märzen / Oktoberfest",4,4,"Tenaya Creek Oktoberfest",NA,8408
+"3",2312,"Tenaya Creek Brewery",1325486950,3.5,3.5,3.5,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"4",2312,"Tenaya Creek Brewery",1323917129,4,4,3.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"5",2312,"Tenaya Creek Brewery",1319958189,4,3.5,4,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"6",2312,"Tenaya Creek Brewery",1317534014,4,4,4.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"7",2312,"Tenaya Creek Brewery",1316134881,4.5,4.5,4.5,"American IPA",4,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"8",2312,"Tenaya Creek Brewery",1310095897,3.5,4,4,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"9",2312,"Tenaya Creek Brewery",1309310792,3.5,3.5,3.5,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"10",2312,"Tenaya Creek Brewery",1307741235,3.5,3,3.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"11",2312,"Tenaya Creek Brewery",1305419621,4,3.5,4,"American IPA",4.5,4.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"12",2312,"Tenaya Creek Brewery",1302891220,3.5,3.5,3.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"13",2312,"Tenaya Creek Brewery",1300493892,2.5,3.5,3,"American IPA",2.5,2,"Tenaya Creek Hop Ride IPA",7.2,63770
+"14",2312,"Tenaya Creek Brewery",1298238413,3.5,3,3.5,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"15",2312,"Tenaya Creek Brewery",1297827609,4,4,4,"American IPA",4,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"16",2312,"Tenaya Creek Brewery",1295749802,4,3,4,"American IPA",3.5,4,"Tenaya Creek Hop Ride IPA",7.2,63770
+"17",2312,"Tenaya Creek Brewery",1291775091,3,3.5,2.5,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"18",2312,"Tenaya Creek Brewery",1290635236,3.5,3,4.5,"American IPA",4,3,"Tenaya Creek Hop Ride IPA",7.2,63770
+"19",2312,"Tenaya Creek Brewery",1290464464,4,3.5,4,"American IPA",3.5,3.5,"Tenaya Creek Hop Ride IPA",7.2,63770
+"20",2312,"Tenaya Creek Brewery",1325214308,3.5,3,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Stout",9.3,76846
+"21",2312,"Tenaya Creek Brewery",1322114170,4,4,4,"American Amber / Red Ale",4,4,"Red Ryder",6.2,70541
+"22",2312,"Tenaya Creek Brewery",1321328859,3.5,3,4,"American Amber / Red Ale",3,3.5,"Red Ryder",6.2,70541
+"23",2312,"Tenaya Creek Brewery",1310279727,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Red Ryder",6.2,70541
+"24",2312,"Tenaya Creek Brewery",1309314693,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Red Ryder",6.2,70541
+"25",2312,"Tenaya Creek Brewery",1205609974,2,3,2,"American Amber / Red Ale",2,3,"American Amber",NA,41397
+"26",2312,"Tenaya Creek Brewery",1204779579,3.5,2,4,"American Amber / Red Ale",4,4,"American Amber",NA,41397
+"27",2312,"Tenaya Creek Brewery",1230662851,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Tenaya Creek Ringtail Ale",6,8417
+"28",2312,"Tenaya Creek Brewery",1210856498,2,3,3.5,"American Pale Ale (APA)",3,2.5,"Tenaya Creek Ringtail Ale",6,8417
+"29",2312,"Tenaya Creek Brewery",1205609833,2.5,3,3,"American Pale Ale (APA)",2,3,"Tenaya Creek Ringtail Ale",6,8417
+"30",2312,"Tenaya Creek Brewery",1204779663,3.5,2.5,3,"American Pale Ale (APA)",3.5,3.5,"Tenaya Creek Ringtail Ale",6,8417
+"31",2312,"Tenaya Creek Brewery",1109910929,3,2.5,3.5,"American Pale Ale (APA)",2.5,3,"Tenaya Creek Ringtail Ale",6,8417
+"32",2312,"Tenaya Creek Brewery",1070592974,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Tenaya Creek Ringtail Ale",6,8417
+"33",2312,"Tenaya Creek Brewery",1044704232,4,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Tenaya Creek Ringtail Ale",6,8417
+"34",2312,"Tenaya Creek Brewery",1294683501,4,2.5,3.5,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
+"35",2312,"Tenaya Creek Brewery",1283749559,3.5,2.5,3.5,"Hefeweizen",3,3,"Tenaya Creek Hefeweizen",4.8,8419
+"36",2312,"Tenaya Creek Brewery",1249421983,3.5,3,4,"Hefeweizen",3,3,"Tenaya Creek Hefeweizen",4.8,8419
+"37",2312,"Tenaya Creek Brewery",1230662804,3.5,3,3,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
+"38",2312,"Tenaya Creek Brewery",1205609865,2.5,2.5,3,"Hefeweizen",2,2.5,"Tenaya Creek Hefeweizen",4.8,8419
+"39",2312,"Tenaya Creek Brewery",1204778937,2.5,2,3.5,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
+"40",2312,"Tenaya Creek Brewery",1086761891,2.5,2,3,"Hefeweizen",3,2.5,"Tenaya Creek Hefeweizen",4.8,8419
+"41",2312,"Tenaya Creek Brewery",1070592654,3,3,3.5,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
+"42",2312,"Tenaya Creek Brewery",1044705090,3.5,3,3.5,"Hefeweizen",3.5,3,"Tenaya Creek Hefeweizen",4.8,8419
+"43",2312,"Tenaya Creek Brewery",1205609901,3,3.5,4,"Russian Imperial Stout",3,3,"Tenaya Creek Imperial Stout",8.9,40118
+"44",2312,"Tenaya Creek Brewery",1204779322,3.5,2,4,"Russian Imperial Stout",4,3.5,"Tenaya Creek Imperial Stout",8.9,40118
+"45",2312,"Tenaya Creek Brewery",1199923172,4,4,3.5,"Russian Imperial Stout",4.5,4,"Tenaya Creek Imperial Stout",8.9,40118
+"46",2312,"Tenaya Creek Brewery",1198348545,4,4,3.5,"Russian Imperial Stout",4,4,"Tenaya Creek Imperial Stout",8.9,40118
+"47",2312,"Tenaya Creek Brewery",1197940578,3.5,3,3,"Russian Imperial Stout",3,3.5,"Tenaya Creek Imperial Stout",8.9,40118
+"48",2312,"Tenaya Creek Brewery",1323230779,2.5,3,2.5,"American Double / Imperial IPA",3.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
+"49",2312,"Tenaya Creek Brewery",1322331279,2.5,4,3,"American Double / Imperial IPA",2.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
+"50",2312,"Tenaya Creek Brewery",1320836124,2.5,3,4,"American Double / Imperial IPA",3.5,2.5,"Tenaya Creek Tandem Double IPA",9,73870
+"51",2312,"Tenaya Creek Brewery",1318650084,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Tandem Double IPA",9,73870
+"52",2312,"Tenaya Creek Brewery",1318194925,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Tandem Double IPA",9,73870
+"53",2312,"Tenaya Creek Brewery",1318135834,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Tenaya Creek Tandem Double IPA",9,73870
+"54",2312,"Tenaya Creek Brewery",1318006473,3,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Tandem Double IPA",9,73870
+"55",2312,"Tenaya Creek Brewery",1303326363,4,4,3.5,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
+"56",2312,"Tenaya Creek Brewery",1297707094,4,3.5,3.5,"English Brown Ale",3.5,4,"Tenaya Creek Nut Brown Ale",5.6,8418
+"57",2312,"Tenaya Creek Brewery",1294538279,2,3.5,3,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
+"58",2312,"Tenaya Creek Brewery",1278294044,4,3.5,4,"English Brown Ale",3.5,3.5,"Tenaya Creek Nut Brown Ale",5.6,8418
+"59",2312,"Tenaya Creek Brewery",1266017838,4,3.5,3.5,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
+"60",2312,"Tenaya Creek Brewery",1263753570,4,3.5,3.5,"English Brown Ale",3.5,4,"Tenaya Creek Nut Brown Ale",5.6,8418
+"61",2312,"Tenaya Creek Brewery",1230662895,3.5,3.5,3,"English Brown Ale",3.5,3.5,"Tenaya Creek Nut Brown Ale",5.6,8418
+"62",2312,"Tenaya Creek Brewery",1205609792,3,3,4,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
+"63",2312,"Tenaya Creek Brewery",1204779069,3,3,3,"English Brown Ale",3,3,"Tenaya Creek Nut Brown Ale",5.6,8418
+"64",2312,"Tenaya Creek Brewery",1070593464,4,4,4,"English Brown Ale",4,4.5,"Tenaya Creek Nut Brown Ale",5.6,8418
+"65",2312,"Tenaya Creek Brewery",1044704831,4.5,3.5,4,"English Brown Ale",4,4,"Tenaya Creek Nut Brown Ale",5.6,8418
+"66",2312,"Tenaya Creek Brewery",1282703818,5,5,4,"Czech Pilsener",5,5,"Tenaya Creek Pilsner",5.2,8407
+"67",2312,"Tenaya Creek Brewery",1210705945,4,3.5,4.5,"Czech Pilsener",4.5,4,"Tenaya Creek Pilsner",5.2,8407
+"68",2312,"Tenaya Creek Brewery",1205609751,3.5,3,3,"Czech Pilsener",3,3,"Tenaya Creek Pilsner",5.2,8407
+"69",2312,"Tenaya Creek Brewery",1204779195,2,2,4,"Czech Pilsener",3,1.5,"Tenaya Creek Pilsner",5.2,8407
+"70",2312,"Tenaya Creek Brewery",1154651463,4,3.5,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
+"71",2312,"Tenaya Creek Brewery",1121971048,4,4,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
+"72",2312,"Tenaya Creek Brewery",1109911143,4,4,3.5,"Czech Pilsener",4,4,"Tenaya Creek Pilsner",5.2,8407
+"73",2312,"Tenaya Creek Brewery",1070591301,4,3.5,3.5,"Czech Pilsener",3.5,4,"Tenaya Creek Pilsner",5.2,8407
+"74",2312,"Tenaya Creek Brewery",1044662305,4,4,3.5,"Czech Pilsener",4,4,"Tenaya Creek Pilsner",5.2,8407
+"75",2312,"Tenaya Creek Brewery",1326261687,4,3,3.5,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
+"76",2312,"Tenaya Creek Brewery",1325454550,4,3.5,3.5,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
+"77",2312,"Tenaya Creek Brewery",1320021077,4.5,3.5,4,"American Brown Ale",5,4,"Tenaya Creek Calico Brown Ale",5.6,64209
+"78",2312,"Tenaya Creek Brewery",1309310741,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
+"79",2312,"Tenaya Creek Brewery",1308259858,4.5,4.5,4,"American Brown Ale",4,4,"Tenaya Creek Calico Brown Ale",5.6,64209
+"80",2312,"Tenaya Creek Brewery",1302126850,4,3.5,4,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
+"81",2312,"Tenaya Creek Brewery",1299118218,3,3.5,3.5,"American Brown Ale",3,3,"Tenaya Creek Calico Brown Ale",5.6,64209
+"82",2312,"Tenaya Creek Brewery",1294791731,4,3.5,4,"American Brown Ale",3.5,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
+"83",2312,"Tenaya Creek Brewery",1292734587,4,3,3.5,"American Brown Ale",4,3.5,"Tenaya Creek Calico Brown Ale",5.6,64209
+"84",2312,"Tenaya Creek Brewery",1291776289,2,2,2.5,"American Brown Ale",2.5,2,"Tenaya Creek Calico Brown Ale",5.6,64209
+"85",2312,"Tenaya Creek Brewery",1325574342,4,4,4,"American Double / Imperial IPA",4,4,"Tenaya Creek Monsoon",8.5,64120
+"86",2312,"Tenaya Creek Brewery",1323666272,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Tenaya Creek Monsoon",8.5,64120
+"87",2312,"Tenaya Creek Brewery",1322851821,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Monsoon",8.5,64120
+"88",2312,"Tenaya Creek Brewery",1320937527,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Tenaya Creek Monsoon",8.5,64120
+"89",2312,"Tenaya Creek Brewery",1297956404,3,3.5,4,"American Double / Imperial IPA",3,3.5,"Tenaya Creek Monsoon",8.5,64120
+"90",2312,"Tenaya Creek Brewery",1292735250,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Tenaya Creek Monsoon",8.5,64120
+"91",2312,"Tenaya Creek Brewery",1291774816,3,2,4,"American Double / Imperial IPA",3.5,3,"Tenaya Creek Monsoon",8.5,64120

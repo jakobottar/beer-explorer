@@ -1,271 +1,144 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",6578,"The Cambridge House Brewpub",1136610939,4.5,4.5,4.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"2",6578,"The Cambridge House Brewpub",1222303842,4.5,4,4,"English Pale Ale",4.5,4.5,"Cambridge House 4 Slackers EPA",5.3,43089
-"3",6578,"The Cambridge House Brewpub",1312677053,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Cambridge House Granby-on-Trent",5.9,71609
-"4",6578,"The Cambridge House Brewpub",1284932156,4.5,4,3,"Oatmeal Stout",4.5,4,"Cambridge House One Adam Stout",5.5,60110
-"5",6578,"The Cambridge House Brewpub",1282448924,3.5,4,3.5,"Oatmeal Stout",4,4,"Cambridge House One Adam Stout",5.5,60110
-"6",6578,"The Cambridge House Brewpub",1279264077,4.5,3.5,4,"Oatmeal Stout",4,4,"Cambridge House One Adam Stout",5.5,60110
-"7",6578,"The Cambridge House Brewpub",1260986605,4,3.5,4,"American Amber / Red Ale",4,4,"Cambridge House Easy Red'er",5.6,54794
-"8",6578,"The Cambridge House Brewpub",1256581505,4,4,4.5,"American Amber / Red Ale",4,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
-"9",6578,"The Cambridge House Brewpub",1252931069,4.5,3.5,4.5,"American Amber / Red Ale",4,4,"Cambridge House Clifford The Big Red Ale",10,50049
-"10",6578,"The Cambridge House Brewpub",1247338818,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Cambridge House Clifford The Big Red Ale",10,50049
-"11",6578,"The Cambridge House Brewpub",1245848634,4.5,4.5,4.5,"American Amber / Red Ale",5,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
-"12",6578,"The Cambridge House Brewpub",1243775833,4.5,4,4.5,"American Amber / Red Ale",4.5,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
-"13",6578,"The Cambridge House Brewpub",1243648849,4.5,4,4,"American Amber / Red Ale",4,5,"Cambridge House Clifford The Big Red Ale",10,50049
-"14",6578,"The Cambridge House Brewpub",1168190132,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"15",6578,"The Cambridge House Brewpub",1243479177,3.5,3,4,"American Amber / Red Ale",2.5,3.5,"Cambridge House Clifford The Big Red Ale",10,50049
-"16",6578,"The Cambridge House Brewpub",1243302493,3.5,4,4,"American Amber / Red Ale",4,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
-"17",6578,"The Cambridge House Brewpub",1298844269,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Cambridge House Ambrodisiac",5.7,66729
-"18",6578,"The Cambridge House Brewpub",1254256532,4.5,4,3.5,"Märzen / Oktoberfest",4.5,4,"Cambridge House Oktoberfest",6.7,45053
-"19",6578,"The Cambridge House Brewpub",1253301076,4,4,4,"Märzen / Oktoberfest",4.5,4.5,"Cambridge House Oktoberfest",6.7,45053
-"20",6578,"The Cambridge House Brewpub",1222734129,4,4,3.5,"Märzen / Oktoberfest",4,4,"Cambridge House Oktoberfest",6.7,45053
-"21",6578,"The Cambridge House Brewpub",1222457871,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberfest",6.7,45053
-"22",6578,"The Cambridge House Brewpub",1304050074,3,3.5,3.5,"American Black Ale",3,3,"Black IPA",NA,68317
-"23",6578,"The Cambridge House Brewpub",1303768562,3,3,4,"American Black Ale",3.5,3,"Black IPA",NA,68317
-"24",6578,"The Cambridge House Brewpub",1303517609,3.5,3.5,4,"American Black Ale",3.5,3.5,"Black IPA",NA,68317
-"25",6578,"The Cambridge House Brewpub",1181519651,4,3.5,4,"American Blonde Ale",3.5,4,"Cambridge House Honey Blonde",5.8,37184
-"26",6578,"The Cambridge House Brewpub",1181388428,5,3,3.5,"American Blonde Ale",4.5,4.5,"Cambridge House Honey Blonde",5.8,37184
-"27",6578,"The Cambridge House Brewpub",1192634453,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"28",6578,"The Cambridge House Brewpub",1192323820,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
-"29",6578,"The Cambridge House Brewpub",1179788801,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"30",6578,"The Cambridge House Brewpub",1171081500,5,4.5,4,"American Double / Imperial IPA",4.5,5,"Cambridge House Big Hoppy",10,34357
-"31",6578,"The Cambridge House Brewpub",1169217207,4,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
-"32",6578,"The Cambridge House Brewpub",1168828555,4,4,3.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
-"33",6578,"The Cambridge House Brewpub",1168618983,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"34",6578,"The Cambridge House Brewpub",1166727487,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"35",6578,"The Cambridge House Brewpub",1166445007,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
-"36",6578,"The Cambridge House Brewpub",1292539387,4,3.5,3.5,"American Porter",4,4.5,"Cambridge House Smokey The Beer",7.5,63377
-"37",6578,"The Cambridge House Brewpub",1289443732,4,4,4,"American Porter",4,4,"Cambridge House Smokey The Beer",7.5,63377
-"38",6578,"The Cambridge House Brewpub",1315685372,4,3.5,4,"American Blonde Ale",3.5,4,"Cambridge House Dirty Blonde",5.8,73013
-"39",6578,"The Cambridge House Brewpub",1281810412,4,3.5,4,"English Brown Ale",4,4,"Cambridge House Nutrocker",5.2,59480
-"40",6578,"The Cambridge House Brewpub",1277252018,4,3.5,4,"English Brown Ale",3.5,4,"Cambridge House Nutrocker",5.2,59480
-"41",6578,"The Cambridge House Brewpub",1135117878,4,3.5,4,"Belgian Dark Ale",4,4.5,"Cambridge House Picozzi's Fat Ass Ale (2005)",6.9,27429
-"42",6578,"The Cambridge House Brewpub",1272917302,4,4,3.5,"Witbier",4,4,"Cambridge House Picozzi's Fat Ass Ale (2010)",8.2,58002
-"43",6578,"The Cambridge House Brewpub",1285723651,2.5,3.5,3.5,"American Double / Imperial IPA",4,3,"Cambridge House HOPtain America",9.1,61975
-"44",6578,"The Cambridge House Brewpub",1285016842,4,4,4,"American Double / Imperial IPA",4,4,"Cambridge House HOPtain America",9.1,61975
-"45",6578,"The Cambridge House Brewpub",1243776426,4,3.5,4,"American Amber / Red Ale",4,4,"Cambridge House Happy Camper Amber",5.5,50205
-"46",6578,"The Cambridge House Brewpub",1274203138,2.5,3.5,4.5,"American Double / Imperial IPA",2.5,3.5,"Cambridge House Big Dipper DIPA",8.1,54939
-"47",6578,"The Cambridge House Brewpub",1266724899,4,4,4,"American Double / Imperial IPA",4.5,4,"Cambridge House Big Dipper DIPA",8.1,54939
-"48",6578,"The Cambridge House Brewpub",1262223660,3.5,3.5,4,"American Double / Imperial IPA",4,3,"Cambridge House Big Dipper DIPA",8.1,54939
-"49",6578,"The Cambridge House Brewpub",1261491744,4,4,4,"American Double / Imperial IPA",4,3.5,"Cambridge House Big Dipper DIPA",8.1,54939
-"50",6578,"The Cambridge House Brewpub",1288913928,4,3.5,4,"Herbed / Spiced Beer",4,4,"Cambridge House Pumpkin Brown",5.5,63154
-"51",6578,"The Cambridge House Brewpub",1279907816,4.5,4,4,"American IPA",4,3.5,"Cambridge House Cask IPA",6.7,53682
-"52",6578,"The Cambridge House Brewpub",1256604505,4.5,4.5,4,"American IPA",4.5,5,"Cambridge House Cask IPA",6.7,53682
-"53",6578,"The Cambridge House Brewpub",1241059193,4,4.5,3.5,"Belgian Pale Ale",4,4.5,"Cambridge House Bremeux BelGo",4.2,48322
-"54",6578,"The Cambridge House Brewpub",1236435040,4.5,3.5,4,"Belgian Pale Ale",4,4,"Cambridge House Bremeux BelGo",4.2,48322
-"55",6578,"The Cambridge House Brewpub",1168827951,4,3,3,"American Pale Ale (APA)",3.5,4,"Cambridge House DOPA (Discovery Organic Pale Ale)",4.4,26141
-"56",6578,"The Cambridge House Brewpub",1132349909,4.5,3,4,"American Pale Ale (APA)",4.5,4,"Cambridge House DOPA (Discovery Organic Pale Ale)",4.4,26141
-"57",6578,"The Cambridge House Brewpub",1130543249,4,3,4,"American Pale Ale (APA)",4,3.5,"Cambridge House DOPA (Discovery Organic Pale Ale)",4.4,26141
-"58",6578,"The Cambridge House Brewpub",1130504880,4.5,3,3.5,"American Pale Ale (APA)",4,4,"Cambridge House DOPA (Discovery Organic Pale Ale)",4.4,26141
-"59",6578,"The Cambridge House Brewpub",1163353695,4,4.5,4,"American Amber / Red Ale",4.5,4,"Cambridge House Blue Ridge Ale",5.6,33695
-"60",6578,"The Cambridge House Brewpub",1304340455,4,3.5,3,"Bock",3.5,3.5,"Cambridge House Bumble Bock",6.9,56617
-"61",6578,"The Cambridge House Brewpub",1267924353,4,3.5,4,"Bock",4,3.5,"Cambridge House Bumble Bock",6.9,56617
-"62",6578,"The Cambridge House Brewpub",1311171676,4.5,4,4,"Old Ale",4.5,4.5,"Cambridge House Old Crusty",8.1,71226
-"63",6578,"The Cambridge House Brewpub",1149362397,5,4,4,"Hefeweizen",4.5,4,"Cambridge House Holcomb HefeWeizen",6.6,20616
-"64",6578,"The Cambridge House Brewpub",1147925904,4,4.5,3.5,"Hefeweizen",4,5,"Cambridge House Holcomb HefeWeizen",6.6,20616
-"65",6578,"The Cambridge House Brewpub",1116866617,4,4,4,"Hefeweizen",4,4,"Cambridge House Holcomb HefeWeizen",6.6,20616
-"66",6578,"The Cambridge House Brewpub",1116370516,5,4.5,4,"Hefeweizen",5,4.5,"Cambridge House Holcomb HefeWeizen",6.6,20616
-"67",6578,"The Cambridge House Brewpub",1112069412,4.5,4.5,4,"Hefeweizen",4,4.5,"Cambridge House Holcomb HefeWeizen",6.6,20616
-"68",6578,"The Cambridge House Brewpub",1131824813,4,4,4,"Pumpkin Ale",4.5,4.5,"Cambridge House Pumpkin Ale",7.6,26885
-"69",6578,"The Cambridge House Brewpub",1131741575,4.5,4,4,"Pumpkin Ale",3.5,4.5,"Cambridge House Pumpkin Ale",7.6,26885
-"70",6578,"The Cambridge House Brewpub",1233523453,4,4,4,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Hop Blizzard",9.1,47657
-"71",6578,"The Cambridge House Brewpub",1211756184,4.5,4,4,"Maibock / Helles Bock",4.5,4.5,"Cambridge House Maibock",8.1,42539
-"72",6578,"The Cambridge House Brewpub",1210603005,3,3.5,4,"Maibock / Helles Bock",4.5,4,"Cambridge House Maibock",8.1,42539
-"73",6578,"The Cambridge House Brewpub",1210158315,4,3.5,4,"Maibock / Helles Bock",4,4,"Cambridge House Maibock",8.1,42539
-"74",6578,"The Cambridge House Brewpub",1193780639,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4.5,"Cambridge House Oktoberale",5.8,32951
-"75",6578,"The Cambridge House Brewpub",1192298166,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Cambridge House Oktoberale",5.8,32951
-"76",6578,"The Cambridge House Brewpub",1160872910,4,4.5,4.5,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
-"77",6578,"The Cambridge House Brewpub",1159910767,4,4,4,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
-"78",6578,"The Cambridge House Brewpub",1159329299,3.5,3.5,3.5,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
-"79",6578,"The Cambridge House Brewpub",1301713092,3,3.5,4.5,"Oatmeal Stout",4,3,"Cambridge House Three Steve Stout",5.2,24916
-"80",6578,"The Cambridge House Brewpub",1256605110,5,4,4,"Oatmeal Stout",5,4,"Cambridge House Three Steve Stout",5.2,24916
-"81",6578,"The Cambridge House Brewpub",1246907156,5,4,4.5,"Oatmeal Stout",5,4.5,"Cambridge House Three Steve Stout",5.2,24916
-"82",6578,"The Cambridge House Brewpub",1245876754,4,3.5,4,"Oatmeal Stout",3.5,4,"Cambridge House Three Steve Stout",5.2,24916
-"83",6578,"The Cambridge House Brewpub",1237657358,4.5,5,4,"Oatmeal Stout",4.5,4.5,"Cambridge House Three Steve Stout",5.2,24916
-"84",6578,"The Cambridge House Brewpub",1202067719,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Cambridge House Three Steve Stout",5.2,24916
-"85",6578,"The Cambridge House Brewpub",1197230972,4.5,3.5,4,"Oatmeal Stout",3,4,"Cambridge House Three Steve Stout",5.2,24916
-"86",6578,"The Cambridge House Brewpub",1184157222,4,4,4,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
-"87",6578,"The Cambridge House Brewpub",1157936158,4,4,4.5,"Oatmeal Stout",4,4.5,"Cambridge House Three Steve Stout",5.2,24916
-"88",6578,"The Cambridge House Brewpub",1147926534,4,4.5,4,"Oatmeal Stout",4,4.5,"Cambridge House Three Steve Stout",5.2,24916
-"89",6578,"The Cambridge House Brewpub",1143955066,4.5,4.5,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
-"90",6578,"The Cambridge House Brewpub",1143499378,4,4,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
-"91",6578,"The Cambridge House Brewpub",1132969009,4,3.5,4,"Oatmeal Stout",3.5,4,"Cambridge House Three Steve Stout",5.2,24916
-"92",6578,"The Cambridge House Brewpub",1132612421,4.5,4,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
-"93",6578,"The Cambridge House Brewpub",1124743854,4,3.5,4.5,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
-"94",6578,"The Cambridge House Brewpub",1123462676,4,4,4.5,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
-"95",6578,"The Cambridge House Brewpub",1188839372,5,4.5,4,"American Pale Ale (APA)",4,4.5,"Dave's Pale Ale",5.4,38103
-"96",6578,"The Cambridge House Brewpub",1187542975,4,3.5,4,"American Pale Ale (APA)",4,4.5,"Dave's Pale Ale",5.4,38103
-"97",6578,"The Cambridge House Brewpub",1186832224,4,3.5,4,"American Pale Ale (APA)",4,4.5,"Dave's Pale Ale",5.4,38103
-"98",6578,"The Cambridge House Brewpub",1285724415,4,4,4,"Schwarzbier",4,4,"Cambridge House Ominous Forecast",5,51236
-"99",6578,"The Cambridge House Brewpub",1261192897,4.5,4.5,4,"Schwarzbier",4.5,4.5,"Cambridge House Ominous Forecast",5,51236
-"100",6578,"The Cambridge House Brewpub",1256679357,4.5,4.5,4,"Schwarzbier",4,4,"Cambridge House Ominous Forecast",5,51236
-"101",6578,"The Cambridge House Brewpub",1247788686,4,3.5,4,"Schwarzbier",3.5,4,"Cambridge House Ominous Forecast",5,51236
-"102",6578,"The Cambridge House Brewpub",1312743371,4,3.5,3.5,"English Porter",4,4,"Cambridge House London Porter",6.4,71125
-"103",6578,"The Cambridge House Brewpub",1310908032,4,3.5,4,"English Porter",4,4,"Cambridge House London Porter",6.4,71125
-"104",6578,"The Cambridge House Brewpub",1281817774,4,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Cambridge House Leopold's Gold",7.2,61026
-"105",6578,"The Cambridge House Brewpub",1261492127,4,3.5,4,"American IPA",4,3.5,"Cambridge House Lil' Dipper SIPA",4.3,54940
-"106",6578,"The Cambridge House Brewpub",1153597136,4,3.5,3.5,"Altbier",4,4,"Cambridge House ALT-45",5.7,31098
-"107",6578,"The Cambridge House Brewpub",1150320377,4,4,4,"Altbier",4,4.5,"Cambridge House ALT-45",5.7,31098
-"108",6578,"The Cambridge House Brewpub",1293969434,4,3.5,4,"Dunkelweizen",4,4,"Cambridge House Dunkel",5.2,64967
-"109",6578,"The Cambridge House Brewpub",1268421315,3.5,2.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"110",6578,"The Cambridge House Brewpub",1257891039,3,4,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"111",6578,"The Cambridge House Brewpub",1245876532,4,2,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"112",6578,"The Cambridge House Brewpub",1222642888,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
-"113",6578,"The Cambridge House Brewpub",1218560153,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"114",6578,"The Cambridge House Brewpub",1209251154,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
-"115",6578,"The Cambridge House Brewpub",1158530889,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"116",6578,"The Cambridge House Brewpub",1142277169,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"117",6578,"The Cambridge House Brewpub",1140371492,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
-"118",6578,"The Cambridge House Brewpub",1120614804,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",5,5,"Cambridge House Old Mill Pond ESB",6.7,20614
-"119",6578,"The Cambridge House Brewpub",1118527088,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
-"120",6578,"The Cambridge House Brewpub",1113608046,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
-"121",6578,"The Cambridge House Brewpub",1179107033,4.5,4.5,4,"American Porter",5,4.5,"Cambridge House Porter's Porter",7.7,27587
-"122",6578,"The Cambridge House Brewpub",1170628787,4,4.5,5,"American Porter",5,5,"Cambridge House Porter's Porter",7.7,27587
-"123",6578,"The Cambridge House Brewpub",1138487664,5,4.5,4.5,"American Porter",4,4.5,"Cambridge House Porter's Porter",7.7,27587
-"124",6578,"The Cambridge House Brewpub",1136676143,4,4.5,4.5,"American Porter",4,4.5,"Cambridge House Porter's Porter",7.7,27587
-"125",6578,"The Cambridge House Brewpub",1136338929,4.5,4,4,"American Porter",4.5,4.5,"Cambridge House Porter's Porter",7.7,27587
-"126",6578,"The Cambridge House Brewpub",1207497634,4.5,4,4,"California Common / Steam Beer",4.5,4,"Cambridge House Heather's Top Notch Steam",5.9,41568
-"127",6578,"The Cambridge House Brewpub",1205530489,4,3.5,4,"California Common / Steam Beer",4,4.5,"Cambridge House Heather's Top Notch Steam",5.9,41568
-"128",6578,"The Cambridge House Brewpub",1254257000,4.5,4.5,4,"Kölsch",4.5,4.5,"Cambridge House Blitzkrieg Hop",5,52691
-"129",6578,"The Cambridge House Brewpub",1253225871,4,3.5,3.5,"Kölsch",4,4,"Cambridge House Blitzkrieg Hop",5,52691
-"130",6578,"The Cambridge House Brewpub",1267905220,4,3.5,4,"English Brown Ale",4,4,"Cambridge House Pigskin Brown",6.8,56606
-"131",6578,"The Cambridge House Brewpub",1306963288,4,3,3.5,"American Pale Ale (APA)",4,4,"Cambridge House Granby Pale Ale",6,69631
-"132",6578,"The Cambridge House Brewpub",1301792744,4,3.5,4.5,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
-"133",6578,"The Cambridge House Brewpub",1138488305,4.5,4,4,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"134",6578,"The Cambridge House Brewpub",1268695700,4,4.5,4,"Kölsch",4,3.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"135",6578,"The Cambridge House Brewpub",1268262604,4,4,4,"Kölsch",3.5,4,"Cambridge House Copper Hill Kölsch",5.1,20612
-"136",6578,"The Cambridge House Brewpub",1239670197,4.5,4.5,4.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"137",6578,"The Cambridge House Brewpub",1222302648,4.5,3.5,4,"Kölsch",4,3.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"138",6578,"The Cambridge House Brewpub",1217360244,5,4,4.5,"Kölsch",4,5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"139",6578,"The Cambridge House Brewpub",1202067432,5,4.5,4.5,"Kölsch",5,5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"140",6578,"The Cambridge House Brewpub",1201656687,5,4,4,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"141",6578,"The Cambridge House Brewpub",1165643210,4.5,4.5,4,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"142",6578,"The Cambridge House Brewpub",1143950426,4.5,4,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
-"143",6578,"The Cambridge House Brewpub",1140654976,5,4,4.5,"Kölsch",4,5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"144",6578,"The Cambridge House Brewpub",1132966122,5,4,3.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"145",6578,"The Cambridge House Brewpub",1132285634,4.5,4,3.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"146",6578,"The Cambridge House Brewpub",1132267363,5,4,4.5,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"147",6578,"The Cambridge House Brewpub",1130505268,5,3,3.5,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"148",6578,"The Cambridge House Brewpub",1121725183,4,3.5,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
-"149",6578,"The Cambridge House Brewpub",1117371038,4,3.5,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
-"150",6578,"The Cambridge House Brewpub",1112144463,4.5,4,3,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
-"151",6578,"The Cambridge House Brewpub",1236435747,4,3.5,3.5,"Czech Pilsener",4,4,"Cambridge House Czech Yo' Self",5.5,48323
-"152",6578,"The Cambridge House Brewpub",1261679018,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
-"153",6578,"The Cambridge House Brewpub",1279263687,4.5,4,4,"Belgian IPA",4,4.5,"Cambridge House BIPA",6.7,60109
-"154",6578,"The Cambridge House Brewpub",1259993157,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
-"155",6578,"The Cambridge House Brewpub",1258236166,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
-"156",6578,"The Cambridge House Brewpub",1256606289,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
-"157",6578,"The Cambridge House Brewpub",1256574009,3.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
-"158",6578,"The Cambridge House Brewpub",1296924782,4,3.5,3,"Czech Pilsener",4,3.5,"Cambridge House Pilsener",4.5,65955
-"159",6578,"The Cambridge House Brewpub",1201566439,4,3,4,"English Porter",3.5,4,"Cambridge House 3/4 Porter",6.2,39897
-"160",6578,"The Cambridge House Brewpub",1200106560,4.5,3.5,4,"English Porter",3.5,4,"Cambridge House 3/4 Porter",6.2,39897
-"161",6578,"The Cambridge House Brewpub",1196636306,4,4,4,"English Porter",4,4.5,"Cambridge House 3/4 Porter",6.2,39897
-"162",6578,"The Cambridge House Brewpub",1282449613,4,3.5,4,"Belgian IPA",4,4,"Cambridge House BIPA",6.7,60109
-"163",6578,"The Cambridge House Brewpub",1279915770,3,4,3.5,"Belgian IPA",3.5,3.5,"Cambridge House BIPA",6.7,60109
-"164",6578,"The Cambridge House Brewpub",1212781508,4,3.5,4,"English Pale Ale",4,4,"Cambridge House 4 Slackers EPA",5.3,43089
-"165",6578,"The Cambridge House Brewpub",1194285018,4.5,4,4,"Roggenbier",4,4,"Cambridge House Roggenbier",5.7,38651
-"166",6578,"The Cambridge House Brewpub",1193596937,4.5,4.5,4,"Roggenbier",4.5,4,"Cambridge House Roggenbier",5.7,38651
-"167",6578,"The Cambridge House Brewpub",1192297854,3.5,4,3.5,"Roggenbier",4,4,"Cambridge House Roggenbier",5.7,38651
-"168",6578,"The Cambridge House Brewpub",1190382626,4,4,4,"Roggenbier",4,4.5,"Cambridge House Roggenbier",5.7,38651
-"169",6578,"The Cambridge House Brewpub",1189784179,4,4,4,"Roggenbier",4.5,4.5,"Cambridge House Roggenbier",5.7,38651
-"170",6578,"The Cambridge House Brewpub",1233522954,4,3.5,4,"American Amber / Red Ale",4,4,"Cambridge House Out Of The Red",6,47656
-"171",6578,"The Cambridge House Brewpub",1286475736,4,4.5,4.5,"Flanders Oud Bruin",4,4,"Cambridge House Who's Your Daddy",8.1,61688
-"172",6578,"The Cambridge House Brewpub",1283864383,4,3.5,4,"Flanders Oud Bruin",4,4.5,"Cambridge House Who's Your Daddy",8.1,61688
-"173",6578,"The Cambridge House Brewpub",1222457193,4.5,4,4,"American IPA",4,4.5,"Cambridge House Kirley's Revenge IPA",7.1,45051
-"174",6578,"The Cambridge House Brewpub",1282447796,4,4,3,"American Pale Ale (APA)",3,4,"Cambridge House Centennial Pale Ale",6,61028
-"175",6578,"The Cambridge House Brewpub",1281819310,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Cambridge House Centennial Pale Ale",6,61028
-"176",6578,"The Cambridge House Brewpub",1312916008,4,4,4,"English India Pale Ale (IPA)",4,4,"Cambridge House Granby-on-Trent",5.9,71609
-"177",6578,"The Cambridge House Brewpub",1312249429,4.5,4,4.5,"English India Pale Ale (IPA)",5,4,"Cambridge House Granby-on-Trent",5.9,71609
-"178",6578,"The Cambridge House Brewpub",1283483905,4.5,3.5,3.5,"Witbier",4,4.5,"Cambridge House Picozzi's Skinny Ass Ale",5.2,58003
-"179",6578,"The Cambridge House Brewpub",1272917680,4,3.5,3.5,"Witbier",3.5,4,"Cambridge House Picozzi's Skinny Ass Ale",5.2,58003
-"180",6578,"The Cambridge House Brewpub",1304532935,4,3.5,4,"American Brown Ale",4,4,"Cambridge House Brown Bomber",5.1,68673
-"181",6578,"The Cambridge House Brewpub",1289787380,4.5,4,4,"American Pale Lager",4.5,4.5,"Cambridge House Abijah Schmidt IPL",6.7,63545
-"182",6578,"The Cambridge House Brewpub",1222304111,2.5,4,3,"Witbier",3,2.5,"Cambridge House Picozzi's Fat Ass Ale (2007)",7,40148
-"183",6578,"The Cambridge House Brewpub",1198103108,4,4,4.5,"Witbier",4,4.5,"Cambridge House Picozzi's Fat Ass Ale (2007)",7,40148
-"184",6578,"The Cambridge House Brewpub",1230935386,4,3.5,4,"American Brown Ale",4,4,"Cambridge House Brown Noser",5.6,47009
-"185",6578,"The Cambridge House Brewpub",1292957187,3.5,3.5,3.5,"California Common / Steam Beer",4,4,"Cambridge House Granby Common",NA,64622
-"186",6578,"The Cambridge House Brewpub",1321473429,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Cambridge House Pink Peppercorn Saison",5.5,75375
-"187",6578,"The Cambridge House Brewpub",1222304732,4.5,4,4.5,"Irish Red Ale",4.5,4,"Cambridge House Engine Engine #9",NA,44172
-"188",6578,"The Cambridge House Brewpub",1217981843,4,4,4,"Irish Red Ale",4,4,"Cambridge House Engine Engine #9",NA,44172
-"189",6578,"The Cambridge House Brewpub",1246648805,4,3.5,3.5,"American Blonde Ale",4,4,"Cambridge House Torrington Summer Ale",7,50678
-"190",6578,"The Cambridge House Brewpub",1245879144,4,3.5,3.5,"American Blonde Ale",4,4,"Cambridge House Torrington Summer Ale",7,50678
-"191",6578,"The Cambridge House Brewpub",1271263789,4.5,4,4,"Irish Red Ale",4.5,4.5,"Cambridge House Rocky Red To Dublin",5.6,57381
-"192",6578,"The Cambridge House Brewpub",1270587704,4,3.5,4,"Irish Red Ale",4,4,"Cambridge House Rocky Red To Dublin",5.6,57381
-"193",6578,"The Cambridge House Brewpub",1267827358,4,4,4,"English Pale Ale",4,4,"CBH English Pale Ale",NA,45660
-"194",6578,"The Cambridge House Brewpub",1225488067,4.5,3.5,4,"English Pale Ale",4,4,"CBH English Pale Ale",NA,45660
-"195",6578,"The Cambridge House Brewpub",1233715966,4.5,3.5,3,"English Dark Mild Ale",4.5,4.5,"Cambridge House Newgate Brown (Mild)",3.8,20613
-"196",6578,"The Cambridge House Brewpub",1222642683,5,4,4,"English Dark Mild Ale",3,3,"Cambridge House Newgate Brown (Mild)",3.8,20613
-"197",6578,"The Cambridge House Brewpub",1153597491,3.5,3.5,4,"English Dark Mild Ale",3.5,4.5,"Cambridge House Newgate Brown (Mild)",3.8,20613
-"198",6578,"The Cambridge House Brewpub",1117371620,4,4,4,"English Dark Mild Ale",4,4,"Cambridge House Newgate Brown (Mild)",3.8,20613
-"199",6578,"The Cambridge House Brewpub",1112067519,4.5,3.5,4,"English Dark Mild Ale",3,4,"Cambridge House Newgate Brown (Mild)",3.8,20613
-"200",6578,"The Cambridge House Brewpub",1258235784,4,3.5,4,"American Porter",4,4,"Cambridge House Pumpkin Porter",NA,53684
-"201",6578,"The Cambridge House Brewpub",1256679747,4,3.5,3.5,"American Porter",3.5,4,"Cambridge House Pumpkin Porter",NA,53684
-"202",6578,"The Cambridge House Brewpub",1256605700,3.5,4.5,4,"American Porter",3.5,3.5,"Cambridge House Pumpkin Porter",NA,53684
-"203",6578,"The Cambridge House Brewpub",1226873960,4,3.5,4,"Milk / Sweet Stout",4,4,"Cambridge House Brown Cow Stout",6,45742
-"204",6578,"The Cambridge House Brewpub",1225900408,4.5,5,4,"Milk / Sweet Stout",5,5,"Cambridge House Brown Cow Stout",6,45742
-"205",6578,"The Cambridge House Brewpub",1179875177,4,3.5,4,"Altbier",4,4,"Cambridge House Frühling Ale",7.2,36663
-"206",6578,"The Cambridge House Brewpub",1178404179,4,4,4,"Altbier",4,4,"Cambridge House Frühling Ale",7.2,36663
-"207",6578,"The Cambridge House Brewpub",1178313152,4.5,3.5,4,"Altbier",4,4,"Cambridge House Frühling Ale",7.2,36663
-"208",6578,"The Cambridge House Brewpub",1250389413,3,4,4,"Fruit / Vegetable Beer",4,3,"Cambridge House Raspberry Wheat",5.5,51808
-"209",6578,"The Cambridge House Brewpub",1250024940,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Cambridge House Raspberry Wheat",5.5,51808
-"210",6578,"The Cambridge House Brewpub",1243478408,3,3.5,4.5,"English Strong Ale",2.5,2.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"211",6578,"The Cambridge House Brewpub",1157507336,4.5,4,4,"English Strong Ale",4,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"212",6578,"The Cambridge House Brewpub",1157242880,4,4.5,4,"English Strong Ale",4.5,4,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"213",6578,"The Cambridge House Brewpub",1156505374,4.5,4,4,"English Strong Ale",4.5,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"214",6578,"The Cambridge House Brewpub",1155391578,3.5,4,3.5,"English Strong Ale",4,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"215",6578,"The Cambridge House Brewpub",1154904917,4.5,3.5,4.5,"English Strong Ale",4,4,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
-"216",6578,"The Cambridge House Brewpub",1272832026,4.5,4,4,"American Pale Lager",4,4,"Cambridge House Litchfield County Lager",5.3,50677
-"217",6578,"The Cambridge House Brewpub",1261512712,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Cambridge House Litchfield County Lager",5.3,50677
-"218",6578,"The Cambridge House Brewpub",1303516294,3,3,4,"English India Pale Ale (IPA)",3,3,"Cambridge House Abijah Rowe IPA",6.8,20615
-"219",6578,"The Cambridge House Brewpub",1245878723,3.5,3,4,"American Pale Lager",3.5,3.5,"Cambridge House Litchfield County Lager",5.3,50677
-"220",6578,"The Cambridge House Brewpub",1168827173,4,4,3.5,"Belgian Dark Ale",4,4.5,"Cambridge House Picozzi's Fat Ass Ale (2006)",6.5,34242
-"221",6578,"The Cambridge House Brewpub",1168189415,2.5,2.5,3,"Belgian Dark Ale",2.5,3,"Cambridge House Picozzi's Fat Ass Ale (2006)",6.5,34242
-"222",6578,"The Cambridge House Brewpub",1166300324,4,4,4,"Belgian Dark Ale",4,4,"Cambridge House Picozzi's Fat Ass Ale (2006)",6.5,34242
-"223",6578,"The Cambridge House Brewpub",1166111162,3.5,3,4,"Belgian Dark Ale",4,3,"Cambridge House Picozzi's Fat Ass Ale (2006)",6.5,34242
-"224",6578,"The Cambridge House Brewpub",1283483467,4,4,3.5,"Bière de Garde",3.5,3.5,"Cambridge House Farmer's Daughter",6.2,58333
-"225",6578,"The Cambridge House Brewpub",1273849618,4,4,4,"Bière de Garde",4,4.5,"Cambridge House Farmer's Daughter",6.2,58333
-"226",6578,"The Cambridge House Brewpub",1304053995,2.5,2.5,4,"English India Pale Ale (IPA)",3,2.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"227",6578,"The Cambridge House Brewpub",1303767902,3,3,4,"English India Pale Ale (IPA)",3,3,"Cambridge House Abijah Rowe IPA",6.8,20615
-"228",6578,"The Cambridge House Brewpub",1294353604,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"229",6578,"The Cambridge House Brewpub",1287938928,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"230",6578,"The Cambridge House Brewpub",1282448186,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"231",6578,"The Cambridge House Brewpub",1259993804,2.5,4,3,"English India Pale Ale (IPA)",4,2.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"232",6578,"The Cambridge House Brewpub",1245895256,4.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"233",6578,"The Cambridge House Brewpub",1245197685,5,4.5,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"234",6578,"The Cambridge House Brewpub",1239051717,5,4,4,"English India Pale Ale (IPA)",5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"235",6578,"The Cambridge House Brewpub",1232161718,5,5,4,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"236",6578,"The Cambridge House Brewpub",1229313289,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"237",6578,"The Cambridge House Brewpub",1228009716,4,5,4,"English India Pale Ale (IPA)",3.5,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"238",6578,"The Cambridge House Brewpub",1222303671,5,5,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"239",6578,"The Cambridge House Brewpub",1210728608,4.5,5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"240",6578,"The Cambridge House Brewpub",1207604752,4.5,5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"241",6578,"The Cambridge House Brewpub",1207440412,5,5,4.5,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"242",6578,"The Cambridge House Brewpub",1201658742,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"243",6578,"The Cambridge House Brewpub",1136675608,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"244",6578,"The Cambridge House Brewpub",1196459507,4.5,4,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"245",6578,"The Cambridge House Brewpub",1186588985,4.5,4.5,4.5,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"246",6578,"The Cambridge House Brewpub",1179875796,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"247",6578,"The Cambridge House Brewpub",1179096504,4,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"248",6578,"The Cambridge House Brewpub",1152927555,5,5,4.5,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"249",6578,"The Cambridge House Brewpub",1144450534,4.5,4.5,3.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
-"250",6578,"The Cambridge House Brewpub",1143949865,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"251",6578,"The Cambridge House Brewpub",1143134997,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"252",6578,"The Cambridge House Brewpub",1137805290,4,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"253",6578,"The Cambridge House Brewpub",1133046884,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"254",6578,"The Cambridge House Brewpub",1133046884,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"255",6578,"The Cambridge House Brewpub",1132535479,5,4,4,"English India Pale Ale (IPA)",5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"256",6578,"The Cambridge House Brewpub",1131884111,4.5,4,4,"English India Pale Ale (IPA)",3.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"257",6578,"The Cambridge House Brewpub",1131209790,4,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"258",6578,"The Cambridge House Brewpub",1131120463,5,4.5,4,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"259",6578,"The Cambridge House Brewpub",1118526375,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"260",6578,"The Cambridge House Brewpub",1116000238,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"261",6578,"The Cambridge House Brewpub",1114790792,4.5,4,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"262",6578,"The Cambridge House Brewpub",1112238751,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615
-"263",6578,"The Cambridge House Brewpub",1125959002,4.5,4,5,"Fruit / Vegetable Beer",4.5,4.5,"Cambridge House Wilhelm's Wild Blueberry",5,25399
-"264",6578,"The Cambridge House Brewpub",1125522945,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Cambridge House Wilhelm's Wild Blueberry",5,25399
-"265",6578,"The Cambridge House Brewpub",1282447225,4,4,4,"Berliner Weissbier",3,4,"Cambridge House Berliner Weisse",5,61020
-"266",6578,"The Cambridge House Brewpub",1281801805,4,4,4,"Berliner Weissbier",4,4,"Cambridge House Berliner Weisse",5,61020
-"267",6578,"The Cambridge House Brewpub",1145573477,5,4,3,"Irish Red Ale",3.5,4.5,"Cambridge House Scanlon's Red",5.8,29004
-"268",6578,"The Cambridge House Brewpub",1143668504,4.5,4,4,"Irish Red Ale",4,4.5,"Cambridge House Scanlon's Red",5.8,29004
-"269",6578,"The Cambridge House Brewpub",1142775838,4,3.5,4,"Irish Red Ale",4,4,"Cambridge House Scanlon's Red",5.8,29004
-"270",6578,"The Cambridge House Brewpub",1142650020,3.5,3.5,3.5,"Irish Red Ale",3.5,3.5,"Cambridge House Scanlon's Red",5.8,29004
+"2",6578,"The Cambridge House Brewpub",1256581505,4,4,4.5,"American Amber / Red Ale",4,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
+"3",6578,"The Cambridge House Brewpub",1252931069,4.5,3.5,4.5,"American Amber / Red Ale",4,4,"Cambridge House Clifford The Big Red Ale",10,50049
+"4",6578,"The Cambridge House Brewpub",1247338818,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Cambridge House Clifford The Big Red Ale",10,50049
+"5",6578,"The Cambridge House Brewpub",1245848634,4.5,4.5,4.5,"American Amber / Red Ale",5,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
+"6",6578,"The Cambridge House Brewpub",1243775833,4.5,4,4.5,"American Amber / Red Ale",4.5,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
+"7",6578,"The Cambridge House Brewpub",1243648849,4.5,4,4,"American Amber / Red Ale",4,5,"Cambridge House Clifford The Big Red Ale",10,50049
+"8",6578,"The Cambridge House Brewpub",1168190132,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"9",6578,"The Cambridge House Brewpub",1243479177,3.5,3,4,"American Amber / Red Ale",2.5,3.5,"Cambridge House Clifford The Big Red Ale",10,50049
+"10",6578,"The Cambridge House Brewpub",1243302493,3.5,4,4,"American Amber / Red Ale",4,4.5,"Cambridge House Clifford The Big Red Ale",10,50049
+"11",6578,"The Cambridge House Brewpub",1304050074,3,3.5,3.5,"American Black Ale",3,3,"Black IPA",NA,68317
+"12",6578,"The Cambridge House Brewpub",1303768562,3,3,4,"American Black Ale",3.5,3,"Black IPA",NA,68317
+"13",6578,"The Cambridge House Brewpub",1303517609,3.5,3.5,4,"American Black Ale",3.5,3.5,"Black IPA",NA,68317
+"14",6578,"The Cambridge House Brewpub",1192634453,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"15",6578,"The Cambridge House Brewpub",1192323820,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
+"16",6578,"The Cambridge House Brewpub",1179788801,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"17",6578,"The Cambridge House Brewpub",1171081500,5,4.5,4,"American Double / Imperial IPA",4.5,5,"Cambridge House Big Hoppy",10,34357
+"18",6578,"The Cambridge House Brewpub",1169217207,4,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
+"19",6578,"The Cambridge House Brewpub",1168828555,4,4,3.5,"American Double / Imperial IPA",4.5,4.5,"Cambridge House Big Hoppy",10,34357
+"20",6578,"The Cambridge House Brewpub",1168618983,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"21",6578,"The Cambridge House Brewpub",1166727487,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"22",6578,"The Cambridge House Brewpub",1166445007,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Cambridge House Big Hoppy",10,34357
+"23",6578,"The Cambridge House Brewpub",1149362397,5,4,4,"Hefeweizen",4.5,4,"Cambridge House Holcomb HefeWeizen",6.6,20616
+"24",6578,"The Cambridge House Brewpub",1147925904,4,4.5,3.5,"Hefeweizen",4,5,"Cambridge House Holcomb HefeWeizen",6.6,20616
+"25",6578,"The Cambridge House Brewpub",1116866617,4,4,4,"Hefeweizen",4,4,"Cambridge House Holcomb HefeWeizen",6.6,20616
+"26",6578,"The Cambridge House Brewpub",1116370516,5,4.5,4,"Hefeweizen",5,4.5,"Cambridge House Holcomb HefeWeizen",6.6,20616
+"27",6578,"The Cambridge House Brewpub",1112069412,4.5,4.5,4,"Hefeweizen",4,4.5,"Cambridge House Holcomb HefeWeizen",6.6,20616
+"28",6578,"The Cambridge House Brewpub",1193780639,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4.5,"Cambridge House Oktoberale",5.8,32951
+"29",6578,"The Cambridge House Brewpub",1192298166,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Cambridge House Oktoberale",5.8,32951
+"30",6578,"The Cambridge House Brewpub",1160872910,4,4.5,4.5,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
+"31",6578,"The Cambridge House Brewpub",1159910767,4,4,4,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
+"32",6578,"The Cambridge House Brewpub",1159329299,3.5,3.5,3.5,"Märzen / Oktoberfest",4,4.5,"Cambridge House Oktoberale",5.8,32951
+"33",6578,"The Cambridge House Brewpub",1301713092,3,3.5,4.5,"Oatmeal Stout",4,3,"Cambridge House Three Steve Stout",5.2,24916
+"34",6578,"The Cambridge House Brewpub",1256605110,5,4,4,"Oatmeal Stout",5,4,"Cambridge House Three Steve Stout",5.2,24916
+"35",6578,"The Cambridge House Brewpub",1246907156,5,4,4.5,"Oatmeal Stout",5,4.5,"Cambridge House Three Steve Stout",5.2,24916
+"36",6578,"The Cambridge House Brewpub",1245876754,4,3.5,4,"Oatmeal Stout",3.5,4,"Cambridge House Three Steve Stout",5.2,24916
+"37",6578,"The Cambridge House Brewpub",1237657358,4.5,5,4,"Oatmeal Stout",4.5,4.5,"Cambridge House Three Steve Stout",5.2,24916
+"38",6578,"The Cambridge House Brewpub",1202067719,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Cambridge House Three Steve Stout",5.2,24916
+"39",6578,"The Cambridge House Brewpub",1197230972,4.5,3.5,4,"Oatmeal Stout",3,4,"Cambridge House Three Steve Stout",5.2,24916
+"40",6578,"The Cambridge House Brewpub",1184157222,4,4,4,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
+"41",6578,"The Cambridge House Brewpub",1157936158,4,4,4.5,"Oatmeal Stout",4,4.5,"Cambridge House Three Steve Stout",5.2,24916
+"42",6578,"The Cambridge House Brewpub",1147926534,4,4.5,4,"Oatmeal Stout",4,4.5,"Cambridge House Three Steve Stout",5.2,24916
+"43",6578,"The Cambridge House Brewpub",1143955066,4.5,4.5,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
+"44",6578,"The Cambridge House Brewpub",1143499378,4,4,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
+"45",6578,"The Cambridge House Brewpub",1132969009,4,3.5,4,"Oatmeal Stout",3.5,4,"Cambridge House Three Steve Stout",5.2,24916
+"46",6578,"The Cambridge House Brewpub",1132612421,4.5,4,4,"Oatmeal Stout",4.5,4,"Cambridge House Three Steve Stout",5.2,24916
+"47",6578,"The Cambridge House Brewpub",1124743854,4,3.5,4.5,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
+"48",6578,"The Cambridge House Brewpub",1123462676,4,4,4.5,"Oatmeal Stout",4,4,"Cambridge House Three Steve Stout",5.2,24916
+"49",6578,"The Cambridge House Brewpub",1268421315,3.5,2.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"50",6578,"The Cambridge House Brewpub",1257891039,3,4,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"51",6578,"The Cambridge House Brewpub",1245876532,4,2,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"52",6578,"The Cambridge House Brewpub",1222642888,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
+"53",6578,"The Cambridge House Brewpub",1218560153,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"54",6578,"The Cambridge House Brewpub",1209251154,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
+"55",6578,"The Cambridge House Brewpub",1158530889,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"56",6578,"The Cambridge House Brewpub",1142277169,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"57",6578,"The Cambridge House Brewpub",1140371492,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Cambridge House Old Mill Pond ESB",6.7,20614
+"58",6578,"The Cambridge House Brewpub",1120614804,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",5,5,"Cambridge House Old Mill Pond ESB",6.7,20614
+"59",6578,"The Cambridge House Brewpub",1118527088,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
+"60",6578,"The Cambridge House Brewpub",1113608046,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Cambridge House Old Mill Pond ESB",6.7,20614
+"61",6578,"The Cambridge House Brewpub",1179107033,4.5,4.5,4,"American Porter",5,4.5,"Cambridge House Porter's Porter",7.7,27587
+"62",6578,"The Cambridge House Brewpub",1170628787,4,4.5,5,"American Porter",5,5,"Cambridge House Porter's Porter",7.7,27587
+"63",6578,"The Cambridge House Brewpub",1138487664,5,4.5,4.5,"American Porter",4,4.5,"Cambridge House Porter's Porter",7.7,27587
+"64",6578,"The Cambridge House Brewpub",1136676143,4,4.5,4.5,"American Porter",4,4.5,"Cambridge House Porter's Porter",7.7,27587
+"65",6578,"The Cambridge House Brewpub",1136338929,4.5,4,4,"American Porter",4.5,4.5,"Cambridge House Porter's Porter",7.7,27587
+"66",6578,"The Cambridge House Brewpub",1301792744,4,3.5,4.5,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
+"67",6578,"The Cambridge House Brewpub",1138488305,4.5,4,4,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"68",6578,"The Cambridge House Brewpub",1268695700,4,4.5,4,"Kölsch",4,3.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"69",6578,"The Cambridge House Brewpub",1268262604,4,4,4,"Kölsch",3.5,4,"Cambridge House Copper Hill Kölsch",5.1,20612
+"70",6578,"The Cambridge House Brewpub",1239670197,4.5,4.5,4.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"71",6578,"The Cambridge House Brewpub",1222302648,4.5,3.5,4,"Kölsch",4,3.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"72",6578,"The Cambridge House Brewpub",1217360244,5,4,4.5,"Kölsch",4,5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"73",6578,"The Cambridge House Brewpub",1202067432,5,4.5,4.5,"Kölsch",5,5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"74",6578,"The Cambridge House Brewpub",1201656687,5,4,4,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"75",6578,"The Cambridge House Brewpub",1165643210,4.5,4.5,4,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"76",6578,"The Cambridge House Brewpub",1143950426,4.5,4,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
+"77",6578,"The Cambridge House Brewpub",1140654976,5,4,4.5,"Kölsch",4,5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"78",6578,"The Cambridge House Brewpub",1132966122,5,4,3.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"79",6578,"The Cambridge House Brewpub",1132285634,4.5,4,3.5,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"80",6578,"The Cambridge House Brewpub",1132267363,5,4,4.5,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"81",6578,"The Cambridge House Brewpub",1130505268,5,3,3.5,"Kölsch",4.5,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"82",6578,"The Cambridge House Brewpub",1121725183,4,3.5,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
+"83",6578,"The Cambridge House Brewpub",1117371038,4,3.5,4,"Kölsch",4,4,"Cambridge House Copper Hill Kölsch",5.1,20612
+"84",6578,"The Cambridge House Brewpub",1112144463,4.5,4,3,"Kölsch",4,4.5,"Cambridge House Copper Hill Kölsch",5.1,20612
+"85",6578,"The Cambridge House Brewpub",1261679018,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
+"86",6578,"The Cambridge House Brewpub",1259993157,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
+"87",6578,"The Cambridge House Brewpub",1258236166,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
+"88",6578,"The Cambridge House Brewpub",1256606289,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
+"89",6578,"The Cambridge House Brewpub",1256574009,3.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Cambridge House Moonbeam Imperial Stout",9.7,53669
+"90",6578,"The Cambridge House Brewpub",1194285018,4.5,4,4,"Roggenbier",4,4,"Cambridge House Roggenbier",5.7,38651
+"91",6578,"The Cambridge House Brewpub",1193596937,4.5,4.5,4,"Roggenbier",4.5,4,"Cambridge House Roggenbier",5.7,38651
+"92",6578,"The Cambridge House Brewpub",1192297854,3.5,4,3.5,"Roggenbier",4,4,"Cambridge House Roggenbier",5.7,38651
+"93",6578,"The Cambridge House Brewpub",1190382626,4,4,4,"Roggenbier",4,4.5,"Cambridge House Roggenbier",5.7,38651
+"94",6578,"The Cambridge House Brewpub",1189784179,4,4,4,"Roggenbier",4.5,4.5,"Cambridge House Roggenbier",5.7,38651
+"95",6578,"The Cambridge House Brewpub",1233715966,4.5,3.5,3,"English Dark Mild Ale",4.5,4.5,"Cambridge House Newgate Brown (Mild)",3.8,20613
+"96",6578,"The Cambridge House Brewpub",1222642683,5,4,4,"English Dark Mild Ale",3,3,"Cambridge House Newgate Brown (Mild)",3.8,20613
+"97",6578,"The Cambridge House Brewpub",1153597491,3.5,3.5,4,"English Dark Mild Ale",3.5,4.5,"Cambridge House Newgate Brown (Mild)",3.8,20613
+"98",6578,"The Cambridge House Brewpub",1117371620,4,4,4,"English Dark Mild Ale",4,4,"Cambridge House Newgate Brown (Mild)",3.8,20613
+"99",6578,"The Cambridge House Brewpub",1112067519,4.5,3.5,4,"English Dark Mild Ale",3,4,"Cambridge House Newgate Brown (Mild)",3.8,20613
+"100",6578,"The Cambridge House Brewpub",1243478408,3,3.5,4.5,"English Strong Ale",2.5,2.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"101",6578,"The Cambridge House Brewpub",1157507336,4.5,4,4,"English Strong Ale",4,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"102",6578,"The Cambridge House Brewpub",1157242880,4,4.5,4,"English Strong Ale",4.5,4,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"103",6578,"The Cambridge House Brewpub",1156505374,4.5,4,4,"English Strong Ale",4.5,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"104",6578,"The Cambridge House Brewpub",1155391578,3.5,4,3.5,"English Strong Ale",4,4.5,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"105",6578,"The Cambridge House Brewpub",1154904917,4.5,3.5,4.5,"English Strong Ale",4,4,"Cambridge House DSB (Double Extra Special Bitter)",8.7,32082
+"106",6578,"The Cambridge House Brewpub",1303516294,3,3,4,"English India Pale Ale (IPA)",3,3,"Cambridge House Abijah Rowe IPA",6.8,20615
+"107",6578,"The Cambridge House Brewpub",1304053995,2.5,2.5,4,"English India Pale Ale (IPA)",3,2.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"108",6578,"The Cambridge House Brewpub",1303767902,3,3,4,"English India Pale Ale (IPA)",3,3,"Cambridge House Abijah Rowe IPA",6.8,20615
+"109",6578,"The Cambridge House Brewpub",1294353604,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"110",6578,"The Cambridge House Brewpub",1287938928,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"111",6578,"The Cambridge House Brewpub",1282448186,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"112",6578,"The Cambridge House Brewpub",1259993804,2.5,4,3,"English India Pale Ale (IPA)",4,2.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"113",6578,"The Cambridge House Brewpub",1245895256,4.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"114",6578,"The Cambridge House Brewpub",1245197685,5,4.5,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"115",6578,"The Cambridge House Brewpub",1239051717,5,4,4,"English India Pale Ale (IPA)",5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"116",6578,"The Cambridge House Brewpub",1232161718,5,5,4,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"117",6578,"The Cambridge House Brewpub",1229313289,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"118",6578,"The Cambridge House Brewpub",1228009716,4,5,4,"English India Pale Ale (IPA)",3.5,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"119",6578,"The Cambridge House Brewpub",1222303671,5,5,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"120",6578,"The Cambridge House Brewpub",1210728608,4.5,5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"121",6578,"The Cambridge House Brewpub",1207604752,4.5,5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"122",6578,"The Cambridge House Brewpub",1207440412,5,5,4.5,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"123",6578,"The Cambridge House Brewpub",1201658742,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"124",6578,"The Cambridge House Brewpub",1136675608,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"125",6578,"The Cambridge House Brewpub",1196459507,4.5,4,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"126",6578,"The Cambridge House Brewpub",1186588985,4.5,4.5,4.5,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"127",6578,"The Cambridge House Brewpub",1179875796,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"128",6578,"The Cambridge House Brewpub",1179096504,4,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"129",6578,"The Cambridge House Brewpub",1152927555,5,5,4.5,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"130",6578,"The Cambridge House Brewpub",1144450534,4.5,4.5,3.5,"English India Pale Ale (IPA)",4,4,"Cambridge House Abijah Rowe IPA",6.8,20615
+"131",6578,"The Cambridge House Brewpub",1143949865,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"132",6578,"The Cambridge House Brewpub",1143134997,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"133",6578,"The Cambridge House Brewpub",1137805290,4,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"134",6578,"The Cambridge House Brewpub",1133046884,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"135",6578,"The Cambridge House Brewpub",1133046884,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"136",6578,"The Cambridge House Brewpub",1132535479,5,4,4,"English India Pale Ale (IPA)",5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"137",6578,"The Cambridge House Brewpub",1131884111,4.5,4,4,"English India Pale Ale (IPA)",3.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"138",6578,"The Cambridge House Brewpub",1131209790,4,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"139",6578,"The Cambridge House Brewpub",1131120463,5,4.5,4,"English India Pale Ale (IPA)",4,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"140",6578,"The Cambridge House Brewpub",1118526375,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"141",6578,"The Cambridge House Brewpub",1116000238,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"142",6578,"The Cambridge House Brewpub",1114790792,4.5,4,4,"English India Pale Ale (IPA)",4.5,5,"Cambridge House Abijah Rowe IPA",6.8,20615
+"143",6578,"The Cambridge House Brewpub",1112238751,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Cambridge House Abijah Rowe IPA",6.8,20615

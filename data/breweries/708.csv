@@ -1,129 +1,93 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",708,"F&M Brewery",1116123196,3,3,3,"English Pale Ale",3,3,"MacLean's Pale Ale",5,12464
-"2",708,"F&M Brewery",1276634404,2,2,2,"American Adjunct Lager",1,2,"Royal City Lager",5,12470
-"3",708,"F&M Brewery",1307975389,3,3,3,"American Amber / Red Ale",3.5,3,"Stonehammer Maple Red Ale",5,50408
-"4",708,"F&M Brewery",1276144531,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Stonehammer Maple Red Ale",5,50408
-"5",708,"F&M Brewery",1276112632,4,3.5,3,"American Amber / Red Ale",3.5,4,"Stonehammer Maple Red Ale",5,50408
-"6",708,"F&M Brewery",1271531339,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Stonehammer Maple Red Ale",5,50408
-"7",708,"F&M Brewery",1251009228,4,3.5,4,"American Amber / Red Ale",4,3.5,"Stonehammer Maple Red Ale",5,50408
-"8",708,"F&M Brewery",1248864862,3,3,3,"American Amber / Red Ale",3,3.5,"Stonehammer Maple Red Ale",5,50408
-"9",708,"F&M Brewery",1072068549,3,3,3.5,"Cream Ale",3.5,3.5,"Royal City Cream Ale",5,12468
-"10",708,"F&M Brewery",1244725464,4,3,3.5,"American Amber / Red Ale",3,3.5,"Stonehammer Maple Red Ale",5,50408
-"11",708,"F&M Brewery",1281968776,4,4,4.5,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
-"12",708,"F&M Brewery",1277704557,4,4,3.5,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
-"13",708,"F&M Brewery",1266792169,3.5,3.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
-"14",708,"F&M Brewery",1246844716,5,3,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
-"15",708,"F&M Brewery",1225219447,4.5,3,4,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
-"16",708,"F&M Brewery",1165264975,3.5,3.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
-"17",708,"F&M Brewery",1158517054,4,4,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
-"18",708,"F&M Brewery",1153096252,4.5,3.5,4.5,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
-"19",708,"F&M Brewery",1119801525,4,4,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
-"20",708,"F&M Brewery",1090856894,3.5,3,3,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
-"21",708,"F&M Brewery",1089410354,3,3.5,3.5,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
-"22",708,"F&M Brewery",1088136249,3,3,3,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
-"23",708,"F&M Brewery",1085872509,4,4,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
-"24",708,"F&M Brewery",1072577199,3.5,2.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
-"25",708,"F&M Brewery",1256823335,4,3.5,3.5,"English Porter",3,3.5,"Stonehammer Porter",6,53708
-"26",708,"F&M Brewery",1256760274,4,3.5,4,"English Porter",3.5,3.5,"Stonehammer Porter",6,53708
-"27",708,"F&M Brewery",1256651095,4,3.5,3.5,"English Porter",4,3.5,"Stonehammer Porter",6,53708
-"28",708,"F&M Brewery",1090611412,3,2.5,2.5,"English Pale Mild Ale",2.5,2.5,"Premium Light Draft Ale",4,18890
-"29",708,"F&M Brewery",1276042743,4,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,4,"MacLean's Scotch Ale",6.5,34818
-"30",708,"F&M Brewery",1237338081,3,3,3.5,"Scotch Ale / Wee Heavy",3.5,3,"MacLean's Scotch Ale",6.5,34818
-"31",708,"F&M Brewery",1237297269,3,3,3.5,"Scotch Ale / Wee Heavy",3,3,"MacLean's Scotch Ale",6.5,34818
-"32",708,"F&M Brewery",1170394974,3,3.5,4.5,"Scotch Ale / Wee Heavy",3.5,2.5,"MacLean's Scotch Ale",6.5,34818
-"33",708,"F&M Brewery",1169178677,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"MacLean's Scotch Ale",6.5,34818
-"34",708,"F&M Brewery",1279948030,2,2,2.5,"American IPA",3,1.5,"Stonehammer IPA",6.5,58758
-"35",708,"F&M Brewery",1275250329,3.5,3.5,3.5,"American IPA",4,3.5,"Stonehammer IPA",6.5,58758
-"36",708,"F&M Brewery",1275231252,4,3.5,4,"American IPA",4,4,"Stonehammer IPA",6.5,58758
-"37",708,"F&M Brewery",1089407958,3.5,3.5,3,"Cream Ale",3,3,"Royal City Cream Ale",5,12468
-"38",708,"F&M Brewery",1297607928,4.5,3.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"39",708,"F&M Brewery",1291220367,4,4.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"40",708,"F&M Brewery",1276042365,3,3.5,3,"American Stout",3,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
-"41",708,"F&M Brewery",1266816715,4,4,4,"American Stout",4,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"42",708,"F&M Brewery",1266254790,4,4,4,"American Stout",3,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"43",708,"F&M Brewery",1264838755,4,3.5,4,"American Stout",3.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"44",708,"F&M Brewery",1263423135,4,4,3.5,"American Stout",3.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"45",708,"F&M Brewery",1249139230,3.5,3.5,3.5,"American Stout",3.5,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
-"46",708,"F&M Brewery",1234921113,4,4.5,4,"American Stout",4,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"47",708,"F&M Brewery",1233587428,4,4,4,"American Stout",3,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"48",708,"F&M Brewery",1233104630,4,3.5,3.5,"American Stout",3.5,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
-"49",708,"F&M Brewery",1232591605,4.5,3.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
-"50",708,"F&M Brewery",1249139457,3,3,3,"Light Lager",3,2.5,"Stomehammer Light",4.2,39498
-"51",708,"F&M Brewery",1245792015,2.5,2.5,3,"Light Lager",2.5,2.5,"Stomehammer Light",4.2,39498
-"52",708,"F&M Brewery",1194323294,4,3.5,3,"Light Lager",4,3.5,"Stomehammer Light",4.2,39498
-"53",708,"F&M Brewery",1325522389,3.5,3.5,3,"Czech Pilsener",3.5,3.5,"StoneHammer Pilsner",5,12465
-"54",708,"F&M Brewery",1309058816,4,4,4,"Czech Pilsener",4.5,4,"StoneHammer Pilsner",5,12465
-"55",708,"F&M Brewery",1306729810,3.5,4,3.5,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
-"56",708,"F&M Brewery",1305314327,3.5,3.5,3.5,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
-"57",708,"F&M Brewery",1298076856,3,2.5,3,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
-"58",708,"F&M Brewery",1297902626,4,3.5,4,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
-"59",708,"F&M Brewery",1283321268,5,4,3,"Czech Pilsener",3,4,"StoneHammer Pilsner",5,12465
-"60",708,"F&M Brewery",1261770153,4,4,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
-"61",708,"F&M Brewery",1248826223,4.5,3.5,3.5,"Czech Pilsener",4.5,3.5,"StoneHammer Pilsner",5,12465
-"62",708,"F&M Brewery",1230687714,4.5,4,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
-"63",708,"F&M Brewery",1212450839,4,4,3.5,"Czech Pilsener",4.5,4.5,"StoneHammer Pilsner",5,12465
-"64",708,"F&M Brewery",1199127193,3,2.5,4,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
-"65",708,"F&M Brewery",1176245988,3.5,3,3.5,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
-"66",708,"F&M Brewery",1170044866,4,3.5,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
-"67",708,"F&M Brewery",1156554214,4,3.5,3.5,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
-"68",708,"F&M Brewery",1142034715,3.5,2.5,2.5,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
-"69",708,"F&M Brewery",1136403879,3.5,3,3,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
-"70",708,"F&M Brewery",1119369039,4,3.5,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
-"71",708,"F&M Brewery",1117322074,3.5,4,3.5,"Czech Pilsener",3,4,"StoneHammer Pilsner",5,12465
-"72",708,"F&M Brewery",1116188325,4.5,3,2.5,"Czech Pilsener",4,4.5,"StoneHammer Pilsner",5,12465
-"73",708,"F&M Brewery",1108424408,4.5,4,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
-"74",708,"F&M Brewery",1094959702,4.5,3.5,4,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
-"75",708,"F&M Brewery",1085838368,4,3.5,4,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
-"76",708,"F&M Brewery",1070407734,3.5,3.5,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
-"77",708,"F&M Brewery",1066605122,4,3.5,3,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
-"78",708,"F&M Brewery",1285861818,2.5,4,2,"Czech Pilsener",2,2.5,"F&M Chachi Dry-Hopped Pilsner",5.5,62112
-"79",708,"F&M Brewery",1285557168,3,3,3,"Czech Pilsener",3.5,3.5,"F&M Chachi Dry-Hopped Pilsner",5.5,62112
-"80",708,"F&M Brewery",1285533962,4,3.5,3,"Czech Pilsener",3.5,4,"F&M Chachi Dry-Hopped Pilsner",5.5,62112
-"81",708,"F&M Brewery",1288059897,3.5,3,3,"English Bitter",3.5,3.5,"F&M Ordinary Bitter",NA,62909
-"82",708,"F&M Brewery",1322800819,4,4,3.5,"American Double / Imperial Stout",3.5,4,"StoneHammer \""Two-Lumps\"" Imperial Coffee Stout",8,75901
-"83",708,"F&M Brewery",1288554290,2.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,2.5,"Stonehammer Beta Red",NA,63057
-"84",708,"F&M Brewery",1090611229,3.5,2.5,2.5,"English Pale Mild Ale",3,3,"Premium Draft Ale",5,18889
-"85",708,"F&M Brewery",1325735459,3.5,4,4.5,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
-"86",708,"F&M Brewery",1323904243,4,4,3.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
-"87",708,"F&M Brewery",1322367363,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Stonehammer Dark Ale",5,20231
-"88",708,"F&M Brewery",1322349857,4,4,3.5,"English Dark Mild Ale",3,4,"Stonehammer Dark Ale",5,20231
-"89",708,"F&M Brewery",1322330140,4,3.5,3.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
-"90",708,"F&M Brewery",1303328492,4,4,3.5,"English Dark Mild Ale",4,4.5,"Stonehammer Dark Ale",5,20231
-"91",708,"F&M Brewery",1299784704,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"92",708,"F&M Brewery",1299632806,4,4,4,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
-"93",708,"F&M Brewery",1273124765,5,3.5,4,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
-"94",708,"F&M Brewery",1263500334,4.5,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"95",708,"F&M Brewery",1253868976,4,4,4,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
-"96",708,"F&M Brewery",1249139380,3,3.5,3.5,"English Dark Mild Ale",3.5,3,"Stonehammer Dark Ale",5,20231
-"97",708,"F&M Brewery",1200166155,4,4,3.5,"English Dark Mild Ale",3,4,"Stonehammer Dark Ale",5,20231
-"98",708,"F&M Brewery",1184121821,4,3.5,3.5,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
-"99",708,"F&M Brewery",1175216216,4.5,4,4,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
-"100",708,"F&M Brewery",1153596828,4,4,3.5,"English Dark Mild Ale",4,4,"Stonehammer Dark Ale",5,20231
-"101",708,"F&M Brewery",1127320283,4,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"102",708,"F&M Brewery",1126663951,4,3.5,3,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"103",708,"F&M Brewery",1117323046,3.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"104",708,"F&M Brewery",1115597564,4.5,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
-"105",708,"F&M Brewery",1111441369,5,4.5,4.5,"English Dark Mild Ale",4.5,5,"Stonehammer Dark Ale",5,20231
-"106",708,"F&M Brewery",1100839793,3.5,3.5,4,"English Dark Mild Ale",2.5,4,"Stonehammer Dark Ale",5,20231
-"107",708,"F&M Brewery",1097294751,4,4,4.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
-"108",708,"F&M Brewery",1259713293,4.5,4,4,"American Stout",4,4,"Stonehammer Nightmare On Ale Street",7.2,53822
-"109",708,"F&M Brewery",1258599129,3,3.5,3,"American Stout",3,3.5,"Stonehammer Nightmare On Ale Street",7.2,53822
-"110",708,"F&M Brewery",1257128156,4,4,3.5,"American Stout",4,4.5,"Stonehammer Nightmare On Ale Street",7.2,53822
-"111",708,"F&M Brewery",1257080693,3.5,4,4,"American Stout",3.5,3.5,"Stonehammer Nightmare On Ale Street",7.2,53822
-"112",708,"F&M Brewery",1257039926,4,4.5,4,"American Stout",4,4,"Stonehammer Nightmare On Ale Street",7.2,53822
-"113",708,"F&M Brewery",1277472071,4.5,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Stonehammer Strawberry Blonde",4.5,51089
-"114",708,"F&M Brewery",1247683797,4.5,4.5,3.5,"Fruit / Vegetable Beer",4.5,3.5,"Stonehammer Strawberry Blonde",4.5,51089
-"115",708,"F&M Brewery",1247460982,5,5,5,"Fruit / Vegetable Beer",5,5,"Stonehammer Strawberry Blonde",4.5,51089
-"116",708,"F&M Brewery",1247432914,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Stonehammer Strawberry Blonde",4.5,51089
-"117",708,"F&M Brewery",1116007550,3,3,3,"American Adjunct Lager",2.5,3,"F&M Special Draft",5,12469
-"118",708,"F&M Brewery",1089405995,3,3,3,"American Adjunct Lager",2.5,3,"F&M Special Draft",5,12469
-"119",708,"F&M Brewery",1070755863,3.5,3,3.5,"American Adjunct Lager",3.5,4,"F&M Special Draft",5,12469
-"120",708,"F&M Brewery",1171827664,4,4,4,"English Dark Mild Ale",3.5,3.5,"F&M Premium Dark Ale",5,12471
-"121",708,"F&M Brewery",1171818191,3.5,4,3.5,"English Dark Mild Ale",4,4,"F&M Premium Dark Ale",5,12471
-"122",708,"F&M Brewery",1192930231,4,4.5,4,"English Pale Mild Ale",4,3.5,"George's Herbal Mild",NA,39243
-"123",708,"F&M Brewery",1208528498,3,3,3.5,"English Pale Ale",2,2,"F&M Harvest Pale Ale",5,20598
-"124",708,"F&M Brewery",1170554386,3,3,3,"English Pale Ale",3,3,"F&M Harvest Pale Ale",5,20598
-"125",708,"F&M Brewery",1161048890,3,3,3,"English Pale Ale",3,3,"F&M Harvest Pale Ale",5,20598
-"126",708,"F&M Brewery",1099458845,3.5,3.5,3.5,"English Pale Ale",2.5,3,"F&M Harvest Pale Ale",5,20598
-"127",708,"F&M Brewery",1227669004,3.5,4,3.5,"American Amber / Red Ale",4,4,"George's Double Red",7.5,45486
-"128",708,"F&M Brewery",1224539532,3,3.5,3.5,"American Amber / Red Ale",3,3.5,"George's Double Red",7.5,45486
+"2",708,"F&M Brewery",1307975389,3,3,3,"American Amber / Red Ale",3.5,3,"Stonehammer Maple Red Ale",5,50408
+"3",708,"F&M Brewery",1276144531,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Stonehammer Maple Red Ale",5,50408
+"4",708,"F&M Brewery",1276112632,4,3.5,3,"American Amber / Red Ale",3.5,4,"Stonehammer Maple Red Ale",5,50408
+"5",708,"F&M Brewery",1271531339,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Stonehammer Maple Red Ale",5,50408
+"6",708,"F&M Brewery",1251009228,4,3.5,4,"American Amber / Red Ale",4,3.5,"Stonehammer Maple Red Ale",5,50408
+"7",708,"F&M Brewery",1248864862,3,3,3,"American Amber / Red Ale",3,3.5,"Stonehammer Maple Red Ale",5,50408
+"8",708,"F&M Brewery",1244725464,4,3,3.5,"American Amber / Red Ale",3,3.5,"Stonehammer Maple Red Ale",5,50408
+"9",708,"F&M Brewery",1281968776,4,4,4.5,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
+"10",708,"F&M Brewery",1277704557,4,4,3.5,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
+"11",708,"F&M Brewery",1266792169,3.5,3.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
+"12",708,"F&M Brewery",1246844716,5,3,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
+"13",708,"F&M Brewery",1225219447,4.5,3,4,"English Pale Ale",4,3.5,"MacLean's Pale Ale",5,12464
+"14",708,"F&M Brewery",1165264975,3.5,3.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
+"15",708,"F&M Brewery",1158517054,4,4,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
+"16",708,"F&M Brewery",1153096252,4.5,3.5,4.5,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
+"17",708,"F&M Brewery",1119801525,4,4,4,"English Pale Ale",4,4,"MacLean's Pale Ale",5,12464
+"18",708,"F&M Brewery",1090856894,3.5,3,3,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
+"19",708,"F&M Brewery",1089410354,3,3.5,3.5,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
+"20",708,"F&M Brewery",1088136249,3,3,3,"English Pale Ale",3.5,3.5,"MacLean's Pale Ale",5,12464
+"21",708,"F&M Brewery",1085872509,4,4,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
+"22",708,"F&M Brewery",1072577199,3.5,2.5,3,"English Pale Ale",3,3.5,"MacLean's Pale Ale",5,12464
+"23",708,"F&M Brewery",1276042743,4,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,4,"MacLean's Scotch Ale",6.5,34818
+"24",708,"F&M Brewery",1237338081,3,3,3.5,"Scotch Ale / Wee Heavy",3.5,3,"MacLean's Scotch Ale",6.5,34818
+"25",708,"F&M Brewery",1237297269,3,3,3.5,"Scotch Ale / Wee Heavy",3,3,"MacLean's Scotch Ale",6.5,34818
+"26",708,"F&M Brewery",1170394974,3,3.5,4.5,"Scotch Ale / Wee Heavy",3.5,2.5,"MacLean's Scotch Ale",6.5,34818
+"27",708,"F&M Brewery",1169178677,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"MacLean's Scotch Ale",6.5,34818
+"28",708,"F&M Brewery",1297607928,4.5,3.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"29",708,"F&M Brewery",1291220367,4,4.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"30",708,"F&M Brewery",1276042365,3,3.5,3,"American Stout",3,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
+"31",708,"F&M Brewery",1266816715,4,4,4,"American Stout",4,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"32",708,"F&M Brewery",1266254790,4,4,4,"American Stout",3,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"33",708,"F&M Brewery",1264838755,4,3.5,4,"American Stout",3.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"34",708,"F&M Brewery",1263423135,4,4,3.5,"American Stout",3.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"35",708,"F&M Brewery",1249139230,3.5,3.5,3.5,"American Stout",3.5,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
+"36",708,"F&M Brewery",1234921113,4,4.5,4,"American Stout",4,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"37",708,"F&M Brewery",1233587428,4,4,4,"American Stout",3,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"38",708,"F&M Brewery",1233104630,4,3.5,3.5,"American Stout",3.5,3.5,"Stonehammer Oatmeal Coffee Stout",5,47438
+"39",708,"F&M Brewery",1232591605,4.5,3.5,4.5,"American Stout",4.5,4,"Stonehammer Oatmeal Coffee Stout",5,47438
+"40",708,"F&M Brewery",1325522389,3.5,3.5,3,"Czech Pilsener",3.5,3.5,"StoneHammer Pilsner",5,12465
+"41",708,"F&M Brewery",1309058816,4,4,4,"Czech Pilsener",4.5,4,"StoneHammer Pilsner",5,12465
+"42",708,"F&M Brewery",1306729810,3.5,4,3.5,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
+"43",708,"F&M Brewery",1305314327,3.5,3.5,3.5,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
+"44",708,"F&M Brewery",1298076856,3,2.5,3,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
+"45",708,"F&M Brewery",1297902626,4,3.5,4,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
+"46",708,"F&M Brewery",1283321268,5,4,3,"Czech Pilsener",3,4,"StoneHammer Pilsner",5,12465
+"47",708,"F&M Brewery",1261770153,4,4,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
+"48",708,"F&M Brewery",1248826223,4.5,3.5,3.5,"Czech Pilsener",4.5,3.5,"StoneHammer Pilsner",5,12465
+"49",708,"F&M Brewery",1230687714,4.5,4,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
+"50",708,"F&M Brewery",1212450839,4,4,3.5,"Czech Pilsener",4.5,4.5,"StoneHammer Pilsner",5,12465
+"51",708,"F&M Brewery",1199127193,3,2.5,4,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
+"52",708,"F&M Brewery",1176245988,3.5,3,3.5,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
+"53",708,"F&M Brewery",1170044866,4,3.5,4,"Czech Pilsener",4,3.5,"StoneHammer Pilsner",5,12465
+"54",708,"F&M Brewery",1156554214,4,3.5,3.5,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
+"55",708,"F&M Brewery",1142034715,3.5,2.5,2.5,"Czech Pilsener",2.5,3,"StoneHammer Pilsner",5,12465
+"56",708,"F&M Brewery",1136403879,3.5,3,3,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
+"57",708,"F&M Brewery",1119369039,4,3.5,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
+"58",708,"F&M Brewery",1117322074,3.5,4,3.5,"Czech Pilsener",3,4,"StoneHammer Pilsner",5,12465
+"59",708,"F&M Brewery",1116188325,4.5,3,2.5,"Czech Pilsener",4,4.5,"StoneHammer Pilsner",5,12465
+"60",708,"F&M Brewery",1108424408,4.5,4,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
+"61",708,"F&M Brewery",1094959702,4.5,3.5,4,"Czech Pilsener",4,4,"StoneHammer Pilsner",5,12465
+"62",708,"F&M Brewery",1085838368,4,3.5,4,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
+"63",708,"F&M Brewery",1070407734,3.5,3.5,3.5,"Czech Pilsener",3.5,4,"StoneHammer Pilsner",5,12465
+"64",708,"F&M Brewery",1066605122,4,3.5,3,"Czech Pilsener",3,3.5,"StoneHammer Pilsner",5,12465
+"65",708,"F&M Brewery",1325735459,3.5,4,4.5,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
+"66",708,"F&M Brewery",1323904243,4,4,3.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
+"67",708,"F&M Brewery",1322367363,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Stonehammer Dark Ale",5,20231
+"68",708,"F&M Brewery",1322349857,4,4,3.5,"English Dark Mild Ale",3,4,"Stonehammer Dark Ale",5,20231
+"69",708,"F&M Brewery",1322330140,4,3.5,3.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
+"70",708,"F&M Brewery",1303328492,4,4,3.5,"English Dark Mild Ale",4,4.5,"Stonehammer Dark Ale",5,20231
+"71",708,"F&M Brewery",1299784704,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"72",708,"F&M Brewery",1299632806,4,4,4,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
+"73",708,"F&M Brewery",1273124765,5,3.5,4,"English Dark Mild Ale",4,3.5,"Stonehammer Dark Ale",5,20231
+"74",708,"F&M Brewery",1263500334,4.5,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"75",708,"F&M Brewery",1253868976,4,4,4,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
+"76",708,"F&M Brewery",1249139380,3,3.5,3.5,"English Dark Mild Ale",3.5,3,"Stonehammer Dark Ale",5,20231
+"77",708,"F&M Brewery",1200166155,4,4,3.5,"English Dark Mild Ale",3,4,"Stonehammer Dark Ale",5,20231
+"78",708,"F&M Brewery",1184121821,4,3.5,3.5,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
+"79",708,"F&M Brewery",1175216216,4.5,4,4,"English Dark Mild Ale",4.5,4,"Stonehammer Dark Ale",5,20231
+"80",708,"F&M Brewery",1153596828,4,4,3.5,"English Dark Mild Ale",4,4,"Stonehammer Dark Ale",5,20231
+"81",708,"F&M Brewery",1127320283,4,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"82",708,"F&M Brewery",1126663951,4,3.5,3,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"83",708,"F&M Brewery",1117323046,3.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"84",708,"F&M Brewery",1115597564,4.5,4,4,"English Dark Mild Ale",3.5,4,"Stonehammer Dark Ale",5,20231
+"85",708,"F&M Brewery",1111441369,5,4.5,4.5,"English Dark Mild Ale",4.5,5,"Stonehammer Dark Ale",5,20231
+"86",708,"F&M Brewery",1100839793,3.5,3.5,4,"English Dark Mild Ale",2.5,4,"Stonehammer Dark Ale",5,20231
+"87",708,"F&M Brewery",1097294751,4,4,4.5,"English Dark Mild Ale",3.5,3.5,"Stonehammer Dark Ale",5,20231
+"88",708,"F&M Brewery",1259713293,4.5,4,4,"American Stout",4,4,"Stonehammer Nightmare On Ale Street",7.2,53822
+"89",708,"F&M Brewery",1258599129,3,3.5,3,"American Stout",3,3.5,"Stonehammer Nightmare On Ale Street",7.2,53822
+"90",708,"F&M Brewery",1257128156,4,4,3.5,"American Stout",4,4.5,"Stonehammer Nightmare On Ale Street",7.2,53822
+"91",708,"F&M Brewery",1257080693,3.5,4,4,"American Stout",3.5,3.5,"Stonehammer Nightmare On Ale Street",7.2,53822
+"92",708,"F&M Brewery",1257039926,4,4.5,4,"American Stout",4,4,"Stonehammer Nightmare On Ale Street",7.2,53822

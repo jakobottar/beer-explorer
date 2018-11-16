@@ -1,66 +1,62 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",16824,"The Little Brewing Company",1315183538,3.5,3.5,3.5,"Tripel",3,4,"Mad Abbot Tripel",9.5,64639
 "2",16824,"The Little Brewing Company",1282307937,3,3.5,3.5,"Witbier",3,3,"Wicked Elf Witbier",5,41255
-"3",16824,"The Little Brewing Company",1325234459,3,4,3.5,"Dubbel",2,3,"Mad Abbot Dubbel",6.9,58504
-"4",16824,"The Little Brewing Company",1324116095,2.5,2,2.5,"Dubbel",2.5,3,"Mad Abbot Dubbel",6.9,58504
-"5",16824,"The Little Brewing Company",1315132554,3.5,3,3,"Dubbel",2,3,"Mad Abbot Dubbel",6.9,58504
-"6",16824,"The Little Brewing Company",1274523160,4,4,4,"Dubbel",4.5,3.5,"Mad Abbot Dubbel",6.9,58504
-"7",16824,"The Little Brewing Company",1325227809,2.5,3.5,3,"Witbier",2.5,2,"Wicked Elf Witbier",5,41255
-"8",16824,"The Little Brewing Company",1324194285,3.5,3,4.5,"Witbier",3,3.5,"Wicked Elf Witbier",5,41255
-"9",16824,"The Little Brewing Company",1303940365,3,2.5,4,"Witbier",3,3,"Wicked Elf Witbier",5,41255
-"10",16824,"The Little Brewing Company",1293974761,2.5,2.5,3.5,"Witbier",3.5,3,"Wicked Elf Witbier",5,41255
-"11",16824,"The Little Brewing Company",1204277229,3.5,4,4,"Witbier",3.5,4,"Wicked Elf Witbier",5,41255
-"12",16824,"The Little Brewing Company",1262698160,3,3.5,4,"Witbier",3,3,"Wicked Elf Witbier",5,41255
-"13",16824,"The Little Brewing Company",1259057276,3.5,3.5,4,"Witbier",3,4,"Wicked Elf Witbier",5,41255
-"14",16824,"The Little Brewing Company",1251629262,3,3,4,"Witbier",3,2.5,"Wicked Elf Witbier",5,41255
-"15",16824,"The Little Brewing Company",1249980229,4,3.5,3.5,"Witbier",4,3.5,"Wicked Elf Witbier",5,41255
-"16",16824,"The Little Brewing Company",1246238924,3.5,4,3.5,"Witbier",4,4,"Wicked Elf Witbier",5,41255
-"17",16824,"The Little Brewing Company",1227945433,3,3,2,"Witbier",3.5,3.5,"Wicked Elf Witbier",5,41255
-"18",16824,"The Little Brewing Company",1227609731,4,4,3.5,"Witbier",2.5,3,"Wicked Elf Witbier",5,41255
-"19",16824,"The Little Brewing Company",1227479470,3.5,3.5,4,"Witbier",3.5,3,"Wicked Elf Witbier",5,41255
-"20",16824,"The Little Brewing Company",1222414364,4,4,4,"Witbier",3.5,4,"Wicked Elf Witbier",5,41255
-"21",16824,"The Little Brewing Company",1219475830,3.5,3,4,"Witbier",4,3.5,"Wicked Elf Witbier",5,41255
-"22",16824,"The Little Brewing Company",1211084192,3.5,3.5,3.5,"Witbier",3,3.5,"Wicked Elf Witbier",5,41255
-"23",16824,"The Little Brewing Company",1269778459,1,2.5,3,"Dubbel",1,1,"Mad Abbot Abbey Ale",8,48454
-"24",16824,"The Little Brewing Company",1257732961,4,3.5,4,"Dubbel",4,4,"Mad Abbot Abbey Ale",8,48454
-"25",16824,"The Little Brewing Company",1250322476,3,3.5,3.5,"Dubbel",2,3,"Mad Abbot Abbey Ale",8,48454
-"26",16824,"The Little Brewing Company",1243249094,3,4,4,"Dubbel",3,3,"Mad Abbot Abbey Ale",8,48454
-"27",16824,"The Little Brewing Company",1243243643,2.5,3,3.5,"Dubbel",3,2.5,"Mad Abbot Abbey Ale",8,48454
-"28",16824,"The Little Brewing Company",1241514132,3,3.5,3.5,"Dubbel",3.5,3,"Mad Abbot Abbey Ale",8,48454
-"29",16824,"The Little Brewing Company",1240440741,3.5,3,3.5,"Dubbel",3,3.5,"Mad Abbot Abbey Ale",8,48454
-"30",16824,"The Little Brewing Company",1236996069,3,4,3.5,"Dubbel",2.5,2.5,"Mad Abbot Abbey Ale",8,48454
-"31",16824,"The Little Brewing Company",1325239311,3,2.5,3,"Tripel",2,3,"Mad Abbot Tripel",9.5,64639
-"32",16824,"The Little Brewing Company",1316414504,3.5,3.5,3.5,"Tripel",3.5,3,"Mad Abbot Tripel",9.5,64639
-"33",16824,"The Little Brewing Company",1305029702,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
-"34",16824,"The Little Brewing Company",1304672181,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
-"35",16824,"The Little Brewing Company",1292995754,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
-"36",16824,"The Little Brewing Company",1309424508,3,3,2,"Czech Pilsener",3,3.5,"Wicked Elf Pilsner",5,41254
-"37",16824,"The Little Brewing Company",1272984183,3,3,3.5,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
-"38",16824,"The Little Brewing Company",1267083156,3,3.5,3,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
-"39",16824,"The Little Brewing Company",1250871788,4,4,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
-"40",16824,"The Little Brewing Company",1245883518,3.5,3.5,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
-"41",16824,"The Little Brewing Company",1240204772,3,3,3.5,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
-"42",16824,"The Little Brewing Company",1217500601,3.5,4,4,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
-"43",16824,"The Little Brewing Company",1212747195,4,3.5,3.5,"Czech Pilsener",3.5,4.5,"Wicked Elf Pilsner",5,41254
-"44",16824,"The Little Brewing Company",1211088740,3.5,3,3.5,"Czech Pilsener",3,3.5,"Wicked Elf Pilsner",5,41254
-"45",16824,"The Little Brewing Company",1210915014,4.5,3.5,4,"Czech Pilsener",4,4,"Wicked Elf Pilsner",5,41254
-"46",16824,"The Little Brewing Company",1204276255,4,4,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
-"47",16824,"The Little Brewing Company",1314359836,3,2.5,4,"American Pale Ale (APA)",3.5,2.5,"Wicked Elf Pale Ale",5.4,41256
-"48",16824,"The Little Brewing Company",1304514193,4,3.5,3,"American Pale Ale (APA)",4,4.5,"Wicked Elf Pale Ale",5.4,41256
-"49",16824,"The Little Brewing Company",1301998836,3,3,3,"American Pale Ale (APA)",3.5,3,"Wicked Elf Pale Ale",5.4,41256
-"50",16824,"The Little Brewing Company",1294143186,3,3,4,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
-"51",16824,"The Little Brewing Company",1282296214,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Wicked Elf Pale Ale",5.4,41256
-"52",16824,"The Little Brewing Company",1266159421,2.5,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Wicked Elf Pale Ale",5.4,41256
-"53",16824,"The Little Brewing Company",1262684069,3,4,4,"American Pale Ale (APA)",3.5,3,"Wicked Elf Pale Ale",5.4,41256
-"54",16824,"The Little Brewing Company",1257861564,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
-"55",16824,"The Little Brewing Company",1250768545,4,4.5,4,"American Pale Ale (APA)",3,3.5,"Wicked Elf Pale Ale",5.4,41256
-"56",16824,"The Little Brewing Company",1247457843,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
-"57",16824,"The Little Brewing Company",1245920044,3.5,3.5,3,"American Pale Ale (APA)",4,3,"Wicked Elf Pale Ale",5.4,41256
-"58",16824,"The Little Brewing Company",1245057065,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Wicked Elf Pale Ale",5.4,41256
-"59",16824,"The Little Brewing Company",1244004994,3.5,4.5,3.5,"American Pale Ale (APA)",4,3.5,"Wicked Elf Pale Ale",5.4,41256
-"60",16824,"The Little Brewing Company",1241331634,5,5,4.5,"American Pale Ale (APA)",4.5,4.5,"Wicked Elf Pale Ale",5.4,41256
-"61",16824,"The Little Brewing Company",1218010455,4,4,3,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
-"62",16824,"The Little Brewing Company",1214557136,3.5,4,4,"American Pale Ale (APA)",2.5,3.5,"Wicked Elf Pale Ale",5.4,41256
-"63",16824,"The Little Brewing Company",1211081561,4,4,4,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
-"64",16824,"The Little Brewing Company",1210914753,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
-"65",16824,"The Little Brewing Company",1204280441,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Wicked Elf Pale Ale",5.4,41256
+"3",16824,"The Little Brewing Company",1325227809,2.5,3.5,3,"Witbier",2.5,2,"Wicked Elf Witbier",5,41255
+"4",16824,"The Little Brewing Company",1324194285,3.5,3,4.5,"Witbier",3,3.5,"Wicked Elf Witbier",5,41255
+"5",16824,"The Little Brewing Company",1303940365,3,2.5,4,"Witbier",3,3,"Wicked Elf Witbier",5,41255
+"6",16824,"The Little Brewing Company",1293974761,2.5,2.5,3.5,"Witbier",3.5,3,"Wicked Elf Witbier",5,41255
+"7",16824,"The Little Brewing Company",1204277229,3.5,4,4,"Witbier",3.5,4,"Wicked Elf Witbier",5,41255
+"8",16824,"The Little Brewing Company",1262698160,3,3.5,4,"Witbier",3,3,"Wicked Elf Witbier",5,41255
+"9",16824,"The Little Brewing Company",1259057276,3.5,3.5,4,"Witbier",3,4,"Wicked Elf Witbier",5,41255
+"10",16824,"The Little Brewing Company",1251629262,3,3,4,"Witbier",3,2.5,"Wicked Elf Witbier",5,41255
+"11",16824,"The Little Brewing Company",1249980229,4,3.5,3.5,"Witbier",4,3.5,"Wicked Elf Witbier",5,41255
+"12",16824,"The Little Brewing Company",1246238924,3.5,4,3.5,"Witbier",4,4,"Wicked Elf Witbier",5,41255
+"13",16824,"The Little Brewing Company",1227945433,3,3,2,"Witbier",3.5,3.5,"Wicked Elf Witbier",5,41255
+"14",16824,"The Little Brewing Company",1227609731,4,4,3.5,"Witbier",2.5,3,"Wicked Elf Witbier",5,41255
+"15",16824,"The Little Brewing Company",1227479470,3.5,3.5,4,"Witbier",3.5,3,"Wicked Elf Witbier",5,41255
+"16",16824,"The Little Brewing Company",1222414364,4,4,4,"Witbier",3.5,4,"Wicked Elf Witbier",5,41255
+"17",16824,"The Little Brewing Company",1219475830,3.5,3,4,"Witbier",4,3.5,"Wicked Elf Witbier",5,41255
+"18",16824,"The Little Brewing Company",1211084192,3.5,3.5,3.5,"Witbier",3,3.5,"Wicked Elf Witbier",5,41255
+"19",16824,"The Little Brewing Company",1269778459,1,2.5,3,"Dubbel",1,1,"Mad Abbot Abbey Ale",8,48454
+"20",16824,"The Little Brewing Company",1257732961,4,3.5,4,"Dubbel",4,4,"Mad Abbot Abbey Ale",8,48454
+"21",16824,"The Little Brewing Company",1250322476,3,3.5,3.5,"Dubbel",2,3,"Mad Abbot Abbey Ale",8,48454
+"22",16824,"The Little Brewing Company",1243249094,3,4,4,"Dubbel",3,3,"Mad Abbot Abbey Ale",8,48454
+"23",16824,"The Little Brewing Company",1243243643,2.5,3,3.5,"Dubbel",3,2.5,"Mad Abbot Abbey Ale",8,48454
+"24",16824,"The Little Brewing Company",1241514132,3,3.5,3.5,"Dubbel",3.5,3,"Mad Abbot Abbey Ale",8,48454
+"25",16824,"The Little Brewing Company",1240440741,3.5,3,3.5,"Dubbel",3,3.5,"Mad Abbot Abbey Ale",8,48454
+"26",16824,"The Little Brewing Company",1236996069,3,4,3.5,"Dubbel",2.5,2.5,"Mad Abbot Abbey Ale",8,48454
+"27",16824,"The Little Brewing Company",1325239311,3,2.5,3,"Tripel",2,3,"Mad Abbot Tripel",9.5,64639
+"28",16824,"The Little Brewing Company",1316414504,3.5,3.5,3.5,"Tripel",3.5,3,"Mad Abbot Tripel",9.5,64639
+"29",16824,"The Little Brewing Company",1305029702,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
+"30",16824,"The Little Brewing Company",1304672181,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
+"31",16824,"The Little Brewing Company",1292995754,3.5,3.5,3.5,"Tripel",3,3.5,"Mad Abbot Tripel",9.5,64639
+"32",16824,"The Little Brewing Company",1309424508,3,3,2,"Czech Pilsener",3,3.5,"Wicked Elf Pilsner",5,41254
+"33",16824,"The Little Brewing Company",1272984183,3,3,3.5,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
+"34",16824,"The Little Brewing Company",1267083156,3,3.5,3,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
+"35",16824,"The Little Brewing Company",1250871788,4,4,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
+"36",16824,"The Little Brewing Company",1245883518,3.5,3.5,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
+"37",16824,"The Little Brewing Company",1240204772,3,3,3.5,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
+"38",16824,"The Little Brewing Company",1217500601,3.5,4,4,"Czech Pilsener",3,3,"Wicked Elf Pilsner",5,41254
+"39",16824,"The Little Brewing Company",1212747195,4,3.5,3.5,"Czech Pilsener",3.5,4.5,"Wicked Elf Pilsner",5,41254
+"40",16824,"The Little Brewing Company",1211088740,3.5,3,3.5,"Czech Pilsener",3,3.5,"Wicked Elf Pilsner",5,41254
+"41",16824,"The Little Brewing Company",1210915014,4.5,3.5,4,"Czech Pilsener",4,4,"Wicked Elf Pilsner",5,41254
+"42",16824,"The Little Brewing Company",1204276255,4,4,4,"Czech Pilsener",3.5,3.5,"Wicked Elf Pilsner",5,41254
+"43",16824,"The Little Brewing Company",1314359836,3,2.5,4,"American Pale Ale (APA)",3.5,2.5,"Wicked Elf Pale Ale",5.4,41256
+"44",16824,"The Little Brewing Company",1304514193,4,3.5,3,"American Pale Ale (APA)",4,4.5,"Wicked Elf Pale Ale",5.4,41256
+"45",16824,"The Little Brewing Company",1301998836,3,3,3,"American Pale Ale (APA)",3.5,3,"Wicked Elf Pale Ale",5.4,41256
+"46",16824,"The Little Brewing Company",1294143186,3,3,4,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
+"47",16824,"The Little Brewing Company",1282296214,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Wicked Elf Pale Ale",5.4,41256
+"48",16824,"The Little Brewing Company",1266159421,2.5,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Wicked Elf Pale Ale",5.4,41256
+"49",16824,"The Little Brewing Company",1262684069,3,4,4,"American Pale Ale (APA)",3.5,3,"Wicked Elf Pale Ale",5.4,41256
+"50",16824,"The Little Brewing Company",1257861564,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
+"51",16824,"The Little Brewing Company",1250768545,4,4.5,4,"American Pale Ale (APA)",3,3.5,"Wicked Elf Pale Ale",5.4,41256
+"52",16824,"The Little Brewing Company",1247457843,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
+"53",16824,"The Little Brewing Company",1245920044,3.5,3.5,3,"American Pale Ale (APA)",4,3,"Wicked Elf Pale Ale",5.4,41256
+"54",16824,"The Little Brewing Company",1245057065,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Wicked Elf Pale Ale",5.4,41256
+"55",16824,"The Little Brewing Company",1244004994,3.5,4.5,3.5,"American Pale Ale (APA)",4,3.5,"Wicked Elf Pale Ale",5.4,41256
+"56",16824,"The Little Brewing Company",1241331634,5,5,4.5,"American Pale Ale (APA)",4.5,4.5,"Wicked Elf Pale Ale",5.4,41256
+"57",16824,"The Little Brewing Company",1218010455,4,4,3,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
+"58",16824,"The Little Brewing Company",1214557136,3.5,4,4,"American Pale Ale (APA)",2.5,3.5,"Wicked Elf Pale Ale",5.4,41256
+"59",16824,"The Little Brewing Company",1211081561,4,4,4,"American Pale Ale (APA)",4,4,"Wicked Elf Pale Ale",5.4,41256
+"60",16824,"The Little Brewing Company",1210914753,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wicked Elf Pale Ale",5.4,41256
+"61",16824,"The Little Brewing Company",1204280441,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Wicked Elf Pale Ale",5.4,41256

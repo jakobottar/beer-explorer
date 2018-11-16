@@ -1,441 +1,359 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",10897,"Carlsberg Sverige AB",1191150097,2.5,2,2.5,"Euro Pale Lager",2,1.5,"Carlsberg Beer 3,5%",3.5,22060
-"2",10897,"Carlsberg Sverige AB",1265386263,2.5,2,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
-"3",10897,"Carlsberg Sverige AB",1304643319,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"4",10897,"Carlsberg Sverige AB",1247602511,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"5",10897,"Carlsberg Sverige AB",1246155267,4,4.5,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"6",10897,"Carlsberg Sverige AB",1244927864,3,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"7",10897,"Carlsberg Sverige AB",1297443626,2.5,2,3,"Euro Pale Lager",2.5,3,"Falcon Ekologisk 5,7% Special Brew",5.7,56486
-"8",10897,"Carlsberg Sverige AB",1279719399,3,2.5,3.5,"Euro Pale Lager",3,3,"Falcon Ekologisk 5,7% Special Brew",5.7,56486
-"9",10897,"Carlsberg Sverige AB",1120937935,2,2,2,"Euro Pale Lager",2.5,2,"Sailor",5.1,22887
-"10",10897,"Carlsberg Sverige AB",1133122215,1,1.5,2,"Herbed / Spiced Beer",1.5,1.5,"Munkbo Julöl",6,26559
-"11",10897,"Carlsberg Sverige AB",1319288110,2.5,2,3,"Euro Pale Lager",3,2.5,"BlåGul",5.2,22059
-"12",10897,"Carlsberg Sverige AB",1295634654,2,1.5,3.5,"Euro Pale Lager",2.5,1.5,"BlåGul",5.2,22059
-"13",10897,"Carlsberg Sverige AB",1274386011,3,2.5,3.5,"Euro Pale Lager",3,3,"BlåGul",5.2,22059
-"14",10897,"Carlsberg Sverige AB",1213240214,2.5,2,2,"Euro Pale Lager",2,2,"BlåGul",5.2,22059
-"15",10897,"Carlsberg Sverige AB",1122153076,2,2,2,"Euro Pale Lager",2,1.5,"BlåGul",5.2,22059
-"16",10897,"Carlsberg Sverige AB",1137964204,2.5,1.5,2.5,"Vienna Lager",3,2.5,"Pripps Julöl 3,5%",3.5,27554
-"17",10897,"Carlsberg Sverige AB",1268070799,3,2.5,2,"Euro Pale Lager",3,2.5,"Bellman",6,22058
-"18",10897,"Carlsberg Sverige AB",1262022119,2,2,2.5,"Euro Pale Lager",2,2,"Bellman",6,22058
-"19",10897,"Carlsberg Sverige AB",1115841824,2.5,2,3,"Fruit / Vegetable Beer",3,2,"Pripps Blå Sommar",3.5,23033
-"20",10897,"Carlsberg Sverige AB",1103184667,3.5,4,3,"Vienna Lager",3,3.5,"Arboga 6,0 Julöl",6,21154
-"21",10897,"Carlsberg Sverige AB",1270147293,3,3,4,"Euro Dark Lager",2.5,3,"Eriksberg Påsköl",5.8,41481
-"22",10897,"Carlsberg Sverige AB",1269884946,4,3.5,3,"Euro Dark Lager",3.5,3.5,"Eriksberg Påsköl",5.8,41481
-"23",10897,"Carlsberg Sverige AB",1240614066,3.5,3,4,"Euro Dark Lager",2.5,3.5,"Eriksberg Påsköl",5.8,41481
-"24",10897,"Carlsberg Sverige AB",1205097490,3,2.5,4,"Euro Dark Lager",3.5,3,"Eriksberg Påsköl",5.8,41481
-"25",10897,"Carlsberg Sverige AB",1212868195,3,3.5,3,"Light Lager",3,2,"Pripps Blå Pure Sommar 2008",4.9,43106
-"26",10897,"Carlsberg Sverige AB",1227814154,4,3.5,3.5,"Euro Dark Lager",4,4,"Falcon Gammelbrygd",5.5,46065
-"27",10897,"Carlsberg Sverige AB",1227640699,5,4,4,"Euro Dark Lager",4,4.5,"Falcon Gammelbrygd",5.5,46065
-"28",10897,"Carlsberg Sverige AB",1227379937,3.5,3.5,3.5,"Euro Dark Lager",4,4,"Falcon Gammelbrygd",5.5,46065
-"29",10897,"Carlsberg Sverige AB",1285954762,3.5,3,3.5,"Märzen / Oktoberfest",3.5,3,"Falcon Oktoberfest",5.5,61372
-"30",10897,"Carlsberg Sverige AB",1285520576,3,2.5,3.5,"Märzen / Oktoberfest",3,3,"Falcon Oktoberfest",5.5,61372
-"31",10897,"Carlsberg Sverige AB",1283972545,3.5,3,3,"Märzen / Oktoberfest",3,3,"Falcon Oktoberfest",5.5,61372
-"32",10897,"Carlsberg Sverige AB",1288119840,3,2.5,4,"Vienna Lager",2.5,2.5,"Falcon Höstlager",5.5,61313
-"33",10897,"Carlsberg Sverige AB",1287597347,3.5,2,3.5,"Vienna Lager",3.5,3,"Falcon Höstlager",5.5,61313
-"34",10897,"Carlsberg Sverige AB",1284141125,2.5,2,3.5,"Vienna Lager",2.5,2.5,"Falcon Höstlager",5.5,61313
-"35",10897,"Carlsberg Sverige AB",1295037525,1.5,1,3.5,"Vienna Lager",2.5,1.5,"Pripps Julöl 2,2%",2.2,56495
-"36",10897,"Carlsberg Sverige AB",1267881272,1.5,2.5,2.5,"Vienna Lager",2,1.5,"Pripps Julöl 2,2%",2.2,56495
-"37",10897,"Carlsberg Sverige AB",1136925560,2,2,1.5,"Light Lager",1.5,1.5,"Pripps Blå Light 2,8%",2.8,27536
-"38",10897,"Carlsberg Sverige AB",1112030825,2.5,2,3,"Euro Pale Lager",2.5,2,"Rommehed Dalaöl",5.5,22816
-"39",10897,"Carlsberg Sverige AB",1307547795,3,3,3.5,"Euro Pale Lager",3.5,3,"Falcon Export",5.2,22063
-"40",10897,"Carlsberg Sverige AB",1225560572,4,3.5,4,"Vienna Lager",3.5,3,"Eriksberg Julöl 3,5 %",3.5,45671
-"41",10897,"Carlsberg Sverige AB",1292220640,4,3,3.5,"Euro Pale Lager",3,3.5,"Falcon Export",5.2,22063
-"42",10897,"Carlsberg Sverige AB",1261169165,2.5,2,3,"Euro Pale Lager",2,2.5,"Falcon Export",5.2,22063
-"43",10897,"Carlsberg Sverige AB",1260481575,2.5,1,2.5,"Euro Pale Lager",1.5,2,"Falcon Export",5.2,22063
-"44",10897,"Carlsberg Sverige AB",1255551832,3,3,2.5,"Euro Pale Lager",2.5,2.5,"Falcon Export",5.2,22063
-"45",10897,"Carlsberg Sverige AB",1238263643,4.5,3,3,"Euro Pale Lager",4,4,"Falcon Export",5.2,22063
-"46",10897,"Carlsberg Sverige AB",1149803468,3,2.5,2.5,"Euro Pale Lager",2,2.5,"Falcon Export",5.2,22063
-"47",10897,"Carlsberg Sverige AB",1122064991,3,2,2,"Euro Pale Lager",3.5,2,"Falcon Export",5.2,22063
-"48",10897,"Carlsberg Sverige AB",1175982554,2.5,2.5,4,"Euro Dark Lager",2.5,2,"Falcon Påskbrygd 3,5%",3.5,36259
-"49",10897,"Carlsberg Sverige AB",1298138150,3.5,2,4,"Euro Strong Lager",3.5,3,"Pripps Blå Extra Stark",7,22072
-"50",10897,"Carlsberg Sverige AB",1242141424,1,1,1.5,"Euro Pale Lager",2.5,1.5,"Carlsberg Beer 3,5%",3.5,22060
-"51",10897,"Carlsberg Sverige AB",1153600543,2.5,2,3.5,"Euro Strong Lager",2,2,"Pripps Blå Extra Stark",7,22072
-"52",10897,"Carlsberg Sverige AB",1131085118,5,4,4,"Euro Strong Lager",4,4.5,"Pripps Blå Extra Stark",7,22072
-"53",10897,"Carlsberg Sverige AB",1137014096,1.5,2,2,"Light Lager",1.5,1.5,"Pripps Blå Light 3,5%",3.5,22074
-"54",10897,"Carlsberg Sverige AB",1192646749,4,3,4,"Märzen / Oktoberfest",3.5,3.5,"Falcon Oktober",3.5,38981
-"55",10897,"Carlsberg Sverige AB",1191785695,2.5,2.5,3,"Märzen / Oktoberfest",2,2,"Falcon Oktober",3.5,38981
-"56",10897,"Carlsberg Sverige AB",1285613510,3,2.5,2.5,"Fruit / Vegetable Beer",3,3,"Pripps Blå Sommarlager Fläder 3,5%",3.5,57556
-"57",10897,"Carlsberg Sverige AB",1292617949,1.5,2,3,"Vienna Lager",1.5,2,"Pripps Julöl",5,21097
-"58",10897,"Carlsberg Sverige AB",1291146031,3.5,3,3,"Vienna Lager",3.5,3.5,"Pripps Julöl",5,21097
-"59",10897,"Carlsberg Sverige AB",1262525953,2.5,2,2.5,"Vienna Lager",2,2,"Pripps Julöl",5,21097
-"60",10897,"Carlsberg Sverige AB",1311523563,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Falcon Little Big 3,5%",3.5,71353
-"61",10897,"Carlsberg Sverige AB",1102951718,2,2,3,"Euro Pale Lager",2,2,"Danbryg 2,8%",2.8,21121
-"62",10897,"Carlsberg Sverige AB",1153660920,2.5,2.5,3,"Euro Pale Lager",2.5,2.5,"Carlsberg Beer 3,5%",3.5,22060
-"63",10897,"Carlsberg Sverige AB",1319665776,2.5,2.5,3,"Euro Pale Lager",2.5,2.5,"Eriksberg",5.3,22061
-"64",10897,"Carlsberg Sverige AB",1304428585,3.5,3,3,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
-"65",10897,"Carlsberg Sverige AB",1296237190,2.5,2.5,2.5,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
-"66",10897,"Carlsberg Sverige AB",1289160110,3.5,4,3,"Euro Pale Lager",4,4,"Eriksberg",5.3,22061
-"67",10897,"Carlsberg Sverige AB",1278270924,2.5,2.5,3,"Euro Pale Lager",2,2.5,"Eriksberg",5.3,22061
-"68",10897,"Carlsberg Sverige AB",1232912034,2.5,4,3.5,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
-"69",10897,"Carlsberg Sverige AB",1293736861,3,2.5,4,"Vienna Lager",3,3.5,"Eriksberg Julöl 5,6%",5.6,46245
-"70",10897,"Carlsberg Sverige AB",1262610275,3.5,3.5,3,"Vienna Lager",3,2.5,"Eriksberg Julöl 5,6%",5.6,46245
-"71",10897,"Carlsberg Sverige AB",1292304676,4.5,2,3,"Euro Pale Lager",2,2,"Pripps Blå 3,5%",3.5,22071
-"72",10897,"Carlsberg Sverige AB",1278860642,2.5,1.5,1,"Euro Pale Lager",1,2,"Pripps Blå 3,5%",3.5,22071
-"73",10897,"Carlsberg Sverige AB",1144544131,1,1.5,3,"Hefeweizen",1.5,1,"Falcon Weiss 3,5%",3.5,25894
-"74",10897,"Carlsberg Sverige AB",1127598963,2,2.5,3,"Hefeweizen",2,1.5,"Falcon Weiss 3,5%",3.5,25894
-"75",10897,"Carlsberg Sverige AB",1127851066,4,4,4,"Irish Dry Stout",4,3.5,"Falcon Stout 3,5%",3.5,25892
-"76",10897,"Carlsberg Sverige AB",1181421454,3.5,2,2.5,"American Adjunct Lager",3,2.5,"Falcon BBQ Lager 5,0%",5,37189
-"77",10897,"Carlsberg Sverige AB",1149877405,2.5,2,2.5,"Euro Pale Lager",3,2.5,"Three Towns Sommarlager (5,3)",5.3,30542
-"78",10897,"Carlsberg Sverige AB",1205446463,2.5,2.5,4,"Euro Dark Lager",2,2,"Falcon Påskbrygd 5.9%",5.9,36277
-"79",10897,"Carlsberg Sverige AB",1176065439,2,2,3.5,"Euro Dark Lager",2.5,2.5,"Falcon Påskbrygd 5.9%",5.9,36277
-"80",10897,"Carlsberg Sverige AB",1278859485,2.5,2.5,2,"Euro Pale Lager",1.5,2.5,"Falcon Ekologisk 3,5%",NA,56485
-"81",10897,"Carlsberg Sverige AB",1146341618,3,3,3,"Euro Pale Lager",3,2,"Falcon Special Brew",5.9,28987
-"82",10897,"Carlsberg Sverige AB",1278862437,1,2.5,1,"Baltic Porter",1.5,1.5,"Carnegie Porter 3,5%",3.5,22322
-"83",10897,"Carlsberg Sverige AB",1260590361,3,3,3,"Baltic Porter",3,3,"Carnegie Porter 3,5%",3.5,22322
-"84",10897,"Carlsberg Sverige AB",1249470186,3,2.5,4,"Baltic Porter",3.5,2.5,"Carnegie Porter 3,5%",3.5,22322
-"85",10897,"Carlsberg Sverige AB",1222622794,3.5,3,3.5,"Baltic Porter",2.5,3,"Carnegie Porter 3,5%",3.5,22322
-"86",10897,"Carlsberg Sverige AB",1214494586,3,2,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
-"87",10897,"Carlsberg Sverige AB",1173299079,3,3.5,4,"Baltic Porter",2.5,3,"Carnegie Porter 3,5%",3.5,22322
-"88",10897,"Carlsberg Sverige AB",1109885474,2,3,2.5,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
-"89",10897,"Carlsberg Sverige AB",1293308595,3.5,3,4,"Vienna Lager",3,3,"Falcon Julöl",5.2,56489
-"90",10897,"Carlsberg Sverige AB",1290365221,3,3,3.5,"Vienna Lager",3,3,"Falcon Julöl",5.2,56489
-"91",10897,"Carlsberg Sverige AB",1289939969,3.5,3,4,"Vienna Lager",3.5,3.5,"Falcon Julöl",5.2,56489
-"92",10897,"Carlsberg Sverige AB",1280511411,1.5,1.5,1.5,"Euro Pale Lager",2.5,1.5,"Millennium Starköl",5.2,22068
-"93",10897,"Carlsberg Sverige AB",1121456645,2,1.5,2,"Euro Pale Lager",3,1.5,"Millennium Starköl",5.2,22068
-"94",10897,"Carlsberg Sverige AB",1278861236,1.5,1,1,"Vienna Lager",1,2.5,"Falcon Bayersky 2.1%",2.1,60000
-"95",10897,"Carlsberg Sverige AB",1280046696,3,2.5,3.5,"Euro Pale Lager",3,3,"Pripps Blå Export",5.2,22070
-"96",10897,"Carlsberg Sverige AB",1252948740,2.5,2.5,3.5,"Euro Pale Lager",3,2.5,"Pripps Blå Export",5.2,22070
-"97",10897,"Carlsberg Sverige AB",1246467412,4.5,3.5,3.5,"Euro Pale Lager",3.5,4,"Pripps Blå Export",5.2,22070
-"98",10897,"Carlsberg Sverige AB",1217189774,3,2.5,3,"Euro Pale Lager",2.5,3,"Pripps Blå Export",5.2,22070
-"99",10897,"Carlsberg Sverige AB",1214152824,2.5,2,3.5,"Euro Pale Lager",3,2.5,"Pripps Blå Export",5.2,22070
-"100",10897,"Carlsberg Sverige AB",1135027287,2.5,2,3.5,"Euro Pale Lager",2,2,"Pripps Blå Export",5.2,22070
-"101",10897,"Carlsberg Sverige AB",1206739482,2.5,2,2.5,"Vienna Lager",2.5,2.5,"Falcon Bayerskt 2,8%",2.8,41842
-"102",10897,"Carlsberg Sverige AB",1268483981,2.5,2,2.5,"Euro Pale Lager",2,2,"Pripps Blå 2,8%",2.8,56763
-"103",10897,"Carlsberg Sverige AB",1101681931,4.5,4,3.5,"Euro Pale Lager",3.5,4,"Pripps 1828",5,2781
-"104",10897,"Carlsberg Sverige AB",1090894890,3.5,3,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
-"105",10897,"Carlsberg Sverige AB",1090660815,3,3,3,"Euro Pale Lager",3.5,3.5,"Pripps 1828",5,2781
-"106",10897,"Carlsberg Sverige AB",1080683528,3,2.5,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
-"107",10897,"Carlsberg Sverige AB",1076823100,4,4,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
-"108",10897,"Carlsberg Sverige AB",1075765643,3.5,3.5,3.5,"Euro Pale Lager",3.5,3.5,"Pripps 1828",5,2781
-"109",10897,"Carlsberg Sverige AB",1074118204,4,3.5,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
-"110",10897,"Carlsberg Sverige AB",1063670778,3.5,3,3,"Euro Pale Lager",3.5,3,"Pripps 1828",5,2781
-"111",10897,"Carlsberg Sverige AB",1050589554,4,4,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
-"112",10897,"Carlsberg Sverige AB",1047308752,3,4,3,"Euro Pale Lager",4,3,"Pripps 1828",5,2781
-"113",10897,"Carlsberg Sverige AB",1013820347,3.5,3.5,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
-"114",10897,"Carlsberg Sverige AB",1091824010,2,2,2,"Czech Pilsener",2.5,2,"Pivko",5,19179
-"115",10897,"Carlsberg Sverige AB",1230948984,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"116",10897,"Carlsberg Sverige AB",1230922994,4,4,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"117",10897,"Carlsberg Sverige AB",1229660823,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"118",10897,"Carlsberg Sverige AB",1228528793,4,3.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"119",10897,"Carlsberg Sverige AB",1228160493,4.5,3.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"120",10897,"Carlsberg Sverige AB",1228011826,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"121",10897,"Carlsberg Sverige AB",1223950713,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"122",10897,"Carlsberg Sverige AB",1221916669,4.5,3.5,3.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"123",10897,"Carlsberg Sverige AB",1220558053,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"124",10897,"Carlsberg Sverige AB",1218507754,5,5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"125",10897,"Carlsberg Sverige AB",1217369900,3.5,3,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"126",10897,"Carlsberg Sverige AB",1215806225,3,3,3.5,"Baltic Porter",3,3,"Carnegie Porter 5,5%",5.5,755
-"127",10897,"Carlsberg Sverige AB",1214544172,3.5,4,3.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"128",10897,"Carlsberg Sverige AB",1213226614,4.5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"129",10897,"Carlsberg Sverige AB",1212874785,3.5,3,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"130",10897,"Carlsberg Sverige AB",1212017962,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"131",10897,"Carlsberg Sverige AB",1211986405,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"132",10897,"Carlsberg Sverige AB",1211087288,3,3,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"133",10897,"Carlsberg Sverige AB",1207010479,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"134",10897,"Carlsberg Sverige AB",1205108056,4.5,2.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"135",10897,"Carlsberg Sverige AB",1204440602,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"136",10897,"Carlsberg Sverige AB",1203408182,4.5,4,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"137",10897,"Carlsberg Sverige AB",1202701949,2,2.5,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 5,5%",5.5,755
-"138",10897,"Carlsberg Sverige AB",1201643820,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"139",10897,"Carlsberg Sverige AB",1201050055,4.5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"140",10897,"Carlsberg Sverige AB",1200621167,5,3.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"141",10897,"Carlsberg Sverige AB",1133138204,4.5,4,4,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"142",10897,"Carlsberg Sverige AB",1199188333,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"143",10897,"Carlsberg Sverige AB",1199187848,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"144",10897,"Carlsberg Sverige AB",1199060365,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"145",10897,"Carlsberg Sverige AB",1198442187,3,3.5,3,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"146",10897,"Carlsberg Sverige AB",1198001088,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"147",10897,"Carlsberg Sverige AB",1197702031,5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"148",10897,"Carlsberg Sverige AB",1194302668,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"149",10897,"Carlsberg Sverige AB",1193501659,4.5,4,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"150",10897,"Carlsberg Sverige AB",1192392018,5,3.5,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"151",10897,"Carlsberg Sverige AB",1191636310,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"152",10897,"Carlsberg Sverige AB",1190919415,3.5,3,4,"Baltic Porter",3.5,3,"Carnegie Porter 5,5%",5.5,755
-"153",10897,"Carlsberg Sverige AB",1190473483,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"154",10897,"Carlsberg Sverige AB",1190147807,4,4.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"155",10897,"Carlsberg Sverige AB",1190012812,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"156",10897,"Carlsberg Sverige AB",1189047645,4,4,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"157",10897,"Carlsberg Sverige AB",1188279611,4.5,4.5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"158",10897,"Carlsberg Sverige AB",1317592557,4,4,3.5,"English Porter",4,3.5,"Carnegie Special 175th Anniversary Porter",8.8,72623
-"159",10897,"Carlsberg Sverige AB",1187659834,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"160",10897,"Carlsberg Sverige AB",1187076561,4.5,2.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"161",10897,"Carlsberg Sverige AB",1183496761,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"162",10897,"Carlsberg Sverige AB",1183475906,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"163",10897,"Carlsberg Sverige AB",1183248858,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"164",10897,"Carlsberg Sverige AB",1183175596,4,4,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"165",10897,"Carlsberg Sverige AB",1182634474,4,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"166",10897,"Carlsberg Sverige AB",1182484411,3,3,2,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"167",10897,"Carlsberg Sverige AB",1115525530,3.5,4,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"168",10897,"Carlsberg Sverige AB",1181029800,4,3.5,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"169",10897,"Carlsberg Sverige AB",1179364366,4,3.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"170",10897,"Carlsberg Sverige AB",1179103214,4,4,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"171",10897,"Carlsberg Sverige AB",1178690536,5,4,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"172",10897,"Carlsberg Sverige AB",1177301855,3.5,3.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"173",10897,"Carlsberg Sverige AB",1176779881,5,5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"174",10897,"Carlsberg Sverige AB",1174940272,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"175",10897,"Carlsberg Sverige AB",1174398100,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"176",10897,"Carlsberg Sverige AB",1082133122,4,4.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"177",10897,"Carlsberg Sverige AB",1173895583,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"178",10897,"Carlsberg Sverige AB",1172024621,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"179",10897,"Carlsberg Sverige AB",1170114103,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"180",10897,"Carlsberg Sverige AB",1169332905,4.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
-"181",10897,"Carlsberg Sverige AB",1168994590,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"182",10897,"Carlsberg Sverige AB",1167437641,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"183",10897,"Carlsberg Sverige AB",1165874903,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"184",10897,"Carlsberg Sverige AB",1164428685,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"185",10897,"Carlsberg Sverige AB",1163295207,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"186",10897,"Carlsberg Sverige AB",1325995232,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"187",10897,"Carlsberg Sverige AB",1163143746,4,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"188",10897,"Carlsberg Sverige AB",1162713741,4,3,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"189",10897,"Carlsberg Sverige AB",1162611638,5,4,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"190",10897,"Carlsberg Sverige AB",1161920781,4.5,4,4.5,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"191",10897,"Carlsberg Sverige AB",1161809900,4.5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"192",10897,"Carlsberg Sverige AB",1159850563,4.5,5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"193",10897,"Carlsberg Sverige AB",1325623516,5,5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"194",10897,"Carlsberg Sverige AB",1159314555,5,5,3,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"195",10897,"Carlsberg Sverige AB",1158806881,4,4,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"196",10897,"Carlsberg Sverige AB",1156552585,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"197",10897,"Carlsberg Sverige AB",1156028944,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"198",10897,"Carlsberg Sverige AB",1153273451,4.5,5,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"199",10897,"Carlsberg Sverige AB",1151618555,5,4.5,5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"200",10897,"Carlsberg Sverige AB",1150004547,3.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"201",10897,"Carlsberg Sverige AB",1123719458,4.5,3.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"202",10897,"Carlsberg Sverige AB",1148629548,5,4.5,3,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"203",10897,"Carlsberg Sverige AB",1148161843,4,3.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"204",10897,"Carlsberg Sverige AB",1147128109,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"205",10897,"Carlsberg Sverige AB",1146496090,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"206",10897,"Carlsberg Sverige AB",1144967937,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"207",10897,"Carlsberg Sverige AB",1144286158,2.5,2.5,3.5,"Baltic Porter",2,2,"Carnegie Porter 5,5%",5.5,755
-"208",10897,"Carlsberg Sverige AB",1144104326,3.5,5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"209",10897,"Carlsberg Sverige AB",1140992580,5,3.5,4.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"210",10897,"Carlsberg Sverige AB",1140868667,3.5,3.5,4.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"211",10897,"Carlsberg Sverige AB",1139607911,4,2.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"212",10897,"Carlsberg Sverige AB",1139093612,4.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
-"213",10897,"Carlsberg Sverige AB",1138722325,5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"214",10897,"Carlsberg Sverige AB",1138239514,4,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"215",10897,"Carlsberg Sverige AB",1138014978,4,4,3,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"216",10897,"Carlsberg Sverige AB",1137280234,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"217",10897,"Carlsberg Sverige AB",1137124228,4,3,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"218",10897,"Carlsberg Sverige AB",1135129382,5,4.5,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"219",10897,"Carlsberg Sverige AB",1135039161,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"220",10897,"Carlsberg Sverige AB",1134243665,4,4.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"221",10897,"Carlsberg Sverige AB",1324536076,4.5,4.5,3.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"222",10897,"Carlsberg Sverige AB",1322808110,4,4,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"223",10897,"Carlsberg Sverige AB",1322703931,3.5,4,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"224",10897,"Carlsberg Sverige AB",1322426459,5,5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"225",10897,"Carlsberg Sverige AB",1320450378,4.5,5,5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"226",10897,"Carlsberg Sverige AB",1317448925,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"227",10897,"Carlsberg Sverige AB",1314914141,4.5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"228",10897,"Carlsberg Sverige AB",1314754664,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"229",10897,"Carlsberg Sverige AB",1130572336,4.5,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"230",10897,"Carlsberg Sverige AB",1129597805,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"231",10897,"Carlsberg Sverige AB",1129498483,2.5,1.5,3.5,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
-"232",10897,"Carlsberg Sverige AB",1129430227,4,3.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"233",10897,"Carlsberg Sverige AB",1129153255,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"234",10897,"Carlsberg Sverige AB",1126488424,5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"235",10897,"Carlsberg Sverige AB",1125289695,4,3.5,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"236",10897,"Carlsberg Sverige AB",1124660694,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"237",10897,"Carlsberg Sverige AB",1123719668,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"238",10897,"Carlsberg Sverige AB",1123030250,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"239",10897,"Carlsberg Sverige AB",1120923338,5,5,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"240",10897,"Carlsberg Sverige AB",1119998938,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"241",10897,"Carlsberg Sverige AB",1119394490,2.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
-"242",10897,"Carlsberg Sverige AB",1118709733,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"243",10897,"Carlsberg Sverige AB",1117854669,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"244",10897,"Carlsberg Sverige AB",1117162987,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"245",10897,"Carlsberg Sverige AB",1116177548,5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"246",10897,"Carlsberg Sverige AB",1115339108,4,3.5,3.5,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
-"247",10897,"Carlsberg Sverige AB",1115138557,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"248",10897,"Carlsberg Sverige AB",1114557685,5,4,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"249",10897,"Carlsberg Sverige AB",1114528760,4.5,3.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"250",10897,"Carlsberg Sverige AB",1114527272,3.5,4,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"251",10897,"Carlsberg Sverige AB",1114381852,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"252",10897,"Carlsberg Sverige AB",1113793293,3.5,4,2.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"253",10897,"Carlsberg Sverige AB",1112565081,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"254",10897,"Carlsberg Sverige AB",1111158251,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"255",10897,"Carlsberg Sverige AB",1110227396,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"256",10897,"Carlsberg Sverige AB",1110145301,3.5,3.5,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"257",10897,"Carlsberg Sverige AB",1109343823,4.5,4.5,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"258",10897,"Carlsberg Sverige AB",1108783837,4,3.5,4,"Baltic Porter",4.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"259",10897,"Carlsberg Sverige AB",1108609743,4,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"260",10897,"Carlsberg Sverige AB",1105924404,4,4.5,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"261",10897,"Carlsberg Sverige AB",1105495011,4.5,4.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"262",10897,"Carlsberg Sverige AB",1105059148,3.5,4.5,4,"Baltic Porter",3,4.5,"Carnegie Porter 5,5%",5.5,755
-"263",10897,"Carlsberg Sverige AB",1102839650,3.5,4.5,2.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"264",10897,"Carlsberg Sverige AB",1081887137,4.5,4.5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"265",10897,"Carlsberg Sverige AB",1102472647,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"266",10897,"Carlsberg Sverige AB",1102115560,4,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"267",10897,"Carlsberg Sverige AB",1101252668,4,4.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"268",10897,"Carlsberg Sverige AB",1100664908,4,4,3,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"269",10897,"Carlsberg Sverige AB",1100631589,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"270",10897,"Carlsberg Sverige AB",1100481423,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"271",10897,"Carlsberg Sverige AB",1098651309,4.5,4,4.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"272",10897,"Carlsberg Sverige AB",1094072814,3,2.5,4,"Baltic Porter",2,2.5,"Carnegie Porter 5,5%",5.5,755
-"273",10897,"Carlsberg Sverige AB",1081310196,4,4.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"274",10897,"Carlsberg Sverige AB",1093370135,4,3.5,3,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"275",10897,"Carlsberg Sverige AB",1092450773,4.5,3.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"276",10897,"Carlsberg Sverige AB",1091905865,4,4,4.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"277",10897,"Carlsberg Sverige AB",1091379778,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"278",10897,"Carlsberg Sverige AB",1090298532,5,5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"279",10897,"Carlsberg Sverige AB",1089244441,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"280",10897,"Carlsberg Sverige AB",1085184674,5,4.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"281",10897,"Carlsberg Sverige AB",1082785091,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"282",10897,"Carlsberg Sverige AB",1082525690,4.5,4.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"283",10897,"Carlsberg Sverige AB",1081220892,4.5,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"284",10897,"Carlsberg Sverige AB",1078168164,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"285",10897,"Carlsberg Sverige AB",1078072768,4.5,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"286",10897,"Carlsberg Sverige AB",1076890323,3.5,4,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"287",10897,"Carlsberg Sverige AB",1076290803,3.5,4,3.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"288",10897,"Carlsberg Sverige AB",1075879256,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"289",10897,"Carlsberg Sverige AB",1075247818,5,4.5,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"290",10897,"Carlsberg Sverige AB",1073196315,3.5,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"291",10897,"Carlsberg Sverige AB",1073067903,4.5,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"292",10897,"Carlsberg Sverige AB",1070925187,4.5,4.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"293",10897,"Carlsberg Sverige AB",1068333980,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"294",10897,"Carlsberg Sverige AB",1066968002,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"295",10897,"Carlsberg Sverige AB",1066514633,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"296",10897,"Carlsberg Sverige AB",1066220250,3,2.5,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"297",10897,"Carlsberg Sverige AB",1066181259,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"298",10897,"Carlsberg Sverige AB",1065992556,4.5,5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"299",10897,"Carlsberg Sverige AB",1065849794,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"300",10897,"Carlsberg Sverige AB",1063915053,5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"301",10897,"Carlsberg Sverige AB",1062289996,3.5,3,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"302",10897,"Carlsberg Sverige AB",1059845440,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"303",10897,"Carlsberg Sverige AB",1058543669,4.5,4.5,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"304",10897,"Carlsberg Sverige AB",1057273449,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"305",10897,"Carlsberg Sverige AB",1057223173,4,4,5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"306",10897,"Carlsberg Sverige AB",1056184506,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"307",10897,"Carlsberg Sverige AB",1055189855,5,4.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"308",10897,"Carlsberg Sverige AB",1053120282,4.5,3.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"309",10897,"Carlsberg Sverige AB",1052655638,4.5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"310",10897,"Carlsberg Sverige AB",1052241596,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"311",10897,"Carlsberg Sverige AB",1051556201,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"312",10897,"Carlsberg Sverige AB",1051201252,5,5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"313",10897,"Carlsberg Sverige AB",1021585636,4.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"314",10897,"Carlsberg Sverige AB",1050877353,4,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"315",10897,"Carlsberg Sverige AB",1049967988,4,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"316",10897,"Carlsberg Sverige AB",1049307237,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"317",10897,"Carlsberg Sverige AB",1048576831,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"318",10897,"Carlsberg Sverige AB",1047949225,4.5,4.5,4.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"319",10897,"Carlsberg Sverige AB",1044374265,4.5,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"320",10897,"Carlsberg Sverige AB",1044176008,4,5,4.5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"321",10897,"Carlsberg Sverige AB",1043784041,4,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"322",10897,"Carlsberg Sverige AB",1042833477,3.5,2.5,4,"Baltic Porter",2.5,2.5,"Carnegie Porter 5,5%",5.5,755
-"323",10897,"Carlsberg Sverige AB",1041445244,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"324",10897,"Carlsberg Sverige AB",1041018947,4,3.5,3,"Baltic Porter",2.5,4,"Carnegie Porter 5,5%",5.5,755
-"325",10897,"Carlsberg Sverige AB",1040775480,5,4,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"326",10897,"Carlsberg Sverige AB",1039718841,4,4.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"327",10897,"Carlsberg Sverige AB",1314743696,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"328",10897,"Carlsberg Sverige AB",1314337988,4,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"329",10897,"Carlsberg Sverige AB",1312555955,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"330",10897,"Carlsberg Sverige AB",1312343396,4.5,4,4,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"331",10897,"Carlsberg Sverige AB",1312175651,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"332",10897,"Carlsberg Sverige AB",1021335140,5,4,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"333",10897,"Carlsberg Sverige AB",1311737913,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"334",10897,"Carlsberg Sverige AB",1310661090,3,3.5,2.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"335",10897,"Carlsberg Sverige AB",1309354689,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"336",10897,"Carlsberg Sverige AB",1308691148,4,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"337",10897,"Carlsberg Sverige AB",1308014000,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"338",10897,"Carlsberg Sverige AB",1038761854,4,5,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"339",10897,"Carlsberg Sverige AB",1037135655,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"340",10897,"Carlsberg Sverige AB",1037012094,4,3.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"341",10897,"Carlsberg Sverige AB",1034791489,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"342",10897,"Carlsberg Sverige AB",1027586046,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"343",10897,"Carlsberg Sverige AB",1019850999,4.5,4.5,3.5,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"344",10897,"Carlsberg Sverige AB",1018203565,3,3.5,2.5,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
-"345",10897,"Carlsberg Sverige AB",1018103432,5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"346",10897,"Carlsberg Sverige AB",1013977952,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"347",10897,"Carlsberg Sverige AB",1010613141,4,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"348",10897,"Carlsberg Sverige AB",981280106,5,5,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"349",10897,"Carlsberg Sverige AB",1306942199,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"350",10897,"Carlsberg Sverige AB",1306610630,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"351",10897,"Carlsberg Sverige AB",1304654747,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"352",10897,"Carlsberg Sverige AB",1300902245,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"353",10897,"Carlsberg Sverige AB",1299699206,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"354",10897,"Carlsberg Sverige AB",1298690226,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"355",10897,"Carlsberg Sverige AB",1297815231,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"356",10897,"Carlsberg Sverige AB",1297488214,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"357",10897,"Carlsberg Sverige AB",1297479452,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"358",10897,"Carlsberg Sverige AB",1297134540,4.5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"359",10897,"Carlsberg Sverige AB",1296282533,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"360",10897,"Carlsberg Sverige AB",1295328791,4,3.5,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
-"361",10897,"Carlsberg Sverige AB",1295326626,4,2.5,4,"Baltic Porter",3.5,2,"Carnegie Porter 5,5%",5.5,755
-"362",10897,"Carlsberg Sverige AB",1295202488,4,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"363",10897,"Carlsberg Sverige AB",1293975642,4.5,3.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"364",10897,"Carlsberg Sverige AB",1293238384,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"365",10897,"Carlsberg Sverige AB",1290652508,5,4.5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"366",10897,"Carlsberg Sverige AB",1290577793,4.5,4,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"367",10897,"Carlsberg Sverige AB",1244416943,4,4.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"368",10897,"Carlsberg Sverige AB",1290298160,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"369",10897,"Carlsberg Sverige AB",1289968807,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"370",10897,"Carlsberg Sverige AB",1288743160,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"371",10897,"Carlsberg Sverige AB",1287952228,3.5,3.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"372",10897,"Carlsberg Sverige AB",1287632578,4.5,4.5,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"373",10897,"Carlsberg Sverige AB",1286249260,3,3.5,4,"Baltic Porter",2.5,3.5,"Carnegie Porter 5,5%",5.5,755
-"374",10897,"Carlsberg Sverige AB",1285460711,5,5,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"375",10897,"Carlsberg Sverige AB",1284812248,3,2.5,3,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
-"376",10897,"Carlsberg Sverige AB",1235615609,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"377",10897,"Carlsberg Sverige AB",1282780795,4,3.5,5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"378",10897,"Carlsberg Sverige AB",1281663712,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"379",10897,"Carlsberg Sverige AB",1279898182,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"380",10897,"Carlsberg Sverige AB",1277599188,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"381",10897,"Carlsberg Sverige AB",1276978461,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"382",10897,"Carlsberg Sverige AB",1276565830,3,3.5,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"383",10897,"Carlsberg Sverige AB",1274676406,4,4,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"384",10897,"Carlsberg Sverige AB",1271871435,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"385",10897,"Carlsberg Sverige AB",1270006547,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"386",10897,"Carlsberg Sverige AB",1268514570,4.5,4,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"387",10897,"Carlsberg Sverige AB",1234225320,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"388",10897,"Carlsberg Sverige AB",1268030332,5,4,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"389",10897,"Carlsberg Sverige AB",1266162533,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"390",10897,"Carlsberg Sverige AB",1265067845,4,4.5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"391",10897,"Carlsberg Sverige AB",1264355321,4.5,4.5,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"392",10897,"Carlsberg Sverige AB",1263703588,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
-"393",10897,"Carlsberg Sverige AB",1262033420,4.5,3,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"394",10897,"Carlsberg Sverige AB",1259360801,4,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"395",10897,"Carlsberg Sverige AB",1255665045,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
-"396",10897,"Carlsberg Sverige AB",1233275559,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"397",10897,"Carlsberg Sverige AB",1255409828,5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"398",10897,"Carlsberg Sverige AB",1254761073,4,3.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"399",10897,"Carlsberg Sverige AB",1254339638,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
-"400",10897,"Carlsberg Sverige AB",1252437311,4.5,4,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"401",10897,"Carlsberg Sverige AB",1250916322,4,3.5,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
-"402",10897,"Carlsberg Sverige AB",1250340022,3.5,3.5,4,"Baltic Porter",3,3,"Carnegie Porter 5,5%",5.5,755
-"403",10897,"Carlsberg Sverige AB",1250212507,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"404",10897,"Carlsberg Sverige AB",1248193660,4,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
-"405",10897,"Carlsberg Sverige AB",1241363592,4.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
-"406",10897,"Carlsberg Sverige AB",1241228961,4.5,4.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
-"407",10897,"Carlsberg Sverige AB",1239076740,4.5,3,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"408",10897,"Carlsberg Sverige AB",1238910695,5,4,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"409",10897,"Carlsberg Sverige AB",1238516298,5,4.5,3.5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
-"410",10897,"Carlsberg Sverige AB",1238448133,4,4.5,3,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
-"411",10897,"Carlsberg Sverige AB",1238245979,4,4,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"412",10897,"Carlsberg Sverige AB",1232306047,3.5,4,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
-"413",10897,"Carlsberg Sverige AB",1232233685,4,5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
-"414",10897,"Carlsberg Sverige AB",1231469489,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
-"415",10897,"Carlsberg Sverige AB",1135277447,2.5,2,2,"Light Lager",2.5,2,"Pripps Blå Light 4,8%",4.8,22073
-"416",10897,"Carlsberg Sverige AB",1137962567,2.5,2.5,2.5,"Vienna Lager",2,2,"Falcon Juöl 3,5%",3.5,27553
-"417",10897,"Carlsberg Sverige AB",1210524143,2,2,2,"Light Lager",3,2,"Falcon Lite 3,5%",3.5,42598
-"418",10897,"Carlsberg Sverige AB",1128201115,3.5,3,4,"Euro Pale Lager",3,3,"Falcon Beer",2.8,26008
-"419",10897,"Carlsberg Sverige AB",1294426732,3.5,3.5,3.5,"Dortmunder / Export Lager",4.5,3.5,"Sarek",5.2,28989
-"420",10897,"Carlsberg Sverige AB",1241102543,1.5,1.5,1.5,"Dortmunder / Export Lager",2,1.5,"Sarek",5.2,28989
-"421",10897,"Carlsberg Sverige AB",1145745553,4,3.5,4,"Dortmunder / Export Lager",4,3.5,"Sarek",5.2,28989
-"422",10897,"Carlsberg Sverige AB",1325970188,3.5,3.5,3.5,"English Porter",3.5,3.5,"Carnegie Special 175th Anniversary Porter",8.8,72623
-"423",10897,"Carlsberg Sverige AB",1320777057,4,3.5,4.5,"English Porter",4.5,4,"Carnegie Special 175th Anniversary Porter",8.8,72623
-"424",10897,"Carlsberg Sverige AB",1211133823,2,3,3,"Light Lager",3,3.5,"Carlsberg Lite 3,5%",3.5,42755
-"425",10897,"Carlsberg Sverige AB",1312926463,2.5,2,3.5,"Euro Pale Lager",2.5,2.5,"Pripps Blå Lättöl",2.2,22593
-"426",10897,"Carlsberg Sverige AB",1278185695,3.5,1.5,1.5,"Euro Pale Lager",1,3,"Pripps Blå Lättöl",2.2,22593
-"427",10897,"Carlsberg Sverige AB",1266158858,2.5,1.5,2.5,"Euro Pale Lager",2,2,"Pripps Blå Lättöl",2.2,22593
-"428",10897,"Carlsberg Sverige AB",1190719873,2,2.5,2.5,"Euro Pale Lager",2,2,"Pripps Blå Lättöl",2.2,22593
-"429",10897,"Carlsberg Sverige AB",1126470796,3,2.5,3,"Euro Pale Lager",3,2.5,"Pripps Blå Lättöl",2.2,22593
-"430",10897,"Carlsberg Sverige AB",1111263425,2.5,2,2.5,"Euro Pale Lager",2.5,2,"Pripps Blå Lättöl",2.2,22593
-"431",10897,"Carlsberg Sverige AB",1318873770,3,3,3.5,"German Pilsener",3.5,3,"Falcon Pilsener",4.8,70570
-"432",10897,"Carlsberg Sverige AB",1318794498,3.5,4,4,"German Pilsener",4,3,"Falcon Pilsener",4.8,70570
-"433",10897,"Carlsberg Sverige AB",1318693029,3.5,3,3,"German Pilsener",3.5,4,"Falcon Pilsener",4.8,70570
-"434",10897,"Carlsberg Sverige AB",1111506734,3.5,3,3.5,"Vienna Lager",3,3.5,"Falcon Bayerskt Lättöl",2.1,22667
-"435",10897,"Carlsberg Sverige AB",1244744460,3.5,3.5,3.5,"Euro Pale Lager",3.5,3,"Eriksberg Sommarbrygd",5.3,49335
-"436",10897,"Carlsberg Sverige AB",1278947942,1.5,2,2,"Light Lager",1.5,2,"Pripps Blå Pure 4,8%",4.8,28988
-"437",10897,"Carlsberg Sverige AB",1150750243,1.5,3.5,2,"Light Lager",1.5,2,"Pripps Blå Pure 4,8%",4.8,28988
-"438",10897,"Carlsberg Sverige AB",1149041486,1.5,1.5,2,"Light Lager",1.5,1.5,"Pripps Blå Pure 4,8%",4.8,28988
-"439",10897,"Carlsberg Sverige AB",1145819546,1.5,1.5,2,"Light Lager",2,1.5,"Pripps Blå Pure 4,8%",4.8,28988
-"440",10897,"Carlsberg Sverige AB",1144336269,2,2,2.5,"Light Lager",2,2,"Pripps Blå Pure 4,8%",4.8,28988
+"1",10897,"Carlsberg Sverige AB",1265386263,2.5,2,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
+"2",10897,"Carlsberg Sverige AB",1304643319,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"3",10897,"Carlsberg Sverige AB",1247602511,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"4",10897,"Carlsberg Sverige AB",1246155267,4,4.5,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"5",10897,"Carlsberg Sverige AB",1244927864,3,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"6",10897,"Carlsberg Sverige AB",1319288110,2.5,2,3,"Euro Pale Lager",3,2.5,"BlåGul",5.2,22059
+"7",10897,"Carlsberg Sverige AB",1295634654,2,1.5,3.5,"Euro Pale Lager",2.5,1.5,"BlåGul",5.2,22059
+"8",10897,"Carlsberg Sverige AB",1274386011,3,2.5,3.5,"Euro Pale Lager",3,3,"BlåGul",5.2,22059
+"9",10897,"Carlsberg Sverige AB",1213240214,2.5,2,2,"Euro Pale Lager",2,2,"BlåGul",5.2,22059
+"10",10897,"Carlsberg Sverige AB",1122153076,2,2,2,"Euro Pale Lager",2,1.5,"BlåGul",5.2,22059
+"11",10897,"Carlsberg Sverige AB",1307547795,3,3,3.5,"Euro Pale Lager",3.5,3,"Falcon Export",5.2,22063
+"12",10897,"Carlsberg Sverige AB",1292220640,4,3,3.5,"Euro Pale Lager",3,3.5,"Falcon Export",5.2,22063
+"13",10897,"Carlsberg Sverige AB",1261169165,2.5,2,3,"Euro Pale Lager",2,2.5,"Falcon Export",5.2,22063
+"14",10897,"Carlsberg Sverige AB",1260481575,2.5,1,2.5,"Euro Pale Lager",1.5,2,"Falcon Export",5.2,22063
+"15",10897,"Carlsberg Sverige AB",1255551832,3,3,2.5,"Euro Pale Lager",2.5,2.5,"Falcon Export",5.2,22063
+"16",10897,"Carlsberg Sverige AB",1238263643,4.5,3,3,"Euro Pale Lager",4,4,"Falcon Export",5.2,22063
+"17",10897,"Carlsberg Sverige AB",1149803468,3,2.5,2.5,"Euro Pale Lager",2,2.5,"Falcon Export",5.2,22063
+"18",10897,"Carlsberg Sverige AB",1122064991,3,2,2,"Euro Pale Lager",3.5,2,"Falcon Export",5.2,22063
+"19",10897,"Carlsberg Sverige AB",1319665776,2.5,2.5,3,"Euro Pale Lager",2.5,2.5,"Eriksberg",5.3,22061
+"20",10897,"Carlsberg Sverige AB",1304428585,3.5,3,3,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
+"21",10897,"Carlsberg Sverige AB",1296237190,2.5,2.5,2.5,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
+"22",10897,"Carlsberg Sverige AB",1289160110,3.5,4,3,"Euro Pale Lager",4,4,"Eriksberg",5.3,22061
+"23",10897,"Carlsberg Sverige AB",1278270924,2.5,2.5,3,"Euro Pale Lager",2,2.5,"Eriksberg",5.3,22061
+"24",10897,"Carlsberg Sverige AB",1232912034,2.5,4,3.5,"Euro Pale Lager",3,3,"Eriksberg",5.3,22061
+"25",10897,"Carlsberg Sverige AB",1278862437,1,2.5,1,"Baltic Porter",1.5,1.5,"Carnegie Porter 3,5%",3.5,22322
+"26",10897,"Carlsberg Sverige AB",1260590361,3,3,3,"Baltic Porter",3,3,"Carnegie Porter 3,5%",3.5,22322
+"27",10897,"Carlsberg Sverige AB",1249470186,3,2.5,4,"Baltic Porter",3.5,2.5,"Carnegie Porter 3,5%",3.5,22322
+"28",10897,"Carlsberg Sverige AB",1222622794,3.5,3,3.5,"Baltic Porter",2.5,3,"Carnegie Porter 3,5%",3.5,22322
+"29",10897,"Carlsberg Sverige AB",1214494586,3,2,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
+"30",10897,"Carlsberg Sverige AB",1173299079,3,3.5,4,"Baltic Porter",2.5,3,"Carnegie Porter 3,5%",3.5,22322
+"31",10897,"Carlsberg Sverige AB",1109885474,2,3,2.5,"Baltic Porter",2.5,2.5,"Carnegie Porter 3,5%",3.5,22322
+"32",10897,"Carlsberg Sverige AB",1280046696,3,2.5,3.5,"Euro Pale Lager",3,3,"Pripps Blå Export",5.2,22070
+"33",10897,"Carlsberg Sverige AB",1252948740,2.5,2.5,3.5,"Euro Pale Lager",3,2.5,"Pripps Blå Export",5.2,22070
+"34",10897,"Carlsberg Sverige AB",1246467412,4.5,3.5,3.5,"Euro Pale Lager",3.5,4,"Pripps Blå Export",5.2,22070
+"35",10897,"Carlsberg Sverige AB",1217189774,3,2.5,3,"Euro Pale Lager",2.5,3,"Pripps Blå Export",5.2,22070
+"36",10897,"Carlsberg Sverige AB",1214152824,2.5,2,3.5,"Euro Pale Lager",3,2.5,"Pripps Blå Export",5.2,22070
+"37",10897,"Carlsberg Sverige AB",1135027287,2.5,2,3.5,"Euro Pale Lager",2,2,"Pripps Blå Export",5.2,22070
+"38",10897,"Carlsberg Sverige AB",1101681931,4.5,4,3.5,"Euro Pale Lager",3.5,4,"Pripps 1828",5,2781
+"39",10897,"Carlsberg Sverige AB",1090894890,3.5,3,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
+"40",10897,"Carlsberg Sverige AB",1090660815,3,3,3,"Euro Pale Lager",3.5,3.5,"Pripps 1828",5,2781
+"41",10897,"Carlsberg Sverige AB",1080683528,3,2.5,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
+"42",10897,"Carlsberg Sverige AB",1076823100,4,4,3,"Euro Pale Lager",3,3.5,"Pripps 1828",5,2781
+"43",10897,"Carlsberg Sverige AB",1075765643,3.5,3.5,3.5,"Euro Pale Lager",3.5,3.5,"Pripps 1828",5,2781
+"44",10897,"Carlsberg Sverige AB",1074118204,4,3.5,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
+"45",10897,"Carlsberg Sverige AB",1063670778,3.5,3,3,"Euro Pale Lager",3.5,3,"Pripps 1828",5,2781
+"46",10897,"Carlsberg Sverige AB",1050589554,4,4,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
+"47",10897,"Carlsberg Sverige AB",1047308752,3,4,3,"Euro Pale Lager",4,3,"Pripps 1828",5,2781
+"48",10897,"Carlsberg Sverige AB",1013820347,3.5,3.5,3.5,"Euro Pale Lager",4,4,"Pripps 1828",5,2781
+"49",10897,"Carlsberg Sverige AB",1230948984,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"50",10897,"Carlsberg Sverige AB",1230922994,4,4,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"51",10897,"Carlsberg Sverige AB",1229660823,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"52",10897,"Carlsberg Sverige AB",1228528793,4,3.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"53",10897,"Carlsberg Sverige AB",1228160493,4.5,3.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"54",10897,"Carlsberg Sverige AB",1228011826,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"55",10897,"Carlsberg Sverige AB",1223950713,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"56",10897,"Carlsberg Sverige AB",1221916669,4.5,3.5,3.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"57",10897,"Carlsberg Sverige AB",1220558053,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"58",10897,"Carlsberg Sverige AB",1218507754,5,5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"59",10897,"Carlsberg Sverige AB",1217369900,3.5,3,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"60",10897,"Carlsberg Sverige AB",1215806225,3,3,3.5,"Baltic Porter",3,3,"Carnegie Porter 5,5%",5.5,755
+"61",10897,"Carlsberg Sverige AB",1214544172,3.5,4,3.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"62",10897,"Carlsberg Sverige AB",1213226614,4.5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"63",10897,"Carlsberg Sverige AB",1212874785,3.5,3,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"64",10897,"Carlsberg Sverige AB",1212017962,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"65",10897,"Carlsberg Sverige AB",1211986405,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"66",10897,"Carlsberg Sverige AB",1211087288,3,3,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"67",10897,"Carlsberg Sverige AB",1207010479,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"68",10897,"Carlsberg Sverige AB",1205108056,4.5,2.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"69",10897,"Carlsberg Sverige AB",1204440602,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"70",10897,"Carlsberg Sverige AB",1203408182,4.5,4,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"71",10897,"Carlsberg Sverige AB",1202701949,2,2.5,3,"Baltic Porter",2.5,2.5,"Carnegie Porter 5,5%",5.5,755
+"72",10897,"Carlsberg Sverige AB",1201643820,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"73",10897,"Carlsberg Sverige AB",1201050055,4.5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"74",10897,"Carlsberg Sverige AB",1200621167,5,3.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"75",10897,"Carlsberg Sverige AB",1133138204,4.5,4,4,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"76",10897,"Carlsberg Sverige AB",1199188333,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"77",10897,"Carlsberg Sverige AB",1199187848,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"78",10897,"Carlsberg Sverige AB",1199060365,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"79",10897,"Carlsberg Sverige AB",1198442187,3,3.5,3,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"80",10897,"Carlsberg Sverige AB",1198001088,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"81",10897,"Carlsberg Sverige AB",1197702031,5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"82",10897,"Carlsberg Sverige AB",1194302668,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"83",10897,"Carlsberg Sverige AB",1193501659,4.5,4,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"84",10897,"Carlsberg Sverige AB",1192392018,5,3.5,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"85",10897,"Carlsberg Sverige AB",1191636310,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"86",10897,"Carlsberg Sverige AB",1190919415,3.5,3,4,"Baltic Porter",3.5,3,"Carnegie Porter 5,5%",5.5,755
+"87",10897,"Carlsberg Sverige AB",1190473483,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"88",10897,"Carlsberg Sverige AB",1190147807,4,4.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"89",10897,"Carlsberg Sverige AB",1190012812,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"90",10897,"Carlsberg Sverige AB",1189047645,4,4,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"91",10897,"Carlsberg Sverige AB",1188279611,4.5,4.5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"92",10897,"Carlsberg Sverige AB",1187659834,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"93",10897,"Carlsberg Sverige AB",1187076561,4.5,2.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"94",10897,"Carlsberg Sverige AB",1183496761,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"95",10897,"Carlsberg Sverige AB",1183475906,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"96",10897,"Carlsberg Sverige AB",1183248858,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"97",10897,"Carlsberg Sverige AB",1183175596,4,4,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"98",10897,"Carlsberg Sverige AB",1182634474,4,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"99",10897,"Carlsberg Sverige AB",1182484411,3,3,2,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"100",10897,"Carlsberg Sverige AB",1115525530,3.5,4,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"101",10897,"Carlsberg Sverige AB",1181029800,4,3.5,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"102",10897,"Carlsberg Sverige AB",1179364366,4,3.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"103",10897,"Carlsberg Sverige AB",1179103214,4,4,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"104",10897,"Carlsberg Sverige AB",1178690536,5,4,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"105",10897,"Carlsberg Sverige AB",1177301855,3.5,3.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"106",10897,"Carlsberg Sverige AB",1176779881,5,5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"107",10897,"Carlsberg Sverige AB",1174940272,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"108",10897,"Carlsberg Sverige AB",1174398100,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"109",10897,"Carlsberg Sverige AB",1082133122,4,4.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"110",10897,"Carlsberg Sverige AB",1173895583,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"111",10897,"Carlsberg Sverige AB",1172024621,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"112",10897,"Carlsberg Sverige AB",1170114103,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"113",10897,"Carlsberg Sverige AB",1169332905,4.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
+"114",10897,"Carlsberg Sverige AB",1168994590,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"115",10897,"Carlsberg Sverige AB",1167437641,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"116",10897,"Carlsberg Sverige AB",1165874903,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"117",10897,"Carlsberg Sverige AB",1164428685,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"118",10897,"Carlsberg Sverige AB",1163295207,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"119",10897,"Carlsberg Sverige AB",1325995232,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"120",10897,"Carlsberg Sverige AB",1163143746,4,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"121",10897,"Carlsberg Sverige AB",1162713741,4,3,4.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"122",10897,"Carlsberg Sverige AB",1162611638,5,4,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"123",10897,"Carlsberg Sverige AB",1161920781,4.5,4,4.5,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"124",10897,"Carlsberg Sverige AB",1161809900,4.5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"125",10897,"Carlsberg Sverige AB",1159850563,4.5,5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"126",10897,"Carlsberg Sverige AB",1325623516,5,5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"127",10897,"Carlsberg Sverige AB",1159314555,5,5,3,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"128",10897,"Carlsberg Sverige AB",1158806881,4,4,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"129",10897,"Carlsberg Sverige AB",1156552585,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"130",10897,"Carlsberg Sverige AB",1156028944,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"131",10897,"Carlsberg Sverige AB",1153273451,4.5,5,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"132",10897,"Carlsberg Sverige AB",1151618555,5,4.5,5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"133",10897,"Carlsberg Sverige AB",1150004547,3.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"134",10897,"Carlsberg Sverige AB",1123719458,4.5,3.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"135",10897,"Carlsberg Sverige AB",1148629548,5,4.5,3,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"136",10897,"Carlsberg Sverige AB",1148161843,4,3.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"137",10897,"Carlsberg Sverige AB",1147128109,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"138",10897,"Carlsberg Sverige AB",1146496090,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"139",10897,"Carlsberg Sverige AB",1144967937,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"140",10897,"Carlsberg Sverige AB",1144286158,2.5,2.5,3.5,"Baltic Porter",2,2,"Carnegie Porter 5,5%",5.5,755
+"141",10897,"Carlsberg Sverige AB",1144104326,3.5,5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"142",10897,"Carlsberg Sverige AB",1140992580,5,3.5,4.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"143",10897,"Carlsberg Sverige AB",1140868667,3.5,3.5,4.5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"144",10897,"Carlsberg Sverige AB",1139607911,4,2.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"145",10897,"Carlsberg Sverige AB",1139093612,4.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
+"146",10897,"Carlsberg Sverige AB",1138722325,5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"147",10897,"Carlsberg Sverige AB",1138239514,4,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"148",10897,"Carlsberg Sverige AB",1138014978,4,4,3,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"149",10897,"Carlsberg Sverige AB",1137280234,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"150",10897,"Carlsberg Sverige AB",1137124228,4,3,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"151",10897,"Carlsberg Sverige AB",1135129382,5,4.5,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"152",10897,"Carlsberg Sverige AB",1135039161,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"153",10897,"Carlsberg Sverige AB",1134243665,4,4.5,4,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"154",10897,"Carlsberg Sverige AB",1324536076,4.5,4.5,3.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"155",10897,"Carlsberg Sverige AB",1322808110,4,4,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"156",10897,"Carlsberg Sverige AB",1322703931,3.5,4,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"157",10897,"Carlsberg Sverige AB",1322426459,5,5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"158",10897,"Carlsberg Sverige AB",1320450378,4.5,5,5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"159",10897,"Carlsberg Sverige AB",1317448925,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"160",10897,"Carlsberg Sverige AB",1314914141,4.5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"161",10897,"Carlsberg Sverige AB",1314754664,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"162",10897,"Carlsberg Sverige AB",1130572336,4.5,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"163",10897,"Carlsberg Sverige AB",1129597805,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"164",10897,"Carlsberg Sverige AB",1129498483,2.5,1.5,3.5,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
+"165",10897,"Carlsberg Sverige AB",1129430227,4,3.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"166",10897,"Carlsberg Sverige AB",1129153255,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"167",10897,"Carlsberg Sverige AB",1126488424,5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"168",10897,"Carlsberg Sverige AB",1125289695,4,3.5,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"169",10897,"Carlsberg Sverige AB",1124660694,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"170",10897,"Carlsberg Sverige AB",1123719668,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"171",10897,"Carlsberg Sverige AB",1123030250,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"172",10897,"Carlsberg Sverige AB",1120923338,5,5,4.5,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"173",10897,"Carlsberg Sverige AB",1119998938,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"174",10897,"Carlsberg Sverige AB",1119394490,2.5,4,4,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
+"175",10897,"Carlsberg Sverige AB",1118709733,4,4.5,3.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"176",10897,"Carlsberg Sverige AB",1117854669,4,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"177",10897,"Carlsberg Sverige AB",1117162987,4,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"178",10897,"Carlsberg Sverige AB",1116177548,5,3.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"179",10897,"Carlsberg Sverige AB",1115339108,4,3.5,3.5,"Baltic Porter",4,3,"Carnegie Porter 5,5%",5.5,755
+"180",10897,"Carlsberg Sverige AB",1115138557,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"181",10897,"Carlsberg Sverige AB",1114557685,5,4,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"182",10897,"Carlsberg Sverige AB",1114528760,4.5,3.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"183",10897,"Carlsberg Sverige AB",1114527272,3.5,4,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"184",10897,"Carlsberg Sverige AB",1114381852,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"185",10897,"Carlsberg Sverige AB",1113793293,3.5,4,2.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"186",10897,"Carlsberg Sverige AB",1112565081,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"187",10897,"Carlsberg Sverige AB",1111158251,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"188",10897,"Carlsberg Sverige AB",1110227396,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"189",10897,"Carlsberg Sverige AB",1110145301,3.5,3.5,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"190",10897,"Carlsberg Sverige AB",1109343823,4.5,4.5,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"191",10897,"Carlsberg Sverige AB",1108783837,4,3.5,4,"Baltic Porter",4.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"192",10897,"Carlsberg Sverige AB",1108609743,4,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"193",10897,"Carlsberg Sverige AB",1105924404,4,4.5,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"194",10897,"Carlsberg Sverige AB",1105495011,4.5,4.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"195",10897,"Carlsberg Sverige AB",1105059148,3.5,4.5,4,"Baltic Porter",3,4.5,"Carnegie Porter 5,5%",5.5,755
+"196",10897,"Carlsberg Sverige AB",1102839650,3.5,4.5,2.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"197",10897,"Carlsberg Sverige AB",1081887137,4.5,4.5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"198",10897,"Carlsberg Sverige AB",1102472647,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"199",10897,"Carlsberg Sverige AB",1102115560,4,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"200",10897,"Carlsberg Sverige AB",1101252668,4,4.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"201",10897,"Carlsberg Sverige AB",1100664908,4,4,3,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"202",10897,"Carlsberg Sverige AB",1100631589,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"203",10897,"Carlsberg Sverige AB",1100481423,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"204",10897,"Carlsberg Sverige AB",1098651309,4.5,4,4.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"205",10897,"Carlsberg Sverige AB",1094072814,3,2.5,4,"Baltic Porter",2,2.5,"Carnegie Porter 5,5%",5.5,755
+"206",10897,"Carlsberg Sverige AB",1081310196,4,4.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"207",10897,"Carlsberg Sverige AB",1093370135,4,3.5,3,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"208",10897,"Carlsberg Sverige AB",1092450773,4.5,3.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"209",10897,"Carlsberg Sverige AB",1091905865,4,4,4.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"210",10897,"Carlsberg Sverige AB",1091379778,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"211",10897,"Carlsberg Sverige AB",1090298532,5,5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"212",10897,"Carlsberg Sverige AB",1089244441,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"213",10897,"Carlsberg Sverige AB",1085184674,5,4.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"214",10897,"Carlsberg Sverige AB",1082785091,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"215",10897,"Carlsberg Sverige AB",1082525690,4.5,4.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"216",10897,"Carlsberg Sverige AB",1081220892,4.5,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"217",10897,"Carlsberg Sverige AB",1078168164,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"218",10897,"Carlsberg Sverige AB",1078072768,4.5,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"219",10897,"Carlsberg Sverige AB",1076890323,3.5,4,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"220",10897,"Carlsberg Sverige AB",1076290803,3.5,4,3.5,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"221",10897,"Carlsberg Sverige AB",1075879256,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"222",10897,"Carlsberg Sverige AB",1075247818,5,4.5,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"223",10897,"Carlsberg Sverige AB",1073196315,3.5,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"224",10897,"Carlsberg Sverige AB",1073067903,4.5,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"225",10897,"Carlsberg Sverige AB",1070925187,4.5,4.5,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"226",10897,"Carlsberg Sverige AB",1068333980,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"227",10897,"Carlsberg Sverige AB",1066968002,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"228",10897,"Carlsberg Sverige AB",1066514633,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"229",10897,"Carlsberg Sverige AB",1066220250,3,2.5,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"230",10897,"Carlsberg Sverige AB",1066181259,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"231",10897,"Carlsberg Sverige AB",1065992556,4.5,5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"232",10897,"Carlsberg Sverige AB",1065849794,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"233",10897,"Carlsberg Sverige AB",1063915053,5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"234",10897,"Carlsberg Sverige AB",1062289996,3.5,3,3,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"235",10897,"Carlsberg Sverige AB",1059845440,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"236",10897,"Carlsberg Sverige AB",1058543669,4.5,4.5,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"237",10897,"Carlsberg Sverige AB",1057273449,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"238",10897,"Carlsberg Sverige AB",1057223173,4,4,5,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"239",10897,"Carlsberg Sverige AB",1056184506,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"240",10897,"Carlsberg Sverige AB",1055189855,5,4.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"241",10897,"Carlsberg Sverige AB",1053120282,4.5,3.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"242",10897,"Carlsberg Sverige AB",1052655638,4.5,4,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"243",10897,"Carlsberg Sverige AB",1052241596,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"244",10897,"Carlsberg Sverige AB",1051556201,4,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"245",10897,"Carlsberg Sverige AB",1051201252,5,5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"246",10897,"Carlsberg Sverige AB",1021585636,4.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"247",10897,"Carlsberg Sverige AB",1050877353,4,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"248",10897,"Carlsberg Sverige AB",1049967988,4,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"249",10897,"Carlsberg Sverige AB",1049307237,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"250",10897,"Carlsberg Sverige AB",1048576831,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"251",10897,"Carlsberg Sverige AB",1047949225,4.5,4.5,4.5,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"252",10897,"Carlsberg Sverige AB",1044374265,4.5,4.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"253",10897,"Carlsberg Sverige AB",1044176008,4,5,4.5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"254",10897,"Carlsberg Sverige AB",1043784041,4,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"255",10897,"Carlsberg Sverige AB",1042833477,3.5,2.5,4,"Baltic Porter",2.5,2.5,"Carnegie Porter 5,5%",5.5,755
+"256",10897,"Carlsberg Sverige AB",1041445244,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"257",10897,"Carlsberg Sverige AB",1041018947,4,3.5,3,"Baltic Porter",2.5,4,"Carnegie Porter 5,5%",5.5,755
+"258",10897,"Carlsberg Sverige AB",1040775480,5,4,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"259",10897,"Carlsberg Sverige AB",1039718841,4,4.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"260",10897,"Carlsberg Sverige AB",1314743696,4.5,4.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"261",10897,"Carlsberg Sverige AB",1314337988,4,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"262",10897,"Carlsberg Sverige AB",1312555955,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"263",10897,"Carlsberg Sverige AB",1312343396,4.5,4,4,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"264",10897,"Carlsberg Sverige AB",1312175651,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"265",10897,"Carlsberg Sverige AB",1021335140,5,4,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"266",10897,"Carlsberg Sverige AB",1311737913,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"267",10897,"Carlsberg Sverige AB",1310661090,3,3.5,2.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"268",10897,"Carlsberg Sverige AB",1309354689,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"269",10897,"Carlsberg Sverige AB",1308691148,4,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"270",10897,"Carlsberg Sverige AB",1308014000,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"271",10897,"Carlsberg Sverige AB",1038761854,4,5,5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"272",10897,"Carlsberg Sverige AB",1037135655,4,4.5,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"273",10897,"Carlsberg Sverige AB",1037012094,4,3.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"274",10897,"Carlsberg Sverige AB",1034791489,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"275",10897,"Carlsberg Sverige AB",1027586046,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"276",10897,"Carlsberg Sverige AB",1019850999,4.5,4.5,3.5,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"277",10897,"Carlsberg Sverige AB",1018203565,3,3.5,2.5,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
+"278",10897,"Carlsberg Sverige AB",1018103432,5,4.5,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"279",10897,"Carlsberg Sverige AB",1013977952,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"280",10897,"Carlsberg Sverige AB",1010613141,4,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"281",10897,"Carlsberg Sverige AB",981280106,5,5,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"282",10897,"Carlsberg Sverige AB",1306942199,4,3.5,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"283",10897,"Carlsberg Sverige AB",1306610630,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"284",10897,"Carlsberg Sverige AB",1304654747,4,4.5,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"285",10897,"Carlsberg Sverige AB",1300902245,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"286",10897,"Carlsberg Sverige AB",1299699206,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"287",10897,"Carlsberg Sverige AB",1298690226,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"288",10897,"Carlsberg Sverige AB",1297815231,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"289",10897,"Carlsberg Sverige AB",1297488214,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"290",10897,"Carlsberg Sverige AB",1297479452,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"291",10897,"Carlsberg Sverige AB",1297134540,4.5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"292",10897,"Carlsberg Sverige AB",1296282533,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"293",10897,"Carlsberg Sverige AB",1295328791,4,3.5,4,"Baltic Porter",4,3.5,"Carnegie Porter 5,5%",5.5,755
+"294",10897,"Carlsberg Sverige AB",1295326626,4,2.5,4,"Baltic Porter",3.5,2,"Carnegie Porter 5,5%",5.5,755
+"295",10897,"Carlsberg Sverige AB",1295202488,4,3.5,3.5,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"296",10897,"Carlsberg Sverige AB",1293975642,4.5,3.5,4,"Baltic Porter",3.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"297",10897,"Carlsberg Sverige AB",1293238384,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"298",10897,"Carlsberg Sverige AB",1290652508,5,4.5,5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"299",10897,"Carlsberg Sverige AB",1290577793,4.5,4,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"300",10897,"Carlsberg Sverige AB",1244416943,4,4.5,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"301",10897,"Carlsberg Sverige AB",1290298160,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"302",10897,"Carlsberg Sverige AB",1289968807,4.5,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"303",10897,"Carlsberg Sverige AB",1288743160,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"304",10897,"Carlsberg Sverige AB",1287952228,3.5,3.5,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"305",10897,"Carlsberg Sverige AB",1287632578,4.5,4.5,5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"306",10897,"Carlsberg Sverige AB",1286249260,3,3.5,4,"Baltic Porter",2.5,3.5,"Carnegie Porter 5,5%",5.5,755
+"307",10897,"Carlsberg Sverige AB",1285460711,5,5,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"308",10897,"Carlsberg Sverige AB",1284812248,3,2.5,3,"Baltic Porter",3,2.5,"Carnegie Porter 5,5%",5.5,755
+"309",10897,"Carlsberg Sverige AB",1235615609,4.5,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"310",10897,"Carlsberg Sverige AB",1282780795,4,3.5,5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"311",10897,"Carlsberg Sverige AB",1281663712,4.5,4,4.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"312",10897,"Carlsberg Sverige AB",1279898182,4.5,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"313",10897,"Carlsberg Sverige AB",1277599188,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"314",10897,"Carlsberg Sverige AB",1276978461,4,4,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"315",10897,"Carlsberg Sverige AB",1276565830,3,3.5,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"316",10897,"Carlsberg Sverige AB",1274676406,4,4,3.5,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"317",10897,"Carlsberg Sverige AB",1271871435,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"318",10897,"Carlsberg Sverige AB",1270006547,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"319",10897,"Carlsberg Sverige AB",1268514570,4.5,4,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"320",10897,"Carlsberg Sverige AB",1234225320,4,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"321",10897,"Carlsberg Sverige AB",1268030332,5,4,4,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"322",10897,"Carlsberg Sverige AB",1266162533,4.5,4,4,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"323",10897,"Carlsberg Sverige AB",1265067845,4,4.5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"324",10897,"Carlsberg Sverige AB",1264355321,4.5,4.5,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"325",10897,"Carlsberg Sverige AB",1263703588,4,4.5,4,"Baltic Porter",4,4,"Carnegie Porter 5,5%",5.5,755
+"326",10897,"Carlsberg Sverige AB",1262033420,4.5,3,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"327",10897,"Carlsberg Sverige AB",1259360801,4,3.5,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"328",10897,"Carlsberg Sverige AB",1255665045,4,4,4,"Baltic Porter",3.5,4,"Carnegie Porter 5,5%",5.5,755
+"329",10897,"Carlsberg Sverige AB",1233275559,4,4,4,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"330",10897,"Carlsberg Sverige AB",1255409828,5,4,4.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"331",10897,"Carlsberg Sverige AB",1254761073,4,3.5,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"332",10897,"Carlsberg Sverige AB",1254339638,4,4,4.5,"Baltic Porter",4.5,4,"Carnegie Porter 5,5%",5.5,755
+"333",10897,"Carlsberg Sverige AB",1252437311,4.5,4,3.5,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"334",10897,"Carlsberg Sverige AB",1250916322,4,3.5,4.5,"Baltic Porter",5,4,"Carnegie Porter 5,5%",5.5,755
+"335",10897,"Carlsberg Sverige AB",1250340022,3.5,3.5,4,"Baltic Porter",3,3,"Carnegie Porter 5,5%",5.5,755
+"336",10897,"Carlsberg Sverige AB",1250212507,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"337",10897,"Carlsberg Sverige AB",1248193660,4,4,4,"Baltic Porter",4,5,"Carnegie Porter 5,5%",5.5,755
+"338",10897,"Carlsberg Sverige AB",1241363592,4.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Carnegie Porter 5,5%",5.5,755
+"339",10897,"Carlsberg Sverige AB",1241228961,4.5,4.5,4,"Baltic Porter",5,4.5,"Carnegie Porter 5,5%",5.5,755
+"340",10897,"Carlsberg Sverige AB",1239076740,4.5,3,4,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"341",10897,"Carlsberg Sverige AB",1238910695,5,4,4.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"342",10897,"Carlsberg Sverige AB",1238516298,5,4.5,3.5,"Baltic Porter",5,5,"Carnegie Porter 5,5%",5.5,755
+"343",10897,"Carlsberg Sverige AB",1238448133,4,4.5,3,"Baltic Porter",3,4,"Carnegie Porter 5,5%",5.5,755
+"344",10897,"Carlsberg Sverige AB",1238245979,4,4,3.5,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"345",10897,"Carlsberg Sverige AB",1232306047,3.5,4,4,"Baltic Porter",3,3.5,"Carnegie Porter 5,5%",5.5,755
+"346",10897,"Carlsberg Sverige AB",1232233685,4,5,3.5,"Baltic Porter",4.5,5,"Carnegie Porter 5,5%",5.5,755
+"347",10897,"Carlsberg Sverige AB",1231469489,4.5,4,4,"Baltic Porter",4,4.5,"Carnegie Porter 5,5%",5.5,755
+"348",10897,"Carlsberg Sverige AB",1312926463,2.5,2,3.5,"Euro Pale Lager",2.5,2.5,"Pripps Blå Lättöl",2.2,22593
+"349",10897,"Carlsberg Sverige AB",1278185695,3.5,1.5,1.5,"Euro Pale Lager",1,3,"Pripps Blå Lättöl",2.2,22593
+"350",10897,"Carlsberg Sverige AB",1266158858,2.5,1.5,2.5,"Euro Pale Lager",2,2,"Pripps Blå Lättöl",2.2,22593
+"351",10897,"Carlsberg Sverige AB",1190719873,2,2.5,2.5,"Euro Pale Lager",2,2,"Pripps Blå Lättöl",2.2,22593
+"352",10897,"Carlsberg Sverige AB",1126470796,3,2.5,3,"Euro Pale Lager",3,2.5,"Pripps Blå Lättöl",2.2,22593
+"353",10897,"Carlsberg Sverige AB",1111263425,2.5,2,2.5,"Euro Pale Lager",2.5,2,"Pripps Blå Lättöl",2.2,22593
+"354",10897,"Carlsberg Sverige AB",1278947942,1.5,2,2,"Light Lager",1.5,2,"Pripps Blå Pure 4,8%",4.8,28988
+"355",10897,"Carlsberg Sverige AB",1150750243,1.5,3.5,2,"Light Lager",1.5,2,"Pripps Blå Pure 4,8%",4.8,28988
+"356",10897,"Carlsberg Sverige AB",1149041486,1.5,1.5,2,"Light Lager",1.5,1.5,"Pripps Blå Pure 4,8%",4.8,28988
+"357",10897,"Carlsberg Sverige AB",1145819546,1.5,1.5,2,"Light Lager",2,1.5,"Pripps Blå Pure 4,8%",4.8,28988
+"358",10897,"Carlsberg Sverige AB",1144336269,2,2,2.5,"Light Lager",2,2,"Pripps Blå Pure 4,8%",4.8,28988

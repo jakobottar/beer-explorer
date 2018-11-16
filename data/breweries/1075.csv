@@ -1,890 +1,875 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1075,"Caldera Brewing Company",1293735206,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Cauldron DIPA",7.7,64883
-"2",1075,"Caldera Brewing Company",1325524659,3,3.5,3.5,"Herbed / Spiced Beer",3,3.5,"Caldera Ginger Beer",4.7,52159
-"3",1075,"Caldera Brewing Company",1318991115,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
-"4",1075,"Caldera Brewing Company",1306276018,3,2.5,3.5,"Herbed / Spiced Beer",2,3.5,"Caldera Ginger Beer",4.7,52159
-"5",1075,"Caldera Brewing Company",1290454503,4,3,3.5,"Herbed / Spiced Beer",3.5,4,"Caldera Ginger Beer",4.7,52159
-"6",1075,"Caldera Brewing Company",1285632924,4.5,3.5,5,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
-"7",1075,"Caldera Brewing Company",1283154365,5,5,4,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
-"8",1075,"Caldera Brewing Company",1277557990,4,4,4,"Herbed / Spiced Beer",3.5,4,"Caldera Ginger Beer",4.7,52159
-"9",1075,"Caldera Brewing Company",1275779250,4,4.5,3,"Herbed / Spiced Beer",2.5,3,"Caldera Ginger Beer",4.7,52159
-"10",1075,"Caldera Brewing Company",1273109020,3.5,4,3,"Herbed / Spiced Beer",3,4,"Caldera Ginger Beer",4.7,52159
-"11",1075,"Caldera Brewing Company",1316025612,3,3,2.5,"Oatmeal Stout",3,3,"Caldera Oatmeal Stout",7.2,10789
-"12",1075,"Caldera Brewing Company",1103502339,2,1.5,2.5,"Oatmeal Stout",2.5,2,"Caldera Oatmeal Stout",7.2,10789
-"13",1075,"Caldera Brewing Company",1062311123,4,3,4,"American Pale Lager",4,4,"Caldera OBF 15",5.6,12386
-"14",1075,"Caldera Brewing Company",1325478004,4.5,4.5,3,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"15",1075,"Caldera Brewing Company",1325360812,4,4,4,"Rauchbier",3,4,"Rauch Ür Bock",7.4,58046
-"16",1075,"Caldera Brewing Company",1322506304,4,4.5,4,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
-"17",1075,"Caldera Brewing Company",1320494397,4.5,5,4.5,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"18",1075,"Caldera Brewing Company",1320140421,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"19",1075,"Caldera Brewing Company",1319847514,4.5,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"20",1075,"Caldera Brewing Company",1318802642,5,5,3.5,"Rauchbier",3.5,5,"Rauch Ür Bock",7.4,58046
-"21",1075,"Caldera Brewing Company",1318290101,4.5,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"22",1075,"Caldera Brewing Company",1318289482,4.5,5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"23",1075,"Caldera Brewing Company",1316405909,4.5,4.5,3.5,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"24",1075,"Caldera Brewing Company",1315696563,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"25",1075,"Caldera Brewing Company",1315014054,5,4.5,4,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
-"26",1075,"Caldera Brewing Company",1314752229,4,4,4.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"27",1075,"Caldera Brewing Company",1312403394,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"28",1075,"Caldera Brewing Company",1312162337,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"29",1075,"Caldera Brewing Company",1312070406,4,4,3,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"30",1075,"Caldera Brewing Company",1311558510,3,4.5,3,"Rauchbier",2,3,"Rauch Ür Bock",7.4,58046
-"31",1075,"Caldera Brewing Company",1309310508,4,4.5,4.5,"Rauchbier",4,3.5,"Rauch Ür Bock",7.4,58046
-"32",1075,"Caldera Brewing Company",1307850875,3.5,3.5,4.5,"Rauchbier",4,3.5,"Rauch Ür Bock",7.4,58046
-"33",1075,"Caldera Brewing Company",1283136243,4.5,5,3.5,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
-"34",1075,"Caldera Brewing Company",1306128988,4.5,4,4,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
-"35",1075,"Caldera Brewing Company",1305926255,5,4.5,3.5,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
-"36",1075,"Caldera Brewing Company",1305856857,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"37",1075,"Caldera Brewing Company",1305469906,4,4,3.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"38",1075,"Caldera Brewing Company",1305329412,3.5,5,3.5,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
-"39",1075,"Caldera Brewing Company",1302401846,4,4,3.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"40",1075,"Caldera Brewing Company",1301454480,4.5,4,4,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
-"41",1075,"Caldera Brewing Company",1301023832,4,3.5,4,"Rauchbier",3,3.5,"Rauch Ür Bock",7.4,58046
-"42",1075,"Caldera Brewing Company",1300936020,4.5,4,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"43",1075,"Caldera Brewing Company",1300237348,4,4,3.5,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
-"44",1075,"Caldera Brewing Company",1297290394,3.5,3.5,4,"Rauchbier",3.5,3.5,"Rauch Ür Bock",7.4,58046
-"45",1075,"Caldera Brewing Company",1291959798,3.5,4,4,"Rauchbier",3.5,3.5,"Rauch Ür Bock",7.4,58046
-"46",1075,"Caldera Brewing Company",1291254447,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"47",1075,"Caldera Brewing Company",1286839186,3.5,3.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"48",1075,"Caldera Brewing Company",1286679032,4.5,4.5,3,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
-"49",1075,"Caldera Brewing Company",1285545349,4.5,4.5,3.5,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
-"50",1075,"Caldera Brewing Company",1284135689,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"51",1075,"Caldera Brewing Company",1281495119,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
-"52",1075,"Caldera Brewing Company",1281303716,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
-"53",1075,"Caldera Brewing Company",1277846123,4,4.5,4,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
-"54",1075,"Caldera Brewing Company",1275779614,4,4.5,3.5,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
-"55",1075,"Caldera Brewing Company",1273021280,4,4.5,3.5,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
-"56",1075,"Caldera Brewing Company",1251327677,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"57",1075,"Caldera Brewing Company",1250928902,2.5,3,3.5,"American Pale Ale (APA)",3.5,2.5,"Caldera Pale Ale",5.5,25414
-"58",1075,"Caldera Brewing Company",1249866208,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"59",1075,"Caldera Brewing Company",1310259440,4.5,4.5,4.5,"American Porter",4.5,5,"Pilot Rock Porter",5.8,10788
-"60",1075,"Caldera Brewing Company",1249847121,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"61",1075,"Caldera Brewing Company",1249556277,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"62",1075,"Caldera Brewing Company",1249347819,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"63",1075,"Caldera Brewing Company",1248223105,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"64",1075,"Caldera Brewing Company",1248142715,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"65",1075,"Caldera Brewing Company",1247611689,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"66",1075,"Caldera Brewing Company",1246913078,5,4,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"67",1075,"Caldera Brewing Company",1208019450,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"68",1075,"Caldera Brewing Company",1246835039,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Caldera Pale Ale",5.5,25414
-"69",1075,"Caldera Brewing Company",1245632401,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"70",1075,"Caldera Brewing Company",1245007399,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"71",1075,"Caldera Brewing Company",1243386855,4,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"72",1075,"Caldera Brewing Company",1243111472,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"73",1075,"Caldera Brewing Company",1242695740,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"74",1075,"Caldera Brewing Company",1242591041,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"75",1075,"Caldera Brewing Company",1240194272,4,3.5,2.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"76",1075,"Caldera Brewing Company",1239404031,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"77",1075,"Caldera Brewing Company",1238806680,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"78",1075,"Caldera Brewing Company",1238102425,4.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"79",1075,"Caldera Brewing Company",1237995185,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"80",1075,"Caldera Brewing Company",1235940573,5,3.5,4,"American Pale Ale (APA)",4,5,"Caldera Pale Ale",5.5,25414
-"81",1075,"Caldera Brewing Company",1235869779,5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"82",1075,"Caldera Brewing Company",1235799776,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"83",1075,"Caldera Brewing Company",1234402493,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"84",1075,"Caldera Brewing Company",1234301164,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"85",1075,"Caldera Brewing Company",1234289072,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"86",1075,"Caldera Brewing Company",1233532055,4,4,4,"American Pale Ale (APA)",4.5,3.5,"Caldera Pale Ale",5.5,25414
-"87",1075,"Caldera Brewing Company",1233527792,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"88",1075,"Caldera Brewing Company",1276458339,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"89",1075,"Caldera Brewing Company",1233438861,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"90",1075,"Caldera Brewing Company",1232762866,3.5,4,3.5,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
-"91",1075,"Caldera Brewing Company",1231859071,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
-"92",1075,"Caldera Brewing Company",1231644832,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"93",1075,"Caldera Brewing Company",1228286719,4,3,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"94",1075,"Caldera Brewing Company",1227368772,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"95",1075,"Caldera Brewing Company",1222211380,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Caldera Pale Ale",5.5,25414
-"96",1075,"Caldera Brewing Company",1220215328,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"97",1075,"Caldera Brewing Company",1275798498,4,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"98",1075,"Caldera Brewing Company",1219023488,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Caldera Pale Ale",5.5,25414
-"99",1075,"Caldera Brewing Company",1218509484,4,4,4,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
-"100",1075,"Caldera Brewing Company",1217377327,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"101",1075,"Caldera Brewing Company",1216870136,3.5,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"102",1075,"Caldera Brewing Company",1216764325,4,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"103",1075,"Caldera Brewing Company",1215737527,4.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"104",1075,"Caldera Brewing Company",1215478984,4,4,4.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"105",1075,"Caldera Brewing Company",1215388875,4.5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"106",1075,"Caldera Brewing Company",1210468644,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"107",1075,"Caldera Brewing Company",1208444405,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"108",1075,"Caldera Brewing Company",1310518783,4,4,4.5,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
-"109",1075,"Caldera Brewing Company",1207375871,3.5,4,5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"110",1075,"Caldera Brewing Company",1206403506,4.5,3.5,3,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"111",1075,"Caldera Brewing Company",1206326545,5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"112",1075,"Caldera Brewing Company",1205302160,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"113",1075,"Caldera Brewing Company",1204256003,4,3.5,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
-"114",1075,"Caldera Brewing Company",1199158664,3,2.5,3,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
-"115",1075,"Caldera Brewing Company",1198817492,3,4,3.5,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"116",1075,"Caldera Brewing Company",1190043490,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"117",1075,"Caldera Brewing Company",1188970905,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"118",1075,"Caldera Brewing Company",1186867975,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"119",1075,"Caldera Brewing Company",1275439462,4,3.5,2.5,"American Pale Ale (APA)",3,4.5,"Caldera Pale Ale",5.5,25414
-"120",1075,"Caldera Brewing Company",1182308568,4,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"121",1075,"Caldera Brewing Company",1181450867,4.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"122",1075,"Caldera Brewing Company",1177638920,4,3,3.5,"American Pale Ale (APA)",2.5,3.5,"Caldera Pale Ale",5.5,25414
-"123",1075,"Caldera Brewing Company",1170714306,4.5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"124",1075,"Caldera Brewing Company",1160699043,5,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"125",1075,"Caldera Brewing Company",1160265839,3.5,4,3,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"126",1075,"Caldera Brewing Company",1157665307,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"127",1075,"Caldera Brewing Company",1154568582,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"128",1075,"Caldera Brewing Company",1154067787,4.5,4,3,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"129",1075,"Caldera Brewing Company",1148947298,3,4,4,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
-"130",1075,"Caldera Brewing Company",1147643598,4,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"131",1075,"Caldera Brewing Company",1147583357,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"132",1075,"Caldera Brewing Company",1132082651,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"133",1075,"Caldera Brewing Company",1124731747,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"134",1075,"Caldera Brewing Company",1326212716,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"135",1075,"Caldera Brewing Company",1322517349,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"136",1075,"Caldera Brewing Company",1321322911,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"137",1075,"Caldera Brewing Company",1274928281,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"138",1075,"Caldera Brewing Company",1320470970,3.5,3.5,4.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
-"139",1075,"Caldera Brewing Company",1320422191,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"140",1075,"Caldera Brewing Company",1318247779,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"141",1075,"Caldera Brewing Company",1316727048,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"142",1075,"Caldera Brewing Company",1315501843,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"143",1075,"Caldera Brewing Company",1315424611,4,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"144",1075,"Caldera Brewing Company",1313814599,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"145",1075,"Caldera Brewing Company",1313539369,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"146",1075,"Caldera Brewing Company",1313538701,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"147",1075,"Caldera Brewing Company",1274919895,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"148",1075,"Caldera Brewing Company",1313344297,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"149",1075,"Caldera Brewing Company",1313205214,4,3.5,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"150",1075,"Caldera Brewing Company",1312859109,4,4,4,"American Pale Ale (APA)",3.5,4.5,"Caldera Pale Ale",5.5,25414
-"151",1075,"Caldera Brewing Company",1311635079,3,3,4,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
-"152",1075,"Caldera Brewing Company",1310596490,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
-"153",1075,"Caldera Brewing Company",1309143059,3,3.5,4,"American Pale Ale (APA)",3.5,2.5,"Caldera Pale Ale",5.5,25414
-"154",1075,"Caldera Brewing Company",1307926374,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"155",1075,"Caldera Brewing Company",1307228809,3,3.5,4,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
-"156",1075,"Caldera Brewing Company",1306801312,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"157",1075,"Caldera Brewing Company",1305443533,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"158",1075,"Caldera Brewing Company",1304919405,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"159",1075,"Caldera Brewing Company",1304775252,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"160",1075,"Caldera Brewing Company",1302318720,4.5,5,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"161",1075,"Caldera Brewing Company",1299616654,2.5,3.5,4,"American Pale Ale (APA)",2,2.5,"Caldera Pale Ale",5.5,25414
-"162",1075,"Caldera Brewing Company",1299469158,4,3.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"163",1075,"Caldera Brewing Company",1298677831,4.5,2,2,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"164",1075,"Caldera Brewing Company",1298604088,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
-"165",1075,"Caldera Brewing Company",1296947205,3,3.5,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
-"166",1075,"Caldera Brewing Company",1286931306,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"167",1075,"Caldera Brewing Company",1296194634,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"168",1075,"Caldera Brewing Company",1292368869,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"169",1075,"Caldera Brewing Company",1291082909,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"170",1075,"Caldera Brewing Company",1289995470,4,4,5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"171",1075,"Caldera Brewing Company",1288306896,3,3,3,"American Pale Ale (APA)",2.5,3,"Caldera Pale Ale",5.5,25414
-"172",1075,"Caldera Brewing Company",1288229762,4.5,4.5,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"173",1075,"Caldera Brewing Company",1288124891,4,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"174",1075,"Caldera Brewing Company",1286887230,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"175",1075,"Caldera Brewing Company",1286770715,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"176",1075,"Caldera Brewing Company",1285123300,4,3,4,"American Pale Ale (APA)",4,2.5,"Caldera Pale Ale",5.5,25414
-"177",1075,"Caldera Brewing Company",1284070441,4,4,4,"American Pale Ale (APA)",3.5,4.5,"Caldera Pale Ale",5.5,25414
-"178",1075,"Caldera Brewing Company",1282616446,3.5,3.5,3.5,"American Pale Ale (APA)",5,3.5,"Caldera Pale Ale",5.5,25414
-"179",1075,"Caldera Brewing Company",1281751758,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"180",1075,"Caldera Brewing Company",1281407690,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"181",1075,"Caldera Brewing Company",1281230213,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"182",1075,"Caldera Brewing Company",1280773118,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"183",1075,"Caldera Brewing Company",1258511938,5,5,3,"American Pale Ale (APA)",5,5,"Caldera Pale Ale",5.5,25414
-"184",1075,"Caldera Brewing Company",1280377901,5,3.5,4,"American Pale Ale (APA)",5,4,"Caldera Pale Ale",5.5,25414
-"185",1075,"Caldera Brewing Company",1280121552,4,3,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
-"186",1075,"Caldera Brewing Company",1279898459,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"187",1075,"Caldera Brewing Company",1279603940,3,3.5,3.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
-"188",1075,"Caldera Brewing Company",1278462434,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"189",1075,"Caldera Brewing Company",1278094363,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"190",1075,"Caldera Brewing Company",1277592425,4,3,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"191",1075,"Caldera Brewing Company",1277176387,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"192",1075,"Caldera Brewing Company",1277173621,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"193",1075,"Caldera Brewing Company",1274582920,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"194",1075,"Caldera Brewing Company",1274535816,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"195",1075,"Caldera Brewing Company",1274399540,3,4,3.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
-"196",1075,"Caldera Brewing Company",1273493811,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"197",1075,"Caldera Brewing Company",1271993282,4,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"198",1075,"Caldera Brewing Company",1269722488,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"199",1075,"Caldera Brewing Company",1268076225,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"200",1075,"Caldera Brewing Company",1267839055,3,3,2.5,"American Pale Ale (APA)",2.5,3,"Caldera Pale Ale",5.5,25414
-"201",1075,"Caldera Brewing Company",1266473259,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"202",1075,"Caldera Brewing Company",1266280281,4,3.5,5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"203",1075,"Caldera Brewing Company",1265831510,5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
-"204",1075,"Caldera Brewing Company",1265696374,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"205",1075,"Caldera Brewing Company",1264269458,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"206",1075,"Caldera Brewing Company",1264041225,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
-"207",1075,"Caldera Brewing Company",1262623366,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"208",1075,"Caldera Brewing Company",1262485655,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"209",1075,"Caldera Brewing Company",1261976212,5,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"210",1075,"Caldera Brewing Company",1260202692,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"211",1075,"Caldera Brewing Company",1258953381,4.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"212",1075,"Caldera Brewing Company",1256089931,4.5,3,4,"American Pale Ale (APA)",4,5,"Caldera Pale Ale",5.5,25414
-"213",1075,"Caldera Brewing Company",1255564836,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
-"214",1075,"Caldera Brewing Company",1254457053,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"215",1075,"Caldera Brewing Company",1254185699,4,3,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"216",1075,"Caldera Brewing Company",1254099708,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"217",1075,"Caldera Brewing Company",1253889382,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
-"218",1075,"Caldera Brewing Company",1252549074,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
-"219",1075,"Caldera Brewing Company",1252535262,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
-"220",1075,"Caldera Brewing Company",1251925734,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
-"221",1075,"Caldera Brewing Company",1304977550,4,4,4,"American Porter",4.5,4,"Pilot Rock Porter",5.8,10788
-"222",1075,"Caldera Brewing Company",1299734664,4.5,3.5,3,"American Porter",5,4.5,"Pilot Rock Porter",5.8,10788
-"223",1075,"Caldera Brewing Company",1270238942,4.5,4,4,"American Porter",4,4.5,"Pilot Rock Porter",5.8,10788
-"224",1075,"Caldera Brewing Company",1265775166,3.5,3.5,4,"American Porter",3.5,3.5,"Pilot Rock Porter",5.8,10788
-"225",1075,"Caldera Brewing Company",1254977926,5,4,4.5,"American Porter",4,4,"Pilot Rock Porter",5.8,10788
-"226",1075,"Caldera Brewing Company",1153680639,4.5,3.5,4.5,"American Porter",4.5,4,"Pilot Rock Porter",5.8,10788
-"227",1075,"Caldera Brewing Company",1113805689,3.5,3.5,3.5,"American Porter",3.5,3,"Pilot Rock Porter",5.8,10788
-"228",1075,"Caldera Brewing Company",1100743845,2.5,2.5,3,"American Porter",2.5,3,"Pilot Rock Porter",5.8,10788
-"229",1075,"Caldera Brewing Company",1326071409,3.5,3.5,4,"Belgian Strong Dark Ale",2,3.5,"Vas Deferens Ale",8.1,58920
-"230",1075,"Caldera Brewing Company",1321407186,3,4,2,"Belgian Strong Dark Ale",3,2.5,"Vas Deferens Ale",8.1,58920
-"231",1075,"Caldera Brewing Company",1311736668,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"232",1075,"Caldera Brewing Company",1321070530,3.5,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Vas Deferens Ale",8.1,58920
-"233",1075,"Caldera Brewing Company",1320555535,4,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"234",1075,"Caldera Brewing Company",1319921102,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"235",1075,"Caldera Brewing Company",1319858005,3.5,3.5,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
-"236",1075,"Caldera Brewing Company",1317515953,4,3,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"237",1075,"Caldera Brewing Company",1317093500,3,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"238",1075,"Caldera Brewing Company",1315280892,4.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"239",1075,"Caldera Brewing Company",1314576950,4,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
-"240",1075,"Caldera Brewing Company",1313275008,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Vas Deferens Ale",8.1,58920
-"241",1075,"Caldera Brewing Company",1311901246,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"242",1075,"Caldera Brewing Company",1309577754,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
-"243",1075,"Caldera Brewing Company",1309227572,4,3,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
-"244",1075,"Caldera Brewing Company",1304116900,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
-"245",1075,"Caldera Brewing Company",1300995057,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
-"246",1075,"Caldera Brewing Company",1300226447,3.5,4,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"247",1075,"Caldera Brewing Company",1296739609,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"248",1075,"Caldera Brewing Company",1294716213,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"249",1075,"Caldera Brewing Company",1292542146,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
-"250",1075,"Caldera Brewing Company",1272945129,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"251",1075,"Caldera Brewing Company",1290310276,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"252",1075,"Caldera Brewing Company",1289007164,3,2.5,4,"Belgian Strong Dark Ale",3.5,3,"Vas Deferens Ale",8.1,58920
-"253",1075,"Caldera Brewing Company",1287556131,3.5,2.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"254",1075,"Caldera Brewing Company",1283849227,2,2.5,4,"Belgian Strong Dark Ale",2.5,2,"Vas Deferens Ale",8.1,58920
-"255",1075,"Caldera Brewing Company",1283632391,2.5,2,2.5,"Belgian Strong Dark Ale",1,2.5,"Vas Deferens Ale",8.1,58920
-"256",1075,"Caldera Brewing Company",1283402291,3,3.5,3.5,"Belgian Strong Dark Ale",3,3,"Vas Deferens Ale",8.1,58920
-"257",1075,"Caldera Brewing Company",1281917733,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
-"258",1075,"Caldera Brewing Company",1324238653,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"259",1075,"Caldera Brewing Company",1281017724,3,4,3.5,"Belgian Strong Dark Ale",2.5,3,"Vas Deferens Ale",8.1,58920
-"260",1075,"Caldera Brewing Company",1278714049,3,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"261",1075,"Caldera Brewing Company",1277183331,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
-"262",1075,"Caldera Brewing Company",1277179584,5,4,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"263",1075,"Caldera Brewing Company",1276135287,4,3.5,4.5,"Belgian Strong Dark Ale",4,3,"Vas Deferens Ale",8.1,58920
-"264",1075,"Caldera Brewing Company",1275892159,3.5,3.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
-"265",1075,"Caldera Brewing Company",1275778651,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
-"266",1075,"Caldera Brewing Company",1103668195,3,3,3,"American Stout",4,3,"Cauldron Espresso Stout",NA,21241
-"267",1075,"Caldera Brewing Company",1314593255,4.5,4,4,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
-"268",1075,"Caldera Brewing Company",1325371643,4,4,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"269",1075,"Caldera Brewing Company",1324873502,4,4,4,"Russian Imperial Stout",3.5,4,"Old Growth Imperial Stout",8.8,20818
-"270",1075,"Caldera Brewing Company",1321759929,4,3.5,3,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
-"271",1075,"Caldera Brewing Company",1320011799,4,4,4,"Russian Imperial Stout",4.5,4,"Old Growth Imperial Stout",8.8,20818
-"272",1075,"Caldera Brewing Company",1319912250,4,4,2.5,"Russian Imperial Stout",4.5,4,"Old Growth Imperial Stout",8.8,20818
-"273",1075,"Caldera Brewing Company",1319087212,4,4,4.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"274",1075,"Caldera Brewing Company",1318908990,4.5,4,4,"Russian Imperial Stout",5,4.5,"Old Growth Imperial Stout",8.8,20818
-"275",1075,"Caldera Brewing Company",1318153805,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
-"276",1075,"Caldera Brewing Company",1316051590,3.5,3,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"277",1075,"Caldera Brewing Company",1315044032,4,4,4.5,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
-"278",1075,"Caldera Brewing Company",1313553891,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"279",1075,"Caldera Brewing Company",1312575615,5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Old Growth Imperial Stout",8.8,20818
-"280",1075,"Caldera Brewing Company",1310693953,5,5,5,"Russian Imperial Stout",5,4.5,"Old Growth Imperial Stout",8.8,20818
-"281",1075,"Caldera Brewing Company",1305846083,4,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"282",1075,"Caldera Brewing Company",1305776840,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"283",1075,"Caldera Brewing Company",1304910259,4,3,3.5,"Russian Imperial Stout",3,4,"Old Growth Imperial Stout",8.8,20818
-"284",1075,"Caldera Brewing Company",1301436909,4,4,4,"Russian Imperial Stout",3.5,4,"Old Growth Imperial Stout",8.8,20818
-"285",1075,"Caldera Brewing Company",1301108461,4.5,4.5,4.5,"Russian Imperial Stout",4,5,"Old Growth Imperial Stout",8.8,20818
-"286",1075,"Caldera Brewing Company",1106529693,4.5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Dry Hop Red",5.7,10786
-"287",1075,"Caldera Brewing Company",1301032260,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"288",1075,"Caldera Brewing Company",1299090515,3,4,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"289",1075,"Caldera Brewing Company",1297663058,3.5,4,4,"Russian Imperial Stout",4,3.5,"Old Growth Imperial Stout",8.8,20818
-"290",1075,"Caldera Brewing Company",1297637051,3.5,3.5,4,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"291",1075,"Caldera Brewing Company",1296103099,4,3.5,4.5,"Russian Imperial Stout",4,3.5,"Old Growth Imperial Stout",8.8,20818
-"292",1075,"Caldera Brewing Company",1295916750,4,4,4,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
-"293",1075,"Caldera Brewing Company",1267669241,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"294",1075,"Caldera Brewing Company",1233976509,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
-"295",1075,"Caldera Brewing Company",1104119630,3,4,3.5,"American Amber / Red Ale",3,4,"Dry Hop Red",5.7,10786
-"296",1075,"Caldera Brewing Company",1232517923,5,4.5,4.5,"Russian Imperial Stout",5,5,"Old Growth Imperial Stout",8.8,20818
-"297",1075,"Caldera Brewing Company",1202674258,4,4,4.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
-"298",1075,"Caldera Brewing Company",1316030136,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Dry Hop Red",5.7,10786
-"299",1075,"Caldera Brewing Company",1190326149,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
-"300",1075,"Caldera Brewing Company",1174767562,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"Dry Hop Red",5.7,10786
-"301",1075,"Caldera Brewing Company",1171415576,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
-"302",1075,"Caldera Brewing Company",1119304996,4,4,3,"American Amber / Red Ale",3.5,4,"Dry Hop Red",5.7,10786
-"303",1075,"Caldera Brewing Company",1111803322,4,4,4,"American Amber / Red Ale",4.5,4.5,"Dry Hop Red",5.7,10786
-"304",1075,"Caldera Brewing Company",1103510937,4.5,4.5,3.5,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
-"305",1075,"Caldera Brewing Company",1060927934,4,4.5,4.5,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
-"306",1075,"Caldera Brewing Company",1296524914,4,4,4,"American Strong Ale",4,4,"Southside Strong",7,10794
-"307",1075,"Caldera Brewing Company",1259026211,4.5,4,4,"Märzen / Oktoberfest",4,4,"Caldera Märzen",6.3,54330
-"308",1075,"Caldera Brewing Company",1313637622,3,3,4,"American Adjunct Lager",2,3,"Lawnmower Lager",3.9,20817
-"309",1075,"Caldera Brewing Company",1294716177,4,4,4,"American Adjunct Lager",4,4,"Lawnmower Lager",3.9,20817
-"310",1075,"Caldera Brewing Company",1284525849,4.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Lawnmower Lager",3.9,20817
-"311",1075,"Caldera Brewing Company",1281229651,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Lawnmower Lager",3.9,20817
-"312",1075,"Caldera Brewing Company",1279762002,3,3.5,3.5,"American Adjunct Lager",3,3,"Lawnmower Lager",3.9,20817
-"313",1075,"Caldera Brewing Company",1279679219,3.5,3,3,"American Adjunct Lager",2.5,3,"Lawnmower Lager",3.9,20817
-"314",1075,"Caldera Brewing Company",1278993362,3,3,3,"American Adjunct Lager",3,3,"Lawnmower Lager",3.9,20817
-"315",1075,"Caldera Brewing Company",1277081906,4.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Lawnmower Lager",3.9,20817
-"316",1075,"Caldera Brewing Company",1275777906,3.5,2.5,3,"American Adjunct Lager",4,3,"Lawnmower Lager",3.9,20817
-"317",1075,"Caldera Brewing Company",1275771652,5,4,4,"American Adjunct Lager",4,4.5,"Lawnmower Lager",3.9,20817
-"318",1075,"Caldera Brewing Company",1274579229,2,2.5,2,"American Adjunct Lager",2.5,2.5,"Lawnmower Lager",3.9,20817
-"319",1075,"Caldera Brewing Company",1270908226,4,3,2,"American Adjunct Lager",2.5,3,"Lawnmower Lager",3.9,20817
-"320",1075,"Caldera Brewing Company",1270706342,4.5,3.5,4,"American Adjunct Lager",3,4,"Lawnmower Lager",3.9,20817
-"321",1075,"Caldera Brewing Company",1267230079,1,1.5,1,"American Adjunct Lager",1,1,"Lawnmower Lager",3.9,20817
-"322",1075,"Caldera Brewing Company",1324042981,3,3.5,3,"American Blonde Ale",2,3,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"323",1075,"Caldera Brewing Company",1296875377,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"324",1075,"Caldera Brewing Company",1322529598,4,4,4,"American Blonde Ale",3.5,4.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"325",1075,"Caldera Brewing Company",1313491119,1.5,2,3,"American Blonde Ale",2,1.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"326",1075,"Caldera Brewing Company",1312168951,3,3.5,3.5,"American Blonde Ale",3,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"327",1075,"Caldera Brewing Company",1310388796,1.5,1.5,3,"American Blonde Ale",2,1.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"328",1075,"Caldera Brewing Company",1284083587,4,3,4.5,"American Blonde Ale",3,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"329",1075,"Caldera Brewing Company",1282984478,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
-"330",1075,"Caldera Brewing Company",1297129212,4,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"331",1075,"Caldera Brewing Company",1297105083,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"332",1075,"Caldera Brewing Company",1296947627,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"333",1075,"Caldera Brewing Company",1296620697,3.5,4,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"334",1075,"Caldera Brewing Company",1296233050,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"335",1075,"Caldera Brewing Company",1296008402,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"336",1075,"Caldera Brewing Company",1296005914,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"337",1075,"Caldera Brewing Company",1295671770,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"338",1075,"Caldera Brewing Company",1295585824,4,4.5,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"339",1075,"Caldera Brewing Company",1294974656,5,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"340",1075,"Caldera Brewing Company",1294791118,4,4.5,5,"American IPA",4,5,"Caldera IPA",6.1,10784
-"341",1075,"Caldera Brewing Company",1294539199,4,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"342",1075,"Caldera Brewing Company",1294305907,4,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"343",1075,"Caldera Brewing Company",1294116253,4,4,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"344",1075,"Caldera Brewing Company",1293153465,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"345",1075,"Caldera Brewing Company",1293123837,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"346",1075,"Caldera Brewing Company",1293061516,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"347",1075,"Caldera Brewing Company",1292778811,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"348",1075,"Caldera Brewing Company",1292282933,4.5,4,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"349",1075,"Caldera Brewing Company",1291909316,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"350",1075,"Caldera Brewing Company",1291863248,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"351",1075,"Caldera Brewing Company",1291772007,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"352",1075,"Caldera Brewing Company",1280725041,4,3.5,4.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"353",1075,"Caldera Brewing Company",1290892378,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"354",1075,"Caldera Brewing Company",1290186023,3,2.5,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"355",1075,"Caldera Brewing Company",1289994167,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"356",1075,"Caldera Brewing Company",1289772727,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"357",1075,"Caldera Brewing Company",1289066078,4.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"358",1075,"Caldera Brewing Company",1288747230,4,4,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"359",1075,"Caldera Brewing Company",1288594654,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"360",1075,"Caldera Brewing Company",1288568600,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"361",1075,"Caldera Brewing Company",1288326570,5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"362",1075,"Caldera Brewing Company",1288222917,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"363",1075,"Caldera Brewing Company",1237945444,4.5,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"364",1075,"Caldera Brewing Company",1287709770,5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"365",1075,"Caldera Brewing Company",1287274920,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"366",1075,"Caldera Brewing Company",1286137884,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"367",1075,"Caldera Brewing Company",1285793647,2.5,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"368",1075,"Caldera Brewing Company",1285631508,3.5,2.5,3.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"369",1075,"Caldera Brewing Company",1285543810,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"370",1075,"Caldera Brewing Company",1285394918,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"371",1075,"Caldera Brewing Company",1285377193,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"372",1075,"Caldera Brewing Company",1284942580,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"373",1075,"Caldera Brewing Company",1284915166,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"374",1075,"Caldera Brewing Company",1284791160,3.5,3,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"375",1075,"Caldera Brewing Company",1279169746,4.5,3.5,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"376",1075,"Caldera Brewing Company",1284773313,4,4,4.5,"American IPA",3,4.5,"Caldera IPA",6.1,10784
-"377",1075,"Caldera Brewing Company",1284684401,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"378",1075,"Caldera Brewing Company",1284602207,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"379",1075,"Caldera Brewing Company",1284314205,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"380",1075,"Caldera Brewing Company",1284260105,4.5,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"381",1075,"Caldera Brewing Company",1284237564,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"382",1075,"Caldera Brewing Company",1283221299,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"383",1075,"Caldera Brewing Company",1282776701,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"384",1075,"Caldera Brewing Company",1278974127,3.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"385",1075,"Caldera Brewing Company",1282437399,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"386",1075,"Caldera Brewing Company",1282425919,5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"387",1075,"Caldera Brewing Company",1282359216,4.5,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"388",1075,"Caldera Brewing Company",1281981701,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"389",1075,"Caldera Brewing Company",1281829729,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"390",1075,"Caldera Brewing Company",1281560681,4.5,4,3.5,"American IPA",4,5,"Caldera IPA",6.1,10784
-"391",1075,"Caldera Brewing Company",1281058518,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"392",1075,"Caldera Brewing Company",1281054838,4,4.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"393",1075,"Caldera Brewing Company",1280985927,4,4,5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"394",1075,"Caldera Brewing Company",1280541063,5,4,4.5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
-"395",1075,"Caldera Brewing Company",1280121771,3,3,4,"American IPA",3,2.5,"Caldera IPA",6.1,10784
-"396",1075,"Caldera Brewing Company",1279927381,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"397",1075,"Caldera Brewing Company",1279656760,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"398",1075,"Caldera Brewing Company",1279590609,4.5,5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"399",1075,"Caldera Brewing Company",1279588546,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"400",1075,"Caldera Brewing Company",1279487880,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"401",1075,"Caldera Brewing Company",1279374127,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"402",1075,"Caldera Brewing Company",1278972867,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"403",1075,"Caldera Brewing Company",1278684178,3.5,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"404",1075,"Caldera Brewing Company",1278630893,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"405",1075,"Caldera Brewing Company",1278462382,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"406",1075,"Caldera Brewing Company",1278378015,3,3,3,"American IPA",3,3,"Caldera IPA",6.1,10784
-"407",1075,"Caldera Brewing Company",1278312943,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"408",1075,"Caldera Brewing Company",1278093529,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"409",1075,"Caldera Brewing Company",1278016964,4,3.5,3,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"410",1075,"Caldera Brewing Company",1277424439,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"411",1075,"Caldera Brewing Company",1275409131,4.5,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"412",1075,"Caldera Brewing Company",1277347253,4.5,4.5,3.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"413",1075,"Caldera Brewing Company",1277329335,4,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"414",1075,"Caldera Brewing Company",1277327337,4.5,4,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"415",1075,"Caldera Brewing Company",1277179754,4,4,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"416",1075,"Caldera Brewing Company",1277173332,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"417",1075,"Caldera Brewing Company",1276830747,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"418",1075,"Caldera Brewing Company",1276327213,4.5,4.5,4.5,"American IPA",4,5,"Caldera IPA",6.1,10784
-"419",1075,"Caldera Brewing Company",1275512166,4,4.5,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"420",1075,"Caldera Brewing Company",1275388099,5,5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"421",1075,"Caldera Brewing Company",1274584909,5,5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"422",1075,"Caldera Brewing Company",1274110682,3.5,2.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"423",1075,"Caldera Brewing Company",1274064984,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"424",1075,"Caldera Brewing Company",1273843947,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"425",1075,"Caldera Brewing Company",1273809063,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"426",1075,"Caldera Brewing Company",1273711585,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"427",1075,"Caldera Brewing Company",1273617448,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"428",1075,"Caldera Brewing Company",1272135863,4.5,4,4.5,"American IPA",5,5,"Caldera IPA",6.1,10784
-"429",1075,"Caldera Brewing Company",1326249924,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"430",1075,"Caldera Brewing Company",1326238002,4,4.5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"431",1075,"Caldera Brewing Company",1326032536,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"432",1075,"Caldera Brewing Company",1325980456,5,5,5,"American IPA",5,5,"Caldera IPA",6.1,10784
-"433",1075,"Caldera Brewing Company",1325657658,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"434",1075,"Caldera Brewing Company",1325477658,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"435",1075,"Caldera Brewing Company",1325383668,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"436",1075,"Caldera Brewing Company",1324936267,4.5,3.5,3,"American IPA",4,4,"Caldera IPA",6.1,10784
-"437",1075,"Caldera Brewing Company",1324173764,5,5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"438",1075,"Caldera Brewing Company",1272067521,4.5,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"439",1075,"Caldera Brewing Company",1271892680,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"440",1075,"Caldera Brewing Company",1271509638,4.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"441",1075,"Caldera Brewing Company",1271296509,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"442",1075,"Caldera Brewing Company",1270956549,4,3,4.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"443",1075,"Caldera Brewing Company",1270492948,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"444",1075,"Caldera Brewing Company",1269892519,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"445",1075,"Caldera Brewing Company",1269642122,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"446",1075,"Caldera Brewing Company",1269174802,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"447",1075,"Caldera Brewing Company",1268775804,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"448",1075,"Caldera Brewing Company",1268743762,4.5,4.5,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"449",1075,"Caldera Brewing Company",1268596419,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"450",1075,"Caldera Brewing Company",1268415775,1,4,4,"American IPA",2,2,"Caldera IPA",6.1,10784
-"451",1075,"Caldera Brewing Company",1268007672,3.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"452",1075,"Caldera Brewing Company",1267929272,4.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"453",1075,"Caldera Brewing Company",1267313530,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"454",1075,"Caldera Brewing Company",1266947297,4,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"455",1075,"Caldera Brewing Company",1266787279,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"456",1075,"Caldera Brewing Company",1266701805,4,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"457",1075,"Caldera Brewing Company",1266459012,4,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"458",1075,"Caldera Brewing Company",1266388888,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"459",1075,"Caldera Brewing Company",1266388534,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"460",1075,"Caldera Brewing Company",1266363163,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"461",1075,"Caldera Brewing Company",1266284114,3,2.5,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"462",1075,"Caldera Brewing Company",1265786262,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"463",1075,"Caldera Brewing Company",1265676399,4,3,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"464",1075,"Caldera Brewing Company",1259454988,4.5,3,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"465",1075,"Caldera Brewing Company",1265225199,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"466",1075,"Caldera Brewing Company",1262920359,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"467",1075,"Caldera Brewing Company",1262403473,4.5,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"468",1075,"Caldera Brewing Company",1262314296,4.5,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"469",1075,"Caldera Brewing Company",1261805236,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"470",1075,"Caldera Brewing Company",1261454050,5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"471",1075,"Caldera Brewing Company",1261448306,4,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"472",1075,"Caldera Brewing Company",1259219882,4,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"473",1075,"Caldera Brewing Company",1261356086,4,3.5,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"474",1075,"Caldera Brewing Company",1261108959,4,4,4.5,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
-"475",1075,"Caldera Brewing Company",1260945337,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"476",1075,"Caldera Brewing Company",1260766595,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"477",1075,"Caldera Brewing Company",1260411055,4.5,5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"478",1075,"Caldera Brewing Company",1260255554,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"479",1075,"Caldera Brewing Company",1260051904,4.5,5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"480",1075,"Caldera Brewing Company",1259630725,3.5,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"481",1075,"Caldera Brewing Company",1227450368,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"482",1075,"Caldera Brewing Company",1259109381,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"483",1075,"Caldera Brewing Company",1259047445,3.5,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"484",1075,"Caldera Brewing Company",1258906716,5,5,4,"American IPA",4,5,"Caldera IPA",6.1,10784
-"485",1075,"Caldera Brewing Company",1258846778,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"486",1075,"Caldera Brewing Company",1258127478,4.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"487",1075,"Caldera Brewing Company",1256962406,3.5,4,4.5,"American IPA",4,3,"Caldera IPA",6.1,10784
-"488",1075,"Caldera Brewing Company",1256871148,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"489",1075,"Caldera Brewing Company",1256869593,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"490",1075,"Caldera Brewing Company",1256585280,3.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"491",1075,"Caldera Brewing Company",1255983403,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"492",1075,"Caldera Brewing Company",1252299756,3.5,4,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"493",1075,"Caldera Brewing Company",1255406572,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"494",1075,"Caldera Brewing Company",1254103096,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"495",1075,"Caldera Brewing Company",1254073027,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"496",1075,"Caldera Brewing Company",1253757832,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"497",1075,"Caldera Brewing Company",1253650330,4.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"498",1075,"Caldera Brewing Company",1253477448,5,4.5,4.5,"American IPA",5,5,"Caldera IPA",6.1,10784
-"499",1075,"Caldera Brewing Company",1253213801,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"500",1075,"Caldera Brewing Company",1252729215,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"501",1075,"Caldera Brewing Company",1252632725,4.5,4,3.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"502",1075,"Caldera Brewing Company",1252027454,3.5,4,3.5,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
-"503",1075,"Caldera Brewing Company",1251925968,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"504",1075,"Caldera Brewing Company",1251853060,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"505",1075,"Caldera Brewing Company",1251411241,3.5,3.5,3,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"506",1075,"Caldera Brewing Company",1251276005,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"507",1075,"Caldera Brewing Company",1250934691,2.5,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"508",1075,"Caldera Brewing Company",1250789813,4.5,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"509",1075,"Caldera Brewing Company",1250702282,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"510",1075,"Caldera Brewing Company",1250440035,3,3.5,3.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"511",1075,"Caldera Brewing Company",1243102194,3,5,4,"American IPA",4,3,"Caldera IPA",6.1,10784
-"512",1075,"Caldera Brewing Company",1250129621,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"513",1075,"Caldera Brewing Company",1250097211,5,4,4,"American IPA",4.5,5,"Caldera IPA",6.1,10784
-"514",1075,"Caldera Brewing Company",1249940104,4.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"515",1075,"Caldera Brewing Company",1249869859,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"516",1075,"Caldera Brewing Company",1249707176,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"517",1075,"Caldera Brewing Company",1249616172,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"518",1075,"Caldera Brewing Company",1248568237,2,4,4.5,"American IPA",3,3,"Caldera IPA",6.1,10784
-"519",1075,"Caldera Brewing Company",1227408943,4,4,4,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
-"520",1075,"Caldera Brewing Company",1248487882,3.5,4.5,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"521",1075,"Caldera Brewing Company",1248390678,4,3,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"522",1075,"Caldera Brewing Company",1247879445,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"523",1075,"Caldera Brewing Company",1247702251,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"524",1075,"Caldera Brewing Company",1247548071,4.5,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"525",1075,"Caldera Brewing Company",1247427830,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"526",1075,"Caldera Brewing Company",1246837454,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"527",1075,"Caldera Brewing Company",1246666482,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"528",1075,"Caldera Brewing Company",1246392204,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"529",1075,"Caldera Brewing Company",1238797238,4.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"530",1075,"Caldera Brewing Company",1246326741,4,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"531",1075,"Caldera Brewing Company",1246257499,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"532",1075,"Caldera Brewing Company",1246219461,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"533",1075,"Caldera Brewing Company",1246156677,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"534",1075,"Caldera Brewing Company",1245731578,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"535",1075,"Caldera Brewing Company",1245728825,2,3,4,"American IPA",3,3.5,"Caldera IPA",6.1,10784
-"536",1075,"Caldera Brewing Company",1245721415,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"537",1075,"Caldera Brewing Company",1245540392,5,5,4.5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
-"538",1075,"Caldera Brewing Company",1245118209,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"539",1075,"Caldera Brewing Company",1245014833,4,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"540",1075,"Caldera Brewing Company",1315528776,4.5,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"541",1075,"Caldera Brewing Company",1245014092,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"542",1075,"Caldera Brewing Company",1244858084,3.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"543",1075,"Caldera Brewing Company",1323995849,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"544",1075,"Caldera Brewing Company",1323921048,3.5,4.5,4,"American IPA",2.5,3,"Caldera IPA",6.1,10784
-"545",1075,"Caldera Brewing Company",1323188620,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"546",1075,"Caldera Brewing Company",1322691877,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"547",1075,"Caldera Brewing Company",1321574120,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"548",1075,"Caldera Brewing Company",1320902822,3,4,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"549",1075,"Caldera Brewing Company",1305061090,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"550",1075,"Caldera Brewing Company",1320248628,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"551",1075,"Caldera Brewing Company",1319855053,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"552",1075,"Caldera Brewing Company",1319673471,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"553",1075,"Caldera Brewing Company",1319241322,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"554",1075,"Caldera Brewing Company",1244808633,3,4,4.5,"American IPA",3,3.5,"Caldera IPA",6.1,10784
-"555",1075,"Caldera Brewing Company",1244683205,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"556",1075,"Caldera Brewing Company",1244051763,4,3.5,5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"557",1075,"Caldera Brewing Company",1243717445,3.5,4,3.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"558",1075,"Caldera Brewing Company",1243124566,4,3.5,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"559",1075,"Caldera Brewing Company",1242961700,4,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"560",1075,"Caldera Brewing Company",1242846863,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"561",1075,"Caldera Brewing Company",1242592642,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"562",1075,"Caldera Brewing Company",1241873726,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"563",1075,"Caldera Brewing Company",1241160146,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"564",1075,"Caldera Brewing Company",1240794560,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"565",1075,"Caldera Brewing Company",1240714040,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"566",1075,"Caldera Brewing Company",1240713647,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"567",1075,"Caldera Brewing Company",1240592562,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"568",1075,"Caldera Brewing Company",1239571332,4.5,5,5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
-"569",1075,"Caldera Brewing Company",1239324913,3.5,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"570",1075,"Caldera Brewing Company",1239073434,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"571",1075,"Caldera Brewing Company",1237515024,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"572",1075,"Caldera Brewing Company",1236737716,3.5,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"573",1075,"Caldera Brewing Company",1236041922,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"574",1075,"Caldera Brewing Company",1235943951,5,4,4.5,"American IPA",4,5,"Caldera IPA",6.1,10784
-"575",1075,"Caldera Brewing Company",1235619440,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"576",1075,"Caldera Brewing Company",1235613864,4.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"577",1075,"Caldera Brewing Company",1235277432,4,4.5,4,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
-"578",1075,"Caldera Brewing Company",1234656110,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"579",1075,"Caldera Brewing Company",1234301545,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"580",1075,"Caldera Brewing Company",1218555178,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"581",1075,"Caldera Brewing Company",1234287685,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"582",1075,"Caldera Brewing Company",1232941583,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"583",1075,"Caldera Brewing Company",1232781682,3,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"584",1075,"Caldera Brewing Company",1232468167,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"585",1075,"Caldera Brewing Company",1231859008,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"586",1075,"Caldera Brewing Company",1231713855,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"587",1075,"Caldera Brewing Company",1229313862,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"588",1075,"Caldera Brewing Company",1229279300,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"589",1075,"Caldera Brewing Company",1228608585,4.5,5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"590",1075,"Caldera Brewing Company",1227579179,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"591",1075,"Caldera Brewing Company",1226798393,3.5,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"592",1075,"Caldera Brewing Company",1226202860,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"593",1075,"Caldera Brewing Company",1225055611,4,4.5,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"594",1075,"Caldera Brewing Company",1223376492,4.5,4,4.5,"American IPA",5,4.5,"Caldera IPA",6.1,10784
-"595",1075,"Caldera Brewing Company",1223073891,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"596",1075,"Caldera Brewing Company",1222305980,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"597",1075,"Caldera Brewing Company",1220137480,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"598",1075,"Caldera Brewing Company",1219003036,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"599",1075,"Caldera Brewing Company",1218500388,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"600",1075,"Caldera Brewing Company",1217995556,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"601",1075,"Caldera Brewing Company",1217379515,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"602",1075,"Caldera Brewing Company",1216685474,4.5,4,4,"American IPA",5,4.5,"Caldera IPA",6.1,10784
-"603",1075,"Caldera Brewing Company",1215664516,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"604",1075,"Caldera Brewing Company",1214858603,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"605",1075,"Caldera Brewing Company",1214181956,3.5,3.5,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"606",1075,"Caldera Brewing Company",1212289363,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"607",1075,"Caldera Brewing Company",1205560860,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"608",1075,"Caldera Brewing Company",1211933145,4,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"609",1075,"Caldera Brewing Company",1210553646,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"610",1075,"Caldera Brewing Company",1210461583,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"611",1075,"Caldera Brewing Company",1208728799,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"612",1075,"Caldera Brewing Company",1207535403,5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"613",1075,"Caldera Brewing Company",1207378146,3.5,3.5,3,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"614",1075,"Caldera Brewing Company",1206684668,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"615",1075,"Caldera Brewing Company",1206392607,4.5,2.5,3,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"616",1075,"Caldera Brewing Company",1205645855,4,3.5,5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"617",1075,"Caldera Brewing Company",1205010007,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"618",1075,"Caldera Brewing Company",1204167240,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"619",1075,"Caldera Brewing Company",1204003782,3,2,3.5,"American IPA",3,3,"Caldera IPA",6.1,10784
-"620",1075,"Caldera Brewing Company",1203825901,1.5,3.5,4,"American IPA",2,2,"Caldera IPA",6.1,10784
-"621",1075,"Caldera Brewing Company",1203788586,4.5,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"622",1075,"Caldera Brewing Company",1203382386,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"623",1075,"Caldera Brewing Company",1202967279,4,4.5,4,"American IPA",4,5,"Caldera IPA",6.1,10784
-"624",1075,"Caldera Brewing Company",1199162879,3,3.5,3,"American IPA",3,3.5,"Caldera IPA",6.1,10784
-"625",1075,"Caldera Brewing Company",1197841680,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"626",1075,"Caldera Brewing Company",1194852821,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"627",1075,"Caldera Brewing Company",1194792567,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"628",1075,"Caldera Brewing Company",1192478498,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"629",1075,"Caldera Brewing Company",1191180572,4.5,4.5,4,"American IPA",3,3.5,"Caldera IPA",6.1,10784
-"630",1075,"Caldera Brewing Company",1190238782,4,4,4.5,"American IPA",3,3.5,"Caldera IPA",6.1,10784
-"631",1075,"Caldera Brewing Company",1189824893,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"632",1075,"Caldera Brewing Company",1189784159,4,4,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"633",1075,"Caldera Brewing Company",1188972053,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"634",1075,"Caldera Brewing Company",1188694023,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"635",1075,"Caldera Brewing Company",1187838938,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"636",1075,"Caldera Brewing Company",1187323014,4.5,4.5,4,"American IPA",5,4.5,"Caldera IPA",6.1,10784
-"637",1075,"Caldera Brewing Company",1136235212,4.5,3.5,4.5,"American IPA",5,4.5,"Caldera IPA",6.1,10784
-"638",1075,"Caldera Brewing Company",1111791303,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"639",1075,"Caldera Brewing Company",1109005792,3.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"640",1075,"Caldera Brewing Company",1318562278,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"641",1075,"Caldera Brewing Company",1318486605,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"642",1075,"Caldera Brewing Company",1317776598,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"643",1075,"Caldera Brewing Company",1317431717,4.5,4,4,"American IPA",4,5,"Caldera IPA",6.1,10784
-"644",1075,"Caldera Brewing Company",1317178404,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"645",1075,"Caldera Brewing Company",1316813352,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"646",1075,"Caldera Brewing Company",1315516058,4,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"647",1075,"Caldera Brewing Company",1314517713,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"648",1075,"Caldera Brewing Company",1313448304,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"649",1075,"Caldera Brewing Company",1313273446,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"650",1075,"Caldera Brewing Company",1312779370,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"651",1075,"Caldera Brewing Company",1312752768,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"652",1075,"Caldera Brewing Company",1312692710,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"653",1075,"Caldera Brewing Company",1312522547,3.5,3.5,4,"American IPA",5,4,"Caldera IPA",6.1,10784
-"654",1075,"Caldera Brewing Company",1312467418,3,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"655",1075,"Caldera Brewing Company",1312389903,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"656",1075,"Caldera Brewing Company",1312297641,3.5,4,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"657",1075,"Caldera Brewing Company",1311635580,3,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"658",1075,"Caldera Brewing Company",1311383775,3,3.5,4,"American IPA",3,3,"Caldera IPA",6.1,10784
-"659",1075,"Caldera Brewing Company",1309654508,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"660",1075,"Caldera Brewing Company",1309289930,4.5,4.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"661",1075,"Caldera Brewing Company",1309232053,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"662",1075,"Caldera Brewing Company",1309206819,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"663",1075,"Caldera Brewing Company",1309197215,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
-"664",1075,"Caldera Brewing Company",1309012596,3,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"665",1075,"Caldera Brewing Company",1308806158,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"666",1075,"Caldera Brewing Company",1308360223,4,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"667",1075,"Caldera Brewing Company",1308258538,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"668",1075,"Caldera Brewing Company",1295051076,4,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"669",1075,"Caldera Brewing Company",1308197572,3,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"670",1075,"Caldera Brewing Company",1307823635,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"671",1075,"Caldera Brewing Company",1307540830,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"672",1075,"Caldera Brewing Company",1307414867,4,3.5,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"673",1075,"Caldera Brewing Company",1307227322,4.5,4.5,3,"American IPA",4,5,"Caldera IPA",6.1,10784
-"674",1075,"Caldera Brewing Company",1307191996,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"675",1075,"Caldera Brewing Company",1307107975,3,3,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"676",1075,"Caldera Brewing Company",1306993015,4.5,5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"677",1075,"Caldera Brewing Company",1306940546,4,3,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"678",1075,"Caldera Brewing Company",1267323401,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"679",1075,"Caldera Brewing Company",1306711927,3.5,3,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
-"680",1075,"Caldera Brewing Company",1306544792,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"681",1075,"Caldera Brewing Company",1306213612,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"682",1075,"Caldera Brewing Company",1306002194,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"683",1075,"Caldera Brewing Company",1305514937,4,4.5,5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"684",1075,"Caldera Brewing Company",1305509552,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"685",1075,"Caldera Brewing Company",1305416445,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"686",1075,"Caldera Brewing Company",1305234074,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"687",1075,"Caldera Brewing Company",1305154329,4.5,5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"688",1075,"Caldera Brewing Company",1304497206,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"689",1075,"Caldera Brewing Company",1304395617,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"690",1075,"Caldera Brewing Company",1304241876,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"691",1075,"Caldera Brewing Company",1303877384,4,4,3.5,"American IPA",4,5,"Caldera IPA",6.1,10784
-"692",1075,"Caldera Brewing Company",1303603331,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
-"693",1075,"Caldera Brewing Company",1303345928,3.5,3,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"694",1075,"Caldera Brewing Company",1303342207,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"695",1075,"Caldera Brewing Company",1302758157,4,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
-"696",1075,"Caldera Brewing Company",1312710063,4,4,4,"American Amber / Red Ale",4,4.5,"Ashland Amber",5.4,10785
-"697",1075,"Caldera Brewing Company",1302406558,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"698",1075,"Caldera Brewing Company",1302373074,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"699",1075,"Caldera Brewing Company",1300254593,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"700",1075,"Caldera Brewing Company",1300226155,4.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"701",1075,"Caldera Brewing Company",1299990272,4,3.5,3,"American IPA",3,2.5,"Caldera IPA",6.1,10784
-"702",1075,"Caldera Brewing Company",1299614816,4,4.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"703",1075,"Caldera Brewing Company",1299470163,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
-"704",1075,"Caldera Brewing Company",1299091519,4.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
-"705",1075,"Caldera Brewing Company",1298841962,4,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
-"706",1075,"Caldera Brewing Company",1298434789,4,4,4,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
-"707",1075,"Caldera Brewing Company",1298238484,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"708",1075,"Caldera Brewing Company",1297990589,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
-"709",1075,"Caldera Brewing Company",1297564790,3,2.5,3,"American IPA",3,2.5,"Caldera IPA",6.1,10784
-"710",1075,"Caldera Brewing Company",1297138774,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
-"711",1075,"Caldera Brewing Company",1325439672,4,4,4,"American Porter",3.5,4,"Coconut Porter",9.5,76963
-"712",1075,"Caldera Brewing Company",1316025300,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Orange",5.6,23290
-"713",1075,"Caldera Brewing Company",1256588802,4,4.5,4,"American Amber / Red Ale",4.5,4.5,"Dry Hop Orange",5.6,23290
-"714",1075,"Caldera Brewing Company",1186464845,4,4,4,"American Amber / Red Ale",3.5,4,"Dry Hop Orange",5.6,23290
-"715",1075,"Caldera Brewing Company",1178240189,4,4,4,"American Amber / Red Ale",3.5,4,"Dry Hop Orange",5.6,23290
-"716",1075,"Caldera Brewing Company",1120893092,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Dry Hop Orange",5.6,23290
-"717",1075,"Caldera Brewing Company",1114161035,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Dry Hop Orange",5.6,23290
-"718",1075,"Caldera Brewing Company",1260673921,4,4,4,"American IPA",4,4,"Alpha Beta",NA,54723
-"719",1075,"Caldera Brewing Company",1100741619,3,4,4,"German Pilsener",3,3,"Caldera Pilsener Bier",5.2,3274
-"720",1075,"Caldera Brewing Company",1017782385,4.5,4,5,"German Pilsener",4,4.5,"Caldera Pilsener Bier",5.2,3274
-"721",1075,"Caldera Brewing Company",1281555381,2.5,3.5,3,"Fruit / Vegetable Beer",2.5,3,"Hibiscus Ginger Beer",4.7,60951
-"722",1075,"Caldera Brewing Company",1185477411,3.5,3.5,3,"Fruit / Vegetable Beer",4,3.5,"Exotic Erotic Passion Fruit Ale",5,37917
-"723",1075,"Caldera Brewing Company",1323451554,4,4,4.5,"American IPA",4.5,4,"Hopportunity Knocks",6.8,56071
-"724",1075,"Caldera Brewing Company",1297656954,3.5,3.5,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"725",1075,"Caldera Brewing Company",1321942858,4,4.5,4,"American IPA",4,4.5,"Hopportunity Knocks",6.8,56071
-"726",1075,"Caldera Brewing Company",1318649689,4,3,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"727",1075,"Caldera Brewing Company",1318236286,1.5,2,3,"American IPA",1.5,1.5,"Hopportunity Knocks",6.8,56071
-"728",1075,"Caldera Brewing Company",1317341123,3.5,3,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"729",1075,"Caldera Brewing Company",1314752908,3.5,3.5,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"730",1075,"Caldera Brewing Company",1314669662,4,2,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"731",1075,"Caldera Brewing Company",1314460181,4,3.5,4,"American IPA",4.5,3.5,"Hopportunity Knocks",6.8,56071
-"732",1075,"Caldera Brewing Company",1314397307,3,3.5,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
-"733",1075,"Caldera Brewing Company",1314048849,3,3,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
-"734",1075,"Caldera Brewing Company",1311721690,4,4,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"735",1075,"Caldera Brewing Company",1311117145,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"736",1075,"Caldera Brewing Company",1309310405,3,3,3.5,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
-"737",1075,"Caldera Brewing Company",1309057163,3.5,3.5,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"738",1075,"Caldera Brewing Company",1306967955,2,3,3.5,"American IPA",2,2,"Hopportunity Knocks",6.8,56071
-"739",1075,"Caldera Brewing Company",1305780859,3,3.5,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
-"740",1075,"Caldera Brewing Company",1301344172,3.5,3,4,"American IPA",4,3,"Hopportunity Knocks",6.8,56071
-"741",1075,"Caldera Brewing Company",1298328395,3,3,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
-"742",1075,"Caldera Brewing Company",1298042864,2,2,4,"American IPA",3,2,"Hopportunity Knocks",6.8,56071
-"743",1075,"Caldera Brewing Company",1297913790,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"744",1075,"Caldera Brewing Company",1297108013,4,4,3.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"745",1075,"Caldera Brewing Company",1292893578,3.5,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"746",1075,"Caldera Brewing Company",1291682957,4,3.5,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"747",1075,"Caldera Brewing Company",1291176949,4,2.5,4,"American IPA",3,2.5,"Hopportunity Knocks",6.8,56071
-"748",1075,"Caldera Brewing Company",1291147074,4.5,4,4.5,"American IPA",4.5,4.5,"Hopportunity Knocks",6.8,56071
-"749",1075,"Caldera Brewing Company",1288459315,3.5,3.5,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"750",1075,"Caldera Brewing Company",1287971081,3,3,3,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
-"751",1075,"Caldera Brewing Company",1287616948,3.5,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"752",1075,"Caldera Brewing Company",1286943517,4.5,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"753",1075,"Caldera Brewing Company",1290902913,3.5,4,3,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"754",1075,"Caldera Brewing Company",1285906208,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"755",1075,"Caldera Brewing Company",1285369483,3,3,3,"American IPA",3,3,"Hopportunity Knocks",6.8,56071
-"756",1075,"Caldera Brewing Company",1285298831,3.5,3.5,4,"American IPA",3,3.5,"Hopportunity Knocks",6.8,56071
-"757",1075,"Caldera Brewing Company",1284866616,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"758",1075,"Caldera Brewing Company",1284236920,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"759",1075,"Caldera Brewing Company",1283789454,2.5,2,4.5,"American IPA",4.5,3,"Hopportunity Knocks",6.8,56071
-"760",1075,"Caldera Brewing Company",1283223460,3.5,3.5,3.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"761",1075,"Caldera Brewing Company",1282094906,3.5,4,4.5,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
-"762",1075,"Caldera Brewing Company",1281519201,4,3.5,4.5,"American IPA",4.5,4,"Hopportunity Knocks",6.8,56071
-"763",1075,"Caldera Brewing Company",1280643115,3,3.5,3.5,"American IPA",3,2.5,"Hopportunity Knocks",6.8,56071
-"764",1075,"Caldera Brewing Company",1279673929,4,3.5,4.5,"American IPA",4,4.5,"Hopportunity Knocks",6.8,56071
-"765",1075,"Caldera Brewing Company",1279326716,3,2,4,"American IPA",2.5,3,"Hopportunity Knocks",6.8,56071
-"766",1075,"Caldera Brewing Company",1278987576,4,3.5,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"767",1075,"Caldera Brewing Company",1278984978,3.5,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"768",1075,"Caldera Brewing Company",1278869189,4,4,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
-"769",1075,"Caldera Brewing Company",1277663424,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"770",1075,"Caldera Brewing Company",1276824899,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"771",1075,"Caldera Brewing Company",1276655452,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"772",1075,"Caldera Brewing Company",1275779006,3.5,4,4,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
-"773",1075,"Caldera Brewing Company",1275021171,4,4,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"774",1075,"Caldera Brewing Company",1274540724,3.5,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"775",1075,"Caldera Brewing Company",1271120894,3.5,4,4,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
-"776",1075,"Caldera Brewing Company",1270773135,4,3,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
-"777",1075,"Caldera Brewing Company",1268330124,3,3.5,4,"American IPA",3,3.5,"Hopportunity Knocks",6.8,56071
-"778",1075,"Caldera Brewing Company",1267513681,4,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
-"779",1075,"Caldera Brewing Company",1267073262,5,4,4.5,"American IPA",4,5,"Hopportunity Knocks",6.8,56071
-"780",1075,"Caldera Brewing Company",1212201268,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Stout",NA,42964
-"781",1075,"Caldera Brewing Company",1100675578,5,4,4.5,"American Strong Ale",4.5,5,"Cauldron Brew",7.6,10793
-"782",1075,"Caldera Brewing Company",1242585931,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"783",1075,"Caldera Brewing Company",1237619118,4.5,4.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"784",1075,"Caldera Brewing Company",1236796559,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"785",1075,"Caldera Brewing Company",1222463257,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"786",1075,"Caldera Brewing Company",1171415361,4,3.5,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"787",1075,"Caldera Brewing Company",1112670229,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"788",1075,"Caldera Brewing Company",1290659697,4,3,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"789",1075,"Caldera Brewing Company",1105475593,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"790",1075,"Caldera Brewing Company",1103504824,2.5,2,3,"American Amber / Red Ale",3,2.5,"Ashland Amber",5.4,10785
-"791",1075,"Caldera Brewing Company",1325203961,3.5,3,2.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"792",1075,"Caldera Brewing Company",1321930609,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"Ashland Amber",5.4,10785
-"793",1075,"Caldera Brewing Company",1321644594,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"794",1075,"Caldera Brewing Company",1320882789,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"795",1075,"Caldera Brewing Company",1317255653,3,2.5,3,"American Amber / Red Ale",3.5,3,"Ashland Amber",5.4,10785
-"796",1075,"Caldera Brewing Company",1315424350,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Ashland Amber",5.4,10785
-"797",1075,"Caldera Brewing Company",1315362671,4,3.5,4.5,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"798",1075,"Caldera Brewing Company",1311634196,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"799",1075,"Caldera Brewing Company",1311501130,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"800",1075,"Caldera Brewing Company",1309930169,4,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"801",1075,"Caldera Brewing Company",1309322165,4,3.5,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"802",1075,"Caldera Brewing Company",1307054114,3.5,3.5,4,"American Amber / Red Ale",4,3,"Ashland Amber",5.4,10785
-"803",1075,"Caldera Brewing Company",1306638282,3.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"804",1075,"Caldera Brewing Company",1304496933,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"805",1075,"Caldera Brewing Company",1302402558,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Ashland Amber",5.4,10785
-"806",1075,"Caldera Brewing Company",1298939599,4.5,3,4.5,"American Amber / Red Ale",3.5,4.5,"Ashland Amber",5.4,10785
-"807",1075,"Caldera Brewing Company",1298334430,4.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"808",1075,"Caldera Brewing Company",1298086841,3.5,2,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"809",1075,"Caldera Brewing Company",1297818763,3,3,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"810",1075,"Caldera Brewing Company",1297278402,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"811",1075,"Caldera Brewing Company",1297077581,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"812",1075,"Caldera Brewing Company",1294636662,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Ashland Amber",5.4,10785
-"813",1075,"Caldera Brewing Company",1293140509,4,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"814",1075,"Caldera Brewing Company",1292778417,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"815",1075,"Caldera Brewing Company",1291069813,4.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"816",1075,"Caldera Brewing Company",1284677572,3,3.5,4,"American Amber / Red Ale",2,3,"Ashland Amber",5.4,10785
-"817",1075,"Caldera Brewing Company",1289994936,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"818",1075,"Caldera Brewing Company",1289878777,4,4,3.5,"American Amber / Red Ale",3.5,5,"Ashland Amber",5.4,10785
-"819",1075,"Caldera Brewing Company",1288379634,4.5,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"820",1075,"Caldera Brewing Company",1287958974,4,4,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"821",1075,"Caldera Brewing Company",1287252138,3,3,3,"American Amber / Red Ale",3,3,"Ashland Amber",5.4,10785
-"822",1075,"Caldera Brewing Company",1286064454,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"823",1075,"Caldera Brewing Company",1286035319,1.5,1.5,3,"American Amber / Red Ale",2,2,"Ashland Amber",5.4,10785
-"824",1075,"Caldera Brewing Company",1285541017,4,4,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"825",1075,"Caldera Brewing Company",1285041452,4.5,3.5,3,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"826",1075,"Caldera Brewing Company",1285032976,4.5,4,4.5,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"827",1075,"Caldera Brewing Company",1283788431,3,3,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
-"828",1075,"Caldera Brewing Company",1281635456,4,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"829",1075,"Caldera Brewing Company",1280859910,4.5,4,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"830",1075,"Caldera Brewing Company",1280119659,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"831",1075,"Caldera Brewing Company",1278794319,3,4,3.5,"American Amber / Red Ale",3.5,2.5,"Ashland Amber",5.4,10785
-"832",1075,"Caldera Brewing Company",1276469893,4,4,4.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"833",1075,"Caldera Brewing Company",1275573665,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"834",1075,"Caldera Brewing Company",1275171065,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"835",1075,"Caldera Brewing Company",1272594505,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"836",1075,"Caldera Brewing Company",1271907396,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"837",1075,"Caldera Brewing Company",1271893864,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"838",1075,"Caldera Brewing Company",1271703926,4,4,4.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"839",1075,"Caldera Brewing Company",1271483628,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"840",1075,"Caldera Brewing Company",1269706889,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"841",1075,"Caldera Brewing Company",1269322876,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"842",1075,"Caldera Brewing Company",1268701251,4,3.5,4,"American Amber / Red Ale",4.5,3.5,"Ashland Amber",5.4,10785
-"843",1075,"Caldera Brewing Company",1268493180,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"844",1075,"Caldera Brewing Company",1267834574,4.5,3.5,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"845",1075,"Caldera Brewing Company",1267571128,3,3,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
-"846",1075,"Caldera Brewing Company",1267230915,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"847",1075,"Caldera Brewing Company",1266966032,4,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"848",1075,"Caldera Brewing Company",1266441484,4,3.5,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"849",1075,"Caldera Brewing Company",1266281870,4,3.5,4,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
-"850",1075,"Caldera Brewing Company",1266250757,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"851",1075,"Caldera Brewing Company",1265775449,2,3.5,4,"American Amber / Red Ale",2.5,2,"Ashland Amber",5.4,10785
-"852",1075,"Caldera Brewing Company",1262914829,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"853",1075,"Caldera Brewing Company",1261972708,4,4,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"854",1075,"Caldera Brewing Company",1258899657,4,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"855",1075,"Caldera Brewing Company",1258791231,4,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"856",1075,"Caldera Brewing Company",1253915877,4,3.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"857",1075,"Caldera Brewing Company",1253246085,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"858",1075,"Caldera Brewing Company",1251926192,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"859",1075,"Caldera Brewing Company",1251689859,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"860",1075,"Caldera Brewing Company",1251325335,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
-"861",1075,"Caldera Brewing Company",1251164217,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"862",1075,"Caldera Brewing Company",1250827585,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Ashland Amber",5.4,10785
-"863",1075,"Caldera Brewing Company",1250647291,3.5,4,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
-"864",1075,"Caldera Brewing Company",1250121337,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"865",1075,"Caldera Brewing Company",1249597545,4,4,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"866",1075,"Caldera Brewing Company",1248991175,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"867",1075,"Caldera Brewing Company",1248203468,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"868",1075,"Caldera Brewing Company",1248142254,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"869",1075,"Caldera Brewing Company",1248004066,4,3.5,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
-"870",1075,"Caldera Brewing Company",1247330238,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
-"871",1075,"Caldera Brewing Company",1246803927,3,3,3.5,"American Amber / Red Ale",2,3.5,"Ashland Amber",5.4,10785
-"872",1075,"Caldera Brewing Company",1246800732,3,2.5,3,"American Amber / Red Ale",2,2,"Ashland Amber",5.4,10785
-"873",1075,"Caldera Brewing Company",1245431093,4,4,4,"American Amber / Red Ale",3,4,"Ashland Amber",5.4,10785
-"874",1075,"Caldera Brewing Company",1245191629,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"875",1075,"Caldera Brewing Company",1245032698,4,3,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
-"876",1075,"Caldera Brewing Company",1245003767,4,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
-"877",1075,"Caldera Brewing Company",1244397434,4,3.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
-"878",1075,"Caldera Brewing Company",1316019100,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Hop Hash",7,72330
-"879",1075,"Caldera Brewing Company",1313961584,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Hop Hash",7,72330
-"880",1075,"Caldera Brewing Company",1325019656,4.5,4.5,4,"American Porter",4,4.5,"Mogli",8.5,60990
-"881",1075,"Caldera Brewing Company",1315696060,4.5,4.5,3.5,"American Porter",4,4.5,"Mogli",8.5,60990
-"882",1075,"Caldera Brewing Company",1314587679,4.5,4.5,3.5,"American Porter",4,5,"Mogli",8.5,60990
-"883",1075,"Caldera Brewing Company",1309553569,4.5,4,4.5,"American Porter",4.5,4.5,"Mogli",8.5,60990
-"884",1075,"Caldera Brewing Company",1307394834,4,4.5,3.5,"American Porter",4,4,"Mogli",8.5,60990
-"885",1075,"Caldera Brewing Company",1307190968,4,4.5,4,"American Porter",4.5,4,"Mogli",8.5,60990
-"886",1075,"Caldera Brewing Company",1283903842,4.5,5,5,"American Porter",4,4.5,"Mogli",8.5,60990
-"887",1075,"Caldera Brewing Company",1283188640,4.5,4,5,"American Porter",4,4.5,"Mogli",8.5,60990
-"888",1075,"Caldera Brewing Company",1282674179,5,4.5,5,"American Porter",5,5,"Mogli",8.5,60990
-"889",1075,"Caldera Brewing Company",1281680251,5,5,4.5,"American Porter",5,4.5,"Mogli",8.5,60990
+"1",1075,"Caldera Brewing Company",1325524659,3,3.5,3.5,"Herbed / Spiced Beer",3,3.5,"Caldera Ginger Beer",4.7,52159
+"2",1075,"Caldera Brewing Company",1318991115,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
+"3",1075,"Caldera Brewing Company",1306276018,3,2.5,3.5,"Herbed / Spiced Beer",2,3.5,"Caldera Ginger Beer",4.7,52159
+"4",1075,"Caldera Brewing Company",1290454503,4,3,3.5,"Herbed / Spiced Beer",3.5,4,"Caldera Ginger Beer",4.7,52159
+"5",1075,"Caldera Brewing Company",1285632924,4.5,3.5,5,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
+"6",1075,"Caldera Brewing Company",1283154365,5,5,4,"Herbed / Spiced Beer",4,4,"Caldera Ginger Beer",4.7,52159
+"7",1075,"Caldera Brewing Company",1277557990,4,4,4,"Herbed / Spiced Beer",3.5,4,"Caldera Ginger Beer",4.7,52159
+"8",1075,"Caldera Brewing Company",1275779250,4,4.5,3,"Herbed / Spiced Beer",2.5,3,"Caldera Ginger Beer",4.7,52159
+"9",1075,"Caldera Brewing Company",1273109020,3.5,4,3,"Herbed / Spiced Beer",3,4,"Caldera Ginger Beer",4.7,52159
+"10",1075,"Caldera Brewing Company",1325478004,4.5,4.5,3,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"11",1075,"Caldera Brewing Company",1325360812,4,4,4,"Rauchbier",3,4,"Rauch Ür Bock",7.4,58046
+"12",1075,"Caldera Brewing Company",1322506304,4,4.5,4,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
+"13",1075,"Caldera Brewing Company",1320494397,4.5,5,4.5,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"14",1075,"Caldera Brewing Company",1320140421,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"15",1075,"Caldera Brewing Company",1319847514,4.5,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"16",1075,"Caldera Brewing Company",1318802642,5,5,3.5,"Rauchbier",3.5,5,"Rauch Ür Bock",7.4,58046
+"17",1075,"Caldera Brewing Company",1318290101,4.5,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"18",1075,"Caldera Brewing Company",1318289482,4.5,5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"19",1075,"Caldera Brewing Company",1316405909,4.5,4.5,3.5,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"20",1075,"Caldera Brewing Company",1315696563,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"21",1075,"Caldera Brewing Company",1315014054,5,4.5,4,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
+"22",1075,"Caldera Brewing Company",1314752229,4,4,4.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"23",1075,"Caldera Brewing Company",1312403394,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"24",1075,"Caldera Brewing Company",1312162337,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"25",1075,"Caldera Brewing Company",1312070406,4,4,3,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"26",1075,"Caldera Brewing Company",1311558510,3,4.5,3,"Rauchbier",2,3,"Rauch Ür Bock",7.4,58046
+"27",1075,"Caldera Brewing Company",1309310508,4,4.5,4.5,"Rauchbier",4,3.5,"Rauch Ür Bock",7.4,58046
+"28",1075,"Caldera Brewing Company",1307850875,3.5,3.5,4.5,"Rauchbier",4,3.5,"Rauch Ür Bock",7.4,58046
+"29",1075,"Caldera Brewing Company",1283136243,4.5,5,3.5,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
+"30",1075,"Caldera Brewing Company",1306128988,4.5,4,4,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
+"31",1075,"Caldera Brewing Company",1305926255,5,4.5,3.5,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
+"32",1075,"Caldera Brewing Company",1305856857,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"33",1075,"Caldera Brewing Company",1305469906,4,4,3.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"34",1075,"Caldera Brewing Company",1305329412,3.5,5,3.5,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
+"35",1075,"Caldera Brewing Company",1302401846,4,4,3.5,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"36",1075,"Caldera Brewing Company",1301454480,4.5,4,4,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
+"37",1075,"Caldera Brewing Company",1301023832,4,3.5,4,"Rauchbier",3,3.5,"Rauch Ür Bock",7.4,58046
+"38",1075,"Caldera Brewing Company",1300936020,4.5,4,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"39",1075,"Caldera Brewing Company",1300237348,4,4,3.5,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
+"40",1075,"Caldera Brewing Company",1297290394,3.5,3.5,4,"Rauchbier",3.5,3.5,"Rauch Ür Bock",7.4,58046
+"41",1075,"Caldera Brewing Company",1291959798,3.5,4,4,"Rauchbier",3.5,3.5,"Rauch Ür Bock",7.4,58046
+"42",1075,"Caldera Brewing Company",1291254447,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"43",1075,"Caldera Brewing Company",1286839186,3.5,3.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"44",1075,"Caldera Brewing Company",1286679032,4.5,4.5,3,"Rauchbier",4.5,4.5,"Rauch Ür Bock",7.4,58046
+"45",1075,"Caldera Brewing Company",1285545349,4.5,4.5,3.5,"Rauchbier",4,5,"Rauch Ür Bock",7.4,58046
+"46",1075,"Caldera Brewing Company",1284135689,4.5,4.5,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"47",1075,"Caldera Brewing Company",1281495119,4,4,4,"Rauchbier",4,4,"Rauch Ür Bock",7.4,58046
+"48",1075,"Caldera Brewing Company",1281303716,4,4.5,4,"Rauchbier",4,4.5,"Rauch Ür Bock",7.4,58046
+"49",1075,"Caldera Brewing Company",1277846123,4,4.5,4,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
+"50",1075,"Caldera Brewing Company",1275779614,4,4.5,3.5,"Rauchbier",3.5,4,"Rauch Ür Bock",7.4,58046
+"51",1075,"Caldera Brewing Company",1273021280,4,4.5,3.5,"Rauchbier",4.5,4,"Rauch Ür Bock",7.4,58046
+"52",1075,"Caldera Brewing Company",1251327677,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"53",1075,"Caldera Brewing Company",1250928902,2.5,3,3.5,"American Pale Ale (APA)",3.5,2.5,"Caldera Pale Ale",5.5,25414
+"54",1075,"Caldera Brewing Company",1249866208,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"55",1075,"Caldera Brewing Company",1310259440,4.5,4.5,4.5,"American Porter",4.5,5,"Pilot Rock Porter",5.8,10788
+"56",1075,"Caldera Brewing Company",1249847121,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"57",1075,"Caldera Brewing Company",1249556277,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"58",1075,"Caldera Brewing Company",1249347819,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"59",1075,"Caldera Brewing Company",1248223105,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"60",1075,"Caldera Brewing Company",1248142715,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"61",1075,"Caldera Brewing Company",1247611689,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"62",1075,"Caldera Brewing Company",1246913078,5,4,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"63",1075,"Caldera Brewing Company",1208019450,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"64",1075,"Caldera Brewing Company",1246835039,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Caldera Pale Ale",5.5,25414
+"65",1075,"Caldera Brewing Company",1245632401,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"66",1075,"Caldera Brewing Company",1245007399,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"67",1075,"Caldera Brewing Company",1243386855,4,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"68",1075,"Caldera Brewing Company",1243111472,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"69",1075,"Caldera Brewing Company",1242695740,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"70",1075,"Caldera Brewing Company",1242591041,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"71",1075,"Caldera Brewing Company",1240194272,4,3.5,2.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"72",1075,"Caldera Brewing Company",1239404031,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"73",1075,"Caldera Brewing Company",1238806680,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"74",1075,"Caldera Brewing Company",1238102425,4.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"75",1075,"Caldera Brewing Company",1237995185,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"76",1075,"Caldera Brewing Company",1235940573,5,3.5,4,"American Pale Ale (APA)",4,5,"Caldera Pale Ale",5.5,25414
+"77",1075,"Caldera Brewing Company",1235869779,5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"78",1075,"Caldera Brewing Company",1235799776,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"79",1075,"Caldera Brewing Company",1234402493,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"80",1075,"Caldera Brewing Company",1234301164,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"81",1075,"Caldera Brewing Company",1234289072,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"82",1075,"Caldera Brewing Company",1233532055,4,4,4,"American Pale Ale (APA)",4.5,3.5,"Caldera Pale Ale",5.5,25414
+"83",1075,"Caldera Brewing Company",1233527792,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"84",1075,"Caldera Brewing Company",1276458339,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"85",1075,"Caldera Brewing Company",1233438861,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"86",1075,"Caldera Brewing Company",1232762866,3.5,4,3.5,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
+"87",1075,"Caldera Brewing Company",1231859071,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
+"88",1075,"Caldera Brewing Company",1231644832,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"89",1075,"Caldera Brewing Company",1228286719,4,3,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"90",1075,"Caldera Brewing Company",1227368772,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"91",1075,"Caldera Brewing Company",1222211380,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Caldera Pale Ale",5.5,25414
+"92",1075,"Caldera Brewing Company",1220215328,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"93",1075,"Caldera Brewing Company",1275798498,4,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"94",1075,"Caldera Brewing Company",1219023488,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Caldera Pale Ale",5.5,25414
+"95",1075,"Caldera Brewing Company",1218509484,4,4,4,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
+"96",1075,"Caldera Brewing Company",1217377327,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"97",1075,"Caldera Brewing Company",1216870136,3.5,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"98",1075,"Caldera Brewing Company",1216764325,4,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"99",1075,"Caldera Brewing Company",1215737527,4.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"100",1075,"Caldera Brewing Company",1215478984,4,4,4.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"101",1075,"Caldera Brewing Company",1215388875,4.5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"102",1075,"Caldera Brewing Company",1210468644,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"103",1075,"Caldera Brewing Company",1208444405,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"104",1075,"Caldera Brewing Company",1310518783,4,4,4.5,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
+"105",1075,"Caldera Brewing Company",1207375871,3.5,4,5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"106",1075,"Caldera Brewing Company",1206403506,4.5,3.5,3,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"107",1075,"Caldera Brewing Company",1206326545,5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"108",1075,"Caldera Brewing Company",1205302160,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"109",1075,"Caldera Brewing Company",1204256003,4,3.5,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
+"110",1075,"Caldera Brewing Company",1199158664,3,2.5,3,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
+"111",1075,"Caldera Brewing Company",1198817492,3,4,3.5,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"112",1075,"Caldera Brewing Company",1190043490,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"113",1075,"Caldera Brewing Company",1188970905,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"114",1075,"Caldera Brewing Company",1186867975,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"115",1075,"Caldera Brewing Company",1275439462,4,3.5,2.5,"American Pale Ale (APA)",3,4.5,"Caldera Pale Ale",5.5,25414
+"116",1075,"Caldera Brewing Company",1182308568,4,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"117",1075,"Caldera Brewing Company",1181450867,4.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"118",1075,"Caldera Brewing Company",1177638920,4,3,3.5,"American Pale Ale (APA)",2.5,3.5,"Caldera Pale Ale",5.5,25414
+"119",1075,"Caldera Brewing Company",1170714306,4.5,4,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"120",1075,"Caldera Brewing Company",1160699043,5,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"121",1075,"Caldera Brewing Company",1160265839,3.5,4,3,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"122",1075,"Caldera Brewing Company",1157665307,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"123",1075,"Caldera Brewing Company",1154568582,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"124",1075,"Caldera Brewing Company",1154067787,4.5,4,3,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"125",1075,"Caldera Brewing Company",1148947298,3,4,4,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
+"126",1075,"Caldera Brewing Company",1147643598,4,4,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"127",1075,"Caldera Brewing Company",1147583357,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"128",1075,"Caldera Brewing Company",1132082651,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"129",1075,"Caldera Brewing Company",1124731747,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"130",1075,"Caldera Brewing Company",1326212716,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"131",1075,"Caldera Brewing Company",1322517349,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"132",1075,"Caldera Brewing Company",1321322911,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"133",1075,"Caldera Brewing Company",1274928281,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"134",1075,"Caldera Brewing Company",1320470970,3.5,3.5,4.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
+"135",1075,"Caldera Brewing Company",1320422191,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"136",1075,"Caldera Brewing Company",1318247779,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"137",1075,"Caldera Brewing Company",1316727048,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"138",1075,"Caldera Brewing Company",1315501843,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"139",1075,"Caldera Brewing Company",1315424611,4,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"140",1075,"Caldera Brewing Company",1313814599,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"141",1075,"Caldera Brewing Company",1313539369,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"142",1075,"Caldera Brewing Company",1313538701,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"143",1075,"Caldera Brewing Company",1274919895,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"144",1075,"Caldera Brewing Company",1313344297,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"145",1075,"Caldera Brewing Company",1313205214,4,3.5,3.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"146",1075,"Caldera Brewing Company",1312859109,4,4,4,"American Pale Ale (APA)",3.5,4.5,"Caldera Pale Ale",5.5,25414
+"147",1075,"Caldera Brewing Company",1311635079,3,3,4,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
+"148",1075,"Caldera Brewing Company",1310596490,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
+"149",1075,"Caldera Brewing Company",1309143059,3,3.5,4,"American Pale Ale (APA)",3.5,2.5,"Caldera Pale Ale",5.5,25414
+"150",1075,"Caldera Brewing Company",1307926374,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"151",1075,"Caldera Brewing Company",1307228809,3,3.5,4,"American Pale Ale (APA)",3,3,"Caldera Pale Ale",5.5,25414
+"152",1075,"Caldera Brewing Company",1306801312,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"153",1075,"Caldera Brewing Company",1305443533,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"154",1075,"Caldera Brewing Company",1304919405,4,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"155",1075,"Caldera Brewing Company",1304775252,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"156",1075,"Caldera Brewing Company",1302318720,4.5,5,4.5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"157",1075,"Caldera Brewing Company",1299616654,2.5,3.5,4,"American Pale Ale (APA)",2,2.5,"Caldera Pale Ale",5.5,25414
+"158",1075,"Caldera Brewing Company",1299469158,4,3.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"159",1075,"Caldera Brewing Company",1298677831,4.5,2,2,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"160",1075,"Caldera Brewing Company",1298604088,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Caldera Pale Ale",5.5,25414
+"161",1075,"Caldera Brewing Company",1296947205,3,3.5,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
+"162",1075,"Caldera Brewing Company",1286931306,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"163",1075,"Caldera Brewing Company",1296194634,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"164",1075,"Caldera Brewing Company",1292368869,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"165",1075,"Caldera Brewing Company",1291082909,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"166",1075,"Caldera Brewing Company",1289995470,4,4,5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"167",1075,"Caldera Brewing Company",1288306896,3,3,3,"American Pale Ale (APA)",2.5,3,"Caldera Pale Ale",5.5,25414
+"168",1075,"Caldera Brewing Company",1288229762,4.5,4.5,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"169",1075,"Caldera Brewing Company",1288124891,4,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"170",1075,"Caldera Brewing Company",1286887230,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"171",1075,"Caldera Brewing Company",1286770715,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"172",1075,"Caldera Brewing Company",1285123300,4,3,4,"American Pale Ale (APA)",4,2.5,"Caldera Pale Ale",5.5,25414
+"173",1075,"Caldera Brewing Company",1284070441,4,4,4,"American Pale Ale (APA)",3.5,4.5,"Caldera Pale Ale",5.5,25414
+"174",1075,"Caldera Brewing Company",1282616446,3.5,3.5,3.5,"American Pale Ale (APA)",5,3.5,"Caldera Pale Ale",5.5,25414
+"175",1075,"Caldera Brewing Company",1281751758,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"176",1075,"Caldera Brewing Company",1281407690,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"177",1075,"Caldera Brewing Company",1281230213,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"178",1075,"Caldera Brewing Company",1280773118,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"179",1075,"Caldera Brewing Company",1258511938,5,5,3,"American Pale Ale (APA)",5,5,"Caldera Pale Ale",5.5,25414
+"180",1075,"Caldera Brewing Company",1280377901,5,3.5,4,"American Pale Ale (APA)",5,4,"Caldera Pale Ale",5.5,25414
+"181",1075,"Caldera Brewing Company",1280121552,4,3,4,"American Pale Ale (APA)",3,4,"Caldera Pale Ale",5.5,25414
+"182",1075,"Caldera Brewing Company",1279898459,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"183",1075,"Caldera Brewing Company",1279603940,3,3.5,3.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
+"184",1075,"Caldera Brewing Company",1278462434,4,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"185",1075,"Caldera Brewing Company",1278094363,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"186",1075,"Caldera Brewing Company",1277592425,4,3,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"187",1075,"Caldera Brewing Company",1277176387,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"188",1075,"Caldera Brewing Company",1277173621,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"189",1075,"Caldera Brewing Company",1274582920,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"190",1075,"Caldera Brewing Company",1274535816,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"191",1075,"Caldera Brewing Company",1274399540,3,4,3.5,"American Pale Ale (APA)",4,3,"Caldera Pale Ale",5.5,25414
+"192",1075,"Caldera Brewing Company",1273493811,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"193",1075,"Caldera Brewing Company",1271993282,4,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"194",1075,"Caldera Brewing Company",1269722488,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"195",1075,"Caldera Brewing Company",1268076225,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"196",1075,"Caldera Brewing Company",1267839055,3,3,2.5,"American Pale Ale (APA)",2.5,3,"Caldera Pale Ale",5.5,25414
+"197",1075,"Caldera Brewing Company",1266473259,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"198",1075,"Caldera Brewing Company",1266280281,4,3.5,5,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"199",1075,"Caldera Brewing Company",1265831510,5,4,4,"American Pale Ale (APA)",4.5,4,"Caldera Pale Ale",5.5,25414
+"200",1075,"Caldera Brewing Company",1265696374,4,3.5,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"201",1075,"Caldera Brewing Company",1264269458,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"202",1075,"Caldera Brewing Company",1264041225,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Caldera Pale Ale",5.5,25414
+"203",1075,"Caldera Brewing Company",1262623366,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"204",1075,"Caldera Brewing Company",1262485655,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"205",1075,"Caldera Brewing Company",1261976212,5,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"206",1075,"Caldera Brewing Company",1260202692,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"207",1075,"Caldera Brewing Company",1258953381,4.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"208",1075,"Caldera Brewing Company",1256089931,4.5,3,4,"American Pale Ale (APA)",4,5,"Caldera Pale Ale",5.5,25414
+"209",1075,"Caldera Brewing Company",1255564836,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Caldera Pale Ale",5.5,25414
+"210",1075,"Caldera Brewing Company",1254457053,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"211",1075,"Caldera Brewing Company",1254185699,4,3,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"212",1075,"Caldera Brewing Company",1254099708,4.5,4,4,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"213",1075,"Caldera Brewing Company",1253889382,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Caldera Pale Ale",5.5,25414
+"214",1075,"Caldera Brewing Company",1252549074,4,4,4,"American Pale Ale (APA)",4,3.5,"Caldera Pale Ale",5.5,25414
+"215",1075,"Caldera Brewing Company",1252535262,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Caldera Pale Ale",5.5,25414
+"216",1075,"Caldera Brewing Company",1251925734,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Caldera Pale Ale",5.5,25414
+"217",1075,"Caldera Brewing Company",1304977550,4,4,4,"American Porter",4.5,4,"Pilot Rock Porter",5.8,10788
+"218",1075,"Caldera Brewing Company",1299734664,4.5,3.5,3,"American Porter",5,4.5,"Pilot Rock Porter",5.8,10788
+"219",1075,"Caldera Brewing Company",1270238942,4.5,4,4,"American Porter",4,4.5,"Pilot Rock Porter",5.8,10788
+"220",1075,"Caldera Brewing Company",1265775166,3.5,3.5,4,"American Porter",3.5,3.5,"Pilot Rock Porter",5.8,10788
+"221",1075,"Caldera Brewing Company",1254977926,5,4,4.5,"American Porter",4,4,"Pilot Rock Porter",5.8,10788
+"222",1075,"Caldera Brewing Company",1153680639,4.5,3.5,4.5,"American Porter",4.5,4,"Pilot Rock Porter",5.8,10788
+"223",1075,"Caldera Brewing Company",1113805689,3.5,3.5,3.5,"American Porter",3.5,3,"Pilot Rock Porter",5.8,10788
+"224",1075,"Caldera Brewing Company",1100743845,2.5,2.5,3,"American Porter",2.5,3,"Pilot Rock Porter",5.8,10788
+"225",1075,"Caldera Brewing Company",1326071409,3.5,3.5,4,"Belgian Strong Dark Ale",2,3.5,"Vas Deferens Ale",8.1,58920
+"226",1075,"Caldera Brewing Company",1321407186,3,4,2,"Belgian Strong Dark Ale",3,2.5,"Vas Deferens Ale",8.1,58920
+"227",1075,"Caldera Brewing Company",1311736668,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"228",1075,"Caldera Brewing Company",1321070530,3.5,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Vas Deferens Ale",8.1,58920
+"229",1075,"Caldera Brewing Company",1320555535,4,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"230",1075,"Caldera Brewing Company",1319921102,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"231",1075,"Caldera Brewing Company",1319858005,3.5,3.5,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
+"232",1075,"Caldera Brewing Company",1317515953,4,3,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"233",1075,"Caldera Brewing Company",1317093500,3,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"234",1075,"Caldera Brewing Company",1315280892,4.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"235",1075,"Caldera Brewing Company",1314576950,4,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
+"236",1075,"Caldera Brewing Company",1313275008,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Vas Deferens Ale",8.1,58920
+"237",1075,"Caldera Brewing Company",1311901246,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"238",1075,"Caldera Brewing Company",1309577754,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
+"239",1075,"Caldera Brewing Company",1309227572,4,3,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
+"240",1075,"Caldera Brewing Company",1304116900,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
+"241",1075,"Caldera Brewing Company",1300995057,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
+"242",1075,"Caldera Brewing Company",1300226447,3.5,4,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"243",1075,"Caldera Brewing Company",1296739609,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"244",1075,"Caldera Brewing Company",1294716213,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"245",1075,"Caldera Brewing Company",1292542146,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
+"246",1075,"Caldera Brewing Company",1272945129,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"247",1075,"Caldera Brewing Company",1290310276,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"248",1075,"Caldera Brewing Company",1289007164,3,2.5,4,"Belgian Strong Dark Ale",3.5,3,"Vas Deferens Ale",8.1,58920
+"249",1075,"Caldera Brewing Company",1287556131,3.5,2.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"250",1075,"Caldera Brewing Company",1283849227,2,2.5,4,"Belgian Strong Dark Ale",2.5,2,"Vas Deferens Ale",8.1,58920
+"251",1075,"Caldera Brewing Company",1283632391,2.5,2,2.5,"Belgian Strong Dark Ale",1,2.5,"Vas Deferens Ale",8.1,58920
+"252",1075,"Caldera Brewing Company",1283402291,3,3.5,3.5,"Belgian Strong Dark Ale",3,3,"Vas Deferens Ale",8.1,58920
+"253",1075,"Caldera Brewing Company",1281917733,4,4,4,"Belgian Strong Dark Ale",4,4,"Vas Deferens Ale",8.1,58920
+"254",1075,"Caldera Brewing Company",1324238653,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"255",1075,"Caldera Brewing Company",1281017724,3,4,3.5,"Belgian Strong Dark Ale",2.5,3,"Vas Deferens Ale",8.1,58920
+"256",1075,"Caldera Brewing Company",1278714049,3,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"257",1075,"Caldera Brewing Company",1277183331,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Vas Deferens Ale",8.1,58920
+"258",1075,"Caldera Brewing Company",1277179584,5,4,4,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"259",1075,"Caldera Brewing Company",1276135287,4,3.5,4.5,"Belgian Strong Dark Ale",4,3,"Vas Deferens Ale",8.1,58920
+"260",1075,"Caldera Brewing Company",1275892159,3.5,3.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Vas Deferens Ale",8.1,58920
+"261",1075,"Caldera Brewing Company",1275778651,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Vas Deferens Ale",8.1,58920
+"262",1075,"Caldera Brewing Company",1314593255,4.5,4,4,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
+"263",1075,"Caldera Brewing Company",1325371643,4,4,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"264",1075,"Caldera Brewing Company",1324873502,4,4,4,"Russian Imperial Stout",3.5,4,"Old Growth Imperial Stout",8.8,20818
+"265",1075,"Caldera Brewing Company",1321759929,4,3.5,3,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
+"266",1075,"Caldera Brewing Company",1320011799,4,4,4,"Russian Imperial Stout",4.5,4,"Old Growth Imperial Stout",8.8,20818
+"267",1075,"Caldera Brewing Company",1319912250,4,4,2.5,"Russian Imperial Stout",4.5,4,"Old Growth Imperial Stout",8.8,20818
+"268",1075,"Caldera Brewing Company",1319087212,4,4,4.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"269",1075,"Caldera Brewing Company",1318908990,4.5,4,4,"Russian Imperial Stout",5,4.5,"Old Growth Imperial Stout",8.8,20818
+"270",1075,"Caldera Brewing Company",1318153805,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
+"271",1075,"Caldera Brewing Company",1316051590,3.5,3,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"272",1075,"Caldera Brewing Company",1315044032,4,4,4.5,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
+"273",1075,"Caldera Brewing Company",1313553891,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"274",1075,"Caldera Brewing Company",1312575615,5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Old Growth Imperial Stout",8.8,20818
+"275",1075,"Caldera Brewing Company",1310693953,5,5,5,"Russian Imperial Stout",5,4.5,"Old Growth Imperial Stout",8.8,20818
+"276",1075,"Caldera Brewing Company",1305846083,4,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"277",1075,"Caldera Brewing Company",1305776840,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"278",1075,"Caldera Brewing Company",1304910259,4,3,3.5,"Russian Imperial Stout",3,4,"Old Growth Imperial Stout",8.8,20818
+"279",1075,"Caldera Brewing Company",1301436909,4,4,4,"Russian Imperial Stout",3.5,4,"Old Growth Imperial Stout",8.8,20818
+"280",1075,"Caldera Brewing Company",1301108461,4.5,4.5,4.5,"Russian Imperial Stout",4,5,"Old Growth Imperial Stout",8.8,20818
+"281",1075,"Caldera Brewing Company",1106529693,4.5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Dry Hop Red",5.7,10786
+"282",1075,"Caldera Brewing Company",1301032260,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"283",1075,"Caldera Brewing Company",1299090515,3,4,3.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"284",1075,"Caldera Brewing Company",1297663058,3.5,4,4,"Russian Imperial Stout",4,3.5,"Old Growth Imperial Stout",8.8,20818
+"285",1075,"Caldera Brewing Company",1297637051,3.5,3.5,4,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"286",1075,"Caldera Brewing Company",1296103099,4,3.5,4.5,"Russian Imperial Stout",4,3.5,"Old Growth Imperial Stout",8.8,20818
+"287",1075,"Caldera Brewing Company",1295916750,4,4,4,"Russian Imperial Stout",4,4.5,"Old Growth Imperial Stout",8.8,20818
+"288",1075,"Caldera Brewing Company",1267669241,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"289",1075,"Caldera Brewing Company",1233976509,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Old Growth Imperial Stout",8.8,20818
+"290",1075,"Caldera Brewing Company",1104119630,3,4,3.5,"American Amber / Red Ale",3,4,"Dry Hop Red",5.7,10786
+"291",1075,"Caldera Brewing Company",1232517923,5,4.5,4.5,"Russian Imperial Stout",5,5,"Old Growth Imperial Stout",8.8,20818
+"292",1075,"Caldera Brewing Company",1202674258,4,4,4.5,"Russian Imperial Stout",4,4,"Old Growth Imperial Stout",8.8,20818
+"293",1075,"Caldera Brewing Company",1316030136,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Dry Hop Red",5.7,10786
+"294",1075,"Caldera Brewing Company",1190326149,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
+"295",1075,"Caldera Brewing Company",1174767562,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"Dry Hop Red",5.7,10786
+"296",1075,"Caldera Brewing Company",1171415576,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
+"297",1075,"Caldera Brewing Company",1119304996,4,4,3,"American Amber / Red Ale",3.5,4,"Dry Hop Red",5.7,10786
+"298",1075,"Caldera Brewing Company",1111803322,4,4,4,"American Amber / Red Ale",4.5,4.5,"Dry Hop Red",5.7,10786
+"299",1075,"Caldera Brewing Company",1103510937,4.5,4.5,3.5,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
+"300",1075,"Caldera Brewing Company",1060927934,4,4.5,4.5,"American Amber / Red Ale",4,4,"Dry Hop Red",5.7,10786
+"301",1075,"Caldera Brewing Company",1313637622,3,3,4,"American Adjunct Lager",2,3,"Lawnmower Lager",3.9,20817
+"302",1075,"Caldera Brewing Company",1294716177,4,4,4,"American Adjunct Lager",4,4,"Lawnmower Lager",3.9,20817
+"303",1075,"Caldera Brewing Company",1284525849,4.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Lawnmower Lager",3.9,20817
+"304",1075,"Caldera Brewing Company",1281229651,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Lawnmower Lager",3.9,20817
+"305",1075,"Caldera Brewing Company",1279762002,3,3.5,3.5,"American Adjunct Lager",3,3,"Lawnmower Lager",3.9,20817
+"306",1075,"Caldera Brewing Company",1279679219,3.5,3,3,"American Adjunct Lager",2.5,3,"Lawnmower Lager",3.9,20817
+"307",1075,"Caldera Brewing Company",1278993362,3,3,3,"American Adjunct Lager",3,3,"Lawnmower Lager",3.9,20817
+"308",1075,"Caldera Brewing Company",1277081906,4.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Lawnmower Lager",3.9,20817
+"309",1075,"Caldera Brewing Company",1275777906,3.5,2.5,3,"American Adjunct Lager",4,3,"Lawnmower Lager",3.9,20817
+"310",1075,"Caldera Brewing Company",1275771652,5,4,4,"American Adjunct Lager",4,4.5,"Lawnmower Lager",3.9,20817
+"311",1075,"Caldera Brewing Company",1274579229,2,2.5,2,"American Adjunct Lager",2.5,2.5,"Lawnmower Lager",3.9,20817
+"312",1075,"Caldera Brewing Company",1270908226,4,3,2,"American Adjunct Lager",2.5,3,"Lawnmower Lager",3.9,20817
+"313",1075,"Caldera Brewing Company",1270706342,4.5,3.5,4,"American Adjunct Lager",3,4,"Lawnmower Lager",3.9,20817
+"314",1075,"Caldera Brewing Company",1267230079,1,1.5,1,"American Adjunct Lager",1,1,"Lawnmower Lager",3.9,20817
+"315",1075,"Caldera Brewing Company",1324042981,3,3.5,3,"American Blonde Ale",2,3,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"316",1075,"Caldera Brewing Company",1296875377,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"317",1075,"Caldera Brewing Company",1322529598,4,4,4,"American Blonde Ale",3.5,4.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"318",1075,"Caldera Brewing Company",1313491119,1.5,2,3,"American Blonde Ale",2,1.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"319",1075,"Caldera Brewing Company",1312168951,3,3.5,3.5,"American Blonde Ale",3,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"320",1075,"Caldera Brewing Company",1310388796,1.5,1.5,3,"American Blonde Ale",2,1.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"321",1075,"Caldera Brewing Company",1284083587,4,3,4.5,"American Blonde Ale",3,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"322",1075,"Caldera Brewing Company",1282984478,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Caldera Rose Petal (Kettle Series)",6.7,61427
+"323",1075,"Caldera Brewing Company",1297129212,4,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"324",1075,"Caldera Brewing Company",1297105083,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"325",1075,"Caldera Brewing Company",1296947627,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"326",1075,"Caldera Brewing Company",1296620697,3.5,4,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"327",1075,"Caldera Brewing Company",1296233050,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"328",1075,"Caldera Brewing Company",1296008402,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"329",1075,"Caldera Brewing Company",1296005914,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"330",1075,"Caldera Brewing Company",1295671770,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"331",1075,"Caldera Brewing Company",1295585824,4,4.5,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"332",1075,"Caldera Brewing Company",1294974656,5,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"333",1075,"Caldera Brewing Company",1294791118,4,4.5,5,"American IPA",4,5,"Caldera IPA",6.1,10784
+"334",1075,"Caldera Brewing Company",1294539199,4,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"335",1075,"Caldera Brewing Company",1294305907,4,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"336",1075,"Caldera Brewing Company",1294116253,4,4,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"337",1075,"Caldera Brewing Company",1293153465,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"338",1075,"Caldera Brewing Company",1293123837,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"339",1075,"Caldera Brewing Company",1293061516,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"340",1075,"Caldera Brewing Company",1292778811,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"341",1075,"Caldera Brewing Company",1292282933,4.5,4,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"342",1075,"Caldera Brewing Company",1291909316,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"343",1075,"Caldera Brewing Company",1291863248,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"344",1075,"Caldera Brewing Company",1291772007,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"345",1075,"Caldera Brewing Company",1280725041,4,3.5,4.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"346",1075,"Caldera Brewing Company",1290892378,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"347",1075,"Caldera Brewing Company",1290186023,3,2.5,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"348",1075,"Caldera Brewing Company",1289994167,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"349",1075,"Caldera Brewing Company",1289772727,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"350",1075,"Caldera Brewing Company",1289066078,4.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"351",1075,"Caldera Brewing Company",1288747230,4,4,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"352",1075,"Caldera Brewing Company",1288594654,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"353",1075,"Caldera Brewing Company",1288568600,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"354",1075,"Caldera Brewing Company",1288326570,5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"355",1075,"Caldera Brewing Company",1288222917,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"356",1075,"Caldera Brewing Company",1237945444,4.5,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"357",1075,"Caldera Brewing Company",1287709770,5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"358",1075,"Caldera Brewing Company",1287274920,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"359",1075,"Caldera Brewing Company",1286137884,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"360",1075,"Caldera Brewing Company",1285793647,2.5,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"361",1075,"Caldera Brewing Company",1285631508,3.5,2.5,3.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"362",1075,"Caldera Brewing Company",1285543810,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"363",1075,"Caldera Brewing Company",1285394918,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"364",1075,"Caldera Brewing Company",1285377193,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"365",1075,"Caldera Brewing Company",1284942580,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"366",1075,"Caldera Brewing Company",1284915166,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"367",1075,"Caldera Brewing Company",1284791160,3.5,3,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"368",1075,"Caldera Brewing Company",1279169746,4.5,3.5,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"369",1075,"Caldera Brewing Company",1284773313,4,4,4.5,"American IPA",3,4.5,"Caldera IPA",6.1,10784
+"370",1075,"Caldera Brewing Company",1284684401,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"371",1075,"Caldera Brewing Company",1284602207,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"372",1075,"Caldera Brewing Company",1284314205,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"373",1075,"Caldera Brewing Company",1284260105,4.5,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"374",1075,"Caldera Brewing Company",1284237564,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"375",1075,"Caldera Brewing Company",1283221299,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"376",1075,"Caldera Brewing Company",1282776701,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"377",1075,"Caldera Brewing Company",1278974127,3.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"378",1075,"Caldera Brewing Company",1282437399,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"379",1075,"Caldera Brewing Company",1282425919,5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"380",1075,"Caldera Brewing Company",1282359216,4.5,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"381",1075,"Caldera Brewing Company",1281981701,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"382",1075,"Caldera Brewing Company",1281829729,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"383",1075,"Caldera Brewing Company",1281560681,4.5,4,3.5,"American IPA",4,5,"Caldera IPA",6.1,10784
+"384",1075,"Caldera Brewing Company",1281058518,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"385",1075,"Caldera Brewing Company",1281054838,4,4.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"386",1075,"Caldera Brewing Company",1280985927,4,4,5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"387",1075,"Caldera Brewing Company",1280541063,5,4,4.5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
+"388",1075,"Caldera Brewing Company",1280121771,3,3,4,"American IPA",3,2.5,"Caldera IPA",6.1,10784
+"389",1075,"Caldera Brewing Company",1279927381,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"390",1075,"Caldera Brewing Company",1279656760,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"391",1075,"Caldera Brewing Company",1279590609,4.5,5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"392",1075,"Caldera Brewing Company",1279588546,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"393",1075,"Caldera Brewing Company",1279487880,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"394",1075,"Caldera Brewing Company",1279374127,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"395",1075,"Caldera Brewing Company",1278972867,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"396",1075,"Caldera Brewing Company",1278684178,3.5,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"397",1075,"Caldera Brewing Company",1278630893,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"398",1075,"Caldera Brewing Company",1278462382,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"399",1075,"Caldera Brewing Company",1278378015,3,3,3,"American IPA",3,3,"Caldera IPA",6.1,10784
+"400",1075,"Caldera Brewing Company",1278312943,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"401",1075,"Caldera Brewing Company",1278093529,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"402",1075,"Caldera Brewing Company",1278016964,4,3.5,3,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"403",1075,"Caldera Brewing Company",1277424439,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"404",1075,"Caldera Brewing Company",1275409131,4.5,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"405",1075,"Caldera Brewing Company",1277347253,4.5,4.5,3.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"406",1075,"Caldera Brewing Company",1277329335,4,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"407",1075,"Caldera Brewing Company",1277327337,4.5,4,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"408",1075,"Caldera Brewing Company",1277179754,4,4,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"409",1075,"Caldera Brewing Company",1277173332,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"410",1075,"Caldera Brewing Company",1276830747,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"411",1075,"Caldera Brewing Company",1276327213,4.5,4.5,4.5,"American IPA",4,5,"Caldera IPA",6.1,10784
+"412",1075,"Caldera Brewing Company",1275512166,4,4.5,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"413",1075,"Caldera Brewing Company",1275388099,5,5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"414",1075,"Caldera Brewing Company",1274584909,5,5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"415",1075,"Caldera Brewing Company",1274110682,3.5,2.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"416",1075,"Caldera Brewing Company",1274064984,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"417",1075,"Caldera Brewing Company",1273843947,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"418",1075,"Caldera Brewing Company",1273809063,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"419",1075,"Caldera Brewing Company",1273711585,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"420",1075,"Caldera Brewing Company",1273617448,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"421",1075,"Caldera Brewing Company",1272135863,4.5,4,4.5,"American IPA",5,5,"Caldera IPA",6.1,10784
+"422",1075,"Caldera Brewing Company",1326249924,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"423",1075,"Caldera Brewing Company",1326238002,4,4.5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"424",1075,"Caldera Brewing Company",1326032536,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"425",1075,"Caldera Brewing Company",1325980456,5,5,5,"American IPA",5,5,"Caldera IPA",6.1,10784
+"426",1075,"Caldera Brewing Company",1325657658,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"427",1075,"Caldera Brewing Company",1325477658,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"428",1075,"Caldera Brewing Company",1325383668,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"429",1075,"Caldera Brewing Company",1324936267,4.5,3.5,3,"American IPA",4,4,"Caldera IPA",6.1,10784
+"430",1075,"Caldera Brewing Company",1324173764,5,5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"431",1075,"Caldera Brewing Company",1272067521,4.5,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"432",1075,"Caldera Brewing Company",1271892680,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"433",1075,"Caldera Brewing Company",1271509638,4.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"434",1075,"Caldera Brewing Company",1271296509,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"435",1075,"Caldera Brewing Company",1270956549,4,3,4.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"436",1075,"Caldera Brewing Company",1270492948,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"437",1075,"Caldera Brewing Company",1269892519,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"438",1075,"Caldera Brewing Company",1269642122,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"439",1075,"Caldera Brewing Company",1269174802,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"440",1075,"Caldera Brewing Company",1268775804,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"441",1075,"Caldera Brewing Company",1268743762,4.5,4.5,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"442",1075,"Caldera Brewing Company",1268596419,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"443",1075,"Caldera Brewing Company",1268415775,1,4,4,"American IPA",2,2,"Caldera IPA",6.1,10784
+"444",1075,"Caldera Brewing Company",1268007672,3.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"445",1075,"Caldera Brewing Company",1267929272,4.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"446",1075,"Caldera Brewing Company",1267313530,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"447",1075,"Caldera Brewing Company",1266947297,4,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"448",1075,"Caldera Brewing Company",1266787279,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"449",1075,"Caldera Brewing Company",1266701805,4,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"450",1075,"Caldera Brewing Company",1266459012,4,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"451",1075,"Caldera Brewing Company",1266388888,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"452",1075,"Caldera Brewing Company",1266388534,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"453",1075,"Caldera Brewing Company",1266363163,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"454",1075,"Caldera Brewing Company",1266284114,3,2.5,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"455",1075,"Caldera Brewing Company",1265786262,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"456",1075,"Caldera Brewing Company",1265676399,4,3,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"457",1075,"Caldera Brewing Company",1259454988,4.5,3,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"458",1075,"Caldera Brewing Company",1265225199,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"459",1075,"Caldera Brewing Company",1262920359,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"460",1075,"Caldera Brewing Company",1262403473,4.5,3.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"461",1075,"Caldera Brewing Company",1262314296,4.5,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"462",1075,"Caldera Brewing Company",1261805236,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"463",1075,"Caldera Brewing Company",1261454050,5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"464",1075,"Caldera Brewing Company",1261448306,4,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"465",1075,"Caldera Brewing Company",1259219882,4,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"466",1075,"Caldera Brewing Company",1261356086,4,3.5,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"467",1075,"Caldera Brewing Company",1261108959,4,4,4.5,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
+"468",1075,"Caldera Brewing Company",1260945337,3.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"469",1075,"Caldera Brewing Company",1260766595,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"470",1075,"Caldera Brewing Company",1260411055,4.5,5,4.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"471",1075,"Caldera Brewing Company",1260255554,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"472",1075,"Caldera Brewing Company",1260051904,4.5,5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"473",1075,"Caldera Brewing Company",1259630725,3.5,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"474",1075,"Caldera Brewing Company",1227450368,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"475",1075,"Caldera Brewing Company",1259109381,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"476",1075,"Caldera Brewing Company",1259047445,3.5,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"477",1075,"Caldera Brewing Company",1258906716,5,5,4,"American IPA",4,5,"Caldera IPA",6.1,10784
+"478",1075,"Caldera Brewing Company",1258846778,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"479",1075,"Caldera Brewing Company",1258127478,4.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"480",1075,"Caldera Brewing Company",1256962406,3.5,4,4.5,"American IPA",4,3,"Caldera IPA",6.1,10784
+"481",1075,"Caldera Brewing Company",1256871148,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"482",1075,"Caldera Brewing Company",1256869593,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"483",1075,"Caldera Brewing Company",1256585280,3.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"484",1075,"Caldera Brewing Company",1255983403,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"485",1075,"Caldera Brewing Company",1252299756,3.5,4,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"486",1075,"Caldera Brewing Company",1255406572,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"487",1075,"Caldera Brewing Company",1254103096,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"488",1075,"Caldera Brewing Company",1254073027,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"489",1075,"Caldera Brewing Company",1253757832,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"490",1075,"Caldera Brewing Company",1253650330,4.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"491",1075,"Caldera Brewing Company",1253477448,5,4.5,4.5,"American IPA",5,5,"Caldera IPA",6.1,10784
+"492",1075,"Caldera Brewing Company",1253213801,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"493",1075,"Caldera Brewing Company",1252729215,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"494",1075,"Caldera Brewing Company",1252632725,4.5,4,3.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"495",1075,"Caldera Brewing Company",1252027454,3.5,4,3.5,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
+"496",1075,"Caldera Brewing Company",1251925968,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"497",1075,"Caldera Brewing Company",1251853060,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"498",1075,"Caldera Brewing Company",1251411241,3.5,3.5,3,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"499",1075,"Caldera Brewing Company",1251276005,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"500",1075,"Caldera Brewing Company",1250934691,2.5,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"501",1075,"Caldera Brewing Company",1250789813,4.5,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"502",1075,"Caldera Brewing Company",1250702282,4,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"503",1075,"Caldera Brewing Company",1250440035,3,3.5,3.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"504",1075,"Caldera Brewing Company",1243102194,3,5,4,"American IPA",4,3,"Caldera IPA",6.1,10784
+"505",1075,"Caldera Brewing Company",1250129621,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"506",1075,"Caldera Brewing Company",1250097211,5,4,4,"American IPA",4.5,5,"Caldera IPA",6.1,10784
+"507",1075,"Caldera Brewing Company",1249940104,4.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"508",1075,"Caldera Brewing Company",1249869859,4.5,4.5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"509",1075,"Caldera Brewing Company",1249707176,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"510",1075,"Caldera Brewing Company",1249616172,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"511",1075,"Caldera Brewing Company",1248568237,2,4,4.5,"American IPA",3,3,"Caldera IPA",6.1,10784
+"512",1075,"Caldera Brewing Company",1227408943,4,4,4,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
+"513",1075,"Caldera Brewing Company",1248487882,3.5,4.5,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"514",1075,"Caldera Brewing Company",1248390678,4,3,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"515",1075,"Caldera Brewing Company",1247879445,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"516",1075,"Caldera Brewing Company",1247702251,3.5,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"517",1075,"Caldera Brewing Company",1247548071,4.5,3.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"518",1075,"Caldera Brewing Company",1247427830,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"519",1075,"Caldera Brewing Company",1246837454,4.5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"520",1075,"Caldera Brewing Company",1246666482,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"521",1075,"Caldera Brewing Company",1246392204,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"522",1075,"Caldera Brewing Company",1238797238,4.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"523",1075,"Caldera Brewing Company",1246326741,4,4.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"524",1075,"Caldera Brewing Company",1246257499,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"525",1075,"Caldera Brewing Company",1246219461,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"526",1075,"Caldera Brewing Company",1246156677,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"527",1075,"Caldera Brewing Company",1245731578,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"528",1075,"Caldera Brewing Company",1245728825,2,3,4,"American IPA",3,3.5,"Caldera IPA",6.1,10784
+"529",1075,"Caldera Brewing Company",1245721415,4,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"530",1075,"Caldera Brewing Company",1245540392,5,5,4.5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
+"531",1075,"Caldera Brewing Company",1245118209,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"532",1075,"Caldera Brewing Company",1245014833,4,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"533",1075,"Caldera Brewing Company",1315528776,4.5,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"534",1075,"Caldera Brewing Company",1245014092,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"535",1075,"Caldera Brewing Company",1244858084,3.5,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"536",1075,"Caldera Brewing Company",1323995849,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"537",1075,"Caldera Brewing Company",1323921048,3.5,4.5,4,"American IPA",2.5,3,"Caldera IPA",6.1,10784
+"538",1075,"Caldera Brewing Company",1323188620,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"539",1075,"Caldera Brewing Company",1322691877,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"540",1075,"Caldera Brewing Company",1321574120,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"541",1075,"Caldera Brewing Company",1320902822,3,4,3.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"542",1075,"Caldera Brewing Company",1305061090,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"543",1075,"Caldera Brewing Company",1320248628,4,3.5,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"544",1075,"Caldera Brewing Company",1319855053,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"545",1075,"Caldera Brewing Company",1319673471,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"546",1075,"Caldera Brewing Company",1319241322,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"547",1075,"Caldera Brewing Company",1244808633,3,4,4.5,"American IPA",3,3.5,"Caldera IPA",6.1,10784
+"548",1075,"Caldera Brewing Company",1244683205,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"549",1075,"Caldera Brewing Company",1244051763,4,3.5,5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"550",1075,"Caldera Brewing Company",1243717445,3.5,4,3.5,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"551",1075,"Caldera Brewing Company",1243124566,4,3.5,3.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"552",1075,"Caldera Brewing Company",1242961700,4,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"553",1075,"Caldera Brewing Company",1242846863,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"554",1075,"Caldera Brewing Company",1242592642,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"555",1075,"Caldera Brewing Company",1241873726,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"556",1075,"Caldera Brewing Company",1241160146,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"557",1075,"Caldera Brewing Company",1240794560,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"558",1075,"Caldera Brewing Company",1240714040,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"559",1075,"Caldera Brewing Company",1240713647,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"560",1075,"Caldera Brewing Company",1240592562,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"561",1075,"Caldera Brewing Company",1239571332,4.5,5,5,"American IPA",4.5,5,"Caldera IPA",6.1,10784
+"562",1075,"Caldera Brewing Company",1239324913,3.5,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"563",1075,"Caldera Brewing Company",1239073434,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"564",1075,"Caldera Brewing Company",1237515024,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"565",1075,"Caldera Brewing Company",1236737716,3.5,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"566",1075,"Caldera Brewing Company",1236041922,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"567",1075,"Caldera Brewing Company",1235943951,5,4,4.5,"American IPA",4,5,"Caldera IPA",6.1,10784
+"568",1075,"Caldera Brewing Company",1235619440,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"569",1075,"Caldera Brewing Company",1235613864,4.5,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"570",1075,"Caldera Brewing Company",1235277432,4,4.5,4,"American IPA",3.5,4.5,"Caldera IPA",6.1,10784
+"571",1075,"Caldera Brewing Company",1234656110,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"572",1075,"Caldera Brewing Company",1234301545,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"573",1075,"Caldera Brewing Company",1218555178,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"574",1075,"Caldera Brewing Company",1234287685,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"575",1075,"Caldera Brewing Company",1232941583,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"576",1075,"Caldera Brewing Company",1232781682,3,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"577",1075,"Caldera Brewing Company",1232468167,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"578",1075,"Caldera Brewing Company",1231859008,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"579",1075,"Caldera Brewing Company",1231713855,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"580",1075,"Caldera Brewing Company",1229313862,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"581",1075,"Caldera Brewing Company",1229279300,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"582",1075,"Caldera Brewing Company",1228608585,4.5,5,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"583",1075,"Caldera Brewing Company",1227579179,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"584",1075,"Caldera Brewing Company",1226798393,3.5,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"585",1075,"Caldera Brewing Company",1226202860,4.5,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"586",1075,"Caldera Brewing Company",1225055611,4,4.5,4.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"587",1075,"Caldera Brewing Company",1223376492,4.5,4,4.5,"American IPA",5,4.5,"Caldera IPA",6.1,10784
+"588",1075,"Caldera Brewing Company",1223073891,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"589",1075,"Caldera Brewing Company",1222305980,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"590",1075,"Caldera Brewing Company",1220137480,4.5,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"591",1075,"Caldera Brewing Company",1219003036,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"592",1075,"Caldera Brewing Company",1218500388,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"593",1075,"Caldera Brewing Company",1217995556,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"594",1075,"Caldera Brewing Company",1217379515,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"595",1075,"Caldera Brewing Company",1216685474,4.5,4,4,"American IPA",5,4.5,"Caldera IPA",6.1,10784
+"596",1075,"Caldera Brewing Company",1215664516,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"597",1075,"Caldera Brewing Company",1214858603,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"598",1075,"Caldera Brewing Company",1214181956,3.5,3.5,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"599",1075,"Caldera Brewing Company",1212289363,3.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"600",1075,"Caldera Brewing Company",1205560860,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"601",1075,"Caldera Brewing Company",1211933145,4,4,4.5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"602",1075,"Caldera Brewing Company",1210553646,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"603",1075,"Caldera Brewing Company",1210461583,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"604",1075,"Caldera Brewing Company",1208728799,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"605",1075,"Caldera Brewing Company",1207535403,5,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"606",1075,"Caldera Brewing Company",1207378146,3.5,3.5,3,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"607",1075,"Caldera Brewing Company",1206684668,3.5,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"608",1075,"Caldera Brewing Company",1206392607,4.5,2.5,3,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"609",1075,"Caldera Brewing Company",1205645855,4,3.5,5,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"610",1075,"Caldera Brewing Company",1205010007,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"611",1075,"Caldera Brewing Company",1204167240,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"612",1075,"Caldera Brewing Company",1204003782,3,2,3.5,"American IPA",3,3,"Caldera IPA",6.1,10784
+"613",1075,"Caldera Brewing Company",1203825901,1.5,3.5,4,"American IPA",2,2,"Caldera IPA",6.1,10784
+"614",1075,"Caldera Brewing Company",1203788586,4.5,4.5,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"615",1075,"Caldera Brewing Company",1203382386,4.5,4.5,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"616",1075,"Caldera Brewing Company",1202967279,4,4.5,4,"American IPA",4,5,"Caldera IPA",6.1,10784
+"617",1075,"Caldera Brewing Company",1199162879,3,3.5,3,"American IPA",3,3.5,"Caldera IPA",6.1,10784
+"618",1075,"Caldera Brewing Company",1197841680,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"619",1075,"Caldera Brewing Company",1194852821,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"620",1075,"Caldera Brewing Company",1194792567,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"621",1075,"Caldera Brewing Company",1192478498,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"622",1075,"Caldera Brewing Company",1191180572,4.5,4.5,4,"American IPA",3,3.5,"Caldera IPA",6.1,10784
+"623",1075,"Caldera Brewing Company",1190238782,4,4,4.5,"American IPA",3,3.5,"Caldera IPA",6.1,10784
+"624",1075,"Caldera Brewing Company",1189824893,4,4,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"625",1075,"Caldera Brewing Company",1189784159,4,4,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"626",1075,"Caldera Brewing Company",1188972053,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"627",1075,"Caldera Brewing Company",1188694023,4.5,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"628",1075,"Caldera Brewing Company",1187838938,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"629",1075,"Caldera Brewing Company",1187323014,4.5,4.5,4,"American IPA",5,4.5,"Caldera IPA",6.1,10784
+"630",1075,"Caldera Brewing Company",1136235212,4.5,3.5,4.5,"American IPA",5,4.5,"Caldera IPA",6.1,10784
+"631",1075,"Caldera Brewing Company",1111791303,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"632",1075,"Caldera Brewing Company",1109005792,3.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"633",1075,"Caldera Brewing Company",1318562278,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"634",1075,"Caldera Brewing Company",1318486605,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"635",1075,"Caldera Brewing Company",1317776598,4,4,3.5,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"636",1075,"Caldera Brewing Company",1317431717,4.5,4,4,"American IPA",4,5,"Caldera IPA",6.1,10784
+"637",1075,"Caldera Brewing Company",1317178404,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"638",1075,"Caldera Brewing Company",1316813352,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"639",1075,"Caldera Brewing Company",1315516058,4,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"640",1075,"Caldera Brewing Company",1314517713,4,4.5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"641",1075,"Caldera Brewing Company",1313448304,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"642",1075,"Caldera Brewing Company",1313273446,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"643",1075,"Caldera Brewing Company",1312779370,4,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"644",1075,"Caldera Brewing Company",1312752768,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"645",1075,"Caldera Brewing Company",1312692710,4.5,4,4,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"646",1075,"Caldera Brewing Company",1312522547,3.5,3.5,4,"American IPA",5,4,"Caldera IPA",6.1,10784
+"647",1075,"Caldera Brewing Company",1312467418,3,3,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"648",1075,"Caldera Brewing Company",1312389903,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"649",1075,"Caldera Brewing Company",1312297641,3.5,4,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"650",1075,"Caldera Brewing Company",1311635580,3,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"651",1075,"Caldera Brewing Company",1311383775,3,3.5,4,"American IPA",3,3,"Caldera IPA",6.1,10784
+"652",1075,"Caldera Brewing Company",1309654508,3.5,3.5,3.5,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"653",1075,"Caldera Brewing Company",1309289930,4.5,4.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"654",1075,"Caldera Brewing Company",1309232053,4,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"655",1075,"Caldera Brewing Company",1309206819,4.5,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"656",1075,"Caldera Brewing Company",1309197215,4.5,4,4.5,"American IPA",4.5,4.5,"Caldera IPA",6.1,10784
+"657",1075,"Caldera Brewing Company",1309012596,3,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"658",1075,"Caldera Brewing Company",1308806158,4,3.5,3.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"659",1075,"Caldera Brewing Company",1308360223,4,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"660",1075,"Caldera Brewing Company",1308258538,4,4.5,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"661",1075,"Caldera Brewing Company",1295051076,4,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"662",1075,"Caldera Brewing Company",1308197572,3,3.5,4,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"663",1075,"Caldera Brewing Company",1307823635,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"664",1075,"Caldera Brewing Company",1307540830,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"665",1075,"Caldera Brewing Company",1307414867,4,3.5,4.5,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"666",1075,"Caldera Brewing Company",1307227322,4.5,4.5,3,"American IPA",4,5,"Caldera IPA",6.1,10784
+"667",1075,"Caldera Brewing Company",1307191996,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"668",1075,"Caldera Brewing Company",1307107975,3,3,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"669",1075,"Caldera Brewing Company",1306993015,4.5,5,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"670",1075,"Caldera Brewing Company",1306940546,4,3,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"671",1075,"Caldera Brewing Company",1267323401,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"672",1075,"Caldera Brewing Company",1306711927,3.5,3,4.5,"American IPA",3.5,3,"Caldera IPA",6.1,10784
+"673",1075,"Caldera Brewing Company",1306544792,3.5,4,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"674",1075,"Caldera Brewing Company",1306213612,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"675",1075,"Caldera Brewing Company",1306002194,4,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"676",1075,"Caldera Brewing Company",1305514937,4,4.5,5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"677",1075,"Caldera Brewing Company",1305509552,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"678",1075,"Caldera Brewing Company",1305416445,4,4,4.5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"679",1075,"Caldera Brewing Company",1305234074,4,4,4,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"680",1075,"Caldera Brewing Company",1305154329,4.5,5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"681",1075,"Caldera Brewing Company",1304497206,4,4,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"682",1075,"Caldera Brewing Company",1304395617,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"683",1075,"Caldera Brewing Company",1304241876,4,4,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"684",1075,"Caldera Brewing Company",1303877384,4,4,3.5,"American IPA",4,5,"Caldera IPA",6.1,10784
+"685",1075,"Caldera Brewing Company",1303603331,4,4,5,"American IPA",4,4,"Caldera IPA",6.1,10784
+"686",1075,"Caldera Brewing Company",1303345928,3.5,3,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"687",1075,"Caldera Brewing Company",1303342207,4.5,4,5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"688",1075,"Caldera Brewing Company",1302758157,4,4,4,"American IPA",4,3.5,"Caldera IPA",6.1,10784
+"689",1075,"Caldera Brewing Company",1312710063,4,4,4,"American Amber / Red Ale",4,4.5,"Ashland Amber",5.4,10785
+"690",1075,"Caldera Brewing Company",1302406558,4,4.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"691",1075,"Caldera Brewing Company",1302373074,4.5,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"692",1075,"Caldera Brewing Company",1300254593,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"693",1075,"Caldera Brewing Company",1300226155,4.5,4.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"694",1075,"Caldera Brewing Company",1299990272,4,3.5,3,"American IPA",3,2.5,"Caldera IPA",6.1,10784
+"695",1075,"Caldera Brewing Company",1299614816,4,4.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"696",1075,"Caldera Brewing Company",1299470163,4,4,4.5,"American IPA",4,4.5,"Caldera IPA",6.1,10784
+"697",1075,"Caldera Brewing Company",1299091519,4.5,3.5,4,"American IPA",3.5,3.5,"Caldera IPA",6.1,10784
+"698",1075,"Caldera Brewing Company",1298841962,4,3.5,4,"American IPA",4.5,4,"Caldera IPA",6.1,10784
+"699",1075,"Caldera Brewing Company",1298434789,4,4,4,"American IPA",4.5,3.5,"Caldera IPA",6.1,10784
+"700",1075,"Caldera Brewing Company",1298238484,4.5,4,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"701",1075,"Caldera Brewing Company",1297990589,4,3.5,4,"American IPA",4,4,"Caldera IPA",6.1,10784
+"702",1075,"Caldera Brewing Company",1297564790,3,2.5,3,"American IPA",3,2.5,"Caldera IPA",6.1,10784
+"703",1075,"Caldera Brewing Company",1297138774,4,3.5,4,"American IPA",3.5,4,"Caldera IPA",6.1,10784
+"704",1075,"Caldera Brewing Company",1325439672,4,4,4,"American Porter",3.5,4,"Coconut Porter",9.5,76963
+"705",1075,"Caldera Brewing Company",1316025300,4,4,4,"American Amber / Red Ale",4,4,"Dry Hop Orange",5.6,23290
+"706",1075,"Caldera Brewing Company",1256588802,4,4.5,4,"American Amber / Red Ale",4.5,4.5,"Dry Hop Orange",5.6,23290
+"707",1075,"Caldera Brewing Company",1186464845,4,4,4,"American Amber / Red Ale",3.5,4,"Dry Hop Orange",5.6,23290
+"708",1075,"Caldera Brewing Company",1178240189,4,4,4,"American Amber / Red Ale",3.5,4,"Dry Hop Orange",5.6,23290
+"709",1075,"Caldera Brewing Company",1120893092,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Dry Hop Orange",5.6,23290
+"710",1075,"Caldera Brewing Company",1114161035,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Dry Hop Orange",5.6,23290
+"711",1075,"Caldera Brewing Company",1323451554,4,4,4.5,"American IPA",4.5,4,"Hopportunity Knocks",6.8,56071
+"712",1075,"Caldera Brewing Company",1297656954,3.5,3.5,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"713",1075,"Caldera Brewing Company",1321942858,4,4.5,4,"American IPA",4,4.5,"Hopportunity Knocks",6.8,56071
+"714",1075,"Caldera Brewing Company",1318649689,4,3,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"715",1075,"Caldera Brewing Company",1318236286,1.5,2,3,"American IPA",1.5,1.5,"Hopportunity Knocks",6.8,56071
+"716",1075,"Caldera Brewing Company",1317341123,3.5,3,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"717",1075,"Caldera Brewing Company",1314752908,3.5,3.5,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"718",1075,"Caldera Brewing Company",1314669662,4,2,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"719",1075,"Caldera Brewing Company",1314460181,4,3.5,4,"American IPA",4.5,3.5,"Hopportunity Knocks",6.8,56071
+"720",1075,"Caldera Brewing Company",1314397307,3,3.5,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
+"721",1075,"Caldera Brewing Company",1314048849,3,3,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
+"722",1075,"Caldera Brewing Company",1311721690,4,4,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"723",1075,"Caldera Brewing Company",1311117145,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"724",1075,"Caldera Brewing Company",1309310405,3,3,3.5,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
+"725",1075,"Caldera Brewing Company",1309057163,3.5,3.5,3.5,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"726",1075,"Caldera Brewing Company",1306967955,2,3,3.5,"American IPA",2,2,"Hopportunity Knocks",6.8,56071
+"727",1075,"Caldera Brewing Company",1305780859,3,3.5,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
+"728",1075,"Caldera Brewing Company",1301344172,3.5,3,4,"American IPA",4,3,"Hopportunity Knocks",6.8,56071
+"729",1075,"Caldera Brewing Company",1298328395,3,3,4,"American IPA",3.5,3,"Hopportunity Knocks",6.8,56071
+"730",1075,"Caldera Brewing Company",1298042864,2,2,4,"American IPA",3,2,"Hopportunity Knocks",6.8,56071
+"731",1075,"Caldera Brewing Company",1297913790,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"732",1075,"Caldera Brewing Company",1297108013,4,4,3.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"733",1075,"Caldera Brewing Company",1292893578,3.5,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"734",1075,"Caldera Brewing Company",1291682957,4,3.5,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"735",1075,"Caldera Brewing Company",1291176949,4,2.5,4,"American IPA",3,2.5,"Hopportunity Knocks",6.8,56071
+"736",1075,"Caldera Brewing Company",1291147074,4.5,4,4.5,"American IPA",4.5,4.5,"Hopportunity Knocks",6.8,56071
+"737",1075,"Caldera Brewing Company",1288459315,3.5,3.5,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"738",1075,"Caldera Brewing Company",1287971081,3,3,3,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
+"739",1075,"Caldera Brewing Company",1287616948,3.5,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"740",1075,"Caldera Brewing Company",1286943517,4.5,3.5,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"741",1075,"Caldera Brewing Company",1290902913,3.5,4,3,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"742",1075,"Caldera Brewing Company",1285906208,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"743",1075,"Caldera Brewing Company",1285369483,3,3,3,"American IPA",3,3,"Hopportunity Knocks",6.8,56071
+"744",1075,"Caldera Brewing Company",1285298831,3.5,3.5,4,"American IPA",3,3.5,"Hopportunity Knocks",6.8,56071
+"745",1075,"Caldera Brewing Company",1284866616,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"746",1075,"Caldera Brewing Company",1284236920,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"747",1075,"Caldera Brewing Company",1283789454,2.5,2,4.5,"American IPA",4.5,3,"Hopportunity Knocks",6.8,56071
+"748",1075,"Caldera Brewing Company",1283223460,3.5,3.5,3.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"749",1075,"Caldera Brewing Company",1282094906,3.5,4,4.5,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
+"750",1075,"Caldera Brewing Company",1281519201,4,3.5,4.5,"American IPA",4.5,4,"Hopportunity Knocks",6.8,56071
+"751",1075,"Caldera Brewing Company",1280643115,3,3.5,3.5,"American IPA",3,2.5,"Hopportunity Knocks",6.8,56071
+"752",1075,"Caldera Brewing Company",1279673929,4,3.5,4.5,"American IPA",4,4.5,"Hopportunity Knocks",6.8,56071
+"753",1075,"Caldera Brewing Company",1279326716,3,2,4,"American IPA",2.5,3,"Hopportunity Knocks",6.8,56071
+"754",1075,"Caldera Brewing Company",1278987576,4,3.5,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"755",1075,"Caldera Brewing Company",1278984978,3.5,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"756",1075,"Caldera Brewing Company",1278869189,4,4,4,"American IPA",3.5,4,"Hopportunity Knocks",6.8,56071
+"757",1075,"Caldera Brewing Company",1277663424,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"758",1075,"Caldera Brewing Company",1276824899,4,4,4,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"759",1075,"Caldera Brewing Company",1276655452,3.5,3.5,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"760",1075,"Caldera Brewing Company",1275779006,3.5,4,4,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
+"761",1075,"Caldera Brewing Company",1275021171,4,4,4,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"762",1075,"Caldera Brewing Company",1274540724,3.5,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"763",1075,"Caldera Brewing Company",1271120894,3.5,4,4,"American IPA",3.5,3.5,"Hopportunity Knocks",6.8,56071
+"764",1075,"Caldera Brewing Company",1270773135,4,3,4.5,"American IPA",4,3.5,"Hopportunity Knocks",6.8,56071
+"765",1075,"Caldera Brewing Company",1268330124,3,3.5,4,"American IPA",3,3.5,"Hopportunity Knocks",6.8,56071
+"766",1075,"Caldera Brewing Company",1267513681,4,4,4.5,"American IPA",4,4,"Hopportunity Knocks",6.8,56071
+"767",1075,"Caldera Brewing Company",1267073262,5,4,4.5,"American IPA",4,5,"Hopportunity Knocks",6.8,56071
+"768",1075,"Caldera Brewing Company",1212201268,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Stout",NA,42964
+"769",1075,"Caldera Brewing Company",1242585931,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"770",1075,"Caldera Brewing Company",1237619118,4.5,4.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"771",1075,"Caldera Brewing Company",1236796559,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"772",1075,"Caldera Brewing Company",1222463257,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"773",1075,"Caldera Brewing Company",1171415361,4,3.5,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"774",1075,"Caldera Brewing Company",1112670229,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"775",1075,"Caldera Brewing Company",1290659697,4,3,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"776",1075,"Caldera Brewing Company",1105475593,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"777",1075,"Caldera Brewing Company",1103504824,2.5,2,3,"American Amber / Red Ale",3,2.5,"Ashland Amber",5.4,10785
+"778",1075,"Caldera Brewing Company",1325203961,3.5,3,2.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"779",1075,"Caldera Brewing Company",1321930609,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"Ashland Amber",5.4,10785
+"780",1075,"Caldera Brewing Company",1321644594,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"781",1075,"Caldera Brewing Company",1320882789,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"782",1075,"Caldera Brewing Company",1317255653,3,2.5,3,"American Amber / Red Ale",3.5,3,"Ashland Amber",5.4,10785
+"783",1075,"Caldera Brewing Company",1315424350,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Ashland Amber",5.4,10785
+"784",1075,"Caldera Brewing Company",1315362671,4,3.5,4.5,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"785",1075,"Caldera Brewing Company",1311634196,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"786",1075,"Caldera Brewing Company",1311501130,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"787",1075,"Caldera Brewing Company",1309930169,4,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"788",1075,"Caldera Brewing Company",1309322165,4,3.5,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"789",1075,"Caldera Brewing Company",1307054114,3.5,3.5,4,"American Amber / Red Ale",4,3,"Ashland Amber",5.4,10785
+"790",1075,"Caldera Brewing Company",1306638282,3.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"791",1075,"Caldera Brewing Company",1304496933,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"792",1075,"Caldera Brewing Company",1302402558,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Ashland Amber",5.4,10785
+"793",1075,"Caldera Brewing Company",1298939599,4.5,3,4.5,"American Amber / Red Ale",3.5,4.5,"Ashland Amber",5.4,10785
+"794",1075,"Caldera Brewing Company",1298334430,4.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"795",1075,"Caldera Brewing Company",1298086841,3.5,2,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"796",1075,"Caldera Brewing Company",1297818763,3,3,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"797",1075,"Caldera Brewing Company",1297278402,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"798",1075,"Caldera Brewing Company",1297077581,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"799",1075,"Caldera Brewing Company",1294636662,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Ashland Amber",5.4,10785
+"800",1075,"Caldera Brewing Company",1293140509,4,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"801",1075,"Caldera Brewing Company",1292778417,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"802",1075,"Caldera Brewing Company",1291069813,4.5,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"803",1075,"Caldera Brewing Company",1284677572,3,3.5,4,"American Amber / Red Ale",2,3,"Ashland Amber",5.4,10785
+"804",1075,"Caldera Brewing Company",1289994936,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"805",1075,"Caldera Brewing Company",1289878777,4,4,3.5,"American Amber / Red Ale",3.5,5,"Ashland Amber",5.4,10785
+"806",1075,"Caldera Brewing Company",1288379634,4.5,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"807",1075,"Caldera Brewing Company",1287958974,4,4,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"808",1075,"Caldera Brewing Company",1287252138,3,3,3,"American Amber / Red Ale",3,3,"Ashland Amber",5.4,10785
+"809",1075,"Caldera Brewing Company",1286064454,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"810",1075,"Caldera Brewing Company",1286035319,1.5,1.5,3,"American Amber / Red Ale",2,2,"Ashland Amber",5.4,10785
+"811",1075,"Caldera Brewing Company",1285541017,4,4,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"812",1075,"Caldera Brewing Company",1285041452,4.5,3.5,3,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"813",1075,"Caldera Brewing Company",1285032976,4.5,4,4.5,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"814",1075,"Caldera Brewing Company",1283788431,3,3,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
+"815",1075,"Caldera Brewing Company",1281635456,4,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"816",1075,"Caldera Brewing Company",1280859910,4.5,4,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"817",1075,"Caldera Brewing Company",1280119659,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"818",1075,"Caldera Brewing Company",1278794319,3,4,3.5,"American Amber / Red Ale",3.5,2.5,"Ashland Amber",5.4,10785
+"819",1075,"Caldera Brewing Company",1276469893,4,4,4.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"820",1075,"Caldera Brewing Company",1275573665,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"821",1075,"Caldera Brewing Company",1275171065,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"822",1075,"Caldera Brewing Company",1272594505,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"823",1075,"Caldera Brewing Company",1271907396,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"824",1075,"Caldera Brewing Company",1271893864,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"825",1075,"Caldera Brewing Company",1271703926,4,4,4.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"826",1075,"Caldera Brewing Company",1271483628,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"827",1075,"Caldera Brewing Company",1269706889,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"828",1075,"Caldera Brewing Company",1269322876,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"829",1075,"Caldera Brewing Company",1268701251,4,3.5,4,"American Amber / Red Ale",4.5,3.5,"Ashland Amber",5.4,10785
+"830",1075,"Caldera Brewing Company",1268493180,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"831",1075,"Caldera Brewing Company",1267834574,4.5,3.5,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"832",1075,"Caldera Brewing Company",1267571128,3,3,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
+"833",1075,"Caldera Brewing Company",1267230915,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"834",1075,"Caldera Brewing Company",1266966032,4,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"835",1075,"Caldera Brewing Company",1266441484,4,3.5,4.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"836",1075,"Caldera Brewing Company",1266281870,4,3.5,4,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
+"837",1075,"Caldera Brewing Company",1266250757,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"838",1075,"Caldera Brewing Company",1265775449,2,3.5,4,"American Amber / Red Ale",2.5,2,"Ashland Amber",5.4,10785
+"839",1075,"Caldera Brewing Company",1262914829,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"840",1075,"Caldera Brewing Company",1261972708,4,4,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"841",1075,"Caldera Brewing Company",1258899657,4,4.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"842",1075,"Caldera Brewing Company",1258791231,4,3,3.5,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"843",1075,"Caldera Brewing Company",1253915877,4,3.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"844",1075,"Caldera Brewing Company",1253246085,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"845",1075,"Caldera Brewing Company",1251926192,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"846",1075,"Caldera Brewing Company",1251689859,4,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"847",1075,"Caldera Brewing Company",1251325335,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Ashland Amber",5.4,10785
+"848",1075,"Caldera Brewing Company",1251164217,4,4,4,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"849",1075,"Caldera Brewing Company",1250827585,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Ashland Amber",5.4,10785
+"850",1075,"Caldera Brewing Company",1250647291,3.5,4,3,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
+"851",1075,"Caldera Brewing Company",1250121337,4.5,4,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"852",1075,"Caldera Brewing Company",1249597545,4,4,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"853",1075,"Caldera Brewing Company",1248991175,4,3.5,4,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"854",1075,"Caldera Brewing Company",1248203468,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"855",1075,"Caldera Brewing Company",1248142254,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"856",1075,"Caldera Brewing Company",1248004066,4,3.5,4,"American Amber / Red Ale",4.5,4,"Ashland Amber",5.4,10785
+"857",1075,"Caldera Brewing Company",1247330238,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Ashland Amber",5.4,10785
+"858",1075,"Caldera Brewing Company",1246803927,3,3,3.5,"American Amber / Red Ale",2,3.5,"Ashland Amber",5.4,10785
+"859",1075,"Caldera Brewing Company",1246800732,3,2.5,3,"American Amber / Red Ale",2,2,"Ashland Amber",5.4,10785
+"860",1075,"Caldera Brewing Company",1245431093,4,4,4,"American Amber / Red Ale",3,4,"Ashland Amber",5.4,10785
+"861",1075,"Caldera Brewing Company",1245191629,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"862",1075,"Caldera Brewing Company",1245032698,4,3,3.5,"American Amber / Red Ale",4,3.5,"Ashland Amber",5.4,10785
+"863",1075,"Caldera Brewing Company",1245003767,4,4,4,"American Amber / Red Ale",3.5,3.5,"Ashland Amber",5.4,10785
+"864",1075,"Caldera Brewing Company",1244397434,4,3.5,3.5,"American Amber / Red Ale",4,4,"Ashland Amber",5.4,10785
+"865",1075,"Caldera Brewing Company",1325019656,4.5,4.5,4,"American Porter",4,4.5,"Mogli",8.5,60990
+"866",1075,"Caldera Brewing Company",1315696060,4.5,4.5,3.5,"American Porter",4,4.5,"Mogli",8.5,60990
+"867",1075,"Caldera Brewing Company",1314587679,4.5,4.5,3.5,"American Porter",4,5,"Mogli",8.5,60990
+"868",1075,"Caldera Brewing Company",1309553569,4.5,4,4.5,"American Porter",4.5,4.5,"Mogli",8.5,60990
+"869",1075,"Caldera Brewing Company",1307394834,4,4.5,3.5,"American Porter",4,4,"Mogli",8.5,60990
+"870",1075,"Caldera Brewing Company",1307190968,4,4.5,4,"American Porter",4.5,4,"Mogli",8.5,60990
+"871",1075,"Caldera Brewing Company",1283903842,4.5,5,5,"American Porter",4,4.5,"Mogli",8.5,60990
+"872",1075,"Caldera Brewing Company",1283188640,4.5,4,5,"American Porter",4,4.5,"Mogli",8.5,60990
+"873",1075,"Caldera Brewing Company",1282674179,5,4.5,5,"American Porter",5,5,"Mogli",8.5,60990
+"874",1075,"Caldera Brewing Company",1281680251,5,5,4.5,"American Porter",5,4.5,"Mogli",8.5,60990

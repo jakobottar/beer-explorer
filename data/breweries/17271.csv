@@ -1,645 +1,528 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",17271,"Bootlegger's Brewery",1284835407,4,4,3.5,"American Wild Ale",4,4,"Lambic #1 With Kombucha Cultures",NA,60859
-"2",17271,"Bootlegger's Brewery",1270785731,4,4,3.5,"American Porter",3.5,3.5,"Black Strap Porter",5.6,56592
-"3",17271,"Bootlegger's Brewery",1323538488,3.5,3.5,4,"American Strong Ale",4,3.5,"Dr. Tongue",7.5,57825
-"4",17271,"Bootlegger's Brewery",1320346696,3.5,3.5,3,"American Strong Ale",3,3.5,"Dr. Tongue",7.5,57825
-"5",17271,"Bootlegger's Brewery",1308175265,4,3.5,4,"American Strong Ale",4,4,"Dr. Tongue",7.5,57825
-"6",17271,"Bootlegger's Brewery",1283568294,4,4,3,"American Wild Ale",5,4.5,"Lambic #1 With Kombucha Cultures",NA,60859
-"7",17271,"Bootlegger's Brewery",1299998270,3.5,4,4,"American Strong Ale",3.5,3,"Dr. Tongue",7.5,57825
-"8",17271,"Bootlegger's Brewery",1299310642,3.5,4.5,5,"American Strong Ale",4,3.5,"Dr. Tongue",7.5,57825
-"9",17271,"Bootlegger's Brewery",1298864415,4,4,4,"American Strong Ale",4.5,4.5,"Dr. Tongue",7.5,57825
-"10",17271,"Bootlegger's Brewery",1298362287,4.5,4,4,"American Strong Ale",4.5,3.5,"Dr. Tongue",7.5,57825
-"11",17271,"Bootlegger's Brewery",1298313938,5,4,3.5,"American Strong Ale",4.5,4.5,"Dr. Tongue",7.5,57825
-"12",17271,"Bootlegger's Brewery",1298168415,3.5,4,4,"American Strong Ale",3.5,3.5,"Dr. Tongue",7.5,57825
-"13",17271,"Bootlegger's Brewery",1298166455,2,3.5,4,"American Strong Ale",3,2.5,"Dr. Tongue",7.5,57825
-"14",17271,"Bootlegger's Brewery",1298161085,3.5,3.5,3.5,"American Strong Ale",4,3,"Dr. Tongue",7.5,57825
-"15",17271,"Bootlegger's Brewery",1298045680,4.5,4,4.5,"American Strong Ale",4,4,"Dr. Tongue",7.5,57825
-"16",17271,"Bootlegger's Brewery",1297656547,4,4,4,"American Strong Ale",4,4.5,"Dr. Tongue",7.5,57825
-"17",17271,"Bootlegger's Brewery",1273967992,4,4.5,4,"American Barleywine",4.5,4.5,"77 Anniversary Ale (Dry-Hopped)",7.7,58354
-"18",17271,"Bootlegger's Brewery",1273966044,2.5,3.5,3,"American Wild Ale",3.5,3,"Pink Funkasaurus",6.5,57805
-"19",17271,"Bootlegger's Brewery",1272650972,1,3,4,"American Wild Ale",3,1,"Pink Funkasaurus",6.5,57805
-"20",17271,"Bootlegger's Brewery",1305688219,4,4,4,"Herbed / Spiced Beer",4,4,"Spring Ale",4.5,56245
-"21",17271,"Bootlegger's Brewery",1299308539,4.5,5,4.5,"Herbed / Spiced Beer",4,4.5,"Spring Ale",4.5,56245
-"22",17271,"Bootlegger's Brewery",1298165458,2.5,3,3,"Herbed / Spiced Beer",3.5,3.5,"Spring Ale",4.5,56245
-"23",17271,"Bootlegger's Brewery",1273967041,4.5,5,3.5,"Herbed / Spiced Beer",3,4.5,"Spring Ale",4.5,56245
-"24",17271,"Bootlegger's Brewery",1272218472,5,5,3,"Herbed / Spiced Beer",4.5,4.5,"Spring Ale",4.5,56245
-"25",17271,"Bootlegger's Brewery",1266645896,3.5,3,3.5,"Herbed / Spiced Beer",4,3.5,"Spring Ale",4.5,56245
-"26",17271,"Bootlegger's Brewery",1281897832,5,4,4,"American Wild Ale",4.5,4.5,"Lambic #1 With Kombucha Cultures",NA,60859
-"27",17271,"Bootlegger's Brewery",1281234698,3,3.5,4,"American Wild Ale",4,3.5,"Lambic #1 With Kombucha Cultures",NA,60859
-"28",17271,"Bootlegger's Brewery",1304033251,4,4,3.5,"Belgian Strong Pale Ale",3,4,"Bourbon Chaos",10,56311
-"29",17271,"Bootlegger's Brewery",1267851985,4,3,4,"Belgian Strong Pale Ale",4,4,"Bourbon Chaos",10,56311
-"30",17271,"Bootlegger's Brewery",1296370643,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"India Red Ale",NA,65738
-"31",17271,"Bootlegger's Brewery",1296346156,4,4,3.5,"American Amber / Red Ale",4,3.5,"India Red Ale",NA,65738
-"32",17271,"Bootlegger's Brewery",1311462621,2,1.5,4.5,"American Porter",2,1.5,"Black Strap Porter",5.6,56592
-"33",17271,"Bootlegger's Brewery",1310699346,4,4,4,"American Porter",3.5,4,"Black Strap Porter",5.6,56592
-"34",17271,"Bootlegger's Brewery",1273967259,3.5,4,4,"American Porter",4,4,"Black Strap Porter",5.6,56592
-"35",17271,"Bootlegger's Brewery",1267849056,3.5,3.5,4,"American Porter",4,3.5,"Black Strap Porter",5.6,56592
-"36",17271,"Bootlegger's Brewery",1284843010,2.5,2.5,3.5,"American Brown Ale",3,2.5,"Mike's Honey Brown",NA,61934
-"37",17271,"Bootlegger's Brewery",1270510390,4,5,3,"American Wild Ale",4.5,5,"Lambic #4",NA,56246
-"38",17271,"Bootlegger's Brewery",1269038352,4,4,4,"American Wild Ale",4,4,"Lambic #4",NA,56246
-"39",17271,"Bootlegger's Brewery",1266646212,4,4,4,"American Wild Ale",4,3.5,"Lambic #4",NA,56246
-"40",17271,"Bootlegger's Brewery",1273892314,3.5,3.5,3.5,"American Wild Ale",3.5,3.5,"Kentucky Wild",NA,52136
-"41",17271,"Bootlegger's Brewery",1266981459,3,3,4,"American Wild Ale",3.5,4,"Kentucky Wild",NA,52136
-"42",17271,"Bootlegger's Brewery",1251309459,4,4,4,"American Wild Ale",4,4.5,"Kentucky Wild",NA,52136
-"43",17271,"Bootlegger's Brewery",1251261431,3.5,4,4,"American Wild Ale",4,4,"Kentucky Wild",NA,52136
-"44",17271,"Bootlegger's Brewery",1273966777,4,4.5,3.5,"Belgian Strong Dark Ale",4.5,4,"Cherry Chernobyl",16,56243
-"45",17271,"Bootlegger's Brewery",1266654245,4,4,3.5,"Belgian Strong Dark Ale",4,4.5,"Cherry Chernobyl",16,56243
-"46",17271,"Bootlegger's Brewery",1266643954,4.5,4,3.5,"Belgian Strong Dark Ale",4.5,4.5,"Cherry Chernobyl",16,56243
-"47",17271,"Bootlegger's Brewery",1313427750,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"78 Anniversary Ale",7.8,68503
-"48",17271,"Bootlegger's Brewery",1312586646,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"78 Anniversary Ale",7.8,68503
-"49",17271,"Bootlegger's Brewery",1310953323,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"78 Anniversary Ale",7.8,68503
-"50",17271,"Bootlegger's Brewery",1310100734,4,4.5,2,"Scotch Ale / Wee Heavy",4,4.5,"78 Anniversary Ale",7.8,68503
-"51",17271,"Bootlegger's Brewery",1320901042,2.5,3,4,"Pumpkin Ale",3.5,2.5,"Pumpkin Ale",6.1,54711
-"52",17271,"Bootlegger's Brewery",1304146838,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"78 Anniversary Ale",7.8,68503
-"53",17271,"Bootlegger's Brewery",1304096112,4,3.5,3,"Scotch Ale / Wee Heavy",4,4,"78 Anniversary Ale",7.8,68503
-"54",17271,"Bootlegger's Brewery",1314456899,3,3.5,3,"Dubbel",3.5,3.5,"Plum Riot",7.8,52564
-"55",17271,"Bootlegger's Brewery",1311796900,3,3.5,3.5,"Dubbel",3.5,3,"Plum Riot",7.8,52564
-"56",17271,"Bootlegger's Brewery",1308878734,3,3.5,3,"Dubbel",2,3.5,"Plum Riot",7.8,52564
-"57",17271,"Bootlegger's Brewery",1306468690,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Plum Riot",7.8,52564
-"58",17271,"Bootlegger's Brewery",1305572493,3.5,3.5,3.5,"Dubbel",3,3.5,"Plum Riot",7.8,52564
-"59",17271,"Bootlegger's Brewery",1282788237,1.5,3.5,2,"Dubbel",1.5,3,"Plum Riot",7.8,52564
-"60",17271,"Bootlegger's Brewery",1282709210,4.5,3.5,4,"Dubbel",4,4,"Plum Riot",7.8,52564
-"61",17271,"Bootlegger's Brewery",1279254121,3.5,4,3,"Dubbel",2.5,3.5,"Plum Riot",7.8,52564
-"62",17271,"Bootlegger's Brewery",1277602584,3.5,3.5,3.5,"Dubbel",3.5,3,"Plum Riot",7.8,52564
-"63",17271,"Bootlegger's Brewery",1263923337,4,3.5,3.5,"Dubbel",4,3.5,"Plum Riot",7.8,52564
-"64",17271,"Bootlegger's Brewery",1252732494,2,3.5,3.5,"Dubbel",3,3,"Plum Riot",7.8,52564
-"65",17271,"Bootlegger's Brewery",1252729153,4.5,4.5,3,"Dubbel",4.5,4.5,"Plum Riot",7.8,52564
-"66",17271,"Bootlegger's Brewery",1303868977,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Phoenix (Bourbon Barrel Aged)",10,68061
-"67",17271,"Bootlegger's Brewery",1325373044,2.5,3.5,3,"Pumpkin Ale",2,3,"Pumpkin Ale",6.1,54711
-"68",17271,"Bootlegger's Brewery",1321844284,3.5,3.5,3.5,"Pumpkin Ale",3.5,3.5,"Pumpkin Ale",6.1,54711
-"69",17271,"Bootlegger's Brewery",1318723740,3.5,3.5,3,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"70",17271,"Bootlegger's Brewery",1320287058,3.5,5,2,"Pumpkin Ale",2,3.5,"Pumpkin Ale",6.1,54711
-"71",17271,"Bootlegger's Brewery",1319994408,4,4,3.5,"Pumpkin Ale",4,4,"Pumpkin Ale",6.1,54711
-"72",17271,"Bootlegger's Brewery",1318996244,4,4,3.5,"Pumpkin Ale",3.5,4,"Pumpkin Ale",6.1,54711
-"73",17271,"Bootlegger's Brewery",1318876931,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
-"74",17271,"Bootlegger's Brewery",1318042697,4,4,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
-"75",17271,"Bootlegger's Brewery",1317697370,3.5,3,3.5,"Pumpkin Ale",4,3.5,"Pumpkin Ale",6.1,54711
-"76",17271,"Bootlegger's Brewery",1316492773,3,3,3,"Pumpkin Ale",3,3.5,"Pumpkin Ale",6.1,54711
-"77",17271,"Bootlegger's Brewery",1294952719,4.5,4.5,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
-"78",17271,"Bootlegger's Brewery",1292046253,4.5,3.5,3.5,"Pumpkin Ale",4,4,"Pumpkin Ale",6.1,54711
-"79",17271,"Bootlegger's Brewery",1290818445,4,4,3.5,"Pumpkin Ale",2,4,"Pumpkin Ale",6.1,54711
-"80",17271,"Bootlegger's Brewery",1289756016,3.5,4.5,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
-"81",17271,"Bootlegger's Brewery",1288425067,3.5,3.5,4,"Pumpkin Ale",4,3,"Pumpkin Ale",6.1,54711
-"82",17271,"Bootlegger's Brewery",1260659299,4,3,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
-"83",17271,"Bootlegger's Brewery",1299421590,3,3.5,3.5,"American Double / Imperial IPA",3,2.5,"Knuckle Sandwich",10,54745
-"84",17271,"Bootlegger's Brewery",1299385154,4.5,5,4,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"85",17271,"Bootlegger's Brewery",1299203887,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"86",17271,"Bootlegger's Brewery",1298847468,5,4.5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"87",17271,"Bootlegger's Brewery",1313022848,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"88",17271,"Bootlegger's Brewery",1298772955,4,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"89",17271,"Bootlegger's Brewery",1298615641,5,5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"90",17271,"Bootlegger's Brewery",1298184352,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"91",17271,"Bootlegger's Brewery",1298163588,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"92",17271,"Bootlegger's Brewery",1297998362,4,5,5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
-"93",17271,"Bootlegger's Brewery",1297647413,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"94",17271,"Bootlegger's Brewery",1297481209,4,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"95",17271,"Bootlegger's Brewery",1271130966,4.5,4,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"96",17271,"Bootlegger's Brewery",1297038280,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"97",17271,"Bootlegger's Brewery",1297034437,4.5,4.5,5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"98",17271,"Bootlegger's Brewery",1297030875,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"99",17271,"Bootlegger's Brewery",1296238028,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"100",17271,"Bootlegger's Brewery",1296066193,4,5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"101",17271,"Bootlegger's Brewery",1296004029,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"102",17271,"Bootlegger's Brewery",1295756730,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"103",17271,"Bootlegger's Brewery",1295576269,5,5,4,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"104",17271,"Bootlegger's Brewery",1295333457,4.5,4.5,5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"105",17271,"Bootlegger's Brewery",1295330786,5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"106",17271,"Bootlegger's Brewery",1295235546,3.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"107",17271,"Bootlegger's Brewery",1295135292,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"108",17271,"Bootlegger's Brewery",1295038828,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"109",17271,"Bootlegger's Brewery",1294867947,4.5,4.5,4,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
-"110",17271,"Bootlegger's Brewery",1294718130,5,5,5,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
-"111",17271,"Bootlegger's Brewery",1294714604,5,5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"112",17271,"Bootlegger's Brewery",1294539219,4.5,5,5,"American Double / Imperial IPA",3,4.5,"Knuckle Sandwich",10,54745
-"113",17271,"Bootlegger's Brewery",1294374784,5,5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"114",17271,"Bootlegger's Brewery",1294216568,5,4.5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"115",17271,"Bootlegger's Brewery",1293737670,3.5,4,3.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"116",17271,"Bootlegger's Brewery",1293398552,2,3,4,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
-"117",17271,"Bootlegger's Brewery",1292394899,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"118",17271,"Bootlegger's Brewery",1292120551,5,5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"119",17271,"Bootlegger's Brewery",1292115241,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"120",17271,"Bootlegger's Brewery",1291432025,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Knuckle Sandwich",10,54745
-"121",17271,"Bootlegger's Brewery",1291273499,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"122",17271,"Bootlegger's Brewery",1291273186,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"123",17271,"Bootlegger's Brewery",1291088536,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"124",17271,"Bootlegger's Brewery",1290359675,3.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"125",17271,"Bootlegger's Brewery",1318169094,4,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"126",17271,"Bootlegger's Brewery",1288560838,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"127",17271,"Bootlegger's Brewery",1288228758,5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"128",17271,"Bootlegger's Brewery",1287973029,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"129",17271,"Bootlegger's Brewery",1287334914,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
-"130",17271,"Bootlegger's Brewery",1287271413,5,3,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"131",17271,"Bootlegger's Brewery",1284849876,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"132",17271,"Bootlegger's Brewery",1284847582,4,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"133",17271,"Bootlegger's Brewery",1284780672,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"134",17271,"Bootlegger's Brewery",1284585692,3,3.5,4,"American Double / Imperial IPA",3,3.5,"Knuckle Sandwich",10,54745
-"135",17271,"Bootlegger's Brewery",1284225171,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"136",17271,"Bootlegger's Brewery",1283561110,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"137",17271,"Bootlegger's Brewery",1283490057,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"138",17271,"Bootlegger's Brewery",1283179758,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"139",17271,"Bootlegger's Brewery",1282951479,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"140",17271,"Bootlegger's Brewery",1318133907,3.5,4.5,3.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
-"141",17271,"Bootlegger's Brewery",1278367153,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"142",17271,"Bootlegger's Brewery",1275759124,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"143",17271,"Bootlegger's Brewery",1275647896,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"144",17271,"Bootlegger's Brewery",1275625641,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"145",17271,"Bootlegger's Brewery",1275271402,4.5,5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"146",17271,"Bootlegger's Brewery",1275071184,4,4.5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"147",17271,"Bootlegger's Brewery",1274972767,4,3.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"148",17271,"Bootlegger's Brewery",1273350127,5,5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"149",17271,"Bootlegger's Brewery",1273208516,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"150",17271,"Bootlegger's Brewery",1271621649,4.5,4.5,3.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"151",17271,"Bootlegger's Brewery",1271218846,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"152",17271,"Bootlegger's Brewery",1266907404,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"153",17271,"Bootlegger's Brewery",1266691924,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"154",17271,"Bootlegger's Brewery",1266646233,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"155",17271,"Bootlegger's Brewery",1266079206,4,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"156",17271,"Bootlegger's Brewery",1260752806,4.5,4.5,4,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
-"157",17271,"Bootlegger's Brewery",1325569421,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"158",17271,"Bootlegger's Brewery",1325555323,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"159",17271,"Bootlegger's Brewery",1325137146,4,5,4,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
-"160",17271,"Bootlegger's Brewery",1324940939,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"161",17271,"Bootlegger's Brewery",1324460184,4.5,4,5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"162",17271,"Bootlegger's Brewery",1324420133,4.5,5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"163",17271,"Bootlegger's Brewery",1324197557,4.5,4,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"164",17271,"Bootlegger's Brewery",1324103443,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"165",17271,"Bootlegger's Brewery",1321237828,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
-"166",17271,"Bootlegger's Brewery",1319204144,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"167",17271,"Bootlegger's Brewery",1317004120,3.5,4,4,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
-"168",17271,"Bootlegger's Brewery",1316918267,4,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
-"169",17271,"Bootlegger's Brewery",1316478106,4.5,5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"170",17271,"Bootlegger's Brewery",1316037211,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"171",17271,"Bootlegger's Brewery",1316019665,4,3.5,5,"American Double / Imperial IPA",4.5,3.5,"Knuckle Sandwich",10,54745
-"172",17271,"Bootlegger's Brewery",1316011604,3.5,3.5,4.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
-"173",17271,"Bootlegger's Brewery",1315025080,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"174",17271,"Bootlegger's Brewery",1314926283,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"175",17271,"Bootlegger's Brewery",1314920364,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"176",17271,"Bootlegger's Brewery",1314763790,4,3.5,5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"177",17271,"Bootlegger's Brewery",1314744392,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"178",17271,"Bootlegger's Brewery",1314409482,4.5,4,4.5,"American Double / Imperial IPA",5,4,"Knuckle Sandwich",10,54745
-"179",17271,"Bootlegger's Brewery",1313877271,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"180",17271,"Bootlegger's Brewery",1313718419,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"181",17271,"Bootlegger's Brewery",1313612880,4.5,4,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"182",17271,"Bootlegger's Brewery",1313455428,3.5,3,4,"American Double / Imperial IPA",4,2,"Knuckle Sandwich",10,54745
-"183",17271,"Bootlegger's Brewery",1313191097,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"184",17271,"Bootlegger's Brewery",1313077374,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"185",17271,"Bootlegger's Brewery",1312941327,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"186",17271,"Bootlegger's Brewery",1312828711,5,5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"187",17271,"Bootlegger's Brewery",1312690680,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"188",17271,"Bootlegger's Brewery",1312507519,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"189",17271,"Bootlegger's Brewery",1312481198,4.5,5,3.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"190",17271,"Bootlegger's Brewery",1312400906,4.5,3.5,4.5,"American Double / Imperial IPA",3.5,5,"Knuckle Sandwich",10,54745
-"191",17271,"Bootlegger's Brewery",1312137518,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"192",17271,"Bootlegger's Brewery",1312085199,5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"193",17271,"Bootlegger's Brewery",1300921548,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"194",17271,"Bootlegger's Brewery",1311993027,5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"195",17271,"Bootlegger's Brewery",1311974172,4,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"196",17271,"Bootlegger's Brewery",1311954737,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
-"197",17271,"Bootlegger's Brewery",1311816365,4.5,5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"198",17271,"Bootlegger's Brewery",1311645885,2.5,3,3.5,"American Double / Imperial IPA",2.5,2.5,"Knuckle Sandwich",10,54745
-"199",17271,"Bootlegger's Brewery",1311601706,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"200",17271,"Bootlegger's Brewery",1311545597,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"201",17271,"Bootlegger's Brewery",1311542785,4.5,4,5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"202",17271,"Bootlegger's Brewery",1300578549,5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"203",17271,"Bootlegger's Brewery",1311212451,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"204",17271,"Bootlegger's Brewery",1311198995,5,5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"205",17271,"Bootlegger's Brewery",1311192871,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"206",17271,"Bootlegger's Brewery",1310890742,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"207",17271,"Bootlegger's Brewery",1310583576,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"208",17271,"Bootlegger's Brewery",1308800222,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"209",17271,"Bootlegger's Brewery",1281145750,3.5,4,3,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
-"210",17271,"Bootlegger's Brewery",1308638555,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"211",17271,"Bootlegger's Brewery",1306877769,4.5,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"212",17271,"Bootlegger's Brewery",1306307682,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"213",17271,"Bootlegger's Brewery",1306024051,4,4,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"214",17271,"Bootlegger's Brewery",1305354834,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"215",17271,"Bootlegger's Brewery",1304965841,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
-"216",17271,"Bootlegger's Brewery",1304630579,3.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
-"217",17271,"Bootlegger's Brewery",1303495162,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"218",17271,"Bootlegger's Brewery",1296345291,3.5,3,3,"Witbier",3.5,3.5,"Spring Wit - Pilot",NA,65747
-"219",17271,"Bootlegger's Brewery",1304572162,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"220",17271,"Bootlegger's Brewery",1304525295,3,3,4.5,"American Double / Imperial IPA",4.5,3,"Knuckle Sandwich",10,54745
-"221",17271,"Bootlegger's Brewery",1304212954,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"222",17271,"Bootlegger's Brewery",1304032957,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"223",17271,"Bootlegger's Brewery",1303701958,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"224",17271,"Bootlegger's Brewery",1303683863,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"225",17271,"Bootlegger's Brewery",1303601454,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"226",17271,"Bootlegger's Brewery",1303520421,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"227",17271,"Bootlegger's Brewery",1303187986,4,5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"228",17271,"Bootlegger's Brewery",1303102607,4,4.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
-"229",17271,"Bootlegger's Brewery",1303068517,5,4,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"230",17271,"Bootlegger's Brewery",1302920636,4,3.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"231",17271,"Bootlegger's Brewery",1302754120,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"232",17271,"Bootlegger's Brewery",1302710274,4,4.5,3,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"233",17271,"Bootlegger's Brewery",1302674510,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
-"234",17271,"Bootlegger's Brewery",1302646852,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
-"235",17271,"Bootlegger's Brewery",1302470216,4.5,5,5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
-"236",17271,"Bootlegger's Brewery",1302405613,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"237",17271,"Bootlegger's Brewery",1302206577,3.5,3.5,3.5,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
-"238",17271,"Bootlegger's Brewery",1302039704,3,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
-"239",17271,"Bootlegger's Brewery",1301702146,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"240",17271,"Bootlegger's Brewery",1301501775,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
-"241",17271,"Bootlegger's Brewery",1301337379,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
-"242",17271,"Bootlegger's Brewery",1301294188,4.5,4.5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
-"243",17271,"Bootlegger's Brewery",1301268703,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"244",17271,"Bootlegger's Brewery",1300930644,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
-"245",17271,"Bootlegger's Brewery",1299725231,5,4,5,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
-"246",17271,"Bootlegger's Brewery",1273967532,3.5,4,3.5,"American Barleywine",4,4,"77 Anniversary Ale",7.7,57823
-"247",17271,"Bootlegger's Brewery",1273361221,4,4,4,"American Barleywine",4,4.5,"77 Anniversary Ale",7.7,57823
-"248",17271,"Bootlegger's Brewery",1272647432,4,4,3,"American Barleywine",3.5,4,"77 Anniversary Ale",7.7,57823
-"249",17271,"Bootlegger's Brewery",1272606285,3,4,3,"American Barleywine",3.5,3,"77 Anniversary Ale",7.7,57823
-"250",17271,"Bootlegger's Brewery",1317067489,4,4,2.5,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
-"251",17271,"Bootlegger's Brewery",1316469268,4,4,3.5,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
-"252",17271,"Bootlegger's Brewery",1283829884,4.5,4,4,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
-"253",17271,"Bootlegger's Brewery",1283045674,4,3.5,3.5,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
-"254",17271,"Bootlegger's Brewery",1280016852,4,4,4,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
-"255",17271,"Bootlegger's Brewery",1297311202,4.5,4.5,4,"American IPA",4.5,4.5,"SoCo West Coast IPA",7,61455
-"256",17271,"Bootlegger's Brewery",1292121358,5,4,4,"American IPA",4.5,4.5,"SoCo West Coast IPA",7,61455
-"257",17271,"Bootlegger's Brewery",1283564104,4.5,4,4,"American IPA",4.5,4.5,"SoCo West Coast IPA",7,61455
-"258",17271,"Bootlegger's Brewery",1283046837,4.5,4,3.5,"American IPA",4,4.5,"SoCo West Coast IPA",7,61455
-"259",17271,"Bootlegger's Brewery",1305512059,3.5,4,2.5,"American Adjunct Lager",4,4,"Chango",NA,69082
-"260",17271,"Bootlegger's Brewery",1305507236,4,3.5,3,"American Adjunct Lager",4,3.5,"Chango",NA,69082
-"261",17271,"Bootlegger's Brewery",1305433510,4,3.5,3,"American Adjunct Lager",3.5,3.5,"Chango",NA,69082
-"262",17271,"Bootlegger's Brewery",1269237841,4,4,4,"Old Ale",4,4.5,"\""76\"" Anniversary Ale",7.6,51029
-"263",17271,"Bootlegger's Brewery",1263925571,4,4,3.5,"Old Ale",4,4,"\""76\"" Anniversary Ale",7.6,51029
-"264",17271,"Bootlegger's Brewery",1247180304,4,4.5,3.5,"Old Ale",4,4,"\""76\"" Anniversary Ale",7.6,51029
-"265",17271,"Bootlegger's Brewery",1325109344,3.5,4,3.5,"Smoked Beer",4,3,"Smokey Joe",NA,76779
-"266",17271,"Bootlegger's Brewery",1273966513,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Blackberry Mother Pucker",5,57809
-"267",17271,"Bootlegger's Brewery",1272648637,4,4,4,"American Wild Ale",4,4.5,"Blackberry Mother Pucker",5,57809
-"268",17271,"Bootlegger's Brewery",1272607523,4,4.5,3.5,"American Wild Ale",4,4,"Blackberry Mother Pucker",5,57809
-"269",17271,"Bootlegger's Brewery",1294682809,4,4,4,"Fruit / Vegetable Beer",4,4,"Macintosh",NA,65202
-"270",17271,"Bootlegger's Brewery",1296370319,4,3.5,3.5,"Witbier",3.5,3.5,"Spring Wit - Pilot",NA,65747
-"271",17271,"Bootlegger's Brewery",1296356242,4,3.5,4,"Witbier",3.5,3.5,"Spring Wit - Pilot",NA,65747
-"272",17271,"Bootlegger's Brewery",1299362044,4.5,4,4,"American Wild Ale",4.5,4.5,"Lambic #2",5,57811
-"273",17271,"Bootlegger's Brewery",1294664910,3.5,3.5,3,"American Wild Ale",3.5,3,"Lambic #2",5,57811
-"274",17271,"Bootlegger's Brewery",1273892847,4,3.5,3,"American Wild Ale",3.5,3.5,"Lambic #2",5,57811
-"275",17271,"Bootlegger's Brewery",1272649839,4,3.5,4,"American Wild Ale",4,4,"Lambic #2",5,57811
-"276",17271,"Bootlegger's Brewery",1272606923,4.5,4.5,3.5,"American Wild Ale",4,5,"Lambic #2",5,57811
-"277",17271,"Bootlegger's Brewery",1262580835,4.5,4,4,"American IPA",4.5,4.5,"Director's Cut IPA",7.3,55208
-"278",17271,"Bootlegger's Brewery",1230790538,4.5,4,3.5,"Winter Warmer",4,4.5,"Winter Ale 2008",5.7,46963
-"279",17271,"Bootlegger's Brewery",1255759087,4.5,4.5,3.5,"Lambic - Unblended",4,4.5,"Fresh Lambic",5.5,53450
-"280",17271,"Bootlegger's Brewery",1315110210,3.5,4,3.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"281",17271,"Bootlegger's Brewery",1324532891,3.5,3.5,4,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
-"282",17271,"Bootlegger's Brewery",1324066457,4,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"283",17271,"Bootlegger's Brewery",1321843692,4,3.5,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"284",17271,"Bootlegger's Brewery",1320812419,3,3.5,3,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
-"285",17271,"Bootlegger's Brewery",1318379933,4.5,4,4.5,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
-"286",17271,"Bootlegger's Brewery",1316475920,4,3,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"287",17271,"Bootlegger's Brewery",1316208505,3.5,3,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
-"288",17271,"Bootlegger's Brewery",1315859010,4,4,3.5,"American IPA",3.5,4.5,"Rustic Rye IPA",6.2,47604
-"289",17271,"Bootlegger's Brewery",1314332329,3,3.5,4,"American IPA",4,3,"Rustic Rye IPA",6.2,47604
-"290",17271,"Bootlegger's Brewery",1314062047,4,4,4.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"291",17271,"Bootlegger's Brewery",1314040929,3.5,3.5,3.5,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"292",17271,"Bootlegger's Brewery",1312679043,4,3,3.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"293",17271,"Bootlegger's Brewery",1312606106,3.5,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"294",17271,"Bootlegger's Brewery",1312161390,4,3.5,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"295",17271,"Bootlegger's Brewery",1310892066,4,4,4.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"296",17271,"Bootlegger's Brewery",1310670989,3.5,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"297",17271,"Bootlegger's Brewery",1304631804,3,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"298",17271,"Bootlegger's Brewery",1310158566,3.5,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"299",17271,"Bootlegger's Brewery",1309984690,4,3.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"300",17271,"Bootlegger's Brewery",1309830379,4,2.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"301",17271,"Bootlegger's Brewery",1309498201,4,3.5,4.5,"American IPA",3.5,4.5,"Rustic Rye IPA",6.2,47604
-"302",17271,"Bootlegger's Brewery",1308091580,3.5,3.5,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"303",17271,"Bootlegger's Brewery",1308021389,4.5,3.5,4,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"304",17271,"Bootlegger's Brewery",1307503137,4,3,3,"American IPA",4,4.5,"Rustic Rye IPA",6.2,47604
-"305",17271,"Bootlegger's Brewery",1306010292,2,2.5,2.5,"American IPA",4,2,"Rustic Rye IPA",6.2,47604
-"306",17271,"Bootlegger's Brewery",1304721315,2.5,3.5,3,"American IPA",2,2,"Rustic Rye IPA",6.2,47604
-"307",17271,"Bootlegger's Brewery",1303685866,3,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"308",17271,"Bootlegger's Brewery",1303632498,3,3,4,"American IPA",4,3,"Rustic Rye IPA",6.2,47604
-"309",17271,"Bootlegger's Brewery",1302750650,3.5,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"310",17271,"Bootlegger's Brewery",1301973817,3.5,2.5,3.5,"American IPA",5,3.5,"Rustic Rye IPA",6.2,47604
-"311",17271,"Bootlegger's Brewery",1300161159,4,4,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"312",17271,"Bootlegger's Brewery",1299797277,3.5,4,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"313",17271,"Bootlegger's Brewery",1299309884,3,4,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"314",17271,"Bootlegger's Brewery",1297621916,4.5,4,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"315",17271,"Bootlegger's Brewery",1295396432,4,4.5,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"316",17271,"Bootlegger's Brewery",1295218134,3,3,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
-"317",17271,"Bootlegger's Brewery",1294979436,4.5,4,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"318",17271,"Bootlegger's Brewery",1294795183,5,3.5,4,"American IPA",2.5,4,"Rustic Rye IPA",6.2,47604
-"319",17271,"Bootlegger's Brewery",1294666400,4,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"320",17271,"Bootlegger's Brewery",1293321477,4,4,4.5,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"321",17271,"Bootlegger's Brewery",1292730041,4,3.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"322",17271,"Bootlegger's Brewery",1291511134,4,3.5,4,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
-"323",17271,"Bootlegger's Brewery",1289290287,3.5,3,4,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
-"324",17271,"Bootlegger's Brewery",1289022883,4,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"325",17271,"Bootlegger's Brewery",1288823524,3.5,3.5,4,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
-"326",17271,"Bootlegger's Brewery",1295217294,3,3.5,4,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
-"327",17271,"Bootlegger's Brewery",1288075617,4.5,3.5,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"328",17271,"Bootlegger's Brewery",1287972324,4.5,3.5,4,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
-"329",17271,"Bootlegger's Brewery",1283141914,2,2,4.5,"American IPA",2.5,2,"Rustic Rye IPA",6.2,47604
-"330",17271,"Bootlegger's Brewery",1282446202,3,3,3,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
-"331",17271,"Bootlegger's Brewery",1279323653,3.5,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"332",17271,"Bootlegger's Brewery",1272153252,4.5,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"333",17271,"Bootlegger's Brewery",1270260614,4.5,4.5,4,"American IPA",4.5,4.5,"Rustic Rye IPA",6.2,47604
-"334",17271,"Bootlegger's Brewery",1268883733,4.5,4,4,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
-"335",17271,"Bootlegger's Brewery",1320612634,3.5,4,4.5,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"336",17271,"Bootlegger's Brewery",1266195204,3,3.5,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
-"337",17271,"Bootlegger's Brewery",1265745693,3.5,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"338",17271,"Bootlegger's Brewery",1264806098,4,3,3.5,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"339",17271,"Bootlegger's Brewery",1264138560,4,3.5,4.5,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"340",17271,"Bootlegger's Brewery",1263922487,4,3,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"341",17271,"Bootlegger's Brewery",1262930594,4,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"342",17271,"Bootlegger's Brewery",1261370156,2.5,2.5,4,"American IPA",2.5,2,"Rustic Rye IPA",6.2,47604
-"343",17271,"Bootlegger's Brewery",1259206750,3.5,3,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
-"344",17271,"Bootlegger's Brewery",1255136327,3,3,3.5,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
-"345",17271,"Bootlegger's Brewery",1254639760,3.5,3.5,3.5,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
-"346",17271,"Bootlegger's Brewery",1252029147,4,4,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"347",17271,"Bootlegger's Brewery",1246148388,4.5,4,3,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"348",17271,"Bootlegger's Brewery",1244613801,4,3,3,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
-"349",17271,"Bootlegger's Brewery",1243004237,4,3.5,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
-"350",17271,"Bootlegger's Brewery",1241022570,4.5,4,4,"American IPA",4,4.5,"Rustic Rye IPA",6.2,47604
-"351",17271,"Bootlegger's Brewery",1240545918,3.5,3.5,3,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
-"352",17271,"Bootlegger's Brewery",1233377951,4.5,4.5,4,"American IPA",5,4,"Rustic Rye IPA",6.2,47604
-"353",17271,"Bootlegger's Brewery",1280016016,4.5,4,4,"Cream Ale",4,4.5,"Brewer Mike's Cream Ale",7.3,60404
-"354",17271,"Bootlegger's Brewery",1314925688,3.5,3,4,"Fruit / Vegetable Beer",3.5,4,"BarkenBarry",NA,72726
-"355",17271,"Bootlegger's Brewery",1270786337,4.5,4,3.5,"American Wild Ale",3.5,4.5,"Lambic #1",NA,56936
-"356",17271,"Bootlegger's Brewery",1269145410,4,4,4,"American Wild Ale",4,4,"Lambic #1",NA,56936
-"357",17271,"Bootlegger's Brewery",1263925989,4,4,3.5,"Old Ale",4,4.5,"\""76\"" Anniversary Ale With English Hops",7.6,55510
-"358",17271,"Bootlegger's Brewery",1326068170,4,4,4,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
-"359",17271,"Bootlegger's Brewery",1321843741,4,4,4,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
-"360",17271,"Bootlegger's Brewery",1319082310,3.5,3.5,3,"Hefeweizen",3,2.5,"Old World Hefeweizen",5,43510
-"361",17271,"Bootlegger's Brewery",1317958963,3.5,3.5,4,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
-"362",17271,"Bootlegger's Brewery",1315851001,4,3.5,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
-"363",17271,"Bootlegger's Brewery",1314681792,4,4,2.5,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
-"364",17271,"Bootlegger's Brewery",1308588723,4,4,3,"Hefeweizen",3.5,5,"Old World Hefeweizen",5,43510
-"365",17271,"Bootlegger's Brewery",1306468626,3.5,3,3.5,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
-"366",17271,"Bootlegger's Brewery",1304488100,4,3,2.5,"Hefeweizen",3,4,"Old World Hefeweizen",5,43510
-"367",17271,"Bootlegger's Brewery",1304392318,4,4,3,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
-"368",17271,"Bootlegger's Brewery",1304120812,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
-"369",17271,"Bootlegger's Brewery",1302924390,3,3.5,3,"Hefeweizen",3,4,"Old World Hefeweizen",5,43510
-"370",17271,"Bootlegger's Brewery",1301257802,3,4,4,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
-"371",17271,"Bootlegger's Brewery",1299827635,4.5,4,4,"Hefeweizen",4.5,3.5,"Old World Hefeweizen",5,43510
-"372",17271,"Bootlegger's Brewery",1299311172,4.5,3.5,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
-"373",17271,"Bootlegger's Brewery",1299277458,3,3.5,3,"Hefeweizen",3,3,"Old World Hefeweizen",5,43510
-"374",17271,"Bootlegger's Brewery",1294665219,4,4,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
-"375",17271,"Bootlegger's Brewery",1291764182,3.5,2.5,4,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
-"376",17271,"Bootlegger's Brewery",1289360963,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
-"377",17271,"Bootlegger's Brewery",1284781704,5,4.5,4,"Hefeweizen",4,4.5,"Old World Hefeweizen",5,43510
-"378",17271,"Bootlegger's Brewery",1281844919,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
-"379",17271,"Bootlegger's Brewery",1263924554,4,2.5,3.5,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
-"380",17271,"Bootlegger's Brewery",1255203168,2,1.5,3,"Hefeweizen",2.5,1.5,"Old World Hefeweizen",5,43510
-"381",17271,"Bootlegger's Brewery",1248640897,3.5,3,3.5,"Hefeweizen",4,3,"Old World Hefeweizen",5,43510
-"382",17271,"Bootlegger's Brewery",1219249763,4.5,4,3.5,"Hefeweizen",4,4.5,"Old World Hefeweizen",5,43510
-"383",17271,"Bootlegger's Brewery",1215042845,3.5,3.5,4,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
-"384",17271,"Bootlegger's Brewery",1309568011,3.5,4,4,"American IPA",4,3.5,"Aaron's Secret IPA",NA,70619
-"385",17271,"Bootlegger's Brewery",1318524400,4.5,4,4,"American Wild Ale",4.5,4,"Olallieberry Lambic",5.1,51553
-"386",17271,"Bootlegger's Brewery",1315534228,4,3.5,3,"American Wild Ale",4,4,"Olallieberry Lambic",5.1,51553
-"387",17271,"Bootlegger's Brewery",1304031882,4,4,4,"American Wild Ale",4,4.5,"Olallieberry Lambic",5.1,51553
-"388",17271,"Bootlegger's Brewery",1249935943,4,3,4.5,"American Wild Ale",3.5,4,"Olallieberry Lambic",5.1,51553
-"389",17271,"Bootlegger's Brewery",1249163436,4,4,4,"American Wild Ale",4,4,"Olallieberry Lambic",5.1,51553
-"390",17271,"Bootlegger's Brewery",1314456389,3,3.5,3.5,"American IPA",3.5,3.5,"Nose Job IPA",7,67689
-"391",17271,"Bootlegger's Brewery",1306658366,3,3.5,4.5,"American IPA",3.5,2.5,"Nose Job IPA",7,67689
-"392",17271,"Bootlegger's Brewery",1301623158,4,4.5,4,"American IPA",4,4.5,"Nose Job IPA",7,67689
-"393",17271,"Bootlegger's Brewery",1266645342,4,3.5,3.5,"Irish Red Ale",3.5,3.5,"Dean's Irish Red",6,56244
-"394",17271,"Bootlegger's Brewery",1269145890,4,4.5,4.5,"American Wild Ale",4,4,"Knott Sour Lambic",NA,56937
-"395",17271,"Bootlegger's Brewery",1313024912,4.5,4,4,"American Double / Imperial Stout",5,4.5,"Imperial Phoenix",10,61933
-"396",17271,"Bootlegger's Brewery",1304095076,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Phoenix",10,61933
-"397",17271,"Bootlegger's Brewery",1284959950,4,3,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Phoenix",10,61933
-"398",17271,"Bootlegger's Brewery",1284842259,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Phoenix",10,61933
-"399",17271,"Bootlegger's Brewery",1304034926,3.5,4,4.5,"Belgian Strong Pale Ale",3,3,"Blackberry Chaos",8.5,68487
-"400",17271,"Bootlegger's Brewery",1295659367,5,4.5,4,"American Pale Ale (APA)",4,4,"Double Dry Hopped Palomino Pale Ale",5.5,65469
-"401",17271,"Bootlegger's Brewery",1296871686,4,4.5,3.5,"Fruit / Vegetable Beer",4,4,"Blackberry Pale",NA,65930
-"402",17271,"Bootlegger's Brewery",1296260905,1.5,2.5,3,"Saison / Farmhouse Ale",3,2,"Lemongrass Ginger Saison",NA,65498
-"403",17271,"Bootlegger's Brewery",1295677895,4,4.5,3,"Saison / Farmhouse Ale",3,3.5,"Lemongrass Ginger Saison",NA,65498
-"404",17271,"Bootlegger's Brewery",1294682122,4.5,4.5,3.5,"Herbed / Spiced Beer",4,4.5,"Mulled Old World Hefeweizen",NA,65201
-"405",17271,"Bootlegger's Brewery",1296371319,4.5,4,4,"Belgian Pale Ale",4,4,"Belgian Pale Ale",NA,65739
-"406",17271,"Bootlegger's Brewery",1296346537,4.5,4,3,"Belgian Pale Ale",4.5,4.5,"Belgian Pale Ale",NA,65739
-"407",17271,"Bootlegger's Brewery",1296948265,3,3,4,"Extra Special / Strong Bitter (ESB)",4,3,"Dry Hopped ESB",6,65931
-"408",17271,"Bootlegger's Brewery",1296872059,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Dry Hopped ESB",6,65931
-"409",17271,"Bootlegger's Brewery",1310339868,4,2.5,3.5,"Schwarzbier",4,4.5,"Black Lager",NA,70620
-"410",17271,"Bootlegger's Brewery",1310251292,3.5,3.5,3,"Schwarzbier",3,3.5,"Black Lager",NA,70620
-"411",17271,"Bootlegger's Brewery",1309568835,4,3.5,4,"Schwarzbier",4,4,"Black Lager",NA,70620
-"412",17271,"Bootlegger's Brewery",1287944191,4,4,4,"American Wild Ale",4,4,"Lambic #5",NA,57443
-"413",17271,"Bootlegger's Brewery",1285564544,4.5,4.5,4,"American Wild Ale",4.5,4,"Lambic #5",NA,57443
-"414",17271,"Bootlegger's Brewery",1273965608,4,4,3.5,"American Wild Ale",3.5,4,"Lambic #5",NA,57443
-"415",17271,"Bootlegger's Brewery",1272087410,4.5,4.5,4,"American Wild Ale",4,4.5,"Lambic #5",NA,57443
-"416",17271,"Bootlegger's Brewery",1270786914,4,4,3.5,"American Wild Ale",3,4,"Lambic #5",NA,57443
-"417",17271,"Bootlegger's Brewery",1321844334,3,3,4,"Smoked Beer",3.5,3,"Wild Fire Wheat",5,51587
-"418",17271,"Bootlegger's Brewery",1311217523,3.5,3.5,3.5,"Smoked Beer",3,3.5,"Wild Fire Wheat",5,51587
-"419",17271,"Bootlegger's Brewery",1311197343,4,4,3,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
-"420",17271,"Bootlegger's Brewery",1311193134,4,3.5,4,"Smoked Beer",3,4,"Wild Fire Wheat",5,51587
-"421",17271,"Bootlegger's Brewery",1286752680,4,3,3.5,"Smoked Beer",3.5,3.5,"Wild Fire Wheat",5,51587
-"422",17271,"Bootlegger's Brewery",1284961214,4.5,3,3,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
-"423",17271,"Bootlegger's Brewery",1283142370,5,4.5,4,"Smoked Beer",4.5,4.5,"Wild Fire Wheat",5,51587
-"424",17271,"Bootlegger's Brewery",1281897628,1.5,2,4,"Smoked Beer",3,1.5,"Wild Fire Wheat",5,51587
-"425",17271,"Bootlegger's Brewery",1278056896,2,2.5,4,"Smoked Beer",3.5,2.5,"Wild Fire Wheat",5,51587
-"426",17271,"Bootlegger's Brewery",1276307620,4,4,3,"Smoked Beer",3.5,4,"Wild Fire Wheat",5,51587
-"427",17271,"Bootlegger's Brewery",1274513678,2.5,4,4,"Smoked Beer",2,2,"Wild Fire Wheat",5,51587
-"428",17271,"Bootlegger's Brewery",1257181026,4,3.5,4,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
-"429",17271,"Bootlegger's Brewery",1250655611,4,4,4,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
-"430",17271,"Bootlegger's Brewery",1249259528,3.5,4,4,"Smoked Beer",4,3.5,"Wild Fire Wheat",5,51587
-"431",17271,"Bootlegger's Brewery",1304034020,4,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Brandy Chaos",10,56347
-"432",17271,"Bootlegger's Brewery",1267852344,4,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Brandy Chaos",10,56347
-"433",17271,"Bootlegger's Brewery",1267247004,4,4,4.5,"American IPA",3.5,3,"Hopinator",NA,52567
-"434",17271,"Bootlegger's Brewery",1266692517,3,4.5,4,"American IPA",4,3,"Hopinator",NA,52567
-"435",17271,"Bootlegger's Brewery",1253434334,5,4.5,4,"American IPA",4.5,4.5,"Hopinator",NA,52567
-"436",17271,"Bootlegger's Brewery",1252730283,4,4,3.5,"American IPA",3,4,"Hopinator",NA,52567
-"437",17271,"Bootlegger's Brewery",1304121970,4,4.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Golden Chaos Golden Ale W/Brett",8.5,61588
-"438",17271,"Bootlegger's Brewery",1283813742,4,4.5,3.5,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale W/Brett",8.5,61588
-"439",17271,"Bootlegger's Brewery",1283567944,4,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Golden Chaos Golden Ale W/Brett",8.5,61588
-"440",17271,"Bootlegger's Brewery",1309570708,3.5,3.5,4,"English Pale Ale",3.5,3,"English Pale Ale",NA,69952
-"441",17271,"Bootlegger's Brewery",1307847685,3,3.5,4,"English Pale Ale",3.5,3,"English Pale Ale",NA,69952
-"442",17271,"Bootlegger's Brewery",1273965399,4.5,4,4,"American Wild Ale",4.5,4.5,"Lambic #3",5,57810
-"443",17271,"Bootlegger's Brewery",1272650465,4,3.5,4,"American Wild Ale",4,3.5,"Lambic #3",5,57810
-"444",17271,"Bootlegger's Brewery",1297116470,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Spring Saison - Pilot",NA,66046
-"445",17271,"Bootlegger's Brewery",1304120074,4,4,4,"American Wild Ale",4,4,"76 Barrel Aged Sour With Cherries",7.6,62994
-"446",17271,"Bootlegger's Brewery",1294664336,4,4.5,3.5,"American Wild Ale",3.5,4,"76 Barrel Aged Sour With Cherries",7.6,62994
-"447",17271,"Bootlegger's Brewery",1288422128,4,4,4,"American Wild Ale",4.5,4,"76 Barrel Aged Sour With Cherries",7.6,62994
-"448",17271,"Bootlegger's Brewery",1296370987,4,4,4,"Belgian Dark Ale",4,4,"Belgian Red Ale - Pilot",NA,65748
-"449",17271,"Bootlegger's Brewery",1296356517,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3,"Belgian Red Ale - Pilot",NA,65748
-"450",17271,"Bootlegger's Brewery",1326172855,4,4,3.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"451",17271,"Bootlegger's Brewery",1326061918,4,4,4,"American Stout",4.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"452",17271,"Bootlegger's Brewery",1323508314,4,4,4.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"453",17271,"Bootlegger's Brewery",1322686243,2.5,2.5,2.5,"American Stout",1.5,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"454",17271,"Bootlegger's Brewery",1322413104,3.5,4,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"455",17271,"Bootlegger's Brewery",1322412309,4,4.5,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"456",17271,"Bootlegger's Brewery",1322359739,3.5,4,4,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"457",17271,"Bootlegger's Brewery",1320793594,4,3,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"458",17271,"Bootlegger's Brewery",1316139486,3.5,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"459",17271,"Bootlegger's Brewery",1314594932,2.5,3,3.5,"American Stout",2,2,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"460",17271,"Bootlegger's Brewery",1314135024,3.5,3.5,5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"461",17271,"Bootlegger's Brewery",1314071511,4,4,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"462",17271,"Bootlegger's Brewery",1312853065,3.5,3.5,3,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"463",17271,"Bootlegger's Brewery",1312691454,3,3.5,3.5,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"464",17271,"Bootlegger's Brewery",1310963735,3.5,4,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"465",17271,"Bootlegger's Brewery",1310785131,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"466",17271,"Bootlegger's Brewery",1310782164,3.5,3.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"467",17271,"Bootlegger's Brewery",1310781611,4,4,3.5,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"468",17271,"Bootlegger's Brewery",1309923506,4,4,4,"American Stout",4,5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"469",17271,"Bootlegger's Brewery",1309767188,4,4.5,3,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"470",17271,"Bootlegger's Brewery",1309488693,4,4,3,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"471",17271,"Bootlegger's Brewery",1281913856,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Palomino American Pale Ale",5.5,44437
-"472",17271,"Bootlegger's Brewery",1309219183,3,3,3.5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"473",17271,"Bootlegger's Brewery",1309068916,4,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"474",17271,"Bootlegger's Brewery",1309056580,3.5,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"475",17271,"Bootlegger's Brewery",1309017021,3.5,4,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"476",17271,"Bootlegger's Brewery",1308802850,3.5,4,3.5,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"477",17271,"Bootlegger's Brewery",1306090608,4,4,3.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"478",17271,"Bootlegger's Brewery",1305403524,3.5,4,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"479",17271,"Bootlegger's Brewery",1305350921,3.5,3.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"480",17271,"Bootlegger's Brewery",1304624410,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"481",17271,"Bootlegger's Brewery",1304143920,3,3.5,3,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"482",17271,"Bootlegger's Brewery",1303240131,4,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"483",17271,"Bootlegger's Brewery",1302878975,3,3.5,4,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"484",17271,"Bootlegger's Brewery",1302573033,3,3.5,4,"American Stout",4,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"485",17271,"Bootlegger's Brewery",1301793246,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"486",17271,"Bootlegger's Brewery",1299167239,4,4,4,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"487",17271,"Bootlegger's Brewery",1298512055,3,3,3,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"488",17271,"Bootlegger's Brewery",1298268783,3.5,3.5,4.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"489",17271,"Bootlegger's Brewery",1298249747,3,3,3.5,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"490",17271,"Bootlegger's Brewery",1297999112,4,4,3,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"491",17271,"Bootlegger's Brewery",1296256092,4,4,3,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"492",17271,"Bootlegger's Brewery",1295217859,3,3.5,3,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"493",17271,"Bootlegger's Brewery",1294813350,3.5,2.5,4,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"494",17271,"Bootlegger's Brewery",1294795129,4,4.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"495",17271,"Bootlegger's Brewery",1294608422,4,4,3,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"496",17271,"Bootlegger's Brewery",1294201490,4,3.5,3.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"497",17271,"Bootlegger's Brewery",1293344192,4.5,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"498",17271,"Bootlegger's Brewery",1292105952,4.5,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"499",17271,"Bootlegger's Brewery",1291090214,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"500",17271,"Bootlegger's Brewery",1290391033,4,4,4,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"501",17271,"Bootlegger's Brewery",1288023561,4,4,2,"American Stout",2.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"502",17271,"Bootlegger's Brewery",1287616394,4.5,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"503",17271,"Bootlegger's Brewery",1287464248,3.5,3.5,3.5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"504",17271,"Bootlegger's Brewery",1286513483,4.5,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"505",17271,"Bootlegger's Brewery",1323155655,4,3.5,3.5,"American IPA",3.5,4.5,"Eliminator IPA",NA,71821
-"506",17271,"Bootlegger's Brewery",1285388507,3,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"507",17271,"Bootlegger's Brewery",1285197068,4.5,3,4,"American Stout",4,5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"508",17271,"Bootlegger's Brewery",1283830303,4,4.5,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"509",17271,"Bootlegger's Brewery",1283471398,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"510",17271,"Bootlegger's Brewery",1283275813,4.5,4,4,"American Stout",4.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"511",17271,"Bootlegger's Brewery",1280970680,2,2,2,"American Stout",2,2,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"512",17271,"Bootlegger's Brewery",1279849788,3.5,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"513",17271,"Bootlegger's Brewery",1273911787,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"514",17271,"Bootlegger's Brewery",1272854098,4,3.5,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"515",17271,"Bootlegger's Brewery",1271800653,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"516",17271,"Bootlegger's Brewery",1270560232,4.5,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"517",17271,"Bootlegger's Brewery",1268708116,4,3.5,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"518",17271,"Bootlegger's Brewery",1267238615,4.5,4.5,3.5,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"519",17271,"Bootlegger's Brewery",1263920310,4,3.5,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"520",17271,"Bootlegger's Brewery",1263254433,2.5,2.5,4,"American Stout",3,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"521",17271,"Bootlegger's Brewery",1261974337,4,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"522",17271,"Bootlegger's Brewery",1252904150,4.5,4.5,3.5,"American Stout",4.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"523",17271,"Bootlegger's Brewery",1261892683,4.5,4,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"524",17271,"Bootlegger's Brewery",1259905598,4,4,4.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"525",17271,"Bootlegger's Brewery",1258343465,4,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"526",17271,"Bootlegger's Brewery",1257641135,4,3.5,4,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"527",17271,"Bootlegger's Brewery",1257571872,3.5,3,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"528",17271,"Bootlegger's Brewery",1255868945,2.5,4,4,"American Stout",4,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"529",17271,"Bootlegger's Brewery",1253811458,4,4.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"530",17271,"Bootlegger's Brewery",1251878245,4,4.5,3.5,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"531",17271,"Bootlegger's Brewery",1247202662,3.5,3.5,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"532",17271,"Bootlegger's Brewery",1239509672,3.5,4.5,3.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
-"533",17271,"Bootlegger's Brewery",1296370047,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Lilly's Gingered Ale",NA,65727
-"534",17271,"Bootlegger's Brewery",1296344818,3,3.5,3.5,"Herbed / Spiced Beer",3.5,3,"Lilly's Gingered Ale",NA,65727
-"535",17271,"Bootlegger's Brewery",1296282275,3,3.5,3,"Herbed / Spiced Beer",3,3.5,"Lilly's Gingered Ale",NA,65727
-"536",17271,"Bootlegger's Brewery",1294469570,5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
-"537",17271,"Bootlegger's Brewery",1294346859,4.5,4,3,"American Pale Ale (APA)",3,4,"Palomino American Pale Ale",5.5,44437
-"538",17271,"Bootlegger's Brewery",1325019298,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Palomino American Pale Ale",5.5,44437
-"539",17271,"Bootlegger's Brewery",1322280055,3,4,4,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
-"540",17271,"Bootlegger's Brewery",1321844060,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Palomino American Pale Ale",5.5,44437
-"541",17271,"Bootlegger's Brewery",1315534054,4.5,4,4.5,"American Pale Ale (APA)",5,5,"Palomino American Pale Ale",5.5,44437
-"542",17271,"Bootlegger's Brewery",1314456506,3,3,3,"American Pale Ale (APA)",3,3,"Palomino American Pale Ale",5.5,44437
-"543",17271,"Bootlegger's Brewery",1309912517,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
-"544",17271,"Bootlegger's Brewery",1296453058,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
-"545",17271,"Bootlegger's Brewery",1294683220,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
-"546",17271,"Bootlegger's Brewery",1294666061,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Palomino American Pale Ale",5.5,44437
-"547",17271,"Bootlegger's Brewery",1276469206,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
-"548",17271,"Bootlegger's Brewery",1276401230,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
-"549",17271,"Bootlegger's Brewery",1274935791,4,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Palomino American Pale Ale",5.5,44437
-"550",17271,"Bootlegger's Brewery",1265174860,5,4,4,"American Pale Ale (APA)",3.5,3.5,"Palomino American Pale Ale",5.5,44437
-"551",17271,"Bootlegger's Brewery",1254348629,5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
-"552",17271,"Bootlegger's Brewery",1249956455,3,3,3,"American Pale Ale (APA)",4,3,"Palomino American Pale Ale",5.5,44437
-"553",17271,"Bootlegger's Brewery",1221708765,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
-"554",17271,"Bootlegger's Brewery",1221081821,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
-"555",17271,"Bootlegger's Brewery",1220661385,4,3.5,4,"American Pale Ale (APA)",4,4,"Palomino American Pale Ale",5.5,44437
-"556",17271,"Bootlegger's Brewery",1219247241,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Palomino American Pale Ale",5.5,44437
-"557",17271,"Bootlegger's Brewery",1314456699,3.5,4,4,"American IPA",4,3.5,"Eliminator IPA",NA,71821
-"558",17271,"Bootlegger's Brewery",1312752903,4,4,4,"American IPA",4,3.5,"Eliminator IPA",NA,71821
-"559",17271,"Bootlegger's Brewery",1272605483,4,3.5,3,"Dunkelweizen",3.5,3.5,"Old World Dunkelweizen",NA,57814
-"560",17271,"Bootlegger's Brewery",1285541275,4,3,3.5,"Altbier",3,3,"Amber Alt Ale",5.5,44439
-"561",17271,"Bootlegger's Brewery",1284843711,3.5,3.5,3.5,"Altbier",4,3.5,"Amber Alt Ale",5.5,44439
-"562",17271,"Bootlegger's Brewery",1240429962,3.5,4,3.5,"Altbier",4,4.5,"Amber Alt Ale",5.5,44439
-"563",17271,"Bootlegger's Brewery",1231736101,3,3,2.5,"Altbier",2.5,3,"Amber Alt Ale",5.5,44439
-"564",17271,"Bootlegger's Brewery",1221020760,4,3.5,3.5,"Altbier",3,4,"Amber Alt Ale",5.5,44439
-"565",17271,"Bootlegger's Brewery",1219249246,4.5,4,4,"Altbier",4,4.5,"Amber Alt Ale",5.5,44439
-"566",17271,"Bootlegger's Brewery",1314457039,4,3.5,4,"English Dark Mild Ale",4,4,"Prohibition Mild",3.2,57409
-"567",17271,"Bootlegger's Brewery",1304298027,3.5,3.5,4,"English Dark Mild Ale",4,4,"Prohibition Mild",3.2,57409
-"568",17271,"Bootlegger's Brewery",1272403766,4.5,4.5,3,"English Dark Mild Ale",3.5,4.5,"Prohibition Mild",3.2,57409
-"569",17271,"Bootlegger's Brewery",1272087780,4.5,4,4,"English Dark Mild Ale",4.5,4,"Prohibition Mild",3.2,57409
-"570",17271,"Bootlegger's Brewery",1270880944,4.5,4.5,3.5,"English Dark Mild Ale",3.5,4,"Prohibition Mild",3.2,57409
-"571",17271,"Bootlegger's Brewery",1270697857,4.5,4,4,"English Dark Mild Ale",4,4.5,"Prohibition Mild",3.2,57409
-"572",17271,"Bootlegger's Brewery",1267848685,4,4,4,"Fruit / Vegetable Beer",4,4,"Silence Of The Yams",NA,56591
-"573",17271,"Bootlegger's Brewery",1296260393,3,4,4,"Scotch Ale / Wee Heavy",3.5,3,"MacDougall's Scotch Ale",6.8,65698
-"574",17271,"Bootlegger's Brewery",1296196373,3,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"MacDougall's Scotch Ale",6.8,65698
-"575",17271,"Bootlegger's Brewery",1312753261,3.5,4,4,"American Brown Ale",4,4,"Doggery Brown Ale",NA,71822
-"576",17271,"Bootlegger's Brewery",1312408369,4.5,3,3.5,"American Amber / Red Ale",3,4,"Rocco Red Ale",NA,67390
-"577",17271,"Bootlegger's Brewery",1311234973,4,4,4,"American Amber / Red Ale",4,4,"Rocco Red Ale",NA,67390
-"578",17271,"Bootlegger's Brewery",1310952656,4,4,4,"American Amber / Red Ale",3.5,4,"Rocco Red Ale",NA,67390
-"579",17271,"Bootlegger's Brewery",1300674754,3.5,4,4,"American Amber / Red Ale",4,3.5,"Rocco Red Ale",NA,67390
-"580",17271,"Bootlegger's Brewery",1299007642,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"SMaSH Nelson - Pilot",NA,66676
-"581",17271,"Bootlegger's Brewery",1273965820,4,4.5,3,"American Wild Ale",4,3.5,"Bluebonic Funk",5,57807
-"582",17271,"Bootlegger's Brewery",1272649281,4,3.5,4,"American Wild Ale",4.5,3.5,"Bluebonic Funk",5,57807
-"583",17271,"Bootlegger's Brewery",1296260011,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Blackberry Bon Voyage Bitter",NA,65697
-"584",17271,"Bootlegger's Brewery",1296196159,3.5,4,3,"Fruit / Vegetable Beer",3.5,4,"Blackberry Bon Voyage Bitter",NA,65697
-"585",17271,"Bootlegger's Brewery",1267849773,3.5,4,3.5,"Belgian Strong Pale Ale",4,3.5,"It Shall Remain Nameless",7.6,56593
-"586",17271,"Bootlegger's Brewery",1272651234,4,3.5,3.5,"Quadrupel (Quad)",4,3.5,"Quadruped",NA,57815
-"587",17271,"Bootlegger's Brewery",1296368875,3.5,4,4,"Herbed / Spiced Beer",3.5,3.5,"Spring Ale 2011 - Pilot",NA,65712
-"588",17271,"Bootlegger's Brewery",1296283037,4.5,4,4,"Herbed / Spiced Beer",4.5,4,"Spring Ale 2011 - Pilot",NA,65712
-"589",17271,"Bootlegger's Brewery",1273966304,4,3.5,3.5,"American Wild Ale",4.5,4,"My Cherry Amour",NA,57806
-"590",17271,"Bootlegger's Brewery",1272647836,4,4,3.5,"American Wild Ale",4,4,"My Cherry Amour",NA,57806
-"591",17271,"Bootlegger's Brewery",1313612482,4,3.5,3.5,"Witbier",4,4,"Lemongrass White Ale",NA,70621
-"592",17271,"Bootlegger's Brewery",1309569891,4,3.5,4,"Witbier",3.5,3.5,"Lemongrass White Ale",NA,70621
-"593",17271,"Bootlegger's Brewery",1325993456,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Golden Chaos Golden Ale",8.5,44438
-"594",17271,"Bootlegger's Brewery",1321844136,4,4,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
-"595",17271,"Bootlegger's Brewery",1321593487,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
-"596",17271,"Bootlegger's Brewery",1311270122,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Golden Chaos Golden Ale",8.5,44438
-"597",17271,"Bootlegger's Brewery",1310428534,3.5,3,3,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
-"598",17271,"Bootlegger's Brewery",1306397201,3.5,3,3,"Belgian Strong Pale Ale",4,3.5,"Golden Chaos Golden Ale",8.5,44438
-"599",17271,"Bootlegger's Brewery",1304718473,3,3,2,"Belgian Strong Pale Ale",3,3,"Golden Chaos Golden Ale",8.5,44438
-"600",17271,"Bootlegger's Brewery",1300452138,3.5,4,3,"Belgian Strong Pale Ale",3,3.5,"Golden Chaos Golden Ale",8.5,44438
-"601",17271,"Bootlegger's Brewery",1299567107,4,4,4,"Belgian Strong Pale Ale",4.5,4,"Golden Chaos Golden Ale",8.5,44438
-"602",17271,"Bootlegger's Brewery",1288482861,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Golden Chaos Golden Ale",8.5,44438
-"603",17271,"Bootlegger's Brewery",1284396441,3.5,4,4,"Belgian Strong Pale Ale",2.5,3.5,"Golden Chaos Golden Ale",8.5,44438
-"604",17271,"Bootlegger's Brewery",1273981257,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Golden Chaos Golden Ale",8.5,44438
-"605",17271,"Bootlegger's Brewery",1299295465,3,4,3.5,"American Porter",3,3,"Maple Porter - Pilot",5.5,66903
-"606",17271,"Bootlegger's Brewery",1273380967,4.5,4.5,3.5,"Belgian Strong Pale Ale",3.5,4.5,"Golden Chaos Golden Ale",8.5,44438
-"607",17271,"Bootlegger's Brewery",1263922088,3,3,3.5,"Belgian Strong Pale Ale",3.5,2.5,"Golden Chaos Golden Ale",8.5,44438
-"608",17271,"Bootlegger's Brewery",1258085797,4,4,2.5,"Belgian Strong Pale Ale",3.5,4,"Golden Chaos Golden Ale",8.5,44438
-"609",17271,"Bootlegger's Brewery",1222405243,1.5,2,4,"Belgian Strong Pale Ale",3,2.5,"Golden Chaos Golden Ale",8.5,44438
-"610",17271,"Bootlegger's Brewery",1220661531,3.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
-"611",17271,"Bootlegger's Brewery",1220327240,4,4,2.5,"Belgian Strong Pale Ale",4.5,4,"Golden Chaos Golden Ale",8.5,44438
-"612",17271,"Bootlegger's Brewery",1219248538,4,4,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
-"613",17271,"Bootlegger's Brewery",1299362538,3,4,3,"American Porter",3.5,3.5,"Maple Porter - Pilot",5.5,66903
-"614",17271,"Bootlegger's Brewery",1299349218,3,4,3.5,"American Porter",4,3,"Maple Porter - Pilot",5.5,66903
-"615",17271,"Bootlegger's Brewery",1299294349,4,4.5,3.5,"Saison / Farmhouse Ale",4,3,"Dry Hopped Spring Ale",5.5,66675
-"616",17271,"Bootlegger's Brewery",1299278995,4,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Dry Hopped Spring Ale",5.5,66675
-"617",17271,"Bootlegger's Brewery",1299007376,3.5,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Dry Hopped Spring Ale",5.5,66675
-"618",17271,"Bootlegger's Brewery",1298701147,4,3.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Dry Hopped Spring Ale",5.5,66675
-"619",17271,"Bootlegger's Brewery",1326176419,3.5,4,3.5,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"620",17271,"Bootlegger's Brewery",1326146479,3.5,4,4.5,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"621",17271,"Bootlegger's Brewery",1325736154,3,3,3,"American Porter",3,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"622",17271,"Bootlegger's Brewery",1324871491,4,3.5,4,"American Porter",4.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"623",17271,"Bootlegger's Brewery",1324611022,3.5,3.5,3.5,"American Porter",3,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"624",17271,"Bootlegger's Brewery",1324174609,4,4,4.5,"American Porter",3.5,4.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"625",17271,"Bootlegger's Brewery",1323907992,3,3,3.5,"American Porter",3,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"626",17271,"Bootlegger's Brewery",1323841769,3,3,4,"American Porter",3,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"627",17271,"Bootlegger's Brewery",1323757887,3,3.5,3.5,"American Porter",2,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"628",17271,"Bootlegger's Brewery",1323579434,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"629",17271,"Bootlegger's Brewery",1322964362,4.5,5,4,"American Porter",5,5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"630",17271,"Bootlegger's Brewery",1321844230,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"631",17271,"Bootlegger's Brewery",1321677950,3.5,3.5,3.5,"American Porter",3,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"632",17271,"Bootlegger's Brewery",1320558498,4,3.5,4.5,"American Porter",3.5,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"633",17271,"Bootlegger's Brewery",1320244717,2.5,2.5,4,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"634",17271,"Bootlegger's Brewery",1320114677,3,2.5,4,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"635",17271,"Bootlegger's Brewery",1295217505,1.5,2.5,3,"American Porter",2.5,2,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"636",17271,"Bootlegger's Brewery",1294110269,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"637",17271,"Bootlegger's Brewery",1293655393,3.5,4,4,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"638",17271,"Bootlegger's Brewery",1293608330,3.5,3,3.5,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"639",17271,"Bootlegger's Brewery",1293499915,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"640",17271,"Bootlegger's Brewery",1290904947,1.5,4,3.5,"American Porter",2,2,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"641",17271,"Bootlegger's Brewery",1263700078,4,4,2.5,"American Porter",3.5,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"642",17271,"Bootlegger's Brewery",1262208362,3.5,4,4,"American Porter",4,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"643",17271,"Bootlegger's Brewery",1261345473,4,4,3,"American Porter",3,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
-"644",17271,"Bootlegger's Brewery",1259296620,4,4,3.5,"American Porter",4.5,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"1",17271,"Bootlegger's Brewery",1270785731,4,4,3.5,"American Porter",3.5,3.5,"Black Strap Porter",5.6,56592
+"2",17271,"Bootlegger's Brewery",1323538488,3.5,3.5,4,"American Strong Ale",4,3.5,"Dr. Tongue",7.5,57825
+"3",17271,"Bootlegger's Brewery",1320346696,3.5,3.5,3,"American Strong Ale",3,3.5,"Dr. Tongue",7.5,57825
+"4",17271,"Bootlegger's Brewery",1308175265,4,3.5,4,"American Strong Ale",4,4,"Dr. Tongue",7.5,57825
+"5",17271,"Bootlegger's Brewery",1299998270,3.5,4,4,"American Strong Ale",3.5,3,"Dr. Tongue",7.5,57825
+"6",17271,"Bootlegger's Brewery",1299310642,3.5,4.5,5,"American Strong Ale",4,3.5,"Dr. Tongue",7.5,57825
+"7",17271,"Bootlegger's Brewery",1298864415,4,4,4,"American Strong Ale",4.5,4.5,"Dr. Tongue",7.5,57825
+"8",17271,"Bootlegger's Brewery",1298362287,4.5,4,4,"American Strong Ale",4.5,3.5,"Dr. Tongue",7.5,57825
+"9",17271,"Bootlegger's Brewery",1298313938,5,4,3.5,"American Strong Ale",4.5,4.5,"Dr. Tongue",7.5,57825
+"10",17271,"Bootlegger's Brewery",1298168415,3.5,4,4,"American Strong Ale",3.5,3.5,"Dr. Tongue",7.5,57825
+"11",17271,"Bootlegger's Brewery",1298166455,2,3.5,4,"American Strong Ale",3,2.5,"Dr. Tongue",7.5,57825
+"12",17271,"Bootlegger's Brewery",1298161085,3.5,3.5,3.5,"American Strong Ale",4,3,"Dr. Tongue",7.5,57825
+"13",17271,"Bootlegger's Brewery",1298045680,4.5,4,4.5,"American Strong Ale",4,4,"Dr. Tongue",7.5,57825
+"14",17271,"Bootlegger's Brewery",1297656547,4,4,4,"American Strong Ale",4,4.5,"Dr. Tongue",7.5,57825
+"15",17271,"Bootlegger's Brewery",1305688219,4,4,4,"Herbed / Spiced Beer",4,4,"Spring Ale",4.5,56245
+"16",17271,"Bootlegger's Brewery",1299308539,4.5,5,4.5,"Herbed / Spiced Beer",4,4.5,"Spring Ale",4.5,56245
+"17",17271,"Bootlegger's Brewery",1298165458,2.5,3,3,"Herbed / Spiced Beer",3.5,3.5,"Spring Ale",4.5,56245
+"18",17271,"Bootlegger's Brewery",1273967041,4.5,5,3.5,"Herbed / Spiced Beer",3,4.5,"Spring Ale",4.5,56245
+"19",17271,"Bootlegger's Brewery",1272218472,5,5,3,"Herbed / Spiced Beer",4.5,4.5,"Spring Ale",4.5,56245
+"20",17271,"Bootlegger's Brewery",1266645896,3.5,3,3.5,"Herbed / Spiced Beer",4,3.5,"Spring Ale",4.5,56245
+"21",17271,"Bootlegger's Brewery",1296370643,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"India Red Ale",NA,65738
+"22",17271,"Bootlegger's Brewery",1296346156,4,4,3.5,"American Amber / Red Ale",4,3.5,"India Red Ale",NA,65738
+"23",17271,"Bootlegger's Brewery",1311462621,2,1.5,4.5,"American Porter",2,1.5,"Black Strap Porter",5.6,56592
+"24",17271,"Bootlegger's Brewery",1310699346,4,4,4,"American Porter",3.5,4,"Black Strap Porter",5.6,56592
+"25",17271,"Bootlegger's Brewery",1273967259,3.5,4,4,"American Porter",4,4,"Black Strap Porter",5.6,56592
+"26",17271,"Bootlegger's Brewery",1267849056,3.5,3.5,4,"American Porter",4,3.5,"Black Strap Porter",5.6,56592
+"27",17271,"Bootlegger's Brewery",1313427750,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"78 Anniversary Ale",7.8,68503
+"28",17271,"Bootlegger's Brewery",1312586646,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"78 Anniversary Ale",7.8,68503
+"29",17271,"Bootlegger's Brewery",1310953323,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"78 Anniversary Ale",7.8,68503
+"30",17271,"Bootlegger's Brewery",1310100734,4,4.5,2,"Scotch Ale / Wee Heavy",4,4.5,"78 Anniversary Ale",7.8,68503
+"31",17271,"Bootlegger's Brewery",1320901042,2.5,3,4,"Pumpkin Ale",3.5,2.5,"Pumpkin Ale",6.1,54711
+"32",17271,"Bootlegger's Brewery",1304146838,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"78 Anniversary Ale",7.8,68503
+"33",17271,"Bootlegger's Brewery",1304096112,4,3.5,3,"Scotch Ale / Wee Heavy",4,4,"78 Anniversary Ale",7.8,68503
+"34",17271,"Bootlegger's Brewery",1314456899,3,3.5,3,"Dubbel",3.5,3.5,"Plum Riot",7.8,52564
+"35",17271,"Bootlegger's Brewery",1311796900,3,3.5,3.5,"Dubbel",3.5,3,"Plum Riot",7.8,52564
+"36",17271,"Bootlegger's Brewery",1308878734,3,3.5,3,"Dubbel",2,3.5,"Plum Riot",7.8,52564
+"37",17271,"Bootlegger's Brewery",1306468690,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Plum Riot",7.8,52564
+"38",17271,"Bootlegger's Brewery",1305572493,3.5,3.5,3.5,"Dubbel",3,3.5,"Plum Riot",7.8,52564
+"39",17271,"Bootlegger's Brewery",1282788237,1.5,3.5,2,"Dubbel",1.5,3,"Plum Riot",7.8,52564
+"40",17271,"Bootlegger's Brewery",1282709210,4.5,3.5,4,"Dubbel",4,4,"Plum Riot",7.8,52564
+"41",17271,"Bootlegger's Brewery",1279254121,3.5,4,3,"Dubbel",2.5,3.5,"Plum Riot",7.8,52564
+"42",17271,"Bootlegger's Brewery",1277602584,3.5,3.5,3.5,"Dubbel",3.5,3,"Plum Riot",7.8,52564
+"43",17271,"Bootlegger's Brewery",1263923337,4,3.5,3.5,"Dubbel",4,3.5,"Plum Riot",7.8,52564
+"44",17271,"Bootlegger's Brewery",1252732494,2,3.5,3.5,"Dubbel",3,3,"Plum Riot",7.8,52564
+"45",17271,"Bootlegger's Brewery",1252729153,4.5,4.5,3,"Dubbel",4.5,4.5,"Plum Riot",7.8,52564
+"46",17271,"Bootlegger's Brewery",1325373044,2.5,3.5,3,"Pumpkin Ale",2,3,"Pumpkin Ale",6.1,54711
+"47",17271,"Bootlegger's Brewery",1321844284,3.5,3.5,3.5,"Pumpkin Ale",3.5,3.5,"Pumpkin Ale",6.1,54711
+"48",17271,"Bootlegger's Brewery",1318723740,3.5,3.5,3,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"49",17271,"Bootlegger's Brewery",1320287058,3.5,5,2,"Pumpkin Ale",2,3.5,"Pumpkin Ale",6.1,54711
+"50",17271,"Bootlegger's Brewery",1319994408,4,4,3.5,"Pumpkin Ale",4,4,"Pumpkin Ale",6.1,54711
+"51",17271,"Bootlegger's Brewery",1318996244,4,4,3.5,"Pumpkin Ale",3.5,4,"Pumpkin Ale",6.1,54711
+"52",17271,"Bootlegger's Brewery",1318876931,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
+"53",17271,"Bootlegger's Brewery",1318042697,4,4,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
+"54",17271,"Bootlegger's Brewery",1317697370,3.5,3,3.5,"Pumpkin Ale",4,3.5,"Pumpkin Ale",6.1,54711
+"55",17271,"Bootlegger's Brewery",1316492773,3,3,3,"Pumpkin Ale",3,3.5,"Pumpkin Ale",6.1,54711
+"56",17271,"Bootlegger's Brewery",1294952719,4.5,4.5,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
+"57",17271,"Bootlegger's Brewery",1292046253,4.5,3.5,3.5,"Pumpkin Ale",4,4,"Pumpkin Ale",6.1,54711
+"58",17271,"Bootlegger's Brewery",1290818445,4,4,3.5,"Pumpkin Ale",2,4,"Pumpkin Ale",6.1,54711
+"59",17271,"Bootlegger's Brewery",1289756016,3.5,4.5,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
+"60",17271,"Bootlegger's Brewery",1288425067,3.5,3.5,4,"Pumpkin Ale",4,3,"Pumpkin Ale",6.1,54711
+"61",17271,"Bootlegger's Brewery",1260659299,4,3,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",6.1,54711
+"62",17271,"Bootlegger's Brewery",1299421590,3,3.5,3.5,"American Double / Imperial IPA",3,2.5,"Knuckle Sandwich",10,54745
+"63",17271,"Bootlegger's Brewery",1299385154,4.5,5,4,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"64",17271,"Bootlegger's Brewery",1299203887,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"65",17271,"Bootlegger's Brewery",1298847468,5,4.5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"66",17271,"Bootlegger's Brewery",1313022848,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"67",17271,"Bootlegger's Brewery",1298772955,4,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"68",17271,"Bootlegger's Brewery",1298615641,5,5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"69",17271,"Bootlegger's Brewery",1298184352,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"70",17271,"Bootlegger's Brewery",1298163588,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"71",17271,"Bootlegger's Brewery",1297998362,4,5,5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
+"72",17271,"Bootlegger's Brewery",1297647413,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"73",17271,"Bootlegger's Brewery",1297481209,4,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"74",17271,"Bootlegger's Brewery",1271130966,4.5,4,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"75",17271,"Bootlegger's Brewery",1297038280,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"76",17271,"Bootlegger's Brewery",1297034437,4.5,4.5,5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"77",17271,"Bootlegger's Brewery",1297030875,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"78",17271,"Bootlegger's Brewery",1296238028,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"79",17271,"Bootlegger's Brewery",1296066193,4,5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"80",17271,"Bootlegger's Brewery",1296004029,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"81",17271,"Bootlegger's Brewery",1295756730,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"82",17271,"Bootlegger's Brewery",1295576269,5,5,4,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"83",17271,"Bootlegger's Brewery",1295333457,4.5,4.5,5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"84",17271,"Bootlegger's Brewery",1295330786,5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"85",17271,"Bootlegger's Brewery",1295235546,3.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"86",17271,"Bootlegger's Brewery",1295135292,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"87",17271,"Bootlegger's Brewery",1295038828,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"88",17271,"Bootlegger's Brewery",1294867947,4.5,4.5,4,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
+"89",17271,"Bootlegger's Brewery",1294718130,5,5,5,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
+"90",17271,"Bootlegger's Brewery",1294714604,5,5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"91",17271,"Bootlegger's Brewery",1294539219,4.5,5,5,"American Double / Imperial IPA",3,4.5,"Knuckle Sandwich",10,54745
+"92",17271,"Bootlegger's Brewery",1294374784,5,5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"93",17271,"Bootlegger's Brewery",1294216568,5,4.5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"94",17271,"Bootlegger's Brewery",1293737670,3.5,4,3.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"95",17271,"Bootlegger's Brewery",1293398552,2,3,4,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
+"96",17271,"Bootlegger's Brewery",1292394899,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"97",17271,"Bootlegger's Brewery",1292120551,5,5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"98",17271,"Bootlegger's Brewery",1292115241,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"99",17271,"Bootlegger's Brewery",1291432025,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Knuckle Sandwich",10,54745
+"100",17271,"Bootlegger's Brewery",1291273499,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"101",17271,"Bootlegger's Brewery",1291273186,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"102",17271,"Bootlegger's Brewery",1291088536,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"103",17271,"Bootlegger's Brewery",1290359675,3.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"104",17271,"Bootlegger's Brewery",1318169094,4,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"105",17271,"Bootlegger's Brewery",1288560838,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"106",17271,"Bootlegger's Brewery",1288228758,5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"107",17271,"Bootlegger's Brewery",1287973029,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"108",17271,"Bootlegger's Brewery",1287334914,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
+"109",17271,"Bootlegger's Brewery",1287271413,5,3,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"110",17271,"Bootlegger's Brewery",1284849876,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"111",17271,"Bootlegger's Brewery",1284847582,4,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"112",17271,"Bootlegger's Brewery",1284780672,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"113",17271,"Bootlegger's Brewery",1284585692,3,3.5,4,"American Double / Imperial IPA",3,3.5,"Knuckle Sandwich",10,54745
+"114",17271,"Bootlegger's Brewery",1284225171,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"115",17271,"Bootlegger's Brewery",1283561110,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"116",17271,"Bootlegger's Brewery",1283490057,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"117",17271,"Bootlegger's Brewery",1283179758,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"118",17271,"Bootlegger's Brewery",1282951479,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"119",17271,"Bootlegger's Brewery",1318133907,3.5,4.5,3.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
+"120",17271,"Bootlegger's Brewery",1278367153,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"121",17271,"Bootlegger's Brewery",1275759124,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"122",17271,"Bootlegger's Brewery",1275647896,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"123",17271,"Bootlegger's Brewery",1275625641,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"124",17271,"Bootlegger's Brewery",1275271402,4.5,5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"125",17271,"Bootlegger's Brewery",1275071184,4,4.5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"126",17271,"Bootlegger's Brewery",1274972767,4,3.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"127",17271,"Bootlegger's Brewery",1273350127,5,5,5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"128",17271,"Bootlegger's Brewery",1273208516,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"129",17271,"Bootlegger's Brewery",1271621649,4.5,4.5,3.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"130",17271,"Bootlegger's Brewery",1271218846,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"131",17271,"Bootlegger's Brewery",1266907404,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"132",17271,"Bootlegger's Brewery",1266691924,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"133",17271,"Bootlegger's Brewery",1266646233,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"134",17271,"Bootlegger's Brewery",1266079206,4,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"135",17271,"Bootlegger's Brewery",1260752806,4.5,4.5,4,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
+"136",17271,"Bootlegger's Brewery",1325569421,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"137",17271,"Bootlegger's Brewery",1325555323,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"138",17271,"Bootlegger's Brewery",1325137146,4,5,4,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
+"139",17271,"Bootlegger's Brewery",1324940939,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"140",17271,"Bootlegger's Brewery",1324460184,4.5,4,5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"141",17271,"Bootlegger's Brewery",1324420133,4.5,5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"142",17271,"Bootlegger's Brewery",1324197557,4.5,4,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"143",17271,"Bootlegger's Brewery",1324103443,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"144",17271,"Bootlegger's Brewery",1321237828,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Knuckle Sandwich",10,54745
+"145",17271,"Bootlegger's Brewery",1319204144,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"146",17271,"Bootlegger's Brewery",1317004120,3.5,4,4,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
+"147",17271,"Bootlegger's Brewery",1316918267,4,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
+"148",17271,"Bootlegger's Brewery",1316478106,4.5,5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"149",17271,"Bootlegger's Brewery",1316037211,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"150",17271,"Bootlegger's Brewery",1316019665,4,3.5,5,"American Double / Imperial IPA",4.5,3.5,"Knuckle Sandwich",10,54745
+"151",17271,"Bootlegger's Brewery",1316011604,3.5,3.5,4.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
+"152",17271,"Bootlegger's Brewery",1315025080,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"153",17271,"Bootlegger's Brewery",1314926283,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"154",17271,"Bootlegger's Brewery",1314920364,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"155",17271,"Bootlegger's Brewery",1314763790,4,3.5,5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"156",17271,"Bootlegger's Brewery",1314744392,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"157",17271,"Bootlegger's Brewery",1314409482,4.5,4,4.5,"American Double / Imperial IPA",5,4,"Knuckle Sandwich",10,54745
+"158",17271,"Bootlegger's Brewery",1313877271,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"159",17271,"Bootlegger's Brewery",1313718419,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"160",17271,"Bootlegger's Brewery",1313612880,4.5,4,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"161",17271,"Bootlegger's Brewery",1313455428,3.5,3,4,"American Double / Imperial IPA",4,2,"Knuckle Sandwich",10,54745
+"162",17271,"Bootlegger's Brewery",1313191097,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"163",17271,"Bootlegger's Brewery",1313077374,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"164",17271,"Bootlegger's Brewery",1312941327,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"165",17271,"Bootlegger's Brewery",1312828711,5,5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"166",17271,"Bootlegger's Brewery",1312690680,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"167",17271,"Bootlegger's Brewery",1312507519,4,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"168",17271,"Bootlegger's Brewery",1312481198,4.5,5,3.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"169",17271,"Bootlegger's Brewery",1312400906,4.5,3.5,4.5,"American Double / Imperial IPA",3.5,5,"Knuckle Sandwich",10,54745
+"170",17271,"Bootlegger's Brewery",1312137518,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"171",17271,"Bootlegger's Brewery",1312085199,5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"172",17271,"Bootlegger's Brewery",1300921548,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"173",17271,"Bootlegger's Brewery",1311993027,5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"174",17271,"Bootlegger's Brewery",1311974172,4,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"175",17271,"Bootlegger's Brewery",1311954737,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,4,"Knuckle Sandwich",10,54745
+"176",17271,"Bootlegger's Brewery",1311816365,4.5,5,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"177",17271,"Bootlegger's Brewery",1311645885,2.5,3,3.5,"American Double / Imperial IPA",2.5,2.5,"Knuckle Sandwich",10,54745
+"178",17271,"Bootlegger's Brewery",1311601706,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"179",17271,"Bootlegger's Brewery",1311545597,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"180",17271,"Bootlegger's Brewery",1311542785,4.5,4,5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"181",17271,"Bootlegger's Brewery",1300578549,5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"182",17271,"Bootlegger's Brewery",1311212451,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"183",17271,"Bootlegger's Brewery",1311198995,5,5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"184",17271,"Bootlegger's Brewery",1311192871,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"185",17271,"Bootlegger's Brewery",1310890742,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"186",17271,"Bootlegger's Brewery",1310583576,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"187",17271,"Bootlegger's Brewery",1308800222,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"188",17271,"Bootlegger's Brewery",1281145750,3.5,4,3,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
+"189",17271,"Bootlegger's Brewery",1308638555,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"190",17271,"Bootlegger's Brewery",1306877769,4.5,4,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"191",17271,"Bootlegger's Brewery",1306307682,4,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"192",17271,"Bootlegger's Brewery",1306024051,4,4,4,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"193",17271,"Bootlegger's Brewery",1305354834,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"194",17271,"Bootlegger's Brewery",1304965841,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
+"195",17271,"Bootlegger's Brewery",1304630579,3.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Knuckle Sandwich",10,54745
+"196",17271,"Bootlegger's Brewery",1303495162,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"197",17271,"Bootlegger's Brewery",1304572162,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"198",17271,"Bootlegger's Brewery",1304525295,3,3,4.5,"American Double / Imperial IPA",4.5,3,"Knuckle Sandwich",10,54745
+"199",17271,"Bootlegger's Brewery",1304212954,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"200",17271,"Bootlegger's Brewery",1304032957,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"201",17271,"Bootlegger's Brewery",1303701958,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"202",17271,"Bootlegger's Brewery",1303683863,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"203",17271,"Bootlegger's Brewery",1303601454,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"204",17271,"Bootlegger's Brewery",1303520421,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"205",17271,"Bootlegger's Brewery",1303187986,4,5,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"206",17271,"Bootlegger's Brewery",1303102607,4,4.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
+"207",17271,"Bootlegger's Brewery",1303068517,5,4,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"208",17271,"Bootlegger's Brewery",1302920636,4,3.5,4,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"209",17271,"Bootlegger's Brewery",1302754120,4,4,4.5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"210",17271,"Bootlegger's Brewery",1302710274,4,4.5,3,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"211",17271,"Bootlegger's Brewery",1302674510,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
+"212",17271,"Bootlegger's Brewery",1302646852,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Knuckle Sandwich",10,54745
+"213",17271,"Bootlegger's Brewery",1302470216,4.5,5,5,"American Double / Imperial IPA",4,4,"Knuckle Sandwich",10,54745
+"214",17271,"Bootlegger's Brewery",1302405613,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"215",17271,"Bootlegger's Brewery",1302206577,3.5,3.5,3.5,"American Double / Imperial IPA",3,3,"Knuckle Sandwich",10,54745
+"216",17271,"Bootlegger's Brewery",1302039704,3,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Knuckle Sandwich",10,54745
+"217",17271,"Bootlegger's Brewery",1301702146,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"218",17271,"Bootlegger's Brewery",1301501775,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Knuckle Sandwich",10,54745
+"219",17271,"Bootlegger's Brewery",1301337379,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Knuckle Sandwich",10,54745
+"220",17271,"Bootlegger's Brewery",1301294188,4.5,4.5,4.5,"American Double / Imperial IPA",5,4.5,"Knuckle Sandwich",10,54745
+"221",17271,"Bootlegger's Brewery",1301268703,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"222",17271,"Bootlegger's Brewery",1300930644,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Knuckle Sandwich",10,54745
+"223",17271,"Bootlegger's Brewery",1299725231,5,4,5,"American Double / Imperial IPA",4,5,"Knuckle Sandwich",10,54745
+"224",17271,"Bootlegger's Brewery",1317067489,4,4,2.5,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
+"225",17271,"Bootlegger's Brewery",1316469268,4,4,3.5,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
+"226",17271,"Bootlegger's Brewery",1283829884,4.5,4,4,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
+"227",17271,"Bootlegger's Brewery",1283045674,4,3.5,3.5,"American Wild Ale",4,4,"Olallieberry/Acai Lambic",NA,60405
+"228",17271,"Bootlegger's Brewery",1280016852,4,4,4,"American Wild Ale",3.5,4.5,"Olallieberry/Acai Lambic",NA,60405
+"229",17271,"Bootlegger's Brewery",1299362044,4.5,4,4,"American Wild Ale",4.5,4.5,"Lambic #2",5,57811
+"230",17271,"Bootlegger's Brewery",1294664910,3.5,3.5,3,"American Wild Ale",3.5,3,"Lambic #2",5,57811
+"231",17271,"Bootlegger's Brewery",1273892847,4,3.5,3,"American Wild Ale",3.5,3.5,"Lambic #2",5,57811
+"232",17271,"Bootlegger's Brewery",1272649839,4,3.5,4,"American Wild Ale",4,4,"Lambic #2",5,57811
+"233",17271,"Bootlegger's Brewery",1272606923,4.5,4.5,3.5,"American Wild Ale",4,5,"Lambic #2",5,57811
+"234",17271,"Bootlegger's Brewery",1315110210,3.5,4,3.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"235",17271,"Bootlegger's Brewery",1324532891,3.5,3.5,4,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
+"236",17271,"Bootlegger's Brewery",1324066457,4,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"237",17271,"Bootlegger's Brewery",1321843692,4,3.5,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"238",17271,"Bootlegger's Brewery",1320812419,3,3.5,3,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
+"239",17271,"Bootlegger's Brewery",1318379933,4.5,4,4.5,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
+"240",17271,"Bootlegger's Brewery",1316475920,4,3,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"241",17271,"Bootlegger's Brewery",1316208505,3.5,3,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
+"242",17271,"Bootlegger's Brewery",1315859010,4,4,3.5,"American IPA",3.5,4.5,"Rustic Rye IPA",6.2,47604
+"243",17271,"Bootlegger's Brewery",1314332329,3,3.5,4,"American IPA",4,3,"Rustic Rye IPA",6.2,47604
+"244",17271,"Bootlegger's Brewery",1314062047,4,4,4.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"245",17271,"Bootlegger's Brewery",1314040929,3.5,3.5,3.5,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"246",17271,"Bootlegger's Brewery",1312679043,4,3,3.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"247",17271,"Bootlegger's Brewery",1312606106,3.5,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"248",17271,"Bootlegger's Brewery",1312161390,4,3.5,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"249",17271,"Bootlegger's Brewery",1310892066,4,4,4.5,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"250",17271,"Bootlegger's Brewery",1310670989,3.5,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"251",17271,"Bootlegger's Brewery",1304631804,3,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"252",17271,"Bootlegger's Brewery",1310158566,3.5,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"253",17271,"Bootlegger's Brewery",1309984690,4,3.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"254",17271,"Bootlegger's Brewery",1309830379,4,2.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"255",17271,"Bootlegger's Brewery",1309498201,4,3.5,4.5,"American IPA",3.5,4.5,"Rustic Rye IPA",6.2,47604
+"256",17271,"Bootlegger's Brewery",1308091580,3.5,3.5,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"257",17271,"Bootlegger's Brewery",1308021389,4.5,3.5,4,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"258",17271,"Bootlegger's Brewery",1307503137,4,3,3,"American IPA",4,4.5,"Rustic Rye IPA",6.2,47604
+"259",17271,"Bootlegger's Brewery",1306010292,2,2.5,2.5,"American IPA",4,2,"Rustic Rye IPA",6.2,47604
+"260",17271,"Bootlegger's Brewery",1304721315,2.5,3.5,3,"American IPA",2,2,"Rustic Rye IPA",6.2,47604
+"261",17271,"Bootlegger's Brewery",1303685866,3,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"262",17271,"Bootlegger's Brewery",1303632498,3,3,4,"American IPA",4,3,"Rustic Rye IPA",6.2,47604
+"263",17271,"Bootlegger's Brewery",1302750650,3.5,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"264",17271,"Bootlegger's Brewery",1301973817,3.5,2.5,3.5,"American IPA",5,3.5,"Rustic Rye IPA",6.2,47604
+"265",17271,"Bootlegger's Brewery",1300161159,4,4,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"266",17271,"Bootlegger's Brewery",1299797277,3.5,4,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"267",17271,"Bootlegger's Brewery",1299309884,3,4,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"268",17271,"Bootlegger's Brewery",1297621916,4.5,4,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"269",17271,"Bootlegger's Brewery",1295396432,4,4.5,4.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"270",17271,"Bootlegger's Brewery",1295218134,3,3,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
+"271",17271,"Bootlegger's Brewery",1294979436,4.5,4,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"272",17271,"Bootlegger's Brewery",1294795183,5,3.5,4,"American IPA",2.5,4,"Rustic Rye IPA",6.2,47604
+"273",17271,"Bootlegger's Brewery",1294666400,4,4,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"274",17271,"Bootlegger's Brewery",1293321477,4,4,4.5,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"275",17271,"Bootlegger's Brewery",1292730041,4,3.5,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"276",17271,"Bootlegger's Brewery",1291511134,4,3.5,4,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
+"277",17271,"Bootlegger's Brewery",1289290287,3.5,3,4,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
+"278",17271,"Bootlegger's Brewery",1289022883,4,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"279",17271,"Bootlegger's Brewery",1288823524,3.5,3.5,4,"American IPA",3.5,4,"Rustic Rye IPA",6.2,47604
+"280",17271,"Bootlegger's Brewery",1295217294,3,3.5,4,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
+"281",17271,"Bootlegger's Brewery",1288075617,4.5,3.5,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"282",17271,"Bootlegger's Brewery",1287972324,4.5,3.5,4,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
+"283",17271,"Bootlegger's Brewery",1283141914,2,2,4.5,"American IPA",2.5,2,"Rustic Rye IPA",6.2,47604
+"284",17271,"Bootlegger's Brewery",1282446202,3,3,3,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
+"285",17271,"Bootlegger's Brewery",1279323653,3.5,3.5,4,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"286",17271,"Bootlegger's Brewery",1272153252,4.5,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"287",17271,"Bootlegger's Brewery",1270260614,4.5,4.5,4,"American IPA",4.5,4.5,"Rustic Rye IPA",6.2,47604
+"288",17271,"Bootlegger's Brewery",1268883733,4.5,4,4,"American IPA",4.5,4,"Rustic Rye IPA",6.2,47604
+"289",17271,"Bootlegger's Brewery",1320612634,3.5,4,4.5,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"290",17271,"Bootlegger's Brewery",1266195204,3,3.5,3,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
+"291",17271,"Bootlegger's Brewery",1265745693,3.5,3,3.5,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"292",17271,"Bootlegger's Brewery",1264806098,4,3,3.5,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"293",17271,"Bootlegger's Brewery",1264138560,4,3.5,4.5,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"294",17271,"Bootlegger's Brewery",1263922487,4,3,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"295",17271,"Bootlegger's Brewery",1262930594,4,3.5,4,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"296",17271,"Bootlegger's Brewery",1261370156,2.5,2.5,4,"American IPA",2.5,2,"Rustic Rye IPA",6.2,47604
+"297",17271,"Bootlegger's Brewery",1259206750,3.5,3,4,"American IPA",3.5,3.5,"Rustic Rye IPA",6.2,47604
+"298",17271,"Bootlegger's Brewery",1255136327,3,3,3.5,"American IPA",3.5,3,"Rustic Rye IPA",6.2,47604
+"299",17271,"Bootlegger's Brewery",1254639760,3.5,3.5,3.5,"American IPA",3,3,"Rustic Rye IPA",6.2,47604
+"300",17271,"Bootlegger's Brewery",1252029147,4,4,4,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"301",17271,"Bootlegger's Brewery",1246148388,4.5,4,3,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"302",17271,"Bootlegger's Brewery",1244613801,4,3,3,"American IPA",4,3.5,"Rustic Rye IPA",6.2,47604
+"303",17271,"Bootlegger's Brewery",1243004237,4,3.5,3.5,"American IPA",4,4,"Rustic Rye IPA",6.2,47604
+"304",17271,"Bootlegger's Brewery",1241022570,4.5,4,4,"American IPA",4,4.5,"Rustic Rye IPA",6.2,47604
+"305",17271,"Bootlegger's Brewery",1240545918,3.5,3.5,3,"American IPA",3,3.5,"Rustic Rye IPA",6.2,47604
+"306",17271,"Bootlegger's Brewery",1233377951,4.5,4.5,4,"American IPA",5,4,"Rustic Rye IPA",6.2,47604
+"307",17271,"Bootlegger's Brewery",1326068170,4,4,4,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
+"308",17271,"Bootlegger's Brewery",1321843741,4,4,4,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
+"309",17271,"Bootlegger's Brewery",1319082310,3.5,3.5,3,"Hefeweizen",3,2.5,"Old World Hefeweizen",5,43510
+"310",17271,"Bootlegger's Brewery",1317958963,3.5,3.5,4,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
+"311",17271,"Bootlegger's Brewery",1315851001,4,3.5,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
+"312",17271,"Bootlegger's Brewery",1314681792,4,4,2.5,"Hefeweizen",4,4,"Old World Hefeweizen",5,43510
+"313",17271,"Bootlegger's Brewery",1308588723,4,4,3,"Hefeweizen",3.5,5,"Old World Hefeweizen",5,43510
+"314",17271,"Bootlegger's Brewery",1306468626,3.5,3,3.5,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
+"315",17271,"Bootlegger's Brewery",1304488100,4,3,2.5,"Hefeweizen",3,4,"Old World Hefeweizen",5,43510
+"316",17271,"Bootlegger's Brewery",1304392318,4,4,3,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
+"317",17271,"Bootlegger's Brewery",1304120812,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
+"318",17271,"Bootlegger's Brewery",1302924390,3,3.5,3,"Hefeweizen",3,4,"Old World Hefeweizen",5,43510
+"319",17271,"Bootlegger's Brewery",1301257802,3,4,4,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
+"320",17271,"Bootlegger's Brewery",1299827635,4.5,4,4,"Hefeweizen",4.5,3.5,"Old World Hefeweizen",5,43510
+"321",17271,"Bootlegger's Brewery",1299311172,4.5,3.5,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
+"322",17271,"Bootlegger's Brewery",1299277458,3,3.5,3,"Hefeweizen",3,3,"Old World Hefeweizen",5,43510
+"323",17271,"Bootlegger's Brewery",1294665219,4,4,3.5,"Hefeweizen",3.5,4,"Old World Hefeweizen",5,43510
+"324",17271,"Bootlegger's Brewery",1291764182,3.5,2.5,4,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
+"325",17271,"Bootlegger's Brewery",1289360963,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
+"326",17271,"Bootlegger's Brewery",1284781704,5,4.5,4,"Hefeweizen",4,4.5,"Old World Hefeweizen",5,43510
+"327",17271,"Bootlegger's Brewery",1281844919,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Old World Hefeweizen",5,43510
+"328",17271,"Bootlegger's Brewery",1263924554,4,2.5,3.5,"Hefeweizen",3.5,3,"Old World Hefeweizen",5,43510
+"329",17271,"Bootlegger's Brewery",1255203168,2,1.5,3,"Hefeweizen",2.5,1.5,"Old World Hefeweizen",5,43510
+"330",17271,"Bootlegger's Brewery",1248640897,3.5,3,3.5,"Hefeweizen",4,3,"Old World Hefeweizen",5,43510
+"331",17271,"Bootlegger's Brewery",1219249763,4.5,4,3.5,"Hefeweizen",4,4.5,"Old World Hefeweizen",5,43510
+"332",17271,"Bootlegger's Brewery",1215042845,3.5,3.5,4,"Hefeweizen",4,3.5,"Old World Hefeweizen",5,43510
+"333",17271,"Bootlegger's Brewery",1318524400,4.5,4,4,"American Wild Ale",4.5,4,"Olallieberry Lambic",5.1,51553
+"334",17271,"Bootlegger's Brewery",1315534228,4,3.5,3,"American Wild Ale",4,4,"Olallieberry Lambic",5.1,51553
+"335",17271,"Bootlegger's Brewery",1304031882,4,4,4,"American Wild Ale",4,4.5,"Olallieberry Lambic",5.1,51553
+"336",17271,"Bootlegger's Brewery",1249935943,4,3,4.5,"American Wild Ale",3.5,4,"Olallieberry Lambic",5.1,51553
+"337",17271,"Bootlegger's Brewery",1249163436,4,4,4,"American Wild Ale",4,4,"Olallieberry Lambic",5.1,51553
+"338",17271,"Bootlegger's Brewery",1296371319,4.5,4,4,"Belgian Pale Ale",4,4,"Belgian Pale Ale",NA,65739
+"339",17271,"Bootlegger's Brewery",1296346537,4.5,4,3,"Belgian Pale Ale",4.5,4.5,"Belgian Pale Ale",NA,65739
+"340",17271,"Bootlegger's Brewery",1310339868,4,2.5,3.5,"Schwarzbier",4,4.5,"Black Lager",NA,70620
+"341",17271,"Bootlegger's Brewery",1310251292,3.5,3.5,3,"Schwarzbier",3,3.5,"Black Lager",NA,70620
+"342",17271,"Bootlegger's Brewery",1309568835,4,3.5,4,"Schwarzbier",4,4,"Black Lager",NA,70620
+"343",17271,"Bootlegger's Brewery",1287944191,4,4,4,"American Wild Ale",4,4,"Lambic #5",NA,57443
+"344",17271,"Bootlegger's Brewery",1285564544,4.5,4.5,4,"American Wild Ale",4.5,4,"Lambic #5",NA,57443
+"345",17271,"Bootlegger's Brewery",1273965608,4,4,3.5,"American Wild Ale",3.5,4,"Lambic #5",NA,57443
+"346",17271,"Bootlegger's Brewery",1272087410,4.5,4.5,4,"American Wild Ale",4,4.5,"Lambic #5",NA,57443
+"347",17271,"Bootlegger's Brewery",1270786914,4,4,3.5,"American Wild Ale",3,4,"Lambic #5",NA,57443
+"348",17271,"Bootlegger's Brewery",1321844334,3,3,4,"Smoked Beer",3.5,3,"Wild Fire Wheat",5,51587
+"349",17271,"Bootlegger's Brewery",1311217523,3.5,3.5,3.5,"Smoked Beer",3,3.5,"Wild Fire Wheat",5,51587
+"350",17271,"Bootlegger's Brewery",1311197343,4,4,3,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
+"351",17271,"Bootlegger's Brewery",1311193134,4,3.5,4,"Smoked Beer",3,4,"Wild Fire Wheat",5,51587
+"352",17271,"Bootlegger's Brewery",1286752680,4,3,3.5,"Smoked Beer",3.5,3.5,"Wild Fire Wheat",5,51587
+"353",17271,"Bootlegger's Brewery",1284961214,4.5,3,3,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
+"354",17271,"Bootlegger's Brewery",1283142370,5,4.5,4,"Smoked Beer",4.5,4.5,"Wild Fire Wheat",5,51587
+"355",17271,"Bootlegger's Brewery",1281897628,1.5,2,4,"Smoked Beer",3,1.5,"Wild Fire Wheat",5,51587
+"356",17271,"Bootlegger's Brewery",1278056896,2,2.5,4,"Smoked Beer",3.5,2.5,"Wild Fire Wheat",5,51587
+"357",17271,"Bootlegger's Brewery",1276307620,4,4,3,"Smoked Beer",3.5,4,"Wild Fire Wheat",5,51587
+"358",17271,"Bootlegger's Brewery",1274513678,2.5,4,4,"Smoked Beer",2,2,"Wild Fire Wheat",5,51587
+"359",17271,"Bootlegger's Brewery",1257181026,4,3.5,4,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
+"360",17271,"Bootlegger's Brewery",1250655611,4,4,4,"Smoked Beer",4,4,"Wild Fire Wheat",5,51587
+"361",17271,"Bootlegger's Brewery",1249259528,3.5,4,4,"Smoked Beer",4,3.5,"Wild Fire Wheat",5,51587
+"362",17271,"Bootlegger's Brewery",1267247004,4,4,4.5,"American IPA",3.5,3,"Hopinator",NA,52567
+"363",17271,"Bootlegger's Brewery",1266692517,3,4.5,4,"American IPA",4,3,"Hopinator",NA,52567
+"364",17271,"Bootlegger's Brewery",1253434334,5,4.5,4,"American IPA",4.5,4.5,"Hopinator",NA,52567
+"365",17271,"Bootlegger's Brewery",1252730283,4,4,3.5,"American IPA",3,4,"Hopinator",NA,52567
+"366",17271,"Bootlegger's Brewery",1309570708,3.5,3.5,4,"English Pale Ale",3.5,3,"English Pale Ale",NA,69952
+"367",17271,"Bootlegger's Brewery",1307847685,3,3.5,4,"English Pale Ale",3.5,3,"English Pale Ale",NA,69952
+"368",17271,"Bootlegger's Brewery",1326172855,4,4,3.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"369",17271,"Bootlegger's Brewery",1326061918,4,4,4,"American Stout",4.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"370",17271,"Bootlegger's Brewery",1323508314,4,4,4.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"371",17271,"Bootlegger's Brewery",1322686243,2.5,2.5,2.5,"American Stout",1.5,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"372",17271,"Bootlegger's Brewery",1322413104,3.5,4,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"373",17271,"Bootlegger's Brewery",1322412309,4,4.5,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"374",17271,"Bootlegger's Brewery",1322359739,3.5,4,4,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"375",17271,"Bootlegger's Brewery",1320793594,4,3,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"376",17271,"Bootlegger's Brewery",1316139486,3.5,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"377",17271,"Bootlegger's Brewery",1314594932,2.5,3,3.5,"American Stout",2,2,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"378",17271,"Bootlegger's Brewery",1314135024,3.5,3.5,5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"379",17271,"Bootlegger's Brewery",1314071511,4,4,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"380",17271,"Bootlegger's Brewery",1312853065,3.5,3.5,3,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"381",17271,"Bootlegger's Brewery",1312691454,3,3.5,3.5,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"382",17271,"Bootlegger's Brewery",1310963735,3.5,4,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"383",17271,"Bootlegger's Brewery",1310785131,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"384",17271,"Bootlegger's Brewery",1310782164,3.5,3.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"385",17271,"Bootlegger's Brewery",1310781611,4,4,3.5,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"386",17271,"Bootlegger's Brewery",1309923506,4,4,4,"American Stout",4,5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"387",17271,"Bootlegger's Brewery",1309767188,4,4.5,3,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"388",17271,"Bootlegger's Brewery",1309488693,4,4,3,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"389",17271,"Bootlegger's Brewery",1281913856,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Palomino American Pale Ale",5.5,44437
+"390",17271,"Bootlegger's Brewery",1309219183,3,3,3.5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"391",17271,"Bootlegger's Brewery",1309068916,4,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"392",17271,"Bootlegger's Brewery",1309056580,3.5,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"393",17271,"Bootlegger's Brewery",1309017021,3.5,4,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"394",17271,"Bootlegger's Brewery",1308802850,3.5,4,3.5,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"395",17271,"Bootlegger's Brewery",1306090608,4,4,3.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"396",17271,"Bootlegger's Brewery",1305403524,3.5,4,3.5,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"397",17271,"Bootlegger's Brewery",1305350921,3.5,3.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"398",17271,"Bootlegger's Brewery",1304624410,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"399",17271,"Bootlegger's Brewery",1304143920,3,3.5,3,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"400",17271,"Bootlegger's Brewery",1303240131,4,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"401",17271,"Bootlegger's Brewery",1302878975,3,3.5,4,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"402",17271,"Bootlegger's Brewery",1302573033,3,3.5,4,"American Stout",4,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"403",17271,"Bootlegger's Brewery",1301793246,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"404",17271,"Bootlegger's Brewery",1299167239,4,4,4,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"405",17271,"Bootlegger's Brewery",1298512055,3,3,3,"American Stout",3,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"406",17271,"Bootlegger's Brewery",1298268783,3.5,3.5,4.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"407",17271,"Bootlegger's Brewery",1298249747,3,3,3.5,"American Stout",3.5,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"408",17271,"Bootlegger's Brewery",1297999112,4,4,3,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"409",17271,"Bootlegger's Brewery",1296256092,4,4,3,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"410",17271,"Bootlegger's Brewery",1295217859,3,3.5,3,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"411",17271,"Bootlegger's Brewery",1294813350,3.5,2.5,4,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"412",17271,"Bootlegger's Brewery",1294795129,4,4.5,3.5,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"413",17271,"Bootlegger's Brewery",1294608422,4,4,3,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"414",17271,"Bootlegger's Brewery",1294201490,4,3.5,3.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"415",17271,"Bootlegger's Brewery",1293344192,4.5,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"416",17271,"Bootlegger's Brewery",1292105952,4.5,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"417",17271,"Bootlegger's Brewery",1291090214,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"418",17271,"Bootlegger's Brewery",1290391033,4,4,4,"American Stout",4,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"419",17271,"Bootlegger's Brewery",1288023561,4,4,2,"American Stout",2.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"420",17271,"Bootlegger's Brewery",1287616394,4.5,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"421",17271,"Bootlegger's Brewery",1287464248,3.5,3.5,3.5,"American Stout",3,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"422",17271,"Bootlegger's Brewery",1286513483,4.5,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"423",17271,"Bootlegger's Brewery",1285388507,3,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"424",17271,"Bootlegger's Brewery",1285197068,4.5,3,4,"American Stout",4,5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"425",17271,"Bootlegger's Brewery",1283830303,4,4.5,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"426",17271,"Bootlegger's Brewery",1283471398,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"427",17271,"Bootlegger's Brewery",1283275813,4.5,4,4,"American Stout",4.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"428",17271,"Bootlegger's Brewery",1280970680,2,2,2,"American Stout",2,2,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"429",17271,"Bootlegger's Brewery",1279849788,3.5,4,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"430",17271,"Bootlegger's Brewery",1273911787,4,4,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"431",17271,"Bootlegger's Brewery",1272854098,4,3.5,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"432",17271,"Bootlegger's Brewery",1271800653,4,3.5,4,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"433",17271,"Bootlegger's Brewery",1270560232,4.5,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"434",17271,"Bootlegger's Brewery",1268708116,4,3.5,4,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"435",17271,"Bootlegger's Brewery",1267238615,4.5,4.5,3.5,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"436",17271,"Bootlegger's Brewery",1263920310,4,3.5,4,"American Stout",3.5,3.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"437",17271,"Bootlegger's Brewery",1263254433,2.5,2.5,4,"American Stout",3,2.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"438",17271,"Bootlegger's Brewery",1261974337,4,4.5,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"439",17271,"Bootlegger's Brewery",1252904150,4.5,4.5,3.5,"American Stout",4.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"440",17271,"Bootlegger's Brewery",1261892683,4.5,4,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"441",17271,"Bootlegger's Brewery",1259905598,4,4,4.5,"American Stout",3.5,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"442",17271,"Bootlegger's Brewery",1258343465,4,3.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"443",17271,"Bootlegger's Brewery",1257641135,4,3.5,4,"American Stout",3,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"444",17271,"Bootlegger's Brewery",1257571872,3.5,3,4,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"445",17271,"Bootlegger's Brewery",1255868945,2.5,4,4,"American Stout",4,3,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"446",17271,"Bootlegger's Brewery",1253811458,4,4.5,3.5,"American Stout",3.5,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"447",17271,"Bootlegger's Brewery",1251878245,4,4.5,3.5,"American Stout",4,4.5,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"448",17271,"Bootlegger's Brewery",1247202662,3.5,3.5,4.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"449",17271,"Bootlegger's Brewery",1239509672,3.5,4.5,3.5,"American Stout",4,4,"Black Phoenix (Chipotle Coffee Ale)",6.7,49098
+"450",17271,"Bootlegger's Brewery",1294469570,5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
+"451",17271,"Bootlegger's Brewery",1294346859,4.5,4,3,"American Pale Ale (APA)",3,4,"Palomino American Pale Ale",5.5,44437
+"452",17271,"Bootlegger's Brewery",1325019298,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Palomino American Pale Ale",5.5,44437
+"453",17271,"Bootlegger's Brewery",1322280055,3,4,4,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
+"454",17271,"Bootlegger's Brewery",1321844060,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Palomino American Pale Ale",5.5,44437
+"455",17271,"Bootlegger's Brewery",1315534054,4.5,4,4.5,"American Pale Ale (APA)",5,5,"Palomino American Pale Ale",5.5,44437
+"456",17271,"Bootlegger's Brewery",1314456506,3,3,3,"American Pale Ale (APA)",3,3,"Palomino American Pale Ale",5.5,44437
+"457",17271,"Bootlegger's Brewery",1309912517,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
+"458",17271,"Bootlegger's Brewery",1296453058,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
+"459",17271,"Bootlegger's Brewery",1294683220,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
+"460",17271,"Bootlegger's Brewery",1294666061,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Palomino American Pale Ale",5.5,44437
+"461",17271,"Bootlegger's Brewery",1276469206,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
+"462",17271,"Bootlegger's Brewery",1276401230,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
+"463",17271,"Bootlegger's Brewery",1274935791,4,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Palomino American Pale Ale",5.5,44437
+"464",17271,"Bootlegger's Brewery",1265174860,5,4,4,"American Pale Ale (APA)",3.5,3.5,"Palomino American Pale Ale",5.5,44437
+"465",17271,"Bootlegger's Brewery",1254348629,5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Palomino American Pale Ale",5.5,44437
+"466",17271,"Bootlegger's Brewery",1249956455,3,3,3,"American Pale Ale (APA)",4,3,"Palomino American Pale Ale",5.5,44437
+"467",17271,"Bootlegger's Brewery",1221708765,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Palomino American Pale Ale",5.5,44437
+"468",17271,"Bootlegger's Brewery",1221081821,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Palomino American Pale Ale",5.5,44437
+"469",17271,"Bootlegger's Brewery",1220661385,4,3.5,4,"American Pale Ale (APA)",4,4,"Palomino American Pale Ale",5.5,44437
+"470",17271,"Bootlegger's Brewery",1219247241,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Palomino American Pale Ale",5.5,44437
+"471",17271,"Bootlegger's Brewery",1285541275,4,3,3.5,"Altbier",3,3,"Amber Alt Ale",5.5,44439
+"472",17271,"Bootlegger's Brewery",1284843711,3.5,3.5,3.5,"Altbier",4,3.5,"Amber Alt Ale",5.5,44439
+"473",17271,"Bootlegger's Brewery",1240429962,3.5,4,3.5,"Altbier",4,4.5,"Amber Alt Ale",5.5,44439
+"474",17271,"Bootlegger's Brewery",1231736101,3,3,2.5,"Altbier",2.5,3,"Amber Alt Ale",5.5,44439
+"475",17271,"Bootlegger's Brewery",1221020760,4,3.5,3.5,"Altbier",3,4,"Amber Alt Ale",5.5,44439
+"476",17271,"Bootlegger's Brewery",1219249246,4.5,4,4,"Altbier",4,4.5,"Amber Alt Ale",5.5,44439
+"477",17271,"Bootlegger's Brewery",1314457039,4,3.5,4,"English Dark Mild Ale",4,4,"Prohibition Mild",3.2,57409
+"478",17271,"Bootlegger's Brewery",1304298027,3.5,3.5,4,"English Dark Mild Ale",4,4,"Prohibition Mild",3.2,57409
+"479",17271,"Bootlegger's Brewery",1272403766,4.5,4.5,3,"English Dark Mild Ale",3.5,4.5,"Prohibition Mild",3.2,57409
+"480",17271,"Bootlegger's Brewery",1272087780,4.5,4,4,"English Dark Mild Ale",4.5,4,"Prohibition Mild",3.2,57409
+"481",17271,"Bootlegger's Brewery",1270880944,4.5,4.5,3.5,"English Dark Mild Ale",3.5,4,"Prohibition Mild",3.2,57409
+"482",17271,"Bootlegger's Brewery",1270697857,4.5,4,4,"English Dark Mild Ale",4,4.5,"Prohibition Mild",3.2,57409
+"483",17271,"Bootlegger's Brewery",1325993456,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Golden Chaos Golden Ale",8.5,44438
+"484",17271,"Bootlegger's Brewery",1321844136,4,4,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
+"485",17271,"Bootlegger's Brewery",1321593487,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
+"486",17271,"Bootlegger's Brewery",1311270122,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Golden Chaos Golden Ale",8.5,44438
+"487",17271,"Bootlegger's Brewery",1310428534,3.5,3,3,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
+"488",17271,"Bootlegger's Brewery",1306397201,3.5,3,3,"Belgian Strong Pale Ale",4,3.5,"Golden Chaos Golden Ale",8.5,44438
+"489",17271,"Bootlegger's Brewery",1304718473,3,3,2,"Belgian Strong Pale Ale",3,3,"Golden Chaos Golden Ale",8.5,44438
+"490",17271,"Bootlegger's Brewery",1300452138,3.5,4,3,"Belgian Strong Pale Ale",3,3.5,"Golden Chaos Golden Ale",8.5,44438
+"491",17271,"Bootlegger's Brewery",1299567107,4,4,4,"Belgian Strong Pale Ale",4.5,4,"Golden Chaos Golden Ale",8.5,44438
+"492",17271,"Bootlegger's Brewery",1288482861,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Golden Chaos Golden Ale",8.5,44438
+"493",17271,"Bootlegger's Brewery",1284396441,3.5,4,4,"Belgian Strong Pale Ale",2.5,3.5,"Golden Chaos Golden Ale",8.5,44438
+"494",17271,"Bootlegger's Brewery",1273981257,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Golden Chaos Golden Ale",8.5,44438
+"495",17271,"Bootlegger's Brewery",1273380967,4.5,4.5,3.5,"Belgian Strong Pale Ale",3.5,4.5,"Golden Chaos Golden Ale",8.5,44438
+"496",17271,"Bootlegger's Brewery",1263922088,3,3,3.5,"Belgian Strong Pale Ale",3.5,2.5,"Golden Chaos Golden Ale",8.5,44438
+"497",17271,"Bootlegger's Brewery",1258085797,4,4,2.5,"Belgian Strong Pale Ale",3.5,4,"Golden Chaos Golden Ale",8.5,44438
+"498",17271,"Bootlegger's Brewery",1222405243,1.5,2,4,"Belgian Strong Pale Ale",3,2.5,"Golden Chaos Golden Ale",8.5,44438
+"499",17271,"Bootlegger's Brewery",1220661531,3.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
+"500",17271,"Bootlegger's Brewery",1220327240,4,4,2.5,"Belgian Strong Pale Ale",4.5,4,"Golden Chaos Golden Ale",8.5,44438
+"501",17271,"Bootlegger's Brewery",1219248538,4,4,4,"Belgian Strong Pale Ale",4,4,"Golden Chaos Golden Ale",8.5,44438
+"502",17271,"Bootlegger's Brewery",1326176419,3.5,4,3.5,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"503",17271,"Bootlegger's Brewery",1326146479,3.5,4,4.5,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"504",17271,"Bootlegger's Brewery",1325736154,3,3,3,"American Porter",3,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"505",17271,"Bootlegger's Brewery",1324871491,4,3.5,4,"American Porter",4.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"506",17271,"Bootlegger's Brewery",1324611022,3.5,3.5,3.5,"American Porter",3,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"507",17271,"Bootlegger's Brewery",1324174609,4,4,4.5,"American Porter",3.5,4.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"508",17271,"Bootlegger's Brewery",1323907992,3,3,3.5,"American Porter",3,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"509",17271,"Bootlegger's Brewery",1323841769,3,3,4,"American Porter",3,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"510",17271,"Bootlegger's Brewery",1323757887,3,3.5,3.5,"American Porter",2,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"511",17271,"Bootlegger's Brewery",1323579434,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"512",17271,"Bootlegger's Brewery",1322964362,4.5,5,4,"American Porter",5,5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"513",17271,"Bootlegger's Brewery",1321844230,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"514",17271,"Bootlegger's Brewery",1321677950,3.5,3.5,3.5,"American Porter",3,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"515",17271,"Bootlegger's Brewery",1320558498,4,3.5,4.5,"American Porter",3.5,3,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"516",17271,"Bootlegger's Brewery",1320244717,2.5,2.5,4,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"517",17271,"Bootlegger's Brewery",1320114677,3,2.5,4,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"518",17271,"Bootlegger's Brewery",1295217505,1.5,2.5,3,"American Porter",2.5,2,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"519",17271,"Bootlegger's Brewery",1294110269,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"520",17271,"Bootlegger's Brewery",1293655393,3.5,4,4,"American Porter",3.5,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"521",17271,"Bootlegger's Brewery",1293608330,3.5,3,3.5,"American Porter",3.5,2.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"522",17271,"Bootlegger's Brewery",1293499915,4,4,4,"American Porter",4,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"523",17271,"Bootlegger's Brewery",1290904947,1.5,4,3.5,"American Porter",2,2,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"524",17271,"Bootlegger's Brewery",1263700078,4,4,2.5,"American Porter",3.5,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"525",17271,"Bootlegger's Brewery",1262208362,3.5,4,4,"American Porter",4,3.5,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"526",17271,"Bootlegger's Brewery",1261345473,4,4,3,"American Porter",3,4,"Winter Ale - Chocolate Mint Porter",6.2,54379
+"527",17271,"Bootlegger's Brewery",1259296620,4,4,3.5,"American Porter",4.5,4,"Winter Ale - Chocolate Mint Porter",6.2,54379

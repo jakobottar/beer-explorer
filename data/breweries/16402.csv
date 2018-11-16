@@ -1,58 +1,27 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",16402,"Red Eye Brewing Company",1253145467,4.5,4.5,4.5,"Witbier",4.5,4.5,"Bloom",NA,49877
-"2",16402,"Red Eye Brewing Company",1281648434,4,4,4,"American Amber / Red Ale",2,4,"El Tormento",9,60978
-"3",16402,"Red Eye Brewing Company",1273537087,4.5,4,4.5,"Witbier",4,4.5,"Bloom",NA,49877
-"4",16402,"Red Eye Brewing Company",1304900540,4,3.5,3.5,"American Pale Wheat Ale",4,4,"Imperial Green Sky",NA,68845
-"5",16402,"Red Eye Brewing Company",1320369248,4,4,4.5,"American Black Ale",4,4,"Black IPA",6.7,63539
-"6",16402,"Red Eye Brewing Company",1302895756,4.5,4.5,5,"American Black Ale",4,4.5,"Black IPA",6.7,63539
-"7",16402,"Red Eye Brewing Company",1289781715,3.5,3.5,4,"American Black Ale",3.5,4,"Black IPA",6.7,63539
-"8",16402,"Red Eye Brewing Company",1281086736,3.5,3.5,4,"American IPA",4,3.5,"Thrust",NA,49663
-"9",16402,"Red Eye Brewing Company",1255775419,3,3,3,"American IPA",4,3.5,"Thrust",NA,49663
-"10",16402,"Red Eye Brewing Company",1255143990,4,4.5,4,"American IPA",3.5,4,"Thrust",NA,49663
-"11",16402,"Red Eye Brewing Company",1253249492,4,4.5,4,"American IPA",4,4,"Thrust",NA,49663
-"12",16402,"Red Eye Brewing Company",1244998169,4.5,4,3,"American IPA",3,4.5,"Thrust",NA,49663
-"13",16402,"Red Eye Brewing Company",1241747818,3,3,2.5,"American IPA",4,3,"Thrust",NA,49663
-"14",16402,"Red Eye Brewing Company",1253076752,5,4.5,4,"Witbier",4.5,4.5,"Bloom",NA,49877
-"15",16402,"Red Eye Brewing Company",1244999631,3.5,3.5,3,"Witbier",3,3.5,"Bloom",NA,49877
-"16",16402,"Red Eye Brewing Company",1242701757,4,4.5,4,"Witbier",3.5,3.5,"Bloom",NA,49877
-"17",16402,"Red Eye Brewing Company",1281087145,2,3,3.5,"English Pale Mild Ale",2,2.5,"SQ English Summer Ale",3.8,60102
-"18",16402,"Red Eye Brewing Company",1279238900,4,3.5,4,"English Pale Mild Ale",4,3.5,"SQ English Summer Ale",3.8,60102
-"19",16402,"Red Eye Brewing Company",1268435827,4.5,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Serendipity",7.75,50250
-"20",16402,"Red Eye Brewing Company",1267409069,4,4,4,"American Double / Imperial IPA",4.5,4,"Serendipity",7.75,50250
-"21",16402,"Red Eye Brewing Company",1266808570,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Serendipity",7.75,50250
-"22",16402,"Red Eye Brewing Company",1261684991,4.5,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Tartan Toddy",8,54482
-"23",16402,"Red Eye Brewing Company",1246508060,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Serendipity",7.75,50250
-"24",16402,"Red Eye Brewing Company",1244038174,4,4,4,"American Double / Imperial IPA",4,4.5,"Serendipity",7.75,50250
-"25",16402,"Red Eye Brewing Company",1273537612,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Tempt",7.3,54285
-"26",16402,"Red Eye Brewing Company",1262596764,4.5,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Tempt",7.3,54285
-"27",16402,"Red Eye Brewing Company",1259121011,3.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Tempt",7.3,54285
-"28",16402,"Red Eye Brewing Company",1257815669,3.5,4,4.5,"American Porter",4,4.5,"The Witching Hour",NA,53553
-"29",16402,"Red Eye Brewing Company",1256089367,4.5,3.5,4,"American Porter",4.5,4,"The Witching Hour",NA,53553
-"30",16402,"Red Eye Brewing Company",1294014865,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4,"Tartan Toddy",8,54482
-"31",16402,"Red Eye Brewing Company",1262596228,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Tartan Toddy",8,54482
-"32",16402,"Red Eye Brewing Company",1235343507,4,4,4,"American Double / Imperial IPA",4,4,"Imperium",NA,48105
-"33",16402,"Red Eye Brewing Company",1268501628,4,3.5,4,"Milk / Sweet Stout",4,4,"Veruca Stout",NA,50461
-"34",16402,"Red Eye Brewing Company",1263179050,5,3.5,4.5,"Milk / Sweet Stout",3.5,4,"Veruca Stout",NA,50461
-"35",16402,"Red Eye Brewing Company",1244998539,5,4.5,4,"Milk / Sweet Stout",3,5,"Veruca Stout",NA,50461
-"36",16402,"Red Eye Brewing Company",1304817291,4,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Conquest",4.5,55606
-"37",16402,"Red Eye Brewing Company",1281087616,3,3.5,4,"Dubbel",3,3,"Scarlet 7",NA,50462
-"38",16402,"Red Eye Brewing Company",1273975782,4,4,4,"Dubbel",3.5,4,"Scarlet 7",NA,50462
-"39",16402,"Red Eye Brewing Company",1273322953,4.5,4,4,"Dubbel",4,4,"Scarlet 7",NA,50462
-"40",16402,"Red Eye Brewing Company",1249450491,4,3.5,4,"Dubbel",4,3.5,"Scarlet 7",NA,50462
-"41",16402,"Red Eye Brewing Company",1248838709,4,4,3,"Dubbel",3,4,"Scarlet 7",NA,50462
-"42",16402,"Red Eye Brewing Company",1244998912,4,3.5,3.5,"Dubbel",3,4,"Scarlet 7",NA,50462
-"43",16402,"Red Eye Brewing Company",1320369619,4,3.5,3,"American Stout",4,4.5,"Imperial Cranberry Cream Stout",7.8,74855
-"44",16402,"Red Eye Brewing Company",1273537324,3.5,4,3.5,"Witbier",3.5,4,"Jim Dandy",NA,56005
-"45",16402,"Red Eye Brewing Company",1267251946,4,4,3.5,"Witbier",3.5,3.5,"Jim Dandy",NA,56005
-"46",16402,"Red Eye Brewing Company",1265771218,4,4,4,"Witbier",4,4,"Jim Dandy",NA,56005
-"47",16402,"Red Eye Brewing Company",1274602259,3.5,4,3.5,"Maibock / Helles Bock",4,3.5,"A Cart Ride To Mexico",6.8,58075
-"48",16402,"Red Eye Brewing Company",1273867602,4.5,4,3.5,"Maibock / Helles Bock",4,4.5,"A Cart Ride To Mexico",6.8,58075
-"49",16402,"Red Eye Brewing Company",1273322650,3.5,3,3,"Maibock / Helles Bock",4,3,"A Cart Ride To Mexico",6.8,58075
-"50",16402,"Red Eye Brewing Company",1253076424,4.5,4.5,4,"American Stout",4.5,4.5,"Thorn In My Side",NA,50463
-"51",16402,"Red Eye Brewing Company",1252795205,3.5,3.5,4,"American Stout",4,4.5,"Thorn In My Side",NA,50463
-"52",16402,"Red Eye Brewing Company",1244999361,4.5,3.5,3,"American Stout",4,4.5,"Thorn In My Side",NA,50463
-"53",16402,"Red Eye Brewing Company",1296537579,3.5,3.5,4,"Bock",3.5,3.5,"Up Nort' Brew-ski",7.3,65825
-"54",16402,"Red Eye Brewing Company",1273868045,4.5,4,4,"Belgian Strong Pale Ale",5,4.5,"Barrel-Aged Tempt",7.3,58336
-"55",16402,"Red Eye Brewing Company",1297645746,3.5,3.5,4,"American Porter",3.5,4,"Rye Porter",5.5,66266
-"56",16402,"Red Eye Brewing Company",1281059014,3.5,4,4,"American Pale Wheat Ale",3,3.5,"Green Sky",4.8,60790
-"57",16402,"Red Eye Brewing Company",1288142031,4,4,4,"American Double / Imperial Stout",4,4,"Charlatan",7.6,62938
+"2",16402,"Red Eye Brewing Company",1273537087,4.5,4,4.5,"Witbier",4,4.5,"Bloom",NA,49877
+"3",16402,"Red Eye Brewing Company",1320369248,4,4,4.5,"American Black Ale",4,4,"Black IPA",6.7,63539
+"4",16402,"Red Eye Brewing Company",1302895756,4.5,4.5,5,"American Black Ale",4,4.5,"Black IPA",6.7,63539
+"5",16402,"Red Eye Brewing Company",1289781715,3.5,3.5,4,"American Black Ale",3.5,4,"Black IPA",6.7,63539
+"6",16402,"Red Eye Brewing Company",1281086736,3.5,3.5,4,"American IPA",4,3.5,"Thrust",NA,49663
+"7",16402,"Red Eye Brewing Company",1255775419,3,3,3,"American IPA",4,3.5,"Thrust",NA,49663
+"8",16402,"Red Eye Brewing Company",1255143990,4,4.5,4,"American IPA",3.5,4,"Thrust",NA,49663
+"9",16402,"Red Eye Brewing Company",1253249492,4,4.5,4,"American IPA",4,4,"Thrust",NA,49663
+"10",16402,"Red Eye Brewing Company",1244998169,4.5,4,3,"American IPA",3,4.5,"Thrust",NA,49663
+"11",16402,"Red Eye Brewing Company",1241747818,3,3,2.5,"American IPA",4,3,"Thrust",NA,49663
+"12",16402,"Red Eye Brewing Company",1253076752,5,4.5,4,"Witbier",4.5,4.5,"Bloom",NA,49877
+"13",16402,"Red Eye Brewing Company",1244999631,3.5,3.5,3,"Witbier",3,3.5,"Bloom",NA,49877
+"14",16402,"Red Eye Brewing Company",1242701757,4,4.5,4,"Witbier",3.5,3.5,"Bloom",NA,49877
+"15",16402,"Red Eye Brewing Company",1268435827,4.5,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Serendipity",7.75,50250
+"16",16402,"Red Eye Brewing Company",1267409069,4,4,4,"American Double / Imperial IPA",4.5,4,"Serendipity",7.75,50250
+"17",16402,"Red Eye Brewing Company",1266808570,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Serendipity",7.75,50250
+"18",16402,"Red Eye Brewing Company",1246508060,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Serendipity",7.75,50250
+"19",16402,"Red Eye Brewing Company",1244038174,4,4,4,"American Double / Imperial IPA",4,4.5,"Serendipity",7.75,50250
+"20",16402,"Red Eye Brewing Company",1281087616,3,3.5,4,"Dubbel",3,3,"Scarlet 7",NA,50462
+"21",16402,"Red Eye Brewing Company",1273975782,4,4,4,"Dubbel",3.5,4,"Scarlet 7",NA,50462
+"22",16402,"Red Eye Brewing Company",1273322953,4.5,4,4,"Dubbel",4,4,"Scarlet 7",NA,50462
+"23",16402,"Red Eye Brewing Company",1249450491,4,3.5,4,"Dubbel",4,3.5,"Scarlet 7",NA,50462
+"24",16402,"Red Eye Brewing Company",1248838709,4,4,3,"Dubbel",3,4,"Scarlet 7",NA,50462
+"25",16402,"Red Eye Brewing Company",1244998912,4,3.5,3.5,"Dubbel",3,4,"Scarlet 7",NA,50462
+"26",16402,"Red Eye Brewing Company",1297645746,3.5,3.5,4,"American Porter",3.5,4,"Rye Porter",5.5,66266

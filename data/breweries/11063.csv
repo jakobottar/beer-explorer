@@ -1,587 +1,540 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",11063,"Ølfabrikken",1171579748,4,4,4,"American Pale Ale (APA)",4,3.5,"Ølfabrikken Pale Ale",5,31953
-"2",11063,"Ølfabrikken",1236739739,3,4,3.5,"Dubbel",4,3,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"3",11063,"Ølfabrikken",1261445505,4.5,4.5,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"4",11063,"Ølfabrikken",1213152661,5,4,5,"American IPA",4,4.5,"Ølfabrikken Rug IPA",7,34467
-"5",11063,"Ølfabrikken",1264793709,4,4.5,4,"English Barleywine",5,4.5,"Ølfabrikken Barleywine",11,41502
-"6",11063,"Ølfabrikken",1244565283,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"7",11063,"Ølfabrikken",1290737575,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"8",11063,"Ølfabrikken",1283456201,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Ølfabrikken Pale Ale",5,31953
-"9",11063,"Ølfabrikken",1276053246,3.5,3.5,4,"Quadrupel (Quad)",3,3.5,"Ølfabrikken Sinful Brother",13.3,43977
-"10",11063,"Ølfabrikken",1218054776,3.5,3.5,4,"Quadrupel (Quad)",4,3.5,"Ølfabrikken Sinful Brother",13.3,43977
-"11",11063,"Ølfabrikken",1251947422,3.5,4,4,"Lambic - Fruit",4,4,"Ølfabrikken Dekadence 2005",13,38017
-"12",11063,"Ølfabrikken",1194007066,5,4.5,4,"Lambic - Fruit",4,4,"Ølfabrikken Dekadence 2005",13,38017
-"13",11063,"Ølfabrikken",1188173673,4.5,5,3,"Lambic - Fruit",4,4,"Ølfabrikken Dekadence 2005",13,38017
-"14",11063,"Ølfabrikken",1186239903,3.5,4,4,"Lambic - Fruit",2.5,3.5,"Ølfabrikken Dekadence 2005",13,38017
-"15",11063,"Ølfabrikken",1238550852,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"16",11063,"Ølfabrikken",1230425252,3.5,3.5,4,"Russian Imperial Stout",4,3,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"17",11063,"Ølfabrikken",1206855704,3.5,4,4,"Russian Imperial Stout",4,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"18",11063,"Ølfabrikken",1205456145,4,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"19",11063,"Ølfabrikken",1180985192,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"20",11063,"Ølfabrikken",1179037133,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"21",11063,"Ølfabrikken",1164415019,4,4,4,"Russian Imperial Stout",4,4,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
-"22",11063,"Ølfabrikken",1310517590,3.5,4,3.5,"Flanders Oud Bruin",3.5,3.5,"Ølfabrikken Gæstebryg #3 - Gunnhilds Kriek Bruin",6.5,57368
-"23",11063,"Ølfabrikken",1270570056,4.5,5,3.5,"Flanders Oud Bruin",4,4,"Ølfabrikken Gæstebryg #3 - Gunnhilds Kriek Bruin",6.5,57368
-"24",11063,"Ølfabrikken",1259961221,1.5,4,3,"American Pale Ale (APA)",3,2,"Ølfabrikken Pale Ale",5,31953
-"25",11063,"Ølfabrikken",1264823383,3.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken Islay Cask Stout",9,41551
-"26",11063,"Ølfabrikken",1264532324,4,4.5,4,"Russian Imperial Stout",4,4.5,"Ølfabrikken Islay Cask Stout",9,41551
-"27",11063,"Ølfabrikken",1247465781,4,5,3.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken Islay Cask Stout",9,41551
-"28",11063,"Ølfabrikken",1205455075,4,4.5,4,"Russian Imperial Stout",4.5,5,"Ølfabrikken Islay Cask Stout",9,41551
-"29",11063,"Ølfabrikken",1269829690,4,4,4,"English Stout",4,4,"Ølfabrikken Highland Easter",6.5,57123
-"30",11063,"Ølfabrikken",1269710719,4.5,4.5,3.5,"English Stout",4,4,"Ølfabrikken Highland Easter",6.5,57123
-"31",11063,"Ølfabrikken",1187116222,3,3.5,3.5,"American Pale Ale (APA)",4,4,"Ølfabrikken Pale Ale",5,31953
-"32",11063,"Ølfabrikken",1210644125,4,4,4.5,"American Strong Ale",4,3.5,"Ølfabrikken Skråplan",11,42635
-"33",11063,"Ølfabrikken",1293260769,4.5,3.5,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"34",11063,"Ølfabrikken",1275679885,4.5,4.5,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"35",11063,"Ølfabrikken",1269961101,4,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"36",11063,"Ølfabrikken",1258257791,4,4.5,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"37",11063,"Ølfabrikken",1247087187,4.5,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"38",11063,"Ølfabrikken",1246381444,4,3.5,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"39",11063,"Ølfabrikken",1243056468,4.5,4,4.5,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"40",11063,"Ølfabrikken",1234403325,4.5,4,4,"Dubbel",4.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"41",11063,"Ølfabrikken",1231484491,4,4,4,"Dubbel",3.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"42",11063,"Ølfabrikken",1230599288,4,4,4.5,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"43",11063,"Ølfabrikken",1230045505,3,3.5,4,"Dubbel",3,3.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"44",11063,"Ølfabrikken",1228606457,4,4,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"45",11063,"Ølfabrikken",1227320870,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"46",11063,"Ølfabrikken",1226980900,5,4.5,4.5,"Dubbel",5,5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"47",11063,"Ølfabrikken",1223681992,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"48",11063,"Ølfabrikken",1216170353,3.5,4,3.5,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"49",11063,"Ølfabrikken",1213718675,4,3.5,4,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"50",11063,"Ølfabrikken",1213649749,4,4.5,4,"Dubbel",4.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"51",11063,"Ølfabrikken",1213328136,4,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"52",11063,"Ølfabrikken",1212257509,4,4,3.5,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"53",11063,"Ølfabrikken",1210392191,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"54",11063,"Ølfabrikken",1210040303,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"55",11063,"Ølfabrikken",1209870889,4,4,4,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"56",11063,"Ølfabrikken",1207373504,3.5,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"57",11063,"Ølfabrikken",1201908981,4.5,4.5,4.5,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"58",11063,"Ølfabrikken",1201684987,4.5,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"59",11063,"Ølfabrikken",1197596000,4.5,4.5,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
-"60",11063,"Ølfabrikken",1319138873,3.5,4,4,"Lambic - Fruit",2.5,3,"Ølfabrikken Petit Blau",6.5,44207
-"61",11063,"Ølfabrikken",1218145300,3,3.5,3.5,"Lambic - Fruit",3.5,3.5,"Ølfabrikken Petit Blau",6.5,44207
-"62",11063,"Ølfabrikken",1205786134,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Ølfabrikken Saison Kamille",6.5,41621
-"63",11063,"Ølfabrikken",1171579654,4,4.5,4.5,"English Stout",4,4,"Ølfabrikken Stout",6,31955
-"64",11063,"Ølfabrikken",1166316066,4.5,4,4,"English Stout",4.5,3.5,"Ølfabrikken Stout",6,31955
-"65",11063,"Ølfabrikken",1226083031,4.5,4,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
-"66",11063,"Ølfabrikken",1176296621,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
-"67",11063,"Ølfabrikken",1172005031,4,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
-"68",11063,"Ølfabrikken",1164414351,4,4,3.5,"Baltic Porter",4,4,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
-"69",11063,"Ølfabrikken",1164410633,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
-"70",11063,"Ølfabrikken",1183494668,3,3,3,"American IPA",3.5,3,"Ølfabrikken Rug IPA",7,34467
-"71",11063,"Ølfabrikken",1176543519,4,4,4,"American IPA",4,4,"Ølfabrikken Rug IPA",7,34467
-"72",11063,"Ølfabrikken",1168977582,3,3,3,"American IPA",3,3.5,"Ølfabrikken Rug IPA",7,34467
-"73",11063,"Ølfabrikken",1168022166,4,4,4,"American IPA",3.5,4,"Ølfabrikken Rug IPA",7,34467
-"74",11063,"Ølfabrikken",1167266278,4,4,3.5,"American IPA",3.5,4,"Ølfabrikken Rug IPA",7,34467
-"75",11063,"Ølfabrikken",1304966433,3.5,4,4,"American Double / Imperial Stout",3,3.5,"Ølfabrikken Winter Stout",8.5,47015
-"76",11063,"Ølfabrikken",1304840148,3.5,4,4,"American Double / Imperial Stout",4,3,"Ølfabrikken Winter Stout",8.5,47015
-"77",11063,"Ølfabrikken",1230955815,4,4,4,"American Double / Imperial Stout",4,3.5,"Ølfabrikken Winter Stout",8.5,47015
-"78",11063,"Ølfabrikken",1229373564,4,4,3.5,"Dubbel",4,4,"Ølfabrikken Vinter Ale",7,46619
-"79",11063,"Ølfabrikken",1202937835,4.5,4.5,4.5,"Tripel",4,4.5,"Ølfabrikken Trippel",9.5,35296
-"80",11063,"Ølfabrikken",1231742699,4,4,4,"English Barleywine",4.5,4.5,"Ølfabrikken Barleywine",11,41502
-"81",11063,"Ølfabrikken",1202488749,5,4.5,4,"Tripel",5,4.5,"Ølfabrikken Trippel",9.5,35296
-"82",11063,"Ølfabrikken",1171580159,4.5,4.5,4,"Tripel",4,4.5,"Ølfabrikken Trippel",9.5,35296
-"83",11063,"Ølfabrikken",1171579914,3.5,3.5,4.5,"Belgian Pale Ale",3.5,4,"Ølfabrikken Tisvilde Blonde",5.5,31959
-"84",11063,"Ølfabrikken",1165620672,4.5,4.5,3.5,"Belgian Strong Pale Ale",4.5,3.5,"Ølfabrikken Forår 2006",8,23680
-"85",11063,"Ølfabrikken",1293332912,1,1,4,"Saison / Farmhouse Ale",3,1,"Ølfabrikken Sort Jul",8.5,41553
-"86",11063,"Ølfabrikken",1291356044,1,1.5,4,"Saison / Farmhouse Ale",3.5,2,"Ølfabrikken Sort Jul",8.5,41553
-"87",11063,"Ølfabrikken",1205455803,4,4,4.5,"Saison / Farmhouse Ale",3.5,4,"Ølfabrikken Sort Jul",8.5,41553
-"88",11063,"Ølfabrikken",1264369230,3,2,2.5,"Euro Pale Lager",3,3,"Ølfabrikken Bad Craziness Beer",5.2,55630
-"89",11063,"Ølfabrikken",1306430085,4,4,4,"English Barleywine",4,4,"Ølfabrikken Barleywine",11,41502
-"90",11063,"Ølfabrikken",1306040448,3.5,4,4,"English Barleywine",4.5,3.5,"Ølfabrikken Barleywine",11,41502
-"91",11063,"Ølfabrikken",1228891239,4,4,4,"English Barleywine",4,4,"Ølfabrikken Barleywine",11,41502
-"92",11063,"Ølfabrikken",1205184166,4,4,4.5,"English Barleywine",4,3.5,"Ølfabrikken Barleywine",11,41502
-"93",11063,"Ølfabrikken",1164410438,4.5,4,4,"American IPA",3.5,4,"Ølfabrikken Sommer IPA",6,33728
-"94",11063,"Ølfabrikken",1163458781,4,3.5,4,"American IPA",3.5,3.5,"Ølfabrikken Sommer IPA",6,33728
-"95",11063,"Ølfabrikken",1160019188,3.5,4,4,"American Barleywine",3.5,4,"Ølfabrikken Gæstebryg #1 - Mike's Barleywine",9,33065
-"96",11063,"Ølfabrikken",1240454726,4,4,3.5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
-"97",11063,"Ølfabrikken",1179063133,4,4,5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
-"98",11063,"Ølfabrikken",1163745863,4,4,4,"Herbed / Spiced Beer",3,3.5,"Ølfabrikken Kaffeporter",5.5,31957
-"99",11063,"Ølfabrikken",1163539832,4,4,4,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
-"100",11063,"Ølfabrikken",1160101743,4.5,4.5,4.5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
-"101",11063,"Ølfabrikken",1318715367,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
-"102",11063,"Ølfabrikken",1314573806,4.5,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
-"103",11063,"Ølfabrikken",1308796200,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
-"104",11063,"Ølfabrikken",1292808085,4,3.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Ølfabrikken Kloster Jul",9.5,45858
-"105",11063,"Ølfabrikken",1291425179,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Ølfabrikken Kloster Jul",9.5,45858
-"106",11063,"Ølfabrikken",1284517568,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"107",11063,"Ølfabrikken",1276199530,4,5,4,"Belgian Strong Dark Ale",4,5,"Ølfabrikken Kloster Jul",9.5,45858
-"108",11063,"Ølfabrikken",1269572520,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"109",11063,"Ølfabrikken",1263083308,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"110",11063,"Ølfabrikken",1262868738,4,4,4.5,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
-"111",11063,"Ølfabrikken",1254442343,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"112",11063,"Ølfabrikken",1262488069,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"113",11063,"Ølfabrikken",1262302150,4,4.5,5,"Belgian Strong Dark Ale",4,3.5,"Ølfabrikken Kloster Jul",9.5,45858
-"114",11063,"Ølfabrikken",1261751289,4.5,4.5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"115",11063,"Ølfabrikken",1253977235,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"116",11063,"Ølfabrikken",1250301566,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"117",11063,"Ølfabrikken",1249102621,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
-"118",11063,"Ølfabrikken",1246055748,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
-"119",11063,"Ølfabrikken",1239915036,3.5,4,3.5,"Belgian Strong Dark Ale",4.5,3.5,"Ølfabrikken Kloster Jul",9.5,45858
-"120",11063,"Ølfabrikken",1254350880,4,4.5,5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"121",11063,"Ølfabrikken",1238448494,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
-"122",11063,"Ølfabrikken",1236659895,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"123",11063,"Ølfabrikken",1235990301,2.5,3.5,4,"Belgian Strong Dark Ale",3,3.5,"Ølfabrikken Kloster Jul",9.5,45858
-"124",11063,"Ølfabrikken",1234126096,5,4.5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"125",11063,"Ølfabrikken",1232510303,4.5,5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"126",11063,"Ølfabrikken",1231672829,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"127",11063,"Ølfabrikken",1231551062,4.5,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"128",11063,"Ølfabrikken",1231190878,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"129",11063,"Ølfabrikken",1253329474,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"130",11063,"Ølfabrikken",1231129412,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"131",11063,"Ølfabrikken",1230731987,4,4.5,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"132",11063,"Ølfabrikken",1229374727,4,4,3,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"133",11063,"Ølfabrikken",1229371360,5,4,5,"Belgian Strong Dark Ale",4.5,5,"Ølfabrikken Kloster Jul",9.5,45858
-"134",11063,"Ølfabrikken",1228965910,4,4.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"135",11063,"Ølfabrikken",1228831016,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"136",11063,"Ølfabrikken",1226972196,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"137",11063,"Ølfabrikken",1252624110,4,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"138",11063,"Ølfabrikken",1226448059,4,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
-"139",11063,"Ølfabrikken",1203021525,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Ølfabrikken Columbus Pale Ale",5,39857
-"140",11063,"Ølfabrikken",1196388998,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Ølfabrikken Columbus Pale Ale",5,39857
-"141",11063,"Ølfabrikken",1309999261,4,3.5,4,"Smoked Beer",4,4,"Ølfabrikken Ungstrup's Reserve",10.3,47628
-"142",11063,"Ølfabrikken",1233439072,4,4.5,4.5,"Smoked Beer",4.5,4,"Ølfabrikken Ungstrup's Reserve",10.3,47628
-"143",11063,"Ølfabrikken",1205455558,3.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Ølfabrikken Hvid Jul",8.5,41552
-"144",11063,"Ølfabrikken",1257995355,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"145",11063,"Ølfabrikken",1257476108,4.5,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"146",11063,"Ølfabrikken",1257213313,2,3.5,3,"Baltic Porter",2,2.5,"Ølfabrikken Porter",7.5,31956
-"147",11063,"Ølfabrikken",1257207673,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"148",11063,"Ølfabrikken",1256913159,4,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"149",11063,"Ølfabrikken",1256863371,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"150",11063,"Ølfabrikken",1256861406,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"151",11063,"Ølfabrikken",1256300083,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"152",11063,"Ølfabrikken",1255487817,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"153",11063,"Ølfabrikken",1255242956,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"154",11063,"Ølfabrikken",1254778183,4.5,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"155",11063,"Ølfabrikken",1254462322,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"156",11063,"Ølfabrikken",1252391833,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"157",11063,"Ølfabrikken",1251341738,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"158",11063,"Ølfabrikken",1249692333,4,4.5,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"159",11063,"Ølfabrikken",1249336837,3,4,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
-"160",11063,"Ølfabrikken",1249071311,3.5,4,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"161",11063,"Ølfabrikken",1248990718,4,4,4.5,"Baltic Porter",3.5,5,"Ølfabrikken Porter",7.5,31956
-"162",11063,"Ølfabrikken",1248758169,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"163",11063,"Ølfabrikken",1247287958,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"164",11063,"Ølfabrikken",1247204053,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"165",11063,"Ølfabrikken",1247186533,4.5,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
-"166",11063,"Ølfabrikken",1245198939,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"167",11063,"Ølfabrikken",1245032775,4,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"168",11063,"Ølfabrikken",1244955390,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"169",11063,"Ølfabrikken",1244835400,4,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"170",11063,"Ølfabrikken",1243972941,3,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"171",11063,"Ølfabrikken",1243440713,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"172",11063,"Ølfabrikken",1242255459,3.5,3.5,3.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"173",11063,"Ølfabrikken",1241940421,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"174",11063,"Ølfabrikken",1241143836,5,4,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"175",11063,"Ølfabrikken",1241143181,2,4,5,"Baltic Porter",2.5,3.5,"Ølfabrikken Porter",7.5,31956
-"176",11063,"Ølfabrikken",1241048507,4,4,4.5,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
-"177",11063,"Ølfabrikken",1240406340,4.5,5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"178",11063,"Ølfabrikken",1240286087,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"179",11063,"Ølfabrikken",1239077881,3.5,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"180",11063,"Ølfabrikken",1225730501,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"181",11063,"Ølfabrikken",1239938753,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"182",11063,"Ølfabrikken",1239883458,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"183",11063,"Ølfabrikken",1239663560,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"184",11063,"Ølfabrikken",1239560893,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"185",11063,"Ølfabrikken",1239507198,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"186",11063,"Ølfabrikken",1239407573,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"187",11063,"Ølfabrikken",1239387130,4.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"188",11063,"Ølfabrikken",1239075913,4.5,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"189",11063,"Ølfabrikken",1239043370,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"190",11063,"Ølfabrikken",1238815982,5,4,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"191",11063,"Ølfabrikken",1238296033,3,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"192",11063,"Ølfabrikken",1237348195,4,4.5,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"193",11063,"Ølfabrikken",1236733295,4,2,4,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"194",11063,"Ølfabrikken",1236165874,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"195",11063,"Ølfabrikken",1236084836,4.5,4.5,3,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"196",11063,"Ølfabrikken",1225673730,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"197",11063,"Ølfabrikken",1235768328,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"198",11063,"Ølfabrikken",1235527668,4,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"199",11063,"Ølfabrikken",1235482480,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"200",11063,"Ølfabrikken",1235246830,4.5,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"201",11063,"Ølfabrikken",1235014154,4,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"202",11063,"Ølfabrikken",1234547913,4.5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"203",11063,"Ølfabrikken",1234147278,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"204",11063,"Ølfabrikken",1232787873,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"205",11063,"Ølfabrikken",1228183850,5,4,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"206",11063,"Ølfabrikken",1228122464,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"207",11063,"Ølfabrikken",1231869313,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"208",11063,"Ølfabrikken",1231217327,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"209",11063,"Ølfabrikken",1231055384,4.5,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"210",11063,"Ølfabrikken",1230934067,4.5,4.5,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"211",11063,"Ølfabrikken",1230778029,4.5,4,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"212",11063,"Ølfabrikken",1230773774,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"213",11063,"Ølfabrikken",1230684745,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"214",11063,"Ølfabrikken",1229468721,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"215",11063,"Ølfabrikken",1227736027,4,4,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"216",11063,"Ølfabrikken",1227711020,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"217",11063,"Ølfabrikken",1227553249,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"218",11063,"Ølfabrikken",1227059853,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"219",11063,"Ølfabrikken",1226933239,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"220",11063,"Ølfabrikken",1226902909,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"221",11063,"Ølfabrikken",1226275801,4,4,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"222",11063,"Ølfabrikken",1226206959,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"223",11063,"Ølfabrikken",1225331403,3,4,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
-"224",11063,"Ølfabrikken",1224993340,4,4.5,4.5,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
-"225",11063,"Ølfabrikken",1224550369,4,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"226",11063,"Ølfabrikken",1223233351,4,5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"227",11063,"Ølfabrikken",1223087255,4,4,4,"Baltic Porter",3.5,3.5,"Ølfabrikken Porter",7.5,31956
-"228",11063,"Ølfabrikken",1221343818,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"229",11063,"Ølfabrikken",1219659537,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"230",11063,"Ølfabrikken",1219197750,4.5,4,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"231",11063,"Ølfabrikken",1218581803,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"232",11063,"Ølfabrikken",1217548150,4,4.5,4,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"233",11063,"Ølfabrikken",1217446212,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"234",11063,"Ølfabrikken",1217036669,3.5,3,2.5,"Baltic Porter",3,4.5,"Ølfabrikken Porter",7.5,31956
-"235",11063,"Ølfabrikken",1216260948,3.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"236",11063,"Ølfabrikken",1215833220,5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"237",11063,"Ølfabrikken",1215726086,4,5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"238",11063,"Ølfabrikken",1215218169,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"239",11063,"Ølfabrikken",1215138785,3,3,3.5,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
-"240",11063,"Ølfabrikken",1326265975,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"241",11063,"Ølfabrikken",1326170193,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"242",11063,"Ølfabrikken",1320028819,4.5,4.5,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"243",11063,"Ølfabrikken",1317461896,3.5,3.5,4,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
-"244",11063,"Ølfabrikken",1317461242,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"245",11063,"Ølfabrikken",1316399779,4.5,3.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"246",11063,"Ølfabrikken",1314634837,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"247",11063,"Ølfabrikken",1314056770,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"248",11063,"Ølfabrikken",1311302102,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"249",11063,"Ølfabrikken",1310928962,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"250",11063,"Ølfabrikken",1214416784,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"251",11063,"Ølfabrikken",1214117356,4.5,5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"252",11063,"Ølfabrikken",1213751360,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"253",11063,"Ølfabrikken",1213371501,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"254",11063,"Ølfabrikken",1213233859,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"255",11063,"Ølfabrikken",1213119339,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"256",11063,"Ølfabrikken",1213069886,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"257",11063,"Ølfabrikken",1213052074,4.5,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"258",11063,"Ølfabrikken",1212339569,5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"259",11063,"Ølfabrikken",1212289666,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"260",11063,"Ølfabrikken",1211335310,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"261",11063,"Ølfabrikken",1211154023,4.5,4.5,4,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"262",11063,"Ølfabrikken",1211087440,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"263",11063,"Ølfabrikken",1210384122,4.5,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"264",11063,"Ølfabrikken",1210295438,4.5,4,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"265",11063,"Ølfabrikken",1210295227,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"266",11063,"Ølfabrikken",1209690250,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"267",11063,"Ølfabrikken",1209602221,4,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"268",11063,"Ølfabrikken",1209447572,4.5,5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"269",11063,"Ølfabrikken",1209431208,4.5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"270",11063,"Ølfabrikken",1209068553,4,4,4,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
-"271",11063,"Ølfabrikken",1230490717,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"272",11063,"Ølfabrikken",1209001865,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"273",11063,"Ølfabrikken",1208583570,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"274",11063,"Ølfabrikken",1208146638,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"275",11063,"Ølfabrikken",1207964976,4,4,3.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"276",11063,"Ølfabrikken",1207725238,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"277",11063,"Ølfabrikken",1207447455,4.5,5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"278",11063,"Ølfabrikken",1207098966,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"279",11063,"Ølfabrikken",1207021290,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"280",11063,"Ølfabrikken",1206853955,4.5,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"281",11063,"Ølfabrikken",1201295159,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"282",11063,"Ølfabrikken",1206426600,4,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"283",11063,"Ølfabrikken",1206315133,4,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"284",11063,"Ølfabrikken",1206242648,4,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"285",11063,"Ølfabrikken",1206221753,4.5,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"286",11063,"Ølfabrikken",1206128818,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"287",11063,"Ølfabrikken",1205985026,4.5,3.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"288",11063,"Ølfabrikken",1200784938,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"289",11063,"Ølfabrikken",1205976043,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"290",11063,"Ølfabrikken",1205722457,3,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"291",11063,"Ølfabrikken",1205716651,4,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"292",11063,"Ølfabrikken",1205603197,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"293",11063,"Ølfabrikken",1205466039,3.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"294",11063,"Ølfabrikken",1205176556,4,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"295",11063,"Ølfabrikken",1205085576,4.5,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"296",11063,"Ølfabrikken",1204396334,3.5,3.5,4,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
-"297",11063,"Ølfabrikken",1300663688,4,4.5,4.5,"Baltic Porter",3,4.5,"Ølfabrikken Porter",7.5,31956
-"298",11063,"Ølfabrikken",1204356691,3.5,3.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"299",11063,"Ølfabrikken",1204089350,4,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
-"300",11063,"Ølfabrikken",1203783843,3.5,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"301",11063,"Ølfabrikken",1203563031,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"302",11063,"Ølfabrikken",1203205694,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"303",11063,"Ølfabrikken",1202687118,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"304",11063,"Ølfabrikken",1202325574,5,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"305",11063,"Ølfabrikken",1201819251,3.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"306",11063,"Ølfabrikken",1201538236,4.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"307",11063,"Ølfabrikken",1201473008,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"308",11063,"Ølfabrikken",1200580719,5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"309",11063,"Ølfabrikken",1200528799,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"310",11063,"Ølfabrikken",1200406890,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"311",11063,"Ølfabrikken",1200347676,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"312",11063,"Ølfabrikken",1200040135,2,3.5,4.5,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
-"313",11063,"Ølfabrikken",1199939082,4.5,4.5,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"314",11063,"Ølfabrikken",1182650167,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"315",11063,"Ølfabrikken",1199861649,4,4,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"316",11063,"Ølfabrikken",1199839682,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"317",11063,"Ølfabrikken",1199501235,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"318",11063,"Ølfabrikken",1199151868,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"319",11063,"Ølfabrikken",1199123257,4.5,3.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"320",11063,"Ølfabrikken",1198687453,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"321",11063,"Ølfabrikken",1198115369,4,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"322",11063,"Ølfabrikken",1198114166,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"323",11063,"Ølfabrikken",1230428204,4,3.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"324",11063,"Ølfabrikken",1196999391,4,3.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"325",11063,"Ølfabrikken",1196830655,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"326",11063,"Ølfabrikken",1196660695,5,5,3,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"327",11063,"Ølfabrikken",1194321544,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"328",11063,"Ølfabrikken",1192739518,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"329",11063,"Ølfabrikken",1192674757,3.5,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"330",11063,"Ølfabrikken",1192478060,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"331",11063,"Ølfabrikken",1188694705,4.5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"332",11063,"Ølfabrikken",1191195635,5,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"333",11063,"Ølfabrikken",1190935402,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"334",11063,"Ølfabrikken",1190935286,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"335",11063,"Ølfabrikken",1190688795,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"336",11063,"Ølfabrikken",1190585976,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"337",11063,"Ølfabrikken",1190154851,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"338",11063,"Ølfabrikken",1190120380,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"339",11063,"Ølfabrikken",1189301212,5,4.5,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"340",11063,"Ølfabrikken",1188960422,4.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"341",11063,"Ølfabrikken",1228433312,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"342",11063,"Ølfabrikken",1188691694,3,3.5,3.5,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
-"343",11063,"Ølfabrikken",1188521594,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"344",11063,"Ølfabrikken",1187493952,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"345",11063,"Ølfabrikken",1187393643,5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"346",11063,"Ølfabrikken",1186974592,5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"347",11063,"Ølfabrikken",1186874060,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"348",11063,"Ølfabrikken",1186420596,3.5,4.5,4.5,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
-"349",11063,"Ølfabrikken",1185421902,5,4,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"350",11063,"Ølfabrikken",1185050281,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"351",11063,"Ølfabrikken",1182638965,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"352",11063,"Ølfabrikken",1183948513,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"353",11063,"Ølfabrikken",1183942212,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"354",11063,"Ølfabrikken",1183912241,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"355",11063,"Ølfabrikken",1183424934,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"356",11063,"Ølfabrikken",1308765029,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"357",11063,"Ølfabrikken",1305118189,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"358",11063,"Ølfabrikken",1304886919,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"359",11063,"Ølfabrikken",1303259708,4.5,4,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"360",11063,"Ølfabrikken",1300593844,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"361",11063,"Ølfabrikken",1300492412,4.5,4.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"362",11063,"Ølfabrikken",1299443567,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"363",11063,"Ølfabrikken",1299360176,4.5,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"364",11063,"Ølfabrikken",1297484254,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"365",11063,"Ølfabrikken",1182998337,4.5,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"366",11063,"Ølfabrikken",1182923528,3,4,4.5,"Baltic Porter",4,3.5,"Ølfabrikken Porter",7.5,31956
-"367",11063,"Ølfabrikken",1182745792,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"368",11063,"Ølfabrikken",1182273408,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"369",11063,"Ølfabrikken",1181513054,4.5,5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"370",11063,"Ølfabrikken",1181275929,4,4.5,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"371",11063,"Ølfabrikken",1181263847,3.5,4.5,4.5,"Baltic Porter",4,3.5,"Ølfabrikken Porter",7.5,31956
-"372",11063,"Ølfabrikken",1180921399,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"373",11063,"Ølfabrikken",1180910552,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"374",11063,"Ølfabrikken",1180203892,3,2.5,2.5,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
-"375",11063,"Ølfabrikken",1180081575,5,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"376",11063,"Ølfabrikken",1179948016,3.5,3.5,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
-"377",11063,"Ølfabrikken",1179242440,5,4.5,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"378",11063,"Ølfabrikken",1179001463,4.5,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"379",11063,"Ølfabrikken",1178431872,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"380",11063,"Ølfabrikken",1176564201,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"381",11063,"Ølfabrikken",1175740362,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"382",11063,"Ølfabrikken",1175438911,5,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"383",11063,"Ølfabrikken",1175335080,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"384",11063,"Ølfabrikken",1174614085,5,4.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"385",11063,"Ølfabrikken",1174354369,4.5,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"386",11063,"Ølfabrikken",1173492706,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"387",11063,"Ølfabrikken",1172457302,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"388",11063,"Ølfabrikken",1171509887,3.5,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"389",11063,"Ølfabrikken",1171339953,3.5,4,3.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
-"390",11063,"Ølfabrikken",1171181464,4,4.5,4,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
-"391",11063,"Ølfabrikken",1171123644,3.5,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"392",11063,"Ølfabrikken",1170813786,5,4.5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"393",11063,"Ølfabrikken",1170560126,4.5,3.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"394",11063,"Ølfabrikken",1169350200,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"395",11063,"Ølfabrikken",1168999477,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"396",11063,"Ølfabrikken",1164745666,3,3,3,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
-"397",11063,"Ølfabrikken",1164400260,4.5,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"398",11063,"Ølfabrikken",1163629313,4,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"399",11063,"Ølfabrikken",1160962385,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"400",11063,"Ølfabrikken",1297394390,3.5,4.5,3.5,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
-"401",11063,"Ølfabrikken",1296616683,4.5,3,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"402",11063,"Ølfabrikken",1296092957,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"403",11063,"Ølfabrikken",1295898567,3,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"404",11063,"Ølfabrikken",1293935526,3,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"405",11063,"Ølfabrikken",1292778636,3.5,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"406",11063,"Ølfabrikken",1291582160,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"407",11063,"Ølfabrikken",1290407021,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"408",11063,"Ølfabrikken",1289436978,5,5,4,"Baltic Porter",5,3.5,"Ølfabrikken Porter",7.5,31956
-"409",11063,"Ølfabrikken",1287009875,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"410",11063,"Ølfabrikken",1285291360,4.5,3.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"411",11063,"Ølfabrikken",1284761537,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"412",11063,"Ølfabrikken",1283543335,4,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"413",11063,"Ølfabrikken",1283485401,4.5,4,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"414",11063,"Ølfabrikken",1274550375,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"415",11063,"Ølfabrikken",1283455930,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"416",11063,"Ølfabrikken",1283141626,3.5,3,4,"Baltic Porter",4,3,"Ølfabrikken Porter",7.5,31956
-"417",11063,"Ølfabrikken",1282954785,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"418",11063,"Ølfabrikken",1281403548,3.5,4,4.5,"Baltic Porter",3.5,3.5,"Ølfabrikken Porter",7.5,31956
-"419",11063,"Ølfabrikken",1281335681,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"420",11063,"Ølfabrikken",1280805266,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"421",11063,"Ølfabrikken",1280609080,3,3,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"422",11063,"Ølfabrikken",1279922699,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"423",11063,"Ølfabrikken",1273768530,5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"424",11063,"Ølfabrikken",1272861932,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"425",11063,"Ølfabrikken",1279569192,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"426",11063,"Ølfabrikken",1278459985,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"427",11063,"Ølfabrikken",1277774345,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"428",11063,"Ølfabrikken",1277686965,2.5,3.5,4,"Baltic Porter",4,2,"Ølfabrikken Porter",7.5,31956
-"429",11063,"Ølfabrikken",1277610154,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"430",11063,"Ølfabrikken",1275875014,3.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"431",11063,"Ølfabrikken",1275794639,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"432",11063,"Ølfabrikken",1274637981,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"433",11063,"Ølfabrikken",1272857605,4,4,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"434",11063,"Ølfabrikken",1271799792,4,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
-"435",11063,"Ølfabrikken",1271207354,4,4.5,5,"Baltic Porter",3,4,"Ølfabrikken Porter",7.5,31956
-"436",11063,"Ølfabrikken",1270859920,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"437",11063,"Ølfabrikken",1270177520,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"438",11063,"Ølfabrikken",1269750018,4.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"439",11063,"Ølfabrikken",1268691288,4.5,5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
-"440",11063,"Ølfabrikken",1268115237,4.5,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"441",11063,"Ølfabrikken",1268076821,4.5,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"442",11063,"Ølfabrikken",1267922886,4,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"443",11063,"Ølfabrikken",1266454398,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"444",11063,"Ølfabrikken",1266110006,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"445",11063,"Ølfabrikken",1265932177,3.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"446",11063,"Ølfabrikken",1265582437,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"447",11063,"Ølfabrikken",1265424016,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"448",11063,"Ølfabrikken",1265206366,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"449",11063,"Ølfabrikken",1264729456,4.5,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"450",11063,"Ølfabrikken",1264604610,5,5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"451",11063,"Ølfabrikken",1261888819,4,4.5,3.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"452",11063,"Ølfabrikken",1264303250,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"453",11063,"Ølfabrikken",1264208910,4,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"454",11063,"Ølfabrikken",1263517906,3.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"455",11063,"Ølfabrikken",1263187462,4.5,4,3.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"456",11063,"Ølfabrikken",1263152858,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"457",11063,"Ølfabrikken",1263145122,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
-"458",11063,"Ølfabrikken",1262835869,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"459",11063,"Ølfabrikken",1262541270,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"460",11063,"Ølfabrikken",1262045271,5,3.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
-"461",11063,"Ølfabrikken",1261323177,3.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"462",11063,"Ølfabrikken",1261316652,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
-"463",11063,"Ølfabrikken",1260338710,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
-"464",11063,"Ølfabrikken",1259517314,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
-"465",11063,"Ølfabrikken",1259187754,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"466",11063,"Ølfabrikken",1259030111,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
-"467",11063,"Ølfabrikken",1258264798,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
-"468",11063,"Ølfabrikken",1228513939,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"469",11063,"Ølfabrikken",1266128577,4,4,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"470",11063,"Ølfabrikken",1265416955,3,3.5,4,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"471",11063,"Ølfabrikken",1258140686,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"472",11063,"Ølfabrikken",1256091944,4.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"473",11063,"Ølfabrikken",1251748675,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"474",11063,"Ølfabrikken",1248287103,3.5,3.5,4,"American Double / Imperial IPA",4,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"475",11063,"Ølfabrikken",1239744361,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"476",11063,"Ølfabrikken",1238027571,3.5,4.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"477",11063,"Ølfabrikken",1231095162,3.5,3.5,4,"American Double / Imperial IPA",3,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"478",11063,"Ølfabrikken",1225542344,3.5,4,5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"479",11063,"Ølfabrikken",1225134396,3,3.5,3,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"480",11063,"Ølfabrikken",1223514931,4,4.5,4,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"481",11063,"Ølfabrikken",1222768017,4,5,4,"American Double / Imperial IPA",5,5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"482",11063,"Ølfabrikken",1222577255,4,4,4,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"483",11063,"Ølfabrikken",1221758330,3,3.5,3,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"484",11063,"Ølfabrikken",1220924244,4,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"485",11063,"Ølfabrikken",1202075303,3.5,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"486",11063,"Ølfabrikken",1218423740,3.5,3.5,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"487",11063,"Ølfabrikken",1217799065,3,4,4.5,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"488",11063,"Ølfabrikken",1217544951,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"489",11063,"Ølfabrikken",1216383646,4,4,4,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"490",11063,"Ølfabrikken",1215999911,4,3,2,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"491",11063,"Ølfabrikken",1215436143,2.5,4,4,"American Double / Imperial IPA",4,2.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"492",11063,"Ølfabrikken",1214966867,4,4.5,4.5,"American Double / Imperial IPA",4.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"493",11063,"Ølfabrikken",1214851290,3,4,4,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"494",11063,"Ølfabrikken",1214700668,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"495",11063,"Ølfabrikken",1211516048,3,4.5,4.5,"American Double / Imperial IPA",3,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"496",11063,"Ølfabrikken",1210702060,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"497",11063,"Ølfabrikken",1208134731,4,4,3,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"498",11063,"Ølfabrikken",1206998756,4.5,4,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"499",11063,"Ølfabrikken",1206340468,4,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"500",11063,"Ølfabrikken",1206226514,3.5,4,5,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"501",11063,"Ølfabrikken",1205974275,4,4,4,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"502",11063,"Ølfabrikken",1199920134,4,3.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"503",11063,"Ølfabrikken",1205792327,3.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"504",11063,"Ølfabrikken",1205024529,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"505",11063,"Ølfabrikken",1203927183,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"506",11063,"Ølfabrikken",1203714810,4,4,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"507",11063,"Ølfabrikken",1203535009,3,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"508",11063,"Ølfabrikken",1202426301,5,4,4,"American Double / Imperial IPA",4,5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"509",11063,"Ølfabrikken",1202316995,5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"510",11063,"Ølfabrikken",1202091110,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"511",11063,"Ølfabrikken",1201752412,3.5,4,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"512",11063,"Ølfabrikken",1201573118,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"513",11063,"Ølfabrikken",1201023619,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"514",11063,"Ølfabrikken",1200880413,3,4,4.5,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"515",11063,"Ølfabrikken",1200575861,4,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"516",11063,"Ølfabrikken",1239563646,4,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"517",11063,"Ølfabrikken",1199662134,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"518",11063,"Ølfabrikken",1199169820,3.5,3.5,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"519",11063,"Ølfabrikken",1199031182,4,4.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"520",11063,"Ølfabrikken",1198794749,3.5,4.5,5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"521",11063,"Ølfabrikken",1198790621,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"522",11063,"Ølfabrikken",1197947294,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"523",11063,"Ølfabrikken",1197945713,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"524",11063,"Ølfabrikken",1197498362,4,4.5,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"525",11063,"Ølfabrikken",1197236638,4,4,3.5,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"526",11063,"Ølfabrikken",1196816918,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"527",11063,"Ølfabrikken",1196645082,4,3.5,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"528",11063,"Ølfabrikken",1196227429,3,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"529",11063,"Ølfabrikken",1196115469,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"530",11063,"Ølfabrikken",1195738840,4.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"531",11063,"Ølfabrikken",1195665606,3,3.5,3.5,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"532",11063,"Ølfabrikken",1195093144,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"533",11063,"Ølfabrikken",1194534314,4,4,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"534",11063,"Ølfabrikken",1193269487,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"535",11063,"Ølfabrikken",1192138830,3.5,4,2,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"536",11063,"Ølfabrikken",1179063019,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
-"537",11063,"Ølfabrikken",1293425168,4,4.5,3.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"538",11063,"Ølfabrikken",1292486644,3.5,3.5,4,"American Strong Ale",3.5,3,"Ølfabrikken Jule Ale",8,36433
-"539",11063,"Ølfabrikken",1277994905,4,4,4,"American Strong Ale",4.5,4,"Ølfabrikken Jule Ale",8,36433
-"540",11063,"Ølfabrikken",1275270385,3.5,3.5,4,"American Strong Ale",4,3.5,"Ølfabrikken Jule Ale",8,36433
-"541",11063,"Ølfabrikken",1270253993,3.5,3.5,3,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"542",11063,"Ølfabrikken",1236413683,4,4,4,"American Strong Ale",4.5,4.5,"Ølfabrikken Jule Ale",8,36433
-"543",11063,"Ølfabrikken",1269558355,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Ølfabrikken Jule Ale",8,36433
-"544",11063,"Ølfabrikken",1265589127,2.5,3.5,3.5,"American Strong Ale",3,2.5,"Ølfabrikken Jule Ale",8,36433
-"545",11063,"Ølfabrikken",1264975461,4,4,4.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"546",11063,"Ølfabrikken",1263232944,4.5,4,3.5,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
-"547",11063,"Ølfabrikken",1261956867,3.5,3.5,3.5,"American Strong Ale",4,3,"Ølfabrikken Jule Ale",8,36433
-"548",11063,"Ølfabrikken",1260738750,4.5,3.5,4,"American Strong Ale",3,4,"Ølfabrikken Jule Ale",8,36433
-"549",11063,"Ølfabrikken",1259266512,3.5,3.5,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"550",11063,"Ølfabrikken",1258991379,4,4,4.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"551",11063,"Ølfabrikken",1251460080,2.5,4,4.5,"American Strong Ale",2,2,"Ølfabrikken Jule Ale",8,36433
-"552",11063,"Ølfabrikken",1245344311,3.5,4,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"553",11063,"Ølfabrikken",1236225178,4,3.5,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"554",11063,"Ølfabrikken",1235994348,3.5,3,4,"American Strong Ale",2,3,"Ølfabrikken Jule Ale",8,36433
-"555",11063,"Ølfabrikken",1232769358,3,3.5,4,"American Strong Ale",4,3.5,"Ølfabrikken Jule Ale",8,36433
-"556",11063,"Ølfabrikken",1232712626,3.5,4,4.5,"American Strong Ale",5,4,"Ølfabrikken Jule Ale",8,36433
-"557",11063,"Ølfabrikken",1231607709,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
-"558",11063,"Ølfabrikken",1231510684,4,4,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"559",11063,"Ølfabrikken",1231244988,3.5,3.5,4.5,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
-"560",11063,"Ølfabrikken",1230842393,4,4,4.5,"American Strong Ale",4.5,4,"Ølfabrikken Jule Ale",8,36433
-"561",11063,"Ølfabrikken",1229982873,4.5,4,3.5,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
-"562",11063,"Ølfabrikken",1229724036,4,4.5,4,"American Strong Ale",3,4.5,"Ølfabrikken Jule Ale",8,36433
-"563",11063,"Ølfabrikken",1229221075,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
-"564",11063,"Ølfabrikken",1228067020,4,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"565",11063,"Ølfabrikken",1226446277,4,3.5,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"566",11063,"Ølfabrikken",1179062932,4.5,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
-"567",11063,"Ølfabrikken",1177187473,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
-"568",11063,"Ølfabrikken",1202905067,4.5,4,4,"American Brown Ale",4,4.5,"Ølfabrikken Brown Ale",5.5,23678
-"569",11063,"Ølfabrikken",1171318551,4,4,4,"American Brown Ale",3,4.5,"Ølfabrikken Brown Ale",5.5,23678
-"570",11063,"Ølfabrikken",1320956735,4,3.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Winter Porter",11,41501
-"571",11063,"Ølfabrikken",1295685506,4.5,3,5,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
-"572",11063,"Ølfabrikken",1288405172,3.5,4,4,"Baltic Porter",4,3.5,"Ølfabrikken Winter Porter",11,41501
-"573",11063,"Ølfabrikken",1283819749,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"574",11063,"Ølfabrikken",1262397232,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
-"575",11063,"Ølfabrikken",1260594511,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"576",11063,"Ølfabrikken",1240881691,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"577",11063,"Ølfabrikken",1238656182,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"578",11063,"Ølfabrikken",1236144284,4,4.5,4,"Baltic Porter",4,3.5,"Ølfabrikken Winter Porter",11,41501
-"579",11063,"Ølfabrikken",1235251908,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
-"580",11063,"Ølfabrikken",1233722488,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"581",11063,"Ølfabrikken",1233324761,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Winter Porter",11,41501
-"582",11063,"Ølfabrikken",1231640042,5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
-"583",11063,"Ølfabrikken",1231034416,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"584",11063,"Ølfabrikken",1230267103,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
-"585",11063,"Ølfabrikken",1230005421,4.5,4.5,3.5,"Baltic Porter",4.5,5,"Ølfabrikken Winter Porter",11,41501
-"586",11063,"Ølfabrikken",1205184058,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Winter Porter",11,41501
+"1",11063,"Ølfabrikken",1236739739,3,4,3.5,"Dubbel",4,3,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"2",11063,"Ølfabrikken",1261445505,4.5,4.5,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"3",11063,"Ølfabrikken",1213152661,5,4,5,"American IPA",4,4.5,"Ølfabrikken Rug IPA",7,34467
+"4",11063,"Ølfabrikken",1264793709,4,4.5,4,"English Barleywine",5,4.5,"Ølfabrikken Barleywine",11,41502
+"5",11063,"Ølfabrikken",1244565283,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"6",11063,"Ølfabrikken",1290737575,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"7",11063,"Ølfabrikken",1238550852,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"8",11063,"Ølfabrikken",1230425252,3.5,3.5,4,"Russian Imperial Stout",4,3,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"9",11063,"Ølfabrikken",1206855704,3.5,4,4,"Russian Imperial Stout",4,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"10",11063,"Ølfabrikken",1205456145,4,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"11",11063,"Ølfabrikken",1180985192,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"12",11063,"Ølfabrikken",1179037133,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"13",11063,"Ølfabrikken",1164415019,4,4,4,"Russian Imperial Stout",4,4,"Ølfabrikken ØL (Russian Imperial Chocolate Stout)",10,33941
+"14",11063,"Ølfabrikken",1293260769,4.5,3.5,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"15",11063,"Ølfabrikken",1275679885,4.5,4.5,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"16",11063,"Ølfabrikken",1269961101,4,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"17",11063,"Ølfabrikken",1258257791,4,4.5,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"18",11063,"Ølfabrikken",1247087187,4.5,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"19",11063,"Ølfabrikken",1246381444,4,3.5,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"20",11063,"Ølfabrikken",1243056468,4.5,4,4.5,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"21",11063,"Ølfabrikken",1234403325,4.5,4,4,"Dubbel",4.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"22",11063,"Ølfabrikken",1231484491,4,4,4,"Dubbel",3.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"23",11063,"Ølfabrikken",1230599288,4,4,4.5,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"24",11063,"Ølfabrikken",1230045505,3,3.5,4,"Dubbel",3,3.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"25",11063,"Ølfabrikken",1228606457,4,4,4,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"26",11063,"Ølfabrikken",1227320870,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"27",11063,"Ølfabrikken",1226980900,5,4.5,4.5,"Dubbel",5,5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"28",11063,"Ølfabrikken",1223681992,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"29",11063,"Ølfabrikken",1216170353,3.5,4,3.5,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"30",11063,"Ølfabrikken",1213718675,4,3.5,4,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"31",11063,"Ølfabrikken",1213649749,4,4.5,4,"Dubbel",4.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"32",11063,"Ølfabrikken",1213328136,4,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"33",11063,"Ølfabrikken",1212257509,4,4,3.5,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"34",11063,"Ølfabrikken",1210392191,4,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"35",11063,"Ølfabrikken",1210040303,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"36",11063,"Ølfabrikken",1209870889,4,4,4,"Dubbel",3.5,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"37",11063,"Ølfabrikken",1207373504,3.5,4,4,"Dubbel",4,4,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"38",11063,"Ølfabrikken",1201908981,4.5,4.5,4.5,"Dubbel",4.5,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"39",11063,"Ølfabrikken",1201684987,4.5,4,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"40",11063,"Ølfabrikken",1197596000,4.5,4.5,4,"Dubbel",4,4.5,"Ølfabrikken Abbey Ale (Special Reserve)",8.5,40047
+"41",11063,"Ølfabrikken",1226083031,4.5,4,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
+"42",11063,"Ølfabrikken",1176296621,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
+"43",11063,"Ølfabrikken",1172005031,4,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
+"44",11063,"Ølfabrikken",1164414351,4,4,3.5,"Baltic Porter",4,4,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
+"45",11063,"Ølfabrikken",1164410633,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Gammel Ekstra Porter",8.5,33935
+"46",11063,"Ølfabrikken",1183494668,3,3,3,"American IPA",3.5,3,"Ølfabrikken Rug IPA",7,34467
+"47",11063,"Ølfabrikken",1176543519,4,4,4,"American IPA",4,4,"Ølfabrikken Rug IPA",7,34467
+"48",11063,"Ølfabrikken",1168977582,3,3,3,"American IPA",3,3.5,"Ølfabrikken Rug IPA",7,34467
+"49",11063,"Ølfabrikken",1168022166,4,4,4,"American IPA",3.5,4,"Ølfabrikken Rug IPA",7,34467
+"50",11063,"Ølfabrikken",1167266278,4,4,3.5,"American IPA",3.5,4,"Ølfabrikken Rug IPA",7,34467
+"51",11063,"Ølfabrikken",1231742699,4,4,4,"English Barleywine",4.5,4.5,"Ølfabrikken Barleywine",11,41502
+"52",11063,"Ølfabrikken",1306430085,4,4,4,"English Barleywine",4,4,"Ølfabrikken Barleywine",11,41502
+"53",11063,"Ølfabrikken",1306040448,3.5,4,4,"English Barleywine",4.5,3.5,"Ølfabrikken Barleywine",11,41502
+"54",11063,"Ølfabrikken",1228891239,4,4,4,"English Barleywine",4,4,"Ølfabrikken Barleywine",11,41502
+"55",11063,"Ølfabrikken",1205184166,4,4,4.5,"English Barleywine",4,3.5,"Ølfabrikken Barleywine",11,41502
+"56",11063,"Ølfabrikken",1240454726,4,4,3.5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
+"57",11063,"Ølfabrikken",1179063133,4,4,5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
+"58",11063,"Ølfabrikken",1163745863,4,4,4,"Herbed / Spiced Beer",3,3.5,"Ølfabrikken Kaffeporter",5.5,31957
+"59",11063,"Ølfabrikken",1163539832,4,4,4,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
+"60",11063,"Ølfabrikken",1160101743,4.5,4.5,4.5,"Herbed / Spiced Beer",4,4,"Ølfabrikken Kaffeporter",5.5,31957
+"61",11063,"Ølfabrikken",1318715367,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
+"62",11063,"Ølfabrikken",1314573806,4.5,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
+"63",11063,"Ølfabrikken",1308796200,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
+"64",11063,"Ølfabrikken",1292808085,4,3.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Ølfabrikken Kloster Jul",9.5,45858
+"65",11063,"Ølfabrikken",1291425179,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Ølfabrikken Kloster Jul",9.5,45858
+"66",11063,"Ølfabrikken",1284517568,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"67",11063,"Ølfabrikken",1276199530,4,5,4,"Belgian Strong Dark Ale",4,5,"Ølfabrikken Kloster Jul",9.5,45858
+"68",11063,"Ølfabrikken",1269572520,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"69",11063,"Ølfabrikken",1263083308,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"70",11063,"Ølfabrikken",1262868738,4,4,4.5,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
+"71",11063,"Ølfabrikken",1254442343,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"72",11063,"Ølfabrikken",1262488069,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"73",11063,"Ølfabrikken",1262302150,4,4.5,5,"Belgian Strong Dark Ale",4,3.5,"Ølfabrikken Kloster Jul",9.5,45858
+"74",11063,"Ølfabrikken",1261751289,4.5,4.5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"75",11063,"Ølfabrikken",1253977235,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"76",11063,"Ølfabrikken",1250301566,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"77",11063,"Ølfabrikken",1249102621,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
+"78",11063,"Ølfabrikken",1246055748,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Ølfabrikken Kloster Jul",9.5,45858
+"79",11063,"Ølfabrikken",1239915036,3.5,4,3.5,"Belgian Strong Dark Ale",4.5,3.5,"Ølfabrikken Kloster Jul",9.5,45858
+"80",11063,"Ølfabrikken",1254350880,4,4.5,5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"81",11063,"Ølfabrikken",1238448494,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Ølfabrikken Kloster Jul",9.5,45858
+"82",11063,"Ølfabrikken",1236659895,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"83",11063,"Ølfabrikken",1235990301,2.5,3.5,4,"Belgian Strong Dark Ale",3,3.5,"Ølfabrikken Kloster Jul",9.5,45858
+"84",11063,"Ølfabrikken",1234126096,5,4.5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"85",11063,"Ølfabrikken",1232510303,4.5,5,5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"86",11063,"Ølfabrikken",1231672829,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"87",11063,"Ølfabrikken",1231551062,4.5,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"88",11063,"Ølfabrikken",1231190878,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"89",11063,"Ølfabrikken",1253329474,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"90",11063,"Ølfabrikken",1231129412,4,4,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"91",11063,"Ølfabrikken",1230731987,4,4.5,4,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"92",11063,"Ølfabrikken",1229374727,4,4,3,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"93",11063,"Ølfabrikken",1229371360,5,4,5,"Belgian Strong Dark Ale",4.5,5,"Ølfabrikken Kloster Jul",9.5,45858
+"94",11063,"Ølfabrikken",1228965910,4,4.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"95",11063,"Ølfabrikken",1228831016,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"96",11063,"Ølfabrikken",1226972196,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"97",11063,"Ølfabrikken",1252624110,4,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"98",11063,"Ølfabrikken",1226448059,4,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Ølfabrikken Kloster Jul",9.5,45858
+"99",11063,"Ølfabrikken",1257995355,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"100",11063,"Ølfabrikken",1257476108,4.5,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"101",11063,"Ølfabrikken",1257213313,2,3.5,3,"Baltic Porter",2,2.5,"Ølfabrikken Porter",7.5,31956
+"102",11063,"Ølfabrikken",1257207673,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"103",11063,"Ølfabrikken",1256913159,4,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"104",11063,"Ølfabrikken",1256863371,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"105",11063,"Ølfabrikken",1256861406,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"106",11063,"Ølfabrikken",1256300083,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"107",11063,"Ølfabrikken",1255487817,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"108",11063,"Ølfabrikken",1255242956,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"109",11063,"Ølfabrikken",1254778183,4.5,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"110",11063,"Ølfabrikken",1254462322,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"111",11063,"Ølfabrikken",1252391833,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"112",11063,"Ølfabrikken",1251341738,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"113",11063,"Ølfabrikken",1249692333,4,4.5,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"114",11063,"Ølfabrikken",1249336837,3,4,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
+"115",11063,"Ølfabrikken",1249071311,3.5,4,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"116",11063,"Ølfabrikken",1248990718,4,4,4.5,"Baltic Porter",3.5,5,"Ølfabrikken Porter",7.5,31956
+"117",11063,"Ølfabrikken",1248758169,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"118",11063,"Ølfabrikken",1247287958,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"119",11063,"Ølfabrikken",1247204053,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"120",11063,"Ølfabrikken",1247186533,4.5,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
+"121",11063,"Ølfabrikken",1245198939,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"122",11063,"Ølfabrikken",1245032775,4,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"123",11063,"Ølfabrikken",1244955390,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"124",11063,"Ølfabrikken",1244835400,4,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"125",11063,"Ølfabrikken",1243972941,3,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"126",11063,"Ølfabrikken",1243440713,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"127",11063,"Ølfabrikken",1242255459,3.5,3.5,3.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"128",11063,"Ølfabrikken",1241940421,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"129",11063,"Ølfabrikken",1241143836,5,4,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"130",11063,"Ølfabrikken",1241143181,2,4,5,"Baltic Porter",2.5,3.5,"Ølfabrikken Porter",7.5,31956
+"131",11063,"Ølfabrikken",1241048507,4,4,4.5,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
+"132",11063,"Ølfabrikken",1240406340,4.5,5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"133",11063,"Ølfabrikken",1240286087,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"134",11063,"Ølfabrikken",1239077881,3.5,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"135",11063,"Ølfabrikken",1225730501,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"136",11063,"Ølfabrikken",1239938753,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"137",11063,"Ølfabrikken",1239883458,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"138",11063,"Ølfabrikken",1239663560,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"139",11063,"Ølfabrikken",1239560893,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"140",11063,"Ølfabrikken",1239507198,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"141",11063,"Ølfabrikken",1239407573,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"142",11063,"Ølfabrikken",1239387130,4.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"143",11063,"Ølfabrikken",1239075913,4.5,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"144",11063,"Ølfabrikken",1239043370,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"145",11063,"Ølfabrikken",1238815982,5,4,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"146",11063,"Ølfabrikken",1238296033,3,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"147",11063,"Ølfabrikken",1237348195,4,4.5,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"148",11063,"Ølfabrikken",1236733295,4,2,4,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"149",11063,"Ølfabrikken",1236165874,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"150",11063,"Ølfabrikken",1236084836,4.5,4.5,3,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"151",11063,"Ølfabrikken",1225673730,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"152",11063,"Ølfabrikken",1235768328,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"153",11063,"Ølfabrikken",1235527668,4,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"154",11063,"Ølfabrikken",1235482480,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"155",11063,"Ølfabrikken",1235246830,4.5,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"156",11063,"Ølfabrikken",1235014154,4,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"157",11063,"Ølfabrikken",1234547913,4.5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"158",11063,"Ølfabrikken",1234147278,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"159",11063,"Ølfabrikken",1232787873,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"160",11063,"Ølfabrikken",1228183850,5,4,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"161",11063,"Ølfabrikken",1228122464,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"162",11063,"Ølfabrikken",1231869313,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"163",11063,"Ølfabrikken",1231217327,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"164",11063,"Ølfabrikken",1231055384,4.5,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"165",11063,"Ølfabrikken",1230934067,4.5,4.5,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"166",11063,"Ølfabrikken",1230778029,4.5,4,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"167",11063,"Ølfabrikken",1230773774,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"168",11063,"Ølfabrikken",1230684745,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"169",11063,"Ølfabrikken",1229468721,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"170",11063,"Ølfabrikken",1227736027,4,4,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"171",11063,"Ølfabrikken",1227711020,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"172",11063,"Ølfabrikken",1227553249,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"173",11063,"Ølfabrikken",1227059853,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"174",11063,"Ølfabrikken",1226933239,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"175",11063,"Ølfabrikken",1226902909,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"176",11063,"Ølfabrikken",1226275801,4,4,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"177",11063,"Ølfabrikken",1226206959,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"178",11063,"Ølfabrikken",1225331403,3,4,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
+"179",11063,"Ølfabrikken",1224993340,4,4.5,4.5,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
+"180",11063,"Ølfabrikken",1224550369,4,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"181",11063,"Ølfabrikken",1223233351,4,5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"182",11063,"Ølfabrikken",1223087255,4,4,4,"Baltic Porter",3.5,3.5,"Ølfabrikken Porter",7.5,31956
+"183",11063,"Ølfabrikken",1221343818,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"184",11063,"Ølfabrikken",1219659537,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"185",11063,"Ølfabrikken",1219197750,4.5,4,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"186",11063,"Ølfabrikken",1218581803,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"187",11063,"Ølfabrikken",1217548150,4,4.5,4,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"188",11063,"Ølfabrikken",1217446212,4.5,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"189",11063,"Ølfabrikken",1217036669,3.5,3,2.5,"Baltic Porter",3,4.5,"Ølfabrikken Porter",7.5,31956
+"190",11063,"Ølfabrikken",1216260948,3.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"191",11063,"Ølfabrikken",1215833220,5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"192",11063,"Ølfabrikken",1215726086,4,5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"193",11063,"Ølfabrikken",1215218169,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"194",11063,"Ølfabrikken",1215138785,3,3,3.5,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
+"195",11063,"Ølfabrikken",1326265975,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"196",11063,"Ølfabrikken",1326170193,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"197",11063,"Ølfabrikken",1320028819,4.5,4.5,4.5,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"198",11063,"Ølfabrikken",1317461896,3.5,3.5,4,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
+"199",11063,"Ølfabrikken",1317461242,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"200",11063,"Ølfabrikken",1316399779,4.5,3.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"201",11063,"Ølfabrikken",1314634837,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"202",11063,"Ølfabrikken",1314056770,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"203",11063,"Ølfabrikken",1311302102,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"204",11063,"Ølfabrikken",1310928962,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"205",11063,"Ølfabrikken",1214416784,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"206",11063,"Ølfabrikken",1214117356,4.5,5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"207",11063,"Ølfabrikken",1213751360,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"208",11063,"Ølfabrikken",1213371501,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"209",11063,"Ølfabrikken",1213233859,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"210",11063,"Ølfabrikken",1213119339,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"211",11063,"Ølfabrikken",1213069886,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"212",11063,"Ølfabrikken",1213052074,4.5,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"213",11063,"Ølfabrikken",1212339569,5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"214",11063,"Ølfabrikken",1212289666,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"215",11063,"Ølfabrikken",1211335310,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"216",11063,"Ølfabrikken",1211154023,4.5,4.5,4,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"217",11063,"Ølfabrikken",1211087440,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"218",11063,"Ølfabrikken",1210384122,4.5,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"219",11063,"Ølfabrikken",1210295438,4.5,4,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"220",11063,"Ølfabrikken",1210295227,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"221",11063,"Ølfabrikken",1209690250,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"222",11063,"Ølfabrikken",1209602221,4,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"223",11063,"Ølfabrikken",1209447572,4.5,5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"224",11063,"Ølfabrikken",1209431208,4.5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"225",11063,"Ølfabrikken",1209068553,4,4,4,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
+"226",11063,"Ølfabrikken",1230490717,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"227",11063,"Ølfabrikken",1209001865,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"228",11063,"Ølfabrikken",1208583570,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"229",11063,"Ølfabrikken",1208146638,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"230",11063,"Ølfabrikken",1207964976,4,4,3.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"231",11063,"Ølfabrikken",1207725238,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"232",11063,"Ølfabrikken",1207447455,4.5,5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"233",11063,"Ølfabrikken",1207098966,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"234",11063,"Ølfabrikken",1207021290,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"235",11063,"Ølfabrikken",1206853955,4.5,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"236",11063,"Ølfabrikken",1201295159,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"237",11063,"Ølfabrikken",1206426600,4,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"238",11063,"Ølfabrikken",1206315133,4,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"239",11063,"Ølfabrikken",1206242648,4,4.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"240",11063,"Ølfabrikken",1206221753,4.5,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"241",11063,"Ølfabrikken",1206128818,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"242",11063,"Ølfabrikken",1205985026,4.5,3.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"243",11063,"Ølfabrikken",1200784938,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"244",11063,"Ølfabrikken",1205976043,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"245",11063,"Ølfabrikken",1205722457,3,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"246",11063,"Ølfabrikken",1205716651,4,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"247",11063,"Ølfabrikken",1205603197,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"248",11063,"Ølfabrikken",1205466039,3.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"249",11063,"Ølfabrikken",1205176556,4,3.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"250",11063,"Ølfabrikken",1205085576,4.5,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"251",11063,"Ølfabrikken",1204396334,3.5,3.5,4,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
+"252",11063,"Ølfabrikken",1300663688,4,4.5,4.5,"Baltic Porter",3,4.5,"Ølfabrikken Porter",7.5,31956
+"253",11063,"Ølfabrikken",1204356691,3.5,3.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"254",11063,"Ølfabrikken",1204089350,4,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
+"255",11063,"Ølfabrikken",1203783843,3.5,4,4.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"256",11063,"Ølfabrikken",1203563031,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"257",11063,"Ølfabrikken",1203205694,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"258",11063,"Ølfabrikken",1202687118,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"259",11063,"Ølfabrikken",1202325574,5,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"260",11063,"Ølfabrikken",1201819251,3.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"261",11063,"Ølfabrikken",1201538236,4.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"262",11063,"Ølfabrikken",1201473008,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"263",11063,"Ølfabrikken",1200580719,5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"264",11063,"Ølfabrikken",1200528799,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"265",11063,"Ølfabrikken",1200406890,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"266",11063,"Ølfabrikken",1200347676,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"267",11063,"Ølfabrikken",1200040135,2,3.5,4.5,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
+"268",11063,"Ølfabrikken",1199939082,4.5,4.5,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"269",11063,"Ølfabrikken",1182650167,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"270",11063,"Ølfabrikken",1199861649,4,4,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"271",11063,"Ølfabrikken",1199839682,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"272",11063,"Ølfabrikken",1199501235,4.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"273",11063,"Ølfabrikken",1199151868,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"274",11063,"Ølfabrikken",1199123257,4.5,3.5,5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"275",11063,"Ølfabrikken",1198687453,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"276",11063,"Ølfabrikken",1198115369,4,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"277",11063,"Ølfabrikken",1198114166,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"278",11063,"Ølfabrikken",1230428204,4,3.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"279",11063,"Ølfabrikken",1196999391,4,3.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"280",11063,"Ølfabrikken",1196830655,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"281",11063,"Ølfabrikken",1196660695,5,5,3,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"282",11063,"Ølfabrikken",1194321544,4,4.5,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"283",11063,"Ølfabrikken",1192739518,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"284",11063,"Ølfabrikken",1192674757,3.5,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"285",11063,"Ølfabrikken",1192478060,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"286",11063,"Ølfabrikken",1188694705,4.5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"287",11063,"Ølfabrikken",1191195635,5,5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"288",11063,"Ølfabrikken",1190935402,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"289",11063,"Ølfabrikken",1190935286,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"290",11063,"Ølfabrikken",1190688795,4.5,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"291",11063,"Ølfabrikken",1190585976,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"292",11063,"Ølfabrikken",1190154851,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"293",11063,"Ølfabrikken",1190120380,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"294",11063,"Ølfabrikken",1189301212,5,4.5,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"295",11063,"Ølfabrikken",1188960422,4.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"296",11063,"Ølfabrikken",1228433312,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"297",11063,"Ølfabrikken",1188691694,3,3.5,3.5,"Baltic Porter",3.5,3,"Ølfabrikken Porter",7.5,31956
+"298",11063,"Ølfabrikken",1188521594,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"299",11063,"Ølfabrikken",1187493952,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"300",11063,"Ølfabrikken",1187393643,5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"301",11063,"Ølfabrikken",1186974592,5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"302",11063,"Ølfabrikken",1186874060,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"303",11063,"Ølfabrikken",1186420596,3.5,4.5,4.5,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
+"304",11063,"Ølfabrikken",1185421902,5,4,5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"305",11063,"Ølfabrikken",1185050281,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"306",11063,"Ølfabrikken",1182638965,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"307",11063,"Ølfabrikken",1183948513,5,4.5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"308",11063,"Ølfabrikken",1183942212,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"309",11063,"Ølfabrikken",1183912241,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"310",11063,"Ølfabrikken",1183424934,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"311",11063,"Ølfabrikken",1308765029,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"312",11063,"Ølfabrikken",1305118189,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"313",11063,"Ølfabrikken",1304886919,4,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"314",11063,"Ølfabrikken",1303259708,4.5,4,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"315",11063,"Ølfabrikken",1300593844,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"316",11063,"Ølfabrikken",1300492412,4.5,4.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"317",11063,"Ølfabrikken",1299443567,4.5,4,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"318",11063,"Ølfabrikken",1299360176,4.5,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"319",11063,"Ølfabrikken",1297484254,4.5,5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"320",11063,"Ølfabrikken",1182998337,4.5,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"321",11063,"Ølfabrikken",1182923528,3,4,4.5,"Baltic Porter",4,3.5,"Ølfabrikken Porter",7.5,31956
+"322",11063,"Ølfabrikken",1182745792,5,5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"323",11063,"Ølfabrikken",1182273408,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"324",11063,"Ølfabrikken",1181513054,4.5,5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"325",11063,"Ølfabrikken",1181275929,4,4.5,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"326",11063,"Ølfabrikken",1181263847,3.5,4.5,4.5,"Baltic Porter",4,3.5,"Ølfabrikken Porter",7.5,31956
+"327",11063,"Ølfabrikken",1180921399,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"328",11063,"Ølfabrikken",1180910552,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"329",11063,"Ølfabrikken",1180203892,3,2.5,2.5,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
+"330",11063,"Ølfabrikken",1180081575,5,4,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"331",11063,"Ølfabrikken",1179948016,3.5,3.5,4,"Baltic Porter",4.5,3.5,"Ølfabrikken Porter",7.5,31956
+"332",11063,"Ølfabrikken",1179242440,5,4.5,5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"333",11063,"Ølfabrikken",1179001463,4.5,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"334",11063,"Ølfabrikken",1178431872,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"335",11063,"Ølfabrikken",1176564201,4,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"336",11063,"Ølfabrikken",1175740362,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"337",11063,"Ølfabrikken",1175438911,5,4.5,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"338",11063,"Ølfabrikken",1175335080,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"339",11063,"Ølfabrikken",1174614085,5,4.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"340",11063,"Ølfabrikken",1174354369,4.5,4,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"341",11063,"Ølfabrikken",1173492706,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"342",11063,"Ølfabrikken",1172457302,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"343",11063,"Ølfabrikken",1171509887,3.5,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"344",11063,"Ølfabrikken",1171339953,3.5,4,3.5,"Baltic Porter",3.5,4,"Ølfabrikken Porter",7.5,31956
+"345",11063,"Ølfabrikken",1171181464,4,4.5,4,"Baltic Porter",5,4,"Ølfabrikken Porter",7.5,31956
+"346",11063,"Ølfabrikken",1171123644,3.5,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"347",11063,"Ølfabrikken",1170813786,5,4.5,5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"348",11063,"Ølfabrikken",1170560126,4.5,3.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"349",11063,"Ølfabrikken",1169350200,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"350",11063,"Ølfabrikken",1168999477,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"351",11063,"Ølfabrikken",1164745666,3,3,3,"Baltic Porter",3,3,"Ølfabrikken Porter",7.5,31956
+"352",11063,"Ølfabrikken",1164400260,4.5,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"353",11063,"Ølfabrikken",1163629313,4,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"354",11063,"Ølfabrikken",1160962385,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"355",11063,"Ølfabrikken",1297394390,3.5,4.5,3.5,"Baltic Porter",3,3.5,"Ølfabrikken Porter",7.5,31956
+"356",11063,"Ølfabrikken",1296616683,4.5,3,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"357",11063,"Ølfabrikken",1296092957,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"358",11063,"Ølfabrikken",1295898567,3,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"359",11063,"Ølfabrikken",1293935526,3,4.5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"360",11063,"Ølfabrikken",1292778636,3.5,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"361",11063,"Ølfabrikken",1291582160,4,4,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"362",11063,"Ølfabrikken",1290407021,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"363",11063,"Ølfabrikken",1289436978,5,5,4,"Baltic Porter",5,3.5,"Ølfabrikken Porter",7.5,31956
+"364",11063,"Ølfabrikken",1287009875,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"365",11063,"Ølfabrikken",1285291360,4.5,3.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"366",11063,"Ølfabrikken",1284761537,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"367",11063,"Ølfabrikken",1283543335,4,4,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"368",11063,"Ølfabrikken",1283485401,4.5,4,4,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"369",11063,"Ølfabrikken",1274550375,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"370",11063,"Ølfabrikken",1283455930,4,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"371",11063,"Ølfabrikken",1283141626,3.5,3,4,"Baltic Porter",4,3,"Ølfabrikken Porter",7.5,31956
+"372",11063,"Ølfabrikken",1282954785,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"373",11063,"Ølfabrikken",1281403548,3.5,4,4.5,"Baltic Porter",3.5,3.5,"Ølfabrikken Porter",7.5,31956
+"374",11063,"Ølfabrikken",1281335681,4.5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"375",11063,"Ølfabrikken",1280805266,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"376",11063,"Ølfabrikken",1280609080,3,3,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"377",11063,"Ølfabrikken",1279922699,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"378",11063,"Ølfabrikken",1273768530,5,4,5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"379",11063,"Ølfabrikken",1272861932,4,4.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"380",11063,"Ølfabrikken",1279569192,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"381",11063,"Ølfabrikken",1278459985,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"382",11063,"Ølfabrikken",1277774345,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"383",11063,"Ølfabrikken",1277686965,2.5,3.5,4,"Baltic Porter",4,2,"Ølfabrikken Porter",7.5,31956
+"384",11063,"Ølfabrikken",1277610154,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"385",11063,"Ølfabrikken",1275875014,3.5,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"386",11063,"Ølfabrikken",1275794639,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"387",11063,"Ølfabrikken",1274637981,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"388",11063,"Ølfabrikken",1272857605,4,4,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"389",11063,"Ølfabrikken",1271799792,4,4.5,4,"Baltic Porter",3.5,4.5,"Ølfabrikken Porter",7.5,31956
+"390",11063,"Ølfabrikken",1271207354,4,4.5,5,"Baltic Porter",3,4,"Ølfabrikken Porter",7.5,31956
+"391",11063,"Ølfabrikken",1270859920,4,4,4.5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"392",11063,"Ølfabrikken",1270177520,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"393",11063,"Ølfabrikken",1269750018,4.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"394",11063,"Ølfabrikken",1268691288,4.5,5,4.5,"Baltic Porter",5,5,"Ølfabrikken Porter",7.5,31956
+"395",11063,"Ølfabrikken",1268115237,4.5,4.5,5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"396",11063,"Ølfabrikken",1268076821,4.5,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"397",11063,"Ølfabrikken",1267922886,4,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"398",11063,"Ølfabrikken",1266454398,4,4,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"399",11063,"Ølfabrikken",1266110006,4,4.5,4.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"400",11063,"Ølfabrikken",1265932177,3.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"401",11063,"Ølfabrikken",1265582437,4,4.5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"402",11063,"Ølfabrikken",1265424016,4.5,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"403",11063,"Ølfabrikken",1265206366,4.5,4.5,5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"404",11063,"Ølfabrikken",1264729456,4.5,4.5,3.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"405",11063,"Ølfabrikken",1264604610,5,5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"406",11063,"Ølfabrikken",1261888819,4,4.5,3.5,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"407",11063,"Ølfabrikken",1264303250,4.5,4.5,4.5,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"408",11063,"Ølfabrikken",1264208910,4,4.5,4,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"409",11063,"Ølfabrikken",1263517906,3.5,4,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"410",11063,"Ølfabrikken",1263187462,4.5,4,3.5,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"411",11063,"Ølfabrikken",1263152858,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"412",11063,"Ølfabrikken",1263145122,5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Porter",7.5,31956
+"413",11063,"Ølfabrikken",1262835869,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"414",11063,"Ølfabrikken",1262541270,4,5,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"415",11063,"Ølfabrikken",1262045271,5,3.5,4,"Baltic Porter",4,5,"Ølfabrikken Porter",7.5,31956
+"416",11063,"Ølfabrikken",1261323177,3.5,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"417",11063,"Ølfabrikken",1261316652,4,4,5,"Baltic Porter",4.5,4,"Ølfabrikken Porter",7.5,31956
+"418",11063,"Ølfabrikken",1260338710,4,4.5,4,"Baltic Porter",4,4,"Ølfabrikken Porter",7.5,31956
+"419",11063,"Ølfabrikken",1259517314,4.5,5,4,"Baltic Porter",4.5,5,"Ølfabrikken Porter",7.5,31956
+"420",11063,"Ølfabrikken",1259187754,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"421",11063,"Ølfabrikken",1259030111,4.5,4,4,"Baltic Porter",4,4.5,"Ølfabrikken Porter",7.5,31956
+"422",11063,"Ølfabrikken",1258264798,4.5,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Porter",7.5,31956
+"423",11063,"Ølfabrikken",1228513939,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"424",11063,"Ølfabrikken",1266128577,4,4,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"425",11063,"Ølfabrikken",1265416955,3,3.5,4,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"426",11063,"Ølfabrikken",1258140686,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"427",11063,"Ølfabrikken",1256091944,4.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"428",11063,"Ølfabrikken",1251748675,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"429",11063,"Ølfabrikken",1248287103,3.5,3.5,4,"American Double / Imperial IPA",4,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"430",11063,"Ølfabrikken",1239744361,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"431",11063,"Ølfabrikken",1238027571,3.5,4.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"432",11063,"Ølfabrikken",1231095162,3.5,3.5,4,"American Double / Imperial IPA",3,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"433",11063,"Ølfabrikken",1225542344,3.5,4,5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"434",11063,"Ølfabrikken",1225134396,3,3.5,3,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"435",11063,"Ølfabrikken",1223514931,4,4.5,4,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"436",11063,"Ølfabrikken",1222768017,4,5,4,"American Double / Imperial IPA",5,5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"437",11063,"Ølfabrikken",1222577255,4,4,4,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"438",11063,"Ølfabrikken",1221758330,3,3.5,3,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"439",11063,"Ølfabrikken",1220924244,4,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"440",11063,"Ølfabrikken",1202075303,3.5,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"441",11063,"Ølfabrikken",1218423740,3.5,3.5,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"442",11063,"Ølfabrikken",1217799065,3,4,4.5,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"443",11063,"Ølfabrikken",1217544951,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"444",11063,"Ølfabrikken",1216383646,4,4,4,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"445",11063,"Ølfabrikken",1215999911,4,3,2,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"446",11063,"Ølfabrikken",1215436143,2.5,4,4,"American Double / Imperial IPA",4,2.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"447",11063,"Ølfabrikken",1214966867,4,4.5,4.5,"American Double / Imperial IPA",4.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"448",11063,"Ølfabrikken",1214851290,3,4,4,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"449",11063,"Ølfabrikken",1214700668,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"450",11063,"Ølfabrikken",1211516048,3,4.5,4.5,"American Double / Imperial IPA",3,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"451",11063,"Ølfabrikken",1210702060,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"452",11063,"Ølfabrikken",1208134731,4,4,3,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"453",11063,"Ølfabrikken",1206998756,4.5,4,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"454",11063,"Ølfabrikken",1206340468,4,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"455",11063,"Ølfabrikken",1206226514,3.5,4,5,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"456",11063,"Ølfabrikken",1205974275,4,4,4,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"457",11063,"Ølfabrikken",1199920134,4,3.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"458",11063,"Ølfabrikken",1205792327,3.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"459",11063,"Ølfabrikken",1205024529,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"460",11063,"Ølfabrikken",1203927183,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"461",11063,"Ølfabrikken",1203714810,4,4,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"462",11063,"Ølfabrikken",1203535009,3,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"463",11063,"Ølfabrikken",1202426301,5,4,4,"American Double / Imperial IPA",4,5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"464",11063,"Ølfabrikken",1202316995,5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"465",11063,"Ølfabrikken",1202091110,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"466",11063,"Ølfabrikken",1201752412,3.5,4,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"467",11063,"Ølfabrikken",1201573118,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"468",11063,"Ølfabrikken",1201023619,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"469",11063,"Ølfabrikken",1200880413,3,4,4.5,"American Double / Imperial IPA",3.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"470",11063,"Ølfabrikken",1200575861,4,4.5,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"471",11063,"Ølfabrikken",1239563646,4,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"472",11063,"Ølfabrikken",1199662134,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"473",11063,"Ølfabrikken",1199169820,3.5,3.5,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"474",11063,"Ølfabrikken",1199031182,4,4.5,4,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"475",11063,"Ølfabrikken",1198794749,3.5,4.5,5,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"476",11063,"Ølfabrikken",1198790621,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"477",11063,"Ølfabrikken",1197947294,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"478",11063,"Ølfabrikken",1197945713,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"479",11063,"Ølfabrikken",1197498362,4,4.5,3.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"480",11063,"Ølfabrikken",1197236638,4,4,3.5,"American Double / Imperial IPA",4.5,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"481",11063,"Ølfabrikken",1196816918,4,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"482",11063,"Ølfabrikken",1196645082,4,3.5,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"483",11063,"Ølfabrikken",1196227429,3,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"484",11063,"Ølfabrikken",1196115469,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"485",11063,"Ølfabrikken",1195738840,4.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"486",11063,"Ølfabrikken",1195665606,3,3.5,3.5,"American Double / Imperial IPA",3,3,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"487",11063,"Ølfabrikken",1195093144,3.5,4,4,"American Double / Imperial IPA",4,4,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"488",11063,"Ølfabrikken",1194534314,4,4,4,"American Double / Imperial IPA",3.5,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"489",11063,"Ølfabrikken",1193269487,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"490",11063,"Ølfabrikken",1192138830,3.5,4,2,"American Double / Imperial IPA",4,3.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"491",11063,"Ølfabrikken",1179063019,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ølfabrikken 100 Gram India Pale Ale",8.5,36792
+"492",11063,"Ølfabrikken",1293425168,4,4.5,3.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"493",11063,"Ølfabrikken",1292486644,3.5,3.5,4,"American Strong Ale",3.5,3,"Ølfabrikken Jule Ale",8,36433
+"494",11063,"Ølfabrikken",1277994905,4,4,4,"American Strong Ale",4.5,4,"Ølfabrikken Jule Ale",8,36433
+"495",11063,"Ølfabrikken",1275270385,3.5,3.5,4,"American Strong Ale",4,3.5,"Ølfabrikken Jule Ale",8,36433
+"496",11063,"Ølfabrikken",1270253993,3.5,3.5,3,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"497",11063,"Ølfabrikken",1236413683,4,4,4,"American Strong Ale",4.5,4.5,"Ølfabrikken Jule Ale",8,36433
+"498",11063,"Ølfabrikken",1269558355,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Ølfabrikken Jule Ale",8,36433
+"499",11063,"Ølfabrikken",1265589127,2.5,3.5,3.5,"American Strong Ale",3,2.5,"Ølfabrikken Jule Ale",8,36433
+"500",11063,"Ølfabrikken",1264975461,4,4,4.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"501",11063,"Ølfabrikken",1263232944,4.5,4,3.5,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
+"502",11063,"Ølfabrikken",1261956867,3.5,3.5,3.5,"American Strong Ale",4,3,"Ølfabrikken Jule Ale",8,36433
+"503",11063,"Ølfabrikken",1260738750,4.5,3.5,4,"American Strong Ale",3,4,"Ølfabrikken Jule Ale",8,36433
+"504",11063,"Ølfabrikken",1259266512,3.5,3.5,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"505",11063,"Ølfabrikken",1258991379,4,4,4.5,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"506",11063,"Ølfabrikken",1251460080,2.5,4,4.5,"American Strong Ale",2,2,"Ølfabrikken Jule Ale",8,36433
+"507",11063,"Ølfabrikken",1245344311,3.5,4,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"508",11063,"Ølfabrikken",1236225178,4,3.5,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"509",11063,"Ølfabrikken",1235994348,3.5,3,4,"American Strong Ale",2,3,"Ølfabrikken Jule Ale",8,36433
+"510",11063,"Ølfabrikken",1232769358,3,3.5,4,"American Strong Ale",4,3.5,"Ølfabrikken Jule Ale",8,36433
+"511",11063,"Ølfabrikken",1232712626,3.5,4,4.5,"American Strong Ale",5,4,"Ølfabrikken Jule Ale",8,36433
+"512",11063,"Ølfabrikken",1231607709,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
+"513",11063,"Ølfabrikken",1231510684,4,4,4,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"514",11063,"Ølfabrikken",1231244988,3.5,3.5,4.5,"American Strong Ale",3.5,4,"Ølfabrikken Jule Ale",8,36433
+"515",11063,"Ølfabrikken",1230842393,4,4,4.5,"American Strong Ale",4.5,4,"Ølfabrikken Jule Ale",8,36433
+"516",11063,"Ølfabrikken",1229982873,4.5,4,3.5,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
+"517",11063,"Ølfabrikken",1229724036,4,4.5,4,"American Strong Ale",3,4.5,"Ølfabrikken Jule Ale",8,36433
+"518",11063,"Ølfabrikken",1229221075,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
+"519",11063,"Ølfabrikken",1228067020,4,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"520",11063,"Ølfabrikken",1226446277,4,3.5,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"521",11063,"Ølfabrikken",1179062932,4.5,4,4,"American Strong Ale",4,4,"Ølfabrikken Jule Ale",8,36433
+"522",11063,"Ølfabrikken",1177187473,4,4,4,"American Strong Ale",4,4.5,"Ølfabrikken Jule Ale",8,36433
+"523",11063,"Ølfabrikken",1320956735,4,3.5,4.5,"Baltic Porter",5,4,"Ølfabrikken Winter Porter",11,41501
+"524",11063,"Ølfabrikken",1295685506,4.5,3,5,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
+"525",11063,"Ølfabrikken",1288405172,3.5,4,4,"Baltic Porter",4,3.5,"Ølfabrikken Winter Porter",11,41501
+"526",11063,"Ølfabrikken",1283819749,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"527",11063,"Ølfabrikken",1262397232,4,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
+"528",11063,"Ølfabrikken",1260594511,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"529",11063,"Ølfabrikken",1240881691,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"530",11063,"Ølfabrikken",1238656182,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"531",11063,"Ølfabrikken",1236144284,4,4.5,4,"Baltic Porter",4,3.5,"Ølfabrikken Winter Porter",11,41501
+"532",11063,"Ølfabrikken",1235251908,4.5,4.5,4,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
+"533",11063,"Ølfabrikken",1233722488,4,4,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"534",11063,"Ølfabrikken",1233324761,4,4,4.5,"Baltic Porter",4,4.5,"Ølfabrikken Winter Porter",11,41501
+"535",11063,"Ølfabrikken",1231640042,5,4.5,4.5,"Baltic Porter",5,4.5,"Ølfabrikken Winter Porter",11,41501
+"536",11063,"Ølfabrikken",1231034416,4,4,4.5,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"537",11063,"Ølfabrikken",1230267103,4,4.5,4,"Baltic Porter",4.5,4.5,"Ølfabrikken Winter Porter",11,41501
+"538",11063,"Ølfabrikken",1230005421,4.5,4.5,3.5,"Baltic Porter",4.5,5,"Ølfabrikken Winter Porter",11,41501
+"539",11063,"Ølfabrikken",1205184058,4,4.5,4,"Baltic Porter",4,4.5,"Ølfabrikken Winter Porter",11,41501

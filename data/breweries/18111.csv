@@ -1,60 +1,52 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",18111,"4 Pines Brewing Company",1318122338,4,3.5,3,"Märzen / Oktoberfest",3.5,4,"4 Pines Märzen",NA,73940
-"2",18111,"4 Pines Brewing Company",1243150726,3.5,4,3.5,"English India Pale Ale (IPA)",3,3.5,"4 Pines IPA",4.5,49997
-"3",18111,"4 Pines Brewing Company",1326156933,4,4,4,"Irish Dry Stout",4,4.5,"4 Pines Dry Stout",5.1,62998
-"4",18111,"4 Pines Brewing Company",1323742985,3.5,4.5,3.5,"Irish Dry Stout",3.5,3.5,"4 Pines Dry Stout",5.1,62998
-"5",18111,"4 Pines Brewing Company",1322031765,2.5,2,2.5,"Irish Dry Stout",3,3,"4 Pines Dry Stout",5.1,62998
-"6",18111,"4 Pines Brewing Company",1318122112,4,4,4,"Irish Dry Stout",3,4,"4 Pines Dry Stout",5.1,62998
-"7",18111,"4 Pines Brewing Company",1313231148,3.5,3.5,4,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
-"8",18111,"4 Pines Brewing Company",1311257940,3.5,4,3.5,"Irish Dry Stout",3.5,3.5,"4 Pines Dry Stout",5.1,62998
-"9",18111,"4 Pines Brewing Company",1308534434,4,4,4,"Irish Dry Stout",4,3.5,"4 Pines Dry Stout",5.1,62998
-"10",18111,"4 Pines Brewing Company",1306239660,4,4,4,"Irish Dry Stout",3.5,4,"4 Pines Dry Stout",5.1,62998
-"11",18111,"4 Pines Brewing Company",1304161908,4.5,4,4,"Irish Dry Stout",4.5,4,"4 Pines Dry Stout",5.1,62998
-"12",18111,"4 Pines Brewing Company",1301822925,4.5,3.5,4.5,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
-"13",18111,"4 Pines Brewing Company",1298956764,4,4,4,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
-"14",18111,"4 Pines Brewing Company",1293551484,4.5,4,4,"Irish Dry Stout",4.5,4.5,"4 Pines Dry Stout",5.1,62998
-"15",18111,"4 Pines Brewing Company",1288443254,4,4,4.5,"Irish Dry Stout",4,4.5,"4 Pines Dry Stout",5.1,62998
-"16",18111,"4 Pines Brewing Company",1322227919,3,3,3,"Hefeweizen",3,3.5,"4 Pines Hefeweizen",5.2,44992
-"17",18111,"4 Pines Brewing Company",1315124877,4.5,4.5,4.5,"Hefeweizen",5,4.5,"4 Pines Hefeweizen",5.2,44992
-"18",18111,"4 Pines Brewing Company",1311333849,3.5,4,4,"Hefeweizen",3.5,3,"4 Pines Hefeweizen",5.2,44992
-"19",18111,"4 Pines Brewing Company",1308744830,3.5,3.5,3,"Hefeweizen",3,2.5,"4 Pines Hefeweizen",5.2,44992
-"20",18111,"4 Pines Brewing Company",1306322102,3,3.5,3,"Hefeweizen",3,3.5,"4 Pines Hefeweizen",5.2,44992
-"21",18111,"4 Pines Brewing Company",1288349946,4,3.5,4,"Hefeweizen",4,3.5,"4 Pines Hefeweizen",5.2,44992
-"22",18111,"4 Pines Brewing Company",1243148167,3.5,4,4,"Hefeweizen",3.5,2.5,"4 Pines Hefeweizen",5.2,44992
-"23",18111,"4 Pines Brewing Company",1318122547,3.5,4,4,"Dunkelweizen",2.5,3.5,"4 Pines Dunkelweizen",NA,73942
-"24",18111,"4 Pines Brewing Company",1318121473,3,3,3,"German Pilsener",2.5,3.5,"4 Pines German Pilsener",NA,73937
-"25",18111,"4 Pines Brewing Company",1318121730,3.5,4,4,"Kristalweizen",3.5,3,"4 Pines Kristalweizen",NA,73938
-"26",18111,"4 Pines Brewing Company",1288443093,3,2,4,"Extra Special / Strong Bitter (ESB)",3.5,2.5,"4 Pines ESB",5.6,49996
-"27",18111,"4 Pines Brewing Company",1287627368,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3,3.5,"4 Pines ESB",5.6,49996
-"28",18111,"4 Pines Brewing Company",1287277600,4,3,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"4 Pines ESB",5.6,49996
-"29",18111,"4 Pines Brewing Company",1286758694,3.5,2.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"4 Pines ESB",5.6,49996
-"30",18111,"4 Pines Brewing Company",1243149514,3.5,3.5,5,"Extra Special / Strong Bitter (ESB)",3.5,3,"4 Pines ESB",5.6,49996
-"31",18111,"4 Pines Brewing Company",1326156829,4,4,4,"American Pale Ale (APA)",4,4,"4 Pines Pale Ale",5.1,44993
-"32",18111,"4 Pines Brewing Company",1322821516,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
-"33",18111,"4 Pines Brewing Company",1322227631,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
-"34",18111,"4 Pines Brewing Company",1318121947,3.5,4,4,"American Pale Ale (APA)",3.5,3,"4 Pines Pale Ale",5.1,44993
-"35",18111,"4 Pines Brewing Company",1310123962,3.5,4,4,"American Pale Ale (APA)",4,3.5,"4 Pines Pale Ale",5.1,44993
-"36",18111,"4 Pines Brewing Company",1307248722,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
-"37",18111,"4 Pines Brewing Company",1306147256,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
-"38",18111,"4 Pines Brewing Company",1288442396,4,4,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
-"39",18111,"4 Pines Brewing Company",1255306164,4,3.5,4.5,"American Pale Ale (APA)",4,3,"4 Pines Pale Ale",5.1,44993
-"40",18111,"4 Pines Brewing Company",1243148975,4,4,3,"American Pale Ale (APA)",3.5,4,"4 Pines Pale Ale",5.1,44993
-"41",18111,"4 Pines Brewing Company",1326156895,3,3,4.5,"Kölsch",3.5,3,"4 Pines Kolsch",4.7,44496
-"42",18111,"4 Pines Brewing Company",1326017071,3.5,3,3.5,"Kölsch",3.5,3.5,"4 Pines Kolsch",4.7,44496
-"43",18111,"4 Pines Brewing Company",1325741304,4.5,3,3.5,"Kölsch",3,4.5,"4 Pines Kolsch",4.7,44496
-"44",18111,"4 Pines Brewing Company",1323743383,3.5,3.5,4.5,"Kölsch",4,3.5,"4 Pines Kolsch",4.7,44496
-"45",18111,"4 Pines Brewing Company",1318141518,3.5,3.5,3,"Kölsch",3.5,3.5,"4 Pines Kolsch",4.7,44496
-"46",18111,"4 Pines Brewing Company",1318121216,3.5,3.5,3,"Kölsch",3,3.5,"4 Pines Kolsch",4.7,44496
-"47",18111,"4 Pines Brewing Company",1313154021,4,4,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
-"48",18111,"4 Pines Brewing Company",1312448290,4,4,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
-"49",18111,"4 Pines Brewing Company",1310274495,3,3.5,3,"Kölsch",3.5,2.5,"4 Pines Kolsch",4.7,44496
-"50",18111,"4 Pines Brewing Company",1308912925,3,3,3,"Kölsch",2.5,2.5,"4 Pines Kolsch",4.7,44496
-"51",18111,"4 Pines Brewing Company",1308338666,3.5,3,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
-"52",18111,"4 Pines Brewing Company",1306746310,3,3,3.5,"Kölsch",3,3,"4 Pines Kolsch",4.7,44496
-"53",18111,"4 Pines Brewing Company",1306144504,3.5,3,3.5,"Kölsch",3,3.5,"4 Pines Kolsch",4.7,44496
-"54",18111,"4 Pines Brewing Company",1301728411,4,4.5,4,"Kölsch",4.5,4,"4 Pines Kolsch",4.7,44496
-"55",18111,"4 Pines Brewing Company",1288350428,4,3.5,4.5,"Kölsch",3.5,4,"4 Pines Kolsch",4.7,44496
-"56",18111,"4 Pines Brewing Company",1219471990,3.5,3.5,3.5,"Kölsch",3.5,3,"4 Pines Kolsch",4.7,44496
-"57",18111,"4 Pines Brewing Company",1298782268,4,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"4 Pines Wee Heavy",7.8,66365
-"58",18111,"4 Pines Brewing Company",1298027756,4,2.5,4.5,"Scotch Ale / Wee Heavy",4,4,"4 Pines Wee Heavy",7.8,66365
-"59",18111,"4 Pines Brewing Company",1297940720,3.5,4.5,4,"Scotch Ale / Wee Heavy",3,4,"4 Pines Wee Heavy",7.8,66365
+"1",18111,"4 Pines Brewing Company",1326156933,4,4,4,"Irish Dry Stout",4,4.5,"4 Pines Dry Stout",5.1,62998
+"2",18111,"4 Pines Brewing Company",1323742985,3.5,4.5,3.5,"Irish Dry Stout",3.5,3.5,"4 Pines Dry Stout",5.1,62998
+"3",18111,"4 Pines Brewing Company",1322031765,2.5,2,2.5,"Irish Dry Stout",3,3,"4 Pines Dry Stout",5.1,62998
+"4",18111,"4 Pines Brewing Company",1318122112,4,4,4,"Irish Dry Stout",3,4,"4 Pines Dry Stout",5.1,62998
+"5",18111,"4 Pines Brewing Company",1313231148,3.5,3.5,4,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
+"6",18111,"4 Pines Brewing Company",1311257940,3.5,4,3.5,"Irish Dry Stout",3.5,3.5,"4 Pines Dry Stout",5.1,62998
+"7",18111,"4 Pines Brewing Company",1308534434,4,4,4,"Irish Dry Stout",4,3.5,"4 Pines Dry Stout",5.1,62998
+"8",18111,"4 Pines Brewing Company",1306239660,4,4,4,"Irish Dry Stout",3.5,4,"4 Pines Dry Stout",5.1,62998
+"9",18111,"4 Pines Brewing Company",1304161908,4.5,4,4,"Irish Dry Stout",4.5,4,"4 Pines Dry Stout",5.1,62998
+"10",18111,"4 Pines Brewing Company",1301822925,4.5,3.5,4.5,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
+"11",18111,"4 Pines Brewing Company",1298956764,4,4,4,"Irish Dry Stout",4,4,"4 Pines Dry Stout",5.1,62998
+"12",18111,"4 Pines Brewing Company",1293551484,4.5,4,4,"Irish Dry Stout",4.5,4.5,"4 Pines Dry Stout",5.1,62998
+"13",18111,"4 Pines Brewing Company",1288443254,4,4,4.5,"Irish Dry Stout",4,4.5,"4 Pines Dry Stout",5.1,62998
+"14",18111,"4 Pines Brewing Company",1322227919,3,3,3,"Hefeweizen",3,3.5,"4 Pines Hefeweizen",5.2,44992
+"15",18111,"4 Pines Brewing Company",1315124877,4.5,4.5,4.5,"Hefeweizen",5,4.5,"4 Pines Hefeweizen",5.2,44992
+"16",18111,"4 Pines Brewing Company",1311333849,3.5,4,4,"Hefeweizen",3.5,3,"4 Pines Hefeweizen",5.2,44992
+"17",18111,"4 Pines Brewing Company",1308744830,3.5,3.5,3,"Hefeweizen",3,2.5,"4 Pines Hefeweizen",5.2,44992
+"18",18111,"4 Pines Brewing Company",1306322102,3,3.5,3,"Hefeweizen",3,3.5,"4 Pines Hefeweizen",5.2,44992
+"19",18111,"4 Pines Brewing Company",1288349946,4,3.5,4,"Hefeweizen",4,3.5,"4 Pines Hefeweizen",5.2,44992
+"20",18111,"4 Pines Brewing Company",1243148167,3.5,4,4,"Hefeweizen",3.5,2.5,"4 Pines Hefeweizen",5.2,44992
+"21",18111,"4 Pines Brewing Company",1288443093,3,2,4,"Extra Special / Strong Bitter (ESB)",3.5,2.5,"4 Pines ESB",5.6,49996
+"22",18111,"4 Pines Brewing Company",1287627368,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3,3.5,"4 Pines ESB",5.6,49996
+"23",18111,"4 Pines Brewing Company",1287277600,4,3,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"4 Pines ESB",5.6,49996
+"24",18111,"4 Pines Brewing Company",1286758694,3.5,2.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"4 Pines ESB",5.6,49996
+"25",18111,"4 Pines Brewing Company",1243149514,3.5,3.5,5,"Extra Special / Strong Bitter (ESB)",3.5,3,"4 Pines ESB",5.6,49996
+"26",18111,"4 Pines Brewing Company",1326156829,4,4,4,"American Pale Ale (APA)",4,4,"4 Pines Pale Ale",5.1,44993
+"27",18111,"4 Pines Brewing Company",1322821516,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
+"28",18111,"4 Pines Brewing Company",1322227631,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
+"29",18111,"4 Pines Brewing Company",1318121947,3.5,4,4,"American Pale Ale (APA)",3.5,3,"4 Pines Pale Ale",5.1,44993
+"30",18111,"4 Pines Brewing Company",1310123962,3.5,4,4,"American Pale Ale (APA)",4,3.5,"4 Pines Pale Ale",5.1,44993
+"31",18111,"4 Pines Brewing Company",1307248722,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
+"32",18111,"4 Pines Brewing Company",1306147256,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
+"33",18111,"4 Pines Brewing Company",1288442396,4,4,4,"American Pale Ale (APA)",3.5,3.5,"4 Pines Pale Ale",5.1,44993
+"34",18111,"4 Pines Brewing Company",1255306164,4,3.5,4.5,"American Pale Ale (APA)",4,3,"4 Pines Pale Ale",5.1,44993
+"35",18111,"4 Pines Brewing Company",1243148975,4,4,3,"American Pale Ale (APA)",3.5,4,"4 Pines Pale Ale",5.1,44993
+"36",18111,"4 Pines Brewing Company",1326156895,3,3,4.5,"Kölsch",3.5,3,"4 Pines Kolsch",4.7,44496
+"37",18111,"4 Pines Brewing Company",1326017071,3.5,3,3.5,"Kölsch",3.5,3.5,"4 Pines Kolsch",4.7,44496
+"38",18111,"4 Pines Brewing Company",1325741304,4.5,3,3.5,"Kölsch",3,4.5,"4 Pines Kolsch",4.7,44496
+"39",18111,"4 Pines Brewing Company",1323743383,3.5,3.5,4.5,"Kölsch",4,3.5,"4 Pines Kolsch",4.7,44496
+"40",18111,"4 Pines Brewing Company",1318141518,3.5,3.5,3,"Kölsch",3.5,3.5,"4 Pines Kolsch",4.7,44496
+"41",18111,"4 Pines Brewing Company",1318121216,3.5,3.5,3,"Kölsch",3,3.5,"4 Pines Kolsch",4.7,44496
+"42",18111,"4 Pines Brewing Company",1313154021,4,4,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
+"43",18111,"4 Pines Brewing Company",1312448290,4,4,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
+"44",18111,"4 Pines Brewing Company",1310274495,3,3.5,3,"Kölsch",3.5,2.5,"4 Pines Kolsch",4.7,44496
+"45",18111,"4 Pines Brewing Company",1308912925,3,3,3,"Kölsch",2.5,2.5,"4 Pines Kolsch",4.7,44496
+"46",18111,"4 Pines Brewing Company",1308338666,3.5,3,4,"Kölsch",4,4,"4 Pines Kolsch",4.7,44496
+"47",18111,"4 Pines Brewing Company",1306746310,3,3,3.5,"Kölsch",3,3,"4 Pines Kolsch",4.7,44496
+"48",18111,"4 Pines Brewing Company",1306144504,3.5,3,3.5,"Kölsch",3,3.5,"4 Pines Kolsch",4.7,44496
+"49",18111,"4 Pines Brewing Company",1301728411,4,4.5,4,"Kölsch",4.5,4,"4 Pines Kolsch",4.7,44496
+"50",18111,"4 Pines Brewing Company",1288350428,4,3.5,4.5,"Kölsch",3.5,4,"4 Pines Kolsch",4.7,44496
+"51",18111,"4 Pines Brewing Company",1219471990,3.5,3.5,3.5,"Kölsch",3.5,3,"4 Pines Kolsch",4.7,44496

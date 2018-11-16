@@ -1,799 +1,749 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",136,"Utah Brewers Cooperative",1058274939,4,3,3.5,"Hefeweizen",3,3.5,"Wasatch Hefe-Weizen",4,1684
 "2",136,"Utah Brewers Cooperative",1240098537,4,4,4,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
-"3",136,"Utah Brewers Cooperative",1064373744,3,3,5,"Extra Special / Strong Bitter (ESB)",3,3.5,"Squatters ESB",4,5649
-"4",136,"Utah Brewers Cooperative",1030197045,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Squatters ESB",4,5649
-"5",136,"Utah Brewers Cooperative",1164432455,4,3.5,3.5,"American Amber / Red Ale",4,4,"Wasatch Unofficial Amber Ale",4,1897
-"6",136,"Utah Brewers Cooperative",1101084897,4,4,3.5,"Vienna Lager",3.5,4,"Squatters Vienna Lager",4,3795
-"7",136,"Utah Brewers Cooperative",1033651777,3.5,4,3.5,"Hefeweizen",3.5,4,"Wasatch Hefe-Weizen",4,1684
-"8",136,"Utah Brewers Cooperative",1030384749,4,4,4,"Hefeweizen",4,4,"Wasatch Hefe-Weizen",4,1684
-"9",136,"Utah Brewers Cooperative",1315631191,3,2.5,3,"Doppelbock",2.5,3,"Wasatch Devastator Double Bock",8,40200
-"10",136,"Utah Brewers Cooperative",1118535669,4,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
-"11",136,"Utah Brewers Cooperative",1109651866,2.5,2,3,"American Amber / Red Ale",2.5,2,"Wasatch Unofficial Amber Ale",4,1897
-"12",136,"Utah Brewers Cooperative",1101097814,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
-"13",136,"Utah Brewers Cooperative",1065150957,3.5,3,3,"American Amber / Red Ale",4,3.5,"Wasatch Unofficial Amber Ale",4,1897
-"14",136,"Utah Brewers Cooperative",1035730960,3,3,3,"American Amber / Red Ale",2.5,3,"Wasatch Unofficial Amber Ale",4,1897
-"15",136,"Utah Brewers Cooperative",1030267296,3.5,4,4,"American Amber / Red Ale",3.5,3,"Wasatch Unofficial Amber Ale",4,1897
-"16",136,"Utah Brewers Cooperative",1004486401,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
-"17",136,"Utah Brewers Cooperative",1322625692,3.5,3.5,4,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
-"18",136,"Utah Brewers Cooperative",1320593344,3.5,4,3,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
-"19",136,"Utah Brewers Cooperative",1318374755,4,5,3.5,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
-"20",136,"Utah Brewers Cooperative",1317141252,3.5,3.5,3.5,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
-"21",136,"Utah Brewers Cooperative",1317083230,4,4,4,"Pumpkin Ale",4,3.5,"Wasatch Pumpkin Ale",4,33258
-"22",136,"Utah Brewers Cooperative",1316981401,4,4,4,"Pumpkin Ale",4,4.5,"Wasatch Pumpkin Ale",4,33258
-"23",136,"Utah Brewers Cooperative",1316730006,4,4.5,3.5,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
-"24",136,"Utah Brewers Cooperative",1316625829,4.5,4.5,3.5,"Pumpkin Ale",3,5,"Wasatch Pumpkin Ale",4,33258
-"25",136,"Utah Brewers Cooperative",1288192232,2,4.5,3,"Pumpkin Ale",2,1,"Wasatch Pumpkin Ale",4,33258
-"26",136,"Utah Brewers Cooperative",1287897630,4,4.5,3.5,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
-"27",136,"Utah Brewers Cooperative",1287448853,3.5,4.5,4,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
-"28",136,"Utah Brewers Cooperative",1287355984,3,3.5,3.5,"Pumpkin Ale",3.5,2.5,"Wasatch Pumpkin Ale",4,33258
-"29",136,"Utah Brewers Cooperative",1286337060,4,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
-"30",136,"Utah Brewers Cooperative",1285256511,4.5,4,4,"Pumpkin Ale",4,4.5,"Wasatch Pumpkin Ale",4,33258
-"31",136,"Utah Brewers Cooperative",1284782288,4,4,4,"Pumpkin Ale",2,3.5,"Wasatch Pumpkin Ale",4,33258
-"32",136,"Utah Brewers Cooperative",1283652986,3,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
-"33",136,"Utah Brewers Cooperative",1223231555,4,4,4,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
-"34",136,"Utah Brewers Cooperative",1190949149,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Wasatch Pumpkin Ale",4,33258
-"35",136,"Utah Brewers Cooperative",1174519573,4,4,4,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
-"36",136,"Utah Brewers Cooperative",1171842692,4,4,3.5,"Pumpkin Ale",4,3.5,"Wasatch Pumpkin Ale",4,33258
-"37",136,"Utah Brewers Cooperative",1171786219,4,3,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
-"38",136,"Utah Brewers Cooperative",1169435216,3,3.5,3.5,"Pumpkin Ale",3,2.5,"Wasatch Pumpkin Ale",4,33258
-"39",136,"Utah Brewers Cooperative",1166886502,4,3,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
-"40",136,"Utah Brewers Cooperative",1246400858,4,3.5,3.5,"Kölsch",3.5,3.5,"Wasatch Summer Twilight",4,49249
-"41",136,"Utah Brewers Cooperative",1243186562,4,3.5,3.5,"Kölsch",4,4,"Wasatch Summer Twilight",4,49249
-"42",136,"Utah Brewers Cooperative",1166278244,3.5,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
-"43",136,"Utah Brewers Cooperative",1166141402,4,4,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
-"44",136,"Utah Brewers Cooperative",1162083228,3,4,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
-"45",136,"Utah Brewers Cooperative",1161045530,4,3.5,4,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
-"46",136,"Utah Brewers Cooperative",1277402591,4,3.5,3.5,"Kölsch",3.5,4,"Wasatch Summer Twilight",4,49249
-"47",136,"Utah Brewers Cooperative",1276134794,5,4,4,"Kölsch",4.5,5,"Wasatch Summer Twilight",4,49249
-"48",136,"Utah Brewers Cooperative",1252878212,4,3,3.5,"Kölsch",3.5,3.5,"Wasatch Summer Twilight",4,49249
-"49",136,"Utah Brewers Cooperative",1247723784,3.5,3,3.5,"Kölsch",4,3.5,"Wasatch Summer Twilight",4,49249
-"50",136,"Utah Brewers Cooperative",1065062396,3.5,3,3,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
-"51",136,"Utah Brewers Cooperative",1242948788,4,3,3.5,"Kölsch",3,3.5,"Wasatch Summer Twilight",4,49249
-"52",136,"Utah Brewers Cooperative",1240156419,4,3.5,3.5,"Kölsch",4,3,"Wasatch Summer Twilight",4,49249
-"53",136,"Utah Brewers Cooperative",1240106152,4,3.5,3.5,"Kölsch",4,4,"Wasatch Summer Twilight",4,49249
-"54",136,"Utah Brewers Cooperative",1101761939,4,4,4,"Winter Warmer",4,4,"Squatters Revelation Ale",4,20946
-"55",136,"Utah Brewers Cooperative",1325462014,4,4,4,"American Amber / Red Ale",4,3.5,"Squatters Big Cottonwood",5.75,72090
-"56",136,"Utah Brewers Cooperative",1324250494,4,4,3.5,"American Amber / Red Ale",3.5,4,"Squatters Big Cottonwood",5.75,72090
-"57",136,"Utah Brewers Cooperative",1317051905,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Squatters Big Cottonwood",5.75,72090
-"58",136,"Utah Brewers Cooperative",1313347319,4,3.5,4.5,"American Amber / Red Ale",4,4,"Squatters Big Cottonwood",5.75,72090
-"59",136,"Utah Brewers Cooperative",1267158499,3.5,4.5,4,"American Stout",4,4,"Squatters Nitro Espresso Stout",4,20872
-"60",136,"Utah Brewers Cooperative",1176583994,3.5,4,4.5,"American Stout",2.5,3.5,"Squatters Nitro Espresso Stout",4,20872
-"61",136,"Utah Brewers Cooperative",1101761632,4,3.5,4,"American Stout",4,4,"Squatters Nitro Espresso Stout",4,20872
-"62",136,"Utah Brewers Cooperative",1101095357,4.5,3.5,4,"American Stout",4,4.5,"Squatters Nitro Espresso Stout",4,20872
-"63",136,"Utah Brewers Cooperative",1292913332,3.5,3,2.5,"Fruit / Vegetable Beer",3,4,"Wasatch Raspberry Wheat Beer",4,10862
-"64",136,"Utah Brewers Cooperative",1186939728,4,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Wasatch Raspberry Wheat Beer",4,10862
-"65",136,"Utah Brewers Cooperative",1186803577,3,3,3,"Fruit / Vegetable Beer",2.5,3,"Wasatch Raspberry Wheat Beer",4,10862
-"66",136,"Utah Brewers Cooperative",1186455373,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Raspberry Wheat Beer",4,10862
-"67",136,"Utah Brewers Cooperative",1183848740,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Raspberry Wheat Beer",4,10862
-"68",136,"Utah Brewers Cooperative",1142732247,3,3,3,"Fruit / Vegetable Beer",3,3,"Wasatch Raspberry Wheat Beer",4,10862
-"69",136,"Utah Brewers Cooperative",1065150698,2.5,3,4,"Fruit / Vegetable Beer",3,3,"Wasatch Raspberry Wheat Beer",4,10862
-"70",136,"Utah Brewers Cooperative",1216214157,4,4,3.5,"Hefeweizen",3.5,4,"Wasatch Hefe-Weizen",4,1684
-"71",136,"Utah Brewers Cooperative",1199001659,3.5,3.5,4,"Hefeweizen",4,3.5,"Wasatch Hefe-Weizen",4,1684
-"72",136,"Utah Brewers Cooperative",1151614976,3,2,2,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
-"73",136,"Utah Brewers Cooperative",1002758401,4,3,4,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
-"74",136,"Utah Brewers Cooperative",1205304471,4.5,4.5,4.5,"Tripel",5,4.5,"Squatters Ava Lee",9,41518
-"75",136,"Utah Brewers Cooperative",1321382663,3,3,4,"American Blonde Ale",3,3,"Wasatch Little Slammers Golden Ale",5.2,75245
-"76",136,"Utah Brewers Cooperative",1321283950,3.5,3.5,3.5,"American Blonde Ale",3.5,3,"Wasatch Little Slammers Golden Ale",5.2,75245
-"77",136,"Utah Brewers Cooperative",1319958279,4,4.5,4.5,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"78",136,"Utah Brewers Cooperative",1313961580,4,4.5,4.5,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"79",136,"Utah Brewers Cooperative",1306539468,3.5,3.5,4,"American IPA",3.5,3,"Squatters India Pale Ale",6,3799
-"80",136,"Utah Brewers Cooperative",1300132062,3.5,3,4.5,"American IPA",4.5,4,"Squatters India Pale Ale",6,3799
-"81",136,"Utah Brewers Cooperative",1298839867,3.5,4,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"82",136,"Utah Brewers Cooperative",1259635258,4,3.5,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"83",136,"Utah Brewers Cooperative",1252602471,4,4.5,4,"American IPA",3,4,"Squatters India Pale Ale",6,3799
-"84",136,"Utah Brewers Cooperative",1243712417,4,3.5,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"85",136,"Utah Brewers Cooperative",1238118497,4,4,4.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"86",136,"Utah Brewers Cooperative",1233283614,4,3.5,3.5,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"87",136,"Utah Brewers Cooperative",1232070605,4,3.5,4,"American IPA",3,3.5,"Squatters India Pale Ale",6,3799
-"88",136,"Utah Brewers Cooperative",1226978740,4,4,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"89",136,"Utah Brewers Cooperative",1223160567,3,2.5,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"90",136,"Utah Brewers Cooperative",1220013922,4,3.5,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"91",136,"Utah Brewers Cooperative",1216049844,5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
-"92",136,"Utah Brewers Cooperative",1173727078,2.5,3.5,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
-"93",136,"Utah Brewers Cooperative",1205297129,3.5,3.5,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"94",136,"Utah Brewers Cooperative",1202264259,3,3,3,"American IPA",3.5,3,"Squatters India Pale Ale",6,3799
-"95",136,"Utah Brewers Cooperative",1198600107,3,3.5,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
-"96",136,"Utah Brewers Cooperative",1198449259,4,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
-"97",136,"Utah Brewers Cooperative",1192999020,4,4,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"98",136,"Utah Brewers Cooperative",1190578753,3.5,3,3,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"99",136,"Utah Brewers Cooperative",1188003746,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"100",136,"Utah Brewers Cooperative",1185002321,4.5,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"101",136,"Utah Brewers Cooperative",1173450915,4.5,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"102",136,"Utah Brewers Cooperative",1169090452,4,3.5,3.5,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"103",136,"Utah Brewers Cooperative",1168732843,4.5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
-"104",136,"Utah Brewers Cooperative",1167021523,3.5,3.5,4,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"105",136,"Utah Brewers Cooperative",1164909793,4,4,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
-"106",136,"Utah Brewers Cooperative",1161401439,3,3,3,"American IPA",3,3,"Squatters India Pale Ale",6,3799
-"107",136,"Utah Brewers Cooperative",1156967846,3.5,4,3,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"108",136,"Utah Brewers Cooperative",1156290316,3,3,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
-"109",136,"Utah Brewers Cooperative",1154211559,4,4.5,4,"American IPA",3,4,"Squatters India Pale Ale",6,3799
-"110",136,"Utah Brewers Cooperative",1153190002,5,5,5,"American IPA",4.5,5,"Squatters India Pale Ale",6,3799
-"111",136,"Utah Brewers Cooperative",1151443677,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"112",136,"Utah Brewers Cooperative",1150171041,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"113",136,"Utah Brewers Cooperative",1148003534,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"114",136,"Utah Brewers Cooperative",1147832856,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"115",136,"Utah Brewers Cooperative",1099165941,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"116",136,"Utah Brewers Cooperative",1144648047,5,5,5,"American IPA",5,5,"Squatters India Pale Ale",6,3799
-"117",136,"Utah Brewers Cooperative",1142281474,3,3.5,3,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"118",136,"Utah Brewers Cooperative",1136675442,5,3.5,3,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"119",136,"Utah Brewers Cooperative",1124836589,5,4.5,4,"American IPA",4.5,4,"Squatters India Pale Ale",6,3799
-"120",136,"Utah Brewers Cooperative",1122965572,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"121",136,"Utah Brewers Cooperative",1122165958,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"122",136,"Utah Brewers Cooperative",1118278640,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"123",136,"Utah Brewers Cooperative",1116875253,4.5,3.5,2.5,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"124",136,"Utah Brewers Cooperative",1111520720,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
-"125",136,"Utah Brewers Cooperative",1111458626,4,3.5,3,"American IPA",4,4,"Squatters India Pale Ale",6,3799
-"126",136,"Utah Brewers Cooperative",1085893154,4.5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
-"127",136,"Utah Brewers Cooperative",1067279301,4,3.5,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
-"128",136,"Utah Brewers Cooperative",1022141208,3.5,3,4,"American IPA",3,3,"Squatters India Pale Ale",6,3799
-"129",136,"Utah Brewers Cooperative",1231995456,4,4.5,3.5,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
-"130",136,"Utah Brewers Cooperative",1220847297,3.5,3,3.5,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"131",136,"Utah Brewers Cooperative",1216739466,3.5,3,3,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
-"132",136,"Utah Brewers Cooperative",1216595695,4,3.5,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"133",136,"Utah Brewers Cooperative",1215617736,4,3,2.5,"German Pilsener",3,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"134",136,"Utah Brewers Cooperative",1212892491,4.5,4,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"135",136,"Utah Brewers Cooperative",1208760008,4,4.5,4,"German Pilsener",3,4,"Squatters St. Provo Girl Pilsner",4,3797
-"136",136,"Utah Brewers Cooperative",1207100088,4,3.5,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"137",136,"Utah Brewers Cooperative",1198599856,4,3.5,3,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"138",136,"Utah Brewers Cooperative",1182906871,3.5,3,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"139",136,"Utah Brewers Cooperative",1181875271,4.5,4,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"140",136,"Utah Brewers Cooperative",1175389656,4.5,3.5,3.5,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
-"141",136,"Utah Brewers Cooperative",1171635251,4,4,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
-"142",136,"Utah Brewers Cooperative",1166764592,3.5,3,3,"German Pilsener",3,4,"Squatters St. Provo Girl Pilsner",4,3797
-"143",136,"Utah Brewers Cooperative",1166243455,3,3,3,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
-"144",136,"Utah Brewers Cooperative",1160857615,4,4,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
-"145",136,"Utah Brewers Cooperative",1147762330,3.5,3.5,4,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"146",136,"Utah Brewers Cooperative",1127004017,4,3.5,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
-"147",136,"Utah Brewers Cooperative",1122964191,3.5,3.5,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"148",136,"Utah Brewers Cooperative",1111950317,4.5,3.5,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
-"149",136,"Utah Brewers Cooperative",1102444645,3,3,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"150",136,"Utah Brewers Cooperative",1100973479,4,3,4,"German Pilsener",4,4.5,"Squatters St. Provo Girl Pilsner",4,3797
-"151",136,"Utah Brewers Cooperative",1086571985,3.5,3.5,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
-"152",136,"Utah Brewers Cooperative",1078982273,3.5,3,3.5,"German Pilsener",3,3.5,"Squatters St. Provo Girl Pilsner",4,3797
-"153",136,"Utah Brewers Cooperative",1073974992,3,3.5,3,"German Pilsener",2.5,2.5,"Squatters St. Provo Girl Pilsner",4,3797
-"154",136,"Utah Brewers Cooperative",1064373927,4,3.5,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
-"155",136,"Utah Brewers Cooperative",1047914066,4.5,3.5,4,"German Pilsener",4.5,4,"Squatters St. Provo Girl Pilsner",4,3797
-"156",136,"Utah Brewers Cooperative",1035730593,3.5,3,3,"German Pilsener",3,3,"Squatters St. Provo Girl Pilsner",4,3797
-"157",136,"Utah Brewers Cooperative",1030128673,3.5,3,4,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
-"158",136,"Utah Brewers Cooperative",1022140155,3.5,3,3,"German Pilsener",3,3,"Squatters St. Provo Girl Pilsner",4,3797
-"159",136,"Utah Brewers Cooperative",1323069827,2.5,2.5,3,"Doppelbock",3,2.5,"Wasatch Devastator Double Bock",8,40200
-"160",136,"Utah Brewers Cooperative",1316379200,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"161",136,"Utah Brewers Cooperative",1315271539,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"162",136,"Utah Brewers Cooperative",1313380884,3,3.5,3,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
-"163",136,"Utah Brewers Cooperative",1311141267,3.5,4,3.5,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
-"164",136,"Utah Brewers Cooperative",1309450142,3,3,2.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
-"165",136,"Utah Brewers Cooperative",1306369993,3.5,3,4,"Doppelbock",3,4,"Wasatch Devastator Double Bock",8,40200
-"166",136,"Utah Brewers Cooperative",1305594290,3.5,3.5,4.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"167",136,"Utah Brewers Cooperative",1304566751,3.5,3,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"168",136,"Utah Brewers Cooperative",1302967612,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"169",136,"Utah Brewers Cooperative",1301325341,4,3,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"170",136,"Utah Brewers Cooperative",1298841069,4,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"171",136,"Utah Brewers Cooperative",1294411318,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"172",136,"Utah Brewers Cooperative",1291866982,3,2,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
-"173",136,"Utah Brewers Cooperative",1287801446,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"174",136,"Utah Brewers Cooperative",1286255082,4.5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
-"175",136,"Utah Brewers Cooperative",1283655635,3.5,3,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
-"176",136,"Utah Brewers Cooperative",1280877854,3.5,4,3.5,"Doppelbock",4.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"177",136,"Utah Brewers Cooperative",1278540704,4.5,4,3.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"178",136,"Utah Brewers Cooperative",1268202402,3.5,4,3.5,"Doppelbock",4.5,4.5,"Wasatch Devastator Double Bock",8,40200
-"179",136,"Utah Brewers Cooperative",1258943928,3,3,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
-"180",136,"Utah Brewers Cooperative",1246486757,3,3,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
-"181",136,"Utah Brewers Cooperative",1246195846,4,3.5,4.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"182",136,"Utah Brewers Cooperative",1243893523,4,3.5,4.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"183",136,"Utah Brewers Cooperative",1242613097,3,4,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"184",136,"Utah Brewers Cooperative",1242262916,4,3,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"185",136,"Utah Brewers Cooperative",1241494724,3.5,4,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"186",136,"Utah Brewers Cooperative",1240442853,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"187",136,"Utah Brewers Cooperative",1238125896,3,3,3.5,"Doppelbock",3.5,2.5,"Wasatch Devastator Double Bock",8,40200
-"188",136,"Utah Brewers Cooperative",1238124518,3,3,4,"Doppelbock",3,2.5,"Wasatch Devastator Double Bock",8,40200
-"189",136,"Utah Brewers Cooperative",1236110491,3,2,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"190",136,"Utah Brewers Cooperative",1235861585,3.5,3.5,3.5,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
-"191",136,"Utah Brewers Cooperative",1235631575,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"192",136,"Utah Brewers Cooperative",1235436648,3.5,3,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
-"193",136,"Utah Brewers Cooperative",1234991847,4,3,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
-"194",136,"Utah Brewers Cooperative",1234140895,3.5,3.5,4,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"195",136,"Utah Brewers Cooperative",1233368797,3,3.5,3.5,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
-"196",136,"Utah Brewers Cooperative",1232756476,3.5,3.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"197",136,"Utah Brewers Cooperative",1230829027,3.5,4,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"198",136,"Utah Brewers Cooperative",1230355027,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"199",136,"Utah Brewers Cooperative",1229652833,4,3.5,4,"Doppelbock",4.5,4,"Wasatch Devastator Double Bock",8,40200
-"200",136,"Utah Brewers Cooperative",1226792524,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"201",136,"Utah Brewers Cooperative",1223839740,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"202",136,"Utah Brewers Cooperative",1223523134,4,3.5,4.5,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
-"203",136,"Utah Brewers Cooperative",1223076364,4,3.5,4,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
-"204",136,"Utah Brewers Cooperative",1222834970,3,3.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"205",136,"Utah Brewers Cooperative",1221374198,3.5,4,4.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"206",136,"Utah Brewers Cooperative",1221230724,4.5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
-"207",136,"Utah Brewers Cooperative",1219465320,4,3.5,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
-"208",136,"Utah Brewers Cooperative",1218946642,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"209",136,"Utah Brewers Cooperative",1217653157,4,3,3,"Doppelbock",2.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"210",136,"Utah Brewers Cooperative",1217070745,4,3.5,3.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"211",136,"Utah Brewers Cooperative",1215624399,3.5,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"212",136,"Utah Brewers Cooperative",1214598036,3.5,3.5,4,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"213",136,"Utah Brewers Cooperative",1214357825,3,3,4,"Doppelbock",2,3,"Wasatch Devastator Double Bock",8,40200
-"214",136,"Utah Brewers Cooperative",1214107939,3,3.5,4,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
-"215",136,"Utah Brewers Cooperative",1203641797,4,4,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"216",136,"Utah Brewers Cooperative",1212544478,2.5,3,4,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
-"217",136,"Utah Brewers Cooperative",1209079960,4.5,3.5,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"218",136,"Utah Brewers Cooperative",1205304726,5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
-"219",136,"Utah Brewers Cooperative",1205111504,3.5,4,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"220",136,"Utah Brewers Cooperative",1204860995,4,3,3,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"221",136,"Utah Brewers Cooperative",1204389010,3.5,4.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"222",136,"Utah Brewers Cooperative",1204336109,4,5,4.5,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
-"223",136,"Utah Brewers Cooperative",1202587199,4,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"224",136,"Utah Brewers Cooperative",1201508326,4.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"225",136,"Utah Brewers Cooperative",1200859159,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"226",136,"Utah Brewers Cooperative",1199717173,4,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"227",136,"Utah Brewers Cooperative",1199660317,4.5,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
-"228",136,"Utah Brewers Cooperative",1199241107,3.5,4,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
-"229",136,"Utah Brewers Cooperative",1198377827,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"230",136,"Utah Brewers Cooperative",1198368106,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
-"231",136,"Utah Brewers Cooperative",1320558637,2,2.5,4.5,"Czech Pilsener",2.5,2,"Wasatch Summerbrau Lager",5.6,49241
-"232",136,"Utah Brewers Cooperative",1315174588,2.5,3,3.5,"Czech Pilsener",2.5,2.5,"Wasatch Summerbrau Lager",5.6,49241
-"233",136,"Utah Brewers Cooperative",1311043003,4,4,3.5,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"234",136,"Utah Brewers Cooperative",1305575415,3,3.5,3.5,"Czech Pilsener",3,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"235",136,"Utah Brewers Cooperative",1288318500,4.5,3.5,3.5,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
-"236",136,"Utah Brewers Cooperative",1282873299,3.5,3,3,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"237",136,"Utah Brewers Cooperative",1278362499,3.5,3,3.5,"Czech Pilsener",3.5,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"238",136,"Utah Brewers Cooperative",1276122389,4,3.5,4,"Czech Pilsener",3.5,4,"Wasatch Summerbrau Lager",5.6,49241
-"239",136,"Utah Brewers Cooperative",1255840862,3.5,3,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
-"240",136,"Utah Brewers Cooperative",1253252097,3,4,4,"Czech Pilsener",3,3,"Wasatch Summerbrau Lager",5.6,49241
-"241",136,"Utah Brewers Cooperative",1251597099,4,4,4,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
-"242",136,"Utah Brewers Cooperative",1246468317,4,3,3.5,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
-"243",136,"Utah Brewers Cooperative",1246392165,4.5,4,4,"Czech Pilsener",4.5,4,"Wasatch Summerbrau Lager",5.6,49241
-"244",136,"Utah Brewers Cooperative",1246385093,4.5,4.5,4,"Czech Pilsener",4,4.5,"Wasatch Summerbrau Lager",5.6,49241
-"245",136,"Utah Brewers Cooperative",1245270884,3.5,3.5,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
-"246",136,"Utah Brewers Cooperative",1243372958,4,3.5,4,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"247",136,"Utah Brewers Cooperative",1243186051,3,3,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
-"248",136,"Utah Brewers Cooperative",1242945733,4,3,4,"Czech Pilsener",3.5,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"249",136,"Utah Brewers Cooperative",1240784034,4,3,4,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
-"250",136,"Utah Brewers Cooperative",1240697378,5,4,4,"Czech Pilsener",4.5,4,"Wasatch Summerbrau Lager",5.6,49241
-"251",136,"Utah Brewers Cooperative",1325911136,4,4.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"252",136,"Utah Brewers Cooperative",1325139719,4,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
-"253",136,"Utah Brewers Cooperative",1324425476,3.5,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
-"254",136,"Utah Brewers Cooperative",1323827053,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Squatters Hop Rising",9,51785
-"255",136,"Utah Brewers Cooperative",1322289658,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Squatters Hop Rising",9,51785
-"256",136,"Utah Brewers Cooperative",1317777632,4,4.5,4,"American Double / Imperial IPA",3,4,"Squatters Hop Rising",9,51785
-"257",136,"Utah Brewers Cooperative",1316657588,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"258",136,"Utah Brewers Cooperative",1309932553,4,4,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"259",136,"Utah Brewers Cooperative",1309626096,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"260",136,"Utah Brewers Cooperative",1316564976,4,4,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
-"261",136,"Utah Brewers Cooperative",1316378393,4,4,4,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
-"262",136,"Utah Brewers Cooperative",1315583354,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
-"263",136,"Utah Brewers Cooperative",1314578106,2.5,3,3.5,"American Double / Imperial IPA",3,3,"Squatters Hop Rising",9,51785
-"264",136,"Utah Brewers Cooperative",1313710753,4,3,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"265",136,"Utah Brewers Cooperative",1313115096,3,3,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
-"266",136,"Utah Brewers Cooperative",1313103984,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
-"267",136,"Utah Brewers Cooperative",1312941177,4.5,4,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"268",136,"Utah Brewers Cooperative",1052231004,4,3.5,4,"American Pale Ale (APA)",2.5,3,"Squatters Pale Ale",4,1770
-"269",136,"Utah Brewers Cooperative",1308450212,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"270",136,"Utah Brewers Cooperative",1306539423,4,4,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
-"271",136,"Utah Brewers Cooperative",1306237959,3,3,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
-"272",136,"Utah Brewers Cooperative",1303875870,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"273",136,"Utah Brewers Cooperative",1286255367,4,4,4,"American Double / Imperial IPA",3.5,4,"Squatters Hop Rising",9,51785
-"274",136,"Utah Brewers Cooperative",1285632832,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
-"275",136,"Utah Brewers Cooperative",1281493383,3,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Squatters Hop Rising",9,51785
-"276",136,"Utah Brewers Cooperative",1277003607,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
-"277",136,"Utah Brewers Cooperative",1268521526,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
-"278",136,"Utah Brewers Cooperative",1263359202,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
-"279",136,"Utah Brewers Cooperative",1259109599,5,4,4.5,"American Double / Imperial IPA",5,4.5,"Squatters Hop Rising",9,51785
-"280",136,"Utah Brewers Cooperative",1251965072,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Squatters Hop Rising",9,51785
-"281",136,"Utah Brewers Cooperative",1251858128,4,4,4,"American Double / Imperial IPA",3.5,4.5,"Squatters Hop Rising",9,51785
-"282",136,"Utah Brewers Cooperative",1249954518,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Squatters Hop Rising",9,51785
-"283",136,"Utah Brewers Cooperative",1114786934,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Squatters Cherry Love",4,22844
-"284",136,"Utah Brewers Cooperative",1112126190,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Squatters Cherry Love",4,22844
-"285",136,"Utah Brewers Cooperative",1259469016,4,3,3,"Dubbel",3,2.5,"Squatters Orphan Abbey",4,20777
-"286",136,"Utah Brewers Cooperative",1173762268,2,2,2.5,"Dubbel",1.5,1.5,"Squatters Orphan Abbey",4,20777
-"287",136,"Utah Brewers Cooperative",1168524280,2.5,3,3,"Dubbel",2.5,2.5,"Squatters Orphan Abbey",4,20777
-"288",136,"Utah Brewers Cooperative",1167890203,4,3.5,3,"Dubbel",2.5,3.5,"Squatters Orphan Abbey",4,20777
-"289",136,"Utah Brewers Cooperative",1167615979,4,2.5,4,"Dubbel",2.5,3,"Squatters Orphan Abbey",4,20777
-"290",136,"Utah Brewers Cooperative",1164761112,4,3.5,3.5,"Dubbel",4,4,"Squatters Orphan Abbey",4,20777
-"291",136,"Utah Brewers Cooperative",1112410160,1.5,3,4,"Dubbel",3,1.5,"Squatters Orphan Abbey",4,20777
-"292",136,"Utah Brewers Cooperative",1108696586,4,3.5,3.5,"Dubbel",4,3.5,"Squatters Orphan Abbey",4,20777
-"293",136,"Utah Brewers Cooperative",1100636570,4,3.5,3.5,"Dubbel",3.5,3.5,"Squatters Orphan Abbey",4,20777
-"294",136,"Utah Brewers Cooperative",1246468920,3,4,4,"American Pale Ale (APA)",3,2.5,"Squatters Pale Ale",4,1770
-"295",136,"Utah Brewers Cooperative",1082516588,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
-"296",136,"Utah Brewers Cooperative",1082157518,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
-"297",136,"Utah Brewers Cooperative",1073977560,3.5,4.5,3,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
-"298",136,"Utah Brewers Cooperative",1064373849,3.5,4,4,"American Pale Ale (APA)",3,3,"Squatters Pale Ale",4,1770
-"299",136,"Utah Brewers Cooperative",1058010301,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Squatters Pale Ale",4,1770
-"300",136,"Utah Brewers Cooperative",1035957221,3.5,3,3,"American Pale Ale (APA)",3,3,"Squatters Pale Ale",4,1770
-"301",136,"Utah Brewers Cooperative",1030129160,3,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Squatters Pale Ale",4,1770
-"302",136,"Utah Brewers Cooperative",1022786410,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
-"303",136,"Utah Brewers Cooperative",1022171282,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Squatters Pale Ale",4,1770
-"304",136,"Utah Brewers Cooperative",1003190401,2,4,4,"American Pale Ale (APA)",2,2,"Squatters Pale Ale",4,1770
-"305",136,"Utah Brewers Cooperative",1146316509,4,4,4,"American Porter",4,4,"Wasatch Chocolate Porter",4,30178
-"306",136,"Utah Brewers Cooperative",1171913586,3,3,3.5,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
-"307",136,"Utah Brewers Cooperative",1146962105,3,4,4.5,"American Amber / Red Ale",2,3,"Wasatch Superior Ale",4,1780
-"308",136,"Utah Brewers Cooperative",1130699868,3.5,3.5,4,"American Amber / Red Ale",3,3,"Wasatch Superior Ale",4,1780
-"309",136,"Utah Brewers Cooperative",1118607772,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Superior Ale",4,1780
-"310",136,"Utah Brewers Cooperative",1076979067,3.5,2,4,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
-"311",136,"Utah Brewers Cooperative",1065150879,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
-"312",136,"Utah Brewers Cooperative",1009660068,1,3,3,"American Amber / Red Ale",2,2,"Wasatch Superior Ale",4,1780
-"313",136,"Utah Brewers Cooperative",1232647597,4.5,3,4,"Cream Ale",4,4,"Squatters Nitro Cream Ale",4,47448
-"314",136,"Utah Brewers Cooperative",1170944414,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Special Reserve Pale Ale",4,2873
-"315",136,"Utah Brewers Cooperative",1169582964,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Special Reserve Pale Ale",4,2873
-"316",136,"Utah Brewers Cooperative",1167860856,3.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Wasatch Special Reserve Pale Ale",4,2873
-"317",136,"Utah Brewers Cooperative",1156026528,2.5,3,2.5,"American Pale Ale (APA)",2.5,2,"Wasatch Special Reserve Pale Ale",4,2873
-"318",136,"Utah Brewers Cooperative",1111964565,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Wasatch Special Reserve Pale Ale",4,2873
-"319",136,"Utah Brewers Cooperative",1042112095,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Wasatch Special Reserve Pale Ale",4,2873
-"320",136,"Utah Brewers Cooperative",1035783493,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Special Reserve Pale Ale",4,2873
-"321",136,"Utah Brewers Cooperative",1063240413,5,4,4,"Irish Dry Stout",4,4,"Wasatch Irish Stout",4,12671
-"322",136,"Utah Brewers Cooperative",1003017601,3,3,3,"German Pilsener",2,3,"Squatters Pils",4,1718
-"323",136,"Utah Brewers Cooperative",1136251141,4,3.5,3.5,"Herbed / Spiced Beer",4,3.5,"Wasatch Christmas Ale",4,21159
-"324",136,"Utah Brewers Cooperative",1318562703,3.5,3.5,3.5,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"325",136,"Utah Brewers Cooperative",1313350092,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"326",136,"Utah Brewers Cooperative",1277142327,4,4,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"327",136,"Utah Brewers Cooperative",1261016564,4,3.5,4,"Oatmeal Stout",3.5,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"328",136,"Utah Brewers Cooperative",1257293051,4.5,4,3.5,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"329",136,"Utah Brewers Cooperative",1235226024,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"330",136,"Utah Brewers Cooperative",1234714256,4,4,3,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"331",136,"Utah Brewers Cooperative",1230356858,2.5,3,4,"Oatmeal Stout",2.5,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"332",136,"Utah Brewers Cooperative",1223693776,3.5,3.5,3.5,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"333",136,"Utah Brewers Cooperative",1223394773,5,4.5,4.5,"Oatmeal Stout",5,5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"334",136,"Utah Brewers Cooperative",1216595618,4,3.5,4,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"335",136,"Utah Brewers Cooperative",1208850887,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"336",136,"Utah Brewers Cooperative",1198598129,4,4,4.5,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"337",136,"Utah Brewers Cooperative",1196727101,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"338",136,"Utah Brewers Cooperative",1178757543,3.5,3.5,3.5,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"339",136,"Utah Brewers Cooperative",1176694764,4,3.5,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"340",136,"Utah Brewers Cooperative",1175646454,3.5,3,3.5,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"341",136,"Utah Brewers Cooperative",1175356505,4,4,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"342",136,"Utah Brewers Cooperative",1171582177,3,4.5,4,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"343",136,"Utah Brewers Cooperative",1169995903,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"344",136,"Utah Brewers Cooperative",1168309866,2.5,4,4,"Oatmeal Stout",3,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"345",136,"Utah Brewers Cooperative",1166724183,3,4,4,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"346",136,"Utah Brewers Cooperative",1166663033,3,3.5,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"347",136,"Utah Brewers Cooperative",1147761327,4.5,4,4,"Oatmeal Stout",4,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"348",136,"Utah Brewers Cooperative",1142287491,2.5,4.5,3.5,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"349",136,"Utah Brewers Cooperative",1138562772,4,3.5,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"350",136,"Utah Brewers Cooperative",1114786697,3.5,3,3.5,"Oatmeal Stout",3,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"351",136,"Utah Brewers Cooperative",1111949259,3.5,3.5,3.5,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"352",136,"Utah Brewers Cooperative",1101097519,4.5,3,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"353",136,"Utah Brewers Cooperative",1098428227,3,2.5,3.5,"Oatmeal Stout",2.5,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"354",136,"Utah Brewers Cooperative",1082516719,3,3.5,5,"Oatmeal Stout",3,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"355",136,"Utah Brewers Cooperative",1073963590,3,3.5,4,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"356",136,"Utah Brewers Cooperative",1059505981,4,3.5,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"357",136,"Utah Brewers Cooperative",1058009895,4,3.5,3.5,"Oatmeal Stout",3,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"358",136,"Utah Brewers Cooperative",1034526823,3.5,3,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"359",136,"Utah Brewers Cooperative",1033651576,3.5,3.5,4,"Oatmeal Stout",4,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"360",136,"Utah Brewers Cooperative",1004745601,3,4,4,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
-"361",136,"Utah Brewers Cooperative",1178168730,3,3,3,"Hefeweizen",3,3,"Squatters American Wheat",4,34548
-"362",136,"Utah Brewers Cooperative",1219372710,4,4,3,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
-"363",136,"Utah Brewers Cooperative",1169951520,4.5,4,4,"Hefeweizen",4.5,4.5,"Squatters American Wheat",4,34548
-"364",136,"Utah Brewers Cooperative",1168473602,4,3,4,"Hefeweizen",3,3.5,"Squatters American Wheat",4,34548
-"365",136,"Utah Brewers Cooperative",1167678072,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Squatters American Wheat",4,34548
-"366",136,"Utah Brewers Cooperative",1313344824,3.5,3,4,"American Pale Lager",4,3.5,"Wasatch Little Slammers Classic Lager",4,72087
-"367",136,"Utah Brewers Cooperative",1313276536,3.5,3.5,4,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
-"368",136,"Utah Brewers Cooperative",1298411471,2,2,3,"American Amber / Red Ale",1.5,1.5,"Wasatch Evolution",4,27659
-"369",136,"Utah Brewers Cooperative",1269323579,3,3.5,2.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"370",136,"Utah Brewers Cooperative",1232658973,4,2.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
-"371",136,"Utah Brewers Cooperative",1231782351,3.5,3,3.5,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
-"372",136,"Utah Brewers Cooperative",1221577472,3.5,2.5,2.5,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
-"373",136,"Utah Brewers Cooperative",1087774524,4,3,3.5,"American Amber / Red Ale",3.5,3,"Squatters Hop Head Red Nitro",4,6964
-"374",136,"Utah Brewers Cooperative",1215617128,4,4,3,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
-"375",136,"Utah Brewers Cooperative",1213159252,3.5,2.5,3,"American Amber / Red Ale",2.5,3,"Wasatch Evolution",4,27659
-"376",136,"Utah Brewers Cooperative",1208923248,3,3,4,"American Amber / Red Ale",2.5,2.5,"Wasatch Evolution",4,27659
-"377",136,"Utah Brewers Cooperative",1208478739,3.5,3,3.5,"American Amber / Red Ale",3.5,2.5,"Wasatch Evolution",4,27659
-"378",136,"Utah Brewers Cooperative",1205197959,3,3,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"379",136,"Utah Brewers Cooperative",1204649687,3.5,3,4.5,"American Amber / Red Ale",4,3.5,"Wasatch Evolution",4,27659
-"380",136,"Utah Brewers Cooperative",1204084309,3,3,3,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"381",136,"Utah Brewers Cooperative",1199073374,4,3.5,3.5,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
-"382",136,"Utah Brewers Cooperative",1199001405,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
-"383",136,"Utah Brewers Cooperative",1197593553,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
-"384",136,"Utah Brewers Cooperative",1196913426,3.5,4,4,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
-"385",136,"Utah Brewers Cooperative",1195509354,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
-"386",136,"Utah Brewers Cooperative",1195053564,3,3,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"387",136,"Utah Brewers Cooperative",1190858010,2.5,3,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"388",136,"Utah Brewers Cooperative",1188345771,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
-"389",136,"Utah Brewers Cooperative",1186610591,3,3.5,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"390",136,"Utah Brewers Cooperative",1180560491,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
-"391",136,"Utah Brewers Cooperative",1180227547,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
-"392",136,"Utah Brewers Cooperative",1177226590,4,3,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"393",136,"Utah Brewers Cooperative",1176334460,2.5,2.5,4,"American Amber / Red Ale",2.5,3,"Wasatch Evolution",4,27659
-"394",136,"Utah Brewers Cooperative",1173994006,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
-"395",136,"Utah Brewers Cooperative",1170965318,2.5,2.5,2.5,"American Amber / Red Ale",2.5,2.5,"Wasatch Evolution",4,27659
-"396",136,"Utah Brewers Cooperative",1169778660,2.5,2.5,3,"American Amber / Red Ale",3,2,"Wasatch Evolution",4,27659
-"397",136,"Utah Brewers Cooperative",1168499423,4,3.5,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
-"398",136,"Utah Brewers Cooperative",1167355440,3.5,3.5,3,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
-"399",136,"Utah Brewers Cooperative",1142289118,3.5,3,3.5,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
-"400",136,"Utah Brewers Cooperative",1140996365,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
-"401",136,"Utah Brewers Cooperative",1140330519,4,4,4,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
-"402",136,"Utah Brewers Cooperative",1136336828,4,3.5,3.5,"American Amber / Red Ale",4,4,"Wasatch Evolution",4,27659
-"403",136,"Utah Brewers Cooperative",1303664458,4,4,4,"American Pale Ale (APA)",4,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"404",136,"Utah Brewers Cooperative",1287494048,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"405",136,"Utah Brewers Cooperative",1250003656,4,4.5,3,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
-"406",136,"Utah Brewers Cooperative",1220014111,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"407",136,"Utah Brewers Cooperative",1216594989,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"408",136,"Utah Brewers Cooperative",1213159817,3,4,4,"American Pale Ale (APA)",3,4,"Squatters Full Suspension Pale Ale",4,20844
-"409",136,"Utah Brewers Cooperative",1208848123,4.5,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
-"410",136,"Utah Brewers Cooperative",1207098213,4,3.5,3.5,"American Pale Ale (APA)",3,3,"Squatters Full Suspension Pale Ale",4,20844
-"411",136,"Utah Brewers Cooperative",1200284733,5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"412",136,"Utah Brewers Cooperative",1196609516,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"413",136,"Utah Brewers Cooperative",1186332392,5,4,3,"American Pale Ale (APA)",2.5,2.5,"Squatters Full Suspension Pale Ale",4,20844
-"414",136,"Utah Brewers Cooperative",1178886153,4.5,4,4,"American Pale Ale (APA)",2.5,4,"Squatters Full Suspension Pale Ale",4,20844
-"415",136,"Utah Brewers Cooperative",1178153597,4.5,3.5,4,"American Pale Ale (APA)",4.5,4,"Squatters Full Suspension Pale Ale",4,20844
-"416",136,"Utah Brewers Cooperative",1036479022,4,3.5,4,"American Amber / Red Ale",4,4,"Squatters Hop Head Red Nitro",4,6964
-"417",136,"Utah Brewers Cooperative",1176607072,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Full Suspension Pale Ale",4,20844
-"418",136,"Utah Brewers Cooperative",1170308802,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
-"419",136,"Utah Brewers Cooperative",1169516236,3,3.5,4.5,"American Pale Ale (APA)",2.5,3,"Squatters Full Suspension Pale Ale",4,20844
-"420",136,"Utah Brewers Cooperative",1168006347,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"421",136,"Utah Brewers Cooperative",1167023983,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"422",136,"Utah Brewers Cooperative",1147760034,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"423",136,"Utah Brewers Cooperative",1135131322,3.5,2.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"424",136,"Utah Brewers Cooperative",1124597084,3.5,3.5,3.5,"American Pale Ale (APA)",3,4,"Squatters Full Suspension Pale Ale",4,20844
-"425",136,"Utah Brewers Cooperative",1122965319,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"426",136,"Utah Brewers Cooperative",1119926109,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"427",136,"Utah Brewers Cooperative",1119061742,4,4,4,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
-"428",136,"Utah Brewers Cooperative",1115129952,3,3,4,"American Pale Ale (APA)",3,3,"Squatters Full Suspension Pale Ale",4,20844
-"429",136,"Utah Brewers Cooperative",1115129930,4,3,3.5,"American Pale Ale (APA)",3.5,4.5,"Squatters Full Suspension Pale Ale",4,20844
-"430",136,"Utah Brewers Cooperative",1111951975,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Squatters Full Suspension Pale Ale",4,20844
-"431",136,"Utah Brewers Cooperative",1100970710,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
-"432",136,"Utah Brewers Cooperative",1101095007,4,4,4,"Milk / Sweet Stout",3.5,4,"Mill Creek Cream Stout",4,3809
-"433",136,"Utah Brewers Cooperative",1082157382,3.5,4,4,"Milk / Sweet Stout",4,4,"Mill Creek Cream Stout",4,3809
-"434",136,"Utah Brewers Cooperative",1030196826,4,4,4,"Milk / Sweet Stout",3,4,"Mill Creek Cream Stout",4,3809
-"435",136,"Utah Brewers Cooperative",1022171569,4,3.5,3.5,"Milk / Sweet Stout",2.5,2.5,"Mill Creek Cream Stout",4,3809
-"436",136,"Utah Brewers Cooperative",1135713722,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Squatters Hop Head Red Nitro",4,6964
-"437",136,"Utah Brewers Cooperative",1082157267,3.5,3.5,3,"American Amber / Red Ale",3,3.5,"Squatters Amber",4,3796
-"438",136,"Utah Brewers Cooperative",1030196922,4,4,4,"American Amber / Red Ale",3.5,2,"Squatters Amber",4,3796
-"439",136,"Utah Brewers Cooperative",1022139842,3.5,3,4,"American Amber / Red Ale",3,2.5,"Squatters Amber",4,3796
-"440",136,"Utah Brewers Cooperative",1147832393,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Squatters Emigration Amber Ale",4,5642
-"441",136,"Utah Brewers Cooperative",1147587555,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Squatters Emigration Amber Ale",4,5642
-"442",136,"Utah Brewers Cooperative",1101085100,3,4,3.5,"American Amber / Red Ale",3,3.5,"Squatters Emigration Amber Ale",4,5642
-"443",136,"Utah Brewers Cooperative",1030128997,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Squatters Emigration Amber Ale",4,5642
-"444",136,"Utah Brewers Cooperative",1325540816,4,4,4,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
-"445",136,"Utah Brewers Cooperative",1324435037,4,4,4,"American Strong Ale",4.5,3.5,"Wasatch Winterfest",7.1,46222
-"446",136,"Utah Brewers Cooperative",1320295903,4.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"447",136,"Utah Brewers Cooperative",1318725715,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"448",136,"Utah Brewers Cooperative",1316378715,3,3.5,4,"American Strong Ale",3,3.5,"Wasatch Winterfest",7.1,46222
-"449",136,"Utah Brewers Cooperative",1274237292,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Wasatch Winterfest",7.1,46222
-"450",136,"Utah Brewers Cooperative",1312065656,3.5,4,4.5,"American Strong Ale",2.5,3.5,"Wasatch Winterfest",7.1,46222
-"451",136,"Utah Brewers Cooperative",1301177716,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"452",136,"Utah Brewers Cooperative",1300067017,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"453",136,"Utah Brewers Cooperative",1298429435,4,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"454",136,"Utah Brewers Cooperative",1298318502,4,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
-"455",136,"Utah Brewers Cooperative",1294022115,4,3.5,4.5,"American Strong Ale",4,3.5,"Wasatch Winterfest",7.1,46222
-"456",136,"Utah Brewers Cooperative",1293233411,4,3.5,4.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
-"457",136,"Utah Brewers Cooperative",1290310933,4.5,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
-"458",136,"Utah Brewers Cooperative",1324615228,4,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Squatters Hell's Keep",7.75,51784
-"459",136,"Utah Brewers Cooperative",1272427756,4,3.5,4.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
-"460",136,"Utah Brewers Cooperative",1271812063,3,4,4.5,"American Strong Ale",4,3,"Wasatch Winterfest",7.1,46222
-"461",136,"Utah Brewers Cooperative",1267158239,3.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"462",136,"Utah Brewers Cooperative",1261536951,4,3.5,4.5,"American Strong Ale",3,4,"Wasatch Winterfest",7.1,46222
-"463",136,"Utah Brewers Cooperative",1260370071,4,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
-"464",136,"Utah Brewers Cooperative",1258443390,3.5,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"465",136,"Utah Brewers Cooperative",1249601357,4,4,4.5,"American Strong Ale",4,3.5,"Wasatch Winterfest",7.1,46222
-"466",136,"Utah Brewers Cooperative",1246463785,4,4,3.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"467",136,"Utah Brewers Cooperative",1245870194,4,3.5,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"468",136,"Utah Brewers Cooperative",1319757930,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
-"469",136,"Utah Brewers Cooperative",1245573850,4.5,4,5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"470",136,"Utah Brewers Cooperative",1243392013,4,4,5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
-"471",136,"Utah Brewers Cooperative",1243128589,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"472",136,"Utah Brewers Cooperative",1242509873,4,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"473",136,"Utah Brewers Cooperative",1242484808,4.5,4.5,5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"474",136,"Utah Brewers Cooperative",1241559597,4,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"475",136,"Utah Brewers Cooperative",1240348447,4.5,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"476",136,"Utah Brewers Cooperative",1238027117,4.5,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"477",136,"Utah Brewers Cooperative",1235015977,4,4.5,5,"American Strong Ale",4.5,4.5,"Wasatch Winterfest",7.1,46222
-"478",136,"Utah Brewers Cooperative",1234023826,4.5,4,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"479",136,"Utah Brewers Cooperative",1233626939,4,4.5,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"480",136,"Utah Brewers Cooperative",1233466225,4.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"481",136,"Utah Brewers Cooperative",1233123076,4,4,4,"American Strong Ale",3.5,4.5,"Wasatch Winterfest",7.1,46222
-"482",136,"Utah Brewers Cooperative",1232756178,4,4,4,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
-"483",136,"Utah Brewers Cooperative",1231475738,4,4,5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
-"484",136,"Utah Brewers Cooperative",1231432693,4,4,4.5,"American Strong Ale",3.5,3,"Wasatch Winterfest",7.1,46222
-"485",136,"Utah Brewers Cooperative",1231409318,4,4.5,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"486",136,"Utah Brewers Cooperative",1230308497,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
-"487",136,"Utah Brewers Cooperative",1230013911,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"Wasatch Winterfest",7.1,46222
-"488",136,"Utah Brewers Cooperative",1228066964,4,4,3.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
-"489",136,"Utah Brewers Cooperative",1227993313,4.5,4,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
-"490",136,"Utah Brewers Cooperative",1111550973,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Squatters Nitro Mild",4,3802
-"491",136,"Utah Brewers Cooperative",1022155888,2.5,2.5,3.5,"English Dark Mild Ale",3,2.5,"Squatters Nitro Mild",4,3802
-"492",136,"Utah Brewers Cooperative",1312860094,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Squatters Hell's Keep",7.75,51784
-"493",136,"Utah Brewers Cooperative",1306196931,4,3.5,4.5,"Belgian Strong Pale Ale",4.5,3.5,"Squatters Hell's Keep",7.75,51784
-"494",136,"Utah Brewers Cooperative",1306035568,4,4,5,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
-"495",136,"Utah Brewers Cooperative",1303864251,4,3,4,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
-"496",136,"Utah Brewers Cooperative",1298770630,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Squatters Hell's Keep",7.75,51784
-"497",136,"Utah Brewers Cooperative",1282788167,4,4,4.5,"Belgian Strong Pale Ale",4.5,4.5,"Squatters Hell's Keep",7.75,51784
-"498",136,"Utah Brewers Cooperative",1276043963,4,3.5,4.5,"Belgian Strong Pale Ale",4.5,4,"Squatters Hell's Keep",7.75,51784
-"499",136,"Utah Brewers Cooperative",1251864265,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Squatters Hell's Keep",7.75,51784
-"500",136,"Utah Brewers Cooperative",1249954213,4,4,4,"Belgian Strong Pale Ale",4,4,"Squatters Hell's Keep",7.75,51784
-"501",136,"Utah Brewers Cooperative",1198448607,4,3,4,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
-"502",136,"Utah Brewers Cooperative",1177554914,4.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"503",136,"Utah Brewers Cooperative",1170277107,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"504",136,"Utah Brewers Cooperative",1169353702,4,3,3,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
-"505",136,"Utah Brewers Cooperative",1167620385,3,2.5,3,"American Pale Ale (APA)",2.5,3,"Squatters Chasing Tail Golden Ale",4,20869
-"506",136,"Utah Brewers Cooperative",1164774933,3,2.5,3,"American Pale Ale (APA)",2.5,3,"Squatters Chasing Tail Golden Ale",4,20869
-"507",136,"Utah Brewers Cooperative",1164319322,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"508",136,"Utah Brewers Cooperative",1156906773,3,3.5,3,"American Pale Ale (APA)",3,3,"Squatters Chasing Tail Golden Ale",4,20869
-"509",136,"Utah Brewers Cooperative",1101084628,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Squatters Chasing Tail Golden Ale",4,20869
-"510",136,"Utah Brewers Cooperative",1156008870,4.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"511",136,"Utah Brewers Cooperative",1153114945,4,3.5,2.5,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
-"512",136,"Utah Brewers Cooperative",1152168881,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"513",136,"Utah Brewers Cooperative",1147760448,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"514",136,"Utah Brewers Cooperative",1146307668,2.5,2.5,2,"American Pale Ale (APA)",2,2,"Squatters Chasing Tail Golden Ale",4,20869
-"515",136,"Utah Brewers Cooperative",1142286946,3.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
-"516",136,"Utah Brewers Cooperative",1122964293,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"517",136,"Utah Brewers Cooperative",1118599358,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
-"518",136,"Utah Brewers Cooperative",1112673357,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Squatters Chasing Tail Golden Ale",4,20869
-"519",136,"Utah Brewers Cooperative",1111951319,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
-"520",136,"Utah Brewers Cooperative",1110939989,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
-"521",136,"Utah Brewers Cooperative",1196525744,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"522",136,"Utah Brewers Cooperative",1195510705,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
-"523",136,"Utah Brewers Cooperative",1190425490,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
-"524",136,"Utah Brewers Cooperative",1189724617,3,3.5,5,"American Pale Ale (APA)",3,3,"Wasatch Pale Ale",5.5,15612
-"525",136,"Utah Brewers Cooperative",1188963795,4.5,4,3.5,"American Pale Ale (APA)",5,4.5,"Wasatch Pale Ale",5.5,15612
-"526",136,"Utah Brewers Cooperative",1185837151,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Wasatch Pale Ale",5.5,15612
-"527",136,"Utah Brewers Cooperative",1182631617,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
-"528",136,"Utah Brewers Cooperative",1182483010,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
-"529",136,"Utah Brewers Cooperative",1181092884,4,4,3.5,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"530",136,"Utah Brewers Cooperative",1176609439,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Wasatch Pale Ale",5.5,15612
-"531",136,"Utah Brewers Cooperative",1176519835,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"532",136,"Utah Brewers Cooperative",1172452173,3,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
-"533",136,"Utah Brewers Cooperative",1171158216,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"534",136,"Utah Brewers Cooperative",1170514326,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Wasatch Pale Ale",5.5,15612
-"535",136,"Utah Brewers Cooperative",1166403222,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"536",136,"Utah Brewers Cooperative",1136747528,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
-"537",136,"Utah Brewers Cooperative",1123116758,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
-"538",136,"Utah Brewers Cooperative",1085893742,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
-"539",136,"Utah Brewers Cooperative",1075229127,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
-"540",136,"Utah Brewers Cooperative",1311401357,2.5,2.5,3.5,"Hefeweizen",3,2.5,"Squatters Hefeweizen",4,2398
-"541",136,"Utah Brewers Cooperative",1216595800,3,3.5,3.5,"Hefeweizen",3,2.5,"Squatters Hefeweizen",4,2398
-"542",136,"Utah Brewers Cooperative",1208760593,2.5,2.5,3,"Hefeweizen",2.5,2.5,"Squatters Hefeweizen",4,2398
-"543",136,"Utah Brewers Cooperative",1170468823,3.5,3.5,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
-"544",136,"Utah Brewers Cooperative",1138567794,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Squatters Hefeweizen",4,2398
-"545",136,"Utah Brewers Cooperative",1122964463,4,4,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
-"546",136,"Utah Brewers Cooperative",1112668089,4,3,3.5,"Hefeweizen",3.5,3.5,"Squatters Hefeweizen",4,2398
-"547",136,"Utah Brewers Cooperative",1101084074,2.5,2.5,3,"Hefeweizen",3,2,"Squatters Hefeweizen",4,2398
-"548",136,"Utah Brewers Cooperative",1099166167,3.5,2.5,3,"Hefeweizen",3,3,"Squatters Hefeweizen",4,2398
-"549",136,"Utah Brewers Cooperative",1073975351,2,2,2,"Hefeweizen",2,1.5,"Squatters Hefeweizen",4,2398
-"550",136,"Utah Brewers Cooperative",1030128438,4,4,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
-"551",136,"Utah Brewers Cooperative",1122963986,3.5,3.5,4.5,"Vienna Lager",4,3.5,"Squatters Vienna Lager",4,3795
-"552",136,"Utah Brewers Cooperative",1009660923,1,2,3,"Hefeweizen",1,1,"Squatters Hefeweizen",4,2398
-"553",136,"Utah Brewers Cooperative",1118794927,4,3.5,4,"American Adjunct Lager",3.5,4,"Wasatch Slickrock Lager",4,348
-"554",136,"Utah Brewers Cooperative",1065150802,3.5,3.5,4,"American Adjunct Lager",4,4,"Wasatch Slickrock Lager",4,348
-"555",136,"Utah Brewers Cooperative",1009659884,3,4,4,"American Adjunct Lager",2,3,"Wasatch Slickrock Lager",4,348
-"556",136,"Utah Brewers Cooperative",1003017601,3.5,3.5,4,"American Adjunct Lager",3,3,"Wasatch Slickrock Lager",4,348
-"557",136,"Utah Brewers Cooperative",1147759530,4,3.5,4,"American Porter",3.5,4,"Payson's Porter",4,12977
-"558",136,"Utah Brewers Cooperative",1114786172,2.5,2,3.5,"American Porter",2.5,2.5,"Payson's Porter",4,12977
-"559",136,"Utah Brewers Cooperative",1064598118,3,3,4,"American Porter",2.5,3,"Payson's Porter",4,12977
-"560",136,"Utah Brewers Cooperative",1151124421,3.5,3,4.5,"Vienna Lager",3.5,3.5,"Squatters Vienna Lager",4,3795
-"561",136,"Utah Brewers Cooperative",1147833511,4,3.5,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
-"562",136,"Utah Brewers Cooperative",1147587333,3.5,3,3.5,"Vienna Lager",3.5,3.5,"Squatters Vienna Lager",4,3795
-"563",136,"Utah Brewers Cooperative",1067907991,4,3.5,4,"Vienna Lager",3.5,4,"Squatters Vienna Lager",4,3795
-"564",136,"Utah Brewers Cooperative",1064374020,4,3.5,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
-"565",136,"Utah Brewers Cooperative",1030128763,4,4,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
-"566",136,"Utah Brewers Cooperative",1022139517,4,3.5,3,"Vienna Lager",3,4,"Squatters Vienna Lager",4,3795
-"567",136,"Utah Brewers Cooperative",1238961987,5,4.5,5,"American Amber / Red Ale",4,5,"Squatters Organic Amber Ale",4,40203
-"568",136,"Utah Brewers Cooperative",1215352045,3.5,4,4,"American Amber / Red Ale",3,3.5,"Squatters Organic Amber Ale",4,40203
-"569",136,"Utah Brewers Cooperative",1210570048,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Squatters Organic Amber Ale",4,40203
-"570",136,"Utah Brewers Cooperative",1201492751,4,3.5,3.5,"American Amber / Red Ale",4,4,"Squatters Organic Amber Ale",4,40203
-"571",136,"Utah Brewers Cooperative",1198379775,4,3.5,4,"American Amber / Red Ale",3.5,4,"Squatters Organic Amber Ale",4,40203
-"572",136,"Utah Brewers Cooperative",1325040652,3.5,4.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"573",136,"Utah Brewers Cooperative",1287326265,4.5,3.5,3,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"574",136,"Utah Brewers Cooperative",1312228714,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"575",136,"Utah Brewers Cooperative",1281142207,3.5,3,2.5,"Fruit / Vegetable Beer",3,4,"Wasatch Apricot Hefeweizen",4,5661
-"576",136,"Utah Brewers Cooperative",1249492571,4.5,5,2,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
-"577",136,"Utah Brewers Cooperative",1241324981,4,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"578",136,"Utah Brewers Cooperative",1218067769,3.5,4,3,"Fruit / Vegetable Beer",2.5,3,"Wasatch Apricot Hefeweizen",4,5661
-"579",136,"Utah Brewers Cooperative",1216225106,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"580",136,"Utah Brewers Cooperative",1214873184,3.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"581",136,"Utah Brewers Cooperative",1208831671,3.5,2.5,3.5,"Fruit / Vegetable Beer",4.5,3,"Wasatch Apricot Hefeweizen",4,5661
-"582",136,"Utah Brewers Cooperative",1198459367,4,3.5,3,"Fruit / Vegetable Beer",3.5,3,"Wasatch Apricot Hefeweizen",4,5661
-"583",136,"Utah Brewers Cooperative",1188473692,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"584",136,"Utah Brewers Cooperative",1179130685,4,4,3,"Fruit / Vegetable Beer",3.5,3,"Wasatch Apricot Hefeweizen",4,5661
-"585",136,"Utah Brewers Cooperative",1176342156,2,2.5,2,"Fruit / Vegetable Beer",2.5,2,"Wasatch Apricot Hefeweizen",4,5661
-"586",136,"Utah Brewers Cooperative",1172942684,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
-"587",136,"Utah Brewers Cooperative",1171776741,4,3.5,3,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
-"588",136,"Utah Brewers Cooperative",1168698012,3.5,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"589",136,"Utah Brewers Cooperative",1167442427,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"590",136,"Utah Brewers Cooperative",1166743198,4.5,4,4,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
-"591",136,"Utah Brewers Cooperative",1166254750,4,4,4,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"592",136,"Utah Brewers Cooperative",1141586662,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
-"593",136,"Utah Brewers Cooperative",1117678607,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
-"594",136,"Utah Brewers Cooperative",1030267405,4,4,4,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
-"595",136,"Utah Brewers Cooperative",1030128865,4,3,4,"Kölsch",3.5,3.5,"Squatters Kolsch",4,5640
-"596",136,"Utah Brewers Cooperative",1298487585,2,2.5,3.5,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
-"597",136,"Utah Brewers Cooperative",1258344598,3,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"598",136,"Utah Brewers Cooperative",1232591455,2.5,2.5,4,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
-"599",136,"Utah Brewers Cooperative",1232083654,3,3,4,"American Brown Ale",3.5,3,"Squatters Bobsled Brown Ale",4,22544
-"600",136,"Utah Brewers Cooperative",1205708898,4,3.5,4,"American Brown Ale",3.5,3,"Squatters Bobsled Brown Ale",4,22544
-"601",136,"Utah Brewers Cooperative",1204502796,3,3.5,4,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"602",136,"Utah Brewers Cooperative",1202666054,3,3,4,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"603",136,"Utah Brewers Cooperative",1177832219,4,3.5,3.5,"American Brown Ale",3.5,3.5,"Squatters Bobsled Brown Ale",4,22544
-"604",136,"Utah Brewers Cooperative",1174610028,3,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"605",136,"Utah Brewers Cooperative",1173726265,2.5,3,3,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
-"606",136,"Utah Brewers Cooperative",1167888379,3.5,3.5,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"607",136,"Utah Brewers Cooperative",1165676326,3,3.5,3.5,"American Brown Ale",2.5,3,"Squatters Bobsled Brown Ale",4,22544
-"608",136,"Utah Brewers Cooperative",1137879183,3.5,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
-"609",136,"Utah Brewers Cooperative",1112637115,3,3,3.5,"American Brown Ale",3,2.5,"Squatters Bobsled Brown Ale",4,22544
-"610",136,"Utah Brewers Cooperative",1110908554,4,4,4,"American Brown Ale",3.5,3.5,"Squatters Bobsled Brown Ale",4,22544
-"611",136,"Utah Brewers Cooperative",1326256352,4,2,1.5,"Witbier",4,4,"Wasatch White Label",6,45913
-"612",136,"Utah Brewers Cooperative",1316378829,3.5,3.5,4,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"613",136,"Utah Brewers Cooperative",1315450345,3.5,2.5,2.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"614",136,"Utah Brewers Cooperative",1313448703,4,3.5,4,"Witbier",4.5,4,"Wasatch White Label",6,45913
-"615",136,"Utah Brewers Cooperative",1310620918,3.5,3.5,3,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"616",136,"Utah Brewers Cooperative",1308796520,4,4,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"617",136,"Utah Brewers Cooperative",1305573775,4,4,3,"Witbier",3.5,4,"Wasatch White Label",6,45913
-"618",136,"Utah Brewers Cooperative",1304808856,3,3.5,3.5,"Witbier",3.5,3,"Wasatch White Label",6,45913
-"619",136,"Utah Brewers Cooperative",1300245102,4,4,3.5,"Witbier",3.5,4,"Wasatch White Label",6,45913
-"620",136,"Utah Brewers Cooperative",1294025108,3,3.5,3.5,"Witbier",3,3,"Wasatch White Label",6,45913
-"621",136,"Utah Brewers Cooperative",1290947217,4.5,4,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
-"622",136,"Utah Brewers Cooperative",1287801018,4,4,3.5,"Witbier",3,3.5,"Wasatch White Label",6,45913
-"623",136,"Utah Brewers Cooperative",1287335921,3.5,3,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"624",136,"Utah Brewers Cooperative",1286944087,4,4,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"625",136,"Utah Brewers Cooperative",1283400329,3.5,3.5,5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"626",136,"Utah Brewers Cooperative",1277258428,4.5,4,3,"Witbier",4,4,"Wasatch White Label",6,45913
-"627",136,"Utah Brewers Cooperative",1271211479,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"628",136,"Utah Brewers Cooperative",1268517412,3.5,4.5,4.5,"Witbier",3,4,"Wasatch White Label",6,45913
-"629",136,"Utah Brewers Cooperative",1262584505,4.5,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"630",136,"Utah Brewers Cooperative",1261843017,4.5,3.5,3.5,"Witbier",4,4.5,"Wasatch White Label",6,45913
-"631",136,"Utah Brewers Cooperative",1258941739,4,3.5,3.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"632",136,"Utah Brewers Cooperative",1251594325,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"633",136,"Utah Brewers Cooperative",1245202160,4,3.5,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
-"634",136,"Utah Brewers Cooperative",1244152369,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"635",136,"Utah Brewers Cooperative",1243477674,4,3.5,4,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"636",136,"Utah Brewers Cooperative",1238112472,4,4,3,"Witbier",4.5,4,"Wasatch White Label",6,45913
-"637",136,"Utah Brewers Cooperative",1233883491,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"638",136,"Utah Brewers Cooperative",1233690666,4,3.5,4.5,"Witbier",4.5,4,"Wasatch White Label",6,45913
-"639",136,"Utah Brewers Cooperative",1232755625,3.5,3.5,4,"Witbier",3.5,4,"Wasatch White Label",6,45913
-"640",136,"Utah Brewers Cooperative",1232084876,3,3.5,4.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"641",136,"Utah Brewers Cooperative",1231820084,5,4,3.5,"Witbier",5,4.5,"Wasatch White Label",6,45913
-"642",136,"Utah Brewers Cooperative",1114455177,3.5,3.5,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"643",136,"Utah Brewers Cooperative",1231377363,3.5,3.5,4,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"644",136,"Utah Brewers Cooperative",1231325931,4.5,4,3.5,"Witbier",4.5,4.5,"Wasatch White Label",6,45913
-"645",136,"Utah Brewers Cooperative",1231209306,4,4.5,3,"Witbier",3.5,4,"Wasatch White Label",6,45913
-"646",136,"Utah Brewers Cooperative",1230316350,3.5,3.5,4,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
-"647",136,"Utah Brewers Cooperative",1229893142,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
-"648",136,"Utah Brewers Cooperative",1228592480,4,4.5,4.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"649",136,"Utah Brewers Cooperative",1227329194,3.5,3.5,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
-"650",136,"Utah Brewers Cooperative",1226717302,4,4,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
-"651",136,"Utah Brewers Cooperative",1112673095,2.5,3,4,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
-"652",136,"Utah Brewers Cooperative",1111949776,3.5,4,3.5,"American Porter",4.5,3.5,"Wasatch Polygamy Porter",4,1683
-"653",136,"Utah Brewers Cooperative",1111468928,4,3.5,3,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
-"654",136,"Utah Brewers Cooperative",1109452638,4,2.5,3,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
-"655",136,"Utah Brewers Cooperative",1107478613,4,4,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
-"656",136,"Utah Brewers Cooperative",1107312209,4,3.5,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"657",136,"Utah Brewers Cooperative",1101786158,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"658",136,"Utah Brewers Cooperative",1207514771,4,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"659",136,"Utah Brewers Cooperative",1100969888,3.5,3,3,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"660",136,"Utah Brewers Cooperative",1100716036,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"661",136,"Utah Brewers Cooperative",1099166382,4,3,4,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
-"662",136,"Utah Brewers Cooperative",1094732883,3.5,3,3,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
-"663",136,"Utah Brewers Cooperative",1093993582,3.5,3,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"664",136,"Utah Brewers Cooperative",1085894703,4.5,4,3.5,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
-"665",136,"Utah Brewers Cooperative",1082516763,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"666",136,"Utah Brewers Cooperative",1078710974,3.5,2.5,4,"American Porter",4,3,"Wasatch Polygamy Porter",4,1683
-"667",136,"Utah Brewers Cooperative",1065150646,3.5,4,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"668",136,"Utah Brewers Cooperative",1058053020,2.5,2.5,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"669",136,"Utah Brewers Cooperative",1056213085,2,2.5,3,"American Porter",1,2,"Wasatch Polygamy Porter",4,1683
-"670",136,"Utah Brewers Cooperative",1042631251,2,2.5,3,"American Porter",3,2,"Wasatch Polygamy Porter",4,1683
-"671",136,"Utah Brewers Cooperative",1035783985,2,3,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"672",136,"Utah Brewers Cooperative",1034853881,4,2,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
-"673",136,"Utah Brewers Cooperative",1034530041,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"674",136,"Utah Brewers Cooperative",1030267506,3.5,3,3.5,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"675",136,"Utah Brewers Cooperative",1022785955,1.5,3,4,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"676",136,"Utah Brewers Cooperative",1015791663,2,3,2.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
-"677",136,"Utah Brewers Cooperative",1002758401,3,3.5,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"678",136,"Utah Brewers Cooperative",1324428085,3,3,2.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"679",136,"Utah Brewers Cooperative",1324404023,3.5,3,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"680",136,"Utah Brewers Cooperative",1324402622,2,2,2,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"681",136,"Utah Brewers Cooperative",1314237901,3.5,3.5,4,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"682",136,"Utah Brewers Cooperative",1311213661,3.5,3,3.5,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"683",136,"Utah Brewers Cooperative",1310005674,3,3,2,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"684",136,"Utah Brewers Cooperative",1308287853,3,3,3.5,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"685",136,"Utah Brewers Cooperative",1308147095,4,4,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"686",136,"Utah Brewers Cooperative",1307839352,3.5,4,4.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"687",136,"Utah Brewers Cooperative",1307408609,2.5,3,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"688",136,"Utah Brewers Cooperative",1306980536,3,4,4,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
-"689",136,"Utah Brewers Cooperative",1305562356,3,3.5,3.5,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"690",136,"Utah Brewers Cooperative",1302404547,3.5,3,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"691",136,"Utah Brewers Cooperative",1301362453,2.5,3,4,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"692",136,"Utah Brewers Cooperative",1295058525,2,2,3.5,"American Porter",1.5,2,"Wasatch Polygamy Porter",4,1683
-"693",136,"Utah Brewers Cooperative",1292460163,3.5,3,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"694",136,"Utah Brewers Cooperative",1287423989,3,2,3.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
-"695",136,"Utah Brewers Cooperative",1279989680,4,4,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"696",136,"Utah Brewers Cooperative",1275711283,2.5,3.5,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"697",136,"Utah Brewers Cooperative",1274598623,3.5,2.5,3.5,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
-"698",136,"Utah Brewers Cooperative",1253056140,4,3,3.5,"American Porter",2,4.5,"Wasatch Polygamy Porter",4,1683
-"699",136,"Utah Brewers Cooperative",1208849468,4,4,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"700",136,"Utah Brewers Cooperative",1251614617,4,3.5,4.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"701",136,"Utah Brewers Cooperative",1243119547,4,3.5,4,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
-"702",136,"Utah Brewers Cooperative",1242616655,3.5,3.5,3.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"703",136,"Utah Brewers Cooperative",1240781194,4,3,3.5,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
-"704",136,"Utah Brewers Cooperative",1237308449,4,3,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"705",136,"Utah Brewers Cooperative",1236827069,4,3.5,3,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"706",136,"Utah Brewers Cooperative",1233428927,3,3,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"707",136,"Utah Brewers Cooperative",1233016966,2.5,3.5,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"708",136,"Utah Brewers Cooperative",1232802686,2.5,3,3,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
-"709",136,"Utah Brewers Cooperative",1231781732,4,3.5,3.5,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
-"710",136,"Utah Brewers Cooperative",1227473062,3,3.5,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"711",136,"Utah Brewers Cooperative",1222835329,1,2.5,4,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"712",136,"Utah Brewers Cooperative",1222820185,3.5,3,3,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"713",136,"Utah Brewers Cooperative",1220732755,3.5,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"714",136,"Utah Brewers Cooperative",1218554336,3.5,3.5,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"715",136,"Utah Brewers Cooperative",1216594927,4,3.5,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"716",136,"Utah Brewers Cooperative",1215996040,3,3,4,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"717",136,"Utah Brewers Cooperative",1215618410,3,3,3,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"718",136,"Utah Brewers Cooperative",1213679127,3,3,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"719",136,"Utah Brewers Cooperative",1212556978,3.5,2,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"720",136,"Utah Brewers Cooperative",1207097665,4.5,3.5,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"721",136,"Utah Brewers Cooperative",1205029134,4,4.5,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
-"722",136,"Utah Brewers Cooperative",1204087540,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"723",136,"Utah Brewers Cooperative",1204084122,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"724",136,"Utah Brewers Cooperative",1199872050,3,3,4,"American Porter",2,3.5,"Wasatch Polygamy Porter",4,1683
-"725",136,"Utah Brewers Cooperative",1199073837,3.5,3,4,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"726",136,"Utah Brewers Cooperative",1195518385,2.5,3.5,3.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
-"727",136,"Utah Brewers Cooperative",1194479375,3,3.5,4,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"728",136,"Utah Brewers Cooperative",1193518814,3,3.5,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"729",136,"Utah Brewers Cooperative",1192918134,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"730",136,"Utah Brewers Cooperative",1190780714,4,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"731",136,"Utah Brewers Cooperative",1190265506,3,4,4,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
-"732",136,"Utah Brewers Cooperative",1187836546,3,3.5,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"733",136,"Utah Brewers Cooperative",1187226943,3.5,3,3.5,"American Porter",4,3,"Wasatch Polygamy Porter",4,1683
-"734",136,"Utah Brewers Cooperative",1186733987,3.5,4,3,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
-"735",136,"Utah Brewers Cooperative",1178957446,4.5,3.5,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
-"736",136,"Utah Brewers Cooperative",1174440437,4,4,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"737",136,"Utah Brewers Cooperative",1173332891,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
-"738",136,"Utah Brewers Cooperative",1172006557,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"739",136,"Utah Brewers Cooperative",1171768028,4.5,3.5,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
-"740",136,"Utah Brewers Cooperative",1171033988,3,2.5,3.5,"American Porter",3.5,2.5,"Wasatch Polygamy Porter",4,1683
-"741",136,"Utah Brewers Cooperative",1171030404,4,3.5,3.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
-"742",136,"Utah Brewers Cooperative",1169241347,3,2.5,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"743",136,"Utah Brewers Cooperative",1168390593,4,3,3.5,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
-"744",136,"Utah Brewers Cooperative",1167620611,3.5,4,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"745",136,"Utah Brewers Cooperative",1167617929,4,2.5,3,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
-"746",136,"Utah Brewers Cooperative",1167018718,3,3,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
-"747",136,"Utah Brewers Cooperative",1166743924,3,3,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"748",136,"Utah Brewers Cooperative",1166570797,3,4.5,3.5,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"749",136,"Utah Brewers Cooperative",1165293817,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"750",136,"Utah Brewers Cooperative",1162626257,2,3.5,3.5,"American Porter",1.5,2.5,"Wasatch Polygamy Porter",4,1683
-"751",136,"Utah Brewers Cooperative",1157768374,1.5,2,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"752",136,"Utah Brewers Cooperative",1156802996,2.5,3,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
-"753",136,"Utah Brewers Cooperative",1156216828,2.5,2,2,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
-"754",136,"Utah Brewers Cooperative",1155528747,4,4,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
-"755",136,"Utah Brewers Cooperative",1148701286,3.5,4,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"756",136,"Utah Brewers Cooperative",1148006187,2.5,1.5,4,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
-"757",136,"Utah Brewers Cooperative",1147761910,4,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
-"758",136,"Utah Brewers Cooperative",1146116875,4,3.5,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
-"759",136,"Utah Brewers Cooperative",1142732127,4.5,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
-"760",136,"Utah Brewers Cooperative",1142732106,4.5,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
-"761",136,"Utah Brewers Cooperative",1137515337,4.5,4,4.5,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
-"762",136,"Utah Brewers Cooperative",1136238986,3,3.5,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"763",136,"Utah Brewers Cooperative",1130635613,4,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"764",136,"Utah Brewers Cooperative",1125427081,3.5,3.5,2.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
-"765",136,"Utah Brewers Cooperative",1122335396,3.5,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
-"766",136,"Utah Brewers Cooperative",1114786349,4,3,4.5,"American Porter",3.5,4.5,"Wasatch Polygamy Porter",4,1683
-"767",136,"Utah Brewers Cooperative",1321602322,3,3,3,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
-"768",136,"Utah Brewers Cooperative",1268106368,4.5,3,5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"769",136,"Utah Brewers Cooperative",1258940439,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
-"770",136,"Utah Brewers Cooperative",1247032524,5,3,3,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"771",136,"Utah Brewers Cooperative",1245895912,4,4,3.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"772",136,"Utah Brewers Cooperative",1232929639,3,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"773",136,"Utah Brewers Cooperative",1231896213,4.5,4,4.5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"774",136,"Utah Brewers Cooperative",1229743734,4.5,4,4,"American Adjunct Lager",4,4.5,"Wasatch 1st Amendment Lager",4,11281
-"775",136,"Utah Brewers Cooperative",1229575752,4.5,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"776",136,"Utah Brewers Cooperative",1207098911,3,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
-"777",136,"Utah Brewers Cooperative",1201163842,4.5,4,4.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"778",136,"Utah Brewers Cooperative",1199200722,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"779",136,"Utah Brewers Cooperative",1198546339,4,3.5,2,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"780",136,"Utah Brewers Cooperative",1182904558,4,3.5,3,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"781",136,"Utah Brewers Cooperative",1178332431,4,3.5,3,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"782",136,"Utah Brewers Cooperative",1177572911,4.5,3.5,3,"American Adjunct Lager",3,4,"Wasatch 1st Amendment Lager",4,11281
-"783",136,"Utah Brewers Cooperative",1176339658,3.5,3,2.5,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
-"784",136,"Utah Brewers Cooperative",1170167452,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Wasatch 1st Amendment Lager",4,11281
-"785",136,"Utah Brewers Cooperative",1168043723,4,2.5,3.5,"American Adjunct Lager",3,4,"Wasatch 1st Amendment Lager",4,11281
-"786",136,"Utah Brewers Cooperative",1166887246,4,3.5,3,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"787",136,"Utah Brewers Cooperative",1142281634,3.5,3.5,3.5,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
-"788",136,"Utah Brewers Cooperative",1125946867,4.5,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
-"789",136,"Utah Brewers Cooperative",1102292200,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
-"790",136,"Utah Brewers Cooperative",1100974862,3,3,3,"American Adjunct Lager",2,3,"Wasatch 1st Amendment Lager",4,11281
-"791",136,"Utah Brewers Cooperative",1082516852,2.5,2,2,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
-"792",136,"Utah Brewers Cooperative",1073965745,3,3.5,4,"American Adjunct Lager",3.5,3,"Wasatch 1st Amendment Lager",4,11281
-"793",136,"Utah Brewers Cooperative",1057522779,4,3.5,3.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
-"794",136,"Utah Brewers Cooperative",1251819569,4,4,3.5,"Witbier",4,4,"Squatters Wit Bier",4,24037
-"795",136,"Utah Brewers Cooperative",1198372336,4,3.5,4,"Witbier",4,4,"Squatters Wit Bier",4,24037
-"796",136,"Utah Brewers Cooperative",1183774528,3.5,4,3.5,"Witbier",4,4,"Squatters Wit Bier",4,24037
-"797",136,"Utah Brewers Cooperative",1178747332,3.5,3.5,3.5,"Witbier",3.5,3.5,"Squatters Wit Bier",4,24037
-"798",136,"Utah Brewers Cooperative",1117678040,3.5,3.5,4,"Witbier",3.5,3,"Squatters Wit Bier",4,24037
+"3",136,"Utah Brewers Cooperative",1164432455,4,3.5,3.5,"American Amber / Red Ale",4,4,"Wasatch Unofficial Amber Ale",4,1897
+"4",136,"Utah Brewers Cooperative",1101084897,4,4,3.5,"Vienna Lager",3.5,4,"Squatters Vienna Lager",4,3795
+"5",136,"Utah Brewers Cooperative",1033651777,3.5,4,3.5,"Hefeweizen",3.5,4,"Wasatch Hefe-Weizen",4,1684
+"6",136,"Utah Brewers Cooperative",1030384749,4,4,4,"Hefeweizen",4,4,"Wasatch Hefe-Weizen",4,1684
+"7",136,"Utah Brewers Cooperative",1315631191,3,2.5,3,"Doppelbock",2.5,3,"Wasatch Devastator Double Bock",8,40200
+"8",136,"Utah Brewers Cooperative",1118535669,4,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
+"9",136,"Utah Brewers Cooperative",1109651866,2.5,2,3,"American Amber / Red Ale",2.5,2,"Wasatch Unofficial Amber Ale",4,1897
+"10",136,"Utah Brewers Cooperative",1101097814,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
+"11",136,"Utah Brewers Cooperative",1065150957,3.5,3,3,"American Amber / Red Ale",4,3.5,"Wasatch Unofficial Amber Ale",4,1897
+"12",136,"Utah Brewers Cooperative",1035730960,3,3,3,"American Amber / Red Ale",2.5,3,"Wasatch Unofficial Amber Ale",4,1897
+"13",136,"Utah Brewers Cooperative",1030267296,3.5,4,4,"American Amber / Red Ale",3.5,3,"Wasatch Unofficial Amber Ale",4,1897
+"14",136,"Utah Brewers Cooperative",1004486401,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Unofficial Amber Ale",4,1897
+"15",136,"Utah Brewers Cooperative",1322625692,3.5,3.5,4,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
+"16",136,"Utah Brewers Cooperative",1320593344,3.5,4,3,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
+"17",136,"Utah Brewers Cooperative",1318374755,4,5,3.5,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
+"18",136,"Utah Brewers Cooperative",1317141252,3.5,3.5,3.5,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
+"19",136,"Utah Brewers Cooperative",1317083230,4,4,4,"Pumpkin Ale",4,3.5,"Wasatch Pumpkin Ale",4,33258
+"20",136,"Utah Brewers Cooperative",1316981401,4,4,4,"Pumpkin Ale",4,4.5,"Wasatch Pumpkin Ale",4,33258
+"21",136,"Utah Brewers Cooperative",1316730006,4,4.5,3.5,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
+"22",136,"Utah Brewers Cooperative",1316625829,4.5,4.5,3.5,"Pumpkin Ale",3,5,"Wasatch Pumpkin Ale",4,33258
+"23",136,"Utah Brewers Cooperative",1288192232,2,4.5,3,"Pumpkin Ale",2,1,"Wasatch Pumpkin Ale",4,33258
+"24",136,"Utah Brewers Cooperative",1287897630,4,4.5,3.5,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
+"25",136,"Utah Brewers Cooperative",1287448853,3.5,4.5,4,"Pumpkin Ale",3,3.5,"Wasatch Pumpkin Ale",4,33258
+"26",136,"Utah Brewers Cooperative",1287355984,3,3.5,3.5,"Pumpkin Ale",3.5,2.5,"Wasatch Pumpkin Ale",4,33258
+"27",136,"Utah Brewers Cooperative",1286337060,4,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
+"28",136,"Utah Brewers Cooperative",1285256511,4.5,4,4,"Pumpkin Ale",4,4.5,"Wasatch Pumpkin Ale",4,33258
+"29",136,"Utah Brewers Cooperative",1284782288,4,4,4,"Pumpkin Ale",2,3.5,"Wasatch Pumpkin Ale",4,33258
+"30",136,"Utah Brewers Cooperative",1283652986,3,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
+"31",136,"Utah Brewers Cooperative",1223231555,4,4,4,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
+"32",136,"Utah Brewers Cooperative",1190949149,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Wasatch Pumpkin Ale",4,33258
+"33",136,"Utah Brewers Cooperative",1174519573,4,4,4,"Pumpkin Ale",4,4,"Wasatch Pumpkin Ale",4,33258
+"34",136,"Utah Brewers Cooperative",1171842692,4,4,3.5,"Pumpkin Ale",4,3.5,"Wasatch Pumpkin Ale",4,33258
+"35",136,"Utah Brewers Cooperative",1171786219,4,3,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
+"36",136,"Utah Brewers Cooperative",1169435216,3,3.5,3.5,"Pumpkin Ale",3,2.5,"Wasatch Pumpkin Ale",4,33258
+"37",136,"Utah Brewers Cooperative",1166886502,4,3,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
+"38",136,"Utah Brewers Cooperative",1246400858,4,3.5,3.5,"Kölsch",3.5,3.5,"Wasatch Summer Twilight",4,49249
+"39",136,"Utah Brewers Cooperative",1243186562,4,3.5,3.5,"Kölsch",4,4,"Wasatch Summer Twilight",4,49249
+"40",136,"Utah Brewers Cooperative",1166278244,3.5,4,4,"Pumpkin Ale",3.5,3.5,"Wasatch Pumpkin Ale",4,33258
+"41",136,"Utah Brewers Cooperative",1166141402,4,4,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
+"42",136,"Utah Brewers Cooperative",1162083228,3,4,3.5,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
+"43",136,"Utah Brewers Cooperative",1161045530,4,3.5,4,"Pumpkin Ale",3.5,4,"Wasatch Pumpkin Ale",4,33258
+"44",136,"Utah Brewers Cooperative",1277402591,4,3.5,3.5,"Kölsch",3.5,4,"Wasatch Summer Twilight",4,49249
+"45",136,"Utah Brewers Cooperative",1276134794,5,4,4,"Kölsch",4.5,5,"Wasatch Summer Twilight",4,49249
+"46",136,"Utah Brewers Cooperative",1252878212,4,3,3.5,"Kölsch",3.5,3.5,"Wasatch Summer Twilight",4,49249
+"47",136,"Utah Brewers Cooperative",1247723784,3.5,3,3.5,"Kölsch",4,3.5,"Wasatch Summer Twilight",4,49249
+"48",136,"Utah Brewers Cooperative",1065062396,3.5,3,3,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
+"49",136,"Utah Brewers Cooperative",1242948788,4,3,3.5,"Kölsch",3,3.5,"Wasatch Summer Twilight",4,49249
+"50",136,"Utah Brewers Cooperative",1240156419,4,3.5,3.5,"Kölsch",4,3,"Wasatch Summer Twilight",4,49249
+"51",136,"Utah Brewers Cooperative",1240106152,4,3.5,3.5,"Kölsch",4,4,"Wasatch Summer Twilight",4,49249
+"52",136,"Utah Brewers Cooperative",1292913332,3.5,3,2.5,"Fruit / Vegetable Beer",3,4,"Wasatch Raspberry Wheat Beer",4,10862
+"53",136,"Utah Brewers Cooperative",1186939728,4,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Wasatch Raspberry Wheat Beer",4,10862
+"54",136,"Utah Brewers Cooperative",1186803577,3,3,3,"Fruit / Vegetable Beer",2.5,3,"Wasatch Raspberry Wheat Beer",4,10862
+"55",136,"Utah Brewers Cooperative",1186455373,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Raspberry Wheat Beer",4,10862
+"56",136,"Utah Brewers Cooperative",1183848740,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Raspberry Wheat Beer",4,10862
+"57",136,"Utah Brewers Cooperative",1142732247,3,3,3,"Fruit / Vegetable Beer",3,3,"Wasatch Raspberry Wheat Beer",4,10862
+"58",136,"Utah Brewers Cooperative",1065150698,2.5,3,4,"Fruit / Vegetable Beer",3,3,"Wasatch Raspberry Wheat Beer",4,10862
+"59",136,"Utah Brewers Cooperative",1216214157,4,4,3.5,"Hefeweizen",3.5,4,"Wasatch Hefe-Weizen",4,1684
+"60",136,"Utah Brewers Cooperative",1199001659,3.5,3.5,4,"Hefeweizen",4,3.5,"Wasatch Hefe-Weizen",4,1684
+"61",136,"Utah Brewers Cooperative",1151614976,3,2,2,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
+"62",136,"Utah Brewers Cooperative",1002758401,4,3,4,"Hefeweizen",3,3,"Wasatch Hefe-Weizen",4,1684
+"63",136,"Utah Brewers Cooperative",1319958279,4,4.5,4.5,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"64",136,"Utah Brewers Cooperative",1313961580,4,4.5,4.5,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"65",136,"Utah Brewers Cooperative",1306539468,3.5,3.5,4,"American IPA",3.5,3,"Squatters India Pale Ale",6,3799
+"66",136,"Utah Brewers Cooperative",1300132062,3.5,3,4.5,"American IPA",4.5,4,"Squatters India Pale Ale",6,3799
+"67",136,"Utah Brewers Cooperative",1298839867,3.5,4,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"68",136,"Utah Brewers Cooperative",1259635258,4,3.5,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"69",136,"Utah Brewers Cooperative",1252602471,4,4.5,4,"American IPA",3,4,"Squatters India Pale Ale",6,3799
+"70",136,"Utah Brewers Cooperative",1243712417,4,3.5,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"71",136,"Utah Brewers Cooperative",1238118497,4,4,4.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"72",136,"Utah Brewers Cooperative",1233283614,4,3.5,3.5,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"73",136,"Utah Brewers Cooperative",1232070605,4,3.5,4,"American IPA",3,3.5,"Squatters India Pale Ale",6,3799
+"74",136,"Utah Brewers Cooperative",1226978740,4,4,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"75",136,"Utah Brewers Cooperative",1223160567,3,2.5,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"76",136,"Utah Brewers Cooperative",1220013922,4,3.5,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"77",136,"Utah Brewers Cooperative",1216049844,5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
+"78",136,"Utah Brewers Cooperative",1173727078,2.5,3.5,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
+"79",136,"Utah Brewers Cooperative",1205297129,3.5,3.5,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"80",136,"Utah Brewers Cooperative",1202264259,3,3,3,"American IPA",3.5,3,"Squatters India Pale Ale",6,3799
+"81",136,"Utah Brewers Cooperative",1198600107,3,3.5,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
+"82",136,"Utah Brewers Cooperative",1198449259,4,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
+"83",136,"Utah Brewers Cooperative",1192999020,4,4,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"84",136,"Utah Brewers Cooperative",1190578753,3.5,3,3,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"85",136,"Utah Brewers Cooperative",1188003746,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"86",136,"Utah Brewers Cooperative",1185002321,4.5,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"87",136,"Utah Brewers Cooperative",1173450915,4.5,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"88",136,"Utah Brewers Cooperative",1169090452,4,3.5,3.5,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"89",136,"Utah Brewers Cooperative",1168732843,4.5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
+"90",136,"Utah Brewers Cooperative",1167021523,3.5,3.5,4,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"91",136,"Utah Brewers Cooperative",1164909793,4,4,4,"American IPA",4,3.5,"Squatters India Pale Ale",6,3799
+"92",136,"Utah Brewers Cooperative",1161401439,3,3,3,"American IPA",3,3,"Squatters India Pale Ale",6,3799
+"93",136,"Utah Brewers Cooperative",1156967846,3.5,4,3,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"94",136,"Utah Brewers Cooperative",1156290316,3,3,3.5,"American IPA",3,3,"Squatters India Pale Ale",6,3799
+"95",136,"Utah Brewers Cooperative",1154211559,4,4.5,4,"American IPA",3,4,"Squatters India Pale Ale",6,3799
+"96",136,"Utah Brewers Cooperative",1153190002,5,5,5,"American IPA",4.5,5,"Squatters India Pale Ale",6,3799
+"97",136,"Utah Brewers Cooperative",1151443677,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"98",136,"Utah Brewers Cooperative",1150171041,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"99",136,"Utah Brewers Cooperative",1148003534,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"100",136,"Utah Brewers Cooperative",1147832856,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"101",136,"Utah Brewers Cooperative",1099165941,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"102",136,"Utah Brewers Cooperative",1144648047,5,5,5,"American IPA",5,5,"Squatters India Pale Ale",6,3799
+"103",136,"Utah Brewers Cooperative",1142281474,3,3.5,3,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"104",136,"Utah Brewers Cooperative",1136675442,5,3.5,3,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"105",136,"Utah Brewers Cooperative",1124836589,5,4.5,4,"American IPA",4.5,4,"Squatters India Pale Ale",6,3799
+"106",136,"Utah Brewers Cooperative",1122965572,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"107",136,"Utah Brewers Cooperative",1122165958,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"108",136,"Utah Brewers Cooperative",1118278640,4,4,4,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"109",136,"Utah Brewers Cooperative",1116875253,4.5,3.5,2.5,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"110",136,"Utah Brewers Cooperative",1111520720,4,3.5,4,"American IPA",3.5,4,"Squatters India Pale Ale",6,3799
+"111",136,"Utah Brewers Cooperative",1111458626,4,3.5,3,"American IPA",4,4,"Squatters India Pale Ale",6,3799
+"112",136,"Utah Brewers Cooperative",1085893154,4.5,4,4,"American IPA",4,4.5,"Squatters India Pale Ale",6,3799
+"113",136,"Utah Brewers Cooperative",1067279301,4,3.5,3.5,"American IPA",3.5,3.5,"Squatters India Pale Ale",6,3799
+"114",136,"Utah Brewers Cooperative",1022141208,3.5,3,4,"American IPA",3,3,"Squatters India Pale Ale",6,3799
+"115",136,"Utah Brewers Cooperative",1231995456,4,4.5,3.5,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
+"116",136,"Utah Brewers Cooperative",1220847297,3.5,3,3.5,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"117",136,"Utah Brewers Cooperative",1216739466,3.5,3,3,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
+"118",136,"Utah Brewers Cooperative",1216595695,4,3.5,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"119",136,"Utah Brewers Cooperative",1215617736,4,3,2.5,"German Pilsener",3,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"120",136,"Utah Brewers Cooperative",1212892491,4.5,4,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"121",136,"Utah Brewers Cooperative",1208760008,4,4.5,4,"German Pilsener",3,4,"Squatters St. Provo Girl Pilsner",4,3797
+"122",136,"Utah Brewers Cooperative",1207100088,4,3.5,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"123",136,"Utah Brewers Cooperative",1198599856,4,3.5,3,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"124",136,"Utah Brewers Cooperative",1182906871,3.5,3,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"125",136,"Utah Brewers Cooperative",1181875271,4.5,4,3.5,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"126",136,"Utah Brewers Cooperative",1175389656,4.5,3.5,3.5,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
+"127",136,"Utah Brewers Cooperative",1171635251,4,4,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
+"128",136,"Utah Brewers Cooperative",1166764592,3.5,3,3,"German Pilsener",3,4,"Squatters St. Provo Girl Pilsner",4,3797
+"129",136,"Utah Brewers Cooperative",1166243455,3,3,3,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
+"130",136,"Utah Brewers Cooperative",1160857615,4,4,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
+"131",136,"Utah Brewers Cooperative",1147762330,3.5,3.5,4,"German Pilsener",4,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"132",136,"Utah Brewers Cooperative",1127004017,4,3.5,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
+"133",136,"Utah Brewers Cooperative",1122964191,3.5,3.5,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"134",136,"Utah Brewers Cooperative",1111950317,4.5,3.5,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
+"135",136,"Utah Brewers Cooperative",1102444645,3,3,4,"German Pilsener",3.5,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"136",136,"Utah Brewers Cooperative",1100973479,4,3,4,"German Pilsener",4,4.5,"Squatters St. Provo Girl Pilsner",4,3797
+"137",136,"Utah Brewers Cooperative",1086571985,3.5,3.5,4,"German Pilsener",3.5,4,"Squatters St. Provo Girl Pilsner",4,3797
+"138",136,"Utah Brewers Cooperative",1078982273,3.5,3,3.5,"German Pilsener",3,3.5,"Squatters St. Provo Girl Pilsner",4,3797
+"139",136,"Utah Brewers Cooperative",1073974992,3,3.5,3,"German Pilsener",2.5,2.5,"Squatters St. Provo Girl Pilsner",4,3797
+"140",136,"Utah Brewers Cooperative",1064373927,4,3.5,4,"German Pilsener",4,4,"Squatters St. Provo Girl Pilsner",4,3797
+"141",136,"Utah Brewers Cooperative",1047914066,4.5,3.5,4,"German Pilsener",4.5,4,"Squatters St. Provo Girl Pilsner",4,3797
+"142",136,"Utah Brewers Cooperative",1035730593,3.5,3,3,"German Pilsener",3,3,"Squatters St. Provo Girl Pilsner",4,3797
+"143",136,"Utah Brewers Cooperative",1030128673,3.5,3,4,"German Pilsener",2.5,3,"Squatters St. Provo Girl Pilsner",4,3797
+"144",136,"Utah Brewers Cooperative",1022140155,3.5,3,3,"German Pilsener",3,3,"Squatters St. Provo Girl Pilsner",4,3797
+"145",136,"Utah Brewers Cooperative",1323069827,2.5,2.5,3,"Doppelbock",3,2.5,"Wasatch Devastator Double Bock",8,40200
+"146",136,"Utah Brewers Cooperative",1316379200,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"147",136,"Utah Brewers Cooperative",1315271539,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"148",136,"Utah Brewers Cooperative",1313380884,3,3.5,3,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
+"149",136,"Utah Brewers Cooperative",1311141267,3.5,4,3.5,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
+"150",136,"Utah Brewers Cooperative",1309450142,3,3,2.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
+"151",136,"Utah Brewers Cooperative",1306369993,3.5,3,4,"Doppelbock",3,4,"Wasatch Devastator Double Bock",8,40200
+"152",136,"Utah Brewers Cooperative",1305594290,3.5,3.5,4.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"153",136,"Utah Brewers Cooperative",1304566751,3.5,3,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"154",136,"Utah Brewers Cooperative",1302967612,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"155",136,"Utah Brewers Cooperative",1301325341,4,3,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"156",136,"Utah Brewers Cooperative",1298841069,4,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"157",136,"Utah Brewers Cooperative",1294411318,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"158",136,"Utah Brewers Cooperative",1291866982,3,2,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
+"159",136,"Utah Brewers Cooperative",1287801446,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"160",136,"Utah Brewers Cooperative",1286255082,4.5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
+"161",136,"Utah Brewers Cooperative",1283655635,3.5,3,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
+"162",136,"Utah Brewers Cooperative",1280877854,3.5,4,3.5,"Doppelbock",4.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"163",136,"Utah Brewers Cooperative",1278540704,4.5,4,3.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"164",136,"Utah Brewers Cooperative",1268202402,3.5,4,3.5,"Doppelbock",4.5,4.5,"Wasatch Devastator Double Bock",8,40200
+"165",136,"Utah Brewers Cooperative",1258943928,3,3,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
+"166",136,"Utah Brewers Cooperative",1246486757,3,3,4,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
+"167",136,"Utah Brewers Cooperative",1246195846,4,3.5,4.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"168",136,"Utah Brewers Cooperative",1243893523,4,3.5,4.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"169",136,"Utah Brewers Cooperative",1242613097,3,4,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"170",136,"Utah Brewers Cooperative",1242262916,4,3,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"171",136,"Utah Brewers Cooperative",1241494724,3.5,4,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"172",136,"Utah Brewers Cooperative",1240442853,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"173",136,"Utah Brewers Cooperative",1238125896,3,3,3.5,"Doppelbock",3.5,2.5,"Wasatch Devastator Double Bock",8,40200
+"174",136,"Utah Brewers Cooperative",1238124518,3,3,4,"Doppelbock",3,2.5,"Wasatch Devastator Double Bock",8,40200
+"175",136,"Utah Brewers Cooperative",1236110491,3,2,3,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"176",136,"Utah Brewers Cooperative",1235861585,3.5,3.5,3.5,"Doppelbock",3.5,3,"Wasatch Devastator Double Bock",8,40200
+"177",136,"Utah Brewers Cooperative",1235631575,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"178",136,"Utah Brewers Cooperative",1235436648,3.5,3,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
+"179",136,"Utah Brewers Cooperative",1234991847,4,3,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
+"180",136,"Utah Brewers Cooperative",1234140895,3.5,3.5,4,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"181",136,"Utah Brewers Cooperative",1233368797,3,3.5,3.5,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
+"182",136,"Utah Brewers Cooperative",1232756476,3.5,3.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"183",136,"Utah Brewers Cooperative",1230829027,3.5,4,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"184",136,"Utah Brewers Cooperative",1230355027,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"185",136,"Utah Brewers Cooperative",1229652833,4,3.5,4,"Doppelbock",4.5,4,"Wasatch Devastator Double Bock",8,40200
+"186",136,"Utah Brewers Cooperative",1226792524,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"187",136,"Utah Brewers Cooperative",1223839740,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"188",136,"Utah Brewers Cooperative",1223523134,4,3.5,4.5,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
+"189",136,"Utah Brewers Cooperative",1223076364,4,3.5,4,"Doppelbock",4,3.5,"Wasatch Devastator Double Bock",8,40200
+"190",136,"Utah Brewers Cooperative",1222834970,3,3.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"191",136,"Utah Brewers Cooperative",1221374198,3.5,4,4.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"192",136,"Utah Brewers Cooperative",1221230724,4.5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
+"193",136,"Utah Brewers Cooperative",1219465320,4,3.5,3.5,"Doppelbock",3,3.5,"Wasatch Devastator Double Bock",8,40200
+"194",136,"Utah Brewers Cooperative",1218946642,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"195",136,"Utah Brewers Cooperative",1217653157,4,3,3,"Doppelbock",2.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"196",136,"Utah Brewers Cooperative",1217070745,4,3.5,3.5,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"197",136,"Utah Brewers Cooperative",1215624399,3.5,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"198",136,"Utah Brewers Cooperative",1214598036,3.5,3.5,4,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"199",136,"Utah Brewers Cooperative",1214357825,3,3,4,"Doppelbock",2,3,"Wasatch Devastator Double Bock",8,40200
+"200",136,"Utah Brewers Cooperative",1214107939,3,3.5,4,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
+"201",136,"Utah Brewers Cooperative",1203641797,4,4,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"202",136,"Utah Brewers Cooperative",1212544478,2.5,3,4,"Doppelbock",3,3,"Wasatch Devastator Double Bock",8,40200
+"203",136,"Utah Brewers Cooperative",1209079960,4.5,3.5,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"204",136,"Utah Brewers Cooperative",1205304726,5,4,4,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
+"205",136,"Utah Brewers Cooperative",1205111504,3.5,4,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"206",136,"Utah Brewers Cooperative",1204860995,4,3,3,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"207",136,"Utah Brewers Cooperative",1204389010,3.5,4.5,4,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"208",136,"Utah Brewers Cooperative",1204336109,4,5,4.5,"Doppelbock",4,4.5,"Wasatch Devastator Double Bock",8,40200
+"209",136,"Utah Brewers Cooperative",1202587199,4,3.5,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"210",136,"Utah Brewers Cooperative",1201508326,4.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"211",136,"Utah Brewers Cooperative",1200859159,3.5,3.5,3.5,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"212",136,"Utah Brewers Cooperative",1199717173,4,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"213",136,"Utah Brewers Cooperative",1199660317,4.5,4,3,"Doppelbock",3.5,4,"Wasatch Devastator Double Bock",8,40200
+"214",136,"Utah Brewers Cooperative",1199241107,3.5,4,3.5,"Doppelbock",3.5,3.5,"Wasatch Devastator Double Bock",8,40200
+"215",136,"Utah Brewers Cooperative",1198377827,4,3.5,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"216",136,"Utah Brewers Cooperative",1198368106,4,4,4,"Doppelbock",4,4,"Wasatch Devastator Double Bock",8,40200
+"217",136,"Utah Brewers Cooperative",1320558637,2,2.5,4.5,"Czech Pilsener",2.5,2,"Wasatch Summerbrau Lager",5.6,49241
+"218",136,"Utah Brewers Cooperative",1315174588,2.5,3,3.5,"Czech Pilsener",2.5,2.5,"Wasatch Summerbrau Lager",5.6,49241
+"219",136,"Utah Brewers Cooperative",1311043003,4,4,3.5,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"220",136,"Utah Brewers Cooperative",1305575415,3,3.5,3.5,"Czech Pilsener",3,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"221",136,"Utah Brewers Cooperative",1288318500,4.5,3.5,3.5,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
+"222",136,"Utah Brewers Cooperative",1282873299,3.5,3,3,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"223",136,"Utah Brewers Cooperative",1278362499,3.5,3,3.5,"Czech Pilsener",3.5,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"224",136,"Utah Brewers Cooperative",1276122389,4,3.5,4,"Czech Pilsener",3.5,4,"Wasatch Summerbrau Lager",5.6,49241
+"225",136,"Utah Brewers Cooperative",1255840862,3.5,3,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
+"226",136,"Utah Brewers Cooperative",1253252097,3,4,4,"Czech Pilsener",3,3,"Wasatch Summerbrau Lager",5.6,49241
+"227",136,"Utah Brewers Cooperative",1251597099,4,4,4,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
+"228",136,"Utah Brewers Cooperative",1246468317,4,3,3.5,"Czech Pilsener",4,4,"Wasatch Summerbrau Lager",5.6,49241
+"229",136,"Utah Brewers Cooperative",1246392165,4.5,4,4,"Czech Pilsener",4.5,4,"Wasatch Summerbrau Lager",5.6,49241
+"230",136,"Utah Brewers Cooperative",1246385093,4.5,4.5,4,"Czech Pilsener",4,4.5,"Wasatch Summerbrau Lager",5.6,49241
+"231",136,"Utah Brewers Cooperative",1245270884,3.5,3.5,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
+"232",136,"Utah Brewers Cooperative",1243372958,4,3.5,4,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"233",136,"Utah Brewers Cooperative",1243186051,3,3,4,"Czech Pilsener",3.5,3,"Wasatch Summerbrau Lager",5.6,49241
+"234",136,"Utah Brewers Cooperative",1242945733,4,3,4,"Czech Pilsener",3.5,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"235",136,"Utah Brewers Cooperative",1240784034,4,3,4,"Czech Pilsener",4,3.5,"Wasatch Summerbrau Lager",5.6,49241
+"236",136,"Utah Brewers Cooperative",1240697378,5,4,4,"Czech Pilsener",4.5,4,"Wasatch Summerbrau Lager",5.6,49241
+"237",136,"Utah Brewers Cooperative",1325911136,4,4.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"238",136,"Utah Brewers Cooperative",1325139719,4,4.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
+"239",136,"Utah Brewers Cooperative",1324425476,3.5,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
+"240",136,"Utah Brewers Cooperative",1323827053,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Squatters Hop Rising",9,51785
+"241",136,"Utah Brewers Cooperative",1322289658,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Squatters Hop Rising",9,51785
+"242",136,"Utah Brewers Cooperative",1317777632,4,4.5,4,"American Double / Imperial IPA",3,4,"Squatters Hop Rising",9,51785
+"243",136,"Utah Brewers Cooperative",1316657588,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"244",136,"Utah Brewers Cooperative",1309932553,4,4,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"245",136,"Utah Brewers Cooperative",1309626096,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"246",136,"Utah Brewers Cooperative",1316564976,4,4,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
+"247",136,"Utah Brewers Cooperative",1316378393,4,4,4,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
+"248",136,"Utah Brewers Cooperative",1315583354,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
+"249",136,"Utah Brewers Cooperative",1314578106,2.5,3,3.5,"American Double / Imperial IPA",3,3,"Squatters Hop Rising",9,51785
+"250",136,"Utah Brewers Cooperative",1313710753,4,3,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"251",136,"Utah Brewers Cooperative",1313115096,3,3,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
+"252",136,"Utah Brewers Cooperative",1313103984,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
+"253",136,"Utah Brewers Cooperative",1312941177,4.5,4,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"254",136,"Utah Brewers Cooperative",1052231004,4,3.5,4,"American Pale Ale (APA)",2.5,3,"Squatters Pale Ale",4,1770
+"255",136,"Utah Brewers Cooperative",1308450212,4,3.5,4,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"256",136,"Utah Brewers Cooperative",1306539423,4,4,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
+"257",136,"Utah Brewers Cooperative",1306237959,3,3,4,"American Double / Imperial IPA",4,3.5,"Squatters Hop Rising",9,51785
+"258",136,"Utah Brewers Cooperative",1303875870,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"259",136,"Utah Brewers Cooperative",1286255367,4,4,4,"American Double / Imperial IPA",3.5,4,"Squatters Hop Rising",9,51785
+"260",136,"Utah Brewers Cooperative",1285632832,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Squatters Hop Rising",9,51785
+"261",136,"Utah Brewers Cooperative",1281493383,3,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Squatters Hop Rising",9,51785
+"262",136,"Utah Brewers Cooperative",1277003607,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
+"263",136,"Utah Brewers Cooperative",1268521526,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Squatters Hop Rising",9,51785
+"264",136,"Utah Brewers Cooperative",1263359202,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Squatters Hop Rising",9,51785
+"265",136,"Utah Brewers Cooperative",1259109599,5,4,4.5,"American Double / Imperial IPA",5,4.5,"Squatters Hop Rising",9,51785
+"266",136,"Utah Brewers Cooperative",1251965072,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Squatters Hop Rising",9,51785
+"267",136,"Utah Brewers Cooperative",1251858128,4,4,4,"American Double / Imperial IPA",3.5,4.5,"Squatters Hop Rising",9,51785
+"268",136,"Utah Brewers Cooperative",1249954518,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Squatters Hop Rising",9,51785
+"269",136,"Utah Brewers Cooperative",1259469016,4,3,3,"Dubbel",3,2.5,"Squatters Orphan Abbey",4,20777
+"270",136,"Utah Brewers Cooperative",1173762268,2,2,2.5,"Dubbel",1.5,1.5,"Squatters Orphan Abbey",4,20777
+"271",136,"Utah Brewers Cooperative",1168524280,2.5,3,3,"Dubbel",2.5,2.5,"Squatters Orphan Abbey",4,20777
+"272",136,"Utah Brewers Cooperative",1167890203,4,3.5,3,"Dubbel",2.5,3.5,"Squatters Orphan Abbey",4,20777
+"273",136,"Utah Brewers Cooperative",1167615979,4,2.5,4,"Dubbel",2.5,3,"Squatters Orphan Abbey",4,20777
+"274",136,"Utah Brewers Cooperative",1164761112,4,3.5,3.5,"Dubbel",4,4,"Squatters Orphan Abbey",4,20777
+"275",136,"Utah Brewers Cooperative",1112410160,1.5,3,4,"Dubbel",3,1.5,"Squatters Orphan Abbey",4,20777
+"276",136,"Utah Brewers Cooperative",1108696586,4,3.5,3.5,"Dubbel",4,3.5,"Squatters Orphan Abbey",4,20777
+"277",136,"Utah Brewers Cooperative",1100636570,4,3.5,3.5,"Dubbel",3.5,3.5,"Squatters Orphan Abbey",4,20777
+"278",136,"Utah Brewers Cooperative",1246468920,3,4,4,"American Pale Ale (APA)",3,2.5,"Squatters Pale Ale",4,1770
+"279",136,"Utah Brewers Cooperative",1082516588,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
+"280",136,"Utah Brewers Cooperative",1082157518,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
+"281",136,"Utah Brewers Cooperative",1073977560,3.5,4.5,3,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
+"282",136,"Utah Brewers Cooperative",1064373849,3.5,4,4,"American Pale Ale (APA)",3,3,"Squatters Pale Ale",4,1770
+"283",136,"Utah Brewers Cooperative",1058010301,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Squatters Pale Ale",4,1770
+"284",136,"Utah Brewers Cooperative",1035957221,3.5,3,3,"American Pale Ale (APA)",3,3,"Squatters Pale Ale",4,1770
+"285",136,"Utah Brewers Cooperative",1030129160,3,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Squatters Pale Ale",4,1770
+"286",136,"Utah Brewers Cooperative",1022786410,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Squatters Pale Ale",4,1770
+"287",136,"Utah Brewers Cooperative",1022171282,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Squatters Pale Ale",4,1770
+"288",136,"Utah Brewers Cooperative",1003190401,2,4,4,"American Pale Ale (APA)",2,2,"Squatters Pale Ale",4,1770
+"289",136,"Utah Brewers Cooperative",1171913586,3,3,3.5,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
+"290",136,"Utah Brewers Cooperative",1146962105,3,4,4.5,"American Amber / Red Ale",2,3,"Wasatch Superior Ale",4,1780
+"291",136,"Utah Brewers Cooperative",1130699868,3.5,3.5,4,"American Amber / Red Ale",3,3,"Wasatch Superior Ale",4,1780
+"292",136,"Utah Brewers Cooperative",1118607772,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Superior Ale",4,1780
+"293",136,"Utah Brewers Cooperative",1076979067,3.5,2,4,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
+"294",136,"Utah Brewers Cooperative",1065150879,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Superior Ale",4,1780
+"295",136,"Utah Brewers Cooperative",1009660068,1,3,3,"American Amber / Red Ale",2,2,"Wasatch Superior Ale",4,1780
+"296",136,"Utah Brewers Cooperative",1170944414,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Special Reserve Pale Ale",4,2873
+"297",136,"Utah Brewers Cooperative",1169582964,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Special Reserve Pale Ale",4,2873
+"298",136,"Utah Brewers Cooperative",1167860856,3.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Wasatch Special Reserve Pale Ale",4,2873
+"299",136,"Utah Brewers Cooperative",1156026528,2.5,3,2.5,"American Pale Ale (APA)",2.5,2,"Wasatch Special Reserve Pale Ale",4,2873
+"300",136,"Utah Brewers Cooperative",1111964565,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Wasatch Special Reserve Pale Ale",4,2873
+"301",136,"Utah Brewers Cooperative",1042112095,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Wasatch Special Reserve Pale Ale",4,2873
+"302",136,"Utah Brewers Cooperative",1035783493,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Special Reserve Pale Ale",4,2873
+"303",136,"Utah Brewers Cooperative",1318562703,3.5,3.5,3.5,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"304",136,"Utah Brewers Cooperative",1313350092,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"305",136,"Utah Brewers Cooperative",1277142327,4,4,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"306",136,"Utah Brewers Cooperative",1261016564,4,3.5,4,"Oatmeal Stout",3.5,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"307",136,"Utah Brewers Cooperative",1257293051,4.5,4,3.5,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"308",136,"Utah Brewers Cooperative",1235226024,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"309",136,"Utah Brewers Cooperative",1234714256,4,4,3,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"310",136,"Utah Brewers Cooperative",1230356858,2.5,3,4,"Oatmeal Stout",2.5,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"311",136,"Utah Brewers Cooperative",1223693776,3.5,3.5,3.5,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"312",136,"Utah Brewers Cooperative",1223394773,5,4.5,4.5,"Oatmeal Stout",5,5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"313",136,"Utah Brewers Cooperative",1216595618,4,3.5,4,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"314",136,"Utah Brewers Cooperative",1208850887,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"315",136,"Utah Brewers Cooperative",1198598129,4,4,4.5,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"316",136,"Utah Brewers Cooperative",1196727101,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"317",136,"Utah Brewers Cooperative",1178757543,3.5,3.5,3.5,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"318",136,"Utah Brewers Cooperative",1176694764,4,3.5,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"319",136,"Utah Brewers Cooperative",1175646454,3.5,3,3.5,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"320",136,"Utah Brewers Cooperative",1175356505,4,4,4,"Oatmeal Stout",4,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"321",136,"Utah Brewers Cooperative",1171582177,3,4.5,4,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"322",136,"Utah Brewers Cooperative",1169995903,4,4,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"323",136,"Utah Brewers Cooperative",1168309866,2.5,4,4,"Oatmeal Stout",3,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"324",136,"Utah Brewers Cooperative",1166724183,3,4,4,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"325",136,"Utah Brewers Cooperative",1166663033,3,3.5,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"326",136,"Utah Brewers Cooperative",1147761327,4.5,4,4,"Oatmeal Stout",4,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"327",136,"Utah Brewers Cooperative",1142287491,2.5,4.5,3.5,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"328",136,"Utah Brewers Cooperative",1138562772,4,3.5,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"329",136,"Utah Brewers Cooperative",1114786697,3.5,3,3.5,"Oatmeal Stout",3,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"330",136,"Utah Brewers Cooperative",1111949259,3.5,3.5,3.5,"Oatmeal Stout",4,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"331",136,"Utah Brewers Cooperative",1101097519,4.5,3,4,"Oatmeal Stout",3.5,4,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"332",136,"Utah Brewers Cooperative",1098428227,3,2.5,3.5,"Oatmeal Stout",2.5,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"333",136,"Utah Brewers Cooperative",1082516719,3,3.5,5,"Oatmeal Stout",3,2.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"334",136,"Utah Brewers Cooperative",1073963590,3,3.5,4,"Oatmeal Stout",2.5,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"335",136,"Utah Brewers Cooperative",1059505981,4,3.5,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"336",136,"Utah Brewers Cooperative",1058009895,4,3.5,3.5,"Oatmeal Stout",3,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"337",136,"Utah Brewers Cooperative",1034526823,3.5,3,4,"Oatmeal Stout",3.5,3.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"338",136,"Utah Brewers Cooperative",1033651576,3.5,3.5,4,"Oatmeal Stout",4,4.5,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"339",136,"Utah Brewers Cooperative",1004745601,3,4,4,"Oatmeal Stout",3,3,"Squatters Capt. Bastard's Oatmeal Stout",4,1909
+"340",136,"Utah Brewers Cooperative",1219372710,4,4,3,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
+"341",136,"Utah Brewers Cooperative",1313276536,3.5,3.5,4,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
+"342",136,"Utah Brewers Cooperative",1298411471,2,2,3,"American Amber / Red Ale",1.5,1.5,"Wasatch Evolution",4,27659
+"343",136,"Utah Brewers Cooperative",1269323579,3,3.5,2.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"344",136,"Utah Brewers Cooperative",1232658973,4,2.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
+"345",136,"Utah Brewers Cooperative",1231782351,3.5,3,3.5,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
+"346",136,"Utah Brewers Cooperative",1221577472,3.5,2.5,2.5,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
+"347",136,"Utah Brewers Cooperative",1215617128,4,4,3,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
+"348",136,"Utah Brewers Cooperative",1213159252,3.5,2.5,3,"American Amber / Red Ale",2.5,3,"Wasatch Evolution",4,27659
+"349",136,"Utah Brewers Cooperative",1208923248,3,3,4,"American Amber / Red Ale",2.5,2.5,"Wasatch Evolution",4,27659
+"350",136,"Utah Brewers Cooperative",1208478739,3.5,3,3.5,"American Amber / Red Ale",3.5,2.5,"Wasatch Evolution",4,27659
+"351",136,"Utah Brewers Cooperative",1205197959,3,3,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"352",136,"Utah Brewers Cooperative",1204649687,3.5,3,4.5,"American Amber / Red Ale",4,3.5,"Wasatch Evolution",4,27659
+"353",136,"Utah Brewers Cooperative",1204084309,3,3,3,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"354",136,"Utah Brewers Cooperative",1199073374,4,3.5,3.5,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
+"355",136,"Utah Brewers Cooperative",1199001405,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
+"356",136,"Utah Brewers Cooperative",1197593553,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
+"357",136,"Utah Brewers Cooperative",1196913426,3.5,4,4,"American Amber / Red Ale",3.5,3,"Wasatch Evolution",4,27659
+"358",136,"Utah Brewers Cooperative",1195509354,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
+"359",136,"Utah Brewers Cooperative",1195053564,3,3,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"360",136,"Utah Brewers Cooperative",1190858010,2.5,3,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"361",136,"Utah Brewers Cooperative",1188345771,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
+"362",136,"Utah Brewers Cooperative",1186610591,3,3.5,3.5,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"363",136,"Utah Brewers Cooperative",1180560491,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
+"364",136,"Utah Brewers Cooperative",1180227547,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
+"365",136,"Utah Brewers Cooperative",1177226590,4,3,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"366",136,"Utah Brewers Cooperative",1176334460,2.5,2.5,4,"American Amber / Red Ale",2.5,3,"Wasatch Evolution",4,27659
+"367",136,"Utah Brewers Cooperative",1173994006,4,3.5,4,"American Amber / Red Ale",3.5,4,"Wasatch Evolution",4,27659
+"368",136,"Utah Brewers Cooperative",1170965318,2.5,2.5,2.5,"American Amber / Red Ale",2.5,2.5,"Wasatch Evolution",4,27659
+"369",136,"Utah Brewers Cooperative",1169778660,2.5,2.5,3,"American Amber / Red Ale",3,2,"Wasatch Evolution",4,27659
+"370",136,"Utah Brewers Cooperative",1168499423,4,3.5,4,"American Amber / Red Ale",3,3,"Wasatch Evolution",4,27659
+"371",136,"Utah Brewers Cooperative",1167355440,3.5,3.5,3,"American Amber / Red Ale",3,3.5,"Wasatch Evolution",4,27659
+"372",136,"Utah Brewers Cooperative",1142289118,3.5,3,3.5,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
+"373",136,"Utah Brewers Cooperative",1140996365,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Wasatch Evolution",4,27659
+"374",136,"Utah Brewers Cooperative",1140330519,4,4,4,"American Amber / Red Ale",3,4,"Wasatch Evolution",4,27659
+"375",136,"Utah Brewers Cooperative",1136336828,4,3.5,3.5,"American Amber / Red Ale",4,4,"Wasatch Evolution",4,27659
+"376",136,"Utah Brewers Cooperative",1303664458,4,4,4,"American Pale Ale (APA)",4,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"377",136,"Utah Brewers Cooperative",1287494048,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"378",136,"Utah Brewers Cooperative",1250003656,4,4.5,3,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
+"379",136,"Utah Brewers Cooperative",1220014111,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"380",136,"Utah Brewers Cooperative",1216594989,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"381",136,"Utah Brewers Cooperative",1213159817,3,4,4,"American Pale Ale (APA)",3,4,"Squatters Full Suspension Pale Ale",4,20844
+"382",136,"Utah Brewers Cooperative",1208848123,4.5,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
+"383",136,"Utah Brewers Cooperative",1207098213,4,3.5,3.5,"American Pale Ale (APA)",3,3,"Squatters Full Suspension Pale Ale",4,20844
+"384",136,"Utah Brewers Cooperative",1200284733,5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"385",136,"Utah Brewers Cooperative",1196609516,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"386",136,"Utah Brewers Cooperative",1186332392,5,4,3,"American Pale Ale (APA)",2.5,2.5,"Squatters Full Suspension Pale Ale",4,20844
+"387",136,"Utah Brewers Cooperative",1178886153,4.5,4,4,"American Pale Ale (APA)",2.5,4,"Squatters Full Suspension Pale Ale",4,20844
+"388",136,"Utah Brewers Cooperative",1178153597,4.5,3.5,4,"American Pale Ale (APA)",4.5,4,"Squatters Full Suspension Pale Ale",4,20844
+"389",136,"Utah Brewers Cooperative",1176607072,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Full Suspension Pale Ale",4,20844
+"390",136,"Utah Brewers Cooperative",1170308802,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Squatters Full Suspension Pale Ale",4,20844
+"391",136,"Utah Brewers Cooperative",1169516236,3,3.5,4.5,"American Pale Ale (APA)",2.5,3,"Squatters Full Suspension Pale Ale",4,20844
+"392",136,"Utah Brewers Cooperative",1168006347,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"393",136,"Utah Brewers Cooperative",1167023983,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"394",136,"Utah Brewers Cooperative",1147760034,4,4,3.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"395",136,"Utah Brewers Cooperative",1135131322,3.5,2.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"396",136,"Utah Brewers Cooperative",1124597084,3.5,3.5,3.5,"American Pale Ale (APA)",3,4,"Squatters Full Suspension Pale Ale",4,20844
+"397",136,"Utah Brewers Cooperative",1122965319,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"398",136,"Utah Brewers Cooperative",1119926109,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"399",136,"Utah Brewers Cooperative",1119061742,4,4,4,"American Pale Ale (APA)",4,4,"Squatters Full Suspension Pale Ale",4,20844
+"400",136,"Utah Brewers Cooperative",1115129952,3,3,4,"American Pale Ale (APA)",3,3,"Squatters Full Suspension Pale Ale",4,20844
+"401",136,"Utah Brewers Cooperative",1115129930,4,3,3.5,"American Pale Ale (APA)",3.5,4.5,"Squatters Full Suspension Pale Ale",4,20844
+"402",136,"Utah Brewers Cooperative",1111951975,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Squatters Full Suspension Pale Ale",4,20844
+"403",136,"Utah Brewers Cooperative",1100970710,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Full Suspension Pale Ale",4,20844
+"404",136,"Utah Brewers Cooperative",1325540816,4,4,4,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
+"405",136,"Utah Brewers Cooperative",1324435037,4,4,4,"American Strong Ale",4.5,3.5,"Wasatch Winterfest",7.1,46222
+"406",136,"Utah Brewers Cooperative",1320295903,4.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"407",136,"Utah Brewers Cooperative",1318725715,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"408",136,"Utah Brewers Cooperative",1316378715,3,3.5,4,"American Strong Ale",3,3.5,"Wasatch Winterfest",7.1,46222
+"409",136,"Utah Brewers Cooperative",1274237292,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Wasatch Winterfest",7.1,46222
+"410",136,"Utah Brewers Cooperative",1312065656,3.5,4,4.5,"American Strong Ale",2.5,3.5,"Wasatch Winterfest",7.1,46222
+"411",136,"Utah Brewers Cooperative",1301177716,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"412",136,"Utah Brewers Cooperative",1300067017,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"413",136,"Utah Brewers Cooperative",1298429435,4,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"414",136,"Utah Brewers Cooperative",1298318502,4,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
+"415",136,"Utah Brewers Cooperative",1294022115,4,3.5,4.5,"American Strong Ale",4,3.5,"Wasatch Winterfest",7.1,46222
+"416",136,"Utah Brewers Cooperative",1293233411,4,3.5,4.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
+"417",136,"Utah Brewers Cooperative",1290310933,4.5,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
+"418",136,"Utah Brewers Cooperative",1324615228,4,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Squatters Hell's Keep",7.75,51784
+"419",136,"Utah Brewers Cooperative",1272427756,4,3.5,4.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
+"420",136,"Utah Brewers Cooperative",1271812063,3,4,4.5,"American Strong Ale",4,3,"Wasatch Winterfest",7.1,46222
+"421",136,"Utah Brewers Cooperative",1267158239,3.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"422",136,"Utah Brewers Cooperative",1261536951,4,3.5,4.5,"American Strong Ale",3,4,"Wasatch Winterfest",7.1,46222
+"423",136,"Utah Brewers Cooperative",1260370071,4,4,4.5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
+"424",136,"Utah Brewers Cooperative",1258443390,3.5,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"425",136,"Utah Brewers Cooperative",1249601357,4,4,4.5,"American Strong Ale",4,3.5,"Wasatch Winterfest",7.1,46222
+"426",136,"Utah Brewers Cooperative",1246463785,4,4,3.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"427",136,"Utah Brewers Cooperative",1245870194,4,3.5,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"428",136,"Utah Brewers Cooperative",1319757930,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
+"429",136,"Utah Brewers Cooperative",1245573850,4.5,4,5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"430",136,"Utah Brewers Cooperative",1243392013,4,4,5,"American Strong Ale",4.5,4,"Wasatch Winterfest",7.1,46222
+"431",136,"Utah Brewers Cooperative",1243128589,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"432",136,"Utah Brewers Cooperative",1242509873,4,4,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"433",136,"Utah Brewers Cooperative",1242484808,4.5,4.5,5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"434",136,"Utah Brewers Cooperative",1241559597,4,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"435",136,"Utah Brewers Cooperative",1240348447,4.5,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"436",136,"Utah Brewers Cooperative",1238027117,4.5,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"437",136,"Utah Brewers Cooperative",1235015977,4,4.5,5,"American Strong Ale",4.5,4.5,"Wasatch Winterfest",7.1,46222
+"438",136,"Utah Brewers Cooperative",1234023826,4.5,4,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"439",136,"Utah Brewers Cooperative",1233626939,4,4.5,4,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"440",136,"Utah Brewers Cooperative",1233466225,4.5,4,4,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"441",136,"Utah Brewers Cooperative",1233123076,4,4,4,"American Strong Ale",3.5,4.5,"Wasatch Winterfest",7.1,46222
+"442",136,"Utah Brewers Cooperative",1232756178,4,4,4,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
+"443",136,"Utah Brewers Cooperative",1231475738,4,4,5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
+"444",136,"Utah Brewers Cooperative",1231432693,4,4,4.5,"American Strong Ale",3.5,3,"Wasatch Winterfest",7.1,46222
+"445",136,"Utah Brewers Cooperative",1231409318,4,4.5,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"446",136,"Utah Brewers Cooperative",1230308497,4,4,4.5,"American Strong Ale",4,4,"Wasatch Winterfest",7.1,46222
+"447",136,"Utah Brewers Cooperative",1230013911,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"Wasatch Winterfest",7.1,46222
+"448",136,"Utah Brewers Cooperative",1228066964,4,4,3.5,"American Strong Ale",3.5,4,"Wasatch Winterfest",7.1,46222
+"449",136,"Utah Brewers Cooperative",1227993313,4.5,4,4.5,"American Strong Ale",4,4.5,"Wasatch Winterfest",7.1,46222
+"450",136,"Utah Brewers Cooperative",1312860094,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Squatters Hell's Keep",7.75,51784
+"451",136,"Utah Brewers Cooperative",1306196931,4,3.5,4.5,"Belgian Strong Pale Ale",4.5,3.5,"Squatters Hell's Keep",7.75,51784
+"452",136,"Utah Brewers Cooperative",1306035568,4,4,5,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
+"453",136,"Utah Brewers Cooperative",1303864251,4,3,4,"Belgian Strong Pale Ale",4,3.5,"Squatters Hell's Keep",7.75,51784
+"454",136,"Utah Brewers Cooperative",1298770630,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Squatters Hell's Keep",7.75,51784
+"455",136,"Utah Brewers Cooperative",1282788167,4,4,4.5,"Belgian Strong Pale Ale",4.5,4.5,"Squatters Hell's Keep",7.75,51784
+"456",136,"Utah Brewers Cooperative",1276043963,4,3.5,4.5,"Belgian Strong Pale Ale",4.5,4,"Squatters Hell's Keep",7.75,51784
+"457",136,"Utah Brewers Cooperative",1251864265,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Squatters Hell's Keep",7.75,51784
+"458",136,"Utah Brewers Cooperative",1249954213,4,4,4,"Belgian Strong Pale Ale",4,4,"Squatters Hell's Keep",7.75,51784
+"459",136,"Utah Brewers Cooperative",1198448607,4,3,4,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
+"460",136,"Utah Brewers Cooperative",1177554914,4.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"461",136,"Utah Brewers Cooperative",1170277107,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"462",136,"Utah Brewers Cooperative",1169353702,4,3,3,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
+"463",136,"Utah Brewers Cooperative",1167620385,3,2.5,3,"American Pale Ale (APA)",2.5,3,"Squatters Chasing Tail Golden Ale",4,20869
+"464",136,"Utah Brewers Cooperative",1164774933,3,2.5,3,"American Pale Ale (APA)",2.5,3,"Squatters Chasing Tail Golden Ale",4,20869
+"465",136,"Utah Brewers Cooperative",1164319322,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"466",136,"Utah Brewers Cooperative",1156906773,3,3.5,3,"American Pale Ale (APA)",3,3,"Squatters Chasing Tail Golden Ale",4,20869
+"467",136,"Utah Brewers Cooperative",1101084628,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Squatters Chasing Tail Golden Ale",4,20869
+"468",136,"Utah Brewers Cooperative",1156008870,4.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"469",136,"Utah Brewers Cooperative",1153114945,4,3.5,2.5,"American Pale Ale (APA)",3.5,4,"Squatters Chasing Tail Golden Ale",4,20869
+"470",136,"Utah Brewers Cooperative",1152168881,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"471",136,"Utah Brewers Cooperative",1147760448,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"472",136,"Utah Brewers Cooperative",1146307668,2.5,2.5,2,"American Pale Ale (APA)",2,2,"Squatters Chasing Tail Golden Ale",4,20869
+"473",136,"Utah Brewers Cooperative",1142286946,3.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
+"474",136,"Utah Brewers Cooperative",1122964293,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"475",136,"Utah Brewers Cooperative",1118599358,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
+"476",136,"Utah Brewers Cooperative",1112673357,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Squatters Chasing Tail Golden Ale",4,20869
+"477",136,"Utah Brewers Cooperative",1111951319,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Squatters Chasing Tail Golden Ale",4,20869
+"478",136,"Utah Brewers Cooperative",1110939989,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Squatters Chasing Tail Golden Ale",4,20869
+"479",136,"Utah Brewers Cooperative",1196525744,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"480",136,"Utah Brewers Cooperative",1195510705,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
+"481",136,"Utah Brewers Cooperative",1190425490,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
+"482",136,"Utah Brewers Cooperative",1189724617,3,3.5,5,"American Pale Ale (APA)",3,3,"Wasatch Pale Ale",5.5,15612
+"483",136,"Utah Brewers Cooperative",1188963795,4.5,4,3.5,"American Pale Ale (APA)",5,4.5,"Wasatch Pale Ale",5.5,15612
+"484",136,"Utah Brewers Cooperative",1185837151,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Wasatch Pale Ale",5.5,15612
+"485",136,"Utah Brewers Cooperative",1182631617,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
+"486",136,"Utah Brewers Cooperative",1182483010,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
+"487",136,"Utah Brewers Cooperative",1181092884,4,4,3.5,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"488",136,"Utah Brewers Cooperative",1176609439,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Wasatch Pale Ale",5.5,15612
+"489",136,"Utah Brewers Cooperative",1176519835,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"490",136,"Utah Brewers Cooperative",1172452173,3,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
+"491",136,"Utah Brewers Cooperative",1171158216,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"492",136,"Utah Brewers Cooperative",1170514326,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Wasatch Pale Ale",5.5,15612
+"493",136,"Utah Brewers Cooperative",1166403222,4,3.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"494",136,"Utah Brewers Cooperative",1136747528,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Wasatch Pale Ale",5.5,15612
+"495",136,"Utah Brewers Cooperative",1123116758,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
+"496",136,"Utah Brewers Cooperative",1085893742,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Wasatch Pale Ale",5.5,15612
+"497",136,"Utah Brewers Cooperative",1075229127,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Wasatch Pale Ale",5.5,15612
+"498",136,"Utah Brewers Cooperative",1311401357,2.5,2.5,3.5,"Hefeweizen",3,2.5,"Squatters Hefeweizen",4,2398
+"499",136,"Utah Brewers Cooperative",1216595800,3,3.5,3.5,"Hefeweizen",3,2.5,"Squatters Hefeweizen",4,2398
+"500",136,"Utah Brewers Cooperative",1208760593,2.5,2.5,3,"Hefeweizen",2.5,2.5,"Squatters Hefeweizen",4,2398
+"501",136,"Utah Brewers Cooperative",1170468823,3.5,3.5,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
+"502",136,"Utah Brewers Cooperative",1138567794,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Squatters Hefeweizen",4,2398
+"503",136,"Utah Brewers Cooperative",1122964463,4,4,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
+"504",136,"Utah Brewers Cooperative",1112668089,4,3,3.5,"Hefeweizen",3.5,3.5,"Squatters Hefeweizen",4,2398
+"505",136,"Utah Brewers Cooperative",1101084074,2.5,2.5,3,"Hefeweizen",3,2,"Squatters Hefeweizen",4,2398
+"506",136,"Utah Brewers Cooperative",1099166167,3.5,2.5,3,"Hefeweizen",3,3,"Squatters Hefeweizen",4,2398
+"507",136,"Utah Brewers Cooperative",1073975351,2,2,2,"Hefeweizen",2,1.5,"Squatters Hefeweizen",4,2398
+"508",136,"Utah Brewers Cooperative",1030128438,4,4,4,"Hefeweizen",4,4,"Squatters Hefeweizen",4,2398
+"509",136,"Utah Brewers Cooperative",1122963986,3.5,3.5,4.5,"Vienna Lager",4,3.5,"Squatters Vienna Lager",4,3795
+"510",136,"Utah Brewers Cooperative",1009660923,1,2,3,"Hefeweizen",1,1,"Squatters Hefeweizen",4,2398
+"511",136,"Utah Brewers Cooperative",1151124421,3.5,3,4.5,"Vienna Lager",3.5,3.5,"Squatters Vienna Lager",4,3795
+"512",136,"Utah Brewers Cooperative",1147833511,4,3.5,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
+"513",136,"Utah Brewers Cooperative",1147587333,3.5,3,3.5,"Vienna Lager",3.5,3.5,"Squatters Vienna Lager",4,3795
+"514",136,"Utah Brewers Cooperative",1067907991,4,3.5,4,"Vienna Lager",3.5,4,"Squatters Vienna Lager",4,3795
+"515",136,"Utah Brewers Cooperative",1064374020,4,3.5,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
+"516",136,"Utah Brewers Cooperative",1030128763,4,4,4,"Vienna Lager",4,4,"Squatters Vienna Lager",4,3795
+"517",136,"Utah Brewers Cooperative",1022139517,4,3.5,3,"Vienna Lager",3,4,"Squatters Vienna Lager",4,3795
+"518",136,"Utah Brewers Cooperative",1238961987,5,4.5,5,"American Amber / Red Ale",4,5,"Squatters Organic Amber Ale",4,40203
+"519",136,"Utah Brewers Cooperative",1215352045,3.5,4,4,"American Amber / Red Ale",3,3.5,"Squatters Organic Amber Ale",4,40203
+"520",136,"Utah Brewers Cooperative",1210570048,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Squatters Organic Amber Ale",4,40203
+"521",136,"Utah Brewers Cooperative",1201492751,4,3.5,3.5,"American Amber / Red Ale",4,4,"Squatters Organic Amber Ale",4,40203
+"522",136,"Utah Brewers Cooperative",1198379775,4,3.5,4,"American Amber / Red Ale",3.5,4,"Squatters Organic Amber Ale",4,40203
+"523",136,"Utah Brewers Cooperative",1325040652,3.5,4.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"524",136,"Utah Brewers Cooperative",1287326265,4.5,3.5,3,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"525",136,"Utah Brewers Cooperative",1312228714,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"526",136,"Utah Brewers Cooperative",1281142207,3.5,3,2.5,"Fruit / Vegetable Beer",3,4,"Wasatch Apricot Hefeweizen",4,5661
+"527",136,"Utah Brewers Cooperative",1249492571,4.5,5,2,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
+"528",136,"Utah Brewers Cooperative",1241324981,4,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"529",136,"Utah Brewers Cooperative",1218067769,3.5,4,3,"Fruit / Vegetable Beer",2.5,3,"Wasatch Apricot Hefeweizen",4,5661
+"530",136,"Utah Brewers Cooperative",1216225106,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"531",136,"Utah Brewers Cooperative",1214873184,3.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"532",136,"Utah Brewers Cooperative",1208831671,3.5,2.5,3.5,"Fruit / Vegetable Beer",4.5,3,"Wasatch Apricot Hefeweizen",4,5661
+"533",136,"Utah Brewers Cooperative",1198459367,4,3.5,3,"Fruit / Vegetable Beer",3.5,3,"Wasatch Apricot Hefeweizen",4,5661
+"534",136,"Utah Brewers Cooperative",1188473692,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"535",136,"Utah Brewers Cooperative",1179130685,4,4,3,"Fruit / Vegetable Beer",3.5,3,"Wasatch Apricot Hefeweizen",4,5661
+"536",136,"Utah Brewers Cooperative",1176342156,2,2.5,2,"Fruit / Vegetable Beer",2.5,2,"Wasatch Apricot Hefeweizen",4,5661
+"537",136,"Utah Brewers Cooperative",1172942684,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
+"538",136,"Utah Brewers Cooperative",1171776741,4,3.5,3,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
+"539",136,"Utah Brewers Cooperative",1168698012,3.5,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"540",136,"Utah Brewers Cooperative",1167442427,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"541",136,"Utah Brewers Cooperative",1166743198,4.5,4,4,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
+"542",136,"Utah Brewers Cooperative",1166254750,4,4,4,"Fruit / Vegetable Beer",4,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"543",136,"Utah Brewers Cooperative",1141586662,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Wasatch Apricot Hefeweizen",4,5661
+"544",136,"Utah Brewers Cooperative",1117678607,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Wasatch Apricot Hefeweizen",4,5661
+"545",136,"Utah Brewers Cooperative",1030267405,4,4,4,"Fruit / Vegetable Beer",4,4,"Wasatch Apricot Hefeweizen",4,5661
+"546",136,"Utah Brewers Cooperative",1298487585,2,2.5,3.5,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
+"547",136,"Utah Brewers Cooperative",1258344598,3,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"548",136,"Utah Brewers Cooperative",1232591455,2.5,2.5,4,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
+"549",136,"Utah Brewers Cooperative",1232083654,3,3,4,"American Brown Ale",3.5,3,"Squatters Bobsled Brown Ale",4,22544
+"550",136,"Utah Brewers Cooperative",1205708898,4,3.5,4,"American Brown Ale",3.5,3,"Squatters Bobsled Brown Ale",4,22544
+"551",136,"Utah Brewers Cooperative",1204502796,3,3.5,4,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"552",136,"Utah Brewers Cooperative",1202666054,3,3,4,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"553",136,"Utah Brewers Cooperative",1177832219,4,3.5,3.5,"American Brown Ale",3.5,3.5,"Squatters Bobsled Brown Ale",4,22544
+"554",136,"Utah Brewers Cooperative",1174610028,3,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"555",136,"Utah Brewers Cooperative",1173726265,2.5,3,3,"American Brown Ale",2.5,2.5,"Squatters Bobsled Brown Ale",4,22544
+"556",136,"Utah Brewers Cooperative",1167888379,3.5,3.5,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"557",136,"Utah Brewers Cooperative",1165676326,3,3.5,3.5,"American Brown Ale",2.5,3,"Squatters Bobsled Brown Ale",4,22544
+"558",136,"Utah Brewers Cooperative",1137879183,3.5,3,3.5,"American Brown Ale",3,3,"Squatters Bobsled Brown Ale",4,22544
+"559",136,"Utah Brewers Cooperative",1112637115,3,3,3.5,"American Brown Ale",3,2.5,"Squatters Bobsled Brown Ale",4,22544
+"560",136,"Utah Brewers Cooperative",1110908554,4,4,4,"American Brown Ale",3.5,3.5,"Squatters Bobsled Brown Ale",4,22544
+"561",136,"Utah Brewers Cooperative",1326256352,4,2,1.5,"Witbier",4,4,"Wasatch White Label",6,45913
+"562",136,"Utah Brewers Cooperative",1316378829,3.5,3.5,4,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"563",136,"Utah Brewers Cooperative",1315450345,3.5,2.5,2.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"564",136,"Utah Brewers Cooperative",1313448703,4,3.5,4,"Witbier",4.5,4,"Wasatch White Label",6,45913
+"565",136,"Utah Brewers Cooperative",1310620918,3.5,3.5,3,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"566",136,"Utah Brewers Cooperative",1308796520,4,4,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"567",136,"Utah Brewers Cooperative",1305573775,4,4,3,"Witbier",3.5,4,"Wasatch White Label",6,45913
+"568",136,"Utah Brewers Cooperative",1304808856,3,3.5,3.5,"Witbier",3.5,3,"Wasatch White Label",6,45913
+"569",136,"Utah Brewers Cooperative",1300245102,4,4,3.5,"Witbier",3.5,4,"Wasatch White Label",6,45913
+"570",136,"Utah Brewers Cooperative",1294025108,3,3.5,3.5,"Witbier",3,3,"Wasatch White Label",6,45913
+"571",136,"Utah Brewers Cooperative",1290947217,4.5,4,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
+"572",136,"Utah Brewers Cooperative",1287801018,4,4,3.5,"Witbier",3,3.5,"Wasatch White Label",6,45913
+"573",136,"Utah Brewers Cooperative",1287335921,3.5,3,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"574",136,"Utah Brewers Cooperative",1286944087,4,4,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"575",136,"Utah Brewers Cooperative",1283400329,3.5,3.5,5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"576",136,"Utah Brewers Cooperative",1277258428,4.5,4,3,"Witbier",4,4,"Wasatch White Label",6,45913
+"577",136,"Utah Brewers Cooperative",1271211479,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"578",136,"Utah Brewers Cooperative",1268517412,3.5,4.5,4.5,"Witbier",3,4,"Wasatch White Label",6,45913
+"579",136,"Utah Brewers Cooperative",1262584505,4.5,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"580",136,"Utah Brewers Cooperative",1261843017,4.5,3.5,3.5,"Witbier",4,4.5,"Wasatch White Label",6,45913
+"581",136,"Utah Brewers Cooperative",1258941739,4,3.5,3.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"582",136,"Utah Brewers Cooperative",1251594325,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"583",136,"Utah Brewers Cooperative",1245202160,4,3.5,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
+"584",136,"Utah Brewers Cooperative",1244152369,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"585",136,"Utah Brewers Cooperative",1243477674,4,3.5,4,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"586",136,"Utah Brewers Cooperative",1238112472,4,4,3,"Witbier",4.5,4,"Wasatch White Label",6,45913
+"587",136,"Utah Brewers Cooperative",1233883491,4,3.5,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"588",136,"Utah Brewers Cooperative",1233690666,4,3.5,4.5,"Witbier",4.5,4,"Wasatch White Label",6,45913
+"589",136,"Utah Brewers Cooperative",1232755625,3.5,3.5,4,"Witbier",3.5,4,"Wasatch White Label",6,45913
+"590",136,"Utah Brewers Cooperative",1232084876,3,3.5,4.5,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"591",136,"Utah Brewers Cooperative",1231820084,5,4,3.5,"Witbier",5,4.5,"Wasatch White Label",6,45913
+"592",136,"Utah Brewers Cooperative",1114455177,3.5,3.5,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"593",136,"Utah Brewers Cooperative",1231377363,3.5,3.5,4,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"594",136,"Utah Brewers Cooperative",1231325931,4.5,4,3.5,"Witbier",4.5,4.5,"Wasatch White Label",6,45913
+"595",136,"Utah Brewers Cooperative",1231209306,4,4.5,3,"Witbier",3.5,4,"Wasatch White Label",6,45913
+"596",136,"Utah Brewers Cooperative",1230316350,3.5,3.5,4,"Witbier",3.5,3.5,"Wasatch White Label",6,45913
+"597",136,"Utah Brewers Cooperative",1229893142,4,4,4,"Witbier",4,4,"Wasatch White Label",6,45913
+"598",136,"Utah Brewers Cooperative",1228592480,4,4.5,4.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"599",136,"Utah Brewers Cooperative",1227329194,3.5,3.5,3.5,"Witbier",4,3.5,"Wasatch White Label",6,45913
+"600",136,"Utah Brewers Cooperative",1226717302,4,4,3.5,"Witbier",4,4,"Wasatch White Label",6,45913
+"601",136,"Utah Brewers Cooperative",1112673095,2.5,3,4,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
+"602",136,"Utah Brewers Cooperative",1111949776,3.5,4,3.5,"American Porter",4.5,3.5,"Wasatch Polygamy Porter",4,1683
+"603",136,"Utah Brewers Cooperative",1111468928,4,3.5,3,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
+"604",136,"Utah Brewers Cooperative",1109452638,4,2.5,3,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
+"605",136,"Utah Brewers Cooperative",1107478613,4,4,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
+"606",136,"Utah Brewers Cooperative",1107312209,4,3.5,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"607",136,"Utah Brewers Cooperative",1101786158,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"608",136,"Utah Brewers Cooperative",1207514771,4,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"609",136,"Utah Brewers Cooperative",1100969888,3.5,3,3,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"610",136,"Utah Brewers Cooperative",1100716036,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"611",136,"Utah Brewers Cooperative",1099166382,4,3,4,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
+"612",136,"Utah Brewers Cooperative",1094732883,3.5,3,3,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
+"613",136,"Utah Brewers Cooperative",1093993582,3.5,3,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"614",136,"Utah Brewers Cooperative",1085894703,4.5,4,3.5,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
+"615",136,"Utah Brewers Cooperative",1082516763,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"616",136,"Utah Brewers Cooperative",1078710974,3.5,2.5,4,"American Porter",4,3,"Wasatch Polygamy Porter",4,1683
+"617",136,"Utah Brewers Cooperative",1065150646,3.5,4,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"618",136,"Utah Brewers Cooperative",1058053020,2.5,2.5,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"619",136,"Utah Brewers Cooperative",1056213085,2,2.5,3,"American Porter",1,2,"Wasatch Polygamy Porter",4,1683
+"620",136,"Utah Brewers Cooperative",1042631251,2,2.5,3,"American Porter",3,2,"Wasatch Polygamy Porter",4,1683
+"621",136,"Utah Brewers Cooperative",1035783985,2,3,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"622",136,"Utah Brewers Cooperative",1034853881,4,2,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
+"623",136,"Utah Brewers Cooperative",1034530041,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"624",136,"Utah Brewers Cooperative",1030267506,3.5,3,3.5,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"625",136,"Utah Brewers Cooperative",1022785955,1.5,3,4,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"626",136,"Utah Brewers Cooperative",1015791663,2,3,2.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
+"627",136,"Utah Brewers Cooperative",1002758401,3,3.5,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"628",136,"Utah Brewers Cooperative",1324428085,3,3,2.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"629",136,"Utah Brewers Cooperative",1324404023,3.5,3,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"630",136,"Utah Brewers Cooperative",1324402622,2,2,2,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"631",136,"Utah Brewers Cooperative",1314237901,3.5,3.5,4,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"632",136,"Utah Brewers Cooperative",1311213661,3.5,3,3.5,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"633",136,"Utah Brewers Cooperative",1310005674,3,3,2,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"634",136,"Utah Brewers Cooperative",1308287853,3,3,3.5,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"635",136,"Utah Brewers Cooperative",1308147095,4,4,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"636",136,"Utah Brewers Cooperative",1307839352,3.5,4,4.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"637",136,"Utah Brewers Cooperative",1307408609,2.5,3,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"638",136,"Utah Brewers Cooperative",1306980536,3,4,4,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
+"639",136,"Utah Brewers Cooperative",1305562356,3,3.5,3.5,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"640",136,"Utah Brewers Cooperative",1302404547,3.5,3,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"641",136,"Utah Brewers Cooperative",1301362453,2.5,3,4,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"642",136,"Utah Brewers Cooperative",1295058525,2,2,3.5,"American Porter",1.5,2,"Wasatch Polygamy Porter",4,1683
+"643",136,"Utah Brewers Cooperative",1292460163,3.5,3,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"644",136,"Utah Brewers Cooperative",1287423989,3,2,3.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
+"645",136,"Utah Brewers Cooperative",1279989680,4,4,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"646",136,"Utah Brewers Cooperative",1275711283,2.5,3.5,3.5,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"647",136,"Utah Brewers Cooperative",1274598623,3.5,2.5,3.5,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
+"648",136,"Utah Brewers Cooperative",1253056140,4,3,3.5,"American Porter",2,4.5,"Wasatch Polygamy Porter",4,1683
+"649",136,"Utah Brewers Cooperative",1208849468,4,4,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"650",136,"Utah Brewers Cooperative",1251614617,4,3.5,4.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"651",136,"Utah Brewers Cooperative",1243119547,4,3.5,4,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
+"652",136,"Utah Brewers Cooperative",1242616655,3.5,3.5,3.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"653",136,"Utah Brewers Cooperative",1240781194,4,3,3.5,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
+"654",136,"Utah Brewers Cooperative",1237308449,4,3,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"655",136,"Utah Brewers Cooperative",1236827069,4,3.5,3,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"656",136,"Utah Brewers Cooperative",1233428927,3,3,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"657",136,"Utah Brewers Cooperative",1233016966,2.5,3.5,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"658",136,"Utah Brewers Cooperative",1232802686,2.5,3,3,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
+"659",136,"Utah Brewers Cooperative",1231781732,4,3.5,3.5,"American Porter",3.5,4,"Wasatch Polygamy Porter",4,1683
+"660",136,"Utah Brewers Cooperative",1227473062,3,3.5,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"661",136,"Utah Brewers Cooperative",1222835329,1,2.5,4,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"662",136,"Utah Brewers Cooperative",1222820185,3.5,3,3,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"663",136,"Utah Brewers Cooperative",1220732755,3.5,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"664",136,"Utah Brewers Cooperative",1218554336,3.5,3.5,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"665",136,"Utah Brewers Cooperative",1216594927,4,3.5,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"666",136,"Utah Brewers Cooperative",1215996040,3,3,4,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"667",136,"Utah Brewers Cooperative",1215618410,3,3,3,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"668",136,"Utah Brewers Cooperative",1213679127,3,3,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"669",136,"Utah Brewers Cooperative",1212556978,3.5,2,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"670",136,"Utah Brewers Cooperative",1207097665,4.5,3.5,4,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"671",136,"Utah Brewers Cooperative",1205029134,4,4.5,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
+"672",136,"Utah Brewers Cooperative",1204087540,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"673",136,"Utah Brewers Cooperative",1204084122,3.5,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"674",136,"Utah Brewers Cooperative",1199872050,3,3,4,"American Porter",2,3.5,"Wasatch Polygamy Porter",4,1683
+"675",136,"Utah Brewers Cooperative",1199073837,3.5,3,4,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"676",136,"Utah Brewers Cooperative",1195518385,2.5,3.5,3.5,"American Porter",2,2.5,"Wasatch Polygamy Porter",4,1683
+"677",136,"Utah Brewers Cooperative",1194479375,3,3.5,4,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"678",136,"Utah Brewers Cooperative",1193518814,3,3.5,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"679",136,"Utah Brewers Cooperative",1192918134,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"680",136,"Utah Brewers Cooperative",1190780714,4,3,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"681",136,"Utah Brewers Cooperative",1190265506,3,4,4,"American Porter",3,2.5,"Wasatch Polygamy Porter",4,1683
+"682",136,"Utah Brewers Cooperative",1187836546,3,3.5,3,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"683",136,"Utah Brewers Cooperative",1187226943,3.5,3,3.5,"American Porter",4,3,"Wasatch Polygamy Porter",4,1683
+"684",136,"Utah Brewers Cooperative",1186733987,3.5,4,3,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
+"685",136,"Utah Brewers Cooperative",1178957446,4.5,3.5,4,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
+"686",136,"Utah Brewers Cooperative",1174440437,4,4,3.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"687",136,"Utah Brewers Cooperative",1173332891,3,3,3,"American Porter",3,3,"Wasatch Polygamy Porter",4,1683
+"688",136,"Utah Brewers Cooperative",1172006557,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"689",136,"Utah Brewers Cooperative",1171768028,4.5,3.5,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
+"690",136,"Utah Brewers Cooperative",1171033988,3,2.5,3.5,"American Porter",3.5,2.5,"Wasatch Polygamy Porter",4,1683
+"691",136,"Utah Brewers Cooperative",1171030404,4,3.5,3.5,"American Porter",2.5,3.5,"Wasatch Polygamy Porter",4,1683
+"692",136,"Utah Brewers Cooperative",1169241347,3,2.5,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"693",136,"Utah Brewers Cooperative",1168390593,4,3,3.5,"American Porter",3.5,3,"Wasatch Polygamy Porter",4,1683
+"694",136,"Utah Brewers Cooperative",1167620611,3.5,4,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"695",136,"Utah Brewers Cooperative",1167617929,4,2.5,3,"American Porter",3,4,"Wasatch Polygamy Porter",4,1683
+"696",136,"Utah Brewers Cooperative",1167018718,3,3,3.5,"American Porter",2,3,"Wasatch Polygamy Porter",4,1683
+"697",136,"Utah Brewers Cooperative",1166743924,3,3,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"698",136,"Utah Brewers Cooperative",1166570797,3,4.5,3.5,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"699",136,"Utah Brewers Cooperative",1165293817,3,3,3,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"700",136,"Utah Brewers Cooperative",1162626257,2,3.5,3.5,"American Porter",1.5,2.5,"Wasatch Polygamy Porter",4,1683
+"701",136,"Utah Brewers Cooperative",1157768374,1.5,2,3,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"702",136,"Utah Brewers Cooperative",1156802996,2.5,3,3,"American Porter",2.5,3,"Wasatch Polygamy Porter",4,1683
+"703",136,"Utah Brewers Cooperative",1156216828,2.5,2,2,"American Porter",2,2,"Wasatch Polygamy Porter",4,1683
+"704",136,"Utah Brewers Cooperative",1155528747,4,4,4,"American Porter",4,4,"Wasatch Polygamy Porter",4,1683
+"705",136,"Utah Brewers Cooperative",1148701286,3.5,4,4,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"706",136,"Utah Brewers Cooperative",1148006187,2.5,1.5,4,"American Porter",2.5,2.5,"Wasatch Polygamy Porter",4,1683
+"707",136,"Utah Brewers Cooperative",1147761910,4,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
+"708",136,"Utah Brewers Cooperative",1146116875,4,3.5,4,"American Porter",4,3.5,"Wasatch Polygamy Porter",4,1683
+"709",136,"Utah Brewers Cooperative",1142732127,4.5,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
+"710",136,"Utah Brewers Cooperative",1142732106,4.5,4,4,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
+"711",136,"Utah Brewers Cooperative",1137515337,4.5,4,4.5,"American Porter",4,4.5,"Wasatch Polygamy Porter",4,1683
+"712",136,"Utah Brewers Cooperative",1136238986,3,3.5,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"713",136,"Utah Brewers Cooperative",1130635613,4,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"714",136,"Utah Brewers Cooperative",1125427081,3.5,3.5,2.5,"American Porter",3,3.5,"Wasatch Polygamy Porter",4,1683
+"715",136,"Utah Brewers Cooperative",1122335396,3.5,4,3.5,"American Porter",3.5,3.5,"Wasatch Polygamy Porter",4,1683
+"716",136,"Utah Brewers Cooperative",1114786349,4,3,4.5,"American Porter",3.5,4.5,"Wasatch Polygamy Porter",4,1683
+"717",136,"Utah Brewers Cooperative",1321602322,3,3,3,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
+"718",136,"Utah Brewers Cooperative",1268106368,4.5,3,5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"719",136,"Utah Brewers Cooperative",1258940439,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
+"720",136,"Utah Brewers Cooperative",1247032524,5,3,3,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"721",136,"Utah Brewers Cooperative",1245895912,4,4,3.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"722",136,"Utah Brewers Cooperative",1232929639,3,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"723",136,"Utah Brewers Cooperative",1231896213,4.5,4,4.5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"724",136,"Utah Brewers Cooperative",1229743734,4.5,4,4,"American Adjunct Lager",4,4.5,"Wasatch 1st Amendment Lager",4,11281
+"725",136,"Utah Brewers Cooperative",1229575752,4.5,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"726",136,"Utah Brewers Cooperative",1207098911,3,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
+"727",136,"Utah Brewers Cooperative",1201163842,4.5,4,4.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"728",136,"Utah Brewers Cooperative",1199200722,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"729",136,"Utah Brewers Cooperative",1198546339,4,3.5,2,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"730",136,"Utah Brewers Cooperative",1182904558,4,3.5,3,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"731",136,"Utah Brewers Cooperative",1178332431,4,3.5,3,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"732",136,"Utah Brewers Cooperative",1177572911,4.5,3.5,3,"American Adjunct Lager",3,4,"Wasatch 1st Amendment Lager",4,11281
+"733",136,"Utah Brewers Cooperative",1176339658,3.5,3,2.5,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
+"734",136,"Utah Brewers Cooperative",1170167452,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Wasatch 1st Amendment Lager",4,11281
+"735",136,"Utah Brewers Cooperative",1168043723,4,2.5,3.5,"American Adjunct Lager",3,4,"Wasatch 1st Amendment Lager",4,11281
+"736",136,"Utah Brewers Cooperative",1166887246,4,3.5,3,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"737",136,"Utah Brewers Cooperative",1142281634,3.5,3.5,3.5,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
+"738",136,"Utah Brewers Cooperative",1125946867,4.5,4,4,"American Adjunct Lager",4,4,"Wasatch 1st Amendment Lager",4,11281
+"739",136,"Utah Brewers Cooperative",1102292200,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Wasatch 1st Amendment Lager",4,11281
+"740",136,"Utah Brewers Cooperative",1100974862,3,3,3,"American Adjunct Lager",2,3,"Wasatch 1st Amendment Lager",4,11281
+"741",136,"Utah Brewers Cooperative",1082516852,2.5,2,2,"American Adjunct Lager",3,3,"Wasatch 1st Amendment Lager",4,11281
+"742",136,"Utah Brewers Cooperative",1073965745,3,3.5,4,"American Adjunct Lager",3.5,3,"Wasatch 1st Amendment Lager",4,11281
+"743",136,"Utah Brewers Cooperative",1057522779,4,3.5,3.5,"American Adjunct Lager",3.5,4,"Wasatch 1st Amendment Lager",4,11281
+"744",136,"Utah Brewers Cooperative",1251819569,4,4,3.5,"Witbier",4,4,"Squatters Wit Bier",4,24037
+"745",136,"Utah Brewers Cooperative",1198372336,4,3.5,4,"Witbier",4,4,"Squatters Wit Bier",4,24037
+"746",136,"Utah Brewers Cooperative",1183774528,3.5,4,3.5,"Witbier",4,4,"Squatters Wit Bier",4,24037
+"747",136,"Utah Brewers Cooperative",1178747332,3.5,3.5,3.5,"Witbier",3.5,3.5,"Squatters Wit Bier",4,24037
+"748",136,"Utah Brewers Cooperative",1117678040,3.5,3.5,4,"Witbier",3.5,3,"Squatters Wit Bier",4,24037

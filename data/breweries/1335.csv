@@ -1,119 +1,62 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1335,"Tun Tavern",1061058857,2.5,2,4,"American Stout",2,2.5,"Tun Tavern Leather-Neck Stout",6,3664
-"2",1335,"Tun Tavern",1257609530,4,4,3.5,"English Brown Ale",3.5,4,"Tun Tavern Bullie's Brown Ale",5.8,3663
-"3",1335,"Tun Tavern",1061058723,3.5,3.5,4,"English Brown Ale",2.5,3.5,"Tun Tavern Bullie's Brown Ale",5.8,3663
-"4",1335,"Tun Tavern",1310509320,1.5,1,1.5,"American Blonde Ale",1.5,1,"Tun Light Golden Ale",4.7,25262
-"5",1335,"Tun Tavern",1192126885,3,3,3,"American Blonde Ale",3,3,"Tun Light Golden Ale",4.7,25262
-"6",1335,"Tun Tavern",1123996766,4,3.5,4,"American Blonde Ale",3.5,3.5,"Tun Light Golden Ale",4.7,25262
-"7",1335,"Tun Tavern",1174662318,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Sterling ESB",5.8,36005
-"8",1335,"Tun Tavern",1124150134,3,4,4,"Hefeweizen",4,3.5,"Summer Weiss",NA,10680
-"9",1335,"Tun Tavern",1117850146,4.5,4,4,"Hefeweizen",4,4,"Summer Weiss",NA,10680
-"10",1335,"Tun Tavern",1056638366,4.5,4,4,"Hefeweizen",3.5,4,"Summer Weiss",NA,10680
-"11",1335,"Tun Tavern",1199393682,3.5,4,3.5,"Scottish Gruit / Ancient Herbed Ale",3.5,3.5,"Winter Warmer",5.6,40388
-"12",1335,"Tun Tavern",1310509785,3,3,3,"Scotch Ale / Wee Heavy",3,3,"Tun Tavern Highlander Ale",8,3667
-"13",1335,"Tun Tavern",1310508732,1.5,1,2,"Irish Red Ale",1,1.5,"Tun Tavern Irish Red",5,3661
-"14",1335,"Tun Tavern",1307808079,2.5,2,4,"Irish Red Ale",3,2.5,"Tun Tavern Irish Red",5,3661
-"15",1335,"Tun Tavern",1192126998,3,3.5,3,"Irish Red Ale",3,3,"Tun Tavern Irish Red",5,3661
-"16",1335,"Tun Tavern",1149086216,3.5,3,4,"Irish Red Ale",3,3,"Tun Tavern Irish Red",5,3661
-"17",1335,"Tun Tavern",1123999063,3,3,3.5,"Irish Red Ale",3,3.5,"Tun Tavern Irish Red",5,3661
-"18",1335,"Tun Tavern",1122065156,4.5,3,4.5,"Irish Red Ale",4,4,"Tun Tavern Irish Red",5,3661
-"19",1335,"Tun Tavern",1061000991,3,3,4,"Irish Red Ale",2.5,3,"Tun Tavern Irish Red",5,3661
-"20",1335,"Tun Tavern",1195681786,3,4,4,"American Stout",3.5,3.5,"Apple Stout",NA,39713
-"21",1335,"Tun Tavern",1289253447,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Crimson Ale",5,7213
-"22",1335,"Tun Tavern",1257520300,4.5,3.5,4,"American Amber / Red Ale",4,4,"Crimson Ale",5,7213
-"23",1335,"Tun Tavern",1289253788,4,4.5,4,"Herbed / Spiced Beer",4.5,4.5,"Chuckin' Pun'kin",6.4,39121
-"24",1335,"Tun Tavern",1192673051,4.5,4,3.5,"Herbed / Spiced Beer",4,4,"Chuckin' Pun'kin",6.4,39121
-"25",1335,"Tun Tavern",1314900092,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",4.9,38657
-"26",1335,"Tun Tavern",1059841648,4,4,3.5,"American Stout",3.5,4.5,"Tun Tavern Leather-Neck Stout",6,3664
-"27",1335,"Tun Tavern",1255157661,3.5,2.5,4,"Märzen / Oktoberfest",3,3,"Oktoberfest",4.9,38657
-"28",1335,"Tun Tavern",1189821156,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",4.9,38657
-"29",1335,"Tun Tavern",1308445476,3.5,3.5,3.5,"American Strong Ale",3,3.5,"Bourbon Barrel Strong Ale",NA,70147
-"30",1335,"Tun Tavern",1228261558,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"ESB",6.2,40372
-"31",1335,"Tun Tavern",1199331909,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,4,"ESB",6.2,40372
-"32",1335,"Tun Tavern",1191889421,3.5,3.5,4,"Vienna Lager",4,4,"Vienna Lager",6.6,39002
-"33",1335,"Tun Tavern",1310509033,3,3,3,"American Stout",3,3,"Tun Tavern Leather-Neck Stout",6,3664
-"34",1335,"Tun Tavern",1307809131,3.5,4,4,"American Stout",4,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"35",1335,"Tun Tavern",1302294982,3.5,3,3,"American Stout",3,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"36",1335,"Tun Tavern",1192127899,3.5,4,3.5,"American IPA",3,3.5,"Tun Tavern All American IPA",6.2,3665
-"37",1335,"Tun Tavern",1289253171,4,4,4,"American Stout",4,4,"Tun Tavern Leather-Neck Stout",6,3664
-"38",1335,"Tun Tavern",1277043291,4,3.5,4,"American Stout",4.5,4,"Tun Tavern Leather-Neck Stout",6,3664
-"39",1335,"Tun Tavern",1258901308,4,3.5,4,"American Stout",3,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"40",1335,"Tun Tavern",1255158945,4,3.5,4,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"41",1335,"Tun Tavern",1201371002,4,4,4,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"42",1335,"Tun Tavern",1192127684,3.5,3.5,3.5,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
-"43",1335,"Tun Tavern",1145521579,4,3.5,4.5,"American Stout",4,4.5,"Tun Tavern Leather-Neck Stout",6,3664
-"44",1335,"Tun Tavern",1127097474,4.5,4.5,4.5,"American Stout",3.5,4.5,"Tun Tavern Leather-Neck Stout",6,3664
-"45",1335,"Tun Tavern",1074383955,4,4,4,"American Stout",4,4,"Tun Tavern Leather-Neck Stout",6,3664
-"46",1335,"Tun Tavern",1073180516,4.5,3.5,3.5,"American Stout",3,4.5,"Tun Tavern Leather-Neck Stout",6,3664
-"47",1335,"Tun Tavern",1056306804,4.5,4,4,"American Stout",4,4.5,"Tun Tavern Leather-Neck Stout",6,3664
-"48",1335,"Tun Tavern",1307808463,2,1.5,4,"Cream Ale",2,2,"Tun Tavern Famous Tun Lite",NA,3660
-"49",1335,"Tun Tavern",1103429651,4.5,3.5,4,"Cream Ale",4,4,"Tun Tavern Famous Tun Lite",NA,3660
-"50",1335,"Tun Tavern",1074313767,3.5,3,3,"Cream Ale",3,3,"Tun Tavern Famous Tun Lite",NA,3660
-"51",1335,"Tun Tavern",1061352146,3,3,3.5,"Cream Ale",2,2.5,"Tun Tavern Famous Tun Lite",NA,3660
-"52",1335,"Tun Tavern",1140819765,4,4,3.5,"American Porter",4,4,"Darkness Delight",8.5,27896
-"53",1335,"Tun Tavern",1137551449,3.5,3.5,4,"American Porter",3.5,4,"Darkness Delight",8.5,27896
-"54",1335,"Tun Tavern",1123707793,4.5,3.5,4.5,"American Brown Ale",4.5,4.5,"Tun Tavern Nut Brown Ale",NA,17083
-"55",1335,"Tun Tavern",1102722843,3.5,3.5,4.5,"American Brown Ale",4,3.5,"Tun Tavern Nut Brown Ale",NA,17083
-"56",1335,"Tun Tavern",1307809003,3.5,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Tun Golden Ale",8.5,69938
-"57",1335,"Tun Tavern",1081743500,3.5,3.5,4,"American Brown Ale",4,3.5,"Tun Tavern Nut Brown Ale",NA,17083
-"58",1335,"Tun Tavern",1297729935,4,3.5,4,"Chile Beer",3.5,3.5,"Cocoa Fuego Chocolate Chili Ale",NA,66293
-"59",1335,"Tun Tavern",1310508307,3.5,3,3.5,"American IPA",3,3,"Tun Tavern All American IPA",6.2,3665
-"60",1335,"Tun Tavern",1307808757,3.5,3.5,4,"American IPA",3.5,3.5,"Tun Tavern All American IPA",6.2,3665
-"61",1335,"Tun Tavern",1289258605,4,4.5,4,"American IPA",4,5,"Tun Tavern All American IPA",6.2,3665
-"62",1335,"Tun Tavern",1255158069,4,3.5,4,"American IPA",3.5,3.5,"Tun Tavern All American IPA",6.2,3665
-"63",1335,"Tun Tavern",1230146942,4,4,3.5,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"64",1335,"Tun Tavern",1217865379,4,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"65",1335,"Tun Tavern",1215366304,4.5,3.5,4,"American IPA",4,3.5,"Tun Tavern All American IPA",6.2,3665
-"66",1335,"Tun Tavern",1211820227,4.5,4,3.5,"American IPA",4.5,4,"Tun Tavern All American IPA",6.2,3665
-"67",1335,"Tun Tavern",1173277194,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"68",1335,"Tun Tavern",1163285953,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"69",1335,"Tun Tavern",1153072511,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
-"70",1335,"Tun Tavern",1102722364,4.5,3,3.5,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"71",1335,"Tun Tavern",1102628540,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
-"72",1335,"Tun Tavern",1096223651,4,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"73",1335,"Tun Tavern",1086101986,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"74",1335,"Tun Tavern",1057242810,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
-"75",1335,"Tun Tavern",1043153695,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
-"76",1335,"Tun Tavern",1163287288,4,4,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",5.2,14372
-"77",1335,"Tun Tavern",1074536965,4,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",5.2,14372
-"78",1335,"Tun Tavern",1190077443,3.5,4,4,"American Stout",3.5,3.5,"Cherry Cream Stout",NA,38699
-"79",1335,"Tun Tavern",1163286762,2.5,3,3,"Märzen / Oktoberfest",2.5,2,"Tunfest Lager",6.2,33663
-"80",1335,"Tun Tavern",1210775021,4.5,4,4,"Doppelbock",4.5,5,"Dopple Bock",6.6,42667
-"81",1335,"Tun Tavern",1124149920,3.5,4,4,"Czech Pilsener",4,3.5,"Puller's Pils",5.1,14319
-"82",1335,"Tun Tavern",1074314162,3.5,3.5,4,"Czech Pilsener",3.5,3.5,"Puller's Pils",5.1,14319
-"83",1335,"Tun Tavern",1106423786,4,4,4,"Quadrupel (Quad)",4,3.5,"Quadruple",10,21668
-"84",1335,"Tun Tavern",1216926611,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Hefeweisse",NA,43333
-"85",1335,"Tun Tavern",1214087097,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Hefeweisse",NA,43333
-"86",1335,"Tun Tavern",1192226017,4,4.5,4,"Witbier",4,4.5,"Belgian Witte",6.3,37912
-"87",1335,"Tun Tavern",1185414556,4,4,4.5,"Witbier",3.5,4,"Belgian Witte",6.3,37912
-"88",1335,"Tun Tavern",1307808612,4,3.5,4,"American Pale Ale (APA)",4,4,"Devil Dog Pale Ale",5.5,12144
-"89",1335,"Tun Tavern",1257519841,4,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Devil Dog Pale Ale",5.5,12144
-"90",1335,"Tun Tavern",1211497276,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Devil Dog Pale Ale",5.5,12144
-"91",1335,"Tun Tavern",1192127420,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"Devil Dog Pale Ale",5.5,12144
-"92",1335,"Tun Tavern",1123999412,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Devil Dog Pale Ale",5.5,12144
-"93",1335,"Tun Tavern",1081743159,4.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Devil Dog Pale Ale",5.5,12144
-"94",1335,"Tun Tavern",1074314694,4.5,4,4,"American Pale Ale (APA)",4,4,"Devil Dog Pale Ale",5.5,12144
-"95",1335,"Tun Tavern",1061240071,3,3,4,"American Pale Ale (APA)",2.5,3,"Devil Dog Pale Ale",5.5,12144
-"96",1335,"Tun Tavern",1148676325,2,3.5,3.5,"Milk / Sweet Stout",2,3,"Oreo Stout",7,30736
-"97",1335,"Tun Tavern",1171489386,3.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Drunken Monkey",10.3,35280
-"98",1335,"Tun Tavern",1030283539,4.5,4,3.5,"Hefeweizen",3,4,"Tun Tavern Golden Summer",4.8,5664
-"99",1335,"Tun Tavern",1201322760,4.5,4,3.5,"American Stout",3,4.5,"Coffee & Cream Stout",NA,40728
-"100",1335,"Tun Tavern",1056396682,4.5,4,4,"Maibock / Helles Bock",4.5,4,"Springbok Lager",6.7,9933
-"101",1335,"Tun Tavern",1053275560,4.5,4,4,"Maibock / Helles Bock",4,4,"Springbok Lager",6.7,9933
-"102",1335,"Tun Tavern",1037806326,3.5,4,4,"American Porter",3.5,4,"Colonial Porter",5,7212
-"103",1335,"Tun Tavern",1080853824,3,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Tun Razz",5,16902
-"104",1335,"Tun Tavern",1218893402,4,4,2.5,"Belgian Strong Pale Ale",4.5,4,"Tun Grand Cru",7.5,7214
-"105",1335,"Tun Tavern",1043153356,3,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Tun Grand Cru",7.5,7214
-"106",1335,"Tun Tavern",1037806678,3.5,4,3.5,"Belgian Strong Pale Ale",4,3.5,"Tun Grand Cru",7.5,7214
-"107",1335,"Tun Tavern",1167247435,4,4.5,3.5,"American Barleywine",4,4.5,"Freedom Ale",9,7326
-"108",1335,"Tun Tavern",1166308170,3.5,4,4,"American Barleywine",4,4,"Freedom Ale",9,7326
-"109",1335,"Tun Tavern",1096223266,3.5,4.5,4,"American Barleywine",4,4.5,"Freedom Ale",9,7326
-"110",1335,"Tun Tavern",1038423686,4.5,5,4,"American Barleywine",4.5,5,"Freedom Ale",9,7326
-"111",1335,"Tun Tavern",1192127976,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Brewer's Gold ESB",5.2,29169
-"112",1335,"Tun Tavern",1142890688,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Brewer's Gold ESB",5.2,29169
-"113",1335,"Tun Tavern",1142892000,4.5,3.5,4,"American Brown Ale",4,4,"Honeybear Brown Ale",5.2,29171
-"114",1335,"Tun Tavern",1215366709,4.5,3.5,4.5,"Euro Dark Lager",4,3.5,"Tun Dark",5.5,42678
-"115",1335,"Tun Tavern",1210817812,4.5,4,3.5,"Euro Dark Lager",3.5,4,"Tun Dark",5.5,42678
-"116",1335,"Tun Tavern",1076010411,3.5,3,4,"Rye Beer",3,3,"Rock 'n' Roggen",NA,14448
-"117",1335,"Tun Tavern",1086099603,3.5,3.5,4,"Doppelbock",4.5,3.5,"Tuninator",7,17751
-"118",1335,"Tun Tavern",1081743926,3,3,3.5,"American Amber / Red Ale",2,3,"Cardshark Red",NA,17084
+"2",1335,"Tun Tavern",1199393682,3.5,4,3.5,"Scottish Gruit / Ancient Herbed Ale",3.5,3.5,"Winter Warmer",5.6,40388
+"3",1335,"Tun Tavern",1310508732,1.5,1,2,"Irish Red Ale",1,1.5,"Tun Tavern Irish Red",5,3661
+"4",1335,"Tun Tavern",1307808079,2.5,2,4,"Irish Red Ale",3,2.5,"Tun Tavern Irish Red",5,3661
+"5",1335,"Tun Tavern",1192126998,3,3.5,3,"Irish Red Ale",3,3,"Tun Tavern Irish Red",5,3661
+"6",1335,"Tun Tavern",1149086216,3.5,3,4,"Irish Red Ale",3,3,"Tun Tavern Irish Red",5,3661
+"7",1335,"Tun Tavern",1123999063,3,3,3.5,"Irish Red Ale",3,3.5,"Tun Tavern Irish Red",5,3661
+"8",1335,"Tun Tavern",1122065156,4.5,3,4.5,"Irish Red Ale",4,4,"Tun Tavern Irish Red",5,3661
+"9",1335,"Tun Tavern",1061000991,3,3,4,"Irish Red Ale",2.5,3,"Tun Tavern Irish Red",5,3661
+"10",1335,"Tun Tavern",1314900092,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",4.9,38657
+"11",1335,"Tun Tavern",1059841648,4,4,3.5,"American Stout",3.5,4.5,"Tun Tavern Leather-Neck Stout",6,3664
+"12",1335,"Tun Tavern",1255157661,3.5,2.5,4,"Märzen / Oktoberfest",3,3,"Oktoberfest",4.9,38657
+"13",1335,"Tun Tavern",1189821156,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",4.9,38657
+"14",1335,"Tun Tavern",1228261558,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"ESB",6.2,40372
+"15",1335,"Tun Tavern",1199331909,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,4,"ESB",6.2,40372
+"16",1335,"Tun Tavern",1191889421,3.5,3.5,4,"Vienna Lager",4,4,"Vienna Lager",6.6,39002
+"17",1335,"Tun Tavern",1310509033,3,3,3,"American Stout",3,3,"Tun Tavern Leather-Neck Stout",6,3664
+"18",1335,"Tun Tavern",1307809131,3.5,4,4,"American Stout",4,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"19",1335,"Tun Tavern",1302294982,3.5,3,3,"American Stout",3,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"20",1335,"Tun Tavern",1192127899,3.5,4,3.5,"American IPA",3,3.5,"Tun Tavern All American IPA",6.2,3665
+"21",1335,"Tun Tavern",1289253171,4,4,4,"American Stout",4,4,"Tun Tavern Leather-Neck Stout",6,3664
+"22",1335,"Tun Tavern",1277043291,4,3.5,4,"American Stout",4.5,4,"Tun Tavern Leather-Neck Stout",6,3664
+"23",1335,"Tun Tavern",1258901308,4,3.5,4,"American Stout",3,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"24",1335,"Tun Tavern",1255158945,4,3.5,4,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"25",1335,"Tun Tavern",1201371002,4,4,4,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"26",1335,"Tun Tavern",1192127684,3.5,3.5,3.5,"American Stout",3.5,3.5,"Tun Tavern Leather-Neck Stout",6,3664
+"27",1335,"Tun Tavern",1145521579,4,3.5,4.5,"American Stout",4,4.5,"Tun Tavern Leather-Neck Stout",6,3664
+"28",1335,"Tun Tavern",1127097474,4.5,4.5,4.5,"American Stout",3.5,4.5,"Tun Tavern Leather-Neck Stout",6,3664
+"29",1335,"Tun Tavern",1074383955,4,4,4,"American Stout",4,4,"Tun Tavern Leather-Neck Stout",6,3664
+"30",1335,"Tun Tavern",1073180516,4.5,3.5,3.5,"American Stout",3,4.5,"Tun Tavern Leather-Neck Stout",6,3664
+"31",1335,"Tun Tavern",1056306804,4.5,4,4,"American Stout",4,4.5,"Tun Tavern Leather-Neck Stout",6,3664
+"32",1335,"Tun Tavern",1310508307,3.5,3,3.5,"American IPA",3,3,"Tun Tavern All American IPA",6.2,3665
+"33",1335,"Tun Tavern",1307808757,3.5,3.5,4,"American IPA",3.5,3.5,"Tun Tavern All American IPA",6.2,3665
+"34",1335,"Tun Tavern",1289258605,4,4.5,4,"American IPA",4,5,"Tun Tavern All American IPA",6.2,3665
+"35",1335,"Tun Tavern",1255158069,4,3.5,4,"American IPA",3.5,3.5,"Tun Tavern All American IPA",6.2,3665
+"36",1335,"Tun Tavern",1230146942,4,4,3.5,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"37",1335,"Tun Tavern",1217865379,4,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"38",1335,"Tun Tavern",1215366304,4.5,3.5,4,"American IPA",4,3.5,"Tun Tavern All American IPA",6.2,3665
+"39",1335,"Tun Tavern",1211820227,4.5,4,3.5,"American IPA",4.5,4,"Tun Tavern All American IPA",6.2,3665
+"40",1335,"Tun Tavern",1173277194,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"41",1335,"Tun Tavern",1163285953,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"42",1335,"Tun Tavern",1153072511,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
+"43",1335,"Tun Tavern",1102722364,4.5,3,3.5,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"44",1335,"Tun Tavern",1102628540,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
+"45",1335,"Tun Tavern",1096223651,4,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"46",1335,"Tun Tavern",1086101986,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"47",1335,"Tun Tavern",1057242810,4.5,4,4,"American IPA",4,4.5,"Tun Tavern All American IPA",6.2,3665
+"48",1335,"Tun Tavern",1043153695,4.5,4,4,"American IPA",4,4,"Tun Tavern All American IPA",6.2,3665
+"49",1335,"Tun Tavern",1163287288,4,4,3.5,"Pumpkin Ale",4,4.5,"Pumpkin Ale",5.2,14372
+"50",1335,"Tun Tavern",1074536965,4,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Ale",5.2,14372
+"51",1335,"Tun Tavern",1210775021,4.5,4,4,"Doppelbock",4.5,5,"Dopple Bock",6.6,42667
+"52",1335,"Tun Tavern",1307808612,4,3.5,4,"American Pale Ale (APA)",4,4,"Devil Dog Pale Ale",5.5,12144
+"53",1335,"Tun Tavern",1257519841,4,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Devil Dog Pale Ale",5.5,12144
+"54",1335,"Tun Tavern",1211497276,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Devil Dog Pale Ale",5.5,12144
+"55",1335,"Tun Tavern",1192127420,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"Devil Dog Pale Ale",5.5,12144
+"56",1335,"Tun Tavern",1123999412,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Devil Dog Pale Ale",5.5,12144
+"57",1335,"Tun Tavern",1081743159,4.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Devil Dog Pale Ale",5.5,12144
+"58",1335,"Tun Tavern",1074314694,4.5,4,4,"American Pale Ale (APA)",4,4,"Devil Dog Pale Ale",5.5,12144
+"59",1335,"Tun Tavern",1061240071,3,3,4,"American Pale Ale (APA)",2.5,3,"Devil Dog Pale Ale",5.5,12144
+"60",1335,"Tun Tavern",1201322760,4.5,4,3.5,"American Stout",3,4.5,"Coffee & Cream Stout",NA,40728
+"61",1335,"Tun Tavern",1037806326,3.5,4,4,"American Porter",3.5,4,"Colonial Porter",5,7212

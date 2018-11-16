@@ -1,3 +1,11 @@
+BeerAdvocate Data Exploration and Cleaning
+==========================================
+
+For CS 5890 Final Project
+
+Exploration
+===========
+
 Import Data
 -----------
 
@@ -187,7 +195,10 @@ Plots
 <br>
 
 Data Cleaning and Grouping
---------------------------
+==========================
+
+By Beer Grouping
+----------------
 
     by_beer <- ba %>%
       group_by(beer_name) %>%
@@ -204,9 +215,11 @@ Data Cleaning and Grouping
                 n_reviews = length(beer_name))%>%
       filter(n_reviews >= 5)
 
-    write.csv(by_beer, "data/byBeer.csv")
+    included_beers <- by_beer$beer_name
 
-    knitr::kable(filter(by_beer, brewery_name == "Uinta Brewing Company") %>% head(.,10))
+    ba <- ba %>% filter(beer_name %in% included_beers)
+
+    knitr::kable(filter(by_beer, brewery_name == "Uinta Brewing Company") %>% head(.,5))
 
 <table>
 <thead>
@@ -296,81 +309,51 @@ Data Cleaning and Grouping
 <td align="right">3.346154</td>
 <td align="right">13</td>
 </tr>
-<tr class="even">
-<td align="left">Cockeyed Cooper</td>
-<td align="right">58868</td>
-<td align="left">Uinta Brewing Company</td>
-<td align="right">1416</td>
-<td align="left">American Barleywine</td>
-<td align="right">11.1</td>
-<td align="right">3.813333</td>
-<td align="right">3.943333</td>
-<td align="right">4.086667</td>
-<td align="right">3.843333</td>
-<td align="right">3.880000</td>
-<td align="right">150</td>
-</tr>
-<tr class="odd">
-<td align="left">Detour Double India Pale Ale</td>
-<td align="right">58754</td>
-<td align="left">Uinta Brewing Company</td>
-<td align="right">1416</td>
-<td align="left">American Double / Imperial IPA</td>
-<td align="right">9.5</td>
-<td align="right">3.543860</td>
-<td align="right">3.811403</td>
-<td align="right">4.070175</td>
-<td align="right">3.688597</td>
-<td align="right">3.557018</td>
-<td align="right">114</td>
-</tr>
-<tr class="even">
-<td align="left">Dubhe Imperial Black IPA</td>
-<td align="right">67046</td>
-<td align="left">Uinta Brewing Company</td>
-<td align="right">1416</td>
-<td align="left">American Black Ale</td>
-<td align="right">9.2</td>
-<td align="right">3.953271</td>
-<td align="right">3.911215</td>
-<td align="right">4.130841</td>
-<td align="right">3.995327</td>
-<td align="right">4.060748</td>
-<td align="right">107</td>
-</tr>
-<tr class="odd">
-<td align="left">Dunk'l Amber Wheat Beer</td>
-<td align="right">34375</td>
-<td align="left">Uinta Brewing Company</td>
-<td align="right">1416</td>
-<td align="left">Dunkelweizen</td>
-<td align="right">4.0</td>
-<td align="right">3.666667</td>
-<td align="right">3.055556</td>
-<td align="right">3.444444</td>
-<td align="right">3.388889</td>
-<td align="right">3.500000</td>
-<td align="right">9</td>
-</tr>
-<tr class="even">
-<td align="left">Gelande Amber Lager</td>
-<td align="right">5620</td>
-<td align="left">Uinta Brewing Company</td>
-<td align="right">1416</td>
-<td align="left">American Amber / Red Lager</td>
-<td align="right">4.0</td>
-<td align="right">3.343750</td>
-<td align="right">3.281250</td>
-<td align="right">3.656250</td>
-<td align="right">3.296875</td>
-<td align="right">3.265625</td>
-<td align="right">32</td>
-</tr>
 </tbody>
 </table>
 
+    pickTag <- function(x){
+      check = c("IPA", "Belgian", "Dubbel", "Tripel", "Stout", "Porter", "Pale Ale", "Lager", "Pilsner", "Hefeweizen", "Wheat")
+      to =    c("IPA", "Belgian", "Belgian", "Belgian", "Stout", "Porter", "Pale Ale", "Lager", "Pilsner", "Wheat Beer", "Wheat Beer")
+      
+      # tag_maps <- tibble(check = c("IPA", "Belgian", "Dubbel", "Tripel", "Stout", "Porter", "Pale Ale", "Lager", "Pilsner", "Hefeweizen", "Wheat"),
+      #                    to =    c("IPA", "Belgian", "Belgian", "Belgian", "Stout", "Porter", "Pale Ale", "Lager", "Pilsner", "Wheat Beer", "Wheat Beer"))
+      
+      for(i in 1:length(check)){
+          if(grepl(check[i], x)){
+            return(to[i])
+          }
+      }
+      return("Other")
+    }
+
+    makeTags <- function(style){
+      
+      tags <- character(length(style))
+        
+      for(i in 1:length(style)){
+        tags[i] = pickTag(style[i])
+      }
+      
+      return(tags)
+    }
+
+    by_beer <- mutate(by_beer, beer_tag = makeTags(beer_style))
+
+    ggplot(by_beer) +
+      stat_count(aes(x = beer_tag, fill = beer_tag)) +
+      theme_bw() +
+      theme(legend.position = "none") 
+
+![](ba-explore_files/figure-markdown_strict/tags-1.png)
+
+    write.csv(by_beer, "data/byBeer.csv")
+
 After grouping reviews of the same beer, and removing beers with &lt;5
-reviews, we are now down to 21184 observations and 12 variables.
+reviews, we are now down to 21184 observations and 13 variables.
+
+By Brewery Grouping
+-------------------
 
     by_brewery <- ba %>%
       group_by(brewery_name) %>%
@@ -386,9 +369,13 @@ reviews, we are now down to 21184 observations and 12 variables.
                 n_reviews = length(brewery_name)) %>%
       filter(n_beers >= 5)
 
-    write.csv(by_brewery, "data/byBrewery.csv")
+    write.csv(by_brewery, "data/byBrewery-noLocations.csv")
 
-    knitr::kable(sample_n(by_brewery, 10))
+    included_breweries <- by_brewery$brewery_id
+
+    ba <- ba %>% filter(brewery_id %in% included_breweries)
+
+    knitr::kable(sample_n(by_brewery, 5))
 
 <table>
 <thead>
@@ -408,141 +395,79 @@ reviews, we are now down to 21184 observations and 12 variables.
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">Sierra Blanca Brewing Company (Rio Grande)</td>
-<td align="right">3239</td>
-<td align="left">[&quot;Sierra Blanca Roswell Alien Amber&quot;,&quot;Sierra Blanca Nut Brown Beer&quot;,&quot;Rio Grande Pancho Verde Chile Cerveza&quot;,&quot;Rio Grande IPA&quot;,&quot;Sierra Blanca Pilsner&quot;,&quot;Rio Grande Desert Pilsner&quot;,&quot;Sierra Blanca Alien Wheat&quot;,&quot;Imperial Stout&quot;,&quot;Isotopes Triple \&quot;A\&quot; Blonde&quot;,&quot;Rio Grande 420 IPA&quot;,&quot;Isotopes Slammin' Amber&quot;,&quot;Sierra Blanca Pale Ale&quot;,&quot;Rio Grande Outlaw Lager&quot;]</td>
-<td align="left">[&quot;18878&quot;,&quot;7652&quot;,&quot;55779&quot;,&quot;47614&quot;,&quot;7944&quot;,&quot;1619&quot;,&quot;67232&quot;,&quot;20930&quot;,&quot;49319&quot;,&quot;60302&quot;,&quot;49441&quot;,&quot;12284&quot;,&quot;49184&quot;]</td>
-<td align="right">13</td>
-<td align="right">3.286145</td>
-<td align="right">3.262048</td>
-<td align="right">3.403615</td>
-<td align="right">3.256024</td>
-<td align="right">3.225904</td>
-<td align="right">166</td>
+<td align="left">Upstream Brewing Company - Old Market</td>
+<td align="right">1056</td>
+<td align="left">[&quot;Dundee Export 90 Scotch Ale&quot;,&quot;Batch 1000&quot;,&quot;Firehouse ESB&quot;,&quot;Grand Cru&quot;,&quot;American Wheat&quot;,&quot;Schwarzbier&quot;,&quot;British IPA&quot;,&quot;Oak-Aged IPA&quot;,&quot;Belgian Tripel&quot;,&quot;Belgian Dubbel&quot;,&quot;Upstream Gueuze Lambic&quot;,&quot;India Pale Ale&quot;,&quot;Capitol Premium Pale Ale&quot;,&quot;Oak-Aged Tripel&quot;,&quot;Blackstone Stout&quot;,&quot;Blueberry Ale&quot;,&quot;Downtown Brown&quot;,&quot;Double IPA&quot;,&quot;Railyard Ale&quot;,&quot;Oak-Aged Ebenezer's Brew&quot;,&quot;Midnight Porter&quot;]</td>
+<td align="left">[&quot;3176&quot;,&quot;33583&quot;,&quot;3174&quot;,&quot;37639&quot;,&quot;7466&quot;,&quot;58861&quot;,&quot;31111&quot;,&quot;41411&quot;,&quot;21361&quot;,&quot;26629&quot;,&quot;41021&quot;,&quot;3175&quot;,&quot;17915&quot;,&quot;40915&quot;,&quot;3177&quot;,&quot;25908&quot;,&quot;12876&quot;,&quot;17914&quot;,&quot;3173&quot;,&quot;34712&quot;,&quot;21511&quot;]</td>
+<td align="right">21</td>
+<td align="right">3.911950</td>
+<td align="right">3.751572</td>
+<td align="right">3.808176</td>
+<td align="right">3.776730</td>
+<td align="right">3.886792</td>
+<td align="right">159</td>
 </tr>
 <tr class="even">
-<td align="left">Oriental Brewery Co., Ltd</td>
-<td align="right">874</td>
-<td align="left">[&quot;Cafri&quot;,&quot;OB Lager Beer&quot;,&quot;Cass Fresh&quot;,&quot;Cass Lemon&quot;,&quot;Qiao Le Beer&quot;,&quot;OB Golden Lager&quot;,&quot;Blue Girl Beer&quot;,&quot;Cass Red&quot;,&quot;Guam USA Beer Company Island Lager&quot;,&quot;Red Rock&quot;]</td>
-<td align="left">[&quot;14270&quot;,&quot;2762&quot;,&quot;8750&quot;,&quot;43449&quot;,&quot;27129&quot;,&quot;71144&quot;,&quot;19980&quot;,&quot;40987&quot;,&quot;59031&quot;,&quot;14276&quot;]</td>
-<td align="right">10</td>
-<td align="right">2.773504</td>
-<td align="right">2.337607</td>
-<td align="right">2.559829</td>
-<td align="right">2.551282</td>
-<td align="right">2.440171</td>
-<td align="right">117</td>
-</tr>
-<tr class="odd">
-<td align="left">An Teallach Ale Co.</td>
-<td align="right">10750</td>
-<td align="left">[&quot;Sheneval&quot;,&quot;Crofters Pale Ale&quot;,&quot;Beinn Dearg Ale&quot;,&quot;The Hector&quot;,&quot;An Teallach Ale&quot;]</td>
-<td align="left">[&quot;75421&quot;,&quot;39386&quot;,&quot;47153&quot;,&quot;75420&quot;,&quot;39385&quot;]</td>
+<td align="left">Kelly's Caribbean Bar, Grill &amp; Brewery</td>
+<td align="right">1092</td>
+<td align="left">[&quot;Key West Golden Ale&quot;,&quot;Winter Ale&quot;,&quot;Havana Red&quot;,&quot;Chocolate Porter&quot;,&quot;Kelly's Southern Clipper&quot;]</td>
+<td align="left">[&quot;20018&quot;,&quot;28702&quot;,&quot;3560&quot;,&quot;3559&quot;,&quot;3259&quot;]</td>
 <td align="right">5</td>
-<td align="right">3.916667</td>
-<td align="right">3.916667</td>
-<td align="right">3.666667</td>
-<td align="right">3.416667</td>
-<td align="right">4.000000</td>
+<td align="right">3.419355</td>
+<td align="right">3.209677</td>
+<td align="right">3.274193</td>
+<td align="right">3.306452</td>
+<td align="right">3.290323</td>
+<td align="right">31</td>
+</tr>
+<tr class="odd">
+<td align="left">Roots Organic Brewery</td>
+<td align="right">10996</td>
+<td align="left">[&quot;Belgian Wit&quot;,&quot;Toasted Coconut Porter&quot;,&quot;Calypso&quot;,&quot;EXXXcalibur Stout&quot;,&quot;Festivus&quot;,&quot;Woody Organic IPA&quot;,&quot;Island Red&quot;,&quot;Hoppopotamus&quot;,&quot;Epic Ale&quot;,&quot;Burghead Heather Ale&quot;]</td>
+<td align="left">[&quot;25342&quot;,&quot;26086&quot;,&quot;44850&quot;,&quot;24408&quot;,&quot;35083&quot;,&quot;23227&quot;,&quot;25341&quot;,&quot;45301&quot;,&quot;27617&quot;,&quot;24203&quot;]</td>
+<td align="right">10</td>
+<td align="right">3.629870</td>
+<td align="right">3.649351</td>
+<td align="right">3.623377</td>
+<td align="right">3.642857</td>
+<td align="right">3.720779</td>
+<td align="right">77</td>
+</tr>
+<tr class="even">
+<td align="left">Pivovar Velké Popovice a.s.</td>
+<td align="right">448</td>
+<td align="left">[&quot;Kozel Cerny (Kozel Dark) Velckopopovicky&quot;,&quot;Kozel&quot;,&quot;Kozel Svétlý&quot;,&quot;Kozel Premium&quot;,&quot;Master Tmavy&quot;,&quot;Kozel 11° Medium&quot;]</td>
+<td align="left">[&quot;16273&quot;,&quot;5430&quot;,&quot;18502&quot;,&quot;45385&quot;,&quot;39317&quot;,&quot;45384&quot;]</td>
 <td align="right">6</td>
-</tr>
-<tr class="even">
-<td align="left">Adirondack Pub &amp; Brewery</td>
-<td align="right">7216</td>
-<td align="left">[&quot;Inman Pond Blonde&quot;,&quot;Bear Naked Ale&quot;,&quot;California Steam&quot;,&quot;Belgian Style Amber Ale&quot;,&quot;Café Vero Stout&quot;,&quot;Iroquois Pale Ale&quot;,&quot;Dirty Blonde&quot;,&quot;Hopen-Weisse&quot;,&quot;Bobcat Blonde&quot;,&quot;Belgian Saison&quot;,&quot;British Red&quot;,&quot;Fat Scotsman&quot;,&quot;Headwater Hefe&quot;,&quot;Adirondack Beaver Tail Brown Ale&quot;,&quot;Czech Pilsner&quot;,&quot;Belgium White Peach&quot;,&quot;Maple Porter&quot;,&quot;Black IPA&quot;,&quot;Oktoberfest&quot;,&quot;Snow Trout Stout&quot;,&quot;Belgian Pale Ale&quot;,&quot;Double IPA&quot;,&quot;Indian Pale Ale&quot;]</td>
-<td align="left">[&quot;43201&quot;,&quot;37158&quot;,&quot;37020&quot;,&quot;70456&quot;,&quot;63762&quot;,&quot;76363&quot;,&quot;63763&quot;,&quot;63761&quot;,&quot;63758&quot;,&quot;52358&quot;,&quot;43199&quot;,&quot;24839&quot;,&quot;63760&quot;,&quot;68231&quot;,&quot;63759&quot;,&quot;72179&quot;,&quot;72152&quot;,&quot;64288&quot;,&quot;73740&quot;,&quot;37021&quot;,&quot;52357&quot;,&quot;67945&quot;,&quot;52473&quot;]</td>
-<td align="right">23</td>
-<td align="right">3.776316</td>
-<td align="right">3.723684</td>
-<td align="right">3.750000</td>
-<td align="right">3.690790</td>
-<td align="right">3.809210</td>
-<td align="right">76</td>
+<td align="right">3.734211</td>
+<td align="right">3.486842</td>
+<td align="right">3.707895</td>
+<td align="right">3.521053</td>
+<td align="right">3.607895</td>
+<td align="right">190</td>
 </tr>
 <tr class="odd">
-<td align="left">21st Amendment Brewery</td>
-<td align="right">735</td>
-<td align="left">[&quot;Hop Caen&quot;,&quot;21 Rock&quot;,&quot;Harvest Moon&quot;,&quot;21st Amendment IPA&quot;,&quot;Monk's Blood&quot;,&quot;Hell Or High Watermelon Wheat Beer&quot;,&quot;Bitter American&quot;,&quot;Ugly Sweater IPA&quot;,&quot;Lost Sailor Imperial Pilsner&quot;,&quot;Octoberfest&quot;,&quot;Beer School&quot;,&quot;Blind Lust&quot;,&quot;Mo'tcho Risin'&quot;,&quot;Shot Tower Stout&quot;,&quot;Rathskeller Alt&quot;,&quot;Fireside Chat&quot;,&quot;Leuven Life Pale Ale&quot;,&quot;Batch 300&quot;,&quot;USB 5.0&quot;,&quot;Holiday Spiced Ale&quot;,&quot;Spring Tweet&quot;,&quot;Wit Cin'd&quot;,&quot;Antiquated IPA&quot;,&quot;Leicht Weiss&quot;,&quot;Friday IPA&quot;,&quot;Tenure&quot;,&quot;Eurail IPA&quot;,&quot;Drunken Monk Ale&quot;,&quot;Beerly Legal Lager&quot;,&quot;South Park Blonde&quot;,&quot;Hendrik's Russian Imperial Stout&quot;,&quot;Gigantes&quot;,&quot;Anchorage Vacation&quot;,&quot;Diesel Imperial Smoked Porter&quot;,&quot;St. Lupulin&quot;,&quot;North Star Red&quot;,&quot;O'Sullivan's Irish Ale&quot;,&quot;MMXA&quot;,&quot;Maibock&quot;,&quot;Back In Black&quot;,&quot;Allies Win The War!&quot;,&quot;Old Glory&quot;,&quot;Baby Horse&quot;,&quot;Oaked Baby Horse&quot;,&quot;TBN - Blonde Bock&quot;,&quot;Potrero ESB&quot;,&quot;Oyster Point Oyster Stout&quot;,&quot;Summit IPA&quot;,&quot;U.S.  I.P.A.&quot;,&quot;Two Lane Blacktop Imperial Black&quot;,&quot;Pippo's Porter&quot;,&quot;563 Stout&quot;,&quot;21st Amendment Pale Ale&quot;,&quot;Heat Wave IPA&quot;,&quot;Double Trouble IPA&quot;,&quot;Amber Waves&quot;,&quot;Phoenix IPA&quot;,&quot;Hop Crisis&quot;,&quot;Golden Doom&quot;,&quot;General Pippo's Porter&quot;,&quot;Papa Park's Porter&quot;,&quot;Bavarian Hefeweizen&quot;,&quot;Amendment Pale Ale&quot;,&quot;5-South&quot;,&quot;Frico Neccia&quot;,&quot;Opening Day IPA&quot;,&quot;Roasted American&quot;,&quot;The Conventioneer&quot;,&quot;Via&quot;,&quot;St. Patrick O'Sullivan's Irish Red&quot;,&quot;Warrior IPA&quot;,&quot;Over Hopulation&quot;,&quot;Noir De Blanc&quot;,&quot;Spill It Milk Stout&quot;,&quot;Hqt&quot;,&quot;Ripple Imperial Chocolate Porter&quot;,&quot;Repeal Rye&quot;,&quot;Lower Da Boom Barleywine&quot;,&quot;21st Amendment Imperial Stout&quot;,&quot;King George IPA&quot;,&quot;Little Horse&quot;,&quot;Rammstein&quot;,&quot;Wit And Wisdom&quot;]</td>
-<td align="left">[&quot;4205&quot;,&quot;66190&quot;,&quot;45648&quot;,&quot;20781&quot;,&quot;52510&quot;,&quot;4202&quot;,&quot;34791&quot;,&quot;64774&quot;,&quot;48031&quot;,&quot;20378&quot;,&quot;56365&quot;,&quot;56056&quot;,&quot;59897&quot;,&quot;2419&quot;,&quot;72443&quot;,&quot;62732&quot;,&quot;59896&quot;,&quot;24084&quot;,&quot;71492&quot;,&quot;10937&quot;,&quot;68417&quot;,&quot;60559&quot;,&quot;52683&quot;,&quot;57550&quot;,&quot;55153&quot;,&quot;61774&quot;,&quot;60562&quot;,&quot;63572&quot;,&quot;55218&quot;,&quot;2995&quot;,&quot;60563&quot;,&quot;58100&quot;,&quot;48746&quot;,&quot;35836&quot;,&quot;63935&quot;,&quot;2677&quot;,&quot;2997&quot;,&quot;58752&quot;,&quot;10939&quot;,&quot;46070&quot;,&quot;74904&quot;,&quot;72440&quot;,&quot;54516&quot;,&quot;72433&quot;,&quot;31379&quot;,&quot;10944&quot;,&quot;10942&quot;,&quot;31670&quot;,&quot;2996&quot;,&quot;55969&quot;,&quot;2998&quot;,&quot;4206&quot;,&quot;10943&quot;,&quot;43004&quot;,&quot;10936&quot;,&quot;60560&quot;,&quot;31669&quot;,&quot;42063&quot;,&quot;16649&quot;,&quot;28827&quot;,&quot;63564&quot;,&quot;40811&quot;,&quot;4204&quot;,&quot;56656&quot;,&quot;43009&quot;,&quot;10941&quot;,&quot;68416&quot;,&quot;60558&quot;,&quot;63563&quot;,&quot;56777&quot;,&quot;24939&quot;,&quot;72441&quot;,&quot;54515&quot;,&quot;73603&quot;,&quot;72020&quot;,&quot;72445&quot;,&quot;72444&quot;,&quot;10938&quot;,&quot;14728&quot;,&quot;60561&quot;,&quot;56178&quot;,&quot;58099&quot;,&quot;43005&quot;]</td>
-<td align="right">83</td>
-<td align="right">3.699295</td>
-<td align="right">3.639523</td>
-<td align="right">3.845870</td>
-<td align="right">3.649093</td>
-<td align="right">3.631464</td>
-<td align="right">2978</td>
-</tr>
-<tr class="even">
-<td align="left">Grand Lake Brewing Company</td>
-<td align="right">4738</td>
-<td align="left">[&quot;Pumphouse Lager&quot;,&quot;Plaid Bastard&quot;,&quot;Stumpjumper India Pale Ale&quot;,&quot;Shadow Mountain Stout&quot;,&quot;Java The Hub&quot;,&quot;White Cap Wheat&quot;,&quot;Wooly Booger Nut Brown&quot;,&quot;Grand Avenue Gold&quot;,&quot;Super Chicken Barley Wine&quot;,&quot;Rebel Pale Ale&quot;,&quot;Trail Ridge Red&quot;,&quot;Holy Grail&quot;,&quot;Old #7 Pale Ale&quot;,&quot;Rocky Mountain Red Ale&quot;,&quot;Hoppy's One Ton Pale Ale&quot;,&quot;Dain Bramage&quot;]</td>
-<td align="left">[&quot;56939&quot;,&quot;15959&quot;,&quot;15957&quot;,&quot;15960&quot;,&quot;38236&quot;,&quot;15953&quot;,&quot;19817&quot;,&quot;15952&quot;,&quot;15958&quot;,&quot;58636&quot;,&quot;15956&quot;,&quot;40351&quot;,&quot;15955&quot;,&quot;69516&quot;,&quot;51439&quot;,&quot;37509&quot;]</td>
-<td align="right">16</td>
-<td align="right">3.732044</td>
-<td align="right">3.676796</td>
-<td align="right">3.662983</td>
-<td align="right">3.574586</td>
-<td align="right">3.729282</td>
-<td align="right">181</td>
-</tr>
-<tr class="odd">
-<td align="left">Brasserie De Saint-Sylvestre</td>
-<td align="right">260</td>
-<td align="left">[&quot;Gavroche&quot;,&quot;Brassin D'Hiver&quot;,&quot;Bière Nouvelle&quot;,&quot;3 Monts Grande Réserve Spécial Ale&quot;,&quot;St. Sylvestre Du Moulin Pilsner&quot;,&quot;3 Monts&quot;,&quot;Bière De Noël&quot;,&quot;Saint Sylvester's Flander's Winter Ale&quot;,&quot;3 Monts 90th Anniversary&quot;]</td>
-<td align="left">[&quot;723&quot;,&quot;28317&quot;,&quot;7491&quot;,&quot;5630&quot;,&quot;39529&quot;,&quot;1308&quot;,&quot;21682&quot;,&quot;37433&quot;,&quot;67838&quot;]</td>
-<td align="right">9</td>
-<td align="right">3.904218</td>
-<td align="right">3.751318</td>
-<td align="right">4.036028</td>
-<td align="right">3.886643</td>
-<td align="right">3.891916</td>
-<td align="right">569</td>
-</tr>
-<tr class="even">
-<td align="left">Independent Distillers (Aust)</td>
-<td align="right">6295</td>
-<td align="left">[&quot;Bushman's&quot;,&quot;Haagen Australian Lager&quot;,&quot;Cuba '59&quot;,&quot;Cruiser Hummingbird W. Passionfruit&quot;,&quot;Cruiser Hummingbird&quot;,&quot;Regal Lager&quot;,&quot;Three Kings Dry Lager&quot;,&quot;Platinum Blonde&quot;,&quot;Blacksmith Bitter&quot;,&quot;Haagen Gold&quot;]</td>
-<td align="left">[&quot;12147&quot;,&quot;32668&quot;,&quot;46507&quot;,&quot;56528&quot;,&quot;55667&quot;,&quot;14082&quot;,&quot;63514&quot;,&quot;48734&quot;,&quot;13680&quot;,&quot;23984&quot;]</td>
-<td align="right">10</td>
-<td align="right">2.642857</td>
-<td align="right">2.400000</td>
-<td align="right">2.771429</td>
-<td align="right">2.542857</td>
-<td align="right">2.428571</td>
-<td align="right">35</td>
-</tr>
-<tr class="odd">
-<td align="left">KleinBrouwerij De Glazen Toren</td>
-<td align="right">10557</td>
-<td align="left">[&quot;Saison D'Erpe-Mere&quot;,&quot;Saison Special Eindejaar&quot;,&quot;Cuvee Angelique&quot;,&quot;Canaster Winterscotch Ale&quot;,&quot;Slagersbier Dark&quot;,&quot;Jan De Lichte&quot;,&quot;Canaster&quot;,&quot;Saison D'Erpe-Mere Zymatore&quot;,&quot;Ondineke Oilsjtersen Tripel&quot;,&quot;Glazen Toren Finneken&quot;]</td>
-<td align="left">[&quot;21113&quot;,&quot;48220&quot;,&quot;37833&quot;,&quot;27667&quot;,&quot;21115&quot;,&quot;27226&quot;,&quot;21111&quot;,&quot;76022&quot;,&quot;21112&quot;,&quot;56994&quot;]</td>
-<td align="right">10</td>
-<td align="right">4.116505</td>
-<td align="right">4.031553</td>
-<td align="right">4.167476</td>
-<td align="right">4.014563</td>
-<td align="right">4.089806</td>
-<td align="right">412</td>
-</tr>
-<tr class="even">
-<td align="left">Hanssens Artisanaal bvba</td>
-<td align="right">636</td>
-<td align="left">[&quot;Oude Kriek&quot;,&quot;Oude Gueuze&quot;,&quot;Jonge Lambic&quot;,&quot;Oudbeitje Lambic&quot;,&quot;Hanssens Kriekenlambik&quot;,&quot;Hanssens Experimental Raspberry&quot;,&quot;Hanssens Experimental Cassis&quot;,&quot;Mead The Gueuze&quot;,&quot;Scarenbecca Kriek&quot;]</td>
-<td align="left">[&quot;1709&quot;,&quot;1710&quot;,&quot;47940&quot;,&quot;5586&quot;,&quot;62634&quot;,&quot;52864&quot;,&quot;48203&quot;,&quot;3435&quot;,&quot;64558&quot;]</td>
-<td align="right">9</td>
-<td align="right">3.837711</td>
-<td align="right">4.011257</td>
-<td align="right">3.803471</td>
-<td align="right">3.778612</td>
-<td align="right">4.020638</td>
-<td align="right">1066</td>
+<td align="left">Moorhouse's Brewery (Burnley) Ltd</td>
+<td align="right">109</td>
+<td align="left">[&quot;Black Cat&quot;,&quot;English Owd Ale&quot;,&quot;Pendle Witches Brew&quot;,&quot;Moorhouse Blond Witch&quot;,&quot;Bitter&quot;]</td>
+<td align="left">[&quot;341&quot;,&quot;48499&quot;,&quot;340&quot;,&quot;13121&quot;,&quot;24456&quot;]</td>
+<td align="right">5</td>
+<td align="right">3.881323</td>
+<td align="right">3.645914</td>
+<td align="right">3.801556</td>
+<td align="right">3.661479</td>
+<td align="right">3.727626</td>
+<td align="right">257</td>
 </tr>
 </tbody>
 </table>
 
 After grouping reviews from beers at the same brewery, and removing
-breweries with &lt;5 beers, we are now down to 3093 observations and 11
+breweries with &lt;5 beers, we are now down to 1638 observations and 11
 variables.
+
+CSV Split
+---------
 
 In this we will split the original `ba` dataset by brewery and write
 each to a csv. This will allow for easier and faster loading on the

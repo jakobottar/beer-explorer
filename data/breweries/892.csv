@@ -1,600 +1,544 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",892,"Cold Spring Brewing Co.",1029422385,2.5,3,2,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
 "2",892,"Cold Spring Brewing Co.",1234068469,3,3,3,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
-"3",892,"Cold Spring Brewing Co.",1227410062,3,2.5,3,"Black & Tan",3.5,3.5,"Aspen Meadow Black & Tan",NA,19955
-"4",892,"Cold Spring Brewing Co.",1273602134,2,1.5,1,"American Pale Ale (APA)",1.5,2,"Charles Reibenbach Ice Ale",5.8,31899
-"5",892,"Cold Spring Brewing Co.",1170385946,2,2,2.5,"American Pale Ale (APA)",3,2,"Charles Reibenbach Ice Ale",5.8,31899
-"6",892,"Cold Spring Brewing Co.",1248745132,4,5,3.5,"American Strong Ale",3.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"7",892,"Cold Spring Brewing Co.",1189617163,3.5,1.5,2,"American Adjunct Lager",1.5,2,"Josef Hoffbauer Lager",NA,11465
-"8",892,"Cold Spring Brewing Co.",1173068580,1,1,3,"American Adjunct Lager",1,1,"Josef Hoffbauer Lager",NA,11465
-"9",892,"Cold Spring Brewing Co.",1106677269,1,1,2,"American Blonde Ale",1.5,1,"Barkley Sound Honey Almond Light",NA,12199
-"10",892,"Cold Spring Brewing Co.",1128728038,2.5,2.5,2.5,"American Pale Ale (APA)",2,2,"Hidden River Pale Ale",NA,5483
-"11",892,"Cold Spring Brewing Co.",1318969131,3.5,3,3,"American Adjunct Lager",2.5,3,"Northern Ice Lager",5.8,35276
-"12",892,"Cold Spring Brewing Co.",1263439226,1,1.5,2,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
-"13",892,"Cold Spring Brewing Co.",1215712742,1,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Stite Golden Pilsner",NA,2935
-"14",892,"Cold Spring Brewing Co.",1191473771,3,3,3,"American Adjunct Lager",3,3,"Stite Golden Pilsner",NA,2935
-"15",892,"Cold Spring Brewing Co.",1186884104,2,2,2.5,"American Adjunct Lager",2,2,"Stite Golden Pilsner",NA,2935
-"16",892,"Cold Spring Brewing Co.",1182398342,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"17",892,"Cold Spring Brewing Co.",1181105831,1,1.5,2.5,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"18",892,"Cold Spring Brewing Co.",1181017377,1,1,2,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"19",892,"Cold Spring Brewing Co.",1178671298,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"20",892,"Cold Spring Brewing Co.",1160139462,1.5,2,3,"American Adjunct Lager",1.5,1.5,"Stite Golden Pilsner",NA,2935
-"21",892,"Cold Spring Brewing Co.",1124433518,1,1,3,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"22",892,"Cold Spring Brewing Co.",1122102483,1,1,2,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"23",892,"Cold Spring Brewing Co.",1085300165,1.5,1.5,3.5,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
-"24",892,"Cold Spring Brewing Co.",1075522776,1.5,1,2,"American Adjunct Lager",2,2,"Stite Golden Pilsner",NA,2935
-"25",892,"Cold Spring Brewing Co.",1072637966,1,1,3,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"26",892,"Cold Spring Brewing Co.",1070932007,1,1,1.5,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"27",892,"Cold Spring Brewing Co.",1070823165,1.5,1.5,3,"American Adjunct Lager",2,1,"Stite Golden Pilsner",NA,2935
-"28",892,"Cold Spring Brewing Co.",1070316629,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
-"29",892,"Cold Spring Brewing Co.",1015330822,2,2,2.5,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
-"30",892,"Cold Spring Brewing Co.",1313560724,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
-"31",892,"Cold Spring Brewing Co.",1312172470,4,3.5,4.5,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
-"32",892,"Cold Spring Brewing Co.",1302839864,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Olde Johnnie Ale",NA,37996
-"33",892,"Cold Spring Brewing Co.",1282441339,3,2.5,3,"American Adjunct Lager",3,2.5,"Northern Golden Lager",NA,38387
-"34",892,"Cold Spring Brewing Co.",1301793005,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
-"35",892,"Cold Spring Brewing Co.",1288932527,3.5,3,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
-"36",892,"Cold Spring Brewing Co.",1286218635,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
-"37",892,"Cold Spring Brewing Co.",1283290694,3,3.5,4,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
-"38",892,"Cold Spring Brewing Co.",1280358111,3.5,4,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
-"39",892,"Cold Spring Brewing Co.",1279763889,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
-"40",892,"Cold Spring Brewing Co.",1263393616,4,2.5,3.5,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
-"41",892,"Cold Spring Brewing Co.",1255316434,2,2.5,3,"American Amber / Red Ale",2.5,2,"Olde Johnnie Ale",NA,37996
-"42",892,"Cold Spring Brewing Co.",1215543615,3.5,3,3,"American Amber / Red Ale",3.5,3,"Olde Johnnie Ale",NA,37996
-"43",892,"Cold Spring Brewing Co.",1186084054,2.5,3,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
-"44",892,"Cold Spring Brewing Co.",1027293950,3,3.5,3,"Cream Ale",3,3.5,"Jeremiah James Cream Ale",NA,4863
-"45",892,"Cold Spring Brewing Co.",1026426220,3,3,3,"Cream Ale",3,3.5,"Jeremiah James Cream Ale",NA,4863
-"46",892,"Cold Spring Brewing Co.",1026155206,2.5,3.5,3.5,"Cream Ale",3,2.5,"Jeremiah James Cream Ale",NA,4863
-"47",892,"Cold Spring Brewing Co.",1259127719,1.5,2,3,"Light Lager",2,2,"All American Light",NA,54352
-"48",892,"Cold Spring Brewing Co.",1242669547,1,1,2,"American Adjunct Lager",1,1,"Panther Ice Ale",7.5,15761
-"49",892,"Cold Spring Brewing Co.",1146423039,2.5,1,2,"American Adjunct Lager",1.5,1,"Panther Ice Ale",7.5,15761
-"50",892,"Cold Spring Brewing Co.",1076037625,1,1.5,2,"American Adjunct Lager",1.5,1,"Panther Ice Ale",7.5,15761
-"51",892,"Cold Spring Brewing Co.",1166659248,2,2,3.5,"American Adjunct Lager",2,2.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
-"52",892,"Cold Spring Brewing Co.",1148358766,1.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
-"53",892,"Cold Spring Brewing Co.",1123363491,1.5,2,3.5,"American Adjunct Lager",2,1.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
-"54",892,"Cold Spring Brewing Co.",1103750863,2.5,2,2.5,"American Adjunct Lager",1.5,2,"Dakota Brewing Co. Roughrider Premium",NA,18574
-"55",892,"Cold Spring Brewing Co.",1089260087,1.5,1,2.5,"American Adjunct Lager",1,1,"Dakota Brewing Co. Roughrider Premium",NA,18574
-"56",892,"Cold Spring Brewing Co.",1300231129,3.5,3,3,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
-"57",892,"Cold Spring Brewing Co.",1258482580,4,3.5,3.5,"Bock",4,4,"Gluek Honey Bock",5.8,5167
-"58",892,"Cold Spring Brewing Co.",1252280180,3.5,3.5,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
-"59",892,"Cold Spring Brewing Co.",1232850330,4,3,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
-"60",892,"Cold Spring Brewing Co.",1169940888,2.5,2,4,"Bock",2,2.5,"Gluek Honey Bock",5.8,5167
-"61",892,"Cold Spring Brewing Co.",1231382639,4,3,3,"Bock",4,3.5,"Gluek Honey Bock",5.8,5167
-"62",892,"Cold Spring Brewing Co.",1230768094,4,3,4,"Bock",3,4,"Gluek Honey Bock",5.8,5167
-"63",892,"Cold Spring Brewing Co.",1230318156,2.5,3,3,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
-"64",892,"Cold Spring Brewing Co.",1226345475,1.5,2,4,"Bock",1,1,"Gluek Honey Bock",5.8,5167
-"65",892,"Cold Spring Brewing Co.",1215817787,1.5,2,2.5,"Bock",2,2,"Gluek Honey Bock",5.8,5167
-"66",892,"Cold Spring Brewing Co.",1213987696,4,3,3.5,"Bock",3.5,3,"Gluek Honey Bock",5.8,5167
-"67",892,"Cold Spring Brewing Co.",1185227182,3.5,3,3.5,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
-"68",892,"Cold Spring Brewing Co.",1184561054,2.5,2.5,2.5,"Bock",2,2.5,"Gluek Honey Bock",5.8,5167
-"69",892,"Cold Spring Brewing Co.",1175882050,1.5,3,2.5,"Bock",2,2,"Gluek Honey Bock",5.8,5167
-"70",892,"Cold Spring Brewing Co.",1156820544,5,3,3,"Bock",3,4,"Gluek Honey Bock",5.8,5167
-"71",892,"Cold Spring Brewing Co.",1154887865,1,1.5,2,"Bock",1,1,"Gluek Honey Bock",5.8,5167
-"72",892,"Cold Spring Brewing Co.",1143602582,4,3,3,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
-"73",892,"Cold Spring Brewing Co.",1124324569,4,3,2.5,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
-"74",892,"Cold Spring Brewing Co.",1099234313,3.5,2.5,3,"Bock",2,3.5,"Gluek Honey Bock",5.8,5167
-"75",892,"Cold Spring Brewing Co.",1089058629,3.5,3,3,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
-"76",892,"Cold Spring Brewing Co.",1088659882,4,3.5,4,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
-"77",892,"Cold Spring Brewing Co.",1088223508,3,3.5,4,"Bock",3,3,"Gluek Honey Bock",5.8,5167
-"78",892,"Cold Spring Brewing Co.",1086036128,3.5,2.5,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
-"79",892,"Cold Spring Brewing Co.",1051983141,3,3,3.5,"American Amber / Red Lager",3,3,"Hidden River Amber",NA,5697
-"80",892,"Cold Spring Brewing Co.",1075058883,3.5,2.5,3.5,"Bock",3,4,"Gluek Honey Bock",5.8,5167
-"81",892,"Cold Spring Brewing Co.",1031680986,4,2,3,"Bock",2.5,2,"Gluek Honey Bock",5.8,5167
-"82",892,"Cold Spring Brewing Co.",1170470644,3.5,2.5,3,"American Amber / Red Lager",3.5,3,"Hidden River Amber",NA,5697
-"83",892,"Cold Spring Brewing Co.",1152543065,3,3.5,4,"American Amber / Red Lager",3.5,3,"Hidden River Amber",NA,5697
-"84",892,"Cold Spring Brewing Co.",1146103535,3,3,3.5,"American Amber / Red Lager",3,3.5,"Hidden River Amber",NA,5697
-"85",892,"Cold Spring Brewing Co.",1143519929,4,4,3.5,"American Amber / Red Lager",4,4,"Hidden River Amber",NA,5697
-"86",892,"Cold Spring Brewing Co.",1097166416,2,2,3.5,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
-"87",892,"Cold Spring Brewing Co.",1093396814,2,3,3,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
-"88",892,"Cold Spring Brewing Co.",1083125037,3,3.5,3.5,"American Amber / Red Lager",2.5,3,"Hidden River Amber",NA,5697
-"89",892,"Cold Spring Brewing Co.",1061270224,2,3,3,"American Amber / Red Lager",2,2.5,"Hidden River Amber",NA,5697
-"90",892,"Cold Spring Brewing Co.",1049135975,2,2.5,3,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
-"91",892,"Cold Spring Brewing Co.",1042700065,2,2,2,"American Amber / Red Lager",2,2,"Hidden River Amber",NA,5697
-"92",892,"Cold Spring Brewing Co.",1030373462,1.5,3,2,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
-"93",892,"Cold Spring Brewing Co.",1035495410,1,1,2.5,"American Amber / Red Ale",1,1,"Jeremiah James Red Ale",NA,4862
-"94",892,"Cold Spring Brewing Co.",1026154678,2,3,4,"American Amber / Red Ale",2.5,2,"Jeremiah James Red Ale",NA,4862
-"95",892,"Cold Spring Brewing Co.",1209878103,1.5,1.5,3,"American Adjunct Lager",2,1.5,"Jacob Hackstein Pilsner",NA,41217
-"96",892,"Cold Spring Brewing Co.",1204070642,1.5,2,1.5,"American Adjunct Lager",1.5,1.5,"Jacob Hackstein Pilsner",NA,41217
-"97",892,"Cold Spring Brewing Co.",1266361303,4.5,4.5,4,"Dunkelweizen",4,4.5,"Cold Spring Ebony Wheat",NA,43756
-"98",892,"Cold Spring Brewing Co.",1262465364,3.5,3.5,3,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
-"99",892,"Cold Spring Brewing Co.",1241480998,4,4,4,"Dunkelweizen",4,4,"Cold Spring Ebony Wheat",NA,43756
-"100",892,"Cold Spring Brewing Co.",1235101712,3.5,3,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
-"101",892,"Cold Spring Brewing Co.",1230854091,2.5,3,2,"Dunkelweizen",2.5,2,"Cold Spring Ebony Wheat",NA,43756
-"102",892,"Cold Spring Brewing Co.",1230263632,4,3.5,3.5,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
-"103",892,"Cold Spring Brewing Co.",1228700477,3,3.5,3,"Dunkelweizen",3.5,3.5,"Cold Spring Ebony Wheat",NA,43756
-"104",892,"Cold Spring Brewing Co.",1226504469,3,3,3,"Dunkelweizen",2.5,3.5,"Cold Spring Ebony Wheat",NA,43756
-"105",892,"Cold Spring Brewing Co.",1223692801,4,3,3.5,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
-"106",892,"Cold Spring Brewing Co.",1218841701,3.5,3.5,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
-"107",892,"Cold Spring Brewing Co.",1216122676,3.5,3,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
-"108",892,"Cold Spring Brewing Co.",1158109468,1,2.5,2,"American Adjunct Lager",2,1,"Gluek's Dark",NA,22687
-"109",892,"Cold Spring Brewing Co.",1193328611,1.5,1.5,1.5,"American Adjunct Lager",1.5,1,"Cold Spring Lager",5,26798
-"110",892,"Cold Spring Brewing Co.",1252360977,3,3,2.5,"American Adjunct Lager",2.5,2.5,"Northern Golden Lager",NA,38387
-"111",892,"Cold Spring Brewing Co.",1131246211,2,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Cold Spring Lager",5,26798
-"112",892,"Cold Spring Brewing Co.",1237912944,2,2.5,1.5,"American Malt Liquor",1.5,2.5,"Gluek Ice",4.58,31057
-"113",892,"Cold Spring Brewing Co.",1229147698,3,2,2,"American Malt Liquor",2,3,"Gluek Ice",4.58,31057
-"114",892,"Cold Spring Brewing Co.",1214419206,1,2,4,"American Malt Liquor",1,2,"Gluek Ice",4.58,31057
-"115",892,"Cold Spring Brewing Co.",1208228943,1,1,1,"American Malt Liquor",1,1,"Gluek Ice",4.58,31057
-"116",892,"Cold Spring Brewing Co.",1188280604,1,1,1,"American Malt Liquor",1,1,"Gluek Ice",4.58,31057
-"117",892,"Cold Spring Brewing Co.",1178749779,1.5,2,2,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
-"118",892,"Cold Spring Brewing Co.",1175967613,1,1.5,2,"American Malt Liquor",1.5,1.5,"Gluek Ice",4.58,31057
-"119",892,"Cold Spring Brewing Co.",1166047779,2,2,3,"American Malt Liquor",2,1.5,"Gluek Ice",4.58,31057
-"120",892,"Cold Spring Brewing Co.",1153783419,2,3,3,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
-"121",892,"Cold Spring Brewing Co.",1150071658,1.5,2,1.5,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
-"122",892,"Cold Spring Brewing Co.",1131761255,3,2,1,"Black & Tan",2.5,2,"Aspen Meadow Black & Tan",NA,19955
-"123",892,"Cold Spring Brewing Co.",1095743345,1,2,2,"Black & Tan",1.5,2,"Aspen Meadow Black & Tan",NA,19955
-"124",892,"Cold Spring Brewing Co.",1273601892,2,1,1,"American Adjunct Lager",1,1,"Charles Reibenbach Lager",4.9,31840
-"125",892,"Cold Spring Brewing Co.",1075522966,3,2,2.5,"Märzen / Oktoberfest",2.5,2.5,"Marzen",NA,6184
-"126",892,"Cold Spring Brewing Co.",1035878029,3,3.5,3,"Märzen / Oktoberfest",2.5,2.5,"Marzen",NA,6184
-"127",892,"Cold Spring Brewing Co.",1032725017,3,3,3,"Märzen / Oktoberfest",3,3,"Marzen",NA,6184
-"128",892,"Cold Spring Brewing Co.",1227410284,4,4,3.5,"English Brown Ale",4,4,"Aspen Meadow Nut Brown",NA,15323
-"129",892,"Cold Spring Brewing Co.",1131775658,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Aspen Meadow Nut Brown",NA,15323
-"130",892,"Cold Spring Brewing Co.",1131670570,3.5,3.5,4,"English Brown Ale",3,3,"Aspen Meadow Nut Brown",NA,15323
-"131",892,"Cold Spring Brewing Co.",1102341095,2.5,2,3,"English Brown Ale",3,2,"Aspen Meadow Nut Brown",NA,15323
-"132",892,"Cold Spring Brewing Co.",1095308169,1.5,1.5,3,"English Brown Ale",2,1.5,"Aspen Meadow Nut Brown",NA,15323
-"133",892,"Cold Spring Brewing Co.",1073693455,2.5,3.5,3,"English Brown Ale",3,3,"Aspen Meadow Nut Brown",NA,15323
-"134",892,"Cold Spring Brewing Co.",1153952357,2.5,2.5,2.5,"American Pale Ale (APA)",3,2.5,"Charles Reibenbach Ice Ale",5.8,31899
-"135",892,"Cold Spring Brewing Co.",1046979749,3.5,3.5,3.5,"Black & Tan",3,3,"Black & Tan",NA,8856
-"136",892,"Cold Spring Brewing Co.",1311072973,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Cold Spring Pale Ale",NA,42294
-"137",892,"Cold Spring Brewing Co.",1307053745,2.5,3,3,"American Pale Ale (APA)",2.5,2,"Cold Spring Pale Ale",NA,42294
-"138",892,"Cold Spring Brewing Co.",1278448812,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
-"139",892,"Cold Spring Brewing Co.",1276496465,3.5,3,3,"American Pale Ale (APA)",3,3,"Cold Spring Pale Ale",NA,42294
-"140",892,"Cold Spring Brewing Co.",1255842053,3.5,3,3,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
-"141",892,"Cold Spring Brewing Co.",1250217271,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Cold Spring Pale Ale",NA,42294
-"142",892,"Cold Spring Brewing Co.",1244088464,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Cold Spring Pale Ale",NA,42294
-"143",892,"Cold Spring Brewing Co.",1159033254,2.5,2.5,3,"English Brown Ale",2.5,3,"Colonial Pub Pints Brown Ale",NA,31874
-"144",892,"Cold Spring Brewing Co.",1242438840,3.5,1.5,3.5,"American Pale Ale (APA)",2,2.5,"Cold Spring Pale Ale",NA,42294
-"145",892,"Cold Spring Brewing Co.",1238110366,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
-"146",892,"Cold Spring Brewing Co.",1237089767,4,3,4.5,"American Pale Ale (APA)",2.5,3.5,"Cold Spring Pale Ale",NA,42294
-"147",892,"Cold Spring Brewing Co.",1235612888,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Cold Spring Pale Ale",NA,42294
-"148",892,"Cold Spring Brewing Co.",1230771364,3,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Cold Spring Pale Ale",NA,42294
-"149",892,"Cold Spring Brewing Co.",1228701351,3,2.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Cold Spring Pale Ale",NA,42294
-"150",892,"Cold Spring Brewing Co.",1222219510,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Cold Spring Pale Ale",NA,42294
-"151",892,"Cold Spring Brewing Co.",1212118359,3.5,2,3.5,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
-"152",892,"Cold Spring Brewing Co.",1154135855,3,2,3.5,"English Brown Ale",1.5,2.5,"Colonial Pub Pints Brown Ale",NA,31874
-"153",892,"Cold Spring Brewing Co.",1211270482,3,2.5,3,"American Pale Ale (APA)",3,3,"Cold Spring Pale Ale",NA,42294
-"154",892,"Cold Spring Brewing Co.",1211229999,3.5,2.5,3.5,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
-"155",892,"Cold Spring Brewing Co.",1208928208,3,3,4,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
-"156",892,"Cold Spring Brewing Co.",1112966865,1.5,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Frederick Scholz Lager",NA,23040
-"157",892,"Cold Spring Brewing Co.",1253295025,4,3,3.5,"English Brown Ale",3,4,"Colonial Pub Pints Brown Ale",NA,31874
-"158",892,"Cold Spring Brewing Co.",1236122775,3.5,2.5,3.5,"English Brown Ale",4,4,"Colonial Pub Pints Brown Ale",NA,31874
-"159",892,"Cold Spring Brewing Co.",1230759345,3.5,3,3.5,"English Brown Ale",3,3.5,"Colonial Pub Pints Brown Ale",NA,31874
-"160",892,"Cold Spring Brewing Co.",1214858164,4,3.5,4,"English Brown Ale",3.5,3,"Colonial Pub Pints Brown Ale",NA,31874
-"161",892,"Cold Spring Brewing Co.",1205415883,2.5,2.5,3,"English Brown Ale",2,2.5,"Colonial Pub Pints Brown Ale",NA,31874
-"162",892,"Cold Spring Brewing Co.",1203184462,4.5,4,4,"English Brown Ale",4,4.5,"Colonial Pub Pints Brown Ale",NA,31874
-"163",892,"Cold Spring Brewing Co.",1192076683,4,4,4,"English Brown Ale",4,4.5,"Colonial Pub Pints Brown Ale",NA,31874
-"164",892,"Cold Spring Brewing Co.",1185228396,2.5,3,3,"English Brown Ale",2.5,2.5,"Colonial Pub Pints Brown Ale",NA,31874
-"165",892,"Cold Spring Brewing Co.",1183998625,3,3,3,"English Brown Ale",2.5,3.5,"Colonial Pub Pints Brown Ale",NA,31874
-"166",892,"Cold Spring Brewing Co.",1181847529,3.5,2.5,3,"English Brown Ale",3,2.5,"Colonial Pub Pints Brown Ale",NA,31874
-"167",892,"Cold Spring Brewing Co.",1176083530,3.5,4,4,"English Brown Ale",3.5,3,"Colonial Pub Pints Brown Ale",NA,31874
-"168",892,"Cold Spring Brewing Co.",1165942686,3.5,3.5,4,"English Brown Ale",4,3,"Colonial Pub Pints Brown Ale",NA,31874
-"169",892,"Cold Spring Brewing Co.",1153766864,2,2,3.5,"English Brown Ale",2.5,2,"Colonial Pub Pints Brown Ale",NA,31874
-"170",892,"Cold Spring Brewing Co.",1288745274,3,2.5,2.5,"German Pilsener",3.5,2.5,"Gluek Golden Pilsner",NA,5984
-"171",892,"Cold Spring Brewing Co.",1219169916,1.5,1.5,1.5,"German Pilsener",1.5,1,"Gluek Golden Pilsner",NA,5984
-"172",892,"Cold Spring Brewing Co.",1207745575,3,2,3,"German Pilsener",3,3,"Gluek Golden Pilsner",NA,5984
-"173",892,"Cold Spring Brewing Co.",1187837934,2.5,2,2.5,"German Pilsener",3,3,"Gluek Golden Pilsner",NA,5984
-"174",892,"Cold Spring Brewing Co.",1186030877,4,2.5,2.5,"German Pilsener",3,2.5,"Gluek Golden Pilsner",NA,5984
-"175",892,"Cold Spring Brewing Co.",1183703178,2,2,2,"German Pilsener",2,2,"Gluek Golden Pilsner",NA,5984
-"176",892,"Cold Spring Brewing Co.",1178391952,2.5,2.5,2.5,"German Pilsener",2.5,2.5,"Gluek Golden Pilsner",NA,5984
-"177",892,"Cold Spring Brewing Co.",1175966490,2.5,2,2,"German Pilsener",1.5,2,"Gluek Golden Pilsner",NA,5984
-"178",892,"Cold Spring Brewing Co.",1166047382,2.5,3,3,"German Pilsener",2.5,2,"Gluek Golden Pilsner",NA,5984
-"179",892,"Cold Spring Brewing Co.",1164213652,2,2.5,2,"German Pilsener",2.5,1.5,"Gluek Golden Pilsner",NA,5984
-"180",892,"Cold Spring Brewing Co.",1046126405,2,2,2,"American Stout",1.5,1.5,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"181",892,"Cold Spring Brewing Co.",1148770184,2,2,2,"German Pilsener",2,2,"Gluek Golden Pilsner",NA,5984
-"182",892,"Cold Spring Brewing Co.",1123221101,1.5,3,3,"German Pilsener",1,2,"Gluek Golden Pilsner",NA,5984
-"183",892,"Cold Spring Brewing Co.",1095107335,3,2,3,"German Pilsener",2.5,2.5,"Gluek Golden Pilsner",NA,5984
-"184",892,"Cold Spring Brewing Co.",1070185053,1.5,1.5,1,"German Pilsener",1,1.5,"Gluek Golden Pilsner",NA,5984
-"185",892,"Cold Spring Brewing Co.",1031905584,2,1.5,2.5,"German Pilsener",2,1.5,"Gluek Golden Pilsner",NA,5984
-"186",892,"Cold Spring Brewing Co.",1227410700,2.5,4,3,"American Stout",2.5,2.5,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"187",892,"Cold Spring Brewing Co.",1187315313,1,1,3,"American Stout",1,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"188",892,"Cold Spring Brewing Co.",1075859387,2,2,1,"American Stout",2,2,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"189",892,"Cold Spring Brewing Co.",1074813350,1.5,2,1.5,"American Stout",1,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"190",892,"Cold Spring Brewing Co.",1048608386,1,1.5,3.5,"American Stout",1.5,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"191",892,"Cold Spring Brewing Co.",1033579652,2,2,2,"American Stout",2,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"192",892,"Cold Spring Brewing Co.",1021723438,2,3,3,"American Stout",2.5,2,"Aspen Meadow Vanilla Cream Stout",NA,3728
-"193",892,"Cold Spring Brewing Co.",1233952168,1,1.5,1.5,"Light Lager",1.5,1,"Stite Light Lager",NA,14697
-"194",892,"Cold Spring Brewing Co.",1214050840,1,1.5,1.5,"Light Lager",1.5,1,"Stite Light Lager",NA,14697
-"195",892,"Cold Spring Brewing Co.",1188372325,1.5,1.5,1.5,"Light Lager",1.5,1.5,"Stite Light Lager",NA,14697
-"196",892,"Cold Spring Brewing Co.",1186588720,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
-"197",892,"Cold Spring Brewing Co.",1181098534,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
-"198",892,"Cold Spring Brewing Co.",1178678635,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
-"199",892,"Cold Spring Brewing Co.",1125211340,1.5,1.5,1.5,"Light Lager",1.5,1.5,"Stite Light Lager",NA,14697
-"200",892,"Cold Spring Brewing Co.",1110145916,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
-"201",892,"Cold Spring Brewing Co.",1070932440,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
-"202",892,"Cold Spring Brewing Co.",1174173525,1.5,1,1,"Light Lager",1,1,"Jacob Hackstein Light",NA,35906
-"203",892,"Cold Spring Brewing Co.",1250565724,3.5,3.5,4.5,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"204",892,"Cold Spring Brewing Co.",1250300618,4,4,4,"American Strong Ale",3.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"205",892,"Cold Spring Brewing Co.",1249679852,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"206",892,"Cold Spring Brewing Co.",1249436599,3,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"207",892,"Cold Spring Brewing Co.",1249353189,4,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"208",892,"Cold Spring Brewing Co.",1249166140,4,4.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"209",892,"Cold Spring Brewing Co.",1247710691,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"210",892,"Cold Spring Brewing Co.",1246413511,3.5,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"211",892,"Cold Spring Brewing Co.",1245789347,2.5,3.5,3.5,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"212",892,"Cold Spring Brewing Co.",1244658548,4.5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"213",892,"Cold Spring Brewing Co.",1242855203,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"214",892,"Cold Spring Brewing Co.",1241918638,4.5,4,4.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"215",892,"Cold Spring Brewing Co.",1241846038,3,3.5,4,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"216",892,"Cold Spring Brewing Co.",1240297919,2.5,3.5,4,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"217",892,"Cold Spring Brewing Co.",1238609790,3,3,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"218",892,"Cold Spring Brewing Co.",1238128419,4,3.5,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"219",892,"Cold Spring Brewing Co.",1325898667,3.5,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"220",892,"Cold Spring Brewing Co.",1325645989,4,3.5,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"221",892,"Cold Spring Brewing Co.",1325640643,3.5,3.5,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"222",892,"Cold Spring Brewing Co.",1325201476,3.5,3.5,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"223",892,"Cold Spring Brewing Co.",1325027670,3.5,3.5,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"224",892,"Cold Spring Brewing Co.",1324958401,3.5,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"225",892,"Cold Spring Brewing Co.",1312137914,4,4,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"226",892,"Cold Spring Brewing Co.",1311306666,4,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"227",892,"Cold Spring Brewing Co.",1324088648,3.5,3,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"228",892,"Cold Spring Brewing Co.",1323298063,3.5,4,4,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"229",892,"Cold Spring Brewing Co.",1321948889,4,4,3,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"230",892,"Cold Spring Brewing Co.",1321843431,3.5,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"231",892,"Cold Spring Brewing Co.",1321308541,4,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"232",892,"Cold Spring Brewing Co.",1319942423,4,4,3,"American Strong Ale",5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"233",892,"Cold Spring Brewing Co.",1319668908,4,4,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"234",892,"Cold Spring Brewing Co.",1318218522,4,3.5,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"235",892,"Cold Spring Brewing Co.",1301611772,4,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"236",892,"Cold Spring Brewing Co.",1316994682,3.5,3.5,3.5,"American Strong Ale",3.5,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"237",892,"Cold Spring Brewing Co.",1316143151,3.5,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"238",892,"Cold Spring Brewing Co.",1315360143,3.5,3.5,3.5,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"239",892,"Cold Spring Brewing Co.",1315266112,4,4,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"240",892,"Cold Spring Brewing Co.",1314590366,4,4,4.5,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"241",892,"Cold Spring Brewing Co.",1314584313,3.5,3.5,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"242",892,"Cold Spring Brewing Co.",1313551000,4,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"243",892,"Cold Spring Brewing Co.",1313351093,3.5,4,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"244",892,"Cold Spring Brewing Co.",1312670160,4.5,4.5,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"245",892,"Cold Spring Brewing Co.",1311123628,4,4,3.5,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"246",892,"Cold Spring Brewing Co.",1310836917,3.5,4,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"247",892,"Cold Spring Brewing Co.",1310429799,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"248",892,"Cold Spring Brewing Co.",1309320363,3.5,4.5,3,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"249",892,"Cold Spring Brewing Co.",1306896470,4,4,3.5,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"250",892,"Cold Spring Brewing Co.",1306704157,4,4,4.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"251",892,"Cold Spring Brewing Co.",1306037787,2.5,3,4,"American Strong Ale",2.5,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"252",892,"Cold Spring Brewing Co.",1305780073,2,4,3.5,"American Strong Ale",2.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
-"253",892,"Cold Spring Brewing Co.",1305250922,3.5,3,3,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"254",892,"Cold Spring Brewing Co.",1303960561,3.5,3.5,4,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"255",892,"Cold Spring Brewing Co.",1303427516,4,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"256",892,"Cold Spring Brewing Co.",1300587487,5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"257",892,"Cold Spring Brewing Co.",1298945472,3.5,4.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"258",892,"Cold Spring Brewing Co.",1298820124,4,3.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"259",892,"Cold Spring Brewing Co.",1298694659,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"260",892,"Cold Spring Brewing Co.",1298692122,4,4,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"261",892,"Cold Spring Brewing Co.",1298277194,3,2.5,3,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"262",892,"Cold Spring Brewing Co.",1297644787,4,4,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"263",892,"Cold Spring Brewing Co.",1294187372,2.5,3,4,"American Strong Ale",3.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
-"264",892,"Cold Spring Brewing Co.",1292545324,3.5,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"265",892,"Cold Spring Brewing Co.",1292373209,5,4.5,4,"American Strong Ale",5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"266",892,"Cold Spring Brewing Co.",1289527500,3,4,3.5,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"267",892,"Cold Spring Brewing Co.",1288568690,4.5,4,3.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"268",892,"Cold Spring Brewing Co.",1288233384,4,3.5,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"269",892,"Cold Spring Brewing Co.",1288217921,4,3.5,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"270",892,"Cold Spring Brewing Co.",1288056895,3.5,4,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"271",892,"Cold Spring Brewing Co.",1288047405,3,3.5,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"272",892,"Cold Spring Brewing Co.",1287713970,2.5,3.5,3.5,"American Strong Ale",4,2,"John Henry 3 Lick Spiker Ale",9.1,46984
-"273",892,"Cold Spring Brewing Co.",1286861834,3,3,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"274",892,"Cold Spring Brewing Co.",1285975943,3.5,4,3,"American Strong Ale",2.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"275",892,"Cold Spring Brewing Co.",1285721235,2.5,4,4,"American Strong Ale",3.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
-"276",892,"Cold Spring Brewing Co.",1285308541,3.5,3.5,4.5,"American Strong Ale",3.5,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"277",892,"Cold Spring Brewing Co.",1283742738,2.5,3.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"278",892,"Cold Spring Brewing Co.",1283131850,3.5,3.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"279",892,"Cold Spring Brewing Co.",1248151092,2.5,3,2.5,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"280",892,"Cold Spring Brewing Co.",1283058083,3,3,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"281",892,"Cold Spring Brewing Co.",1281569563,3.5,4,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"282",892,"Cold Spring Brewing Co.",1280987590,3.5,4,3,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"283",892,"Cold Spring Brewing Co.",1279590061,3.5,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"284",892,"Cold Spring Brewing Co.",1279244418,4.5,4,2.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"285",892,"Cold Spring Brewing Co.",1278749557,2,3.5,4,"American Strong Ale",3,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"286",892,"Cold Spring Brewing Co.",1277595742,4,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"287",892,"Cold Spring Brewing Co.",1277433791,2,3.5,3,"American Strong Ale",3,2,"John Henry 3 Lick Spiker Ale",9.1,46984
-"288",892,"Cold Spring Brewing Co.",1276659037,4,4,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"289",892,"Cold Spring Brewing Co.",1276053173,3,3,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"290",892,"Cold Spring Brewing Co.",1272576602,3.5,3,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"291",892,"Cold Spring Brewing Co.",1272062991,3.5,4.5,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"292",892,"Cold Spring Brewing Co.",1271825130,4,3.5,3.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"293",892,"Cold Spring Brewing Co.",1271472387,3.5,3,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"294",892,"Cold Spring Brewing Co.",1270692345,4,4.5,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"295",892,"Cold Spring Brewing Co.",1270449120,3,3,4,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"296",892,"Cold Spring Brewing Co.",1269828693,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"297",892,"Cold Spring Brewing Co.",1266630715,4,4,4.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"298",892,"Cold Spring Brewing Co.",1266615989,4,4,4,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
-"299",892,"Cold Spring Brewing Co.",1266180063,5,5,4.5,"American Strong Ale",4.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"300",892,"Cold Spring Brewing Co.",1264374633,3.5,4.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"301",892,"Cold Spring Brewing Co.",1264116223,5,4.5,5,"American Strong Ale",4.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"302",892,"Cold Spring Brewing Co.",1262238836,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"303",892,"Cold Spring Brewing Co.",1261705844,4.5,4,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"304",892,"Cold Spring Brewing Co.",1261180409,3.5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"305",892,"Cold Spring Brewing Co.",1260641199,4,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"306",892,"Cold Spring Brewing Co.",1260024626,4.5,4,4.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"307",892,"Cold Spring Brewing Co.",1259555868,3.5,3.5,3,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"308",892,"Cold Spring Brewing Co.",1256339446,3,3,3,"American Strong Ale",2.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
-"309",892,"Cold Spring Brewing Co.",1251857001,4,3.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
-"310",892,"Cold Spring Brewing Co.",1281229804,1,1.5,2,"American Pale Ale (APA)",1.5,1,"Hidden River Pale Ale",NA,5483
-"311",892,"Cold Spring Brewing Co.",1273636202,1.5,2,1,"American Pale Ale (APA)",2,2,"Hidden River Pale Ale",NA,5483
-"312",892,"Cold Spring Brewing Co.",1170470289,1,2,2,"American Pale Ale (APA)",1.5,1.5,"Hidden River Pale Ale",NA,5483
-"313",892,"Cold Spring Brewing Co.",1149475662,1,2,3.5,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
-"314",892,"Cold Spring Brewing Co.",1146618955,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Hidden River Pale Ale",NA,5483
-"315",892,"Cold Spring Brewing Co.",1145411773,1.5,1,1,"American Pale Ale (APA)",1.5,1,"Hidden River Pale Ale",NA,5483
-"316",892,"Cold Spring Brewing Co.",1136660147,3,2.5,2.5,"American Pale Ale (APA)",3,2.5,"Hidden River Pale Ale",NA,5483
-"317",892,"Cold Spring Brewing Co.",1110101066,2.5,2.5,2.5,"American Pale Ale (APA)",2.5,2.5,"Hidden River Pale Ale",NA,5483
-"318",892,"Cold Spring Brewing Co.",1105563318,1,1.5,2,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
-"319",892,"Cold Spring Brewing Co.",1098569462,1,2,2,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
-"320",892,"Cold Spring Brewing Co.",1093484136,2.5,2,2.5,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
-"321",892,"Cold Spring Brewing Co.",1092881464,2,2.5,3,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
-"322",892,"Cold Spring Brewing Co.",1090460530,1.5,2.5,4,"American Pale Ale (APA)",3.5,1.5,"Hidden River Pale Ale",NA,5483
-"323",892,"Cold Spring Brewing Co.",1081994522,3,3,4,"American Pale Ale (APA)",2.5,3,"Hidden River Pale Ale",NA,5483
-"324",892,"Cold Spring Brewing Co.",1081307510,2,1,4,"American Pale Ale (APA)",2,1,"Hidden River Pale Ale",NA,5483
-"325",892,"Cold Spring Brewing Co.",1050092988,1,2.5,3,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
-"326",892,"Cold Spring Brewing Co.",1049223857,2,3,3.5,"American Pale Ale (APA)",3,2,"Hidden River Pale Ale",NA,5483
-"327",892,"Cold Spring Brewing Co.",1047739433,2.5,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Hidden River Pale Ale",NA,5483
-"328",892,"Cold Spring Brewing Co.",1045963515,1,2,3,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
-"329",892,"Cold Spring Brewing Co.",1045848252,4,3.5,2.5,"American Pale Ale (APA)",3.5,3,"Hidden River Pale Ale",NA,5483
-"330",892,"Cold Spring Brewing Co.",1029421987,1.5,2.5,2,"American Pale Ale (APA)",3,1.5,"Hidden River Pale Ale",NA,5483
-"331",892,"Cold Spring Brewing Co.",1184309624,1.5,2,1.5,"American Adjunct Lager",2,2,"Dorada",NA,37662
-"332",892,"Cold Spring Brewing Co.",1106630945,3.5,2.5,3.5,"American Adjunct Lager",3,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
-"333",892,"Cold Spring Brewing Co.",1087153288,3,2.5,3,"American Adjunct Lager",3,2.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
-"334",892,"Cold Spring Brewing Co.",1086567363,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
-"335",892,"Cold Spring Brewing Co.",1244082451,3.5,3,3.5,"American Amber / Red Ale",3,3,"Cold Spring Red River Trail Ale",NA,46962
-"336",892,"Cold Spring Brewing Co.",1063591306,3,2.5,3.5,"American Strong Ale",3,3,"Quake Honey Cream Ale",8.2,3168
-"337",892,"Cold Spring Brewing Co.",1083417326,3.5,3.5,2.5,"American Adjunct Lager",3.5,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
-"338",892,"Cold Spring Brewing Co.",1071545102,3.5,3.5,3,"American Adjunct Lager",2.5,3,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
-"339",892,"Cold Spring Brewing Co.",1172554955,1.5,1.5,1,"American Adjunct Lager",1.5,1.5,"Cedar Mountain Light",NA,19776
-"340",892,"Cold Spring Brewing Co.",1158376001,5,3.5,5,"American Adjunct Lager",5,5,"Cedar Mountain Light",NA,19776
-"341",892,"Cold Spring Brewing Co.",1149788578,3.5,3,2.5,"American Adjunct Lager",3.5,1.5,"Cedar Mountain Light",NA,19776
-"342",892,"Cold Spring Brewing Co.",1129354149,1,1,1,"American Adjunct Lager",1,1,"Cedar Mountain Light",NA,19776
-"343",892,"Cold Spring Brewing Co.",1115255779,1.5,2,2.5,"American Adjunct Lager",1.5,1.5,"Frederick Schölz Ice",5.8,23525
-"344",892,"Cold Spring Brewing Co.",1321933358,2.5,3,3,"American Amber / Red Ale",2.5,2.5,"Cold Spring Red River Trail Ale",NA,46962
-"345",892,"Cold Spring Brewing Co.",1248392309,3,3,4,"American Amber / Red Ale",3,3.5,"Cold Spring Red River Trail Ale",NA,46962
-"346",892,"Cold Spring Brewing Co.",1244781239,3,2.5,2.5,"American Amber / Red Ale",2,2.5,"Cold Spring Red River Trail Ale",NA,46962
-"347",892,"Cold Spring Brewing Co.",1238017816,3,3.5,2.5,"American Amber / Red Ale",3,3,"Cold Spring Red River Trail Ale",NA,46962
-"348",892,"Cold Spring Brewing Co.",1235533779,2.5,2.5,3,"American Amber / Red Ale",3.5,3,"Cold Spring Red River Trail Ale",NA,46962
-"349",892,"Cold Spring Brewing Co.",1230767822,3.5,3.5,3.5,"American Amber / Red Ale",2.5,3,"Cold Spring Red River Trail Ale",NA,46962
-"350",892,"Cold Spring Brewing Co.",1318969536,2.5,2,3,"American Adjunct Lager",2.5,2,"Northern Honey Brown Lager",NA,64326
-"351",892,"Cold Spring Brewing Co.",1312040536,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Northern Honey Brown Lager",NA,64326
-"352",892,"Cold Spring Brewing Co.",1311550458,4,4,5,"American Adjunct Lager",3.5,4,"Northern Honey Brown Lager",NA,64326
-"353",892,"Cold Spring Brewing Co.",1309983859,2,2,2.5,"American Adjunct Lager",2,2,"Northern Honey Brown Lager",NA,64326
-"354",892,"Cold Spring Brewing Co.",1309983762,2,2,3.5,"American Adjunct Lager",2,2.5,"Northern Honey Brown Lager",NA,64326
-"355",892,"Cold Spring Brewing Co.",1300064188,3,2.5,3.5,"American Adjunct Lager",3,3,"Northern Honey Brown Lager",NA,64326
-"356",892,"Cold Spring Brewing Co.",1294326027,3,2,3.5,"American Adjunct Lager",2.5,3.5,"Northern Honey Brown Lager",NA,64326
-"357",892,"Cold Spring Brewing Co.",1292117563,2,2,2.5,"American Adjunct Lager",2,2.5,"Northern Honey Brown Lager",NA,64326
-"358",892,"Cold Spring Brewing Co.",1149918155,1,1,1.5,"American Adjunct Lager",1,1,"Josef Hoffbauer Lager",NA,11465
-"359",892,"Cold Spring Brewing Co.",1149376144,1,1.5,1.5,"American Adjunct Lager",1,1.5,"Josef Hoffbauer Lager",NA,11465
-"360",892,"Cold Spring Brewing Co.",1147464392,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Josef Hoffbauer Lager",NA,11465
-"361",892,"Cold Spring Brewing Co.",1135069327,1.5,1,2,"American Adjunct Lager",3,1,"Josef Hoffbauer Lager",NA,11465
-"362",892,"Cold Spring Brewing Co.",1121855062,3.5,2,2,"American Adjunct Lager",2.5,3,"Josef Hoffbauer Lager",NA,11465
-"363",892,"Cold Spring Brewing Co.",1117636075,2,2,3,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
-"364",892,"Cold Spring Brewing Co.",1110637073,2.5,2.5,2.5,"American Adjunct Lager",2,3,"Josef Hoffbauer Lager",NA,11465
-"365",892,"Cold Spring Brewing Co.",1092017857,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
-"366",892,"Cold Spring Brewing Co.",1085789839,4,3,3,"American Adjunct Lager",3.5,3.5,"Josef Hoffbauer Lager",NA,11465
-"367",892,"Cold Spring Brewing Co.",1065240418,1,1.5,1,"American Adjunct Lager",1.5,1,"Josef Hoffbauer Lager",NA,11465
-"368",892,"Cold Spring Brewing Co.",1058324780,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
-"369",892,"Cold Spring Brewing Co.",1274153768,4,3,4,"American Adjunct Lager",4,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"370",892,"Cold Spring Brewing Co.",1248659912,2.5,3,3,"American Adjunct Lager",3.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"371",892,"Cold Spring Brewing Co.",1228625574,2.5,3,2,"American Adjunct Lager",2.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"372",892,"Cold Spring Brewing Co.",1226966984,2,1.5,3.5,"American Adjunct Lager",2.5,1.5,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"373",892,"Cold Spring Brewing Co.",1223182425,5,3.5,3.5,"American Adjunct Lager",4,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"374",892,"Cold Spring Brewing Co.",1217992048,2,2,2,"American Adjunct Lager",3,2,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"375",892,"Cold Spring Brewing Co.",1215476612,3,3,3,"American Adjunct Lager",3,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"376",892,"Cold Spring Brewing Co.",1211133696,1,2,1,"American Adjunct Lager",3,1.5,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"377",892,"Cold Spring Brewing Co.",1205208998,3.5,3.5,3,"American Adjunct Lager",3,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"378",892,"Cold Spring Brewing Co.",1181490946,4,3,2.5,"American Adjunct Lager",3.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"379",892,"Cold Spring Brewing Co.",1171925742,3.5,3,3,"American Adjunct Lager",4,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
-"380",892,"Cold Spring Brewing Co.",1172555790,2,1.5,1,"American Adjunct Lager",2,2,"Cedar Mountain Lager",NA,35515
-"381",892,"Cold Spring Brewing Co.",1029883571,2,2,2,"American Stout",1,1.5,"Jeremiah James Maple Stout",NA,4876
-"382",892,"Cold Spring Brewing Co.",1027431506,2.5,2.5,2.5,"American Stout",1.5,2,"Jeremiah James Maple Stout",NA,4876
-"383",892,"Cold Spring Brewing Co.",1026240973,2,3.5,4,"American Stout",2.5,2,"Jeremiah James Maple Stout",NA,4876
-"384",892,"Cold Spring Brewing Co.",1227410517,2.5,2,3,"American Pale Ale (APA)",3,2,"Aspen Meadow Pale Ale",NA,8713
-"385",892,"Cold Spring Brewing Co.",1227279058,2,1.5,3,"American Pale Ale (APA)",2,2.5,"Aspen Meadow Pale Ale",NA,8713
-"386",892,"Cold Spring Brewing Co.",1131499144,3.5,2.5,3,"American Pale Ale (APA)",3,2.5,"Aspen Meadow Pale Ale",NA,8713
-"387",892,"Cold Spring Brewing Co.",1101613135,2.5,3,2,"American Pale Ale (APA)",3,2,"Aspen Meadow Pale Ale",NA,8713
-"388",892,"Cold Spring Brewing Co.",1095280792,2.5,4,2.5,"American Pale Ale (APA)",2.5,2.5,"Aspen Meadow Pale Ale",NA,8713
-"389",892,"Cold Spring Brewing Co.",1230850020,3,3.5,3,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
-"390",892,"Cold Spring Brewing Co.",1046127684,1,1,1,"American Pale Ale (APA)",1,1,"Aspen Meadow Pale Ale",NA,8713
-"391",892,"Cold Spring Brewing Co.",1259734414,1,2,2,"American Adjunct Lager",1.5,2,"Joseph Haslinger Lager",NA,47115
-"392",892,"Cold Spring Brewing Co.",1231386068,3.5,2,2,"American Adjunct Lager",3,2,"Joseph Haslinger Lager",NA,47115
-"393",892,"Cold Spring Brewing Co.",1313120928,3,2.5,3,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
-"394",892,"Cold Spring Brewing Co.",1297893699,2.5,2.5,2.5,"Black & Tan",3,2.5,"Cold Spring Moonlight Ale",NA,42354
-"395",892,"Cold Spring Brewing Co.",1290240235,3,3,4,"Black & Tan",2.5,2.5,"Cold Spring Moonlight Ale",NA,42354
-"396",892,"Cold Spring Brewing Co.",1285562915,4,3,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
-"397",892,"Cold Spring Brewing Co.",1285287330,4,3,4,"Black & Tan",3,3.5,"Cold Spring Moonlight Ale",NA,42354
-"398",892,"Cold Spring Brewing Co.",1283042490,3,3,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
-"399",892,"Cold Spring Brewing Co.",1281670301,3.5,3.5,4,"Black & Tan",3,3.5,"Cold Spring Moonlight Ale",NA,42354
-"400",892,"Cold Spring Brewing Co.",1275006195,3,2,4,"Black & Tan",3,2,"Cold Spring Moonlight Ale",NA,42354
-"401",892,"Cold Spring Brewing Co.",1272246747,1.5,2.5,4,"Black & Tan",1.5,1.5,"Cold Spring Moonlight Ale",NA,42354
-"402",892,"Cold Spring Brewing Co.",1272029975,2,2.5,3,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
-"403",892,"Cold Spring Brewing Co.",1271636947,3,3.5,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
-"404",892,"Cold Spring Brewing Co.",1270161309,3,3,3,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
-"405",892,"Cold Spring Brewing Co.",1250046771,3.5,3,3,"Black & Tan",3,2.5,"Cold Spring Moonlight Ale",NA,42354
-"406",892,"Cold Spring Brewing Co.",1249869882,3,3,3.5,"Black & Tan",3.5,3,"Cold Spring Moonlight Ale",NA,42354
-"407",892,"Cold Spring Brewing Co.",1243991874,3.5,3.5,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
-"408",892,"Cold Spring Brewing Co.",1236797627,2,2.5,2,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
-"409",892,"Cold Spring Brewing Co.",1228697505,3.5,3.5,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
-"410",892,"Cold Spring Brewing Co.",1227910141,4,4.5,3,"Black & Tan",4,4.5,"Cold Spring Moonlight Ale",NA,42354
-"411",892,"Cold Spring Brewing Co.",1224716162,5,4,3.5,"Black & Tan",4,4,"Cold Spring Moonlight Ale",NA,42354
-"412",892,"Cold Spring Brewing Co.",1223694609,4,3.5,3.5,"Black & Tan",4,3.5,"Cold Spring Moonlight Ale",NA,42354
-"413",892,"Cold Spring Brewing Co.",1223468829,3.5,3,3.5,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
-"414",892,"Cold Spring Brewing Co.",1213491141,4.5,3.5,4,"Black & Tan",4.5,4.5,"Cold Spring Moonlight Ale",NA,42354
-"415",892,"Cold Spring Brewing Co.",1211237302,3,3,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
-"416",892,"Cold Spring Brewing Co.",1209278352,2,2,2.5,"Black & Tan",2,1.5,"Cold Spring Moonlight Ale",NA,42354
-"417",892,"Cold Spring Brewing Co.",1229112895,2,2,2,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
-"418",892,"Cold Spring Brewing Co.",1212891629,3.5,3,3,"Black & Tan",3,3,"Stite Black & Tan",NA,22646
-"419",892,"Cold Spring Brewing Co.",1207089697,4,3,3,"Black & Tan",3,2,"Stite Black & Tan",NA,22646
-"420",892,"Cold Spring Brewing Co.",1194444332,2,2,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
-"421",892,"Cold Spring Brewing Co.",1182296390,1,1.5,1.5,"Black & Tan",2,1,"Stite Black & Tan",NA,22646
-"422",892,"Cold Spring Brewing Co.",1181097677,2.5,2,2.5,"Black & Tan",1.5,2.5,"Stite Black & Tan",NA,22646
-"423",892,"Cold Spring Brewing Co.",1171934950,1.5,3.5,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
-"424",892,"Cold Spring Brewing Co.",1168221921,2,2.5,3.5,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
-"425",892,"Cold Spring Brewing Co.",1167610292,2.5,1.5,2,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
-"426",892,"Cold Spring Brewing Co.",1161246079,3,1.5,2.5,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
-"427",892,"Cold Spring Brewing Co.",1155703192,2.5,2,3,"Black & Tan",2.5,2.5,"Stite Black & Tan",NA,22646
-"428",892,"Cold Spring Brewing Co.",1140779433,2.5,3,2.5,"Black & Tan",2.5,3,"Stite Black & Tan",NA,22646
-"429",892,"Cold Spring Brewing Co.",1139149745,1.5,2.5,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
-"430",892,"Cold Spring Brewing Co.",1130375468,1.5,2.5,3,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
-"431",892,"Cold Spring Brewing Co.",1120861104,3,1.5,2.5,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
-"432",892,"Cold Spring Brewing Co.",1125202542,1.5,1.5,2,"American Amber / Red Ale",1,1.5,"Barkley Sound Amber Red Reserve",NA,20425
-"433",892,"Cold Spring Brewing Co.",1103009109,1,2,1,"American Amber / Red Ale",1,1,"Barkley Sound Amber Red Reserve",NA,20425
-"434",892,"Cold Spring Brewing Co.",1098240432,1,2,2,"American Amber / Red Ale",2,1.5,"Barkley Sound Amber Red Reserve",NA,20425
-"435",892,"Cold Spring Brewing Co.",1266087792,4,2.5,3,"Hefeweizen",3.5,4,"Colonial Pub Pints Hefeweizen",NA,31839
-"436",892,"Cold Spring Brewing Co.",1247618801,2.5,2,3,"Hefeweizen",4,2.5,"Colonial Pub Pints Hefeweizen",NA,31839
-"437",892,"Cold Spring Brewing Co.",1217726155,1,1,2,"Hefeweizen",1,1,"Colonial Pub Pints Hefeweizen",NA,31839
-"438",892,"Cold Spring Brewing Co.",1200060110,2.5,2,3.5,"Hefeweizen",2,2,"Colonial Pub Pints Hefeweizen",NA,31839
-"439",892,"Cold Spring Brewing Co.",1191548344,2,2,3,"Hefeweizen",2.5,2,"Colonial Pub Pints Hefeweizen",NA,31839
-"440",892,"Cold Spring Brewing Co.",1184288958,3,2,3,"Hefeweizen",2,2,"Colonial Pub Pints Hefeweizen",NA,31839
-"441",892,"Cold Spring Brewing Co.",1160982231,2.5,2,3,"Hefeweizen",3,2.5,"Colonial Pub Pints Hefeweizen",NA,31839
-"442",892,"Cold Spring Brewing Co.",1153630090,2.5,3,3.5,"Hefeweizen",2.5,2,"Colonial Pub Pints Hefeweizen",NA,31839
-"443",892,"Cold Spring Brewing Co.",1063591346,1,1,1,"Cream Ale",1,1,"Quake Red Cream Ale",8.2,4400
-"444",892,"Cold Spring Brewing Co.",1024260271,2.5,3,3,"Cream Ale",3,3,"Quake Red Cream Ale",8.2,4400
-"445",892,"Cold Spring Brewing Co.",1189617380,4,1.5,2,"Light Lager",1.5,2,"Josef Hoffbauer Light",NA,11476
-"446",892,"Cold Spring Brewing Co.",1181113989,1.5,1,1.5,"Light Lager",1,1,"Josef Hoffbauer Light",NA,11476
-"447",892,"Cold Spring Brewing Co.",1179601448,2.5,2.5,1.5,"Light Lager",2.5,2,"Josef Hoffbauer Light",NA,11476
-"448",892,"Cold Spring Brewing Co.",1178332341,2,1.5,2.5,"Light Lager",2,1.5,"Josef Hoffbauer Light",NA,11476
-"449",892,"Cold Spring Brewing Co.",1176686516,2.5,2,2.5,"Light Lager",2.5,2.5,"Josef Hoffbauer Light",NA,11476
-"450",892,"Cold Spring Brewing Co.",1153547856,2,2,2.5,"Light Lager",2.5,2,"Josef Hoffbauer Light",NA,11476
-"451",892,"Cold Spring Brewing Co.",1138233499,2.5,2,2.5,"Light Lager",3,2,"Josef Hoffbauer Light",NA,11476
-"452",892,"Cold Spring Brewing Co.",1111757894,4,2.5,2,"Light Lager",3.5,2.5,"Josef Hoffbauer Light",NA,11476
-"453",892,"Cold Spring Brewing Co.",1058415541,2.5,2.5,2.5,"Light Lager",2.5,3,"Josef Hoffbauer Light",NA,11476
-"454",892,"Cold Spring Brewing Co.",1278555163,1,1,1,"American Adjunct Lager",1,1,"Jacob Hackstein Ice",5.8,35226
-"455",892,"Cold Spring Brewing Co.",1204237729,1.5,2,2.5,"American Adjunct Lager",1.5,2,"Jacob Hackstein Ice",5.8,35226
-"456",892,"Cold Spring Brewing Co.",1171217995,2.5,3,3,"American Adjunct Lager",2.5,3,"Jacob Hackstein Ice",5.8,35226
-"457",892,"Cold Spring Brewing Co.",1203688525,2.5,2.5,3.5,"American Amber / Red Ale",2.5,2.5,"Stite Amber Red Reserve",NA,28564
-"458",892,"Cold Spring Brewing Co.",1186885389,2,2.5,3,"American Amber / Red Ale",2,1.5,"Stite Amber Red Reserve",NA,28564
-"459",892,"Cold Spring Brewing Co.",1182310535,2.5,3,3,"American Amber / Red Ale",2,2,"Stite Amber Red Reserve",NA,28564
-"460",892,"Cold Spring Brewing Co.",1182294563,1.5,2.5,3,"American Amber / Red Ale",1.5,1.5,"Stite Amber Red Reserve",NA,28564
-"461",892,"Cold Spring Brewing Co.",1178758820,1,1,1,"American Amber / Red Ale",1,1,"Stite Amber Red Reserve",NA,28564
-"462",892,"Cold Spring Brewing Co.",1142296491,2,2,3,"American Amber / Red Ale",2,2,"Stite Amber Red Reserve",NA,28564
-"463",892,"Cold Spring Brewing Co.",1140781653,2,2.5,2.5,"American Amber / Red Ale",2.5,3,"Stite Amber Red Reserve",NA,28564
-"464",892,"Cold Spring Brewing Co.",1042730467,2,2,2,"American Adjunct Lager",2,2,"Carl Scholz",NA,8103
-"465",892,"Cold Spring Brewing Co.",1213585901,2.5,2.5,3,"American Blonde Ale",3,3,"Barkley Sound Honey Almond Light",NA,12199
-"466",892,"Cold Spring Brewing Co.",1159649582,3,2,3.5,"American Blonde Ale",3.5,3,"Barkley Sound Honey Almond Light",NA,12199
-"467",892,"Cold Spring Brewing Co.",1132780265,1,1.5,2,"American Blonde Ale",1,1,"Barkley Sound Honey Almond Light",NA,12199
-"468",892,"Cold Spring Brewing Co.",1123732652,2,2,3.5,"American Blonde Ale",2,2,"Barkley Sound Honey Almond Light",NA,12199
-"469",892,"Cold Spring Brewing Co.",1103007691,1,2,1,"American Blonde Ale",1,2,"Barkley Sound Honey Almond Light",NA,12199
-"470",892,"Cold Spring Brewing Co.",1100357720,1,2,2,"American Blonde Ale",2,1.5,"Barkley Sound Honey Almond Light",NA,12199
-"471",892,"Cold Spring Brewing Co.",1096520376,2,3.5,3,"American Blonde Ale",2,2,"Barkley Sound Honey Almond Light",NA,12199
-"472",892,"Cold Spring Brewing Co.",1075060193,2,2.5,2.5,"American Blonde Ale",1.5,2,"Barkley Sound Honey Almond Light",NA,12199
-"473",892,"Cold Spring Brewing Co.",1074556953,1.5,2.5,2,"American Blonde Ale",1,1.5,"Barkley Sound Honey Almond Light",NA,12199
-"474",892,"Cold Spring Brewing Co.",1071717295,2,3.5,2,"American Blonde Ale",2.5,2.5,"Barkley Sound Honey Almond Light",NA,12199
-"475",892,"Cold Spring Brewing Co.",1070933132,1,2.5,1.5,"American Blonde Ale",1.5,1,"Barkley Sound Honey Almond Light",NA,12199
-"476",892,"Cold Spring Brewing Co.",1032302025,3,2,3,"American Stout",3,3,"Jeremiah James Black Ale",NA,4864
-"477",892,"Cold Spring Brewing Co.",1292789587,3,2.5,3,"Light Lager",3,2.5,"Gluek Golden Light",NA,22033
-"478",892,"Cold Spring Brewing Co.",1027214309,3,3,3,"American Stout",3,3,"Jeremiah James Black Ale",NA,4864
-"479",892,"Cold Spring Brewing Co.",1026156342,3,2.5,4,"American Stout",2.5,2.5,"Jeremiah James Black Ale",NA,4864
-"480",892,"Cold Spring Brewing Co.",1318453945,2,1,4,"American Adjunct Lager",3,2,"Northern Reserve Special Light",4,38415
-"481",892,"Cold Spring Brewing Co.",1312918650,3,1,3.5,"American Adjunct Lager",3,3,"Northern Reserve Special Light",4,38415
-"482",892,"Cold Spring Brewing Co.",1309983193,2,1.5,2,"American Adjunct Lager",2,1.5,"Northern Reserve Special Light",4,38415
-"483",892,"Cold Spring Brewing Co.",1309982793,1.5,1.5,1,"American Adjunct Lager",1,1.5,"Northern Reserve Special Light",4,38415
-"484",892,"Cold Spring Brewing Co.",1245614355,2,2.5,2.5,"American Adjunct Lager",3,2.5,"Northern Reserve Special Light",4,38415
-"485",892,"Cold Spring Brewing Co.",1188256299,1,1,2.5,"American Adjunct Lager",2,1,"Northern Reserve Special Light",4,38415
-"486",892,"Cold Spring Brewing Co.",1251262647,2,2.5,1,"Light Lager",1.5,2,"Gluek Golden Light",NA,22033
-"487",892,"Cold Spring Brewing Co.",1218497159,1.5,1.5,2.5,"Light Lager",1.5,1.5,"Gluek Golden Light",NA,22033
-"488",892,"Cold Spring Brewing Co.",1215818120,1,1,1,"Light Lager",1,1,"Gluek Golden Light",NA,22033
-"489",892,"Cold Spring Brewing Co.",1213501105,1.5,1,1.5,"Light Lager",1,1,"Gluek Golden Light",NA,22033
-"490",892,"Cold Spring Brewing Co.",1210837762,1,1.5,1,"Light Lager",1,1.5,"Gluek Golden Light",NA,22033
-"491",892,"Cold Spring Brewing Co.",1200191636,3,2,2,"Light Lager",2,2,"Gluek Golden Light",NA,22033
-"492",892,"Cold Spring Brewing Co.",1166238573,1.5,1,1,"Light Lager",1.5,1.5,"Gluek Golden Light",NA,22033
-"493",892,"Cold Spring Brewing Co.",1108831516,1,1.5,1.5,"Light Lager",1,1,"Gluek Golden Light",NA,22033
-"494",892,"Cold Spring Brewing Co.",1189617038,2.5,1,2.5,"American Adjunct Lager",2,1.5,"Josef Hoffbauer Ice",5.8,11572
-"495",892,"Cold Spring Brewing Co.",1156595812,1,1,2,"American Adjunct Lager",3,1,"Josef Hoffbauer Ice",5.8,11572
-"496",892,"Cold Spring Brewing Co.",1147463161,2.5,3.5,3,"American Adjunct Lager",2.5,2,"Josef Hoffbauer Ice",5.8,11572
-"497",892,"Cold Spring Brewing Co.",1128995127,2.5,2,2,"American Adjunct Lager",2,2,"Josef Hoffbauer Ice",5.8,11572
-"498",892,"Cold Spring Brewing Co.",1090026239,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Ice",5.8,11572
-"499",892,"Cold Spring Brewing Co.",1070345687,1.5,2.5,2,"American Adjunct Lager",1.5,1,"Josef Hoffbauer Ice",5.8,11572
-"500",892,"Cold Spring Brewing Co.",1060739070,3,2,2,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Ice",5.8,11572
-"501",892,"Cold Spring Brewing Co.",1058839435,1.5,2,2,"American Adjunct Lager",2,1.5,"Josef Hoffbauer Ice",5.8,11572
-"502",892,"Cold Spring Brewing Co.",1203878099,1.5,1.5,2,"Black & Tan",2,1.5,"Hidden River Black & Tan",NA,5484
-"503",892,"Cold Spring Brewing Co.",1174624161,2.5,3,2,"Black & Tan",2,2.5,"Hidden River Black & Tan",NA,5484
-"504",892,"Cold Spring Brewing Co.",1170471142,1.5,2,3.5,"Black & Tan",2.5,2,"Hidden River Black & Tan",NA,5484
-"505",892,"Cold Spring Brewing Co.",1167542902,3,2.5,2.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
-"506",892,"Cold Spring Brewing Co.",1125186592,2.5,3,1,"Black & Tan",2,2.5,"Hidden River Black & Tan",NA,5484
-"507",892,"Cold Spring Brewing Co.",1122764164,3.5,3.5,3,"Black & Tan",2.5,2.5,"Hidden River Black & Tan",NA,5484
-"508",892,"Cold Spring Brewing Co.",1120267507,3,4,3,"Black & Tan",2.5,2,"Hidden River Black & Tan",NA,5484
-"509",892,"Cold Spring Brewing Co.",1119639960,3,3,2.5,"Black & Tan",3,3.5,"Hidden River Black & Tan",NA,5484
-"510",892,"Cold Spring Brewing Co.",1119035111,2,2,2.5,"Black & Tan",2.5,2.5,"Hidden River Black & Tan",NA,5484
-"511",892,"Cold Spring Brewing Co.",1108081118,3,2,3.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
-"512",892,"Cold Spring Brewing Co.",1095649226,3.5,2.5,2.5,"Black & Tan",3,2,"Hidden River Black & Tan",NA,5484
-"513",892,"Cold Spring Brewing Co.",1094354488,3.5,3.5,3.5,"Black & Tan",3.5,3,"Hidden River Black & Tan",NA,5484
-"514",892,"Cold Spring Brewing Co.",1077180929,1,2,2,"Black & Tan",2.5,1,"Hidden River Black & Tan",NA,5484
-"515",892,"Cold Spring Brewing Co.",1055535836,3.5,3.5,2,"Black & Tan",2.5,4,"Hidden River Black & Tan",NA,5484
-"516",892,"Cold Spring Brewing Co.",1054734551,1.5,1.5,2,"Black & Tan",1,1.5,"Hidden River Black & Tan",NA,5484
-"517",892,"Cold Spring Brewing Co.",1049742472,2.5,2.5,3.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
-"518",892,"Cold Spring Brewing Co.",1047324224,2.5,3,3,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
-"519",892,"Cold Spring Brewing Co.",1042700139,2.5,3,3,"Black & Tan",2,3,"Hidden River Black & Tan",NA,5484
-"520",892,"Cold Spring Brewing Co.",1313010886,3.5,3,3,"American Adjunct Lager",3,3.5,"Northern Ice Lager",5.8,35276
-"521",892,"Cold Spring Brewing Co.",1311997400,3,2,3,"American Adjunct Lager",3,2.5,"Northern Ice Lager",5.8,35276
-"522",892,"Cold Spring Brewing Co.",1229147977,4,2,2,"American Adjunct Lager",3,2,"Northern Ice Lager",5.8,35276
-"523",892,"Cold Spring Brewing Co.",1188162819,1,2,1,"American Adjunct Lager",1.5,1,"Northern Ice Lager",5.8,35276
-"524",892,"Cold Spring Brewing Co.",1181782012,2.5,2.5,1.5,"American Adjunct Lager",3,2.5,"Northern Ice Lager",5.8,35276
-"525",892,"Cold Spring Brewing Co.",1180739698,2,2.5,2.5,"American Adjunct Lager",2,2,"Northern Ice Lager",5.8,35276
-"526",892,"Cold Spring Brewing Co.",1047226901,1.5,2,1,"American Adjunct Lager",1.5,1.5,"Joseph Haslinger Ice",5.8,8891
-"527",892,"Cold Spring Brewing Co.",1313033077,1.5,1.5,2.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
-"528",892,"Cold Spring Brewing Co.",1312039318,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Northern Golden Lager",NA,38387
-"529",892,"Cold Spring Brewing Co.",1311547525,4,3,4,"American Adjunct Lager",3,4.5,"Northern Golden Lager",NA,38387
-"530",892,"Cold Spring Brewing Co.",1305528821,1,1.5,2,"American Adjunct Lager",2,1.5,"Northern Golden Lager",NA,38387
-"531",892,"Cold Spring Brewing Co.",1297609626,2.5,2.5,3,"American Adjunct Lager",2,2.5,"Northern Golden Lager",NA,38387
-"532",892,"Cold Spring Brewing Co.",1296193041,1.5,1.5,1.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
-"533",892,"Cold Spring Brewing Co.",1291595622,2.5,3,3,"American Adjunct Lager",2.5,3,"Northern Golden Lager",NA,38387
-"534",892,"Cold Spring Brewing Co.",1284934862,3,3,3,"American Adjunct Lager",3,3,"Northern Golden Lager",NA,38387
-"535",892,"Cold Spring Brewing Co.",1242753769,1,2,2.5,"American Adjunct Lager",2.5,2.5,"Northern Golden Lager",NA,38387
-"536",892,"Cold Spring Brewing Co.",1229148207,4,1,2.5,"American Adjunct Lager",3,2.5,"Northern Golden Lager",NA,38387
-"537",892,"Cold Spring Brewing Co.",1197227699,2.5,2,1.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
-"538",892,"Cold Spring Brewing Co.",1188078988,2,4,3,"American Adjunct Lager",1,2.5,"Northern Golden Lager",NA,38387
-"539",892,"Cold Spring Brewing Co.",1316464614,2,2,2.5,"American Pale Wheat Ale",2,2,"Cold Spring Honey Almond Weiss",NA,42757
-"540",892,"Cold Spring Brewing Co.",1316220929,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Cold Spring Honey Almond Weiss",NA,42757
-"541",892,"Cold Spring Brewing Co.",1307119765,2.5,2.5,2.5,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"542",892,"Cold Spring Brewing Co.",1297147456,3.5,2.5,3,"American Pale Wheat Ale",4,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"543",892,"Cold Spring Brewing Co.",1294983931,2,2,3,"American Pale Wheat Ale",2.5,1.5,"Cold Spring Honey Almond Weiss",NA,42757
-"544",892,"Cold Spring Brewing Co.",1271627325,3,2.5,4,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"545",892,"Cold Spring Brewing Co.",1285628284,4,2.5,4,"American Pale Wheat Ale",3.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"546",892,"Cold Spring Brewing Co.",1284996040,2,3,3.5,"American Pale Wheat Ale",2,2,"Cold Spring Honey Almond Weiss",NA,42757
-"547",892,"Cold Spring Brewing Co.",1284048578,3.5,3.5,3.5,"American Pale Wheat Ale",2,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"548",892,"Cold Spring Brewing Co.",1282960068,3,2.5,3,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"549",892,"Cold Spring Brewing Co.",1279841255,3,3.5,3.5,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"550",892,"Cold Spring Brewing Co.",1276654275,3,1.5,3.5,"American Pale Wheat Ale",2.5,2,"Cold Spring Honey Almond Weiss",NA,42757
-"551",892,"Cold Spring Brewing Co.",1276525146,2,2,2,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"552",892,"Cold Spring Brewing Co.",1274912189,2.5,2.5,3,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"553",892,"Cold Spring Brewing Co.",1274149923,2,2,2.5,"American Pale Wheat Ale",2,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"554",892,"Cold Spring Brewing Co.",1248061238,3.5,2,3,"American Pale Wheat Ale",3,2,"Cold Spring Honey Almond Weiss",NA,42757
-"555",892,"Cold Spring Brewing Co.",1244080377,3,3.5,3,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"556",892,"Cold Spring Brewing Co.",1238877641,3,2.5,3,"American Pale Wheat Ale",3,3,"Cold Spring Honey Almond Weiss",NA,42757
-"557",892,"Cold Spring Brewing Co.",1238018275,3.5,3,2.5,"American Pale Wheat Ale",2.5,3,"Cold Spring Honey Almond Weiss",NA,42757
-"558",892,"Cold Spring Brewing Co.",1235010628,3.5,3,2.5,"American Pale Wheat Ale",2.5,3.5,"Cold Spring Honey Almond Weiss",NA,42757
-"559",892,"Cold Spring Brewing Co.",1230857196,3,3,3.5,"American Pale Wheat Ale",3.5,3,"Cold Spring Honey Almond Weiss",NA,42757
-"560",892,"Cold Spring Brewing Co.",1228691637,2.5,3,2,"American Pale Wheat Ale",3,3,"Cold Spring Honey Almond Weiss",NA,42757
-"561",892,"Cold Spring Brewing Co.",1225634210,2,2,2,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"562",892,"Cold Spring Brewing Co.",1215028562,3,3,3.5,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
-"563",892,"Cold Spring Brewing Co.",1211136192,1.5,3,2.5,"American Pale Wheat Ale",1,2,"Cold Spring Honey Almond Weiss",NA,42757
-"564",892,"Cold Spring Brewing Co.",1051181804,1,3,2.5,"American Strong Ale",2.5,1.5,"Quake Honey Cream Ale",8.2,3168
-"565",892,"Cold Spring Brewing Co.",1035477117,2.5,2,2.5,"American Strong Ale",2,2,"Quake Honey Cream Ale",8.2,3168
-"566",892,"Cold Spring Brewing Co.",1017328550,2,2.5,3,"American Strong Ale",2.5,1.5,"Quake Honey Cream Ale",8.2,3168
-"567",892,"Cold Spring Brewing Co.",1245389207,3,2.5,4,"English Pale Ale",3,2.5,"Colonial Pub Pints Pale Ale",NA,31021
-"568",892,"Cold Spring Brewing Co.",1240354834,4,3,4,"English Pale Ale",3,3.5,"Colonial Pub Pints Pale Ale",NA,31021
-"569",892,"Cold Spring Brewing Co.",1202653771,2,2,3.5,"English Pale Ale",1.5,2,"Colonial Pub Pints Pale Ale",NA,31021
-"570",892,"Cold Spring Brewing Co.",1202513596,3.5,3.5,4,"English Pale Ale",3,3.5,"Colonial Pub Pints Pale Ale",NA,31021
-"571",892,"Cold Spring Brewing Co.",1185226831,2.5,3,3,"English Pale Ale",2.5,2,"Colonial Pub Pints Pale Ale",NA,31021
-"572",892,"Cold Spring Brewing Co.",1178236452,3.5,2.5,2.5,"English Pale Ale",2.5,3,"Colonial Pub Pints Pale Ale",NA,31021
-"573",892,"Cold Spring Brewing Co.",1169432000,3,3,3,"English Pale Ale",3,3,"Colonial Pub Pints Pale Ale",NA,31021
-"574",892,"Cold Spring Brewing Co.",1158979406,1,1.5,3,"English Pale Ale",2,1.5,"Colonial Pub Pints Pale Ale",NA,31021
-"575",892,"Cold Spring Brewing Co.",1158621710,2,2,4,"English Pale Ale",2.5,2,"Colonial Pub Pints Pale Ale",NA,31021
-"576",892,"Cold Spring Brewing Co.",1154137967,3,2.5,2.5,"English Pale Ale",2,2,"Colonial Pub Pints Pale Ale",NA,31021
-"577",892,"Cold Spring Brewing Co.",1153784392,1.5,2,3.5,"English Pale Ale",2,1.5,"Colonial Pub Pints Pale Ale",NA,31021
-"578",892,"Cold Spring Brewing Co.",1149977239,3,3.5,4,"English Pale Ale",3.5,3.5,"Colonial Pub Pints Pale Ale",NA,31021
-"579",892,"Cold Spring Brewing Co.",1182902951,3.5,3,4,"Bock",3.5,3.5,"Gluek Red Bock Royal Select",5.8,31632
-"580",892,"Cold Spring Brewing Co.",1181362550,1,1.5,3.5,"Bock",1.5,1,"Gluek Red Bock Royal Select",5.8,31632
-"581",892,"Cold Spring Brewing Co.",1180468433,1.5,2,2,"Bock",2,1,"Gluek Red Bock Royal Select",5.8,31632
-"582",892,"Cold Spring Brewing Co.",1174346717,3,3.5,3.5,"Bock",3.5,3,"Gluek Red Bock Royal Select",5.8,31632
-"583",892,"Cold Spring Brewing Co.",1170455251,3,2,4,"Bock",3,2.5,"Gluek Red Bock Royal Select",5.8,31632
-"584",892,"Cold Spring Brewing Co.",1170121050,5,3,4.5,"Bock",3.5,3.5,"Gluek Red Bock Royal Select",5.8,31632
-"585",892,"Cold Spring Brewing Co.",1157246992,3,3,4,"Bock",3,3,"Gluek Red Bock Royal Select",5.8,31632
-"586",892,"Cold Spring Brewing Co.",1152505640,3.5,3.5,3.5,"Bock",3,3,"Gluek Red Bock Royal Select",5.8,31632
-"587",892,"Cold Spring Brewing Co.",1015329958,3.5,3,3.5,"Doppelbock",3.5,3,"Doppelbock",NA,2934
-"588",892,"Cold Spring Brewing Co.",1105854536,4.5,3.5,2.5,"American Double / Imperial Stout",2.5,3.5,"Quake Chocolate Cream Ale",8.2,3169
-"589",892,"Cold Spring Brewing Co.",1024522440,3,2.5,3,"American Double / Imperial Stout",2.5,2.5,"Quake Chocolate Cream Ale",8.2,3169
-"590",892,"Cold Spring Brewing Co.",1017328784,3,2.5,2.5,"American Double / Imperial Stout",3,3,"Quake Chocolate Cream Ale",8.2,3169
-"591",892,"Cold Spring Brewing Co.",1062306744,1,1,3,"Hefeweizen",1,1,"Hefe Weiss",NA,4788
-"592",892,"Cold Spring Brewing Co.",1044697281,3.5,3,3,"Hefeweizen",2.5,3,"Hefe Weiss",NA,4788
-"593",892,"Cold Spring Brewing Co.",1025597636,3,3,4,"Hefeweizen",3.5,2.5,"Hefe Weiss",NA,4788
-"594",892,"Cold Spring Brewing Co.",1262571885,2.5,2,3,"American Adjunct Lager",2,2.5,"All American Lager",NA,54353
-"595",892,"Cold Spring Brewing Co.",1259128508,2,2,3,"American Adjunct Lager",2,2,"All American Lager",NA,54353
-"596",892,"Cold Spring Brewing Co.",1223750198,1.5,2.5,2.5,"Low Alcohol Beer",2,2,"Honey Amber",NA,8760
-"597",892,"Cold Spring Brewing Co.",1109212138,1.5,1.5,2,"Low Alcohol Beer",1.5,1.5,"Honey Amber",NA,8760
-"598",892,"Cold Spring Brewing Co.",1046553089,1.5,1.5,2,"Low Alcohol Beer",1.5,2,"Honey Amber",NA,8760
-"599",892,"Cold Spring Brewing Co.",1231386476,2.5,1.5,1.5,"Light Lager",3,1,"Joseph Haslinger Light",NA,47116
+"3",892,"Cold Spring Brewing Co.",1273602134,2,1.5,1,"American Pale Ale (APA)",1.5,2,"Charles Reibenbach Ice Ale",5.8,31899
+"4",892,"Cold Spring Brewing Co.",1170385946,2,2,2.5,"American Pale Ale (APA)",3,2,"Charles Reibenbach Ice Ale",5.8,31899
+"5",892,"Cold Spring Brewing Co.",1248745132,4,5,3.5,"American Strong Ale",3.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"6",892,"Cold Spring Brewing Co.",1189617163,3.5,1.5,2,"American Adjunct Lager",1.5,2,"Josef Hoffbauer Lager",NA,11465
+"7",892,"Cold Spring Brewing Co.",1173068580,1,1,3,"American Adjunct Lager",1,1,"Josef Hoffbauer Lager",NA,11465
+"8",892,"Cold Spring Brewing Co.",1106677269,1,1,2,"American Blonde Ale",1.5,1,"Barkley Sound Honey Almond Light",NA,12199
+"9",892,"Cold Spring Brewing Co.",1128728038,2.5,2.5,2.5,"American Pale Ale (APA)",2,2,"Hidden River Pale Ale",NA,5483
+"10",892,"Cold Spring Brewing Co.",1318969131,3.5,3,3,"American Adjunct Lager",2.5,3,"Northern Ice Lager",5.8,35276
+"11",892,"Cold Spring Brewing Co.",1263439226,1,1.5,2,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
+"12",892,"Cold Spring Brewing Co.",1215712742,1,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Stite Golden Pilsner",NA,2935
+"13",892,"Cold Spring Brewing Co.",1191473771,3,3,3,"American Adjunct Lager",3,3,"Stite Golden Pilsner",NA,2935
+"14",892,"Cold Spring Brewing Co.",1186884104,2,2,2.5,"American Adjunct Lager",2,2,"Stite Golden Pilsner",NA,2935
+"15",892,"Cold Spring Brewing Co.",1182398342,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"16",892,"Cold Spring Brewing Co.",1181105831,1,1.5,2.5,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"17",892,"Cold Spring Brewing Co.",1181017377,1,1,2,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"18",892,"Cold Spring Brewing Co.",1178671298,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"19",892,"Cold Spring Brewing Co.",1160139462,1.5,2,3,"American Adjunct Lager",1.5,1.5,"Stite Golden Pilsner",NA,2935
+"20",892,"Cold Spring Brewing Co.",1124433518,1,1,3,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"21",892,"Cold Spring Brewing Co.",1122102483,1,1,2,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"22",892,"Cold Spring Brewing Co.",1085300165,1.5,1.5,3.5,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
+"23",892,"Cold Spring Brewing Co.",1075522776,1.5,1,2,"American Adjunct Lager",2,2,"Stite Golden Pilsner",NA,2935
+"24",892,"Cold Spring Brewing Co.",1072637966,1,1,3,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"25",892,"Cold Spring Brewing Co.",1070932007,1,1,1.5,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"26",892,"Cold Spring Brewing Co.",1070823165,1.5,1.5,3,"American Adjunct Lager",2,1,"Stite Golden Pilsner",NA,2935
+"27",892,"Cold Spring Brewing Co.",1070316629,1,1,1,"American Adjunct Lager",1,1,"Stite Golden Pilsner",NA,2935
+"28",892,"Cold Spring Brewing Co.",1015330822,2,2,2.5,"American Adjunct Lager",2,1.5,"Stite Golden Pilsner",NA,2935
+"29",892,"Cold Spring Brewing Co.",1313560724,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
+"30",892,"Cold Spring Brewing Co.",1312172470,4,3.5,4.5,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
+"31",892,"Cold Spring Brewing Co.",1302839864,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Olde Johnnie Ale",NA,37996
+"32",892,"Cold Spring Brewing Co.",1282441339,3,2.5,3,"American Adjunct Lager",3,2.5,"Northern Golden Lager",NA,38387
+"33",892,"Cold Spring Brewing Co.",1301793005,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
+"34",892,"Cold Spring Brewing Co.",1288932527,3.5,3,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
+"35",892,"Cold Spring Brewing Co.",1286218635,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
+"36",892,"Cold Spring Brewing Co.",1283290694,3,3.5,4,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
+"37",892,"Cold Spring Brewing Co.",1280358111,3.5,4,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
+"38",892,"Cold Spring Brewing Co.",1279763889,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Olde Johnnie Ale",NA,37996
+"39",892,"Cold Spring Brewing Co.",1263393616,4,2.5,3.5,"American Amber / Red Ale",3,4,"Olde Johnnie Ale",NA,37996
+"40",892,"Cold Spring Brewing Co.",1255316434,2,2.5,3,"American Amber / Red Ale",2.5,2,"Olde Johnnie Ale",NA,37996
+"41",892,"Cold Spring Brewing Co.",1215543615,3.5,3,3,"American Amber / Red Ale",3.5,3,"Olde Johnnie Ale",NA,37996
+"42",892,"Cold Spring Brewing Co.",1186084054,2.5,3,4,"American Amber / Red Ale",3,3,"Olde Johnnie Ale",NA,37996
+"43",892,"Cold Spring Brewing Co.",1166659248,2,2,3.5,"American Adjunct Lager",2,2.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
+"44",892,"Cold Spring Brewing Co.",1148358766,1.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
+"45",892,"Cold Spring Brewing Co.",1123363491,1.5,2,3.5,"American Adjunct Lager",2,1.5,"Dakota Brewing Co. Roughrider Premium",NA,18574
+"46",892,"Cold Spring Brewing Co.",1103750863,2.5,2,2.5,"American Adjunct Lager",1.5,2,"Dakota Brewing Co. Roughrider Premium",NA,18574
+"47",892,"Cold Spring Brewing Co.",1089260087,1.5,1,2.5,"American Adjunct Lager",1,1,"Dakota Brewing Co. Roughrider Premium",NA,18574
+"48",892,"Cold Spring Brewing Co.",1300231129,3.5,3,3,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
+"49",892,"Cold Spring Brewing Co.",1258482580,4,3.5,3.5,"Bock",4,4,"Gluek Honey Bock",5.8,5167
+"50",892,"Cold Spring Brewing Co.",1252280180,3.5,3.5,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
+"51",892,"Cold Spring Brewing Co.",1232850330,4,3,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
+"52",892,"Cold Spring Brewing Co.",1169940888,2.5,2,4,"Bock",2,2.5,"Gluek Honey Bock",5.8,5167
+"53",892,"Cold Spring Brewing Co.",1231382639,4,3,3,"Bock",4,3.5,"Gluek Honey Bock",5.8,5167
+"54",892,"Cold Spring Brewing Co.",1230768094,4,3,4,"Bock",3,4,"Gluek Honey Bock",5.8,5167
+"55",892,"Cold Spring Brewing Co.",1230318156,2.5,3,3,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
+"56",892,"Cold Spring Brewing Co.",1226345475,1.5,2,4,"Bock",1,1,"Gluek Honey Bock",5.8,5167
+"57",892,"Cold Spring Brewing Co.",1215817787,1.5,2,2.5,"Bock",2,2,"Gluek Honey Bock",5.8,5167
+"58",892,"Cold Spring Brewing Co.",1213987696,4,3,3.5,"Bock",3.5,3,"Gluek Honey Bock",5.8,5167
+"59",892,"Cold Spring Brewing Co.",1185227182,3.5,3,3.5,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
+"60",892,"Cold Spring Brewing Co.",1184561054,2.5,2.5,2.5,"Bock",2,2.5,"Gluek Honey Bock",5.8,5167
+"61",892,"Cold Spring Brewing Co.",1175882050,1.5,3,2.5,"Bock",2,2,"Gluek Honey Bock",5.8,5167
+"62",892,"Cold Spring Brewing Co.",1156820544,5,3,3,"Bock",3,4,"Gluek Honey Bock",5.8,5167
+"63",892,"Cold Spring Brewing Co.",1154887865,1,1.5,2,"Bock",1,1,"Gluek Honey Bock",5.8,5167
+"64",892,"Cold Spring Brewing Co.",1143602582,4,3,3,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
+"65",892,"Cold Spring Brewing Co.",1124324569,4,3,2.5,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
+"66",892,"Cold Spring Brewing Co.",1099234313,3.5,2.5,3,"Bock",2,3.5,"Gluek Honey Bock",5.8,5167
+"67",892,"Cold Spring Brewing Co.",1089058629,3.5,3,3,"Bock",2.5,3,"Gluek Honey Bock",5.8,5167
+"68",892,"Cold Spring Brewing Co.",1088659882,4,3.5,4,"Bock",3.5,3.5,"Gluek Honey Bock",5.8,5167
+"69",892,"Cold Spring Brewing Co.",1088223508,3,3.5,4,"Bock",3,3,"Gluek Honey Bock",5.8,5167
+"70",892,"Cold Spring Brewing Co.",1086036128,3.5,2.5,3.5,"Bock",3,3,"Gluek Honey Bock",5.8,5167
+"71",892,"Cold Spring Brewing Co.",1051983141,3,3,3.5,"American Amber / Red Lager",3,3,"Hidden River Amber",NA,5697
+"72",892,"Cold Spring Brewing Co.",1075058883,3.5,2.5,3.5,"Bock",3,4,"Gluek Honey Bock",5.8,5167
+"73",892,"Cold Spring Brewing Co.",1031680986,4,2,3,"Bock",2.5,2,"Gluek Honey Bock",5.8,5167
+"74",892,"Cold Spring Brewing Co.",1170470644,3.5,2.5,3,"American Amber / Red Lager",3.5,3,"Hidden River Amber",NA,5697
+"75",892,"Cold Spring Brewing Co.",1152543065,3,3.5,4,"American Amber / Red Lager",3.5,3,"Hidden River Amber",NA,5697
+"76",892,"Cold Spring Brewing Co.",1146103535,3,3,3.5,"American Amber / Red Lager",3,3.5,"Hidden River Amber",NA,5697
+"77",892,"Cold Spring Brewing Co.",1143519929,4,4,3.5,"American Amber / Red Lager",4,4,"Hidden River Amber",NA,5697
+"78",892,"Cold Spring Brewing Co.",1097166416,2,2,3.5,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
+"79",892,"Cold Spring Brewing Co.",1093396814,2,3,3,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
+"80",892,"Cold Spring Brewing Co.",1083125037,3,3.5,3.5,"American Amber / Red Lager",2.5,3,"Hidden River Amber",NA,5697
+"81",892,"Cold Spring Brewing Co.",1061270224,2,3,3,"American Amber / Red Lager",2,2.5,"Hidden River Amber",NA,5697
+"82",892,"Cold Spring Brewing Co.",1049135975,2,2.5,3,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
+"83",892,"Cold Spring Brewing Co.",1042700065,2,2,2,"American Amber / Red Lager",2,2,"Hidden River Amber",NA,5697
+"84",892,"Cold Spring Brewing Co.",1030373462,1.5,3,2,"American Amber / Red Lager",2.5,2,"Hidden River Amber",NA,5697
+"85",892,"Cold Spring Brewing Co.",1266361303,4.5,4.5,4,"Dunkelweizen",4,4.5,"Cold Spring Ebony Wheat",NA,43756
+"86",892,"Cold Spring Brewing Co.",1262465364,3.5,3.5,3,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
+"87",892,"Cold Spring Brewing Co.",1241480998,4,4,4,"Dunkelweizen",4,4,"Cold Spring Ebony Wheat",NA,43756
+"88",892,"Cold Spring Brewing Co.",1235101712,3.5,3,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
+"89",892,"Cold Spring Brewing Co.",1230854091,2.5,3,2,"Dunkelweizen",2.5,2,"Cold Spring Ebony Wheat",NA,43756
+"90",892,"Cold Spring Brewing Co.",1230263632,4,3.5,3.5,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
+"91",892,"Cold Spring Brewing Co.",1228700477,3,3.5,3,"Dunkelweizen",3.5,3.5,"Cold Spring Ebony Wheat",NA,43756
+"92",892,"Cold Spring Brewing Co.",1226504469,3,3,3,"Dunkelweizen",2.5,3.5,"Cold Spring Ebony Wheat",NA,43756
+"93",892,"Cold Spring Brewing Co.",1223692801,4,3,3.5,"Dunkelweizen",4,3.5,"Cold Spring Ebony Wheat",NA,43756
+"94",892,"Cold Spring Brewing Co.",1218841701,3.5,3.5,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
+"95",892,"Cold Spring Brewing Co.",1216122676,3.5,3,3.5,"Dunkelweizen",3,3.5,"Cold Spring Ebony Wheat",NA,43756
+"96",892,"Cold Spring Brewing Co.",1252360977,3,3,2.5,"American Adjunct Lager",2.5,2.5,"Northern Golden Lager",NA,38387
+"97",892,"Cold Spring Brewing Co.",1237912944,2,2.5,1.5,"American Malt Liquor",1.5,2.5,"Gluek Ice",4.58,31057
+"98",892,"Cold Spring Brewing Co.",1229147698,3,2,2,"American Malt Liquor",2,3,"Gluek Ice",4.58,31057
+"99",892,"Cold Spring Brewing Co.",1214419206,1,2,4,"American Malt Liquor",1,2,"Gluek Ice",4.58,31057
+"100",892,"Cold Spring Brewing Co.",1208228943,1,1,1,"American Malt Liquor",1,1,"Gluek Ice",4.58,31057
+"101",892,"Cold Spring Brewing Co.",1188280604,1,1,1,"American Malt Liquor",1,1,"Gluek Ice",4.58,31057
+"102",892,"Cold Spring Brewing Co.",1178749779,1.5,2,2,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
+"103",892,"Cold Spring Brewing Co.",1175967613,1,1.5,2,"American Malt Liquor",1.5,1.5,"Gluek Ice",4.58,31057
+"104",892,"Cold Spring Brewing Co.",1166047779,2,2,3,"American Malt Liquor",2,1.5,"Gluek Ice",4.58,31057
+"105",892,"Cold Spring Brewing Co.",1153783419,2,3,3,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
+"106",892,"Cold Spring Brewing Co.",1150071658,1.5,2,1.5,"American Malt Liquor",2,2,"Gluek Ice",4.58,31057
+"107",892,"Cold Spring Brewing Co.",1075522966,3,2,2.5,"Märzen / Oktoberfest",2.5,2.5,"Marzen",NA,6184
+"108",892,"Cold Spring Brewing Co.",1035878029,3,3.5,3,"Märzen / Oktoberfest",2.5,2.5,"Marzen",NA,6184
+"109",892,"Cold Spring Brewing Co.",1032725017,3,3,3,"Märzen / Oktoberfest",3,3,"Marzen",NA,6184
+"110",892,"Cold Spring Brewing Co.",1227410284,4,4,3.5,"English Brown Ale",4,4,"Aspen Meadow Nut Brown",NA,15323
+"111",892,"Cold Spring Brewing Co.",1131775658,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Aspen Meadow Nut Brown",NA,15323
+"112",892,"Cold Spring Brewing Co.",1131670570,3.5,3.5,4,"English Brown Ale",3,3,"Aspen Meadow Nut Brown",NA,15323
+"113",892,"Cold Spring Brewing Co.",1102341095,2.5,2,3,"English Brown Ale",3,2,"Aspen Meadow Nut Brown",NA,15323
+"114",892,"Cold Spring Brewing Co.",1095308169,1.5,1.5,3,"English Brown Ale",2,1.5,"Aspen Meadow Nut Brown",NA,15323
+"115",892,"Cold Spring Brewing Co.",1073693455,2.5,3.5,3,"English Brown Ale",3,3,"Aspen Meadow Nut Brown",NA,15323
+"116",892,"Cold Spring Brewing Co.",1153952357,2.5,2.5,2.5,"American Pale Ale (APA)",3,2.5,"Charles Reibenbach Ice Ale",5.8,31899
+"117",892,"Cold Spring Brewing Co.",1046979749,3.5,3.5,3.5,"Black & Tan",3,3,"Black & Tan",NA,8856
+"118",892,"Cold Spring Brewing Co.",1311072973,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Cold Spring Pale Ale",NA,42294
+"119",892,"Cold Spring Brewing Co.",1307053745,2.5,3,3,"American Pale Ale (APA)",2.5,2,"Cold Spring Pale Ale",NA,42294
+"120",892,"Cold Spring Brewing Co.",1278448812,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
+"121",892,"Cold Spring Brewing Co.",1276496465,3.5,3,3,"American Pale Ale (APA)",3,3,"Cold Spring Pale Ale",NA,42294
+"122",892,"Cold Spring Brewing Co.",1255842053,3.5,3,3,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
+"123",892,"Cold Spring Brewing Co.",1250217271,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Cold Spring Pale Ale",NA,42294
+"124",892,"Cold Spring Brewing Co.",1244088464,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Cold Spring Pale Ale",NA,42294
+"125",892,"Cold Spring Brewing Co.",1159033254,2.5,2.5,3,"English Brown Ale",2.5,3,"Colonial Pub Pints Brown Ale",NA,31874
+"126",892,"Cold Spring Brewing Co.",1242438840,3.5,1.5,3.5,"American Pale Ale (APA)",2,2.5,"Cold Spring Pale Ale",NA,42294
+"127",892,"Cold Spring Brewing Co.",1238110366,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
+"128",892,"Cold Spring Brewing Co.",1237089767,4,3,4.5,"American Pale Ale (APA)",2.5,3.5,"Cold Spring Pale Ale",NA,42294
+"129",892,"Cold Spring Brewing Co.",1235612888,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Cold Spring Pale Ale",NA,42294
+"130",892,"Cold Spring Brewing Co.",1230771364,3,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Cold Spring Pale Ale",NA,42294
+"131",892,"Cold Spring Brewing Co.",1228701351,3,2.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Cold Spring Pale Ale",NA,42294
+"132",892,"Cold Spring Brewing Co.",1222219510,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Cold Spring Pale Ale",NA,42294
+"133",892,"Cold Spring Brewing Co.",1212118359,3.5,2,3.5,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
+"134",892,"Cold Spring Brewing Co.",1154135855,3,2,3.5,"English Brown Ale",1.5,2.5,"Colonial Pub Pints Brown Ale",NA,31874
+"135",892,"Cold Spring Brewing Co.",1211270482,3,2.5,3,"American Pale Ale (APA)",3,3,"Cold Spring Pale Ale",NA,42294
+"136",892,"Cold Spring Brewing Co.",1211229999,3.5,2.5,3.5,"American Pale Ale (APA)",3,3.5,"Cold Spring Pale Ale",NA,42294
+"137",892,"Cold Spring Brewing Co.",1208928208,3,3,4,"American Pale Ale (APA)",3.5,3,"Cold Spring Pale Ale",NA,42294
+"138",892,"Cold Spring Brewing Co.",1253295025,4,3,3.5,"English Brown Ale",3,4,"Colonial Pub Pints Brown Ale",NA,31874
+"139",892,"Cold Spring Brewing Co.",1236122775,3.5,2.5,3.5,"English Brown Ale",4,4,"Colonial Pub Pints Brown Ale",NA,31874
+"140",892,"Cold Spring Brewing Co.",1230759345,3.5,3,3.5,"English Brown Ale",3,3.5,"Colonial Pub Pints Brown Ale",NA,31874
+"141",892,"Cold Spring Brewing Co.",1214858164,4,3.5,4,"English Brown Ale",3.5,3,"Colonial Pub Pints Brown Ale",NA,31874
+"142",892,"Cold Spring Brewing Co.",1205415883,2.5,2.5,3,"English Brown Ale",2,2.5,"Colonial Pub Pints Brown Ale",NA,31874
+"143",892,"Cold Spring Brewing Co.",1203184462,4.5,4,4,"English Brown Ale",4,4.5,"Colonial Pub Pints Brown Ale",NA,31874
+"144",892,"Cold Spring Brewing Co.",1192076683,4,4,4,"English Brown Ale",4,4.5,"Colonial Pub Pints Brown Ale",NA,31874
+"145",892,"Cold Spring Brewing Co.",1185228396,2.5,3,3,"English Brown Ale",2.5,2.5,"Colonial Pub Pints Brown Ale",NA,31874
+"146",892,"Cold Spring Brewing Co.",1183998625,3,3,3,"English Brown Ale",2.5,3.5,"Colonial Pub Pints Brown Ale",NA,31874
+"147",892,"Cold Spring Brewing Co.",1181847529,3.5,2.5,3,"English Brown Ale",3,2.5,"Colonial Pub Pints Brown Ale",NA,31874
+"148",892,"Cold Spring Brewing Co.",1176083530,3.5,4,4,"English Brown Ale",3.5,3,"Colonial Pub Pints Brown Ale",NA,31874
+"149",892,"Cold Spring Brewing Co.",1165942686,3.5,3.5,4,"English Brown Ale",4,3,"Colonial Pub Pints Brown Ale",NA,31874
+"150",892,"Cold Spring Brewing Co.",1153766864,2,2,3.5,"English Brown Ale",2.5,2,"Colonial Pub Pints Brown Ale",NA,31874
+"151",892,"Cold Spring Brewing Co.",1288745274,3,2.5,2.5,"German Pilsener",3.5,2.5,"Gluek Golden Pilsner",NA,5984
+"152",892,"Cold Spring Brewing Co.",1219169916,1.5,1.5,1.5,"German Pilsener",1.5,1,"Gluek Golden Pilsner",NA,5984
+"153",892,"Cold Spring Brewing Co.",1207745575,3,2,3,"German Pilsener",3,3,"Gluek Golden Pilsner",NA,5984
+"154",892,"Cold Spring Brewing Co.",1187837934,2.5,2,2.5,"German Pilsener",3,3,"Gluek Golden Pilsner",NA,5984
+"155",892,"Cold Spring Brewing Co.",1186030877,4,2.5,2.5,"German Pilsener",3,2.5,"Gluek Golden Pilsner",NA,5984
+"156",892,"Cold Spring Brewing Co.",1183703178,2,2,2,"German Pilsener",2,2,"Gluek Golden Pilsner",NA,5984
+"157",892,"Cold Spring Brewing Co.",1178391952,2.5,2.5,2.5,"German Pilsener",2.5,2.5,"Gluek Golden Pilsner",NA,5984
+"158",892,"Cold Spring Brewing Co.",1175966490,2.5,2,2,"German Pilsener",1.5,2,"Gluek Golden Pilsner",NA,5984
+"159",892,"Cold Spring Brewing Co.",1166047382,2.5,3,3,"German Pilsener",2.5,2,"Gluek Golden Pilsner",NA,5984
+"160",892,"Cold Spring Brewing Co.",1164213652,2,2.5,2,"German Pilsener",2.5,1.5,"Gluek Golden Pilsner",NA,5984
+"161",892,"Cold Spring Brewing Co.",1046126405,2,2,2,"American Stout",1.5,1.5,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"162",892,"Cold Spring Brewing Co.",1148770184,2,2,2,"German Pilsener",2,2,"Gluek Golden Pilsner",NA,5984
+"163",892,"Cold Spring Brewing Co.",1123221101,1.5,3,3,"German Pilsener",1,2,"Gluek Golden Pilsner",NA,5984
+"164",892,"Cold Spring Brewing Co.",1095107335,3,2,3,"German Pilsener",2.5,2.5,"Gluek Golden Pilsner",NA,5984
+"165",892,"Cold Spring Brewing Co.",1070185053,1.5,1.5,1,"German Pilsener",1,1.5,"Gluek Golden Pilsner",NA,5984
+"166",892,"Cold Spring Brewing Co.",1031905584,2,1.5,2.5,"German Pilsener",2,1.5,"Gluek Golden Pilsner",NA,5984
+"167",892,"Cold Spring Brewing Co.",1227410700,2.5,4,3,"American Stout",2.5,2.5,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"168",892,"Cold Spring Brewing Co.",1187315313,1,1,3,"American Stout",1,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"169",892,"Cold Spring Brewing Co.",1075859387,2,2,1,"American Stout",2,2,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"170",892,"Cold Spring Brewing Co.",1074813350,1.5,2,1.5,"American Stout",1,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"171",892,"Cold Spring Brewing Co.",1048608386,1,1.5,3.5,"American Stout",1.5,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"172",892,"Cold Spring Brewing Co.",1033579652,2,2,2,"American Stout",2,1,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"173",892,"Cold Spring Brewing Co.",1021723438,2,3,3,"American Stout",2.5,2,"Aspen Meadow Vanilla Cream Stout",NA,3728
+"174",892,"Cold Spring Brewing Co.",1233952168,1,1.5,1.5,"Light Lager",1.5,1,"Stite Light Lager",NA,14697
+"175",892,"Cold Spring Brewing Co.",1214050840,1,1.5,1.5,"Light Lager",1.5,1,"Stite Light Lager",NA,14697
+"176",892,"Cold Spring Brewing Co.",1188372325,1.5,1.5,1.5,"Light Lager",1.5,1.5,"Stite Light Lager",NA,14697
+"177",892,"Cold Spring Brewing Co.",1186588720,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
+"178",892,"Cold Spring Brewing Co.",1181098534,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
+"179",892,"Cold Spring Brewing Co.",1178678635,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
+"180",892,"Cold Spring Brewing Co.",1125211340,1.5,1.5,1.5,"Light Lager",1.5,1.5,"Stite Light Lager",NA,14697
+"181",892,"Cold Spring Brewing Co.",1110145916,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
+"182",892,"Cold Spring Brewing Co.",1070932440,1,1,1,"Light Lager",1,1,"Stite Light Lager",NA,14697
+"183",892,"Cold Spring Brewing Co.",1250565724,3.5,3.5,4.5,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"184",892,"Cold Spring Brewing Co.",1250300618,4,4,4,"American Strong Ale",3.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"185",892,"Cold Spring Brewing Co.",1249679852,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"186",892,"Cold Spring Brewing Co.",1249436599,3,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"187",892,"Cold Spring Brewing Co.",1249353189,4,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"188",892,"Cold Spring Brewing Co.",1249166140,4,4.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"189",892,"Cold Spring Brewing Co.",1247710691,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"190",892,"Cold Spring Brewing Co.",1246413511,3.5,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"191",892,"Cold Spring Brewing Co.",1245789347,2.5,3.5,3.5,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"192",892,"Cold Spring Brewing Co.",1244658548,4.5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"193",892,"Cold Spring Brewing Co.",1242855203,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"194",892,"Cold Spring Brewing Co.",1241918638,4.5,4,4.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"195",892,"Cold Spring Brewing Co.",1241846038,3,3.5,4,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"196",892,"Cold Spring Brewing Co.",1240297919,2.5,3.5,4,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"197",892,"Cold Spring Brewing Co.",1238609790,3,3,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"198",892,"Cold Spring Brewing Co.",1238128419,4,3.5,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"199",892,"Cold Spring Brewing Co.",1325898667,3.5,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"200",892,"Cold Spring Brewing Co.",1325645989,4,3.5,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"201",892,"Cold Spring Brewing Co.",1325640643,3.5,3.5,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"202",892,"Cold Spring Brewing Co.",1325201476,3.5,3.5,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"203",892,"Cold Spring Brewing Co.",1325027670,3.5,3.5,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"204",892,"Cold Spring Brewing Co.",1324958401,3.5,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"205",892,"Cold Spring Brewing Co.",1312137914,4,4,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"206",892,"Cold Spring Brewing Co.",1311306666,4,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"207",892,"Cold Spring Brewing Co.",1324088648,3.5,3,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"208",892,"Cold Spring Brewing Co.",1323298063,3.5,4,4,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"209",892,"Cold Spring Brewing Co.",1321948889,4,4,3,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"210",892,"Cold Spring Brewing Co.",1321843431,3.5,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"211",892,"Cold Spring Brewing Co.",1321308541,4,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"212",892,"Cold Spring Brewing Co.",1319942423,4,4,3,"American Strong Ale",5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"213",892,"Cold Spring Brewing Co.",1319668908,4,4,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"214",892,"Cold Spring Brewing Co.",1318218522,4,3.5,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"215",892,"Cold Spring Brewing Co.",1301611772,4,4,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"216",892,"Cold Spring Brewing Co.",1316994682,3.5,3.5,3.5,"American Strong Ale",3.5,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"217",892,"Cold Spring Brewing Co.",1316143151,3.5,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"218",892,"Cold Spring Brewing Co.",1315360143,3.5,3.5,3.5,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"219",892,"Cold Spring Brewing Co.",1315266112,4,4,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"220",892,"Cold Spring Brewing Co.",1314590366,4,4,4.5,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"221",892,"Cold Spring Brewing Co.",1314584313,3.5,3.5,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"222",892,"Cold Spring Brewing Co.",1313551000,4,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"223",892,"Cold Spring Brewing Co.",1313351093,3.5,4,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"224",892,"Cold Spring Brewing Co.",1312670160,4.5,4.5,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"225",892,"Cold Spring Brewing Co.",1311123628,4,4,3.5,"American Strong Ale",4.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"226",892,"Cold Spring Brewing Co.",1310836917,3.5,4,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"227",892,"Cold Spring Brewing Co.",1310429799,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"228",892,"Cold Spring Brewing Co.",1309320363,3.5,4.5,3,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"229",892,"Cold Spring Brewing Co.",1306896470,4,4,3.5,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"230",892,"Cold Spring Brewing Co.",1306704157,4,4,4.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"231",892,"Cold Spring Brewing Co.",1306037787,2.5,3,4,"American Strong Ale",2.5,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"232",892,"Cold Spring Brewing Co.",1305780073,2,4,3.5,"American Strong Ale",2.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
+"233",892,"Cold Spring Brewing Co.",1305250922,3.5,3,3,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"234",892,"Cold Spring Brewing Co.",1303960561,3.5,3.5,4,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"235",892,"Cold Spring Brewing Co.",1303427516,4,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"236",892,"Cold Spring Brewing Co.",1300587487,5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"237",892,"Cold Spring Brewing Co.",1298945472,3.5,4.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"238",892,"Cold Spring Brewing Co.",1298820124,4,3.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"239",892,"Cold Spring Brewing Co.",1298694659,3.5,4,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"240",892,"Cold Spring Brewing Co.",1298692122,4,4,3,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"241",892,"Cold Spring Brewing Co.",1298277194,3,2.5,3,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"242",892,"Cold Spring Brewing Co.",1297644787,4,4,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"243",892,"Cold Spring Brewing Co.",1294187372,2.5,3,4,"American Strong Ale",3.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
+"244",892,"Cold Spring Brewing Co.",1292545324,3.5,4,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"245",892,"Cold Spring Brewing Co.",1292373209,5,4.5,4,"American Strong Ale",5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"246",892,"Cold Spring Brewing Co.",1289527500,3,4,3.5,"American Strong Ale",4,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"247",892,"Cold Spring Brewing Co.",1288568690,4.5,4,3.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"248",892,"Cold Spring Brewing Co.",1288233384,4,3.5,4,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"249",892,"Cold Spring Brewing Co.",1288217921,4,3.5,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"250",892,"Cold Spring Brewing Co.",1288056895,3.5,4,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"251",892,"Cold Spring Brewing Co.",1288047405,3,3.5,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"252",892,"Cold Spring Brewing Co.",1287713970,2.5,3.5,3.5,"American Strong Ale",4,2,"John Henry 3 Lick Spiker Ale",9.1,46984
+"253",892,"Cold Spring Brewing Co.",1286861834,3,3,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"254",892,"Cold Spring Brewing Co.",1285975943,3.5,4,3,"American Strong Ale",2.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"255",892,"Cold Spring Brewing Co.",1285721235,2.5,4,4,"American Strong Ale",3.5,2,"John Henry 3 Lick Spiker Ale",9.1,46984
+"256",892,"Cold Spring Brewing Co.",1285308541,3.5,3.5,4.5,"American Strong Ale",3.5,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"257",892,"Cold Spring Brewing Co.",1283742738,2.5,3.5,4,"American Strong Ale",4,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"258",892,"Cold Spring Brewing Co.",1283131850,3.5,3.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"259",892,"Cold Spring Brewing Co.",1248151092,2.5,3,2.5,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"260",892,"Cold Spring Brewing Co.",1283058083,3,3,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"261",892,"Cold Spring Brewing Co.",1281569563,3.5,4,3.5,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"262",892,"Cold Spring Brewing Co.",1280987590,3.5,4,3,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"263",892,"Cold Spring Brewing Co.",1279590061,3.5,4,3.5,"American Strong Ale",3,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"264",892,"Cold Spring Brewing Co.",1279244418,4.5,4,2.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"265",892,"Cold Spring Brewing Co.",1278749557,2,3.5,4,"American Strong Ale",3,2.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"266",892,"Cold Spring Brewing Co.",1277595742,4,4,4,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"267",892,"Cold Spring Brewing Co.",1277433791,2,3.5,3,"American Strong Ale",3,2,"John Henry 3 Lick Spiker Ale",9.1,46984
+"268",892,"Cold Spring Brewing Co.",1276659037,4,4,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"269",892,"Cold Spring Brewing Co.",1276053173,3,3,3,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"270",892,"Cold Spring Brewing Co.",1272576602,3.5,3,3.5,"American Strong Ale",3,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"271",892,"Cold Spring Brewing Co.",1272062991,3.5,4.5,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"272",892,"Cold Spring Brewing Co.",1271825130,4,3.5,3.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"273",892,"Cold Spring Brewing Co.",1271472387,3.5,3,3.5,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"274",892,"Cold Spring Brewing Co.",1270692345,4,4.5,3.5,"American Strong Ale",3.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"275",892,"Cold Spring Brewing Co.",1270449120,3,3,4,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"276",892,"Cold Spring Brewing Co.",1269828693,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"277",892,"Cold Spring Brewing Co.",1266630715,4,4,4.5,"American Strong Ale",4,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"278",892,"Cold Spring Brewing Co.",1266615989,4,4,4,"American Strong Ale",3,3,"John Henry 3 Lick Spiker Ale",9.1,46984
+"279",892,"Cold Spring Brewing Co.",1266180063,5,5,4.5,"American Strong Ale",4.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"280",892,"Cold Spring Brewing Co.",1264374633,3.5,4.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"281",892,"Cold Spring Brewing Co.",1264116223,5,4.5,5,"American Strong Ale",4.5,5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"282",892,"Cold Spring Brewing Co.",1262238836,3.5,3.5,4,"American Strong Ale",3.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"283",892,"Cold Spring Brewing Co.",1261705844,4.5,4,4,"American Strong Ale",4.5,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"284",892,"Cold Spring Brewing Co.",1261180409,3.5,4.5,4,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"285",892,"Cold Spring Brewing Co.",1260641199,4,4,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"286",892,"Cold Spring Brewing Co.",1260024626,4.5,4,4.5,"American Strong Ale",4.5,4.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"287",892,"Cold Spring Brewing Co.",1259555868,3.5,3.5,3,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"288",892,"Cold Spring Brewing Co.",1256339446,3,3,3,"American Strong Ale",2.5,3.5,"John Henry 3 Lick Spiker Ale",9.1,46984
+"289",892,"Cold Spring Brewing Co.",1251857001,4,3.5,4,"American Strong Ale",4,4,"John Henry 3 Lick Spiker Ale",9.1,46984
+"290",892,"Cold Spring Brewing Co.",1281229804,1,1.5,2,"American Pale Ale (APA)",1.5,1,"Hidden River Pale Ale",NA,5483
+"291",892,"Cold Spring Brewing Co.",1273636202,1.5,2,1,"American Pale Ale (APA)",2,2,"Hidden River Pale Ale",NA,5483
+"292",892,"Cold Spring Brewing Co.",1170470289,1,2,2,"American Pale Ale (APA)",1.5,1.5,"Hidden River Pale Ale",NA,5483
+"293",892,"Cold Spring Brewing Co.",1149475662,1,2,3.5,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
+"294",892,"Cold Spring Brewing Co.",1146618955,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Hidden River Pale Ale",NA,5483
+"295",892,"Cold Spring Brewing Co.",1145411773,1.5,1,1,"American Pale Ale (APA)",1.5,1,"Hidden River Pale Ale",NA,5483
+"296",892,"Cold Spring Brewing Co.",1136660147,3,2.5,2.5,"American Pale Ale (APA)",3,2.5,"Hidden River Pale Ale",NA,5483
+"297",892,"Cold Spring Brewing Co.",1110101066,2.5,2.5,2.5,"American Pale Ale (APA)",2.5,2.5,"Hidden River Pale Ale",NA,5483
+"298",892,"Cold Spring Brewing Co.",1105563318,1,1.5,2,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
+"299",892,"Cold Spring Brewing Co.",1098569462,1,2,2,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
+"300",892,"Cold Spring Brewing Co.",1093484136,2.5,2,2.5,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
+"301",892,"Cold Spring Brewing Co.",1092881464,2,2.5,3,"American Pale Ale (APA)",2.5,2,"Hidden River Pale Ale",NA,5483
+"302",892,"Cold Spring Brewing Co.",1090460530,1.5,2.5,4,"American Pale Ale (APA)",3.5,1.5,"Hidden River Pale Ale",NA,5483
+"303",892,"Cold Spring Brewing Co.",1081994522,3,3,4,"American Pale Ale (APA)",2.5,3,"Hidden River Pale Ale",NA,5483
+"304",892,"Cold Spring Brewing Co.",1081307510,2,1,4,"American Pale Ale (APA)",2,1,"Hidden River Pale Ale",NA,5483
+"305",892,"Cold Spring Brewing Co.",1050092988,1,2.5,3,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
+"306",892,"Cold Spring Brewing Co.",1049223857,2,3,3.5,"American Pale Ale (APA)",3,2,"Hidden River Pale Ale",NA,5483
+"307",892,"Cold Spring Brewing Co.",1047739433,2.5,2.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Hidden River Pale Ale",NA,5483
+"308",892,"Cold Spring Brewing Co.",1045963515,1,2,3,"American Pale Ale (APA)",1,1,"Hidden River Pale Ale",NA,5483
+"309",892,"Cold Spring Brewing Co.",1045848252,4,3.5,2.5,"American Pale Ale (APA)",3.5,3,"Hidden River Pale Ale",NA,5483
+"310",892,"Cold Spring Brewing Co.",1029421987,1.5,2.5,2,"American Pale Ale (APA)",3,1.5,"Hidden River Pale Ale",NA,5483
+"311",892,"Cold Spring Brewing Co.",1106630945,3.5,2.5,3.5,"American Adjunct Lager",3,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
+"312",892,"Cold Spring Brewing Co.",1087153288,3,2.5,3,"American Adjunct Lager",3,2.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
+"313",892,"Cold Spring Brewing Co.",1086567363,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
+"314",892,"Cold Spring Brewing Co.",1244082451,3.5,3,3.5,"American Amber / Red Ale",3,3,"Cold Spring Red River Trail Ale",NA,46962
+"315",892,"Cold Spring Brewing Co.",1083417326,3.5,3.5,2.5,"American Adjunct Lager",3.5,3.5,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
+"316",892,"Cold Spring Brewing Co.",1071545102,3.5,3.5,3,"American Adjunct Lager",2.5,3,"Pappy Kershenstine's Rattlesnake Beer",NA,14903
+"317",892,"Cold Spring Brewing Co.",1321933358,2.5,3,3,"American Amber / Red Ale",2.5,2.5,"Cold Spring Red River Trail Ale",NA,46962
+"318",892,"Cold Spring Brewing Co.",1248392309,3,3,4,"American Amber / Red Ale",3,3.5,"Cold Spring Red River Trail Ale",NA,46962
+"319",892,"Cold Spring Brewing Co.",1244781239,3,2.5,2.5,"American Amber / Red Ale",2,2.5,"Cold Spring Red River Trail Ale",NA,46962
+"320",892,"Cold Spring Brewing Co.",1238017816,3,3.5,2.5,"American Amber / Red Ale",3,3,"Cold Spring Red River Trail Ale",NA,46962
+"321",892,"Cold Spring Brewing Co.",1235533779,2.5,2.5,3,"American Amber / Red Ale",3.5,3,"Cold Spring Red River Trail Ale",NA,46962
+"322",892,"Cold Spring Brewing Co.",1230767822,3.5,3.5,3.5,"American Amber / Red Ale",2.5,3,"Cold Spring Red River Trail Ale",NA,46962
+"323",892,"Cold Spring Brewing Co.",1318969536,2.5,2,3,"American Adjunct Lager",2.5,2,"Northern Honey Brown Lager",NA,64326
+"324",892,"Cold Spring Brewing Co.",1312040536,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Northern Honey Brown Lager",NA,64326
+"325",892,"Cold Spring Brewing Co.",1311550458,4,4,5,"American Adjunct Lager",3.5,4,"Northern Honey Brown Lager",NA,64326
+"326",892,"Cold Spring Brewing Co.",1309983859,2,2,2.5,"American Adjunct Lager",2,2,"Northern Honey Brown Lager",NA,64326
+"327",892,"Cold Spring Brewing Co.",1309983762,2,2,3.5,"American Adjunct Lager",2,2.5,"Northern Honey Brown Lager",NA,64326
+"328",892,"Cold Spring Brewing Co.",1300064188,3,2.5,3.5,"American Adjunct Lager",3,3,"Northern Honey Brown Lager",NA,64326
+"329",892,"Cold Spring Brewing Co.",1294326027,3,2,3.5,"American Adjunct Lager",2.5,3.5,"Northern Honey Brown Lager",NA,64326
+"330",892,"Cold Spring Brewing Co.",1292117563,2,2,2.5,"American Adjunct Lager",2,2.5,"Northern Honey Brown Lager",NA,64326
+"331",892,"Cold Spring Brewing Co.",1149918155,1,1,1.5,"American Adjunct Lager",1,1,"Josef Hoffbauer Lager",NA,11465
+"332",892,"Cold Spring Brewing Co.",1149376144,1,1.5,1.5,"American Adjunct Lager",1,1.5,"Josef Hoffbauer Lager",NA,11465
+"333",892,"Cold Spring Brewing Co.",1147464392,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Josef Hoffbauer Lager",NA,11465
+"334",892,"Cold Spring Brewing Co.",1135069327,1.5,1,2,"American Adjunct Lager",3,1,"Josef Hoffbauer Lager",NA,11465
+"335",892,"Cold Spring Brewing Co.",1121855062,3.5,2,2,"American Adjunct Lager",2.5,3,"Josef Hoffbauer Lager",NA,11465
+"336",892,"Cold Spring Brewing Co.",1117636075,2,2,3,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
+"337",892,"Cold Spring Brewing Co.",1110637073,2.5,2.5,2.5,"American Adjunct Lager",2,3,"Josef Hoffbauer Lager",NA,11465
+"338",892,"Cold Spring Brewing Co.",1092017857,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
+"339",892,"Cold Spring Brewing Co.",1085789839,4,3,3,"American Adjunct Lager",3.5,3.5,"Josef Hoffbauer Lager",NA,11465
+"340",892,"Cold Spring Brewing Co.",1065240418,1,1.5,1,"American Adjunct Lager",1.5,1,"Josef Hoffbauer Lager",NA,11465
+"341",892,"Cold Spring Brewing Co.",1058324780,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Lager",NA,11465
+"342",892,"Cold Spring Brewing Co.",1274153768,4,3,4,"American Adjunct Lager",4,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"343",892,"Cold Spring Brewing Co.",1248659912,2.5,3,3,"American Adjunct Lager",3.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"344",892,"Cold Spring Brewing Co.",1228625574,2.5,3,2,"American Adjunct Lager",2.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"345",892,"Cold Spring Brewing Co.",1226966984,2,1.5,3.5,"American Adjunct Lager",2.5,1.5,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"346",892,"Cold Spring Brewing Co.",1223182425,5,3.5,3.5,"American Adjunct Lager",4,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"347",892,"Cold Spring Brewing Co.",1217992048,2,2,2,"American Adjunct Lager",3,2,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"348",892,"Cold Spring Brewing Co.",1215476612,3,3,3,"American Adjunct Lager",3,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"349",892,"Cold Spring Brewing Co.",1211133696,1,2,1,"American Adjunct Lager",3,1.5,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"350",892,"Cold Spring Brewing Co.",1205208998,3.5,3.5,3,"American Adjunct Lager",3,4,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"351",892,"Cold Spring Brewing Co.",1181490946,4,3,2.5,"American Adjunct Lager",3.5,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"352",892,"Cold Spring Brewing Co.",1171925742,3.5,3,3,"American Adjunct Lager",4,3,"Brewer's Cave Golden Caramel Lager (Blue Diamond Brewing Company)",NA,33868
+"353",892,"Cold Spring Brewing Co.",1227410517,2.5,2,3,"American Pale Ale (APA)",3,2,"Aspen Meadow Pale Ale",NA,8713
+"354",892,"Cold Spring Brewing Co.",1227279058,2,1.5,3,"American Pale Ale (APA)",2,2.5,"Aspen Meadow Pale Ale",NA,8713
+"355",892,"Cold Spring Brewing Co.",1131499144,3.5,2.5,3,"American Pale Ale (APA)",3,2.5,"Aspen Meadow Pale Ale",NA,8713
+"356",892,"Cold Spring Brewing Co.",1101613135,2.5,3,2,"American Pale Ale (APA)",3,2,"Aspen Meadow Pale Ale",NA,8713
+"357",892,"Cold Spring Brewing Co.",1095280792,2.5,4,2.5,"American Pale Ale (APA)",2.5,2.5,"Aspen Meadow Pale Ale",NA,8713
+"358",892,"Cold Spring Brewing Co.",1230850020,3,3.5,3,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
+"359",892,"Cold Spring Brewing Co.",1046127684,1,1,1,"American Pale Ale (APA)",1,1,"Aspen Meadow Pale Ale",NA,8713
+"360",892,"Cold Spring Brewing Co.",1313120928,3,2.5,3,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
+"361",892,"Cold Spring Brewing Co.",1297893699,2.5,2.5,2.5,"Black & Tan",3,2.5,"Cold Spring Moonlight Ale",NA,42354
+"362",892,"Cold Spring Brewing Co.",1290240235,3,3,4,"Black & Tan",2.5,2.5,"Cold Spring Moonlight Ale",NA,42354
+"363",892,"Cold Spring Brewing Co.",1285562915,4,3,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
+"364",892,"Cold Spring Brewing Co.",1285287330,4,3,4,"Black & Tan",3,3.5,"Cold Spring Moonlight Ale",NA,42354
+"365",892,"Cold Spring Brewing Co.",1283042490,3,3,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
+"366",892,"Cold Spring Brewing Co.",1281670301,3.5,3.5,4,"Black & Tan",3,3.5,"Cold Spring Moonlight Ale",NA,42354
+"367",892,"Cold Spring Brewing Co.",1275006195,3,2,4,"Black & Tan",3,2,"Cold Spring Moonlight Ale",NA,42354
+"368",892,"Cold Spring Brewing Co.",1272246747,1.5,2.5,4,"Black & Tan",1.5,1.5,"Cold Spring Moonlight Ale",NA,42354
+"369",892,"Cold Spring Brewing Co.",1272029975,2,2.5,3,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
+"370",892,"Cold Spring Brewing Co.",1271636947,3,3.5,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
+"371",892,"Cold Spring Brewing Co.",1270161309,3,3,3,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
+"372",892,"Cold Spring Brewing Co.",1250046771,3.5,3,3,"Black & Tan",3,2.5,"Cold Spring Moonlight Ale",NA,42354
+"373",892,"Cold Spring Brewing Co.",1249869882,3,3,3.5,"Black & Tan",3.5,3,"Cold Spring Moonlight Ale",NA,42354
+"374",892,"Cold Spring Brewing Co.",1243991874,3.5,3.5,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
+"375",892,"Cold Spring Brewing Co.",1236797627,2,2.5,2,"Black & Tan",2.5,2,"Cold Spring Moonlight Ale",NA,42354
+"376",892,"Cold Spring Brewing Co.",1228697505,3.5,3.5,3,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
+"377",892,"Cold Spring Brewing Co.",1227910141,4,4.5,3,"Black & Tan",4,4.5,"Cold Spring Moonlight Ale",NA,42354
+"378",892,"Cold Spring Brewing Co.",1224716162,5,4,3.5,"Black & Tan",4,4,"Cold Spring Moonlight Ale",NA,42354
+"379",892,"Cold Spring Brewing Co.",1223694609,4,3.5,3.5,"Black & Tan",4,3.5,"Cold Spring Moonlight Ale",NA,42354
+"380",892,"Cold Spring Brewing Co.",1223468829,3.5,3,3.5,"Black & Tan",3.5,3.5,"Cold Spring Moonlight Ale",NA,42354
+"381",892,"Cold Spring Brewing Co.",1213491141,4.5,3.5,4,"Black & Tan",4.5,4.5,"Cold Spring Moonlight Ale",NA,42354
+"382",892,"Cold Spring Brewing Co.",1211237302,3,3,4,"Black & Tan",3,3,"Cold Spring Moonlight Ale",NA,42354
+"383",892,"Cold Spring Brewing Co.",1209278352,2,2,2.5,"Black & Tan",2,1.5,"Cold Spring Moonlight Ale",NA,42354
+"384",892,"Cold Spring Brewing Co.",1229112895,2,2,2,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
+"385",892,"Cold Spring Brewing Co.",1212891629,3.5,3,3,"Black & Tan",3,3,"Stite Black & Tan",NA,22646
+"386",892,"Cold Spring Brewing Co.",1207089697,4,3,3,"Black & Tan",3,2,"Stite Black & Tan",NA,22646
+"387",892,"Cold Spring Brewing Co.",1194444332,2,2,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
+"388",892,"Cold Spring Brewing Co.",1182296390,1,1.5,1.5,"Black & Tan",2,1,"Stite Black & Tan",NA,22646
+"389",892,"Cold Spring Brewing Co.",1181097677,2.5,2,2.5,"Black & Tan",1.5,2.5,"Stite Black & Tan",NA,22646
+"390",892,"Cold Spring Brewing Co.",1171934950,1.5,3.5,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
+"391",892,"Cold Spring Brewing Co.",1168221921,2,2.5,3.5,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
+"392",892,"Cold Spring Brewing Co.",1167610292,2.5,1.5,2,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
+"393",892,"Cold Spring Brewing Co.",1161246079,3,1.5,2.5,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
+"394",892,"Cold Spring Brewing Co.",1155703192,2.5,2,3,"Black & Tan",2.5,2.5,"Stite Black & Tan",NA,22646
+"395",892,"Cold Spring Brewing Co.",1140779433,2.5,3,2.5,"Black & Tan",2.5,3,"Stite Black & Tan",NA,22646
+"396",892,"Cold Spring Brewing Co.",1139149745,1.5,2.5,2.5,"Black & Tan",1.5,2,"Stite Black & Tan",NA,22646
+"397",892,"Cold Spring Brewing Co.",1130375468,1.5,2.5,3,"Black & Tan",2,2,"Stite Black & Tan",NA,22646
+"398",892,"Cold Spring Brewing Co.",1120861104,3,1.5,2.5,"Black & Tan",2,2.5,"Stite Black & Tan",NA,22646
+"399",892,"Cold Spring Brewing Co.",1266087792,4,2.5,3,"Hefeweizen",3.5,4,"Colonial Pub Pints Hefeweizen",NA,31839
+"400",892,"Cold Spring Brewing Co.",1247618801,2.5,2,3,"Hefeweizen",4,2.5,"Colonial Pub Pints Hefeweizen",NA,31839
+"401",892,"Cold Spring Brewing Co.",1217726155,1,1,2,"Hefeweizen",1,1,"Colonial Pub Pints Hefeweizen",NA,31839
+"402",892,"Cold Spring Brewing Co.",1200060110,2.5,2,3.5,"Hefeweizen",2,2,"Colonial Pub Pints Hefeweizen",NA,31839
+"403",892,"Cold Spring Brewing Co.",1191548344,2,2,3,"Hefeweizen",2.5,2,"Colonial Pub Pints Hefeweizen",NA,31839
+"404",892,"Cold Spring Brewing Co.",1184288958,3,2,3,"Hefeweizen",2,2,"Colonial Pub Pints Hefeweizen",NA,31839
+"405",892,"Cold Spring Brewing Co.",1160982231,2.5,2,3,"Hefeweizen",3,2.5,"Colonial Pub Pints Hefeweizen",NA,31839
+"406",892,"Cold Spring Brewing Co.",1153630090,2.5,3,3.5,"Hefeweizen",2.5,2,"Colonial Pub Pints Hefeweizen",NA,31839
+"407",892,"Cold Spring Brewing Co.",1189617380,4,1.5,2,"Light Lager",1.5,2,"Josef Hoffbauer Light",NA,11476
+"408",892,"Cold Spring Brewing Co.",1181113989,1.5,1,1.5,"Light Lager",1,1,"Josef Hoffbauer Light",NA,11476
+"409",892,"Cold Spring Brewing Co.",1179601448,2.5,2.5,1.5,"Light Lager",2.5,2,"Josef Hoffbauer Light",NA,11476
+"410",892,"Cold Spring Brewing Co.",1178332341,2,1.5,2.5,"Light Lager",2,1.5,"Josef Hoffbauer Light",NA,11476
+"411",892,"Cold Spring Brewing Co.",1176686516,2.5,2,2.5,"Light Lager",2.5,2.5,"Josef Hoffbauer Light",NA,11476
+"412",892,"Cold Spring Brewing Co.",1153547856,2,2,2.5,"Light Lager",2.5,2,"Josef Hoffbauer Light",NA,11476
+"413",892,"Cold Spring Brewing Co.",1138233499,2.5,2,2.5,"Light Lager",3,2,"Josef Hoffbauer Light",NA,11476
+"414",892,"Cold Spring Brewing Co.",1111757894,4,2.5,2,"Light Lager",3.5,2.5,"Josef Hoffbauer Light",NA,11476
+"415",892,"Cold Spring Brewing Co.",1058415541,2.5,2.5,2.5,"Light Lager",2.5,3,"Josef Hoffbauer Light",NA,11476
+"416",892,"Cold Spring Brewing Co.",1203688525,2.5,2.5,3.5,"American Amber / Red Ale",2.5,2.5,"Stite Amber Red Reserve",NA,28564
+"417",892,"Cold Spring Brewing Co.",1186885389,2,2.5,3,"American Amber / Red Ale",2,1.5,"Stite Amber Red Reserve",NA,28564
+"418",892,"Cold Spring Brewing Co.",1182310535,2.5,3,3,"American Amber / Red Ale",2,2,"Stite Amber Red Reserve",NA,28564
+"419",892,"Cold Spring Brewing Co.",1182294563,1.5,2.5,3,"American Amber / Red Ale",1.5,1.5,"Stite Amber Red Reserve",NA,28564
+"420",892,"Cold Spring Brewing Co.",1178758820,1,1,1,"American Amber / Red Ale",1,1,"Stite Amber Red Reserve",NA,28564
+"421",892,"Cold Spring Brewing Co.",1142296491,2,2,3,"American Amber / Red Ale",2,2,"Stite Amber Red Reserve",NA,28564
+"422",892,"Cold Spring Brewing Co.",1140781653,2,2.5,2.5,"American Amber / Red Ale",2.5,3,"Stite Amber Red Reserve",NA,28564
+"423",892,"Cold Spring Brewing Co.",1213585901,2.5,2.5,3,"American Blonde Ale",3,3,"Barkley Sound Honey Almond Light",NA,12199
+"424",892,"Cold Spring Brewing Co.",1159649582,3,2,3.5,"American Blonde Ale",3.5,3,"Barkley Sound Honey Almond Light",NA,12199
+"425",892,"Cold Spring Brewing Co.",1132780265,1,1.5,2,"American Blonde Ale",1,1,"Barkley Sound Honey Almond Light",NA,12199
+"426",892,"Cold Spring Brewing Co.",1123732652,2,2,3.5,"American Blonde Ale",2,2,"Barkley Sound Honey Almond Light",NA,12199
+"427",892,"Cold Spring Brewing Co.",1103007691,1,2,1,"American Blonde Ale",1,2,"Barkley Sound Honey Almond Light",NA,12199
+"428",892,"Cold Spring Brewing Co.",1100357720,1,2,2,"American Blonde Ale",2,1.5,"Barkley Sound Honey Almond Light",NA,12199
+"429",892,"Cold Spring Brewing Co.",1096520376,2,3.5,3,"American Blonde Ale",2,2,"Barkley Sound Honey Almond Light",NA,12199
+"430",892,"Cold Spring Brewing Co.",1075060193,2,2.5,2.5,"American Blonde Ale",1.5,2,"Barkley Sound Honey Almond Light",NA,12199
+"431",892,"Cold Spring Brewing Co.",1074556953,1.5,2.5,2,"American Blonde Ale",1,1.5,"Barkley Sound Honey Almond Light",NA,12199
+"432",892,"Cold Spring Brewing Co.",1071717295,2,3.5,2,"American Blonde Ale",2.5,2.5,"Barkley Sound Honey Almond Light",NA,12199
+"433",892,"Cold Spring Brewing Co.",1070933132,1,2.5,1.5,"American Blonde Ale",1.5,1,"Barkley Sound Honey Almond Light",NA,12199
+"434",892,"Cold Spring Brewing Co.",1292789587,3,2.5,3,"Light Lager",3,2.5,"Gluek Golden Light",NA,22033
+"435",892,"Cold Spring Brewing Co.",1318453945,2,1,4,"American Adjunct Lager",3,2,"Northern Reserve Special Light",4,38415
+"436",892,"Cold Spring Brewing Co.",1312918650,3,1,3.5,"American Adjunct Lager",3,3,"Northern Reserve Special Light",4,38415
+"437",892,"Cold Spring Brewing Co.",1309983193,2,1.5,2,"American Adjunct Lager",2,1.5,"Northern Reserve Special Light",4,38415
+"438",892,"Cold Spring Brewing Co.",1309982793,1.5,1.5,1,"American Adjunct Lager",1,1.5,"Northern Reserve Special Light",4,38415
+"439",892,"Cold Spring Brewing Co.",1245614355,2,2.5,2.5,"American Adjunct Lager",3,2.5,"Northern Reserve Special Light",4,38415
+"440",892,"Cold Spring Brewing Co.",1188256299,1,1,2.5,"American Adjunct Lager",2,1,"Northern Reserve Special Light",4,38415
+"441",892,"Cold Spring Brewing Co.",1251262647,2,2.5,1,"Light Lager",1.5,2,"Gluek Golden Light",NA,22033
+"442",892,"Cold Spring Brewing Co.",1218497159,1.5,1.5,2.5,"Light Lager",1.5,1.5,"Gluek Golden Light",NA,22033
+"443",892,"Cold Spring Brewing Co.",1215818120,1,1,1,"Light Lager",1,1,"Gluek Golden Light",NA,22033
+"444",892,"Cold Spring Brewing Co.",1213501105,1.5,1,1.5,"Light Lager",1,1,"Gluek Golden Light",NA,22033
+"445",892,"Cold Spring Brewing Co.",1210837762,1,1.5,1,"Light Lager",1,1.5,"Gluek Golden Light",NA,22033
+"446",892,"Cold Spring Brewing Co.",1200191636,3,2,2,"Light Lager",2,2,"Gluek Golden Light",NA,22033
+"447",892,"Cold Spring Brewing Co.",1166238573,1.5,1,1,"Light Lager",1.5,1.5,"Gluek Golden Light",NA,22033
+"448",892,"Cold Spring Brewing Co.",1108831516,1,1.5,1.5,"Light Lager",1,1,"Gluek Golden Light",NA,22033
+"449",892,"Cold Spring Brewing Co.",1189617038,2.5,1,2.5,"American Adjunct Lager",2,1.5,"Josef Hoffbauer Ice",5.8,11572
+"450",892,"Cold Spring Brewing Co.",1156595812,1,1,2,"American Adjunct Lager",3,1,"Josef Hoffbauer Ice",5.8,11572
+"451",892,"Cold Spring Brewing Co.",1147463161,2.5,3.5,3,"American Adjunct Lager",2.5,2,"Josef Hoffbauer Ice",5.8,11572
+"452",892,"Cold Spring Brewing Co.",1128995127,2.5,2,2,"American Adjunct Lager",2,2,"Josef Hoffbauer Ice",5.8,11572
+"453",892,"Cold Spring Brewing Co.",1090026239,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Ice",5.8,11572
+"454",892,"Cold Spring Brewing Co.",1070345687,1.5,2.5,2,"American Adjunct Lager",1.5,1,"Josef Hoffbauer Ice",5.8,11572
+"455",892,"Cold Spring Brewing Co.",1060739070,3,2,2,"American Adjunct Lager",2.5,2.5,"Josef Hoffbauer Ice",5.8,11572
+"456",892,"Cold Spring Brewing Co.",1058839435,1.5,2,2,"American Adjunct Lager",2,1.5,"Josef Hoffbauer Ice",5.8,11572
+"457",892,"Cold Spring Brewing Co.",1203878099,1.5,1.5,2,"Black & Tan",2,1.5,"Hidden River Black & Tan",NA,5484
+"458",892,"Cold Spring Brewing Co.",1174624161,2.5,3,2,"Black & Tan",2,2.5,"Hidden River Black & Tan",NA,5484
+"459",892,"Cold Spring Brewing Co.",1170471142,1.5,2,3.5,"Black & Tan",2.5,2,"Hidden River Black & Tan",NA,5484
+"460",892,"Cold Spring Brewing Co.",1167542902,3,2.5,2.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
+"461",892,"Cold Spring Brewing Co.",1125186592,2.5,3,1,"Black & Tan",2,2.5,"Hidden River Black & Tan",NA,5484
+"462",892,"Cold Spring Brewing Co.",1122764164,3.5,3.5,3,"Black & Tan",2.5,2.5,"Hidden River Black & Tan",NA,5484
+"463",892,"Cold Spring Brewing Co.",1120267507,3,4,3,"Black & Tan",2.5,2,"Hidden River Black & Tan",NA,5484
+"464",892,"Cold Spring Brewing Co.",1119639960,3,3,2.5,"Black & Tan",3,3.5,"Hidden River Black & Tan",NA,5484
+"465",892,"Cold Spring Brewing Co.",1119035111,2,2,2.5,"Black & Tan",2.5,2.5,"Hidden River Black & Tan",NA,5484
+"466",892,"Cold Spring Brewing Co.",1108081118,3,2,3.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
+"467",892,"Cold Spring Brewing Co.",1095649226,3.5,2.5,2.5,"Black & Tan",3,2,"Hidden River Black & Tan",NA,5484
+"468",892,"Cold Spring Brewing Co.",1094354488,3.5,3.5,3.5,"Black & Tan",3.5,3,"Hidden River Black & Tan",NA,5484
+"469",892,"Cold Spring Brewing Co.",1077180929,1,2,2,"Black & Tan",2.5,1,"Hidden River Black & Tan",NA,5484
+"470",892,"Cold Spring Brewing Co.",1055535836,3.5,3.5,2,"Black & Tan",2.5,4,"Hidden River Black & Tan",NA,5484
+"471",892,"Cold Spring Brewing Co.",1054734551,1.5,1.5,2,"Black & Tan",1,1.5,"Hidden River Black & Tan",NA,5484
+"472",892,"Cold Spring Brewing Co.",1049742472,2.5,2.5,3.5,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
+"473",892,"Cold Spring Brewing Co.",1047324224,2.5,3,3,"Black & Tan",3,2.5,"Hidden River Black & Tan",NA,5484
+"474",892,"Cold Spring Brewing Co.",1042700139,2.5,3,3,"Black & Tan",2,3,"Hidden River Black & Tan",NA,5484
+"475",892,"Cold Spring Brewing Co.",1313010886,3.5,3,3,"American Adjunct Lager",3,3.5,"Northern Ice Lager",5.8,35276
+"476",892,"Cold Spring Brewing Co.",1311997400,3,2,3,"American Adjunct Lager",3,2.5,"Northern Ice Lager",5.8,35276
+"477",892,"Cold Spring Brewing Co.",1229147977,4,2,2,"American Adjunct Lager",3,2,"Northern Ice Lager",5.8,35276
+"478",892,"Cold Spring Brewing Co.",1188162819,1,2,1,"American Adjunct Lager",1.5,1,"Northern Ice Lager",5.8,35276
+"479",892,"Cold Spring Brewing Co.",1181782012,2.5,2.5,1.5,"American Adjunct Lager",3,2.5,"Northern Ice Lager",5.8,35276
+"480",892,"Cold Spring Brewing Co.",1180739698,2,2.5,2.5,"American Adjunct Lager",2,2,"Northern Ice Lager",5.8,35276
+"481",892,"Cold Spring Brewing Co.",1313033077,1.5,1.5,2.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
+"482",892,"Cold Spring Brewing Co.",1312039318,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Northern Golden Lager",NA,38387
+"483",892,"Cold Spring Brewing Co.",1311547525,4,3,4,"American Adjunct Lager",3,4.5,"Northern Golden Lager",NA,38387
+"484",892,"Cold Spring Brewing Co.",1305528821,1,1.5,2,"American Adjunct Lager",2,1.5,"Northern Golden Lager",NA,38387
+"485",892,"Cold Spring Brewing Co.",1297609626,2.5,2.5,3,"American Adjunct Lager",2,2.5,"Northern Golden Lager",NA,38387
+"486",892,"Cold Spring Brewing Co.",1296193041,1.5,1.5,1.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
+"487",892,"Cold Spring Brewing Co.",1291595622,2.5,3,3,"American Adjunct Lager",2.5,3,"Northern Golden Lager",NA,38387
+"488",892,"Cold Spring Brewing Co.",1284934862,3,3,3,"American Adjunct Lager",3,3,"Northern Golden Lager",NA,38387
+"489",892,"Cold Spring Brewing Co.",1242753769,1,2,2.5,"American Adjunct Lager",2.5,2.5,"Northern Golden Lager",NA,38387
+"490",892,"Cold Spring Brewing Co.",1229148207,4,1,2.5,"American Adjunct Lager",3,2.5,"Northern Golden Lager",NA,38387
+"491",892,"Cold Spring Brewing Co.",1197227699,2.5,2,1.5,"American Adjunct Lager",1,1.5,"Northern Golden Lager",NA,38387
+"492",892,"Cold Spring Brewing Co.",1188078988,2,4,3,"American Adjunct Lager",1,2.5,"Northern Golden Lager",NA,38387
+"493",892,"Cold Spring Brewing Co.",1316464614,2,2,2.5,"American Pale Wheat Ale",2,2,"Cold Spring Honey Almond Weiss",NA,42757
+"494",892,"Cold Spring Brewing Co.",1316220929,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Cold Spring Honey Almond Weiss",NA,42757
+"495",892,"Cold Spring Brewing Co.",1307119765,2.5,2.5,2.5,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"496",892,"Cold Spring Brewing Co.",1297147456,3.5,2.5,3,"American Pale Wheat Ale",4,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"497",892,"Cold Spring Brewing Co.",1294983931,2,2,3,"American Pale Wheat Ale",2.5,1.5,"Cold Spring Honey Almond Weiss",NA,42757
+"498",892,"Cold Spring Brewing Co.",1271627325,3,2.5,4,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"499",892,"Cold Spring Brewing Co.",1285628284,4,2.5,4,"American Pale Wheat Ale",3.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"500",892,"Cold Spring Brewing Co.",1284996040,2,3,3.5,"American Pale Wheat Ale",2,2,"Cold Spring Honey Almond Weiss",NA,42757
+"501",892,"Cold Spring Brewing Co.",1284048578,3.5,3.5,3.5,"American Pale Wheat Ale",2,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"502",892,"Cold Spring Brewing Co.",1282960068,3,2.5,3,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"503",892,"Cold Spring Brewing Co.",1279841255,3,3.5,3.5,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"504",892,"Cold Spring Brewing Co.",1276654275,3,1.5,3.5,"American Pale Wheat Ale",2.5,2,"Cold Spring Honey Almond Weiss",NA,42757
+"505",892,"Cold Spring Brewing Co.",1276525146,2,2,2,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"506",892,"Cold Spring Brewing Co.",1274912189,2.5,2.5,3,"American Pale Wheat Ale",3,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"507",892,"Cold Spring Brewing Co.",1274149923,2,2,2.5,"American Pale Wheat Ale",2,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"508",892,"Cold Spring Brewing Co.",1248061238,3.5,2,3,"American Pale Wheat Ale",3,2,"Cold Spring Honey Almond Weiss",NA,42757
+"509",892,"Cold Spring Brewing Co.",1244080377,3,3.5,3,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"510",892,"Cold Spring Brewing Co.",1238877641,3,2.5,3,"American Pale Wheat Ale",3,3,"Cold Spring Honey Almond Weiss",NA,42757
+"511",892,"Cold Spring Brewing Co.",1238018275,3.5,3,2.5,"American Pale Wheat Ale",2.5,3,"Cold Spring Honey Almond Weiss",NA,42757
+"512",892,"Cold Spring Brewing Co.",1235010628,3.5,3,2.5,"American Pale Wheat Ale",2.5,3.5,"Cold Spring Honey Almond Weiss",NA,42757
+"513",892,"Cold Spring Brewing Co.",1230857196,3,3,3.5,"American Pale Wheat Ale",3.5,3,"Cold Spring Honey Almond Weiss",NA,42757
+"514",892,"Cold Spring Brewing Co.",1228691637,2.5,3,2,"American Pale Wheat Ale",3,3,"Cold Spring Honey Almond Weiss",NA,42757
+"515",892,"Cold Spring Brewing Co.",1225634210,2,2,2,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"516",892,"Cold Spring Brewing Co.",1215028562,3,3,3.5,"American Pale Wheat Ale",2.5,2.5,"Cold Spring Honey Almond Weiss",NA,42757
+"517",892,"Cold Spring Brewing Co.",1211136192,1.5,3,2.5,"American Pale Wheat Ale",1,2,"Cold Spring Honey Almond Weiss",NA,42757
+"518",892,"Cold Spring Brewing Co.",1245389207,3,2.5,4,"English Pale Ale",3,2.5,"Colonial Pub Pints Pale Ale",NA,31021
+"519",892,"Cold Spring Brewing Co.",1240354834,4,3,4,"English Pale Ale",3,3.5,"Colonial Pub Pints Pale Ale",NA,31021
+"520",892,"Cold Spring Brewing Co.",1202653771,2,2,3.5,"English Pale Ale",1.5,2,"Colonial Pub Pints Pale Ale",NA,31021
+"521",892,"Cold Spring Brewing Co.",1202513596,3.5,3.5,4,"English Pale Ale",3,3.5,"Colonial Pub Pints Pale Ale",NA,31021
+"522",892,"Cold Spring Brewing Co.",1185226831,2.5,3,3,"English Pale Ale",2.5,2,"Colonial Pub Pints Pale Ale",NA,31021
+"523",892,"Cold Spring Brewing Co.",1178236452,3.5,2.5,2.5,"English Pale Ale",2.5,3,"Colonial Pub Pints Pale Ale",NA,31021
+"524",892,"Cold Spring Brewing Co.",1169432000,3,3,3,"English Pale Ale",3,3,"Colonial Pub Pints Pale Ale",NA,31021
+"525",892,"Cold Spring Brewing Co.",1158979406,1,1.5,3,"English Pale Ale",2,1.5,"Colonial Pub Pints Pale Ale",NA,31021
+"526",892,"Cold Spring Brewing Co.",1158621710,2,2,4,"English Pale Ale",2.5,2,"Colonial Pub Pints Pale Ale",NA,31021
+"527",892,"Cold Spring Brewing Co.",1154137967,3,2.5,2.5,"English Pale Ale",2,2,"Colonial Pub Pints Pale Ale",NA,31021
+"528",892,"Cold Spring Brewing Co.",1153784392,1.5,2,3.5,"English Pale Ale",2,1.5,"Colonial Pub Pints Pale Ale",NA,31021
+"529",892,"Cold Spring Brewing Co.",1149977239,3,3.5,4,"English Pale Ale",3.5,3.5,"Colonial Pub Pints Pale Ale",NA,31021
+"530",892,"Cold Spring Brewing Co.",1182902951,3.5,3,4,"Bock",3.5,3.5,"Gluek Red Bock Royal Select",5.8,31632
+"531",892,"Cold Spring Brewing Co.",1181362550,1,1.5,3.5,"Bock",1.5,1,"Gluek Red Bock Royal Select",5.8,31632
+"532",892,"Cold Spring Brewing Co.",1180468433,1.5,2,2,"Bock",2,1,"Gluek Red Bock Royal Select",5.8,31632
+"533",892,"Cold Spring Brewing Co.",1174346717,3,3.5,3.5,"Bock",3.5,3,"Gluek Red Bock Royal Select",5.8,31632
+"534",892,"Cold Spring Brewing Co.",1170455251,3,2,4,"Bock",3,2.5,"Gluek Red Bock Royal Select",5.8,31632
+"535",892,"Cold Spring Brewing Co.",1170121050,5,3,4.5,"Bock",3.5,3.5,"Gluek Red Bock Royal Select",5.8,31632
+"536",892,"Cold Spring Brewing Co.",1157246992,3,3,4,"Bock",3,3,"Gluek Red Bock Royal Select",5.8,31632
+"537",892,"Cold Spring Brewing Co.",1152505640,3.5,3.5,3.5,"Bock",3,3,"Gluek Red Bock Royal Select",5.8,31632
+"538",892,"Cold Spring Brewing Co.",1015329958,3.5,3,3.5,"Doppelbock",3.5,3,"Doppelbock",NA,2934
+"539",892,"Cold Spring Brewing Co.",1062306744,1,1,3,"Hefeweizen",1,1,"Hefe Weiss",NA,4788
+"540",892,"Cold Spring Brewing Co.",1044697281,3.5,3,3,"Hefeweizen",2.5,3,"Hefe Weiss",NA,4788
+"541",892,"Cold Spring Brewing Co.",1025597636,3,3,4,"Hefeweizen",3.5,2.5,"Hefe Weiss",NA,4788
+"542",892,"Cold Spring Brewing Co.",1262571885,2.5,2,3,"American Adjunct Lager",2,2.5,"All American Lager",NA,54353
+"543",892,"Cold Spring Brewing Co.",1259128508,2,2,3,"American Adjunct Lager",2,2,"All American Lager",NA,54353

@@ -1,162 +1,55 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",4410,"Back Street Brewery",1275889400,4,3.5,3.5,"Altbier",4,3.5,"Alt",NA,58971
 "2",4410,"Back Street Brewery",1305840924,2,2,2,"Czech Pilsener",2,2,"Jagged Little Pilsner",NA,33812
-"3",4410,"Back Street Brewery",1163803954,2.5,5,3,"American Brown Ale",2,3.5,"Coachella Brown Ale",NA,33813
-"4",4410,"Back Street Brewery",1183341355,4,3.5,4,"Scottish Ale",3,3.5,"O'manns Scottish Ale",NA,37508
-"5",4410,"Back Street Brewery",1122868345,3,3,3,"American IPA",3.5,3,"Hatchet Face IPA",NA,19621
-"6",4410,"Back Street Brewery",1093963766,4,4,3.5,"American IPA",4.5,4,"Hatchet Face IPA",NA,19621
-"7",4410,"Back Street Brewery",1282631238,4.5,4,4,"American Double / Imperial IPA",4,4,"Ali Rae",NA,61334
-"8",4410,"Back Street Brewery",1222658538,2.5,3.5,3.5,"Märzen / Oktoberfest",2,3,"Oktoberfest",NA,45099
-"9",4410,"Back Street Brewery",1194731027,5,4.5,3.5,"American Porter",4,4.5,"Coffee Pot Porter",NA,39556
-"10",4410,"Back Street Brewery",1131651992,4,4,4,"Maibock / Helles Bock",3.5,3.5,"Maibock",7,26494
-"11",4410,"Back Street Brewery",1129762433,4,3.5,3.5,"Maibock / Helles Bock",4,4,"Maibock",7,26494
-"12",4410,"Back Street Brewery",1249350627,2,2.5,3,"Hefeweizen",2,1.5,"Desert Dawn",NA,51612
-"13",4410,"Back Street Brewery",1287375541,5,4.5,4,"American IPA",5,4,"Wild Bill's Session IPA",4.8,62709
-"14",4410,"Back Street Brewery",1284760786,3,3.5,2.5,"Belgian Pale Ale",3.5,3.5,"Backstreet Belgian Blonde",NA,61918
-"15",4410,"Back Street Brewery",1264107166,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Pacific Pale Ale",NA,19465
-"16",4410,"Back Street Brewery",1245318593,2.5,2.5,3,"American Pale Ale (APA)",2.5,2.5,"Pacific Pale Ale",NA,19465
-"17",4410,"Back Street Brewery",1208237159,2.5,2,3.5,"American Pale Ale (APA)",2.5,2.5,"Pacific Pale Ale",NA,19465
-"18",4410,"Back Street Brewery",1195347968,3,3,3.5,"American Pale Ale (APA)",3,3.5,"Pacific Pale Ale",NA,19465
-"19",4410,"Back Street Brewery",1190426572,4.5,3.5,4.5,"American Pale Ale (APA)",4,4.5,"Pacific Pale Ale",NA,19465
-"20",4410,"Back Street Brewery",1122868029,3,3.5,3,"American Pale Ale (APA)",3,3,"Pacific Pale Ale",NA,19465
-"21",4410,"Back Street Brewery",1093415933,3.5,3,4,"American Pale Ale (APA)",4,4,"Pacific Pale Ale",NA,19465
-"22",4410,"Back Street Brewery",1310192671,3.5,3,3,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
-"23",4410,"Back Street Brewery",1284830216,2.5,3,3.5,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
-"24",4410,"Back Street Brewery",1245318336,3.5,3,3.5,"American Amber / Red Ale",3.5,3,"Back Street Rita Red Ale",NA,17974
-"25",4410,"Back Street Brewery",1194494787,3,3,3.5,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
-"26",4410,"Back Street Brewery",1190425708,4,4,4,"American Amber / Red Ale",4,3.5,"Back Street Rita Red Ale",NA,17974
-"27",4410,"Back Street Brewery",1087325162,3,3,3,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
-"28",4410,"Back Street Brewery",1284840733,2,2,3,"Czech Pilsener",2.5,2,"Jagged Little Pilsner",NA,33812
-"29",4410,"Back Street Brewery",1248672101,2,2.5,3,"Czech Pilsener",3.5,2,"Jagged Little Pilsner",NA,33812
-"30",4410,"Back Street Brewery",1208236736,2.5,2,2.5,"Czech Pilsener",3,3,"Jagged Little Pilsner",NA,33812
-"31",4410,"Back Street Brewery",1190425484,4,3,4,"Czech Pilsener",4,4,"Jagged Little Pilsner",NA,33812
-"32",4410,"Back Street Brewery",1172685825,4.5,4,4,"Czech Pilsener",4.5,4,"Jagged Little Pilsner",NA,33812
-"33",4410,"Back Street Brewery",1167448121,4.5,4,3.5,"Czech Pilsener",4,4,"Jagged Little Pilsner",NA,33812
-"34",4410,"Back Street Brewery",1163803718,4.5,4.5,4,"Czech Pilsener",4,4.5,"Jagged Little Pilsner",NA,33812
-"35",4410,"Back Street Brewery",1057953654,3.5,3,3,"American Blonde Ale",2.5,3,"Back Street Blonde",NA,11039
-"36",4410,"Back Street Brewery",1296372603,2,3,3,"American Adjunct Lager",3,2,"Chava Lager",NA,65696
-"37",4410,"Back Street Brewery",1296195788,3,3,3,"American Adjunct Lager",3,2.5,"Chava Lager",NA,65696
-"38",4410,"Back Street Brewery",1248322836,3.5,4,4,"Milk / Sweet Stout",4,4,"La Costa Rasta",6,50840
-"39",4410,"Back Street Brewery",1131666077,4,3.5,4,"Dunkelweizen",4,4,"Dunkelweisse",NA,26865
-"40",4410,"Back Street Brewery",1246571291,5,4,4,"Milk / Sweet Stout",4,4.5,"La Costa Rasta",6,50840
-"41",4410,"Back Street Brewery",1301274589,2.5,2.5,3,"American Porter",2.5,2.5,"Schooner Porter",NA,67586
-"42",4410,"Back Street Brewery",1217921895,4,2.5,4,"Saison / Farmhouse Ale",3,3,"Sage On Saison",5,43006
-"43",4410,"Back Street Brewery",1214705993,4.5,4,3,"Saison / Farmhouse Ale",4,4,"Sage On Saison",5,43006
-"44",4410,"Back Street Brewery",1275946112,3,3,2.5,"American IPA",4,3,"ICU IPA",NA,58989
-"45",4410,"Back Street Brewery",1170097025,4.5,4,4,"Belgian Strong Dark Ale",4,4,"Monk-y Love",8,35011
-"46",4410,"Back Street Brewery",1126196309,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Moe",9.5,25746
-"47",4410,"Back Street Brewery",1245318443,3,3,3.5,"Hefeweizen",3.5,3,"Backstreet Hefeweizen",5.7,38753
-"48",4410,"Back Street Brewery",1190425966,3.5,3,4.5,"Hefeweizen",3.5,3,"Backstreet Hefeweizen",5.7,38753
-"49",4410,"Back Street Brewery",1298836446,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Eeyore",13,66722
-"50",4410,"Back Street Brewery",1245222222,3,3,3.5,"American IPA",3.5,3,"Hopopolis",7.1,29665
-"51",4410,"Back Street Brewery",1194494488,3.5,4,3.5,"American IPA",3.5,3.5,"Hopopolis",7.1,29665
-"52",4410,"Back Street Brewery",1173563999,4.5,4,4.5,"American IPA",4,4,"Hopopolis",7.1,29665
-"53",4410,"Back Street Brewery",1171547611,3,4.5,4.5,"American IPA",3.5,3.5,"Hopopolis",7.1,29665
-"54",4410,"Back Street Brewery",1170829463,4,4.5,3.5,"American IPA",4,4.5,"Hopopolis",7.1,29665
-"55",4410,"Back Street Brewery",1163803457,4.5,3.5,4,"American IPA",4.5,4.5,"Hopopolis",7.1,29665
-"56",4410,"Back Street Brewery",1145393925,4,3.5,4.5,"American IPA",4.5,4,"Hopopolis",7.1,29665
-"57",4410,"Back Street Brewery",1144275259,4.5,4,4,"American IPA",4,4.5,"Hopopolis",7.1,29665
-"58",4410,"Back Street Brewery",1245319056,2,2,2,"American Pale Lager",2,2,"Euradort Export Lager",NA,50542
-"59",4410,"Back Street Brewery",1195337465,2.5,3.5,4,"American Pale Ale (APA)",3,3,"Olaf",NA,39662
-"60",4410,"Back Street Brewery",1284761029,3.5,3,4,"Rye Beer",3.5,3.5,"Turla Rye Brown",NA,61919
-"61",4410,"Back Street Brewery",1284840212,3.5,3,2.5,"American Pale Ale (APA)",3,3.5,"Hepkat",5.8,44056
-"62",4410,"Back Street Brewery",1246570623,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Hepkat",5.8,44056
-"63",4410,"Back Street Brewery",1275889030,2,2,3,"Tripel",2.5,2,"Tripel",NA,42171
-"64",4410,"Back Street Brewery",1208236489,3,2,3,"Tripel",3,3.5,"Tripel",NA,42171
-"65",4410,"Back Street Brewery",1245131786,3.5,3.5,4,"American IPA",4,3.5,"Happy Way IPA",5.75,50511
-"66",4410,"Back Street Brewery",1165447759,2,3,1,"American IPA",3,2,"Hop Lava",8,31695
-"67",4410,"Back Street Brewery",1154624535,5,4.5,4,"American IPA",4,4.5,"Hop Lava",8,31695
-"68",4410,"Back Street Brewery",1153004276,4.5,4,4,"American IPA",4,4,"Hop Lava",8,31695
-"69",4410,"Back Street Brewery",1152819720,4.5,4.5,4,"American IPA",4.5,4.5,"Hop Lava",8,31695
-"70",4410,"Back Street Brewery",1208235371,2,2,2.5,"Cream Ale",3,2,"Cream Ale",NA,42170
-"71",4410,"Back Street Brewery",1208235779,2.5,2,3,"American Pale Wheat Ale",3,2.5,"Heritage Hefeweizen",NA,39667
-"72",4410,"Back Street Brewery",1195346629,3,3,3,"American Pale Wheat Ale",3,2.5,"Heritage Hefeweizen",NA,39667
-"73",4410,"Back Street Brewery",1195340393,3.5,3.5,4,"English Brown Ale",3.5,4,"Double Belgian Brewnet",NA,39665
-"74",4410,"Back Street Brewery",1296373140,1.5,2,3.5,"Oatmeal Stout",3,1,"Vlad's Double Oatmeal Stout",NA,65565
-"75",4410,"Back Street Brewery",1295843444,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Vlad's Double Oatmeal Stout",NA,65565
-"76",4410,"Back Street Brewery",1250621287,3.5,3,3.5,"Bock",3.5,3.5,"Large Rooster Bock",NA,51957
-"77",4410,"Back Street Brewery",1219105574,4,4,3.5,"Herbed / Spiced Beer",4.5,4,"Wutizit",9,43423
-"78",4410,"Back Street Brewery",1071101541,4,4,3.5,"Old Ale",3.5,4,"Back Street Magnus Old Ale",9.5,14744
-"79",4410,"Back Street Brewery",1226814075,4,4,4,"American Porter",4,4,"Time To Reorder Porter",NA,45935
-"80",4410,"Back Street Brewery",1171407348,4,4,4,"Euro Dark Lager",4,4.5,"Asterisk Smoked Lager",9.4,35269
-"81",4410,"Back Street Brewery",1296372923,1.5,2,1,"American Porter",2.5,2,"Pigskin Porter",NA,65564
-"82",4410,"Back Street Brewery",1295843310,2,2,3,"American Porter",2,2,"Pigskin Porter",NA,65564
-"83",4410,"Back Street Brewery",1284830611,1,2,2,"Cream Ale",2.5,1,"Crossroads",5.2,43424
-"84",4410,"Back Street Brewery",1245318752,1.5,1.5,2,"Cream Ale",2,1.5,"Crossroads",5.2,43424
-"85",4410,"Back Street Brewery",1109702158,4.5,4,4,"American Porter",4,4.5,"Slave Driver",8.8,22316
-"86",4410,"Back Street Brewery",1195345965,4,4,4,"English Dark Mild Ale",4,4,"M.J.'s Amber Ale",NA,39666
-"87",4410,"Back Street Brewery",1284841491,3,4,3.5,"American Porter",2.5,3.5,"Vanilla Porter",NA,61333
-"88",4410,"Back Street Brewery",1282630597,3,4,3.5,"American Porter",3,3,"Vanilla Porter",NA,61333
-"89",4410,"Back Street Brewery",1245816915,2,2.5,3.5,"American Pale Lager",3.5,2,"Euradort Export Lager",NA,50542
-"90",4410,"Back Street Brewery",1296373417,1,1.5,3,"American Double / Imperial Stout",2.5,1,"MGB Imperial Stout",10.4,62401
-"91",4410,"Back Street Brewery",1286438052,4,4,4,"American Double / Imperial Stout",4,3.5,"MGB Imperial Stout",10.4,62401
-"92",4410,"Back Street Brewery",1249149612,3.5,4,3.5,"Berliner Weissbier",4,4,"Slow Ride",3,50510
-"93",4410,"Back Street Brewery",1245131582,3.5,3,3.5,"Berliner Weissbier",4,3.5,"Slow Ride",3,50510
-"94",4410,"Back Street Brewery",1303179213,4.5,2.5,4,"American IPA",3,4,"Emergency Room I.P.A.",NA,39663
-"95",4410,"Back Street Brewery",1284832023,4,3.5,3,"American IPA",3.5,4,"Emergency Room I.P.A.",NA,39663
-"96",4410,"Back Street Brewery",1278395347,3.5,3.5,3.5,"American IPA",3.5,3.5,"Emergency Room I.P.A.",NA,39663
-"97",4410,"Back Street Brewery",1195337955,3.5,3,4,"American IPA",3.5,3,"Emergency Room I.P.A.",NA,39663
-"98",4410,"Back Street Brewery",1284833773,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",6,31725
-"99",4410,"Back Street Brewery",1275889113,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Extra Special Bitter",6,31725
-"100",4410,"Back Street Brewery",1215646227,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Extra Special Bitter",6,31725
-"101",4410,"Back Street Brewery",1174712476,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",6,31725
-"102",4410,"Back Street Brewery",1174113939,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",6,31725
-"103",4410,"Back Street Brewery",1153005888,5,4,5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",6,31725
-"104",4410,"Back Street Brewery",1250627320,4,4,3.5,"Rye Beer",4,4,"Tye Dye Rye",NA,50541
-"105",4410,"Back Street Brewery",1245318927,4.5,4,4,"Rye Beer",4,4,"Tye Dye Rye",NA,50541
-"106",4410,"Back Street Brewery",1284841044,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Rambler",9,35890
-"107",4410,"Back Street Brewery",1283502943,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"108",4410,"Back Street Brewery",1190676054,4,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"109",4410,"Back Street Brewery",1174811175,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"110",4410,"Back Street Brewery",1174712018,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"111",4410,"Back Street Brewery",1174365024,5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"112",4410,"Back Street Brewery",1174118574,5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
-"113",15327,"Back Street Brewery",1313959708,2.5,2.5,3,"Hefeweizen",2.5,2,"Heritage Hefeweizen",NA,35588
-"114",15327,"Back Street Brewery",1218953225,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Ron's Pale Ale",5.5,44361
-"115",15327,"Back Street Brewery",1313959412,3.5,3.5,4,"American Porter",3.5,3.5,"Schooner Porter",NA,72328
-"116",15327,"Back Street Brewery",1218955021,3,3,3.5,"American Amber / Red Ale",3.5,3,"Rita Red Ale",NA,35592
-"117",15327,"Back Street Brewery",1318218347,3.5,3,4,"American Stout",3,3,"Coffee Stout",NA,73975
-"118",15327,"Back Street Brewery",1284016606,3.5,2.5,3,"Hefeweizen",2.5,2,"Heritage Hefeweizen",NA,35588
-"119",15327,"Back Street Brewery",1218955286,3,2.5,3.5,"Hefeweizen",2.5,3,"Heritage Hefeweizen",NA,35588
-"120",15327,"Back Street Brewery",1284016062,3.5,2.5,3.5,"American IPA",3,2,"E.R. + IPA",NA,44362
-"121",15327,"Back Street Brewery",1218953485,2.5,3,3.5,"American IPA",3,3,"E.R. + IPA",NA,44362
-"122",15327,"Back Street Brewery",1313958612,3.5,3,3.5,"German Pilsener",3.5,3.5,"Jagged Lil' Pilsner",5.7,44359
-"123",15327,"Back Street Brewery",1218952889,3.5,3.5,3.5,"German Pilsener",4,3.5,"Jagged Lil' Pilsner",5.7,44359
-"124",15327,"Back Street Brewery",1218954753,4,4,4,"Herbed / Spiced Beer",4,4.5,"St. Nick's Treasure",NA,44364
-"125",15327,"Back Street Brewery",1218953772,2.5,3,3.5,"Cream Ale",2.5,2.5,"Crossroads Cream Ale",5.5,44363
-"126",12164,"Back Street Brewery",1314110937,3.5,4,4,"American Amber / Red Ale",4,4,"Rita Red",NA,72386
-"127",12164,"Back Street Brewery",1322766653,3,3,3.5,"American IPA",3.5,3,"La Runia",NA,75885
-"128",12164,"Back Street Brewery",1304570813,3.5,3.5,3.5,"American IPA",4,3.5,"Wild Bill's",5,68692
-"129",12164,"Back Street Brewery",1316728708,4,4,4,"American IPA",3.5,4,"Rydin' Dirty",6.8,69579
-"130",12164,"Back Street Brewery",1306817034,4.5,4,4,"American IPA",4.5,4,"Rydin' Dirty",6.8,69579
-"131",12164,"Back Street Brewery",1316991834,4,4,4,"English Bitter",4,4,"Grumpy Limey",5.2,73461
-"132",12164,"Back Street Brewery",1316992143,4,4,4,"American Amber / Red Lager",4,4,"Dolman's Dark Star",7,73462
-"133",12164,"Back Street Brewery",1291856778,2,3,3.5,"American Double / Imperial Stout",2.5,2,"Murder By Death",10.4,64106
-"134",12164,"Back Street Brewery",1314110816,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Rossi Pilsner",5.6,72385
-"135",12164,"Back Street Brewery",1316989666,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Murder By Death (Bourbon Barrel Aged)",12,73459
-"136",12164,"Back Street Brewery",1296249797,4,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Dos En La Rosa",5.5,65704
-"137",12164,"Back Street Brewery",1314714913,4,4.5,4,"American Stout",4.5,4,"Malane's Request Coffee Stout",6.4,72631
-"138",12164,"Back Street Brewery",1316729650,3.5,3,4,"American Double / Imperial IPA",3.5,4,"Bitter Broad",9,70504
-"139",12164,"Back Street Brewery",1309215934,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Bitter Broad",9,70504
-"140",12164,"Back Street Brewery",1304571014,4,4,4.5,"American IPA",4.5,4,"Fixie",7,68694
-"141",12164,"Back Street Brewery",1232322068,3.5,4,4,"American Dark Wheat Ale",4,4,"Dirty German",5.4,46384
-"142",12164,"Back Street Brewery",1231375995,3.5,4,3.5,"American Dark Wheat Ale",3.5,4.5,"Dirty German",5.4,46384
-"143",12164,"Back Street Brewery",1228529961,3.5,4.5,4,"American Dark Wheat Ale",3.5,4,"Dirty German",5.4,46384
-"144",12164,"Back Street Brewery",1325011816,4,4.5,4,"American Black Ale",4.5,4,"Whatchamacallit",NA,76737
-"145",12164,"Back Street Brewery",1126309411,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Larry",9.5,25764
-"146",12164,"Back Street Brewery",1317394212,4,4,4.5,"American Porter",4.5,4,"Schooner Porter",5.3,68693
-"147",12164,"Back Street Brewery",1304570928,3.5,3.5,3.5,"American Porter",3.5,3.5,"Schooner Porter",5.3,68693
-"148",12164,"Back Street Brewery",1325011992,4,4,4,"American Porter",4,3.5,"Cellar Rat Rye Porter",NA,76738
-"149",12164,"Back Street Brewery",1211415768,1,3.5,3.5,"American Brown Ale",3,1.5,"Del Boca Vista Oatmeal Raisin Brown Ale",NA,42804
-"150",12164,"Back Street Brewery",1314110702,2.5,2.5,3,"American Pale Wheat Ale",3,2.5,"Heritage Hefeweizen",NA,72384
-"151",12164,"Back Street Brewery",1306817339,3.5,4,4,"American Wild Ale",3.5,3.5,"Sour B",NA,69580
-"152",12164,"Back Street Brewery",1172390335,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Arnold Stoutzeneggar",9.1,35012
-"153",12164,"Back Street Brewery",1170914743,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Arnold Stoutzeneggar",9.1,35012
-"154",12164,"Back Street Brewery",1170130011,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Arnold Stoutzeneggar",9.1,35012
-"155",12164,"Back Street Brewery",1170099419,4,4,4.5,"American Double / Imperial Stout",4,4,"Arnold Stoutzeneggar",9.1,35012
-"156",12164,"Back Street Brewery",1145391131,3,4,3.5,"American Barleywine",4,3.5,"Barro-Ly Wine",9.7,27644
-"157",12164,"Back Street Brewery",1136271069,4,4,4,"American Barleywine",4,4.5,"Barro-Ly Wine",9.7,27644
-"158",12164,"Back Street Brewery",1314110564,3,3.5,3.5,"American Porter",3.5,3,"Blackberry Porter",NA,72383
-"159",12164,"Back Street Brewery",1225320529,3.5,3,4.5,"American Pale Wheat Ale",3.5,3.5,"Pink Noise",6.8,45633
-"160",10012,"Back Street Brewery",1126197166,4.5,4,4.5,"Belgian Strong Dark Ale",4,5,"Curly",9.5,25747
-"161",10012,"Back Street Brewery",1145311603,3.5,3,3.5,"American Brown Ale",4,3.5,"Poor Richard's Ale",5.8,29999
+"3",4410,"Back Street Brewery",1222658538,2.5,3.5,3.5,"Märzen / Oktoberfest",2,3,"Oktoberfest",NA,45099
+"4",4410,"Back Street Brewery",1131651992,4,4,4,"Maibock / Helles Bock",3.5,3.5,"Maibock",7,26494
+"5",4410,"Back Street Brewery",1129762433,4,3.5,3.5,"Maibock / Helles Bock",4,4,"Maibock",7,26494
+"6",4410,"Back Street Brewery",1264107166,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Pacific Pale Ale",NA,19465
+"7",4410,"Back Street Brewery",1245318593,2.5,2.5,3,"American Pale Ale (APA)",2.5,2.5,"Pacific Pale Ale",NA,19465
+"8",4410,"Back Street Brewery",1208237159,2.5,2,3.5,"American Pale Ale (APA)",2.5,2.5,"Pacific Pale Ale",NA,19465
+"9",4410,"Back Street Brewery",1195347968,3,3,3.5,"American Pale Ale (APA)",3,3.5,"Pacific Pale Ale",NA,19465
+"10",4410,"Back Street Brewery",1190426572,4.5,3.5,4.5,"American Pale Ale (APA)",4,4.5,"Pacific Pale Ale",NA,19465
+"11",4410,"Back Street Brewery",1122868029,3,3.5,3,"American Pale Ale (APA)",3,3,"Pacific Pale Ale",NA,19465
+"12",4410,"Back Street Brewery",1093415933,3.5,3,4,"American Pale Ale (APA)",4,4,"Pacific Pale Ale",NA,19465
+"13",4410,"Back Street Brewery",1310192671,3.5,3,3,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
+"14",4410,"Back Street Brewery",1284830216,2.5,3,3.5,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
+"15",4410,"Back Street Brewery",1245318336,3.5,3,3.5,"American Amber / Red Ale",3.5,3,"Back Street Rita Red Ale",NA,17974
+"16",4410,"Back Street Brewery",1194494787,3,3,3.5,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
+"17",4410,"Back Street Brewery",1190425708,4,4,4,"American Amber / Red Ale",4,3.5,"Back Street Rita Red Ale",NA,17974
+"18",4410,"Back Street Brewery",1087325162,3,3,3,"American Amber / Red Ale",3,3,"Back Street Rita Red Ale",NA,17974
+"19",4410,"Back Street Brewery",1284840733,2,2,3,"Czech Pilsener",2.5,2,"Jagged Little Pilsner",NA,33812
+"20",4410,"Back Street Brewery",1248672101,2,2.5,3,"Czech Pilsener",3.5,2,"Jagged Little Pilsner",NA,33812
+"21",4410,"Back Street Brewery",1208236736,2.5,2,2.5,"Czech Pilsener",3,3,"Jagged Little Pilsner",NA,33812
+"22",4410,"Back Street Brewery",1190425484,4,3,4,"Czech Pilsener",4,4,"Jagged Little Pilsner",NA,33812
+"23",4410,"Back Street Brewery",1172685825,4.5,4,4,"Czech Pilsener",4.5,4,"Jagged Little Pilsner",NA,33812
+"24",4410,"Back Street Brewery",1167448121,4.5,4,3.5,"Czech Pilsener",4,4,"Jagged Little Pilsner",NA,33812
+"25",4410,"Back Street Brewery",1163803718,4.5,4.5,4,"Czech Pilsener",4,4.5,"Jagged Little Pilsner",NA,33812
+"26",4410,"Back Street Brewery",1131666077,4,3.5,4,"Dunkelweizen",4,4,"Dunkelweisse",NA,26865
+"27",4410,"Back Street Brewery",1245222222,3,3,3.5,"American IPA",3.5,3,"Hopopolis",7.1,29665
+"28",4410,"Back Street Brewery",1194494488,3.5,4,3.5,"American IPA",3.5,3.5,"Hopopolis",7.1,29665
+"29",4410,"Back Street Brewery",1173563999,4.5,4,4.5,"American IPA",4,4,"Hopopolis",7.1,29665
+"30",4410,"Back Street Brewery",1171547611,3,4.5,4.5,"American IPA",3.5,3.5,"Hopopolis",7.1,29665
+"31",4410,"Back Street Brewery",1170829463,4,4.5,3.5,"American IPA",4,4.5,"Hopopolis",7.1,29665
+"32",4410,"Back Street Brewery",1163803457,4.5,3.5,4,"American IPA",4.5,4.5,"Hopopolis",7.1,29665
+"33",4410,"Back Street Brewery",1145393925,4,3.5,4.5,"American IPA",4.5,4,"Hopopolis",7.1,29665
+"34",4410,"Back Street Brewery",1144275259,4.5,4,4,"American IPA",4,4.5,"Hopopolis",7.1,29665
+"35",4410,"Back Street Brewery",1275889030,2,2,3,"Tripel",2.5,2,"Tripel",NA,42171
+"36",4410,"Back Street Brewery",1208236489,3,2,3,"Tripel",3,3.5,"Tripel",NA,42171
+"37",4410,"Back Street Brewery",1208235371,2,2,2.5,"Cream Ale",3,2,"Cream Ale",NA,42170
+"38",4410,"Back Street Brewery",1208235779,2.5,2,3,"American Pale Wheat Ale",3,2.5,"Heritage Hefeweizen",NA,39667
+"39",4410,"Back Street Brewery",1195346629,3,3,3,"American Pale Wheat Ale",3,2.5,"Heritage Hefeweizen",NA,39667
+"40",4410,"Back Street Brewery",1284841491,3,4,3.5,"American Porter",2.5,3.5,"Vanilla Porter",NA,61333
+"41",4410,"Back Street Brewery",1282630597,3,4,3.5,"American Porter",3,3,"Vanilla Porter",NA,61333
+"42",4410,"Back Street Brewery",1284833773,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",6,31725
+"43",4410,"Back Street Brewery",1275889113,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Extra Special Bitter",6,31725
+"44",4410,"Back Street Brewery",1215646227,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Extra Special Bitter",6,31725
+"45",4410,"Back Street Brewery",1174712476,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",6,31725
+"46",4410,"Back Street Brewery",1174113939,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Extra Special Bitter",6,31725
+"47",4410,"Back Street Brewery",1153005888,5,4,5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Extra Special Bitter",6,31725
+"48",4410,"Back Street Brewery",1284841044,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Rambler",9,35890
+"49",4410,"Back Street Brewery",1283502943,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
+"50",4410,"Back Street Brewery",1190676054,4,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
+"51",4410,"Back Street Brewery",1174811175,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
+"52",4410,"Back Street Brewery",1174712018,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
+"53",4410,"Back Street Brewery",1174365024,5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890
+"54",4410,"Back Street Brewery",1174118574,5,4,4,"American Double / Imperial IPA",4,4.5,"Rambler",9,35890

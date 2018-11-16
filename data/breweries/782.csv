@@ -1,554 +1,521 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",782,"City Brewing Company, LLC",1233673676,3.5,4,3.5,"American Porter",3.5,3.5,"Winter Porter",NA,3151
 "2",782,"City Brewing Company, LLC",1278285928,2.5,2.5,3,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"3",782,"City Brewing Company, LLC",1271510287,3,3.5,3.5,"American Adjunct Lager",3,3,"Pennsylvania Style Ice Premium Beer",NA,52434
-"4",782,"City Brewing Company, LLC",1209000328,4,4,4,"American Amber / Red Lager",4.5,4.5,"Copper Flask",5.95,37997
-"5",782,"City Brewing Company, LLC",1261886916,2.5,1,3,"American Adjunct Lager",2.5,2,"Big City Lager",NA,33943
-"6",782,"City Brewing Company, LLC",1097633886,2.5,3,2.5,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
-"7",782,"City Brewing Company, LLC",1277589772,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"8",782,"City Brewing Company, LLC",1251166602,2.5,2.5,3,"American Pale Ale (APA)",2,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"9",782,"City Brewing Company, LLC",1272412799,3,2,2,"Light Lager",2,2.5,"Game Day Light",3.9,57897
-"10",782,"City Brewing Company, LLC",1255734291,2,2,3,"American Adjunct Lager",2.5,1.5,"Sturgis Beer",NA,52124
-"11",782,"City Brewing Company, LLC",1039605630,3,3,3.5,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
-"12",782,"City Brewing Company, LLC",1251232011,3,3,3.5,"American Adjunct Lager",3.5,3,"Sturgis Beer",NA,52124
-"13",782,"City Brewing Company, LLC",1118219745,2.5,2.5,2,"American Adjunct Lager",2,1.5,"Potosi Light",NA,17307
-"14",782,"City Brewing Company, LLC",1107389657,4.5,2.5,2.5,"American Adjunct Lager",3,3.5,"Potosi Light",NA,17307
-"15",782,"City Brewing Company, LLC",1083253537,3.5,2,2,"American Adjunct Lager",3.5,2,"Potosi Light",NA,17307
-"16",782,"City Brewing Company, LLC",1317446560,2.5,2,3,"American Adjunct Lager",2.5,2,"Silver Stallion Draft Beer",NA,73046
-"17",782,"City Brewing Company, LLC",1316908690,2.5,2,3,"American Adjunct Lager",3,2.5,"Silver Stallion Draft Beer",NA,73046
-"18",782,"City Brewing Company, LLC",1316747206,2.5,2,2.5,"American Adjunct Lager",2.5,2,"Silver Stallion Draft Beer",NA,73046
-"19",782,"City Brewing Company, LLC",1315774956,1.5,1.5,3,"American Adjunct Lager",1.5,1.5,"Silver Stallion Draft Beer",NA,73046
-"20",782,"City Brewing Company, LLC",1275426454,1.5,1.5,3,"American Adjunct Lager",3,1.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"21",782,"City Brewing Company, LLC",1262188938,3.5,3,2,"American Adjunct Lager",3,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"22",782,"City Brewing Company, LLC",1261779532,2,2,3,"American Adjunct Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"23",782,"City Brewing Company, LLC",1241922327,2,2,1.5,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"24",782,"City Brewing Company, LLC",1239663190,3,1,2,"American Adjunct Lager",1.5,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"25",782,"City Brewing Company, LLC",1219081117,2,2,2.5,"American Adjunct Lager",1.5,2,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"26",782,"City Brewing Company, LLC",1152989934,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"27",782,"City Brewing Company, LLC",1146539772,2,2.5,2,"American Adjunct Lager",2,1,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"28",782,"City Brewing Company, LLC",1128223167,3,2.5,3,"American Adjunct Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"29",782,"City Brewing Company, LLC",1120878303,1.5,2,1.5,"American Adjunct Lager",1.5,1.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
-"30",782,"City Brewing Company, LLC",1247529546,4,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Golden Leaf Wheat",NA,44902
-"31",782,"City Brewing Company, LLC",1246401874,3.5,3,4,"American Pale Wheat Ale",4,3.5,"Golden Leaf Wheat",NA,44902
-"32",782,"City Brewing Company, LLC",1239909146,3,3,3,"American Pale Wheat Ale",3,3,"Golden Leaf Wheat",NA,44902
-"33",782,"City Brewing Company, LLC",1221758526,4,3,3.5,"American Pale Wheat Ale",3.5,3,"Golden Leaf Wheat",NA,44902
-"34",782,"City Brewing Company, LLC",1225118870,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Golden Leaf Pale Ale",5.5,37009
-"35",782,"City Brewing Company, LLC",1216992956,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
-"36",782,"City Brewing Company, LLC",1211583069,4,4,3.5,"American Pale Ale (APA)",4,4,"Golden Leaf Pale Ale",5.5,37009
-"37",782,"City Brewing Company, LLC",1211139978,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Golden Leaf Pale Ale",5.5,37009
-"38",782,"City Brewing Company, LLC",1201217373,4,4,4,"American Pale Ale (APA)",4,3.5,"Golden Leaf Pale Ale",5.5,37009
-"39",782,"City Brewing Company, LLC",1197071451,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Golden Leaf Pale Ale",5.5,37009
-"40",782,"City Brewing Company, LLC",1193792392,4,3.5,3.5,"American Pale Ale (APA)",4,3,"Golden Leaf Pale Ale",5.5,37009
-"41",782,"City Brewing Company, LLC",1191363909,3,4,4,"American Pale Ale (APA)",3,3,"Golden Leaf Pale Ale",5.5,37009
-"42",782,"City Brewing Company, LLC",1268595159,4,3.5,4,"American Pale Lager",4,3.5,"LaCrosse Lager",4.8,8672
-"43",782,"City Brewing Company, LLC",1188428578,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
-"44",782,"City Brewing Company, LLC",1183599285,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Golden Leaf Pale Ale",5.5,37009
-"45",782,"City Brewing Company, LLC",1182712230,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
-"46",782,"City Brewing Company, LLC",1319500426,2.5,3,3,"Light Lager",2.5,2.5,"Game Day Light",3.9,57897
-"47",782,"City Brewing Company, LLC",1309334607,2,1.5,2,"Light Lager",1,2.5,"Game Day Light",3.9,57897
-"48",782,"City Brewing Company, LLC",1307394660,2,1.5,3,"Light Lager",1.5,2,"Game Day Light",3.9,57897
-"49",782,"City Brewing Company, LLC",1285488471,2,1,3,"Light Lager",2,2,"Game Day Light",3.9,57897
-"50",782,"City Brewing Company, LLC",1285244493,1.5,1.5,2,"Light Lager",1,1.5,"Game Day Light",3.9,57897
-"51",782,"City Brewing Company, LLC",1283127541,2.5,1.5,2.5,"Light Lager",2,2,"Game Day Light",3.9,57897
-"52",782,"City Brewing Company, LLC",1279733630,1,1,2,"Light Lager",1,1,"Game Day Light",3.9,57897
-"53",782,"City Brewing Company, LLC",1279502995,2.5,1.5,2.5,"Light Lager",3,2,"Game Day Light",3.9,57897
-"54",782,"City Brewing Company, LLC",1277230966,1.5,1.5,1,"Light Lager",1.5,1,"Game Day Light",3.9,57897
-"55",782,"City Brewing Company, LLC",1276833620,2.5,2.5,2,"Light Lager",3,2.5,"Game Day Light",3.9,57897
-"56",782,"City Brewing Company, LLC",1276629273,1,1,1,"Light Lager",3,1,"Game Day Light",3.9,57897
-"57",782,"City Brewing Company, LLC",1275451603,2,1.5,1.5,"Light Lager",2,1.5,"Game Day Light",3.9,57897
-"58",782,"City Brewing Company, LLC",1273977077,3.5,3,3,"Light Lager",2.5,2.5,"Game Day Light",3.9,57897
-"59",782,"City Brewing Company, LLC",1273042495,3,2,2.5,"Light Lager",3.5,2.5,"Game Day Light",3.9,57897
-"60",782,"City Brewing Company, LLC",1273033872,3,3,3,"Light Lager",2,2,"Game Day Light",3.9,57897
-"61",782,"City Brewing Company, LLC",1272600147,1,2,2,"Light Lager",2,2,"Game Day Light",3.9,57897
-"62",782,"City Brewing Company, LLC",1272598917,2,1,2,"Light Lager",1,1,"Game Day Light",3.9,57897
-"63",782,"City Brewing Company, LLC",1244576468,3.5,3,4,"English Dark Mild Ale",3.5,3,"S.L. Gregory's Dark Mild Ale",NA,45059
-"64",782,"City Brewing Company, LLC",1222653550,4,4,3.5,"English Dark Mild Ale",4.5,4.5,"S.L. Gregory's Dark Mild Ale",NA,45059
-"65",782,"City Brewing Company, LLC",1222558834,4,4,4,"English Dark Mild Ale",3,4,"S.L. Gregory's Dark Mild Ale",NA,45059
-"66",782,"City Brewing Company, LLC",1222489327,4,3.5,4,"English Dark Mild Ale",4,3.5,"S.L. Gregory's Dark Mild Ale",NA,45059
-"67",782,"City Brewing Company, LLC",1095266531,1.5,1.5,1.5,"Cream Ale",1.5,1.5,"Cream Ale",NA,3068
-"68",782,"City Brewing Company, LLC",1067993039,4.5,3.5,4,"Cream Ale",4,3.5,"Cream Ale",NA,3068
-"69",782,"City Brewing Company, LLC",1028576835,3.5,3.5,3.5,"Cream Ale",3.5,3.5,"Cream Ale",NA,3068
-"70",782,"City Brewing Company, LLC",1322784928,2.5,2,2.5,"American Malt Liquor",2.5,2.5,"Crazy Stallion",NA,7113
-"71",782,"City Brewing Company, LLC",1314658328,2,2.5,3,"American Malt Liquor",2,2,"Crazy Stallion",NA,7113
-"72",782,"City Brewing Company, LLC",1309721491,2,2,3.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
-"73",782,"City Brewing Company, LLC",1309655703,2.5,3,3,"American Malt Liquor",3,2,"Crazy Stallion",NA,7113
-"74",782,"City Brewing Company, LLC",1298230198,2,1,2.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
-"75",782,"City Brewing Company, LLC",1293161763,4.5,3,3.5,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
-"76",782,"City Brewing Company, LLC",1280896620,4,3,3,"American Malt Liquor",3.5,4,"Crazy Stallion",NA,7113
-"77",782,"City Brewing Company, LLC",1249278451,3,2.5,4,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
-"78",782,"City Brewing Company, LLC",1244851031,1.5,3.5,4,"American Malt Liquor",2,2,"Crazy Stallion",NA,7113
-"79",782,"City Brewing Company, LLC",1241059769,3.5,2.5,3,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
-"80",782,"City Brewing Company, LLC",1229029737,2.5,2.5,3,"American Malt Liquor",3,3.5,"Crazy Stallion",NA,7113
-"81",782,"City Brewing Company, LLC",1227586032,3,2,3.5,"American Malt Liquor",3.5,2.5,"Crazy Stallion",NA,7113
-"82",782,"City Brewing Company, LLC",1202176848,2,2,2,"American Pale Lager",2,2,"LaCrosse Lager",4.8,8672
-"83",782,"City Brewing Company, LLC",1221766551,2,2.5,3,"American Malt Liquor",2,3,"Crazy Stallion",NA,7113
-"84",782,"City Brewing Company, LLC",1211050071,3,2.5,2.5,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
-"85",782,"City Brewing Company, LLC",1207185451,3.5,3,3.5,"American Malt Liquor",3,4,"Crazy Stallion",NA,7113
-"86",782,"City Brewing Company, LLC",1206695096,2.5,2,3,"American Malt Liquor",3,2,"Crazy Stallion",NA,7113
-"87",782,"City Brewing Company, LLC",1202941302,2,1.5,3.5,"American Malt Liquor",2,1.5,"Crazy Stallion",NA,7113
-"88",782,"City Brewing Company, LLC",1200425744,2,2.5,2.5,"American Malt Liquor",2.5,3,"Crazy Stallion",NA,7113
-"89",782,"City Brewing Company, LLC",1169388041,2,2.5,2.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
-"90",782,"City Brewing Company, LLC",1154567852,2,1.5,2,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
-"91",782,"City Brewing Company, LLC",1283030104,2,2,2.5,"American Adjunct Lager",3,2,"Pennsylvania Style Ice Premium Beer",NA,52434
-"92",782,"City Brewing Company, LLC",1146701800,4,3.5,3,"American Malt Liquor",3.5,4,"Crazy Stallion",NA,7113
-"93",782,"City Brewing Company, LLC",1142431760,1.5,2,2,"American Malt Liquor",2,1,"Crazy Stallion",NA,7113
-"94",782,"City Brewing Company, LLC",1142227164,2,2.5,3,"American Malt Liquor",4,2.5,"Crazy Stallion",NA,7113
-"95",782,"City Brewing Company, LLC",1141417161,3.5,2.5,3,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
-"96",782,"City Brewing Company, LLC",1139420287,2,2,3,"American Malt Liquor",2,1.5,"Crazy Stallion",NA,7113
-"97",782,"City Brewing Company, LLC",1124725329,2,3,2.5,"American Malt Liquor",2.5,3,"Crazy Stallion",NA,7113
-"98",782,"City Brewing Company, LLC",1108694521,3.5,2,2.5,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
-"99",782,"City Brewing Company, LLC",1100057191,2,2,2.5,"American Malt Liquor",2.5,2.5,"Crazy Stallion",NA,7113
-"100",782,"City Brewing Company, LLC",1066531543,3,3,3.5,"American Malt Liquor",3.5,3,"Crazy Stallion",NA,7113
-"101",782,"City Brewing Company, LLC",1063994057,3.5,3,3,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
-"102",782,"City Brewing Company, LLC",1037301673,3.5,3,3,"American Malt Liquor",3,3.5,"Crazy Stallion",NA,7113
-"103",782,"City Brewing Company, LLC",1317183874,1.5,1.5,3,"American Malt Liquor",1.5,2,"Side Pocket High Gravity Ale",8.5,51915
-"104",782,"City Brewing Company, LLC",1316393191,3,3.5,3.5,"American Malt Liquor",3.5,3,"Side Pocket High Gravity Ale",8.5,51915
-"105",782,"City Brewing Company, LLC",1266362919,2,2.5,3,"American Malt Liquor",3,2,"Side Pocket High Gravity Ale",8.5,51915
-"106",782,"City Brewing Company, LLC",1250463601,1,2,3,"American Malt Liquor",2.5,1,"Side Pocket High Gravity Ale",8.5,51915
-"107",782,"City Brewing Company, LLC",1319156993,3,3,3.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"108",782,"City Brewing Company, LLC",1291347247,4.5,4,4,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
-"109",782,"City Brewing Company, LLC",1277431229,3,2.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"110",782,"City Brewing Company, LLC",1264551244,5,3.5,3.5,"American Pale Lager",4,3.5,"LaCrosse Lager",4.8,8672
-"111",782,"City Brewing Company, LLC",1264300655,3,3,3,"American Pale Lager",3,4,"LaCrosse Lager",4.8,8672
-"112",782,"City Brewing Company, LLC",1252105479,4,3.5,3.5,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
-"113",782,"City Brewing Company, LLC",1234455162,4,3,3,"American Pale Lager",3.5,3,"LaCrosse Lager",4.8,8672
-"114",782,"City Brewing Company, LLC",1233673539,3,3,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"115",782,"City Brewing Company, LLC",1233096121,5,3,3,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
-"116",782,"City Brewing Company, LLC",1224734684,2.5,2.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"117",782,"City Brewing Company, LLC",1218027054,2,2,1.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
-"118",782,"City Brewing Company, LLC",1215650697,3,3,2,"American Pale Lager",3,2.5,"LaCrosse Lager",4.8,8672
-"119",782,"City Brewing Company, LLC",1215572518,3,2.5,2.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
-"120",782,"City Brewing Company, LLC",1215405822,4.5,3.5,4,"American Pale Lager",4,4.5,"LaCrosse Lager",4.8,8672
-"121",782,"City Brewing Company, LLC",1210371758,4.5,3,3.5,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
-"122",782,"City Brewing Company, LLC",1195502714,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"123",782,"City Brewing Company, LLC",1191458951,3.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"124",782,"City Brewing Company, LLC",1190484903,4.5,3.5,4,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
-"125",782,"City Brewing Company, LLC",1187661640,3,2,3.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"126",782,"City Brewing Company, LLC",1184978653,5,3,4.5,"American Pale Lager",4,5,"LaCrosse Lager",4.8,8672
-"127",782,"City Brewing Company, LLC",1183174896,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"128",782,"City Brewing Company, LLC",1179978147,3.5,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"129",782,"City Brewing Company, LLC",1174759801,4.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"130",782,"City Brewing Company, LLC",1168124584,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"131",782,"City Brewing Company, LLC",1095909626,4,3.5,3.5,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
-"132",782,"City Brewing Company, LLC",1162697225,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"133",782,"City Brewing Company, LLC",1159620178,3,3,3.5,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"134",782,"City Brewing Company, LLC",1157559895,4,2.5,2.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"135",782,"City Brewing Company, LLC",1151434740,4,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"136",782,"City Brewing Company, LLC",1133271895,3,2.5,3,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
-"137",782,"City Brewing Company, LLC",1124657660,4,2.5,3.5,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
-"138",782,"City Brewing Company, LLC",1122783775,3.5,2.5,4,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"139",782,"City Brewing Company, LLC",1112498935,3.5,3.5,3,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
-"140",782,"City Brewing Company, LLC",1105549272,5,3.5,3,"American Pale Lager",4,4.5,"LaCrosse Lager",4.8,8672
-"141",782,"City Brewing Company, LLC",1105117131,3,3,4,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
-"142",782,"City Brewing Company, LLC",1092948321,3,3,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"143",782,"City Brewing Company, LLC",1084414647,3.5,3,3,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
-"144",782,"City Brewing Company, LLC",1075599198,3.5,2.5,2.5,"American Pale Lager",3.5,3,"LaCrosse Lager",4.8,8672
-"145",782,"City Brewing Company, LLC",1073852135,3.5,2.5,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
-"146",782,"City Brewing Company, LLC",1068435410,2.5,1.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
-"147",782,"City Brewing Company, LLC",1064931409,3.5,3,4,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"148",782,"City Brewing Company, LLC",1064793934,4,3,3,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"149",782,"City Brewing Company, LLC",1063506151,3.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
-"150",782,"City Brewing Company, LLC",1062140170,3.5,2,4,"American Pale Lager",2,1.5,"LaCrosse Lager",4.8,8672
-"151",782,"City Brewing Company, LLC",1057083185,4,2,2.5,"American Pale Lager",3,2.5,"LaCrosse Lager",4.8,8672
-"152",782,"City Brewing Company, LLC",1056223794,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
-"153",782,"City Brewing Company, LLC",1047154771,4.5,3.5,3.5,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
-"154",782,"City Brewing Company, LLC",1252367802,2,2.5,3,"American Adjunct Lager",3,2,"Pennsylvania Style Ice Premium Beer",NA,52434
-"155",782,"City Brewing Company, LLC",1312501894,3.5,2,2,"American Malt Liquor",3.5,3.5,"Dark Horse Ice",NA,49867
-"156",782,"City Brewing Company, LLC",1300668161,1.5,1.5,2,"American Malt Liquor",2,1.5,"Dark Horse Ice",NA,49867
-"157",782,"City Brewing Company, LLC",1294586678,2,2,4,"American Malt Liquor",4,1,"Dark Horse Ice",NA,49867
-"158",782,"City Brewing Company, LLC",1294279121,1.5,1.5,2,"American Malt Liquor",2,1,"Dark Horse Ice",NA,49867
-"159",782,"City Brewing Company, LLC",1293811457,3,3.5,3,"American Malt Liquor",3,3.5,"Dark Horse Ice",NA,49867
-"160",782,"City Brewing Company, LLC",1244758512,2,2,3,"American Malt Liquor",2,2,"Dark Horse Ice",NA,49867
-"161",782,"City Brewing Company, LLC",1242649499,2,2,3.5,"American Malt Liquor",1.5,1.5,"Dark Horse Ice",NA,49867
-"162",782,"City Brewing Company, LLC",1196446220,1,1,1.5,"American Adjunct Lager",1.5,1,"KUL",5,3654
-"163",782,"City Brewing Company, LLC",1218867088,2.5,2.5,3.5,"American Amber / Red Ale",3,3,"Amber Ale",NA,33390
-"164",782,"City Brewing Company, LLC",1059767232,1,1,1.5,"American Adjunct Lager",1,1,"KUL",5,3654
-"165",782,"City Brewing Company, LLC",1047588575,2,1,1.5,"American Adjunct Lager",1.5,1,"KUL",5,3654
-"166",782,"City Brewing Company, LLC",1031580166,3,2.5,3,"American Adjunct Lager",3,3,"KUL",5,3654
-"167",782,"City Brewing Company, LLC",1220275788,3,2.5,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
-"168",782,"City Brewing Company, LLC",1206650576,4.5,4,4,"American Adjunct Lager",3.5,4,"D.B. Hobbs Golden Lager",NA,38958
-"169",782,"City Brewing Company, LLC",1205717603,3,3,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
-"170",782,"City Brewing Company, LLC",1198254440,3,2,2,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
-"171",782,"City Brewing Company, LLC",1196565880,4.5,4,4.5,"American Adjunct Lager",4.5,4.5,"D.B. Hobbs Golden Lager",NA,38958
-"172",782,"City Brewing Company, LLC",1196281643,3.5,3,2.5,"American Adjunct Lager",4,3.5,"D.B. Hobbs Golden Lager",NA,38958
-"173",782,"City Brewing Company, LLC",1196281438,3,2.5,3,"American Adjunct Lager",3,3,"D.B. Hobbs Golden Lager",NA,38958
-"174",782,"City Brewing Company, LLC",1193194352,3,2.5,3,"American Adjunct Lager",3,3,"D.B. Hobbs Golden Lager",NA,38958
-"175",782,"City Brewing Company, LLC",1191715574,3,3.5,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
-"176",782,"City Brewing Company, LLC",1035751733,3,3,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
-"177",782,"City Brewing Company, LLC",1305225680,3.5,1.5,1.5,"Light Lager",3,3.5,"Pennsylvania Style Light Beer",NA,68986
-"178",782,"City Brewing Company, LLC",1238638952,3,3.5,3.5,"American Amber / Red Lager",3,3.5,"Copper Flask",5.95,37997
-"179",782,"City Brewing Company, LLC",1233687532,2.5,3,3,"American Amber / Red Lager",2.5,3.5,"Copper Flask",5.95,37997
-"180",782,"City Brewing Company, LLC",1228870666,3.5,3.5,3.5,"American Amber / Red Lager",3.5,4,"Copper Flask",5.95,37997
-"181",782,"City Brewing Company, LLC",1226037134,4,3,3,"American Amber / Red Lager",4,4,"Copper Flask",5.95,37997
-"182",782,"City Brewing Company, LLC",1221353131,3.5,3.5,4,"American Amber / Red Lager",3,3,"Copper Flask",5.95,37997
-"183",782,"City Brewing Company, LLC",1220567218,3,3,3.5,"American Amber / Red Lager",3.5,3,"Copper Flask",5.95,37997
-"184",782,"City Brewing Company, LLC",1216501704,2,3.5,3,"American Amber / Red Lager",2.5,2.5,"Copper Flask",5.95,37997
-"185",782,"City Brewing Company, LLC",1213246866,2,1.5,3,"American Amber / Red Lager",2,2,"Copper Flask",5.95,37997
-"186",782,"City Brewing Company, LLC",1211581495,4,3.5,4.5,"American Amber / Red Lager",3.5,4,"Copper Flask",5.95,37997
-"187",782,"City Brewing Company, LLC",1205437368,3.5,4.5,3,"American Amber / Red Lager",3.5,3.5,"Copper Flask",5.95,37997
-"188",782,"City Brewing Company, LLC",1192030213,4.5,4,4,"American Amber / Red Lager",4,4.5,"Copper Flask",5.95,37997
-"189",782,"City Brewing Company, LLC",1191037629,5,4.5,4,"American Amber / Red Lager",4,5,"Copper Flask",5.95,37997
-"190",782,"City Brewing Company, LLC",1189547587,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Copper Flask",5.95,37997
-"191",782,"City Brewing Company, LLC",1186091850,2.5,2,3,"American Amber / Red Lager",2.5,2.5,"Copper Flask",5.95,37997
-"192",782,"City Brewing Company, LLC",1313212521,2,2,1.5,"American Adjunct Lager",2,2.5,"Big City Lager",NA,33943
-"193",782,"City Brewing Company, LLC",1302295740,1.5,1,3,"American Adjunct Lager",2,1,"Big City Lager",NA,33943
-"194",782,"City Brewing Company, LLC",1212796514,2.5,1.5,2,"American Adjunct Lager",2,2.5,"Big City Lager",NA,33943
-"195",782,"City Brewing Company, LLC",1205523059,2.5,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Big City Lager",NA,33943
-"196",782,"City Brewing Company, LLC",1164422974,3,2,3.5,"American Adjunct Lager",3,2,"Big City Lager",NA,33943
-"197",782,"City Brewing Company, LLC",1274724805,2.5,3,3.5,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
-"198",782,"City Brewing Company, LLC",1205007705,2,3,3,"Märzen / Oktoberfest",2.5,3,"Festbier",NA,2605
-"199",782,"City Brewing Company, LLC",1204281811,2,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
-"200",782,"City Brewing Company, LLC",1176917764,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
-"201",782,"City Brewing Company, LLC",1165434985,2,2,2,"Märzen / Oktoberfest",2,2,"Festbier",NA,2605
-"202",782,"City Brewing Company, LLC",1164065600,3.5,3,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
-"203",782,"City Brewing Company, LLC",1161477359,2,2.5,3.5,"Märzen / Oktoberfest",2.5,2,"Festbier",NA,2605
-"204",782,"City Brewing Company, LLC",1158804335,4,3.5,4,"Märzen / Oktoberfest",3,3.5,"Festbier",NA,2605
-"205",782,"City Brewing Company, LLC",1071050276,4.5,3,2.5,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
-"206",782,"City Brewing Company, LLC",1139175646,2,2.5,3.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
-"207",782,"City Brewing Company, LLC",1133801036,3,2.5,3.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
-"208",782,"City Brewing Company, LLC",1133740803,3,2.5,2.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
-"209",782,"City Brewing Company, LLC",1130988279,3,2.5,3,"Märzen / Oktoberfest",2,2.5,"Festbier",NA,2605
-"210",782,"City Brewing Company, LLC",1129078136,3.5,3,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
-"211",782,"City Brewing Company, LLC",1128137138,3.5,4,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
-"212",782,"City Brewing Company, LLC",1104200465,4,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Festbier",NA,2605
-"213",782,"City Brewing Company, LLC",1099700629,3,2.5,3,"Märzen / Oktoberfest",2.5,3,"Festbier",NA,2605
-"214",782,"City Brewing Company, LLC",1098287343,3.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
-"215",782,"City Brewing Company, LLC",1097814426,3,2.5,3.5,"Märzen / Oktoberfest",3.5,3,"Festbier",NA,2605
-"216",782,"City Brewing Company, LLC",1031613374,4,3,4,"Märzen / Oktoberfest",3.5,3.5,"Festbier",NA,2605
-"217",782,"City Brewing Company, LLC",1030992187,4,3,4.5,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
-"218",782,"City Brewing Company, LLC",1011562010,3.5,4,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
-"219",782,"City Brewing Company, LLC",1306032016,4,4,4,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
-"220",782,"City Brewing Company, LLC",1299451004,3.5,2.5,4.5,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"221",782,"City Brewing Company, LLC",1298002851,3,2,4,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"222",782,"City Brewing Company, LLC",1297814510,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"223",782,"City Brewing Company, LLC",1297286143,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"224",782,"City Brewing Company, LLC",1292458652,3,3.5,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"225",782,"City Brewing Company, LLC",1288458423,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
-"226",782,"City Brewing Company, LLC",1286743177,3.5,2.5,3.5,"American Pale Ale (APA)",4,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"227",782,"City Brewing Company, LLC",1281485554,3,3,3,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"228",782,"City Brewing Company, LLC",1279525417,1,3.5,4,"American Pale Ale (APA)",1,1,"Moe's Backroom Pale Ale",5.7,36747
-"229",782,"City Brewing Company, LLC",1277435427,3,4,3,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"230",782,"City Brewing Company, LLC",1276544661,3,2,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"231",782,"City Brewing Company, LLC",1275772202,1.5,1.5,3,"American Pale Ale (APA)",1.5,1.5,"Moe's Backroom Pale Ale",5.7,36747
-"232",782,"City Brewing Company, LLC",1269036973,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"233",782,"City Brewing Company, LLC",1263011212,3,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"234",782,"City Brewing Company, LLC",1262545290,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"235",782,"City Brewing Company, LLC",1258935203,3,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"236",782,"City Brewing Company, LLC",1258247929,3.5,2.5,3,"American Pale Ale (APA)",4,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"237",782,"City Brewing Company, LLC",1256009793,3.5,3,4,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"238",782,"City Brewing Company, LLC",1255392026,2.5,3.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"239",782,"City Brewing Company, LLC",1255201922,2,3,2,"American Pale Ale (APA)",2,2,"Moe's Backroom Pale Ale",5.7,36747
-"240",782,"City Brewing Company, LLC",1249922790,2,2,3,"American Pale Ale (APA)",2.5,2,"Moe's Backroom Pale Ale",5.7,36747
-"241",782,"City Brewing Company, LLC",1248303925,3,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"242",782,"City Brewing Company, LLC",1245176232,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"243",782,"City Brewing Company, LLC",1244081774,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"244",782,"City Brewing Company, LLC",1243903994,2.5,2.5,3,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"245",782,"City Brewing Company, LLC",1242173189,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"246",782,"City Brewing Company, LLC",1241874818,4,4,3.5,"American Pale Ale (APA)",4,4,"Moe's Backroom Pale Ale",5.7,36747
-"247",782,"City Brewing Company, LLC",1241761393,4,3,2.5,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
-"248",782,"City Brewing Company, LLC",1241291475,2.5,3,3.5,"American Pale Ale (APA)",2.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"249",782,"City Brewing Company, LLC",1240015551,4,3,3.5,"American Pale Ale (APA)",4,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"250",782,"City Brewing Company, LLC",1237165582,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"251",782,"City Brewing Company, LLC",1235267164,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"252",782,"City Brewing Company, LLC",1232082914,3.5,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"253",782,"City Brewing Company, LLC",1231644213,3,2,3,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"254",782,"City Brewing Company, LLC",1228367434,3.5,2,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"255",782,"City Brewing Company, LLC",1226823518,3.5,2.5,2.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"256",782,"City Brewing Company, LLC",1223423443,2.5,3,3.5,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"257",782,"City Brewing Company, LLC",1223078863,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"258",782,"City Brewing Company, LLC",1220028344,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"259",782,"City Brewing Company, LLC",1219620113,3.5,3.5,4,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"260",782,"City Brewing Company, LLC",1218833326,4,3,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"261",782,"City Brewing Company, LLC",1218207139,4,3,3,"American Amber / Red Ale",3,4,"Amber Ale",NA,33390
-"262",782,"City Brewing Company, LLC",1218499652,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"263",782,"City Brewing Company, LLC",1218228135,3,4,3,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"264",782,"City Brewing Company, LLC",1217809478,4.5,3.5,3.5,"American Pale Ale (APA)",4.5,4.5,"Moe's Backroom Pale Ale",5.7,36747
-"265",782,"City Brewing Company, LLC",1215396581,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"266",782,"City Brewing Company, LLC",1214087019,2.5,3.5,3,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"267",782,"City Brewing Company, LLC",1210219248,4,2,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"268",782,"City Brewing Company, LLC",1207874508,3.5,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"269",782,"City Brewing Company, LLC",1207090165,2.5,2.5,2.5,"American Pale Ale (APA)",2.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"270",782,"City Brewing Company, LLC",1206565858,3.5,2,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"271",782,"City Brewing Company, LLC",1206069001,1.5,2,4,"American Pale Ale (APA)",2,1,"Moe's Backroom Pale Ale",5.7,36747
-"272",782,"City Brewing Company, LLC",1228182173,4,2.5,3,"Light Lager",3.5,3,"LaCrosse Light",NA,3372
-"273",782,"City Brewing Company, LLC",1205283789,3.5,2.5,3,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"274",782,"City Brewing Company, LLC",1204830049,3,3,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"275",782,"City Brewing Company, LLC",1203379646,3,3,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"276",782,"City Brewing Company, LLC",1202522024,3,3,4.5,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"277",782,"City Brewing Company, LLC",1202354605,4,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"278",782,"City Brewing Company, LLC",1200200283,4,2,4,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"279",782,"City Brewing Company, LLC",1198370630,3.5,3.5,4,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"280",782,"City Brewing Company, LLC",1197500192,3,3.5,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"281",782,"City Brewing Company, LLC",1195701634,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"282",782,"City Brewing Company, LLC",1195259343,5,4,4.5,"American Pale Ale (APA)",4,4.5,"Moe's Backroom Pale Ale",5.7,36747
-"283",782,"City Brewing Company, LLC",1195010439,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"284",782,"City Brewing Company, LLC",1194187466,2.5,2.5,4.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"285",782,"City Brewing Company, LLC",1191466451,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"286",782,"City Brewing Company, LLC",1190612396,3.5,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"287",782,"City Brewing Company, LLC",1190598040,3.5,3.5,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"288",782,"City Brewing Company, LLC",1189371984,2,3,3.5,"American Pale Ale (APA)",2.5,2,"Moe's Backroom Pale Ale",5.7,36747
-"289",782,"City Brewing Company, LLC",1187588888,3.5,2.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"290",782,"City Brewing Company, LLC",1186964395,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"291",782,"City Brewing Company, LLC",1186844683,4,2,3,"American Pale Ale (APA)",3,4,"Moe's Backroom Pale Ale",5.7,36747
-"292",782,"City Brewing Company, LLC",1184872493,2.5,2.5,3.5,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"293",782,"City Brewing Company, LLC",1132951615,3,2,1.5,"Light Lager",3,3,"LaCrosse Light",NA,3372
-"294",782,"City Brewing Company, LLC",1184458532,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"295",782,"City Brewing Company, LLC",1183519928,2,1.5,2,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
-"296",782,"City Brewing Company, LLC",1182385783,3,3,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"297",782,"City Brewing Company, LLC",1182124294,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"298",782,"City Brewing Company, LLC",1180512919,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
-"299",782,"City Brewing Company, LLC",1179539562,3,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
-"300",782,"City Brewing Company, LLC",1179366278,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
-"301",782,"City Brewing Company, LLC",1178751658,2.5,3,3,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
-"302",782,"City Brewing Company, LLC",1226866909,2.5,2.5,2.5,"American Amber / Red Lager",3,2.5,"150th Anniversary Beer",NA,45953
-"303",782,"City Brewing Company, LLC",1323906344,5,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"304",782,"City Brewing Company, LLC",1323303591,2.5,3,3,"American Malt Liquor",2,2.5,"Earthquake High Gravity Lager",12,51067
-"305",782,"City Brewing Company, LLC",1322194673,1,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"306",782,"City Brewing Company, LLC",1320446958,1,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"307",782,"City Brewing Company, LLC",1318123298,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"308",782,"City Brewing Company, LLC",1314559480,1,1,3,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"309",782,"City Brewing Company, LLC",1312490522,1.5,2.5,2.5,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
-"310",782,"City Brewing Company, LLC",1310305185,2,2.5,3,"American Malt Liquor",3,2,"Earthquake High Gravity Lager",12,51067
-"311",782,"City Brewing Company, LLC",1308974491,1,2,3,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
-"312",782,"City Brewing Company, LLC",1304059691,1,2.5,1,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
-"313",782,"City Brewing Company, LLC",1302910401,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"314",782,"City Brewing Company, LLC",1302494998,2.5,3,3.5,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
-"315",782,"City Brewing Company, LLC",1301435798,2,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"316",782,"City Brewing Company, LLC",1301177371,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"317",782,"City Brewing Company, LLC",1296718801,4,1,1.5,"American Malt Liquor",1,1.5,"Earthquake High Gravity Lager",12,51067
-"318",782,"City Brewing Company, LLC",1295733582,1.5,1.5,2,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
-"319",782,"City Brewing Company, LLC",1284853569,1.5,1,2.5,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
-"320",782,"City Brewing Company, LLC",1294994472,1,1.5,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"321",782,"City Brewing Company, LLC",1294425629,1,2.5,2,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
-"322",782,"City Brewing Company, LLC",1291768530,1.5,2,2.5,"American Malt Liquor",3,2,"Earthquake High Gravity Lager",12,51067
-"323",782,"City Brewing Company, LLC",1289231259,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"324",782,"City Brewing Company, LLC",1286639996,1,2,3.5,"American Malt Liquor",2,3,"Earthquake High Gravity Lager",12,51067
-"325",782,"City Brewing Company, LLC",1282119234,2,1.5,2,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
-"326",782,"City Brewing Company, LLC",1281624782,1.5,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"327",782,"City Brewing Company, LLC",1281286192,1,1,2.5,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"328",782,"City Brewing Company, LLC",1281099390,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"329",782,"City Brewing Company, LLC",1280992141,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"330",782,"City Brewing Company, LLC",1280882226,1,1,1.5,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"331",782,"City Brewing Company, LLC",1278286707,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"332",782,"City Brewing Company, LLC",1276034940,1,1,1.5,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
-"333",782,"City Brewing Company, LLC",1275504434,1,1.5,1,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
-"334",782,"City Brewing Company, LLC",1274499192,1,2.5,3,"American Malt Liquor",2,2,"Earthquake High Gravity Lager",12,51067
-"335",782,"City Brewing Company, LLC",1274483587,2,2.5,3,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
-"336",782,"City Brewing Company, LLC",1271067617,1.5,3,3.5,"American Malt Liquor",2.5,2,"Earthquake High Gravity Lager",12,51067
-"337",782,"City Brewing Company, LLC",1270961907,2.5,4,3,"American Malt Liquor",2.5,2.5,"Earthquake High Gravity Lager",12,51067
-"338",782,"City Brewing Company, LLC",1270868289,1.5,2,2,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
-"339",782,"City Brewing Company, LLC",1267895588,1,1.5,3,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
-"340",782,"City Brewing Company, LLC",1267427550,2,2.5,5,"American Malt Liquor",2.5,2.5,"Earthquake High Gravity Lager",12,51067
-"341",782,"City Brewing Company, LLC",1267402903,2,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"342",782,"City Brewing Company, LLC",1267398356,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
-"343",782,"City Brewing Company, LLC",1263075051,4,3.5,2,"American Malt Liquor",3,3.5,"Earthquake High Gravity Lager",12,51067
-"344",782,"City Brewing Company, LLC",1257479386,1,1,1,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
-"345",782,"City Brewing Company, LLC",1061744429,1,1,2,"American Malt Liquor",1,1,"City Slicker",NA,12258
-"346",782,"City Brewing Company, LLC",1257466639,1.5,1,3,"American Malt Liquor",3,1,"Earthquake High Gravity Lager",12,51067
-"347",782,"City Brewing Company, LLC",1254358745,3,4,4,"American Malt Liquor",3,3,"Earthquake High Gravity Lager",12,51067
-"348",782,"City Brewing Company, LLC",1253181000,2.5,1,2.5,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
-"349",782,"City Brewing Company, LLC",1252373870,2,2,2.5,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
-"350",782,"City Brewing Company, LLC",1251513868,1,2,2,"American Malt Liquor",2.5,1.5,"Earthquake High Gravity Lager",12,51067
-"351",782,"City Brewing Company, LLC",1248266758,1,2,3,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
-"352",782,"City Brewing Company, LLC",1247365870,2,3,3,"American Malt Liquor",3,2.5,"Earthquake High Gravity Lager",12,51067
-"353",782,"City Brewing Company, LLC",1222289626,2,2,2,"American Pale Wheat Ale",2,2,"Golden Leaf",NA,32944
-"354",782,"City Brewing Company, LLC",1220053894,3,4,4,"American Pale Wheat Ale",4,2.5,"Golden Leaf",NA,32944
-"355",782,"City Brewing Company, LLC",1218122854,3,3,2.5,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
-"356",782,"City Brewing Company, LLC",1217647028,3,3.5,4,"American Pale Wheat Ale",3,2.5,"Golden Leaf",NA,32944
-"357",782,"City Brewing Company, LLC",1215833735,3.5,3,4,"American Pale Wheat Ale",3,3.5,"Golden Leaf",NA,32944
-"358",782,"City Brewing Company, LLC",1209356858,3.5,3.5,3,"American Pale Wheat Ale",2.5,3,"Golden Leaf",NA,32944
-"359",782,"City Brewing Company, LLC",1208040671,4,2,4,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
-"360",782,"City Brewing Company, LLC",1192667480,4,4,3.5,"American Pale Wheat Ale",5,3,"Golden Leaf",NA,32944
-"361",782,"City Brewing Company, LLC",1190922030,5,3,4,"American Pale Wheat Ale",4.5,4,"Golden Leaf",NA,32944
-"362",782,"City Brewing Company, LLC",1183417586,3,3.5,3,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
-"363",782,"City Brewing Company, LLC",1183229811,2.5,3,3,"American Pale Wheat Ale",3,2.5,"Golden Leaf",NA,32944
-"364",782,"City Brewing Company, LLC",1316493133,3.5,3.5,1.5,"American Adjunct Lager",1.5,3,"Big City Ice",5.9,41957
-"365",782,"City Brewing Company, LLC",1181764392,4,3,3,"American Pale Wheat Ale",3.5,3,"Golden Leaf",NA,32944
-"366",782,"City Brewing Company, LLC",1181499402,2,2.5,2.5,"American Pale Wheat Ale",2.5,2.5,"Golden Leaf",NA,32944
-"367",782,"City Brewing Company, LLC",1175213855,3,2,4,"American Pale Wheat Ale",2.5,3,"Golden Leaf",NA,32944
-"368",782,"City Brewing Company, LLC",1170401452,3,3,3,"American Pale Wheat Ale",3,4,"Golden Leaf",NA,32944
-"369",782,"City Brewing Company, LLC",1159297078,3,2.5,3.5,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
-"370",782,"City Brewing Company, LLC",1308183867,2.5,2,3,"Light Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"371",782,"City Brewing Company, LLC",1271255934,3.5,3,2.5,"Light Lager",3,3,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"372",782,"City Brewing Company, LLC",1257292927,3,2.5,3,"American Adjunct Lager",3,3,"Big City Ice",5.9,41957
-"373",782,"City Brewing Company, LLC",1261783349,2,2.5,3,"Light Lager",2,3,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"374",782,"City Brewing Company, LLC",1159190953,1,1,2,"Light Lager",3,2,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"375",782,"City Brewing Company, LLC",1158500204,3,2,3,"Light Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"376",782,"City Brewing Company, LLC",1128097405,3,2.5,3,"Light Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"377",782,"City Brewing Company, LLC",1122604782,1,1.5,1.5,"Light Lager",2,1.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
-"378",782,"City Brewing Company, LLC",1159713191,3.5,3,3.5,"American Malt Liquor",3.5,3.5,"City Slicker",NA,12258
-"379",782,"City Brewing Company, LLC",1125540298,4,3.5,3.5,"American Malt Liquor",3.5,4,"City Slicker",NA,12258
-"380",782,"City Brewing Company, LLC",1099149136,3.5,3,3,"American Malt Liquor",3.5,3,"City Slicker",NA,12258
-"381",782,"City Brewing Company, LLC",1076364092,2.5,3,3,"American Malt Liquor",3,3,"City Slicker",NA,12258
-"382",782,"City Brewing Company, LLC",1256333909,1,2.5,2,"American Adjunct Lager",3.5,2,"Big City Ice",5.9,41957
-"383",782,"City Brewing Company, LLC",1218603934,3.5,3,3,"American Adjunct Lager",3.5,3,"Big City Ice",5.9,41957
-"384",782,"City Brewing Company, LLC",1207268501,2.5,1,4,"American Adjunct Lager",3,2.5,"Big City Ice",5.9,41957
-"385",782,"City Brewing Company, LLC",1325276838,3,3.5,3.5,"American Adjunct Lager",3,3,"Silver Stallion Ice",NA,76877
-"386",782,"City Brewing Company, LLC",1216380773,2,1.5,2,"Light Lager",1.5,2,"D.B. Hobbs Golden Light",NA,39587
-"387",782,"City Brewing Company, LLC",1214087644,2.5,2,2.5,"Light Lager",2.5,2.5,"D.B. Hobbs Golden Light",NA,39587
-"388",782,"City Brewing Company, LLC",1210545973,1,2,2.5,"Light Lager",1.5,1,"D.B. Hobbs Golden Light",NA,39587
-"389",782,"City Brewing Company, LLC",1196448666,3,2.5,3,"Light Lager",3,2.5,"D.B. Hobbs Golden Light",NA,39587
-"390",782,"City Brewing Company, LLC",1194832165,2,2.5,2.5,"Light Lager",2,2.5,"D.B. Hobbs Golden Light",NA,39587
-"391",782,"City Brewing Company, LLC",1306959307,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"392",782,"City Brewing Company, LLC",1228805863,1,1,3,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"393",782,"City Brewing Company, LLC",1217429491,1,1.5,1,"American Malt Liquor",1,1.5,"Pit Bull",10.2,32690
-"394",782,"City Brewing Company, LLC",1195487487,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"395",782,"City Brewing Company, LLC",1194808829,1,1,2,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"396",782,"City Brewing Company, LLC",1194563218,1,1,2,"American Malt Liquor",1.5,1,"Pit Bull",10.2,32690
-"397",782,"City Brewing Company, LLC",1188332978,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"398",782,"City Brewing Company, LLC",1179359457,1.5,1,1.5,"American Malt Liquor",1.5,1.5,"Pit Bull",10.2,32690
-"399",782,"City Brewing Company, LLC",1177814818,1,1.5,2,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"400",782,"City Brewing Company, LLC",1171945389,1,2,1.5,"American Malt Liquor",1.5,1,"Pit Bull",10.2,32690
-"401",782,"City Brewing Company, LLC",1167104544,1,2.5,3,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
-"402",782,"City Brewing Company, LLC",1165353773,2,1.5,3,"American Malt Liquor",2,1.5,"Pit Bull",10.2,32690
-"403",782,"City Brewing Company, LLC",1157902822,1.5,1.5,2,"American Malt Liquor",1.5,1.5,"Pit Bull",10.2,32690
-"404",782,"City Brewing Company, LLC",1186090146,3.5,2.5,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
-"405",782,"City Brewing Company, LLC",1104105857,3.5,3,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
-"406",782,"City Brewing Company, LLC",1095314512,2,2.5,2.5,"American Adjunct Lager",2.5,2,"City Lager",NA,3405
-"407",782,"City Brewing Company, LLC",1070042623,3,2,2.5,"American Adjunct Lager",3,2.5,"City Lager",NA,3405
-"408",782,"City Brewing Company, LLC",1056714692,2.5,2.5,3.5,"American Adjunct Lager",2,2.5,"City Lager",NA,3405
-"409",782,"City Brewing Company, LLC",1043340610,3,3,3,"American Adjunct Lager",3.5,3,"City Lager",NA,3405
-"410",782,"City Brewing Company, LLC",1043156858,3,2,3,"American Adjunct Lager",3,2,"City Lager",NA,3405
-"411",782,"City Brewing Company, LLC",1027383772,3.5,2,4.5,"American Adjunct Lager",3,3,"City Lager",NA,3405
-"412",782,"City Brewing Company, LLC",1022276414,3,2.5,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
-"413",782,"City Brewing Company, LLC",1019075310,3,2,3.5,"American Adjunct Lager",3,2.5,"City Lager",NA,3405
-"414",782,"City Brewing Company, LLC",1279841012,2.5,2,2.5,"Light Lager",2,2,"Kul Light",NA,6898
-"415",782,"City Brewing Company, LLC",1131389988,1.5,1.5,1.5,"Light Lager",1.5,1.5,"Kul Light",NA,6898
-"416",782,"City Brewing Company, LLC",1036099507,1.5,2,2,"Light Lager",1,2,"Kul Light",NA,6898
-"417",782,"City Brewing Company, LLC",1095450503,3.5,4,4,"American Pale Ale (APA)",4,3.5,"City Pale Ale",5.5,3470
-"418",782,"City Brewing Company, LLC",1203954481,2,2,2.5,"American Amber / Red Ale",2,2,"Amber Ale",NA,33390
-"419",782,"City Brewing Company, LLC",1198545587,4.5,4,3,"American Amber / Red Ale",4,4.5,"Amber Ale",NA,33390
-"420",782,"City Brewing Company, LLC",1161644140,4.5,2.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber Ale",NA,33390
-"421",782,"City Brewing Company, LLC",1323655122,2,2.5,2.5,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"422",782,"City Brewing Company, LLC",1296516738,3,2,2.5,"American Adjunct Lager",4,2.5,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"423",782,"City Brewing Company, LLC",1293249060,2,2.5,3,"American Adjunct Lager",2.5,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"424",782,"City Brewing Company, LLC",1293176148,1.5,2.5,3,"American Adjunct Lager",1.5,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"425",782,"City Brewing Company, LLC",1286927924,1,2,2,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"426",782,"City Brewing Company, LLC",1263052523,3,3,3,"American Adjunct Lager",3,3,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"427",782,"City Brewing Company, LLC",1261830813,2,3,3,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"428",782,"City Brewing Company, LLC",1242052565,5,3,5,"American Adjunct Lager",4,4,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"429",782,"City Brewing Company, LLC",1207693528,1,1,2,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"430",782,"City Brewing Company, LLC",1160691847,2,1,3.5,"American Adjunct Lager",2,1.5,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"431",782,"City Brewing Company, LLC",1158354714,3.5,2.5,4,"American Adjunct Lager",4,3,"Milwaukee Premium Brewing Company Classic Ice",6,32756
-"432",782,"City Brewing Company, LLC",1325855196,2.5,2.5,3,"Light Lager",3,2,"LaCrosse Light",NA,3372
-"433",782,"City Brewing Company, LLC",1298566261,4,3.5,3,"Light Lager",4,3.5,"LaCrosse Light",NA,3372
-"434",782,"City Brewing Company, LLC",1279843905,3,2,3,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
-"435",782,"City Brewing Company, LLC",1253971186,3.5,2.5,3.5,"Light Lager",3,3.5,"LaCrosse Light",NA,3372
-"436",782,"City Brewing Company, LLC",1232281024,3.5,2.5,3,"Light Lager",3,3,"LaCrosse Light",NA,3372
-"437",782,"City Brewing Company, LLC",1074557876,2,2,3,"American Malt Liquor",2.5,2,"Lucky Number High Gravity Lager",8.2,11956
-"438",782,"City Brewing Company, LLC",1225252317,3,2.5,3,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
-"439",782,"City Brewing Company, LLC",1216841599,5,5,5,"Light Lager",5,5,"LaCrosse Light",NA,3372
-"440",782,"City Brewing Company, LLC",1215998276,1,1,2,"Light Lager",1,1,"LaCrosse Light",NA,3372
-"441",782,"City Brewing Company, LLC",1201142744,4.5,4,3.5,"Light Lager",5,4.5,"LaCrosse Light",NA,3372
-"442",782,"City Brewing Company, LLC",1200545885,2,1.5,2,"Light Lager",2,1,"LaCrosse Light",NA,3372
-"443",782,"City Brewing Company, LLC",1193328911,1.5,2,2,"Light Lager",1.5,1.5,"LaCrosse Light",NA,3372
-"444",782,"City Brewing Company, LLC",1190483644,4,3,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
-"445",782,"City Brewing Company, LLC",1165951549,3,3,3,"Light Lager",3,3,"LaCrosse Light",NA,3372
-"446",782,"City Brewing Company, LLC",1164298022,3.5,2.5,3,"Light Lager",3.5,3,"LaCrosse Light",NA,3372
-"447",782,"City Brewing Company, LLC",1156870947,3.5,2.5,2,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
-"448",782,"City Brewing Company, LLC",1124662812,4,2.5,4,"Light Lager",3,3.5,"LaCrosse Light",NA,3372
-"449",782,"City Brewing Company, LLC",1083034994,4,2.5,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
-"450",782,"City Brewing Company, LLC",1081453526,2.5,3,2,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
-"451",782,"City Brewing Company, LLC",1073572981,3,3.5,3,"Light Lager",3,2.5,"LaCrosse Light",NA,3372
-"452",782,"City Brewing Company, LLC",1023485861,3.5,2.5,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
-"453",782,"City Brewing Company, LLC",1018804121,3,2.5,2.5,"Light Lager",3,2.5,"LaCrosse Light",NA,3372
-"454",782,"City Brewing Company, LLC",1233673639,3.5,3,4,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
-"455",782,"City Brewing Company, LLC",1229984693,2,3.5,3.5,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"456",782,"City Brewing Company, LLC",1227237885,2.5,3,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
-"457",782,"City Brewing Company, LLC",1217197363,4.5,4,3.5,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
-"458",782,"City Brewing Company, LLC",1205006842,2,2,3,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
-"459",782,"City Brewing Company, LLC",1203923808,2,3.5,3.5,"American Pale Ale (APA)",2,2,"City Pale Ale",5.5,3470
-"460",782,"City Brewing Company, LLC",1191097986,2.5,3.5,4,"American Pale Ale (APA)",2.5,3,"City Pale Ale",5.5,3470
-"461",782,"City Brewing Company, LLC",1189820280,4.5,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
-"462",782,"City Brewing Company, LLC",1185404800,4.5,3.5,4,"American Pale Ale (APA)",4.5,4,"City Pale Ale",5.5,3470
-"463",782,"City Brewing Company, LLC",1183227433,4,4,4,"American Pale Ale (APA)",4,4.5,"City Pale Ale",5.5,3470
-"464",782,"City Brewing Company, LLC",1177776998,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"City Pale Ale",5.5,3470
-"465",782,"City Brewing Company, LLC",1172482033,3,3,3,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
-"466",782,"City Brewing Company, LLC",1170727513,2,3,3.5,"American Pale Ale (APA)",2.5,2.5,"City Pale Ale",5.5,3470
-"467",782,"City Brewing Company, LLC",1168301099,2.5,3,4,"American Pale Ale (APA)",3.5,2.5,"City Pale Ale",5.5,3470
-"468",782,"City Brewing Company, LLC",1164860648,3,3.5,3.5,"American Pale Ale (APA)",2.5,2,"City Pale Ale",5.5,3470
-"469",782,"City Brewing Company, LLC",1162351439,3,3,3,"American Pale Ale (APA)",2.5,3,"City Pale Ale",5.5,3470
-"470",782,"City Brewing Company, LLC",1162006717,3,2.5,2.5,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"471",782,"City Brewing Company, LLC",1160970374,2.5,1.5,3,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"472",782,"City Brewing Company, LLC",1160271416,2,2,4,"American Pale Ale (APA)",3,2,"City Pale Ale",5.5,3470
-"473",782,"City Brewing Company, LLC",1159487029,2.5,2.5,4,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"474",782,"City Brewing Company, LLC",1156890337,2,3,4,"American Pale Ale (APA)",2.5,2.5,"City Pale Ale",5.5,3470
-"475",782,"City Brewing Company, LLC",1155712001,4,4,3.5,"American Pale Ale (APA)",3,4,"City Pale Ale",5.5,3470
-"476",782,"City Brewing Company, LLC",1147559840,3.5,4,3.5,"American Pale Ale (APA)",3.5,4.5,"City Pale Ale",5.5,3470
-"477",782,"City Brewing Company, LLC",1139413419,3,2.5,4,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"478",782,"City Brewing Company, LLC",1103987169,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
-"479",782,"City Brewing Company, LLC",1091255820,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
-"480",782,"City Brewing Company, LLC",1076863045,2.5,2.5,3,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
-"481",782,"City Brewing Company, LLC",1062039194,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
-"482",782,"City Brewing Company, LLC",1057649618,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
-"483",782,"City Brewing Company, LLC",1053792376,4,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
-"484",782,"City Brewing Company, LLC",1053638755,3,4,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
-"485",782,"City Brewing Company, LLC",1053432105,3,3,4,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
-"486",782,"City Brewing Company, LLC",1052777353,3.5,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
-"487",782,"City Brewing Company, LLC",1052409731,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
-"488",782,"City Brewing Company, LLC",1044193532,4.5,4,4,"American Pale Ale (APA)",4.5,4,"City Pale Ale",5.5,3470
-"489",782,"City Brewing Company, LLC",1037754575,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"City Pale Ale",5.5,3470
-"490",782,"City Brewing Company, LLC",1292878698,1.5,2,2,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
-"491",782,"City Brewing Company, LLC",1288558936,1,1,1.5,"American Malt Liquor",1,1,"Lucky Number High Gravity Lager",8.2,11956
-"492",782,"City Brewing Company, LLC",1273975374,2,2,2,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
-"493",782,"City Brewing Company, LLC",1258073089,2,3,3.5,"American Malt Liquor",3,2,"Lucky Number High Gravity Lager",8.2,11956
-"494",782,"City Brewing Company, LLC",1245720015,1.5,1.5,4,"American Malt Liquor",1.5,1,"Lucky Number High Gravity Lager",8.2,11956
-"495",782,"City Brewing Company, LLC",1238795398,2,2,3,"American Malt Liquor",2,1,"Lucky Number High Gravity Lager",8.2,11956
-"496",782,"City Brewing Company, LLC",1203263694,1.5,2,2,"American Malt Liquor",2,1.5,"Lucky Number High Gravity Lager",8.2,11956
-"497",782,"City Brewing Company, LLC",1158610053,1,2,2,"American Malt Liquor",1,1,"Lucky Number High Gravity Lager",8.2,11956
-"498",782,"City Brewing Company, LLC",1125513773,2.5,2,3,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
-"499",782,"City Brewing Company, LLC",1317531016,2,1.5,2.5,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
-"500",782,"City Brewing Company, LLC",1313450389,2,2,3,"American Adjunct Lager",2.5,2.5,"Game Day Ice",5.5,57899
-"501",782,"City Brewing Company, LLC",1309335515,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
-"502",782,"City Brewing Company, LLC",1307311934,2,2,3,"American Adjunct Lager",2.5,1.5,"Game Day Ice",5.5,57899
-"503",782,"City Brewing Company, LLC",1304040309,2,1.5,2,"American Adjunct Lager",2.5,2,"Game Day Ice",5.5,57899
-"504",782,"City Brewing Company, LLC",1303975569,1,1,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
-"505",782,"City Brewing Company, LLC",1301637159,1,1,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
-"506",782,"City Brewing Company, LLC",1298092688,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
-"507",782,"City Brewing Company, LLC",1287785643,3,2,3,"American Adjunct Lager",3,3,"Pennsylvania Style Lager Beer",NA,62814
-"508",782,"City Brewing Company, LLC",1297845028,1.5,1.5,3,"American Adjunct Lager",2.5,1,"Game Day Ice",5.5,57899
-"509",782,"City Brewing Company, LLC",1297313569,1,1,2.5,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
-"510",782,"City Brewing Company, LLC",1293934702,3,1.5,2.5,"American Adjunct Lager",2,2,"Game Day Ice",5.5,57899
-"511",782,"City Brewing Company, LLC",1293765332,3,1.5,1.5,"American Adjunct Lager",2.5,1.5,"Game Day Ice",5.5,57899
-"512",782,"City Brewing Company, LLC",1292183101,1.5,2.5,2,"American Adjunct Lager",1.5,2,"Game Day Ice",5.5,57899
-"513",782,"City Brewing Company, LLC",1286914008,1,2,2.5,"American Adjunct Lager",1.5,1.5,"Game Day Ice",5.5,57899
-"514",782,"City Brewing Company, LLC",1285244598,1.5,1.5,1.5,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
-"515",782,"City Brewing Company, LLC",1283128112,2,1.5,2,"American Adjunct Lager",2,2.5,"Game Day Ice",5.5,57899
-"516",782,"City Brewing Company, LLC",1282964489,1,1.5,2,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
-"517",782,"City Brewing Company, LLC",1280452852,1.5,1.5,2,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
-"518",782,"City Brewing Company, LLC",1279739000,1,1,3,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
-"519",782,"City Brewing Company, LLC",1279505350,2,2,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
-"520",782,"City Brewing Company, LLC",1277254250,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
-"521",782,"City Brewing Company, LLC",1277230791,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
-"522",782,"City Brewing Company, LLC",1276939284,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Game Day Ice",5.5,57899
-"523",782,"City Brewing Company, LLC",1276628921,1,1,1,"American Adjunct Lager",3,1.5,"Game Day Ice",5.5,57899
-"524",782,"City Brewing Company, LLC",1273844617,3,2,2.5,"American Adjunct Lager",2,2,"Game Day Ice",5.5,57899
-"525",782,"City Brewing Company, LLC",1272600440,2.5,2,2,"American Adjunct Lager",2,2.5,"Game Day Ice",5.5,57899
-"526",782,"City Brewing Company, LLC",1272413193,2,1.5,2,"American Adjunct Lager",1.5,1.5,"Game Day Ice",5.5,57899
-"527",782,"City Brewing Company, LLC",1294808888,1,1,1,"American Adjunct Lager",1,1,"Pennsylvania Style Lager Beer",NA,62814
-"528",782,"City Brewing Company, LLC",1292182192,3.5,3,3,"American Adjunct Lager",4,4,"Pennsylvania Style Lager Beer",NA,62814
-"529",782,"City Brewing Company, LLC",1218668311,3.5,3,3.5,"American Porter",3.5,3.5,"Winter Porter",NA,3151
-"530",782,"City Brewing Company, LLC",1210889257,4,3.5,4,"American Porter",4,4,"Winter Porter",NA,3151
-"531",782,"City Brewing Company, LLC",1174329684,3.5,3,4,"American Porter",3,3,"Winter Porter",NA,3151
-"532",782,"City Brewing Company, LLC",1172470109,3,3,3,"American Porter",2,3.5,"Winter Porter",NA,3151
-"533",782,"City Brewing Company, LLC",1170428855,3.5,3,4,"American Porter",3.5,3.5,"Winter Porter",NA,3151
-"534",782,"City Brewing Company, LLC",1156458299,3,3.5,4,"American Porter",3,3,"Winter Porter",NA,3151
-"535",782,"City Brewing Company, LLC",1145387464,3,4,3,"American Porter",1.5,3,"Winter Porter",NA,3151
-"536",782,"City Brewing Company, LLC",1143166713,2.5,2.5,3.5,"American Porter",3,2.5,"Winter Porter",NA,3151
-"537",782,"City Brewing Company, LLC",1138679372,3,2,4,"American Porter",2,2.5,"Winter Porter",NA,3151
-"538",782,"City Brewing Company, LLC",1111756673,3,2.5,4,"American Porter",3,3.5,"Winter Porter",NA,3151
-"539",782,"City Brewing Company, LLC",1109125207,3,2.5,3.5,"American Porter",2.5,3,"Winter Porter",NA,3151
-"540",782,"City Brewing Company, LLC",1104635670,3.5,3,3.5,"American Porter",3,3.5,"Winter Porter",NA,3151
-"541",782,"City Brewing Company, LLC",1101316728,3.5,2.5,3,"American Porter",2.5,3,"Winter Porter",NA,3151
-"542",782,"City Brewing Company, LLC",1099785365,3,3.5,3,"American Porter",2.5,3,"Winter Porter",NA,3151
-"543",782,"City Brewing Company, LLC",1095108761,3.5,3.5,3.5,"American Porter",3.5,3.5,"Winter Porter",NA,3151
-"544",782,"City Brewing Company, LLC",1089594076,3.5,3,4,"American Porter",3.5,3,"Winter Porter",NA,3151
-"545",782,"City Brewing Company, LLC",1073788853,3,3,4,"American Porter",2.5,3,"Winter Porter",NA,3151
-"546",782,"City Brewing Company, LLC",1062087023,3.5,3,3.5,"American Porter",4,3,"Winter Porter",NA,3151
-"547",782,"City Brewing Company, LLC",1054394409,3,3,3.5,"American Porter",2.5,2.5,"Winter Porter",NA,3151
-"548",782,"City Brewing Company, LLC",1044430222,3.5,3.5,3.5,"American Porter",3,3.5,"Winter Porter",NA,3151
-"549",782,"City Brewing Company, LLC",1041954457,3,2.5,3,"American Porter",3,2.5,"Winter Porter",NA,3151
-"550",782,"City Brewing Company, LLC",1040076521,3,2.5,3.5,"American Porter",2,2.5,"Winter Porter",NA,3151
-"551",782,"City Brewing Company, LLC",1019858810,3,2.5,3.5,"American Porter",2.5,3.5,"Winter Porter",NA,3151
-"552",782,"City Brewing Company, LLC",1019155663,3.5,2.5,4,"American Porter",3,3.5,"Winter Porter",NA,3151
-"553",782,"City Brewing Company, LLC",1017191554,3,3,3.5,"American Porter",3,3,"Winter Porter",NA,3151
+"3",782,"City Brewing Company, LLC",1209000328,4,4,4,"American Amber / Red Lager",4.5,4.5,"Copper Flask",5.95,37997
+"4",782,"City Brewing Company, LLC",1261886916,2.5,1,3,"American Adjunct Lager",2.5,2,"Big City Lager",NA,33943
+"5",782,"City Brewing Company, LLC",1097633886,2.5,3,2.5,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
+"6",782,"City Brewing Company, LLC",1277589772,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"7",782,"City Brewing Company, LLC",1251166602,2.5,2.5,3,"American Pale Ale (APA)",2,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"8",782,"City Brewing Company, LLC",1272412799,3,2,2,"Light Lager",2,2.5,"Game Day Light",3.9,57897
+"9",782,"City Brewing Company, LLC",1039605630,3,3,3.5,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
+"10",782,"City Brewing Company, LLC",1275426454,1.5,1.5,3,"American Adjunct Lager",3,1.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"11",782,"City Brewing Company, LLC",1262188938,3.5,3,2,"American Adjunct Lager",3,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"12",782,"City Brewing Company, LLC",1261779532,2,2,3,"American Adjunct Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"13",782,"City Brewing Company, LLC",1241922327,2,2,1.5,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"14",782,"City Brewing Company, LLC",1239663190,3,1,2,"American Adjunct Lager",1.5,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"15",782,"City Brewing Company, LLC",1219081117,2,2,2.5,"American Adjunct Lager",1.5,2,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"16",782,"City Brewing Company, LLC",1152989934,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"17",782,"City Brewing Company, LLC",1146539772,2,2.5,2,"American Adjunct Lager",2,1,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"18",782,"City Brewing Company, LLC",1128223167,3,2.5,3,"American Adjunct Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"19",782,"City Brewing Company, LLC",1120878303,1.5,2,1.5,"American Adjunct Lager",1.5,1.5,"Milwaukee Premium Brewing Company Classic Lager",NA,24580
+"20",782,"City Brewing Company, LLC",1225118870,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Golden Leaf Pale Ale",5.5,37009
+"21",782,"City Brewing Company, LLC",1216992956,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
+"22",782,"City Brewing Company, LLC",1211583069,4,4,3.5,"American Pale Ale (APA)",4,4,"Golden Leaf Pale Ale",5.5,37009
+"23",782,"City Brewing Company, LLC",1211139978,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Golden Leaf Pale Ale",5.5,37009
+"24",782,"City Brewing Company, LLC",1201217373,4,4,4,"American Pale Ale (APA)",4,3.5,"Golden Leaf Pale Ale",5.5,37009
+"25",782,"City Brewing Company, LLC",1197071451,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Golden Leaf Pale Ale",5.5,37009
+"26",782,"City Brewing Company, LLC",1193792392,4,3.5,3.5,"American Pale Ale (APA)",4,3,"Golden Leaf Pale Ale",5.5,37009
+"27",782,"City Brewing Company, LLC",1191363909,3,4,4,"American Pale Ale (APA)",3,3,"Golden Leaf Pale Ale",5.5,37009
+"28",782,"City Brewing Company, LLC",1268595159,4,3.5,4,"American Pale Lager",4,3.5,"LaCrosse Lager",4.8,8672
+"29",782,"City Brewing Company, LLC",1188428578,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
+"30",782,"City Brewing Company, LLC",1183599285,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Golden Leaf Pale Ale",5.5,37009
+"31",782,"City Brewing Company, LLC",1182712230,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Golden Leaf Pale Ale",5.5,37009
+"32",782,"City Brewing Company, LLC",1319500426,2.5,3,3,"Light Lager",2.5,2.5,"Game Day Light",3.9,57897
+"33",782,"City Brewing Company, LLC",1309334607,2,1.5,2,"Light Lager",1,2.5,"Game Day Light",3.9,57897
+"34",782,"City Brewing Company, LLC",1307394660,2,1.5,3,"Light Lager",1.5,2,"Game Day Light",3.9,57897
+"35",782,"City Brewing Company, LLC",1285488471,2,1,3,"Light Lager",2,2,"Game Day Light",3.9,57897
+"36",782,"City Brewing Company, LLC",1285244493,1.5,1.5,2,"Light Lager",1,1.5,"Game Day Light",3.9,57897
+"37",782,"City Brewing Company, LLC",1283127541,2.5,1.5,2.5,"Light Lager",2,2,"Game Day Light",3.9,57897
+"38",782,"City Brewing Company, LLC",1279733630,1,1,2,"Light Lager",1,1,"Game Day Light",3.9,57897
+"39",782,"City Brewing Company, LLC",1279502995,2.5,1.5,2.5,"Light Lager",3,2,"Game Day Light",3.9,57897
+"40",782,"City Brewing Company, LLC",1277230966,1.5,1.5,1,"Light Lager",1.5,1,"Game Day Light",3.9,57897
+"41",782,"City Brewing Company, LLC",1276833620,2.5,2.5,2,"Light Lager",3,2.5,"Game Day Light",3.9,57897
+"42",782,"City Brewing Company, LLC",1276629273,1,1,1,"Light Lager",3,1,"Game Day Light",3.9,57897
+"43",782,"City Brewing Company, LLC",1275451603,2,1.5,1.5,"Light Lager",2,1.5,"Game Day Light",3.9,57897
+"44",782,"City Brewing Company, LLC",1273977077,3.5,3,3,"Light Lager",2.5,2.5,"Game Day Light",3.9,57897
+"45",782,"City Brewing Company, LLC",1273042495,3,2,2.5,"Light Lager",3.5,2.5,"Game Day Light",3.9,57897
+"46",782,"City Brewing Company, LLC",1273033872,3,3,3,"Light Lager",2,2,"Game Day Light",3.9,57897
+"47",782,"City Brewing Company, LLC",1272600147,1,2,2,"Light Lager",2,2,"Game Day Light",3.9,57897
+"48",782,"City Brewing Company, LLC",1272598917,2,1,2,"Light Lager",1,1,"Game Day Light",3.9,57897
+"49",782,"City Brewing Company, LLC",1244576468,3.5,3,4,"English Dark Mild Ale",3.5,3,"S.L. Gregory's Dark Mild Ale",NA,45059
+"50",782,"City Brewing Company, LLC",1222653550,4,4,3.5,"English Dark Mild Ale",4.5,4.5,"S.L. Gregory's Dark Mild Ale",NA,45059
+"51",782,"City Brewing Company, LLC",1222558834,4,4,4,"English Dark Mild Ale",3,4,"S.L. Gregory's Dark Mild Ale",NA,45059
+"52",782,"City Brewing Company, LLC",1222489327,4,3.5,4,"English Dark Mild Ale",4,3.5,"S.L. Gregory's Dark Mild Ale",NA,45059
+"53",782,"City Brewing Company, LLC",1095266531,1.5,1.5,1.5,"Cream Ale",1.5,1.5,"Cream Ale",NA,3068
+"54",782,"City Brewing Company, LLC",1067993039,4.5,3.5,4,"Cream Ale",4,3.5,"Cream Ale",NA,3068
+"55",782,"City Brewing Company, LLC",1028576835,3.5,3.5,3.5,"Cream Ale",3.5,3.5,"Cream Ale",NA,3068
+"56",782,"City Brewing Company, LLC",1322784928,2.5,2,2.5,"American Malt Liquor",2.5,2.5,"Crazy Stallion",NA,7113
+"57",782,"City Brewing Company, LLC",1314658328,2,2.5,3,"American Malt Liquor",2,2,"Crazy Stallion",NA,7113
+"58",782,"City Brewing Company, LLC",1309721491,2,2,3.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
+"59",782,"City Brewing Company, LLC",1309655703,2.5,3,3,"American Malt Liquor",3,2,"Crazy Stallion",NA,7113
+"60",782,"City Brewing Company, LLC",1298230198,2,1,2.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
+"61",782,"City Brewing Company, LLC",1293161763,4.5,3,3.5,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
+"62",782,"City Brewing Company, LLC",1280896620,4,3,3,"American Malt Liquor",3.5,4,"Crazy Stallion",NA,7113
+"63",782,"City Brewing Company, LLC",1249278451,3,2.5,4,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
+"64",782,"City Brewing Company, LLC",1244851031,1.5,3.5,4,"American Malt Liquor",2,2,"Crazy Stallion",NA,7113
+"65",782,"City Brewing Company, LLC",1241059769,3.5,2.5,3,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
+"66",782,"City Brewing Company, LLC",1229029737,2.5,2.5,3,"American Malt Liquor",3,3.5,"Crazy Stallion",NA,7113
+"67",782,"City Brewing Company, LLC",1227586032,3,2,3.5,"American Malt Liquor",3.5,2.5,"Crazy Stallion",NA,7113
+"68",782,"City Brewing Company, LLC",1202176848,2,2,2,"American Pale Lager",2,2,"LaCrosse Lager",4.8,8672
+"69",782,"City Brewing Company, LLC",1221766551,2,2.5,3,"American Malt Liquor",2,3,"Crazy Stallion",NA,7113
+"70",782,"City Brewing Company, LLC",1211050071,3,2.5,2.5,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
+"71",782,"City Brewing Company, LLC",1207185451,3.5,3,3.5,"American Malt Liquor",3,4,"Crazy Stallion",NA,7113
+"72",782,"City Brewing Company, LLC",1206695096,2.5,2,3,"American Malt Liquor",3,2,"Crazy Stallion",NA,7113
+"73",782,"City Brewing Company, LLC",1202941302,2,1.5,3.5,"American Malt Liquor",2,1.5,"Crazy Stallion",NA,7113
+"74",782,"City Brewing Company, LLC",1200425744,2,2.5,2.5,"American Malt Liquor",2.5,3,"Crazy Stallion",NA,7113
+"75",782,"City Brewing Company, LLC",1169388041,2,2.5,2.5,"American Malt Liquor",2.5,2,"Crazy Stallion",NA,7113
+"76",782,"City Brewing Company, LLC",1154567852,2,1.5,2,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
+"77",782,"City Brewing Company, LLC",1146701800,4,3.5,3,"American Malt Liquor",3.5,4,"Crazy Stallion",NA,7113
+"78",782,"City Brewing Company, LLC",1142431760,1.5,2,2,"American Malt Liquor",2,1,"Crazy Stallion",NA,7113
+"79",782,"City Brewing Company, LLC",1142227164,2,2.5,3,"American Malt Liquor",4,2.5,"Crazy Stallion",NA,7113
+"80",782,"City Brewing Company, LLC",1141417161,3.5,2.5,3,"American Malt Liquor",3,3,"Crazy Stallion",NA,7113
+"81",782,"City Brewing Company, LLC",1139420287,2,2,3,"American Malt Liquor",2,1.5,"Crazy Stallion",NA,7113
+"82",782,"City Brewing Company, LLC",1124725329,2,3,2.5,"American Malt Liquor",2.5,3,"Crazy Stallion",NA,7113
+"83",782,"City Brewing Company, LLC",1108694521,3.5,2,2.5,"American Malt Liquor",3,2.5,"Crazy Stallion",NA,7113
+"84",782,"City Brewing Company, LLC",1100057191,2,2,2.5,"American Malt Liquor",2.5,2.5,"Crazy Stallion",NA,7113
+"85",782,"City Brewing Company, LLC",1066531543,3,3,3.5,"American Malt Liquor",3.5,3,"Crazy Stallion",NA,7113
+"86",782,"City Brewing Company, LLC",1063994057,3.5,3,3,"American Malt Liquor",2.5,3.5,"Crazy Stallion",NA,7113
+"87",782,"City Brewing Company, LLC",1037301673,3.5,3,3,"American Malt Liquor",3,3.5,"Crazy Stallion",NA,7113
+"88",782,"City Brewing Company, LLC",1319156993,3,3,3.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"89",782,"City Brewing Company, LLC",1291347247,4.5,4,4,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
+"90",782,"City Brewing Company, LLC",1277431229,3,2.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"91",782,"City Brewing Company, LLC",1264551244,5,3.5,3.5,"American Pale Lager",4,3.5,"LaCrosse Lager",4.8,8672
+"92",782,"City Brewing Company, LLC",1264300655,3,3,3,"American Pale Lager",3,4,"LaCrosse Lager",4.8,8672
+"93",782,"City Brewing Company, LLC",1252105479,4,3.5,3.5,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
+"94",782,"City Brewing Company, LLC",1234455162,4,3,3,"American Pale Lager",3.5,3,"LaCrosse Lager",4.8,8672
+"95",782,"City Brewing Company, LLC",1233673539,3,3,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"96",782,"City Brewing Company, LLC",1233096121,5,3,3,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
+"97",782,"City Brewing Company, LLC",1224734684,2.5,2.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"98",782,"City Brewing Company, LLC",1218027054,2,2,1.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
+"99",782,"City Brewing Company, LLC",1215650697,3,3,2,"American Pale Lager",3,2.5,"LaCrosse Lager",4.8,8672
+"100",782,"City Brewing Company, LLC",1215572518,3,2.5,2.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
+"101",782,"City Brewing Company, LLC",1215405822,4.5,3.5,4,"American Pale Lager",4,4.5,"LaCrosse Lager",4.8,8672
+"102",782,"City Brewing Company, LLC",1210371758,4.5,3,3.5,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
+"103",782,"City Brewing Company, LLC",1195502714,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"104",782,"City Brewing Company, LLC",1191458951,3.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"105",782,"City Brewing Company, LLC",1190484903,4.5,3.5,4,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
+"106",782,"City Brewing Company, LLC",1187661640,3,2,3.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"107",782,"City Brewing Company, LLC",1184978653,5,3,4.5,"American Pale Lager",4,5,"LaCrosse Lager",4.8,8672
+"108",782,"City Brewing Company, LLC",1183174896,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"109",782,"City Brewing Company, LLC",1179978147,3.5,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"110",782,"City Brewing Company, LLC",1174759801,4.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"111",782,"City Brewing Company, LLC",1168124584,3,3,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"112",782,"City Brewing Company, LLC",1095909626,4,3.5,3.5,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
+"113",782,"City Brewing Company, LLC",1162697225,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"114",782,"City Brewing Company, LLC",1159620178,3,3,3.5,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"115",782,"City Brewing Company, LLC",1157559895,4,2.5,2.5,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"116",782,"City Brewing Company, LLC",1151434740,4,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"117",782,"City Brewing Company, LLC",1133271895,3,2.5,3,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
+"118",782,"City Brewing Company, LLC",1124657660,4,2.5,3.5,"American Pale Lager",3.5,4,"LaCrosse Lager",4.8,8672
+"119",782,"City Brewing Company, LLC",1122783775,3.5,2.5,4,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"120",782,"City Brewing Company, LLC",1112498935,3.5,3.5,3,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
+"121",782,"City Brewing Company, LLC",1105549272,5,3.5,3,"American Pale Lager",4,4.5,"LaCrosse Lager",4.8,8672
+"122",782,"City Brewing Company, LLC",1105117131,3,3,4,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
+"123",782,"City Brewing Company, LLC",1092948321,3,3,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"124",782,"City Brewing Company, LLC",1084414647,3.5,3,3,"American Pale Lager",3,3.5,"LaCrosse Lager",4.8,8672
+"125",782,"City Brewing Company, LLC",1075599198,3.5,2.5,2.5,"American Pale Lager",3.5,3,"LaCrosse Lager",4.8,8672
+"126",782,"City Brewing Company, LLC",1073852135,3.5,2.5,3,"American Pale Lager",3,3,"LaCrosse Lager",4.8,8672
+"127",782,"City Brewing Company, LLC",1068435410,2.5,1.5,3,"American Pale Lager",2.5,3,"LaCrosse Lager",4.8,8672
+"128",782,"City Brewing Company, LLC",1064931409,3.5,3,4,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"129",782,"City Brewing Company, LLC",1064793934,4,3,3,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"130",782,"City Brewing Company, LLC",1063506151,3.5,3,3.5,"American Pale Lager",3.5,3.5,"LaCrosse Lager",4.8,8672
+"131",782,"City Brewing Company, LLC",1062140170,3.5,2,4,"American Pale Lager",2,1.5,"LaCrosse Lager",4.8,8672
+"132",782,"City Brewing Company, LLC",1057083185,4,2,2.5,"American Pale Lager",3,2.5,"LaCrosse Lager",4.8,8672
+"133",782,"City Brewing Company, LLC",1056223794,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"LaCrosse Lager",4.8,8672
+"134",782,"City Brewing Company, LLC",1047154771,4.5,3.5,3.5,"American Pale Lager",4,4,"LaCrosse Lager",4.8,8672
+"135",782,"City Brewing Company, LLC",1312501894,3.5,2,2,"American Malt Liquor",3.5,3.5,"Dark Horse Ice",NA,49867
+"136",782,"City Brewing Company, LLC",1300668161,1.5,1.5,2,"American Malt Liquor",2,1.5,"Dark Horse Ice",NA,49867
+"137",782,"City Brewing Company, LLC",1294586678,2,2,4,"American Malt Liquor",4,1,"Dark Horse Ice",NA,49867
+"138",782,"City Brewing Company, LLC",1294279121,1.5,1.5,2,"American Malt Liquor",2,1,"Dark Horse Ice",NA,49867
+"139",782,"City Brewing Company, LLC",1293811457,3,3.5,3,"American Malt Liquor",3,3.5,"Dark Horse Ice",NA,49867
+"140",782,"City Brewing Company, LLC",1244758512,2,2,3,"American Malt Liquor",2,2,"Dark Horse Ice",NA,49867
+"141",782,"City Brewing Company, LLC",1242649499,2,2,3.5,"American Malt Liquor",1.5,1.5,"Dark Horse Ice",NA,49867
+"142",782,"City Brewing Company, LLC",1218867088,2.5,2.5,3.5,"American Amber / Red Ale",3,3,"Amber Ale",NA,33390
+"143",782,"City Brewing Company, LLC",1220275788,3,2.5,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
+"144",782,"City Brewing Company, LLC",1206650576,4.5,4,4,"American Adjunct Lager",3.5,4,"D.B. Hobbs Golden Lager",NA,38958
+"145",782,"City Brewing Company, LLC",1205717603,3,3,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
+"146",782,"City Brewing Company, LLC",1198254440,3,2,2,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
+"147",782,"City Brewing Company, LLC",1196565880,4.5,4,4.5,"American Adjunct Lager",4.5,4.5,"D.B. Hobbs Golden Lager",NA,38958
+"148",782,"City Brewing Company, LLC",1196281643,3.5,3,2.5,"American Adjunct Lager",4,3.5,"D.B. Hobbs Golden Lager",NA,38958
+"149",782,"City Brewing Company, LLC",1196281438,3,2.5,3,"American Adjunct Lager",3,3,"D.B. Hobbs Golden Lager",NA,38958
+"150",782,"City Brewing Company, LLC",1193194352,3,2.5,3,"American Adjunct Lager",3,3,"D.B. Hobbs Golden Lager",NA,38958
+"151",782,"City Brewing Company, LLC",1191715574,3,3.5,3,"American Adjunct Lager",2.5,3,"D.B. Hobbs Golden Lager",NA,38958
+"152",782,"City Brewing Company, LLC",1035751733,3,3,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
+"153",782,"City Brewing Company, LLC",1238638952,3,3.5,3.5,"American Amber / Red Lager",3,3.5,"Copper Flask",5.95,37997
+"154",782,"City Brewing Company, LLC",1233687532,2.5,3,3,"American Amber / Red Lager",2.5,3.5,"Copper Flask",5.95,37997
+"155",782,"City Brewing Company, LLC",1228870666,3.5,3.5,3.5,"American Amber / Red Lager",3.5,4,"Copper Flask",5.95,37997
+"156",782,"City Brewing Company, LLC",1226037134,4,3,3,"American Amber / Red Lager",4,4,"Copper Flask",5.95,37997
+"157",782,"City Brewing Company, LLC",1221353131,3.5,3.5,4,"American Amber / Red Lager",3,3,"Copper Flask",5.95,37997
+"158",782,"City Brewing Company, LLC",1220567218,3,3,3.5,"American Amber / Red Lager",3.5,3,"Copper Flask",5.95,37997
+"159",782,"City Brewing Company, LLC",1216501704,2,3.5,3,"American Amber / Red Lager",2.5,2.5,"Copper Flask",5.95,37997
+"160",782,"City Brewing Company, LLC",1213246866,2,1.5,3,"American Amber / Red Lager",2,2,"Copper Flask",5.95,37997
+"161",782,"City Brewing Company, LLC",1211581495,4,3.5,4.5,"American Amber / Red Lager",3.5,4,"Copper Flask",5.95,37997
+"162",782,"City Brewing Company, LLC",1205437368,3.5,4.5,3,"American Amber / Red Lager",3.5,3.5,"Copper Flask",5.95,37997
+"163",782,"City Brewing Company, LLC",1192030213,4.5,4,4,"American Amber / Red Lager",4,4.5,"Copper Flask",5.95,37997
+"164",782,"City Brewing Company, LLC",1191037629,5,4.5,4,"American Amber / Red Lager",4,5,"Copper Flask",5.95,37997
+"165",782,"City Brewing Company, LLC",1189547587,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Copper Flask",5.95,37997
+"166",782,"City Brewing Company, LLC",1186091850,2.5,2,3,"American Amber / Red Lager",2.5,2.5,"Copper Flask",5.95,37997
+"167",782,"City Brewing Company, LLC",1313212521,2,2,1.5,"American Adjunct Lager",2,2.5,"Big City Lager",NA,33943
+"168",782,"City Brewing Company, LLC",1302295740,1.5,1,3,"American Adjunct Lager",2,1,"Big City Lager",NA,33943
+"169",782,"City Brewing Company, LLC",1212796514,2.5,1.5,2,"American Adjunct Lager",2,2.5,"Big City Lager",NA,33943
+"170",782,"City Brewing Company, LLC",1205523059,2.5,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Big City Lager",NA,33943
+"171",782,"City Brewing Company, LLC",1164422974,3,2,3.5,"American Adjunct Lager",3,2,"Big City Lager",NA,33943
+"172",782,"City Brewing Company, LLC",1274724805,2.5,3,3.5,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
+"173",782,"City Brewing Company, LLC",1205007705,2,3,3,"Märzen / Oktoberfest",2.5,3,"Festbier",NA,2605
+"174",782,"City Brewing Company, LLC",1204281811,2,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
+"175",782,"City Brewing Company, LLC",1176917764,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
+"176",782,"City Brewing Company, LLC",1165434985,2,2,2,"Märzen / Oktoberfest",2,2,"Festbier",NA,2605
+"177",782,"City Brewing Company, LLC",1164065600,3.5,3,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
+"178",782,"City Brewing Company, LLC",1161477359,2,2.5,3.5,"Märzen / Oktoberfest",2.5,2,"Festbier",NA,2605
+"179",782,"City Brewing Company, LLC",1158804335,4,3.5,4,"Märzen / Oktoberfest",3,3.5,"Festbier",NA,2605
+"180",782,"City Brewing Company, LLC",1071050276,4.5,3,2.5,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
+"181",782,"City Brewing Company, LLC",1139175646,2,2.5,3.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
+"182",782,"City Brewing Company, LLC",1133801036,3,2.5,3.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
+"183",782,"City Brewing Company, LLC",1133740803,3,2.5,2.5,"Märzen / Oktoberfest",2.5,2.5,"Festbier",NA,2605
+"184",782,"City Brewing Company, LLC",1130988279,3,2.5,3,"Märzen / Oktoberfest",2,2.5,"Festbier",NA,2605
+"185",782,"City Brewing Company, LLC",1129078136,3.5,3,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
+"186",782,"City Brewing Company, LLC",1128137138,3.5,4,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
+"187",782,"City Brewing Company, LLC",1104200465,4,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Festbier",NA,2605
+"188",782,"City Brewing Company, LLC",1099700629,3,2.5,3,"Märzen / Oktoberfest",2.5,3,"Festbier",NA,2605
+"189",782,"City Brewing Company, LLC",1098287343,3.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Festbier",NA,2605
+"190",782,"City Brewing Company, LLC",1097814426,3,2.5,3.5,"Märzen / Oktoberfest",3.5,3,"Festbier",NA,2605
+"191",782,"City Brewing Company, LLC",1031613374,4,3,4,"Märzen / Oktoberfest",3.5,3.5,"Festbier",NA,2605
+"192",782,"City Brewing Company, LLC",1030992187,4,3,4.5,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
+"193",782,"City Brewing Company, LLC",1011562010,3.5,4,4,"Märzen / Oktoberfest",3,3,"Festbier",NA,2605
+"194",782,"City Brewing Company, LLC",1306032016,4,4,4,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
+"195",782,"City Brewing Company, LLC",1299451004,3.5,2.5,4.5,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"196",782,"City Brewing Company, LLC",1298002851,3,2,4,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"197",782,"City Brewing Company, LLC",1297814510,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"198",782,"City Brewing Company, LLC",1297286143,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"199",782,"City Brewing Company, LLC",1292458652,3,3.5,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"200",782,"City Brewing Company, LLC",1288458423,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
+"201",782,"City Brewing Company, LLC",1286743177,3.5,2.5,3.5,"American Pale Ale (APA)",4,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"202",782,"City Brewing Company, LLC",1281485554,3,3,3,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"203",782,"City Brewing Company, LLC",1279525417,1,3.5,4,"American Pale Ale (APA)",1,1,"Moe's Backroom Pale Ale",5.7,36747
+"204",782,"City Brewing Company, LLC",1277435427,3,4,3,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"205",782,"City Brewing Company, LLC",1276544661,3,2,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"206",782,"City Brewing Company, LLC",1275772202,1.5,1.5,3,"American Pale Ale (APA)",1.5,1.5,"Moe's Backroom Pale Ale",5.7,36747
+"207",782,"City Brewing Company, LLC",1269036973,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"208",782,"City Brewing Company, LLC",1263011212,3,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"209",782,"City Brewing Company, LLC",1262545290,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"210",782,"City Brewing Company, LLC",1258935203,3,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"211",782,"City Brewing Company, LLC",1258247929,3.5,2.5,3,"American Pale Ale (APA)",4,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"212",782,"City Brewing Company, LLC",1256009793,3.5,3,4,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"213",782,"City Brewing Company, LLC",1255392026,2.5,3.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"214",782,"City Brewing Company, LLC",1255201922,2,3,2,"American Pale Ale (APA)",2,2,"Moe's Backroom Pale Ale",5.7,36747
+"215",782,"City Brewing Company, LLC",1249922790,2,2,3,"American Pale Ale (APA)",2.5,2,"Moe's Backroom Pale Ale",5.7,36747
+"216",782,"City Brewing Company, LLC",1248303925,3,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"217",782,"City Brewing Company, LLC",1245176232,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"218",782,"City Brewing Company, LLC",1244081774,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"219",782,"City Brewing Company, LLC",1243903994,2.5,2.5,3,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"220",782,"City Brewing Company, LLC",1242173189,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"221",782,"City Brewing Company, LLC",1241874818,4,4,3.5,"American Pale Ale (APA)",4,4,"Moe's Backroom Pale Ale",5.7,36747
+"222",782,"City Brewing Company, LLC",1241761393,4,3,2.5,"American Pale Ale (APA)",3.5,4,"Moe's Backroom Pale Ale",5.7,36747
+"223",782,"City Brewing Company, LLC",1241291475,2.5,3,3.5,"American Pale Ale (APA)",2.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"224",782,"City Brewing Company, LLC",1240015551,4,3,3.5,"American Pale Ale (APA)",4,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"225",782,"City Brewing Company, LLC",1237165582,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"226",782,"City Brewing Company, LLC",1235267164,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"227",782,"City Brewing Company, LLC",1232082914,3.5,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"228",782,"City Brewing Company, LLC",1231644213,3,2,3,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"229",782,"City Brewing Company, LLC",1228367434,3.5,2,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"230",782,"City Brewing Company, LLC",1226823518,3.5,2.5,2.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"231",782,"City Brewing Company, LLC",1223423443,2.5,3,3.5,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"232",782,"City Brewing Company, LLC",1223078863,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"233",782,"City Brewing Company, LLC",1220028344,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"234",782,"City Brewing Company, LLC",1219620113,3.5,3.5,4,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"235",782,"City Brewing Company, LLC",1218833326,4,3,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"236",782,"City Brewing Company, LLC",1218207139,4,3,3,"American Amber / Red Ale",3,4,"Amber Ale",NA,33390
+"237",782,"City Brewing Company, LLC",1218499652,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"238",782,"City Brewing Company, LLC",1218228135,3,4,3,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"239",782,"City Brewing Company, LLC",1217809478,4.5,3.5,3.5,"American Pale Ale (APA)",4.5,4.5,"Moe's Backroom Pale Ale",5.7,36747
+"240",782,"City Brewing Company, LLC",1215396581,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"241",782,"City Brewing Company, LLC",1214087019,2.5,3.5,3,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"242",782,"City Brewing Company, LLC",1210219248,4,2,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"243",782,"City Brewing Company, LLC",1207874508,3.5,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"244",782,"City Brewing Company, LLC",1207090165,2.5,2.5,2.5,"American Pale Ale (APA)",2.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"245",782,"City Brewing Company, LLC",1206565858,3.5,2,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"246",782,"City Brewing Company, LLC",1206069001,1.5,2,4,"American Pale Ale (APA)",2,1,"Moe's Backroom Pale Ale",5.7,36747
+"247",782,"City Brewing Company, LLC",1228182173,4,2.5,3,"Light Lager",3.5,3,"LaCrosse Light",NA,3372
+"248",782,"City Brewing Company, LLC",1205283789,3.5,2.5,3,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"249",782,"City Brewing Company, LLC",1204830049,3,3,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"250",782,"City Brewing Company, LLC",1203379646,3,3,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"251",782,"City Brewing Company, LLC",1202522024,3,3,4.5,"American Pale Ale (APA)",3,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"252",782,"City Brewing Company, LLC",1202354605,4,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"253",782,"City Brewing Company, LLC",1200200283,4,2,4,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"254",782,"City Brewing Company, LLC",1198370630,3.5,3.5,4,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"255",782,"City Brewing Company, LLC",1197500192,3,3.5,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"256",782,"City Brewing Company, LLC",1195701634,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"257",782,"City Brewing Company, LLC",1195259343,5,4,4.5,"American Pale Ale (APA)",4,4.5,"Moe's Backroom Pale Ale",5.7,36747
+"258",782,"City Brewing Company, LLC",1195010439,3,3,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"259",782,"City Brewing Company, LLC",1194187466,2.5,2.5,4.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"260",782,"City Brewing Company, LLC",1191466451,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"261",782,"City Brewing Company, LLC",1190612396,3.5,3.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"262",782,"City Brewing Company, LLC",1190598040,3.5,3.5,3,"American Pale Ale (APA)",2.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"263",782,"City Brewing Company, LLC",1189371984,2,3,3.5,"American Pale Ale (APA)",2.5,2,"Moe's Backroom Pale Ale",5.7,36747
+"264",782,"City Brewing Company, LLC",1187588888,3.5,2.5,3,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"265",782,"City Brewing Company, LLC",1186964395,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"266",782,"City Brewing Company, LLC",1186844683,4,2,3,"American Pale Ale (APA)",3,4,"Moe's Backroom Pale Ale",5.7,36747
+"267",782,"City Brewing Company, LLC",1184872493,2.5,2.5,3.5,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"268",782,"City Brewing Company, LLC",1132951615,3,2,1.5,"Light Lager",3,3,"LaCrosse Light",NA,3372
+"269",782,"City Brewing Company, LLC",1184458532,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"270",782,"City Brewing Company, LLC",1183519928,2,1.5,2,"American Pale Ale (APA)",3,2,"Moe's Backroom Pale Ale",5.7,36747
+"271",782,"City Brewing Company, LLC",1182385783,3,3,3.5,"American Pale Ale (APA)",3,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"272",782,"City Brewing Company, LLC",1182124294,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"273",782,"City Brewing Company, LLC",1180512919,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"Moe's Backroom Pale Ale",5.7,36747
+"274",782,"City Brewing Company, LLC",1179539562,3,3,3.5,"American Pale Ale (APA)",3,3,"Moe's Backroom Pale Ale",5.7,36747
+"275",782,"City Brewing Company, LLC",1179366278,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Moe's Backroom Pale Ale",5.7,36747
+"276",782,"City Brewing Company, LLC",1178751658,2.5,3,3,"American Pale Ale (APA)",3.5,2.5,"Moe's Backroom Pale Ale",5.7,36747
+"277",782,"City Brewing Company, LLC",1323906344,5,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"278",782,"City Brewing Company, LLC",1323303591,2.5,3,3,"American Malt Liquor",2,2.5,"Earthquake High Gravity Lager",12,51067
+"279",782,"City Brewing Company, LLC",1322194673,1,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"280",782,"City Brewing Company, LLC",1320446958,1,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"281",782,"City Brewing Company, LLC",1318123298,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"282",782,"City Brewing Company, LLC",1314559480,1,1,3,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"283",782,"City Brewing Company, LLC",1312490522,1.5,2.5,2.5,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
+"284",782,"City Brewing Company, LLC",1310305185,2,2.5,3,"American Malt Liquor",3,2,"Earthquake High Gravity Lager",12,51067
+"285",782,"City Brewing Company, LLC",1308974491,1,2,3,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
+"286",782,"City Brewing Company, LLC",1304059691,1,2.5,1,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
+"287",782,"City Brewing Company, LLC",1302910401,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"288",782,"City Brewing Company, LLC",1302494998,2.5,3,3.5,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
+"289",782,"City Brewing Company, LLC",1301435798,2,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"290",782,"City Brewing Company, LLC",1301177371,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"291",782,"City Brewing Company, LLC",1296718801,4,1,1.5,"American Malt Liquor",1,1.5,"Earthquake High Gravity Lager",12,51067
+"292",782,"City Brewing Company, LLC",1295733582,1.5,1.5,2,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
+"293",782,"City Brewing Company, LLC",1284853569,1.5,1,2.5,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
+"294",782,"City Brewing Company, LLC",1294994472,1,1.5,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"295",782,"City Brewing Company, LLC",1294425629,1,2.5,2,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
+"296",782,"City Brewing Company, LLC",1291768530,1.5,2,2.5,"American Malt Liquor",3,2,"Earthquake High Gravity Lager",12,51067
+"297",782,"City Brewing Company, LLC",1289231259,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"298",782,"City Brewing Company, LLC",1286639996,1,2,3.5,"American Malt Liquor",2,3,"Earthquake High Gravity Lager",12,51067
+"299",782,"City Brewing Company, LLC",1282119234,2,1.5,2,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
+"300",782,"City Brewing Company, LLC",1281624782,1.5,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"301",782,"City Brewing Company, LLC",1281286192,1,1,2.5,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"302",782,"City Brewing Company, LLC",1281099390,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"303",782,"City Brewing Company, LLC",1280992141,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"304",782,"City Brewing Company, LLC",1280882226,1,1,1.5,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"305",782,"City Brewing Company, LLC",1278286707,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"306",782,"City Brewing Company, LLC",1276034940,1,1,1.5,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
+"307",782,"City Brewing Company, LLC",1275504434,1,1.5,1,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
+"308",782,"City Brewing Company, LLC",1274499192,1,2.5,3,"American Malt Liquor",2,2,"Earthquake High Gravity Lager",12,51067
+"309",782,"City Brewing Company, LLC",1274483587,2,2.5,3,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
+"310",782,"City Brewing Company, LLC",1271067617,1.5,3,3.5,"American Malt Liquor",2.5,2,"Earthquake High Gravity Lager",12,51067
+"311",782,"City Brewing Company, LLC",1270961907,2.5,4,3,"American Malt Liquor",2.5,2.5,"Earthquake High Gravity Lager",12,51067
+"312",782,"City Brewing Company, LLC",1270868289,1.5,2,2,"American Malt Liquor",1.5,1.5,"Earthquake High Gravity Lager",12,51067
+"313",782,"City Brewing Company, LLC",1267895588,1,1.5,3,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
+"314",782,"City Brewing Company, LLC",1267427550,2,2.5,5,"American Malt Liquor",2.5,2.5,"Earthquake High Gravity Lager",12,51067
+"315",782,"City Brewing Company, LLC",1267402903,2,1,2,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"316",782,"City Brewing Company, LLC",1267398356,1,1,1,"American Malt Liquor",1,1,"Earthquake High Gravity Lager",12,51067
+"317",782,"City Brewing Company, LLC",1263075051,4,3.5,2,"American Malt Liquor",3,3.5,"Earthquake High Gravity Lager",12,51067
+"318",782,"City Brewing Company, LLC",1257479386,1,1,1,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
+"319",782,"City Brewing Company, LLC",1061744429,1,1,2,"American Malt Liquor",1,1,"City Slicker",NA,12258
+"320",782,"City Brewing Company, LLC",1257466639,1.5,1,3,"American Malt Liquor",3,1,"Earthquake High Gravity Lager",12,51067
+"321",782,"City Brewing Company, LLC",1254358745,3,4,4,"American Malt Liquor",3,3,"Earthquake High Gravity Lager",12,51067
+"322",782,"City Brewing Company, LLC",1253181000,2.5,1,2.5,"American Malt Liquor",1.5,1,"Earthquake High Gravity Lager",12,51067
+"323",782,"City Brewing Company, LLC",1252373870,2,2,2.5,"American Malt Liquor",2,1.5,"Earthquake High Gravity Lager",12,51067
+"324",782,"City Brewing Company, LLC",1251513868,1,2,2,"American Malt Liquor",2.5,1.5,"Earthquake High Gravity Lager",12,51067
+"325",782,"City Brewing Company, LLC",1248266758,1,2,3,"American Malt Liquor",2,1,"Earthquake High Gravity Lager",12,51067
+"326",782,"City Brewing Company, LLC",1247365870,2,3,3,"American Malt Liquor",3,2.5,"Earthquake High Gravity Lager",12,51067
+"327",782,"City Brewing Company, LLC",1222289626,2,2,2,"American Pale Wheat Ale",2,2,"Golden Leaf",NA,32944
+"328",782,"City Brewing Company, LLC",1220053894,3,4,4,"American Pale Wheat Ale",4,2.5,"Golden Leaf",NA,32944
+"329",782,"City Brewing Company, LLC",1218122854,3,3,2.5,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
+"330",782,"City Brewing Company, LLC",1217647028,3,3.5,4,"American Pale Wheat Ale",3,2.5,"Golden Leaf",NA,32944
+"331",782,"City Brewing Company, LLC",1215833735,3.5,3,4,"American Pale Wheat Ale",3,3.5,"Golden Leaf",NA,32944
+"332",782,"City Brewing Company, LLC",1209356858,3.5,3.5,3,"American Pale Wheat Ale",2.5,3,"Golden Leaf",NA,32944
+"333",782,"City Brewing Company, LLC",1208040671,4,2,4,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
+"334",782,"City Brewing Company, LLC",1192667480,4,4,3.5,"American Pale Wheat Ale",5,3,"Golden Leaf",NA,32944
+"335",782,"City Brewing Company, LLC",1190922030,5,3,4,"American Pale Wheat Ale",4.5,4,"Golden Leaf",NA,32944
+"336",782,"City Brewing Company, LLC",1183417586,3,3.5,3,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
+"337",782,"City Brewing Company, LLC",1183229811,2.5,3,3,"American Pale Wheat Ale",3,2.5,"Golden Leaf",NA,32944
+"338",782,"City Brewing Company, LLC",1316493133,3.5,3.5,1.5,"American Adjunct Lager",1.5,3,"Big City Ice",5.9,41957
+"339",782,"City Brewing Company, LLC",1181764392,4,3,3,"American Pale Wheat Ale",3.5,3,"Golden Leaf",NA,32944
+"340",782,"City Brewing Company, LLC",1181499402,2,2.5,2.5,"American Pale Wheat Ale",2.5,2.5,"Golden Leaf",NA,32944
+"341",782,"City Brewing Company, LLC",1175213855,3,2,4,"American Pale Wheat Ale",2.5,3,"Golden Leaf",NA,32944
+"342",782,"City Brewing Company, LLC",1170401452,3,3,3,"American Pale Wheat Ale",3,4,"Golden Leaf",NA,32944
+"343",782,"City Brewing Company, LLC",1159297078,3,2.5,3.5,"American Pale Wheat Ale",3,3,"Golden Leaf",NA,32944
+"344",782,"City Brewing Company, LLC",1308183867,2.5,2,3,"Light Lager",2,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"345",782,"City Brewing Company, LLC",1271255934,3.5,3,2.5,"Light Lager",3,3,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"346",782,"City Brewing Company, LLC",1257292927,3,2.5,3,"American Adjunct Lager",3,3,"Big City Ice",5.9,41957
+"347",782,"City Brewing Company, LLC",1261783349,2,2.5,3,"Light Lager",2,3,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"348",782,"City Brewing Company, LLC",1159190953,1,1,2,"Light Lager",3,2,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"349",782,"City Brewing Company, LLC",1158500204,3,2,3,"Light Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"350",782,"City Brewing Company, LLC",1128097405,3,2.5,3,"Light Lager",2.5,2.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"351",782,"City Brewing Company, LLC",1122604782,1,1.5,1.5,"Light Lager",2,1.5,"Milwaukee Premium Brewing Company Classic Light",NA,25013
+"352",782,"City Brewing Company, LLC",1159713191,3.5,3,3.5,"American Malt Liquor",3.5,3.5,"City Slicker",NA,12258
+"353",782,"City Brewing Company, LLC",1125540298,4,3.5,3.5,"American Malt Liquor",3.5,4,"City Slicker",NA,12258
+"354",782,"City Brewing Company, LLC",1099149136,3.5,3,3,"American Malt Liquor",3.5,3,"City Slicker",NA,12258
+"355",782,"City Brewing Company, LLC",1076364092,2.5,3,3,"American Malt Liquor",3,3,"City Slicker",NA,12258
+"356",782,"City Brewing Company, LLC",1256333909,1,2.5,2,"American Adjunct Lager",3.5,2,"Big City Ice",5.9,41957
+"357",782,"City Brewing Company, LLC",1218603934,3.5,3,3,"American Adjunct Lager",3.5,3,"Big City Ice",5.9,41957
+"358",782,"City Brewing Company, LLC",1207268501,2.5,1,4,"American Adjunct Lager",3,2.5,"Big City Ice",5.9,41957
+"359",782,"City Brewing Company, LLC",1216380773,2,1.5,2,"Light Lager",1.5,2,"D.B. Hobbs Golden Light",NA,39587
+"360",782,"City Brewing Company, LLC",1214087644,2.5,2,2.5,"Light Lager",2.5,2.5,"D.B. Hobbs Golden Light",NA,39587
+"361",782,"City Brewing Company, LLC",1210545973,1,2,2.5,"Light Lager",1.5,1,"D.B. Hobbs Golden Light",NA,39587
+"362",782,"City Brewing Company, LLC",1196448666,3,2.5,3,"Light Lager",3,2.5,"D.B. Hobbs Golden Light",NA,39587
+"363",782,"City Brewing Company, LLC",1194832165,2,2.5,2.5,"Light Lager",2,2.5,"D.B. Hobbs Golden Light",NA,39587
+"364",782,"City Brewing Company, LLC",1306959307,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"365",782,"City Brewing Company, LLC",1228805863,1,1,3,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"366",782,"City Brewing Company, LLC",1217429491,1,1.5,1,"American Malt Liquor",1,1.5,"Pit Bull",10.2,32690
+"367",782,"City Brewing Company, LLC",1195487487,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"368",782,"City Brewing Company, LLC",1194808829,1,1,2,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"369",782,"City Brewing Company, LLC",1194563218,1,1,2,"American Malt Liquor",1.5,1,"Pit Bull",10.2,32690
+"370",782,"City Brewing Company, LLC",1188332978,1,1,1,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"371",782,"City Brewing Company, LLC",1179359457,1.5,1,1.5,"American Malt Liquor",1.5,1.5,"Pit Bull",10.2,32690
+"372",782,"City Brewing Company, LLC",1177814818,1,1.5,2,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"373",782,"City Brewing Company, LLC",1171945389,1,2,1.5,"American Malt Liquor",1.5,1,"Pit Bull",10.2,32690
+"374",782,"City Brewing Company, LLC",1167104544,1,2.5,3,"American Malt Liquor",1,1,"Pit Bull",10.2,32690
+"375",782,"City Brewing Company, LLC",1165353773,2,1.5,3,"American Malt Liquor",2,1.5,"Pit Bull",10.2,32690
+"376",782,"City Brewing Company, LLC",1157902822,1.5,1.5,2,"American Malt Liquor",1.5,1.5,"Pit Bull",10.2,32690
+"377",782,"City Brewing Company, LLC",1186090146,3.5,2.5,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
+"378",782,"City Brewing Company, LLC",1104105857,3.5,3,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
+"379",782,"City Brewing Company, LLC",1095314512,2,2.5,2.5,"American Adjunct Lager",2.5,2,"City Lager",NA,3405
+"380",782,"City Brewing Company, LLC",1070042623,3,2,2.5,"American Adjunct Lager",3,2.5,"City Lager",NA,3405
+"381",782,"City Brewing Company, LLC",1056714692,2.5,2.5,3.5,"American Adjunct Lager",2,2.5,"City Lager",NA,3405
+"382",782,"City Brewing Company, LLC",1043340610,3,3,3,"American Adjunct Lager",3.5,3,"City Lager",NA,3405
+"383",782,"City Brewing Company, LLC",1043156858,3,2,3,"American Adjunct Lager",3,2,"City Lager",NA,3405
+"384",782,"City Brewing Company, LLC",1027383772,3.5,2,4.5,"American Adjunct Lager",3,3,"City Lager",NA,3405
+"385",782,"City Brewing Company, LLC",1022276414,3,2.5,3,"American Adjunct Lager",3,3,"City Lager",NA,3405
+"386",782,"City Brewing Company, LLC",1019075310,3,2,3.5,"American Adjunct Lager",3,2.5,"City Lager",NA,3405
+"387",782,"City Brewing Company, LLC",1095450503,3.5,4,4,"American Pale Ale (APA)",4,3.5,"City Pale Ale",5.5,3470
+"388",782,"City Brewing Company, LLC",1203954481,2,2,2.5,"American Amber / Red Ale",2,2,"Amber Ale",NA,33390
+"389",782,"City Brewing Company, LLC",1198545587,4.5,4,3,"American Amber / Red Ale",4,4.5,"Amber Ale",NA,33390
+"390",782,"City Brewing Company, LLC",1161644140,4.5,2.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber Ale",NA,33390
+"391",782,"City Brewing Company, LLC",1323655122,2,2.5,2.5,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"392",782,"City Brewing Company, LLC",1296516738,3,2,2.5,"American Adjunct Lager",4,2.5,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"393",782,"City Brewing Company, LLC",1293249060,2,2.5,3,"American Adjunct Lager",2.5,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"394",782,"City Brewing Company, LLC",1293176148,1.5,2.5,3,"American Adjunct Lager",1.5,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"395",782,"City Brewing Company, LLC",1286927924,1,2,2,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"396",782,"City Brewing Company, LLC",1263052523,3,3,3,"American Adjunct Lager",3,3,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"397",782,"City Brewing Company, LLC",1261830813,2,3,3,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"398",782,"City Brewing Company, LLC",1242052565,5,3,5,"American Adjunct Lager",4,4,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"399",782,"City Brewing Company, LLC",1207693528,1,1,2,"American Adjunct Lager",2,2,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"400",782,"City Brewing Company, LLC",1160691847,2,1,3.5,"American Adjunct Lager",2,1.5,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"401",782,"City Brewing Company, LLC",1158354714,3.5,2.5,4,"American Adjunct Lager",4,3,"Milwaukee Premium Brewing Company Classic Ice",6,32756
+"402",782,"City Brewing Company, LLC",1325855196,2.5,2.5,3,"Light Lager",3,2,"LaCrosse Light",NA,3372
+"403",782,"City Brewing Company, LLC",1298566261,4,3.5,3,"Light Lager",4,3.5,"LaCrosse Light",NA,3372
+"404",782,"City Brewing Company, LLC",1279843905,3,2,3,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
+"405",782,"City Brewing Company, LLC",1253971186,3.5,2.5,3.5,"Light Lager",3,3.5,"LaCrosse Light",NA,3372
+"406",782,"City Brewing Company, LLC",1232281024,3.5,2.5,3,"Light Lager",3,3,"LaCrosse Light",NA,3372
+"407",782,"City Brewing Company, LLC",1074557876,2,2,3,"American Malt Liquor",2.5,2,"Lucky Number High Gravity Lager",8.2,11956
+"408",782,"City Brewing Company, LLC",1225252317,3,2.5,3,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
+"409",782,"City Brewing Company, LLC",1216841599,5,5,5,"Light Lager",5,5,"LaCrosse Light",NA,3372
+"410",782,"City Brewing Company, LLC",1215998276,1,1,2,"Light Lager",1,1,"LaCrosse Light",NA,3372
+"411",782,"City Brewing Company, LLC",1201142744,4.5,4,3.5,"Light Lager",5,4.5,"LaCrosse Light",NA,3372
+"412",782,"City Brewing Company, LLC",1200545885,2,1.5,2,"Light Lager",2,1,"LaCrosse Light",NA,3372
+"413",782,"City Brewing Company, LLC",1193328911,1.5,2,2,"Light Lager",1.5,1.5,"LaCrosse Light",NA,3372
+"414",782,"City Brewing Company, LLC",1190483644,4,3,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
+"415",782,"City Brewing Company, LLC",1165951549,3,3,3,"Light Lager",3,3,"LaCrosse Light",NA,3372
+"416",782,"City Brewing Company, LLC",1164298022,3.5,2.5,3,"Light Lager",3.5,3,"LaCrosse Light",NA,3372
+"417",782,"City Brewing Company, LLC",1156870947,3.5,2.5,2,"Light Lager",2.5,3,"LaCrosse Light",NA,3372
+"418",782,"City Brewing Company, LLC",1124662812,4,2.5,4,"Light Lager",3,3.5,"LaCrosse Light",NA,3372
+"419",782,"City Brewing Company, LLC",1083034994,4,2.5,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
+"420",782,"City Brewing Company, LLC",1081453526,2.5,3,2,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
+"421",782,"City Brewing Company, LLC",1073572981,3,3.5,3,"Light Lager",3,2.5,"LaCrosse Light",NA,3372
+"422",782,"City Brewing Company, LLC",1023485861,3.5,2.5,3,"Light Lager",3.5,3.5,"LaCrosse Light",NA,3372
+"423",782,"City Brewing Company, LLC",1018804121,3,2.5,2.5,"Light Lager",3,2.5,"LaCrosse Light",NA,3372
+"424",782,"City Brewing Company, LLC",1233673639,3.5,3,4,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
+"425",782,"City Brewing Company, LLC",1229984693,2,3.5,3.5,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"426",782,"City Brewing Company, LLC",1227237885,2.5,3,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
+"427",782,"City Brewing Company, LLC",1217197363,4.5,4,3.5,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
+"428",782,"City Brewing Company, LLC",1205006842,2,2,3,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
+"429",782,"City Brewing Company, LLC",1203923808,2,3.5,3.5,"American Pale Ale (APA)",2,2,"City Pale Ale",5.5,3470
+"430",782,"City Brewing Company, LLC",1191097986,2.5,3.5,4,"American Pale Ale (APA)",2.5,3,"City Pale Ale",5.5,3470
+"431",782,"City Brewing Company, LLC",1189820280,4.5,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
+"432",782,"City Brewing Company, LLC",1185404800,4.5,3.5,4,"American Pale Ale (APA)",4.5,4,"City Pale Ale",5.5,3470
+"433",782,"City Brewing Company, LLC",1183227433,4,4,4,"American Pale Ale (APA)",4,4.5,"City Pale Ale",5.5,3470
+"434",782,"City Brewing Company, LLC",1177776998,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"City Pale Ale",5.5,3470
+"435",782,"City Brewing Company, LLC",1172482033,3,3,3,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
+"436",782,"City Brewing Company, LLC",1170727513,2,3,3.5,"American Pale Ale (APA)",2.5,2.5,"City Pale Ale",5.5,3470
+"437",782,"City Brewing Company, LLC",1168301099,2.5,3,4,"American Pale Ale (APA)",3.5,2.5,"City Pale Ale",5.5,3470
+"438",782,"City Brewing Company, LLC",1164860648,3,3.5,3.5,"American Pale Ale (APA)",2.5,2,"City Pale Ale",5.5,3470
+"439",782,"City Brewing Company, LLC",1162351439,3,3,3,"American Pale Ale (APA)",2.5,3,"City Pale Ale",5.5,3470
+"440",782,"City Brewing Company, LLC",1162006717,3,2.5,2.5,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"441",782,"City Brewing Company, LLC",1160970374,2.5,1.5,3,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"442",782,"City Brewing Company, LLC",1160271416,2,2,4,"American Pale Ale (APA)",3,2,"City Pale Ale",5.5,3470
+"443",782,"City Brewing Company, LLC",1159487029,2.5,2.5,4,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"444",782,"City Brewing Company, LLC",1156890337,2,3,4,"American Pale Ale (APA)",2.5,2.5,"City Pale Ale",5.5,3470
+"445",782,"City Brewing Company, LLC",1155712001,4,4,3.5,"American Pale Ale (APA)",3,4,"City Pale Ale",5.5,3470
+"446",782,"City Brewing Company, LLC",1147559840,3.5,4,3.5,"American Pale Ale (APA)",3.5,4.5,"City Pale Ale",5.5,3470
+"447",782,"City Brewing Company, LLC",1139413419,3,2.5,4,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"448",782,"City Brewing Company, LLC",1103987169,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
+"449",782,"City Brewing Company, LLC",1091255820,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
+"450",782,"City Brewing Company, LLC",1076863045,2.5,2.5,3,"American Pale Ale (APA)",3,2.5,"City Pale Ale",5.5,3470
+"451",782,"City Brewing Company, LLC",1062039194,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
+"452",782,"City Brewing Company, LLC",1057649618,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"City Pale Ale",5.5,3470
+"453",782,"City Brewing Company, LLC",1053792376,4,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
+"454",782,"City Brewing Company, LLC",1053638755,3,4,3.5,"American Pale Ale (APA)",3,3,"City Pale Ale",5.5,3470
+"455",782,"City Brewing Company, LLC",1053432105,3,3,4,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
+"456",782,"City Brewing Company, LLC",1052777353,3.5,4,4,"American Pale Ale (APA)",4,4,"City Pale Ale",5.5,3470
+"457",782,"City Brewing Company, LLC",1052409731,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"City Pale Ale",5.5,3470
+"458",782,"City Brewing Company, LLC",1044193532,4.5,4,4,"American Pale Ale (APA)",4.5,4,"City Pale Ale",5.5,3470
+"459",782,"City Brewing Company, LLC",1037754575,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"City Pale Ale",5.5,3470
+"460",782,"City Brewing Company, LLC",1292878698,1.5,2,2,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
+"461",782,"City Brewing Company, LLC",1288558936,1,1,1.5,"American Malt Liquor",1,1,"Lucky Number High Gravity Lager",8.2,11956
+"462",782,"City Brewing Company, LLC",1273975374,2,2,2,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
+"463",782,"City Brewing Company, LLC",1258073089,2,3,3.5,"American Malt Liquor",3,2,"Lucky Number High Gravity Lager",8.2,11956
+"464",782,"City Brewing Company, LLC",1245720015,1.5,1.5,4,"American Malt Liquor",1.5,1,"Lucky Number High Gravity Lager",8.2,11956
+"465",782,"City Brewing Company, LLC",1238795398,2,2,3,"American Malt Liquor",2,1,"Lucky Number High Gravity Lager",8.2,11956
+"466",782,"City Brewing Company, LLC",1203263694,1.5,2,2,"American Malt Liquor",2,1.5,"Lucky Number High Gravity Lager",8.2,11956
+"467",782,"City Brewing Company, LLC",1158610053,1,2,2,"American Malt Liquor",1,1,"Lucky Number High Gravity Lager",8.2,11956
+"468",782,"City Brewing Company, LLC",1125513773,2.5,2,3,"American Malt Liquor",2,2,"Lucky Number High Gravity Lager",8.2,11956
+"469",782,"City Brewing Company, LLC",1317531016,2,1.5,2.5,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
+"470",782,"City Brewing Company, LLC",1313450389,2,2,3,"American Adjunct Lager",2.5,2.5,"Game Day Ice",5.5,57899
+"471",782,"City Brewing Company, LLC",1309335515,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
+"472",782,"City Brewing Company, LLC",1307311934,2,2,3,"American Adjunct Lager",2.5,1.5,"Game Day Ice",5.5,57899
+"473",782,"City Brewing Company, LLC",1304040309,2,1.5,2,"American Adjunct Lager",2.5,2,"Game Day Ice",5.5,57899
+"474",782,"City Brewing Company, LLC",1303975569,1,1,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
+"475",782,"City Brewing Company, LLC",1301637159,1,1,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
+"476",782,"City Brewing Company, LLC",1298092688,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
+"477",782,"City Brewing Company, LLC",1297845028,1.5,1.5,3,"American Adjunct Lager",2.5,1,"Game Day Ice",5.5,57899
+"478",782,"City Brewing Company, LLC",1297313569,1,1,2.5,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
+"479",782,"City Brewing Company, LLC",1293934702,3,1.5,2.5,"American Adjunct Lager",2,2,"Game Day Ice",5.5,57899
+"480",782,"City Brewing Company, LLC",1293765332,3,1.5,1.5,"American Adjunct Lager",2.5,1.5,"Game Day Ice",5.5,57899
+"481",782,"City Brewing Company, LLC",1292183101,1.5,2.5,2,"American Adjunct Lager",1.5,2,"Game Day Ice",5.5,57899
+"482",782,"City Brewing Company, LLC",1286914008,1,2,2.5,"American Adjunct Lager",1.5,1.5,"Game Day Ice",5.5,57899
+"483",782,"City Brewing Company, LLC",1285244598,1.5,1.5,1.5,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
+"484",782,"City Brewing Company, LLC",1283128112,2,1.5,2,"American Adjunct Lager",2,2.5,"Game Day Ice",5.5,57899
+"485",782,"City Brewing Company, LLC",1282964489,1,1.5,2,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
+"486",782,"City Brewing Company, LLC",1280452852,1.5,1.5,2,"American Adjunct Lager",1.5,1,"Game Day Ice",5.5,57899
+"487",782,"City Brewing Company, LLC",1279739000,1,1,3,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
+"488",782,"City Brewing Company, LLC",1279505350,2,2,2,"American Adjunct Lager",2,1,"Game Day Ice",5.5,57899
+"489",782,"City Brewing Company, LLC",1277254250,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
+"490",782,"City Brewing Company, LLC",1277230791,1,1,1,"American Adjunct Lager",1,1,"Game Day Ice",5.5,57899
+"491",782,"City Brewing Company, LLC",1276939284,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Game Day Ice",5.5,57899
+"492",782,"City Brewing Company, LLC",1276628921,1,1,1,"American Adjunct Lager",3,1.5,"Game Day Ice",5.5,57899
+"493",782,"City Brewing Company, LLC",1273844617,3,2,2.5,"American Adjunct Lager",2,2,"Game Day Ice",5.5,57899
+"494",782,"City Brewing Company, LLC",1272600440,2.5,2,2,"American Adjunct Lager",2,2.5,"Game Day Ice",5.5,57899
+"495",782,"City Brewing Company, LLC",1272413193,2,1.5,2,"American Adjunct Lager",1.5,1.5,"Game Day Ice",5.5,57899
+"496",782,"City Brewing Company, LLC",1218668311,3.5,3,3.5,"American Porter",3.5,3.5,"Winter Porter",NA,3151
+"497",782,"City Brewing Company, LLC",1210889257,4,3.5,4,"American Porter",4,4,"Winter Porter",NA,3151
+"498",782,"City Brewing Company, LLC",1174329684,3.5,3,4,"American Porter",3,3,"Winter Porter",NA,3151
+"499",782,"City Brewing Company, LLC",1172470109,3,3,3,"American Porter",2,3.5,"Winter Porter",NA,3151
+"500",782,"City Brewing Company, LLC",1170428855,3.5,3,4,"American Porter",3.5,3.5,"Winter Porter",NA,3151
+"501",782,"City Brewing Company, LLC",1156458299,3,3.5,4,"American Porter",3,3,"Winter Porter",NA,3151
+"502",782,"City Brewing Company, LLC",1145387464,3,4,3,"American Porter",1.5,3,"Winter Porter",NA,3151
+"503",782,"City Brewing Company, LLC",1143166713,2.5,2.5,3.5,"American Porter",3,2.5,"Winter Porter",NA,3151
+"504",782,"City Brewing Company, LLC",1138679372,3,2,4,"American Porter",2,2.5,"Winter Porter",NA,3151
+"505",782,"City Brewing Company, LLC",1111756673,3,2.5,4,"American Porter",3,3.5,"Winter Porter",NA,3151
+"506",782,"City Brewing Company, LLC",1109125207,3,2.5,3.5,"American Porter",2.5,3,"Winter Porter",NA,3151
+"507",782,"City Brewing Company, LLC",1104635670,3.5,3,3.5,"American Porter",3,3.5,"Winter Porter",NA,3151
+"508",782,"City Brewing Company, LLC",1101316728,3.5,2.5,3,"American Porter",2.5,3,"Winter Porter",NA,3151
+"509",782,"City Brewing Company, LLC",1099785365,3,3.5,3,"American Porter",2.5,3,"Winter Porter",NA,3151
+"510",782,"City Brewing Company, LLC",1095108761,3.5,3.5,3.5,"American Porter",3.5,3.5,"Winter Porter",NA,3151
+"511",782,"City Brewing Company, LLC",1089594076,3.5,3,4,"American Porter",3.5,3,"Winter Porter",NA,3151
+"512",782,"City Brewing Company, LLC",1073788853,3,3,4,"American Porter",2.5,3,"Winter Porter",NA,3151
+"513",782,"City Brewing Company, LLC",1062087023,3.5,3,3.5,"American Porter",4,3,"Winter Porter",NA,3151
+"514",782,"City Brewing Company, LLC",1054394409,3,3,3.5,"American Porter",2.5,2.5,"Winter Porter",NA,3151
+"515",782,"City Brewing Company, LLC",1044430222,3.5,3.5,3.5,"American Porter",3,3.5,"Winter Porter",NA,3151
+"516",782,"City Brewing Company, LLC",1041954457,3,2.5,3,"American Porter",3,2.5,"Winter Porter",NA,3151
+"517",782,"City Brewing Company, LLC",1040076521,3,2.5,3.5,"American Porter",2,2.5,"Winter Porter",NA,3151
+"518",782,"City Brewing Company, LLC",1019858810,3,2.5,3.5,"American Porter",2.5,3.5,"Winter Porter",NA,3151
+"519",782,"City Brewing Company, LLC",1019155663,3.5,2.5,4,"American Porter",3,3.5,"Winter Porter",NA,3151
+"520",782,"City Brewing Company, LLC",1017191554,3,3,3.5,"American Porter",3,3,"Winter Porter",NA,3151

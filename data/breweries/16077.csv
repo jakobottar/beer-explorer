@@ -1,143 +1,103 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",16077,"Fort George Brewery + Public House",1303079570,4.5,4,4.5,"American IPA",4,4.5,"Vortex IPA",7.7,37654
 "2",16077,"Fort George Brewery + Public House",1315437697,4,3.5,4,"American Pale Ale (APA)",4.5,3.5,"Sunrise Oatmeal Pale",5.5,37643
-"3",16077,"Fort George Brewery + Public House",1202675100,4.5,3.5,4,"American Double / Imperial Stout",4,4,"Bourbon Barrel Cavatica Stout",8.8,40951
-"4",16077,"Fort George Brewery + Public House",1309954102,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Sunrise Oatmeal Pale",5.5,37643
-"5",16077,"Fort George Brewery + Public House",1293067849,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Sunrise Oatmeal Pale",5.5,37643
-"6",16077,"Fort George Brewery + Public House",1282167119,4,2.5,3,"American Pale Ale (APA)",5,3.5,"Sunrise Oatmeal Pale",5.5,37643
-"7",16077,"Fort George Brewery + Public House",1216440597,4,4,4,"American Pale Ale (APA)",4,4,"Sunrise Oatmeal Pale",5.5,37643
-"8",16077,"Fort George Brewery + Public House",1185367407,3,3,2.5,"American Pale Ale (APA)",2.5,2.5,"Sunrise Oatmeal Pale",5.5,37643
-"9",16077,"Fort George Brewery + Public House",1184221003,4,3.5,4.5,"American Pale Ale (APA)",4.5,4,"Sunrise Oatmeal Pale",5.5,37643
-"10",16077,"Fort George Brewery + Public House",1224627454,4,4,3.5,"Witbier",4,4,"Quick Wit",5.2,37682
-"11",16077,"Fort George Brewery + Public House",1216440797,4.5,4.5,4,"Witbier",4.5,4.5,"Quick Wit",5.2,37682
-"12",16077,"Fort George Brewery + Public House",1184395309,4.5,4,4.5,"Witbier",3.5,4.5,"Quick Wit",5.2,37682
-"13",16077,"Fort George Brewery + Public House",1301106327,4,4,3.5,"American Double / Imperial IPA",3.5,4,"OmegaTex Triple IPA",9,61958
-"14",16077,"Fort George Brewery + Public House",1272417678,3,4,4,"Tripel",4,2.5,"North III - Dark Tripel",8.8,56871
-"15",16077,"Fort George Brewery + Public House",1268864615,3,3.5,4.5,"Tripel",4,3.5,"North III - Dark Tripel",8.8,56871
-"16",16077,"Fort George Brewery + Public House",1297018066,2.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,4,"North II - Grand Crüe",8,46326
-"17",16077,"Fort George Brewery + Public House",1224765361,3.5,4,4,"Märzen / Oktoberfest",4,3.5,"Hop Operative",NA,45351
-"18",16077,"Fort George Brewery + Public House",1224031158,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Hop Operative",NA,45351
-"19",16077,"Fort George Brewery + Public House",1223958985,4,4,4,"Märzen / Oktoberfest",4,4,"Hop Operative",NA,45351
-"20",16077,"Fort George Brewery + Public House",1319310420,4,4,4,"Pumpkin Ale",3.5,3.5,"Drunkin Pumpkin",6.5,53593
-"21",16077,"Fort George Brewery + Public House",1303024802,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Bourbon Barrel Cavatica Stout",8.8,40951
-"22",16077,"Fort George Brewery + Public House",1207002631,5,4,4,"American Double / Imperial Stout",3.5,4,"Bourbon Barrel Cavatica Stout",8.8,40951
-"23",16077,"Fort George Brewery + Public House",1203113845,4,5,4,"American Double / Imperial Stout",3.5,4.5,"Bourbon Barrel Cavatica Stout",8.8,40951
-"24",16077,"Fort George Brewery + Public House",1293640772,3.5,4,4,"Winter Warmer",4,4,"North IV - Strong Ale",9.6,64581
-"25",16077,"Fort George Brewery + Public House",1292811047,4.5,4.5,3,"Winter Warmer",4.5,4.5,"North IV - Strong Ale",9.6,64581
-"26",16077,"Fort George Brewery + Public House",1316201515,4.5,4,4,"American Porter",3.5,4,"Working Girl Porter",4.6,37653
-"27",16077,"Fort George Brewery + Public House",1314560956,4.5,4.5,3.5,"American Porter",5,4.5,"Working Girl Porter",4.6,37653
-"28",16077,"Fort George Brewery + Public House",1290395978,3.5,3.5,4,"American Porter",3,3.5,"Working Girl Porter",4.6,37653
-"29",16077,"Fort George Brewery + Public House",1184297261,5,5,4.5,"American Porter",4,4.5,"Working Girl Porter",4.6,37653
-"30",16077,"Fort George Brewery + Public House",1316199643,4,3.5,4,"American IPA",4,3.5,"Roscoe IPA",NA,73183
-"31",16077,"Fort George Brewery + Public House",1290469355,3.5,4,4.5,"American Double / Imperial IPA",3,3,"OmegaTex Triple IPA",9,61958
-"32",16077,"Fort George Brewery + Public House",1289969372,4.5,3,4,"American Double / Imperial IPA",3.5,4,"OmegaTex Triple IPA",9,61958
-"33",16077,"Fort George Brewery + Public House",1289945294,4.5,4.5,3,"American Double / Imperial IPA",4.5,4.5,"OmegaTex Triple IPA",9,61958
-"34",16077,"Fort George Brewery + Public House",1284949529,4.5,4,3.5,"American Double / Imperial IPA",5,4.5,"OmegaTex Triple IPA",9,61958
-"35",16077,"Fort George Brewery + Public House",1320286115,4,4,4,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"36",16077,"Fort George Brewery + Public House",1317997103,4,3.5,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"37",16077,"Fort George Brewery + Public House",1317435127,3,3,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
-"38",16077,"Fort George Brewery + Public House",1315910866,2,2,4,"American Adjunct Lager",4,2,"1811 Pre-Prohibition Lager",5.1,65978
-"39",16077,"Fort George Brewery + Public House",1307640351,3,3.5,3.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
-"40",16077,"Fort George Brewery + Public House",1315802532,4,3.5,4,"American Adjunct Lager",4,3.5,"1811 Pre-Prohibition Lager",5.1,65978
-"41",16077,"Fort George Brewery + Public House",1314545148,5,4.5,5,"American Adjunct Lager",4.5,5,"1811 Pre-Prohibition Lager",5.1,65978
-"42",16077,"Fort George Brewery + Public House",1313217404,3.5,3.5,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
-"43",16077,"Fort George Brewery + Public House",1311552015,4,3.5,3,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"44",16077,"Fort George Brewery + Public House",1311460651,4,3,5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"45",16077,"Fort George Brewery + Public House",1311133512,3.5,4,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
-"46",16077,"Fort George Brewery + Public House",1311132003,4,4,4,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"47",16077,"Fort George Brewery + Public House",1309952910,4,4,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
-"48",16077,"Fort George Brewery + Public House",1307401872,3,3.5,4,"American Adjunct Lager",3,3.5,"1811 Pre-Prohibition Lager",5.1,65978
-"49",16077,"Fort George Brewery + Public House",1306595476,3.5,3.5,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
-"50",16077,"Fort George Brewery + Public House",1304701433,4,4,5,"American Adjunct Lager",4.5,4,"1811 Pre-Prohibition Lager",5.1,65978
-"51",16077,"Fort George Brewery + Public House",1304186745,4,4,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"52",16077,"Fort George Brewery + Public House",1303093024,4,3.5,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
-"53",16077,"Fort George Brewery + Public House",1303015598,5,3.5,3,"American Adjunct Lager",4,5,"1811 Pre-Prohibition Lager",5.1,65978
-"54",16077,"Fort George Brewery + Public House",1300595108,4.5,3.5,4,"American Adjunct Lager",4.5,4.5,"1811 Pre-Prohibition Lager",5.1,65978
-"55",16077,"Fort George Brewery + Public House",1296953103,4,3,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
-"56",16077,"Fort George Brewery + Public House",1216454041,4,4,4.5,"Fruit / Vegetable Beer",4.5,4,"South",7.8,43618
-"57",16077,"Fort George Brewery + Public House",1216441171,4,4,4.5,"Fruit / Vegetable Beer",3.5,3.5,"South",7.8,43618
-"58",16077,"Fort George Brewery + Public House",1215481759,5,5,4.5,"Fruit / Vegetable Beer",4,4.5,"South",7.8,43618
-"59",16077,"Fort George Brewery + Public House",1263922821,4.5,3.5,4.5,"American Double / Imperial IPA",4,4,"Bad Juju",8.5,45352
-"60",16077,"Fort George Brewery + Public House",1262298477,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Bad Juju",8.5,45352
-"61",16077,"Fort George Brewery + Public House",1223959393,3,4,4.5,"American Double / Imperial IPA",3.5,3,"Bad Juju",8.5,45352
-"62",16077,"Fort George Brewery + Public House",1325906321,4,3.5,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
-"63",16077,"Fort George Brewery + Public House",1317990029,4.5,4,3.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"64",16077,"Fort George Brewery + Public House",1317953709,3.5,4,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
-"65",16077,"Fort George Brewery + Public House",1316243541,4,3.5,4,"American IPA",4.5,3.5,"Vortex IPA",7.7,37654
-"66",16077,"Fort George Brewery + Public House",1316225425,4,3.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"67",16077,"Fort George Brewery + Public House",1316143833,4,4,4.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"68",16077,"Fort George Brewery + Public House",1315802933,4,4,4.5,"American IPA",4,4,"Vortex IPA",7.7,37654
-"69",16077,"Fort George Brewery + Public House",1315022293,4,4.5,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"70",16077,"Fort George Brewery + Public House",1314545297,3.5,3,3.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
-"71",16077,"Fort George Brewery + Public House",1312340427,4,4.5,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
-"72",16077,"Fort George Brewery + Public House",1311809893,4.5,4,4,"American IPA",4.5,4.5,"Vortex IPA",7.7,37654
-"73",16077,"Fort George Brewery + Public House",1307398910,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"74",16077,"Fort George Brewery + Public House",1306155976,4,4,4,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
-"75",16077,"Fort George Brewery + Public House",1311741554,3.5,4,4,"American IPA",4,3.5,"Vortex IPA",7.7,37654
-"76",16077,"Fort George Brewery + Public House",1311350571,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"77",16077,"Fort George Brewery + Public House",1311136321,4,3.5,3,"American IPA",4,4,"Vortex IPA",7.7,37654
-"78",16077,"Fort George Brewery + Public House",1310922635,4,4,3,"American IPA",4.5,5,"Vortex IPA",7.7,37654
-"79",16077,"Fort George Brewery + Public House",1310502539,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"80",16077,"Fort George Brewery + Public House",1309951631,4,4.5,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
-"81",16077,"Fort George Brewery + Public House",1309401971,4,4.5,2.5,"American IPA",3.5,4,"Vortex IPA",7.7,37654
-"82",16077,"Fort George Brewery + Public House",1308021153,4,4,4.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"83",16077,"Fort George Brewery + Public House",1306074198,3.5,3,4,"American IPA",3.5,3,"Vortex IPA",7.7,37654
-"84",16077,"Fort George Brewery + Public House",1305252246,4.5,4.5,4,"American IPA",4.5,4.5,"Vortex IPA",7.7,37654
-"85",16077,"Fort George Brewery + Public House",1304463627,4.5,4,4.5,"American IPA",4,4.5,"Vortex IPA",7.7,37654
-"86",16077,"Fort George Brewery + Public House",1304360442,4,4,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
-"87",16077,"Fort George Brewery + Public House",1304189305,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"88",16077,"Fort George Brewery + Public House",1303951388,4.5,4.5,5,"American IPA",5,5,"Vortex IPA",7.7,37654
-"89",16077,"Fort George Brewery + Public House",1303696484,4.5,4,4.5,"American IPA",4.5,5,"Vortex IPA",7.7,37654
-"90",16077,"Fort George Brewery + Public House",1303163814,4,4.5,3,"American IPA",4,4,"Vortex IPA",7.7,37654
-"91",16077,"Fort George Brewery + Public House",1303093616,4.5,4.5,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
-"92",16077,"Fort George Brewery + Public House",1302744303,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"93",16077,"Fort George Brewery + Public House",1302291753,3.5,3,4,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
-"94",16077,"Fort George Brewery + Public House",1301584533,4,4,3.5,"American IPA",3.5,4,"Vortex IPA",7.7,37654
-"95",16077,"Fort George Brewery + Public House",1292896617,4.5,5,4.5,"American IPA",4,4.5,"Vortex IPA",7.7,37654
-"96",16077,"Fort George Brewery + Public House",1290395754,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"97",16077,"Fort George Brewery + Public House",1280128004,4,5,5,"American IPA",4.5,5,"Vortex IPA",7.7,37654
-"98",16077,"Fort George Brewery + Public House",1279600469,4.5,5,3.5,"American IPA",3.5,4.5,"Vortex IPA",7.7,37654
-"99",16077,"Fort George Brewery + Public House",1269275531,4,3.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"100",16077,"Fort George Brewery + Public House",1263923076,4,3.5,4.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
-"101",16077,"Fort George Brewery + Public House",1249144253,5,4,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"102",16077,"Fort George Brewery + Public House",1224205525,3.5,3,3.5,"American IPA",4,4,"Vortex IPA",7.7,37654
-"103",16077,"Fort George Brewery + Public House",1205871453,4,4.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"104",16077,"Fort George Brewery + Public House",1193181294,4,4,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
-"105",16077,"Fort George Brewery + Public House",1190038358,4.5,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
-"106",16077,"Fort George Brewery + Public House",1184297495,4,5,4,"American IPA",3.5,4,"Vortex IPA",7.7,37654
-"107",16077,"Fort George Brewery + Public House",1250144759,5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Sixteenth Chapel",NA,37655
-"108",16077,"Fort George Brewery + Public House",1184297732,4.5,4,4,"American Double / Imperial IPA",3.5,4,"Sixteenth Chapel",NA,37655
-"109",16077,"Fort George Brewery + Public House",1282711569,4,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
-"110",16077,"Fort George Brewery + Public House",1316528464,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Divinity",5.1,71787
-"111",16077,"Fort George Brewery + Public House",1326158773,4.5,3.5,4,"American Double / Imperial Stout",4.5,4.5,"Cavatica Stout",8.8,37696
-"112",16077,"Fort George Brewery + Public House",1325745675,4.5,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
-"113",16077,"Fort George Brewery + Public House",1325476121,4,3.5,5,"American Double / Imperial Stout",5,4,"Cavatica Stout",8.8,37696
-"114",16077,"Fort George Brewery + Public House",1324774485,4,3.5,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
-"115",16077,"Fort George Brewery + Public House",1323052389,4,4,4.5,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
-"116",16077,"Fort George Brewery + Public House",1316558037,4,3.5,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
-"117",16077,"Fort George Brewery + Public House",1263923309,4.5,4,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
-"118",16077,"Fort George Brewery + Public House",1240814662,4.5,3.5,3.5,"American Double / Imperial Stout",4,4.5,"Cavatica Stout",8.8,37696
-"119",16077,"Fort George Brewery + Public House",1185366306,3,3.5,2.5,"American Double / Imperial Stout",3,4,"Cavatica Stout",8.8,37696
-"120",16077,"Fort George Brewery + Public House",1184481306,4,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
-"121",16077,"Fort George Brewery + Public House",1315589515,4,4,4.5,"Saison / Farmhouse Ale",4,4.5,"Magnifera Indica",7.9,72973
-"122",16077,"Fort George Brewery + Public House",1291512513,3.5,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Cohoperative (Fresh Hop Pale Ale)",5.6,64128
-"123",16077,"Fort George Brewery + Public House",1262060075,2.5,3,4,"Doppelbock",2.5,2,"Illuminator",NA,43617
-"124",16077,"Fort George Brewery + Public House",1215481492,3.5,4,4.5,"Doppelbock",3.5,3.5,"Illuminator",NA,43617
-"125",16077,"Fort George Brewery + Public House",1306685983,2.5,3,3,"American Double / Imperial Stout",4,2,"Coffee Girl Imperial Stout",9.6,41016
-"126",16077,"Fort George Brewery + Public House",1305725766,2,3.5,3.5,"American Double / Imperial Stout",3,2.5,"Coffee Girl Imperial Stout",9.6,41016
-"127",16077,"Fort George Brewery + Public House",1304176530,3.5,4,3.5,"American Double / Imperial Stout",3.5,3.5,"Coffee Girl Imperial Stout",9.6,41016
-"128",16077,"Fort George Brewery + Public House",1289611804,3.5,4,4.5,"American Double / Imperial Stout",3.5,4,"Coffee Girl Imperial Stout",9.6,41016
-"129",16077,"Fort George Brewery + Public House",1270313525,3.5,4,3.5,"American Double / Imperial Stout",3,4,"Coffee Girl Imperial Stout",9.6,41016
-"130",16077,"Fort George Brewery + Public House",1203114955,3,4,3.5,"American Double / Imperial Stout",3,2.5,"Coffee Girl Imperial Stout",9.6,41016
-"131",16077,"Fort George Brewery + Public House",1325318934,3.5,4,4.5,"American Strong Ale",3.5,3.5,"North V",7.5,74659
-"132",16077,"Fort George Brewery + Public House",1320422018,4,3.5,4.5,"American Strong Ale",3.5,3.5,"North V",7.5,74659
-"133",16077,"Fort George Brewery + Public House",1320284895,3.5,3.5,4,"American Strong Ale",4,3.5,"North V",7.5,74659
-"134",16077,"Fort George Brewery + Public House",1319908004,4,3,5,"American Strong Ale",3,4,"North V",7.5,74659
-"135",16077,"Fort George Brewery + Public House",1249014722,3,2,4,"Herbed / Spiced Beer",2,2,"Spruce Bud Ale",5.5,51528
-"136",16077,"Fort George Brewery + Public House",1277074940,4,4,4,"American Stout",3.5,3.5,"Truffle Shuffle",7.2,59246
-"137",16077,"Fort George Brewery + Public House",1276650333,4,3.5,4.5,"American Stout",4.5,4,"Truffle Shuffle",7.2,59246
-"138",16077,"Fort George Brewery + Public House",1292897309,3.5,3.5,3,"American Amber / Red Ale",4,3,"Nut Red Ale",5.9,43616
-"139",16077,"Fort George Brewery + Public House",1270708023,4,4,3.5,"American Amber / Red Ale",3,4,"Nut Red Ale",5.9,43616
-"140",16077,"Fort George Brewery + Public House",1215479739,3,3.5,3.5,"American Amber / Red Ale",3,3,"Nut Red Ale",5.9,43616
-"141",16077,"Fort George Brewery + Public House",1184544139,3.5,4,4,"American Amber / Red Ale",2.5,3.5,"Red Ale",NA,37759
-"142",16077,"Fort George Brewery + Public House",1184220059,4.5,4,4,"Fruit / Vegetable Beer",4.5,4,"Pi Beer",NA,37642
+"3",16077,"Fort George Brewery + Public House",1309954102,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Sunrise Oatmeal Pale",5.5,37643
+"4",16077,"Fort George Brewery + Public House",1293067849,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Sunrise Oatmeal Pale",5.5,37643
+"5",16077,"Fort George Brewery + Public House",1282167119,4,2.5,3,"American Pale Ale (APA)",5,3.5,"Sunrise Oatmeal Pale",5.5,37643
+"6",16077,"Fort George Brewery + Public House",1216440597,4,4,4,"American Pale Ale (APA)",4,4,"Sunrise Oatmeal Pale",5.5,37643
+"7",16077,"Fort George Brewery + Public House",1185367407,3,3,2.5,"American Pale Ale (APA)",2.5,2.5,"Sunrise Oatmeal Pale",5.5,37643
+"8",16077,"Fort George Brewery + Public House",1184221003,4,3.5,4.5,"American Pale Ale (APA)",4.5,4,"Sunrise Oatmeal Pale",5.5,37643
+"9",16077,"Fort George Brewery + Public House",1224627454,4,4,3.5,"Witbier",4,4,"Quick Wit",5.2,37682
+"10",16077,"Fort George Brewery + Public House",1216440797,4.5,4.5,4,"Witbier",4.5,4.5,"Quick Wit",5.2,37682
+"11",16077,"Fort George Brewery + Public House",1184395309,4.5,4,4.5,"Witbier",3.5,4.5,"Quick Wit",5.2,37682
+"12",16077,"Fort George Brewery + Public House",1301106327,4,4,3.5,"American Double / Imperial IPA",3.5,4,"OmegaTex Triple IPA",9,61958
+"13",16077,"Fort George Brewery + Public House",1290469355,3.5,4,4.5,"American Double / Imperial IPA",3,3,"OmegaTex Triple IPA",9,61958
+"14",16077,"Fort George Brewery + Public House",1289969372,4.5,3,4,"American Double / Imperial IPA",3.5,4,"OmegaTex Triple IPA",9,61958
+"15",16077,"Fort George Brewery + Public House",1289945294,4.5,4.5,3,"American Double / Imperial IPA",4.5,4.5,"OmegaTex Triple IPA",9,61958
+"16",16077,"Fort George Brewery + Public House",1284949529,4.5,4,3.5,"American Double / Imperial IPA",5,4.5,"OmegaTex Triple IPA",9,61958
+"17",16077,"Fort George Brewery + Public House",1320286115,4,4,4,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"18",16077,"Fort George Brewery + Public House",1317997103,4,3.5,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"19",16077,"Fort George Brewery + Public House",1317435127,3,3,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
+"20",16077,"Fort George Brewery + Public House",1315910866,2,2,4,"American Adjunct Lager",4,2,"1811 Pre-Prohibition Lager",5.1,65978
+"21",16077,"Fort George Brewery + Public House",1307640351,3,3.5,3.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
+"22",16077,"Fort George Brewery + Public House",1315802532,4,3.5,4,"American Adjunct Lager",4,3.5,"1811 Pre-Prohibition Lager",5.1,65978
+"23",16077,"Fort George Brewery + Public House",1314545148,5,4.5,5,"American Adjunct Lager",4.5,5,"1811 Pre-Prohibition Lager",5.1,65978
+"24",16077,"Fort George Brewery + Public House",1313217404,3.5,3.5,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
+"25",16077,"Fort George Brewery + Public House",1311552015,4,3.5,3,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"26",16077,"Fort George Brewery + Public House",1311460651,4,3,5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"27",16077,"Fort George Brewery + Public House",1311133512,3.5,4,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
+"28",16077,"Fort George Brewery + Public House",1311132003,4,4,4,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"29",16077,"Fort George Brewery + Public House",1309952910,4,4,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
+"30",16077,"Fort George Brewery + Public House",1307401872,3,3.5,4,"American Adjunct Lager",3,3.5,"1811 Pre-Prohibition Lager",5.1,65978
+"31",16077,"Fort George Brewery + Public House",1306595476,3.5,3.5,4,"American Adjunct Lager",3.5,3.5,"1811 Pre-Prohibition Lager",5.1,65978
+"32",16077,"Fort George Brewery + Public House",1304701433,4,4,5,"American Adjunct Lager",4.5,4,"1811 Pre-Prohibition Lager",5.1,65978
+"33",16077,"Fort George Brewery + Public House",1304186745,4,4,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"34",16077,"Fort George Brewery + Public House",1303093024,4,3.5,3.5,"American Adjunct Lager",4,4,"1811 Pre-Prohibition Lager",5.1,65978
+"35",16077,"Fort George Brewery + Public House",1303015598,5,3.5,3,"American Adjunct Lager",4,5,"1811 Pre-Prohibition Lager",5.1,65978
+"36",16077,"Fort George Brewery + Public House",1300595108,4.5,3.5,4,"American Adjunct Lager",4.5,4.5,"1811 Pre-Prohibition Lager",5.1,65978
+"37",16077,"Fort George Brewery + Public House",1296953103,4,3,4,"American Adjunct Lager",3.5,4,"1811 Pre-Prohibition Lager",5.1,65978
+"38",16077,"Fort George Brewery + Public House",1325906321,4,3.5,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
+"39",16077,"Fort George Brewery + Public House",1317990029,4.5,4,3.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"40",16077,"Fort George Brewery + Public House",1317953709,3.5,4,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
+"41",16077,"Fort George Brewery + Public House",1316243541,4,3.5,4,"American IPA",4.5,3.5,"Vortex IPA",7.7,37654
+"42",16077,"Fort George Brewery + Public House",1316225425,4,3.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"43",16077,"Fort George Brewery + Public House",1316143833,4,4,4.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"44",16077,"Fort George Brewery + Public House",1315802933,4,4,4.5,"American IPA",4,4,"Vortex IPA",7.7,37654
+"45",16077,"Fort George Brewery + Public House",1315022293,4,4.5,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"46",16077,"Fort George Brewery + Public House",1314545297,3.5,3,3.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
+"47",16077,"Fort George Brewery + Public House",1312340427,4,4.5,4.5,"American IPA",4,3.5,"Vortex IPA",7.7,37654
+"48",16077,"Fort George Brewery + Public House",1311809893,4.5,4,4,"American IPA",4.5,4.5,"Vortex IPA",7.7,37654
+"49",16077,"Fort George Brewery + Public House",1307398910,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"50",16077,"Fort George Brewery + Public House",1306155976,4,4,4,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
+"51",16077,"Fort George Brewery + Public House",1311741554,3.5,4,4,"American IPA",4,3.5,"Vortex IPA",7.7,37654
+"52",16077,"Fort George Brewery + Public House",1311350571,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"53",16077,"Fort George Brewery + Public House",1311136321,4,3.5,3,"American IPA",4,4,"Vortex IPA",7.7,37654
+"54",16077,"Fort George Brewery + Public House",1310922635,4,4,3,"American IPA",4.5,5,"Vortex IPA",7.7,37654
+"55",16077,"Fort George Brewery + Public House",1310502539,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"56",16077,"Fort George Brewery + Public House",1309951631,4,4.5,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
+"57",16077,"Fort George Brewery + Public House",1309401971,4,4.5,2.5,"American IPA",3.5,4,"Vortex IPA",7.7,37654
+"58",16077,"Fort George Brewery + Public House",1308021153,4,4,4.5,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"59",16077,"Fort George Brewery + Public House",1306074198,3.5,3,4,"American IPA",3.5,3,"Vortex IPA",7.7,37654
+"60",16077,"Fort George Brewery + Public House",1305252246,4.5,4.5,4,"American IPA",4.5,4.5,"Vortex IPA",7.7,37654
+"61",16077,"Fort George Brewery + Public House",1304463627,4.5,4,4.5,"American IPA",4,4.5,"Vortex IPA",7.7,37654
+"62",16077,"Fort George Brewery + Public House",1304360442,4,4,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
+"63",16077,"Fort George Brewery + Public House",1304189305,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"64",16077,"Fort George Brewery + Public House",1303951388,4.5,4.5,5,"American IPA",5,5,"Vortex IPA",7.7,37654
+"65",16077,"Fort George Brewery + Public House",1303696484,4.5,4,4.5,"American IPA",4.5,5,"Vortex IPA",7.7,37654
+"66",16077,"Fort George Brewery + Public House",1303163814,4,4.5,3,"American IPA",4,4,"Vortex IPA",7.7,37654
+"67",16077,"Fort George Brewery + Public House",1303093616,4.5,4.5,4,"American IPA",4,4.5,"Vortex IPA",7.7,37654
+"68",16077,"Fort George Brewery + Public House",1302744303,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"69",16077,"Fort George Brewery + Public House",1302291753,3.5,3,4,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
+"70",16077,"Fort George Brewery + Public House",1301584533,4,4,3.5,"American IPA",3.5,4,"Vortex IPA",7.7,37654
+"71",16077,"Fort George Brewery + Public House",1292896617,4.5,5,4.5,"American IPA",4,4.5,"Vortex IPA",7.7,37654
+"72",16077,"Fort George Brewery + Public House",1290395754,4,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"73",16077,"Fort George Brewery + Public House",1280128004,4,5,5,"American IPA",4.5,5,"Vortex IPA",7.7,37654
+"74",16077,"Fort George Brewery + Public House",1279600469,4.5,5,3.5,"American IPA",3.5,4.5,"Vortex IPA",7.7,37654
+"75",16077,"Fort George Brewery + Public House",1269275531,4,3.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"76",16077,"Fort George Brewery + Public House",1263923076,4,3.5,4.5,"American IPA",3.5,3.5,"Vortex IPA",7.7,37654
+"77",16077,"Fort George Brewery + Public House",1249144253,5,4,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"78",16077,"Fort George Brewery + Public House",1224205525,3.5,3,3.5,"American IPA",4,4,"Vortex IPA",7.7,37654
+"79",16077,"Fort George Brewery + Public House",1205871453,4,4.5,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"80",16077,"Fort George Brewery + Public House",1193181294,4,4,4,"American IPA",4.5,4,"Vortex IPA",7.7,37654
+"81",16077,"Fort George Brewery + Public House",1190038358,4.5,4,4,"American IPA",4,4,"Vortex IPA",7.7,37654
+"82",16077,"Fort George Brewery + Public House",1184297495,4,5,4,"American IPA",3.5,4,"Vortex IPA",7.7,37654
+"83",16077,"Fort George Brewery + Public House",1282711569,4,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
+"84",16077,"Fort George Brewery + Public House",1326158773,4.5,3.5,4,"American Double / Imperial Stout",4.5,4.5,"Cavatica Stout",8.8,37696
+"85",16077,"Fort George Brewery + Public House",1325745675,4.5,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
+"86",16077,"Fort George Brewery + Public House",1325476121,4,3.5,5,"American Double / Imperial Stout",5,4,"Cavatica Stout",8.8,37696
+"87",16077,"Fort George Brewery + Public House",1324774485,4,3.5,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
+"88",16077,"Fort George Brewery + Public House",1323052389,4,4,4.5,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
+"89",16077,"Fort George Brewery + Public House",1316558037,4,3.5,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
+"90",16077,"Fort George Brewery + Public House",1263923309,4.5,4,4,"American Double / Imperial Stout",3.5,4,"Cavatica Stout",8.8,37696
+"91",16077,"Fort George Brewery + Public House",1240814662,4.5,3.5,3.5,"American Double / Imperial Stout",4,4.5,"Cavatica Stout",8.8,37696
+"92",16077,"Fort George Brewery + Public House",1185366306,3,3.5,2.5,"American Double / Imperial Stout",3,4,"Cavatica Stout",8.8,37696
+"93",16077,"Fort George Brewery + Public House",1184481306,4,4,4,"American Double / Imperial Stout",4,4,"Cavatica Stout",8.8,37696
+"94",16077,"Fort George Brewery + Public House",1262060075,2.5,3,4,"Doppelbock",2.5,2,"Illuminator",NA,43617
+"95",16077,"Fort George Brewery + Public House",1215481492,3.5,4,4.5,"Doppelbock",3.5,3.5,"Illuminator",NA,43617
+"96",16077,"Fort George Brewery + Public House",1306685983,2.5,3,3,"American Double / Imperial Stout",4,2,"Coffee Girl Imperial Stout",9.6,41016
+"97",16077,"Fort George Brewery + Public House",1305725766,2,3.5,3.5,"American Double / Imperial Stout",3,2.5,"Coffee Girl Imperial Stout",9.6,41016
+"98",16077,"Fort George Brewery + Public House",1304176530,3.5,4,3.5,"American Double / Imperial Stout",3.5,3.5,"Coffee Girl Imperial Stout",9.6,41016
+"99",16077,"Fort George Brewery + Public House",1289611804,3.5,4,4.5,"American Double / Imperial Stout",3.5,4,"Coffee Girl Imperial Stout",9.6,41016
+"100",16077,"Fort George Brewery + Public House",1270313525,3.5,4,3.5,"American Double / Imperial Stout",3,4,"Coffee Girl Imperial Stout",9.6,41016
+"101",16077,"Fort George Brewery + Public House",1203114955,3,4,3.5,"American Double / Imperial Stout",3,2.5,"Coffee Girl Imperial Stout",9.6,41016
+"102",16077,"Fort George Brewery + Public House",1184544139,3.5,4,4,"American Amber / Red Ale",2.5,3.5,"Red Ale",NA,37759

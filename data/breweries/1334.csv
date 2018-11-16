@@ -1,103 +1,62 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1334,"Blind Tiger Brewery & Restaurant",1322081106,4,3.5,3.5,"American Stout",3.5,4,"Kitchen Sink Stout",NA,74814
-"2",1334,"Blind Tiger Brewery & Restaurant",1228940857,4,3.5,3.5,"American Porter",3.5,3.5,"Tiger Paw Porter",NA,5941
-"3",1334,"Blind Tiger Brewery & Restaurant",1216793517,3.5,4,4,"American Porter",4,3.5,"Tiger Paw Porter",NA,5941
-"4",1334,"Blind Tiger Brewery & Restaurant",1034613735,4,3.5,3,"American Porter",4,3.5,"Tiger Paw Porter",NA,5941
-"5",1334,"Blind Tiger Brewery & Restaurant",1031505860,4,4,4,"American Porter",3.5,3.5,"Tiger Paw Porter",NA,5941
-"6",1334,"Blind Tiger Brewery & Restaurant",1308704453,3.5,3.5,3,"Witbier",3.5,3.5,"Sunflower Wit",NA,70273
-"7",1334,"Blind Tiger Brewery & Restaurant",1031403718,3,4,4,"English Brown Ale",3,3.5,"Prairie Dog Brown",NA,5929
-"8",1334,"Blind Tiger Brewery & Restaurant",1321888423,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",NA,62082
-"9",1334,"Blind Tiger Brewery & Restaurant",1285463350,4,3.5,4,"Märzen / Oktoberfest",3,4,"Oktoberfest",NA,62082
-"10",1334,"Blind Tiger Brewery & Restaurant",1320284802,3.5,3.5,3,"American IPA",3.5,4,"Tiger Bite IPA",NA,5931
-"11",1334,"Blind Tiger Brewery & Restaurant",1293476012,4,3.5,4,"American IPA",3,4,"Tiger Bite IPA",NA,5931
-"12",1334,"Blind Tiger Brewery & Restaurant",1287179395,3.5,3,3.5,"American IPA",3.5,3.5,"Tiger Bite IPA",NA,5931
-"13",1334,"Blind Tiger Brewery & Restaurant",1247009934,4,3.5,3.5,"American IPA",4,3.5,"Tiger Bite IPA",NA,5931
-"14",1334,"Blind Tiger Brewery & Restaurant",1228941120,4,3.5,4,"American IPA",4,3.5,"Tiger Bite IPA",NA,5931
-"15",1334,"Blind Tiger Brewery & Restaurant",1183222830,3,3.5,3,"American IPA",3.5,4,"Tiger Bite IPA",NA,5931
-"16",1334,"Blind Tiger Brewery & Restaurant",1061676196,4.5,3.5,4,"Rauchbier",3.5,3.5,"Smokey The Beer",NA,12242
-"17",1334,"Blind Tiger Brewery & Restaurant",1094338936,4,4,4,"American IPA",4,4,"Tiger Bite IPA",NA,5931
-"18",1334,"Blind Tiger Brewery & Restaurant",1034613494,4,4,4,"American IPA",4,4.5,"Tiger Bite IPA",NA,5931
-"19",1334,"Blind Tiger Brewery & Restaurant",1031404826,4,4,3,"American IPA",3.5,3.5,"Tiger Bite IPA",NA,5931
-"20",1334,"Blind Tiger Brewery & Restaurant",1287141280,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Holy Grail Pale Ale",NA,5928
-"21",1334,"Blind Tiger Brewery & Restaurant",1183222605,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Holy Grail Pale Ale",NA,5928
-"22",1334,"Blind Tiger Brewery & Restaurant",1170129927,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Holy Grail Pale Ale",NA,5928
-"23",1334,"Blind Tiger Brewery & Restaurant",1127745249,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Holy Grail Pale Ale",NA,5928
-"24",1334,"Blind Tiger Brewery & Restaurant",1034613399,4,3.5,4,"American Pale Ale (APA)",4,4,"Holy Grail Pale Ale",NA,5928
-"25",1334,"Blind Tiger Brewery & Restaurant",1031402986,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Holy Grail Pale Ale",NA,5928
-"26",1334,"Blind Tiger Brewery & Restaurant",1321888129,4,4,4,"Rauchbier",4.5,4,"Smokey The Beer",NA,12242
-"27",1334,"Blind Tiger Brewery & Restaurant",1254681115,1.5,2.5,4,"Rauchbier",3,2,"Smokey The Beer",NA,12242
-"28",1334,"Blind Tiger Brewery & Restaurant",1249956795,4,4,4,"Rauchbier",3.5,4,"Smokey The Beer",NA,12242
-"29",1334,"Blind Tiger Brewery & Restaurant",1066081157,4.5,3.5,4,"Märzen / Oktoberfest",3,4,"Marzenbier",NA,13520
-"30",1334,"Blind Tiger Brewery & Restaurant",1308704839,4,3.5,3,"California Common / Steam Beer",3.5,4,"Gold Rush Golden Lager",NA,70274
-"31",1334,"Blind Tiger Brewery & Restaurant",1287179057,1,1.5,3,"American Pale Wheat Ale",1.5,1,"Stinger Honey Wheat",NA,6635
-"32",1334,"Blind Tiger Brewery & Restaurant",1034613191,4,4.5,3.5,"American Pale Wheat Ale",4,4,"Stinger Honey Wheat",NA,6635
-"33",1334,"Blind Tiger Brewery & Restaurant",1322082056,3.5,3.5,3.5,"Kölsch",4,3.5,"Capital City Kolsch",NA,75657
-"34",1334,"Blind Tiger Brewery & Restaurant",1290901741,4.5,4.5,3.5,"American IPA",4,4,"Top Gun IPA",NA,62083
-"35",1334,"Blind Tiger Brewery & Restaurant",1285463519,4,4,4,"American IPA",4,4,"Top Gun IPA",NA,62083
-"36",1334,"Blind Tiger Brewery & Restaurant",1301530124,4,3.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Hope Spring Saison",NA,67660
-"37",1334,"Blind Tiger Brewery & Restaurant",1320285102,3,2,2.5,"American Pale Wheat Ale",3.5,3,"County Seat Wheat",NA,6601
-"38",1334,"Blind Tiger Brewery & Restaurant",1287803674,3.5,3,3.5,"American Pale Wheat Ale",3,3,"County Seat Wheat",NA,6601
-"39",1334,"Blind Tiger Brewery & Restaurant",1287140825,2,2,3,"American Pale Wheat Ale",3,2,"County Seat Wheat",NA,6601
-"40",1334,"Blind Tiger Brewery & Restaurant",1047907893,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"County Seat Wheat",NA,6601
-"41",1334,"Blind Tiger Brewery & Restaurant",1034515559,3.5,3,2,"American Pale Wheat Ale",3.5,2.5,"County Seat Wheat",NA,6601
-"42",1334,"Blind Tiger Brewery & Restaurant",1320282103,4,3.5,4.5,"American Stout",4,4,"Kitchen Sink Stout",NA,74814
-"43",1334,"Blind Tiger Brewery & Restaurant",1076943435,4,3.5,3.5,"American IPA",4,3.5,"Celebration Ale",7.5,15940
-"44",1334,"Blind Tiger Brewery & Restaurant",1320286516,3,4,3,"American Porter",3.5,3,"Java Porter",NA,8993
-"45",1334,"Blind Tiger Brewery & Restaurant",1308597979,4,4.5,3.5,"American Porter",3.5,4,"Java Porter",NA,8993
-"46",1334,"Blind Tiger Brewery & Restaurant",1294599619,4,4,4,"American Porter",3.5,4.5,"Java Porter",NA,8993
-"47",1334,"Blind Tiger Brewery & Restaurant",1229042653,2.5,3,3.5,"American Porter",3.5,2.5,"Java Porter",NA,8993
-"48",1334,"Blind Tiger Brewery & Restaurant",1204828717,3.5,4.5,3.5,"American Porter",4,4,"Java Porter",NA,8993
-"49",1334,"Blind Tiger Brewery & Restaurant",1179444857,4.5,4.5,3.5,"American Porter",4,4.5,"Java Porter",NA,8993
-"50",1334,"Blind Tiger Brewery & Restaurant",1157771415,3.5,4.5,4,"American Porter",4,4.5,"Java Porter",NA,8993
-"51",1334,"Blind Tiger Brewery & Restaurant",1141751624,4,4,4,"American Porter",4,4,"Java Porter",NA,8993
-"52",1334,"Blind Tiger Brewery & Restaurant",1047909525,3.5,3.5,4.5,"American Porter",3.5,3,"Java Porter",NA,8993
-"53",1334,"Blind Tiger Brewery & Restaurant",1325160361,3.5,3.5,4,"American IPA",3.5,4,"Stranger Danger IPA",NA,76808
-"54",1334,"Blind Tiger Brewery & Restaurant",1287143573,1,2,3,"Fruit / Vegetable Beer",2,1,"Raspberry Wheat",NA,6633
-"55",1334,"Blind Tiger Brewery & Restaurant",1066081972,3,3.5,3.5,"Fruit / Vegetable Beer",4,3,"Raspberry Wheat",NA,6633
-"56",1334,"Blind Tiger Brewery & Restaurant",1034612935,4,4,3.5,"Fruit / Vegetable Beer",4,4,"Raspberry Wheat",NA,6633
-"57",1334,"Blind Tiger Brewery & Restaurant",1096044094,4,4,4,"American IPA",4,4,"Hop Garden IPA",NA,20002
-"58",1334,"Blind Tiger Brewery & Restaurant",1291416164,4,4,4.5,"Russian Imperial Stout",4,4,"Imperial Stout",8,8991
-"59",1334,"Blind Tiger Brewery & Restaurant",1047908477,5,3.5,4.5,"Russian Imperial Stout",3.5,3.5,"Imperial Stout",8,8991
-"60",1334,"Blind Tiger Brewery & Restaurant",1287141873,4,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Maibock",6.3,3608
-"61",1334,"Blind Tiger Brewery & Restaurant",1228940510,3.5,3.5,4,"Maibock / Helles Bock",4,3.5,"Maibock",6.3,3608
-"62",1334,"Blind Tiger Brewery & Restaurant",1217522325,4,4,4,"Maibock / Helles Bock",4.5,4.5,"Maibock",6.3,3608
-"63",1334,"Blind Tiger Brewery & Restaurant",1183222303,4,3,3.5,"Maibock / Helles Bock",3.5,4,"Maibock",6.3,3608
-"64",1334,"Blind Tiger Brewery & Restaurant",1020715183,4,3.5,3,"Maibock / Helles Bock",3,3.5,"Maibock",6.3,3608
-"65",1334,"Blind Tiger Brewery & Restaurant",1090618306,4.5,3.5,4,"Altbier",3,3,"Altenstein",NA,18894
-"66",1334,"Blind Tiger Brewery & Restaurant",1308873158,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Interstellar Galactic IPA",8.2,70340
-"67",1334,"Blind Tiger Brewery & Restaurant",1322080588,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Raw Wheat Ale",NA,52258
-"68",1334,"Blind Tiger Brewery & Restaurant",1320284374,3,3.5,3,"American Pale Wheat Ale",2.5,3.5,"Raw Wheat Ale",NA,52258
-"69",1334,"Blind Tiger Brewery & Restaurant",1280274696,4.5,3.5,4,"American Pale Wheat Ale",4.5,4.5,"Raw Wheat Ale",NA,52258
-"70",1334,"Blind Tiger Brewery & Restaurant",1251805664,3.5,3,3.5,"American Pale Wheat Ale",3,3.5,"Raw Wheat Ale",NA,52258
-"71",1334,"Blind Tiger Brewery & Restaurant",1069459927,3.5,3,4,"Pumpkin Ale",3.5,3,"Pumpkin Ale",NA,14324
-"72",1334,"Blind Tiger Brewery & Restaurant",1301620624,4,4,3.5,"American IPA",4,4,"El Dorado IPA",NA,67686
-"73",1334,"Blind Tiger Brewery & Restaurant",1061675705,3.5,4.5,4.5,"American Porter",3.5,4,"Whiskey Porter",NA,12240
-"74",1334,"Blind Tiger Brewery & Restaurant",1047908918,4,3.5,4,"Irish Red Ale",4,3,"Blarney Irish Red",NA,8992
-"75",1334,"Blind Tiger Brewery & Restaurant",1322230856,4,3.5,3.5,"American Double / Imperial Pilsner",4,4,"Eye Of The Tiger Imperial Pilsner",8.2,75686
-"76",1334,"Blind Tiger Brewery & Restaurant",1287179576,4,4,4,"Rye Beer",4,3.5,"Tailwind Rye",NA,6603
-"77",1334,"Blind Tiger Brewery & Restaurant",1183221817,3.5,2.5,2.5,"Rye Beer",3,3.5,"Tailwind Rye",NA,6603
-"78",1334,"Blind Tiger Brewery & Restaurant",1163865036,4,3.5,4,"Rye Beer",3.5,4,"Tailwind Rye",NA,6603
-"79",1334,"Blind Tiger Brewery & Restaurant",1096306034,4,4,3,"Rye Beer",4,4.5,"Tailwind Rye",NA,6603
-"80",1334,"Blind Tiger Brewery & Restaurant",1061676706,3.5,2.5,3.5,"Rye Beer",3,3,"Tailwind Rye",NA,6603
-"81",1334,"Blind Tiger Brewery & Restaurant",1034515772,4.5,4,3,"Rye Beer",4.5,3.5,"Tailwind Rye",NA,6603
-"82",1334,"Blind Tiger Brewery & Restaurant",1301534129,3.5,3.5,4.5,"Irish Dry Stout",4,3.5,"Dust Bowl Dry Stout",NA,13521
-"83",1334,"Blind Tiger Brewery & Restaurant",1066081598,5,3.5,4,"Irish Dry Stout",3.5,4,"Dust Bowl Dry Stout",NA,13521
-"84",1334,"Blind Tiger Brewery & Restaurant",1034613067,4,2,3.5,"German Pilsener",4,3,"Liberty Pilsner",NA,6634
-"85",1334,"Blind Tiger Brewery & Restaurant",1042565595,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Ichabod ESB",NA,8053
-"86",1334,"Blind Tiger Brewery & Restaurant",1115232096,4,3,3.5,"Witbier",4,3.5,"White Tiger Wit",NA,5930
-"87",1334,"Blind Tiger Brewery & Restaurant",1031404345,4.5,4,4,"Witbier",3.5,4,"White Tiger Wit",NA,5930
-"88",1334,"Blind Tiger Brewery & Restaurant",1069460524,4.5,3,4,"American Adjunct Lager",4,3,"Fiesta Cervesa",NA,14325
-"89",1334,"Blind Tiger Brewery & Restaurant",1308872647,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Amber",NA,5927
-"90",1334,"Blind Tiger Brewery & Restaurant",1287140985,3.5,3,4,"American Amber / Red Ale",3,3,"Amber",NA,5927
-"91",1334,"Blind Tiger Brewery & Restaurant",1216793000,3,4,5,"American Amber / Red Ale",3,3,"Amber",NA,5927
-"92",1334,"Blind Tiger Brewery & Restaurant",1137858941,3.5,3.5,3,"American Amber / Red Ale",4,3.5,"Amber",NA,5927
-"93",1334,"Blind Tiger Brewery & Restaurant",1096306412,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Amber",NA,5927
-"94",1334,"Blind Tiger Brewery & Restaurant",1034613284,3.5,2.5,4,"American Amber / Red Ale",4,3.5,"Amber",NA,5927
-"95",1334,"Blind Tiger Brewery & Restaurant",1031402533,3.5,3.5,4,"American Amber / Red Ale",2.5,3,"Amber",NA,5927
-"96",1334,"Blind Tiger Brewery & Restaurant",1310351138,3.5,3.5,3.5,"American IPA",4,3.5,"Live At The Fillmore IPA",NA,70935
-"97",1334,"Blind Tiger Brewery & Restaurant",1076943909,5,3.5,4.5,"Russian Imperial Stout",4.5,4.5,"Grandmother's Whiskey Stout",9,15941
-"98",1334,"Blind Tiger Brewery & Restaurant",1163864110,4,3.5,4,"American IPA",3.5,3.5,"Chief Burnett's IPA",NA,3609
-"99",1334,"Blind Tiger Brewery & Restaurant",1034613629,4.5,4.5,4,"American IPA",4.5,5,"Chief Burnett's IPA",NA,3609
-"100",1334,"Blind Tiger Brewery & Restaurant",1020716335,4.5,4.5,3.5,"American IPA",4,4,"Chief Burnett's IPA",NA,3609
-"101",1334,"Blind Tiger Brewery & Restaurant",1061677280,4.5,3.5,4,"American Stout",4,4,"Shunganunga Stout",NA,12243
-"102",1334,"Blind Tiger Brewery & Restaurant",1034515669,3.5,2.5,3,"Hefeweizen",4,2.5,"Hefeweizen",NA,6602
+"1",1334,"Blind Tiger Brewery & Restaurant",1321888423,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",NA,62082
+"2",1334,"Blind Tiger Brewery & Restaurant",1285463350,4,3.5,4,"Märzen / Oktoberfest",3,4,"Oktoberfest",NA,62082
+"3",1334,"Blind Tiger Brewery & Restaurant",1320284802,3.5,3.5,3,"American IPA",3.5,4,"Tiger Bite IPA",NA,5931
+"4",1334,"Blind Tiger Brewery & Restaurant",1293476012,4,3.5,4,"American IPA",3,4,"Tiger Bite IPA",NA,5931
+"5",1334,"Blind Tiger Brewery & Restaurant",1287179395,3.5,3,3.5,"American IPA",3.5,3.5,"Tiger Bite IPA",NA,5931
+"6",1334,"Blind Tiger Brewery & Restaurant",1247009934,4,3.5,3.5,"American IPA",4,3.5,"Tiger Bite IPA",NA,5931
+"7",1334,"Blind Tiger Brewery & Restaurant",1228941120,4,3.5,4,"American IPA",4,3.5,"Tiger Bite IPA",NA,5931
+"8",1334,"Blind Tiger Brewery & Restaurant",1183222830,3,3.5,3,"American IPA",3.5,4,"Tiger Bite IPA",NA,5931
+"9",1334,"Blind Tiger Brewery & Restaurant",1061676196,4.5,3.5,4,"Rauchbier",3.5,3.5,"Smokey The Beer",NA,12242
+"10",1334,"Blind Tiger Brewery & Restaurant",1094338936,4,4,4,"American IPA",4,4,"Tiger Bite IPA",NA,5931
+"11",1334,"Blind Tiger Brewery & Restaurant",1034613494,4,4,4,"American IPA",4,4.5,"Tiger Bite IPA",NA,5931
+"12",1334,"Blind Tiger Brewery & Restaurant",1031404826,4,4,3,"American IPA",3.5,3.5,"Tiger Bite IPA",NA,5931
+"13",1334,"Blind Tiger Brewery & Restaurant",1287141280,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Holy Grail Pale Ale",NA,5928
+"14",1334,"Blind Tiger Brewery & Restaurant",1183222605,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Holy Grail Pale Ale",NA,5928
+"15",1334,"Blind Tiger Brewery & Restaurant",1170129927,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Holy Grail Pale Ale",NA,5928
+"16",1334,"Blind Tiger Brewery & Restaurant",1127745249,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Holy Grail Pale Ale",NA,5928
+"17",1334,"Blind Tiger Brewery & Restaurant",1034613399,4,3.5,4,"American Pale Ale (APA)",4,4,"Holy Grail Pale Ale",NA,5928
+"18",1334,"Blind Tiger Brewery & Restaurant",1031402986,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Holy Grail Pale Ale",NA,5928
+"19",1334,"Blind Tiger Brewery & Restaurant",1321888129,4,4,4,"Rauchbier",4.5,4,"Smokey The Beer",NA,12242
+"20",1334,"Blind Tiger Brewery & Restaurant",1254681115,1.5,2.5,4,"Rauchbier",3,2,"Smokey The Beer",NA,12242
+"21",1334,"Blind Tiger Brewery & Restaurant",1249956795,4,4,4,"Rauchbier",3.5,4,"Smokey The Beer",NA,12242
+"22",1334,"Blind Tiger Brewery & Restaurant",1320285102,3,2,2.5,"American Pale Wheat Ale",3.5,3,"County Seat Wheat",NA,6601
+"23",1334,"Blind Tiger Brewery & Restaurant",1287803674,3.5,3,3.5,"American Pale Wheat Ale",3,3,"County Seat Wheat",NA,6601
+"24",1334,"Blind Tiger Brewery & Restaurant",1287140825,2,2,3,"American Pale Wheat Ale",3,2,"County Seat Wheat",NA,6601
+"25",1334,"Blind Tiger Brewery & Restaurant",1047907893,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"County Seat Wheat",NA,6601
+"26",1334,"Blind Tiger Brewery & Restaurant",1034515559,3.5,3,2,"American Pale Wheat Ale",3.5,2.5,"County Seat Wheat",NA,6601
+"27",1334,"Blind Tiger Brewery & Restaurant",1076943435,4,3.5,3.5,"American IPA",4,3.5,"Celebration Ale",7.5,15940
+"28",1334,"Blind Tiger Brewery & Restaurant",1320286516,3,4,3,"American Porter",3.5,3,"Java Porter",NA,8993
+"29",1334,"Blind Tiger Brewery & Restaurant",1308597979,4,4.5,3.5,"American Porter",3.5,4,"Java Porter",NA,8993
+"30",1334,"Blind Tiger Brewery & Restaurant",1294599619,4,4,4,"American Porter",3.5,4.5,"Java Porter",NA,8993
+"31",1334,"Blind Tiger Brewery & Restaurant",1229042653,2.5,3,3.5,"American Porter",3.5,2.5,"Java Porter",NA,8993
+"32",1334,"Blind Tiger Brewery & Restaurant",1204828717,3.5,4.5,3.5,"American Porter",4,4,"Java Porter",NA,8993
+"33",1334,"Blind Tiger Brewery & Restaurant",1179444857,4.5,4.5,3.5,"American Porter",4,4.5,"Java Porter",NA,8993
+"34",1334,"Blind Tiger Brewery & Restaurant",1157771415,3.5,4.5,4,"American Porter",4,4.5,"Java Porter",NA,8993
+"35",1334,"Blind Tiger Brewery & Restaurant",1141751624,4,4,4,"American Porter",4,4,"Java Porter",NA,8993
+"36",1334,"Blind Tiger Brewery & Restaurant",1047909525,3.5,3.5,4.5,"American Porter",3.5,3,"Java Porter",NA,8993
+"37",1334,"Blind Tiger Brewery & Restaurant",1287143573,1,2,3,"Fruit / Vegetable Beer",2,1,"Raspberry Wheat",NA,6633
+"38",1334,"Blind Tiger Brewery & Restaurant",1066081972,3,3.5,3.5,"Fruit / Vegetable Beer",4,3,"Raspberry Wheat",NA,6633
+"39",1334,"Blind Tiger Brewery & Restaurant",1034612935,4,4,3.5,"Fruit / Vegetable Beer",4,4,"Raspberry Wheat",NA,6633
+"40",1334,"Blind Tiger Brewery & Restaurant",1291416164,4,4,4.5,"Russian Imperial Stout",4,4,"Imperial Stout",8,8991
+"41",1334,"Blind Tiger Brewery & Restaurant",1047908477,5,3.5,4.5,"Russian Imperial Stout",3.5,3.5,"Imperial Stout",8,8991
+"42",1334,"Blind Tiger Brewery & Restaurant",1287141873,4,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Maibock",6.3,3608
+"43",1334,"Blind Tiger Brewery & Restaurant",1228940510,3.5,3.5,4,"Maibock / Helles Bock",4,3.5,"Maibock",6.3,3608
+"44",1334,"Blind Tiger Brewery & Restaurant",1217522325,4,4,4,"Maibock / Helles Bock",4.5,4.5,"Maibock",6.3,3608
+"45",1334,"Blind Tiger Brewery & Restaurant",1183222303,4,3,3.5,"Maibock / Helles Bock",3.5,4,"Maibock",6.3,3608
+"46",1334,"Blind Tiger Brewery & Restaurant",1020715183,4,3.5,3,"Maibock / Helles Bock",3,3.5,"Maibock",6.3,3608
+"47",1334,"Blind Tiger Brewery & Restaurant",1069459927,3.5,3,4,"Pumpkin Ale",3.5,3,"Pumpkin Ale",NA,14324
+"48",1334,"Blind Tiger Brewery & Restaurant",1287179576,4,4,4,"Rye Beer",4,3.5,"Tailwind Rye",NA,6603
+"49",1334,"Blind Tiger Brewery & Restaurant",1183221817,3.5,2.5,2.5,"Rye Beer",3,3.5,"Tailwind Rye",NA,6603
+"50",1334,"Blind Tiger Brewery & Restaurant",1163865036,4,3.5,4,"Rye Beer",3.5,4,"Tailwind Rye",NA,6603
+"51",1334,"Blind Tiger Brewery & Restaurant",1096306034,4,4,3,"Rye Beer",4,4.5,"Tailwind Rye",NA,6603
+"52",1334,"Blind Tiger Brewery & Restaurant",1061676706,3.5,2.5,3.5,"Rye Beer",3,3,"Tailwind Rye",NA,6603
+"53",1334,"Blind Tiger Brewery & Restaurant",1034515772,4.5,4,3,"Rye Beer",4.5,3.5,"Tailwind Rye",NA,6603
+"54",1334,"Blind Tiger Brewery & Restaurant",1308872647,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Amber",NA,5927
+"55",1334,"Blind Tiger Brewery & Restaurant",1287140985,3.5,3,4,"American Amber / Red Ale",3,3,"Amber",NA,5927
+"56",1334,"Blind Tiger Brewery & Restaurant",1216793000,3,4,5,"American Amber / Red Ale",3,3,"Amber",NA,5927
+"57",1334,"Blind Tiger Brewery & Restaurant",1137858941,3.5,3.5,3,"American Amber / Red Ale",4,3.5,"Amber",NA,5927
+"58",1334,"Blind Tiger Brewery & Restaurant",1096306412,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Amber",NA,5927
+"59",1334,"Blind Tiger Brewery & Restaurant",1034613284,3.5,2.5,4,"American Amber / Red Ale",4,3.5,"Amber",NA,5927
+"60",1334,"Blind Tiger Brewery & Restaurant",1031402533,3.5,3.5,4,"American Amber / Red Ale",2.5,3,"Amber",NA,5927
+"61",1334,"Blind Tiger Brewery & Restaurant",1034515669,3.5,2.5,3,"Hefeweizen",4,2.5,"Hefeweizen",NA,6602

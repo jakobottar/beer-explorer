@@ -1,205 +1,145 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",11023,"Better Bitters Brewing Co.",1285866113,3.5,4,3.5,"Flanders Oud Bruin",2,4,"Nickel Brook Sour Cherry",6.2,62142
-"2",11023,"Better Bitters Brewing Co.",1285592173,3.5,4,3.5,"Flanders Oud Bruin",3.5,3.5,"Nickel Brook Sour Cherry",6.2,62142
-"3",11023,"Better Bitters Brewing Co.",1247432353,3,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,3.5,"Victory Compass Albion Ale",5.5,51087
-"4",11023,"Better Bitters Brewing Co.",1237082959,2,2,2.5,"American Pale Lager",2.5,2,"Nickel Brook Draught",5,33544
-"5",11023,"Better Bitters Brewing Co.",1258386431,3,3.5,3,"Vienna Lager",3,3,"Suzie's Organic Lakeside Lager",4,54154
-"6",11023,"Better Bitters Brewing Co.",1285958749,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Nickel Brook Trillium Pale Ale",5.2,62242
-"7",11023,"Better Bitters Brewing Co.",1323088589,4,3.5,4,"Scottish Ale",3.5,4,"Nickel Brook 80/-",5,34019
-"8",11023,"Better Bitters Brewing Co.",1243118482,3.5,3,3.5,"Scottish Ale",3.5,3.5,"Nickel Brook 80/-",5,34019
-"9",11023,"Better Bitters Brewing Co.",1165887931,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Nickel Brook 80/-",5,34019
-"10",11023,"Better Bitters Brewing Co.",1165708675,4,3.5,4.5,"Scottish Ale",3.5,4,"Nickel Brook 80/-",5,34019
-"11",11023,"Better Bitters Brewing Co.",1165707669,4,3.5,4,"Scottish Ale",4,3,"Nickel Brook 80/-",5,34019
-"12",11023,"Better Bitters Brewing Co.",1165504451,3.5,3,4,"Scottish Ale",3,3,"Nickel Brook 80/-",5,34019
-"13",11023,"Better Bitters Brewing Co.",1164673793,4,3,4,"Scottish Ale",4.5,3.5,"Nickel Brook 80/-",5,34019
-"14",11023,"Better Bitters Brewing Co.",1321670176,2.5,2.5,2,"American Blonde Ale",2.5,2,"Nickel Brook Gluten Free",5.8,66071
-"15",11023,"Better Bitters Brewing Co.",1306639696,3.5,3,2,"American Blonde Ale",3,3,"Nickel Brook Gluten Free",5.8,66071
-"16",11023,"Better Bitters Brewing Co.",1300661785,1,1.5,2,"American Blonde Ale",2,1.5,"Nickel Brook Gluten Free",5.8,66071
-"17",11023,"Better Bitters Brewing Co.",1295822668,2.5,2,3,"American Blonde Ale",3,2.5,"Nickel Brook Gluten Free",5.8,66071
-"18",11023,"Better Bitters Brewing Co.",1297388802,1.5,2,2.5,"American Blonde Ale",2,2,"Nickel Brook Gluten Free",5.8,66071
-"19",11023,"Better Bitters Brewing Co.",1297359641,1.5,1.5,3,"American Blonde Ale",1.5,1.5,"Nickel Brook Gluten Free",5.8,66071
-"20",11023,"Better Bitters Brewing Co.",1297209769,2.5,2,4,"American Blonde Ale",2,1,"Nickel Brook Gluten Free",5.8,66071
-"21",11023,"Better Bitters Brewing Co.",1297902239,3,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Nickel Brook Oak-Aged Unique Kriek",6,48383
-"22",11023,"Better Bitters Brewing Co.",1276040568,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
-"23",11023,"Better Bitters Brewing Co.",1249559640,3.5,3,4,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
-"24",11023,"Better Bitters Brewing Co.",1238727922,4,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
-"25",11023,"Better Bitters Brewing Co.",1236657117,4,3,3.5,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
-"26",11023,"Better Bitters Brewing Co.",1249559814,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Earl's Elgin County Auburn Ale",5,33417
-"27",11023,"Better Bitters Brewing Co.",1245247238,4,3.5,4,"English Pale Ale",4,3.5,"Earl's Elgin County Auburn Ale",5,33417
-"28",11023,"Better Bitters Brewing Co.",1161826255,4,3,3.5,"English Pale Ale",3.5,3.5,"Earl's Elgin County Auburn Ale",5,33417
-"29",11023,"Better Bitters Brewing Co.",1298562235,3,3,3,"Märzen / Oktoberfest",4,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"30",11023,"Better Bitters Brewing Co.",1286292879,3.5,3,4,"Märzen / Oktoberfest",3,2.5,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"31",11023,"Better Bitters Brewing Co.",1277513162,4,3.5,4.5,"Märzen / Oktoberfest",3.5,4,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"32",11023,"Better Bitters Brewing Co.",1273964346,4,4,3.5,"Märzen / Oktoberfest",3,4,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"33",11023,"Better Bitters Brewing Co.",1269528911,3,3,3.5,"Märzen / Oktoberfest",3,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"34",11023,"Better Bitters Brewing Co.",1268607928,3.5,3,3,"Märzen / Oktoberfest",3,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
-"35",11023,"Better Bitters Brewing Co.",1248102371,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Victory Compass Albion Ale",5.5,51087
-"36",11023,"Better Bitters Brewing Co.",1192329903,4,3.5,3,"American Pale Lager",3,3.5,"Nickel Brook Draught",5,33544
-"37",11023,"Better Bitters Brewing Co.",1162679700,4,3.5,3.5,"American Pale Lager",3.5,4,"Nickel Brook Draught",5,33544
-"38",11023,"Better Bitters Brewing Co.",1209600507,3.5,3.5,4,"Herbed / Spiced Beer",3.5,3.5,"Nickel Brook Cuvee 07 Strong Spiced Ale",NA,42254
-"39",11023,"Better Bitters Brewing Co.",1208741054,4,4.5,3.5,"Herbed / Spiced Beer",4,4,"Nickel Brook Cuvee 07 Strong Spiced Ale",NA,42254
-"40",11023,"Better Bitters Brewing Co.",1298488965,4,4,4.5,"American Porter",4,3.5,"Nickel Brook Maple Porter - Vanilla Bean",NA,66579
-"41",11023,"Better Bitters Brewing Co.",1276040922,3.5,3.5,3,"Eisbock",3,3.5,"Nickel Brook Ice Bock",6,43504
-"42",11023,"Better Bitters Brewing Co.",1215929104,3.5,3.5,3.5,"Eisbock",3.5,3.5,"Nickel Brook Ice Bock",6,43504
-"43",11023,"Better Bitters Brewing Co.",1215028897,3.5,3.5,3.5,"Eisbock",4,3.5,"Nickel Brook Ice Bock",6,43504
-"44",11023,"Better Bitters Brewing Co.",1168009492,3.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Nickel Brook Premium Lager",5,30158
-"45",11023,"Better Bitters Brewing Co.",1154284960,3,2.5,3,"American Amber / Red Lager",3,3.5,"Nickel Brook Premium Lager",5,30158
-"46",11023,"Better Bitters Brewing Co.",1146187006,4,4,3.5,"American Amber / Red Lager",3.5,4,"Nickel Brook Premium Lager",5,30158
-"47",11023,"Better Bitters Brewing Co.",1320077336,3,3.5,3.5,"Pumpkin Ale",2.5,3.5,"Nickel Brook Pumpkin Ale",5,63546
-"48",11023,"Better Bitters Brewing Co.",1297222086,3,3,3.5,"Pumpkin Ale",3,3.5,"Nickel Brook Pumpkin Ale",5,63546
-"49",11023,"Better Bitters Brewing Co.",1289788849,4,3.5,3.5,"Pumpkin Ale",3.5,3.5,"Nickel Brook Pumpkin Ale",5,63546
-"50",11023,"Better Bitters Brewing Co.",1320270436,4,4,3.5,"American Double / Imperial Stout",3.5,4,"Nickel Brook Let Tzar Be Imperial Stout",9,74756
-"51",11023,"Better Bitters Brewing Co.",1320103537,4,3.5,3.5,"American Double / Imperial Stout",3.5,3.5,"Nickel Brook Let Tzar Be Imperial Stout",9,74756
-"52",11023,"Better Bitters Brewing Co.",1320101580,2.5,3,3,"American Double / Imperial Stout",3,3,"Nickel Brook Let Tzar Be Imperial Stout",9,74756
-"53",11023,"Better Bitters Brewing Co.",1325981441,2.5,3,4.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"54",11023,"Better Bitters Brewing Co.",1323808101,3.5,3.5,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"55",11023,"Better Bitters Brewing Co.",1323715752,3.5,3.5,4,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"56",11023,"Better Bitters Brewing Co.",1322770585,3,3,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"57",11023,"Better Bitters Brewing Co.",1136332918,3,2.5,3,"English Brown Ale",3,2.5,"Nickel Brook Ale",5,26366
-"58",11023,"Better Bitters Brewing Co.",1322456852,3,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"59",11023,"Better Bitters Brewing Co.",1292376996,2.5,3,3.5,"English Brown Ale",3,2.5,"Nickel Brook Ale",5,26366
-"60",11023,"Better Bitters Brewing Co.",1288138355,3.5,3.5,4,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"61",11023,"Better Bitters Brewing Co.",1280536652,3.5,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"62",11023,"Better Bitters Brewing Co.",1271648433,2.5,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"63",11023,"Better Bitters Brewing Co.",1243553942,3,3,3,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"64",11023,"Better Bitters Brewing Co.",1242785429,3.5,3.5,2,"English Brown Ale",4,3.5,"Nickel Brook Ale",5,26366
-"65",11023,"Better Bitters Brewing Co.",1241835516,3.5,3.5,3.5,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"66",11023,"Better Bitters Brewing Co.",1194745150,3,2.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"67",11023,"Better Bitters Brewing Co.",1187469237,3,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"68",11023,"Better Bitters Brewing Co.",1157238057,4,3.5,3.5,"English Brown Ale",4,4,"Nickel Brook Ale",5,26366
-"69",11023,"Better Bitters Brewing Co.",1154653952,4,3.5,4,"English Brown Ale",4.5,4,"Nickel Brook Ale",5,26366
-"70",11023,"Better Bitters Brewing Co.",1154286238,3,3,3,"English Brown Ale",2.5,3.5,"Nickel Brook Ale",5,26366
-"71",11023,"Better Bitters Brewing Co.",1151715829,3.5,3.5,2.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
-"72",11023,"Better Bitters Brewing Co.",1148610441,4,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
-"73",11023,"Better Bitters Brewing Co.",1148440072,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
-"74",11023,"Better Bitters Brewing Co.",1146192382,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
-"75",11023,"Better Bitters Brewing Co.",1129170848,2.5,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
-"76",11023,"Better Bitters Brewing Co.",1308459478,3,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"77",11023,"Better Bitters Brewing Co.",1288029036,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"78",11023,"Better Bitters Brewing Co.",1283128439,3.5,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"79",11023,"Better Bitters Brewing Co.",1260929431,2.5,2.5,3,"Fruit / Vegetable Beer",2,2.5,"Nickel Brook Green Apple Pilsner",4,31024
-"80",11023,"Better Bitters Brewing Co.",1251232474,2.5,3,2.5,"Fruit / Vegetable Beer",1.5,2.5,"Nickel Brook Green Apple Pilsner",4,31024
-"81",11023,"Better Bitters Brewing Co.",1251053398,3,3,3,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
-"82",11023,"Better Bitters Brewing Co.",1250551088,2.5,4,3,"Fruit / Vegetable Beer",2,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"83",11023,"Better Bitters Brewing Co.",1249624625,2,3,2.5,"Fruit / Vegetable Beer",2,2,"Nickel Brook Green Apple Pilsner",4,31024
-"84",11023,"Better Bitters Brewing Co.",1248016833,4,4,3.5,"Fruit / Vegetable Beer",4,4.5,"Nickel Brook Green Apple Pilsner",4,31024
-"85",11023,"Better Bitters Brewing Co.",1244455764,3.5,2,3,"Fruit / Vegetable Beer",3.5,2,"Nickel Brook Green Apple Pilsner",4,31024
-"86",11023,"Better Bitters Brewing Co.",1243724566,2,2,2.5,"Fruit / Vegetable Beer",2.5,1,"Nickel Brook Green Apple Pilsner",4,31024
-"87",11023,"Better Bitters Brewing Co.",1242862824,2,3,3.5,"Fruit / Vegetable Beer",2,2,"Nickel Brook Green Apple Pilsner",4,31024
-"88",11023,"Better Bitters Brewing Co.",1242005859,3,3.5,3,"Fruit / Vegetable Beer",2.5,3,"Nickel Brook Green Apple Pilsner",4,31024
-"89",11023,"Better Bitters Brewing Co.",1188653538,3,4,2.5,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
-"90",11023,"Better Bitters Brewing Co.",1237901469,3,3.5,3.5,"Bock",3,3,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"91",11023,"Better Bitters Brewing Co.",1241209259,4.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Nickel Brook Green Apple Pilsner",4,31024
-"92",11023,"Better Bitters Brewing Co.",1240201738,3.5,2,3,"Fruit / Vegetable Beer",3.5,1.5,"Nickel Brook Green Apple Pilsner",4,31024
-"93",11023,"Better Bitters Brewing Co.",1231781566,3.5,2,3,"Fruit / Vegetable Beer",3.5,3,"Nickel Brook Green Apple Pilsner",4,31024
-"94",11023,"Better Bitters Brewing Co.",1230774477,3.5,4,3,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
-"95",11023,"Better Bitters Brewing Co.",1228186760,3,3.5,4,"Fruit / Vegetable Beer",3.5,2,"Nickel Brook Green Apple Pilsner",4,31024
-"96",11023,"Better Bitters Brewing Co.",1227645086,2.5,3.5,2,"Fruit / Vegetable Beer",3,2.5,"Nickel Brook Green Apple Pilsner",4,31024
-"97",11023,"Better Bitters Brewing Co.",1187786583,4,2.5,3,"Fruit / Vegetable Beer",4,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"98",11023,"Better Bitters Brewing Co.",1186456327,3,4,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"99",11023,"Better Bitters Brewing Co.",1183558761,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"100",11023,"Better Bitters Brewing Co.",1180209795,4.5,4,2.5,"Fruit / Vegetable Beer",4,4,"Nickel Brook Green Apple Pilsner",4,31024
-"101",11023,"Better Bitters Brewing Co.",1168471904,3,3.5,2.5,"Fruit / Vegetable Beer",4,3,"Nickel Brook Green Apple Pilsner",4,31024
-"102",11023,"Better Bitters Brewing Co.",1161322008,4.5,3,3,"Fruit / Vegetable Beer",3.5,4.5,"Nickel Brook Green Apple Pilsner",4,31024
-"103",11023,"Better Bitters Brewing Co.",1158458698,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"104",11023,"Better Bitters Brewing Co.",1155221631,1,2.5,3,"Fruit / Vegetable Beer",1,1,"Nickel Brook Green Apple Pilsner",4,31024
-"105",11023,"Better Bitters Brewing Co.",1153620366,3,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Nickel Brook Green Apple Pilsner",4,31024
-"106",11023,"Better Bitters Brewing Co.",1149989475,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
-"107",11023,"Better Bitters Brewing Co.",1175815718,3,3,3,"Bock",3,3,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"108",11023,"Better Bitters Brewing Co.",1169177396,4,3.5,4.5,"Bock",4,3.5,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"109",11023,"Better Bitters Brewing Co.",1167545359,4,3.5,4,"Bock",3.5,3.5,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"110",11023,"Better Bitters Brewing Co.",1167174009,3.5,3.5,4,"Bock",3.5,4,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"111",11023,"Better Bitters Brewing Co.",1165717409,4,3.5,3.5,"Bock",4,4,"Nickel Brook Special Edition Winter Bock",6.5,34240
-"112",11023,"Better Bitters Brewing Co.",1314623407,3.5,3.5,3.5,"American IPA",3,3.5,"Nickel Brook Headstock IPA",7,71708
-"113",11023,"Better Bitters Brewing Co.",1313402615,4,3,3.5,"American IPA",4.5,4.5,"Nickel Brook Headstock IPA",7,71708
-"114",11023,"Better Bitters Brewing Co.",1312988035,3.5,3.5,4,"American IPA",4,3.5,"Nickel Brook Headstock IPA",7,71708
-"115",11023,"Better Bitters Brewing Co.",1312502959,3.5,3,3.5,"American IPA",3,3,"Nickel Brook Headstock IPA",7,71708
-"116",11023,"Better Bitters Brewing Co.",1277513478,3,3,3,"Bock",3.5,3.5,"Nickel Brook Special Edition Spring Bock",5.8,36224
-"117",11023,"Better Bitters Brewing Co.",1176509376,4,4,4,"Bock",3.5,3,"Nickel Brook Special Edition Spring Bock",5.8,36224
-"118",11023,"Better Bitters Brewing Co.",1175729593,4.5,4,3.5,"Bock",3.5,4.5,"Nickel Brook Special Edition Spring Bock",5.8,36224
-"119",11023,"Better Bitters Brewing Co.",1313401467,3.5,3,3.5,"American Porter",4,3.5,"Nickel Brook Maple Porter",5.5,36220
-"120",11023,"Better Bitters Brewing Co.",1292858767,3,3.5,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
-"121",11023,"Better Bitters Brewing Co.",1289841514,3.5,3.5,3,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
-"122",11023,"Better Bitters Brewing Co.",1280520978,3.5,3,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
-"123",11023,"Better Bitters Brewing Co.",1266449693,3,4,3.5,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
-"124",11023,"Better Bitters Brewing Co.",1264125119,2.5,3,3.5,"American Porter",3,2.5,"Nickel Brook Maple Porter",5.5,36220
-"125",11023,"Better Bitters Brewing Co.",1255747452,3,3,3,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
-"126",11023,"Better Bitters Brewing Co.",1254841115,3.5,3,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
-"127",11023,"Better Bitters Brewing Co.",1236549387,2.5,4,4,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
-"128",11023,"Better Bitters Brewing Co.",1207441681,3,4.5,4,"American Porter",3.5,3.5,"Nickel Brook Maple Porter",5.5,36220
-"129",11023,"Better Bitters Brewing Co.",1199998765,3.5,2.5,4.5,"American Porter",3.5,3.5,"Nickel Brook Maple Porter",5.5,36220
-"130",11023,"Better Bitters Brewing Co.",1182305794,4,4.5,4,"American Porter",4,4,"Nickel Brook Maple Porter",5.5,36220
-"131",11023,"Better Bitters Brewing Co.",1178769051,4,4,3.5,"American Porter",3.5,4.5,"Nickel Brook Maple Porter",5.5,36220
-"132",11023,"Better Bitters Brewing Co.",1175718290,4,3.5,4,"American Porter",4,4.5,"Nickel Brook Maple Porter",5.5,36220
-"133",11023,"Better Bitters Brewing Co.",1252460548,4,4.5,3.5,"English Pale Ale",4,4,"Victory Compass Starlight Ale",NA,48950
-"134",11023,"Better Bitters Brewing Co.",1238877380,5,4,5,"English Pale Ale",4,4,"Victory Compass Starlight Ale",NA,48950
-"135",11023,"Better Bitters Brewing Co.",1238870990,4.5,4,5,"English Pale Ale",4.5,4.5,"Victory Compass Starlight Ale",NA,48950
-"136",11023,"Better Bitters Brewing Co.",1229094021,3.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Lager",5,30218
-"137",11023,"Better Bitters Brewing Co.",1219583922,4,3.5,4,"American Pale Lager",3.5,4,"Nickel Brook Lager",5,30218
-"138",11023,"Better Bitters Brewing Co.",1158455524,4,3.5,4.5,"American Pale Lager",4,3.5,"Nickel Brook Lager",5,30218
-"139",11023,"Better Bitters Brewing Co.",1153182992,3.5,3,3.5,"American Pale Lager",3,3,"Nickel Brook Lager",5,30218
-"140",11023,"Better Bitters Brewing Co.",1146435816,3.5,3,3.5,"American Pale Lager",3,3.5,"Nickel Brook Lager",5,30218
-"141",11023,"Better Bitters Brewing Co.",1207200685,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,3,"Nickel Brook Scottish Ale",7.6,36225
-"142",11023,"Better Bitters Brewing Co.",1175731278,4,3.5,3,"Scotch Ale / Wee Heavy",3,4,"Nickel Brook Scottish Ale",7.6,36225
-"143",11023,"Better Bitters Brewing Co.",1303747458,4,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Nickel Brook Cuvee",7.75,47681
-"144",11023,"Better Bitters Brewing Co.",1302107895,3.5,4,3.5,"Herbed / Spiced Beer",4,4,"Nickel Brook Cuvee",7.75,47681
-"145",11023,"Better Bitters Brewing Co.",1271896994,3,4,3.5,"Herbed / Spiced Beer",3.5,4,"Nickel Brook Cuvee",7.75,47681
-"146",11023,"Better Bitters Brewing Co.",1249559528,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Nickel Brook Cuvee",7.75,47681
-"147",11023,"Better Bitters Brewing Co.",1246592428,3.5,4,3.5,"Herbed / Spiced Beer",3.5,4,"Nickel Brook Cuvee",7.75,47681
-"148",11023,"Better Bitters Brewing Co.",1236550274,4,4,3.5,"Herbed / Spiced Beer",3,4,"Nickel Brook Cuvee",7.75,47681
-"149",11023,"Better Bitters Brewing Co.",1233585890,4,4.5,3.5,"Herbed / Spiced Beer",4.5,4.5,"Nickel Brook Cuvee",7.75,47681
-"150",11023,"Better Bitters Brewing Co.",1291264967,3,3.5,2.5,"Witbier",3.5,3,"Nickel Brook Organic White",5,38397
-"151",11023,"Better Bitters Brewing Co.",1279483369,3,3.5,3.5,"Witbier",3,3.5,"Nickel Brook Organic White",5,38397
-"152",11023,"Better Bitters Brewing Co.",1276040212,4,3.5,3,"Witbier",3.5,4,"Nickel Brook Organic White",5,38397
-"153",11023,"Better Bitters Brewing Co.",1268527536,4,3,3.5,"Witbier",2.5,3,"Nickel Brook Organic White",5,38397
-"154",11023,"Better Bitters Brewing Co.",1266444491,3.5,3.5,3,"Witbier",3,3,"Nickel Brook Organic White",5,38397
-"155",11023,"Better Bitters Brewing Co.",1264555864,2.5,3,3,"Witbier",2.5,2.5,"Nickel Brook Organic White",5,38397
-"156",11023,"Better Bitters Brewing Co.",1199998937,4,3.5,4,"Witbier",4,3.5,"Nickel Brook Organic White",5,38397
-"157",11023,"Better Bitters Brewing Co.",1191379577,3,4,2.5,"Witbier",3,3,"Nickel Brook Organic White",5,38397
-"158",11023,"Better Bitters Brewing Co.",1190397247,3.5,3,4,"Witbier",3.5,3.5,"Nickel Brook Organic White",5,38397
-"159",11023,"Better Bitters Brewing Co.",1188149047,3.5,3.5,3,"Witbier",3.5,3,"Nickel Brook Organic White",5,38397
-"160",11023,"Better Bitters Brewing Co.",1278102464,4,3.5,4,"Witbier",3.5,3.5,"Nickel Brook Strawberry White",5.5,59761
-"161",11023,"Better Bitters Brewing Co.",1322802149,4.5,4,3.5,"Flanders Oud Bruin",4.5,4,"Nickel Brook Sir, Your Moustache Tastes Sour",6.7,75905
-"162",11023,"Better Bitters Brewing Co.",1236549707,3.5,3,2.5,"Light Lager",3,3.5,"Nickel Brook Light",4,30200
-"163",11023,"Better Bitters Brewing Co.",1162681993,4,3.5,3,"Light Lager",4,4,"Nickel Brook Light",4,30200
-"164",11023,"Better Bitters Brewing Co.",1146402061,4,3,3.5,"Light Lager",3,3.5,"Nickel Brook Light",4,30200
-"165",11023,"Better Bitters Brewing Co.",1276039898,4,3.5,3,"Sahti",3,3.5,"Nickel Brook Sahti Juniper Beer",NA,45448
-"166",11023,"Better Bitters Brewing Co.",1286070174,3,3,1.5,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
-"167",11023,"Better Bitters Brewing Co.",1210634467,3.5,4,4,"Lambic - Fruit",3,2.5,"Nickel Brook Uniek",5,38854
-"168",11023,"Better Bitters Brewing Co.",1201615969,3.5,3.5,3.5,"Lambic - Fruit",3.5,3.5,"Nickel Brook Uniek",5,38854
-"169",11023,"Better Bitters Brewing Co.",1196301526,3.5,3.5,4,"Lambic - Fruit",4,3.5,"Nickel Brook Uniek",5,38854
-"170",11023,"Better Bitters Brewing Co.",1193000643,3.5,4,4,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
-"171",11023,"Better Bitters Brewing Co.",1191379031,4,3.5,4,"Lambic - Fruit",4,3.5,"Nickel Brook Uniek",5,38854
-"172",11023,"Better Bitters Brewing Co.",1191093802,3,3,4,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
-"173",11023,"Better Bitters Brewing Co.",1307040126,3.5,3,3,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
-"174",11023,"Better Bitters Brewing Co.",1277513279,3,3,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
-"175",11023,"Better Bitters Brewing Co.",1268535202,3.5,3.5,3,"American Pale Lager",3.5,3.5,"Nickel Brook Organic Lager",5,37851
-"176",11023,"Better Bitters Brewing Co.",1268200147,3.5,3.5,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
-"177",11023,"Better Bitters Brewing Co.",1267831623,2.5,3.5,3.5,"American Pale Lager",2,2.5,"Nickel Brook Organic Lager",5,37851
-"178",11023,"Better Bitters Brewing Co.",1264214518,3.5,3,4,"American Pale Lager",2.5,3,"Nickel Brook Organic Lager",5,37851
-"179",11023,"Better Bitters Brewing Co.",1258565897,3.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Organic Lager",5,37851
-"180",11023,"Better Bitters Brewing Co.",1257551306,2,2,2.5,"American Pale Lager",3,2.5,"Nickel Brook Organic Lager",5,37851
-"181",11023,"Better Bitters Brewing Co.",1253669757,2,2.5,3,"American Pale Lager",3,2.5,"Nickel Brook Organic Lager",5,37851
-"182",11023,"Better Bitters Brewing Co.",1252458022,2,3,4,"American Pale Lager",2.5,2,"Nickel Brook Organic Lager",5,37851
-"183",11023,"Better Bitters Brewing Co.",1247619936,2.5,3.5,3.5,"American Pale Lager",2.5,3,"Nickel Brook Organic Lager",5,37851
-"184",11023,"Better Bitters Brewing Co.",1247337915,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Nickel Brook Organic Lager",5,37851
-"185",11023,"Better Bitters Brewing Co.",1245977650,3.5,3,3.5,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
-"186",11023,"Better Bitters Brewing Co.",1245869536,2.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Organic Lager",5,37851
-"187",11023,"Better Bitters Brewing Co.",1236549891,3,2.5,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
-"188",11023,"Better Bitters Brewing Co.",1191098506,3,3.5,4,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
-"189",11023,"Better Bitters Brewing Co.",1185113404,3.5,3.5,3,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
-"190",11023,"Better Bitters Brewing Co.",1224734796,3,3.5,3,"Extra Special / Strong Bitter (ESB)",3,3.5,"Nickel Brook ESB",NA,45534
-"191",11023,"Better Bitters Brewing Co.",1257085017,1.5,3,3,"American IPA",3,2,"Nickel Brook Wooden Nickel IPA",NA,53836
-"192",11023,"Better Bitters Brewing Co.",1317563634,4,3.5,3.5,"American IPA",4,3.5,"Nickel Brook Woodstock Headstock IPA",7,73638
-"193",11023,"Better Bitters Brewing Co.",1317421706,3.5,3,3.5,"American IPA",3.5,3.5,"Nickel Brook Woodstock Headstock IPA",7,73638
-"194",11023,"Better Bitters Brewing Co.",1161533425,3.5,3,3,"Doppelbock",3,3,"Nickel Brook Bock",NA,33359
-"195",11023,"Better Bitters Brewing Co.",1274206838,3,4,3.5,"American IPA",3,3.5,"Better Bitters Bull's IPA Gluten Free",6,58426
-"196",11023,"Better Bitters Brewing Co.",1224509990,4,3.5,4,"Sahti",3.5,3,"Nickel Brook Sahti Juniper Beer",NA,45448
-"197",11023,"Better Bitters Brewing Co.",1224379344,3.5,4,4,"Sahti",4,3.5,"Nickel Brook Sahti Juniper Beer",NA,45448
-"198",11023,"Better Bitters Brewing Co.",1277168554,2,2.5,3,"Dubbel",2.5,1.5,"Nickel Brook Belgian Dubbel",NA,59465
-"199",11023,"Better Bitters Brewing Co.",1194674737,3.5,3.5,4,"English Barleywine",3.5,3.5,"Nickel Brook Left Hook Barley Wine",NA,39247
-"200",11023,"Better Bitters Brewing Co.",1193000973,2.5,4,3.5,"English Barleywine",2.5,3,"Nickel Brook Left Hook Barley Wine",NA,39247
-"201",11023,"Better Bitters Brewing Co.",1192931996,3.5,3.5,4,"English Barleywine",3.5,3,"Nickel Brook Left Hook Barley Wine",NA,39247
-"202",11023,"Better Bitters Brewing Co.",1174696614,4,3.5,3.5,"Scottish Ale",4,4,"Nickel Brook Belgian Scotch Ale",6.3,36023
-"203",11023,"Better Bitters Brewing Co.",1252460800,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Victory Compass Empire Ale",4.9,47683
-"204",11023,"Better Bitters Brewing Co.",1233587879,4,3.5,3.5,"English Pale Ale",3.5,4,"Victory Compass Empire Ale",4.9,47683
+"1",11023,"Better Bitters Brewing Co.",1323088589,4,3.5,4,"Scottish Ale",3.5,4,"Nickel Brook 80/-",5,34019
+"2",11023,"Better Bitters Brewing Co.",1243118482,3.5,3,3.5,"Scottish Ale",3.5,3.5,"Nickel Brook 80/-",5,34019
+"3",11023,"Better Bitters Brewing Co.",1165887931,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Nickel Brook 80/-",5,34019
+"4",11023,"Better Bitters Brewing Co.",1165708675,4,3.5,4.5,"Scottish Ale",3.5,4,"Nickel Brook 80/-",5,34019
+"5",11023,"Better Bitters Brewing Co.",1165707669,4,3.5,4,"Scottish Ale",4,3,"Nickel Brook 80/-",5,34019
+"6",11023,"Better Bitters Brewing Co.",1165504451,3.5,3,4,"Scottish Ale",3,3,"Nickel Brook 80/-",5,34019
+"7",11023,"Better Bitters Brewing Co.",1164673793,4,3,4,"Scottish Ale",4.5,3.5,"Nickel Brook 80/-",5,34019
+"8",11023,"Better Bitters Brewing Co.",1321670176,2.5,2.5,2,"American Blonde Ale",2.5,2,"Nickel Brook Gluten Free",5.8,66071
+"9",11023,"Better Bitters Brewing Co.",1306639696,3.5,3,2,"American Blonde Ale",3,3,"Nickel Brook Gluten Free",5.8,66071
+"10",11023,"Better Bitters Brewing Co.",1300661785,1,1.5,2,"American Blonde Ale",2,1.5,"Nickel Brook Gluten Free",5.8,66071
+"11",11023,"Better Bitters Brewing Co.",1295822668,2.5,2,3,"American Blonde Ale",3,2.5,"Nickel Brook Gluten Free",5.8,66071
+"12",11023,"Better Bitters Brewing Co.",1297388802,1.5,2,2.5,"American Blonde Ale",2,2,"Nickel Brook Gluten Free",5.8,66071
+"13",11023,"Better Bitters Brewing Co.",1297359641,1.5,1.5,3,"American Blonde Ale",1.5,1.5,"Nickel Brook Gluten Free",5.8,66071
+"14",11023,"Better Bitters Brewing Co.",1297209769,2.5,2,4,"American Blonde Ale",2,1,"Nickel Brook Gluten Free",5.8,66071
+"15",11023,"Better Bitters Brewing Co.",1297902239,3,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Nickel Brook Oak-Aged Unique Kriek",6,48383
+"16",11023,"Better Bitters Brewing Co.",1276040568,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
+"17",11023,"Better Bitters Brewing Co.",1249559640,3.5,3,4,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
+"18",11023,"Better Bitters Brewing Co.",1238727922,4,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
+"19",11023,"Better Bitters Brewing Co.",1236657117,4,3,3.5,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Oak-Aged Unique Kriek",6,48383
+"20",11023,"Better Bitters Brewing Co.",1298562235,3,3,3,"Märzen / Oktoberfest",4,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"21",11023,"Better Bitters Brewing Co.",1286292879,3.5,3,4,"Märzen / Oktoberfest",3,2.5,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"22",11023,"Better Bitters Brewing Co.",1277513162,4,3.5,4.5,"Märzen / Oktoberfest",3.5,4,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"23",11023,"Better Bitters Brewing Co.",1273964346,4,4,3.5,"Märzen / Oktoberfest",3,4,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"24",11023,"Better Bitters Brewing Co.",1269528911,3,3,3.5,"Märzen / Oktoberfest",3,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"25",11023,"Better Bitters Brewing Co.",1268607928,3.5,3,3,"Märzen / Oktoberfest",3,3,"Nickel Brook Märzenbier Bavarian Style Red Lager",5.5,56798
+"26",11023,"Better Bitters Brewing Co.",1325981441,2.5,3,4.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"27",11023,"Better Bitters Brewing Co.",1323808101,3.5,3.5,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"28",11023,"Better Bitters Brewing Co.",1323715752,3.5,3.5,4,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"29",11023,"Better Bitters Brewing Co.",1322770585,3,3,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"30",11023,"Better Bitters Brewing Co.",1136332918,3,2.5,3,"English Brown Ale",3,2.5,"Nickel Brook Ale",5,26366
+"31",11023,"Better Bitters Brewing Co.",1322456852,3,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"32",11023,"Better Bitters Brewing Co.",1292376996,2.5,3,3.5,"English Brown Ale",3,2.5,"Nickel Brook Ale",5,26366
+"33",11023,"Better Bitters Brewing Co.",1288138355,3.5,3.5,4,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"34",11023,"Better Bitters Brewing Co.",1280536652,3.5,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"35",11023,"Better Bitters Brewing Co.",1271648433,2.5,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"36",11023,"Better Bitters Brewing Co.",1243553942,3,3,3,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"37",11023,"Better Bitters Brewing Co.",1242785429,3.5,3.5,2,"English Brown Ale",4,3.5,"Nickel Brook Ale",5,26366
+"38",11023,"Better Bitters Brewing Co.",1241835516,3.5,3.5,3.5,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"39",11023,"Better Bitters Brewing Co.",1194745150,3,2.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"40",11023,"Better Bitters Brewing Co.",1187469237,3,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"41",11023,"Better Bitters Brewing Co.",1157238057,4,3.5,3.5,"English Brown Ale",4,4,"Nickel Brook Ale",5,26366
+"42",11023,"Better Bitters Brewing Co.",1154653952,4,3.5,4,"English Brown Ale",4.5,4,"Nickel Brook Ale",5,26366
+"43",11023,"Better Bitters Brewing Co.",1154286238,3,3,3,"English Brown Ale",2.5,3.5,"Nickel Brook Ale",5,26366
+"44",11023,"Better Bitters Brewing Co.",1151715829,3.5,3.5,2.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
+"45",11023,"Better Bitters Brewing Co.",1148610441,4,3,3.5,"English Brown Ale",3,3,"Nickel Brook Ale",5,26366
+"46",11023,"Better Bitters Brewing Co.",1148440072,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
+"47",11023,"Better Bitters Brewing Co.",1146192382,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nickel Brook Ale",5,26366
+"48",11023,"Better Bitters Brewing Co.",1129170848,2.5,3.5,3,"English Brown Ale",2.5,3,"Nickel Brook Ale",5,26366
+"49",11023,"Better Bitters Brewing Co.",1308459478,3,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"50",11023,"Better Bitters Brewing Co.",1288029036,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"51",11023,"Better Bitters Brewing Co.",1283128439,3.5,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"52",11023,"Better Bitters Brewing Co.",1260929431,2.5,2.5,3,"Fruit / Vegetable Beer",2,2.5,"Nickel Brook Green Apple Pilsner",4,31024
+"53",11023,"Better Bitters Brewing Co.",1251232474,2.5,3,2.5,"Fruit / Vegetable Beer",1.5,2.5,"Nickel Brook Green Apple Pilsner",4,31024
+"54",11023,"Better Bitters Brewing Co.",1251053398,3,3,3,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
+"55",11023,"Better Bitters Brewing Co.",1250551088,2.5,4,3,"Fruit / Vegetable Beer",2,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"56",11023,"Better Bitters Brewing Co.",1249624625,2,3,2.5,"Fruit / Vegetable Beer",2,2,"Nickel Brook Green Apple Pilsner",4,31024
+"57",11023,"Better Bitters Brewing Co.",1248016833,4,4,3.5,"Fruit / Vegetable Beer",4,4.5,"Nickel Brook Green Apple Pilsner",4,31024
+"58",11023,"Better Bitters Brewing Co.",1244455764,3.5,2,3,"Fruit / Vegetable Beer",3.5,2,"Nickel Brook Green Apple Pilsner",4,31024
+"59",11023,"Better Bitters Brewing Co.",1243724566,2,2,2.5,"Fruit / Vegetable Beer",2.5,1,"Nickel Brook Green Apple Pilsner",4,31024
+"60",11023,"Better Bitters Brewing Co.",1242862824,2,3,3.5,"Fruit / Vegetable Beer",2,2,"Nickel Brook Green Apple Pilsner",4,31024
+"61",11023,"Better Bitters Brewing Co.",1242005859,3,3.5,3,"Fruit / Vegetable Beer",2.5,3,"Nickel Brook Green Apple Pilsner",4,31024
+"62",11023,"Better Bitters Brewing Co.",1188653538,3,4,2.5,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
+"63",11023,"Better Bitters Brewing Co.",1237901469,3,3.5,3.5,"Bock",3,3,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"64",11023,"Better Bitters Brewing Co.",1241209259,4.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Nickel Brook Green Apple Pilsner",4,31024
+"65",11023,"Better Bitters Brewing Co.",1240201738,3.5,2,3,"Fruit / Vegetable Beer",3.5,1.5,"Nickel Brook Green Apple Pilsner",4,31024
+"66",11023,"Better Bitters Brewing Co.",1231781566,3.5,2,3,"Fruit / Vegetable Beer",3.5,3,"Nickel Brook Green Apple Pilsner",4,31024
+"67",11023,"Better Bitters Brewing Co.",1230774477,3.5,4,3,"Fruit / Vegetable Beer",3,3,"Nickel Brook Green Apple Pilsner",4,31024
+"68",11023,"Better Bitters Brewing Co.",1228186760,3,3.5,4,"Fruit / Vegetable Beer",3.5,2,"Nickel Brook Green Apple Pilsner",4,31024
+"69",11023,"Better Bitters Brewing Co.",1227645086,2.5,3.5,2,"Fruit / Vegetable Beer",3,2.5,"Nickel Brook Green Apple Pilsner",4,31024
+"70",11023,"Better Bitters Brewing Co.",1187786583,4,2.5,3,"Fruit / Vegetable Beer",4,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"71",11023,"Better Bitters Brewing Co.",1186456327,3,4,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"72",11023,"Better Bitters Brewing Co.",1183558761,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"73",11023,"Better Bitters Brewing Co.",1180209795,4.5,4,2.5,"Fruit / Vegetable Beer",4,4,"Nickel Brook Green Apple Pilsner",4,31024
+"74",11023,"Better Bitters Brewing Co.",1168471904,3,3.5,2.5,"Fruit / Vegetable Beer",4,3,"Nickel Brook Green Apple Pilsner",4,31024
+"75",11023,"Better Bitters Brewing Co.",1161322008,4.5,3,3,"Fruit / Vegetable Beer",3.5,4.5,"Nickel Brook Green Apple Pilsner",4,31024
+"76",11023,"Better Bitters Brewing Co.",1158458698,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"77",11023,"Better Bitters Brewing Co.",1155221631,1,2.5,3,"Fruit / Vegetable Beer",1,1,"Nickel Brook Green Apple Pilsner",4,31024
+"78",11023,"Better Bitters Brewing Co.",1153620366,3,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Nickel Brook Green Apple Pilsner",4,31024
+"79",11023,"Better Bitters Brewing Co.",1149989475,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Nickel Brook Green Apple Pilsner",4,31024
+"80",11023,"Better Bitters Brewing Co.",1175815718,3,3,3,"Bock",3,3,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"81",11023,"Better Bitters Brewing Co.",1169177396,4,3.5,4.5,"Bock",4,3.5,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"82",11023,"Better Bitters Brewing Co.",1167545359,4,3.5,4,"Bock",3.5,3.5,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"83",11023,"Better Bitters Brewing Co.",1167174009,3.5,3.5,4,"Bock",3.5,4,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"84",11023,"Better Bitters Brewing Co.",1165717409,4,3.5,3.5,"Bock",4,4,"Nickel Brook Special Edition Winter Bock",6.5,34240
+"85",11023,"Better Bitters Brewing Co.",1313401467,3.5,3,3.5,"American Porter",4,3.5,"Nickel Brook Maple Porter",5.5,36220
+"86",11023,"Better Bitters Brewing Co.",1292858767,3,3.5,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
+"87",11023,"Better Bitters Brewing Co.",1289841514,3.5,3.5,3,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
+"88",11023,"Better Bitters Brewing Co.",1280520978,3.5,3,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
+"89",11023,"Better Bitters Brewing Co.",1266449693,3,4,3.5,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
+"90",11023,"Better Bitters Brewing Co.",1264125119,2.5,3,3.5,"American Porter",3,2.5,"Nickel Brook Maple Porter",5.5,36220
+"91",11023,"Better Bitters Brewing Co.",1255747452,3,3,3,"American Porter",3,3,"Nickel Brook Maple Porter",5.5,36220
+"92",11023,"Better Bitters Brewing Co.",1254841115,3.5,3,3.5,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
+"93",11023,"Better Bitters Brewing Co.",1236549387,2.5,4,4,"American Porter",3.5,3,"Nickel Brook Maple Porter",5.5,36220
+"94",11023,"Better Bitters Brewing Co.",1207441681,3,4.5,4,"American Porter",3.5,3.5,"Nickel Brook Maple Porter",5.5,36220
+"95",11023,"Better Bitters Brewing Co.",1199998765,3.5,2.5,4.5,"American Porter",3.5,3.5,"Nickel Brook Maple Porter",5.5,36220
+"96",11023,"Better Bitters Brewing Co.",1182305794,4,4.5,4,"American Porter",4,4,"Nickel Brook Maple Porter",5.5,36220
+"97",11023,"Better Bitters Brewing Co.",1178769051,4,4,3.5,"American Porter",3.5,4.5,"Nickel Brook Maple Porter",5.5,36220
+"98",11023,"Better Bitters Brewing Co.",1175718290,4,3.5,4,"American Porter",4,4.5,"Nickel Brook Maple Porter",5.5,36220
+"99",11023,"Better Bitters Brewing Co.",1229094021,3.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Lager",5,30218
+"100",11023,"Better Bitters Brewing Co.",1219583922,4,3.5,4,"American Pale Lager",3.5,4,"Nickel Brook Lager",5,30218
+"101",11023,"Better Bitters Brewing Co.",1158455524,4,3.5,4.5,"American Pale Lager",4,3.5,"Nickel Brook Lager",5,30218
+"102",11023,"Better Bitters Brewing Co.",1153182992,3.5,3,3.5,"American Pale Lager",3,3,"Nickel Brook Lager",5,30218
+"103",11023,"Better Bitters Brewing Co.",1146435816,3.5,3,3.5,"American Pale Lager",3,3.5,"Nickel Brook Lager",5,30218
+"104",11023,"Better Bitters Brewing Co.",1303747458,4,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Nickel Brook Cuvee",7.75,47681
+"105",11023,"Better Bitters Brewing Co.",1302107895,3.5,4,3.5,"Herbed / Spiced Beer",4,4,"Nickel Brook Cuvee",7.75,47681
+"106",11023,"Better Bitters Brewing Co.",1271896994,3,4,3.5,"Herbed / Spiced Beer",3.5,4,"Nickel Brook Cuvee",7.75,47681
+"107",11023,"Better Bitters Brewing Co.",1249559528,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Nickel Brook Cuvee",7.75,47681
+"108",11023,"Better Bitters Brewing Co.",1246592428,3.5,4,3.5,"Herbed / Spiced Beer",3.5,4,"Nickel Brook Cuvee",7.75,47681
+"109",11023,"Better Bitters Brewing Co.",1236550274,4,4,3.5,"Herbed / Spiced Beer",3,4,"Nickel Brook Cuvee",7.75,47681
+"110",11023,"Better Bitters Brewing Co.",1233585890,4,4.5,3.5,"Herbed / Spiced Beer",4.5,4.5,"Nickel Brook Cuvee",7.75,47681
+"111",11023,"Better Bitters Brewing Co.",1291264967,3,3.5,2.5,"Witbier",3.5,3,"Nickel Brook Organic White",5,38397
+"112",11023,"Better Bitters Brewing Co.",1279483369,3,3.5,3.5,"Witbier",3,3.5,"Nickel Brook Organic White",5,38397
+"113",11023,"Better Bitters Brewing Co.",1276040212,4,3.5,3,"Witbier",3.5,4,"Nickel Brook Organic White",5,38397
+"114",11023,"Better Bitters Brewing Co.",1268527536,4,3,3.5,"Witbier",2.5,3,"Nickel Brook Organic White",5,38397
+"115",11023,"Better Bitters Brewing Co.",1266444491,3.5,3.5,3,"Witbier",3,3,"Nickel Brook Organic White",5,38397
+"116",11023,"Better Bitters Brewing Co.",1264555864,2.5,3,3,"Witbier",2.5,2.5,"Nickel Brook Organic White",5,38397
+"117",11023,"Better Bitters Brewing Co.",1199998937,4,3.5,4,"Witbier",4,3.5,"Nickel Brook Organic White",5,38397
+"118",11023,"Better Bitters Brewing Co.",1191379577,3,4,2.5,"Witbier",3,3,"Nickel Brook Organic White",5,38397
+"119",11023,"Better Bitters Brewing Co.",1190397247,3.5,3,4,"Witbier",3.5,3.5,"Nickel Brook Organic White",5,38397
+"120",11023,"Better Bitters Brewing Co.",1188149047,3.5,3.5,3,"Witbier",3.5,3,"Nickel Brook Organic White",5,38397
+"121",11023,"Better Bitters Brewing Co.",1286070174,3,3,1.5,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
+"122",11023,"Better Bitters Brewing Co.",1210634467,3.5,4,4,"Lambic - Fruit",3,2.5,"Nickel Brook Uniek",5,38854
+"123",11023,"Better Bitters Brewing Co.",1201615969,3.5,3.5,3.5,"Lambic - Fruit",3.5,3.5,"Nickel Brook Uniek",5,38854
+"124",11023,"Better Bitters Brewing Co.",1196301526,3.5,3.5,4,"Lambic - Fruit",4,3.5,"Nickel Brook Uniek",5,38854
+"125",11023,"Better Bitters Brewing Co.",1193000643,3.5,4,4,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
+"126",11023,"Better Bitters Brewing Co.",1191379031,4,3.5,4,"Lambic - Fruit",4,3.5,"Nickel Brook Uniek",5,38854
+"127",11023,"Better Bitters Brewing Co.",1191093802,3,3,4,"Lambic - Fruit",3,3.5,"Nickel Brook Uniek",5,38854
+"128",11023,"Better Bitters Brewing Co.",1307040126,3.5,3,3,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
+"129",11023,"Better Bitters Brewing Co.",1277513279,3,3,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
+"130",11023,"Better Bitters Brewing Co.",1268535202,3.5,3.5,3,"American Pale Lager",3.5,3.5,"Nickel Brook Organic Lager",5,37851
+"131",11023,"Better Bitters Brewing Co.",1268200147,3.5,3.5,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
+"132",11023,"Better Bitters Brewing Co.",1267831623,2.5,3.5,3.5,"American Pale Lager",2,2.5,"Nickel Brook Organic Lager",5,37851
+"133",11023,"Better Bitters Brewing Co.",1264214518,3.5,3,4,"American Pale Lager",2.5,3,"Nickel Brook Organic Lager",5,37851
+"134",11023,"Better Bitters Brewing Co.",1258565897,3.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Organic Lager",5,37851
+"135",11023,"Better Bitters Brewing Co.",1257551306,2,2,2.5,"American Pale Lager",3,2.5,"Nickel Brook Organic Lager",5,37851
+"136",11023,"Better Bitters Brewing Co.",1253669757,2,2.5,3,"American Pale Lager",3,2.5,"Nickel Brook Organic Lager",5,37851
+"137",11023,"Better Bitters Brewing Co.",1252458022,2,3,4,"American Pale Lager",2.5,2,"Nickel Brook Organic Lager",5,37851
+"138",11023,"Better Bitters Brewing Co.",1247619936,2.5,3.5,3.5,"American Pale Lager",2.5,3,"Nickel Brook Organic Lager",5,37851
+"139",11023,"Better Bitters Brewing Co.",1247337915,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Nickel Brook Organic Lager",5,37851
+"140",11023,"Better Bitters Brewing Co.",1245977650,3.5,3,3.5,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
+"141",11023,"Better Bitters Brewing Co.",1245869536,2.5,3,3.5,"American Pale Lager",3.5,3,"Nickel Brook Organic Lager",5,37851
+"142",11023,"Better Bitters Brewing Co.",1236549891,3,2.5,3.5,"American Pale Lager",3,3,"Nickel Brook Organic Lager",5,37851
+"143",11023,"Better Bitters Brewing Co.",1191098506,3,3.5,4,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851
+"144",11023,"Better Bitters Brewing Co.",1185113404,3.5,3.5,3,"American Pale Lager",3,3.5,"Nickel Brook Organic Lager",5,37851

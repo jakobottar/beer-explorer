@@ -1,100 +1,78 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",532,"Budelse Brouwerij B.V.",1199051920,3,3,4,"Belgian Strong Dark Ale",2.5,3,"Budels WinterBier",7.5,5903
-"2",532,"Budelse Brouwerij B.V.",1099365132,3,1.5,2,"German Pilsener",3,3,"Budels Pils",5,5899
-"3",532,"Budelse Brouwerij B.V.",1321909772,3.5,3.5,4.5,"German Pilsener",4,3.5,"Budels Pils",5,5899
-"4",532,"Budelse Brouwerij B.V.",1293294088,3,3,4,"German Pilsener",3,3,"Budels Pils",5,5899
-"5",532,"Budelse Brouwerij B.V.",1206068988,3.5,3,3.5,"German Pilsener",3,3,"Budels Pils",5,5899
-"6",532,"Budelse Brouwerij B.V.",1206044260,3,3,3,"German Pilsener",2.5,3,"Budels Pils",5,5899
-"7",532,"Budelse Brouwerij B.V.",1158732930,3.5,3,3.5,"German Pilsener",3.5,3,"Budels Pils",5,5899
-"8",532,"Budelse Brouwerij B.V.",1149380409,2.5,3,4,"German Pilsener",3,2.5,"Budels Pils",5,5899
-"9",532,"Budelse Brouwerij B.V.",1139405995,4,3,3,"German Pilsener",3,2.5,"Budels Pils",5,5899
-"10",532,"Budelse Brouwerij B.V.",1130873500,2,1.5,2,"German Pilsener",1.5,1.5,"Budels Pils",5,5899
-"11",532,"Budelse Brouwerij B.V.",1130545903,2.5,2,3,"German Pilsener",2,2.5,"Budels Pils",5,5899
-"12",532,"Budelse Brouwerij B.V.",1107807831,1,1,1,"German Pilsener",1,1,"Budels Pils",5,5899
-"13",532,"Budelse Brouwerij B.V.",1106270242,2.5,2.5,3.5,"German Pilsener",2.5,3,"Budels Pils",5,5899
-"14",532,"Budelse Brouwerij B.V.",1105046319,2.5,2.5,3,"German Pilsener",2.5,2.5,"Budels Pils",5,5899
-"15",532,"Budelse Brouwerij B.V.",1104706610,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Budels Pils",5,5899
-"16",532,"Budelse Brouwerij B.V.",1100726159,2,2,3.5,"German Pilsener",2,2,"Budels Pils",5,5899
-"17",532,"Budelse Brouwerij B.V.",1255981218,3,3.5,3.5,"Belgian Strong Dark Ale",3,3,"Budels WinterBier",7.5,5903
-"18",532,"Budelse Brouwerij B.V.",1099364785,3,2.5,2.5,"German Pilsener",2.5,3.5,"Budels Pils",5,5899
-"19",532,"Budelse Brouwerij B.V.",1319988037,3.5,3,3.5,"Belgian Strong Dark Ale",4,4,"Budels Kolos",7.5,64835
-"20",532,"Budelse Brouwerij B.V.",1293636610,4,4,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Budels Kolos",7.5,64835
-"21",532,"Budelse Brouwerij B.V.",1311417700,4.5,3.5,4,"Maibock / Helles Bock",4,4,"Budels Meibock",7.5,5902
-"22",532,"Budelse Brouwerij B.V.",1211202864,4,3.5,4,"Maibock / Helles Bock",3.5,3.5,"Budels Meibock",7.5,5902
-"23",532,"Budelse Brouwerij B.V.",1209809690,4,2.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Budels Meibock",7.5,5902
-"24",532,"Budelse Brouwerij B.V.",1320936127,3,3,2.5,"Bock",3.5,3.5,"Budels Bock",6.5,5904
-"25",532,"Budelse Brouwerij B.V.",1165613384,4,4,3.5,"Bock",3.5,4,"Budels Bock",6.5,5904
-"26",532,"Budelse Brouwerij B.V.",1105890293,3.5,3,2,"Bock",3.5,3.5,"Budels Bock",6.5,5904
-"27",532,"Budelse Brouwerij B.V.",1311458149,3.5,2.5,4,"Euro Dark Lager",4,3,"Budels Oud Bruin",3.5,5900
-"28",532,"Budelse Brouwerij B.V.",1173242912,3.5,3.5,4.5,"Euro Dark Lager",4,4,"Budels Oud Bruin",3.5,5900
-"29",532,"Budelse Brouwerij B.V.",1312576820,3,2.5,3,"Witbier",2.5,3,"Budels Parel Witte",5,48795
-"30",532,"Budelse Brouwerij B.V.",1303067366,3.5,4,3.5,"Witbier",3.5,3.5,"Budels Parel Witte",5,48795
-"31",532,"Budelse Brouwerij B.V.",1238272583,2.5,2.5,3,"Witbier",2.5,3,"Budels Parel Witte",5,48795
-"32",532,"Budelse Brouwerij B.V.",1293637680,2.5,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Budels Honey",4.5,20582
-"33",532,"Budelse Brouwerij B.V.",1280443719,2,2.5,2,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
-"34",532,"Budelse Brouwerij B.V.",1206070092,3,2.5,3,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
-"35",532,"Budelse Brouwerij B.V.",1165703690,3.5,3,3,"Fruit / Vegetable Beer",3,3.5,"Budels Honey",4.5,20582
-"36",532,"Budelse Brouwerij B.V.",1137198266,2,2,2,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
-"37",532,"Budelse Brouwerij B.V.",1137110679,1.5,1.5,1.5,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
-"38",532,"Budelse Brouwerij B.V.",1132447114,2,1.5,1.5,"Fruit / Vegetable Beer",1.5,2,"Budels Honey",4.5,20582
-"39",532,"Budelse Brouwerij B.V.",1107807610,1,1,1.5,"Fruit / Vegetable Beer",1,1.5,"Budels Honey",4.5,20582
-"40",532,"Budelse Brouwerij B.V.",1104888576,4,3,2,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
-"41",532,"Budelse Brouwerij B.V.",1103576770,2,3,2,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
-"42",532,"Budelse Brouwerij B.V.",1100301278,1,1.5,1.5,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
-"43",532,"Budelse Brouwerij B.V.",1099448389,1.5,1.5,1.5,"Fruit / Vegetable Beer",2,2.5,"Budels Honey",4.5,20582
-"44",532,"Budelse Brouwerij B.V.",1099366310,4,3.5,1.5,"Fruit / Vegetable Beer",3.5,3.5,"Budels Honey",4.5,20582
-"45",532,"Budelse Brouwerij B.V.",1206069763,3,3,3.5,"Euro Dark Lager",3,2.5,"Batavier",5,5901
-"46",532,"Budelse Brouwerij B.V.",1167561598,3.5,3,3,"Euro Dark Lager",3.5,3,"Batavier",5,5901
-"47",532,"Budelse Brouwerij B.V.",1148618609,2.5,1.5,2,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
-"48",532,"Budelse Brouwerij B.V.",1133230671,2,3,3.5,"Euro Dark Lager",2.5,2,"Batavier",5,5901
-"49",532,"Budelse Brouwerij B.V.",1106097876,3.5,3.5,4,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
-"50",532,"Budelse Brouwerij B.V.",1105406599,4,2.5,3.5,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
-"51",532,"Budelse Brouwerij B.V.",1104349715,1.5,2,1.5,"Euro Dark Lager",1.5,1.5,"Batavier",5,5901
-"52",532,"Budelse Brouwerij B.V.",1103581926,2,2,3,"Euro Dark Lager",1.5,2,"Batavier",5,5901
-"53",532,"Budelse Brouwerij B.V.",1100304012,2.5,2.5,3.5,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
-"54",532,"Budelse Brouwerij B.V.",1099712475,2.5,2,3,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
-"55",532,"Budelse Brouwerij B.V.",1099383837,3.5,3,3,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
-"56",532,"Budelse Brouwerij B.V.",1135867131,2.5,2.5,3.5,"Belgian Strong Dark Ale",2.5,3.5,"Budels WinterBier",7.5,5903
-"57",532,"Budelse Brouwerij B.V.",1206070422,3,2.5,3,"Belgian Pale Ale",3,2.5,"Parel",6,5895
-"58",532,"Budelse Brouwerij B.V.",1183136345,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Parel",6,5895
-"59",532,"Budelse Brouwerij B.V.",1131248904,2.5,3,3.5,"Belgian Pale Ale",2.5,2.5,"Parel",6,5895
-"60",532,"Budelse Brouwerij B.V.",1131224424,2.5,2,2.5,"Belgian Pale Ale",2.5,3,"Parel",6,5895
-"61",532,"Budelse Brouwerij B.V.",1108426786,3.5,2.5,3,"Belgian Pale Ale",4,4,"Parel",6,5895
-"62",532,"Budelse Brouwerij B.V.",1106077075,2,2,2,"Belgian Pale Ale",2,2.5,"Parel",6,5895
-"63",532,"Budelse Brouwerij B.V.",1105130500,4,3,2.5,"Belgian Pale Ale",3.5,4,"Parel",6,5895
-"64",532,"Budelse Brouwerij B.V.",1104001398,2,2.5,2.5,"Belgian Pale Ale",2,2,"Parel",6,5895
-"65",532,"Budelse Brouwerij B.V.",1100043134,2.5,2.5,2.5,"Belgian Pale Ale",2,2.5,"Parel",6,5895
-"66",532,"Budelse Brouwerij B.V.",1099857522,2.5,3,3,"Belgian Pale Ale",2.5,2.5,"Parel",6,5895
-"67",532,"Budelse Brouwerij B.V.",1099390298,4,3.5,4,"Belgian Pale Ale",4,4,"Parel",6,5895
-"68",532,"Budelse Brouwerij B.V.",1206069477,4,3.5,4,"Altbier",4,4,"Budels Alt",6,5894
-"69",532,"Budelse Brouwerij B.V.",1167478028,4,3,3,"Altbier",3.5,4,"Budels Alt",6,5894
-"70",532,"Budelse Brouwerij B.V.",1136504173,3.5,3,3.5,"Altbier",3.5,3.5,"Budels Alt",6,5894
-"71",532,"Budelse Brouwerij B.V.",1131328692,2.5,3,3,"Altbier",2.5,2.5,"Budels Alt",6,5894
-"72",532,"Budelse Brouwerij B.V.",1116656213,3.5,3.5,4,"Altbier",3.5,3.5,"Budels Alt",6,5894
-"73",532,"Budelse Brouwerij B.V.",1110497294,3.5,3,3,"Altbier",3.5,3.5,"Budels Alt",6,5894
-"74",532,"Budelse Brouwerij B.V.",1106077425,3,2.5,2.5,"Altbier",3,3,"Budels Alt",6,5894
-"75",532,"Budelse Brouwerij B.V.",1104564623,4,2.5,3.5,"Altbier",3.5,3.5,"Budels Alt",6,5894
-"76",532,"Budelse Brouwerij B.V.",1103668462,2.5,2,2.5,"Altbier",2.5,2.5,"Budels Alt",6,5894
-"77",532,"Budelse Brouwerij B.V.",1100564007,3,3,4,"Altbier",3.5,3,"Budels Alt",6,5894
-"78",532,"Budelse Brouwerij B.V.",1099970365,3,3,3,"Altbier",3,3,"Budels Alt",6,5894
-"79",532,"Budelse Brouwerij B.V.",1099386841,4,4,4,"Altbier",3.5,4,"Budels Alt",6,5894
-"80",532,"Budelse Brouwerij B.V.",1101519428,3,3.5,3.5,"Dubbel",3,3.5,"Capucijn",6.5,5896
-"81",532,"Budelse Brouwerij B.V.",1234818151,3.5,3.5,4,"Dubbel",3,4,"Capucijn",6.5,5896
-"82",532,"Budelse Brouwerij B.V.",1206305301,4,3,4,"Dubbel",4,4,"Capucijn",6.5,5896
-"83",532,"Budelse Brouwerij B.V.",1181222567,3,3,4,"Dubbel",2.5,2.5,"Capucijn",6.5,5896
-"84",532,"Budelse Brouwerij B.V.",1179506446,3,3.5,4,"Dubbel",3.5,3.5,"Capucijn",6.5,5896
-"85",532,"Budelse Brouwerij B.V.",1165686860,3.5,4,3.5,"Dubbel",3.5,4,"Capucijn",6.5,5896
-"86",532,"Budelse Brouwerij B.V.",1138835889,3,2.5,1.5,"Dubbel",3,3.5,"Capucijn",6.5,5896
-"87",532,"Budelse Brouwerij B.V.",1133234120,3,3.5,3.5,"Dubbel",3.5,3,"Capucijn",6.5,5896
-"88",532,"Budelse Brouwerij B.V.",1129415727,3,3,3,"Dubbel",3,3.5,"Capucijn",6.5,5896
-"89",532,"Budelse Brouwerij B.V.",1106077537,3,2.5,3,"Dubbel",3,3,"Capucijn",6.5,5896
-"90",532,"Budelse Brouwerij B.V.",1104636117,3.5,3,3,"Dubbel",4,3.5,"Capucijn",6.5,5896
-"91",532,"Budelse Brouwerij B.V.",1104558316,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Capucijn",6.5,5896
-"92",532,"Budelse Brouwerij B.V.",1099618078,3,2.5,3,"Dubbel",2.5,3.5,"Capucijn",6.5,5896
-"93",532,"Budelse Brouwerij B.V.",1099450069,4,4,4,"Dubbel",4,4,"Capucijn",6.5,5896
-"94",532,"Budelse Brouwerij B.V.",1306099672,3,3.5,3.5,"Euro Pale Lager",3,3,"Budels BioBier",5,5897
-"95",532,"Budelse Brouwerij B.V.",1168197958,4.5,3,2,"Euro Pale Lager",3,3,"Budels BioBier",5,5897
-"96",532,"Budelse Brouwerij B.V.",1159041294,2,2.5,3.5,"Euro Pale Lager",2.5,2,"Budels BioBier",5,5897
-"97",532,"Budelse Brouwerij B.V.",1100914434,1.5,2,2,"Euro Pale Lager",1,1,"Budels BioBier",5,5897
-"98",532,"Budelse Brouwerij B.V.",1312401300,3,3.5,3.5,"Belgian Pale Ale",3,3,"Budels Goudblond",6,64834
-"99",532,"Budelse Brouwerij B.V.",1293636042,4,4,3,"Belgian Pale Ale",4,4,"Budels Goudblond",6,64834
+"1",532,"Budelse Brouwerij B.V.",1099365132,3,1.5,2,"German Pilsener",3,3,"Budels Pils",5,5899
+"2",532,"Budelse Brouwerij B.V.",1321909772,3.5,3.5,4.5,"German Pilsener",4,3.5,"Budels Pils",5,5899
+"3",532,"Budelse Brouwerij B.V.",1293294088,3,3,4,"German Pilsener",3,3,"Budels Pils",5,5899
+"4",532,"Budelse Brouwerij B.V.",1206068988,3.5,3,3.5,"German Pilsener",3,3,"Budels Pils",5,5899
+"5",532,"Budelse Brouwerij B.V.",1206044260,3,3,3,"German Pilsener",2.5,3,"Budels Pils",5,5899
+"6",532,"Budelse Brouwerij B.V.",1158732930,3.5,3,3.5,"German Pilsener",3.5,3,"Budels Pils",5,5899
+"7",532,"Budelse Brouwerij B.V.",1149380409,2.5,3,4,"German Pilsener",3,2.5,"Budels Pils",5,5899
+"8",532,"Budelse Brouwerij B.V.",1139405995,4,3,3,"German Pilsener",3,2.5,"Budels Pils",5,5899
+"9",532,"Budelse Brouwerij B.V.",1130873500,2,1.5,2,"German Pilsener",1.5,1.5,"Budels Pils",5,5899
+"10",532,"Budelse Brouwerij B.V.",1130545903,2.5,2,3,"German Pilsener",2,2.5,"Budels Pils",5,5899
+"11",532,"Budelse Brouwerij B.V.",1107807831,1,1,1,"German Pilsener",1,1,"Budels Pils",5,5899
+"12",532,"Budelse Brouwerij B.V.",1106270242,2.5,2.5,3.5,"German Pilsener",2.5,3,"Budels Pils",5,5899
+"13",532,"Budelse Brouwerij B.V.",1105046319,2.5,2.5,3,"German Pilsener",2.5,2.5,"Budels Pils",5,5899
+"14",532,"Budelse Brouwerij B.V.",1104706610,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Budels Pils",5,5899
+"15",532,"Budelse Brouwerij B.V.",1100726159,2,2,3.5,"German Pilsener",2,2,"Budels Pils",5,5899
+"16",532,"Budelse Brouwerij B.V.",1099364785,3,2.5,2.5,"German Pilsener",2.5,3.5,"Budels Pils",5,5899
+"17",532,"Budelse Brouwerij B.V.",1293637680,2.5,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Budels Honey",4.5,20582
+"18",532,"Budelse Brouwerij B.V.",1280443719,2,2.5,2,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
+"19",532,"Budelse Brouwerij B.V.",1206070092,3,2.5,3,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
+"20",532,"Budelse Brouwerij B.V.",1165703690,3.5,3,3,"Fruit / Vegetable Beer",3,3.5,"Budels Honey",4.5,20582
+"21",532,"Budelse Brouwerij B.V.",1137198266,2,2,2,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
+"22",532,"Budelse Brouwerij B.V.",1137110679,1.5,1.5,1.5,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
+"23",532,"Budelse Brouwerij B.V.",1132447114,2,1.5,1.5,"Fruit / Vegetable Beer",1.5,2,"Budels Honey",4.5,20582
+"24",532,"Budelse Brouwerij B.V.",1107807610,1,1,1.5,"Fruit / Vegetable Beer",1,1.5,"Budels Honey",4.5,20582
+"25",532,"Budelse Brouwerij B.V.",1104888576,4,3,2,"Fruit / Vegetable Beer",3,3,"Budels Honey",4.5,20582
+"26",532,"Budelse Brouwerij B.V.",1103576770,2,3,2,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
+"27",532,"Budelse Brouwerij B.V.",1100301278,1,1.5,1.5,"Fruit / Vegetable Beer",1.5,1.5,"Budels Honey",4.5,20582
+"28",532,"Budelse Brouwerij B.V.",1099448389,1.5,1.5,1.5,"Fruit / Vegetable Beer",2,2.5,"Budels Honey",4.5,20582
+"29",532,"Budelse Brouwerij B.V.",1099366310,4,3.5,1.5,"Fruit / Vegetable Beer",3.5,3.5,"Budels Honey",4.5,20582
+"30",532,"Budelse Brouwerij B.V.",1206069763,3,3,3.5,"Euro Dark Lager",3,2.5,"Batavier",5,5901
+"31",532,"Budelse Brouwerij B.V.",1167561598,3.5,3,3,"Euro Dark Lager",3.5,3,"Batavier",5,5901
+"32",532,"Budelse Brouwerij B.V.",1148618609,2.5,1.5,2,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
+"33",532,"Budelse Brouwerij B.V.",1133230671,2,3,3.5,"Euro Dark Lager",2.5,2,"Batavier",5,5901
+"34",532,"Budelse Brouwerij B.V.",1106097876,3.5,3.5,4,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
+"35",532,"Budelse Brouwerij B.V.",1105406599,4,2.5,3.5,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
+"36",532,"Budelse Brouwerij B.V.",1104349715,1.5,2,1.5,"Euro Dark Lager",1.5,1.5,"Batavier",5,5901
+"37",532,"Budelse Brouwerij B.V.",1103581926,2,2,3,"Euro Dark Lager",1.5,2,"Batavier",5,5901
+"38",532,"Budelse Brouwerij B.V.",1100304012,2.5,2.5,3.5,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
+"39",532,"Budelse Brouwerij B.V.",1099712475,2.5,2,3,"Euro Dark Lager",2.5,2.5,"Batavier",5,5901
+"40",532,"Budelse Brouwerij B.V.",1099383837,3.5,3,3,"Euro Dark Lager",3.5,3.5,"Batavier",5,5901
+"41",532,"Budelse Brouwerij B.V.",1206070422,3,2.5,3,"Belgian Pale Ale",3,2.5,"Parel",6,5895
+"42",532,"Budelse Brouwerij B.V.",1183136345,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Parel",6,5895
+"43",532,"Budelse Brouwerij B.V.",1131248904,2.5,3,3.5,"Belgian Pale Ale",2.5,2.5,"Parel",6,5895
+"44",532,"Budelse Brouwerij B.V.",1131224424,2.5,2,2.5,"Belgian Pale Ale",2.5,3,"Parel",6,5895
+"45",532,"Budelse Brouwerij B.V.",1108426786,3.5,2.5,3,"Belgian Pale Ale",4,4,"Parel",6,5895
+"46",532,"Budelse Brouwerij B.V.",1106077075,2,2,2,"Belgian Pale Ale",2,2.5,"Parel",6,5895
+"47",532,"Budelse Brouwerij B.V.",1105130500,4,3,2.5,"Belgian Pale Ale",3.5,4,"Parel",6,5895
+"48",532,"Budelse Brouwerij B.V.",1104001398,2,2.5,2.5,"Belgian Pale Ale",2,2,"Parel",6,5895
+"49",532,"Budelse Brouwerij B.V.",1100043134,2.5,2.5,2.5,"Belgian Pale Ale",2,2.5,"Parel",6,5895
+"50",532,"Budelse Brouwerij B.V.",1099857522,2.5,3,3,"Belgian Pale Ale",2.5,2.5,"Parel",6,5895
+"51",532,"Budelse Brouwerij B.V.",1099390298,4,3.5,4,"Belgian Pale Ale",4,4,"Parel",6,5895
+"52",532,"Budelse Brouwerij B.V.",1206069477,4,3.5,4,"Altbier",4,4,"Budels Alt",6,5894
+"53",532,"Budelse Brouwerij B.V.",1167478028,4,3,3,"Altbier",3.5,4,"Budels Alt",6,5894
+"54",532,"Budelse Brouwerij B.V.",1136504173,3.5,3,3.5,"Altbier",3.5,3.5,"Budels Alt",6,5894
+"55",532,"Budelse Brouwerij B.V.",1131328692,2.5,3,3,"Altbier",2.5,2.5,"Budels Alt",6,5894
+"56",532,"Budelse Brouwerij B.V.",1116656213,3.5,3.5,4,"Altbier",3.5,3.5,"Budels Alt",6,5894
+"57",532,"Budelse Brouwerij B.V.",1110497294,3.5,3,3,"Altbier",3.5,3.5,"Budels Alt",6,5894
+"58",532,"Budelse Brouwerij B.V.",1106077425,3,2.5,2.5,"Altbier",3,3,"Budels Alt",6,5894
+"59",532,"Budelse Brouwerij B.V.",1104564623,4,2.5,3.5,"Altbier",3.5,3.5,"Budels Alt",6,5894
+"60",532,"Budelse Brouwerij B.V.",1103668462,2.5,2,2.5,"Altbier",2.5,2.5,"Budels Alt",6,5894
+"61",532,"Budelse Brouwerij B.V.",1100564007,3,3,4,"Altbier",3.5,3,"Budels Alt",6,5894
+"62",532,"Budelse Brouwerij B.V.",1099970365,3,3,3,"Altbier",3,3,"Budels Alt",6,5894
+"63",532,"Budelse Brouwerij B.V.",1099386841,4,4,4,"Altbier",3.5,4,"Budels Alt",6,5894
+"64",532,"Budelse Brouwerij B.V.",1101519428,3,3.5,3.5,"Dubbel",3,3.5,"Capucijn",6.5,5896
+"65",532,"Budelse Brouwerij B.V.",1234818151,3.5,3.5,4,"Dubbel",3,4,"Capucijn",6.5,5896
+"66",532,"Budelse Brouwerij B.V.",1206305301,4,3,4,"Dubbel",4,4,"Capucijn",6.5,5896
+"67",532,"Budelse Brouwerij B.V.",1181222567,3,3,4,"Dubbel",2.5,2.5,"Capucijn",6.5,5896
+"68",532,"Budelse Brouwerij B.V.",1179506446,3,3.5,4,"Dubbel",3.5,3.5,"Capucijn",6.5,5896
+"69",532,"Budelse Brouwerij B.V.",1165686860,3.5,4,3.5,"Dubbel",3.5,4,"Capucijn",6.5,5896
+"70",532,"Budelse Brouwerij B.V.",1138835889,3,2.5,1.5,"Dubbel",3,3.5,"Capucijn",6.5,5896
+"71",532,"Budelse Brouwerij B.V.",1133234120,3,3.5,3.5,"Dubbel",3.5,3,"Capucijn",6.5,5896
+"72",532,"Budelse Brouwerij B.V.",1129415727,3,3,3,"Dubbel",3,3.5,"Capucijn",6.5,5896
+"73",532,"Budelse Brouwerij B.V.",1106077537,3,2.5,3,"Dubbel",3,3,"Capucijn",6.5,5896
+"74",532,"Budelse Brouwerij B.V.",1104636117,3.5,3,3,"Dubbel",4,3.5,"Capucijn",6.5,5896
+"75",532,"Budelse Brouwerij B.V.",1104558316,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Capucijn",6.5,5896
+"76",532,"Budelse Brouwerij B.V.",1099618078,3,2.5,3,"Dubbel",2.5,3.5,"Capucijn",6.5,5896
+"77",532,"Budelse Brouwerij B.V.",1099450069,4,4,4,"Dubbel",4,4,"Capucijn",6.5,5896

@@ -1,433 +1,392 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",805,"Brasserie Du Bocq",1262439560,4,3.5,3,"Belgian Pale Ale",3,2.5,"La Gauloise Blonde",6.1,12767
 "2",805,"Brasserie Du Bocq",1308518920,3.5,4,4.5,"American Amber / Red Ale",2.5,3.5,"La Gauloise Ambrée",5.5,13155
-"3",805,"Brasserie Du Bocq",1261836208,4,3,4,"Lambic - Fruit",4,3,"Brussels Red Fruit Beer",4.3,55011
-"4",805,"Brasserie Du Bocq",1151736080,3,3,4,"Fruit / Vegetable Beer",3.5,3.5,"La Framboizette",5.6,31437
-"5",805,"Brasserie Du Bocq",1326039311,3.5,3,3,"Witbier",3.5,3.5,"Applebocq",3.1,28606
-"6",805,"Brasserie Du Bocq",1263814834,3.5,2,3.5,"Witbier",3,2,"Applebocq",3.1,28606
-"7",805,"Brasserie Du Bocq",1234823835,5,4,4,"Witbier",4,4,"Applebocq",3.1,28606
-"8",805,"Brasserie Du Bocq",1309060978,4,3.5,3.5,"Witbier",4.5,4,"Blanche Des Moines",4.5,32747
-"9",805,"Brasserie Du Bocq",1284435076,4.5,5,4,"Witbier",4.5,5,"Blanche Des Moines",4.5,32747
-"10",805,"Brasserie Du Bocq",1277917350,3,3.5,2.5,"Witbier",3,3,"Blanche Des Moines",4.5,32747
-"11",805,"Brasserie Du Bocq",1276056993,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"12",805,"Brasserie Du Bocq",1133684084,3,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"13",805,"Brasserie Du Bocq",1117838118,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
-"14",805,"Brasserie Du Bocq",1174335984,3,3,4,"Belgian Strong Pale Ale",3,2.5,"Te Deum Amber",NA,27847
-"15",805,"Brasserie Du Bocq",1137385149,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Te Deum Amber",NA,27847
-"16",805,"Brasserie Du Bocq",1150693756,3,3.5,3.5,"Belgian Pale Ale",3,3.5,"Cuvée Li Crochon - Blonde",6.8,6893
-"17",805,"Brasserie Du Bocq",1077564800,3,3.5,3,"Belgian Pale Ale",3.5,3.5,"Cuvée Li Crochon - Blonde",6.8,6893
-"18",805,"Brasserie Du Bocq",1269846582,3.5,3.5,3,"Belgian Pale Ale",3.5,3,"Geist Blonde",5.5,57173
-"19",805,"Brasserie Du Bocq",1310687308,3.5,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
-"20",805,"Brasserie Du Bocq",1276704187,4,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
-"21",805,"Brasserie Du Bocq",1272401371,3.5,2.5,3.5,"Belgian Pale Ale",2.5,3,"La Gauloise Blonde",6.1,12767
-"22",805,"Brasserie Du Bocq",1270239820,4,3,3.5,"Belgian Pale Ale",3.5,3,"La Gauloise Blonde",6.1,12767
-"23",805,"Brasserie Du Bocq",1264154700,3.5,4,3.5,"Belgian Pale Ale",1.5,3.5,"La Gauloise Blonde",6.1,12767
-"24",805,"Brasserie Du Bocq",1255281913,4,3,3,"Belgian Pale Ale",3.5,4,"La Gauloise Blonde",6.1,12767
-"25",805,"Brasserie Du Bocq",1251160240,4,3.5,4,"Belgian Pale Ale",4.5,3.5,"La Gauloise Blonde",6.1,12767
-"26",805,"Brasserie Du Bocq",1250920250,4,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
-"27",805,"Brasserie Du Bocq",1242687934,3,4,4.5,"Belgian Pale Ale",3.5,3,"La Gauloise Blonde",6.1,12767
-"28",805,"Brasserie Du Bocq",1224380179,4,4,4,"Belgian Pale Ale",4,4,"La Gauloise Blonde",6.1,12767
-"29",805,"Brasserie Du Bocq",1195677472,3.5,3,3.5,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
-"30",805,"Brasserie Du Bocq",1186825744,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
-"31",805,"Brasserie Du Bocq",1183123087,3.5,3,4,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
-"32",805,"Brasserie Du Bocq",1181682283,4,3,3.5,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
-"33",805,"Brasserie Du Bocq",1247672519,5,4,5,"Belgian Strong Dark Ale",4.5,4,"La Gauloise Brune",8.7,6059
-"34",805,"Brasserie Du Bocq",1162824061,4,4,3,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
-"35",805,"Brasserie Du Bocq",1162581253,4,3.5,3.5,"Belgian Pale Ale",4,4,"La Gauloise Blonde",6.1,12767
-"36",805,"Brasserie Du Bocq",1159152673,3.5,4,3.5,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
-"37",805,"Brasserie Du Bocq",1137000348,3.5,4,3.5,"Belgian Pale Ale",3.5,4,"La Gauloise Blonde",6.1,12767
-"38",805,"Brasserie Du Bocq",1106687581,4,4,4,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
-"39",805,"Brasserie Du Bocq",1082396781,3,3.5,3,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
-"40",805,"Brasserie Du Bocq",1272475162,3,3,3,"Witbier",3,3,"Blanche D'Ardenne",4.3,57906
-"41",805,"Brasserie Du Bocq",1250920978,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4,"La Gauloise Brune",8.7,6059
-"42",805,"Brasserie Du Bocq",1151730362,3,3.5,3.5,"Belgian Pale Ale",3,3.5,"La Houlette",6,31436
-"43",805,"Brasserie Du Bocq",1132414421,4,4,4,"Belgian Strong Dark Ale",4,4,"Sinterklaas Bier",8.1,26988
-"44",805,"Brasserie Du Bocq",1291934501,3.5,4.5,3.5,"Belgian Strong Dark Ale",2.5,3.5,"La Gauloise Brune",8.7,6059
-"45",805,"Brasserie Du Bocq",1281180043,4.5,3.5,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
-"46",805,"Brasserie Du Bocq",1276872172,3.5,3.5,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
-"47",805,"Brasserie Du Bocq",1267956518,3.5,4,3.5,"Belgian Strong Dark Ale",2,3,"La Gauloise Brune",8.7,6059
-"48",805,"Brasserie Du Bocq",1262439484,3,3,4,"Belgian Strong Dark Ale",3.5,3.5,"La Gauloise Brune",8.7,6059
-"49",805,"Brasserie Du Bocq",1251160828,3.5,4,4.5,"Belgian Strong Dark Ale",3.5,3.5,"La Gauloise Brune",8.7,6059
-"50",805,"Brasserie Du Bocq",1226778203,3.5,4,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
-"51",805,"Brasserie Du Bocq",1218039932,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"La Gauloise Brune",8.7,6059
-"52",805,"Brasserie Du Bocq",1194718923,4,4,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
-"53",805,"Brasserie Du Bocq",1134930992,3,3,3,"Belgian Strong Dark Ale",3,3.5,"La Gauloise Brune",8.7,6059
-"54",805,"Brasserie Du Bocq",1092432954,4,4.5,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
-"55",805,"Brasserie Du Bocq",1082788249,3.5,3.5,3.5,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
-"56",805,"Brasserie Du Bocq",1066446212,4,3,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
-"57",805,"Brasserie Du Bocq",1062782214,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"La Gauloise Brune",8.7,6059
-"58",805,"Brasserie Du Bocq",1032134534,2.5,2.5,3.5,"Belgian Strong Dark Ale",2.5,2.5,"La Gauloise Brune",8.7,6059
-"59",805,"Brasserie Du Bocq",1315329593,2.5,3.5,3.5,"American Amber / Red Ale",2.5,2.5,"La Gauloise Ambrée",5.5,13155
-"60",805,"Brasserie Du Bocq",1310758726,4,4,3.5,"American Amber / Red Ale",4,3.5,"La Gauloise Ambrée",5.5,13155
-"61",805,"Brasserie Du Bocq",1299533523,4,4,4,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
-"62",805,"Brasserie Du Bocq",1297015227,2.5,2,3,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
-"63",805,"Brasserie Du Bocq",1271262816,4.5,4.5,3.5,"American Amber / Red Ale",3.5,4,"La Gauloise Ambrée",5.5,13155
-"64",805,"Brasserie Du Bocq",1262439378,3.5,3,4,"American Amber / Red Ale",4,4,"La Gauloise Ambrée",5.5,13155
-"65",805,"Brasserie Du Bocq",1238796640,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
-"66",805,"Brasserie Du Bocq",1195677732,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
-"67",805,"Brasserie Du Bocq",1183121285,3.5,3.5,4.5,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
-"68",805,"Brasserie Du Bocq",1115098465,4,4.5,4.5,"American Amber / Red Ale",4,3.5,"La Gauloise Ambrée",5.5,13155
-"69",805,"Brasserie Du Bocq",1082659211,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"La Gauloise Ambrée",5.5,13155
-"70",805,"Brasserie Du Bocq",1269838982,3.5,4,3.5,"Belgian Dark Ale",3.5,3.5,"Geist Dark",6.6,57169
-"71",805,"Brasserie Du Bocq",1210106276,4,3,4,"Tripel",4,4,"Père Abbé Tripel",7.3,14741
-"72",805,"Brasserie Du Bocq",1074859167,4.5,5,4.5,"Tripel",5,5,"Père Abbé Tripel",7.3,14741
-"73",805,"Brasserie Du Bocq",1071085724,3,3.5,3.5,"Tripel",3.5,3.5,"Père Abbé Tripel",7.3,14741
-"74",805,"Brasserie Du Bocq",1273604581,3.5,3.5,4,"Belgian Dark Ale",3.5,4,"St. Benôit Brune",6.5,9178
-"75",805,"Brasserie Du Bocq",1243375835,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
-"76",805,"Brasserie Du Bocq",1226680367,3,3,3.5,"Belgian Dark Ale",3,3.5,"St. Benôit Brune",6.5,9178
-"77",805,"Brasserie Du Bocq",1197657231,3,3,3,"Belgian Dark Ale",3,3,"St. Benôit Brune",6.5,9178
-"78",805,"Brasserie Du Bocq",1136903158,3.5,4,4,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
-"79",805,"Brasserie Du Bocq",1135709076,3.5,3.5,4,"Belgian Dark Ale",3,3,"St. Benôit Brune",6.5,9178
-"80",805,"Brasserie Du Bocq",1103191216,4,3.5,3.5,"Belgian Dark Ale",4,4,"St. Benôit Brune",6.5,9178
-"81",805,"Brasserie Du Bocq",1095164682,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
-"82",805,"Brasserie Du Bocq",1048778536,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
-"83",805,"Brasserie Du Bocq",1306463626,3.5,3.5,3.5,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"84",805,"Brasserie Du Bocq",1299623855,4,3.5,4,"Tripel",3.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
-"85",805,"Brasserie Du Bocq",1298815023,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"86",805,"Brasserie Du Bocq",1295213617,4.5,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"87",805,"Brasserie Du Bocq",1289224170,3.5,3.5,4.5,"Tripel",3.5,4,"Waterloo Tripel 7 Blond",7.5,43962
-"88",805,"Brasserie Du Bocq",1288973128,4,3.5,4,"Tripel",4,3.5,"Waterloo Tripel 7 Blond",7.5,43962
-"89",805,"Brasserie Du Bocq",1283810745,4,4,3.5,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"90",805,"Brasserie Du Bocq",1277939919,3.5,3.5,4,"Tripel",3.5,3,"Waterloo Tripel 7 Blond",7.5,43962
-"91",805,"Brasserie Du Bocq",1253383067,3,3,4,"Lambic - Fruit",3,3,"Brussels Fruit Beer Apple",3.2,52739
-"92",805,"Brasserie Du Bocq",1272115823,4,4,4.5,"Tripel",4,4.5,"Waterloo Tripel 7 Blond",7.5,43962
-"93",805,"Brasserie Du Bocq",1269683546,4,4,4.5,"Tripel",4.5,4,"Waterloo Tripel 7 Blond",7.5,43962
-"94",805,"Brasserie Du Bocq",1264865386,4.5,4,4,"Tripel",4.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
-"95",805,"Brasserie Du Bocq",1256165272,4.5,4,3.5,"Tripel",4.5,4.5,"Waterloo Tripel 7 Blond",7.5,43962
-"96",805,"Brasserie Du Bocq",1246969339,3.5,3.5,4,"Tripel",3.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
-"97",805,"Brasserie Du Bocq",1237052051,2.5,3,3.5,"Tripel",3,3,"Waterloo Tripel 7 Blond",7.5,43962
-"98",805,"Brasserie Du Bocq",1225389885,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"99",805,"Brasserie Du Bocq",1219292772,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
-"100",805,"Brasserie Du Bocq",1216998837,3.5,3.5,3.5,"Tripel",3.5,4,"Waterloo Tripel 7 Blond",7.5,43962
-"101",805,"Brasserie Du Bocq",1155669819,5,4.5,5,"Witbier",5,4.5,"Blanche De Namur",4.5,6057
-"102",805,"Brasserie Du Bocq",1264589011,4.5,3.5,4,"Belgian Pale Ale",4,4.5,"St. Benôit Blonde",6.3,6058
-"103",805,"Brasserie Du Bocq",1249121275,3,3.5,3,"Belgian Pale Ale",3,2.5,"St. Benôit Blonde",6.3,6058
-"104",805,"Brasserie Du Bocq",1243112766,2,2,3,"Belgian Pale Ale",2,2,"St. Benôit Blonde",6.3,6058
-"105",805,"Brasserie Du Bocq",1232340456,4.5,4,3.5,"Belgian Pale Ale",4,4,"St. Benôit Blonde",6.3,6058
-"106",805,"Brasserie Du Bocq",1232232582,3.5,3.5,3.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
-"107",805,"Brasserie Du Bocq",1228568050,3,3,3.5,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
-"108",805,"Brasserie Du Bocq",1186080025,3,2,3,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
-"109",805,"Brasserie Du Bocq",1154112298,3,3.5,4,"Belgian Pale Ale",3.5,3,"St. Benôit Blonde",6.3,6058
-"110",805,"Brasserie Du Bocq",1136995741,3.5,3,3,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
-"111",805,"Brasserie Du Bocq",1234617184,3.5,3.5,4.5,"Witbier",3.5,3,"Applebocq",3.1,28606
-"112",805,"Brasserie Du Bocq",1095163716,3,3.5,2.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
-"113",805,"Brasserie Du Bocq",1047314366,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"St. Benôit Blonde",6.3,6058
-"114",805,"Brasserie Du Bocq",1037665892,3,3.5,3.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
-"115",805,"Brasserie Du Bocq",1032134335,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"St. Benôit Blonde",6.3,6058
-"116",805,"Brasserie Du Bocq",1178749022,3,3,3,"Belgian Pale Ale",3,3,"Père Abbé Blonde",NA,15852
-"117",805,"Brasserie Du Bocq",1136762123,3.5,4,4,"Belgian Pale Ale",3.5,3.5,"Père Abbé Blonde",NA,15852
-"118",805,"Brasserie Du Bocq",1076515280,4,4,3,"Belgian Pale Ale",4,4,"Père Abbé Blonde",NA,15852
-"119",805,"Brasserie Du Bocq",1228567684,3,3,3.5,"Belgian Pale Ale",3,3,"Saint Erlin",6.3,46395
-"120",805,"Brasserie Du Bocq",1043158664,3,3.5,2.5,"Witbier",4,2.5,"Blanche De Noël",4,8181
-"121",805,"Brasserie Du Bocq",1233260977,2.5,3,3,"Belgian Pale Ale",2.5,2.5,"La Blonde Du Han (domaine Des Grottes)",6.3,47584
-"122",805,"Brasserie Du Bocq",1282731130,5,4.5,4.5,"Lambic - Fruit",3.5,3,"Brussels Red Fruit Beer",4.3,55011
-"123",805,"Brasserie Du Bocq",1208197899,3.5,3,3,"Witbier",3.5,3,"Applebocq",3.1,28606
-"124",805,"Brasserie Du Bocq",1206903304,2.5,3,3.5,"Witbier",3.5,3,"Applebocq",3.1,28606
-"125",805,"Brasserie Du Bocq",1197753625,3.5,3.5,4,"Witbier",3.5,4,"Applebocq",3.1,28606
-"126",805,"Brasserie Du Bocq",1188165300,2.5,3,4,"Witbier",3,2.5,"Applebocq",3.1,28606
-"127",805,"Brasserie Du Bocq",1140974451,4,5,4,"Witbier",4,4,"Applebocq",3.1,28606
-"128",805,"Brasserie Du Bocq",1280124303,3.5,4,4,"Witbier",3.5,4.5,"Geist Whistling Wheat",4.5,60443
-"129",805,"Brasserie Du Bocq",1209893840,2.5,2.5,3,"Belgian Strong Dark Ale",2.5,2.5,"Tipsy",NA,42477
-"130",805,"Brasserie Du Bocq",1142622328,3,2.5,3,"Belgian Pale Ale",2.5,2.5,"Godefroy Blonde",NA,29064
-"131",805,"Brasserie Du Bocq",1258944234,4,3,4,"Lambic - Fruit",3,3,"Brussels Fruit Beer Apple",3.2,52739
-"132",805,"Brasserie Du Bocq",1254107259,3.5,3,3.5,"Lambic - Fruit",3,3,"Brussels Fruit Beer Apple",3.2,52739
-"133",805,"Brasserie Du Bocq",1173765619,3,3.5,3,"Witbier",3,4,"Blanche De Namur",4.5,6057
-"134",805,"Brasserie Du Bocq",1173059562,4,4,4,"Witbier",2.5,3,"Blanche De Namur",4.5,6057
-"135",805,"Brasserie Du Bocq",1172818278,4,4,3.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"136",805,"Brasserie Du Bocq",1172530631,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"137",805,"Brasserie Du Bocq",1172500213,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"138",805,"Brasserie Du Bocq",1172474034,4,4,4,"Witbier",5,3.5,"Blanche De Namur",4.5,6057
-"139",805,"Brasserie Du Bocq",1172091853,3.5,3.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"140",805,"Brasserie Du Bocq",1082228373,3.5,4,4.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"141",805,"Brasserie Du Bocq",1171911423,3.5,4,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"142",805,"Brasserie Du Bocq",1165269650,4,4,3.5,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"143",805,"Brasserie Du Bocq",1164518116,5,3.5,5,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
-"144",805,"Brasserie Du Bocq",1162954123,4,4,4,"Witbier",3,4,"Blanche De Namur",4.5,6057
-"145",805,"Brasserie Du Bocq",1162507118,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"146",805,"Brasserie Du Bocq",1161825657,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"147",805,"Brasserie Du Bocq",1159399613,4.5,4.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"148",805,"Brasserie Du Bocq",1158462379,5,4,3.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"149",805,"Brasserie Du Bocq",1158189158,4,4,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"150",805,"Brasserie Du Bocq",1157661682,3.5,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"151",805,"Brasserie Du Bocq",1154894469,4,4.5,3.5,"Witbier",3,4.5,"Blanche De Namur",4.5,6057
-"152",805,"Brasserie Du Bocq",1153759859,4,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"153",805,"Brasserie Du Bocq",1152495976,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"154",805,"Brasserie Du Bocq",1151089154,3.5,3.5,3.5,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"155",805,"Brasserie Du Bocq",1150777350,4,4,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"156",805,"Brasserie Du Bocq",1150414618,3.5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"157",805,"Brasserie Du Bocq",1149670571,3.5,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"158",805,"Brasserie Du Bocq",1047235110,4.5,4.5,5,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
-"159",805,"Brasserie Du Bocq",1032134128,4,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"160",805,"Brasserie Du Bocq",1145370015,3.5,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"161",805,"Brasserie Du Bocq",1123100084,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"162",805,"Brasserie Du Bocq",1120099374,3.5,3.5,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"163",805,"Brasserie Du Bocq",1109018574,3.5,3.5,3.5,"Witbier",2.5,3.5,"Blanche De Namur",4.5,6057
-"164",805,"Brasserie Du Bocq",1102118164,4,4,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"165",805,"Brasserie Du Bocq",1095445998,4,3.5,3.5,"Witbier",3,4,"Blanche De Namur",4.5,6057
-"166",805,"Brasserie Du Bocq",1093228809,3.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"167",805,"Brasserie Du Bocq",1091819263,4,3,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"168",805,"Brasserie Du Bocq",1090079432,3,4.5,5,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"169",805,"Brasserie Du Bocq",1083043887,5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"170",805,"Brasserie Du Bocq",1262438664,4,3.5,3.5,"Witbier",5,4,"Blanche De Namur",4.5,6057
-"171",805,"Brasserie Du Bocq",1325012655,4.5,4,5,"Witbier",5,4.5,"Blanche De Namur",4.5,6057
-"172",805,"Brasserie Du Bocq",1320254072,4,4,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"173",805,"Brasserie Du Bocq",1319675529,4.5,4.5,4.5,"Witbier",4.5,5,"Blanche De Namur",4.5,6057
-"174",805,"Brasserie Du Bocq",1319490123,3.5,4,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"175",805,"Brasserie Du Bocq",1316140400,4,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"176",805,"Brasserie Du Bocq",1314740281,4.5,4.5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"177",805,"Brasserie Du Bocq",1313716975,4,4,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"178",805,"Brasserie Du Bocq",1311538542,2.5,3,4.5,"Witbier",2,2.5,"Blanche De Namur",4.5,6057
-"179",805,"Brasserie Du Bocq",1310941088,3.5,3.5,2,"Witbier",2,3.5,"Blanche De Namur",4.5,6057
-"180",805,"Brasserie Du Bocq",1308764283,5,5,4,"Witbier",5,5,"Blanche De Namur",4.5,6057
-"181",805,"Brasserie Du Bocq",1307875028,5,4.5,3.5,"Witbier",3.5,5,"Blanche De Namur",4.5,6057
-"182",805,"Brasserie Du Bocq",1305989011,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"183",805,"Brasserie Du Bocq",1305330096,4.5,4,4.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"184",805,"Brasserie Du Bocq",1302364805,4,3,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"185",805,"Brasserie Du Bocq",1302213236,4,4,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"186",805,"Brasserie Du Bocq",1299175889,3.5,4,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"187",805,"Brasserie Du Bocq",1297545698,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"188",805,"Brasserie Du Bocq",1297440711,3,4.5,4.5,"Witbier",4.5,3.5,"Blanche De Namur",4.5,6057
-"189",805,"Brasserie Du Bocq",1293902939,3,3,4,"Witbier",4,3,"Blanche De Namur",4.5,6057
-"190",805,"Brasserie Du Bocq",1220413890,3.5,3.5,4,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"191",805,"Brasserie Du Bocq",1289618101,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"192",805,"Brasserie Du Bocq",1286394874,4,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"193",805,"Brasserie Du Bocq",1284088402,4,4.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"194",805,"Brasserie Du Bocq",1282752508,5,5,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"195",805,"Brasserie Du Bocq",1282095342,3.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"196",805,"Brasserie Du Bocq",1278984561,3.5,3.5,3,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"197",805,"Brasserie Du Bocq",1277417388,4,3.5,2.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"198",805,"Brasserie Du Bocq",1275570875,3.5,4,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"199",805,"Brasserie Du Bocq",1271276865,5,5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"200",805,"Brasserie Du Bocq",1266713148,4.5,4,3,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"201",805,"Brasserie Du Bocq",1266208377,4,2.5,3,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"202",805,"Brasserie Du Bocq",1251949304,2.5,4.5,3.5,"Witbier",4,3,"Blanche De Namur",4.5,6057
-"203",805,"Brasserie Du Bocq",1250480397,4,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"204",805,"Brasserie Du Bocq",1246971093,4.5,4.5,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"205",805,"Brasserie Du Bocq",1246812262,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"206",805,"Brasserie Du Bocq",1244253699,4,3.5,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"207",805,"Brasserie Du Bocq",1243002660,3.5,3.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"208",805,"Brasserie Du Bocq",1242507950,4.5,4,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"209",805,"Brasserie Du Bocq",1242079674,4,3.5,3.5,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"210",805,"Brasserie Du Bocq",1239531273,4,4,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"211",805,"Brasserie Du Bocq",1239152908,4,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"212",805,"Brasserie Du Bocq",1234668205,3.5,3.5,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"213",805,"Brasserie Du Bocq",1233188911,4,3,3,"Witbier",3,4,"Blanche De Namur",4.5,6057
-"214",805,"Brasserie Du Bocq",1229462959,3,4,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"215",805,"Brasserie Du Bocq",1229161733,4,3.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"216",805,"Brasserie Du Bocq",1228103488,4.5,3.5,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"217",805,"Brasserie Du Bocq",1227945078,4,4.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"218",805,"Brasserie Du Bocq",1226238563,4.5,3,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"219",805,"Brasserie Du Bocq",1225224325,4,4,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"220",805,"Brasserie Du Bocq",1223676980,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"221",805,"Brasserie Du Bocq",1220784960,4,4,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"222",805,"Brasserie Du Bocq",1220380309,2,2.5,2,"Witbier",2,2.5,"Blanche De Namur",4.5,6057
-"223",805,"Brasserie Du Bocq",1219325866,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"224",805,"Brasserie Du Bocq",1217970429,4,4,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"225",805,"Brasserie Du Bocq",1215904024,3.5,4.5,4.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
-"226",805,"Brasserie Du Bocq",1215411895,4,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"227",805,"Brasserie Du Bocq",1214486043,5,4.5,4,"Witbier",4,5,"Blanche De Namur",4.5,6057
-"228",805,"Brasserie Du Bocq",1213991017,3.5,3.5,3,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"229",805,"Brasserie Du Bocq",1213719262,4.5,4.5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
-"230",805,"Brasserie Du Bocq",1212776752,4,4,3.5,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"231",805,"Brasserie Du Bocq",1210782952,3,4,3,"Witbier",2.5,3.5,"Blanche De Namur",4.5,6057
-"232",805,"Brasserie Du Bocq",1210556089,3,3,3,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"233",805,"Brasserie Du Bocq",1210471978,4,4,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"234",805,"Brasserie Du Bocq",1208559445,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"235",805,"Brasserie Du Bocq",1207966548,4,3.5,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"236",805,"Brasserie Du Bocq",1207963329,3,2.5,2,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"237",805,"Brasserie Du Bocq",1206144989,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"238",805,"Brasserie Du Bocq",1204330580,3.5,2.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"239",805,"Brasserie Du Bocq",1204245834,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"240",805,"Brasserie Du Bocq",1203913152,3.5,3.5,4,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
-"241",805,"Brasserie Du Bocq",1200798376,4.5,3.5,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"242",805,"Brasserie Du Bocq",1200182715,4.5,4,4,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
-"243",805,"Brasserie Du Bocq",1199427944,4,3.5,4,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
-"244",805,"Brasserie Du Bocq",1196629018,3,3,3.5,"Witbier",3,3,"Blanche De Namur",4.5,6057
-"245",805,"Brasserie Du Bocq",1196053625,3,3.5,5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"246",805,"Brasserie Du Bocq",1194465962,3.5,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
-"247",805,"Brasserie Du Bocq",1193618460,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"248",805,"Brasserie Du Bocq",1273857141,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,4,"Bocq Christmas",8.1,54743
-"249",805,"Brasserie Du Bocq",1190773670,4,3.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"250",805,"Brasserie Du Bocq",1190649805,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"251",805,"Brasserie Du Bocq",1187842869,3.5,3,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"252",805,"Brasserie Du Bocq",1187657694,4.5,5,3.5,"Witbier",3.5,4.5,"Blanche De Namur",4.5,6057
-"253",805,"Brasserie Du Bocq",1187395818,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"254",805,"Brasserie Du Bocq",1184554013,4,3,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"255",805,"Brasserie Du Bocq",1179604913,4.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
-"256",805,"Brasserie Du Bocq",1176886019,3,3.5,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
-"257",805,"Brasserie Du Bocq",1234912715,4.5,4,4,"Belgian Dark Ale",4.5,5,"Te Deum Brune",NA,27886
-"258",805,"Brasserie Du Bocq",1176443156,3.5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
-"259",805,"Brasserie Du Bocq",1175804921,3.5,5,4,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
-"260",805,"Brasserie Du Bocq",1174840940,3,4,3,"Witbier",2,3.5,"Blanche De Namur",4.5,6057
-"261",805,"Brasserie Du Bocq",1174250996,3,3,3.5,"Witbier",2.5,3,"Blanche De Namur",4.5,6057
-"262",805,"Brasserie Du Bocq",1325950836,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
-"263",805,"Brasserie Du Bocq",1325943247,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Bocq Christmas",8.1,54743
-"264",805,"Brasserie Du Bocq",1322416813,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
-"265",805,"Brasserie Du Bocq",1293990069,4,4,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
-"266",805,"Brasserie Du Bocq",1293083423,5,4.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Bocq Christmas",8.1,54743
-"267",805,"Brasserie Du Bocq",1282789426,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Bocq Christmas",8.1,54743
-"268",805,"Brasserie Du Bocq",1260740963,4.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
-"269",805,"Brasserie Du Bocq",1322157511,4,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
-"270",805,"Brasserie Du Bocq",1320892561,4,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Waterloo Double 8 Dark",8.5,37324
-"271",805,"Brasserie Du Bocq",1320703933,3.5,3,3,"Belgian Strong Dark Ale",2.5,2.5,"Waterloo Double 8 Dark",8.5,37324
-"272",805,"Brasserie Du Bocq",1320062669,4,4,4,"Belgian Strong Dark Ale",3.5,4.5,"Waterloo Double 8 Dark",8.5,37324
-"273",805,"Brasserie Du Bocq",1319489129,4,4.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Waterloo Double 8 Dark",8.5,37324
-"274",805,"Brasserie Du Bocq",1311969765,4,4,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"275",805,"Brasserie Du Bocq",1311480314,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"276",805,"Brasserie Du Bocq",1307183104,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
-"277",805,"Brasserie Du Bocq",1301212480,3,4,3.5,"Belgian Strong Dark Ale",3.5,3,"Waterloo Double 8 Dark",8.5,37324
-"278",805,"Brasserie Du Bocq",1289207284,3.5,3.5,3.5,"Belgian Strong Dark Ale",3,3,"Waterloo Double 8 Dark",8.5,37324
-"279",805,"Brasserie Du Bocq",1288971672,4.5,4.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
-"280",805,"Brasserie Du Bocq",1283223200,4,4,4.5,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
-"281",805,"Brasserie Du Bocq",1279679911,4,4,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"282",805,"Brasserie Du Bocq",1278289867,3.5,4,4.5,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"283",805,"Brasserie Du Bocq",1277437771,4,3,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"284",805,"Brasserie Du Bocq",1277432525,3.5,4,2,"Belgian Strong Dark Ale",2,4,"Waterloo Double 8 Dark",8.5,37324
-"285",805,"Brasserie Du Bocq",1277002358,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
-"286",805,"Brasserie Du Bocq",1261425149,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Waterloo Double 8 Dark",8.5,37324
-"287",805,"Brasserie Du Bocq",1226366435,4.5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
-"288",805,"Brasserie Du Bocq",1221438636,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
-"289",805,"Brasserie Du Bocq",1219192200,4.5,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Waterloo Double 8 Dark",8.5,37324
-"290",805,"Brasserie Du Bocq",1216822404,4,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
-"291",805,"Brasserie Du Bocq",1182254015,4,3.5,4,"Belgian Strong Dark Ale",4,3.5,"Waterloo Double 8 Dark",8.5,37324
-"292",805,"Brasserie Du Bocq",1246041486,2.5,3,3.5,"Witbier",3,3,"Tesco Finest Belgian Wheat Beer",5,50708
-"293",805,"Brasserie Du Bocq",1248613218,3,4.5,3,"Belgian Dark Ale",2.5,3.5,"Te Deum Brune",NA,27886
-"294",805,"Brasserie Du Bocq",1192561177,2,3,3,"Belgian Dark Ale",3,1,"Te Deum Brune",NA,27886
-"295",805,"Brasserie Du Bocq",1161567865,4,4,4,"Belgian Dark Ale",4,4,"Te Deum Brune",NA,27886
-"296",805,"Brasserie Du Bocq",1137518635,4,4,4,"Belgian Dark Ale",4,4,"Te Deum Brune",NA,27886
-"297",805,"Brasserie Du Bocq",1312543736,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Tres Jolie Blond",6,71727
-"298",805,"Brasserie Du Bocq",1257797128,2.5,3,3,"Belgian Strong Dark Ale",2.5,2.5,"Julemandens Trøst",8.1,42356
-"299",805,"Brasserie Du Bocq",1209323932,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Julemandens Trøst",8.1,42356
-"300",805,"Brasserie Du Bocq",1142622722,2.5,2,2,"Belgian Dark Ale",2,2,"Godefroy Rousse",NA,29065
-"301",805,"Brasserie Du Bocq",1284468892,2.5,3.5,4,"Witbier",2.5,2.5,"Redbocq",3.1,55486
-"302",805,"Brasserie Du Bocq",1263814789,3.5,2,3.5,"Witbier",3,2,"Redbocq",3.1,55486
-"303",805,"Brasserie Du Bocq",1125471652,4.5,4,4,"Witbier",4,4,"Bière De Mon Village",5.5,25583
-"304",805,"Brasserie Du Bocq",1066588152,2,3,4,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
-"305",805,"Brasserie Du Bocq",1286384608,2.5,4,3,"Tripel",3.5,2.5,"Tesco Finest Belgian Abbey Beer",6,32874
-"306",805,"Brasserie Du Bocq",1269300893,4,4,4,"Tripel",3.5,3.5,"Tesco Finest Belgian Abbey Beer",6,32874
-"307",805,"Brasserie Du Bocq",1161911819,4,3.5,4,"Tripel",4,3.5,"Tesco Finest Belgian Abbey Beer",6,32874
-"308",805,"Brasserie Du Bocq",1158889328,3.5,3.5,4,"Tripel",3.5,3,"Tesco Finest Belgian Abbey Beer",6,32874
-"309",805,"Brasserie Du Bocq",1146083341,4,3.5,4,"Belgian Pale Ale",4,4.5,"The Knight's Ale",6,2503
-"310",805,"Brasserie Du Bocq",1121808583,3.5,4,4,"Belgian Pale Ale",3,4.5,"The Knight's Ale",6,2503
-"311",805,"Brasserie Du Bocq",1084497564,1,3,3,"Belgian Pale Ale",1.5,1,"The Knight's Ale",6,2503
-"312",805,"Brasserie Du Bocq",1073869039,3,3.5,3,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
-"313",805,"Brasserie Du Bocq",1064867619,4.5,3.5,3,"Belgian Pale Ale",4,3.5,"The Knight's Ale",6,2503
-"314",805,"Brasserie Du Bocq",1062196004,4,2.5,3,"Belgian Pale Ale",2,3,"The Knight's Ale",6,2503
-"315",805,"Brasserie Du Bocq",1046717355,3.5,3,3,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
-"316",805,"Brasserie Du Bocq",1038824892,4,3.5,4,"Belgian Pale Ale",4,4,"The Knight's Ale",6,2503
-"317",805,"Brasserie Du Bocq",1025845306,4,3.5,4,"Belgian Pale Ale",4,4.5,"The Knight's Ale",6,2503
-"318",805,"Brasserie Du Bocq",1286630343,4,3,3.5,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
-"319",805,"Brasserie Du Bocq",1269430167,4,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison Regal",5.5,8529
-"320",805,"Brasserie Du Bocq",1268484431,3.5,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
-"321",805,"Brasserie Du Bocq",1249367674,4,4,3.5,"Saison / Farmhouse Ale",3,4,"Saison Regal",5.5,8529
-"322",805,"Brasserie Du Bocq",1247939657,3.5,3,3,"Saison / Farmhouse Ale",4.5,4,"Saison Regal",5.5,8529
-"323",805,"Brasserie Du Bocq",1242384266,3,3.5,4.5,"Saison / Farmhouse Ale",4,2,"Saison Regal",5.5,8529
-"324",805,"Brasserie Du Bocq",1239216133,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison Regal",5.5,8529
-"325",805,"Brasserie Du Bocq",1235745405,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
-"326",805,"Brasserie Du Bocq",1222196743,3,3.5,3.5,"Saison / Farmhouse Ale",3,3,"Saison Regal",5.5,8529
-"327",805,"Brasserie Du Bocq",1199571370,3.5,3.5,3,"Saison / Farmhouse Ale",3.5,3,"Saison Regal",5.5,8529
-"328",805,"Brasserie Du Bocq",1194108061,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
-"329",805,"Brasserie Du Bocq",1140215266,4.5,4,3.5,"Saison / Farmhouse Ale",4.5,4.5,"Saison Regal",5.5,8529
-"330",805,"Brasserie Du Bocq",1140141519,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
-"331",805,"Brasserie Du Bocq",1131903325,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3,"Saison Regal",5.5,8529
-"332",805,"Brasserie Du Bocq",1128126133,3,3,4,"Saison / Farmhouse Ale",3,3.5,"Saison Regal",5.5,8529
-"333",805,"Brasserie Du Bocq",1116879792,3.5,3,4,"Saison / Farmhouse Ale",4.5,4.5,"Saison Regal",5.5,8529
-"334",805,"Brasserie Du Bocq",1050479446,5,5,4,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
-"335",805,"Brasserie Du Bocq",1045064951,3.5,3.5,3,"Saison / Farmhouse Ale",3,3.5,"Saison Regal",5.5,8529
-"336",805,"Brasserie Du Bocq",1252785614,3.5,4.5,4,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
-"337",805,"Brasserie Du Bocq",1239078548,4,3,3.5,"Witbier",2.5,3.5,"Blanche Des Moines",4.5,32747
-"338",805,"Brasserie Du Bocq",1225147113,3.5,4,3.5,"Witbier",3.5,4,"Blanche Des Moines",4.5,32747
-"339",805,"Brasserie Du Bocq",1220200817,4,4,4,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
-"340",805,"Brasserie Du Bocq",1219805667,4,4,4,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
-"341",805,"Brasserie Du Bocq",1218381286,4,4.5,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
-"342",805,"Brasserie Du Bocq",1203117434,4,4,3.5,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
-"343",805,"Brasserie Du Bocq",1198945137,4.5,4.5,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
-"344",805,"Brasserie Du Bocq",1196040368,4.5,4,4,"Witbier",4.5,3.5,"Blanche Des Moines",4.5,32747
-"345",805,"Brasserie Du Bocq",1193519529,4,3.5,3.5,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
-"346",805,"Brasserie Du Bocq",1192853327,5,3.5,3.5,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
-"347",805,"Brasserie Du Bocq",1190518810,4.5,4,4,"Witbier",3,3.5,"Blanche Des Moines",4.5,32747
-"348",805,"Brasserie Du Bocq",1180320900,4.5,3,3,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
-"349",805,"Brasserie Du Bocq",1176900648,4.5,4,4,"Witbier",4,4.5,"Blanche Des Moines",4.5,32747
-"350",805,"Brasserie Du Bocq",1174955093,5,4.5,4,"Witbier",4,4.5,"Blanche Des Moines",4.5,32747
-"351",805,"Brasserie Du Bocq",1174516551,4,3.5,3.5,"Witbier",3.5,4,"Blanche Des Moines",4.5,32747
-"352",805,"Brasserie Du Bocq",1159830000,4.5,4,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
-"353",805,"Brasserie Du Bocq",1158280109,3.5,3,3.5,"Witbier",3,2.5,"Blanche Des Moines",4.5,32747
-"354",805,"Brasserie Du Bocq",1257450493,4.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
-"355",805,"Brasserie Du Bocq",1227729886,4,3.5,3.5,"Belgian Strong Dark Ale",3.5,4,"Régal Christmas",8.1,13156
-"356",805,"Brasserie Du Bocq",1167762613,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Régal Christmas",8.1,13156
-"357",805,"Brasserie Du Bocq",1165700643,3,4,4,"Belgian Strong Dark Ale",2,3,"Régal Christmas",8.1,13156
-"358",805,"Brasserie Du Bocq",1140142641,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
-"359",805,"Brasserie Du Bocq",1138764136,4,4,4,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
-"360",805,"Brasserie Du Bocq",1136978585,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Régal Christmas",8.1,13156
-"361",805,"Brasserie Du Bocq",1134322195,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Régal Christmas",8.1,13156
-"362",805,"Brasserie Du Bocq",1104724120,5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Régal Christmas",8.1,13156
-"363",805,"Brasserie Du Bocq",1104116942,3,3.5,4,"Belgian Strong Dark Ale",3,3,"Régal Christmas",8.1,13156
-"364",805,"Brasserie Du Bocq",1241096817,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"365",805,"Brasserie Du Bocq",1098908886,4,3.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Régal Christmas",8.1,13156
-"366",805,"Brasserie Du Bocq",1323724947,4,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
-"367",805,"Brasserie Du Bocq",1322853198,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"368",805,"Brasserie Du Bocq",1322477330,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"369",805,"Brasserie Du Bocq",1310128453,3.5,3,3.5,"Belgian Strong Pale Ale",3.5,3,"Triple Moine / Deugniet",7.3,8751
-"370",805,"Brasserie Du Bocq",1309517291,3.5,3.5,3,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"371",805,"Brasserie Du Bocq",1302546740,3.5,4,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"372",805,"Brasserie Du Bocq",1302326362,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"373",805,"Brasserie Du Bocq",1299618528,4,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"374",805,"Brasserie Du Bocq",1296342511,4.5,3,4,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
-"375",805,"Brasserie Du Bocq",1289652418,4,3,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"376",805,"Brasserie Du Bocq",1282387796,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"377",805,"Brasserie Du Bocq",1272979307,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"378",805,"Brasserie Du Bocq",1268846970,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"379",805,"Brasserie Du Bocq",1266228527,4.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"380",805,"Brasserie Du Bocq",1264522283,5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"381",805,"Brasserie Du Bocq",1264419652,3,3.5,4,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
-"382",805,"Brasserie Du Bocq",1258339102,4.5,3,4.5,"Belgian Strong Pale Ale",2.5,4.5,"Triple Moine / Deugniet",7.3,8751
-"383",805,"Brasserie Du Bocq",1257264263,3,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"384",805,"Brasserie Du Bocq",1254378354,2.5,3,3.5,"Belgian Strong Pale Ale",2,2,"Triple Moine / Deugniet",7.3,8751
-"385",805,"Brasserie Du Bocq",1246068306,3.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"386",805,"Brasserie Du Bocq",1245578058,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"387",805,"Brasserie Du Bocq",1233718392,3.5,3,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"388",805,"Brasserie Du Bocq",1232654549,4,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
-"389",805,"Brasserie Du Bocq",1230411598,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"390",805,"Brasserie Du Bocq",1227731027,3,3,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
-"391",805,"Brasserie Du Bocq",1224259253,4.5,3,3.5,"Belgian Strong Pale Ale",4,4.5,"Triple Moine / Deugniet",7.3,8751
-"392",805,"Brasserie Du Bocq",1224035099,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"393",805,"Brasserie Du Bocq",1221619594,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"394",805,"Brasserie Du Bocq",1220467651,3.5,2,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"395",805,"Brasserie Du Bocq",1217797112,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Triple Moine / Deugniet",7.3,8751
-"396",805,"Brasserie Du Bocq",1187060679,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"397",805,"Brasserie Du Bocq",1185211808,3.5,4,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"398",805,"Brasserie Du Bocq",1217436742,3.5,3,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"399",805,"Brasserie Du Bocq",1216589572,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Triple Moine / Deugniet",7.3,8751
-"400",805,"Brasserie Du Bocq",1216260012,4,4,4,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
-"401",805,"Brasserie Du Bocq",1210736402,3.5,4,3.5,"Belgian Strong Pale Ale",3,3,"Triple Moine / Deugniet",7.3,8751
-"402",805,"Brasserie Du Bocq",1206120481,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"403",805,"Brasserie Du Bocq",1200630726,4.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"404",805,"Brasserie Du Bocq",1190765003,4,4,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"405",805,"Brasserie Du Bocq",1190433011,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"406",805,"Brasserie Du Bocq",1177392587,3,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"407",805,"Brasserie Du Bocq",1175738852,3,3.5,4,"Belgian Strong Pale Ale",3.5,3,"Triple Moine / Deugniet",7.3,8751
-"408",805,"Brasserie Du Bocq",1168745553,3,3.5,3,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
-"409",805,"Brasserie Du Bocq",1163809871,3.5,4,3.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"410",805,"Brasserie Du Bocq",1162565697,4,4.5,4.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"411",805,"Brasserie Du Bocq",1158704985,3.5,4,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"412",805,"Brasserie Du Bocq",1154737119,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"413",805,"Brasserie Du Bocq",1143242404,2,5,4,"Belgian Strong Pale Ale",2.5,3,"Triple Moine / Deugniet",7.3,8751
-"414",805,"Brasserie Du Bocq",1117060286,3,3.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
-"415",805,"Brasserie Du Bocq",1106076236,3.5,3.5,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"416",805,"Brasserie Du Bocq",1094222620,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
-"417",805,"Brasserie Du Bocq",1069897911,3.5,4,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
-"418",805,"Brasserie Du Bocq",1065667442,4,4,3.5,"Belgian Strong Pale Ale",4,4.5,"Triple Moine / Deugniet",7.3,8751
-"419",805,"Brasserie Du Bocq",1048419106,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
-"420",805,"Brasserie Du Bocq",1292575983,4,4,4,"Belgian Strong Dark Ale",4,4,"Brune",8.1,64495
-"421",805,"Brasserie Du Bocq",1082051192,4.5,4.5,4,"Belgian Dark Ale",4.5,4,"Père Abbé Brune",NA,17128
-"422",805,"Brasserie Du Bocq",1303583355,4,4,4,"Belgian Strong Pale Ale",4,4,"Te Deum Amber",NA,27847
-"423",805,"Brasserie Du Bocq",1251388646,4,4,4,"Belgian Strong Pale Ale",4,4,"Te Deum Amber",NA,27847
-"424",805,"Brasserie Du Bocq",1192476863,3,3,2.5,"Belgian Strong Pale Ale",3,2.5,"Te Deum Amber",NA,27847
-"425",805,"Brasserie Du Bocq",1284341264,2,3.5,4,"Witbier",2,2,"Agrumbocq",3.1,55487
-"426",805,"Brasserie Du Bocq",1263814890,3.5,2,3.5,"Witbier",3,2,"Agrumbocq",3.1,55487
-"427",805,"Brasserie Du Bocq",1251389446,3.5,3.5,4,"Belgian Pale Ale",3.5,3.5,"Te Deum Blonde",NA,27846
-"428",805,"Brasserie Du Bocq",1181764322,2,4,2.5,"Belgian Pale Ale",2.5,2,"Te Deum Blonde",NA,27846
-"429",805,"Brasserie Du Bocq",1174425877,3.5,2.5,3,"Belgian Pale Ale",2.5,2.5,"Te Deum Blonde",NA,27846
-"430",805,"Brasserie Du Bocq",1148928322,3,3,2.5,"Belgian Pale Ale",2.5,3,"Te Deum Blonde",NA,27846
-"431",805,"Brasserie Du Bocq",1137384781,4,4,3.5,"Belgian Pale Ale",4,4,"Te Deum Blonde",NA,27846
-"432",805,"Brasserie Du Bocq",1228767619,3,3,3,"Belgian Strong Pale Ale",3,3,"Martiane",7.2,46453
+"3",805,"Brasserie Du Bocq",1326039311,3.5,3,3,"Witbier",3.5,3.5,"Applebocq",3.1,28606
+"4",805,"Brasserie Du Bocq",1263814834,3.5,2,3.5,"Witbier",3,2,"Applebocq",3.1,28606
+"5",805,"Brasserie Du Bocq",1234823835,5,4,4,"Witbier",4,4,"Applebocq",3.1,28606
+"6",805,"Brasserie Du Bocq",1309060978,4,3.5,3.5,"Witbier",4.5,4,"Blanche Des Moines",4.5,32747
+"7",805,"Brasserie Du Bocq",1284435076,4.5,5,4,"Witbier",4.5,5,"Blanche Des Moines",4.5,32747
+"8",805,"Brasserie Du Bocq",1277917350,3,3.5,2.5,"Witbier",3,3,"Blanche Des Moines",4.5,32747
+"9",805,"Brasserie Du Bocq",1276056993,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"10",805,"Brasserie Du Bocq",1133684084,3,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"11",805,"Brasserie Du Bocq",1117838118,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
+"12",805,"Brasserie Du Bocq",1174335984,3,3,4,"Belgian Strong Pale Ale",3,2.5,"Te Deum Amber",NA,27847
+"13",805,"Brasserie Du Bocq",1137385149,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Te Deum Amber",NA,27847
+"14",805,"Brasserie Du Bocq",1310687308,3.5,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
+"15",805,"Brasserie Du Bocq",1276704187,4,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
+"16",805,"Brasserie Du Bocq",1272401371,3.5,2.5,3.5,"Belgian Pale Ale",2.5,3,"La Gauloise Blonde",6.1,12767
+"17",805,"Brasserie Du Bocq",1270239820,4,3,3.5,"Belgian Pale Ale",3.5,3,"La Gauloise Blonde",6.1,12767
+"18",805,"Brasserie Du Bocq",1264154700,3.5,4,3.5,"Belgian Pale Ale",1.5,3.5,"La Gauloise Blonde",6.1,12767
+"19",805,"Brasserie Du Bocq",1255281913,4,3,3,"Belgian Pale Ale",3.5,4,"La Gauloise Blonde",6.1,12767
+"20",805,"Brasserie Du Bocq",1251160240,4,3.5,4,"Belgian Pale Ale",4.5,3.5,"La Gauloise Blonde",6.1,12767
+"21",805,"Brasserie Du Bocq",1250920250,4,3.5,4,"Belgian Pale Ale",4,3.5,"La Gauloise Blonde",6.1,12767
+"22",805,"Brasserie Du Bocq",1242687934,3,4,4.5,"Belgian Pale Ale",3.5,3,"La Gauloise Blonde",6.1,12767
+"23",805,"Brasserie Du Bocq",1224380179,4,4,4,"Belgian Pale Ale",4,4,"La Gauloise Blonde",6.1,12767
+"24",805,"Brasserie Du Bocq",1195677472,3.5,3,3.5,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
+"25",805,"Brasserie Du Bocq",1186825744,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
+"26",805,"Brasserie Du Bocq",1183123087,3.5,3,4,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
+"27",805,"Brasserie Du Bocq",1181682283,4,3,3.5,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
+"28",805,"Brasserie Du Bocq",1247672519,5,4,5,"Belgian Strong Dark Ale",4.5,4,"La Gauloise Brune",8.7,6059
+"29",805,"Brasserie Du Bocq",1162824061,4,4,3,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
+"30",805,"Brasserie Du Bocq",1162581253,4,3.5,3.5,"Belgian Pale Ale",4,4,"La Gauloise Blonde",6.1,12767
+"31",805,"Brasserie Du Bocq",1159152673,3.5,4,3.5,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
+"32",805,"Brasserie Du Bocq",1137000348,3.5,4,3.5,"Belgian Pale Ale",3.5,4,"La Gauloise Blonde",6.1,12767
+"33",805,"Brasserie Du Bocq",1106687581,4,4,4,"Belgian Pale Ale",3.5,3.5,"La Gauloise Blonde",6.1,12767
+"34",805,"Brasserie Du Bocq",1082396781,3,3.5,3,"Belgian Pale Ale",3,3.5,"La Gauloise Blonde",6.1,12767
+"35",805,"Brasserie Du Bocq",1250920978,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4,"La Gauloise Brune",8.7,6059
+"36",805,"Brasserie Du Bocq",1291934501,3.5,4.5,3.5,"Belgian Strong Dark Ale",2.5,3.5,"La Gauloise Brune",8.7,6059
+"37",805,"Brasserie Du Bocq",1281180043,4.5,3.5,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
+"38",805,"Brasserie Du Bocq",1276872172,3.5,3.5,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
+"39",805,"Brasserie Du Bocq",1267956518,3.5,4,3.5,"Belgian Strong Dark Ale",2,3,"La Gauloise Brune",8.7,6059
+"40",805,"Brasserie Du Bocq",1262439484,3,3,4,"Belgian Strong Dark Ale",3.5,3.5,"La Gauloise Brune",8.7,6059
+"41",805,"Brasserie Du Bocq",1251160828,3.5,4,4.5,"Belgian Strong Dark Ale",3.5,3.5,"La Gauloise Brune",8.7,6059
+"42",805,"Brasserie Du Bocq",1226778203,3.5,4,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
+"43",805,"Brasserie Du Bocq",1218039932,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"La Gauloise Brune",8.7,6059
+"44",805,"Brasserie Du Bocq",1194718923,4,4,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
+"45",805,"Brasserie Du Bocq",1134930992,3,3,3,"Belgian Strong Dark Ale",3,3.5,"La Gauloise Brune",8.7,6059
+"46",805,"Brasserie Du Bocq",1092432954,4,4.5,4,"Belgian Strong Dark Ale",3.5,4,"La Gauloise Brune",8.7,6059
+"47",805,"Brasserie Du Bocq",1082788249,3.5,3.5,3.5,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
+"48",805,"Brasserie Du Bocq",1066446212,4,3,4,"Belgian Strong Dark Ale",4,4,"La Gauloise Brune",8.7,6059
+"49",805,"Brasserie Du Bocq",1062782214,4,4,4.5,"Belgian Strong Dark Ale",4,4.5,"La Gauloise Brune",8.7,6059
+"50",805,"Brasserie Du Bocq",1032134534,2.5,2.5,3.5,"Belgian Strong Dark Ale",2.5,2.5,"La Gauloise Brune",8.7,6059
+"51",805,"Brasserie Du Bocq",1315329593,2.5,3.5,3.5,"American Amber / Red Ale",2.5,2.5,"La Gauloise Ambrée",5.5,13155
+"52",805,"Brasserie Du Bocq",1310758726,4,4,3.5,"American Amber / Red Ale",4,3.5,"La Gauloise Ambrée",5.5,13155
+"53",805,"Brasserie Du Bocq",1299533523,4,4,4,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
+"54",805,"Brasserie Du Bocq",1297015227,2.5,2,3,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
+"55",805,"Brasserie Du Bocq",1271262816,4.5,4.5,3.5,"American Amber / Red Ale",3.5,4,"La Gauloise Ambrée",5.5,13155
+"56",805,"Brasserie Du Bocq",1262439378,3.5,3,4,"American Amber / Red Ale",4,4,"La Gauloise Ambrée",5.5,13155
+"57",805,"Brasserie Du Bocq",1238796640,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
+"58",805,"Brasserie Du Bocq",1195677732,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
+"59",805,"Brasserie Du Bocq",1183121285,3.5,3.5,4.5,"American Amber / Red Ale",3,3.5,"La Gauloise Ambrée",5.5,13155
+"60",805,"Brasserie Du Bocq",1115098465,4,4.5,4.5,"American Amber / Red Ale",4,3.5,"La Gauloise Ambrée",5.5,13155
+"61",805,"Brasserie Du Bocq",1082659211,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"La Gauloise Ambrée",5.5,13155
+"62",805,"Brasserie Du Bocq",1273604581,3.5,3.5,4,"Belgian Dark Ale",3.5,4,"St. Benôit Brune",6.5,9178
+"63",805,"Brasserie Du Bocq",1243375835,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
+"64",805,"Brasserie Du Bocq",1226680367,3,3,3.5,"Belgian Dark Ale",3,3.5,"St. Benôit Brune",6.5,9178
+"65",805,"Brasserie Du Bocq",1197657231,3,3,3,"Belgian Dark Ale",3,3,"St. Benôit Brune",6.5,9178
+"66",805,"Brasserie Du Bocq",1136903158,3.5,4,4,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
+"67",805,"Brasserie Du Bocq",1135709076,3.5,3.5,4,"Belgian Dark Ale",3,3,"St. Benôit Brune",6.5,9178
+"68",805,"Brasserie Du Bocq",1103191216,4,3.5,3.5,"Belgian Dark Ale",4,4,"St. Benôit Brune",6.5,9178
+"69",805,"Brasserie Du Bocq",1095164682,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
+"70",805,"Brasserie Du Bocq",1048778536,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"St. Benôit Brune",6.5,9178
+"71",805,"Brasserie Du Bocq",1306463626,3.5,3.5,3.5,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"72",805,"Brasserie Du Bocq",1299623855,4,3.5,4,"Tripel",3.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
+"73",805,"Brasserie Du Bocq",1298815023,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"74",805,"Brasserie Du Bocq",1295213617,4.5,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"75",805,"Brasserie Du Bocq",1289224170,3.5,3.5,4.5,"Tripel",3.5,4,"Waterloo Tripel 7 Blond",7.5,43962
+"76",805,"Brasserie Du Bocq",1288973128,4,3.5,4,"Tripel",4,3.5,"Waterloo Tripel 7 Blond",7.5,43962
+"77",805,"Brasserie Du Bocq",1283810745,4,4,3.5,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"78",805,"Brasserie Du Bocq",1277939919,3.5,3.5,4,"Tripel",3.5,3,"Waterloo Tripel 7 Blond",7.5,43962
+"79",805,"Brasserie Du Bocq",1272115823,4,4,4.5,"Tripel",4,4.5,"Waterloo Tripel 7 Blond",7.5,43962
+"80",805,"Brasserie Du Bocq",1269683546,4,4,4.5,"Tripel",4.5,4,"Waterloo Tripel 7 Blond",7.5,43962
+"81",805,"Brasserie Du Bocq",1264865386,4.5,4,4,"Tripel",4.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
+"82",805,"Brasserie Du Bocq",1256165272,4.5,4,3.5,"Tripel",4.5,4.5,"Waterloo Tripel 7 Blond",7.5,43962
+"83",805,"Brasserie Du Bocq",1246969339,3.5,3.5,4,"Tripel",3.5,3.5,"Waterloo Tripel 7 Blond",7.5,43962
+"84",805,"Brasserie Du Bocq",1237052051,2.5,3,3.5,"Tripel",3,3,"Waterloo Tripel 7 Blond",7.5,43962
+"85",805,"Brasserie Du Bocq",1225389885,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"86",805,"Brasserie Du Bocq",1219292772,4,4,4,"Tripel",4,4,"Waterloo Tripel 7 Blond",7.5,43962
+"87",805,"Brasserie Du Bocq",1216998837,3.5,3.5,3.5,"Tripel",3.5,4,"Waterloo Tripel 7 Blond",7.5,43962
+"88",805,"Brasserie Du Bocq",1155669819,5,4.5,5,"Witbier",5,4.5,"Blanche De Namur",4.5,6057
+"89",805,"Brasserie Du Bocq",1264589011,4.5,3.5,4,"Belgian Pale Ale",4,4.5,"St. Benôit Blonde",6.3,6058
+"90",805,"Brasserie Du Bocq",1249121275,3,3.5,3,"Belgian Pale Ale",3,2.5,"St. Benôit Blonde",6.3,6058
+"91",805,"Brasserie Du Bocq",1243112766,2,2,3,"Belgian Pale Ale",2,2,"St. Benôit Blonde",6.3,6058
+"92",805,"Brasserie Du Bocq",1232340456,4.5,4,3.5,"Belgian Pale Ale",4,4,"St. Benôit Blonde",6.3,6058
+"93",805,"Brasserie Du Bocq",1232232582,3.5,3.5,3.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
+"94",805,"Brasserie Du Bocq",1228568050,3,3,3.5,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
+"95",805,"Brasserie Du Bocq",1186080025,3,2,3,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
+"96",805,"Brasserie Du Bocq",1154112298,3,3.5,4,"Belgian Pale Ale",3.5,3,"St. Benôit Blonde",6.3,6058
+"97",805,"Brasserie Du Bocq",1136995741,3.5,3,3,"Belgian Pale Ale",3,3,"St. Benôit Blonde",6.3,6058
+"98",805,"Brasserie Du Bocq",1234617184,3.5,3.5,4.5,"Witbier",3.5,3,"Applebocq",3.1,28606
+"99",805,"Brasserie Du Bocq",1095163716,3,3.5,2.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
+"100",805,"Brasserie Du Bocq",1047314366,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"St. Benôit Blonde",6.3,6058
+"101",805,"Brasserie Du Bocq",1037665892,3,3.5,3.5,"Belgian Pale Ale",3,3.5,"St. Benôit Blonde",6.3,6058
+"102",805,"Brasserie Du Bocq",1032134335,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"St. Benôit Blonde",6.3,6058
+"103",805,"Brasserie Du Bocq",1208197899,3.5,3,3,"Witbier",3.5,3,"Applebocq",3.1,28606
+"104",805,"Brasserie Du Bocq",1206903304,2.5,3,3.5,"Witbier",3.5,3,"Applebocq",3.1,28606
+"105",805,"Brasserie Du Bocq",1197753625,3.5,3.5,4,"Witbier",3.5,4,"Applebocq",3.1,28606
+"106",805,"Brasserie Du Bocq",1188165300,2.5,3,4,"Witbier",3,2.5,"Applebocq",3.1,28606
+"107",805,"Brasserie Du Bocq",1140974451,4,5,4,"Witbier",4,4,"Applebocq",3.1,28606
+"108",805,"Brasserie Du Bocq",1173765619,3,3.5,3,"Witbier",3,4,"Blanche De Namur",4.5,6057
+"109",805,"Brasserie Du Bocq",1173059562,4,4,4,"Witbier",2.5,3,"Blanche De Namur",4.5,6057
+"110",805,"Brasserie Du Bocq",1172818278,4,4,3.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"111",805,"Brasserie Du Bocq",1172530631,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"112",805,"Brasserie Du Bocq",1172500213,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"113",805,"Brasserie Du Bocq",1172474034,4,4,4,"Witbier",5,3.5,"Blanche De Namur",4.5,6057
+"114",805,"Brasserie Du Bocq",1172091853,3.5,3.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"115",805,"Brasserie Du Bocq",1082228373,3.5,4,4.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"116",805,"Brasserie Du Bocq",1171911423,3.5,4,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"117",805,"Brasserie Du Bocq",1165269650,4,4,3.5,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"118",805,"Brasserie Du Bocq",1164518116,5,3.5,5,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
+"119",805,"Brasserie Du Bocq",1162954123,4,4,4,"Witbier",3,4,"Blanche De Namur",4.5,6057
+"120",805,"Brasserie Du Bocq",1162507118,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"121",805,"Brasserie Du Bocq",1161825657,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"122",805,"Brasserie Du Bocq",1159399613,4.5,4.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"123",805,"Brasserie Du Bocq",1158462379,5,4,3.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"124",805,"Brasserie Du Bocq",1158189158,4,4,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"125",805,"Brasserie Du Bocq",1157661682,3.5,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"126",805,"Brasserie Du Bocq",1154894469,4,4.5,3.5,"Witbier",3,4.5,"Blanche De Namur",4.5,6057
+"127",805,"Brasserie Du Bocq",1153759859,4,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"128",805,"Brasserie Du Bocq",1152495976,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"129",805,"Brasserie Du Bocq",1151089154,3.5,3.5,3.5,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"130",805,"Brasserie Du Bocq",1150777350,4,4,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"131",805,"Brasserie Du Bocq",1150414618,3.5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"132",805,"Brasserie Du Bocq",1149670571,3.5,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"133",805,"Brasserie Du Bocq",1047235110,4.5,4.5,5,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
+"134",805,"Brasserie Du Bocq",1032134128,4,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"135",805,"Brasserie Du Bocq",1145370015,3.5,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"136",805,"Brasserie Du Bocq",1123100084,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"137",805,"Brasserie Du Bocq",1120099374,3.5,3.5,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"138",805,"Brasserie Du Bocq",1109018574,3.5,3.5,3.5,"Witbier",2.5,3.5,"Blanche De Namur",4.5,6057
+"139",805,"Brasserie Du Bocq",1102118164,4,4,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"140",805,"Brasserie Du Bocq",1095445998,4,3.5,3.5,"Witbier",3,4,"Blanche De Namur",4.5,6057
+"141",805,"Brasserie Du Bocq",1093228809,3.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"142",805,"Brasserie Du Bocq",1091819263,4,3,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"143",805,"Brasserie Du Bocq",1090079432,3,4.5,5,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"144",805,"Brasserie Du Bocq",1083043887,5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"145",805,"Brasserie Du Bocq",1262438664,4,3.5,3.5,"Witbier",5,4,"Blanche De Namur",4.5,6057
+"146",805,"Brasserie Du Bocq",1325012655,4.5,4,5,"Witbier",5,4.5,"Blanche De Namur",4.5,6057
+"147",805,"Brasserie Du Bocq",1320254072,4,4,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"148",805,"Brasserie Du Bocq",1319675529,4.5,4.5,4.5,"Witbier",4.5,5,"Blanche De Namur",4.5,6057
+"149",805,"Brasserie Du Bocq",1319490123,3.5,4,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"150",805,"Brasserie Du Bocq",1316140400,4,3.5,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"151",805,"Brasserie Du Bocq",1314740281,4.5,4.5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"152",805,"Brasserie Du Bocq",1313716975,4,4,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"153",805,"Brasserie Du Bocq",1311538542,2.5,3,4.5,"Witbier",2,2.5,"Blanche De Namur",4.5,6057
+"154",805,"Brasserie Du Bocq",1310941088,3.5,3.5,2,"Witbier",2,3.5,"Blanche De Namur",4.5,6057
+"155",805,"Brasserie Du Bocq",1308764283,5,5,4,"Witbier",5,5,"Blanche De Namur",4.5,6057
+"156",805,"Brasserie Du Bocq",1307875028,5,4.5,3.5,"Witbier",3.5,5,"Blanche De Namur",4.5,6057
+"157",805,"Brasserie Du Bocq",1305989011,4.5,4,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"158",805,"Brasserie Du Bocq",1305330096,4.5,4,4.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"159",805,"Brasserie Du Bocq",1302364805,4,3,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"160",805,"Brasserie Du Bocq",1302213236,4,4,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"161",805,"Brasserie Du Bocq",1299175889,3.5,4,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"162",805,"Brasserie Du Bocq",1297545698,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"163",805,"Brasserie Du Bocq",1297440711,3,4.5,4.5,"Witbier",4.5,3.5,"Blanche De Namur",4.5,6057
+"164",805,"Brasserie Du Bocq",1293902939,3,3,4,"Witbier",4,3,"Blanche De Namur",4.5,6057
+"165",805,"Brasserie Du Bocq",1220413890,3.5,3.5,4,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"166",805,"Brasserie Du Bocq",1289618101,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"167",805,"Brasserie Du Bocq",1286394874,4,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"168",805,"Brasserie Du Bocq",1284088402,4,4.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"169",805,"Brasserie Du Bocq",1282752508,5,5,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"170",805,"Brasserie Du Bocq",1282095342,3.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"171",805,"Brasserie Du Bocq",1278984561,3.5,3.5,3,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"172",805,"Brasserie Du Bocq",1277417388,4,3.5,2.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"173",805,"Brasserie Du Bocq",1275570875,3.5,4,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"174",805,"Brasserie Du Bocq",1271276865,5,5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"175",805,"Brasserie Du Bocq",1266713148,4.5,4,3,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"176",805,"Brasserie Du Bocq",1266208377,4,2.5,3,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"177",805,"Brasserie Du Bocq",1251949304,2.5,4.5,3.5,"Witbier",4,3,"Blanche De Namur",4.5,6057
+"178",805,"Brasserie Du Bocq",1250480397,4,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"179",805,"Brasserie Du Bocq",1246971093,4.5,4.5,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"180",805,"Brasserie Du Bocq",1246812262,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"181",805,"Brasserie Du Bocq",1244253699,4,3.5,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"182",805,"Brasserie Du Bocq",1243002660,3.5,3.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"183",805,"Brasserie Du Bocq",1242507950,4.5,4,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"184",805,"Brasserie Du Bocq",1242079674,4,3.5,3.5,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"185",805,"Brasserie Du Bocq",1239531273,4,4,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"186",805,"Brasserie Du Bocq",1239152908,4,3.5,3.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"187",805,"Brasserie Du Bocq",1234668205,3.5,3.5,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"188",805,"Brasserie Du Bocq",1233188911,4,3,3,"Witbier",3,4,"Blanche De Namur",4.5,6057
+"189",805,"Brasserie Du Bocq",1229462959,3,4,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"190",805,"Brasserie Du Bocq",1229161733,4,3.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"191",805,"Brasserie Du Bocq",1228103488,4.5,3.5,4,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"192",805,"Brasserie Du Bocq",1227945078,4,4.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"193",805,"Brasserie Du Bocq",1226238563,4.5,3,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"194",805,"Brasserie Du Bocq",1225224325,4,4,4.5,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"195",805,"Brasserie Du Bocq",1223676980,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"196",805,"Brasserie Du Bocq",1220784960,4,4,4,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"197",805,"Brasserie Du Bocq",1220380309,2,2.5,2,"Witbier",2,2.5,"Blanche De Namur",4.5,6057
+"198",805,"Brasserie Du Bocq",1219325866,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"199",805,"Brasserie Du Bocq",1217970429,4,4,4.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"200",805,"Brasserie Du Bocq",1215904024,3.5,4.5,4.5,"Witbier",4.5,4,"Blanche De Namur",4.5,6057
+"201",805,"Brasserie Du Bocq",1215411895,4,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"202",805,"Brasserie Du Bocq",1214486043,5,4.5,4,"Witbier",4,5,"Blanche De Namur",4.5,6057
+"203",805,"Brasserie Du Bocq",1213991017,3.5,3.5,3,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"204",805,"Brasserie Du Bocq",1213719262,4.5,4.5,4,"Witbier",4,4.5,"Blanche De Namur",4.5,6057
+"205",805,"Brasserie Du Bocq",1212776752,4,4,3.5,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"206",805,"Brasserie Du Bocq",1210782952,3,4,3,"Witbier",2.5,3.5,"Blanche De Namur",4.5,6057
+"207",805,"Brasserie Du Bocq",1210556089,3,3,3,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"208",805,"Brasserie Du Bocq",1210471978,4,4,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"209",805,"Brasserie Du Bocq",1208559445,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"210",805,"Brasserie Du Bocq",1207966548,4,3.5,3.5,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"211",805,"Brasserie Du Bocq",1207963329,3,2.5,2,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"212",805,"Brasserie Du Bocq",1206144989,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"213",805,"Brasserie Du Bocq",1204330580,3.5,2.5,4,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"214",805,"Brasserie Du Bocq",1204245834,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"215",805,"Brasserie Du Bocq",1203913152,3.5,3.5,4,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
+"216",805,"Brasserie Du Bocq",1200798376,4.5,3.5,3,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"217",805,"Brasserie Du Bocq",1200182715,4.5,4,4,"Witbier",4.5,4.5,"Blanche De Namur",4.5,6057
+"218",805,"Brasserie Du Bocq",1199427944,4,3.5,4,"Witbier",4,3.5,"Blanche De Namur",4.5,6057
+"219",805,"Brasserie Du Bocq",1196629018,3,3,3.5,"Witbier",3,3,"Blanche De Namur",4.5,6057
+"220",805,"Brasserie Du Bocq",1196053625,3,3.5,5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"221",805,"Brasserie Du Bocq",1194465962,3.5,3.5,3.5,"Witbier",3.5,4,"Blanche De Namur",4.5,6057
+"222",805,"Brasserie Du Bocq",1193618460,4,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"223",805,"Brasserie Du Bocq",1273857141,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,4,"Bocq Christmas",8.1,54743
+"224",805,"Brasserie Du Bocq",1190773670,4,3.5,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"225",805,"Brasserie Du Bocq",1190649805,4.5,4,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"226",805,"Brasserie Du Bocq",1187842869,3.5,3,3.5,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"227",805,"Brasserie Du Bocq",1187657694,4.5,5,3.5,"Witbier",3.5,4.5,"Blanche De Namur",4.5,6057
+"228",805,"Brasserie Du Bocq",1187395818,4,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"229",805,"Brasserie Du Bocq",1184554013,4,3,3.5,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"230",805,"Brasserie Du Bocq",1179604913,4.5,3.5,4,"Witbier",4,4,"Blanche De Namur",4.5,6057
+"231",805,"Brasserie Du Bocq",1176886019,3,3.5,4,"Witbier",3,3.5,"Blanche De Namur",4.5,6057
+"232",805,"Brasserie Du Bocq",1234912715,4.5,4,4,"Belgian Dark Ale",4.5,5,"Te Deum Brune",NA,27886
+"233",805,"Brasserie Du Bocq",1176443156,3.5,4,4,"Witbier",3.5,3.5,"Blanche De Namur",4.5,6057
+"234",805,"Brasserie Du Bocq",1175804921,3.5,5,4,"Witbier",3.5,3,"Blanche De Namur",4.5,6057
+"235",805,"Brasserie Du Bocq",1174840940,3,4,3,"Witbier",2,3.5,"Blanche De Namur",4.5,6057
+"236",805,"Brasserie Du Bocq",1174250996,3,3,3.5,"Witbier",2.5,3,"Blanche De Namur",4.5,6057
+"237",805,"Brasserie Du Bocq",1325950836,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
+"238",805,"Brasserie Du Bocq",1325943247,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Bocq Christmas",8.1,54743
+"239",805,"Brasserie Du Bocq",1322416813,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
+"240",805,"Brasserie Du Bocq",1293990069,4,4,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
+"241",805,"Brasserie Du Bocq",1293083423,5,4.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Bocq Christmas",8.1,54743
+"242",805,"Brasserie Du Bocq",1282789426,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Bocq Christmas",8.1,54743
+"243",805,"Brasserie Du Bocq",1260740963,4.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Bocq Christmas",8.1,54743
+"244",805,"Brasserie Du Bocq",1322157511,4,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
+"245",805,"Brasserie Du Bocq",1320892561,4,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Waterloo Double 8 Dark",8.5,37324
+"246",805,"Brasserie Du Bocq",1320703933,3.5,3,3,"Belgian Strong Dark Ale",2.5,2.5,"Waterloo Double 8 Dark",8.5,37324
+"247",805,"Brasserie Du Bocq",1320062669,4,4,4,"Belgian Strong Dark Ale",3.5,4.5,"Waterloo Double 8 Dark",8.5,37324
+"248",805,"Brasserie Du Bocq",1319489129,4,4.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Waterloo Double 8 Dark",8.5,37324
+"249",805,"Brasserie Du Bocq",1311969765,4,4,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"250",805,"Brasserie Du Bocq",1311480314,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"251",805,"Brasserie Du Bocq",1307183104,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
+"252",805,"Brasserie Du Bocq",1301212480,3,4,3.5,"Belgian Strong Dark Ale",3.5,3,"Waterloo Double 8 Dark",8.5,37324
+"253",805,"Brasserie Du Bocq",1289207284,3.5,3.5,3.5,"Belgian Strong Dark Ale",3,3,"Waterloo Double 8 Dark",8.5,37324
+"254",805,"Brasserie Du Bocq",1288971672,4.5,4.5,4.5,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
+"255",805,"Brasserie Du Bocq",1283223200,4,4,4.5,"Belgian Strong Dark Ale",3.5,4,"Waterloo Double 8 Dark",8.5,37324
+"256",805,"Brasserie Du Bocq",1279679911,4,4,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"257",805,"Brasserie Du Bocq",1278289867,3.5,4,4.5,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"258",805,"Brasserie Du Bocq",1277437771,4,3,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"259",805,"Brasserie Du Bocq",1277432525,3.5,4,2,"Belgian Strong Dark Ale",2,4,"Waterloo Double 8 Dark",8.5,37324
+"260",805,"Brasserie Du Bocq",1277002358,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Waterloo Double 8 Dark",8.5,37324
+"261",805,"Brasserie Du Bocq",1261425149,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Waterloo Double 8 Dark",8.5,37324
+"262",805,"Brasserie Du Bocq",1226366435,4.5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
+"263",805,"Brasserie Du Bocq",1221438636,4,4,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
+"264",805,"Brasserie Du Bocq",1219192200,4.5,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Waterloo Double 8 Dark",8.5,37324
+"265",805,"Brasserie Du Bocq",1216822404,4,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Waterloo Double 8 Dark",8.5,37324
+"266",805,"Brasserie Du Bocq",1182254015,4,3.5,4,"Belgian Strong Dark Ale",4,3.5,"Waterloo Double 8 Dark",8.5,37324
+"267",805,"Brasserie Du Bocq",1248613218,3,4.5,3,"Belgian Dark Ale",2.5,3.5,"Te Deum Brune",NA,27886
+"268",805,"Brasserie Du Bocq",1192561177,2,3,3,"Belgian Dark Ale",3,1,"Te Deum Brune",NA,27886
+"269",805,"Brasserie Du Bocq",1161567865,4,4,4,"Belgian Dark Ale",4,4,"Te Deum Brune",NA,27886
+"270",805,"Brasserie Du Bocq",1137518635,4,4,4,"Belgian Dark Ale",4,4,"Te Deum Brune",NA,27886
+"271",805,"Brasserie Du Bocq",1066588152,2,3,4,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
+"272",805,"Brasserie Du Bocq",1146083341,4,3.5,4,"Belgian Pale Ale",4,4.5,"The Knight's Ale",6,2503
+"273",805,"Brasserie Du Bocq",1121808583,3.5,4,4,"Belgian Pale Ale",3,4.5,"The Knight's Ale",6,2503
+"274",805,"Brasserie Du Bocq",1084497564,1,3,3,"Belgian Pale Ale",1.5,1,"The Knight's Ale",6,2503
+"275",805,"Brasserie Du Bocq",1073869039,3,3.5,3,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
+"276",805,"Brasserie Du Bocq",1064867619,4.5,3.5,3,"Belgian Pale Ale",4,3.5,"The Knight's Ale",6,2503
+"277",805,"Brasserie Du Bocq",1062196004,4,2.5,3,"Belgian Pale Ale",2,3,"The Knight's Ale",6,2503
+"278",805,"Brasserie Du Bocq",1046717355,3.5,3,3,"Belgian Pale Ale",3,3,"The Knight's Ale",6,2503
+"279",805,"Brasserie Du Bocq",1038824892,4,3.5,4,"Belgian Pale Ale",4,4,"The Knight's Ale",6,2503
+"280",805,"Brasserie Du Bocq",1025845306,4,3.5,4,"Belgian Pale Ale",4,4.5,"The Knight's Ale",6,2503
+"281",805,"Brasserie Du Bocq",1286630343,4,3,3.5,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
+"282",805,"Brasserie Du Bocq",1269430167,4,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison Regal",5.5,8529
+"283",805,"Brasserie Du Bocq",1268484431,3.5,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
+"284",805,"Brasserie Du Bocq",1249367674,4,4,3.5,"Saison / Farmhouse Ale",3,4,"Saison Regal",5.5,8529
+"285",805,"Brasserie Du Bocq",1247939657,3.5,3,3,"Saison / Farmhouse Ale",4.5,4,"Saison Regal",5.5,8529
+"286",805,"Brasserie Du Bocq",1242384266,3,3.5,4.5,"Saison / Farmhouse Ale",4,2,"Saison Regal",5.5,8529
+"287",805,"Brasserie Du Bocq",1239216133,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison Regal",5.5,8529
+"288",805,"Brasserie Du Bocq",1235745405,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
+"289",805,"Brasserie Du Bocq",1222196743,3,3.5,3.5,"Saison / Farmhouse Ale",3,3,"Saison Regal",5.5,8529
+"290",805,"Brasserie Du Bocq",1199571370,3.5,3.5,3,"Saison / Farmhouse Ale",3.5,3,"Saison Regal",5.5,8529
+"291",805,"Brasserie Du Bocq",1194108061,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
+"292",805,"Brasserie Du Bocq",1140215266,4.5,4,3.5,"Saison / Farmhouse Ale",4.5,4.5,"Saison Regal",5.5,8529
+"293",805,"Brasserie Du Bocq",1140141519,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,4,"Saison Regal",5.5,8529
+"294",805,"Brasserie Du Bocq",1131903325,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3,"Saison Regal",5.5,8529
+"295",805,"Brasserie Du Bocq",1128126133,3,3,4,"Saison / Farmhouse Ale",3,3.5,"Saison Regal",5.5,8529
+"296",805,"Brasserie Du Bocq",1116879792,3.5,3,4,"Saison / Farmhouse Ale",4.5,4.5,"Saison Regal",5.5,8529
+"297",805,"Brasserie Du Bocq",1050479446,5,5,4,"Saison / Farmhouse Ale",4,4,"Saison Regal",5.5,8529
+"298",805,"Brasserie Du Bocq",1045064951,3.5,3.5,3,"Saison / Farmhouse Ale",3,3.5,"Saison Regal",5.5,8529
+"299",805,"Brasserie Du Bocq",1252785614,3.5,4.5,4,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
+"300",805,"Brasserie Du Bocq",1239078548,4,3,3.5,"Witbier",2.5,3.5,"Blanche Des Moines",4.5,32747
+"301",805,"Brasserie Du Bocq",1225147113,3.5,4,3.5,"Witbier",3.5,4,"Blanche Des Moines",4.5,32747
+"302",805,"Brasserie Du Bocq",1220200817,4,4,4,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
+"303",805,"Brasserie Du Bocq",1219805667,4,4,4,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
+"304",805,"Brasserie Du Bocq",1218381286,4,4.5,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
+"305",805,"Brasserie Du Bocq",1203117434,4,4,3.5,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
+"306",805,"Brasserie Du Bocq",1198945137,4.5,4.5,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
+"307",805,"Brasserie Du Bocq",1196040368,4.5,4,4,"Witbier",4.5,3.5,"Blanche Des Moines",4.5,32747
+"308",805,"Brasserie Du Bocq",1193519529,4,3.5,3.5,"Witbier",4,3.5,"Blanche Des Moines",4.5,32747
+"309",805,"Brasserie Du Bocq",1192853327,5,3.5,3.5,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
+"310",805,"Brasserie Du Bocq",1190518810,4.5,4,4,"Witbier",3,3.5,"Blanche Des Moines",4.5,32747
+"311",805,"Brasserie Du Bocq",1180320900,4.5,3,3,"Witbier",3.5,3.5,"Blanche Des Moines",4.5,32747
+"312",805,"Brasserie Du Bocq",1176900648,4.5,4,4,"Witbier",4,4.5,"Blanche Des Moines",4.5,32747
+"313",805,"Brasserie Du Bocq",1174955093,5,4.5,4,"Witbier",4,4.5,"Blanche Des Moines",4.5,32747
+"314",805,"Brasserie Du Bocq",1174516551,4,3.5,3.5,"Witbier",3.5,4,"Blanche Des Moines",4.5,32747
+"315",805,"Brasserie Du Bocq",1159830000,4.5,4,4,"Witbier",4,4,"Blanche Des Moines",4.5,32747
+"316",805,"Brasserie Du Bocq",1158280109,3.5,3,3.5,"Witbier",3,2.5,"Blanche Des Moines",4.5,32747
+"317",805,"Brasserie Du Bocq",1257450493,4.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
+"318",805,"Brasserie Du Bocq",1227729886,4,3.5,3.5,"Belgian Strong Dark Ale",3.5,4,"Régal Christmas",8.1,13156
+"319",805,"Brasserie Du Bocq",1167762613,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Régal Christmas",8.1,13156
+"320",805,"Brasserie Du Bocq",1165700643,3,4,4,"Belgian Strong Dark Ale",2,3,"Régal Christmas",8.1,13156
+"321",805,"Brasserie Du Bocq",1140142641,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
+"322",805,"Brasserie Du Bocq",1138764136,4,4,4,"Belgian Strong Dark Ale",4,4,"Régal Christmas",8.1,13156
+"323",805,"Brasserie Du Bocq",1136978585,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Régal Christmas",8.1,13156
+"324",805,"Brasserie Du Bocq",1134322195,3.5,3,4,"Belgian Strong Dark Ale",3.5,3.5,"Régal Christmas",8.1,13156
+"325",805,"Brasserie Du Bocq",1104724120,5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Régal Christmas",8.1,13156
+"326",805,"Brasserie Du Bocq",1104116942,3,3.5,4,"Belgian Strong Dark Ale",3,3,"Régal Christmas",8.1,13156
+"327",805,"Brasserie Du Bocq",1241096817,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"328",805,"Brasserie Du Bocq",1098908886,4,3.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Régal Christmas",8.1,13156
+"329",805,"Brasserie Du Bocq",1323724947,4,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
+"330",805,"Brasserie Du Bocq",1322853198,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"331",805,"Brasserie Du Bocq",1322477330,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"332",805,"Brasserie Du Bocq",1310128453,3.5,3,3.5,"Belgian Strong Pale Ale",3.5,3,"Triple Moine / Deugniet",7.3,8751
+"333",805,"Brasserie Du Bocq",1309517291,3.5,3.5,3,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"334",805,"Brasserie Du Bocq",1302546740,3.5,4,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"335",805,"Brasserie Du Bocq",1302326362,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"336",805,"Brasserie Du Bocq",1299618528,4,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"337",805,"Brasserie Du Bocq",1296342511,4.5,3,4,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
+"338",805,"Brasserie Du Bocq",1289652418,4,3,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"339",805,"Brasserie Du Bocq",1282387796,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"340",805,"Brasserie Du Bocq",1272979307,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"341",805,"Brasserie Du Bocq",1268846970,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"342",805,"Brasserie Du Bocq",1266228527,4.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"343",805,"Brasserie Du Bocq",1264522283,5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"344",805,"Brasserie Du Bocq",1264419652,3,3.5,4,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
+"345",805,"Brasserie Du Bocq",1258339102,4.5,3,4.5,"Belgian Strong Pale Ale",2.5,4.5,"Triple Moine / Deugniet",7.3,8751
+"346",805,"Brasserie Du Bocq",1257264263,3,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"347",805,"Brasserie Du Bocq",1254378354,2.5,3,3.5,"Belgian Strong Pale Ale",2,2,"Triple Moine / Deugniet",7.3,8751
+"348",805,"Brasserie Du Bocq",1246068306,3.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"349",805,"Brasserie Du Bocq",1245578058,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"350",805,"Brasserie Du Bocq",1233718392,3.5,3,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"351",805,"Brasserie Du Bocq",1232654549,4,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
+"352",805,"Brasserie Du Bocq",1230411598,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"353",805,"Brasserie Du Bocq",1227731027,3,3,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
+"354",805,"Brasserie Du Bocq",1224259253,4.5,3,3.5,"Belgian Strong Pale Ale",4,4.5,"Triple Moine / Deugniet",7.3,8751
+"355",805,"Brasserie Du Bocq",1224035099,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"356",805,"Brasserie Du Bocq",1221619594,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"357",805,"Brasserie Du Bocq",1220467651,3.5,2,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"358",805,"Brasserie Du Bocq",1217797112,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Triple Moine / Deugniet",7.3,8751
+"359",805,"Brasserie Du Bocq",1187060679,3.5,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"360",805,"Brasserie Du Bocq",1185211808,3.5,4,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"361",805,"Brasserie Du Bocq",1217436742,3.5,3,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"362",805,"Brasserie Du Bocq",1216589572,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Triple Moine / Deugniet",7.3,8751
+"363",805,"Brasserie Du Bocq",1216260012,4,4,4,"Belgian Strong Pale Ale",4.5,4,"Triple Moine / Deugniet",7.3,8751
+"364",805,"Brasserie Du Bocq",1210736402,3.5,4,3.5,"Belgian Strong Pale Ale",3,3,"Triple Moine / Deugniet",7.3,8751
+"365",805,"Brasserie Du Bocq",1206120481,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"366",805,"Brasserie Du Bocq",1200630726,4.5,3.5,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"367",805,"Brasserie Du Bocq",1190765003,4,4,4,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"368",805,"Brasserie Du Bocq",1190433011,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"369",805,"Brasserie Du Bocq",1177392587,3,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"370",805,"Brasserie Du Bocq",1175738852,3,3.5,4,"Belgian Strong Pale Ale",3.5,3,"Triple Moine / Deugniet",7.3,8751
+"371",805,"Brasserie Du Bocq",1168745553,3,3.5,3,"Belgian Strong Pale Ale",4,3,"Triple Moine / Deugniet",7.3,8751
+"372",805,"Brasserie Du Bocq",1163809871,3.5,4,3.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"373",805,"Brasserie Du Bocq",1162565697,4,4.5,4.5,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"374",805,"Brasserie Du Bocq",1158704985,3.5,4,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"375",805,"Brasserie Du Bocq",1154737119,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"376",805,"Brasserie Du Bocq",1143242404,2,5,4,"Belgian Strong Pale Ale",2.5,3,"Triple Moine / Deugniet",7.3,8751
+"377",805,"Brasserie Du Bocq",1117060286,3,3.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Triple Moine / Deugniet",7.3,8751
+"378",805,"Brasserie Du Bocq",1106076236,3.5,3.5,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"379",805,"Brasserie Du Bocq",1094222620,4,4,4,"Belgian Strong Pale Ale",4,4,"Triple Moine / Deugniet",7.3,8751
+"380",805,"Brasserie Du Bocq",1069897911,3.5,4,3,"Belgian Strong Pale Ale",3.5,3.5,"Triple Moine / Deugniet",7.3,8751
+"381",805,"Brasserie Du Bocq",1065667442,4,4,3.5,"Belgian Strong Pale Ale",4,4.5,"Triple Moine / Deugniet",7.3,8751
+"382",805,"Brasserie Du Bocq",1048419106,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Triple Moine / Deugniet",7.3,8751
+"383",805,"Brasserie Du Bocq",1292575983,4,4,4,"Belgian Strong Dark Ale",4,4,"Brune",8.1,64495
+"384",805,"Brasserie Du Bocq",1303583355,4,4,4,"Belgian Strong Pale Ale",4,4,"Te Deum Amber",NA,27847
+"385",805,"Brasserie Du Bocq",1251388646,4,4,4,"Belgian Strong Pale Ale",4,4,"Te Deum Amber",NA,27847
+"386",805,"Brasserie Du Bocq",1192476863,3,3,2.5,"Belgian Strong Pale Ale",3,2.5,"Te Deum Amber",NA,27847
+"387",805,"Brasserie Du Bocq",1251389446,3.5,3.5,4,"Belgian Pale Ale",3.5,3.5,"Te Deum Blonde",NA,27846
+"388",805,"Brasserie Du Bocq",1181764322,2,4,2.5,"Belgian Pale Ale",2.5,2,"Te Deum Blonde",NA,27846
+"389",805,"Brasserie Du Bocq",1174425877,3.5,2.5,3,"Belgian Pale Ale",2.5,2.5,"Te Deum Blonde",NA,27846
+"390",805,"Brasserie Du Bocq",1148928322,3,3,2.5,"Belgian Pale Ale",2.5,3,"Te Deum Blonde",NA,27846
+"391",805,"Brasserie Du Bocq",1137384781,4,4,3.5,"Belgian Pale Ale",4,4,"Te Deum Blonde",NA,27846

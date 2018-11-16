@@ -1,862 +1,791 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",292,"Kirin Brewery Company, Limited",1077343520,2,3,4,"Happoshu",2,3,"Kirin Honey Brown",NA,16031
-"2",292,"Kirin Brewery Company, Limited",1203133555,4,3,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"3",292,"Kirin Brewery Company, Limited",1224616995,1.5,1.5,1.5,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
-"4",292,"Kirin Brewery Company, Limited",1226278191,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"5",292,"Kirin Brewery Company, Limited",1117827393,3,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"6",292,"Kirin Brewery Company, Limited",1111089327,4,2.5,3.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
-"7",292,"Kirin Brewery Company, Limited",1104854258,2,2,2,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"8",292,"Kirin Brewery Company, Limited",1020190442,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"9",292,"Kirin Brewery Company, Limited",1005943041,2,1,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"10",292,"Kirin Brewery Company, Limited",998005356,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"11",292,"Kirin Brewery Company, Limited",1223841754,3,2.5,4,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"12",292,"Kirin Brewery Company, Limited",1191554105,2,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"13",292,"Kirin Brewery Company, Limited",1159938091,2.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"14",292,"Kirin Brewery Company, Limited",1159750534,4,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"15",292,"Kirin Brewery Company, Limited",1158878518,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"16",292,"Kirin Brewery Company, Limited",1084178181,3,1.5,2,"Happoshu",3,2.5,"Kirin Gokunama Happoshu",5.5,10613
-"17",292,"Kirin Brewery Company, Limited",1040928866,5,3.5,4,"Japanese Rice Lager",3,3.5,"Kirin Ichiban Maribana",5.5,7685
-"18",292,"Kirin Brewery Company, Limited",1078664787,2.5,2,2.5,"Happoshu",2,3,"Kirin Honey Brown",NA,16031
-"19",292,"Kirin Brewery Company, Limited",1292025802,4,3.5,3,"Happoshu",3,3,"Honkaku Karakuchi Mugi",5,64285
-"20",292,"Kirin Brewery Company, Limited",1258893805,3,2.5,3,"Low Alcohol Beer",3.5,3,"Kirin Free",NA,54289
-"21",292,"Kirin Brewery Company, Limited",1086882632,4,2.5,4,"Happoshu",3.5,3.5,"Kirin Honey Brown",NA,16031
-"22",292,"Kirin Brewery Company, Limited",1322376991,2,2,1.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"23",292,"Kirin Brewery Company, Limited",1320227766,2.5,2,3,"Japanese Rice Lager",3,2,"Kirin Lager",4.9,807
-"24",292,"Kirin Brewery Company, Limited",1314779152,2.5,2,3,"Japanese Rice Lager",2,2.5,"Kirin Lager",4.9,807
-"25",292,"Kirin Brewery Company, Limited",1312331380,1.5,1.5,2,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
-"26",292,"Kirin Brewery Company, Limited",1300750146,2,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"27",292,"Kirin Brewery Company, Limited",1299343983,2,1.5,2,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
-"28",292,"Kirin Brewery Company, Limited",1294676258,2.5,2,2,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
-"29",292,"Kirin Brewery Company, Limited",1283403689,4,1.5,2,"Japanese Rice Lager",3,2,"Kirin Lager",4.9,807
-"30",292,"Kirin Brewery Company, Limited",1280451540,1.5,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"31",292,"Kirin Brewery Company, Limited",1242450593,3,1.5,2,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"32",292,"Kirin Brewery Company, Limited",1241192846,3.5,2.5,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
-"33",292,"Kirin Brewery Company, Limited",1237039932,2,1.5,3.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
-"34",292,"Kirin Brewery Company, Limited",1232355877,4,3,3,"Japanese Rice Lager",3,3.5,"Kirin Lager",4.9,807
-"35",292,"Kirin Brewery Company, Limited",1228061267,2.5,2.5,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
-"36",292,"Kirin Brewery Company, Limited",1221958279,3,3,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
-"37",292,"Kirin Brewery Company, Limited",1205798007,3.5,2.5,3,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
-"38",292,"Kirin Brewery Company, Limited",1150023782,3.5,2.5,4,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"39",292,"Kirin Brewery Company, Limited",1129725963,2,2,2.5,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
-"40",292,"Kirin Brewery Company, Limited",1129571943,2,1.5,2,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
-"41",292,"Kirin Brewery Company, Limited",1125792458,3,2.5,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
-"42",292,"Kirin Brewery Company, Limited",1120413346,3,3,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
-"43",292,"Kirin Brewery Company, Limited",1106421366,3,2,2.5,"Japanese Rice Lager",1.5,2,"Kirin Lager",4.9,807
-"44",292,"Kirin Brewery Company, Limited",1099102818,1.5,1.5,3,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
-"45",292,"Kirin Brewery Company, Limited",1092868478,2,2,2,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
-"46",292,"Kirin Brewery Company, Limited",1083849002,2,2,1.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"47",292,"Kirin Brewery Company, Limited",1082766263,2,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"48",292,"Kirin Brewery Company, Limited",1082659096,3,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"49",292,"Kirin Brewery Company, Limited",1079897027,2.5,2,2,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
-"50",292,"Kirin Brewery Company, Limited",1077711204,2,2.5,3,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"51",292,"Kirin Brewery Company, Limited",1075845337,4,3.5,2.5,"Japanese Rice Lager",4,3.5,"Kirin Lager",4.9,807
-"52",292,"Kirin Brewery Company, Limited",1074030484,2,2,2.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
-"53",292,"Kirin Brewery Company, Limited",1073611180,4,3,4,"Japanese Rice Lager",4,3.5,"Kirin Lager",4.9,807
-"54",292,"Kirin Brewery Company, Limited",1073454816,3.5,2.5,2,"Japanese Rice Lager",2.5,3,"Kirin Lager",4.9,807
-"55",292,"Kirin Brewery Company, Limited",1070861740,3.5,2.5,3,"Japanese Rice Lager",3.5,3,"Kirin Lager",4.9,807
-"56",292,"Kirin Brewery Company, Limited",1069552149,2.5,2,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"57",292,"Kirin Brewery Company, Limited",1069291968,1.5,1.5,2,"Japanese Rice Lager",3,1.5,"Kirin Lager",4.9,807
-"58",292,"Kirin Brewery Company, Limited",1068730133,2.5,2,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"59",292,"Kirin Brewery Company, Limited",1082384548,4,3.5,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Ichiban Maribana",5.5,7685
-"60",292,"Kirin Brewery Company, Limited",1063000061,2,2,1.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"61",292,"Kirin Brewery Company, Limited",1061952872,3,2,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
-"62",292,"Kirin Brewery Company, Limited",1061698809,2.5,2.5,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"63",292,"Kirin Brewery Company, Limited",1060222126,2,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"64",292,"Kirin Brewery Company, Limited",1056553632,2.5,3,2,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
-"65",292,"Kirin Brewery Company, Limited",1056536914,2.5,3,2,"Japanese Rice Lager",2.5,3,"Kirin Lager",4.9,807
-"66",292,"Kirin Brewery Company, Limited",1052568298,3,1.5,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"67",292,"Kirin Brewery Company, Limited",1045492483,2.5,2.5,3.5,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
-"68",292,"Kirin Brewery Company, Limited",1044539423,2,1.5,2.5,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
-"69",292,"Kirin Brewery Company, Limited",1043299182,2.5,2,2.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
-"70",292,"Kirin Brewery Company, Limited",1042693511,3,2,3.5,"Japanese Rice Lager",1.5,2,"Kirin Lager",4.9,807
-"71",292,"Kirin Brewery Company, Limited",984182401,2.5,3,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"72",292,"Kirin Brewery Company, Limited",1042678960,1,2,2.5,"Japanese Rice Lager",2,1,"Kirin Lager",4.9,807
-"73",292,"Kirin Brewery Company, Limited",1042074124,2.5,1.5,3.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"74",292,"Kirin Brewery Company, Limited",1040928434,2.5,2,3.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"75",292,"Kirin Brewery Company, Limited",1039634144,2,2.5,3.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"76",292,"Kirin Brewery Company, Limited",1038731276,3,2,3,"Japanese Rice Lager",2,2.5,"Kirin Lager",4.9,807
-"77",292,"Kirin Brewery Company, Limited",1028572290,1.5,2.5,2,"Japanese Rice Lager",3,1,"Kirin Lager",4.9,807
-"78",292,"Kirin Brewery Company, Limited",1025037791,2.5,1.5,2,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
-"79",292,"Kirin Brewery Company, Limited",1023386652,2,2.5,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
-"80",292,"Kirin Brewery Company, Limited",1022510381,3,2.5,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"81",292,"Kirin Brewery Company, Limited",1018314970,1.5,1,1,"Japanese Rice Lager",1,1,"Kirin Lager",4.9,807
-"82",292,"Kirin Brewery Company, Limited",1016837973,2.5,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"83",292,"Kirin Brewery Company, Limited",988643621,2,2,1,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
-"84",292,"Kirin Brewery Company, Limited",1229147038,3.5,3,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Ichiban Maribana",5.5,7685
-"85",292,"Kirin Brewery Company, Limited",1229267493,4,4,4,"Milk / Sweet Stout",2.5,2.5,"The Premium Muroka Beer Chocolat",5,46578
-"86",292,"Kirin Brewery Company, Limited",1229168554,4,3.5,4,"Milk / Sweet Stout",4,3.5,"The Premium Muroka Beer Chocolat",5,46578
-"87",292,"Kirin Brewery Company, Limited",1229154157,4,4,4,"Milk / Sweet Stout",3.5,4,"The Premium Muroka Beer Chocolat",5,46578
-"88",292,"Kirin Brewery Company, Limited",1322140239,2,2,2,"Happoshu",2.5,1.5,"Kirin Tanrei",5,17982
-"89",292,"Kirin Brewery Company, Limited",1315140075,3,3.5,3.5,"Happoshu",4,3,"Kirin Tanrei",5,17982
-"90",292,"Kirin Brewery Company, Limited",1312147793,4,4.5,5,"Happoshu",2,4.5,"Kirin Tanrei",5,17982
-"91",292,"Kirin Brewery Company, Limited",1311549562,2,3,3,"Happoshu",2.5,1,"Kirin Tanrei",5,17982
-"92",292,"Kirin Brewery Company, Limited",1161609031,3.5,1.5,2.5,"Japanese Rice Lager",2,2.5,"Kirin Toretate Hop",5.5,26620
-"93",292,"Kirin Brewery Company, Limited",1309120151,2.5,2.5,2.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"94",292,"Kirin Brewery Company, Limited",1307589821,3,3.5,4,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"95",292,"Kirin Brewery Company, Limited",1304467636,2.5,2,3.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
-"96",292,"Kirin Brewery Company, Limited",1303905483,3,2.5,4,"Happoshu",3,2.5,"Kirin Tanrei",5,17982
-"97",292,"Kirin Brewery Company, Limited",1298460693,3,3,4,"Happoshu",3.5,3,"Kirin Tanrei",5,17982
-"98",292,"Kirin Brewery Company, Limited",1295719537,3,3.5,4,"Happoshu",2.5,3.5,"Kirin Tanrei",5,17982
-"99",292,"Kirin Brewery Company, Limited",1291859185,3.5,2.5,3,"Happoshu",3,3.5,"Kirin Tanrei",5,17982
-"100",292,"Kirin Brewery Company, Limited",1291569273,2,2,3,"Happoshu",3,2,"Kirin Tanrei",5,17982
-"101",292,"Kirin Brewery Company, Limited",1222506478,4.5,4,4,"American Pale Lager",4,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"102",292,"Kirin Brewery Company, Limited",1291409828,2,2,4,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
-"103",292,"Kirin Brewery Company, Limited",1291149157,1,3.5,4,"Happoshu",1.5,1,"Kirin Tanrei",5,17982
-"104",292,"Kirin Brewery Company, Limited",1291002043,2,2.5,3.5,"Happoshu",2,2,"Kirin Tanrei",5,17982
-"105",292,"Kirin Brewery Company, Limited",1290989229,3.5,3,3.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"106",292,"Kirin Brewery Company, Limited",1290982079,4,2,3.5,"Happoshu",3.5,3,"Kirin Tanrei",5,17982
-"107",292,"Kirin Brewery Company, Limited",1290932855,3,2,3.5,"Happoshu",2.5,2,"Kirin Tanrei",5,17982
-"108",292,"Kirin Brewery Company, Limited",1290580472,3.5,2.5,3,"Happoshu",3,2,"Kirin Tanrei",5,17982
-"109",292,"Kirin Brewery Company, Limited",1290575668,3,3,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"110",292,"Kirin Brewery Company, Limited",1290311874,4.5,3.5,3.5,"Happoshu",3.5,3.5,"Kirin Tanrei",5,17982
-"111",292,"Kirin Brewery Company, Limited",1280456500,3,3,3,"Happoshu",3,2.5,"Kirin Tanrei",5,17982
-"112",292,"Kirin Brewery Company, Limited",1276460612,3,3,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"113",292,"Kirin Brewery Company, Limited",1274205872,5,3.5,4,"Happoshu",3.5,3.5,"Kirin Tanrei",5,17982
-"114",292,"Kirin Brewery Company, Limited",1259459634,3,2.5,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"115",292,"Kirin Brewery Company, Limited",1254798718,3,2.5,2.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
-"116",292,"Kirin Brewery Company, Limited",1222080323,4,2.5,2,"Happoshu",2,3,"Kirin Tanrei",5,17982
-"117",292,"Kirin Brewery Company, Limited",1221004844,2.5,2.5,2.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
-"118",292,"Kirin Brewery Company, Limited",1196499623,3,2,3,"Happoshu",2.5,3,"Kirin Tanrei",5,17982
-"119",292,"Kirin Brewery Company, Limited",1162983654,3,2.5,3.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
-"120",292,"Kirin Brewery Company, Limited",1129043250,2.5,2.5,2.5,"Happoshu",2.5,2,"Kirin Tanrei",5,17982
-"121",292,"Kirin Brewery Company, Limited",1105542675,2.5,2.5,2.5,"Happoshu",2,2,"Kirin Tanrei",5,17982
-"122",292,"Kirin Brewery Company, Limited",1087351220,3.5,2.5,2.5,"Happoshu",2.5,3,"Kirin Tanrei",5,17982
-"123",292,"Kirin Brewery Company, Limited",1161495273,2,3,4.5,"Happoshu",4,3.5,"Kirin Namakuro",5.5,8909
-"124",292,"Kirin Brewery Company, Limited",1081683967,1,2,3,"Happoshu",2,1.5,"Kirin Namakuro",5.5,8909
-"125",292,"Kirin Brewery Company, Limited",1047365350,1,2,1,"Happoshu",1,1,"Kirin Namakuro",5.5,8909
-"126",292,"Kirin Brewery Company, Limited",1165743642,4.5,4,4,"German Pilsener",3.5,4,"Fukkoku Lager (Taish&#333;)",5,34246
-"127",292,"Kirin Brewery Company, Limited",1238610498,4.5,4,3.5,"Czech Pilsener",3.5,4,"Kirin Golden Hop",5,9831
-"128",292,"Kirin Brewery Company, Limited",1171022976,3.5,4,3.5,"Czech Pilsener",3,2.5,"Kirin Golden Hop",5,9831
-"129",292,"Kirin Brewery Company, Limited",1152600923,4,3.5,3.5,"Czech Pilsener",4,4,"Kirin Golden Hop",5,9831
-"130",292,"Kirin Brewery Company, Limited",1139925841,4,2.5,4.5,"Czech Pilsener",4,3,"Kirin Golden Hop",5,9831
-"131",292,"Kirin Brewery Company, Limited",1134307558,4,3.5,3.5,"Czech Pilsener",3,3.5,"Kirin Golden Hop",5,9831
-"132",292,"Kirin Brewery Company, Limited",1040929386,4,3.5,3,"Bock",3.5,3.5,"Kirin Kobe Beer, Bock Type Beer",6,7686
-"133",292,"Kirin Brewery Company, Limited",1151455785,1,1,1.5,"Light Lager",1,1,"Kirin Light Beer",NA,5287
-"134",292,"Kirin Brewery Company, Limited",1229141483,4,4,4,"American Pale Lager",4,4,"The Premium Fresh Hop",5,46575
-"135",292,"Kirin Brewery Company, Limited",1247013158,3.5,2.5,4,"Japanese Rice Lager",3.5,4,"The Premium Muroka",NA,50990
-"136",292,"Kirin Brewery Company, Limited",1312719857,3.5,3.5,4,"Foreign / Export Stout",3,3,"Kirin Stout",8,8908
-"137",292,"Kirin Brewery Company, Limited",1258688322,3.5,3,4.5,"Foreign / Export Stout",4,3,"Kirin Stout",8,8908
-"138",292,"Kirin Brewery Company, Limited",1256129568,3,2.5,2.5,"Foreign / Export Stout",2.5,3,"Kirin Stout",8,8908
-"139",292,"Kirin Brewery Company, Limited",1256122542,3,2.5,3,"Foreign / Export Stout",2.5,3,"Kirin Stout",8,8908
-"140",292,"Kirin Brewery Company, Limited",1232357881,4,3.5,4,"Foreign / Export Stout",4,4.5,"Kirin Stout",8,8908
-"141",292,"Kirin Brewery Company, Limited",1217714298,5,4.5,4.5,"Foreign / Export Stout",4.5,5,"Kirin Stout",8,8908
-"142",292,"Kirin Brewery Company, Limited",1216567896,5,4.5,4.5,"Foreign / Export Stout",4,4,"Kirin Stout",8,8908
-"143",292,"Kirin Brewery Company, Limited",1278128436,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"144",292,"Kirin Brewery Company, Limited",1186294313,4.5,4.5,4,"Foreign / Export Stout",4,4,"Kirin Stout",8,8908
-"145",292,"Kirin Brewery Company, Limited",1047364993,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Kirin Stout",8,8908
-"146",292,"Kirin Brewery Company, Limited",1238610165,3,3.5,3,"Happoshu",2.5,3,"Kirin Enjuku Kuro",6,37005
-"147",292,"Kirin Brewery Company, Limited",1223841538,4,3.5,3,"Happoshu",3.5,3,"Kirin Enjuku Kuro",6,37005
-"148",292,"Kirin Brewery Company, Limited",1221305383,3,2.5,3,"Happoshu",3,2.5,"Kirin Enjuku Kuro",6,37005
-"149",292,"Kirin Brewery Company, Limited",1202121943,4,1,2,"Happoshu",3,3.5,"Kirin Enjuku Kuro",6,37005
-"150",292,"Kirin Brewery Company, Limited",1180187037,4,4,4,"Happoshu",3,3.5,"Kirin Enjuku Kuro",6,37005
-"151",292,"Kirin Brewery Company, Limited",1322055042,2,2,2,"Japanese Rice Lager",2.5,2.5,"Kirin Toretate Hop",5.5,26620
-"152",292,"Kirin Brewery Company, Limited",1291903086,3,2.5,2.5,"Japanese Rice Lager",3.5,2.5,"Kirin Toretate Hop",5.5,26620
-"153",292,"Kirin Brewery Company, Limited",1261288759,4.5,3,3.5,"Japanese Rice Lager",4,4,"Kirin Toretate Hop",5.5,26620
-"154",292,"Kirin Brewery Company, Limited",1130505534,3,2.5,3,"Japanese Rice Lager",3,2,"Kirin Toretate Hop",5.5,26620
-"155",292,"Kirin Brewery Company, Limited",1130423315,2.5,2.5,2.5,"Japanese Rice Lager",2.5,3,"Kirin Toretate Hop",5.5,26620
-"156",292,"Kirin Brewery Company, Limited",1238609123,4.5,4,3.5,"Japanese Rice Lager",4,4,"Kirin Brau Meister",5.5,25438
-"157",292,"Kirin Brewery Company, Limited",1223837505,4,4,4,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
-"158",292,"Kirin Brewery Company, Limited",1219815398,4,3.5,4,"Japanese Rice Lager",3.5,4,"Kirin Brau Meister",5.5,25438
-"159",292,"Kirin Brewery Company, Limited",1216206223,4,3,4,"Japanese Rice Lager",4,4,"Kirin Brau Meister",5.5,25438
-"160",292,"Kirin Brewery Company, Limited",1152775590,3.5,4,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
-"161",292,"Kirin Brewery Company, Limited",1124813326,4,4,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
-"162",292,"Kirin Brewery Company, Limited",1238611162,4.5,4,3.5,"American Pale Lager",3.5,4.5,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"163",292,"Kirin Brewery Company, Limited",1236898497,3.5,4,4,"American Pale Lager",3.5,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"164",292,"Kirin Brewery Company, Limited",1221309187,3.5,3.5,4,"American Pale Lager",4,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"165",292,"Kirin Brewery Company, Limited",1173606024,4,4.5,3.5,"American Pale Lager",4.5,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"166",292,"Kirin Brewery Company, Limited",1152626665,2.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"167",292,"Kirin Brewery Company, Limited",1151303819,3,3.5,3.5,"American Pale Lager",2,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
-"168",292,"Kirin Brewery Company, Limited",1324958780,2,2.5,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"169",292,"Kirin Brewery Company, Limited",1323828128,2.5,3,2.5,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
-"170",292,"Kirin Brewery Company, Limited",1318383229,1,1,1.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
-"171",292,"Kirin Brewery Company, Limited",1314638774,2,2,2,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
-"172",292,"Kirin Brewery Company, Limited",1314236677,3,3,3,"Light Lager",2.5,3,"Kirin Light Beer",NA,5287
-"173",292,"Kirin Brewery Company, Limited",1313350162,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"174",292,"Kirin Brewery Company, Limited",1312664836,3,3,3.5,"Light Lager",3,3,"Kirin Light Beer",NA,5287
-"175",292,"Kirin Brewery Company, Limited",1311144171,2,2.5,2.5,"Light Lager",3.5,2.5,"Kirin Light Beer",NA,5287
-"176",292,"Kirin Brewery Company, Limited",1308188987,2,2.5,1.5,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
-"177",292,"Kirin Brewery Company, Limited",1306143929,2.5,2.5,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"178",292,"Kirin Brewery Company, Limited",1304902102,1,1.5,3,"Light Lager",1,1,"Kirin Light Beer",NA,5287
-"179",292,"Kirin Brewery Company, Limited",1303773413,2,2,2,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
-"180",292,"Kirin Brewery Company, Limited",1303610382,1.5,1.5,2,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
-"181",292,"Kirin Brewery Company, Limited",1283998911,3,2.5,3.5,"Light Lager",3.5,2.5,"Kirin Light Beer",NA,5287
-"182",292,"Kirin Brewery Company, Limited",1278173863,3,3,3.5,"Light Lager",3.5,3,"Kirin Light Beer",NA,5287
-"183",292,"Kirin Brewery Company, Limited",1272590014,1.5,1,2.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
-"184",292,"Kirin Brewery Company, Limited",1264797982,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"185",292,"Kirin Brewery Company, Limited",1262880488,2.5,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"186",292,"Kirin Brewery Company, Limited",1277571343,4,3.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"187",292,"Kirin Brewery Company, Limited",1259100555,3.5,3,4,"Light Lager",2.5,3,"Kirin Light Beer",NA,5287
-"188",292,"Kirin Brewery Company, Limited",1257343073,2,2.5,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"189",292,"Kirin Brewery Company, Limited",1253701708,2.5,2.5,3,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
-"190",292,"Kirin Brewery Company, Limited",1252501267,2,2.5,2.5,"Light Lager",2.5,2,"Kirin Light Beer",NA,5287
-"191",292,"Kirin Brewery Company, Limited",1249147962,1.5,1.5,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
-"192",292,"Kirin Brewery Company, Limited",1248690206,3.5,1.5,2,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
-"193",292,"Kirin Brewery Company, Limited",1244674892,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"194",292,"Kirin Brewery Company, Limited",1230622051,2,2,2.5,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
-"195",292,"Kirin Brewery Company, Limited",1227109157,1,1.5,1.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
-"196",292,"Kirin Brewery Company, Limited",1221174259,3.5,2,3,"Light Lager",3,3,"Kirin Light Beer",NA,5287
-"197",292,"Kirin Brewery Company, Limited",1217522301,2,2,2.5,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
-"198",292,"Kirin Brewery Company, Limited",1215878066,1.5,2,2,"Light Lager",3,2,"Kirin Light Beer",NA,5287
-"199",292,"Kirin Brewery Company, Limited",1208552963,2,1.5,1.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"200",292,"Kirin Brewery Company, Limited",1205555042,1.5,2,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
-"201",292,"Kirin Brewery Company, Limited",1194303627,3.5,2,3,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
-"202",292,"Kirin Brewery Company, Limited",1185418192,3,2.5,3.5,"Light Lager",3.5,2,"Kirin Light Beer",NA,5287
-"203",292,"Kirin Brewery Company, Limited",1184512062,3.5,2.5,2.5,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
-"204",292,"Kirin Brewery Company, Limited",1183423357,3,3,2,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
-"205",292,"Kirin Brewery Company, Limited",1177347471,2,2,2.5,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
-"206",292,"Kirin Brewery Company, Limited",1163374088,2,2.5,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"207",292,"Kirin Brewery Company, Limited",1159483422,2,1,1.5,"Light Lager",2,1,"Kirin Light Beer",NA,5287
-"208",292,"Kirin Brewery Company, Limited",1148130610,1.5,2,2,"Light Lager",1,1.5,"Kirin Light Beer",NA,5287
-"209",292,"Kirin Brewery Company, Limited",1143169170,3,2.5,2.5,"Light Lager",3,3,"Kirin Light Beer",NA,5287
-"210",292,"Kirin Brewery Company, Limited",1117827734,3,2,1.5,"Light Lager",1,1.5,"Kirin Light Beer",NA,5287
-"211",292,"Kirin Brewery Company, Limited",1102209376,3.5,1.5,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
-"212",292,"Kirin Brewery Company, Limited",1078603165,2,2,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"213",292,"Kirin Brewery Company, Limited",1075846375,3,2,2,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
-"214",292,"Kirin Brewery Company, Limited",1062219730,2.5,2,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
-"215",292,"Kirin Brewery Company, Limited",1062030151,2,2.5,1,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
-"216",292,"Kirin Brewery Company, Limited",1056553704,1.5,2,2,"Light Lager",2,3,"Kirin Light Beer",NA,5287
-"217",292,"Kirin Brewery Company, Limited",1056537007,1.5,2,1.5,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
-"218",292,"Kirin Brewery Company, Limited",1045423212,2.5,2,2,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
-"219",292,"Kirin Brewery Company, Limited",1042129332,2.5,3,2,"Light Lager",2.5,2,"Kirin Light Beer",NA,5287
-"220",292,"Kirin Brewery Company, Limited",1028570993,2,2,2,"Light Lager",2.5,1.5,"Kirin Light Beer",NA,5287
-"221",292,"Kirin Brewery Company, Limited",1128161941,2,2,2,"Happoshu",2,1.5,"Kirin Yawaraka",4.5,26092
-"222",292,"Kirin Brewery Company, Limited",1284692426,2.5,2,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"223",292,"Kirin Brewery Company, Limited",1284162439,2.5,1.5,4,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"224",292,"Kirin Brewery Company, Limited",1283654478,4.5,2,1,"American Pale Lager",1.5,3,"Kirin Ichiban",5,1249
-"225",292,"Kirin Brewery Company, Limited",1283065339,4,2,2.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
-"226",292,"Kirin Brewery Company, Limited",1282519849,1,1,5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"227",292,"Kirin Brewery Company, Limited",1282329082,3,2.5,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"228",292,"Kirin Brewery Company, Limited",1282285622,2,1.5,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"229",292,"Kirin Brewery Company, Limited",1282155537,2,3,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"230",292,"Kirin Brewery Company, Limited",1282079934,5,3.5,4,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"231",292,"Kirin Brewery Company, Limited",1281652135,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"232",292,"Kirin Brewery Company, Limited",1281471292,3.5,3,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"233",292,"Kirin Brewery Company, Limited",1281390834,3.5,3,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"234",292,"Kirin Brewery Company, Limited",1281388262,3.5,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"235",292,"Kirin Brewery Company, Limited",1281384108,4,3,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"236",292,"Kirin Brewery Company, Limited",1281243359,4.5,3.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"237",292,"Kirin Brewery Company, Limited",1281147109,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"238",292,"Kirin Brewery Company, Limited",1280504815,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"239",292,"Kirin Brewery Company, Limited",1280455540,2.5,3,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"240",292,"Kirin Brewery Company, Limited",1280370212,4.5,1,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"241",292,"Kirin Brewery Company, Limited",1279802111,2,2.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"242",292,"Kirin Brewery Company, Limited",1279764029,2.5,2.5,4,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"243",292,"Kirin Brewery Company, Limited",1279509161,3,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"244",292,"Kirin Brewery Company, Limited",1279311595,3,1.5,4,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
-"245",292,"Kirin Brewery Company, Limited",1278899209,2,2.5,4.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"246",292,"Kirin Brewery Company, Limited",1278838448,4,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"247",292,"Kirin Brewery Company, Limited",1277001983,4,2.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"248",292,"Kirin Brewery Company, Limited",1275381798,4,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"249",292,"Kirin Brewery Company, Limited",1274733545,3,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"250",292,"Kirin Brewery Company, Limited",1273848306,3.5,2,2,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"251",292,"Kirin Brewery Company, Limited",1273778137,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"252",292,"Kirin Brewery Company, Limited",1273023880,1,1.5,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
-"253",292,"Kirin Brewery Company, Limited",1272318977,3,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"254",292,"Kirin Brewery Company, Limited",1271045759,2.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"255",292,"Kirin Brewery Company, Limited",1269817909,4,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"256",292,"Kirin Brewery Company, Limited",1260582059,3,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"257",292,"Kirin Brewery Company, Limited",1268622403,3.5,2.5,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"258",292,"Kirin Brewery Company, Limited",1267377673,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"259",292,"Kirin Brewery Company, Limited",1266638823,3.5,1,1.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"260",292,"Kirin Brewery Company, Limited",1266282117,4,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"261",292,"Kirin Brewery Company, Limited",1265932699,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"262",292,"Kirin Brewery Company, Limited",1265866878,4,2.5,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"263",292,"Kirin Brewery Company, Limited",1265234019,2.5,2.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"264",292,"Kirin Brewery Company, Limited",1265163576,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"265",292,"Kirin Brewery Company, Limited",1260573305,2.5,2.5,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"266",292,"Kirin Brewery Company, Limited",1264806553,2,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"267",292,"Kirin Brewery Company, Limited",1264750777,2.5,2.5,4,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"268",292,"Kirin Brewery Company, Limited",1264018256,1.5,1.5,4,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"269",292,"Kirin Brewery Company, Limited",1263780461,2.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"270",292,"Kirin Brewery Company, Limited",1263419894,3.5,3,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"271",292,"Kirin Brewery Company, Limited",1263358074,2.5,1.5,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"272",292,"Kirin Brewery Company, Limited",1262309531,4,3,2.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"273",292,"Kirin Brewery Company, Limited",1261408318,4,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"274",292,"Kirin Brewery Company, Limited",1260959010,4,3,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"275",292,"Kirin Brewery Company, Limited",1252994289,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"276",292,"Kirin Brewery Company, Limited",1259984503,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"277",292,"Kirin Brewery Company, Limited",1259733230,3.5,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"278",292,"Kirin Brewery Company, Limited",1258990819,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"279",292,"Kirin Brewery Company, Limited",1258557584,1,3,3,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"280",292,"Kirin Brewery Company, Limited",1258548379,3,2.5,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"281",292,"Kirin Brewery Company, Limited",1256752308,1,1,2.5,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
-"282",292,"Kirin Brewery Company, Limited",1256077110,4,3,2,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"283",292,"Kirin Brewery Company, Limited",1254824826,3,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"284",292,"Kirin Brewery Company, Limited",1254681477,2.5,3,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"285",292,"Kirin Brewery Company, Limited",1253964132,3,4,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"286",292,"Kirin Brewery Company, Limited",1253732511,2.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"287",292,"Kirin Brewery Company, Limited",1252024263,3.5,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"288",292,"Kirin Brewery Company, Limited",1251675856,3.5,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"289",292,"Kirin Brewery Company, Limited",1251247638,3,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"290",292,"Kirin Brewery Company, Limited",1250953734,3.5,2.5,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"291",292,"Kirin Brewery Company, Limited",1249694724,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"292",292,"Kirin Brewery Company, Limited",1249685051,3.5,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"293",292,"Kirin Brewery Company, Limited",1249605395,3,3,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"294",292,"Kirin Brewery Company, Limited",1249411037,1.5,2,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"295",292,"Kirin Brewery Company, Limited",1248179584,2,2,2.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"296",292,"Kirin Brewery Company, Limited",1247365249,4,3.5,4,"American Pale Lager",4.5,4,"Kirin Ichiban",5,1249
-"297",292,"Kirin Brewery Company, Limited",1246914876,3,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"298",292,"Kirin Brewery Company, Limited",1246635325,3,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"299",292,"Kirin Brewery Company, Limited",1245836230,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"300",292,"Kirin Brewery Company, Limited",1245533976,1.5,1.5,2.5,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"301",292,"Kirin Brewery Company, Limited",1245011414,3,3,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"302",292,"Kirin Brewery Company, Limited",1244943977,4.5,3.5,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"303",292,"Kirin Brewery Company, Limited",1242643092,3.5,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"304",292,"Kirin Brewery Company, Limited",1241149075,4,2,2.5,"American Pale Lager",2.5,4,"Kirin Ichiban",5,1249
-"305",292,"Kirin Brewery Company, Limited",1241143304,3,2,2.5,"American Pale Lager",3.5,2,"Kirin Ichiban",5,1249
-"306",292,"Kirin Brewery Company, Limited",1238797652,2,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"307",292,"Kirin Brewery Company, Limited",1238507008,3.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"308",292,"Kirin Brewery Company, Limited",1232225701,3,2.5,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"309",292,"Kirin Brewery Company, Limited",1325987233,2.5,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"310",292,"Kirin Brewery Company, Limited",1238480614,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"311",292,"Kirin Brewery Company, Limited",1237854144,3.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"312",292,"Kirin Brewery Company, Limited",1237035691,1.5,2,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"313",292,"Kirin Brewery Company, Limited",1236800206,1.5,2,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"314",292,"Kirin Brewery Company, Limited",1236731738,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"315",292,"Kirin Brewery Company, Limited",1235831592,4,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"316",292,"Kirin Brewery Company, Limited",1235362426,3,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"317",292,"Kirin Brewery Company, Limited",1234813694,2.5,2.5,2.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
-"318",292,"Kirin Brewery Company, Limited",1234576161,4,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"319",292,"Kirin Brewery Company, Limited",1233197332,3.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"320",292,"Kirin Brewery Company, Limited",1232826533,3.5,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"321",292,"Kirin Brewery Company, Limited",1325737185,3.5,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"322",292,"Kirin Brewery Company, Limited",1325042730,3.5,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"323",292,"Kirin Brewery Company, Limited",1324957975,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"324",292,"Kirin Brewery Company, Limited",1324662348,2.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"325",292,"Kirin Brewery Company, Limited",1324131894,1,1,1,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"326",292,"Kirin Brewery Company, Limited",1323881127,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"327",292,"Kirin Brewery Company, Limited",1323368096,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"328",292,"Kirin Brewery Company, Limited",1323154753,3,4,4,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"329",292,"Kirin Brewery Company, Limited",1322415688,2.5,2.5,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"330",292,"Kirin Brewery Company, Limited",1231108880,2,2.5,3,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"331",292,"Kirin Brewery Company, Limited",1230837254,4,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"332",292,"Kirin Brewery Company, Limited",1230508911,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"333",292,"Kirin Brewery Company, Limited",1230435114,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"334",292,"Kirin Brewery Company, Limited",1229864192,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"335",292,"Kirin Brewery Company, Limited",1229560058,3,3,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"336",292,"Kirin Brewery Company, Limited",1229559282,3,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"337",292,"Kirin Brewery Company, Limited",1229553267,3,2.5,1.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"338",292,"Kirin Brewery Company, Limited",1229271316,2.5,3,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"339",292,"Kirin Brewery Company, Limited",1228929278,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"340",292,"Kirin Brewery Company, Limited",1228061395,3,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"341",292,"Kirin Brewery Company, Limited",1227728634,3,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"342",292,"Kirin Brewery Company, Limited",1227458583,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"343",292,"Kirin Brewery Company, Limited",1227240865,2,1.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"344",292,"Kirin Brewery Company, Limited",1226984979,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"345",292,"Kirin Brewery Company, Limited",1226778227,2.5,2.5,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"346",292,"Kirin Brewery Company, Limited",1225664215,2.5,2,2,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"347",292,"Kirin Brewery Company, Limited",1225526153,3,3,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"348",292,"Kirin Brewery Company, Limited",1224031097,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"349",292,"Kirin Brewery Company, Limited",1222959941,3,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"350",292,"Kirin Brewery Company, Limited",1221352858,2,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"351",292,"Kirin Brewery Company, Limited",1221009987,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"352",292,"Kirin Brewery Company, Limited",1220996066,2.5,2.5,3,"American Pale Lager",3.5,2,"Kirin Ichiban",5,1249
-"353",292,"Kirin Brewery Company, Limited",1220932314,3,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"354",292,"Kirin Brewery Company, Limited",1219604464,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"355",292,"Kirin Brewery Company, Limited",1219491281,3,3,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"356",292,"Kirin Brewery Company, Limited",1218524685,2,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"357",292,"Kirin Brewery Company, Limited",1218494286,1.5,2,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"358",292,"Kirin Brewery Company, Limited",1218225890,2,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"359",292,"Kirin Brewery Company, Limited",1218058998,2,3,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"360",292,"Kirin Brewery Company, Limited",1217953353,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"361",292,"Kirin Brewery Company, Limited",1217943021,4,4,2.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"362",292,"Kirin Brewery Company, Limited",1217652612,2.5,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"363",292,"Kirin Brewery Company, Limited",1217238371,4.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"364",292,"Kirin Brewery Company, Limited",1217137806,3,3,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"365",292,"Kirin Brewery Company, Limited",1216951768,2.5,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"366",292,"Kirin Brewery Company, Limited",1216892956,3.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"367",292,"Kirin Brewery Company, Limited",1216196032,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"368",292,"Kirin Brewery Company, Limited",1216165306,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"369",292,"Kirin Brewery Company, Limited",1215983455,3,3,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"370",292,"Kirin Brewery Company, Limited",1215495215,3.5,2,2.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"371",292,"Kirin Brewery Company, Limited",1215486156,4,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"372",292,"Kirin Brewery Company, Limited",1215288529,3,3.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"373",292,"Kirin Brewery Company, Limited",1215285163,4.5,4,4,"American Pale Lager",4,4.5,"Kirin Ichiban",5,1249
-"374",292,"Kirin Brewery Company, Limited",1214976515,4,2.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"375",292,"Kirin Brewery Company, Limited",1214867842,3,2.5,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"376",292,"Kirin Brewery Company, Limited",1214428415,3,2,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"377",292,"Kirin Brewery Company, Limited",1208912238,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"378",292,"Kirin Brewery Company, Limited",1214359782,3,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"379",292,"Kirin Brewery Company, Limited",1214066180,1,1,3,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"380",292,"Kirin Brewery Company, Limited",1213849253,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"381",292,"Kirin Brewery Company, Limited",1213139794,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"382",292,"Kirin Brewery Company, Limited",1212100204,2.5,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"383",292,"Kirin Brewery Company, Limited",1211953391,1.5,1.5,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"384",292,"Kirin Brewery Company, Limited",1211806676,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"385",292,"Kirin Brewery Company, Limited",1211726068,4,2.5,4.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"386",292,"Kirin Brewery Company, Limited",1210628557,1.5,1.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"387",292,"Kirin Brewery Company, Limited",1209517632,1.5,1.5,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"388",292,"Kirin Brewery Company, Limited",1208573998,2,2,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"389",292,"Kirin Brewery Company, Limited",1208552555,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"390",292,"Kirin Brewery Company, Limited",1207935553,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"391",292,"Kirin Brewery Company, Limited",1207548469,4,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"392",292,"Kirin Brewery Company, Limited",1207431074,2,1.5,3.5,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"393",292,"Kirin Brewery Company, Limited",1206678438,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"394",292,"Kirin Brewery Company, Limited",1205798238,3,3,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"395",292,"Kirin Brewery Company, Limited",1205692372,4.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"396",292,"Kirin Brewery Company, Limited",1204682988,2.5,2,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"397",292,"Kirin Brewery Company, Limited",1204326989,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"398",292,"Kirin Brewery Company, Limited",1203649119,2,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"399",292,"Kirin Brewery Company, Limited",1203554697,2.5,3.5,2.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"400",292,"Kirin Brewery Company, Limited",1203097707,4.5,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"401",292,"Kirin Brewery Company, Limited",1202845010,5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"402",292,"Kirin Brewery Company, Limited",1202420170,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"403",292,"Kirin Brewery Company, Limited",1201816610,3.5,3.5,4,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"404",292,"Kirin Brewery Company, Limited",1200411239,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"405",292,"Kirin Brewery Company, Limited",1200167049,2.5,1.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"406",292,"Kirin Brewery Company, Limited",1199412177,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"407",292,"Kirin Brewery Company, Limited",1199164709,4.5,3,1.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"408",292,"Kirin Brewery Company, Limited",1199159136,2,2,3,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"409",292,"Kirin Brewery Company, Limited",1198426401,1.5,1.5,1.5,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
-"410",292,"Kirin Brewery Company, Limited",1197778376,3.5,2,3.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"411",292,"Kirin Brewery Company, Limited",1196170009,2.5,2.5,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"412",292,"Kirin Brewery Company, Limited",1195699032,4,4,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"413",292,"Kirin Brewery Company, Limited",1195424893,2,2,2.5,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
-"414",292,"Kirin Brewery Company, Limited",1195262055,2,2,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"415",292,"Kirin Brewery Company, Limited",1195152204,2,3,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"416",292,"Kirin Brewery Company, Limited",1194948271,4,3,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"417",292,"Kirin Brewery Company, Limited",1194716410,2,2,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"418",292,"Kirin Brewery Company, Limited",1194489762,2.5,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"419",292,"Kirin Brewery Company, Limited",1194139442,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"420",292,"Kirin Brewery Company, Limited",1193617335,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"421",292,"Kirin Brewery Company, Limited",1193359053,2.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"422",292,"Kirin Brewery Company, Limited",1193112358,3.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"423",292,"Kirin Brewery Company, Limited",1193027286,2.5,2,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"424",292,"Kirin Brewery Company, Limited",1192251638,3.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"425",292,"Kirin Brewery Company, Limited",1191379211,2,3,2.5,"American Pale Lager",2,3.5,"Kirin Ichiban",5,1249
-"426",292,"Kirin Brewery Company, Limited",1189924559,3,3.5,4,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"427",292,"Kirin Brewery Company, Limited",1321247645,2,2,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"428",292,"Kirin Brewery Company, Limited",1319677075,1.5,1,2,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"429",292,"Kirin Brewery Company, Limited",1319676458,1.5,1.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"430",292,"Kirin Brewery Company, Limited",1319410268,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"431",292,"Kirin Brewery Company, Limited",1316894735,3.5,2.5,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"432",292,"Kirin Brewery Company, Limited",1315177549,2.5,1.5,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"433",292,"Kirin Brewery Company, Limited",1315125632,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"434",292,"Kirin Brewery Company, Limited",1314638250,2,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"435",292,"Kirin Brewery Company, Limited",1314394964,2.5,2,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"436",292,"Kirin Brewery Company, Limited",1314332764,2.5,3,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"437",292,"Kirin Brewery Company, Limited",1189636451,3,3,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"438",292,"Kirin Brewery Company, Limited",1189617522,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"439",292,"Kirin Brewery Company, Limited",1188615605,3,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"440",292,"Kirin Brewery Company, Limited",1188527015,3,2,3,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
-"441",292,"Kirin Brewery Company, Limited",1188015962,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"442",292,"Kirin Brewery Company, Limited",1186168881,2.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"443",292,"Kirin Brewery Company, Limited",1185525372,1,1.5,1.5,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
-"444",292,"Kirin Brewery Company, Limited",1185473923,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"445",292,"Kirin Brewery Company, Limited",1185254720,1.5,2,3,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"446",292,"Kirin Brewery Company, Limited",1184212290,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"447",292,"Kirin Brewery Company, Limited",1184034739,2.5,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"448",292,"Kirin Brewery Company, Limited",1183522030,4,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"449",292,"Kirin Brewery Company, Limited",1182893238,1.5,1,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"450",292,"Kirin Brewery Company, Limited",1182881751,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"451",292,"Kirin Brewery Company, Limited",1182639826,3,3,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"452",292,"Kirin Brewery Company, Limited",1182188637,4,4,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"453",292,"Kirin Brewery Company, Limited",1181817339,3.5,3,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"454",292,"Kirin Brewery Company, Limited",1180986499,3.5,2.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"455",292,"Kirin Brewery Company, Limited",1180831664,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"456",292,"Kirin Brewery Company, Limited",1179689619,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"457",292,"Kirin Brewery Company, Limited",1178553061,4,2,2.5,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
-"458",292,"Kirin Brewery Company, Limited",1178439705,3,2.5,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"459",292,"Kirin Brewery Company, Limited",1178075631,2.5,2.5,2,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"460",292,"Kirin Brewery Company, Limited",1176769470,3.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"461",292,"Kirin Brewery Company, Limited",1174436906,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"462",292,"Kirin Brewery Company, Limited",1174255581,3,2.5,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"463",292,"Kirin Brewery Company, Limited",1173056946,4,3,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"464",292,"Kirin Brewery Company, Limited",1172725439,4,2,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"465",292,"Kirin Brewery Company, Limited",1170122580,3.5,3.5,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"466",292,"Kirin Brewery Company, Limited",1169444936,1.5,1.5,2,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
-"467",292,"Kirin Brewery Company, Limited",1169418182,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"468",292,"Kirin Brewery Company, Limited",1168742943,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"469",292,"Kirin Brewery Company, Limited",1168741584,3,2,2,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"470",292,"Kirin Brewery Company, Limited",1168668259,3.5,4.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"471",292,"Kirin Brewery Company, Limited",1168480704,3.5,3,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"472",292,"Kirin Brewery Company, Limited",1167861684,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"473",292,"Kirin Brewery Company, Limited",1167617808,5,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"474",292,"Kirin Brewery Company, Limited",1167083846,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"475",292,"Kirin Brewery Company, Limited",1166302990,4.5,3.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"476",292,"Kirin Brewery Company, Limited",1164965218,3.5,3,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"477",292,"Kirin Brewery Company, Limited",1164494771,3,2,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"478",292,"Kirin Brewery Company, Limited",1163973475,3.5,4,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"479",292,"Kirin Brewery Company, Limited",1163618282,2.5,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"480",292,"Kirin Brewery Company, Limited",1163326385,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"481",292,"Kirin Brewery Company, Limited",1162400080,1.5,2,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"482",292,"Kirin Brewery Company, Limited",1161208513,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"483",292,"Kirin Brewery Company, Limited",1160600048,2.5,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"484",292,"Kirin Brewery Company, Limited",1160554683,2,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"485",292,"Kirin Brewery Company, Limited",1157845862,2.5,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"486",292,"Kirin Brewery Company, Limited",1157338454,4,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"487",292,"Kirin Brewery Company, Limited",1157138024,3.5,2,3,"American Pale Lager",3.5,1.5,"Kirin Ichiban",5,1249
-"488",292,"Kirin Brewery Company, Limited",1156981048,2,3,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"489",292,"Kirin Brewery Company, Limited",1156714830,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"490",292,"Kirin Brewery Company, Limited",1155958335,3.5,3.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"491",292,"Kirin Brewery Company, Limited",1155945184,2,2,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"492",292,"Kirin Brewery Company, Limited",1155686647,2.5,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"493",292,"Kirin Brewery Company, Limited",1155440249,3,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"494",292,"Kirin Brewery Company, Limited",1154312195,2,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"495",292,"Kirin Brewery Company, Limited",1152763941,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"496",292,"Kirin Brewery Company, Limited",1152646778,3,3,2,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"497",292,"Kirin Brewery Company, Limited",1152155959,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"498",292,"Kirin Brewery Company, Limited",1150534540,2,1.5,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"499",292,"Kirin Brewery Company, Limited",1147648299,4,3,3.5,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
-"500",292,"Kirin Brewery Company, Limited",1147461831,2,2,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"501",292,"Kirin Brewery Company, Limited",1146450900,3,3.5,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"502",292,"Kirin Brewery Company, Limited",1146372800,2.5,3,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"503",292,"Kirin Brewery Company, Limited",1146209097,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"504",292,"Kirin Brewery Company, Limited",1145129658,2,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"505",292,"Kirin Brewery Company, Limited",1145083353,3.5,2.5,2.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"506",292,"Kirin Brewery Company, Limited",1138232965,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"507",292,"Kirin Brewery Company, Limited",1144710668,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"508",292,"Kirin Brewery Company, Limited",1144709117,1,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"509",292,"Kirin Brewery Company, Limited",1144601141,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"510",292,"Kirin Brewery Company, Limited",1143660512,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"511",292,"Kirin Brewery Company, Limited",1143001441,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"512",292,"Kirin Brewery Company, Limited",1141522855,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"513",292,"Kirin Brewery Company, Limited",1141457702,4,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"514",292,"Kirin Brewery Company, Limited",1141307982,3.5,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"515",292,"Kirin Brewery Company, Limited",1140998688,2.5,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"516",292,"Kirin Brewery Company, Limited",1140921217,2.5,3,2.5,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"517",292,"Kirin Brewery Company, Limited",1140452851,3.5,3.5,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"518",292,"Kirin Brewery Company, Limited",1139928988,3,2.5,4,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"519",292,"Kirin Brewery Company, Limited",1139692613,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"520",292,"Kirin Brewery Company, Limited",1139199445,3,2.5,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"521",292,"Kirin Brewery Company, Limited",1139010495,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"522",292,"Kirin Brewery Company, Limited",1138868225,1.5,1.5,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"523",292,"Kirin Brewery Company, Limited",1138148077,2,1.5,1.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"524",292,"Kirin Brewery Company, Limited",1137512154,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"525",292,"Kirin Brewery Company, Limited",1137188101,2,2.5,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"526",292,"Kirin Brewery Company, Limited",1136772844,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"527",292,"Kirin Brewery Company, Limited",1136189053,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"528",292,"Kirin Brewery Company, Limited",1136002270,2,3,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"529",292,"Kirin Brewery Company, Limited",1135680238,1,1.5,4,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"530",292,"Kirin Brewery Company, Limited",1135560558,3,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"531",292,"Kirin Brewery Company, Limited",1134179286,1.5,2,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"532",292,"Kirin Brewery Company, Limited",1133659824,2.5,2.5,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"533",292,"Kirin Brewery Company, Limited",1133351115,3,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"534",292,"Kirin Brewery Company, Limited",1314237081,3.5,3.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"535",292,"Kirin Brewery Company, Limited",1311907111,2.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"536",292,"Kirin Brewery Company, Limited",1311683090,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"537",292,"Kirin Brewery Company, Limited",1311641964,2,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"538",292,"Kirin Brewery Company, Limited",1310332744,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"539",292,"Kirin Brewery Company, Limited",1309730942,2.5,3,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"540",292,"Kirin Brewery Company, Limited",1309387618,2,2.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"541",292,"Kirin Brewery Company, Limited",1309312446,2.5,2,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"542",292,"Kirin Brewery Company, Limited",1309067516,2,2.5,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"543",292,"Kirin Brewery Company, Limited",1308530400,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"544",292,"Kirin Brewery Company, Limited",1133305223,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"545",292,"Kirin Brewery Company, Limited",1132984072,1,1,1.5,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"546",292,"Kirin Brewery Company, Limited",1130627386,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"547",292,"Kirin Brewery Company, Limited",1128574172,1.5,2,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"548",292,"Kirin Brewery Company, Limited",1127925557,4,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"549",292,"Kirin Brewery Company, Limited",1127641500,4,3.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"550",292,"Kirin Brewery Company, Limited",1127423940,3,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"551",292,"Kirin Brewery Company, Limited",1127414609,3,2.5,2,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"552",292,"Kirin Brewery Company, Limited",1126130735,4,2.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"553",292,"Kirin Brewery Company, Limited",1126048739,3.5,3,3.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"554",292,"Kirin Brewery Company, Limited",1125685891,2,2,4,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"555",292,"Kirin Brewery Company, Limited",1125202785,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"556",292,"Kirin Brewery Company, Limited",1125072583,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"557",292,"Kirin Brewery Company, Limited",1123203066,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"558",292,"Kirin Brewery Company, Limited",1122928591,2.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"559",292,"Kirin Brewery Company, Limited",1121148266,1.5,2,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
-"560",292,"Kirin Brewery Company, Limited",1117148430,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"561",292,"Kirin Brewery Company, Limited",1115988147,1.5,3.5,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"562",292,"Kirin Brewery Company, Limited",1115638986,4,1,2,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
-"563",292,"Kirin Brewery Company, Limited",1114750283,2.5,1.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"564",292,"Kirin Brewery Company, Limited",1113885010,3,1.5,2,"American Pale Lager",2,3.5,"Kirin Ichiban",5,1249
-"565",292,"Kirin Brewery Company, Limited",1113678356,2.5,2,1.5,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
-"566",292,"Kirin Brewery Company, Limited",1113011141,3.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"567",292,"Kirin Brewery Company, Limited",1112321624,2.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"568",292,"Kirin Brewery Company, Limited",1111552311,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"569",292,"Kirin Brewery Company, Limited",1111084930,3.5,3.5,4.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"570",292,"Kirin Brewery Company, Limited",1110899981,3,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"571",292,"Kirin Brewery Company, Limited",1110640669,2.5,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"572",292,"Kirin Brewery Company, Limited",1109708910,4,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"573",292,"Kirin Brewery Company, Limited",1109278655,3,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"574",292,"Kirin Brewery Company, Limited",1108612960,3,3.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"575",292,"Kirin Brewery Company, Limited",1108286262,4,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"576",292,"Kirin Brewery Company, Limited",1106795885,2,3,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"577",292,"Kirin Brewery Company, Limited",1106127293,4.5,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"578",292,"Kirin Brewery Company, Limited",1100975400,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"579",292,"Kirin Brewery Company, Limited",1100448390,2.5,2.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"580",292,"Kirin Brewery Company, Limited",1099884508,3,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"581",292,"Kirin Brewery Company, Limited",1098828142,2,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"582",292,"Kirin Brewery Company, Limited",1098142496,2.5,3.5,3.5,"American Pale Lager",4,2.5,"Kirin Ichiban",5,1249
-"583",292,"Kirin Brewery Company, Limited",1097888432,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"584",292,"Kirin Brewery Company, Limited",1097514279,2,2,3,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"585",292,"Kirin Brewery Company, Limited",1097409958,3.5,3,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"586",292,"Kirin Brewery Company, Limited",1097285049,1.5,1.5,2,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
-"587",292,"Kirin Brewery Company, Limited",1097017683,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"588",292,"Kirin Brewery Company, Limited",1096386762,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"589",292,"Kirin Brewery Company, Limited",1095511807,3.5,3,3,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
-"590",292,"Kirin Brewery Company, Limited",1094547804,1.5,1.5,2,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
-"591",292,"Kirin Brewery Company, Limited",1094308078,2.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"592",292,"Kirin Brewery Company, Limited",1094078317,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"593",292,"Kirin Brewery Company, Limited",1092722789,3,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"594",292,"Kirin Brewery Company, Limited",1092436457,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"595",292,"Kirin Brewery Company, Limited",1087276075,3,2,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"596",292,"Kirin Brewery Company, Limited",1086875487,3,3.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"597",292,"Kirin Brewery Company, Limited",1084520543,2,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"598",292,"Kirin Brewery Company, Limited",1084305833,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"599",292,"Kirin Brewery Company, Limited",1082657831,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"600",292,"Kirin Brewery Company, Limited",1305007178,2.5,2,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"601",292,"Kirin Brewery Company, Limited",1082591773,2.5,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"602",292,"Kirin Brewery Company, Limited",1079877406,2,2,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"603",292,"Kirin Brewery Company, Limited",1078637162,3.5,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"604",292,"Kirin Brewery Company, Limited",1078190802,3.5,3.5,4,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"605",292,"Kirin Brewery Company, Limited",1077428000,2,2,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"606",292,"Kirin Brewery Company, Limited",1075845963,3.5,2.5,2.5,"American Pale Lager",4.5,3.5,"Kirin Ichiban",5,1249
-"607",292,"Kirin Brewery Company, Limited",1075127623,3,3.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"608",292,"Kirin Brewery Company, Limited",1075058986,1.5,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"609",292,"Kirin Brewery Company, Limited",1074219895,3.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"610",292,"Kirin Brewery Company, Limited",1072041328,4,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"611",292,"Kirin Brewery Company, Limited",1071784141,2,1.5,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"612",292,"Kirin Brewery Company, Limited",1071732423,3,2,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"613",292,"Kirin Brewery Company, Limited",1071537669,2,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"614",292,"Kirin Brewery Company, Limited",1068814998,2.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"615",292,"Kirin Brewery Company, Limited",1068750858,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"616",292,"Kirin Brewery Company, Limited",1067297074,2.5,2,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"617",292,"Kirin Brewery Company, Limited",1066277182,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"618",292,"Kirin Brewery Company, Limited",1065197106,3,2.5,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"619",292,"Kirin Brewery Company, Limited",1063853393,4,3,4,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"620",292,"Kirin Brewery Company, Limited",1222679582,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"621",292,"Kirin Brewery Company, Limited",1062460368,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"622",292,"Kirin Brewery Company, Limited",1062047374,2,1.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"623",292,"Kirin Brewery Company, Limited",1061952706,3.5,2,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"624",292,"Kirin Brewery Company, Limited",1059973628,2,1.5,1.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"625",292,"Kirin Brewery Company, Limited",1059931576,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"626",292,"Kirin Brewery Company, Limited",1059062081,1,1,3.5,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
-"627",292,"Kirin Brewery Company, Limited",1057081556,2,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"628",292,"Kirin Brewery Company, Limited",1056270954,1.5,3.5,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"629",292,"Kirin Brewery Company, Limited",1055326786,1.5,2,2.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"630",292,"Kirin Brewery Company, Limited",1054316622,1.5,2,3,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
-"631",292,"Kirin Brewery Company, Limited",1052674405,2,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"632",292,"Kirin Brewery Company, Limited",1052102644,2,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"633",292,"Kirin Brewery Company, Limited",1049991119,2.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"634",292,"Kirin Brewery Company, Limited",1048689294,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"635",292,"Kirin Brewery Company, Limited",1047804814,2.5,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"636",292,"Kirin Brewery Company, Limited",1046264737,4,3,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"637",292,"Kirin Brewery Company, Limited",1043859251,3.5,3,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"638",292,"Kirin Brewery Company, Limited",1043061875,4,4,3.5,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
-"639",292,"Kirin Brewery Company, Limited",1042746705,2,2,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
-"640",292,"Kirin Brewery Company, Limited",1041223856,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"641",292,"Kirin Brewery Company, Limited",1041134078,3,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"642",292,"Kirin Brewery Company, Limited",1040384229,3,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"643",292,"Kirin Brewery Company, Limited",1308188832,3.5,3.5,2,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
-"644",292,"Kirin Brewery Company, Limited",1308082018,2,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"645",292,"Kirin Brewery Company, Limited",1307829490,2,1.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"646",292,"Kirin Brewery Company, Limited",1306356332,3,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"647",292,"Kirin Brewery Company, Limited",1306295831,2.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"648",292,"Kirin Brewery Company, Limited",1306143749,1.5,1.5,3.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"649",292,"Kirin Brewery Company, Limited",1305899868,3,3,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"650",292,"Kirin Brewery Company, Limited",1305687177,4,3.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"651",292,"Kirin Brewery Company, Limited",1305344040,2.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"652",292,"Kirin Brewery Company, Limited",1305218488,1,1,1.5,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
-"653",292,"Kirin Brewery Company, Limited",1037215648,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"654",292,"Kirin Brewery Company, Limited",1037121694,1.5,1,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"655",292,"Kirin Brewery Company, Limited",1036741546,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"656",292,"Kirin Brewery Company, Limited",1034409964,3,1.5,1.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"657",292,"Kirin Brewery Company, Limited",1034266184,2.5,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"658",292,"Kirin Brewery Company, Limited",1029740441,3,1.5,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"659",292,"Kirin Brewery Company, Limited",1029585456,1.5,1,4,"American Pale Lager",3.5,1.5,"Kirin Ichiban",5,1249
-"660",292,"Kirin Brewery Company, Limited",1028711613,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"661",292,"Kirin Brewery Company, Limited",1028557773,2,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"662",292,"Kirin Brewery Company, Limited",1025471513,1,1,1,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
-"663",292,"Kirin Brewery Company, Limited",1023386254,3,3,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"664",292,"Kirin Brewery Company, Limited",1304378943,2,2.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"665",292,"Kirin Brewery Company, Limited",1304344119,2.5,2.5,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"666",292,"Kirin Brewery Company, Limited",1304164078,2,2.5,3.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
-"667",292,"Kirin Brewery Company, Limited",1303781957,3,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"668",292,"Kirin Brewery Company, Limited",1303095983,3,2,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"669",292,"Kirin Brewery Company, Limited",1302979192,3,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"670",292,"Kirin Brewery Company, Limited",1302914864,3,3,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
-"671",292,"Kirin Brewery Company, Limited",1302383458,3.5,2.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"672",292,"Kirin Brewery Company, Limited",1301883572,2.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"673",292,"Kirin Brewery Company, Limited",1298219336,4.5,4,4,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
-"674",292,"Kirin Brewery Company, Limited",1301857998,4,3,3.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
-"675",292,"Kirin Brewery Company, Limited",1300566009,2.5,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"676",292,"Kirin Brewery Company, Limited",1300339730,1.5,1.5,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
-"677",292,"Kirin Brewery Company, Limited",1300328502,2,2.5,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"678",292,"Kirin Brewery Company, Limited",1299092232,3,2,2,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"679",292,"Kirin Brewery Company, Limited",1298558460,2.5,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"680",292,"Kirin Brewery Company, Limited",1298418622,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"681",292,"Kirin Brewery Company, Limited",1298030029,4,2,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"682",292,"Kirin Brewery Company, Limited",1297658712,5,3,1,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"683",292,"Kirin Brewery Company, Limited",1297608777,3.5,3.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
-"684",292,"Kirin Brewery Company, Limited",1296842277,2.5,2,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"685",292,"Kirin Brewery Company, Limited",1296740954,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"686",292,"Kirin Brewery Company, Limited",1296714644,3,2.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"687",292,"Kirin Brewery Company, Limited",1296699406,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
-"688",292,"Kirin Brewery Company, Limited",1296256447,2,2,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"689",292,"Kirin Brewery Company, Limited",1295792188,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"690",292,"Kirin Brewery Company, Limited",1295630783,2,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
-"691",292,"Kirin Brewery Company, Limited",1294810384,3,2,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"692",292,"Kirin Brewery Company, Limited",1294666821,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
-"693",292,"Kirin Brewery Company, Limited",1294626025,2,2,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"694",292,"Kirin Brewery Company, Limited",1294277692,2,3,4,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"695",292,"Kirin Brewery Company, Limited",1294017591,3.5,2.5,2.5,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
-"696",292,"Kirin Brewery Company, Limited",1293755078,2.5,3.5,2.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"697",292,"Kirin Brewery Company, Limited",1293639924,3.5,2.5,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
-"698",292,"Kirin Brewery Company, Limited",1293396971,3,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
-"699",292,"Kirin Brewery Company, Limited",1292620956,2,2.5,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"700",292,"Kirin Brewery Company, Limited",1291542460,2.5,3,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"701",292,"Kirin Brewery Company, Limited",1291502464,2.5,2,4,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"702",292,"Kirin Brewery Company, Limited",1290649488,4.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
-"703",292,"Kirin Brewery Company, Limited",1290437851,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
-"704",292,"Kirin Brewery Company, Limited",1290134502,3.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
-"705",292,"Kirin Brewery Company, Limited",1289104247,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"706",292,"Kirin Brewery Company, Limited",1289082629,2,2.5,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"707",292,"Kirin Brewery Company, Limited",1288985427,2.5,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
-"708",292,"Kirin Brewery Company, Limited",1288828975,1.5,2.5,2.5,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
-"709",292,"Kirin Brewery Company, Limited",1286513069,2,1.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
-"710",292,"Kirin Brewery Company, Limited",1285920190,2,2,2,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
-"711",292,"Kirin Brewery Company, Limited",1285390850,2.5,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
-"712",292,"Kirin Brewery Company, Limited",1284864610,2,3,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
-"713",292,"Kirin Brewery Company, Limited",1293770767,4.5,3.5,4,"Japanese Rice Lager",4.5,4,"Kirin Premium Draft Beer",NA,62453
-"714",292,"Kirin Brewery Company, Limited",1286627170,2,2.5,2.5,"Japanese Rice Lager",2,1.5,"Kirin Premium Draft Beer",NA,62453
-"715",292,"Kirin Brewery Company, Limited",1317609601,3.5,3.5,3,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"716",292,"Kirin Brewery Company, Limited",1316606284,3.5,3.5,3,"Schwarzbier",4,4,"Kirin Ichiban Shibori Stout",5,39541
-"717",292,"Kirin Brewery Company, Limited",1303656496,3,3,3.5,"Schwarzbier",3,3,"Kirin Ichiban Shibori Stout",5,39541
-"718",292,"Kirin Brewery Company, Limited",1298373073,3,3,2,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"719",292,"Kirin Brewery Company, Limited",1251497419,1.5,3.5,3.5,"Schwarzbier",1.5,1.5,"Kirin Ichiban Shibori Stout",5,39541
-"720",292,"Kirin Brewery Company, Limited",1249318696,4,3.5,4,"Schwarzbier",3.5,4,"Kirin Ichiban Shibori Stout",5,39541
-"721",292,"Kirin Brewery Company, Limited",1246645286,4,3,4,"Schwarzbier",4,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"722",292,"Kirin Brewery Company, Limited",1244199313,4,3,3.5,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"723",292,"Kirin Brewery Company, Limited",1230713501,4.5,4,4.5,"Schwarzbier",4,4.5,"Kirin Ichiban Shibori Stout",5,39541
-"724",292,"Kirin Brewery Company, Limited",1216207051,4,4.5,4,"Schwarzbier",3,5,"Kirin Ichiban Shibori Stout",5,39541
-"725",292,"Kirin Brewery Company, Limited",1190531781,3,3,2.5,"Schwarzbier",2.5,3.5,"Kirin Ichiban Shibori Stout",5,39541
-"726",292,"Kirin Brewery Company, Limited",1194597650,4.5,4,3.5,"Schwarzbier",4.5,3,"Kirin Ichiban Shibori Stout",5,39541
-"727",292,"Kirin Brewery Company, Limited",1067101077,4,2,3.5,"English Pale Ale",4,3,"Kirin Pale Ale",NA,13758
-"728",292,"Kirin Brewery Company, Limited",1266906024,4,3.5,4,"Happoshu",4,3,"Sparkling Hop",5,40030
-"729",292,"Kirin Brewery Company, Limited",1255739205,4,3.5,4,"Happoshu",3,2,"Sparkling Hop",5,40030
-"730",292,"Kirin Brewery Company, Limited",1250560717,3.5,3,3,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
-"731",292,"Kirin Brewery Company, Limited",1253803804,2.5,3,3.5,"Happoshu",2.5,2.5,"Sparkling Hop",5,40030
-"732",292,"Kirin Brewery Company, Limited",1252972006,3,3,4,"Happoshu",3,3,"Sparkling Hop",5,40030
-"733",292,"Kirin Brewery Company, Limited",1252808105,3.5,3,3,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
-"734",292,"Kirin Brewery Company, Limited",1252552748,3,2.5,3,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"735",292,"Kirin Brewery Company, Limited",1251154495,2.5,3.5,3.5,"Happoshu",3.5,2.5,"Sparkling Hop",5,40030
-"736",292,"Kirin Brewery Company, Limited",1251149505,3,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"737",292,"Kirin Brewery Company, Limited",1244419829,3,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"738",292,"Kirin Brewery Company, Limited",1244161378,4,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"739",292,"Kirin Brewery Company, Limited",1241734326,2,1.5,3,"Happoshu",1,2,"Sparkling Hop",5,40030
-"740",292,"Kirin Brewery Company, Limited",1240664085,3.5,3,3,"Happoshu",3,3,"Sparkling Hop",5,40030
-"741",292,"Kirin Brewery Company, Limited",1239419809,3.5,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"742",292,"Kirin Brewery Company, Limited",1239419720,3,2,2.5,"Happoshu",2.5,3,"Sparkling Hop",5,40030
-"743",292,"Kirin Brewery Company, Limited",1237858302,2.5,3,3.5,"Happoshu",2.5,2.5,"Sparkling Hop",5,40030
-"744",292,"Kirin Brewery Company, Limited",1237603357,3.5,3,3,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"745",292,"Kirin Brewery Company, Limited",1237177419,3,3.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"746",292,"Kirin Brewery Company, Limited",1236999931,3,2.5,3.5,"Happoshu",3,3,"Sparkling Hop",5,40030
-"747",292,"Kirin Brewery Company, Limited",1236996442,3.5,3,3.5,"Happoshu",3,3.5,"Sparkling Hop",5,40030
-"748",292,"Kirin Brewery Company, Limited",1234942312,1.5,2,3,"Happoshu",2,2,"Sparkling Hop",5,40030
-"749",292,"Kirin Brewery Company, Limited",1234405902,4,3,4,"Happoshu",3,3,"Sparkling Hop",5,40030
-"750",292,"Kirin Brewery Company, Limited",1231809329,4,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"751",292,"Kirin Brewery Company, Limited",1231768472,3.5,3.5,4,"Happoshu",3,3,"Sparkling Hop",5,40030
-"752",292,"Kirin Brewery Company, Limited",1231556239,2.5,3,4,"Happoshu",4,3,"Sparkling Hop",5,40030
-"753",292,"Kirin Brewery Company, Limited",1231373606,3.5,3.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"754",292,"Kirin Brewery Company, Limited",1231354141,3,3,3,"Happoshu",3,3,"Sparkling Hop",5,40030
-"755",292,"Kirin Brewery Company, Limited",1230606924,3.5,2.5,4,"Happoshu",3,3,"Sparkling Hop",5,40030
-"756",292,"Kirin Brewery Company, Limited",1224462538,3,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
-"757",292,"Kirin Brewery Company, Limited",1223842018,4,2.5,3,"Happoshu",4,3.5,"Sparkling Hop",5,40030
-"758",292,"Kirin Brewery Company, Limited",1222510404,4,3,3,"Happoshu",3,3.5,"Sparkling Hop",5,40030
-"759",292,"Kirin Brewery Company, Limited",1222379408,3.5,3.5,3.5,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
-"760",292,"Kirin Brewery Company, Limited",1202955854,4.5,3.5,3.5,"Happoshu",3,4,"Sparkling Hop",5,40030
-"761",292,"Kirin Brewery Company, Limited",1197464236,4.5,3.5,4,"Happoshu",3.5,4,"Sparkling Hop",5,40030
-"762",292,"Kirin Brewery Company, Limited",1238608536,3.5,3.5,4,"German Pilsener",4.5,3,"Kirin 120th Anniversary Pilsener",5,47391
-"763",292,"Kirin Brewery Company, Limited",1232354079,4.5,3.5,4,"German Pilsener",4,4,"Kirin 120th Anniversary Pilsener",5,47391
-"764",292,"Kirin Brewery Company, Limited",1222677797,3.5,3,3.5,"Happoshu",3,3.5,"Kirin Smooth",4,45103
-"765",292,"Kirin Brewery Company, Limited",1309612993,3,3,2.5,"Euro Pale Lager",3,3,"Kirin Heartland",5.5,6379
-"766",292,"Kirin Brewery Company, Limited",1268689196,2,2,2.5,"Euro Pale Lager",2.5,2.5,"Kirin Heartland",5.5,6379
-"767",292,"Kirin Brewery Company, Limited",1246702868,4,3,4,"Euro Pale Lager",4,4,"Kirin Heartland",5.5,6379
-"768",292,"Kirin Brewery Company, Limited",1245363037,3,2.5,3,"Euro Pale Lager",3,2.5,"Kirin Heartland",5.5,6379
-"769",292,"Kirin Brewery Company, Limited",1238610778,3.5,4,3,"Euro Pale Lager",3.5,4,"Kirin Heartland",5.5,6379
-"770",292,"Kirin Brewery Company, Limited",1222509928,4,3.5,3,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
-"771",292,"Kirin Brewery Company, Limited",1200204578,4,2,2.5,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
-"772",292,"Kirin Brewery Company, Limited",1163701158,3,2.5,3,"Euro Pale Lager",2,2.5,"Kirin Heartland",5.5,6379
-"773",292,"Kirin Brewery Company, Limited",1138798921,2.5,2,2.5,"Euro Pale Lager",2.5,2,"Kirin Heartland",5.5,6379
-"774",292,"Kirin Brewery Company, Limited",1099712581,2.5,2.5,2.5,"Euro Pale Lager",2,2.5,"Kirin Heartland",5.5,6379
-"775",292,"Kirin Brewery Company, Limited",1086862488,4,2.5,3.5,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
-"776",292,"Kirin Brewery Company, Limited",1080734250,4,3,3.5,"Euro Pale Lager",3.5,3,"Kirin Heartland",5.5,6379
-"777",292,"Kirin Brewery Company, Limited",1222561250,3.5,3,3,"Czech Pilsener",3,3.5,"Kirin The Gold",4.5,37527
-"778",292,"Kirin Brewery Company, Limited",1197635593,4,3,2.5,"Czech Pilsener",3,3,"Kirin The Gold",4.5,37527
-"779",292,"Kirin Brewery Company, Limited",1183555089,4,4,3,"Czech Pilsener",3,3.5,"Kirin The Gold",4.5,37527
-"780",292,"Kirin Brewery Company, Limited",1238609910,3,3,3,"Happoshu",2,3,"Kirin Enjuku",6,28331
-"781",292,"Kirin Brewery Company, Limited",1223841343,4,3,2.5,"Happoshu",3,3,"Kirin Enjuku",6,28331
-"782",292,"Kirin Brewery Company, Limited",1222512883,3.5,3,3.5,"Happoshu",3.5,3,"Kirin Enjuku",6,28331
-"783",292,"Kirin Brewery Company, Limited",1202296365,1.5,1,3,"Happoshu",2,2,"Kirin Enjuku",6,28331
-"784",292,"Kirin Brewery Company, Limited",1180179067,4,3,3,"Happoshu",3,4,"Kirin Enjuku",6,28331
-"785",292,"Kirin Brewery Company, Limited",1159202154,2.5,2.5,3.5,"Happoshu",3,2,"Kirin Enjuku",6,28331
-"786",292,"Kirin Brewery Company, Limited",1042521177,4,4,4,"American Pale Lager",4,4,"Kirin Beer Shokunin",5.5,8040
-"787",292,"Kirin Brewery Company, Limited",1153413157,4.5,3.5,3.5,"Happoshu",4,4,"Kirin Enjuku",6,28331
-"788",292,"Kirin Brewery Company, Limited",1145010412,4.5,4,4,"Happoshu",3.5,4,"Kirin Enjuku",6,28331
-"789",292,"Kirin Brewery Company, Limited",1140094701,4,3,4,"Happoshu",4.5,3.5,"Kirin Enjuku",6,28331
-"790",292,"Kirin Brewery Company, Limited",1124723981,2,3,2,"Happoshu",1,1.5,"Kirin Refreshing",5,25404
-"791",292,"Kirin Brewery Company, Limited",1127836364,2,2,4,"Witbier",2,2,"Kirin White Ale",5,23158
-"792",292,"Kirin Brewery Company, Limited",1113550141,4,3.5,3.5,"Witbier",4,3.5,"Kirin White Ale",5,23158
-"793",292,"Kirin Brewery Company, Limited",1249635387,4.5,2,3,"Japanese Rice Lager",2,2,"Kirin Bar Beer",4.5,26317
-"794",292,"Kirin Brewery Company, Limited",1239175029,1.5,1.5,3,"Japanese Rice Lager",2,1,"Kirin Bar Beer",4.5,26317
-"795",292,"Kirin Brewery Company, Limited",1133097626,2.5,3,3,"Japanese Rice Lager",2.5,3,"Kirin Bar Beer",4.5,26317
-"796",292,"Kirin Brewery Company, Limited",1128954499,3,2,2,"Japanese Rice Lager",3,3,"Kirin Bar Beer",4.5,26317
-"797",292,"Kirin Brewery Company, Limited",1192390793,4.5,1.5,3,"Happoshu",3,3.5,"Kirin Tanrei Green Label",4.5,11969
-"798",292,"Kirin Brewery Company, Limited",1148997876,1.5,2,2,"Happoshu",2,1.5,"Kirin Tanrei Green Label",4.5,11969
-"799",292,"Kirin Brewery Company, Limited",1078556941,2,2,3.5,"Happoshu",2,2,"Kirin Tanrei Green Label",4.5,11969
-"800",292,"Kirin Brewery Company, Limited",1072174281,4,2,4,"Happoshu",1.5,2,"Kirin Tanrei Green Label",4.5,11969
-"801",292,"Kirin Brewery Company, Limited",1153451232,4.5,4,3.5,"English Bitter",4,4,"Kirin Hojun",5.5,18070
-"802",292,"Kirin Brewery Company, Limited",1131799154,4,3.5,3.5,"English Bitter",3,3.5,"Kirin Hojun",5.5,18070
-"803",292,"Kirin Brewery Company, Limited",1090738055,4,4.5,4.5,"English Bitter",3.5,4,"Kirin Hojun",5.5,18070
-"804",292,"Kirin Brewery Company, Limited",1087741862,3,4,4,"English Bitter",3.5,3.5,"Kirin Hojun",5.5,18070
-"805",292,"Kirin Brewery Company, Limited",1087663742,3,3,4,"English Bitter",3.5,3,"Kirin Hojun",5.5,18070
-"806",292,"Kirin Brewery Company, Limited",1165322613,4.5,3.5,4.5,"American Pale Lager",4,4,"Fukkoku Lager (Meiji)",5,34125
-"807",292,"Kirin Brewery Company, Limited",1222991324,2.5,3.5,3.5,"Euro Pale Lager",3.5,3,"Nippon Premium",5.5,42054
-"808",292,"Kirin Brewery Company, Limited",1207654830,3,3,2,"Euro Pale Lager",3.5,3.5,"Nippon Premium",5.5,42054
-"809",292,"Kirin Brewery Company, Limited",1202357183,4,3.5,4,"American Pale Wheat Ale",3.5,4,"Kirin Maroyaka Kobo",5,12907
-"810",292,"Kirin Brewery Company, Limited",1175851317,3.5,3,3,"American Pale Wheat Ale",3.5,3,"Kirin Maroyaka Kobo",5,12907
-"811",292,"Kirin Brewery Company, Limited",1150072566,4.5,4,4,"American Pale Wheat Ale",4,4,"Kirin Maroyaka Kobo",5,12907
-"812",292,"Kirin Brewery Company, Limited",1143305007,3.5,2.5,4,"American Pale Wheat Ale",3.5,3.5,"Kirin Maroyaka Kobo",5,12907
-"813",292,"Kirin Brewery Company, Limited",1136818618,4,3.5,5,"American Pale Wheat Ale",3.5,4,"Kirin Maroyaka Kobo",5,12907
-"814",292,"Kirin Brewery Company, Limited",1078560813,4,3.5,5,"American Pale Wheat Ale",3.5,3.5,"Kirin Maroyaka Kobo",5,12907
-"815",292,"Kirin Brewery Company, Limited",1064416401,4,4.5,3.5,"American Pale Wheat Ale",4,3.5,"Kirin Maroyaka Kobo",5,12907
-"816",292,"Kirin Brewery Company, Limited",1042613716,4,3,2,"Euro Dark Lager",2,3,"Kirin Kuronama Black Beer",NA,8062
-"817",292,"Kirin Brewery Company, Limited",1160611342,4,1.5,3,"Happoshu",3,4,"Kirin Tanrei Alpha Happoshu Beer",5.5,11971
-"818",292,"Kirin Brewery Company, Limited",1139876529,2,2,3,"Happoshu",2,1.5,"Kirin Tanrei Alpha Happoshu Beer",5.5,11971
-"819",292,"Kirin Brewery Company, Limited",1082641817,1.5,1.5,1.5,"Happoshu",2.5,2.5,"Kirin Tanrei Alpha Happoshu Beer",5.5,11971
-"820",292,"Kirin Brewery Company, Limited",1089794863,3,2,3,"Light Lager",3,3,"Kirin Lager Blue Label",5,18727
-"821",292,"Kirin Brewery Company, Limited",1100700597,4,2.5,4,"Milk / Sweet Stout",2,3,"Kirin Latte Stout",4,15547
-"822",292,"Kirin Brewery Company, Limited",1078233167,3,4,4.5,"Milk / Sweet Stout",3,3.5,"Kirin Latte Stout",4,15547
-"823",292,"Kirin Brewery Company, Limited",1076435239,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Kirin Latte Stout",4,15547
-"824",292,"Kirin Brewery Company, Limited",1175003983,5,4,4,"English Pale Ale",3.5,4,"Grand Ale",6,36099
-"825",292,"Kirin Brewery Company, Limited",1290967864,4.5,4,4,"American Malt Liquor",4.5,4,"Kirin Strong Seven",7,46576
-"826",292,"Kirin Brewery Company, Limited",1241436873,4,2,1.5,"American Malt Liquor",3,2.5,"Kirin Strong Seven",7,46576
-"827",292,"Kirin Brewery Company, Limited",1237086146,3,2,3.5,"American Malt Liquor",2.5,3,"Kirin Strong Seven",7,46576
-"828",292,"Kirin Brewery Company, Limited",1229141967,4,3.5,4,"American Malt Liquor",4,3,"Kirin Strong Seven",7,46576
-"829",292,"Kirin Brewery Company, Limited",1201607368,3,3,3.5,"Low Alcohol Beer",3.5,2,"Malt Squash",0.5,40783
-"830",292,"Kirin Brewery Company, Limited",1217841020,4.5,3.5,4,"Witbier",4.5,4.5,"The Premium White Beer",5.5,44055
-"831",292,"Kirin Brewery Company, Limited",1217597128,4.5,4,4.5,"Witbier",4,4.5,"The Premium White Beer",5.5,44055
-"832",292,"Kirin Brewery Company, Limited",1217501766,4.5,4,5,"Witbier",4.5,4,"The Premium White Beer",5.5,44055
-"833",292,"Kirin Brewery Company, Limited",1091374617,2,2.5,3.5,"Happoshu",2,2,"Kirin Komugi",5.5,18758
-"834",292,"Kirin Brewery Company, Limited",1089974532,2,1.5,3,"Happoshu",1.5,2,"Kirin Komugi",5.5,18758
-"835",292,"Kirin Brewery Company, Limited",1316170910,2.5,2.5,2.5,"Märzen / Oktoberfest",2.5,3,"Kirin Akiaji - Autumn Brew",6,12906
-"836",292,"Kirin Brewery Company, Limited",1315119824,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Kirin Akiaji - Autumn Brew",6,12906
-"837",292,"Kirin Brewery Company, Limited",1128441259,5,3.5,3,"Happoshu",4,4,"Kirin Gokunama Happoshu",5.5,10613
-"838",292,"Kirin Brewery Company, Limited",1260620135,3,3.5,2.5,"Märzen / Oktoberfest",3,4,"Kirin Akiaji - Autumn Brew",6,12906
-"839",292,"Kirin Brewery Company, Limited",1238608902,2.5,4,3,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
-"840",292,"Kirin Brewery Company, Limited",1223840987,4,3,2,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
-"841",292,"Kirin Brewery Company, Limited",1222507376,4,3.5,3,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
-"842",292,"Kirin Brewery Company, Limited",1221297914,2.5,2,3,"Märzen / Oktoberfest",3,2.5,"Kirin Akiaji - Autumn Brew",6,12906
-"843",292,"Kirin Brewery Company, Limited",1158658002,4,3,2.5,"Märzen / Oktoberfest",3.5,4,"Kirin Akiaji - Autumn Brew",6,12906
-"844",292,"Kirin Brewery Company, Limited",1139882234,3.5,3,2.5,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
-"845",292,"Kirin Brewery Company, Limited",1101298230,2.5,2.5,3,"Märzen / Oktoberfest",4,2.5,"Kirin Akiaji - Autumn Brew",6,12906
-"846",292,"Kirin Brewery Company, Limited",1245051121,3,3,4,"Happoshu",4,2,"Kirin Nodogoshi",5,25476
-"847",292,"Kirin Brewery Company, Limited",1222508058,3.5,3.5,3,"Happoshu",3,2.5,"Kirin Nodogoshi",5,25476
-"848",292,"Kirin Brewery Company, Limited",1229147393,3.5,3,3.5,"Happoshu",3,3,"Kirin Shirokirin",5.5,27465
-"849",292,"Kirin Brewery Company, Limited",1135345018,4,2.5,2,"Happoshu",3.5,2,"Kirin Shirokirin",5.5,27465
-"850",292,"Kirin Brewery Company, Limited",1056447146,3,2.5,3,"Happoshu",2.5,3,"Kirin Gokunama Happoshu",5.5,10613
-"851",292,"Kirin Brewery Company, Limited",1314495215,2.5,2.5,2.5,"Japanese Rice Lager",2.5,3,"Kirin Classic Lager",4.5,16067
-"852",292,"Kirin Brewery Company, Limited",1282650824,2.5,2.5,4,"Japanese Rice Lager",2,2.5,"Kirin Classic Lager",4.5,16067
-"853",292,"Kirin Brewery Company, Limited",1238609513,2.5,3.5,3,"Japanese Rice Lager",3,3.5,"Kirin Classic Lager",4.5,16067
-"854",292,"Kirin Brewery Company, Limited",1223552528,4,3,4,"Japanese Rice Lager",3,3,"Kirin Classic Lager",4.5,16067
-"855",292,"Kirin Brewery Company, Limited",1206857470,4,2,2,"Japanese Rice Lager",3.5,3.5,"Kirin Classic Lager",4.5,16067
-"856",292,"Kirin Brewery Company, Limited",1161505944,3,3,3,"Japanese Rice Lager",3,1.5,"Kirin Classic Lager",4.5,16067
-"857",292,"Kirin Brewery Company, Limited",1150712310,3,2,2.5,"Japanese Rice Lager",2,2.5,"Kirin Classic Lager",4.5,16067
-"858",292,"Kirin Brewery Company, Limited",1081519734,1.5,2,3,"Japanese Rice Lager",3.5,3,"Kirin Classic Lager",4.5,16067
-"859",292,"Kirin Brewery Company, Limited",1078053607,2,3,4,"Japanese Rice Lager",2,2,"Kirin Classic Lager",4.5,16067
-"860",292,"Kirin Brewery Company, Limited",1238496056,4.5,4,4,"Euro Pale Lager",5,4.5,"Kirin 120th Anniversary Lager",5,47389
-"861",292,"Kirin Brewery Company, Limited",1232353505,4.5,4,4,"Euro Pale Lager",4,4,"Kirin 120th Anniversary Lager",5,47389
+"1",292,"Kirin Brewery Company, Limited",1203133555,4,3,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"2",292,"Kirin Brewery Company, Limited",1224616995,1.5,1.5,1.5,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
+"3",292,"Kirin Brewery Company, Limited",1226278191,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"4",292,"Kirin Brewery Company, Limited",1117827393,3,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"5",292,"Kirin Brewery Company, Limited",1111089327,4,2.5,3.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
+"6",292,"Kirin Brewery Company, Limited",1104854258,2,2,2,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"7",292,"Kirin Brewery Company, Limited",1020190442,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"8",292,"Kirin Brewery Company, Limited",1005943041,2,1,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"9",292,"Kirin Brewery Company, Limited",998005356,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"10",292,"Kirin Brewery Company, Limited",1223841754,3,2.5,4,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"11",292,"Kirin Brewery Company, Limited",1191554105,2,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"12",292,"Kirin Brewery Company, Limited",1159938091,2.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"13",292,"Kirin Brewery Company, Limited",1159750534,4,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"14",292,"Kirin Brewery Company, Limited",1158878518,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"15",292,"Kirin Brewery Company, Limited",1322376991,2,2,1.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"16",292,"Kirin Brewery Company, Limited",1320227766,2.5,2,3,"Japanese Rice Lager",3,2,"Kirin Lager",4.9,807
+"17",292,"Kirin Brewery Company, Limited",1314779152,2.5,2,3,"Japanese Rice Lager",2,2.5,"Kirin Lager",4.9,807
+"18",292,"Kirin Brewery Company, Limited",1312331380,1.5,1.5,2,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
+"19",292,"Kirin Brewery Company, Limited",1300750146,2,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"20",292,"Kirin Brewery Company, Limited",1299343983,2,1.5,2,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
+"21",292,"Kirin Brewery Company, Limited",1294676258,2.5,2,2,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
+"22",292,"Kirin Brewery Company, Limited",1283403689,4,1.5,2,"Japanese Rice Lager",3,2,"Kirin Lager",4.9,807
+"23",292,"Kirin Brewery Company, Limited",1280451540,1.5,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"24",292,"Kirin Brewery Company, Limited",1242450593,3,1.5,2,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"25",292,"Kirin Brewery Company, Limited",1241192846,3.5,2.5,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
+"26",292,"Kirin Brewery Company, Limited",1237039932,2,1.5,3.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
+"27",292,"Kirin Brewery Company, Limited",1232355877,4,3,3,"Japanese Rice Lager",3,3.5,"Kirin Lager",4.9,807
+"28",292,"Kirin Brewery Company, Limited",1228061267,2.5,2.5,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
+"29",292,"Kirin Brewery Company, Limited",1221958279,3,3,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
+"30",292,"Kirin Brewery Company, Limited",1205798007,3.5,2.5,3,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
+"31",292,"Kirin Brewery Company, Limited",1150023782,3.5,2.5,4,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"32",292,"Kirin Brewery Company, Limited",1129725963,2,2,2.5,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
+"33",292,"Kirin Brewery Company, Limited",1129571943,2,1.5,2,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
+"34",292,"Kirin Brewery Company, Limited",1125792458,3,2.5,3,"Japanese Rice Lager",3,3,"Kirin Lager",4.9,807
+"35",292,"Kirin Brewery Company, Limited",1120413346,3,3,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
+"36",292,"Kirin Brewery Company, Limited",1106421366,3,2,2.5,"Japanese Rice Lager",1.5,2,"Kirin Lager",4.9,807
+"37",292,"Kirin Brewery Company, Limited",1099102818,1.5,1.5,3,"Japanese Rice Lager",1.5,1.5,"Kirin Lager",4.9,807
+"38",292,"Kirin Brewery Company, Limited",1092868478,2,2,2,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
+"39",292,"Kirin Brewery Company, Limited",1083849002,2,2,1.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"40",292,"Kirin Brewery Company, Limited",1082766263,2,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"41",292,"Kirin Brewery Company, Limited",1082659096,3,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"42",292,"Kirin Brewery Company, Limited",1079897027,2.5,2,2,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
+"43",292,"Kirin Brewery Company, Limited",1077711204,2,2.5,3,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"44",292,"Kirin Brewery Company, Limited",1075845337,4,3.5,2.5,"Japanese Rice Lager",4,3.5,"Kirin Lager",4.9,807
+"45",292,"Kirin Brewery Company, Limited",1074030484,2,2,2.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
+"46",292,"Kirin Brewery Company, Limited",1073611180,4,3,4,"Japanese Rice Lager",4,3.5,"Kirin Lager",4.9,807
+"47",292,"Kirin Brewery Company, Limited",1073454816,3.5,2.5,2,"Japanese Rice Lager",2.5,3,"Kirin Lager",4.9,807
+"48",292,"Kirin Brewery Company, Limited",1070861740,3.5,2.5,3,"Japanese Rice Lager",3.5,3,"Kirin Lager",4.9,807
+"49",292,"Kirin Brewery Company, Limited",1069552149,2.5,2,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"50",292,"Kirin Brewery Company, Limited",1069291968,1.5,1.5,2,"Japanese Rice Lager",3,1.5,"Kirin Lager",4.9,807
+"51",292,"Kirin Brewery Company, Limited",1068730133,2.5,2,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"52",292,"Kirin Brewery Company, Limited",1063000061,2,2,1.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"53",292,"Kirin Brewery Company, Limited",1061952872,3,2,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
+"54",292,"Kirin Brewery Company, Limited",1061698809,2.5,2.5,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"55",292,"Kirin Brewery Company, Limited",1060222126,2,2,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"56",292,"Kirin Brewery Company, Limited",1056553632,2.5,3,2,"Japanese Rice Lager",3,2.5,"Kirin Lager",4.9,807
+"57",292,"Kirin Brewery Company, Limited",1056536914,2.5,3,2,"Japanese Rice Lager",2.5,3,"Kirin Lager",4.9,807
+"58",292,"Kirin Brewery Company, Limited",1052568298,3,1.5,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"59",292,"Kirin Brewery Company, Limited",1045492483,2.5,2.5,3.5,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
+"60",292,"Kirin Brewery Company, Limited",1044539423,2,1.5,2.5,"Japanese Rice Lager",2,1.5,"Kirin Lager",4.9,807
+"61",292,"Kirin Brewery Company, Limited",1043299182,2.5,2,2.5,"Japanese Rice Lager",3.5,2,"Kirin Lager",4.9,807
+"62",292,"Kirin Brewery Company, Limited",1042693511,3,2,3.5,"Japanese Rice Lager",1.5,2,"Kirin Lager",4.9,807
+"63",292,"Kirin Brewery Company, Limited",984182401,2.5,3,2.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"64",292,"Kirin Brewery Company, Limited",1042678960,1,2,2.5,"Japanese Rice Lager",2,1,"Kirin Lager",4.9,807
+"65",292,"Kirin Brewery Company, Limited",1042074124,2.5,1.5,3.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"66",292,"Kirin Brewery Company, Limited",1040928434,2.5,2,3.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"67",292,"Kirin Brewery Company, Limited",1039634144,2,2.5,3.5,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"68",292,"Kirin Brewery Company, Limited",1038731276,3,2,3,"Japanese Rice Lager",2,2.5,"Kirin Lager",4.9,807
+"69",292,"Kirin Brewery Company, Limited",1028572290,1.5,2.5,2,"Japanese Rice Lager",3,1,"Kirin Lager",4.9,807
+"70",292,"Kirin Brewery Company, Limited",1025037791,2.5,1.5,2,"Japanese Rice Lager",2.5,2,"Kirin Lager",4.9,807
+"71",292,"Kirin Brewery Company, Limited",1023386652,2,2.5,3,"Japanese Rice Lager",2.5,2.5,"Kirin Lager",4.9,807
+"72",292,"Kirin Brewery Company, Limited",1022510381,3,2.5,2,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"73",292,"Kirin Brewery Company, Limited",1018314970,1.5,1,1,"Japanese Rice Lager",1,1,"Kirin Lager",4.9,807
+"74",292,"Kirin Brewery Company, Limited",1016837973,2.5,2,2.5,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"75",292,"Kirin Brewery Company, Limited",988643621,2,2,1,"Japanese Rice Lager",2,2,"Kirin Lager",4.9,807
+"76",292,"Kirin Brewery Company, Limited",1322140239,2,2,2,"Happoshu",2.5,1.5,"Kirin Tanrei",5,17982
+"77",292,"Kirin Brewery Company, Limited",1315140075,3,3.5,3.5,"Happoshu",4,3,"Kirin Tanrei",5,17982
+"78",292,"Kirin Brewery Company, Limited",1312147793,4,4.5,5,"Happoshu",2,4.5,"Kirin Tanrei",5,17982
+"79",292,"Kirin Brewery Company, Limited",1311549562,2,3,3,"Happoshu",2.5,1,"Kirin Tanrei",5,17982
+"80",292,"Kirin Brewery Company, Limited",1161609031,3.5,1.5,2.5,"Japanese Rice Lager",2,2.5,"Kirin Toretate Hop",5.5,26620
+"81",292,"Kirin Brewery Company, Limited",1309120151,2.5,2.5,2.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"82",292,"Kirin Brewery Company, Limited",1307589821,3,3.5,4,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"83",292,"Kirin Brewery Company, Limited",1304467636,2.5,2,3.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
+"84",292,"Kirin Brewery Company, Limited",1303905483,3,2.5,4,"Happoshu",3,2.5,"Kirin Tanrei",5,17982
+"85",292,"Kirin Brewery Company, Limited",1298460693,3,3,4,"Happoshu",3.5,3,"Kirin Tanrei",5,17982
+"86",292,"Kirin Brewery Company, Limited",1295719537,3,3.5,4,"Happoshu",2.5,3.5,"Kirin Tanrei",5,17982
+"87",292,"Kirin Brewery Company, Limited",1291859185,3.5,2.5,3,"Happoshu",3,3.5,"Kirin Tanrei",5,17982
+"88",292,"Kirin Brewery Company, Limited",1291569273,2,2,3,"Happoshu",3,2,"Kirin Tanrei",5,17982
+"89",292,"Kirin Brewery Company, Limited",1222506478,4.5,4,4,"American Pale Lager",4,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"90",292,"Kirin Brewery Company, Limited",1291409828,2,2,4,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
+"91",292,"Kirin Brewery Company, Limited",1291149157,1,3.5,4,"Happoshu",1.5,1,"Kirin Tanrei",5,17982
+"92",292,"Kirin Brewery Company, Limited",1291002043,2,2.5,3.5,"Happoshu",2,2,"Kirin Tanrei",5,17982
+"93",292,"Kirin Brewery Company, Limited",1290989229,3.5,3,3.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"94",292,"Kirin Brewery Company, Limited",1290982079,4,2,3.5,"Happoshu",3.5,3,"Kirin Tanrei",5,17982
+"95",292,"Kirin Brewery Company, Limited",1290932855,3,2,3.5,"Happoshu",2.5,2,"Kirin Tanrei",5,17982
+"96",292,"Kirin Brewery Company, Limited",1290580472,3.5,2.5,3,"Happoshu",3,2,"Kirin Tanrei",5,17982
+"97",292,"Kirin Brewery Company, Limited",1290575668,3,3,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"98",292,"Kirin Brewery Company, Limited",1290311874,4.5,3.5,3.5,"Happoshu",3.5,3.5,"Kirin Tanrei",5,17982
+"99",292,"Kirin Brewery Company, Limited",1280456500,3,3,3,"Happoshu",3,2.5,"Kirin Tanrei",5,17982
+"100",292,"Kirin Brewery Company, Limited",1276460612,3,3,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"101",292,"Kirin Brewery Company, Limited",1274205872,5,3.5,4,"Happoshu",3.5,3.5,"Kirin Tanrei",5,17982
+"102",292,"Kirin Brewery Company, Limited",1259459634,3,2.5,3,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"103",292,"Kirin Brewery Company, Limited",1254798718,3,2.5,2.5,"Happoshu",3,3,"Kirin Tanrei",5,17982
+"104",292,"Kirin Brewery Company, Limited",1222080323,4,2.5,2,"Happoshu",2,3,"Kirin Tanrei",5,17982
+"105",292,"Kirin Brewery Company, Limited",1221004844,2.5,2.5,2.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
+"106",292,"Kirin Brewery Company, Limited",1196499623,3,2,3,"Happoshu",2.5,3,"Kirin Tanrei",5,17982
+"107",292,"Kirin Brewery Company, Limited",1162983654,3,2.5,3.5,"Happoshu",2.5,2.5,"Kirin Tanrei",5,17982
+"108",292,"Kirin Brewery Company, Limited",1129043250,2.5,2.5,2.5,"Happoshu",2.5,2,"Kirin Tanrei",5,17982
+"109",292,"Kirin Brewery Company, Limited",1105542675,2.5,2.5,2.5,"Happoshu",2,2,"Kirin Tanrei",5,17982
+"110",292,"Kirin Brewery Company, Limited",1087351220,3.5,2.5,2.5,"Happoshu",2.5,3,"Kirin Tanrei",5,17982
+"111",292,"Kirin Brewery Company, Limited",1238610498,4.5,4,3.5,"Czech Pilsener",3.5,4,"Kirin Golden Hop",5,9831
+"112",292,"Kirin Brewery Company, Limited",1171022976,3.5,4,3.5,"Czech Pilsener",3,2.5,"Kirin Golden Hop",5,9831
+"113",292,"Kirin Brewery Company, Limited",1152600923,4,3.5,3.5,"Czech Pilsener",4,4,"Kirin Golden Hop",5,9831
+"114",292,"Kirin Brewery Company, Limited",1139925841,4,2.5,4.5,"Czech Pilsener",4,3,"Kirin Golden Hop",5,9831
+"115",292,"Kirin Brewery Company, Limited",1134307558,4,3.5,3.5,"Czech Pilsener",3,3.5,"Kirin Golden Hop",5,9831
+"116",292,"Kirin Brewery Company, Limited",1151455785,1,1,1.5,"Light Lager",1,1,"Kirin Light Beer",NA,5287
+"117",292,"Kirin Brewery Company, Limited",1312719857,3.5,3.5,4,"Foreign / Export Stout",3,3,"Kirin Stout",8,8908
+"118",292,"Kirin Brewery Company, Limited",1258688322,3.5,3,4.5,"Foreign / Export Stout",4,3,"Kirin Stout",8,8908
+"119",292,"Kirin Brewery Company, Limited",1256129568,3,2.5,2.5,"Foreign / Export Stout",2.5,3,"Kirin Stout",8,8908
+"120",292,"Kirin Brewery Company, Limited",1256122542,3,2.5,3,"Foreign / Export Stout",2.5,3,"Kirin Stout",8,8908
+"121",292,"Kirin Brewery Company, Limited",1232357881,4,3.5,4,"Foreign / Export Stout",4,4.5,"Kirin Stout",8,8908
+"122",292,"Kirin Brewery Company, Limited",1217714298,5,4.5,4.5,"Foreign / Export Stout",4.5,5,"Kirin Stout",8,8908
+"123",292,"Kirin Brewery Company, Limited",1216567896,5,4.5,4.5,"Foreign / Export Stout",4,4,"Kirin Stout",8,8908
+"124",292,"Kirin Brewery Company, Limited",1278128436,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"125",292,"Kirin Brewery Company, Limited",1186294313,4.5,4.5,4,"Foreign / Export Stout",4,4,"Kirin Stout",8,8908
+"126",292,"Kirin Brewery Company, Limited",1047364993,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Kirin Stout",8,8908
+"127",292,"Kirin Brewery Company, Limited",1238610165,3,3.5,3,"Happoshu",2.5,3,"Kirin Enjuku Kuro",6,37005
+"128",292,"Kirin Brewery Company, Limited",1223841538,4,3.5,3,"Happoshu",3.5,3,"Kirin Enjuku Kuro",6,37005
+"129",292,"Kirin Brewery Company, Limited",1221305383,3,2.5,3,"Happoshu",3,2.5,"Kirin Enjuku Kuro",6,37005
+"130",292,"Kirin Brewery Company, Limited",1202121943,4,1,2,"Happoshu",3,3.5,"Kirin Enjuku Kuro",6,37005
+"131",292,"Kirin Brewery Company, Limited",1180187037,4,4,4,"Happoshu",3,3.5,"Kirin Enjuku Kuro",6,37005
+"132",292,"Kirin Brewery Company, Limited",1322055042,2,2,2,"Japanese Rice Lager",2.5,2.5,"Kirin Toretate Hop",5.5,26620
+"133",292,"Kirin Brewery Company, Limited",1291903086,3,2.5,2.5,"Japanese Rice Lager",3.5,2.5,"Kirin Toretate Hop",5.5,26620
+"134",292,"Kirin Brewery Company, Limited",1261288759,4.5,3,3.5,"Japanese Rice Lager",4,4,"Kirin Toretate Hop",5.5,26620
+"135",292,"Kirin Brewery Company, Limited",1130505534,3,2.5,3,"Japanese Rice Lager",3,2,"Kirin Toretate Hop",5.5,26620
+"136",292,"Kirin Brewery Company, Limited",1130423315,2.5,2.5,2.5,"Japanese Rice Lager",2.5,3,"Kirin Toretate Hop",5.5,26620
+"137",292,"Kirin Brewery Company, Limited",1238609123,4.5,4,3.5,"Japanese Rice Lager",4,4,"Kirin Brau Meister",5.5,25438
+"138",292,"Kirin Brewery Company, Limited",1223837505,4,4,4,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
+"139",292,"Kirin Brewery Company, Limited",1219815398,4,3.5,4,"Japanese Rice Lager",3.5,4,"Kirin Brau Meister",5.5,25438
+"140",292,"Kirin Brewery Company, Limited",1216206223,4,3,4,"Japanese Rice Lager",4,4,"Kirin Brau Meister",5.5,25438
+"141",292,"Kirin Brewery Company, Limited",1152775590,3.5,4,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
+"142",292,"Kirin Brewery Company, Limited",1124813326,4,4,3.5,"Japanese Rice Lager",3.5,3.5,"Kirin Brau Meister",5.5,25438
+"143",292,"Kirin Brewery Company, Limited",1238611162,4.5,4,3.5,"American Pale Lager",3.5,4.5,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"144",292,"Kirin Brewery Company, Limited",1236898497,3.5,4,4,"American Pale Lager",3.5,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"145",292,"Kirin Brewery Company, Limited",1221309187,3.5,3.5,4,"American Pale Lager",4,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"146",292,"Kirin Brewery Company, Limited",1173606024,4,4.5,3.5,"American Pale Lager",4.5,4,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"147",292,"Kirin Brewery Company, Limited",1152626665,2.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"148",292,"Kirin Brewery Company, Limited",1151303819,3,3.5,3.5,"American Pale Lager",2,3,"Kirin Ichiban Shibori Muroka (Unfiltered)",5.5,28336
+"149",292,"Kirin Brewery Company, Limited",1324958780,2,2.5,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"150",292,"Kirin Brewery Company, Limited",1323828128,2.5,3,2.5,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
+"151",292,"Kirin Brewery Company, Limited",1318383229,1,1,1.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
+"152",292,"Kirin Brewery Company, Limited",1314638774,2,2,2,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
+"153",292,"Kirin Brewery Company, Limited",1314236677,3,3,3,"Light Lager",2.5,3,"Kirin Light Beer",NA,5287
+"154",292,"Kirin Brewery Company, Limited",1313350162,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"155",292,"Kirin Brewery Company, Limited",1312664836,3,3,3.5,"Light Lager",3,3,"Kirin Light Beer",NA,5287
+"156",292,"Kirin Brewery Company, Limited",1311144171,2,2.5,2.5,"Light Lager",3.5,2.5,"Kirin Light Beer",NA,5287
+"157",292,"Kirin Brewery Company, Limited",1308188987,2,2.5,1.5,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
+"158",292,"Kirin Brewery Company, Limited",1306143929,2.5,2.5,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"159",292,"Kirin Brewery Company, Limited",1304902102,1,1.5,3,"Light Lager",1,1,"Kirin Light Beer",NA,5287
+"160",292,"Kirin Brewery Company, Limited",1303773413,2,2,2,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
+"161",292,"Kirin Brewery Company, Limited",1303610382,1.5,1.5,2,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
+"162",292,"Kirin Brewery Company, Limited",1283998911,3,2.5,3.5,"Light Lager",3.5,2.5,"Kirin Light Beer",NA,5287
+"163",292,"Kirin Brewery Company, Limited",1278173863,3,3,3.5,"Light Lager",3.5,3,"Kirin Light Beer",NA,5287
+"164",292,"Kirin Brewery Company, Limited",1272590014,1.5,1,2.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
+"165",292,"Kirin Brewery Company, Limited",1264797982,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"166",292,"Kirin Brewery Company, Limited",1262880488,2.5,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"167",292,"Kirin Brewery Company, Limited",1277571343,4,3.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"168",292,"Kirin Brewery Company, Limited",1259100555,3.5,3,4,"Light Lager",2.5,3,"Kirin Light Beer",NA,5287
+"169",292,"Kirin Brewery Company, Limited",1257343073,2,2.5,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"170",292,"Kirin Brewery Company, Limited",1253701708,2.5,2.5,3,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
+"171",292,"Kirin Brewery Company, Limited",1252501267,2,2.5,2.5,"Light Lager",2.5,2,"Kirin Light Beer",NA,5287
+"172",292,"Kirin Brewery Company, Limited",1249147962,1.5,1.5,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
+"173",292,"Kirin Brewery Company, Limited",1248690206,3.5,1.5,2,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
+"174",292,"Kirin Brewery Company, Limited",1244674892,2,2,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"175",292,"Kirin Brewery Company, Limited",1230622051,2,2,2.5,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
+"176",292,"Kirin Brewery Company, Limited",1227109157,1,1.5,1.5,"Light Lager",1.5,1,"Kirin Light Beer",NA,5287
+"177",292,"Kirin Brewery Company, Limited",1221174259,3.5,2,3,"Light Lager",3,3,"Kirin Light Beer",NA,5287
+"178",292,"Kirin Brewery Company, Limited",1217522301,2,2,2.5,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
+"179",292,"Kirin Brewery Company, Limited",1215878066,1.5,2,2,"Light Lager",3,2,"Kirin Light Beer",NA,5287
+"180",292,"Kirin Brewery Company, Limited",1208552963,2,1.5,1.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"181",292,"Kirin Brewery Company, Limited",1205555042,1.5,2,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
+"182",292,"Kirin Brewery Company, Limited",1194303627,3.5,2,3,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
+"183",292,"Kirin Brewery Company, Limited",1185418192,3,2.5,3.5,"Light Lager",3.5,2,"Kirin Light Beer",NA,5287
+"184",292,"Kirin Brewery Company, Limited",1184512062,3.5,2.5,2.5,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
+"185",292,"Kirin Brewery Company, Limited",1183423357,3,3,2,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
+"186",292,"Kirin Brewery Company, Limited",1177347471,2,2,2.5,"Light Lager",2,2.5,"Kirin Light Beer",NA,5287
+"187",292,"Kirin Brewery Company, Limited",1163374088,2,2.5,2,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"188",292,"Kirin Brewery Company, Limited",1159483422,2,1,1.5,"Light Lager",2,1,"Kirin Light Beer",NA,5287
+"189",292,"Kirin Brewery Company, Limited",1148130610,1.5,2,2,"Light Lager",1,1.5,"Kirin Light Beer",NA,5287
+"190",292,"Kirin Brewery Company, Limited",1143169170,3,2.5,2.5,"Light Lager",3,3,"Kirin Light Beer",NA,5287
+"191",292,"Kirin Brewery Company, Limited",1117827734,3,2,1.5,"Light Lager",1,1.5,"Kirin Light Beer",NA,5287
+"192",292,"Kirin Brewery Company, Limited",1102209376,3.5,1.5,1.5,"Light Lager",1.5,2,"Kirin Light Beer",NA,5287
+"193",292,"Kirin Brewery Company, Limited",1078603165,2,2,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"194",292,"Kirin Brewery Company, Limited",1075846375,3,2,2,"Light Lager",3,2.5,"Kirin Light Beer",NA,5287
+"195",292,"Kirin Brewery Company, Limited",1062219730,2.5,2,2.5,"Light Lager",2,2,"Kirin Light Beer",NA,5287
+"196",292,"Kirin Brewery Company, Limited",1062030151,2,2.5,1,"Light Lager",2,1.5,"Kirin Light Beer",NA,5287
+"197",292,"Kirin Brewery Company, Limited",1056553704,1.5,2,2,"Light Lager",2,3,"Kirin Light Beer",NA,5287
+"198",292,"Kirin Brewery Company, Limited",1056537007,1.5,2,1.5,"Light Lager",1.5,1.5,"Kirin Light Beer",NA,5287
+"199",292,"Kirin Brewery Company, Limited",1045423212,2.5,2,2,"Light Lager",2.5,2.5,"Kirin Light Beer",NA,5287
+"200",292,"Kirin Brewery Company, Limited",1042129332,2.5,3,2,"Light Lager",2.5,2,"Kirin Light Beer",NA,5287
+"201",292,"Kirin Brewery Company, Limited",1028570993,2,2,2,"Light Lager",2.5,1.5,"Kirin Light Beer",NA,5287
+"202",292,"Kirin Brewery Company, Limited",1284692426,2.5,2,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"203",292,"Kirin Brewery Company, Limited",1284162439,2.5,1.5,4,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"204",292,"Kirin Brewery Company, Limited",1283654478,4.5,2,1,"American Pale Lager",1.5,3,"Kirin Ichiban",5,1249
+"205",292,"Kirin Brewery Company, Limited",1283065339,4,2,2.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
+"206",292,"Kirin Brewery Company, Limited",1282519849,1,1,5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"207",292,"Kirin Brewery Company, Limited",1282329082,3,2.5,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"208",292,"Kirin Brewery Company, Limited",1282285622,2,1.5,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"209",292,"Kirin Brewery Company, Limited",1282155537,2,3,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"210",292,"Kirin Brewery Company, Limited",1282079934,5,3.5,4,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"211",292,"Kirin Brewery Company, Limited",1281652135,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"212",292,"Kirin Brewery Company, Limited",1281471292,3.5,3,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"213",292,"Kirin Brewery Company, Limited",1281390834,3.5,3,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"214",292,"Kirin Brewery Company, Limited",1281388262,3.5,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"215",292,"Kirin Brewery Company, Limited",1281384108,4,3,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"216",292,"Kirin Brewery Company, Limited",1281243359,4.5,3.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"217",292,"Kirin Brewery Company, Limited",1281147109,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"218",292,"Kirin Brewery Company, Limited",1280504815,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"219",292,"Kirin Brewery Company, Limited",1280455540,2.5,3,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"220",292,"Kirin Brewery Company, Limited",1280370212,4.5,1,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"221",292,"Kirin Brewery Company, Limited",1279802111,2,2.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"222",292,"Kirin Brewery Company, Limited",1279764029,2.5,2.5,4,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"223",292,"Kirin Brewery Company, Limited",1279509161,3,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"224",292,"Kirin Brewery Company, Limited",1279311595,3,1.5,4,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
+"225",292,"Kirin Brewery Company, Limited",1278899209,2,2.5,4.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"226",292,"Kirin Brewery Company, Limited",1278838448,4,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"227",292,"Kirin Brewery Company, Limited",1277001983,4,2.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"228",292,"Kirin Brewery Company, Limited",1275381798,4,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"229",292,"Kirin Brewery Company, Limited",1274733545,3,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"230",292,"Kirin Brewery Company, Limited",1273848306,3.5,2,2,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"231",292,"Kirin Brewery Company, Limited",1273778137,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"232",292,"Kirin Brewery Company, Limited",1273023880,1,1.5,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
+"233",292,"Kirin Brewery Company, Limited",1272318977,3,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"234",292,"Kirin Brewery Company, Limited",1271045759,2.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"235",292,"Kirin Brewery Company, Limited",1269817909,4,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"236",292,"Kirin Brewery Company, Limited",1260582059,3,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"237",292,"Kirin Brewery Company, Limited",1268622403,3.5,2.5,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"238",292,"Kirin Brewery Company, Limited",1267377673,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"239",292,"Kirin Brewery Company, Limited",1266638823,3.5,1,1.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"240",292,"Kirin Brewery Company, Limited",1266282117,4,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"241",292,"Kirin Brewery Company, Limited",1265932699,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"242",292,"Kirin Brewery Company, Limited",1265866878,4,2.5,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"243",292,"Kirin Brewery Company, Limited",1265234019,2.5,2.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"244",292,"Kirin Brewery Company, Limited",1265163576,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"245",292,"Kirin Brewery Company, Limited",1260573305,2.5,2.5,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"246",292,"Kirin Brewery Company, Limited",1264806553,2,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"247",292,"Kirin Brewery Company, Limited",1264750777,2.5,2.5,4,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"248",292,"Kirin Brewery Company, Limited",1264018256,1.5,1.5,4,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"249",292,"Kirin Brewery Company, Limited",1263780461,2.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"250",292,"Kirin Brewery Company, Limited",1263419894,3.5,3,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"251",292,"Kirin Brewery Company, Limited",1263358074,2.5,1.5,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"252",292,"Kirin Brewery Company, Limited",1262309531,4,3,2.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"253",292,"Kirin Brewery Company, Limited",1261408318,4,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"254",292,"Kirin Brewery Company, Limited",1260959010,4,3,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"255",292,"Kirin Brewery Company, Limited",1252994289,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"256",292,"Kirin Brewery Company, Limited",1259984503,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"257",292,"Kirin Brewery Company, Limited",1259733230,3.5,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"258",292,"Kirin Brewery Company, Limited",1258990819,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"259",292,"Kirin Brewery Company, Limited",1258557584,1,3,3,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"260",292,"Kirin Brewery Company, Limited",1258548379,3,2.5,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"261",292,"Kirin Brewery Company, Limited",1256752308,1,1,2.5,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
+"262",292,"Kirin Brewery Company, Limited",1256077110,4,3,2,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"263",292,"Kirin Brewery Company, Limited",1254824826,3,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"264",292,"Kirin Brewery Company, Limited",1254681477,2.5,3,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"265",292,"Kirin Brewery Company, Limited",1253964132,3,4,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"266",292,"Kirin Brewery Company, Limited",1253732511,2.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"267",292,"Kirin Brewery Company, Limited",1252024263,3.5,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"268",292,"Kirin Brewery Company, Limited",1251675856,3.5,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"269",292,"Kirin Brewery Company, Limited",1251247638,3,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"270",292,"Kirin Brewery Company, Limited",1250953734,3.5,2.5,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"271",292,"Kirin Brewery Company, Limited",1249694724,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"272",292,"Kirin Brewery Company, Limited",1249685051,3.5,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"273",292,"Kirin Brewery Company, Limited",1249605395,3,3,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"274",292,"Kirin Brewery Company, Limited",1249411037,1.5,2,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"275",292,"Kirin Brewery Company, Limited",1248179584,2,2,2.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"276",292,"Kirin Brewery Company, Limited",1247365249,4,3.5,4,"American Pale Lager",4.5,4,"Kirin Ichiban",5,1249
+"277",292,"Kirin Brewery Company, Limited",1246914876,3,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"278",292,"Kirin Brewery Company, Limited",1246635325,3,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"279",292,"Kirin Brewery Company, Limited",1245836230,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"280",292,"Kirin Brewery Company, Limited",1245533976,1.5,1.5,2.5,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"281",292,"Kirin Brewery Company, Limited",1245011414,3,3,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"282",292,"Kirin Brewery Company, Limited",1244943977,4.5,3.5,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"283",292,"Kirin Brewery Company, Limited",1242643092,3.5,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"284",292,"Kirin Brewery Company, Limited",1241149075,4,2,2.5,"American Pale Lager",2.5,4,"Kirin Ichiban",5,1249
+"285",292,"Kirin Brewery Company, Limited",1241143304,3,2,2.5,"American Pale Lager",3.5,2,"Kirin Ichiban",5,1249
+"286",292,"Kirin Brewery Company, Limited",1238797652,2,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"287",292,"Kirin Brewery Company, Limited",1238507008,3.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"288",292,"Kirin Brewery Company, Limited",1232225701,3,2.5,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"289",292,"Kirin Brewery Company, Limited",1325987233,2.5,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"290",292,"Kirin Brewery Company, Limited",1238480614,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"291",292,"Kirin Brewery Company, Limited",1237854144,3.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"292",292,"Kirin Brewery Company, Limited",1237035691,1.5,2,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"293",292,"Kirin Brewery Company, Limited",1236800206,1.5,2,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"294",292,"Kirin Brewery Company, Limited",1236731738,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"295",292,"Kirin Brewery Company, Limited",1235831592,4,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"296",292,"Kirin Brewery Company, Limited",1235362426,3,3,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"297",292,"Kirin Brewery Company, Limited",1234813694,2.5,2.5,2.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
+"298",292,"Kirin Brewery Company, Limited",1234576161,4,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"299",292,"Kirin Brewery Company, Limited",1233197332,3.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"300",292,"Kirin Brewery Company, Limited",1232826533,3.5,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"301",292,"Kirin Brewery Company, Limited",1325737185,3.5,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"302",292,"Kirin Brewery Company, Limited",1325042730,3.5,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"303",292,"Kirin Brewery Company, Limited",1324957975,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"304",292,"Kirin Brewery Company, Limited",1324662348,2.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"305",292,"Kirin Brewery Company, Limited",1324131894,1,1,1,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"306",292,"Kirin Brewery Company, Limited",1323881127,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"307",292,"Kirin Brewery Company, Limited",1323368096,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"308",292,"Kirin Brewery Company, Limited",1323154753,3,4,4,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"309",292,"Kirin Brewery Company, Limited",1322415688,2.5,2.5,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"310",292,"Kirin Brewery Company, Limited",1231108880,2,2.5,3,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"311",292,"Kirin Brewery Company, Limited",1230837254,4,3.5,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"312",292,"Kirin Brewery Company, Limited",1230508911,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"313",292,"Kirin Brewery Company, Limited",1230435114,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"314",292,"Kirin Brewery Company, Limited",1229864192,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"315",292,"Kirin Brewery Company, Limited",1229560058,3,3,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"316",292,"Kirin Brewery Company, Limited",1229559282,3,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"317",292,"Kirin Brewery Company, Limited",1229553267,3,2.5,1.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"318",292,"Kirin Brewery Company, Limited",1229271316,2.5,3,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"319",292,"Kirin Brewery Company, Limited",1228929278,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"320",292,"Kirin Brewery Company, Limited",1228061395,3,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"321",292,"Kirin Brewery Company, Limited",1227728634,3,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"322",292,"Kirin Brewery Company, Limited",1227458583,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"323",292,"Kirin Brewery Company, Limited",1227240865,2,1.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"324",292,"Kirin Brewery Company, Limited",1226984979,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"325",292,"Kirin Brewery Company, Limited",1226778227,2.5,2.5,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"326",292,"Kirin Brewery Company, Limited",1225664215,2.5,2,2,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"327",292,"Kirin Brewery Company, Limited",1225526153,3,3,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"328",292,"Kirin Brewery Company, Limited",1224031097,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"329",292,"Kirin Brewery Company, Limited",1222959941,3,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"330",292,"Kirin Brewery Company, Limited",1221352858,2,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"331",292,"Kirin Brewery Company, Limited",1221009987,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"332",292,"Kirin Brewery Company, Limited",1220996066,2.5,2.5,3,"American Pale Lager",3.5,2,"Kirin Ichiban",5,1249
+"333",292,"Kirin Brewery Company, Limited",1220932314,3,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"334",292,"Kirin Brewery Company, Limited",1219604464,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"335",292,"Kirin Brewery Company, Limited",1219491281,3,3,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"336",292,"Kirin Brewery Company, Limited",1218524685,2,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"337",292,"Kirin Brewery Company, Limited",1218494286,1.5,2,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"338",292,"Kirin Brewery Company, Limited",1218225890,2,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"339",292,"Kirin Brewery Company, Limited",1218058998,2,3,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"340",292,"Kirin Brewery Company, Limited",1217953353,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"341",292,"Kirin Brewery Company, Limited",1217943021,4,4,2.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"342",292,"Kirin Brewery Company, Limited",1217652612,2.5,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"343",292,"Kirin Brewery Company, Limited",1217238371,4.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"344",292,"Kirin Brewery Company, Limited",1217137806,3,3,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"345",292,"Kirin Brewery Company, Limited",1216951768,2.5,2.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"346",292,"Kirin Brewery Company, Limited",1216892956,3.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"347",292,"Kirin Brewery Company, Limited",1216196032,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"348",292,"Kirin Brewery Company, Limited",1216165306,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"349",292,"Kirin Brewery Company, Limited",1215983455,3,3,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"350",292,"Kirin Brewery Company, Limited",1215495215,3.5,2,2.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"351",292,"Kirin Brewery Company, Limited",1215486156,4,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"352",292,"Kirin Brewery Company, Limited",1215288529,3,3.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"353",292,"Kirin Brewery Company, Limited",1215285163,4.5,4,4,"American Pale Lager",4,4.5,"Kirin Ichiban",5,1249
+"354",292,"Kirin Brewery Company, Limited",1214976515,4,2.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"355",292,"Kirin Brewery Company, Limited",1214867842,3,2.5,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"356",292,"Kirin Brewery Company, Limited",1214428415,3,2,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"357",292,"Kirin Brewery Company, Limited",1208912238,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"358",292,"Kirin Brewery Company, Limited",1214359782,3,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"359",292,"Kirin Brewery Company, Limited",1214066180,1,1,3,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"360",292,"Kirin Brewery Company, Limited",1213849253,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"361",292,"Kirin Brewery Company, Limited",1213139794,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"362",292,"Kirin Brewery Company, Limited",1212100204,2.5,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"363",292,"Kirin Brewery Company, Limited",1211953391,1.5,1.5,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"364",292,"Kirin Brewery Company, Limited",1211806676,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"365",292,"Kirin Brewery Company, Limited",1211726068,4,2.5,4.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"366",292,"Kirin Brewery Company, Limited",1210628557,1.5,1.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"367",292,"Kirin Brewery Company, Limited",1209517632,1.5,1.5,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"368",292,"Kirin Brewery Company, Limited",1208573998,2,2,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"369",292,"Kirin Brewery Company, Limited",1208552555,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"370",292,"Kirin Brewery Company, Limited",1207935553,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"371",292,"Kirin Brewery Company, Limited",1207548469,4,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"372",292,"Kirin Brewery Company, Limited",1207431074,2,1.5,3.5,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"373",292,"Kirin Brewery Company, Limited",1206678438,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"374",292,"Kirin Brewery Company, Limited",1205798238,3,3,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"375",292,"Kirin Brewery Company, Limited",1205692372,4.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"376",292,"Kirin Brewery Company, Limited",1204682988,2.5,2,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"377",292,"Kirin Brewery Company, Limited",1204326989,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"378",292,"Kirin Brewery Company, Limited",1203649119,2,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"379",292,"Kirin Brewery Company, Limited",1203554697,2.5,3.5,2.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"380",292,"Kirin Brewery Company, Limited",1203097707,4.5,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"381",292,"Kirin Brewery Company, Limited",1202845010,5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"382",292,"Kirin Brewery Company, Limited",1202420170,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"383",292,"Kirin Brewery Company, Limited",1201816610,3.5,3.5,4,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"384",292,"Kirin Brewery Company, Limited",1200411239,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"385",292,"Kirin Brewery Company, Limited",1200167049,2.5,1.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"386",292,"Kirin Brewery Company, Limited",1199412177,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"387",292,"Kirin Brewery Company, Limited",1199164709,4.5,3,1.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"388",292,"Kirin Brewery Company, Limited",1199159136,2,2,3,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"389",292,"Kirin Brewery Company, Limited",1198426401,1.5,1.5,1.5,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
+"390",292,"Kirin Brewery Company, Limited",1197778376,3.5,2,3.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"391",292,"Kirin Brewery Company, Limited",1196170009,2.5,2.5,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"392",292,"Kirin Brewery Company, Limited",1195699032,4,4,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"393",292,"Kirin Brewery Company, Limited",1195424893,2,2,2.5,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
+"394",292,"Kirin Brewery Company, Limited",1195262055,2,2,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"395",292,"Kirin Brewery Company, Limited",1195152204,2,3,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"396",292,"Kirin Brewery Company, Limited",1194948271,4,3,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"397",292,"Kirin Brewery Company, Limited",1194716410,2,2,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"398",292,"Kirin Brewery Company, Limited",1194489762,2.5,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"399",292,"Kirin Brewery Company, Limited",1194139442,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"400",292,"Kirin Brewery Company, Limited",1193617335,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"401",292,"Kirin Brewery Company, Limited",1193359053,2.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"402",292,"Kirin Brewery Company, Limited",1193112358,3.5,3.5,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"403",292,"Kirin Brewery Company, Limited",1193027286,2.5,2,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"404",292,"Kirin Brewery Company, Limited",1192251638,3.5,2.5,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"405",292,"Kirin Brewery Company, Limited",1191379211,2,3,2.5,"American Pale Lager",2,3.5,"Kirin Ichiban",5,1249
+"406",292,"Kirin Brewery Company, Limited",1189924559,3,3.5,4,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"407",292,"Kirin Brewery Company, Limited",1321247645,2,2,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"408",292,"Kirin Brewery Company, Limited",1319677075,1.5,1,2,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"409",292,"Kirin Brewery Company, Limited",1319676458,1.5,1.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"410",292,"Kirin Brewery Company, Limited",1319410268,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"411",292,"Kirin Brewery Company, Limited",1316894735,3.5,2.5,3,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"412",292,"Kirin Brewery Company, Limited",1315177549,2.5,1.5,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"413",292,"Kirin Brewery Company, Limited",1315125632,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"414",292,"Kirin Brewery Company, Limited",1314638250,2,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"415",292,"Kirin Brewery Company, Limited",1314394964,2.5,2,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"416",292,"Kirin Brewery Company, Limited",1314332764,2.5,3,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"417",292,"Kirin Brewery Company, Limited",1189636451,3,3,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"418",292,"Kirin Brewery Company, Limited",1189617522,3,3,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"419",292,"Kirin Brewery Company, Limited",1188615605,3,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"420",292,"Kirin Brewery Company, Limited",1188527015,3,2,3,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
+"421",292,"Kirin Brewery Company, Limited",1188015962,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"422",292,"Kirin Brewery Company, Limited",1186168881,2.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"423",292,"Kirin Brewery Company, Limited",1185525372,1,1.5,1.5,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
+"424",292,"Kirin Brewery Company, Limited",1185473923,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"425",292,"Kirin Brewery Company, Limited",1185254720,1.5,2,3,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"426",292,"Kirin Brewery Company, Limited",1184212290,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"427",292,"Kirin Brewery Company, Limited",1184034739,2.5,2,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"428",292,"Kirin Brewery Company, Limited",1183522030,4,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"429",292,"Kirin Brewery Company, Limited",1182893238,1.5,1,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"430",292,"Kirin Brewery Company, Limited",1182881751,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"431",292,"Kirin Brewery Company, Limited",1182639826,3,3,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"432",292,"Kirin Brewery Company, Limited",1182188637,4,4,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"433",292,"Kirin Brewery Company, Limited",1181817339,3.5,3,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"434",292,"Kirin Brewery Company, Limited",1180986499,3.5,2.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"435",292,"Kirin Brewery Company, Limited",1180831664,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"436",292,"Kirin Brewery Company, Limited",1179689619,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"437",292,"Kirin Brewery Company, Limited",1178553061,4,2,2.5,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
+"438",292,"Kirin Brewery Company, Limited",1178439705,3,2.5,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"439",292,"Kirin Brewery Company, Limited",1178075631,2.5,2.5,2,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"440",292,"Kirin Brewery Company, Limited",1176769470,3.5,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"441",292,"Kirin Brewery Company, Limited",1174436906,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"442",292,"Kirin Brewery Company, Limited",1174255581,3,2.5,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"443",292,"Kirin Brewery Company, Limited",1173056946,4,3,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"444",292,"Kirin Brewery Company, Limited",1172725439,4,2,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"445",292,"Kirin Brewery Company, Limited",1170122580,3.5,3.5,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"446",292,"Kirin Brewery Company, Limited",1169444936,1.5,1.5,2,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
+"447",292,"Kirin Brewery Company, Limited",1169418182,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"448",292,"Kirin Brewery Company, Limited",1168742943,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"449",292,"Kirin Brewery Company, Limited",1168741584,3,2,2,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"450",292,"Kirin Brewery Company, Limited",1168668259,3.5,4.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"451",292,"Kirin Brewery Company, Limited",1168480704,3.5,3,4,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"452",292,"Kirin Brewery Company, Limited",1167861684,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"453",292,"Kirin Brewery Company, Limited",1167617808,5,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"454",292,"Kirin Brewery Company, Limited",1167083846,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"455",292,"Kirin Brewery Company, Limited",1166302990,4.5,3.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"456",292,"Kirin Brewery Company, Limited",1164965218,3.5,3,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"457",292,"Kirin Brewery Company, Limited",1164494771,3,2,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"458",292,"Kirin Brewery Company, Limited",1163973475,3.5,4,3,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"459",292,"Kirin Brewery Company, Limited",1163618282,2.5,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"460",292,"Kirin Brewery Company, Limited",1163326385,2,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"461",292,"Kirin Brewery Company, Limited",1162400080,1.5,2,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"462",292,"Kirin Brewery Company, Limited",1161208513,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"463",292,"Kirin Brewery Company, Limited",1160600048,2.5,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"464",292,"Kirin Brewery Company, Limited",1160554683,2,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"465",292,"Kirin Brewery Company, Limited",1157845862,2.5,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"466",292,"Kirin Brewery Company, Limited",1157338454,4,3,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"467",292,"Kirin Brewery Company, Limited",1157138024,3.5,2,3,"American Pale Lager",3.5,1.5,"Kirin Ichiban",5,1249
+"468",292,"Kirin Brewery Company, Limited",1156981048,2,3,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"469",292,"Kirin Brewery Company, Limited",1156714830,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"470",292,"Kirin Brewery Company, Limited",1155958335,3.5,3.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"471",292,"Kirin Brewery Company, Limited",1155945184,2,2,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"472",292,"Kirin Brewery Company, Limited",1155686647,2.5,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"473",292,"Kirin Brewery Company, Limited",1155440249,3,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"474",292,"Kirin Brewery Company, Limited",1154312195,2,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"475",292,"Kirin Brewery Company, Limited",1152763941,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"476",292,"Kirin Brewery Company, Limited",1152646778,3,3,2,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"477",292,"Kirin Brewery Company, Limited",1152155959,3.5,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"478",292,"Kirin Brewery Company, Limited",1150534540,2,1.5,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"479",292,"Kirin Brewery Company, Limited",1147648299,4,3,3.5,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
+"480",292,"Kirin Brewery Company, Limited",1147461831,2,2,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"481",292,"Kirin Brewery Company, Limited",1146450900,3,3.5,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"482",292,"Kirin Brewery Company, Limited",1146372800,2.5,3,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"483",292,"Kirin Brewery Company, Limited",1146209097,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"484",292,"Kirin Brewery Company, Limited",1145129658,2,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"485",292,"Kirin Brewery Company, Limited",1145083353,3.5,2.5,2.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"486",292,"Kirin Brewery Company, Limited",1138232965,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"487",292,"Kirin Brewery Company, Limited",1144710668,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"488",292,"Kirin Brewery Company, Limited",1144709117,1,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"489",292,"Kirin Brewery Company, Limited",1144601141,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"490",292,"Kirin Brewery Company, Limited",1143660512,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"491",292,"Kirin Brewery Company, Limited",1143001441,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"492",292,"Kirin Brewery Company, Limited",1141522855,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"493",292,"Kirin Brewery Company, Limited",1141457702,4,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"494",292,"Kirin Brewery Company, Limited",1141307982,3.5,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"495",292,"Kirin Brewery Company, Limited",1140998688,2.5,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"496",292,"Kirin Brewery Company, Limited",1140921217,2.5,3,2.5,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"497",292,"Kirin Brewery Company, Limited",1140452851,3.5,3.5,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"498",292,"Kirin Brewery Company, Limited",1139928988,3,2.5,4,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"499",292,"Kirin Brewery Company, Limited",1139692613,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"500",292,"Kirin Brewery Company, Limited",1139199445,3,2.5,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"501",292,"Kirin Brewery Company, Limited",1139010495,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"502",292,"Kirin Brewery Company, Limited",1138868225,1.5,1.5,3,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"503",292,"Kirin Brewery Company, Limited",1138148077,2,1.5,1.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"504",292,"Kirin Brewery Company, Limited",1137512154,3,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"505",292,"Kirin Brewery Company, Limited",1137188101,2,2.5,3.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"506",292,"Kirin Brewery Company, Limited",1136772844,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"507",292,"Kirin Brewery Company, Limited",1136189053,3,2.5,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"508",292,"Kirin Brewery Company, Limited",1136002270,2,3,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"509",292,"Kirin Brewery Company, Limited",1135680238,1,1.5,4,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"510",292,"Kirin Brewery Company, Limited",1135560558,3,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"511",292,"Kirin Brewery Company, Limited",1134179286,1.5,2,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"512",292,"Kirin Brewery Company, Limited",1133659824,2.5,2.5,3.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"513",292,"Kirin Brewery Company, Limited",1133351115,3,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"514",292,"Kirin Brewery Company, Limited",1314237081,3.5,3.5,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"515",292,"Kirin Brewery Company, Limited",1311907111,2.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"516",292,"Kirin Brewery Company, Limited",1311683090,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"517",292,"Kirin Brewery Company, Limited",1311641964,2,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"518",292,"Kirin Brewery Company, Limited",1310332744,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"519",292,"Kirin Brewery Company, Limited",1309730942,2.5,3,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"520",292,"Kirin Brewery Company, Limited",1309387618,2,2.5,1.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"521",292,"Kirin Brewery Company, Limited",1309312446,2.5,2,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"522",292,"Kirin Brewery Company, Limited",1309067516,2,2.5,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"523",292,"Kirin Brewery Company, Limited",1308530400,2.5,2,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"524",292,"Kirin Brewery Company, Limited",1133305223,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"525",292,"Kirin Brewery Company, Limited",1132984072,1,1,1.5,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"526",292,"Kirin Brewery Company, Limited",1130627386,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"527",292,"Kirin Brewery Company, Limited",1128574172,1.5,2,2,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"528",292,"Kirin Brewery Company, Limited",1127925557,4,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"529",292,"Kirin Brewery Company, Limited",1127641500,4,3.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"530",292,"Kirin Brewery Company, Limited",1127423940,3,3,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"531",292,"Kirin Brewery Company, Limited",1127414609,3,2.5,2,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"532",292,"Kirin Brewery Company, Limited",1126130735,4,2.5,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"533",292,"Kirin Brewery Company, Limited",1126048739,3.5,3,3.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"534",292,"Kirin Brewery Company, Limited",1125685891,2,2,4,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"535",292,"Kirin Brewery Company, Limited",1125202785,3.5,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"536",292,"Kirin Brewery Company, Limited",1125072583,3,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"537",292,"Kirin Brewery Company, Limited",1123203066,3,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"538",292,"Kirin Brewery Company, Limited",1122928591,2.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"539",292,"Kirin Brewery Company, Limited",1121148266,1.5,2,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
+"540",292,"Kirin Brewery Company, Limited",1117148430,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"541",292,"Kirin Brewery Company, Limited",1115988147,1.5,3.5,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"542",292,"Kirin Brewery Company, Limited",1115638986,4,1,2,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
+"543",292,"Kirin Brewery Company, Limited",1114750283,2.5,1.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"544",292,"Kirin Brewery Company, Limited",1113885010,3,1.5,2,"American Pale Lager",2,3.5,"Kirin Ichiban",5,1249
+"545",292,"Kirin Brewery Company, Limited",1113678356,2.5,2,1.5,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
+"546",292,"Kirin Brewery Company, Limited",1113011141,3.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"547",292,"Kirin Brewery Company, Limited",1112321624,2.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"548",292,"Kirin Brewery Company, Limited",1111552311,2.5,2.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"549",292,"Kirin Brewery Company, Limited",1111084930,3.5,3.5,4.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"550",292,"Kirin Brewery Company, Limited",1110899981,3,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"551",292,"Kirin Brewery Company, Limited",1110640669,2.5,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"552",292,"Kirin Brewery Company, Limited",1109708910,4,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"553",292,"Kirin Brewery Company, Limited",1109278655,3,2.5,4,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"554",292,"Kirin Brewery Company, Limited",1108612960,3,3.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"555",292,"Kirin Brewery Company, Limited",1108286262,4,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"556",292,"Kirin Brewery Company, Limited",1106795885,2,3,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"557",292,"Kirin Brewery Company, Limited",1106127293,4.5,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"558",292,"Kirin Brewery Company, Limited",1100975400,3,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"559",292,"Kirin Brewery Company, Limited",1100448390,2.5,2.5,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"560",292,"Kirin Brewery Company, Limited",1099884508,3,2.5,2.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"561",292,"Kirin Brewery Company, Limited",1098828142,2,2.5,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"562",292,"Kirin Brewery Company, Limited",1098142496,2.5,3.5,3.5,"American Pale Lager",4,2.5,"Kirin Ichiban",5,1249
+"563",292,"Kirin Brewery Company, Limited",1097888432,2.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"564",292,"Kirin Brewery Company, Limited",1097514279,2,2,3,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"565",292,"Kirin Brewery Company, Limited",1097409958,3.5,3,3,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"566",292,"Kirin Brewery Company, Limited",1097285049,1.5,1.5,2,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
+"567",292,"Kirin Brewery Company, Limited",1097017683,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"568",292,"Kirin Brewery Company, Limited",1096386762,3,3,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"569",292,"Kirin Brewery Company, Limited",1095511807,3.5,3,3,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
+"570",292,"Kirin Brewery Company, Limited",1094547804,1.5,1.5,2,"American Pale Lager",2.5,1.5,"Kirin Ichiban",5,1249
+"571",292,"Kirin Brewery Company, Limited",1094308078,2.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"572",292,"Kirin Brewery Company, Limited",1094078317,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"573",292,"Kirin Brewery Company, Limited",1092722789,3,2,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"574",292,"Kirin Brewery Company, Limited",1092436457,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"575",292,"Kirin Brewery Company, Limited",1087276075,3,2,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"576",292,"Kirin Brewery Company, Limited",1086875487,3,3.5,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"577",292,"Kirin Brewery Company, Limited",1084520543,2,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"578",292,"Kirin Brewery Company, Limited",1084305833,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"579",292,"Kirin Brewery Company, Limited",1082657831,1.5,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"580",292,"Kirin Brewery Company, Limited",1305007178,2.5,2,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"581",292,"Kirin Brewery Company, Limited",1082591773,2.5,2.5,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"582",292,"Kirin Brewery Company, Limited",1079877406,2,2,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"583",292,"Kirin Brewery Company, Limited",1078637162,3.5,2,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"584",292,"Kirin Brewery Company, Limited",1078190802,3.5,3.5,4,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"585",292,"Kirin Brewery Company, Limited",1077428000,2,2,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"586",292,"Kirin Brewery Company, Limited",1075845963,3.5,2.5,2.5,"American Pale Lager",4.5,3.5,"Kirin Ichiban",5,1249
+"587",292,"Kirin Brewery Company, Limited",1075127623,3,3.5,2.5,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"588",292,"Kirin Brewery Company, Limited",1075058986,1.5,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"589",292,"Kirin Brewery Company, Limited",1074219895,3.5,2.5,3,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"590",292,"Kirin Brewery Company, Limited",1072041328,4,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"591",292,"Kirin Brewery Company, Limited",1071784141,2,1.5,3,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"592",292,"Kirin Brewery Company, Limited",1071732423,3,2,2,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"593",292,"Kirin Brewery Company, Limited",1071537669,2,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"594",292,"Kirin Brewery Company, Limited",1068814998,2.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"595",292,"Kirin Brewery Company, Limited",1068750858,3.5,2.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"596",292,"Kirin Brewery Company, Limited",1067297074,2.5,2,2.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"597",292,"Kirin Brewery Company, Limited",1066277182,2.5,2,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"598",292,"Kirin Brewery Company, Limited",1065197106,3,2.5,3.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"599",292,"Kirin Brewery Company, Limited",1063853393,4,3,4,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"600",292,"Kirin Brewery Company, Limited",1222679582,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"601",292,"Kirin Brewery Company, Limited",1062460368,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"602",292,"Kirin Brewery Company, Limited",1062047374,2,1.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"603",292,"Kirin Brewery Company, Limited",1061952706,3.5,2,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"604",292,"Kirin Brewery Company, Limited",1059973628,2,1.5,1.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"605",292,"Kirin Brewery Company, Limited",1059931576,3,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"606",292,"Kirin Brewery Company, Limited",1059062081,1,1,3.5,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
+"607",292,"Kirin Brewery Company, Limited",1057081556,2,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"608",292,"Kirin Brewery Company, Limited",1056270954,1.5,3.5,3,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"609",292,"Kirin Brewery Company, Limited",1055326786,1.5,2,2.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"610",292,"Kirin Brewery Company, Limited",1054316622,1.5,2,3,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
+"611",292,"Kirin Brewery Company, Limited",1052674405,2,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"612",292,"Kirin Brewery Company, Limited",1052102644,2,2.5,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"613",292,"Kirin Brewery Company, Limited",1049991119,2.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"614",292,"Kirin Brewery Company, Limited",1048689294,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"615",292,"Kirin Brewery Company, Limited",1047804814,2.5,2,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"616",292,"Kirin Brewery Company, Limited",1046264737,4,3,3,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"617",292,"Kirin Brewery Company, Limited",1043859251,3.5,3,2.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"618",292,"Kirin Brewery Company, Limited",1043061875,4,4,3.5,"American Pale Lager",3.5,4,"Kirin Ichiban",5,1249
+"619",292,"Kirin Brewery Company, Limited",1042746705,2,2,2,"American Pale Lager",1.5,1,"Kirin Ichiban",5,1249
+"620",292,"Kirin Brewery Company, Limited",1041223856,2.5,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"621",292,"Kirin Brewery Company, Limited",1041134078,3,2,3,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"622",292,"Kirin Brewery Company, Limited",1040384229,3,2,3,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"623",292,"Kirin Brewery Company, Limited",1308188832,3.5,3.5,2,"American Pale Lager",3.5,3.5,"Kirin Ichiban",5,1249
+"624",292,"Kirin Brewery Company, Limited",1308082018,2,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"625",292,"Kirin Brewery Company, Limited",1307829490,2,1.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"626",292,"Kirin Brewery Company, Limited",1306356332,3,3,3.5,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"627",292,"Kirin Brewery Company, Limited",1306295831,2.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"628",292,"Kirin Brewery Company, Limited",1306143749,1.5,1.5,3.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"629",292,"Kirin Brewery Company, Limited",1305899868,3,3,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"630",292,"Kirin Brewery Company, Limited",1305687177,4,3.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"631",292,"Kirin Brewery Company, Limited",1305344040,2.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"632",292,"Kirin Brewery Company, Limited",1305218488,1,1,1.5,"American Pale Lager",1,1.5,"Kirin Ichiban",5,1249
+"633",292,"Kirin Brewery Company, Limited",1037215648,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"634",292,"Kirin Brewery Company, Limited",1037121694,1.5,1,3.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"635",292,"Kirin Brewery Company, Limited",1036741546,1.5,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"636",292,"Kirin Brewery Company, Limited",1034409964,3,1.5,1.5,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"637",292,"Kirin Brewery Company, Limited",1034266184,2.5,2.5,2.5,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"638",292,"Kirin Brewery Company, Limited",1029740441,3,1.5,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"639",292,"Kirin Brewery Company, Limited",1029585456,1.5,1,4,"American Pale Lager",3.5,1.5,"Kirin Ichiban",5,1249
+"640",292,"Kirin Brewery Company, Limited",1028711613,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"641",292,"Kirin Brewery Company, Limited",1028557773,2,1.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"642",292,"Kirin Brewery Company, Limited",1025471513,1,1,1,"American Pale Lager",1,1,"Kirin Ichiban",5,1249
+"643",292,"Kirin Brewery Company, Limited",1023386254,3,3,3,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"644",292,"Kirin Brewery Company, Limited",1304378943,2,2.5,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"645",292,"Kirin Brewery Company, Limited",1304344119,2.5,2.5,3.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"646",292,"Kirin Brewery Company, Limited",1304164078,2,2.5,3.5,"American Pale Lager",1.5,1.5,"Kirin Ichiban",5,1249
+"647",292,"Kirin Brewery Company, Limited",1303781957,3,2.5,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"648",292,"Kirin Brewery Company, Limited",1303095983,3,2,3.5,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"649",292,"Kirin Brewery Company, Limited",1302979192,3,3,3.5,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"650",292,"Kirin Brewery Company, Limited",1302914864,3,3,4,"American Pale Lager",2,3,"Kirin Ichiban",5,1249
+"651",292,"Kirin Brewery Company, Limited",1302383458,3.5,2.5,3.5,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"652",292,"Kirin Brewery Company, Limited",1301883572,2.5,2,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"653",292,"Kirin Brewery Company, Limited",1298219336,4.5,4,4,"American Pale Lager",4,4,"Kirin Ichiban",5,1249
+"654",292,"Kirin Brewery Company, Limited",1301857998,4,3,3.5,"American Pale Lager",4,3,"Kirin Ichiban",5,1249
+"655",292,"Kirin Brewery Company, Limited",1300566009,2.5,3,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"656",292,"Kirin Brewery Company, Limited",1300339730,1.5,1.5,3,"American Pale Lager",2,1,"Kirin Ichiban",5,1249
+"657",292,"Kirin Brewery Company, Limited",1300328502,2,2.5,2.5,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"658",292,"Kirin Brewery Company, Limited",1299092232,3,2,2,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"659",292,"Kirin Brewery Company, Limited",1298558460,2.5,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"660",292,"Kirin Brewery Company, Limited",1298418622,3,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"661",292,"Kirin Brewery Company, Limited",1298030029,4,2,4,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"662",292,"Kirin Brewery Company, Limited",1297658712,5,3,1,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"663",292,"Kirin Brewery Company, Limited",1297608777,3.5,3.5,3.5,"American Pale Lager",4,3.5,"Kirin Ichiban",5,1249
+"664",292,"Kirin Brewery Company, Limited",1296842277,2.5,2,3,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"665",292,"Kirin Brewery Company, Limited",1296740954,3,2,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"666",292,"Kirin Brewery Company, Limited",1296714644,3,2.5,2,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"667",292,"Kirin Brewery Company, Limited",1296699406,3,2.5,2.5,"American Pale Lager",3,2.5,"Kirin Ichiban",5,1249
+"668",292,"Kirin Brewery Company, Limited",1296256447,2,2,3.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"669",292,"Kirin Brewery Company, Limited",1295792188,3.5,3,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"670",292,"Kirin Brewery Company, Limited",1295630783,2,2,2,"American Pale Lager",2,1.5,"Kirin Ichiban",5,1249
+"671",292,"Kirin Brewery Company, Limited",1294810384,3,2,4,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"672",292,"Kirin Brewery Company, Limited",1294666821,3.5,3,3,"American Pale Lager",3.5,3,"Kirin Ichiban",5,1249
+"673",292,"Kirin Brewery Company, Limited",1294626025,2,2,2.5,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"674",292,"Kirin Brewery Company, Limited",1294277692,2,3,4,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"675",292,"Kirin Brewery Company, Limited",1294017591,3.5,2.5,2.5,"American Pale Lager",2.5,3.5,"Kirin Ichiban",5,1249
+"676",292,"Kirin Brewery Company, Limited",1293755078,2.5,3.5,2.5,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"677",292,"Kirin Brewery Company, Limited",1293639924,3.5,2.5,3,"American Pale Lager",3.5,2.5,"Kirin Ichiban",5,1249
+"678",292,"Kirin Brewery Company, Limited",1293396971,3,2,2.5,"American Pale Lager",2.5,2,"Kirin Ichiban",5,1249
+"679",292,"Kirin Brewery Company, Limited",1292620956,2,2.5,2,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"680",292,"Kirin Brewery Company, Limited",1291542460,2.5,3,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"681",292,"Kirin Brewery Company, Limited",1291502464,2.5,2,4,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"682",292,"Kirin Brewery Company, Limited",1290649488,4.5,2.5,3,"American Pale Lager",3,3.5,"Kirin Ichiban",5,1249
+"683",292,"Kirin Brewery Company, Limited",1290437851,3,2,2,"American Pale Lager",2,2,"Kirin Ichiban",5,1249
+"684",292,"Kirin Brewery Company, Limited",1290134502,3.5,2.5,2.5,"American Pale Lager",2,2.5,"Kirin Ichiban",5,1249
+"685",292,"Kirin Brewery Company, Limited",1289104247,2.5,2,2.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"686",292,"Kirin Brewery Company, Limited",1289082629,2,2.5,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"687",292,"Kirin Brewery Company, Limited",1288985427,2.5,3,2,"American Pale Lager",2.5,3,"Kirin Ichiban",5,1249
+"688",292,"Kirin Brewery Company, Limited",1288828975,1.5,2.5,2.5,"American Pale Lager",1.5,2,"Kirin Ichiban",5,1249
+"689",292,"Kirin Brewery Company, Limited",1286513069,2,1.5,3,"American Pale Lager",3,3,"Kirin Ichiban",5,1249
+"690",292,"Kirin Brewery Company, Limited",1285920190,2,2,2,"American Pale Lager",3,1.5,"Kirin Ichiban",5,1249
+"691",292,"Kirin Brewery Company, Limited",1285390850,2.5,2.5,3,"American Pale Lager",3,2,"Kirin Ichiban",5,1249
+"692",292,"Kirin Brewery Company, Limited",1284864610,2,3,3.5,"American Pale Lager",2.5,2.5,"Kirin Ichiban",5,1249
+"693",292,"Kirin Brewery Company, Limited",1317609601,3.5,3.5,3,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"694",292,"Kirin Brewery Company, Limited",1316606284,3.5,3.5,3,"Schwarzbier",4,4,"Kirin Ichiban Shibori Stout",5,39541
+"695",292,"Kirin Brewery Company, Limited",1303656496,3,3,3.5,"Schwarzbier",3,3,"Kirin Ichiban Shibori Stout",5,39541
+"696",292,"Kirin Brewery Company, Limited",1298373073,3,3,2,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"697",292,"Kirin Brewery Company, Limited",1251497419,1.5,3.5,3.5,"Schwarzbier",1.5,1.5,"Kirin Ichiban Shibori Stout",5,39541
+"698",292,"Kirin Brewery Company, Limited",1249318696,4,3.5,4,"Schwarzbier",3.5,4,"Kirin Ichiban Shibori Stout",5,39541
+"699",292,"Kirin Brewery Company, Limited",1246645286,4,3,4,"Schwarzbier",4,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"700",292,"Kirin Brewery Company, Limited",1244199313,4,3,3.5,"Schwarzbier",3,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"701",292,"Kirin Brewery Company, Limited",1230713501,4.5,4,4.5,"Schwarzbier",4,4.5,"Kirin Ichiban Shibori Stout",5,39541
+"702",292,"Kirin Brewery Company, Limited",1216207051,4,4.5,4,"Schwarzbier",3,5,"Kirin Ichiban Shibori Stout",5,39541
+"703",292,"Kirin Brewery Company, Limited",1190531781,3,3,2.5,"Schwarzbier",2.5,3.5,"Kirin Ichiban Shibori Stout",5,39541
+"704",292,"Kirin Brewery Company, Limited",1194597650,4.5,4,3.5,"Schwarzbier",4.5,3,"Kirin Ichiban Shibori Stout",5,39541
+"705",292,"Kirin Brewery Company, Limited",1266906024,4,3.5,4,"Happoshu",4,3,"Sparkling Hop",5,40030
+"706",292,"Kirin Brewery Company, Limited",1255739205,4,3.5,4,"Happoshu",3,2,"Sparkling Hop",5,40030
+"707",292,"Kirin Brewery Company, Limited",1250560717,3.5,3,3,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
+"708",292,"Kirin Brewery Company, Limited",1253803804,2.5,3,3.5,"Happoshu",2.5,2.5,"Sparkling Hop",5,40030
+"709",292,"Kirin Brewery Company, Limited",1252972006,3,3,4,"Happoshu",3,3,"Sparkling Hop",5,40030
+"710",292,"Kirin Brewery Company, Limited",1252808105,3.5,3,3,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
+"711",292,"Kirin Brewery Company, Limited",1252552748,3,2.5,3,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"712",292,"Kirin Brewery Company, Limited",1251154495,2.5,3.5,3.5,"Happoshu",3.5,2.5,"Sparkling Hop",5,40030
+"713",292,"Kirin Brewery Company, Limited",1251149505,3,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"714",292,"Kirin Brewery Company, Limited",1244419829,3,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"715",292,"Kirin Brewery Company, Limited",1244161378,4,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"716",292,"Kirin Brewery Company, Limited",1241734326,2,1.5,3,"Happoshu",1,2,"Sparkling Hop",5,40030
+"717",292,"Kirin Brewery Company, Limited",1240664085,3.5,3,3,"Happoshu",3,3,"Sparkling Hop",5,40030
+"718",292,"Kirin Brewery Company, Limited",1239419809,3.5,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"719",292,"Kirin Brewery Company, Limited",1239419720,3,2,2.5,"Happoshu",2.5,3,"Sparkling Hop",5,40030
+"720",292,"Kirin Brewery Company, Limited",1237858302,2.5,3,3.5,"Happoshu",2.5,2.5,"Sparkling Hop",5,40030
+"721",292,"Kirin Brewery Company, Limited",1237603357,3.5,3,3,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"722",292,"Kirin Brewery Company, Limited",1237177419,3,3.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"723",292,"Kirin Brewery Company, Limited",1236999931,3,2.5,3.5,"Happoshu",3,3,"Sparkling Hop",5,40030
+"724",292,"Kirin Brewery Company, Limited",1236996442,3.5,3,3.5,"Happoshu",3,3.5,"Sparkling Hop",5,40030
+"725",292,"Kirin Brewery Company, Limited",1234942312,1.5,2,3,"Happoshu",2,2,"Sparkling Hop",5,40030
+"726",292,"Kirin Brewery Company, Limited",1234405902,4,3,4,"Happoshu",3,3,"Sparkling Hop",5,40030
+"727",292,"Kirin Brewery Company, Limited",1231809329,4,3,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"728",292,"Kirin Brewery Company, Limited",1231768472,3.5,3.5,4,"Happoshu",3,3,"Sparkling Hop",5,40030
+"729",292,"Kirin Brewery Company, Limited",1231556239,2.5,3,4,"Happoshu",4,3,"Sparkling Hop",5,40030
+"730",292,"Kirin Brewery Company, Limited",1231373606,3.5,3.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"731",292,"Kirin Brewery Company, Limited",1231354141,3,3,3,"Happoshu",3,3,"Sparkling Hop",5,40030
+"732",292,"Kirin Brewery Company, Limited",1230606924,3.5,2.5,4,"Happoshu",3,3,"Sparkling Hop",5,40030
+"733",292,"Kirin Brewery Company, Limited",1224462538,3,2.5,3.5,"Happoshu",3.5,3,"Sparkling Hop",5,40030
+"734",292,"Kirin Brewery Company, Limited",1223842018,4,2.5,3,"Happoshu",4,3.5,"Sparkling Hop",5,40030
+"735",292,"Kirin Brewery Company, Limited",1222510404,4,3,3,"Happoshu",3,3.5,"Sparkling Hop",5,40030
+"736",292,"Kirin Brewery Company, Limited",1222379408,3.5,3.5,3.5,"Happoshu",3.5,3.5,"Sparkling Hop",5,40030
+"737",292,"Kirin Brewery Company, Limited",1202955854,4.5,3.5,3.5,"Happoshu",3,4,"Sparkling Hop",5,40030
+"738",292,"Kirin Brewery Company, Limited",1197464236,4.5,3.5,4,"Happoshu",3.5,4,"Sparkling Hop",5,40030
+"739",292,"Kirin Brewery Company, Limited",1309612993,3,3,2.5,"Euro Pale Lager",3,3,"Kirin Heartland",5.5,6379
+"740",292,"Kirin Brewery Company, Limited",1268689196,2,2,2.5,"Euro Pale Lager",2.5,2.5,"Kirin Heartland",5.5,6379
+"741",292,"Kirin Brewery Company, Limited",1246702868,4,3,4,"Euro Pale Lager",4,4,"Kirin Heartland",5.5,6379
+"742",292,"Kirin Brewery Company, Limited",1245363037,3,2.5,3,"Euro Pale Lager",3,2.5,"Kirin Heartland",5.5,6379
+"743",292,"Kirin Brewery Company, Limited",1238610778,3.5,4,3,"Euro Pale Lager",3.5,4,"Kirin Heartland",5.5,6379
+"744",292,"Kirin Brewery Company, Limited",1222509928,4,3.5,3,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
+"745",292,"Kirin Brewery Company, Limited",1200204578,4,2,2.5,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
+"746",292,"Kirin Brewery Company, Limited",1163701158,3,2.5,3,"Euro Pale Lager",2,2.5,"Kirin Heartland",5.5,6379
+"747",292,"Kirin Brewery Company, Limited",1138798921,2.5,2,2.5,"Euro Pale Lager",2.5,2,"Kirin Heartland",5.5,6379
+"748",292,"Kirin Brewery Company, Limited",1099712581,2.5,2.5,2.5,"Euro Pale Lager",2,2.5,"Kirin Heartland",5.5,6379
+"749",292,"Kirin Brewery Company, Limited",1086862488,4,2.5,3.5,"Euro Pale Lager",3.5,3.5,"Kirin Heartland",5.5,6379
+"750",292,"Kirin Brewery Company, Limited",1080734250,4,3,3.5,"Euro Pale Lager",3.5,3,"Kirin Heartland",5.5,6379
+"751",292,"Kirin Brewery Company, Limited",1238609910,3,3,3,"Happoshu",2,3,"Kirin Enjuku",6,28331
+"752",292,"Kirin Brewery Company, Limited",1223841343,4,3,2.5,"Happoshu",3,3,"Kirin Enjuku",6,28331
+"753",292,"Kirin Brewery Company, Limited",1222512883,3.5,3,3.5,"Happoshu",3.5,3,"Kirin Enjuku",6,28331
+"754",292,"Kirin Brewery Company, Limited",1202296365,1.5,1,3,"Happoshu",2,2,"Kirin Enjuku",6,28331
+"755",292,"Kirin Brewery Company, Limited",1180179067,4,3,3,"Happoshu",3,4,"Kirin Enjuku",6,28331
+"756",292,"Kirin Brewery Company, Limited",1159202154,2.5,2.5,3.5,"Happoshu",3,2,"Kirin Enjuku",6,28331
+"757",292,"Kirin Brewery Company, Limited",1153413157,4.5,3.5,3.5,"Happoshu",4,4,"Kirin Enjuku",6,28331
+"758",292,"Kirin Brewery Company, Limited",1145010412,4.5,4,4,"Happoshu",3.5,4,"Kirin Enjuku",6,28331
+"759",292,"Kirin Brewery Company, Limited",1140094701,4,3,4,"Happoshu",4.5,3.5,"Kirin Enjuku",6,28331
+"760",292,"Kirin Brewery Company, Limited",1153451232,4.5,4,3.5,"English Bitter",4,4,"Kirin Hojun",5.5,18070
+"761",292,"Kirin Brewery Company, Limited",1131799154,4,3.5,3.5,"English Bitter",3,3.5,"Kirin Hojun",5.5,18070
+"762",292,"Kirin Brewery Company, Limited",1090738055,4,4.5,4.5,"English Bitter",3.5,4,"Kirin Hojun",5.5,18070
+"763",292,"Kirin Brewery Company, Limited",1087741862,3,4,4,"English Bitter",3.5,3.5,"Kirin Hojun",5.5,18070
+"764",292,"Kirin Brewery Company, Limited",1087663742,3,3,4,"English Bitter",3.5,3,"Kirin Hojun",5.5,18070
+"765",292,"Kirin Brewery Company, Limited",1202357183,4,3.5,4,"American Pale Wheat Ale",3.5,4,"Kirin Maroyaka Kobo",5,12907
+"766",292,"Kirin Brewery Company, Limited",1175851317,3.5,3,3,"American Pale Wheat Ale",3.5,3,"Kirin Maroyaka Kobo",5,12907
+"767",292,"Kirin Brewery Company, Limited",1150072566,4.5,4,4,"American Pale Wheat Ale",4,4,"Kirin Maroyaka Kobo",5,12907
+"768",292,"Kirin Brewery Company, Limited",1143305007,3.5,2.5,4,"American Pale Wheat Ale",3.5,3.5,"Kirin Maroyaka Kobo",5,12907
+"769",292,"Kirin Brewery Company, Limited",1136818618,4,3.5,5,"American Pale Wheat Ale",3.5,4,"Kirin Maroyaka Kobo",5,12907
+"770",292,"Kirin Brewery Company, Limited",1078560813,4,3.5,5,"American Pale Wheat Ale",3.5,3.5,"Kirin Maroyaka Kobo",5,12907
+"771",292,"Kirin Brewery Company, Limited",1064416401,4,4.5,3.5,"American Pale Wheat Ale",4,3.5,"Kirin Maroyaka Kobo",5,12907
+"772",292,"Kirin Brewery Company, Limited",1316170910,2.5,2.5,2.5,"Märzen / Oktoberfest",2.5,3,"Kirin Akiaji - Autumn Brew",6,12906
+"773",292,"Kirin Brewery Company, Limited",1315119824,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Kirin Akiaji - Autumn Brew",6,12906
+"774",292,"Kirin Brewery Company, Limited",1260620135,3,3.5,2.5,"Märzen / Oktoberfest",3,4,"Kirin Akiaji - Autumn Brew",6,12906
+"775",292,"Kirin Brewery Company, Limited",1238608902,2.5,4,3,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
+"776",292,"Kirin Brewery Company, Limited",1223840987,4,3,2,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
+"777",292,"Kirin Brewery Company, Limited",1222507376,4,3.5,3,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
+"778",292,"Kirin Brewery Company, Limited",1221297914,2.5,2,3,"Märzen / Oktoberfest",3,2.5,"Kirin Akiaji - Autumn Brew",6,12906
+"779",292,"Kirin Brewery Company, Limited",1158658002,4,3,2.5,"Märzen / Oktoberfest",3.5,4,"Kirin Akiaji - Autumn Brew",6,12906
+"780",292,"Kirin Brewery Company, Limited",1139882234,3.5,3,2.5,"Märzen / Oktoberfest",3,3,"Kirin Akiaji - Autumn Brew",6,12906
+"781",292,"Kirin Brewery Company, Limited",1101298230,2.5,2.5,3,"Märzen / Oktoberfest",4,2.5,"Kirin Akiaji - Autumn Brew",6,12906
+"782",292,"Kirin Brewery Company, Limited",1314495215,2.5,2.5,2.5,"Japanese Rice Lager",2.5,3,"Kirin Classic Lager",4.5,16067
+"783",292,"Kirin Brewery Company, Limited",1282650824,2.5,2.5,4,"Japanese Rice Lager",2,2.5,"Kirin Classic Lager",4.5,16067
+"784",292,"Kirin Brewery Company, Limited",1238609513,2.5,3.5,3,"Japanese Rice Lager",3,3.5,"Kirin Classic Lager",4.5,16067
+"785",292,"Kirin Brewery Company, Limited",1223552528,4,3,4,"Japanese Rice Lager",3,3,"Kirin Classic Lager",4.5,16067
+"786",292,"Kirin Brewery Company, Limited",1206857470,4,2,2,"Japanese Rice Lager",3.5,3.5,"Kirin Classic Lager",4.5,16067
+"787",292,"Kirin Brewery Company, Limited",1161505944,3,3,3,"Japanese Rice Lager",3,1.5,"Kirin Classic Lager",4.5,16067
+"788",292,"Kirin Brewery Company, Limited",1150712310,3,2,2.5,"Japanese Rice Lager",2,2.5,"Kirin Classic Lager",4.5,16067
+"789",292,"Kirin Brewery Company, Limited",1081519734,1.5,2,3,"Japanese Rice Lager",3.5,3,"Kirin Classic Lager",4.5,16067
+"790",292,"Kirin Brewery Company, Limited",1078053607,2,3,4,"Japanese Rice Lager",2,2,"Kirin Classic Lager",4.5,16067

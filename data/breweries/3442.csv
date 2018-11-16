@@ -1,145 +1,132 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",3442,"Microbrouwerij Achilles",1306362535,4.5,3.5,4,"Belgian Strong Pale Ale",4.5,4.5,"Serafijn Christmas Angel",8,39778
-"2",3442,"Microbrouwerij Achilles",1230302071,2.5,2.5,3,"Belgian Strong Pale Ale",2,2.5,"Serafijn Kerstlicht",7,8057
-"3",3442,"Microbrouwerij Achilles",1260327489,4,3,3,"Belgian Strong Pale Ale",4,3,"Serafijn Christmas Angel",8,39778
-"4",3442,"Microbrouwerij Achilles",1240880798,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"5",3442,"Microbrouwerij Achilles",1239344822,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"6",3442,"Microbrouwerij Achilles",1079189881,1.5,2,3.5,"Belgian Pale Ale",2,2,"Serafijn Blond",6.2,9139
-"7",3442,"Microbrouwerij Achilles",1253500903,4,3.5,3,"Tripel",3.5,3.5,"Serafijn Tripel",8,9142
-"8",3442,"Microbrouwerij Achilles",1313179125,3.5,3.5,2.5,"Tripel",3.5,4,"De Liter Van Pallieter",8,58788
-"9",3442,"Microbrouwerij Achilles",1275334302,3,3,4.5,"Tripel",3,3,"De Liter Van Pallieter",8,58788
-"10",3442,"Microbrouwerij Achilles",1302921274,4,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
-"11",3442,"Microbrouwerij Achilles",1285378217,3,3.5,4,"Belgian Strong Dark Ale",3.5,3,"Serafijn Donker",8,9141
-"12",3442,"Microbrouwerij Achilles",1240449294,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
-"13",3442,"Microbrouwerij Achilles",1235285753,3,3,2.5,"Belgian Strong Dark Ale",4,3,"Serafijn Donker",8,9141
-"14",3442,"Microbrouwerij Achilles",1221444533,3,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
-"15",3442,"Microbrouwerij Achilles",1219114434,4.5,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
-"16",3442,"Microbrouwerij Achilles",1212099003,3.5,3.5,3,"Belgian Strong Dark Ale",3,4,"Serafijn Donker",8,9141
-"17",3442,"Microbrouwerij Achilles",1204730885,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
-"18",3442,"Microbrouwerij Achilles",1198281531,4.5,4,3,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
-"19",3442,"Microbrouwerij Achilles",1197169598,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
-"20",3442,"Microbrouwerij Achilles",1193452746,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
-"21",3442,"Microbrouwerij Achilles",1187101573,3.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
-"22",3442,"Microbrouwerij Achilles",1178447885,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
-"23",3442,"Microbrouwerij Achilles",1142762890,2.5,2.5,2,"Belgian Strong Dark Ale",2.5,2.5,"Serafijn Donker",8,9141
-"24",3442,"Microbrouwerij Achilles",1107449626,2.5,2,2,"Belgian Strong Dark Ale",2.5,2,"Serafijn Donker",8,9141
-"25",3442,"Microbrouwerij Achilles",1311609817,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Serafijn Grand Cru",9,40329
-"26",3442,"Microbrouwerij Achilles",1285776861,4,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Serafijn Grand Cru",9,40329
-"27",3442,"Microbrouwerij Achilles",1250994025,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Grand Cru",9,40329
-"28",3442,"Microbrouwerij Achilles",1244527364,3.5,3.5,5,"Belgian Strong Dark Ale",4,3,"Serafijn Grand Cru",9,40329
-"29",3442,"Microbrouwerij Achilles",1237928851,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Serafijn Grand Cru",9,40329
-"30",3442,"Microbrouwerij Achilles",1235960979,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Grand Cru",9,40329
-"31",3442,"Microbrouwerij Achilles",1222010911,4,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Serafijn Grand Cru",9,40329
-"32",3442,"Microbrouwerij Achilles",1213073585,3.5,4,3.5,"Belgian Strong Dark Ale",3.5,3,"Serafijn Grand Cru",9,40329
-"33",3442,"Microbrouwerij Achilles",1199169289,3.5,3,3,"Belgian Strong Dark Ale",3,3,"Serafijn Grand Cru",9,40329
-"34",3442,"Microbrouwerij Achilles",1317001690,4,4,4,"Belgian Pale Ale",4.5,4.5,"Serafijn Belgian Pale Ale",6.2,58774
-"35",3442,"Microbrouwerij Achilles",1313804957,4.5,4,4,"Belgian Pale Ale",4,4.5,"Serafijn Belgian Pale Ale",6.2,58774
-"36",3442,"Microbrouwerij Achilles",1309145776,4,3.5,3.5,"Belgian Pale Ale",4,5,"Serafijn Belgian Pale Ale",6.2,58774
-"37",3442,"Microbrouwerij Achilles",1304472917,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Serafijn Belgian Pale Ale",6.2,58774
-"38",3442,"Microbrouwerij Achilles",1281570713,4,4,4,"Belgian Pale Ale",4.5,4,"Serafijn Belgian Pale Ale",6.2,58774
-"39",3442,"Microbrouwerij Achilles",1320456297,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"40",3442,"Microbrouwerij Achilles",1280034604,3,2.5,4.5,"Belgian Pale Ale",3,3,"Serafijn Belgian Pale Ale",6.2,58774
-"41",3442,"Microbrouwerij Achilles",1279423496,4.5,3.5,4.5,"Belgian Pale Ale",4,4,"Serafijn Belgian Pale Ale",6.2,58774
-"42",3442,"Microbrouwerij Achilles",1277659242,4.5,4,5,"Belgian Pale Ale",4,4.5,"Serafijn Belgian Pale Ale",6.2,58774
-"43",3442,"Microbrouwerij Achilles",1276918794,5,4,5,"Belgian Pale Ale",5,4.5,"Serafijn Belgian Pale Ale",6.2,58774
-"44",3442,"Microbrouwerij Achilles",1276473301,4.5,4,4.5,"Belgian Pale Ale",3.5,4,"Serafijn Belgian Pale Ale",6.2,58774
-"45",3442,"Microbrouwerij Achilles",1275284727,5,4.5,4.5,"Belgian Pale Ale",4,4,"Serafijn Belgian Pale Ale",6.2,58774
-"46",3442,"Microbrouwerij Achilles",1320872550,2.5,2.5,3.5,"Belgian Strong Pale Ale",2,2,"Serafijn Christmas Angel",8,39778
-"47",3442,"Microbrouwerij Achilles",1302119253,4,4,4.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"48",3442,"Microbrouwerij Achilles",1300253645,4.5,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"49",3442,"Microbrouwerij Achilles",1297403536,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"50",3442,"Microbrouwerij Achilles",1295384222,4,4.5,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"51",3442,"Microbrouwerij Achilles",1295116334,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"52",3442,"Microbrouwerij Achilles",1294889452,4,3.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"53",3442,"Microbrouwerij Achilles",1294868344,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"54",3442,"Microbrouwerij Achilles",1294370535,3.5,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"55",3442,"Microbrouwerij Achilles",1291454035,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"56",3442,"Microbrouwerij Achilles",1291180684,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"57",3442,"Microbrouwerij Achilles",1290039404,4,3.5,4,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
-"58",3442,"Microbrouwerij Achilles",1290039145,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"59",3442,"Microbrouwerij Achilles",1290037729,4.5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Serafijn Christmas Angel",8,39778
-"60",3442,"Microbrouwerij Achilles",1271714798,3,3,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"61",3442,"Microbrouwerij Achilles",1263862047,3,3,3.5,"Belgian Strong Pale Ale",3.5,3,"Serafijn Christmas Angel",8,39778
-"62",3442,"Microbrouwerij Achilles",1263861135,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
-"63",3442,"Microbrouwerij Achilles",1263570751,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"64",3442,"Microbrouwerij Achilles",1262319729,4.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"65",3442,"Microbrouwerij Achilles",1262286822,3.5,4,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"66",3442,"Microbrouwerij Achilles",1261863403,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
-"67",3442,"Microbrouwerij Achilles",1236873634,4,3.5,4,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
-"68",3442,"Microbrouwerij Achilles",1233888334,4.5,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"69",3442,"Microbrouwerij Achilles",1233195666,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"70",3442,"Microbrouwerij Achilles",1232848607,5,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"71",3442,"Microbrouwerij Achilles",1230256883,4.5,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"72",3442,"Microbrouwerij Achilles",1229488552,4,4.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"73",3442,"Microbrouwerij Achilles",1228874238,3.5,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
-"74",3442,"Microbrouwerij Achilles",1228434879,3,4.5,4,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
-"75",3442,"Microbrouwerij Achilles",1228112883,3,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"76",3442,"Microbrouwerij Achilles",1227846244,4,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"77",3442,"Microbrouwerij Achilles",1227287919,3.5,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"78",3442,"Microbrouwerij Achilles",1226459571,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"79",3442,"Microbrouwerij Achilles",1225748327,4,4,2,"Belgian Strong Pale Ale",3,4,"Serafijn Christmas Angel",8,39778
-"80",3442,"Microbrouwerij Achilles",1221403112,3.5,3,4,"Belgian Strong Pale Ale",2.5,3.5,"Serafijn Christmas Angel",8,39778
-"81",3442,"Microbrouwerij Achilles",1217027892,2.5,2.5,3.5,"Belgian Strong Pale Ale",2.5,2.5,"Serafijn Christmas Angel",8,39778
-"82",3442,"Microbrouwerij Achilles",1203567092,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"83",3442,"Microbrouwerij Achilles",1203141901,4,4.5,4,"Belgian Strong Pale Ale",4.5,4.5,"Serafijn Christmas Angel",8,39778
-"84",3442,"Microbrouwerij Achilles",1203132439,5,5,4.5,"Belgian Strong Pale Ale",5,5,"Serafijn Christmas Angel",8,39778
-"85",3442,"Microbrouwerij Achilles",1325192559,4,4.5,4.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Kerstlicht",7,8057
-"86",3442,"Microbrouwerij Achilles",1203000286,5,4,4.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"87",3442,"Microbrouwerij Achilles",1202956359,3.5,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"88",3442,"Microbrouwerij Achilles",1202271656,3.5,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
-"89",3442,"Microbrouwerij Achilles",1201750692,4,4,3.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"90",3442,"Microbrouwerij Achilles",1201697954,4,4,4,"Belgian Strong Pale Ale",5,4,"Serafijn Christmas Angel",8,39778
-"91",3442,"Microbrouwerij Achilles",1201473503,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"92",3442,"Microbrouwerij Achilles",1200790922,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"93",3442,"Microbrouwerij Achilles",1200099172,4,3.5,4.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"94",3442,"Microbrouwerij Achilles",1199838596,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,4,"Serafijn Christmas Angel",8,39778
-"95",3442,"Microbrouwerij Achilles",1199431812,3,2.5,3.5,"Belgian Strong Pale Ale",4,2.5,"Serafijn Christmas Angel",8,39778
-"96",3442,"Microbrouwerij Achilles",1199170838,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
-"97",3442,"Microbrouwerij Achilles",1198657361,4,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"98",3442,"Microbrouwerij Achilles",1198319870,4,4.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"99",3442,"Microbrouwerij Achilles",1196825596,2.5,3,3,"Belgian Strong Pale Ale",3,3,"Serafijn Christmas Angel",8,39778
-"100",3442,"Microbrouwerij Achilles",1196734686,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
-"101",3442,"Microbrouwerij Achilles",1196643507,4,4,3.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
-"102",3442,"Microbrouwerij Achilles",1196039816,3.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
-"103",3442,"Microbrouwerij Achilles",1277179665,3.5,3,4,"Belgian Pale Ale",3.5,3.5,"Serafijn Blond",6.2,9139
-"104",3442,"Microbrouwerij Achilles",1192644680,4,4,4,"Belgian Pale Ale",3.5,4,"Serafijn Blond",6.2,9139
-"105",3442,"Microbrouwerij Achilles",1107628147,4,4,4,"Belgian Pale Ale",4,4,"Serafijn Blond",6.2,9139
-"106",3442,"Microbrouwerij Achilles",1231706620,4,4,4,"Tripel",3.5,4,"Serafijn Tripel",8,9142
-"107",3442,"Microbrouwerij Achilles",1224193327,3,3.5,3.5,"Tripel",3,3,"Serafijn Tripel",8,9142
-"108",3442,"Microbrouwerij Achilles",1210177605,4,4,4,"Tripel",3.5,4,"Serafijn Tripel",8,9142
-"109",3442,"Microbrouwerij Achilles",1206822103,2.5,3.5,4,"Tripel",3,3,"Serafijn Tripel",8,9142
-"110",3442,"Microbrouwerij Achilles",1202021220,2,2.5,3.5,"Tripel",2,3,"Serafijn Tripel",8,9142
-"111",3442,"Microbrouwerij Achilles",1197414997,4.5,4.5,4,"Tripel",3,4,"Serafijn Tripel",8,9142
-"112",3442,"Microbrouwerij Achilles",1195185596,4.5,4.5,4.5,"Tripel",4,4.5,"Serafijn Tripel",8,9142
-"113",3442,"Microbrouwerij Achilles",1192821159,4,4,4,"Tripel",4,4,"Serafijn Tripel",8,9142
-"114",3442,"Microbrouwerij Achilles",1105904900,3.5,3.5,3.5,"Tripel",3.5,3,"Serafijn Tripel",8,9142
-"115",3442,"Microbrouwerij Achilles",1310932306,4,5,4.5,"Belgian Pale Ale",3.5,3.5,"Heksemiebier",6.2,53515
-"116",3442,"Microbrouwerij Achilles",1288202015,3,3,4,"Belgian Pale Ale",3,2.5,"Heksemiebier",6.2,53515
-"117",3442,"Microbrouwerij Achilles",1255980548,2.5,3,3.5,"Belgian Pale Ale",2.5,2.5,"Heksemiebier",6.2,53515
-"118",3442,"Microbrouwerij Achilles",1042576714,2.5,3.5,3,"Belgian Strong Pale Ale",3.5,3,"Serafijn Kerstlicht",7,8057
-"119",3442,"Microbrouwerij Achilles",1304530803,3,3,3,"Dubbel",3.5,3,"Paternoster",8,68671
-"120",3442,"Microbrouwerij Achilles",1322060284,3.5,4,3,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
-"121",3442,"Microbrouwerij Achilles",1310514248,4,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"122",3442,"Microbrouwerij Achilles",1282944580,4.5,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"123",3442,"Microbrouwerij Achilles",1266626512,4,3,4,"Belgian Dark Ale",4,2.5,"Serafijn Celtic Angel",6.2,24541
-"124",3442,"Microbrouwerij Achilles",1245126794,3,2.5,3,"Belgian Dark Ale",3,3,"Serafijn Celtic Angel",6.2,24541
-"125",3442,"Microbrouwerij Achilles",1231706553,3,4,4,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
-"126",3442,"Microbrouwerij Achilles",1227327566,3,3,3,"Belgian Dark Ale",2,4,"Serafijn Celtic Angel",6.2,24541
-"127",3442,"Microbrouwerij Achilles",1226803445,4.5,3.5,3.5,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
-"128",3442,"Microbrouwerij Achilles",1226788398,3.5,3.5,4,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
-"129",3442,"Microbrouwerij Achilles",1222921160,4,4,4,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
-"130",3442,"Microbrouwerij Achilles",1218937629,3,2,2.5,"Belgian Dark Ale",3.5,2.5,"Serafijn Celtic Angel",6.2,24541
-"131",3442,"Microbrouwerij Achilles",1216948714,4,3.5,4,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
-"132",3442,"Microbrouwerij Achilles",1206053786,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
-"133",3442,"Microbrouwerij Achilles",1197676628,4,3.5,3.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"134",3442,"Microbrouwerij Achilles",1192299438,3.5,4,3.5,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
-"135",3442,"Microbrouwerij Achilles",1192214285,4,4,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
-"136",3442,"Microbrouwerij Achilles",1189876344,3.5,4,3,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
-"137",3442,"Microbrouwerij Achilles",1188688043,3.5,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"138",3442,"Microbrouwerij Achilles",1183211124,4,3.5,3,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"139",3442,"Microbrouwerij Achilles",1176856775,3,3,3.5,"Belgian Dark Ale",3,3,"Serafijn Celtic Angel",6.2,24541
-"140",3442,"Microbrouwerij Achilles",1175748644,4,3.5,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
-"141",3442,"Microbrouwerij Achilles",1175745119,4,3.5,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
-"142",3442,"Microbrouwerij Achilles",1170477410,3.5,3,3,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
-"143",3442,"Microbrouwerij Achilles",1168917857,4,4,4.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
-"144",3442,"Microbrouwerij Achilles",1120746327,3.5,3.5,4.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"2",3442,"Microbrouwerij Achilles",1260327489,4,3,3,"Belgian Strong Pale Ale",4,3,"Serafijn Christmas Angel",8,39778
+"3",3442,"Microbrouwerij Achilles",1240880798,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"4",3442,"Microbrouwerij Achilles",1239344822,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"5",3442,"Microbrouwerij Achilles",1253500903,4,3.5,3,"Tripel",3.5,3.5,"Serafijn Tripel",8,9142
+"6",3442,"Microbrouwerij Achilles",1302921274,4,3.5,3.5,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
+"7",3442,"Microbrouwerij Achilles",1285378217,3,3.5,4,"Belgian Strong Dark Ale",3.5,3,"Serafijn Donker",8,9141
+"8",3442,"Microbrouwerij Achilles",1240449294,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
+"9",3442,"Microbrouwerij Achilles",1235285753,3,3,2.5,"Belgian Strong Dark Ale",4,3,"Serafijn Donker",8,9141
+"10",3442,"Microbrouwerij Achilles",1221444533,3,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
+"11",3442,"Microbrouwerij Achilles",1219114434,4.5,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Serafijn Donker",8,9141
+"12",3442,"Microbrouwerij Achilles",1212099003,3.5,3.5,3,"Belgian Strong Dark Ale",3,4,"Serafijn Donker",8,9141
+"13",3442,"Microbrouwerij Achilles",1204730885,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
+"14",3442,"Microbrouwerij Achilles",1198281531,4.5,4,3,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
+"15",3442,"Microbrouwerij Achilles",1197169598,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
+"16",3442,"Microbrouwerij Achilles",1193452746,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
+"17",3442,"Microbrouwerij Achilles",1187101573,3.5,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Donker",8,9141
+"18",3442,"Microbrouwerij Achilles",1178447885,3.5,4,4,"Belgian Strong Dark Ale",4,3.5,"Serafijn Donker",8,9141
+"19",3442,"Microbrouwerij Achilles",1142762890,2.5,2.5,2,"Belgian Strong Dark Ale",2.5,2.5,"Serafijn Donker",8,9141
+"20",3442,"Microbrouwerij Achilles",1107449626,2.5,2,2,"Belgian Strong Dark Ale",2.5,2,"Serafijn Donker",8,9141
+"21",3442,"Microbrouwerij Achilles",1311609817,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Serafijn Grand Cru",9,40329
+"22",3442,"Microbrouwerij Achilles",1285776861,4,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Serafijn Grand Cru",9,40329
+"23",3442,"Microbrouwerij Achilles",1250994025,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Grand Cru",9,40329
+"24",3442,"Microbrouwerij Achilles",1244527364,3.5,3.5,5,"Belgian Strong Dark Ale",4,3,"Serafijn Grand Cru",9,40329
+"25",3442,"Microbrouwerij Achilles",1237928851,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Serafijn Grand Cru",9,40329
+"26",3442,"Microbrouwerij Achilles",1235960979,4,3.5,4,"Belgian Strong Dark Ale",4,4,"Serafijn Grand Cru",9,40329
+"27",3442,"Microbrouwerij Achilles",1222010911,4,4.5,5,"Belgian Strong Dark Ale",4,4.5,"Serafijn Grand Cru",9,40329
+"28",3442,"Microbrouwerij Achilles",1213073585,3.5,4,3.5,"Belgian Strong Dark Ale",3.5,3,"Serafijn Grand Cru",9,40329
+"29",3442,"Microbrouwerij Achilles",1199169289,3.5,3,3,"Belgian Strong Dark Ale",3,3,"Serafijn Grand Cru",9,40329
+"30",3442,"Microbrouwerij Achilles",1317001690,4,4,4,"Belgian Pale Ale",4.5,4.5,"Serafijn Belgian Pale Ale",6.2,58774
+"31",3442,"Microbrouwerij Achilles",1313804957,4.5,4,4,"Belgian Pale Ale",4,4.5,"Serafijn Belgian Pale Ale",6.2,58774
+"32",3442,"Microbrouwerij Achilles",1309145776,4,3.5,3.5,"Belgian Pale Ale",4,5,"Serafijn Belgian Pale Ale",6.2,58774
+"33",3442,"Microbrouwerij Achilles",1304472917,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Serafijn Belgian Pale Ale",6.2,58774
+"34",3442,"Microbrouwerij Achilles",1281570713,4,4,4,"Belgian Pale Ale",4.5,4,"Serafijn Belgian Pale Ale",6.2,58774
+"35",3442,"Microbrouwerij Achilles",1320456297,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"36",3442,"Microbrouwerij Achilles",1280034604,3,2.5,4.5,"Belgian Pale Ale",3,3,"Serafijn Belgian Pale Ale",6.2,58774
+"37",3442,"Microbrouwerij Achilles",1279423496,4.5,3.5,4.5,"Belgian Pale Ale",4,4,"Serafijn Belgian Pale Ale",6.2,58774
+"38",3442,"Microbrouwerij Achilles",1277659242,4.5,4,5,"Belgian Pale Ale",4,4.5,"Serafijn Belgian Pale Ale",6.2,58774
+"39",3442,"Microbrouwerij Achilles",1276918794,5,4,5,"Belgian Pale Ale",5,4.5,"Serafijn Belgian Pale Ale",6.2,58774
+"40",3442,"Microbrouwerij Achilles",1276473301,4.5,4,4.5,"Belgian Pale Ale",3.5,4,"Serafijn Belgian Pale Ale",6.2,58774
+"41",3442,"Microbrouwerij Achilles",1275284727,5,4.5,4.5,"Belgian Pale Ale",4,4,"Serafijn Belgian Pale Ale",6.2,58774
+"42",3442,"Microbrouwerij Achilles",1320872550,2.5,2.5,3.5,"Belgian Strong Pale Ale",2,2,"Serafijn Christmas Angel",8,39778
+"43",3442,"Microbrouwerij Achilles",1302119253,4,4,4.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"44",3442,"Microbrouwerij Achilles",1300253645,4.5,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"45",3442,"Microbrouwerij Achilles",1297403536,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"46",3442,"Microbrouwerij Achilles",1295384222,4,4.5,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"47",3442,"Microbrouwerij Achilles",1295116334,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"48",3442,"Microbrouwerij Achilles",1294889452,4,3.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"49",3442,"Microbrouwerij Achilles",1294868344,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"50",3442,"Microbrouwerij Achilles",1294370535,3.5,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"51",3442,"Microbrouwerij Achilles",1291454035,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"52",3442,"Microbrouwerij Achilles",1291180684,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"53",3442,"Microbrouwerij Achilles",1290039404,4,3.5,4,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
+"54",3442,"Microbrouwerij Achilles",1290039145,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"55",3442,"Microbrouwerij Achilles",1290037729,4.5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Serafijn Christmas Angel",8,39778
+"56",3442,"Microbrouwerij Achilles",1271714798,3,3,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"57",3442,"Microbrouwerij Achilles",1263862047,3,3,3.5,"Belgian Strong Pale Ale",3.5,3,"Serafijn Christmas Angel",8,39778
+"58",3442,"Microbrouwerij Achilles",1263861135,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
+"59",3442,"Microbrouwerij Achilles",1263570751,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"60",3442,"Microbrouwerij Achilles",1262319729,4.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"61",3442,"Microbrouwerij Achilles",1262286822,3.5,4,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"62",3442,"Microbrouwerij Achilles",1261863403,4,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
+"63",3442,"Microbrouwerij Achilles",1236873634,4,3.5,4,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
+"64",3442,"Microbrouwerij Achilles",1233888334,4.5,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"65",3442,"Microbrouwerij Achilles",1233195666,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"66",3442,"Microbrouwerij Achilles",1232848607,5,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"67",3442,"Microbrouwerij Achilles",1230256883,4.5,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"68",3442,"Microbrouwerij Achilles",1229488552,4,4.5,4.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"69",3442,"Microbrouwerij Achilles",1228874238,3.5,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Serafijn Christmas Angel",8,39778
+"70",3442,"Microbrouwerij Achilles",1228434879,3,4.5,4,"Belgian Strong Pale Ale",3,3.5,"Serafijn Christmas Angel",8,39778
+"71",3442,"Microbrouwerij Achilles",1228112883,3,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"72",3442,"Microbrouwerij Achilles",1227846244,4,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"73",3442,"Microbrouwerij Achilles",1227287919,3.5,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"74",3442,"Microbrouwerij Achilles",1226459571,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"75",3442,"Microbrouwerij Achilles",1225748327,4,4,2,"Belgian Strong Pale Ale",3,4,"Serafijn Christmas Angel",8,39778
+"76",3442,"Microbrouwerij Achilles",1221403112,3.5,3,4,"Belgian Strong Pale Ale",2.5,3.5,"Serafijn Christmas Angel",8,39778
+"77",3442,"Microbrouwerij Achilles",1217027892,2.5,2.5,3.5,"Belgian Strong Pale Ale",2.5,2.5,"Serafijn Christmas Angel",8,39778
+"78",3442,"Microbrouwerij Achilles",1203567092,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"79",3442,"Microbrouwerij Achilles",1203141901,4,4.5,4,"Belgian Strong Pale Ale",4.5,4.5,"Serafijn Christmas Angel",8,39778
+"80",3442,"Microbrouwerij Achilles",1203132439,5,5,4.5,"Belgian Strong Pale Ale",5,5,"Serafijn Christmas Angel",8,39778
+"81",3442,"Microbrouwerij Achilles",1203000286,5,4,4.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"82",3442,"Microbrouwerij Achilles",1202956359,3.5,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"83",3442,"Microbrouwerij Achilles",1202271656,3.5,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Serafijn Christmas Angel",8,39778
+"84",3442,"Microbrouwerij Achilles",1201750692,4,4,3.5,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"85",3442,"Microbrouwerij Achilles",1201697954,4,4,4,"Belgian Strong Pale Ale",5,4,"Serafijn Christmas Angel",8,39778
+"86",3442,"Microbrouwerij Achilles",1201473503,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"87",3442,"Microbrouwerij Achilles",1200790922,4,4,4,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"88",3442,"Microbrouwerij Achilles",1200099172,4,3.5,4.5,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"89",3442,"Microbrouwerij Achilles",1199838596,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,4,"Serafijn Christmas Angel",8,39778
+"90",3442,"Microbrouwerij Achilles",1199431812,3,2.5,3.5,"Belgian Strong Pale Ale",4,2.5,"Serafijn Christmas Angel",8,39778
+"91",3442,"Microbrouwerij Achilles",1199170838,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Serafijn Christmas Angel",8,39778
+"92",3442,"Microbrouwerij Achilles",1198657361,4,4,4.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"93",3442,"Microbrouwerij Achilles",1198319870,4,4.5,4,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"94",3442,"Microbrouwerij Achilles",1196825596,2.5,3,3,"Belgian Strong Pale Ale",3,3,"Serafijn Christmas Angel",8,39778
+"95",3442,"Microbrouwerij Achilles",1196734686,4,4,4,"Belgian Strong Pale Ale",4,3.5,"Serafijn Christmas Angel",8,39778
+"96",3442,"Microbrouwerij Achilles",1196643507,4,4,3.5,"Belgian Strong Pale Ale",4,4.5,"Serafijn Christmas Angel",8,39778
+"97",3442,"Microbrouwerij Achilles",1196039816,3.5,4,4,"Belgian Strong Pale Ale",3.5,4,"Serafijn Christmas Angel",8,39778
+"98",3442,"Microbrouwerij Achilles",1231706620,4,4,4,"Tripel",3.5,4,"Serafijn Tripel",8,9142
+"99",3442,"Microbrouwerij Achilles",1224193327,3,3.5,3.5,"Tripel",3,3,"Serafijn Tripel",8,9142
+"100",3442,"Microbrouwerij Achilles",1210177605,4,4,4,"Tripel",3.5,4,"Serafijn Tripel",8,9142
+"101",3442,"Microbrouwerij Achilles",1206822103,2.5,3.5,4,"Tripel",3,3,"Serafijn Tripel",8,9142
+"102",3442,"Microbrouwerij Achilles",1202021220,2,2.5,3.5,"Tripel",2,3,"Serafijn Tripel",8,9142
+"103",3442,"Microbrouwerij Achilles",1197414997,4.5,4.5,4,"Tripel",3,4,"Serafijn Tripel",8,9142
+"104",3442,"Microbrouwerij Achilles",1195185596,4.5,4.5,4.5,"Tripel",4,4.5,"Serafijn Tripel",8,9142
+"105",3442,"Microbrouwerij Achilles",1192821159,4,4,4,"Tripel",4,4,"Serafijn Tripel",8,9142
+"106",3442,"Microbrouwerij Achilles",1105904900,3.5,3.5,3.5,"Tripel",3.5,3,"Serafijn Tripel",8,9142
+"107",3442,"Microbrouwerij Achilles",1322060284,3.5,4,3,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
+"108",3442,"Microbrouwerij Achilles",1310514248,4,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"109",3442,"Microbrouwerij Achilles",1282944580,4.5,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"110",3442,"Microbrouwerij Achilles",1266626512,4,3,4,"Belgian Dark Ale",4,2.5,"Serafijn Celtic Angel",6.2,24541
+"111",3442,"Microbrouwerij Achilles",1245126794,3,2.5,3,"Belgian Dark Ale",3,3,"Serafijn Celtic Angel",6.2,24541
+"112",3442,"Microbrouwerij Achilles",1231706553,3,4,4,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
+"113",3442,"Microbrouwerij Achilles",1227327566,3,3,3,"Belgian Dark Ale",2,4,"Serafijn Celtic Angel",6.2,24541
+"114",3442,"Microbrouwerij Achilles",1226803445,4.5,3.5,3.5,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
+"115",3442,"Microbrouwerij Achilles",1226788398,3.5,3.5,4,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
+"116",3442,"Microbrouwerij Achilles",1222921160,4,4,4,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
+"117",3442,"Microbrouwerij Achilles",1218937629,3,2,2.5,"Belgian Dark Ale",3.5,2.5,"Serafijn Celtic Angel",6.2,24541
+"118",3442,"Microbrouwerij Achilles",1216948714,4,3.5,4,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
+"119",3442,"Microbrouwerij Achilles",1206053786,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
+"120",3442,"Microbrouwerij Achilles",1197676628,4,3.5,3.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"121",3442,"Microbrouwerij Achilles",1192299438,3.5,4,3.5,"Belgian Dark Ale",3.5,3.5,"Serafijn Celtic Angel",6.2,24541
+"122",3442,"Microbrouwerij Achilles",1192214285,4,4,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
+"123",3442,"Microbrouwerij Achilles",1189876344,3.5,4,3,"Belgian Dark Ale",4,3.5,"Serafijn Celtic Angel",6.2,24541
+"124",3442,"Microbrouwerij Achilles",1188688043,3.5,4,4,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"125",3442,"Microbrouwerij Achilles",1183211124,4,3.5,3,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"126",3442,"Microbrouwerij Achilles",1176856775,3,3,3.5,"Belgian Dark Ale",3,3,"Serafijn Celtic Angel",6.2,24541
+"127",3442,"Microbrouwerij Achilles",1175748644,4,3.5,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
+"128",3442,"Microbrouwerij Achilles",1175745119,4,3.5,4,"Belgian Dark Ale",3.5,4,"Serafijn Celtic Angel",6.2,24541
+"129",3442,"Microbrouwerij Achilles",1170477410,3.5,3,3,"Belgian Dark Ale",3,3.5,"Serafijn Celtic Angel",6.2,24541
+"130",3442,"Microbrouwerij Achilles",1168917857,4,4,4.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541
+"131",3442,"Microbrouwerij Achilles",1120746327,3.5,3.5,4.5,"Belgian Dark Ale",4,4,"Serafijn Celtic Angel",6.2,24541

@@ -1,117 +1,47 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",14439,"Sigtuna Brygghus",1307984873,4,3.5,4.5,"American IPA",4.5,4,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"2",14439,"Sigtuna Brygghus",1320521172,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Sigtuna Ace Of Spades 2011",15,73653
-"3",14439,"Sigtuna Brygghus",1317562338,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Sigtuna Ace Of Spades 2011",15,73653
-"4",14439,"Sigtuna Brygghus",1315339136,3.5,4,4,"American IPA",2,4,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"5",14439,"Sigtuna Brygghus",1313262673,3.5,4,4,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"6",14439,"Sigtuna Brygghus",1313260638,4,4,4,"American IPA",4,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"7",14439,"Sigtuna Brygghus",1310647511,2.5,3,2.5,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"8",14439,"Sigtuna Brygghus",1307138267,4,4,3,"American IPA",4,4,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"9",14439,"Sigtuna Brygghus",1306781337,4,4,3.5,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"10",14439,"Sigtuna Brygghus",1305823359,3,4,4.5,"American IPA",3,2.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
-"11",14439,"Sigtuna Brygghus",1313263492,4,4,4.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
-"12",14439,"Sigtuna Brygghus",1240616517,2.5,4.5,4,"Altbier",3.5,3.5,"Påsk Alt Bier",7.5,48743
-"13",14439,"Sigtuna Brygghus",1238779345,4,4,3.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
-"14",14439,"Sigtuna Brygghus",1238702271,4.5,4.5,3.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
-"15",14439,"Sigtuna Brygghus",1238264516,5,4,4.5,"Altbier",4.5,5,"Påsk Alt Bier",7.5,48743
-"16",14439,"Sigtuna Brygghus",1238103464,3,3,4,"Altbier",3.5,2.5,"Påsk Alt Bier",7.5,48743
-"17",14439,"Sigtuna Brygghus",1303331133,4,4,4,"American Pale Ale (APA)",4,4,"Månens Pale Ale",5,42685
-"18",14439,"Sigtuna Brygghus",1210873791,3,3,3.5,"American Pale Ale (APA)",2,3,"Månens Pale Ale",5,42685
-"19",14439,"Sigtuna Brygghus",1319483391,3,4,4,"English Porter",3.5,3,"Sigtuna Höstporter",5.5,72705
-"20",14439,"Sigtuna Brygghus",1319031174,3.5,4.5,3,"English Porter",3.5,3.5,"Sigtuna Höstporter",5.5,72705
-"21",14439,"Sigtuna Brygghus",1318709129,4,3.5,4.5,"English Porter",4,4,"Sigtuna Höstporter",5.5,72705
-"22",14439,"Sigtuna Brygghus",1314897787,4,4,4.5,"English Porter",4,4,"Sigtuna Höstporter",5.5,72705
-"23",14439,"Sigtuna Brygghus",1318707191,3.5,3.5,4,"Munich Dunkel Lager",3.5,3.5,"Sigtuna Dunkel Lager",5.5,72778
-"24",14439,"Sigtuna Brygghus",1317754961,3.5,4,3.5,"Munich Dunkel Lager",2,4,"Sigtuna Dunkel Lager",5.5,72778
-"25",14439,"Sigtuna Brygghus",1316451046,4,3.5,4,"Munich Dunkel Lager",4,4,"Sigtuna Dunkel Lager",5.5,72778
-"26",14439,"Sigtuna Brygghus",1315172827,3,3,3,"Munich Dunkel Lager",3.5,3.5,"Sigtuna Dunkel Lager",5.5,72778
-"27",14439,"Sigtuna Brygghus",1303072900,4,4.5,4.5,"Russian Imperial Stout",4,4,"Sigtuna Ace Of Spades",18.5,62265
-"28",14439,"Sigtuna Brygghus",1298403643,4,4,4.5,"Russian Imperial Stout",4,4.5,"Sigtuna Ace Of Spades",18.5,62265
-"29",14439,"Sigtuna Brygghus",1296766887,3.5,4,3.5,"Russian Imperial Stout",4,3.5,"Sigtuna Ace Of Spades",18.5,62265
-"30",14439,"Sigtuna Brygghus",1286103906,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Sigtuna Ace Of Spades",18.5,62265
-"31",14439,"Sigtuna Brygghus",1324062278,3.5,3.5,2,"Russian Imperial Stout",3.5,4.5,"Sigtuna Midvinterblot",10.1,75411
-"32",14439,"Sigtuna Brygghus",1321553621,4,4,3.5,"Russian Imperial Stout",4,4,"Sigtuna Midvinterblot",10.1,75411
-"33",14439,"Sigtuna Brygghus",1288970201,4,4,4,"Schwarzbier",4,4,"Sigtuna Black October",5,52237
-"34",14439,"Sigtuna Brygghus",1287085943,4,4,3,"Schwarzbier",4,4.5,"Sigtuna Black October",5,52237
-"35",14439,"Sigtuna Brygghus",1285859786,2.5,3.5,3,"Schwarzbier",2.5,3.5,"Sigtuna Black October",5,52237
-"36",14439,"Sigtuna Brygghus",1285788742,4,3.5,4,"Schwarzbier",4,3.5,"Sigtuna Black October",5,52237
-"37",14439,"Sigtuna Brygghus",1255195479,3.5,3,3.5,"Schwarzbier",3,3.5,"Sigtuna Black October",5,52237
-"38",14439,"Sigtuna Brygghus",1255017271,4.5,4,3.5,"Schwarzbier",4,4.5,"Sigtuna Black October",5,52237
-"39",14439,"Sigtuna Brygghus",1253899930,3,3.5,3.5,"Schwarzbier",3,2.5,"Sigtuna Black October",5,52237
-"40",14439,"Sigtuna Brygghus",1252093168,4,3,2.5,"Schwarzbier",3.5,3.5,"Sigtuna Black October",5,52237
-"41",14439,"Sigtuna Brygghus",1252018827,3,3,3.5,"Schwarzbier",3,2.5,"Sigtuna Black October",5,52237
-"42",14439,"Sigtuna Brygghus",1239476311,3,3.5,2.5,"Belgian Pale Ale",2,3,"Easter Booster",7,48739
-"43",14439,"Sigtuna Brygghus",1266085377,4,3.5,4,"Hefeweizen",4.5,3.5,"Sigtuna Vårweizen",5,55476
-"44",14439,"Sigtuna Brygghus",1238101051,3.5,4,3.5,"Belgian Pale Ale",3,3,"Easter Booster",7,48739
-"45",14439,"Sigtuna Brygghus",1281581835,2.5,2.5,4,"American Pale Ale (APA)",3.5,2.5,"Sigtuna Easter Ale",5.6,55437
-"46",14439,"Sigtuna Brygghus",1270838526,4.5,3,4.5,"American Pale Ale (APA)",5,3.5,"Sigtuna Easter Ale",5.6,55437
-"47",14439,"Sigtuna Brygghus",1270478186,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Sigtuna Easter Ale",5.6,55437
-"48",14439,"Sigtuna Brygghus",1269460928,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Sigtuna Easter Ale",5.6,55437
-"49",14439,"Sigtuna Brygghus",1269031783,4.5,4,4,"American Pale Ale (APA)",4,4,"Sigtuna Easter Ale",5.6,55437
-"50",14439,"Sigtuna Brygghus",1267037780,3.5,4,3.5,"Hefeweizen",4,4,"Sigtuna Vårweizen",5,55476
-"51",14439,"Sigtuna Brygghus",1266950836,3,3.5,3,"Hefeweizen",3,3.5,"Sigtuna Vårweizen",5,55476
-"52",14439,"Sigtuna Brygghus",1266617276,3.5,4,3.5,"Hefeweizen",3.5,3,"Sigtuna Vårweizen",5,55476
-"53",14439,"Sigtuna Brygghus",1265999495,4,3.5,4,"Hefeweizen",3.5,3.5,"Sigtuna Vårweizen",5,55476
-"54",14439,"Sigtuna Brygghus",1325185624,3,3.5,2.5,"Euro Dark Lager",3,3.5,"Sigtuna Vinterlager",5.2,74242
-"55",14439,"Sigtuna Brygghus",1324323832,3.5,3,3,"Euro Dark Lager",3.5,3,"Sigtuna Vinterlager",5.2,74242
-"56",14439,"Sigtuna Brygghus",1321549792,3,3,3,"Euro Dark Lager",3.5,3,"Sigtuna Vinterlager",5.2,74242
-"57",14439,"Sigtuna Brygghus",1226072590,2.5,3,3.5,"Belgian Strong Pale Ale",3,3,"Unicum Verum IPA",7.2,34325
-"58",14439,"Sigtuna Brygghus",1220476775,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Unicum Verum IPA",7.2,34325
-"59",14439,"Sigtuna Brygghus",1218820168,4,2.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Unicum Verum IPA",7.2,34325
-"60",14439,"Sigtuna Brygghus",1216154184,4.5,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Unicum Verum IPA",7.2,34325
-"61",14439,"Sigtuna Brygghus",1275677825,4,4,3,"Witbier",4,3.5,"Sigtuna Sommar Wit",4.7,57076
-"62",14439,"Sigtuna Brygghus",1274262888,3.5,4,3.5,"Witbier",3.5,3.5,"Sigtuna Sommar Wit",4.7,57076
-"63",14439,"Sigtuna Brygghus",1273953523,3.5,4,4,"Witbier",3.5,3.5,"Sigtuna Sommar Wit",4.7,57076
-"64",14439,"Sigtuna Brygghus",1293921056,3,3,3.5,"English Brown Ale",3.5,3,"Sigtuna Merry Christmas",6,63587
-"65",14439,"Sigtuna Brygghus",1292696595,4,4,4,"English Brown Ale",3.5,4,"Sigtuna Merry Christmas",6,63587
-"66",14439,"Sigtuna Brygghus",1290962527,3,4,4,"English Brown Ale",3.5,3.5,"Sigtuna Merry Christmas",6,63587
-"67",14439,"Sigtuna Brygghus",1308418618,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Sigtuna South Pacific Pale Ale",5.4,58863
-"68",14439,"Sigtuna Brygghus",1277002492,4,4,4.5,"American Pale Ale (APA)",4,4,"Sigtuna South Pacific Pale Ale",5.4,58863
-"69",14439,"Sigtuna Brygghus",1183223794,2.5,3.5,3,"Altbier",2.5,4,"Humle-Hildas Altbier",4.7,32315
-"70",14439,"Sigtuna Brygghus",1164303255,3.5,3.5,4,"Altbier",3.5,3.5,"Humle-Hildas Altbier",4.7,32315
-"71",14439,"Sigtuna Brygghus",1252858948,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Sorbon X",5.6,49587
-"72",14439,"Sigtuna Brygghus",1323028085,3,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Sigtuna Saison",5.8,73664
-"73",14439,"Sigtuna Brygghus",1255195959,4,3,3,"Märzen / Oktoberfest",4,4,"Sigtuna Oktoberfest",5.5,52238
-"74",14439,"Sigtuna Brygghus",1252872206,4.5,4,4.5,"Märzen / Oktoberfest",4,4.5,"Sigtuna Oktoberfest",5.5,52238
-"75",14439,"Sigtuna Brygghus",1252364394,2.5,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Sigtuna Oktoberfest",5.5,52238
-"76",14439,"Sigtuna Brygghus",1252004470,2.5,3.5,3,"Märzen / Oktoberfest",3.5,2.5,"Sigtuna Oktoberfest",5.5,52238
-"77",14439,"Sigtuna Brygghus",1260482860,3.5,4,4,"Kölsch",3,3,"Gas-Jannes Golden Ale",5,32314
-"78",14439,"Sigtuna Brygghus",1221111043,4,3.5,3.5,"Kölsch",3.5,4,"Gas-Jannes Golden Ale",5,32314
-"79",14439,"Sigtuna Brygghus",1184005676,4,2,2,"Kölsch",4,4,"Gas-Jannes Golden Ale",5,32314
-"80",14439,"Sigtuna Brygghus",1164303089,3.5,4,4,"Kölsch",3,3.5,"Gas-Jannes Golden Ale",5,32314
-"81",14439,"Sigtuna Brygghus",1281581117,2.5,4,4,"American Amber / Red Ale",2.5,2,"Sigtuna Röd Påsk",6.2,55438
-"82",14439,"Sigtuna Brygghus",1271707475,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Sigtuna Röd Påsk",6.2,55438
-"83",14439,"Sigtuna Brygghus",1271191479,3,3.5,3.5,"American Amber / Red Ale",3,3,"Sigtuna Röd Påsk",6.2,55438
-"84",14439,"Sigtuna Brygghus",1270405783,3.5,4,4,"American Amber / Red Ale",3.5,4,"Sigtuna Röd Påsk",6.2,55438
-"85",14439,"Sigtuna Brygghus",1269028386,4,3.5,4,"American Amber / Red Ale",4,3.5,"Sigtuna Röd Påsk",6.2,55438
-"86",14439,"Sigtuna Brygghus",1269025601,3,3.5,4,"American Amber / Red Ale",4,3,"Sigtuna Röd Påsk",6.2,55438
-"87",14439,"Sigtuna Brygghus",1268948930,4,4.5,3.5,"American Amber / Red Ale",3.5,4,"Sigtuna Röd Påsk",6.2,55438
-"88",14439,"Sigtuna Brygghus",1166128099,4,4,3,"Belgian Strong Pale Ale",4,4,"Holiday Booster (-2008)",7.5,34191
-"89",14439,"Sigtuna Brygghus",1165610189,4,4.5,4,"Belgian Strong Pale Ale",4,4.5,"Holiday Booster (-2008)",7.5,34191
-"90",14439,"Sigtuna Brygghus",1291355465,3,3,3.5,"Winter Warmer",3,3,"Midvinternattens Mörker MNM",6.2,46068
-"91",14439,"Sigtuna Brygghus",1290886401,3.5,3.5,3.5,"Winter Warmer",3.5,4,"Midvinternattens Mörker MNM",6.2,46068
-"92",14439,"Sigtuna Brygghus",1324677455,4,4,4.5,"American Double / Imperial IPA",3.5,4,"Kissmeyer No. 1 Stockholm Syndrome DIPA",9,68010
-"93",14439,"Sigtuna Brygghus",1290446734,3.5,3,3,"Winter Warmer",3.5,4,"Midvinternattens Mörker MNM",6.2,46068
-"94",14439,"Sigtuna Brygghus",1260213763,4,4,3.5,"Winter Warmer",4,3.5,"Midvinternattens Mörker MNM",6.2,46068
-"95",14439,"Sigtuna Brygghus",1229807033,3.5,4,4,"Winter Warmer",4,3.5,"Midvinternattens Mörker MNM",6.2,46068
-"96",14439,"Sigtuna Brygghus",1227385547,2,2.5,4,"Winter Warmer",2,2.5,"Midvinternattens Mörker MNM",6.2,46068
-"97",14439,"Sigtuna Brygghus",1276803616,4,3,4,"American Amber / Red Lager",3.5,3.5,"Sigtuna East River Lager",5.2,54816
-"98",14439,"Sigtuna Brygghus",1313871383,3.5,4,3.5,"English Pale Ale",3,3.5,"Sigtuna Harvest Ale",4.9,69838
-"99",14439,"Sigtuna Brygghus",1313611597,4.5,4,4.5,"English Pale Ale",3,4,"Sigtuna Harvest Ale",4.9,69838
-"100",14439,"Sigtuna Brygghus",1313174922,4.5,4,4,"English Pale Ale",4.5,4,"Sigtuna Harvest Ale",4.9,69838
-"101",14439,"Sigtuna Brygghus",1312922411,3.5,3.5,3.5,"English Pale Ale",4,4,"Sigtuna Harvest Ale",4.9,69838
-"102",14439,"Sigtuna Brygghus",1317561235,3.5,4,4,"English Barleywine",4,3.5,"Sigtuna CPH Black Oak",14,73709
-"103",14439,"Sigtuna Brygghus",1183925462,2.5,3.5,2.5,"Witbier",3,3,"Biskop Stefans Kalk",4.7,33903
-"104",14439,"Sigtuna Brygghus",1164303462,4,4,3.5,"Witbier",3.5,4,"Biskop Stefans Kalk",4.7,33903
-"105",14439,"Sigtuna Brygghus",1248601163,4,4,4,"American Double / Imperial IPA",3.5,3.5,"Sigtuna Dubbel IPA",10,50459
-"106",14439,"Sigtuna Brygghus",1244990934,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Sigtuna Dubbel IPA",10,50459
-"107",14439,"Sigtuna Brygghus",1313262996,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Sigtuna Extra Sigtuna Bitter",5.6,54775
-"108",14439,"Sigtuna Brygghus",1313263208,3.5,3.5,4,"American Amber / Red Ale",4,4,"Sigtuna Red Ale",6.2,58862
-"109",14439,"Sigtuna Brygghus",1301764489,3.5,4,4,"American Amber / Red Ale",4,3.5,"Sigtuna Red Ale",6.2,58862
-"110",14439,"Sigtuna Brygghus",1280052720,3,4,3,"American Amber / Red Ale",3.5,3.5,"Sigtuna Red Ale",6.2,58862
-"111",14439,"Sigtuna Brygghus",1261323228,3.5,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Holiday Booster (2009-)",7.5,54893
-"112",14439,"Sigtuna Brygghus",1288072895,3,3,4,"Altbier",3.5,3,"Sigtuna Verstehe Nicht Alt",4.9,62266
-"113",14439,"Sigtuna Brygghus",1271178380,3.5,3.5,3.5,"English Stout",4,4,"Sigtuna Back In Black",4.5,57524
-"114",14439,"Sigtuna Brygghus",1302549089,3.5,3.5,3.5,"Hefeweizen",3,3.5,"Sigtuna Kellermeister Weiss",5.2,68011
-"115",14439,"Sigtuna Brygghus",1322860893,3.5,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Kissmeyer No. 1 Stockholm Syndrome DIPA",9,68010
-"116",14439,"Sigtuna Brygghus",1302547210,4.5,3.5,4,"American Double / Imperial IPA",4,4.5,"Kissmeyer No. 1 Stockholm Syndrome DIPA",9,68010
+"2",14439,"Sigtuna Brygghus",1315339136,3.5,4,4,"American IPA",2,4,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"3",14439,"Sigtuna Brygghus",1313262673,3.5,4,4,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"4",14439,"Sigtuna Brygghus",1313260638,4,4,4,"American IPA",4,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"5",14439,"Sigtuna Brygghus",1310647511,2.5,3,2.5,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"6",14439,"Sigtuna Brygghus",1307138267,4,4,3,"American IPA",4,4,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"7",14439,"Sigtuna Brygghus",1306781337,4,4,3.5,"American IPA",3.5,3.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"8",14439,"Sigtuna Brygghus",1305823359,3,4,4.5,"American IPA",3,2.5,"Sigtuna East Coast IPA (Summer IPA)",7,67461
+"9",14439,"Sigtuna Brygghus",1313263492,4,4,4.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
+"10",14439,"Sigtuna Brygghus",1240616517,2.5,4.5,4,"Altbier",3.5,3.5,"Påsk Alt Bier",7.5,48743
+"11",14439,"Sigtuna Brygghus",1238779345,4,4,3.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
+"12",14439,"Sigtuna Brygghus",1238702271,4.5,4.5,3.5,"Altbier",4,4,"Påsk Alt Bier",7.5,48743
+"13",14439,"Sigtuna Brygghus",1238264516,5,4,4.5,"Altbier",4.5,5,"Påsk Alt Bier",7.5,48743
+"14",14439,"Sigtuna Brygghus",1238103464,3,3,4,"Altbier",3.5,2.5,"Påsk Alt Bier",7.5,48743
+"15",14439,"Sigtuna Brygghus",1288970201,4,4,4,"Schwarzbier",4,4,"Sigtuna Black October",5,52237
+"16",14439,"Sigtuna Brygghus",1287085943,4,4,3,"Schwarzbier",4,4.5,"Sigtuna Black October",5,52237
+"17",14439,"Sigtuna Brygghus",1285859786,2.5,3.5,3,"Schwarzbier",2.5,3.5,"Sigtuna Black October",5,52237
+"18",14439,"Sigtuna Brygghus",1285788742,4,3.5,4,"Schwarzbier",4,3.5,"Sigtuna Black October",5,52237
+"19",14439,"Sigtuna Brygghus",1255195479,3.5,3,3.5,"Schwarzbier",3,3.5,"Sigtuna Black October",5,52237
+"20",14439,"Sigtuna Brygghus",1255017271,4.5,4,3.5,"Schwarzbier",4,4.5,"Sigtuna Black October",5,52237
+"21",14439,"Sigtuna Brygghus",1253899930,3,3.5,3.5,"Schwarzbier",3,2.5,"Sigtuna Black October",5,52237
+"22",14439,"Sigtuna Brygghus",1252093168,4,3,2.5,"Schwarzbier",3.5,3.5,"Sigtuna Black October",5,52237
+"23",14439,"Sigtuna Brygghus",1252018827,3,3,3.5,"Schwarzbier",3,2.5,"Sigtuna Black October",5,52237
+"24",14439,"Sigtuna Brygghus",1266085377,4,3.5,4,"Hefeweizen",4.5,3.5,"Sigtuna Vårweizen",5,55476
+"25",14439,"Sigtuna Brygghus",1281581835,2.5,2.5,4,"American Pale Ale (APA)",3.5,2.5,"Sigtuna Easter Ale",5.6,55437
+"26",14439,"Sigtuna Brygghus",1270838526,4.5,3,4.5,"American Pale Ale (APA)",5,3.5,"Sigtuna Easter Ale",5.6,55437
+"27",14439,"Sigtuna Brygghus",1270478186,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Sigtuna Easter Ale",5.6,55437
+"28",14439,"Sigtuna Brygghus",1269460928,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Sigtuna Easter Ale",5.6,55437
+"29",14439,"Sigtuna Brygghus",1269031783,4.5,4,4,"American Pale Ale (APA)",4,4,"Sigtuna Easter Ale",5.6,55437
+"30",14439,"Sigtuna Brygghus",1267037780,3.5,4,3.5,"Hefeweizen",4,4,"Sigtuna Vårweizen",5,55476
+"31",14439,"Sigtuna Brygghus",1266950836,3,3.5,3,"Hefeweizen",3,3.5,"Sigtuna Vårweizen",5,55476
+"32",14439,"Sigtuna Brygghus",1266617276,3.5,4,3.5,"Hefeweizen",3.5,3,"Sigtuna Vårweizen",5,55476
+"33",14439,"Sigtuna Brygghus",1265999495,4,3.5,4,"Hefeweizen",3.5,3.5,"Sigtuna Vårweizen",5,55476
+"34",14439,"Sigtuna Brygghus",1281581117,2.5,4,4,"American Amber / Red Ale",2.5,2,"Sigtuna Röd Påsk",6.2,55438
+"35",14439,"Sigtuna Brygghus",1271707475,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Sigtuna Röd Påsk",6.2,55438
+"36",14439,"Sigtuna Brygghus",1271191479,3,3.5,3.5,"American Amber / Red Ale",3,3,"Sigtuna Röd Påsk",6.2,55438
+"37",14439,"Sigtuna Brygghus",1270405783,3.5,4,4,"American Amber / Red Ale",3.5,4,"Sigtuna Röd Påsk",6.2,55438
+"38",14439,"Sigtuna Brygghus",1269028386,4,3.5,4,"American Amber / Red Ale",4,3.5,"Sigtuna Röd Påsk",6.2,55438
+"39",14439,"Sigtuna Brygghus",1269025601,3,3.5,4,"American Amber / Red Ale",4,3,"Sigtuna Röd Påsk",6.2,55438
+"40",14439,"Sigtuna Brygghus",1268948930,4,4.5,3.5,"American Amber / Red Ale",3.5,4,"Sigtuna Röd Påsk",6.2,55438
+"41",14439,"Sigtuna Brygghus",1291355465,3,3,3.5,"Winter Warmer",3,3,"Midvinternattens Mörker MNM",6.2,46068
+"42",14439,"Sigtuna Brygghus",1290886401,3.5,3.5,3.5,"Winter Warmer",3.5,4,"Midvinternattens Mörker MNM",6.2,46068
+"43",14439,"Sigtuna Brygghus",1290446734,3.5,3,3,"Winter Warmer",3.5,4,"Midvinternattens Mörker MNM",6.2,46068
+"44",14439,"Sigtuna Brygghus",1260213763,4,4,3.5,"Winter Warmer",4,3.5,"Midvinternattens Mörker MNM",6.2,46068
+"45",14439,"Sigtuna Brygghus",1229807033,3.5,4,4,"Winter Warmer",4,3.5,"Midvinternattens Mörker MNM",6.2,46068
+"46",14439,"Sigtuna Brygghus",1227385547,2,2.5,4,"Winter Warmer",2,2.5,"Midvinternattens Mörker MNM",6.2,46068

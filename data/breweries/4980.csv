@@ -1,60 +1,35 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",4980,"Engine House No.9",1288837719,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktober Fest",5,33283
 "2",4980,"Engine House No.9",1241661020,3,3,3.5,"Scottish Ale",3,3.5,"Scottish Ale",NA,32943
-"3",4980,"Engine House No.9",1323526690,4,4,4,"American Strong Ale",4,4,"Snow Cru",NA,76164
-"4",4980,"Engine House No.9",1155090772,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Potion 9",4.5,32148
-"5",4980,"Engine House No.9",1279519173,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Tacoma Brew",NA,25945
-"6",4980,"Engine House No.9",1198719086,2.5,3,3,"American Pale Ale (APA)",2.5,2.5,"Tacoma Brew",NA,25945
-"7",4980,"Engine House No.9",1157133915,4,3.5,3,"American Pale Ale (APA)",3,4,"Tacoma Brew",NA,25945
-"8",4980,"Engine House No.9",1154545596,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Tacoma Brew",NA,25945
-"9",4980,"Engine House No.9",1153976906,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Tacoma Brew",NA,25945
-"10",4980,"Engine House No.9",1318902284,4,3.5,3.5,"Czech Pilsener",4.5,4.5,"Northwest Pilsener",NA,74271
-"11",4980,"Engine House No.9",1253000067,4,4,4,"Märzen / Oktoberfest",4,4.5,"Oktober Fest",5,33283
-"12",4980,"Engine House No.9",1161149319,3.5,3.5,3,"Märzen / Oktoberfest",3.5,4,"Oktober Fest",5,33283
-"13",4980,"Engine House No.9",1155184702,1.5,2,3.5,"American Pale Ale (APA)",2.5,1.5,"Imperial Pale",NA,32176
-"14",4980,"Engine House No.9",1198719396,3,3,3,"American Amber / Red Ale",3,3,"Rowdy Dick Amber",6.2,32097
-"15",4980,"Engine House No.9",1155345703,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Rowdy Dick Amber",6.2,32097
-"16",4980,"Engine House No.9",1154928833,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Rowdy Dick Amber",6.2,32097
-"17",4980,"Engine House No.9",1320424639,3.5,3,4,"American IPA",2.5,3.5,"Galaxy Dry Hopped IPA",NA,74879
-"18",4980,"Engine House No.9",1290719332,4,4,4,"American IPA",4,3.5,"Fresh Hop IPA",NA,63881
-"19",4980,"Engine House No.9",1286816065,4,4,4,"American Strong Ale",4,4,"Barrel Aged Scottish Ale",NA,62516
-"20",4980,"Engine House No.9",1182302505,5,4,4.5,"American Porter",4,4.5,"Engine House Porter",5.9,32128
-"21",4980,"Engine House No.9",1157134471,4,3,3,"American Porter",3,3.5,"Engine House Porter",5.9,32128
-"22",4980,"Engine House No.9",1155089014,4,4,5,"American Porter",4.5,3.5,"Engine House Porter",5.9,32128
-"23",4980,"Engine House No.9",1155004025,3.5,2.5,3.5,"American Porter",3,3.5,"Engine House Porter",5.9,32128
-"24",4980,"Engine House No.9",1161148299,4,3,3.5,"Scottish Ale",4,3.5,"Scottish Ale",NA,32943
-"25",4980,"Engine House No.9",1159295631,4,3.5,3,"Scottish Ale",4,3.5,"Scottish Ale",NA,32943
-"26",4980,"Engine House No.9",1324041591,4,3,4,"American Wild Ale",4,4,"Love Child Kriek",5.9,76376
-"27",4980,"Engine House No.9",1324012735,4,4,4.5,"American Wild Ale",4.5,4,"Love Child Kriek",5.9,76376
-"28",4980,"Engine House No.9",1182307006,4,4,4,"Maibock / Helles Bock",4,4,"Spring Bock",7.2,37337
-"29",4980,"Engine House No.9",1161150816,4.5,4.5,4,"American Porter",4,4.5,"Mocha Porter",NA,33284
-"30",4980,"Engine House No.9",1325375708,4,3.5,3,"American IPA",4,4,"Engine House IPA",NA,31914
-"31",4980,"Engine House No.9",1279519619,3.5,3.5,4,"American IPA",4,4,"Engine House IPA",NA,31914
-"32",4980,"Engine House No.9",1198719694,3,3,3,"American IPA",3,2,"Engine House IPA",NA,31914
-"33",4980,"Engine House No.9",1158868934,4,3,4,"American IPA",3,4,"Engine House IPA",NA,31914
-"34",4980,"Engine House No.9",1154545189,3.5,2.5,3,"American IPA",3.5,3,"Engine House IPA",NA,31914
-"35",4980,"Engine House No.9",1153979562,4,3.5,3.5,"American IPA",3.5,3.5,"Engine House IPA",NA,31914
-"36",4980,"Engine House No.9",1291858710,3,3.5,4,"American Double / Imperial IPA",3,3,"Imperial IPA",NA,64235
-"37",4980,"Engine House No.9",1286931968,4,4,4,"American IPA",4,4.5,"Dry Hopped IPA",NA,62564
-"38",4980,"Engine House No.9",1294861691,2.5,2,4,"Winter Warmer",3,2.5,"Winter Warmer",NA,48086
-"39",4980,"Engine House No.9",1235267916,2.5,2.5,4,"Winter Warmer",4,2.5,"Winter Warmer",NA,48086
-"40",4980,"Engine House No.9",1155345262,4.5,5,4,"American Pale Wheat Ale",4,4.5,"Engine House Hefewizen",4.3,32129
-"41",4980,"Engine House No.9",1155004521,3,2.5,3,"American Pale Wheat Ale",3,3,"Engine House Hefewizen",4.3,32129
-"42",4980,"Engine House No.9",1157133450,4,4,4.5,"Irish Dry Stout",4,4,"Engine House Irish Stout",NA,31911
-"43",4980,"Engine House No.9",1153972450,4.5,4.5,4.5,"Irish Dry Stout",4.5,4.5,"Engine House Irish Stout",NA,31911
-"44",4980,"Engine House No.9",1313266721,2.5,3,4,"American Pale Ale (APA)",3,3,"Nugget Extra Pale",NA,72057
-"45",4980,"Engine House No.9",1282491177,3,3.5,4,"American Blonde Ale",3,3,"Potion #9",NA,61284
-"46",4980,"Engine House No.9",1318818684,4.5,4,4,"American Barleywine",4,4.5,"Old Dickens",16,37342
-"47",4980,"Engine House No.9",1318333252,4,4.5,4.5,"American Barleywine",4,4,"Old Dickens",16,37342
-"48",4980,"Engine House No.9",1318186396,4.5,5,4.5,"American Barleywine",4.5,4.5,"Old Dickens",16,37342
-"49",4980,"Engine House No.9",1235268950,4.5,5,4,"American Barleywine",4.5,4.5,"Old Dickens",16,37342
-"50",4980,"Engine House No.9",1182350739,4,4.5,4,"American Barleywine",4,4,"Old Dickens",16,37342
-"51",4980,"Engine House No.9",1282352598,4,4,3.5,"American Stout",4,4,"15th Anniversary Bourbon Barrel Aged Chocolate Stout",8.8,61220
-"52",4980,"Engine House No.9",1315159392,3,3,3,"American Pale Ale (APA)",3,3,"Dry Hopped Tacoma Brew",NA,72819
-"53",4980,"Engine House No.9",1287016078,3.5,3.5,3.5,"American Wild Ale",3.5,4,"Sour Ale",NA,62586
-"54",4980,"Engine House No.9",1155183659,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Fire Engine Red",NA,32175
-"55",4980,"Engine House No.9",1153977937,4,3.5,3.5,"Cream Ale",4,3.5,"Engine House Cream Ale",NA,31913
-"56",4980,"Engine House No.9",1191283480,3.5,3.5,3.5,"Witbier",3,3,"Belgian White",NA,25947
-"57",4980,"Engine House No.9",1155089918,2,1.5,3,"Witbier",3,2.5,"Belgian White",NA,25947
-"58",4980,"Engine House No.9",1154546070,3,3,3.5,"Witbier",3.5,3,"Belgian White",NA,25947
-"59",4980,"Engine House No.9",1158867372,4.5,3,3,"Belgian Dark Ale",3,3.5,"Belgian Brown",NA,32872
+"3",4980,"Engine House No.9",1279519173,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Tacoma Brew",NA,25945
+"4",4980,"Engine House No.9",1198719086,2.5,3,3,"American Pale Ale (APA)",2.5,2.5,"Tacoma Brew",NA,25945
+"5",4980,"Engine House No.9",1157133915,4,3.5,3,"American Pale Ale (APA)",3,4,"Tacoma Brew",NA,25945
+"6",4980,"Engine House No.9",1154545596,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Tacoma Brew",NA,25945
+"7",4980,"Engine House No.9",1153976906,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Tacoma Brew",NA,25945
+"8",4980,"Engine House No.9",1253000067,4,4,4,"Märzen / Oktoberfest",4,4.5,"Oktober Fest",5,33283
+"9",4980,"Engine House No.9",1161149319,3.5,3.5,3,"Märzen / Oktoberfest",3.5,4,"Oktober Fest",5,33283
+"10",4980,"Engine House No.9",1290719332,4,4,4,"American IPA",4,3.5,"Fresh Hop IPA",NA,63881
+"11",4980,"Engine House No.9",1161148299,4,3,3.5,"Scottish Ale",4,3.5,"Scottish Ale",NA,32943
+"12",4980,"Engine House No.9",1159295631,4,3.5,3,"Scottish Ale",4,3.5,"Scottish Ale",NA,32943
+"13",4980,"Engine House No.9",1182307006,4,4,4,"Maibock / Helles Bock",4,4,"Spring Bock",7.2,37337
+"14",4980,"Engine House No.9",1161150816,4.5,4.5,4,"American Porter",4,4.5,"Mocha Porter",NA,33284
+"15",4980,"Engine House No.9",1325375708,4,3.5,3,"American IPA",4,4,"Engine House IPA",NA,31914
+"16",4980,"Engine House No.9",1279519619,3.5,3.5,4,"American IPA",4,4,"Engine House IPA",NA,31914
+"17",4980,"Engine House No.9",1198719694,3,3,3,"American IPA",3,2,"Engine House IPA",NA,31914
+"18",4980,"Engine House No.9",1158868934,4,3,4,"American IPA",3,4,"Engine House IPA",NA,31914
+"19",4980,"Engine House No.9",1154545189,3.5,2.5,3,"American IPA",3.5,3,"Engine House IPA",NA,31914
+"20",4980,"Engine House No.9",1153979562,4,3.5,3.5,"American IPA",3.5,3.5,"Engine House IPA",NA,31914
+"21",4980,"Engine House No.9",1291858710,3,3.5,4,"American Double / Imperial IPA",3,3,"Imperial IPA",NA,64235
+"22",4980,"Engine House No.9",1286931968,4,4,4,"American IPA",4,4.5,"Dry Hopped IPA",NA,62564
+"23",4980,"Engine House No.9",1294861691,2.5,2,4,"Winter Warmer",3,2.5,"Winter Warmer",NA,48086
+"24",4980,"Engine House No.9",1235267916,2.5,2.5,4,"Winter Warmer",4,2.5,"Winter Warmer",NA,48086
+"25",4980,"Engine House No.9",1318818684,4.5,4,4,"American Barleywine",4,4.5,"Old Dickens",16,37342
+"26",4980,"Engine House No.9",1318333252,4,4.5,4.5,"American Barleywine",4,4,"Old Dickens",16,37342
+"27",4980,"Engine House No.9",1318186396,4.5,5,4.5,"American Barleywine",4.5,4.5,"Old Dickens",16,37342
+"28",4980,"Engine House No.9",1235268950,4.5,5,4,"American Barleywine",4.5,4.5,"Old Dickens",16,37342
+"29",4980,"Engine House No.9",1182350739,4,4.5,4,"American Barleywine",4,4,"Old Dickens",16,37342
+"30",4980,"Engine House No.9",1155183659,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Fire Engine Red",NA,32175
+"31",4980,"Engine House No.9",1191283480,3.5,3.5,3.5,"Witbier",3,3,"Belgian White",NA,25947
+"32",4980,"Engine House No.9",1155089918,2,1.5,3,"Witbier",3,2.5,"Belgian White",NA,25947
+"33",4980,"Engine House No.9",1154546070,3,3,3.5,"Witbier",3.5,3,"Belgian White",NA,25947
+"34",4980,"Engine House No.9",1158867372,4.5,3,3,"Belgian Dark Ale",3,3.5,"Belgian Brown",NA,32872

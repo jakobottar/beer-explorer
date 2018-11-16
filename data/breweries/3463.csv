@@ -1,91 +1,84 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",3463,"Brouwerij Contreras",1130592415,4,4,4,"Belgian Dark Ale",4.5,4,"Carlos",6.5,26658
-"2",3463,"Brouwerij Contreras",1244870551,3.5,3.5,3.5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
-"3",3463,"Brouwerij Contreras",1243906515,3.5,4,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
-"4",3463,"Brouwerij Contreras",1234060514,4.5,4,4,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
-"5",3463,"Brouwerij Contreras",1320422732,4.5,4.5,4,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
-"6",3463,"Brouwerij Contreras",1307917481,4.5,5,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
-"7",3463,"Brouwerij Contreras",1302915671,4,4,4,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
-"8",3463,"Brouwerij Contreras",1300141059,4,4,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
-"9",3463,"Brouwerij Contreras",1299123195,4,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"10",3463,"Brouwerij Contreras",1294923230,4.5,3.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"11",3463,"Brouwerij Contreras",1294717350,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"12",3463,"Brouwerij Contreras",1290842409,4,4.5,4,"Belgian IPA",4.5,4.5,"Valeir Extra",6.5,50435
-"13",3463,"Brouwerij Contreras",1284961275,3.5,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"14",3463,"Brouwerij Contreras",1284566342,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"15",3463,"Brouwerij Contreras",1282269496,4,3.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"16",3463,"Brouwerij Contreras",1278283728,4.5,4,3.5,"Belgian IPA",4.5,4,"Valeir Extra",6.5,50435
-"17",3463,"Brouwerij Contreras",1277858911,4,3.5,4.5,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
-"18",3463,"Brouwerij Contreras",1275803472,4,4,3.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"19",3463,"Brouwerij Contreras",1275272630,3,3.5,4.5,"Belgian IPA",1.5,3,"Valeir Extra",6.5,50435
-"20",3463,"Brouwerij Contreras",1268443819,4,3.5,5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
-"21",3463,"Brouwerij Contreras",1268333898,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"22",3463,"Brouwerij Contreras",1266477427,5,4,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
-"23",3463,"Brouwerij Contreras",1261703234,4,4.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"24",3463,"Brouwerij Contreras",1258145676,4.5,4,4.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"25",3463,"Brouwerij Contreras",1257350079,4.5,4,4,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
-"26",3463,"Brouwerij Contreras",1257000321,4,4,4.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"27",3463,"Brouwerij Contreras",1253815460,3.5,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
-"28",3463,"Brouwerij Contreras",1252566795,4.5,4,4.5,"Belgian IPA",4.5,4.5,"Valeir Extra",6.5,50435
-"29",3463,"Brouwerij Contreras",1251818001,4,4,3,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
-"30",3463,"Brouwerij Contreras",1250535748,4,4,3.5,"Belgian IPA",3,3.5,"Valeir Extra",6.5,50435
-"31",3463,"Brouwerij Contreras",1249663526,4,4,4,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
-"32",3463,"Brouwerij Contreras",1249572477,3.5,3.5,3.5,"Belgian IPA",3,3.5,"Valeir Extra",6.5,50435
-"33",3463,"Brouwerij Contreras",1249499067,2.5,4,3.5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
-"34",3463,"Brouwerij Contreras",1249158119,4.5,3.5,3.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
-"35",3463,"Brouwerij Contreras",1135535707,3,3.5,3,"Belgian Strong Pale Ale",3.5,3,"X-mas Beer",8.5,27512
-"36",3463,"Brouwerij Contreras",1323987793,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
-"37",3463,"Brouwerij Contreras",1321933716,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Valeir Divers",8.5,28030
-"38",3463,"Brouwerij Contreras",1311203788,3.5,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Valeir Divers",8.5,28030
-"39",3463,"Brouwerij Contreras",1287853603,4,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Valeir Divers",8.5,28030
-"40",3463,"Brouwerij Contreras",1287813617,3,5,4.5,"Belgian Strong Pale Ale",4,3,"Valeir Divers",8.5,28030
-"41",3463,"Brouwerij Contreras",1285540691,2.5,2,3.5,"Belgian Strong Pale Ale",4,2,"Valeir Divers",8.5,28030
-"42",3463,"Brouwerij Contreras",1280794406,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Valeir Divers",8.5,28030
-"43",3463,"Brouwerij Contreras",1275966476,4,2.5,4.5,"Belgian Strong Pale Ale",4.5,4.5,"Valeir Divers",8.5,28030
-"44",3463,"Brouwerij Contreras",1275518394,5,4.5,4,"Belgian Strong Pale Ale",5,4.5,"Valeir Divers",8.5,28030
-"45",3463,"Brouwerij Contreras",1266284486,4,4,5,"Belgian Strong Pale Ale",3.5,4,"Valeir Divers",8.5,28030
-"46",3463,"Brouwerij Contreras",1244748618,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Valeir Divers",8.5,28030
-"47",3463,"Brouwerij Contreras",1238444960,4.5,3.5,3.5,"Belgian Strong Pale Ale",4,4.5,"Valeir Divers",8.5,28030
-"48",3463,"Brouwerij Contreras",1235191041,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
-"49",3463,"Brouwerij Contreras",1224814724,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Valeir Divers",8.5,28030
-"50",3463,"Brouwerij Contreras",1138379295,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
-"51",3463,"Brouwerij Contreras",1318562553,3.5,4,4.5,"Belgian Pale Ale",3.5,3,"Valeir Blond",6.5,57082
-"52",3463,"Brouwerij Contreras",1312311445,4,4,3.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
-"53",3463,"Brouwerij Contreras",1312154777,4,4,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
-"54",3463,"Brouwerij Contreras",1308797499,4.5,4,4.5,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
-"55",3463,"Brouwerij Contreras",1304302758,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Valeir Blond",6.5,57082
-"56",3463,"Brouwerij Contreras",1304226313,3.5,4,2,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
-"57",3463,"Brouwerij Contreras",1294717322,3.5,3.5,3.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
-"58",3463,"Brouwerij Contreras",1285117957,4.5,4,4,"Belgian Pale Ale",4.5,4,"Valeir Blond",6.5,57082
-"59",3463,"Brouwerij Contreras",1273457822,4.5,4,4,"Belgian Pale Ale",4.5,4,"Valeir Blond",6.5,57082
-"60",3463,"Brouwerij Contreras",1269549308,4,3.5,4.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
-"61",3463,"Brouwerij Contreras",1266861759,4,4,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
-"62",3463,"Brouwerij Contreras",1253723032,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
-"63",3463,"Brouwerij Contreras",1244573618,3.5,3.5,4,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
-"64",3463,"Brouwerij Contreras",1236992910,4,3.5,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
-"65",3463,"Brouwerij Contreras",1236663249,3.5,3.5,4,"Belgian Pale Ale",3,3,"Valeir Blond",6.5,57082
-"66",3463,"Brouwerij Contreras",1236458611,3.5,3.5,4.5,"Belgian Pale Ale",3,3.5,"Valeir Blond",6.5,57082
-"67",3463,"Brouwerij Contreras",1235250198,4.5,4,3.5,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
-"68",3463,"Brouwerij Contreras",1142912880,3.5,3.5,3.5,"Belgian Pale Ale",4,3.5,"Valeir Blond",6.5,57082
-"69",3463,"Brouwerij Contreras",1116280034,4.5,5,4,"Belgian Pale Ale",5,4.5,"Valeir Blond",6.5,57082
-"70",3463,"Brouwerij Contreras",1241105668,4.5,4,4.5,"Belgian Pale Ale",4,3.5,"Mars",6.5,26719
-"71",3463,"Brouwerij Contreras",1237574477,4,3.5,4,"Belgian Pale Ale",4,4.5,"Mars",6.5,26719
-"72",3463,"Brouwerij Contreras",1236866495,4,4,3.5,"Belgian Pale Ale",3.5,4,"Mars",6.5,26719
-"73",3463,"Brouwerij Contreras",1210184276,3,4,4,"Belgian Pale Ale",4,3.5,"Mars",6.5,26719
-"74",3463,"Brouwerij Contreras",1130879111,4.5,5,4,"Belgian Pale Ale",4,4,"Mars",6.5,26719
-"75",3463,"Brouwerij Contreras",1319903007,3.5,3.5,4,"Belgian Pale Ale",3.5,3,"Tonneke",4.8,16454
-"76",3463,"Brouwerij Contreras",1298197794,3.5,3.5,3,"Belgian Pale Ale",3,3,"Tonneke",4.8,16454
-"77",3463,"Brouwerij Contreras",1318056760,3,4.5,4.5,"Belgian Dark Ale",4.5,3,"Valeir Donker",6.5,28264
-"78",3463,"Brouwerij Contreras",1308275622,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Valeir Donker",6.5,28264
-"79",3463,"Brouwerij Contreras",1300053406,4,4,4.5,"Belgian Dark Ale",3.5,4,"Valeir Donker",6.5,28264
-"80",3463,"Brouwerij Contreras",1298089722,4,4,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
-"81",3463,"Brouwerij Contreras",1297131807,3,4,4,"Belgian Dark Ale",3,3.5,"Valeir Donker",6.5,28264
-"82",3463,"Brouwerij Contreras",1277878135,4,4,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
-"83",3463,"Brouwerij Contreras",1243984108,4.5,4,4.5,"Belgian Dark Ale",4.5,4.5,"Valeir Donker",6.5,28264
-"84",3463,"Brouwerij Contreras",1236663040,4,3.5,4.5,"Belgian Dark Ale",3.5,3.5,"Valeir Donker",6.5,28264
-"85",3463,"Brouwerij Contreras",1235252645,4,4.5,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
-"86",3463,"Brouwerij Contreras",1234319271,4.5,4,4,"Belgian Dark Ale",4,4.5,"Valeir Donker",6.5,28264
-"87",3463,"Brouwerij Contreras",1139490912,4,4,4,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
-"88",3463,"Brouwerij Contreras",1131126329,4.5,4.5,4.5,"Märzen / Oktoberfest",4.5,4.5,"Contreras Martzenbier",6.2,16455
-"89",3463,"Brouwerij Contreras",1087964911,3,3,3.5,"Märzen / Oktoberfest",3.5,2.5,"Contreras Martzenbier",6.2,16455
-"90",3463,"Brouwerij Contreras",1079266692,4,3,2.5,"Märzen / Oktoberfest",3,3,"Contreras Martzenbier",6.2,16455
+"1",3463,"Brouwerij Contreras",1244870551,3.5,3.5,3.5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
+"2",3463,"Brouwerij Contreras",1243906515,3.5,4,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
+"3",3463,"Brouwerij Contreras",1234060514,4.5,4,4,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
+"4",3463,"Brouwerij Contreras",1320422732,4.5,4.5,4,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
+"5",3463,"Brouwerij Contreras",1307917481,4.5,5,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
+"6",3463,"Brouwerij Contreras",1302915671,4,4,4,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
+"7",3463,"Brouwerij Contreras",1300141059,4,4,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
+"8",3463,"Brouwerij Contreras",1299123195,4,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"9",3463,"Brouwerij Contreras",1294923230,4.5,3.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"10",3463,"Brouwerij Contreras",1294717350,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"11",3463,"Brouwerij Contreras",1290842409,4,4.5,4,"Belgian IPA",4.5,4.5,"Valeir Extra",6.5,50435
+"12",3463,"Brouwerij Contreras",1284961275,3.5,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"13",3463,"Brouwerij Contreras",1284566342,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"14",3463,"Brouwerij Contreras",1282269496,4,3.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"15",3463,"Brouwerij Contreras",1278283728,4.5,4,3.5,"Belgian IPA",4.5,4,"Valeir Extra",6.5,50435
+"16",3463,"Brouwerij Contreras",1277858911,4,3.5,4.5,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
+"17",3463,"Brouwerij Contreras",1275803472,4,4,3.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"18",3463,"Brouwerij Contreras",1275272630,3,3.5,4.5,"Belgian IPA",1.5,3,"Valeir Extra",6.5,50435
+"19",3463,"Brouwerij Contreras",1268443819,4,3.5,5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
+"20",3463,"Brouwerij Contreras",1268333898,4,4,4,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"21",3463,"Brouwerij Contreras",1266477427,5,4,4.5,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
+"22",3463,"Brouwerij Contreras",1261703234,4,4.5,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"23",3463,"Brouwerij Contreras",1258145676,4.5,4,4.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"24",3463,"Brouwerij Contreras",1257350079,4.5,4,4,"Belgian IPA",4,4.5,"Valeir Extra",6.5,50435
+"25",3463,"Brouwerij Contreras",1257000321,4,4,4.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"26",3463,"Brouwerij Contreras",1253815460,3.5,4,4,"Belgian IPA",4,3.5,"Valeir Extra",6.5,50435
+"27",3463,"Brouwerij Contreras",1252566795,4.5,4,4.5,"Belgian IPA",4.5,4.5,"Valeir Extra",6.5,50435
+"28",3463,"Brouwerij Contreras",1251818001,4,4,3,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
+"29",3463,"Brouwerij Contreras",1250535748,4,4,3.5,"Belgian IPA",3,3.5,"Valeir Extra",6.5,50435
+"30",3463,"Brouwerij Contreras",1249663526,4,4,4,"Belgian IPA",3.5,4,"Valeir Extra",6.5,50435
+"31",3463,"Brouwerij Contreras",1249572477,3.5,3.5,3.5,"Belgian IPA",3,3.5,"Valeir Extra",6.5,50435
+"32",3463,"Brouwerij Contreras",1249499067,2.5,4,3.5,"Belgian IPA",3.5,3.5,"Valeir Extra",6.5,50435
+"33",3463,"Brouwerij Contreras",1249158119,4.5,3.5,3.5,"Belgian IPA",4,4,"Valeir Extra",6.5,50435
+"34",3463,"Brouwerij Contreras",1323987793,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
+"35",3463,"Brouwerij Contreras",1321933716,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Valeir Divers",8.5,28030
+"36",3463,"Brouwerij Contreras",1311203788,3.5,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Valeir Divers",8.5,28030
+"37",3463,"Brouwerij Contreras",1287853603,4,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Valeir Divers",8.5,28030
+"38",3463,"Brouwerij Contreras",1287813617,3,5,4.5,"Belgian Strong Pale Ale",4,3,"Valeir Divers",8.5,28030
+"39",3463,"Brouwerij Contreras",1285540691,2.5,2,3.5,"Belgian Strong Pale Ale",4,2,"Valeir Divers",8.5,28030
+"40",3463,"Brouwerij Contreras",1280794406,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Valeir Divers",8.5,28030
+"41",3463,"Brouwerij Contreras",1275966476,4,2.5,4.5,"Belgian Strong Pale Ale",4.5,4.5,"Valeir Divers",8.5,28030
+"42",3463,"Brouwerij Contreras",1275518394,5,4.5,4,"Belgian Strong Pale Ale",5,4.5,"Valeir Divers",8.5,28030
+"43",3463,"Brouwerij Contreras",1266284486,4,4,5,"Belgian Strong Pale Ale",3.5,4,"Valeir Divers",8.5,28030
+"44",3463,"Brouwerij Contreras",1244748618,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Valeir Divers",8.5,28030
+"45",3463,"Brouwerij Contreras",1238444960,4.5,3.5,3.5,"Belgian Strong Pale Ale",4,4.5,"Valeir Divers",8.5,28030
+"46",3463,"Brouwerij Contreras",1235191041,4,3.5,4.5,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
+"47",3463,"Brouwerij Contreras",1224814724,4,4,4,"Belgian Strong Pale Ale",3.5,4,"Valeir Divers",8.5,28030
+"48",3463,"Brouwerij Contreras",1138379295,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Valeir Divers",8.5,28030
+"49",3463,"Brouwerij Contreras",1318562553,3.5,4,4.5,"Belgian Pale Ale",3.5,3,"Valeir Blond",6.5,57082
+"50",3463,"Brouwerij Contreras",1312311445,4,4,3.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
+"51",3463,"Brouwerij Contreras",1312154777,4,4,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
+"52",3463,"Brouwerij Contreras",1308797499,4.5,4,4.5,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
+"53",3463,"Brouwerij Contreras",1304302758,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Valeir Blond",6.5,57082
+"54",3463,"Brouwerij Contreras",1304226313,3.5,4,2,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
+"55",3463,"Brouwerij Contreras",1294717322,3.5,3.5,3.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
+"56",3463,"Brouwerij Contreras",1285117957,4.5,4,4,"Belgian Pale Ale",4.5,4,"Valeir Blond",6.5,57082
+"57",3463,"Brouwerij Contreras",1273457822,4.5,4,4,"Belgian Pale Ale",4.5,4,"Valeir Blond",6.5,57082
+"58",3463,"Brouwerij Contreras",1269549308,4,3.5,4.5,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
+"59",3463,"Brouwerij Contreras",1266861759,4,4,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
+"60",3463,"Brouwerij Contreras",1253723032,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Valeir Blond",6.5,57082
+"61",3463,"Brouwerij Contreras",1244573618,3.5,3.5,4,"Belgian Pale Ale",3.5,4,"Valeir Blond",6.5,57082
+"62",3463,"Brouwerij Contreras",1236992910,4,3.5,4,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
+"63",3463,"Brouwerij Contreras",1236663249,3.5,3.5,4,"Belgian Pale Ale",3,3,"Valeir Blond",6.5,57082
+"64",3463,"Brouwerij Contreras",1236458611,3.5,3.5,4.5,"Belgian Pale Ale",3,3.5,"Valeir Blond",6.5,57082
+"65",3463,"Brouwerij Contreras",1235250198,4.5,4,3.5,"Belgian Pale Ale",4,4,"Valeir Blond",6.5,57082
+"66",3463,"Brouwerij Contreras",1142912880,3.5,3.5,3.5,"Belgian Pale Ale",4,3.5,"Valeir Blond",6.5,57082
+"67",3463,"Brouwerij Contreras",1116280034,4.5,5,4,"Belgian Pale Ale",5,4.5,"Valeir Blond",6.5,57082
+"68",3463,"Brouwerij Contreras",1241105668,4.5,4,4.5,"Belgian Pale Ale",4,3.5,"Mars",6.5,26719
+"69",3463,"Brouwerij Contreras",1237574477,4,3.5,4,"Belgian Pale Ale",4,4.5,"Mars",6.5,26719
+"70",3463,"Brouwerij Contreras",1236866495,4,4,3.5,"Belgian Pale Ale",3.5,4,"Mars",6.5,26719
+"71",3463,"Brouwerij Contreras",1210184276,3,4,4,"Belgian Pale Ale",4,3.5,"Mars",6.5,26719
+"72",3463,"Brouwerij Contreras",1130879111,4.5,5,4,"Belgian Pale Ale",4,4,"Mars",6.5,26719
+"73",3463,"Brouwerij Contreras",1318056760,3,4.5,4.5,"Belgian Dark Ale",4.5,3,"Valeir Donker",6.5,28264
+"74",3463,"Brouwerij Contreras",1308275622,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Valeir Donker",6.5,28264
+"75",3463,"Brouwerij Contreras",1300053406,4,4,4.5,"Belgian Dark Ale",3.5,4,"Valeir Donker",6.5,28264
+"76",3463,"Brouwerij Contreras",1298089722,4,4,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
+"77",3463,"Brouwerij Contreras",1297131807,3,4,4,"Belgian Dark Ale",3,3.5,"Valeir Donker",6.5,28264
+"78",3463,"Brouwerij Contreras",1277878135,4,4,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
+"79",3463,"Brouwerij Contreras",1243984108,4.5,4,4.5,"Belgian Dark Ale",4.5,4.5,"Valeir Donker",6.5,28264
+"80",3463,"Brouwerij Contreras",1236663040,4,3.5,4.5,"Belgian Dark Ale",3.5,3.5,"Valeir Donker",6.5,28264
+"81",3463,"Brouwerij Contreras",1235252645,4,4.5,4.5,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264
+"82",3463,"Brouwerij Contreras",1234319271,4.5,4,4,"Belgian Dark Ale",4,4.5,"Valeir Donker",6.5,28264
+"83",3463,"Brouwerij Contreras",1139490912,4,4,4,"Belgian Dark Ale",4,4,"Valeir Donker",6.5,28264

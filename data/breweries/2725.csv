@@ -1,70 +1,30 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",2725,"Kraftbräu Brewery",1153705224,3.5,4,3.5,"Altbier",4,3,"Kraftbräu Summer Alt",7,6458
-"2",2725,"Kraftbräu Brewery",1085780440,2,3,3.5,"Altbier",2,2.5,"Kraftbräu Summer Alt",7,6458
-"3",2725,"Kraftbräu Brewery",1095531510,4,4,4,"Dortmunder / Export Lager",4,4,"Kraftbräu Celery City Dortmunder Export",6,19912
-"4",2725,"Kraftbräu Brewery",1086532485,4,4.5,4,"Tripel",4,4.5,"Kraftbräu Blonde Trippel",9.5,17215
-"5",2725,"Kraftbräu Brewery",1082591708,4,4.5,4,"Tripel",4,4.5,"Kraftbräu Blonde Trippel",9.5,17215
-"6",2725,"Kraftbräu Brewery",1158944882,3,4,3,"Fruit / Vegetable Beer",3,3,"Kraftbräu Raspberry Wheat",NA,32886
-"7",2725,"Kraftbräu Brewery",1158639629,3,3,3,"Irish Dry Stout",3,2.5,"Kraftbräu Robbie O'Soundman's Irish Stout",4.8,6464
-"8",2725,"Kraftbräu Brewery",1083447801,3.5,4,5,"Altbier",3.5,3.5,"Kraftbräu Winter Alt",5.5,7695
-"9",2725,"Kraftbräu Brewery",1069444203,3.5,3.5,4,"Altbier",3.5,3.5,"Kraftbräu Winter Alt",5.5,7695
-"10",2725,"Kraftbräu Brewery",1041006081,3.5,3.5,3.5,"Altbier",3.5,3.5,"Kraftbräu Winter Alt",5.5,7695
-"11",2725,"Kraftbräu Brewery",1145903154,3.5,3,3.5,"Dunkelweizen",3.5,3.5,"Kraftbräu Blackberry Dunkel",NA,30114
-"12",2725,"Kraftbräu Brewery",1196055990,3,3,3,"Czech Pilsener",3,3.5,"Kraftbräu Bohemian",5,6450
-"13",2725,"Kraftbräu Brewery",1147026158,4.5,3.5,4.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
-"14",2725,"Kraftbräu Brewery",1124375643,3,3,3,"Czech Pilsener",3,3.5,"Kraftbräu Bohemian",5,6450
-"15",2725,"Kraftbräu Brewery",1094685702,3.5,4,3,"Czech Pilsener",4,4,"Kraftbräu Bohemian",5,6450
-"16",2725,"Kraftbräu Brewery",1091660625,4.5,4.5,4,"Czech Pilsener",4,4,"Kraftbräu Bohemian",5,6450
-"17",2725,"Kraftbräu Brewery",1082677929,4,3.5,3.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
-"18",2725,"Kraftbräu Brewery",1069443719,4.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
-"19",2725,"Kraftbräu Brewery",1057304143,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Kraftbräu Scotch Ale",8,8681
-"20",2725,"Kraftbräu Brewery",1085779000,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Kraftbräu Maibock",7.5,6453
-"21",2725,"Kraftbräu Brewery",1084341610,3,3,4,"Maibock / Helles Bock",3,3,"Kraftbräu Maibock",7.5,6453
-"22",2725,"Kraftbräu Brewery",1068423105,4,3.5,3,"Maibock / Helles Bock",2.5,3.5,"Kraftbräu Maibock",7.5,6453
-"23",2725,"Kraftbräu Brewery",1174103574,3.5,3.5,3.5,"American Stout",3.5,3.5,"Kraftbräu Chocolate Stout",6,21439
-"24",2725,"Kraftbräu Brewery",1143334351,3,3.5,3,"American Stout",3.5,3,"Kraftbräu Chocolate Stout",6,21439
-"25",2725,"Kraftbräu Brewery",1104898704,4,3,3.5,"American Stout",3.5,3.5,"Kraftbräu Chocolate Stout",6,21439
-"26",2725,"Kraftbräu Brewery",1124375769,3.5,3.5,4,"German Pilsener",3,4,"Kraftbräu Hoppity Boop Lager",5,25344
-"27",2725,"Kraftbräu Brewery",1059261342,4.5,4.5,4,"Bière de Garde",4,4.5,"Kraftbräu Biere De Garde",NA,11758
-"28",2725,"Kraftbräu Brewery",1157816879,3,3,3,"English Porter",3.5,2,"Kraftbräu Porter",NA,32680
-"29",2725,"Kraftbräu Brewery",1124375831,4,4,3,"American Amber / Red Ale",4,3.5,"Kraftbräu Rock Harbor Red Ale",6.5,6454
-"30",2725,"Kraftbräu Brewery",1095182110,4,3.5,4,"American Amber / Red Ale",4,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
-"31",2725,"Kraftbräu Brewery",1091660815,3,4,1,"American Amber / Red Ale",3,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
-"32",2725,"Kraftbräu Brewery",1081311971,4.5,4,4,"American Amber / Red Ale",4,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
-"33",2725,"Kraftbräu Brewery",1081221415,3.5,4,4,"American Amber / Red Ale",4,3.5,"Kraftbräu Rock Harbor Red Ale",6.5,6454
-"34",2725,"Kraftbräu Brewery",1174103775,4,3.5,4,"American Double / Imperial IPA",4,3.5,"Kraftbräu Imperial IPA",NA,35888
-"35",2725,"Kraftbräu Brewery",1104276051,4,3,2,"Euro Dark Lager",3,4,"Kraftbräu Dutch Lager",NA,14978
-"36",2725,"Kraftbräu Brewery",1085773697,3,3,3.5,"Euro Dark Lager",3,3,"Kraftbräu Dutch Lager",NA,14978
-"37",2725,"Kraftbräu Brewery",1072016098,3.5,3,3.5,"Euro Dark Lager",3.5,3.5,"Kraftbräu Dutch Lager",NA,14978
-"38",2725,"Kraftbräu Brewery",1152463667,3.5,3,3,"Munich Helles Lager",3,3.5,"Kraftbräu Helles",4.5,6447
-"39",2725,"Kraftbräu Brewery",1104803962,4.5,3.5,4,"Munich Helles Lager",4,3.5,"Kraftbräu Helles",4.5,6447
-"40",2725,"Kraftbräu Brewery",1057303482,3.5,3.5,2.5,"Munich Helles Lager",4,3,"Kraftbräu Helles",4.5,6447
-"41",2725,"Kraftbräu Brewery",1095014058,3,3.5,4,"Vienna Lager",2.5,3.5,"Kraftbräu Vienna",5.5,6446
-"42",2725,"Kraftbräu Brewery",1085774193,2,3,3.5,"Vienna Lager",3,2.5,"Kraftbräu Vienna",5.5,6446
-"43",2725,"Kraftbräu Brewery",1084330755,2,3,4,"Vienna Lager",2,2,"Kraftbräu Vienna",5.5,6446
-"44",2725,"Kraftbräu Brewery",1075053663,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Kraftbräu Vienna",5.5,6446
-"45",2725,"Kraftbräu Brewery",1059933914,3,3,3,"Vienna Lager",3,3,"Kraftbräu Vienna",5.5,6446
-"46",2725,"Kraftbräu Brewery",1034269721,3,3.5,4,"English Brown Ale",3,3.5,"Kraftbräu Brown Ale",NA,6541
-"47",2725,"Kraftbräu Brewery",1091490961,4,3.5,3,"Munich Dunkel Lager",4,4,"Kraftbräu Munich Red",5.5,6457
-"48",2725,"Kraftbräu Brewery",1071366467,1.5,2.5,2,"Munich Dunkel Lager",1.5,2,"Kraftbräu Munich Red",5.5,6457
-"49",2725,"Kraftbräu Brewery",1057304073,4,3.5,4,"Munich Dunkel Lager",4,4,"Kraftbräu Munich Red",5.5,6457
-"50",2725,"Kraftbräu Brewery",1033796605,4,3.5,4,"Munich Dunkel Lager",4,4,"Kraftbräu Munich Red",5.5,6457
-"51",2725,"Kraftbräu Brewery",1124377257,2,3,4,"Munich Dunkel Lager",2,2,"Kraftbräu Dunkel",5,6448
-"52",2725,"Kraftbräu Brewery",1104868419,3,2.5,2.5,"Munich Dunkel Lager",3,2,"Kraftbräu Dunkel",5,6448
-"53",2725,"Kraftbräu Brewery",1092352690,3,3,3,"Munich Dunkel Lager",2.5,4,"Kraftbräu Dunkel",5,6448
-"54",2725,"Kraftbräu Brewery",1087526055,4,3.5,4,"Munich Dunkel Lager",4,3.5,"Kraftbräu Dunkel",5,6448
-"55",2725,"Kraftbräu Brewery",1085775264,3,3,4,"Munich Dunkel Lager",3,3,"Kraftbräu Dunkel",5,6448
-"56",2725,"Kraftbräu Brewery",1057934780,4.5,2.5,2,"Munich Dunkel Lager",2.5,4.5,"Kraftbräu Dunkel",5,6448
-"57",2725,"Kraftbräu Brewery",1057304199,4,3.5,5,"Munich Dunkel Lager",4,3.5,"Kraftbräu Dunkel",5,6448
-"58",2725,"Kraftbräu Brewery",1157817146,4,3,3.5,"Doppelbock",3.5,3.5,"Kraftbräu Doppelbock",8,6451
-"59",2725,"Kraftbräu Brewery",1133906125,4,4,3,"Doppelbock",4,4,"Kraftbräu Doppelbock",8,6451
-"60",2725,"Kraftbräu Brewery",1069443971,3.5,3,3.5,"Doppelbock",3,2.5,"Kraftbräu Doppelbock",8,6451
-"61",2725,"Kraftbräu Brewery",1068420060,1.5,2.5,2,"Doppelbock",2,2,"Kraftbräu Doppelbock",8,6451
-"62",2725,"Kraftbräu Brewery",1057304378,4.5,3.5,5,"Doppelbock",5,4.5,"Kraftbräu Doppelbock",8,6451
-"63",2725,"Kraftbräu Brewery",1057304021,4,4,3.5,"Vienna Lager",4,4,"Kraftbräu Dark Bohemian",5.5,6449
-"64",2725,"Kraftbräu Brewery",1196055812,2,3,3,"Fruit / Vegetable Beer",3,2,"Kraftbräu Blackberry Pilsner",NA,25965
-"65",2725,"Kraftbräu Brewery",1127398180,4,4,3,"Fruit / Vegetable Beer",4,3.5,"Kraftbräu Blackberry Pilsner",NA,25965
-"66",2725,"Kraftbräu Brewery",1085780152,3,3,3.5,"American Amber / Red Ale",3,3,"Kraftbräu Winter Moon",5,15821
-"67",2725,"Kraftbräu Brewery",1076349101,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Kraftbräu Winter Moon",5,15821
-"68",2725,"Kraftbräu Brewery",1124375101,3.5,3,4,"German Pilsener",3,3.5,"Kraftbräu Downhome Brew Pilsner",NA,21161
-"69",2725,"Kraftbräu Brewery",1103240775,4,3.5,5,"German Pilsener",4.5,3.5,"Kraftbräu Downhome Brew Pilsner",NA,21161
+"1",2725,"Kraftbräu Brewery",1196055990,3,3,3,"Czech Pilsener",3,3.5,"Kraftbräu Bohemian",5,6450
+"2",2725,"Kraftbräu Brewery",1147026158,4.5,3.5,4.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
+"3",2725,"Kraftbräu Brewery",1124375643,3,3,3,"Czech Pilsener",3,3.5,"Kraftbräu Bohemian",5,6450
+"4",2725,"Kraftbräu Brewery",1094685702,3.5,4,3,"Czech Pilsener",4,4,"Kraftbräu Bohemian",5,6450
+"5",2725,"Kraftbräu Brewery",1091660625,4.5,4.5,4,"Czech Pilsener",4,4,"Kraftbräu Bohemian",5,6450
+"6",2725,"Kraftbräu Brewery",1082677929,4,3.5,3.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
+"7",2725,"Kraftbräu Brewery",1069443719,4.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Kraftbräu Bohemian",5,6450
+"8",2725,"Kraftbräu Brewery",1124375831,4,4,3,"American Amber / Red Ale",4,3.5,"Kraftbräu Rock Harbor Red Ale",6.5,6454
+"9",2725,"Kraftbräu Brewery",1095182110,4,3.5,4,"American Amber / Red Ale",4,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
+"10",2725,"Kraftbräu Brewery",1091660815,3,4,1,"American Amber / Red Ale",3,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
+"11",2725,"Kraftbräu Brewery",1081311971,4.5,4,4,"American Amber / Red Ale",4,4,"Kraftbräu Rock Harbor Red Ale",6.5,6454
+"12",2725,"Kraftbräu Brewery",1081221415,3.5,4,4,"American Amber / Red Ale",4,3.5,"Kraftbräu Rock Harbor Red Ale",6.5,6454
+"13",2725,"Kraftbräu Brewery",1095014058,3,3.5,4,"Vienna Lager",2.5,3.5,"Kraftbräu Vienna",5.5,6446
+"14",2725,"Kraftbräu Brewery",1085774193,2,3,3.5,"Vienna Lager",3,2.5,"Kraftbräu Vienna",5.5,6446
+"15",2725,"Kraftbräu Brewery",1084330755,2,3,4,"Vienna Lager",2,2,"Kraftbräu Vienna",5.5,6446
+"16",2725,"Kraftbräu Brewery",1075053663,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Kraftbräu Vienna",5.5,6446
+"17",2725,"Kraftbräu Brewery",1059933914,3,3,3,"Vienna Lager",3,3,"Kraftbräu Vienna",5.5,6446
+"18",2725,"Kraftbräu Brewery",1124377257,2,3,4,"Munich Dunkel Lager",2,2,"Kraftbräu Dunkel",5,6448
+"19",2725,"Kraftbräu Brewery",1104868419,3,2.5,2.5,"Munich Dunkel Lager",3,2,"Kraftbräu Dunkel",5,6448
+"20",2725,"Kraftbräu Brewery",1092352690,3,3,3,"Munich Dunkel Lager",2.5,4,"Kraftbräu Dunkel",5,6448
+"21",2725,"Kraftbräu Brewery",1087526055,4,3.5,4,"Munich Dunkel Lager",4,3.5,"Kraftbräu Dunkel",5,6448
+"22",2725,"Kraftbräu Brewery",1085775264,3,3,4,"Munich Dunkel Lager",3,3,"Kraftbräu Dunkel",5,6448
+"23",2725,"Kraftbräu Brewery",1057934780,4.5,2.5,2,"Munich Dunkel Lager",2.5,4.5,"Kraftbräu Dunkel",5,6448
+"24",2725,"Kraftbräu Brewery",1057304199,4,3.5,5,"Munich Dunkel Lager",4,3.5,"Kraftbräu Dunkel",5,6448
+"25",2725,"Kraftbräu Brewery",1157817146,4,3,3.5,"Doppelbock",3.5,3.5,"Kraftbräu Doppelbock",8,6451
+"26",2725,"Kraftbräu Brewery",1133906125,4,4,3,"Doppelbock",4,4,"Kraftbräu Doppelbock",8,6451
+"27",2725,"Kraftbräu Brewery",1069443971,3.5,3,3.5,"Doppelbock",3,2.5,"Kraftbräu Doppelbock",8,6451
+"28",2725,"Kraftbräu Brewery",1068420060,1.5,2.5,2,"Doppelbock",2,2,"Kraftbräu Doppelbock",8,6451
+"29",2725,"Kraftbräu Brewery",1057304378,4.5,3.5,5,"Doppelbock",5,4.5,"Kraftbräu Doppelbock",8,6451

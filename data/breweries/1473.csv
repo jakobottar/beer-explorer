@@ -1,135 +1,112 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1473,"Richbrau Brewing Company",1120788546,4,4.5,3.5,"American Stout",4,4,"Shockoe Espresso Stout",5,11368
 "2",1473,"Richbrau Brewing Company",1239553653,4.5,4,4.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
-"3",1473,"Richbrau Brewing Company",1127523384,3,3,4,"Saison / Farmhouse Ale",3,3,"Belgian-Style Saison Ale",4.5,24133
-"4",1473,"Richbrau Brewing Company",1122166784,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Belgian-Style Saison Ale",4.5,24133
-"5",1473,"Richbrau Brewing Company",1118100985,4.5,4,4,"Saison / Farmhouse Ale",3.5,4,"Belgian-Style Saison Ale",4.5,24133
-"6",1473,"Richbrau Brewing Company",1245868082,3,3,4,"American Stout",3.5,3,"E. S. Kelly's Springtime Stout",4.3,28958
-"7",1473,"Richbrau Brewing Company",1239553467,4,4.5,4.5,"American Stout",3.5,4,"E. S. Kelly's Springtime Stout",4.3,28958
-"8",1473,"Richbrau Brewing Company",1213229236,3.5,4,4,"American Stout",2.5,4,"E. S. Kelly's Springtime Stout",4.3,28958
-"9",1473,"Richbrau Brewing Company",1211686587,3.5,4,4,"American Stout",3,4,"E. S. Kelly's Springtime Stout",4.3,28958
-"10",1473,"Richbrau Brewing Company",1151621640,4,4,4.5,"American Stout",3,3.5,"E. S. Kelly's Springtime Stout",4.3,28958
-"11",1473,"Richbrau Brewing Company",1159044675,4.5,3,3.5,"American Barleywine",4,4.5,"Big Gnarly Barleywine",11.8,27150
-"12",1473,"Richbrau Brewing Company",1148681364,4,4,4,"American Barleywine",4.5,4.5,"Big Gnarly Barleywine",11.8,27150
-"13",1473,"Richbrau Brewing Company",1134011205,3,2.5,3,"American Barleywine",3.5,3.5,"Big Gnarly Barleywine",11.8,27150
-"14",1473,"Richbrau Brewing Company",1221956918,4.5,4,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5.8,13022
-"15",1473,"Richbrau Brewing Company",1066003022,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5.8,13022
-"16",1473,"Richbrau Brewing Company",1215362900,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,43587
-"17",1473,"Richbrau Brewing Company",1225939537,3.5,3,4.5,"American Double / Imperial Pilsner",3,3.5,"Double Pils",NA,45752
-"18",1473,"Richbrau Brewing Company",1121523074,4.5,4.5,4,"German Pilsener",4.5,4,"Pre-Prohibition Pils",6,19385
-"19",1473,"Richbrau Brewing Company",1159041684,3,2.5,3,"Kölsch",3.5,3,"Kölsch Ale",4.7,14615
-"20",1473,"Richbrau Brewing Company",1072743997,3,3,3,"Kölsch",3,3,"Kölsch Ale",4.7,14615
-"21",1473,"Richbrau Brewing Company",1245867453,3,4,4,"Altbier",3.5,3,"Altbier",4.5,38814
-"22",1473,"Richbrau Brewing Company",1203188619,4.5,2,4,"Altbier",4,4.5,"Altbier",4.5,38814
-"23",1473,"Richbrau Brewing Company",1190849240,3,3,4,"Altbier",3.5,3,"Altbier",4.5,38814
-"24",1473,"Richbrau Brewing Company",1081659233,4,4,4,"Tripel",3.5,4,"Belgian-style Special Ale",7.6,16883
-"25",1473,"Richbrau Brewing Company",1080788390,4,4,4,"Tripel",3.5,4,"Belgian-style Special Ale",7.6,16883
-"26",1473,"Richbrau Brewing Company",1213227874,4.5,4,4.5,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
-"27",1473,"Richbrau Brewing Company",1183840403,3.5,4,4,"American Stout",4,4,"Shockoe Espresso Stout",5,11368
-"28",1473,"Richbrau Brewing Company",1127694338,4,4,4,"American Stout",3.5,4,"Shockoe Espresso Stout",5,11368
-"29",1473,"Richbrau Brewing Company",1123636251,4,4,4,"American Stout",3.5,4,"Shockoe Espresso Stout",5,11368
-"30",1473,"Richbrau Brewing Company",1064971475,4.5,4.5,3.5,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
-"31",1473,"Richbrau Brewing Company",1058397260,3,3,4,"American Stout",3,3,"Shockoe Espresso Stout",5,11368
-"32",1473,"Richbrau Brewing Company",1057859323,4.5,4.5,4,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
-"33",1473,"Richbrau Brewing Company",1206319137,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Vanilla Bean Stout",5.3,32901
-"34",1473,"Richbrau Brewing Company",1159044287,4,4,2.5,"Herbed / Spiced Beer",3.5,4,"Vanilla Bean Stout",5.3,32901
-"35",1473,"Richbrau Brewing Company",1120259969,4.5,4,4,"Witbier",4,4,"White Christmas Ale",5.4,21070
-"36",1473,"Richbrau Brewing Company",1102686669,4.5,4,4.5,"Witbier",4.5,4,"White Christmas Ale",5.4,21070
-"37",1473,"Richbrau Brewing Company",1095608247,4,3.5,4,"American IPA",3.5,4,"Hogwash IPA",7,18932
-"38",1473,"Richbrau Brewing Company",1090775242,4,4,4,"American IPA",4,4,"Hogwash IPA",7,18932
-"39",1473,"Richbrau Brewing Company",1176508172,2.5,3,4,"Witbier",2.5,2.5,"Belgian-Style White Ale",5.7,30737
-"40",1473,"Richbrau Brewing Company",1148678312,4,4,4,"Witbier",4,4,"Belgian-Style White Ale",5.7,30737
-"41",1473,"Richbrau Brewing Company",1200597743,4.5,4,4.5,"Fruit / Vegetable Beer",4.5,4.5,"Raspberry Wheat Ale",5.5,13206
-"42",1473,"Richbrau Brewing Company",1066005000,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Wheat Ale",5.5,13206
-"43",1473,"Richbrau Brewing Company",1065285379,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Raspberry Wheat Ale",5.5,13206
-"44",1473,"Richbrau Brewing Company",1235616463,4.5,5,4.5,"American IPA",4,4.5,"Hop Hog Ale",6,4829
-"45",1473,"Richbrau Brewing Company",1060648637,3.5,3.5,3.5,"American IPA",4,3.5,"Hop Hog Ale",6,4829
-"46",1473,"Richbrau Brewing Company",1025868828,4.5,4,4,"American IPA",4,4.5,"Hop Hog Ale",6,4829
-"47",1473,"Richbrau Brewing Company",1246295876,4,4,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",6.2,21649
-"48",1473,"Richbrau Brewing Company",1244681204,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
-"49",1473,"Richbrau Brewing Company",1212329385,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",6.2,21649
-"50",1473,"Richbrau Brewing Company",1212247930,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",6.2,21649
-"51",1473,"Richbrau Brewing Company",1175744801,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",6.2,21649
-"52",1473,"Richbrau Brewing Company",1170442381,4,3,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",6.2,21649
-"53",1473,"Richbrau Brewing Company",1159044458,4.5,3,3.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
-"54",1473,"Richbrau Brewing Company",1124500307,4.5,4,4.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",6.2,21649
-"55",1473,"Richbrau Brewing Company",1120788147,4,4,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
-"56",1473,"Richbrau Brewing Company",1246295629,3.5,4,4,"American Barleywine",3.5,3.5,"Barleywine Ale",9.4,13454
-"57",1473,"Richbrau Brewing Company",1243298610,4,4,4,"American Barleywine",4.5,4,"Barleywine Ale",9.4,13454
-"58",1473,"Richbrau Brewing Company",1084593148,4,3.5,4,"American Barleywine",4,4,"Barleywine Ale",9.4,13454
-"59",1473,"Richbrau Brewing Company",1079843940,5,4.5,4,"American Barleywine",5,4.5,"Barleywine Ale",9.4,13454
-"60",1473,"Richbrau Brewing Company",1066007691,3.5,3.5,4,"American Barleywine",3.5,3.5,"Barleywine Ale",9.4,13454
-"61",1473,"Richbrau Brewing Company",1235498768,1.5,1,2.5,"American Blonde Ale",1,1,"Griffin Golden Ale",4.6,3936
-"62",1473,"Richbrau Brewing Company",1235163502,2.5,2.5,3,"American Blonde Ale",2.5,3,"Griffin Golden Ale",4.6,3936
-"63",1473,"Richbrau Brewing Company",1207894778,4.5,3,3.5,"American Blonde Ale",3.5,4,"Griffin Golden Ale",4.6,3936
-"64",1473,"Richbrau Brewing Company",1194676799,3.5,3,3.5,"American Blonde Ale",2.5,4,"Griffin Golden Ale",4.6,3936
-"65",1473,"Richbrau Brewing Company",1183839765,4,3,3.5,"American Blonde Ale",3,3,"Griffin Golden Ale",4.6,3936
-"66",1473,"Richbrau Brewing Company",1159041967,3,3,3.5,"American Blonde Ale",2.5,3,"Griffin Golden Ale",4.6,3936
-"67",1473,"Richbrau Brewing Company",1134010083,2.5,2.5,3.5,"American Blonde Ale",3,3,"Griffin Golden Ale",4.6,3936
-"68",1473,"Richbrau Brewing Company",1245867753,3,3,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
-"69",1473,"Richbrau Brewing Company",1131416774,4.5,4.5,4,"American Blonde Ale",4.5,4,"Griffin Golden Ale",4.6,3936
-"70",1473,"Richbrau Brewing Company",1120786921,4,3,3.5,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
-"71",1473,"Richbrau Brewing Company",1114820800,4,4,3.5,"American Blonde Ale",3.5,3.5,"Griffin Golden Ale",4.6,3936
-"72",1473,"Richbrau Brewing Company",1110599203,4,3.5,3,"American Blonde Ale",4,3.5,"Griffin Golden Ale",4.6,3936
-"73",1473,"Richbrau Brewing Company",1105052127,3,2.5,2.5,"American Blonde Ale",2.5,2.5,"Griffin Golden Ale",4.6,3936
-"74",1473,"Richbrau Brewing Company",1089154603,3.5,3,4,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
-"75",1473,"Richbrau Brewing Company",1070594434,4,3,4,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
-"76",1473,"Richbrau Brewing Company",1062531452,3.5,4,4.5,"American Blonde Ale",4,3.5,"Griffin Golden Ale",4.6,3936
-"77",1473,"Richbrau Brewing Company",1060647451,3.5,2.5,3.5,"American Blonde Ale",3.5,2.5,"Griffin Golden Ale",4.6,3936
-"78",1473,"Richbrau Brewing Company",1159042379,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Phoenix Farmhouse Ale",5.6,32899
-"79",1473,"Richbrau Brewing Company",1247574304,4,3.5,4,"American Porter",4.5,4,"Big Nasty Porter",6,3938
-"80",1473,"Richbrau Brewing Company",1207898488,4,4,4,"American Porter",4,4,"Big Nasty Porter",6,3938
-"81",1473,"Richbrau Brewing Company",1183838941,4,4.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
-"82",1473,"Richbrau Brewing Company",1177302819,4,3.5,3.5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
-"83",1473,"Richbrau Brewing Company",1170443270,4.5,4,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
-"84",1473,"Richbrau Brewing Company",1159043939,4.5,4,4.5,"American Porter",3.5,4.5,"Big Nasty Porter",6,3938
-"85",1473,"Richbrau Brewing Company",1159043745,4.5,4,4,"American Porter",4,4.5,"Big Nasty Porter",6,3938
-"86",1473,"Richbrau Brewing Company",1134778504,4,3.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
-"87",1473,"Richbrau Brewing Company",1134010923,2.5,3,2.5,"American Porter",3,2.5,"Big Nasty Porter",6,3938
-"88",1473,"Richbrau Brewing Company",1133817772,3.5,3.5,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
-"89",1473,"Richbrau Brewing Company",1124332123,4,4,4,"American Porter",4,4,"Big Nasty Porter",6,3938
-"90",1473,"Richbrau Brewing Company",1097674953,4.5,3.5,4.5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
-"91",1473,"Richbrau Brewing Company",1025866914,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
-"92",1473,"Richbrau Brewing Company",1089157379,4.5,3,5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
-"93",1473,"Richbrau Brewing Company",1063762867,4,4,4.5,"American Porter",4,4,"Big Nasty Porter",6,3938
-"94",1473,"Richbrau Brewing Company",1060648210,4,3.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
-"95",1473,"Richbrau Brewing Company",1265138550,3,3,3,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
-"96",1473,"Richbrau Brewing Company",1207813814,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Nick Pale Ale",5.5,3937
-"97",1473,"Richbrau Brewing Company",1205116350,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Old Nick Pale Ale",5.5,3937
-"98",1473,"Richbrau Brewing Company",1200597495,4,3,4.5,"American Pale Ale (APA)",4,3,"Old Nick Pale Ale",5.5,3937
-"99",1473,"Richbrau Brewing Company",1195529553,2,2.5,3.5,"American Pale Ale (APA)",2.5,3,"Old Nick Pale Ale",5.5,3937
-"100",1473,"Richbrau Brewing Company",1187741743,3,3,3,"American Pale Ale (APA)",3,2.5,"Old Nick Pale Ale",5.5,3937
-"101",1473,"Richbrau Brewing Company",1025868126,4,4,4.5,"Flanders Red Ale",4,4.5,"Flanders Red Ale",NA,4828
-"102",1473,"Richbrau Brewing Company",1185389182,2,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Old Nick Pale Ale",5.5,3937
-"103",1473,"Richbrau Brewing Company",1183840042,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
-"104",1473,"Richbrau Brewing Company",1177373602,2,2.5,3.5,"American Pale Ale (APA)",2.5,2,"Old Nick Pale Ale",5.5,3937
-"105",1473,"Richbrau Brewing Company",1159042672,4,3,4.5,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
-"106",1473,"Richbrau Brewing Company",1134010526,2.5,3.5,4,"American Pale Ale (APA)",3,3,"Old Nick Pale Ale",5.5,3937
-"107",1473,"Richbrau Brewing Company",1131673336,4,4,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
-"108",1473,"Richbrau Brewing Company",1120787193,4,4,3.5,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
-"109",1473,"Richbrau Brewing Company",1117758891,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
-"110",1473,"Richbrau Brewing Company",1089156871,2.5,3,4,"American Pale Ale (APA)",3.5,2,"Old Nick Pale Ale",5.5,3937
-"111",1473,"Richbrau Brewing Company",1070595248,4,4,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
-"112",1473,"Richbrau Brewing Company",1060647844,2.5,3,3.5,"American Pale Ale (APA)",3,3,"Old Nick Pale Ale",5.5,3937
-"113",1473,"Richbrau Brewing Company",1239587897,3,4,4,"Tripel",3,3,"Belgian-Style Abbey Ale",NA,49118
-"114",1473,"Richbrau Brewing Company",1116816399,4,3.5,3,"Russian Imperial Stout",3,4,"Imperial Stout",8.2,20829
-"115",1473,"Richbrau Brewing Company",1100870462,4,4,3.5,"Russian Imperial Stout",4.5,4,"Imperial Stout",8.2,20829
-"116",1473,"Richbrau Brewing Company",1257561443,4,4.5,4,"Oatmeal Stout",3.5,3.5,"Oatmeal Stout",5,7720
-"117",1473,"Richbrau Brewing Company",1134012472,3,3.5,3.5,"Oatmeal Stout",3,3,"Oatmeal Stout",5,7720
-"118",1473,"Richbrau Brewing Company",1084503440,3,3,3.5,"Oatmeal Stout",2.5,3,"Oatmeal Stout",5,7720
-"119",1473,"Richbrau Brewing Company",1080363740,4.5,4,4,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
-"120",1473,"Richbrau Brewing Company",1080350773,4.5,4,4,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
-"121",1473,"Richbrau Brewing Company",1079839978,4,4.5,3.5,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
-"122",1473,"Richbrau Brewing Company",1076289204,4.5,3.5,4,"Oatmeal Stout",4,4,"Oatmeal Stout",5,7720
-"123",1473,"Richbrau Brewing Company",1166992780,4.5,4,3,"Pumpkin Ale",4,4.5,"Pumpkin Wheat Ale",5.5,13205
-"124",1473,"Richbrau Brewing Company",1066003303,3.5,4,3.5,"Pumpkin Ale",3.5,3.5,"Pumpkin Wheat Ale",5.5,13205
-"125",1473,"Richbrau Brewing Company",1065284361,4,4,3,"Pumpkin Ale",4,4,"Pumpkin Wheat Ale",5.5,13205
-"126",1473,"Richbrau Brewing Company",1122081011,4,3.5,4,"Cream Ale",4,4,"Cream Ale",5.6,24135
-"127",1473,"Richbrau Brewing Company",1118106222,4,4,3.5,"Cream Ale",3.5,4,"Cream Ale",5.6,24135
-"128",1473,"Richbrau Brewing Company",1110681239,4.5,3,4,"American Blonde Ale",3.5,3.5,"Alley Oop Ale",4.7,22216
-"129",1473,"Richbrau Brewing Company",1066002413,4,3.5,3.5,"English Brown Ale",4,3.5,"Brown Ale",5.7,13468
-"130",1473,"Richbrau Brewing Company",1121297050,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen",6,12363
-"131",1473,"Richbrau Brewing Company",1120787533,3,3,4,"Hefeweizen",3,2.5,"Hefeweizen",6,12363
-"132",1473,"Richbrau Brewing Company",1063839206,4.5,4,3.5,"Hefeweizen",4,4.5,"Hefeweizen",6,12363
-"133",1473,"Richbrau Brewing Company",1062214906,4,3.5,3.5,"Hefeweizen",4,3.5,"Hefeweizen",6,12363
-"134",1473,"Richbrau Brewing Company",1072744633,3,3.5,3.5,"Winter Warmer",3.5,3.5,"Holiday Ale",7.6,14616
+"3",1473,"Richbrau Brewing Company",1245868082,3,3,4,"American Stout",3.5,3,"E. S. Kelly's Springtime Stout",4.3,28958
+"4",1473,"Richbrau Brewing Company",1239553467,4,4.5,4.5,"American Stout",3.5,4,"E. S. Kelly's Springtime Stout",4.3,28958
+"5",1473,"Richbrau Brewing Company",1213229236,3.5,4,4,"American Stout",2.5,4,"E. S. Kelly's Springtime Stout",4.3,28958
+"6",1473,"Richbrau Brewing Company",1211686587,3.5,4,4,"American Stout",3,4,"E. S. Kelly's Springtime Stout",4.3,28958
+"7",1473,"Richbrau Brewing Company",1151621640,4,4,4.5,"American Stout",3,3.5,"E. S. Kelly's Springtime Stout",4.3,28958
+"8",1473,"Richbrau Brewing Company",1221956918,4.5,4,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5.8,13022
+"9",1473,"Richbrau Brewing Company",1066003022,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5.8,13022
+"10",1473,"Richbrau Brewing Company",1215362900,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,43587
+"11",1473,"Richbrau Brewing Company",1159041684,3,2.5,3,"Kölsch",3.5,3,"Kölsch Ale",4.7,14615
+"12",1473,"Richbrau Brewing Company",1072743997,3,3,3,"Kölsch",3,3,"Kölsch Ale",4.7,14615
+"13",1473,"Richbrau Brewing Company",1245867453,3,4,4,"Altbier",3.5,3,"Altbier",4.5,38814
+"14",1473,"Richbrau Brewing Company",1203188619,4.5,2,4,"Altbier",4,4.5,"Altbier",4.5,38814
+"15",1473,"Richbrau Brewing Company",1190849240,3,3,4,"Altbier",3.5,3,"Altbier",4.5,38814
+"16",1473,"Richbrau Brewing Company",1213227874,4.5,4,4.5,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
+"17",1473,"Richbrau Brewing Company",1183840403,3.5,4,4,"American Stout",4,4,"Shockoe Espresso Stout",5,11368
+"18",1473,"Richbrau Brewing Company",1127694338,4,4,4,"American Stout",3.5,4,"Shockoe Espresso Stout",5,11368
+"19",1473,"Richbrau Brewing Company",1123636251,4,4,4,"American Stout",3.5,4,"Shockoe Espresso Stout",5,11368
+"20",1473,"Richbrau Brewing Company",1064971475,4.5,4.5,3.5,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
+"21",1473,"Richbrau Brewing Company",1058397260,3,3,4,"American Stout",3,3,"Shockoe Espresso Stout",5,11368
+"22",1473,"Richbrau Brewing Company",1057859323,4.5,4.5,4,"American Stout",4,4.5,"Shockoe Espresso Stout",5,11368
+"23",1473,"Richbrau Brewing Company",1206319137,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Vanilla Bean Stout",5.3,32901
+"24",1473,"Richbrau Brewing Company",1159044287,4,4,2.5,"Herbed / Spiced Beer",3.5,4,"Vanilla Bean Stout",5.3,32901
+"25",1473,"Richbrau Brewing Company",1176508172,2.5,3,4,"Witbier",2.5,2.5,"Belgian-Style White Ale",5.7,30737
+"26",1473,"Richbrau Brewing Company",1148678312,4,4,4,"Witbier",4,4,"Belgian-Style White Ale",5.7,30737
+"27",1473,"Richbrau Brewing Company",1200597743,4.5,4,4.5,"Fruit / Vegetable Beer",4.5,4.5,"Raspberry Wheat Ale",5.5,13206
+"28",1473,"Richbrau Brewing Company",1066005000,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Wheat Ale",5.5,13206
+"29",1473,"Richbrau Brewing Company",1065285379,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Raspberry Wheat Ale",5.5,13206
+"30",1473,"Richbrau Brewing Company",1246295876,4,4,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",6.2,21649
+"31",1473,"Richbrau Brewing Company",1244681204,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
+"32",1473,"Richbrau Brewing Company",1212329385,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",6.2,21649
+"33",1473,"Richbrau Brewing Company",1212247930,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",6.2,21649
+"34",1473,"Richbrau Brewing Company",1175744801,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",6.2,21649
+"35",1473,"Richbrau Brewing Company",1170442381,4,3,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",6.2,21649
+"36",1473,"Richbrau Brewing Company",1159044458,4.5,3,3.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
+"37",1473,"Richbrau Brewing Company",1124500307,4.5,4,4.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",6.2,21649
+"38",1473,"Richbrau Brewing Company",1120788147,4,4,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",6.2,21649
+"39",1473,"Richbrau Brewing Company",1246295629,3.5,4,4,"American Barleywine",3.5,3.5,"Barleywine Ale",9.4,13454
+"40",1473,"Richbrau Brewing Company",1243298610,4,4,4,"American Barleywine",4.5,4,"Barleywine Ale",9.4,13454
+"41",1473,"Richbrau Brewing Company",1084593148,4,3.5,4,"American Barleywine",4,4,"Barleywine Ale",9.4,13454
+"42",1473,"Richbrau Brewing Company",1079843940,5,4.5,4,"American Barleywine",5,4.5,"Barleywine Ale",9.4,13454
+"43",1473,"Richbrau Brewing Company",1066007691,3.5,3.5,4,"American Barleywine",3.5,3.5,"Barleywine Ale",9.4,13454
+"44",1473,"Richbrau Brewing Company",1235498768,1.5,1,2.5,"American Blonde Ale",1,1,"Griffin Golden Ale",4.6,3936
+"45",1473,"Richbrau Brewing Company",1235163502,2.5,2.5,3,"American Blonde Ale",2.5,3,"Griffin Golden Ale",4.6,3936
+"46",1473,"Richbrau Brewing Company",1207894778,4.5,3,3.5,"American Blonde Ale",3.5,4,"Griffin Golden Ale",4.6,3936
+"47",1473,"Richbrau Brewing Company",1194676799,3.5,3,3.5,"American Blonde Ale",2.5,4,"Griffin Golden Ale",4.6,3936
+"48",1473,"Richbrau Brewing Company",1183839765,4,3,3.5,"American Blonde Ale",3,3,"Griffin Golden Ale",4.6,3936
+"49",1473,"Richbrau Brewing Company",1159041967,3,3,3.5,"American Blonde Ale",2.5,3,"Griffin Golden Ale",4.6,3936
+"50",1473,"Richbrau Brewing Company",1134010083,2.5,2.5,3.5,"American Blonde Ale",3,3,"Griffin Golden Ale",4.6,3936
+"51",1473,"Richbrau Brewing Company",1245867753,3,3,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
+"52",1473,"Richbrau Brewing Company",1131416774,4.5,4.5,4,"American Blonde Ale",4.5,4,"Griffin Golden Ale",4.6,3936
+"53",1473,"Richbrau Brewing Company",1120786921,4,3,3.5,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
+"54",1473,"Richbrau Brewing Company",1114820800,4,4,3.5,"American Blonde Ale",3.5,3.5,"Griffin Golden Ale",4.6,3936
+"55",1473,"Richbrau Brewing Company",1110599203,4,3.5,3,"American Blonde Ale",4,3.5,"Griffin Golden Ale",4.6,3936
+"56",1473,"Richbrau Brewing Company",1105052127,3,2.5,2.5,"American Blonde Ale",2.5,2.5,"Griffin Golden Ale",4.6,3936
+"57",1473,"Richbrau Brewing Company",1089154603,3.5,3,4,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
+"58",1473,"Richbrau Brewing Company",1070594434,4,3,4,"American Blonde Ale",4,4,"Griffin Golden Ale",4.6,3936
+"59",1473,"Richbrau Brewing Company",1062531452,3.5,4,4.5,"American Blonde Ale",4,3.5,"Griffin Golden Ale",4.6,3936
+"60",1473,"Richbrau Brewing Company",1060647451,3.5,2.5,3.5,"American Blonde Ale",3.5,2.5,"Griffin Golden Ale",4.6,3936
+"61",1473,"Richbrau Brewing Company",1247574304,4,3.5,4,"American Porter",4.5,4,"Big Nasty Porter",6,3938
+"62",1473,"Richbrau Brewing Company",1207898488,4,4,4,"American Porter",4,4,"Big Nasty Porter",6,3938
+"63",1473,"Richbrau Brewing Company",1183838941,4,4.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
+"64",1473,"Richbrau Brewing Company",1177302819,4,3.5,3.5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
+"65",1473,"Richbrau Brewing Company",1170443270,4.5,4,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
+"66",1473,"Richbrau Brewing Company",1159043939,4.5,4,4.5,"American Porter",3.5,4.5,"Big Nasty Porter",6,3938
+"67",1473,"Richbrau Brewing Company",1159043745,4.5,4,4,"American Porter",4,4.5,"Big Nasty Porter",6,3938
+"68",1473,"Richbrau Brewing Company",1134778504,4,3.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
+"69",1473,"Richbrau Brewing Company",1134010923,2.5,3,2.5,"American Porter",3,2.5,"Big Nasty Porter",6,3938
+"70",1473,"Richbrau Brewing Company",1133817772,3.5,3.5,4,"American Porter",3.5,3.5,"Big Nasty Porter",6,3938
+"71",1473,"Richbrau Brewing Company",1124332123,4,4,4,"American Porter",4,4,"Big Nasty Porter",6,3938
+"72",1473,"Richbrau Brewing Company",1097674953,4.5,3.5,4.5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
+"73",1473,"Richbrau Brewing Company",1025866914,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
+"74",1473,"Richbrau Brewing Company",1089157379,4.5,3,5,"American Porter",4,4.5,"Big Nasty Porter",6,3938
+"75",1473,"Richbrau Brewing Company",1063762867,4,4,4.5,"American Porter",4,4,"Big Nasty Porter",6,3938
+"76",1473,"Richbrau Brewing Company",1060648210,4,3.5,4,"American Porter",4,4,"Big Nasty Porter",6,3938
+"77",1473,"Richbrau Brewing Company",1265138550,3,3,3,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
+"78",1473,"Richbrau Brewing Company",1207813814,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Nick Pale Ale",5.5,3937
+"79",1473,"Richbrau Brewing Company",1205116350,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Old Nick Pale Ale",5.5,3937
+"80",1473,"Richbrau Brewing Company",1200597495,4,3,4.5,"American Pale Ale (APA)",4,3,"Old Nick Pale Ale",5.5,3937
+"81",1473,"Richbrau Brewing Company",1195529553,2,2.5,3.5,"American Pale Ale (APA)",2.5,3,"Old Nick Pale Ale",5.5,3937
+"82",1473,"Richbrau Brewing Company",1187741743,3,3,3,"American Pale Ale (APA)",3,2.5,"Old Nick Pale Ale",5.5,3937
+"83",1473,"Richbrau Brewing Company",1185389182,2,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Old Nick Pale Ale",5.5,3937
+"84",1473,"Richbrau Brewing Company",1183840042,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
+"85",1473,"Richbrau Brewing Company",1177373602,2,2.5,3.5,"American Pale Ale (APA)",2.5,2,"Old Nick Pale Ale",5.5,3937
+"86",1473,"Richbrau Brewing Company",1159042672,4,3,4.5,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
+"87",1473,"Richbrau Brewing Company",1134010526,2.5,3.5,4,"American Pale Ale (APA)",3,3,"Old Nick Pale Ale",5.5,3937
+"88",1473,"Richbrau Brewing Company",1131673336,4,4,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
+"89",1473,"Richbrau Brewing Company",1120787193,4,4,3.5,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
+"90",1473,"Richbrau Brewing Company",1117758891,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Old Nick Pale Ale",5.5,3937
+"91",1473,"Richbrau Brewing Company",1089156871,2.5,3,4,"American Pale Ale (APA)",3.5,2,"Old Nick Pale Ale",5.5,3937
+"92",1473,"Richbrau Brewing Company",1070595248,4,4,4,"American Pale Ale (APA)",4,4,"Old Nick Pale Ale",5.5,3937
+"93",1473,"Richbrau Brewing Company",1060647844,2.5,3,3.5,"American Pale Ale (APA)",3,3,"Old Nick Pale Ale",5.5,3937
+"94",1473,"Richbrau Brewing Company",1239587897,3,4,4,"Tripel",3,3,"Belgian-Style Abbey Ale",NA,49118
+"95",1473,"Richbrau Brewing Company",1116816399,4,3.5,3,"Russian Imperial Stout",3,4,"Imperial Stout",8.2,20829
+"96",1473,"Richbrau Brewing Company",1100870462,4,4,3.5,"Russian Imperial Stout",4.5,4,"Imperial Stout",8.2,20829
+"97",1473,"Richbrau Brewing Company",1257561443,4,4.5,4,"Oatmeal Stout",3.5,3.5,"Oatmeal Stout",5,7720
+"98",1473,"Richbrau Brewing Company",1134012472,3,3.5,3.5,"Oatmeal Stout",3,3,"Oatmeal Stout",5,7720
+"99",1473,"Richbrau Brewing Company",1084503440,3,3,3.5,"Oatmeal Stout",2.5,3,"Oatmeal Stout",5,7720
+"100",1473,"Richbrau Brewing Company",1080363740,4.5,4,4,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
+"101",1473,"Richbrau Brewing Company",1080350773,4.5,4,4,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
+"102",1473,"Richbrau Brewing Company",1079839978,4,4.5,3.5,"Oatmeal Stout",4,4.5,"Oatmeal Stout",5,7720
+"103",1473,"Richbrau Brewing Company",1076289204,4.5,3.5,4,"Oatmeal Stout",4,4,"Oatmeal Stout",5,7720
+"104",1473,"Richbrau Brewing Company",1122081011,4,3.5,4,"Cream Ale",4,4,"Cream Ale",5.6,24135
+"105",1473,"Richbrau Brewing Company",1118106222,4,4,3.5,"Cream Ale",3.5,4,"Cream Ale",5.6,24135
+"106",1473,"Richbrau Brewing Company",1066002413,4,3.5,3.5,"English Brown Ale",4,3.5,"Brown Ale",5.7,13468
+"107",1473,"Richbrau Brewing Company",1121297050,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen",6,12363
+"108",1473,"Richbrau Brewing Company",1120787533,3,3,4,"Hefeweizen",3,2.5,"Hefeweizen",6,12363
+"109",1473,"Richbrau Brewing Company",1063839206,4.5,4,3.5,"Hefeweizen",4,4.5,"Hefeweizen",6,12363
+"110",1473,"Richbrau Brewing Company",1062214906,4,3.5,3.5,"Hefeweizen",4,3.5,"Hefeweizen",6,12363
+"111",1473,"Richbrau Brewing Company",1072744633,3,3.5,3.5,"Winter Warmer",3.5,3.5,"Holiday Ale",7.6,14616

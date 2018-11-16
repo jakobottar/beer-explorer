@@ -1,152 +1,90 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1106,"Grizzly Peak Brewing Company",1191614624,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Grizzly Peak ESB",5.6,5160
-"2",1106,"Grizzly Peak Brewing Company",1322073088,3.5,3.5,3,"Belgian Pale Ale",3,3,"DubbelHop",NA,75651
-"3",1106,"Grizzly Peak Brewing Company",1142299872,4,4.5,4,"American Barleywine",4,4,"Grizzly Peak Barley Wine (Bourbon Barrel Aged)",NA,28963
-"4",1106,"Grizzly Peak Brewing Company",1165462623,3.5,3,3,"American Stout",3,3.5,"Grizzly Peak Spiced Java Stout",NA,34157
-"5",1106,"Grizzly Peak Brewing Company",1322072874,3.5,3,3,"Extra Special / Strong Bitter (ESB)",2,3.5,"Grizzly Peak ESB",5.6,5160
-"6",1106,"Grizzly Peak Brewing Company",1191614348,3.5,4,3.5,"Maibock / Helles Bock",4,3.5,"Grizzly Peak Ashen Goat",NA,38931
-"7",1106,"Grizzly Peak Brewing Company",1170209676,3.5,3.5,4,"Altbier",3,3.5,"Grizzly Peak Alt",NA,35041
-"8",1106,"Grizzly Peak Brewing Company",1165462438,3,3,3,"Schwarzbier",3,3.5,"Grizzly Peak Schwarzbier",NA,34156
-"9",1106,"Grizzly Peak Brewing Company",1322072977,3.5,3.5,3,"English Pale Ale",2,3.5,"Grizzly Peak Willamette Pale Ale",NA,29406
-"10",1106,"Grizzly Peak Brewing Company",1143558440,4.5,3.5,4.5,"English Pale Ale",4,4,"Grizzly Peak Willamette Pale Ale",NA,29406
-"11",1106,"Grizzly Peak Brewing Company",1028101744,2,2,2,"Witbier",2,2,"Grizzly Peak White Ale",NA,5156
-"12",1106,"Grizzly Peak Brewing Company",1219969807,4,3.5,3.5,"English Pale Ale",4,3.5,"Grizzly Peak Amarillo Pale",NA,35039
-"13",1106,"Grizzly Peak Brewing Company",1197775865,4,4,3.5,"English Pale Ale",3.5,4,"Grizzly Peak Amarillo Pale",NA,35039
-"14",1106,"Grizzly Peak Brewing Company",1170207866,3.5,3.5,4,"English Pale Ale",3,3,"Grizzly Peak Amarillo Pale",NA,35039
-"15",1106,"Grizzly Peak Brewing Company",1325087775,3,3.5,4.5,"American Amber / Red Ale",2,3.5,"Humongous Imperial Red",8.8,76764
-"16",1106,"Grizzly Peak Brewing Company",1059845886,3,4.5,3,"Fruit / Vegetable Beer",3,3,"Grizzly Peak Five-0",NA,5159
-"17",1106,"Grizzly Peak Brewing Company",1028102029,5,5,4.5,"Fruit / Vegetable Beer",4.5,5,"Grizzly Peak Five-0",NA,5159
-"18",1106,"Grizzly Peak Brewing Company",1064073126,3,3.5,4.5,"Weizenbock",3,2.5,"Grizzly Peak Weiss Bock",NA,12792
-"19",1106,"Grizzly Peak Brewing Company",1264918756,3.5,3.5,4,"Rye Beer",4,3,"Bitter Tony's Rye Bitter",NA,55528
-"20",1106,"Grizzly Peak Brewing Company",1264007053,4,3.5,4,"Rye Beer",3.5,4,"Bitter Tony's Rye Bitter",NA,55528
-"21",1106,"Grizzly Peak Brewing Company",1323735513,3,3,3.5,"American Amber / Red Ale",3,3.5,"Steelhead Red",5.5,5173
-"22",1106,"Grizzly Peak Brewing Company",1322072687,3.5,3.5,3,"American Amber / Red Ale",3,3.5,"Steelhead Red",5.5,5173
-"23",1106,"Grizzly Peak Brewing Company",1284872374,3.5,3,3.5,"American Amber / Red Ale",2.5,4,"Steelhead Red",5.5,5173
-"24",1106,"Grizzly Peak Brewing Company",1279983584,3,3.5,3.5,"American Amber / Red Ale",2.5,3,"Steelhead Red",5.5,5173
-"25",1106,"Grizzly Peak Brewing Company",1219971195,4,3.5,3,"American Amber / Red Ale",3.5,3.5,"Steelhead Red",5.5,5173
-"26",1106,"Grizzly Peak Brewing Company",1191614086,3,2.5,3,"American Amber / Red Ale",3,3,"Steelhead Red",5.5,5173
-"27",1106,"Grizzly Peak Brewing Company",1174009111,4,3.5,4,"American Amber / Red Ale",4,4,"Steelhead Red",5.5,5173
-"28",1106,"Grizzly Peak Brewing Company",1170208697,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Steelhead Red",5.5,5173
-"29",1106,"Grizzly Peak Brewing Company",1163374537,3,3.5,3.5,"American Amber / Red Ale",3.5,3,"Steelhead Red",5.5,5173
-"30",1106,"Grizzly Peak Brewing Company",1148270522,4,3.5,3.5,"American Amber / Red Ale",4,4,"Steelhead Red",5.5,5173
-"31",1106,"Grizzly Peak Brewing Company",1139069190,4,3.5,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
-"32",1106,"Grizzly Peak Brewing Company",1127675458,4,3,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
-"33",1106,"Grizzly Peak Brewing Company",1092423808,4.5,3,4,"American Amber / Red Ale",4.5,4,"Steelhead Red",5.5,5173
-"34",1106,"Grizzly Peak Brewing Company",1087998484,4,3.5,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
-"35",1106,"Grizzly Peak Brewing Company",1028162044,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Steelhead Red",5.5,5173
-"36",1106,"Grizzly Peak Brewing Company",1285267295,3,4,4,"American Double / Imperial IPA",3.5,3.5,"Hellion Double IPA",9.6,62038
-"37",1106,"Grizzly Peak Brewing Company",1325288677,2,2.5,3.5,"American Pale Ale (APA)",2.5,2,"Columbus Pale Ale",NA,76888
-"38",1106,"Grizzly Peak Brewing Company",1069445365,3.5,3,3.5,"English Brown Ale",3,3.5,"Grizzly Peak Flanders Brown Ale",NA,14323
-"39",1106,"Grizzly Peak Brewing Company",1147122231,4,3.5,4,"English Pale Ale",3.5,3.5,"Grizzly Peak Saaz Pale Ale",NA,30377
-"40",1106,"Grizzly Peak Brewing Company",1325287741,3,3.5,4,"Irish Dry Stout",3,3,"County Cork's Irish Stout",5.2,5161
-"41",1106,"Grizzly Peak Brewing Company",1279987580,3.5,4,4.5,"Irish Dry Stout",4.5,4,"County Cork's Irish Stout",5.2,5161
-"42",1106,"Grizzly Peak Brewing Company",1219970439,4.5,3.5,4,"Irish Dry Stout",4.5,3.5,"County Cork's Irish Stout",5.2,5161
-"43",1106,"Grizzly Peak Brewing Company",1196546040,3.5,3,3.5,"Irish Dry Stout",4.5,3.5,"County Cork's Irish Stout",5.2,5161
-"44",1106,"Grizzly Peak Brewing Company",1191614537,3.5,3.5,3.5,"Irish Dry Stout",3,3.5,"County Cork's Irish Stout",5.2,5161
-"45",1106,"Grizzly Peak Brewing Company",1170205669,3.5,3,4,"Irish Dry Stout",4,3,"County Cork's Irish Stout",5.2,5161
-"46",1106,"Grizzly Peak Brewing Company",1165462328,4,3.5,3.5,"Irish Dry Stout",3.5,4,"County Cork's Irish Stout",5.2,5161
-"47",1106,"Grizzly Peak Brewing Company",1118973767,4,4,4,"Irish Dry Stout",3.5,3.5,"County Cork's Irish Stout",5.2,5161
-"48",1106,"Grizzly Peak Brewing Company",1093920384,4,4,5,"Irish Dry Stout",4,4,"County Cork's Irish Stout",5.2,5161
-"49",1106,"Grizzly Peak Brewing Company",1183413217,3.5,2,4,"Roggenbier",4,3,"Grizzly Peak Roggen",NA,18754
-"50",1106,"Grizzly Peak Brewing Company",1092424222,4.5,4,4.5,"Irish Dry Stout",4.5,4,"County Cork's Irish Stout",5.2,5161
-"51",1106,"Grizzly Peak Brewing Company",1028102307,4,4,4,"Irish Dry Stout",4,4,"County Cork's Irish Stout",5.2,5161
-"52",1106,"Grizzly Peak Brewing Company",1325043254,4,4,3.5,"Witbier",3.5,4,"White Christmas White Ale",6.9,7575
-"53",1106,"Grizzly Peak Brewing Company",1322072798,4,3,3,"Witbier",3,4,"White Christmas White Ale",6.9,7575
-"54",1106,"Grizzly Peak Brewing Company",1040117450,5,4,4,"Witbier",4,4.5,"White Christmas White Ale",6.9,7575
-"55",1106,"Grizzly Peak Brewing Company",1258226399,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Grizzly Peak Extra Fuggle Ale",NA,54099
-"56",1106,"Grizzly Peak Brewing Company",1277767537,4,3.5,4,"Belgian Pale Ale",4,3.5,"Grizzly Peak Antwerp Amber Ale",NA,59150
-"57",1106,"Grizzly Peak Brewing Company",1276391980,4,3.5,4,"Belgian Pale Ale",3.5,4,"Grizzly Peak Antwerp Amber Ale",NA,59150
-"58",1106,"Grizzly Peak Brewing Company",1191614471,3.5,3.5,3.5,"Kölsch",3.5,3.5,"Grizzly Peak Garden Girl",NA,38932
-"59",1106,"Grizzly Peak Brewing Company",1091995938,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Grizzly Peak Special Anniversary ESB",NA,12328
-"60",1106,"Grizzly Peak Brewing Company",1062026748,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Grizzly Peak Special Anniversary ESB",NA,12328
-"61",1106,"Grizzly Peak Brewing Company",1096871636,4,4,3.5,"Märzen / Oktoberfest",4,4,"Grizzly Peak Oktoberfest",NA,20178
-"62",1106,"Grizzly Peak Brewing Company",1049735489,3,3.5,3.5,"American Strong Ale",3.5,4,"Grizzly Peak Soggy Viking Strong Ale",NA,9374
-"63",1106,"Grizzly Peak Brewing Company",1277171812,2.5,3.5,4,"American Strong Ale",3,3.5,"Berserker",10,59466
-"64",1106,"Grizzly Peak Brewing Company",1169560956,4,3.5,4.5,"American Strong Ale",4.5,4.5,"Grizzly Peak Edwin's Warm Up Ale",NA,34158
-"65",1106,"Grizzly Peak Brewing Company",1165462823,4.5,3.5,3.5,"American Strong Ale",4.5,4.5,"Grizzly Peak Edwin's Warm Up Ale",NA,34158
-"66",1106,"Grizzly Peak Brewing Company",1322072928,3,3.5,3,"American Strong Ale",2,3,"Grizzly Peak Draconus Ale",NA,35235
-"67",1106,"Grizzly Peak Brewing Company",1171236632,3.5,4.5,4,"American Strong Ale",3,4,"Grizzly Peak Draconus Ale",NA,35235
-"68",1106,"Grizzly Peak Brewing Company",1324327411,4,4,4.5,"American Porter",3.5,4,"Bear Paw Porter",6,5162
-"69",1106,"Grizzly Peak Brewing Company",1300493398,4,4,4,"American Porter",4,4,"Bear Paw Porter",6,5162
-"70",1106,"Grizzly Peak Brewing Company",1279985124,4,4,4,"American Porter",3.5,3.5,"Bear Paw Porter",6,5162
-"71",1106,"Grizzly Peak Brewing Company",1250553118,4.5,4,4,"American Porter",3.5,4.5,"Bear Paw Porter",6,5162
-"72",1106,"Grizzly Peak Brewing Company",1191614158,3.5,3.5,4,"American Porter",3,3.5,"Bear Paw Porter",6,5162
-"73",1106,"Grizzly Peak Brewing Company",1189379682,4,3.5,4,"American Porter",3.5,4,"Bear Paw Porter",6,5162
-"74",1106,"Grizzly Peak Brewing Company",1170209162,3.5,3.5,4,"American Porter",3.5,3.5,"Bear Paw Porter",6,5162
-"75",1106,"Grizzly Peak Brewing Company",1169059203,2.5,4,4.5,"American Porter",2,2.5,"Bear Paw Porter",6,5162
-"76",1106,"Grizzly Peak Brewing Company",1165430592,4,3,4,"American Porter",4,4,"Bear Paw Porter",6,5162
-"77",1106,"Grizzly Peak Brewing Company",1155496744,4,4,3.5,"American Porter",4,4,"Bear Paw Porter",6,5162
-"78",1106,"Grizzly Peak Brewing Company",1155067110,4,4,4,"American Porter",4,4,"Bear Paw Porter",6,5162
-"79",1106,"Grizzly Peak Brewing Company",1127674146,3,4,4,"American Porter",3,3.5,"Bear Paw Porter",6,5162
-"80",1106,"Grizzly Peak Brewing Company",1096866091,4.5,3.5,3.5,"American Porter",4,4.5,"Bear Paw Porter",6,5162
-"81",1106,"Grizzly Peak Brewing Company",1096123066,4,4,4.5,"American Porter",4.5,4,"Bear Paw Porter",6,5162
-"82",1106,"Grizzly Peak Brewing Company",1087998143,4,4,4.5,"American Porter",4,4,"Bear Paw Porter",6,5162
-"83",1106,"Grizzly Peak Brewing Company",1028102424,4,4,4,"American Porter",4.5,4,"Bear Paw Porter",6,5162
-"84",1106,"Grizzly Peak Brewing Company",1258226631,4,4,4,"American IPA",4,4,"Grizzly Peak American IPA",NA,28171
-"85",1106,"Grizzly Peak Brewing Company",1187730314,3,3,3,"American IPA",3,3,"Grizzly Peak American IPA",NA,28171
-"86",1106,"Grizzly Peak Brewing Company",1144542444,4,4,4,"American IPA",4,4,"Grizzly Peak American IPA",NA,28171
-"87",1106,"Grizzly Peak Brewing Company",1139071112,4,4,4,"American IPA",3.5,4,"Grizzly Peak American IPA",NA,28171
-"88",1106,"Grizzly Peak Brewing Company",1323735237,4,4,4,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
-"89",1106,"Grizzly Peak Brewing Company",1311890340,2,2,2,"American Pale Ale (APA)",2.5,2.5,"Grizzly Peak Pale Ale",5.2,5172
-"90",1106,"Grizzly Peak Brewing Company",1299977113,4,3,4,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"91",1106,"Grizzly Peak Brewing Company",1279983276,4,4,3.5,"American Pale Ale (APA)",3.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"92",1106,"Grizzly Peak Brewing Company",1219921850,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"93",1106,"Grizzly Peak Brewing Company",1191613979,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"94",1106,"Grizzly Peak Brewing Company",1189380117,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"95",1106,"Grizzly Peak Brewing Company",1179147923,3.5,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"96",1106,"Grizzly Peak Brewing Company",1173656529,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"97",1106,"Grizzly Peak Brewing Company",1198793308,3,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Grizzly Peak ESB",5.6,5160
-"98",1106,"Grizzly Peak Brewing Company",1171248274,3,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Grizzly Peak Pale Ale",5.2,5172
-"99",1106,"Grizzly Peak Brewing Company",1170208317,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Grizzly Peak Pale Ale",5.2,5172
-"100",1106,"Grizzly Peak Brewing Company",1165454311,4,3.5,3,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"101",1106,"Grizzly Peak Brewing Company",1154998249,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
-"102",1106,"Grizzly Peak Brewing Company",1143949295,2.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
-"103",1106,"Grizzly Peak Brewing Company",1142828324,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"104",1106,"Grizzly Peak Brewing Company",1127675202,3.5,4,4,"American Pale Ale (APA)",3,4,"Grizzly Peak Pale Ale",5.2,5172
-"105",1106,"Grizzly Peak Brewing Company",1118974236,4.5,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Grizzly Peak Pale Ale",5.2,5172
-"106",1106,"Grizzly Peak Brewing Company",1087998988,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"107",1106,"Grizzly Peak Brewing Company",1076910626,4,3.5,4,"American Pale Ale (APA)",4.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
-"108",1106,"Grizzly Peak Brewing Company",1028161953,4,4,4,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
-"109",1106,"Grizzly Peak Brewing Company",1187730840,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Grizzly Peak ESB",5.6,5160
-"110",1106,"Grizzly Peak Brewing Company",1170206107,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3,2.5,"Grizzly Peak ESB",5.6,5160
-"111",1106,"Grizzly Peak Brewing Company",1156895407,5,3,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Grizzly Peak ESB",5.6,5160
-"112",1106,"Grizzly Peak Brewing Company",1149819587,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Grizzly Peak ESB",5.6,5160
-"113",1106,"Grizzly Peak Brewing Company",1147121872,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Grizzly Peak ESB",5.6,5160
-"114",1106,"Grizzly Peak Brewing Company",1118974475,4.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Grizzly Peak ESB",5.6,5160
-"115",1106,"Grizzly Peak Brewing Company",1028102160,4,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"Grizzly Peak ESB",5.6,5160
-"116",1106,"Grizzly Peak Brewing Company",1122434425,3.5,4.5,3.5,"Weizenbock",3.5,2.5,"Grizzly Peak Weizenbock (Bourbon Barrel Aged)",NA,24991
-"117",1106,"Grizzly Peak Brewing Company",1316126354,4.5,4,4.5,"Baltic Porter",4,4,"Grizzly Peak Baltic Porter",7.1,73162
-"118",1106,"Grizzly Peak Brewing Company",1276392510,4,4,3.5,"Hefeweizen",3.5,4,"Grizzly Peak Hefeweizen",NA,5163
-"119",1106,"Grizzly Peak Brewing Company",1277766975,4,3.5,4.5,"Hefeweizen",4,3.5,"Grizzly Peak El Hefe",NA,59649
-"120",1106,"Grizzly Peak Brewing Company",1263349813,4.5,5,3.5,"Hefeweizen",4.5,5,"Grizzly Peak Hefeweizen",NA,5163
-"121",1106,"Grizzly Peak Brewing Company",1147048923,4,4.5,4.5,"Hefeweizen",4,4,"Grizzly Peak Hefeweizen",NA,5163
-"122",1106,"Grizzly Peak Brewing Company",1118974848,4,4.5,4,"Hefeweizen",3.5,3.5,"Grizzly Peak Hefeweizen",NA,5163
-"123",1106,"Grizzly Peak Brewing Company",1062026349,4,4,4,"Hefeweizen",4,4,"Grizzly Peak Hefeweizen",NA,5163
-"124",1106,"Grizzly Peak Brewing Company",1028102557,4.5,4,4,"Hefeweizen",4.5,4.5,"Grizzly Peak Hefeweizen",NA,5163
-"125",1106,"Grizzly Peak Brewing Company",1177339764,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Grizzly Peak Fille Du Fermier",NA,36481
-"126",1106,"Grizzly Peak Brewing Company",1087945211,3.5,4,4,"American Adjunct Lager",4,4,"Grizzly Peak Poolside Lager",NA,18218
-"127",1106,"Grizzly Peak Brewing Company",1263863884,4.5,2.5,4,"American Amber / Red Ale",5,4,"Grizzly Peak Junicade Red",NA,55499
-"128",1106,"Grizzly Peak Brewing Company",1279987331,2.5,2.5,3,"Hefeweizen",3,3,"Grizzly Peak El Hefe",NA,59649
-"129",1106,"Grizzly Peak Brewing Company",1171310442,3,3.5,3.5,"American Porter",3,3.5,"Grizzly Peak Spiced Cream Porter",NA,35249
-"130",1106,"Grizzly Peak Brewing Company",1323734896,3,3,3.5,"Kölsch",3,3,"Victor's Gold",4.2,5157
-"131",1106,"Grizzly Peak Brewing Company",1322072111,1.5,2,2,"Kölsch",2,2,"Victor's Gold",4.2,5157
-"132",1106,"Grizzly Peak Brewing Company",1279982998,2.5,2.5,3,"Kölsch",2.5,3,"Victor's Gold",4.2,5157
-"133",1106,"Grizzly Peak Brewing Company",1191613846,3,3,3,"Kölsch",2.5,3,"Victor's Gold",4.2,5157
-"134",1106,"Grizzly Peak Brewing Company",1185803985,3.5,3,3,"Kölsch",4,3.5,"Victor's Gold",4.2,5157
-"135",1106,"Grizzly Peak Brewing Company",1170207490,3.5,3.5,3.5,"Kölsch",3,3,"Victor's Gold",4.2,5157
-"136",1106,"Grizzly Peak Brewing Company",1139069564,3,3,3.5,"Kölsch",3.5,3.5,"Victor's Gold",4.2,5157
-"137",1106,"Grizzly Peak Brewing Company",1127674982,3.5,4,4,"Kölsch",3,4,"Victor's Gold",4.2,5157
-"138",1106,"Grizzly Peak Brewing Company",1087999395,4,4,4,"Kölsch",3.5,4,"Victor's Gold",4.2,5157
-"139",1106,"Grizzly Peak Brewing Company",1028101866,4.5,4,4,"Kölsch",4,4,"Victor's Gold",4.2,5157
-"140",1106,"Grizzly Peak Brewing Company",1049622993,3,4.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Grizzly Peak Cherry Porter",NA,9356
-"141",1106,"Grizzly Peak Brewing Company",1069444953,4,3.5,4,"American Amber / Red Ale",4,3.5,"Grizzly Peak Harvest Ale",NA,14322
-"142",1106,"Grizzly Peak Brewing Company",1124719963,3.5,2.5,3.5,"Roggenbier",3.5,3.5,"Grizzly Peak Roggen",NA,18754
-"143",1106,"Grizzly Peak Brewing Company",1089941137,4.5,3.5,4.5,"Roggenbier",3.5,4,"Grizzly Peak Roggen",NA,18754
-"144",1106,"Grizzly Peak Brewing Company",1124046002,4,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Grizzly Peak Tenth Anniversary Ale",NA,25275
-"145",1106,"Grizzly Peak Brewing Company",1325288117,3,3.5,4,"American IPA",3.5,3,"HMS Sheerwater IPA",6.1,76887
-"146",1106,"Grizzly Peak Brewing Company",1218126331,3.5,4,3.5,"American Pale Ale (APA)",2,3.5,"Grizzly Peak Cascade Ale",NA,35237
-"147",1106,"Grizzly Peak Brewing Company",1183412859,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Cascade Ale",NA,35237
-"148",1106,"Grizzly Peak Brewing Company",1171236958,3.5,4,4,"American Pale Ale (APA)",3,4,"Grizzly Peak Cascade Ale",NA,35237
-"149",1106,"Grizzly Peak Brewing Company",1170210090,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Grizzly Peak Edwins Warm Up Ale",NA,35042
-"150",1106,"Grizzly Peak Brewing Company",1191614701,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Juniper Pale Ale",NA,38933
-"151",1106,"Grizzly Peak Brewing Company",1084915255,4.5,4,4,"American Pale Wheat Ale",4,4,"Grizzly Peak Farmer's Daughter",NA,17572
+"2",1106,"Grizzly Peak Brewing Company",1322072874,3.5,3,3,"Extra Special / Strong Bitter (ESB)",2,3.5,"Grizzly Peak ESB",5.6,5160
+"3",1106,"Grizzly Peak Brewing Company",1323735513,3,3,3.5,"American Amber / Red Ale",3,3.5,"Steelhead Red",5.5,5173
+"4",1106,"Grizzly Peak Brewing Company",1322072687,3.5,3.5,3,"American Amber / Red Ale",3,3.5,"Steelhead Red",5.5,5173
+"5",1106,"Grizzly Peak Brewing Company",1284872374,3.5,3,3.5,"American Amber / Red Ale",2.5,4,"Steelhead Red",5.5,5173
+"6",1106,"Grizzly Peak Brewing Company",1279983584,3,3.5,3.5,"American Amber / Red Ale",2.5,3,"Steelhead Red",5.5,5173
+"7",1106,"Grizzly Peak Brewing Company",1219971195,4,3.5,3,"American Amber / Red Ale",3.5,3.5,"Steelhead Red",5.5,5173
+"8",1106,"Grizzly Peak Brewing Company",1191614086,3,2.5,3,"American Amber / Red Ale",3,3,"Steelhead Red",5.5,5173
+"9",1106,"Grizzly Peak Brewing Company",1174009111,4,3.5,4,"American Amber / Red Ale",4,4,"Steelhead Red",5.5,5173
+"10",1106,"Grizzly Peak Brewing Company",1170208697,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Steelhead Red",5.5,5173
+"11",1106,"Grizzly Peak Brewing Company",1163374537,3,3.5,3.5,"American Amber / Red Ale",3.5,3,"Steelhead Red",5.5,5173
+"12",1106,"Grizzly Peak Brewing Company",1148270522,4,3.5,3.5,"American Amber / Red Ale",4,4,"Steelhead Red",5.5,5173
+"13",1106,"Grizzly Peak Brewing Company",1139069190,4,3.5,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
+"14",1106,"Grizzly Peak Brewing Company",1127675458,4,3,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
+"15",1106,"Grizzly Peak Brewing Company",1092423808,4.5,3,4,"American Amber / Red Ale",4.5,4,"Steelhead Red",5.5,5173
+"16",1106,"Grizzly Peak Brewing Company",1087998484,4,3.5,4,"American Amber / Red Ale",3.5,4,"Steelhead Red",5.5,5173
+"17",1106,"Grizzly Peak Brewing Company",1028162044,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Steelhead Red",5.5,5173
+"18",1106,"Grizzly Peak Brewing Company",1325288677,2,2.5,3.5,"American Pale Ale (APA)",2.5,2,"Columbus Pale Ale",NA,76888
+"19",1106,"Grizzly Peak Brewing Company",1325287741,3,3.5,4,"Irish Dry Stout",3,3,"County Cork's Irish Stout",5.2,5161
+"20",1106,"Grizzly Peak Brewing Company",1279987580,3.5,4,4.5,"Irish Dry Stout",4.5,4,"County Cork's Irish Stout",5.2,5161
+"21",1106,"Grizzly Peak Brewing Company",1219970439,4.5,3.5,4,"Irish Dry Stout",4.5,3.5,"County Cork's Irish Stout",5.2,5161
+"22",1106,"Grizzly Peak Brewing Company",1196546040,3.5,3,3.5,"Irish Dry Stout",4.5,3.5,"County Cork's Irish Stout",5.2,5161
+"23",1106,"Grizzly Peak Brewing Company",1191614537,3.5,3.5,3.5,"Irish Dry Stout",3,3.5,"County Cork's Irish Stout",5.2,5161
+"24",1106,"Grizzly Peak Brewing Company",1170205669,3.5,3,4,"Irish Dry Stout",4,3,"County Cork's Irish Stout",5.2,5161
+"25",1106,"Grizzly Peak Brewing Company",1165462328,4,3.5,3.5,"Irish Dry Stout",3.5,4,"County Cork's Irish Stout",5.2,5161
+"26",1106,"Grizzly Peak Brewing Company",1118973767,4,4,4,"Irish Dry Stout",3.5,3.5,"County Cork's Irish Stout",5.2,5161
+"27",1106,"Grizzly Peak Brewing Company",1093920384,4,4,5,"Irish Dry Stout",4,4,"County Cork's Irish Stout",5.2,5161
+"28",1106,"Grizzly Peak Brewing Company",1092424222,4.5,4,4.5,"Irish Dry Stout",4.5,4,"County Cork's Irish Stout",5.2,5161
+"29",1106,"Grizzly Peak Brewing Company",1028102307,4,4,4,"Irish Dry Stout",4,4,"County Cork's Irish Stout",5.2,5161
+"30",1106,"Grizzly Peak Brewing Company",1324327411,4,4,4.5,"American Porter",3.5,4,"Bear Paw Porter",6,5162
+"31",1106,"Grizzly Peak Brewing Company",1300493398,4,4,4,"American Porter",4,4,"Bear Paw Porter",6,5162
+"32",1106,"Grizzly Peak Brewing Company",1279985124,4,4,4,"American Porter",3.5,3.5,"Bear Paw Porter",6,5162
+"33",1106,"Grizzly Peak Brewing Company",1250553118,4.5,4,4,"American Porter",3.5,4.5,"Bear Paw Porter",6,5162
+"34",1106,"Grizzly Peak Brewing Company",1191614158,3.5,3.5,4,"American Porter",3,3.5,"Bear Paw Porter",6,5162
+"35",1106,"Grizzly Peak Brewing Company",1189379682,4,3.5,4,"American Porter",3.5,4,"Bear Paw Porter",6,5162
+"36",1106,"Grizzly Peak Brewing Company",1170209162,3.5,3.5,4,"American Porter",3.5,3.5,"Bear Paw Porter",6,5162
+"37",1106,"Grizzly Peak Brewing Company",1169059203,2.5,4,4.5,"American Porter",2,2.5,"Bear Paw Porter",6,5162
+"38",1106,"Grizzly Peak Brewing Company",1165430592,4,3,4,"American Porter",4,4,"Bear Paw Porter",6,5162
+"39",1106,"Grizzly Peak Brewing Company",1155496744,4,4,3.5,"American Porter",4,4,"Bear Paw Porter",6,5162
+"40",1106,"Grizzly Peak Brewing Company",1155067110,4,4,4,"American Porter",4,4,"Bear Paw Porter",6,5162
+"41",1106,"Grizzly Peak Brewing Company",1127674146,3,4,4,"American Porter",3,3.5,"Bear Paw Porter",6,5162
+"42",1106,"Grizzly Peak Brewing Company",1096866091,4.5,3.5,3.5,"American Porter",4,4.5,"Bear Paw Porter",6,5162
+"43",1106,"Grizzly Peak Brewing Company",1096123066,4,4,4.5,"American Porter",4.5,4,"Bear Paw Porter",6,5162
+"44",1106,"Grizzly Peak Brewing Company",1087998143,4,4,4.5,"American Porter",4,4,"Bear Paw Porter",6,5162
+"45",1106,"Grizzly Peak Brewing Company",1028102424,4,4,4,"American Porter",4.5,4,"Bear Paw Porter",6,5162
+"46",1106,"Grizzly Peak Brewing Company",1323735237,4,4,4,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
+"47",1106,"Grizzly Peak Brewing Company",1311890340,2,2,2,"American Pale Ale (APA)",2.5,2.5,"Grizzly Peak Pale Ale",5.2,5172
+"48",1106,"Grizzly Peak Brewing Company",1299977113,4,3,4,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"49",1106,"Grizzly Peak Brewing Company",1279983276,4,4,3.5,"American Pale Ale (APA)",3.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"50",1106,"Grizzly Peak Brewing Company",1219921850,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"51",1106,"Grizzly Peak Brewing Company",1191613979,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"52",1106,"Grizzly Peak Brewing Company",1189380117,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"53",1106,"Grizzly Peak Brewing Company",1179147923,3.5,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"54",1106,"Grizzly Peak Brewing Company",1173656529,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"55",1106,"Grizzly Peak Brewing Company",1198793308,3,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Grizzly Peak ESB",5.6,5160
+"56",1106,"Grizzly Peak Brewing Company",1171248274,3,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Grizzly Peak Pale Ale",5.2,5172
+"57",1106,"Grizzly Peak Brewing Company",1170208317,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Grizzly Peak Pale Ale",5.2,5172
+"58",1106,"Grizzly Peak Brewing Company",1165454311,4,3.5,3,"American Pale Ale (APA)",4,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"59",1106,"Grizzly Peak Brewing Company",1154998249,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
+"60",1106,"Grizzly Peak Brewing Company",1143949295,2.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Grizzly Peak Pale Ale",5.2,5172
+"61",1106,"Grizzly Peak Brewing Company",1142828324,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"62",1106,"Grizzly Peak Brewing Company",1127675202,3.5,4,4,"American Pale Ale (APA)",3,4,"Grizzly Peak Pale Ale",5.2,5172
+"63",1106,"Grizzly Peak Brewing Company",1118974236,4.5,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Grizzly Peak Pale Ale",5.2,5172
+"64",1106,"Grizzly Peak Brewing Company",1087998988,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"65",1106,"Grizzly Peak Brewing Company",1076910626,4,3.5,4,"American Pale Ale (APA)",4.5,4.5,"Grizzly Peak Pale Ale",5.2,5172
+"66",1106,"Grizzly Peak Brewing Company",1028161953,4,4,4,"American Pale Ale (APA)",4,4,"Grizzly Peak Pale Ale",5.2,5172
+"67",1106,"Grizzly Peak Brewing Company",1187730840,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Grizzly Peak ESB",5.6,5160
+"68",1106,"Grizzly Peak Brewing Company",1170206107,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3,2.5,"Grizzly Peak ESB",5.6,5160
+"69",1106,"Grizzly Peak Brewing Company",1156895407,5,3,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Grizzly Peak ESB",5.6,5160
+"70",1106,"Grizzly Peak Brewing Company",1149819587,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Grizzly Peak ESB",5.6,5160
+"71",1106,"Grizzly Peak Brewing Company",1147121872,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Grizzly Peak ESB",5.6,5160
+"72",1106,"Grizzly Peak Brewing Company",1118974475,4.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Grizzly Peak ESB",5.6,5160
+"73",1106,"Grizzly Peak Brewing Company",1028102160,4,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"Grizzly Peak ESB",5.6,5160
+"74",1106,"Grizzly Peak Brewing Company",1276392510,4,4,3.5,"Hefeweizen",3.5,4,"Grizzly Peak Hefeweizen",NA,5163
+"75",1106,"Grizzly Peak Brewing Company",1263349813,4.5,5,3.5,"Hefeweizen",4.5,5,"Grizzly Peak Hefeweizen",NA,5163
+"76",1106,"Grizzly Peak Brewing Company",1147048923,4,4.5,4.5,"Hefeweizen",4,4,"Grizzly Peak Hefeweizen",NA,5163
+"77",1106,"Grizzly Peak Brewing Company",1118974848,4,4.5,4,"Hefeweizen",3.5,3.5,"Grizzly Peak Hefeweizen",NA,5163
+"78",1106,"Grizzly Peak Brewing Company",1062026349,4,4,4,"Hefeweizen",4,4,"Grizzly Peak Hefeweizen",NA,5163
+"79",1106,"Grizzly Peak Brewing Company",1028102557,4.5,4,4,"Hefeweizen",4.5,4.5,"Grizzly Peak Hefeweizen",NA,5163
+"80",1106,"Grizzly Peak Brewing Company",1323734896,3,3,3.5,"Kölsch",3,3,"Victor's Gold",4.2,5157
+"81",1106,"Grizzly Peak Brewing Company",1322072111,1.5,2,2,"Kölsch",2,2,"Victor's Gold",4.2,5157
+"82",1106,"Grizzly Peak Brewing Company",1279982998,2.5,2.5,3,"Kölsch",2.5,3,"Victor's Gold",4.2,5157
+"83",1106,"Grizzly Peak Brewing Company",1191613846,3,3,3,"Kölsch",2.5,3,"Victor's Gold",4.2,5157
+"84",1106,"Grizzly Peak Brewing Company",1185803985,3.5,3,3,"Kölsch",4,3.5,"Victor's Gold",4.2,5157
+"85",1106,"Grizzly Peak Brewing Company",1170207490,3.5,3.5,3.5,"Kölsch",3,3,"Victor's Gold",4.2,5157
+"86",1106,"Grizzly Peak Brewing Company",1139069564,3,3,3.5,"Kölsch",3.5,3.5,"Victor's Gold",4.2,5157
+"87",1106,"Grizzly Peak Brewing Company",1127674982,3.5,4,4,"Kölsch",3,4,"Victor's Gold",4.2,5157
+"88",1106,"Grizzly Peak Brewing Company",1087999395,4,4,4,"Kölsch",3.5,4,"Victor's Gold",4.2,5157
+"89",1106,"Grizzly Peak Brewing Company",1028101866,4.5,4,4,"Kölsch",4,4,"Victor's Gold",4.2,5157

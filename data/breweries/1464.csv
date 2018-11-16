@@ -1,296 +1,214 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1464,"Elevator Brewery & Draught Haus",1158443750,4,4,4,"Doppelbock",4,3.5,"Elevator Procrastinator Dopplebock",NA,4037
 "2",1464,"Elevator Brewery & Draught Haus",1317591525,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"3",1464,"Elevator Brewery & Draught Haus",1167797246,4,4,4.5,"Winter Warmer",4,4,"Elevator Winter Warmer Ale (DUPLICATE)",8.6,34574
-"4",1464,"Elevator Brewery & Draught Haus",1325124660,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"5",1464,"Elevator Brewery & Draught Haus",1237807895,3.5,4,3.5,"Dortmunder / Export Lager",3.5,4,"Elevator Schmidt's Gold",NA,9362
-"6",1464,"Elevator Brewery & Draught Haus",1049639538,4,3.5,4,"Dortmunder / Export Lager",4,4,"Elevator Schmidt's Gold",NA,9362
-"7",1464,"Elevator Brewery & Draught Haus",1274751913,3.5,3.5,3.5,"Altbier",3,3.5,"Elevator Altbier",NA,44563
-"8",1464,"Elevator Brewery & Draught Haus",1219872552,4,3,2.5,"Altbier",3.5,2.5,"Elevator Altbier",NA,44563
-"9",1464,"Elevator Brewery & Draught Haus",1094070786,3.5,3.5,4.5,"Milk / Sweet Stout",3,3.5,"Elevator Ole Pen Nitro Stout",NA,3885
-"10",1464,"Elevator Brewery & Draught Haus",1068432833,4,4,3.5,"Milk / Sweet Stout",4,4,"Elevator Ole Pen Nitro Stout",NA,3885
-"11",1464,"Elevator Brewery & Draught Haus",1053633233,3.5,3.5,3.5,"Milk / Sweet Stout",3,3,"Elevator Ole Pen Nitro Stout",NA,3885
-"12",1464,"Elevator Brewery & Draught Haus",1022606289,4,4,4,"Milk / Sweet Stout",3.5,3.5,"Elevator Ole Pen Nitro Stout",NA,3885
-"13",1464,"Elevator Brewery & Draught Haus",1209324347,4.5,4,4.5,"Russian Imperial Stout",4,4,"Elevator Imperial Russian Stout",NA,42357
-"14",1464,"Elevator Brewery & Draught Haus",1296074389,4,4.5,5,"Winter Warmer",4,4.5,"Elevator Winter Warmer Ale (DUPLICATE)",8.6,34574
-"15",1464,"Elevator Brewery & Draught Haus",1307159288,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"16",1464,"Elevator Brewery & Draught Haus",1305933616,2,2,3,"Extra Special / Strong Bitter (ESB)",2.5,2,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"17",1464,"Elevator Brewery & Draught Haus",1300060936,4,4,3,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"18",1464,"Elevator Brewery & Draught Haus",1293418664,4,3,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"19",1464,"Elevator Brewery & Draught Haus",1290905136,3,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"20",1464,"Elevator Brewery & Draught Haus",1289861789,3.5,4.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"21",1464,"Elevator Brewery & Draught Haus",1287990302,4,3,4.5,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"22",1464,"Elevator Brewery & Draught Haus",1287975960,4,3,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"23",1464,"Elevator Brewery & Draught Haus",1287379638,4,3,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"24",1464,"Elevator Brewery & Draught Haus",1279914015,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"25",1464,"Elevator Brewery & Draught Haus",1271206022,3.5,3.5,3,"Extra Special / Strong Bitter (ESB)",3,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"26",1464,"Elevator Brewery & Draught Haus",1267295852,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"27",1464,"Elevator Brewery & Draught Haus",1246392620,2,3,3.5,"Extra Special / Strong Bitter (ESB)",3,2,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"28",1464,"Elevator Brewery & Draught Haus",1242831107,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"29",1464,"Elevator Brewery & Draught Haus",1221438244,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"30",1464,"Elevator Brewery & Draught Haus",1219495133,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"31",1464,"Elevator Brewery & Draught Haus",1218978455,5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"32",1464,"Elevator Brewery & Draught Haus",1280005413,3.5,3,3,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"33",1464,"Elevator Brewery & Draught Haus",1209323568,4,4,4,"Extra Special / Strong Bitter (ESB)",2.5,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"34",1464,"Elevator Brewery & Draught Haus",1185228883,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"35",1464,"Elevator Brewery & Draught Haus",1150680447,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"36",1464,"Elevator Brewery & Draught Haus",1143483104,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"37",1464,"Elevator Brewery & Draught Haus",1068421264,4,2.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"38",1464,"Elevator Brewery & Draught Haus",1060013510,3,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"39",1464,"Elevator Brewery & Draught Haus",1053630794,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"40",1464,"Elevator Brewery & Draught Haus",1024068861,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
-"41",1464,"Elevator Brewery & Draught Haus",1303532096,3.5,2.5,3.5,"English Brown Ale",4,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"42",1464,"Elevator Brewery & Draught Haus",1282611803,3.5,3,4,"English Brown Ale",3,3,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"43",1464,"Elevator Brewery & Draught Haus",1242832146,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"44",1464,"Elevator Brewery & Draught Haus",1188010556,4,3.5,4,"English Brown Ale",4,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"45",1464,"Elevator Brewery & Draught Haus",1144428512,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"46",1464,"Elevator Brewery & Draught Haus",1093392759,3,3.5,3,"English Brown Ale",3,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"47",1464,"Elevator Brewery & Draught Haus",1077763259,4,3.5,3.5,"English Brown Ale",2.5,3,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"48",1464,"Elevator Brewery & Draught Haus",1053639405,3.5,3,4,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"49",1464,"Elevator Brewery & Draught Haus",1032865190,4,4,4,"English Brown Ale",4,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"50",1464,"Elevator Brewery & Draught Haus",1026405364,4,3.5,3.5,"English Brown Ale",3.5,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
-"51",1464,"Elevator Brewery & Draught Haus",1214325880,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Elevator Raspberry Wheat",NA,4038
-"52",1464,"Elevator Brewery & Draught Haus",1023413441,4,4.5,4,"Fruit / Vegetable Beer",4,4,"Elevator Raspberry Wheat",NA,4038
-"53",1464,"Elevator Brewery & Draught Haus",1201460283,4,3.5,3.5,"Vienna Lager",3.5,4,"Hu-Bris",NA,40748
-"54",1464,"Elevator Brewery & Draught Haus",1199562113,4,4,4,"Oatmeal Stout",4.5,4.5,"Elevator Oatmeal Stout",NA,9816
-"55",1464,"Elevator Brewery & Draught Haus",1075952718,4.5,3.5,4,"Oatmeal Stout",4.5,4,"Elevator Oatmeal Stout",NA,9816
-"56",1464,"Elevator Brewery & Draught Haus",1274557580,4,4,4,"American Double / Imperial Stout",4,4.5,"Elevator Barrel Aged Stout",NA,58521
-"57",1464,"Elevator Brewery & Draught Haus",1324514968,3.5,3.5,4,"American Stout",3,3.5,"Elevator Barrel Aged Oatmeal Chocolate Stout",NA,76568
-"58",1464,"Elevator Brewery & Draught Haus",1132092421,4,4,4,"Pumpkin Ale",4,4,"Elevator Pumpkin Ale",NA,9818
-"59",1464,"Elevator Brewery & Draught Haus",1068483536,3.5,3.5,3.5,"Pumpkin Ale",4,3,"Elevator Pumpkin Ale",NA,9818
-"60",1464,"Elevator Brewery & Draught Haus",1316563407,4,4.5,3.5,"American Double / Imperial Stout",3,4,"Elevator Barrel Aged Espresso Stout",9.5,73209
-"61",1464,"Elevator Brewery & Draught Haus",1316324292,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Elevator Barrel Aged Espresso Stout",9.5,73209
-"62",1464,"Elevator Brewery & Draught Haus",1316291322,2,3.5,3,"American Double / Imperial Stout",2.5,3,"Elevator Barrel Aged Espresso Stout",9.5,73209
-"63",1464,"Elevator Brewery & Draught Haus",1246380927,3.5,3.5,3.5,"American Porter",4,3,"Elevator Coal Porter",NA,4300
-"64",1464,"Elevator Brewery & Draught Haus",1242831580,4,4,4,"American Porter",4,3.5,"Elevator Coal Porter",NA,4300
-"65",1464,"Elevator Brewery & Draught Haus",1210086662,4.5,4,4,"American Porter",4.5,4,"Elevator Coal Porter",NA,4300
-"66",1464,"Elevator Brewery & Draught Haus",1184172606,4,4,4.5,"American Porter",3.5,4,"Elevator Coal Porter",NA,4300
-"67",1464,"Elevator Brewery & Draught Haus",1077762867,4,4,4,"American Porter",3,3.5,"Elevator Coal Porter",NA,4300
-"68",1464,"Elevator Brewery & Draught Haus",1068421796,4,4,4,"American Porter",4,4,"Elevator Coal Porter",NA,4300
-"69",1464,"Elevator Brewery & Draught Haus",1054882391,4,3.5,4.5,"American Porter",4,4,"Elevator Coal Porter",NA,4300
-"70",1464,"Elevator Brewery & Draught Haus",1053632777,4,3.5,4,"American Porter",4,4,"Elevator Coal Porter",NA,4300
-"71",1464,"Elevator Brewery & Draught Haus",1024068544,3.5,3.5,4,"American Porter",4,3.5,"Elevator Coal Porter",NA,4300
-"72",1464,"Elevator Brewery & Draught Haus",1325035028,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Elevator Mogabi",5.5,57558
-"73",1464,"Elevator Brewery & Draught Haus",1323915079,2,3.5,3.5,"American Pale Wheat Ale",3,2,"Elevator Mogabi",5.5,57558
-"74",1464,"Elevator Brewery & Draught Haus",1301858794,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Elevator Mogabi",5.5,57558
-"75",1464,"Elevator Brewery & Draught Haus",1297810467,4.5,4.5,4.5,"American Pale Wheat Ale",4,4,"Elevator Mogabi",5.5,57558
-"76",1464,"Elevator Brewery & Draught Haus",1290396355,4,4,4.5,"American Pale Wheat Ale",4.5,4,"Elevator Mogabi",5.5,57558
-"77",1464,"Elevator Brewery & Draught Haus",1287862807,4,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Elevator Mogabi",5.5,57558
-"78",1464,"Elevator Brewery & Draught Haus",1285724071,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Elevator Mogabi",5.5,57558
-"79",1464,"Elevator Brewery & Draught Haus",1280007407,4,4,3.5,"American Pale Wheat Ale",3.5,4.5,"Elevator Mogabi",5.5,57558
-"80",1464,"Elevator Brewery & Draught Haus",1278732540,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Elevator Mogabi",5.5,57558
-"81",1464,"Elevator Brewery & Draught Haus",1277867109,4.5,4.5,4,"American Pale Wheat Ale",5,4.5,"Elevator Mogabi",5.5,57558
-"82",1464,"Elevator Brewery & Draught Haus",1271349114,3,3.5,4,"American Pale Wheat Ale",3.5,3,"Elevator Mogabi",5.5,57558
-"83",1464,"Elevator Brewery & Draught Haus",1137792761,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Elevator Chocolate Stout",NA,27934
-"84",1464,"Elevator Brewery & Draught Haus",1158891320,4.5,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Elevator Walloon Saison",NA,32875
-"85",1464,"Elevator Brewery & Draught Haus",1310517056,3.5,3.5,3.5,"American Amber / Red Ale",2.5,3,"Elevator Horus",10,52722
-"86",1464,"Elevator Brewery & Draught Haus",1308957865,4,4,4,"American Amber / Red Ale",4,4.5,"Elevator Horus",10,52722
-"87",1464,"Elevator Brewery & Draught Haus",1308956558,4,4,4.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
-"88",1464,"Elevator Brewery & Draught Haus",1302485025,4,3.5,4.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
-"89",1464,"Elevator Brewery & Draught Haus",1272421058,4,4,4,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
-"90",1464,"Elevator Brewery & Draught Haus",1184173422,3,3.5,4,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
-"91",1464,"Elevator Brewery & Draught Haus",1280589675,4.5,4,4,"Hefeweizen",4.5,4,"Elevator Heiferweizen",5.5,59804
-"92",1464,"Elevator Brewery & Draught Haus",1266681263,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Elevator Horus",10,52722
-"93",1464,"Elevator Brewery & Draught Haus",1266646720,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Elevator Horus",10,52722
-"94",1464,"Elevator Brewery & Draught Haus",1259624441,4,4,3,"American Amber / Red Ale",4,4.5,"Elevator Horus",10,52722
-"95",1464,"Elevator Brewery & Draught Haus",1257576945,4,4,3.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
-"96",1464,"Elevator Brewery & Draught Haus",1253336171,4,4,4,"American Amber / Red Ale",4,3.5,"Elevator Horus",10,52722
-"97",1464,"Elevator Brewery & Draught Haus",1134492480,3.5,3.5,4,"Herbed / Spiced Beer",3.5,3,"Elevator Yule Lager",NA,27335
-"98",1464,"Elevator Brewery & Draught Haus",1266678423,4.5,3.5,3,"Light Lager",4,4,"Elevator Flying Hydrant Light",NA,42523
-"99",1464,"Elevator Brewery & Draught Haus",1210090884,2.5,2,4.5,"Light Lager",2,1.5,"Elevator Flying Hydrant Light",NA,42523
-"100",1464,"Elevator Brewery & Draught Haus",1180837347,3.5,3.5,3.5,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
-"101",1464,"Elevator Brewery & Draught Haus",1160086952,3,3.5,4,"American IPA",3.5,4,"Elevator Necessity IPA",NA,9980
-"102",1464,"Elevator Brewery & Draught Haus",1141266347,3.5,3.5,4,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
-"103",1464,"Elevator Brewery & Draught Haus",1093391815,3,3.5,3,"American IPA",3,2.5,"Elevator Necessity IPA",NA,9980
-"104",1464,"Elevator Brewery & Draught Haus",1068421001,3,2.5,3.5,"American IPA",3.5,2.5,"Elevator Necessity IPA",NA,9980
-"105",1464,"Elevator Brewery & Draught Haus",1053638949,4,3.5,4,"American IPA",4,4,"Elevator Necessity IPA",NA,9980
-"106",1464,"Elevator Brewery & Draught Haus",1322791391,3.5,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
-"107",1464,"Elevator Brewery & Draught Haus",1310247117,3.5,4,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
-"108",1464,"Elevator Brewery & Draught Haus",1303080047,3.5,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
-"109",1464,"Elevator Brewery & Draught Haus",1293371383,4,4,3.5,"Hefeweizen",3.5,4,"Elevator Heiferweizen",5.5,59804
-"110",1464,"Elevator Brewery & Draught Haus",1280007060,4,3.5,4,"Hefeweizen",3.5,3.5,"Elevator Heiferweizen",5.5,59804
-"111",1464,"Elevator Brewery & Draught Haus",1278193949,4,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
-"112",1464,"Elevator Brewery & Draught Haus",1209324849,3.5,4.5,3.5,"Baltic Porter",3.5,4,"Elevator Whiskey Barrel Imperial Porter",11.5,42358
-"113",1464,"Elevator Brewery & Draught Haus",1155309445,3.5,3.5,3.5,"California Common / Steam Beer",3.5,3.5,"Elevator Gedampft Bier",NA,25736
-"114",1464,"Elevator Brewery & Draught Haus",1286087848,2,4.5,3,"American Barleywine",3,4,"Elevator Barrel Aged Barley Wine (Bar Bar)",11,62132
-"115",1464,"Elevator Brewery & Draught Haus",1285729265,4,3.5,3,"American Barleywine",3.5,3.5,"Elevator Barrel Aged Barley Wine (Bar Bar)",11,62132
-"116",1464,"Elevator Brewery & Draught Haus",1285556812,4,4,2.5,"American Barleywine",4.5,4,"Elevator Barrel Aged Barley Wine (Bar Bar)",11,62132
-"117",1464,"Elevator Brewery & Draught Haus",1187663529,3,3,3,"Witbier",3,3,"Elevator Belgian Wit",NA,5204
-"118",1464,"Elevator Brewery & Draught Haus",1279913002,3.5,3,4,"American Pale Ale (APA)",3,2.5,"Elevator Bear Ass Pale Ale",NA,42360
-"119",1464,"Elevator Brewery & Draught Haus",1152560231,1.5,1.5,3,"Witbier",1,1,"Elevator Belgian Wit",NA,5204
-"120",1464,"Elevator Brewery & Draught Haus",1152229533,3.5,3.5,4,"Witbier",3.5,3.5,"Elevator Belgian Wit",NA,5204
-"121",1464,"Elevator Brewery & Draught Haus",1068484170,4.5,4,4,"Witbier",4,4,"Elevator Belgian Wit",NA,5204
-"122",1464,"Elevator Brewery & Draught Haus",1028301095,4,3.5,3.5,"Witbier",4,4,"Elevator Belgian Wit",NA,5204
-"123",1464,"Elevator Brewery & Draught Haus",1313350774,3.5,4,3,"American Pale Wheat Ale",3.5,3.5,"Big Vic",8,72071
-"124",1464,"Elevator Brewery & Draught Haus",1313288239,4,4,3,"American Pale Wheat Ale",4,4.5,"Big Vic",8,72071
-"125",1464,"Elevator Brewery & Draught Haus",1240191305,5,4,4.5,"American Barleywine",4.5,4.5,"Elevator Vic's Barley Ale Wine #3",12.5,45174
-"126",1464,"Elevator Brewery & Draught Haus",1226273478,4,4,3.5,"American Barleywine",4,4.5,"Elevator Vic's Barley Ale Wine #3",12.5,45174
-"127",1464,"Elevator Brewery & Draught Haus",1223091045,4.5,4,4.5,"American Barleywine",4,4.5,"Elevator Vic's Barley Ale Wine #3",12.5,45174
-"128",1464,"Elevator Brewery & Draught Haus",1286259187,1,2,2.5,"American Pale Wheat Ale",2,1,"Elevator Barrel Aged Pomegranate Wheat",5,62133
-"129",1464,"Elevator Brewery & Draught Haus",1285557168,2,2.5,3,"American Pale Wheat Ale",4,1.5,"Elevator Barrel Aged Pomegranate Wheat",5,62133
-"130",1464,"Elevator Brewery & Draught Haus",1221306318,4.5,4.5,4,"Kölsch",4,4.5,"EXTRA Kolsch",NA,44841
-"131",1464,"Elevator Brewery & Draught Haus",1294148945,3,3.5,3.5,"Pumpkin Ale",2.5,3,"New Bremen Giant Pumpkin Ale",6,65040
-"132",1464,"Elevator Brewery & Draught Haus",1280009284,3,3,3,"Kölsch",3,3,"Elevator Xtra",NA,25737
-"133",1464,"Elevator Brewery & Draught Haus",1242832931,3.5,3,4,"Kölsch",3,3.5,"Elevator Xtra",NA,25737
-"134",1464,"Elevator Brewery & Draught Haus",1255464970,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Elevator Bear Ass Pale Ale",NA,42360
-"135",1464,"Elevator Brewery & Draught Haus",1234320068,3,2,2.5,"Kölsch",3,3,"Elevator Xtra",NA,25737
-"136",1464,"Elevator Brewery & Draught Haus",1234231690,3,2.5,3,"Kölsch",3,3,"Elevator Xtra",NA,25737
-"137",1464,"Elevator Brewery & Draught Haus",1218978663,3,2,2,"Kölsch",3,2,"Elevator Xtra",NA,25737
-"138",1464,"Elevator Brewery & Draught Haus",1210090431,3,3,4,"Kölsch",2.5,2,"Elevator Xtra",NA,25737
-"139",1464,"Elevator Brewery & Draught Haus",1185046253,4,4.5,4.5,"Kölsch",4,4,"Elevator Xtra",NA,25737
-"140",1464,"Elevator Brewery & Draught Haus",1126129791,3,2,2.5,"Kölsch",3,2,"Elevator Xtra",NA,25737
-"141",1464,"Elevator Brewery & Draught Haus",1233581599,4.5,4,4,"American Porter",4,4.5,"Elevator Coffee Porter",NA,29979
-"142",1464,"Elevator Brewery & Draught Haus",1145283597,4.5,4,4,"American Porter",4,4.5,"Elevator Coffee Porter",NA,29979
-"143",1464,"Elevator Brewery & Draught Haus",1321487876,3,3.5,3,"American Pale Ale (APA)",2,3,"Elevator Bear Ass Pale Ale",NA,42360
-"144",1464,"Elevator Brewery & Draught Haus",1242830632,4,4,4,"American Pale Ale (APA)",4,4,"Elevator Bear Ass Pale Ale",NA,42360
-"145",1464,"Elevator Brewery & Draught Haus",1209326145,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4.5,"Elevator Bear Ass Pale Ale",NA,42360
-"146",1464,"Elevator Brewery & Draught Haus",1314237791,4.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Elevator Imperial IPA",NA,28226
-"147",1464,"Elevator Brewery & Draught Haus",1273992377,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Elevator Imperial IPA",NA,28226
-"148",1464,"Elevator Brewery & Draught Haus",1144428916,4,4,4,"American Double / Imperial IPA",4,4,"Elevator Imperial IPA",NA,28226
-"149",1464,"Elevator Brewery & Draught Haus",1139332977,4,4,4,"American Double / Imperial IPA",4,4,"Elevator Imperial IPA",NA,28226
-"150",1464,"Elevator Brewery & Draught Haus",1286259739,3,3,4,"Eisbock",3.5,3.5,"Elevator Eisbock",11.5,62120
-"151",1464,"Elevator Brewery & Draught Haus",1285540565,2.5,2.5,2.5,"Eisbock",3,3,"Elevator Eisbock",11.5,62120
-"152",1464,"Elevator Brewery & Draught Haus",1288880793,3,3,2.5,"American Strong Ale",3,3,"Elevator Barrel Aged Red",NA,63147
-"153",1464,"Elevator Brewery & Draught Haus",1246380575,3,3,4,"American IPA",2.5,2.5,"Elevator Over The Top IPA",NA,50808
-"154",1464,"Elevator Brewery & Draught Haus",1147985921,4.5,4,4.5,"Weizenbock",4.5,4.5,"Elevator Maibock",NA,9822
-"155",1464,"Elevator Brewery & Draught Haus",1053631546,4,3.5,4,"Weizenbock",3.5,3.5,"Elevator Maibock",NA,9822
-"156",1464,"Elevator Brewery & Draught Haus",1210087115,2,3,2.5,"American Brown Ale",2,2.5,"Elevator Nut N' Honey Brown Ale",NA,42522
-"157",1464,"Elevator Brewery & Draught Haus",1198188664,4,3,4,"American Pale Ale (APA)",4,4,"Elevator 13th Floor Pale Ale",NA,6217
-"158",1464,"Elevator Brewery & Draught Haus",1068420701,4,3,3.5,"American Pale Ale (APA)",3.5,3,"Elevator 13th Floor Pale Ale",NA,6217
-"159",1464,"Elevator Brewery & Draught Haus",1053885610,4,3.5,4,"American Pale Ale (APA)",4,4,"Elevator 13th Floor Pale Ale",NA,6217
-"160",1464,"Elevator Brewery & Draught Haus",1032865326,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Elevator 13th Floor Pale Ale",NA,6217
-"161",1464,"Elevator Brewery & Draught Haus",1194035549,3.5,3.5,3.5,"American Double / Imperial Pilsner",4,3.5,"Elevator Imperial Pilsner",NA,37635
-"162",1464,"Elevator Brewery & Draught Haus",1185229987,3.5,3.5,3.5,"American Double / Imperial Pilsner",4,4,"Elevator Imperial Pilsner",NA,37635
-"163",1464,"Elevator Brewery & Draught Haus",1184173156,3,3,3.5,"American Double / Imperial Pilsner",4,3,"Elevator Imperial Pilsner",NA,37635
-"164",1464,"Elevator Brewery & Draught Haus",1187549118,2,3,4.5,"Doppelbock",2,2.5,"Elevator Procrastinator Dopplebock",NA,4037
-"165",1464,"Elevator Brewery & Draught Haus",1321548139,3.5,2.5,2.5,"Doppelbock",2.5,2.5,"Elevator Procrastinator Dopplebock",NA,4037
-"166",1464,"Elevator Brewery & Draught Haus",1305165089,4.5,4,3.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
-"167",1464,"Elevator Brewery & Draught Haus",1280008554,3.5,3,3.5,"Doppelbock",3,3.5,"Elevator Procrastinator Dopplebock",NA,4037
-"168",1464,"Elevator Brewery & Draught Haus",1242832519,3.5,3.5,4,"Doppelbock",3,3,"Elevator Procrastinator Dopplebock",NA,4037
-"169",1464,"Elevator Brewery & Draught Haus",1221437877,4,4,4,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
-"170",1464,"Elevator Brewery & Draught Haus",1209326525,3.5,4,3.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
-"171",1464,"Elevator Brewery & Draught Haus",1198110727,3.5,3.5,4.5,"Doppelbock",4,3.5,"Elevator Procrastinator Dopplebock",NA,4037
-"172",1464,"Elevator Brewery & Draught Haus",1197783372,3,4,5,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
-"173",1464,"Elevator Brewery & Draught Haus",1153894343,3.5,3.5,4,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
-"174",1464,"Elevator Brewery & Draught Haus",1143482812,4.5,4,4,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
-"175",1464,"Elevator Brewery & Draught Haus",1141266683,4,3.5,4,"Doppelbock",4,3.5,"Elevator Procrastinator Dopplebock",NA,4037
-"176",1464,"Elevator Brewery & Draught Haus",1068433203,4.5,4,4,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
-"177",1464,"Elevator Brewery & Draught Haus",1053632271,4,3.5,4.5,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
-"178",1464,"Elevator Brewery & Draught Haus",1036658351,4.5,4,4.5,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
-"179",1464,"Elevator Brewery & Draught Haus",1023412927,4,3.5,4.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
-"180",1464,"Elevator Brewery & Draught Haus",1322964605,3.5,3.5,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"181",1464,"Elevator Brewery & Draught Haus",1322927437,3.5,3.5,4.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
-"182",1464,"Elevator Brewery & Draught Haus",1319282209,4.5,4,4.5,"Euro Dark Lager",4,4.5,"Elevator Dark Horse Lager",5.3,40147
-"183",1464,"Elevator Brewery & Draught Haus",1313804964,3.5,3.5,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"184",1464,"Elevator Brewery & Draught Haus",1311553391,4,3,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"185",1464,"Elevator Brewery & Draught Haus",1309827158,4,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
-"186",1464,"Elevator Brewery & Draught Haus",1307002457,4,3,4.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"187",1464,"Elevator Brewery & Draught Haus",1306642125,3.5,4,3.5,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
-"188",1464,"Elevator Brewery & Draught Haus",1302211060,4,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
-"189",1464,"Elevator Brewery & Draught Haus",1300594457,3.5,3,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"190",1464,"Elevator Brewery & Draught Haus",1300315083,3.5,3,4,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
-"191",1464,"Elevator Brewery & Draught Haus",1293972640,4,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"192",1464,"Elevator Brewery & Draught Haus",1266545534,4,4,3,"Euro Dark Lager",4.5,4,"Elevator Dark Horse Lager",5.3,40147
-"193",1464,"Elevator Brewery & Draught Haus",1289963163,3.5,4,4,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"194",1464,"Elevator Brewery & Draught Haus",1288465312,4.5,3,3.5,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
-"195",1464,"Elevator Brewery & Draught Haus",1287540168,4.5,3.5,3.5,"Euro Dark Lager",4,4.5,"Elevator Dark Horse Lager",5.3,40147
-"196",1464,"Elevator Brewery & Draught Haus",1284141718,4.5,3,2.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"197",1464,"Elevator Brewery & Draught Haus",1280524756,4,3.5,3,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"198",1464,"Elevator Brewery & Draught Haus",1279916207,4,4,3,"Euro Dark Lager",2.5,4,"Elevator Dark Horse Lager",5.3,40147
-"199",1464,"Elevator Brewery & Draught Haus",1275618752,4,4,3.5,"Euro Dark Lager",4.5,4,"Elevator Dark Horse Lager",5.3,40147
-"200",1464,"Elevator Brewery & Draught Haus",1270222004,4,4,3,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
-"201",1464,"Elevator Brewery & Draught Haus",1053762448,3,3,3,"Light Lager",3,2.5,"Elevator Lift Light",NA,9992
-"202",1464,"Elevator Brewery & Draught Haus",1266293234,4,3,4.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"203",1464,"Elevator Brewery & Draught Haus",1262507782,4,3,3.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
-"204",1464,"Elevator Brewery & Draught Haus",1257564078,4.5,3,3.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"205",1464,"Elevator Brewery & Draught Haus",1252713799,3.5,3.5,3,"Euro Dark Lager",2.5,3,"Elevator Dark Horse Lager",5.3,40147
-"206",1464,"Elevator Brewery & Draught Haus",1252597347,4,4,4,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
-"207",1464,"Elevator Brewery & Draught Haus",1251133197,3.5,3,4,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"208",1464,"Elevator Brewery & Draught Haus",1246814232,3.5,3,3,"Euro Dark Lager",2.5,3,"Elevator Dark Horse Lager",5.3,40147
-"209",1464,"Elevator Brewery & Draught Haus",1242831866,4,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"210",1464,"Elevator Brewery & Draught Haus",1236230466,4,3.5,3.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"211",1464,"Elevator Brewery & Draught Haus",1232415666,4,3.5,3.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
-"212",1464,"Elevator Brewery & Draught Haus",1224808303,4,4,3.5,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
-"213",1464,"Elevator Brewery & Draught Haus",1221438097,4,3,3,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
-"214",1464,"Elevator Brewery & Draught Haus",1218245121,4.5,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"215",1464,"Elevator Brewery & Draught Haus",1210091839,4,4,3.5,"Euro Dark Lager",4.5,4.5,"Elevator Dark Horse Lager",5.3,40147
-"216",1464,"Elevator Brewery & Draught Haus",1206214351,3.5,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
-"217",1464,"Elevator Brewery & Draught Haus",1198096518,4,3.5,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
-"218",1464,"Elevator Brewery & Draught Haus",1184172833,4.5,4,4,"Vienna Lager",4,4,"Elevator Vienna-Style Amber Lager",NA,6989
-"219",1464,"Elevator Brewery & Draught Haus",1053886181,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Elevator Vienna-Style Amber Lager",NA,6989
-"220",1464,"Elevator Brewery & Draught Haus",1036658259,4,3.5,4,"Vienna Lager",4,3.5,"Elevator Vienna-Style Amber Lager",NA,6989
-"221",1464,"Elevator Brewery & Draught Haus",1128008612,4,4,3.5,"American Double / Imperial IPA",4,4,"Elevator Double IPA",NA,26070
-"222",1464,"Elevator Brewery & Draught Haus",1312740974,3.5,3.5,3.5,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
-"223",1464,"Elevator Brewery & Draught Haus",1296250650,4,3.5,3.5,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
-"224",1464,"Elevator Brewery & Draught Haus",1296044461,4,4,4,"Bock",3.5,4,"Wooden Shoe Bock Beer",6.7,62356
-"225",1464,"Elevator Brewery & Draught Haus",1294181319,4,3,4,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
-"226",1464,"Elevator Brewery & Draught Haus",1286280067,4,4,3,"Bock",3.5,4,"Wooden Shoe Bock Beer",6.7,62356
-"227",1464,"Elevator Brewery & Draught Haus",1326163974,3.5,3,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
-"228",1464,"Elevator Brewery & Draught Haus",1325120638,3.5,4,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
-"229",1464,"Elevator Brewery & Draught Haus",1324593296,3.5,4,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
-"230",1464,"Elevator Brewery & Draught Haus",1323408552,3,2.5,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
-"231",1464,"Elevator Brewery & Draught Haus",1321581542,4,3.5,4,"American IPA",3.5,4,"Elevator Three Frogs IPA",8,42359
-"232",1464,"Elevator Brewery & Draught Haus",1049903938,2.5,3,3,"Light Lager",3,2.5,"Elevator Schmidt's Lite",NA,9393
-"233",1464,"Elevator Brewery & Draught Haus",1321507612,3.5,3.5,3.5,"American IPA",3,3.5,"Elevator Three Frogs IPA",8,42359
-"234",1464,"Elevator Brewery & Draught Haus",1320631284,4,4,4.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
-"235",1464,"Elevator Brewery & Draught Haus",1319338034,4,4,4.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
-"236",1464,"Elevator Brewery & Draught Haus",1313804507,3.5,3.5,3.5,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
-"237",1464,"Elevator Brewery & Draught Haus",1313711019,3.5,4,4,"American IPA",3,3,"Elevator Three Frogs IPA",8,42359
-"238",1464,"Elevator Brewery & Draught Haus",1313119240,4,4,3.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
-"239",1464,"Elevator Brewery & Draught Haus",1311566724,3.5,3,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
-"240",1464,"Elevator Brewery & Draught Haus",1311561667,4,3.5,3.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
-"241",1464,"Elevator Brewery & Draught Haus",1309041752,4,3.5,4.5,"American IPA",4.5,4,"Elevator Three Frogs IPA",8,42359
-"242",1464,"Elevator Brewery & Draught Haus",1308452333,4.5,4.5,4,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
-"243",1464,"Elevator Brewery & Draught Haus",1305177907,3,4,3,"American IPA",3,3,"Elevator Three Frogs IPA",8,42359
-"244",1464,"Elevator Brewery & Draught Haus",1298071130,4,3,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
-"245",1464,"Elevator Brewery & Draught Haus",1280009011,3.5,3,4,"American IPA",3.5,3,"Elevator Three Frogs IPA",8,42359
-"246",1464,"Elevator Brewery & Draught Haus",1209325262,4.5,4,3.5,"American IPA",4.5,4.5,"Elevator Three Frogs IPA",8,42359
-"247",1464,"Elevator Brewery & Draught Haus",1321487331,2,2.5,3,"Pumpkin Ale",1.5,2,"Elevator Pumpkinweizen",NA,75380
-"248",1464,"Elevator Brewery & Draught Haus",1324068176,3.5,3.5,3,"Winter Warmer",4,3.5,"Elevator Winter Warmer Ale",8.6,64239
-"249",1464,"Elevator Brewery & Draught Haus",1320976079,4,4,4.5,"Winter Warmer",3.5,4,"Elevator Winter Warmer Ale",8.6,64239
-"250",1464,"Elevator Brewery & Draught Haus",1303350489,4,4,4,"Winter Warmer",4,4,"Elevator Winter Warmer Ale",8.6,64239
-"251",1464,"Elevator Brewery & Draught Haus",1301230308,4,4,3.5,"Winter Warmer",4,4,"Elevator Winter Warmer Ale",8.6,64239
-"252",1464,"Elevator Brewery & Draught Haus",1295667685,3,3.5,2,"Winter Warmer",2,2.5,"Elevator Winter Warmer Ale",8.6,64239
-"253",1464,"Elevator Brewery & Draught Haus",1294009461,4,4,4,"Winter Warmer",4,4.5,"Elevator Winter Warmer Ale",8.6,64239
-"254",1464,"Elevator Brewery & Draught Haus",1292554578,4,3.5,4,"Winter Warmer",3.5,4,"Elevator Winter Warmer Ale",8.6,64239
-"255",1464,"Elevator Brewery & Draught Haus",1291866998,4,4,4,"Winter Warmer",4,4.5,"Elevator Winter Warmer Ale",8.6,64239
-"256",1464,"Elevator Brewery & Draught Haus",1274713837,4,4,4.5,"American Stout",4,4.5,"Elevator Mocha Plum Stout",NA,58623
-"257",1464,"Elevator Brewery & Draught Haus",1141835712,3.5,4,4,"Märzen / Oktoberfest",3,3,"Elevator Munich Märzenbier",NA,5203
-"258",1464,"Elevator Brewery & Draught Haus",1218290551,3.5,5,4.5,"Tripel",4,4,"Elevator Belgian Tripel",NA,44225
-"259",1464,"Elevator Brewery & Draught Haus",1068484584,3.5,3.5,3.5,"Munich Helles Lager",4,3.5,"Elevator Munich Helles",NA,14071
-"260",1464,"Elevator Brewery & Draught Haus",1210086254,3.5,3,3.5,"Hefeweizen",4,3.5,"Elevator Hefe Wiezen",NA,4893
-"261",1464,"Elevator Brewery & Draught Haus",1158701029,4,3.5,3,"Hefeweizen",2.5,3,"Elevator Hefe Wiezen",NA,4893
-"262",1464,"Elevator Brewery & Draught Haus",1143483332,2.5,2.5,2.5,"Hefeweizen",3,3,"Elevator Hefe Wiezen",NA,4893
-"263",1464,"Elevator Brewery & Draught Haus",1093392183,2.5,2.5,2.5,"Hefeweizen",2.5,2.5,"Elevator Hefe Wiezen",NA,4893
-"264",1464,"Elevator Brewery & Draught Haus",1054882005,3,3,2.5,"Hefeweizen",2.5,2.5,"Elevator Hefe Wiezen",NA,4893
-"265",1464,"Elevator Brewery & Draught Haus",1053761215,3.5,3,3.5,"Hefeweizen",3,3.5,"Elevator Hefe Wiezen",NA,4893
-"266",1464,"Elevator Brewery & Draught Haus",1026405691,4,4,4,"Hefeweizen",3.5,3.5,"Elevator Hefe Wiezen",NA,4893
-"267",1464,"Elevator Brewery & Draught Haus",1324691859,4,3.5,4,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
-"268",1464,"Elevator Brewery & Draught Haus",1320903659,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
-"269",1464,"Elevator Brewery & Draught Haus",1028300876,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Elevator Munich Märzenbier",NA,5203
-"270",1464,"Elevator Brewery & Draught Haus",1319732950,3.5,2.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
-"271",1464,"Elevator Brewery & Draught Haus",1319077301,1,1.5,2.5,"Märzen / Oktoberfest",1.5,1,"Elevator 1810 Oktoberfest",5.9,44988
-"272",1464,"Elevator Brewery & Draught Haus",1318201315,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Elevator 1810 Oktoberfest",5.9,44988
-"273",1464,"Elevator Brewery & Draught Haus",1315518449,4,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Elevator 1810 Oktoberfest",5.9,44988
-"274",1464,"Elevator Brewery & Draught Haus",1292967945,4.5,3.5,4.5,"Märzen / Oktoberfest",4,4.5,"Elevator 1810 Oktoberfest",5.9,44988
-"275",1464,"Elevator Brewery & Draught Haus",1288313544,4,4,4,"Märzen / Oktoberfest",4,4,"Elevator 1810 Oktoberfest",5.9,44988
-"276",1464,"Elevator Brewery & Draught Haus",1286665421,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
-"277",1464,"Elevator Brewery & Draught Haus",1284721262,3.5,3,4,"Märzen / Oktoberfest",3.5,3,"Elevator 1810 Oktoberfest",5.9,44988
-"278",1464,"Elevator Brewery & Draught Haus",1283031660,4.5,2.5,4,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
-"279",1464,"Elevator Brewery & Draught Haus",1225060712,2,3.5,3.5,"Märzen / Oktoberfest",2.5,3,"Elevator 1810 Oktoberfest",5.9,44988
-"280",1464,"Elevator Brewery & Draught Haus",1222132366,3.5,3.5,3,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
-"281",1464,"Elevator Brewery & Draught Haus",1252968369,5,5,5,"American Pale Wheat Ale",4.5,5,"Elevator Honey Wheat",NA,49892
-"282",1464,"Elevator Brewery & Draught Haus",1242787774,3.5,4,3.5,"American Pale Wheat Ale",3,4,"Elevator Honey Wheat",NA,49892
-"283",1464,"Elevator Brewery & Draught Haus",1237807606,3.5,4,3.5,"Munich Dunkel Lager",3,4,"Elevator Schmidt's Dark",NA,29134
-"284",1464,"Elevator Brewery & Draught Haus",1142793821,4,4,4,"Munich Dunkel Lager",4,4.5,"Elevator Schmidt's Dark",NA,29134
-"285",1464,"Elevator Brewery & Draught Haus",1149177514,4,3.5,3.5,"German Pilsener",4,3.5,"Elevator Pilsener 1516",NA,4641
-"286",1464,"Elevator Brewery & Draught Haus",1053761832,4,3.5,4,"German Pilsener",4,4,"Elevator Pilsener 1516",NA,4641
-"287",1464,"Elevator Brewery & Draught Haus",1024852539,4,3.5,4,"German Pilsener",4,3.5,"Elevator Pilsener 1516",NA,4641
-"288",1464,"Elevator Brewery & Draught Haus",1194035393,3,3,3,"Light Lager",3,3,"Elevator Lift Light",NA,9992
-"289",1464,"Elevator Brewery & Draught Haus",1270960271,3,4,4,"Witbier",4,3.5,"Elevator Imperial Wit",9,57474
-"290",1464,"Elevator Brewery & Draught Haus",1295097359,3.5,3.5,3.5,"Witbier",3.5,3.5,"Wooden Shoe Stallostown Wheat",NA,59805
-"291",1464,"Elevator Brewery & Draught Haus",1293409893,4,3.5,4.5,"Witbier",4,4,"Wooden Shoe Stallostown Wheat",NA,59805
-"292",1464,"Elevator Brewery & Draught Haus",1278195740,4.5,3.5,3,"Witbier",4.5,4,"Wooden Shoe Stallostown Wheat",NA,59805
-"293",1464,"Elevator Brewery & Draught Haus",1045475209,3,3,3.5,"Maibock / Helles Bock",3,3,"Elevator O'Henry Helles",NA,8612
-"294",1464,"Elevator Brewery & Draught Haus",1094056193,2.5,3.5,4,"Scottish Ale",3,3,"Elevator Scottish Ale",NA,9820
-"295",1464,"Elevator Brewery & Draught Haus",1068421439,4,3,3.5,"Scottish Ale",3.5,3.5,"Elevator Scottish Ale",NA,9820
+"3",1464,"Elevator Brewery & Draught Haus",1325124660,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"4",1464,"Elevator Brewery & Draught Haus",1307159288,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"5",1464,"Elevator Brewery & Draught Haus",1305933616,2,2,3,"Extra Special / Strong Bitter (ESB)",2.5,2,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"6",1464,"Elevator Brewery & Draught Haus",1300060936,4,4,3,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"7",1464,"Elevator Brewery & Draught Haus",1293418664,4,3,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"8",1464,"Elevator Brewery & Draught Haus",1290905136,3,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"9",1464,"Elevator Brewery & Draught Haus",1289861789,3.5,4.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"10",1464,"Elevator Brewery & Draught Haus",1287990302,4,3,4.5,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"11",1464,"Elevator Brewery & Draught Haus",1287975960,4,3,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"12",1464,"Elevator Brewery & Draught Haus",1287379638,4,3,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"13",1464,"Elevator Brewery & Draught Haus",1279914015,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"14",1464,"Elevator Brewery & Draught Haus",1271206022,3.5,3.5,3,"Extra Special / Strong Bitter (ESB)",3,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"15",1464,"Elevator Brewery & Draught Haus",1267295852,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"16",1464,"Elevator Brewery & Draught Haus",1246392620,2,3,3.5,"Extra Special / Strong Bitter (ESB)",3,2,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"17",1464,"Elevator Brewery & Draught Haus",1242831107,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"18",1464,"Elevator Brewery & Draught Haus",1221438244,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"19",1464,"Elevator Brewery & Draught Haus",1219495133,3.5,3,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"20",1464,"Elevator Brewery & Draught Haus",1218978455,5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"21",1464,"Elevator Brewery & Draught Haus",1280005413,3.5,3,3,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"22",1464,"Elevator Brewery & Draught Haus",1209323568,4,4,4,"Extra Special / Strong Bitter (ESB)",2.5,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"23",1464,"Elevator Brewery & Draught Haus",1185228883,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"24",1464,"Elevator Brewery & Draught Haus",1150680447,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"25",1464,"Elevator Brewery & Draught Haus",1143483104,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"26",1464,"Elevator Brewery & Draught Haus",1068421264,4,2.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"27",1464,"Elevator Brewery & Draught Haus",1060013510,3,3,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"28",1464,"Elevator Brewery & Draught Haus",1053630794,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"29",1464,"Elevator Brewery & Draught Haus",1024068861,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Elevator Bleeding Buckeye Red Ale",5.7,9978
+"30",1464,"Elevator Brewery & Draught Haus",1303532096,3.5,2.5,3.5,"English Brown Ale",4,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"31",1464,"Elevator Brewery & Draught Haus",1282611803,3.5,3,4,"English Brown Ale",3,3,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"32",1464,"Elevator Brewery & Draught Haus",1242832146,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"33",1464,"Elevator Brewery & Draught Haus",1188010556,4,3.5,4,"English Brown Ale",4,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"34",1464,"Elevator Brewery & Draught Haus",1144428512,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"35",1464,"Elevator Brewery & Draught Haus",1093392759,3,3.5,3,"English Brown Ale",3,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"36",1464,"Elevator Brewery & Draught Haus",1077763259,4,3.5,3.5,"English Brown Ale",2.5,3,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"37",1464,"Elevator Brewery & Draught Haus",1053639405,3.5,3,4,"English Brown Ale",3.5,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"38",1464,"Elevator Brewery & Draught Haus",1032865190,4,4,4,"English Brown Ale",4,3.5,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"39",1464,"Elevator Brewery & Draught Haus",1026405364,4,3.5,3.5,"English Brown Ale",3.5,4,"Elevator Dirty Dick's Nut Brown Ale",NA,9981
+"40",1464,"Elevator Brewery & Draught Haus",1246380927,3.5,3.5,3.5,"American Porter",4,3,"Elevator Coal Porter",NA,4300
+"41",1464,"Elevator Brewery & Draught Haus",1242831580,4,4,4,"American Porter",4,3.5,"Elevator Coal Porter",NA,4300
+"42",1464,"Elevator Brewery & Draught Haus",1210086662,4.5,4,4,"American Porter",4.5,4,"Elevator Coal Porter",NA,4300
+"43",1464,"Elevator Brewery & Draught Haus",1184172606,4,4,4.5,"American Porter",3.5,4,"Elevator Coal Porter",NA,4300
+"44",1464,"Elevator Brewery & Draught Haus",1077762867,4,4,4,"American Porter",3,3.5,"Elevator Coal Porter",NA,4300
+"45",1464,"Elevator Brewery & Draught Haus",1068421796,4,4,4,"American Porter",4,4,"Elevator Coal Porter",NA,4300
+"46",1464,"Elevator Brewery & Draught Haus",1054882391,4,3.5,4.5,"American Porter",4,4,"Elevator Coal Porter",NA,4300
+"47",1464,"Elevator Brewery & Draught Haus",1053632777,4,3.5,4,"American Porter",4,4,"Elevator Coal Porter",NA,4300
+"48",1464,"Elevator Brewery & Draught Haus",1024068544,3.5,3.5,4,"American Porter",4,3.5,"Elevator Coal Porter",NA,4300
+"49",1464,"Elevator Brewery & Draught Haus",1325035028,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Elevator Mogabi",5.5,57558
+"50",1464,"Elevator Brewery & Draught Haus",1323915079,2,3.5,3.5,"American Pale Wheat Ale",3,2,"Elevator Mogabi",5.5,57558
+"51",1464,"Elevator Brewery & Draught Haus",1301858794,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Elevator Mogabi",5.5,57558
+"52",1464,"Elevator Brewery & Draught Haus",1297810467,4.5,4.5,4.5,"American Pale Wheat Ale",4,4,"Elevator Mogabi",5.5,57558
+"53",1464,"Elevator Brewery & Draught Haus",1290396355,4,4,4.5,"American Pale Wheat Ale",4.5,4,"Elevator Mogabi",5.5,57558
+"54",1464,"Elevator Brewery & Draught Haus",1287862807,4,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Elevator Mogabi",5.5,57558
+"55",1464,"Elevator Brewery & Draught Haus",1285724071,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Elevator Mogabi",5.5,57558
+"56",1464,"Elevator Brewery & Draught Haus",1280007407,4,4,3.5,"American Pale Wheat Ale",3.5,4.5,"Elevator Mogabi",5.5,57558
+"57",1464,"Elevator Brewery & Draught Haus",1278732540,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Elevator Mogabi",5.5,57558
+"58",1464,"Elevator Brewery & Draught Haus",1277867109,4.5,4.5,4,"American Pale Wheat Ale",5,4.5,"Elevator Mogabi",5.5,57558
+"59",1464,"Elevator Brewery & Draught Haus",1271349114,3,3.5,4,"American Pale Wheat Ale",3.5,3,"Elevator Mogabi",5.5,57558
+"60",1464,"Elevator Brewery & Draught Haus",1310517056,3.5,3.5,3.5,"American Amber / Red Ale",2.5,3,"Elevator Horus",10,52722
+"61",1464,"Elevator Brewery & Draught Haus",1308957865,4,4,4,"American Amber / Red Ale",4,4.5,"Elevator Horus",10,52722
+"62",1464,"Elevator Brewery & Draught Haus",1308956558,4,4,4.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
+"63",1464,"Elevator Brewery & Draught Haus",1302485025,4,3.5,4.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
+"64",1464,"Elevator Brewery & Draught Haus",1272421058,4,4,4,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
+"65",1464,"Elevator Brewery & Draught Haus",1184173422,3,3.5,4,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
+"66",1464,"Elevator Brewery & Draught Haus",1280589675,4.5,4,4,"Hefeweizen",4.5,4,"Elevator Heiferweizen",5.5,59804
+"67",1464,"Elevator Brewery & Draught Haus",1266681263,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Elevator Horus",10,52722
+"68",1464,"Elevator Brewery & Draught Haus",1266646720,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Elevator Horus",10,52722
+"69",1464,"Elevator Brewery & Draught Haus",1259624441,4,4,3,"American Amber / Red Ale",4,4.5,"Elevator Horus",10,52722
+"70",1464,"Elevator Brewery & Draught Haus",1257576945,4,4,3.5,"American Amber / Red Ale",4,4,"Elevator Horus",10,52722
+"71",1464,"Elevator Brewery & Draught Haus",1253336171,4,4,4,"American Amber / Red Ale",4,3.5,"Elevator Horus",10,52722
+"72",1464,"Elevator Brewery & Draught Haus",1180837347,3.5,3.5,3.5,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
+"73",1464,"Elevator Brewery & Draught Haus",1160086952,3,3.5,4,"American IPA",3.5,4,"Elevator Necessity IPA",NA,9980
+"74",1464,"Elevator Brewery & Draught Haus",1141266347,3.5,3.5,4,"American IPA",3.5,3.5,"Elevator Necessity IPA",NA,9980
+"75",1464,"Elevator Brewery & Draught Haus",1093391815,3,3.5,3,"American IPA",3,2.5,"Elevator Necessity IPA",NA,9980
+"76",1464,"Elevator Brewery & Draught Haus",1068421001,3,2.5,3.5,"American IPA",3.5,2.5,"Elevator Necessity IPA",NA,9980
+"77",1464,"Elevator Brewery & Draught Haus",1053638949,4,3.5,4,"American IPA",4,4,"Elevator Necessity IPA",NA,9980
+"78",1464,"Elevator Brewery & Draught Haus",1322791391,3.5,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
+"79",1464,"Elevator Brewery & Draught Haus",1310247117,3.5,4,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
+"80",1464,"Elevator Brewery & Draught Haus",1303080047,3.5,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
+"81",1464,"Elevator Brewery & Draught Haus",1293371383,4,4,3.5,"Hefeweizen",3.5,4,"Elevator Heiferweizen",5.5,59804
+"82",1464,"Elevator Brewery & Draught Haus",1280007060,4,3.5,4,"Hefeweizen",3.5,3.5,"Elevator Heiferweizen",5.5,59804
+"83",1464,"Elevator Brewery & Draught Haus",1278193949,4,3.5,3.5,"Hefeweizen",4,3.5,"Elevator Heiferweizen",5.5,59804
+"84",1464,"Elevator Brewery & Draught Haus",1187663529,3,3,3,"Witbier",3,3,"Elevator Belgian Wit",NA,5204
+"85",1464,"Elevator Brewery & Draught Haus",1279913002,3.5,3,4,"American Pale Ale (APA)",3,2.5,"Elevator Bear Ass Pale Ale",NA,42360
+"86",1464,"Elevator Brewery & Draught Haus",1152560231,1.5,1.5,3,"Witbier",1,1,"Elevator Belgian Wit",NA,5204
+"87",1464,"Elevator Brewery & Draught Haus",1152229533,3.5,3.5,4,"Witbier",3.5,3.5,"Elevator Belgian Wit",NA,5204
+"88",1464,"Elevator Brewery & Draught Haus",1068484170,4.5,4,4,"Witbier",4,4,"Elevator Belgian Wit",NA,5204
+"89",1464,"Elevator Brewery & Draught Haus",1028301095,4,3.5,3.5,"Witbier",4,4,"Elevator Belgian Wit",NA,5204
+"90",1464,"Elevator Brewery & Draught Haus",1280009284,3,3,3,"Kölsch",3,3,"Elevator Xtra",NA,25737
+"91",1464,"Elevator Brewery & Draught Haus",1242832931,3.5,3,4,"Kölsch",3,3.5,"Elevator Xtra",NA,25737
+"92",1464,"Elevator Brewery & Draught Haus",1255464970,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Elevator Bear Ass Pale Ale",NA,42360
+"93",1464,"Elevator Brewery & Draught Haus",1234320068,3,2,2.5,"Kölsch",3,3,"Elevator Xtra",NA,25737
+"94",1464,"Elevator Brewery & Draught Haus",1234231690,3,2.5,3,"Kölsch",3,3,"Elevator Xtra",NA,25737
+"95",1464,"Elevator Brewery & Draught Haus",1218978663,3,2,2,"Kölsch",3,2,"Elevator Xtra",NA,25737
+"96",1464,"Elevator Brewery & Draught Haus",1210090431,3,3,4,"Kölsch",2.5,2,"Elevator Xtra",NA,25737
+"97",1464,"Elevator Brewery & Draught Haus",1185046253,4,4.5,4.5,"Kölsch",4,4,"Elevator Xtra",NA,25737
+"98",1464,"Elevator Brewery & Draught Haus",1126129791,3,2,2.5,"Kölsch",3,2,"Elevator Xtra",NA,25737
+"99",1464,"Elevator Brewery & Draught Haus",1321487876,3,3.5,3,"American Pale Ale (APA)",2,3,"Elevator Bear Ass Pale Ale",NA,42360
+"100",1464,"Elevator Brewery & Draught Haus",1242830632,4,4,4,"American Pale Ale (APA)",4,4,"Elevator Bear Ass Pale Ale",NA,42360
+"101",1464,"Elevator Brewery & Draught Haus",1209326145,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4.5,"Elevator Bear Ass Pale Ale",NA,42360
+"102",1464,"Elevator Brewery & Draught Haus",1314237791,4.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Elevator Imperial IPA",NA,28226
+"103",1464,"Elevator Brewery & Draught Haus",1273992377,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Elevator Imperial IPA",NA,28226
+"104",1464,"Elevator Brewery & Draught Haus",1144428916,4,4,4,"American Double / Imperial IPA",4,4,"Elevator Imperial IPA",NA,28226
+"105",1464,"Elevator Brewery & Draught Haus",1139332977,4,4,4,"American Double / Imperial IPA",4,4,"Elevator Imperial IPA",NA,28226
+"106",1464,"Elevator Brewery & Draught Haus",1187549118,2,3,4.5,"Doppelbock",2,2.5,"Elevator Procrastinator Dopplebock",NA,4037
+"107",1464,"Elevator Brewery & Draught Haus",1321548139,3.5,2.5,2.5,"Doppelbock",2.5,2.5,"Elevator Procrastinator Dopplebock",NA,4037
+"108",1464,"Elevator Brewery & Draught Haus",1305165089,4.5,4,3.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
+"109",1464,"Elevator Brewery & Draught Haus",1280008554,3.5,3,3.5,"Doppelbock",3,3.5,"Elevator Procrastinator Dopplebock",NA,4037
+"110",1464,"Elevator Brewery & Draught Haus",1242832519,3.5,3.5,4,"Doppelbock",3,3,"Elevator Procrastinator Dopplebock",NA,4037
+"111",1464,"Elevator Brewery & Draught Haus",1221437877,4,4,4,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
+"112",1464,"Elevator Brewery & Draught Haus",1209326525,3.5,4,3.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
+"113",1464,"Elevator Brewery & Draught Haus",1198110727,3.5,3.5,4.5,"Doppelbock",4,3.5,"Elevator Procrastinator Dopplebock",NA,4037
+"114",1464,"Elevator Brewery & Draught Haus",1197783372,3,4,5,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
+"115",1464,"Elevator Brewery & Draught Haus",1153894343,3.5,3.5,4,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
+"116",1464,"Elevator Brewery & Draught Haus",1143482812,4.5,4,4,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
+"117",1464,"Elevator Brewery & Draught Haus",1141266683,4,3.5,4,"Doppelbock",4,3.5,"Elevator Procrastinator Dopplebock",NA,4037
+"118",1464,"Elevator Brewery & Draught Haus",1068433203,4.5,4,4,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
+"119",1464,"Elevator Brewery & Draught Haus",1053632271,4,3.5,4.5,"Doppelbock",4,4.5,"Elevator Procrastinator Dopplebock",NA,4037
+"120",1464,"Elevator Brewery & Draught Haus",1036658351,4.5,4,4.5,"Doppelbock",4.5,4,"Elevator Procrastinator Dopplebock",NA,4037
+"121",1464,"Elevator Brewery & Draught Haus",1023412927,4,3.5,4.5,"Doppelbock",4,4,"Elevator Procrastinator Dopplebock",NA,4037
+"122",1464,"Elevator Brewery & Draught Haus",1322964605,3.5,3.5,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"123",1464,"Elevator Brewery & Draught Haus",1322927437,3.5,3.5,4.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
+"124",1464,"Elevator Brewery & Draught Haus",1319282209,4.5,4,4.5,"Euro Dark Lager",4,4.5,"Elevator Dark Horse Lager",5.3,40147
+"125",1464,"Elevator Brewery & Draught Haus",1313804964,3.5,3.5,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"126",1464,"Elevator Brewery & Draught Haus",1311553391,4,3,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"127",1464,"Elevator Brewery & Draught Haus",1309827158,4,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
+"128",1464,"Elevator Brewery & Draught Haus",1307002457,4,3,4.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"129",1464,"Elevator Brewery & Draught Haus",1306642125,3.5,4,3.5,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
+"130",1464,"Elevator Brewery & Draught Haus",1302211060,4,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
+"131",1464,"Elevator Brewery & Draught Haus",1300594457,3.5,3,3.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"132",1464,"Elevator Brewery & Draught Haus",1300315083,3.5,3,4,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
+"133",1464,"Elevator Brewery & Draught Haus",1293972640,4,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"134",1464,"Elevator Brewery & Draught Haus",1266545534,4,4,3,"Euro Dark Lager",4.5,4,"Elevator Dark Horse Lager",5.3,40147
+"135",1464,"Elevator Brewery & Draught Haus",1289963163,3.5,4,4,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"136",1464,"Elevator Brewery & Draught Haus",1288465312,4.5,3,3.5,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
+"137",1464,"Elevator Brewery & Draught Haus",1287540168,4.5,3.5,3.5,"Euro Dark Lager",4,4.5,"Elevator Dark Horse Lager",5.3,40147
+"138",1464,"Elevator Brewery & Draught Haus",1284141718,4.5,3,2.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"139",1464,"Elevator Brewery & Draught Haus",1280524756,4,3.5,3,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"140",1464,"Elevator Brewery & Draught Haus",1279916207,4,4,3,"Euro Dark Lager",2.5,4,"Elevator Dark Horse Lager",5.3,40147
+"141",1464,"Elevator Brewery & Draught Haus",1275618752,4,4,3.5,"Euro Dark Lager",4.5,4,"Elevator Dark Horse Lager",5.3,40147
+"142",1464,"Elevator Brewery & Draught Haus",1270222004,4,4,3,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
+"143",1464,"Elevator Brewery & Draught Haus",1266293234,4,3,4.5,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"144",1464,"Elevator Brewery & Draught Haus",1262507782,4,3,3.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
+"145",1464,"Elevator Brewery & Draught Haus",1257564078,4.5,3,3.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"146",1464,"Elevator Brewery & Draught Haus",1252713799,3.5,3.5,3,"Euro Dark Lager",2.5,3,"Elevator Dark Horse Lager",5.3,40147
+"147",1464,"Elevator Brewery & Draught Haus",1252597347,4,4,4,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
+"148",1464,"Elevator Brewery & Draught Haus",1251133197,3.5,3,4,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"149",1464,"Elevator Brewery & Draught Haus",1246814232,3.5,3,3,"Euro Dark Lager",2.5,3,"Elevator Dark Horse Lager",5.3,40147
+"150",1464,"Elevator Brewery & Draught Haus",1242831866,4,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"151",1464,"Elevator Brewery & Draught Haus",1236230466,4,3.5,3.5,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"152",1464,"Elevator Brewery & Draught Haus",1232415666,4,3.5,3.5,"Euro Dark Lager",3,3.5,"Elevator Dark Horse Lager",5.3,40147
+"153",1464,"Elevator Brewery & Draught Haus",1224808303,4,4,3.5,"Euro Dark Lager",4,3.5,"Elevator Dark Horse Lager",5.3,40147
+"154",1464,"Elevator Brewery & Draught Haus",1221438097,4,3,3,"Euro Dark Lager",3.5,3.5,"Elevator Dark Horse Lager",5.3,40147
+"155",1464,"Elevator Brewery & Draught Haus",1218245121,4.5,4,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"156",1464,"Elevator Brewery & Draught Haus",1210091839,4,4,3.5,"Euro Dark Lager",4.5,4.5,"Elevator Dark Horse Lager",5.3,40147
+"157",1464,"Elevator Brewery & Draught Haus",1206214351,3.5,3.5,4,"Euro Dark Lager",3.5,4,"Elevator Dark Horse Lager",5.3,40147
+"158",1464,"Elevator Brewery & Draught Haus",1198096518,4,3.5,4,"Euro Dark Lager",4,4,"Elevator Dark Horse Lager",5.3,40147
+"159",1464,"Elevator Brewery & Draught Haus",1312740974,3.5,3.5,3.5,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
+"160",1464,"Elevator Brewery & Draught Haus",1296250650,4,3.5,3.5,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
+"161",1464,"Elevator Brewery & Draught Haus",1296044461,4,4,4,"Bock",3.5,4,"Wooden Shoe Bock Beer",6.7,62356
+"162",1464,"Elevator Brewery & Draught Haus",1294181319,4,3,4,"Bock",3.5,3.5,"Wooden Shoe Bock Beer",6.7,62356
+"163",1464,"Elevator Brewery & Draught Haus",1286280067,4,4,3,"Bock",3.5,4,"Wooden Shoe Bock Beer",6.7,62356
+"164",1464,"Elevator Brewery & Draught Haus",1326163974,3.5,3,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
+"165",1464,"Elevator Brewery & Draught Haus",1325120638,3.5,4,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
+"166",1464,"Elevator Brewery & Draught Haus",1324593296,3.5,4,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
+"167",1464,"Elevator Brewery & Draught Haus",1323408552,3,2.5,4,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
+"168",1464,"Elevator Brewery & Draught Haus",1321581542,4,3.5,4,"American IPA",3.5,4,"Elevator Three Frogs IPA",8,42359
+"169",1464,"Elevator Brewery & Draught Haus",1321507612,3.5,3.5,3.5,"American IPA",3,3.5,"Elevator Three Frogs IPA",8,42359
+"170",1464,"Elevator Brewery & Draught Haus",1320631284,4,4,4.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
+"171",1464,"Elevator Brewery & Draught Haus",1319338034,4,4,4.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
+"172",1464,"Elevator Brewery & Draught Haus",1313804507,3.5,3.5,3.5,"American IPA",3.5,3.5,"Elevator Three Frogs IPA",8,42359
+"173",1464,"Elevator Brewery & Draught Haus",1313711019,3.5,4,4,"American IPA",3,3,"Elevator Three Frogs IPA",8,42359
+"174",1464,"Elevator Brewery & Draught Haus",1313119240,4,4,3.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
+"175",1464,"Elevator Brewery & Draught Haus",1311566724,3.5,3,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
+"176",1464,"Elevator Brewery & Draught Haus",1311561667,4,3.5,3.5,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
+"177",1464,"Elevator Brewery & Draught Haus",1309041752,4,3.5,4.5,"American IPA",4.5,4,"Elevator Three Frogs IPA",8,42359
+"178",1464,"Elevator Brewery & Draught Haus",1308452333,4.5,4.5,4,"American IPA",4,4,"Elevator Three Frogs IPA",8,42359
+"179",1464,"Elevator Brewery & Draught Haus",1305177907,3,4,3,"American IPA",3,3,"Elevator Three Frogs IPA",8,42359
+"180",1464,"Elevator Brewery & Draught Haus",1298071130,4,3,4,"American IPA",4,3.5,"Elevator Three Frogs IPA",8,42359
+"181",1464,"Elevator Brewery & Draught Haus",1280009011,3.5,3,4,"American IPA",3.5,3,"Elevator Three Frogs IPA",8,42359
+"182",1464,"Elevator Brewery & Draught Haus",1209325262,4.5,4,3.5,"American IPA",4.5,4.5,"Elevator Three Frogs IPA",8,42359
+"183",1464,"Elevator Brewery & Draught Haus",1324068176,3.5,3.5,3,"Winter Warmer",4,3.5,"Elevator Winter Warmer Ale",8.6,64239
+"184",1464,"Elevator Brewery & Draught Haus",1320976079,4,4,4.5,"Winter Warmer",3.5,4,"Elevator Winter Warmer Ale",8.6,64239
+"185",1464,"Elevator Brewery & Draught Haus",1303350489,4,4,4,"Winter Warmer",4,4,"Elevator Winter Warmer Ale",8.6,64239
+"186",1464,"Elevator Brewery & Draught Haus",1301230308,4,4,3.5,"Winter Warmer",4,4,"Elevator Winter Warmer Ale",8.6,64239
+"187",1464,"Elevator Brewery & Draught Haus",1295667685,3,3.5,2,"Winter Warmer",2,2.5,"Elevator Winter Warmer Ale",8.6,64239
+"188",1464,"Elevator Brewery & Draught Haus",1294009461,4,4,4,"Winter Warmer",4,4.5,"Elevator Winter Warmer Ale",8.6,64239
+"189",1464,"Elevator Brewery & Draught Haus",1292554578,4,3.5,4,"Winter Warmer",3.5,4,"Elevator Winter Warmer Ale",8.6,64239
+"190",1464,"Elevator Brewery & Draught Haus",1291866998,4,4,4,"Winter Warmer",4,4.5,"Elevator Winter Warmer Ale",8.6,64239
+"191",1464,"Elevator Brewery & Draught Haus",1210086254,3.5,3,3.5,"Hefeweizen",4,3.5,"Elevator Hefe Wiezen",NA,4893
+"192",1464,"Elevator Brewery & Draught Haus",1158701029,4,3.5,3,"Hefeweizen",2.5,3,"Elevator Hefe Wiezen",NA,4893
+"193",1464,"Elevator Brewery & Draught Haus",1143483332,2.5,2.5,2.5,"Hefeweizen",3,3,"Elevator Hefe Wiezen",NA,4893
+"194",1464,"Elevator Brewery & Draught Haus",1093392183,2.5,2.5,2.5,"Hefeweizen",2.5,2.5,"Elevator Hefe Wiezen",NA,4893
+"195",1464,"Elevator Brewery & Draught Haus",1054882005,3,3,2.5,"Hefeweizen",2.5,2.5,"Elevator Hefe Wiezen",NA,4893
+"196",1464,"Elevator Brewery & Draught Haus",1053761215,3.5,3,3.5,"Hefeweizen",3,3.5,"Elevator Hefe Wiezen",NA,4893
+"197",1464,"Elevator Brewery & Draught Haus",1026405691,4,4,4,"Hefeweizen",3.5,3.5,"Elevator Hefe Wiezen",NA,4893
+"198",1464,"Elevator Brewery & Draught Haus",1324691859,4,3.5,4,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
+"199",1464,"Elevator Brewery & Draught Haus",1320903659,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
+"200",1464,"Elevator Brewery & Draught Haus",1319732950,3.5,2.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
+"201",1464,"Elevator Brewery & Draught Haus",1319077301,1,1.5,2.5,"Märzen / Oktoberfest",1.5,1,"Elevator 1810 Oktoberfest",5.9,44988
+"202",1464,"Elevator Brewery & Draught Haus",1318201315,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Elevator 1810 Oktoberfest",5.9,44988
+"203",1464,"Elevator Brewery & Draught Haus",1315518449,4,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Elevator 1810 Oktoberfest",5.9,44988
+"204",1464,"Elevator Brewery & Draught Haus",1292967945,4.5,3.5,4.5,"Märzen / Oktoberfest",4,4.5,"Elevator 1810 Oktoberfest",5.9,44988
+"205",1464,"Elevator Brewery & Draught Haus",1288313544,4,4,4,"Märzen / Oktoberfest",4,4,"Elevator 1810 Oktoberfest",5.9,44988
+"206",1464,"Elevator Brewery & Draught Haus",1286665421,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
+"207",1464,"Elevator Brewery & Draught Haus",1284721262,3.5,3,4,"Märzen / Oktoberfest",3.5,3,"Elevator 1810 Oktoberfest",5.9,44988
+"208",1464,"Elevator Brewery & Draught Haus",1283031660,4.5,2.5,4,"Märzen / Oktoberfest",3.5,3.5,"Elevator 1810 Oktoberfest",5.9,44988
+"209",1464,"Elevator Brewery & Draught Haus",1225060712,2,3.5,3.5,"Märzen / Oktoberfest",2.5,3,"Elevator 1810 Oktoberfest",5.9,44988
+"210",1464,"Elevator Brewery & Draught Haus",1222132366,3.5,3.5,3,"Märzen / Oktoberfest",3.5,4,"Elevator 1810 Oktoberfest",5.9,44988
+"211",1464,"Elevator Brewery & Draught Haus",1295097359,3.5,3.5,3.5,"Witbier",3.5,3.5,"Wooden Shoe Stallostown Wheat",NA,59805
+"212",1464,"Elevator Brewery & Draught Haus",1293409893,4,3.5,4.5,"Witbier",4,4,"Wooden Shoe Stallostown Wheat",NA,59805
+"213",1464,"Elevator Brewery & Draught Haus",1278195740,4.5,3.5,3,"Witbier",4.5,4,"Wooden Shoe Stallostown Wheat",NA,59805

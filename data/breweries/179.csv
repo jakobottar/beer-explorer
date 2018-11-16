@@ -1,495 +1,447 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",179,"Snake River Brewing Company & Brewpub",1324796165,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Danimal's Farmhouse Ale",7,58568
-"2",179,"Snake River Brewing Company & Brewpub",1292036121,4,3.5,3.5,"Saison / Farmhouse Ale",3.5,4,"Danimal's Farmhouse Ale",7,58568
-"3",179,"Snake River Brewing Company & Brewpub",1219947807,4,3.5,4,"American Amber / Red Ale",3.5,4,"Pheasant Tail Red Ale",NA,5607
-"4",179,"Snake River Brewing Company & Brewpub",1029955822,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Pheasant Tail Red Ale",NA,5607
-"5",179,"Snake River Brewing Company & Brewpub",1224389113,3.5,4,4,"Berliner Weissbier",3,3.5,"Ber-Lander Weiss",NA,45449
-"6",179,"Snake River Brewing Company & Brewpub",1325643051,4,3,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"7",179,"Snake River Brewing Company & Brewpub",1314148336,4,4,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"8",179,"Snake River Brewing Company & Brewpub",1312496799,4,4,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"9",179,"Snake River Brewing Company & Brewpub",1310062506,4,3.5,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"10",179,"Snake River Brewing Company & Brewpub",1308762304,4,3,4,"English Brown Ale",4,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"11",179,"Snake River Brewing Company & Brewpub",1305762498,3.5,4,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"12",179,"Snake River Brewing Company & Brewpub",1301682246,2.5,3,3,"English Brown Ale",3,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"13",179,"Snake River Brewing Company & Brewpub",1300223598,3.5,4,4,"English Brown Ale",2.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"14",179,"Snake River Brewing Company & Brewpub",1297267438,2.5,2.5,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"15",179,"Snake River Brewing Company & Brewpub",1285629627,4,3.5,3.5,"English Brown Ale",4,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"16",179,"Snake River Brewing Company & Brewpub",1285614139,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"17",179,"Snake River Brewing Company & Brewpub",1272070884,4,4,4,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"18",179,"Snake River Brewing Company & Brewpub",1262572190,3,3.5,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"19",179,"Snake River Brewing Company & Brewpub",1201325681,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"20",179,"Snake River Brewing Company & Brewpub",1255987892,4,4,4,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"21",179,"Snake River Brewing Company & Brewpub",1253578564,4,3.5,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"22",179,"Snake River Brewing Company & Brewpub",1250039886,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"23",179,"Snake River Brewing Company & Brewpub",1249968496,4.5,4,4,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"24",179,"Snake River Brewing Company & Brewpub",1244351792,4,4,4,"English Brown Ale",4.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"25",179,"Snake River Brewing Company & Brewpub",1239049327,5,3.5,4,"English Brown Ale",4.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"26",179,"Snake River Brewing Company & Brewpub",1222573670,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"27",179,"Snake River Brewing Company & Brewpub",1221886842,4,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"28",179,"Snake River Brewing Company & Brewpub",1213381466,4,4,4,"English Brown Ale",4,4.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"29",179,"Snake River Brewing Company & Brewpub",1205800667,3,3,4.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"30",179,"Snake River Brewing Company & Brewpub",1204884061,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"31",179,"Snake River Brewing Company & Brewpub",1198524934,3,3,3.5,"English Brown Ale",2.5,2.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"32",179,"Snake River Brewing Company & Brewpub",1190945243,3,2.5,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"33",179,"Snake River Brewing Company & Brewpub",1185584252,5,4,5,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"34",179,"Snake River Brewing Company & Brewpub",1179713908,4,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"35",179,"Snake River Brewing Company & Brewpub",1178627567,3,3,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"36",179,"Snake River Brewing Company & Brewpub",1177028273,3.5,3.5,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"37",179,"Snake River Brewing Company & Brewpub",1199565649,4,3,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"38",179,"Snake River Brewing Company & Brewpub",1173071722,3,2.5,3.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"39",179,"Snake River Brewing Company & Brewpub",1172357709,2.5,3,3,"English Brown Ale",2,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"40",179,"Snake River Brewing Company & Brewpub",1170559605,4,3.5,5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"41",179,"Snake River Brewing Company & Brewpub",1169911969,3,3.5,3.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
-"42",179,"Snake River Brewing Company & Brewpub",1205804725,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"43",179,"Snake River Brewing Company & Brewpub",1204946447,5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"44",179,"Snake River Brewing Company & Brewpub",1204929777,4,4,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"45",179,"Snake River Brewing Company & Brewpub",1202421571,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"46",179,"Snake River Brewing Company & Brewpub",1198488420,3.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"47",179,"Snake River Brewing Company & Brewpub",1197937540,4.5,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"48",179,"Snake River Brewing Company & Brewpub",1197595338,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"49",179,"Snake River Brewing Company & Brewpub",1196539922,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"50",179,"Snake River Brewing Company & Brewpub",1196035290,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"51",179,"Snake River Brewing Company & Brewpub",1195188704,5,4.5,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"52",179,"Snake River Brewing Company & Brewpub",1194649870,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"53",179,"Snake River Brewing Company & Brewpub",1190665827,5,4.5,4.5,"Foreign / Export Stout",5,4,"Snake River Zonker Stout",6,632
-"54",179,"Snake River Brewing Company & Brewpub",1190165118,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"55",179,"Snake River Brewing Company & Brewpub",1190086753,4.5,4.5,4.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"56",179,"Snake River Brewing Company & Brewpub",1186271761,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"57",179,"Snake River Brewing Company & Brewpub",1186069379,4.5,4,5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
-"58",179,"Snake River Brewing Company & Brewpub",1183960578,4.5,4,4.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"59",179,"Snake River Brewing Company & Brewpub",1180909579,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"60",179,"Snake River Brewing Company & Brewpub",1175820676,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"61",179,"Snake River Brewing Company & Brewpub",1174193186,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"62",179,"Snake River Brewing Company & Brewpub",1173745196,4,3.5,4,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
-"63",179,"Snake River Brewing Company & Brewpub",1172549201,4,3,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"64",179,"Snake River Brewing Company & Brewpub",1170893744,4,4.5,3.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"65",179,"Snake River Brewing Company & Brewpub",1170828512,4.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"66",179,"Snake River Brewing Company & Brewpub",1168475679,4,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"67",179,"Snake River Brewing Company & Brewpub",1166661958,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"68",179,"Snake River Brewing Company & Brewpub",1166234265,4,4.5,5,"Foreign / Export Stout",3,4,"Snake River Zonker Stout",6,632
-"69",179,"Snake River Brewing Company & Brewpub",1165976459,4,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"70",179,"Snake River Brewing Company & Brewpub",1165882708,4.5,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"71",179,"Snake River Brewing Company & Brewpub",1165780902,3,4,3,"Foreign / Export Stout",3,3,"Snake River Zonker Stout",6,632
-"72",179,"Snake River Brewing Company & Brewpub",1163990800,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"73",179,"Snake River Brewing Company & Brewpub",1119652713,4.5,4,3.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"74",179,"Snake River Brewing Company & Brewpub",1163051795,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"75",179,"Snake River Brewing Company & Brewpub",1162620668,2.5,2.5,2.5,"Foreign / Export Stout",3,2.5,"Snake River Zonker Stout",6,632
-"76",179,"Snake River Brewing Company & Brewpub",1162082430,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"77",179,"Snake River Brewing Company & Brewpub",1160797034,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"78",179,"Snake River Brewing Company & Brewpub",1158774657,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"79",179,"Snake River Brewing Company & Brewpub",1158215051,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"80",179,"Snake River Brewing Company & Brewpub",1156968550,4.5,4,3.5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
-"81",179,"Snake River Brewing Company & Brewpub",1155171752,4,4,5,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"82",179,"Snake River Brewing Company & Brewpub",1135547583,4,3.5,4.5,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
-"83",179,"Snake River Brewing Company & Brewpub",1152326557,5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"84",179,"Snake River Brewing Company & Brewpub",1151798814,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"85",179,"Snake River Brewing Company & Brewpub",1148850523,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"86",179,"Snake River Brewing Company & Brewpub",1148680323,4.5,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"87",179,"Snake River Brewing Company & Brewpub",1148003872,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"88",179,"Snake River Brewing Company & Brewpub",1141618899,4.5,4.5,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"89",179,"Snake River Brewing Company & Brewpub",1137440235,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"90",179,"Snake River Brewing Company & Brewpub",1136766276,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"91",179,"Snake River Brewing Company & Brewpub",1135953855,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"92",179,"Snake River Brewing Company & Brewpub",1135045860,4,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"93",179,"Snake River Brewing Company & Brewpub",1134084768,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"94",179,"Snake River Brewing Company & Brewpub",1133586307,4,4.5,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"95",179,"Snake River Brewing Company & Brewpub",1132625792,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"96",179,"Snake River Brewing Company & Brewpub",1129771524,5,4.5,4.5,"Foreign / Export Stout",3,4,"Snake River Zonker Stout",6,632
-"97",179,"Snake River Brewing Company & Brewpub",1129648766,3,4,4.5,"Foreign / Export Stout",4.5,2.5,"Snake River Zonker Stout",6,632
-"98",179,"Snake River Brewing Company & Brewpub",1129617596,4,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"99",179,"Snake River Brewing Company & Brewpub",1129166962,3,3.5,4,"Foreign / Export Stout",4,3,"Snake River Zonker Stout",6,632
-"100",179,"Snake River Brewing Company & Brewpub",1127642895,4.5,4,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
-"101",179,"Snake River Brewing Company & Brewpub",1262729983,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"102",179,"Snake River Brewing Company & Brewpub",1125948946,4,5,4.5,"Foreign / Export Stout",4.5,3.5,"Snake River Zonker Stout",6,632
-"103",179,"Snake River Brewing Company & Brewpub",1125433913,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"104",179,"Snake River Brewing Company & Brewpub",1125420376,4,4.5,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"105",179,"Snake River Brewing Company & Brewpub",1124732291,3,4,4,"Foreign / Export Stout",3,3,"Snake River Zonker Stout",6,632
-"106",179,"Snake River Brewing Company & Brewpub",1124727868,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"107",179,"Snake River Brewing Company & Brewpub",1124686836,4,4.5,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"108",179,"Snake River Brewing Company & Brewpub",1123373673,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"109",179,"Snake River Brewing Company & Brewpub",1121804374,4,4,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"110",179,"Snake River Brewing Company & Brewpub",1121693359,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"111",179,"Snake River Brewing Company & Brewpub",1119155391,4,4,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"112",179,"Snake River Brewing Company & Brewpub",1113874826,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"113",179,"Snake River Brewing Company & Brewpub",1113073750,4.5,4.5,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"114",179,"Snake River Brewing Company & Brewpub",1111369388,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"115",179,"Snake River Brewing Company & Brewpub",1110156880,4,4.5,5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"116",179,"Snake River Brewing Company & Brewpub",1108518695,2.5,3.5,4,"Foreign / Export Stout",3.5,3,"Snake River Zonker Stout",6,632
-"117",179,"Snake River Brewing Company & Brewpub",1102717114,3,3.5,3.5,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
-"118",179,"Snake River Brewing Company & Brewpub",1099695154,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"119",179,"Snake River Brewing Company & Brewpub",1098934082,5,4.5,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"120",179,"Snake River Brewing Company & Brewpub",1095456557,4,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"121",179,"Snake River Brewing Company & Brewpub",1094820861,4.5,5,5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
-"122",179,"Snake River Brewing Company & Brewpub",1094770465,4.5,4.5,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
-"123",179,"Snake River Brewing Company & Brewpub",1093826646,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"124",179,"Snake River Brewing Company & Brewpub",1089423537,4,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"125",179,"Snake River Brewing Company & Brewpub",1087180796,4,3.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"126",179,"Snake River Brewing Company & Brewpub",1086753754,4.5,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"127",179,"Snake River Brewing Company & Brewpub",1077831383,5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"128",179,"Snake River Brewing Company & Brewpub",1075932087,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"129",179,"Snake River Brewing Company & Brewpub",1075772312,5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"130",179,"Snake River Brewing Company & Brewpub",1072744435,4.5,4,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"131",179,"Snake River Brewing Company & Brewpub",1072063643,4.5,3.5,3.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"132",179,"Snake River Brewing Company & Brewpub",1071006893,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"133",179,"Snake River Brewing Company & Brewpub",1069171528,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"134",179,"Snake River Brewing Company & Brewpub",1066273828,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"135",179,"Snake River Brewing Company & Brewpub",1065145443,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"136",179,"Snake River Brewing Company & Brewpub",1064545809,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"137",179,"Snake River Brewing Company & Brewpub",1055011453,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"138",179,"Snake River Brewing Company & Brewpub",1053716260,5,4.5,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"139",179,"Snake River Brewing Company & Brewpub",1051529949,5,5,5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
-"140",179,"Snake River Brewing Company & Brewpub",1268101372,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"141",179,"Snake River Brewing Company & Brewpub",1046942140,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"142",179,"Snake River Brewing Company & Brewpub",1322074272,4.5,3,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"143",179,"Snake River Brewing Company & Brewpub",1319072751,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"144",179,"Snake River Brewing Company & Brewpub",1317424960,4,4.5,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"145",179,"Snake River Brewing Company & Brewpub",1316211631,5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"146",179,"Snake River Brewing Company & Brewpub",1316140141,4.5,3.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"147",179,"Snake River Brewing Company & Brewpub",1313872616,4,3.5,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"148",179,"Snake River Brewing Company & Brewpub",1313795960,3.5,3.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"149",179,"Snake River Brewing Company & Brewpub",1313337417,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"150",179,"Snake River Brewing Company & Brewpub",1308500287,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"151",179,"Snake River Brewing Company & Brewpub",1306020336,4,4,4.5,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"152",179,"Snake River Brewing Company & Brewpub",1043233211,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"153",179,"Snake River Brewing Company & Brewpub",1036068964,5,5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"154",179,"Snake River Brewing Company & Brewpub",1034005506,4,4,5,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
-"155",179,"Snake River Brewing Company & Brewpub",1029956035,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"156",179,"Snake River Brewing Company & Brewpub",1029699838,4.5,4,5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"157",179,"Snake River Brewing Company & Brewpub",1029098865,4,4,5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"158",179,"Snake River Brewing Company & Brewpub",1026854918,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"159",179,"Snake River Brewing Company & Brewpub",1020354884,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"160",179,"Snake River Brewing Company & Brewpub",1018003403,4.5,4,4,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
-"161",179,"Snake River Brewing Company & Brewpub",1014079897,5,4.5,5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"162",179,"Snake River Brewing Company & Brewpub",1305074601,4.5,4.5,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"163",179,"Snake River Brewing Company & Brewpub",1304093458,4,4.5,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"164",179,"Snake River Brewing Company & Brewpub",1302636227,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"165",179,"Snake River Brewing Company & Brewpub",1300766570,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"166",179,"Snake River Brewing Company & Brewpub",1300331671,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"167",179,"Snake River Brewing Company & Brewpub",1300067052,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"168",179,"Snake River Brewing Company & Brewpub",1298774931,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"169",179,"Snake River Brewing Company & Brewpub",1297720583,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"170",179,"Snake River Brewing Company & Brewpub",1297535173,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"171",179,"Snake River Brewing Company & Brewpub",1296954133,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"172",179,"Snake River Brewing Company & Brewpub",1294195598,4.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"173",179,"Snake River Brewing Company & Brewpub",1293054544,4,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"174",179,"Snake River Brewing Company & Brewpub",1291856083,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"175",179,"Snake River Brewing Company & Brewpub",1290734913,4,4,4,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"176",179,"Snake River Brewing Company & Brewpub",1287964366,5,4,4,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"177",179,"Snake River Brewing Company & Brewpub",1287158411,4.5,3.5,4.5,"Foreign / Export Stout",4.5,3.5,"Snake River Zonker Stout",6,632
-"178",179,"Snake River Brewing Company & Brewpub",1271122139,4,4.5,5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"179",179,"Snake River Brewing Company & Brewpub",1286155651,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"180",179,"Snake River Brewing Company & Brewpub",1285113557,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"181",179,"Snake River Brewing Company & Brewpub",1283176459,4,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"182",179,"Snake River Brewing Company & Brewpub",1282613699,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"183",179,"Snake River Brewing Company & Brewpub",1282178722,4,4,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"184",179,"Snake River Brewing Company & Brewpub",1281092413,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"185",179,"Snake River Brewing Company & Brewpub",1273000694,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"186",179,"Snake River Brewing Company & Brewpub",1272337222,4,4.5,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"187",179,"Snake River Brewing Company & Brewpub",1266771506,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"188",179,"Snake River Brewing Company & Brewpub",1266272538,4,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"189",179,"Snake River Brewing Company & Brewpub",1264648726,4.5,5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"190",179,"Snake River Brewing Company & Brewpub",1264387566,4,4,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"191",179,"Snake River Brewing Company & Brewpub",1264365888,4,3.5,3,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"192",179,"Snake River Brewing Company & Brewpub",1264308341,4,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"193",179,"Snake River Brewing Company & Brewpub",1263936914,4,4,3.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"194",179,"Snake River Brewing Company & Brewpub",1263854049,4.5,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"195",179,"Snake River Brewing Company & Brewpub",1263851748,4.5,4,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"196",179,"Snake River Brewing Company & Brewpub",1263527156,5,4.5,3.5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
-"197",179,"Snake River Brewing Company & Brewpub",1262645612,4,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
-"198",179,"Snake River Brewing Company & Brewpub",1262564857,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"199",179,"Snake River Brewing Company & Brewpub",1261921466,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"200",179,"Snake River Brewing Company & Brewpub",1261677250,3.5,3.5,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
-"201",179,"Snake River Brewing Company & Brewpub",1261674711,3.5,3,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"202",179,"Snake River Brewing Company & Brewpub",1261341292,5,4,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"203",179,"Snake River Brewing Company & Brewpub",1261033897,3,4,4,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
-"204",179,"Snake River Brewing Company & Brewpub",1260596261,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"205",179,"Snake River Brewing Company & Brewpub",1260154076,4.5,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"206",179,"Snake River Brewing Company & Brewpub",1259731957,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"207",179,"Snake River Brewing Company & Brewpub",1259203984,4,4,4,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"208",179,"Snake River Brewing Company & Brewpub",1259190436,4.5,4,5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"209",179,"Snake River Brewing Company & Brewpub",1259125658,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"210",179,"Snake River Brewing Company & Brewpub",1258857846,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"211",179,"Snake River Brewing Company & Brewpub",1255645367,5,4.5,4,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"212",179,"Snake River Brewing Company & Brewpub",1253579349,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"213",179,"Snake River Brewing Company & Brewpub",1251931227,5,5,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
-"214",179,"Snake River Brewing Company & Brewpub",1199233039,4.5,4,4,"English Dark Mild Ale",4,4.5,"A. K. Session",3.9,29310
-"215",179,"Snake River Brewing Company & Brewpub",1251435425,4.5,4,5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"216",179,"Snake River Brewing Company & Brewpub",1249003687,4,4.5,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
-"217",179,"Snake River Brewing Company & Brewpub",1247362869,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"218",179,"Snake River Brewing Company & Brewpub",1247361209,3.5,3.5,3,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
-"219",179,"Snake River Brewing Company & Brewpub",1247295117,5,3,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"220",179,"Snake River Brewing Company & Brewpub",1245688533,4,4,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"221",179,"Snake River Brewing Company & Brewpub",1242880187,4,3.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"222",179,"Snake River Brewing Company & Brewpub",1235700335,4,4,4,"Foreign / Export Stout",3,4.5,"Snake River Zonker Stout",6,632
-"223",179,"Snake River Brewing Company & Brewpub",1235148334,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"224",179,"Snake River Brewing Company & Brewpub",1234456427,4,3.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"225",179,"Snake River Brewing Company & Brewpub",1314072150,3.5,3,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
-"226",179,"Snake River Brewing Company & Brewpub",1232055972,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"227",179,"Snake River Brewing Company & Brewpub",1231481558,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"228",179,"Snake River Brewing Company & Brewpub",1226549060,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"229",179,"Snake River Brewing Company & Brewpub",1226013054,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"230",179,"Snake River Brewing Company & Brewpub",1224678128,4.5,4,5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"231",179,"Snake River Brewing Company & Brewpub",1221887357,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"232",179,"Snake River Brewing Company & Brewpub",1220747640,4.5,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"233",179,"Snake River Brewing Company & Brewpub",1220153576,4,4.5,3.5,"Foreign / Export Stout",2.5,4.5,"Snake River Zonker Stout",6,632
-"234",179,"Snake River Brewing Company & Brewpub",1219891133,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
-"235",179,"Snake River Brewing Company & Brewpub",1218429222,4,4,3.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
-"236",179,"Snake River Brewing Company & Brewpub",1216606619,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
-"237",179,"Snake River Brewing Company & Brewpub",1214477391,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"238",179,"Snake River Brewing Company & Brewpub",1210052192,4,4,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
-"239",179,"Snake River Brewing Company & Brewpub",1208901310,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
-"240",179,"Snake River Brewing Company & Brewpub",1206850241,4.5,4,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
-"241",179,"Snake River Brewing Company & Brewpub",1206392643,4,4,4,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
-"242",179,"Snake River Brewing Company & Brewpub",1287702428,3,3.5,3,"American Barleywine",3.5,3.5,"Devil's Teat",8.5,62798
-"243",179,"Snake River Brewing Company & Brewpub",1263522174,2.5,4,3,"American Pale Lager",2.5,2.5,"Jackson Hole Draft Beer",NA,25658
-"244",179,"Snake River Brewing Company & Brewpub",1185679029,3.5,3.5,4,"American Pale Lager",3.5,3.5,"Jackson Hole Draft Beer",NA,25658
-"245",179,"Snake River Brewing Company & Brewpub",1125946957,4,4,5,"American Pale Lager",4,4,"Jackson Hole Draft Beer",NA,25658
-"246",179,"Snake River Brewing Company & Brewpub",1269491184,4.5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4,5,"Jackson's ESB",5.7,29307
-"247",179,"Snake River Brewing Company & Brewpub",1305948998,4,4,4,"American IPA",4,4,"Hop Back",NA,69296
-"248",179,"Snake River Brewing Company & Brewpub",1125950460,3.5,4,4,"Altbier",4,3.5,"Good Alt Days",4.4,25663
-"249",179,"Snake River Brewing Company & Brewpub",1125949839,3,3.5,4.5,"Belgian Pale Ale",4,2.5,"Big \""O\"" Organic",8.1,25661
-"250",179,"Snake River Brewing Company & Brewpub",1250649807,3,3,4,"Witbier",3.5,3,"Dim-Wit Bier",4.8,25665
-"251",179,"Snake River Brewing Company & Brewpub",1125950837,3.5,4,3.5,"Witbier",4,3,"Dim-Wit Bier",4.8,25665
-"252",179,"Snake River Brewing Company & Brewpub",1317854631,4,4,4.5,"English Dark Mild Ale",4,4,"A. K. Session",3.9,29310
-"253",179,"Snake River Brewing Company & Brewpub",1264638622,4.5,4,3.5,"English Dark Mild Ale",4,4,"A. K. Session",3.9,29310
-"254",179,"Snake River Brewing Company & Brewpub",1300340459,4,4,4.5,"Belgian Strong Dark Ale",3.5,3.5,"Bière De Noel",NA,67264
-"255",179,"Snake River Brewing Company & Brewpub",1322672343,4,4,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
-"256",179,"Snake River Brewing Company & Brewpub",1320464869,4,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"257",179,"Snake River Brewing Company & Brewpub",1317784443,4.5,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
-"258",179,"Snake River Brewing Company & Brewpub",1317588977,5,4.5,4.5,"American IPA",3.5,5,"Pako's IPA",6.8,58577
-"259",179,"Snake River Brewing Company & Brewpub",1317586080,4.5,4,4,"American IPA",3.5,4.5,"Pako's IPA",6.8,58577
-"260",179,"Snake River Brewing Company & Brewpub",1317485047,4,4,3.5,"American IPA",4,4,"Pako's IPA",6.8,58577
-"261",179,"Snake River Brewing Company & Brewpub",1317266592,3.5,4,4,"American IPA",4,3.5,"Pako's IPA",6.8,58577
-"262",179,"Snake River Brewing Company & Brewpub",1316990334,4,4,3.5,"American IPA",4,4,"Pako's IPA",6.8,58577
-"263",179,"Snake River Brewing Company & Brewpub",1314217389,4,3.5,4.5,"American IPA",4.5,3.5,"Pako's IPA",6.8,58577
-"264",179,"Snake River Brewing Company & Brewpub",1313798698,4,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
-"265",179,"Snake River Brewing Company & Brewpub",1312380867,4.5,4,4,"American IPA",4.5,4.5,"Pako's IPA",6.8,58577
-"266",179,"Snake River Brewing Company & Brewpub",1311313354,4,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
-"267",179,"Snake River Brewing Company & Brewpub",1311290359,4,3.5,3.5,"American IPA",4.5,3.5,"Pako's IPA",6.8,58577
-"268",179,"Snake River Brewing Company & Brewpub",1310783020,4.5,4.5,3.5,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"269",179,"Snake River Brewing Company & Brewpub",1310340831,4.5,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"270",179,"Snake River Brewing Company & Brewpub",1310062111,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"271",179,"Snake River Brewing Company & Brewpub",1309667668,4.5,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"272",179,"Snake River Brewing Company & Brewpub",1309394658,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"273",179,"Snake River Brewing Company & Brewpub",1308501991,3.5,4,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
-"274",179,"Snake River Brewing Company & Brewpub",1307365703,4.5,4.5,4,"American IPA",4.5,4.5,"Pako's IPA",6.8,58577
-"275",179,"Snake River Brewing Company & Brewpub",1306537273,4,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"276",179,"Snake River Brewing Company & Brewpub",1286595139,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"277",179,"Snake River Brewing Company & Brewpub",1283384773,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
-"278",179,"Snake River Brewing Company & Brewpub",1282620389,4,4.5,4,"American IPA",3.5,4,"Pako's IPA",6.8,58577
-"279",179,"Snake River Brewing Company & Brewpub",1029955937,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Zonker Stout 2002",NA,5608
-"280",179,"Snake River Brewing Company & Brewpub",1187894067,4,4.5,3.5,"Rauchbier",4,4.5,"Backdraft Lager",4.8,38338
-"281",179,"Snake River Brewing Company & Brewpub",1297706889,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"282",179,"Snake River Brewing Company & Brewpub",1049626578,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"283",179,"Snake River Brewing Company & Brewpub",1046618879,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"284",179,"Snake River Brewing Company & Brewpub",1043058589,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
-"285",179,"Snake River Brewing Company & Brewpub",1034885793,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"286",179,"Snake River Brewing Company & Brewpub",1029955701,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"287",179,"Snake River Brewing Company & Brewpub",1020354563,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
-"288",179,"Snake River Brewing Company & Brewpub",1020349154,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"289",179,"Snake River Brewing Company & Brewpub",1017963080,4.5,4,4,"American Pale Ale (APA)",4.5,5,"Snake River Pale Ale",5.2,592
-"290",179,"Snake River Brewing Company & Brewpub",1324684638,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"291",179,"Snake River Brewing Company & Brewpub",1318084247,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"292",179,"Snake River Brewing Company & Brewpub",1317266510,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"293",179,"Snake River Brewing Company & Brewpub",1298774454,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"294",179,"Snake River Brewing Company & Brewpub",1316984964,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"295",179,"Snake River Brewing Company & Brewpub",1312834814,3.5,3,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
-"296",179,"Snake River Brewing Company & Brewpub",1311905720,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"297",179,"Snake River Brewing Company & Brewpub",1310339206,3.5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"298",179,"Snake River Brewing Company & Brewpub",1308761512,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"299",179,"Snake River Brewing Company & Brewpub",1308760716,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"300",179,"Snake River Brewing Company & Brewpub",1306536526,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"301",179,"Snake River Brewing Company & Brewpub",1299204504,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Snake River Pale Ale",5.2,592
-"302",179,"Snake River Brewing Company & Brewpub",1290220186,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"303",179,"Snake River Brewing Company & Brewpub",1289353707,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"304",179,"Snake River Brewing Company & Brewpub",1288579631,3.5,4.5,3.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"305",179,"Snake River Brewing Company & Brewpub",1285613944,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"306",179,"Snake River Brewing Company & Brewpub",1282168896,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Snake River Pale Ale",5.2,592
-"307",179,"Snake River Brewing Company & Brewpub",1275695610,4.5,3,4,"American Pale Ale (APA)",4.5,3.5,"Snake River Pale Ale",5.2,592
-"308",179,"Snake River Brewing Company & Brewpub",1272675658,4.5,3,3.5,"American Pale Ale (APA)",4.5,3.5,"Snake River Pale Ale",5.2,592
-"309",179,"Snake River Brewing Company & Brewpub",1266635770,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"310",179,"Snake River Brewing Company & Brewpub",1265681405,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"311",179,"Snake River Brewing Company & Brewpub",1264984536,3.5,3,3,"American Pale Ale (APA)",2.5,3.5,"Snake River Pale Ale",5.2,592
-"312",179,"Snake River Brewing Company & Brewpub",1263433032,4,4,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"313",179,"Snake River Brewing Company & Brewpub",1262315582,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"314",179,"Snake River Brewing Company & Brewpub",1262214162,4,3.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Snake River Pale Ale",5.2,592
-"315",179,"Snake River Brewing Company & Brewpub",1261865467,4,3,3,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"316",179,"Snake River Brewing Company & Brewpub",1261675709,4,4,3,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"317",179,"Snake River Brewing Company & Brewpub",1261533215,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"318",179,"Snake River Brewing Company & Brewpub",1261451968,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"319",179,"Snake River Brewing Company & Brewpub",1260870489,3,3,4,"American Pale Ale (APA)",3,2.5,"Snake River Pale Ale",5.2,592
-"320",179,"Snake River Brewing Company & Brewpub",1260647862,5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"321",179,"Snake River Brewing Company & Brewpub",1252949639,4,3,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"322",179,"Snake River Brewing Company & Brewpub",1252539816,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"323",179,"Snake River Brewing Company & Brewpub",1160603550,3.5,2.5,3.5,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
-"324",179,"Snake River Brewing Company & Brewpub",1251431363,5,4,3.5,"American Pale Ale (APA)",5,4.5,"Snake River Pale Ale",5.2,592
-"325",179,"Snake River Brewing Company & Brewpub",1249683390,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"326",179,"Snake River Brewing Company & Brewpub",1248924196,4,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"327",179,"Snake River Brewing Company & Brewpub",1242880054,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"328",179,"Snake River Brewing Company & Brewpub",1237664819,5,4,3.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"329",179,"Snake River Brewing Company & Brewpub",1229395805,3.5,3,3,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"330",179,"Snake River Brewing Company & Brewpub",1210051682,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"331",179,"Snake River Brewing Company & Brewpub",1209417611,3,3,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"332",179,"Snake River Brewing Company & Brewpub",1189655580,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"333",179,"Snake River Brewing Company & Brewpub",1208531804,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"334",179,"Snake River Brewing Company & Brewpub",1205712689,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"335",179,"Snake River Brewing Company & Brewpub",1202511730,4,4,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"336",179,"Snake River Brewing Company & Brewpub",1202185534,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"337",179,"Snake River Brewing Company & Brewpub",1198527108,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
-"338",179,"Snake River Brewing Company & Brewpub",1197360350,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"339",179,"Snake River Brewing Company & Brewpub",1194558012,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"340",179,"Snake River Brewing Company & Brewpub",1191792281,4.5,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"341",179,"Snake River Brewing Company & Brewpub",1191645246,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"342",179,"Snake River Brewing Company & Brewpub",1182791316,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"343",179,"Snake River Brewing Company & Brewpub",1180930298,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"344",179,"Snake River Brewing Company & Brewpub",1178049742,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"345",179,"Snake River Brewing Company & Brewpub",1174601551,3,3,3,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
-"346",179,"Snake River Brewing Company & Brewpub",1171240612,3.5,3,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
-"347",179,"Snake River Brewing Company & Brewpub",1160602759,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"348",179,"Snake River Brewing Company & Brewpub",1159399874,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
-"349",179,"Snake River Brewing Company & Brewpub",1157255495,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"350",179,"Snake River Brewing Company & Brewpub",1151795724,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"351",179,"Snake River Brewing Company & Brewpub",1126739204,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"352",179,"Snake River Brewing Company & Brewpub",1151200672,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"353",179,"Snake River Brewing Company & Brewpub",1148843880,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"354",179,"Snake River Brewing Company & Brewpub",1147017618,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
-"355",179,"Snake River Brewing Company & Brewpub",1141881166,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"356",179,"Snake River Brewing Company & Brewpub",1138409401,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"357",179,"Snake River Brewing Company & Brewpub",1136931882,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
-"358",179,"Snake River Brewing Company & Brewpub",1135898922,2.5,3.5,3,"American Pale Ale (APA)",3,2,"Snake River Pale Ale",5.2,592
-"359",179,"Snake River Brewing Company & Brewpub",1134264284,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"360",179,"Snake River Brewing Company & Brewpub",1133918172,3.5,4,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"361",179,"Snake River Brewing Company & Brewpub",1133643804,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"362",179,"Snake River Brewing Company & Brewpub",1132888668,4.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"363",179,"Snake River Brewing Company & Brewpub",1125947663,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"364",179,"Snake River Brewing Company & Brewpub",1121900391,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"365",179,"Snake River Brewing Company & Brewpub",1115512416,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"366",179,"Snake River Brewing Company & Brewpub",1104842894,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"367",179,"Snake River Brewing Company & Brewpub",1104816197,4,4.5,3.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"368",179,"Snake River Brewing Company & Brewpub",1104532981,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
-"369",179,"Snake River Brewing Company & Brewpub",1098219252,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Snake River Pale Ale",5.2,592
-"370",179,"Snake River Brewing Company & Brewpub",1094770726,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"371",179,"Snake River Brewing Company & Brewpub",1093039315,3.5,3,3.5,"American Pale Ale (APA)",3,2,"Snake River Pale Ale",5.2,592
-"372",179,"Snake River Brewing Company & Brewpub",1087906099,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"373",179,"Snake River Brewing Company & Brewpub",1230576385,4,3,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"374",179,"Snake River Brewing Company & Brewpub",1086838368,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Snake River Pale Ale",5.2,592
-"375",179,"Snake River Brewing Company & Brewpub",1076378419,4,3.5,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
-"376",179,"Snake River Brewing Company & Brewpub",1072655373,4,3.5,2.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
-"377",179,"Snake River Brewing Company & Brewpub",1066961802,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"378",179,"Snake River Brewing Company & Brewpub",1066449857,4,4,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
-"379",179,"Snake River Brewing Company & Brewpub",1058888716,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
-"380",179,"Snake River Brewing Company & Brewpub",1053716555,4.5,5,4.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
-"381",179,"Snake River Brewing Company & Brewpub",1316126185,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4.5,"Alpinefest",5.7,22026
-"382",179,"Snake River Brewing Company & Brewpub",1286771546,4,4,4,"Märzen / Oktoberfest",4.5,4.5,"Alpinefest",5.7,22026
-"383",179,"Snake River Brewing Company & Brewpub",1141012257,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Alpinefest",5.7,22026
-"384",179,"Snake River Brewing Company & Brewpub",1139275597,4,4.5,4,"Märzen / Oktoberfest",3.5,4.5,"Alpinefest",5.7,22026
-"385",179,"Snake River Brewing Company & Brewpub",1184337909,3.5,4,4,"Maibock / Helles Bock",3.5,4,"Discombobulator Mai-Bock",7.1,29308
-"386",179,"Snake River Brewing Company & Brewpub",1148003742,3.5,3,3,"Maibock / Helles Bock",4,4,"Discombobulator Mai-Bock",7.1,29308
-"387",179,"Snake River Brewing Company & Brewpub",1096325699,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Moose Brew (Mangy Moose Saloon)",NA,20041
-"388",179,"Snake River Brewing Company & Brewpub",1053717655,4.5,4.5,4.5,"Dortmunder / Export Lager",4,4.5,"Dortmunder Lager",NA,9990
-"389",179,"Snake River Brewing Company & Brewpub",1311312923,4,3.5,4,"Kölsch",4,4,"Guido's Kolnerbrau",4.9,25666
-"390",179,"Snake River Brewing Company & Brewpub",1250650182,4.5,4,3.5,"Kölsch",4,4,"Guido's Kolnerbrau",4.9,25666
-"391",179,"Snake River Brewing Company & Brewpub",1125951134,4,4,4.5,"Kölsch",3.5,4,"Guido's Kolnerbrau",4.9,25666
-"392",179,"Snake River Brewing Company & Brewpub",1162620132,2.5,2.5,3,"American Porter",2.5,2,"Powder 8 Porter",5,16269
-"393",179,"Snake River Brewing Company & Brewpub",1078348999,3.5,3.5,4,"American Porter",3.5,3.5,"Powder 8 Porter",5,16269
-"394",179,"Snake River Brewing Company & Brewpub",1160093096,4.5,4.5,4,"Vienna Lager",3.5,5,"Snake River Lager",4.8,581
-"395",179,"Snake River Brewing Company & Brewpub",1125948572,4,3,4.5,"Czech Pilsener",4,4,"Indian Paintbrush Pilsner",5,16451
-"396",179,"Snake River Brewing Company & Brewpub",1078983874,4,3.5,3.5,"Czech Pilsener",3.5,3.5,"Indian Paintbrush Pilsner",5,16451
-"397",179,"Snake River Brewing Company & Brewpub",1029865519,4.5,4.5,4,"Hefeweizen",4,4.5,"Hoback Hefeweizen",NA,5596
-"398",179,"Snake River Brewing Company & Brewpub",1285614002,4,4,4,"American IPA",4,4.5,"Snake River IPA",NA,36581
-"399",179,"Snake River Brewing Company & Brewpub",1235147924,4.5,4.5,4,"American IPA",4.5,4.5,"Snake River IPA",NA,36581
-"400",179,"Snake River Brewing Company & Brewpub",1182441076,4,4,4,"American IPA",4.5,4.5,"Snake River IPA",NA,36581
-"401",179,"Snake River Brewing Company & Brewpub",1283805230,3.5,4,4.5,"Irish Dry Stout",3.5,3.5,"Fitzy's Stout",NA,58571
-"402",179,"Snake River Brewing Company & Brewpub",1280033673,4,4,4,"Irish Dry Stout",3.5,4,"Fitzy's Stout",NA,58571
-"403",179,"Snake River Brewing Company & Brewpub",1189130685,4.5,4,3.5,"English Pale Ale",4,4,"Custer's Last Ale",6,29306
-"404",179,"Snake River Brewing Company & Brewpub",1321317861,3.5,4,3.5,"Flanders Oud Bruin",4,3.5,"Le Serpent",NA,58574
-"405",179,"Snake River Brewing Company & Brewpub",1199051990,3.5,3,4,"Vienna Lager",2.5,3,"Snake River Lager",4.8,581
-"406",179,"Snake River Brewing Company & Brewpub",1314854880,4.5,4,4,"Flanders Oud Bruin",4,4,"Le Serpent",NA,58574
-"407",179,"Snake River Brewing Company & Brewpub",1314753021,4,4.5,4,"Flanders Oud Bruin",4,4,"Le Serpent",NA,58574
-"408",179,"Snake River Brewing Company & Brewpub",1312426112,4,4,4,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
-"409",179,"Snake River Brewing Company & Brewpub",1310609506,4,4.5,4,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
-"410",179,"Snake River Brewing Company & Brewpub",1296185781,4.5,5,4.5,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
-"411",179,"Snake River Brewing Company & Brewpub",1273566932,4.5,4,4,"Munich Dunkel Lager",4,4,"Monkey's Dunkel",4.6,29311
-"412",179,"Snake River Brewing Company & Brewpub",1324331650,4,4,3.5,"Flanders Oud Bruin",4.5,4.5,"Le Serpent Cerise",NA,71896
-"413",179,"Snake River Brewing Company & Brewpub",1323823352,4,3.5,3.5,"Flanders Oud Bruin",4,4,"Le Serpent Cerise",NA,71896
-"414",179,"Snake River Brewing Company & Brewpub",1323633207,4.5,4.5,3.5,"Flanders Oud Bruin",2.5,4.5,"Le Serpent Cerise",NA,71896
-"415",179,"Snake River Brewing Company & Brewpub",1189803820,4.5,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"416",179,"Snake River Brewing Company & Brewpub",1321216882,5,5,4,"Flanders Oud Bruin",4,5,"Le Serpent Cerise",NA,71896
-"417",179,"Snake River Brewing Company & Brewpub",1320531064,4,4.5,3.5,"Flanders Oud Bruin",3.5,4,"Le Serpent Cerise",NA,71896
-"418",179,"Snake River Brewing Company & Brewpub",1314857215,4,4,4,"Flanders Oud Bruin",4,4,"Le Serpent Cerise",NA,71896
-"419",179,"Snake River Brewing Company & Brewpub",1310062795,3.5,3.5,4,"California Common / Steam Beer",3.5,3.5,"Firehole Steam",5.2,29309
-"420",179,"Snake River Brewing Company & Brewpub",1029865448,4,4,4,"American Blonde Ale",4,4,"Yardsale Golden Ale",NA,5595
-"421",179,"Snake River Brewing Company & Brewpub",1157245210,5,5,4,"American IPA",4.5,5,"New Delhi Freight Train",6.3,16450
-"422",179,"Snake River Brewing Company & Brewpub",1078983608,4.5,4.5,4,"American IPA",4,4.5,"New Delhi Freight Train",6.3,16450
-"423",179,"Snake River Brewing Company & Brewpub",1320714824,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"424",179,"Snake River Brewing Company & Brewpub",1318815650,3.5,3,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"425",179,"Snake River Brewing Company & Brewpub",1314765752,3.5,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"426",179,"Snake River Brewing Company & Brewpub",1312835159,3,3,3,"Vienna Lager",3,2.5,"Snake River Lager",4.8,581
-"427",179,"Snake River Brewing Company & Brewpub",1309221799,3,3,3.5,"Vienna Lager",3,3,"Snake River Lager",4.8,581
-"428",179,"Snake River Brewing Company & Brewpub",1299203787,3,3,3.5,"Vienna Lager",3,3,"Snake River Lager",4.8,581
-"429",179,"Snake River Brewing Company & Brewpub",1298762044,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"430",179,"Snake River Brewing Company & Brewpub",1297793283,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"431",179,"Snake River Brewing Company & Brewpub",1296613650,3.5,4,4.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"432",179,"Snake River Brewing Company & Brewpub",1287458393,3,3.5,3,"Vienna Lager",2.5,3,"Snake River Lager",4.8,581
-"433",179,"Snake River Brewing Company & Brewpub",1287184918,4,4,4.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"434",179,"Snake River Brewing Company & Brewpub",1286503602,3.5,4,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
-"435",179,"Snake River Brewing Company & Brewpub",1285614182,3,3,3,"Vienna Lager",3,3.5,"Snake River Lager",4.8,581
-"436",179,"Snake River Brewing Company & Brewpub",1282818630,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"437",179,"Snake River Brewing Company & Brewpub",1059200032,2.5,3,4,"Vienna Lager",2.5,2.5,"Snake River Lager",4.8,581
-"438",179,"Snake River Brewing Company & Brewpub",1275443685,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"439",179,"Snake River Brewing Company & Brewpub",1273123277,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"440",179,"Snake River Brewing Company & Brewpub",1265132550,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"441",179,"Snake River Brewing Company & Brewpub",1259953868,4,4,3.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"442",179,"Snake River Brewing Company & Brewpub",1252106340,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"443",179,"Snake River Brewing Company & Brewpub",1249855559,5,4.5,4.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"444",179,"Snake River Brewing Company & Brewpub",1249616525,3.5,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"445",179,"Snake River Brewing Company & Brewpub",1249269825,4,4.5,4,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"446",179,"Snake River Brewing Company & Brewpub",1248619948,4,4,3,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"447",179,"Snake River Brewing Company & Brewpub",1247233518,3.5,3.5,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
-"448",179,"Snake River Brewing Company & Brewpub",1246341783,3.5,3,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"449",179,"Snake River Brewing Company & Brewpub",1218426901,3,3,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
-"450",179,"Snake River Brewing Company & Brewpub",1213034924,4.5,3.5,3,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"451",179,"Snake River Brewing Company & Brewpub",1210727618,4,4.5,4.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"452",179,"Snake River Brewing Company & Brewpub",1210049797,4,4.5,4,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"453",179,"Snake River Brewing Company & Brewpub",1209090791,4,4,4.5,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
-"454",179,"Snake River Brewing Company & Brewpub",1207754774,4.5,4,4,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
-"455",179,"Snake River Brewing Company & Brewpub",1205798962,4.5,4,4,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
-"456",179,"Snake River Brewing Company & Brewpub",1202511223,4,4,4.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
-"457",179,"Snake River Brewing Company & Brewpub",1201599194,4.5,4,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"458",179,"Snake River Brewing Company & Brewpub",1187664365,4.5,3,3.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"459",179,"Snake River Brewing Company & Brewpub",1181014184,4.5,3.5,4.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"460",179,"Snake River Brewing Company & Brewpub",1178604920,5,4,4,"Vienna Lager",4.5,5,"Snake River Lager",4.8,581
-"461",179,"Snake River Brewing Company & Brewpub",1178410946,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"462",179,"Snake River Brewing Company & Brewpub",1176582575,5,4,4.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"463",179,"Snake River Brewing Company & Brewpub",1171062145,4.5,3.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"464",179,"Snake River Brewing Company & Brewpub",1167590755,4,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"465",179,"Snake River Brewing Company & Brewpub",1166462144,4,4,3,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"466",179,"Snake River Brewing Company & Brewpub",1161627486,4,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"467",179,"Snake River Brewing Company & Brewpub",1157254913,4,4,3.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"468",179,"Snake River Brewing Company & Brewpub",1154674154,5,3.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"469",179,"Snake River Brewing Company & Brewpub",1154262066,4.5,4,3.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"470",179,"Snake River Brewing Company & Brewpub",1148166386,4,3,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"471",179,"Snake River Brewing Company & Brewpub",1143185624,4,2.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"472",179,"Snake River Brewing Company & Brewpub",1141879009,5,4.5,4,"Vienna Lager",5,4.5,"Snake River Lager",4.8,581
-"473",179,"Snake River Brewing Company & Brewpub",1138406147,4,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"474",179,"Snake River Brewing Company & Brewpub",1134006893,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"475",179,"Snake River Brewing Company & Brewpub",1133644717,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"476",179,"Snake River Brewing Company & Brewpub",1125953660,4.5,4.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"477",179,"Snake River Brewing Company & Brewpub",1125949324,3.5,4,4.5,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
-"478",179,"Snake River Brewing Company & Brewpub",1056139027,3,3,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"479",179,"Snake River Brewing Company & Brewpub",1123794393,4.5,3.5,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"480",179,"Snake River Brewing Company & Brewpub",1104716372,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"481",179,"Snake River Brewing Company & Brewpub",1094512346,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"482",179,"Snake River Brewing Company & Brewpub",1084852690,5,4,3.5,"Vienna Lager",4.5,5,"Snake River Lager",4.8,581
-"483",179,"Snake River Brewing Company & Brewpub",1079977992,4,3.5,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"484",179,"Snake River Brewing Company & Brewpub",1075773897,3.5,3.5,3.5,"Vienna Lager",4,3,"Snake River Lager",4.8,581
-"485",179,"Snake River Brewing Company & Brewpub",1066700919,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
-"486",179,"Snake River Brewing Company & Brewpub",1062204847,3,3.5,3,"Vienna Lager",3,3,"Snake River Lager",4.8,581
-"487",179,"Snake River Brewing Company & Brewpub",1062001247,4,3,3,"Vienna Lager",5,4,"Snake River Lager",4.8,581
-"488",179,"Snake River Brewing Company & Brewpub",1053716859,4.5,4.5,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"489",179,"Snake River Brewing Company & Brewpub",1048607308,4.5,4,4,"Vienna Lager",4,5,"Snake River Lager",4.8,581
-"490",179,"Snake River Brewing Company & Brewpub",1044119096,3.5,4,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
-"491",179,"Snake River Brewing Company & Brewpub",1039506779,4.5,4.5,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
-"492",179,"Snake River Brewing Company & Brewpub",1029865613,4,3.5,4,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
-"493",179,"Snake River Brewing Company & Brewpub",1018475571,4.5,4,4.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
-"494",179,"Snake River Brewing Company & Brewpub",1301893608,4,4,4,"Tripel",4,4,"Tripel Black Diamond",8.3,58581
+"1",179,"Snake River Brewing Company & Brewpub",1325643051,4,3,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"2",179,"Snake River Brewing Company & Brewpub",1314148336,4,4,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"3",179,"Snake River Brewing Company & Brewpub",1312496799,4,4,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"4",179,"Snake River Brewing Company & Brewpub",1310062506,4,3.5,4,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"5",179,"Snake River Brewing Company & Brewpub",1308762304,4,3,4,"English Brown Ale",4,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"6",179,"Snake River Brewing Company & Brewpub",1305762498,3.5,4,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"7",179,"Snake River Brewing Company & Brewpub",1301682246,2.5,3,3,"English Brown Ale",3,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"8",179,"Snake River Brewing Company & Brewpub",1300223598,3.5,4,4,"English Brown Ale",2.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"9",179,"Snake River Brewing Company & Brewpub",1297267438,2.5,2.5,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"10",179,"Snake River Brewing Company & Brewpub",1285629627,4,3.5,3.5,"English Brown Ale",4,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"11",179,"Snake River Brewing Company & Brewpub",1285614139,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"12",179,"Snake River Brewing Company & Brewpub",1272070884,4,4,4,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"13",179,"Snake River Brewing Company & Brewpub",1262572190,3,3.5,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"14",179,"Snake River Brewing Company & Brewpub",1201325681,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"15",179,"Snake River Brewing Company & Brewpub",1255987892,4,4,4,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"16",179,"Snake River Brewing Company & Brewpub",1253578564,4,3.5,3.5,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"17",179,"Snake River Brewing Company & Brewpub",1250039886,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"18",179,"Snake River Brewing Company & Brewpub",1249968496,4.5,4,4,"English Brown Ale",3.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"19",179,"Snake River Brewing Company & Brewpub",1244351792,4,4,4,"English Brown Ale",4.5,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"20",179,"Snake River Brewing Company & Brewpub",1239049327,5,3.5,4,"English Brown Ale",4.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"21",179,"Snake River Brewing Company & Brewpub",1222573670,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"22",179,"Snake River Brewing Company & Brewpub",1221886842,4,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"23",179,"Snake River Brewing Company & Brewpub",1213381466,4,4,4,"English Brown Ale",4,4.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"24",179,"Snake River Brewing Company & Brewpub",1205800667,3,3,4.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"25",179,"Snake River Brewing Company & Brewpub",1204884061,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"26",179,"Snake River Brewing Company & Brewpub",1198524934,3,3,3.5,"English Brown Ale",2.5,2.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"27",179,"Snake River Brewing Company & Brewpub",1190945243,3,2.5,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"28",179,"Snake River Brewing Company & Brewpub",1185584252,5,4,5,"English Brown Ale",4,4,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"29",179,"Snake River Brewing Company & Brewpub",1179713908,4,3.5,4,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"30",179,"Snake River Brewing Company & Brewpub",1178627567,3,3,4,"English Brown Ale",3,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"31",179,"Snake River Brewing Company & Brewpub",1177028273,3.5,3.5,4,"English Brown Ale",3,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"32",179,"Snake River Brewing Company & Brewpub",1199565649,4,3,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"33",179,"Snake River Brewing Company & Brewpub",1173071722,3,2.5,3.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"34",179,"Snake River Brewing Company & Brewpub",1172357709,2.5,3,3,"English Brown Ale",2,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"35",179,"Snake River Brewing Company & Brewpub",1170559605,4,3.5,5,"English Brown Ale",3.5,3.5,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"36",179,"Snake River Brewing Company & Brewpub",1169911969,3,3.5,3.5,"English Brown Ale",3.5,3,"Snake River OB-1 Certified Organic Ale",5.2,34965
+"37",179,"Snake River Brewing Company & Brewpub",1205804725,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"38",179,"Snake River Brewing Company & Brewpub",1204946447,5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"39",179,"Snake River Brewing Company & Brewpub",1204929777,4,4,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"40",179,"Snake River Brewing Company & Brewpub",1202421571,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"41",179,"Snake River Brewing Company & Brewpub",1198488420,3.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"42",179,"Snake River Brewing Company & Brewpub",1197937540,4.5,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"43",179,"Snake River Brewing Company & Brewpub",1197595338,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"44",179,"Snake River Brewing Company & Brewpub",1196539922,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"45",179,"Snake River Brewing Company & Brewpub",1196035290,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"46",179,"Snake River Brewing Company & Brewpub",1195188704,5,4.5,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"47",179,"Snake River Brewing Company & Brewpub",1194649870,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"48",179,"Snake River Brewing Company & Brewpub",1190665827,5,4.5,4.5,"Foreign / Export Stout",5,4,"Snake River Zonker Stout",6,632
+"49",179,"Snake River Brewing Company & Brewpub",1190165118,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"50",179,"Snake River Brewing Company & Brewpub",1190086753,4.5,4.5,4.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"51",179,"Snake River Brewing Company & Brewpub",1186271761,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"52",179,"Snake River Brewing Company & Brewpub",1186069379,4.5,4,5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
+"53",179,"Snake River Brewing Company & Brewpub",1183960578,4.5,4,4.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"54",179,"Snake River Brewing Company & Brewpub",1180909579,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"55",179,"Snake River Brewing Company & Brewpub",1175820676,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"56",179,"Snake River Brewing Company & Brewpub",1174193186,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"57",179,"Snake River Brewing Company & Brewpub",1173745196,4,3.5,4,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
+"58",179,"Snake River Brewing Company & Brewpub",1172549201,4,3,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"59",179,"Snake River Brewing Company & Brewpub",1170893744,4,4.5,3.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"60",179,"Snake River Brewing Company & Brewpub",1170828512,4.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"61",179,"Snake River Brewing Company & Brewpub",1168475679,4,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"62",179,"Snake River Brewing Company & Brewpub",1166661958,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"63",179,"Snake River Brewing Company & Brewpub",1166234265,4,4.5,5,"Foreign / Export Stout",3,4,"Snake River Zonker Stout",6,632
+"64",179,"Snake River Brewing Company & Brewpub",1165976459,4,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"65",179,"Snake River Brewing Company & Brewpub",1165882708,4.5,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"66",179,"Snake River Brewing Company & Brewpub",1165780902,3,4,3,"Foreign / Export Stout",3,3,"Snake River Zonker Stout",6,632
+"67",179,"Snake River Brewing Company & Brewpub",1163990800,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"68",179,"Snake River Brewing Company & Brewpub",1119652713,4.5,4,3.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"69",179,"Snake River Brewing Company & Brewpub",1163051795,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"70",179,"Snake River Brewing Company & Brewpub",1162620668,2.5,2.5,2.5,"Foreign / Export Stout",3,2.5,"Snake River Zonker Stout",6,632
+"71",179,"Snake River Brewing Company & Brewpub",1162082430,5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"72",179,"Snake River Brewing Company & Brewpub",1160797034,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"73",179,"Snake River Brewing Company & Brewpub",1158774657,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"74",179,"Snake River Brewing Company & Brewpub",1158215051,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"75",179,"Snake River Brewing Company & Brewpub",1156968550,4.5,4,3.5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
+"76",179,"Snake River Brewing Company & Brewpub",1155171752,4,4,5,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"77",179,"Snake River Brewing Company & Brewpub",1135547583,4,3.5,4.5,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
+"78",179,"Snake River Brewing Company & Brewpub",1152326557,5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"79",179,"Snake River Brewing Company & Brewpub",1151798814,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"80",179,"Snake River Brewing Company & Brewpub",1148850523,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"81",179,"Snake River Brewing Company & Brewpub",1148680323,4.5,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"82",179,"Snake River Brewing Company & Brewpub",1148003872,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"83",179,"Snake River Brewing Company & Brewpub",1141618899,4.5,4.5,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"84",179,"Snake River Brewing Company & Brewpub",1137440235,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"85",179,"Snake River Brewing Company & Brewpub",1136766276,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"86",179,"Snake River Brewing Company & Brewpub",1135953855,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"87",179,"Snake River Brewing Company & Brewpub",1135045860,4,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"88",179,"Snake River Brewing Company & Brewpub",1134084768,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"89",179,"Snake River Brewing Company & Brewpub",1133586307,4,4.5,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"90",179,"Snake River Brewing Company & Brewpub",1132625792,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"91",179,"Snake River Brewing Company & Brewpub",1129771524,5,4.5,4.5,"Foreign / Export Stout",3,4,"Snake River Zonker Stout",6,632
+"92",179,"Snake River Brewing Company & Brewpub",1129648766,3,4,4.5,"Foreign / Export Stout",4.5,2.5,"Snake River Zonker Stout",6,632
+"93",179,"Snake River Brewing Company & Brewpub",1129617596,4,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"94",179,"Snake River Brewing Company & Brewpub",1129166962,3,3.5,4,"Foreign / Export Stout",4,3,"Snake River Zonker Stout",6,632
+"95",179,"Snake River Brewing Company & Brewpub",1127642895,4.5,4,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
+"96",179,"Snake River Brewing Company & Brewpub",1262729983,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"97",179,"Snake River Brewing Company & Brewpub",1125948946,4,5,4.5,"Foreign / Export Stout",4.5,3.5,"Snake River Zonker Stout",6,632
+"98",179,"Snake River Brewing Company & Brewpub",1125433913,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"99",179,"Snake River Brewing Company & Brewpub",1125420376,4,4.5,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"100",179,"Snake River Brewing Company & Brewpub",1124732291,3,4,4,"Foreign / Export Stout",3,3,"Snake River Zonker Stout",6,632
+"101",179,"Snake River Brewing Company & Brewpub",1124727868,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"102",179,"Snake River Brewing Company & Brewpub",1124686836,4,4.5,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"103",179,"Snake River Brewing Company & Brewpub",1123373673,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"104",179,"Snake River Brewing Company & Brewpub",1121804374,4,4,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"105",179,"Snake River Brewing Company & Brewpub",1121693359,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"106",179,"Snake River Brewing Company & Brewpub",1119155391,4,4,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"107",179,"Snake River Brewing Company & Brewpub",1113874826,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"108",179,"Snake River Brewing Company & Brewpub",1113073750,4.5,4.5,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"109",179,"Snake River Brewing Company & Brewpub",1111369388,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"110",179,"Snake River Brewing Company & Brewpub",1110156880,4,4.5,5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"111",179,"Snake River Brewing Company & Brewpub",1108518695,2.5,3.5,4,"Foreign / Export Stout",3.5,3,"Snake River Zonker Stout",6,632
+"112",179,"Snake River Brewing Company & Brewpub",1102717114,3,3.5,3.5,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
+"113",179,"Snake River Brewing Company & Brewpub",1099695154,4.5,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"114",179,"Snake River Brewing Company & Brewpub",1098934082,5,4.5,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"115",179,"Snake River Brewing Company & Brewpub",1095456557,4,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"116",179,"Snake River Brewing Company & Brewpub",1094820861,4.5,5,5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
+"117",179,"Snake River Brewing Company & Brewpub",1094770465,4.5,4.5,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
+"118",179,"Snake River Brewing Company & Brewpub",1093826646,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"119",179,"Snake River Brewing Company & Brewpub",1089423537,4,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"120",179,"Snake River Brewing Company & Brewpub",1087180796,4,3.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"121",179,"Snake River Brewing Company & Brewpub",1086753754,4.5,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"122",179,"Snake River Brewing Company & Brewpub",1077831383,5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"123",179,"Snake River Brewing Company & Brewpub",1075932087,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"124",179,"Snake River Brewing Company & Brewpub",1075772312,5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"125",179,"Snake River Brewing Company & Brewpub",1072744435,4.5,4,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"126",179,"Snake River Brewing Company & Brewpub",1072063643,4.5,3.5,3.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"127",179,"Snake River Brewing Company & Brewpub",1071006893,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"128",179,"Snake River Brewing Company & Brewpub",1069171528,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"129",179,"Snake River Brewing Company & Brewpub",1066273828,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"130",179,"Snake River Brewing Company & Brewpub",1065145443,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"131",179,"Snake River Brewing Company & Brewpub",1064545809,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"132",179,"Snake River Brewing Company & Brewpub",1055011453,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"133",179,"Snake River Brewing Company & Brewpub",1053716260,5,4.5,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"134",179,"Snake River Brewing Company & Brewpub",1051529949,5,5,5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
+"135",179,"Snake River Brewing Company & Brewpub",1268101372,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"136",179,"Snake River Brewing Company & Brewpub",1046942140,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"137",179,"Snake River Brewing Company & Brewpub",1322074272,4.5,3,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"138",179,"Snake River Brewing Company & Brewpub",1319072751,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"139",179,"Snake River Brewing Company & Brewpub",1317424960,4,4.5,3.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"140",179,"Snake River Brewing Company & Brewpub",1316211631,5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"141",179,"Snake River Brewing Company & Brewpub",1316140141,4.5,3.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"142",179,"Snake River Brewing Company & Brewpub",1313872616,4,3.5,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"143",179,"Snake River Brewing Company & Brewpub",1313795960,3.5,3.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"144",179,"Snake River Brewing Company & Brewpub",1313337417,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"145",179,"Snake River Brewing Company & Brewpub",1308500287,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"146",179,"Snake River Brewing Company & Brewpub",1306020336,4,4,4.5,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"147",179,"Snake River Brewing Company & Brewpub",1043233211,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"148",179,"Snake River Brewing Company & Brewpub",1036068964,5,5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"149",179,"Snake River Brewing Company & Brewpub",1034005506,4,4,5,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
+"150",179,"Snake River Brewing Company & Brewpub",1029956035,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"151",179,"Snake River Brewing Company & Brewpub",1029699838,4.5,4,5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"152",179,"Snake River Brewing Company & Brewpub",1029098865,4,4,5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"153",179,"Snake River Brewing Company & Brewpub",1026854918,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"154",179,"Snake River Brewing Company & Brewpub",1020354884,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"155",179,"Snake River Brewing Company & Brewpub",1018003403,4.5,4,4,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
+"156",179,"Snake River Brewing Company & Brewpub",1014079897,5,4.5,5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"157",179,"Snake River Brewing Company & Brewpub",1305074601,4.5,4.5,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"158",179,"Snake River Brewing Company & Brewpub",1304093458,4,4.5,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"159",179,"Snake River Brewing Company & Brewpub",1302636227,4,4.5,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"160",179,"Snake River Brewing Company & Brewpub",1300766570,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"161",179,"Snake River Brewing Company & Brewpub",1300331671,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"162",179,"Snake River Brewing Company & Brewpub",1300067052,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"163",179,"Snake River Brewing Company & Brewpub",1298774931,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"164",179,"Snake River Brewing Company & Brewpub",1297720583,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"165",179,"Snake River Brewing Company & Brewpub",1297535173,4.5,4,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"166",179,"Snake River Brewing Company & Brewpub",1296954133,4,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"167",179,"Snake River Brewing Company & Brewpub",1294195598,4.5,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"168",179,"Snake River Brewing Company & Brewpub",1293054544,4,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"169",179,"Snake River Brewing Company & Brewpub",1291856083,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"170",179,"Snake River Brewing Company & Brewpub",1290734913,4,4,4,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"171",179,"Snake River Brewing Company & Brewpub",1287964366,5,4,4,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"172",179,"Snake River Brewing Company & Brewpub",1287158411,4.5,3.5,4.5,"Foreign / Export Stout",4.5,3.5,"Snake River Zonker Stout",6,632
+"173",179,"Snake River Brewing Company & Brewpub",1271122139,4,4.5,5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"174",179,"Snake River Brewing Company & Brewpub",1286155651,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"175",179,"Snake River Brewing Company & Brewpub",1285113557,4,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"176",179,"Snake River Brewing Company & Brewpub",1283176459,4,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"177",179,"Snake River Brewing Company & Brewpub",1282613699,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"178",179,"Snake River Brewing Company & Brewpub",1282178722,4,4,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"179",179,"Snake River Brewing Company & Brewpub",1281092413,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"180",179,"Snake River Brewing Company & Brewpub",1273000694,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"181",179,"Snake River Brewing Company & Brewpub",1272337222,4,4.5,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"182",179,"Snake River Brewing Company & Brewpub",1266771506,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"183",179,"Snake River Brewing Company & Brewpub",1266272538,4,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"184",179,"Snake River Brewing Company & Brewpub",1264648726,4.5,5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"185",179,"Snake River Brewing Company & Brewpub",1264387566,4,4,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"186",179,"Snake River Brewing Company & Brewpub",1264365888,4,3.5,3,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"187",179,"Snake River Brewing Company & Brewpub",1264308341,4,4,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"188",179,"Snake River Brewing Company & Brewpub",1263936914,4,4,3.5,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"189",179,"Snake River Brewing Company & Brewpub",1263854049,4.5,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"190",179,"Snake River Brewing Company & Brewpub",1263851748,4.5,4,5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"191",179,"Snake River Brewing Company & Brewpub",1263527156,5,4.5,3.5,"Foreign / Export Stout",4,5,"Snake River Zonker Stout",6,632
+"192",179,"Snake River Brewing Company & Brewpub",1262645612,4,4,4,"Foreign / Export Stout",3.5,4.5,"Snake River Zonker Stout",6,632
+"193",179,"Snake River Brewing Company & Brewpub",1262564857,4.5,4,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"194",179,"Snake River Brewing Company & Brewpub",1261921466,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"195",179,"Snake River Brewing Company & Brewpub",1261677250,3.5,3.5,4,"Foreign / Export Stout",3.5,3.5,"Snake River Zonker Stout",6,632
+"196",179,"Snake River Brewing Company & Brewpub",1261674711,3.5,3,3.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"197",179,"Snake River Brewing Company & Brewpub",1261341292,5,4,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"198",179,"Snake River Brewing Company & Brewpub",1261033897,3,4,4,"Foreign / Export Stout",4,3.5,"Snake River Zonker Stout",6,632
+"199",179,"Snake River Brewing Company & Brewpub",1260596261,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"200",179,"Snake River Brewing Company & Brewpub",1260154076,4.5,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"201",179,"Snake River Brewing Company & Brewpub",1259731957,4.5,4,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"202",179,"Snake River Brewing Company & Brewpub",1259203984,4,4,4,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"203",179,"Snake River Brewing Company & Brewpub",1259190436,4.5,4,5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"204",179,"Snake River Brewing Company & Brewpub",1259125658,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"205",179,"Snake River Brewing Company & Brewpub",1258857846,4,4.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"206",179,"Snake River Brewing Company & Brewpub",1255645367,5,4.5,4,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"207",179,"Snake River Brewing Company & Brewpub",1253579349,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"208",179,"Snake River Brewing Company & Brewpub",1251931227,5,5,4.5,"Foreign / Export Stout",5,5,"Snake River Zonker Stout",6,632
+"209",179,"Snake River Brewing Company & Brewpub",1251435425,4.5,4,5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"210",179,"Snake River Brewing Company & Brewpub",1249003687,4,4.5,4.5,"Foreign / Export Stout",4.5,5,"Snake River Zonker Stout",6,632
+"211",179,"Snake River Brewing Company & Brewpub",1247362869,4,4,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"212",179,"Snake River Brewing Company & Brewpub",1247361209,3.5,3.5,3,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
+"213",179,"Snake River Brewing Company & Brewpub",1247295117,5,3,4.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"214",179,"Snake River Brewing Company & Brewpub",1245688533,4,4,4.5,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"215",179,"Snake River Brewing Company & Brewpub",1242880187,4,3.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"216",179,"Snake River Brewing Company & Brewpub",1235700335,4,4,4,"Foreign / Export Stout",3,4.5,"Snake River Zonker Stout",6,632
+"217",179,"Snake River Brewing Company & Brewpub",1235148334,4.5,4.5,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"218",179,"Snake River Brewing Company & Brewpub",1234456427,4,3.5,4.5,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"219",179,"Snake River Brewing Company & Brewpub",1314072150,3.5,3,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
+"220",179,"Snake River Brewing Company & Brewpub",1232055972,4.5,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"221",179,"Snake River Brewing Company & Brewpub",1231481558,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"222",179,"Snake River Brewing Company & Brewpub",1226549060,4,4.5,4,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"223",179,"Snake River Brewing Company & Brewpub",1226013054,4.5,4.5,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"224",179,"Snake River Brewing Company & Brewpub",1224678128,4.5,4,5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"225",179,"Snake River Brewing Company & Brewpub",1221887357,4.5,4.5,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"226",179,"Snake River Brewing Company & Brewpub",1220747640,4.5,4.5,4,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"227",179,"Snake River Brewing Company & Brewpub",1220153576,4,4.5,3.5,"Foreign / Export Stout",2.5,4.5,"Snake River Zonker Stout",6,632
+"228",179,"Snake River Brewing Company & Brewpub",1219891133,4.5,4,4.5,"Foreign / Export Stout",4.5,4.5,"Snake River Zonker Stout",6,632
+"229",179,"Snake River Brewing Company & Brewpub",1218429222,4,4,3.5,"Foreign / Export Stout",4,4.5,"Snake River Zonker Stout",6,632
+"230",179,"Snake River Brewing Company & Brewpub",1216606619,4,4,4,"Foreign / Export Stout",4,4,"Snake River Zonker Stout",6,632
+"231",179,"Snake River Brewing Company & Brewpub",1214477391,4,4.5,4.5,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"232",179,"Snake River Brewing Company & Brewpub",1210052192,4,4,4,"Foreign / Export Stout",3.5,4,"Snake River Zonker Stout",6,632
+"233",179,"Snake River Brewing Company & Brewpub",1208901310,4,4,4,"Foreign / Export Stout",4.5,4,"Snake River Zonker Stout",6,632
+"234",179,"Snake River Brewing Company & Brewpub",1206850241,4.5,4,4.5,"Foreign / Export Stout",5,4.5,"Snake River Zonker Stout",6,632
+"235",179,"Snake River Brewing Company & Brewpub",1206392643,4,4,4,"Foreign / Export Stout",3,3.5,"Snake River Zonker Stout",6,632
+"236",179,"Snake River Brewing Company & Brewpub",1322672343,4,4,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
+"237",179,"Snake River Brewing Company & Brewpub",1320464869,4,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"238",179,"Snake River Brewing Company & Brewpub",1317784443,4.5,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
+"239",179,"Snake River Brewing Company & Brewpub",1317588977,5,4.5,4.5,"American IPA",3.5,5,"Pako's IPA",6.8,58577
+"240",179,"Snake River Brewing Company & Brewpub",1317586080,4.5,4,4,"American IPA",3.5,4.5,"Pako's IPA",6.8,58577
+"241",179,"Snake River Brewing Company & Brewpub",1317485047,4,4,3.5,"American IPA",4,4,"Pako's IPA",6.8,58577
+"242",179,"Snake River Brewing Company & Brewpub",1317266592,3.5,4,4,"American IPA",4,3.5,"Pako's IPA",6.8,58577
+"243",179,"Snake River Brewing Company & Brewpub",1316990334,4,4,3.5,"American IPA",4,4,"Pako's IPA",6.8,58577
+"244",179,"Snake River Brewing Company & Brewpub",1314217389,4,3.5,4.5,"American IPA",4.5,3.5,"Pako's IPA",6.8,58577
+"245",179,"Snake River Brewing Company & Brewpub",1313798698,4,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
+"246",179,"Snake River Brewing Company & Brewpub",1312380867,4.5,4,4,"American IPA",4.5,4.5,"Pako's IPA",6.8,58577
+"247",179,"Snake River Brewing Company & Brewpub",1311313354,4,4,4,"American IPA",4,4,"Pako's IPA",6.8,58577
+"248",179,"Snake River Brewing Company & Brewpub",1311290359,4,3.5,3.5,"American IPA",4.5,3.5,"Pako's IPA",6.8,58577
+"249",179,"Snake River Brewing Company & Brewpub",1310783020,4.5,4.5,3.5,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"250",179,"Snake River Brewing Company & Brewpub",1310340831,4.5,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"251",179,"Snake River Brewing Company & Brewpub",1310062111,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"252",179,"Snake River Brewing Company & Brewpub",1309667668,4.5,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"253",179,"Snake River Brewing Company & Brewpub",1309394658,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"254",179,"Snake River Brewing Company & Brewpub",1308501991,3.5,4,4.5,"American IPA",4,4,"Pako's IPA",6.8,58577
+"255",179,"Snake River Brewing Company & Brewpub",1307365703,4.5,4.5,4,"American IPA",4.5,4.5,"Pako's IPA",6.8,58577
+"256",179,"Snake River Brewing Company & Brewpub",1306537273,4,4,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"257",179,"Snake River Brewing Company & Brewpub",1286595139,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"258",179,"Snake River Brewing Company & Brewpub",1283384773,4.5,4.5,4,"American IPA",4,4.5,"Pako's IPA",6.8,58577
+"259",179,"Snake River Brewing Company & Brewpub",1282620389,4,4.5,4,"American IPA",3.5,4,"Pako's IPA",6.8,58577
+"260",179,"Snake River Brewing Company & Brewpub",1297706889,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"261",179,"Snake River Brewing Company & Brewpub",1049626578,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"262",179,"Snake River Brewing Company & Brewpub",1046618879,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"263",179,"Snake River Brewing Company & Brewpub",1043058589,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
+"264",179,"Snake River Brewing Company & Brewpub",1034885793,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"265",179,"Snake River Brewing Company & Brewpub",1029955701,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"266",179,"Snake River Brewing Company & Brewpub",1020354563,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
+"267",179,"Snake River Brewing Company & Brewpub",1020349154,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"268",179,"Snake River Brewing Company & Brewpub",1017963080,4.5,4,4,"American Pale Ale (APA)",4.5,5,"Snake River Pale Ale",5.2,592
+"269",179,"Snake River Brewing Company & Brewpub",1324684638,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"270",179,"Snake River Brewing Company & Brewpub",1318084247,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"271",179,"Snake River Brewing Company & Brewpub",1317266510,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"272",179,"Snake River Brewing Company & Brewpub",1298774454,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"273",179,"Snake River Brewing Company & Brewpub",1316984964,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"274",179,"Snake River Brewing Company & Brewpub",1312834814,3.5,3,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
+"275",179,"Snake River Brewing Company & Brewpub",1311905720,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"276",179,"Snake River Brewing Company & Brewpub",1310339206,3.5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"277",179,"Snake River Brewing Company & Brewpub",1308761512,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"278",179,"Snake River Brewing Company & Brewpub",1308760716,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"279",179,"Snake River Brewing Company & Brewpub",1306536526,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"280",179,"Snake River Brewing Company & Brewpub",1299204504,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Snake River Pale Ale",5.2,592
+"281",179,"Snake River Brewing Company & Brewpub",1290220186,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"282",179,"Snake River Brewing Company & Brewpub",1289353707,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"283",179,"Snake River Brewing Company & Brewpub",1288579631,3.5,4.5,3.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"284",179,"Snake River Brewing Company & Brewpub",1285613944,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"285",179,"Snake River Brewing Company & Brewpub",1282168896,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Snake River Pale Ale",5.2,592
+"286",179,"Snake River Brewing Company & Brewpub",1275695610,4.5,3,4,"American Pale Ale (APA)",4.5,3.5,"Snake River Pale Ale",5.2,592
+"287",179,"Snake River Brewing Company & Brewpub",1272675658,4.5,3,3.5,"American Pale Ale (APA)",4.5,3.5,"Snake River Pale Ale",5.2,592
+"288",179,"Snake River Brewing Company & Brewpub",1266635770,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"289",179,"Snake River Brewing Company & Brewpub",1265681405,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"290",179,"Snake River Brewing Company & Brewpub",1264984536,3.5,3,3,"American Pale Ale (APA)",2.5,3.5,"Snake River Pale Ale",5.2,592
+"291",179,"Snake River Brewing Company & Brewpub",1263433032,4,4,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"292",179,"Snake River Brewing Company & Brewpub",1262315582,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"293",179,"Snake River Brewing Company & Brewpub",1262214162,4,3.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Snake River Pale Ale",5.2,592
+"294",179,"Snake River Brewing Company & Brewpub",1261865467,4,3,3,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"295",179,"Snake River Brewing Company & Brewpub",1261675709,4,4,3,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"296",179,"Snake River Brewing Company & Brewpub",1261533215,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"297",179,"Snake River Brewing Company & Brewpub",1261451968,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"298",179,"Snake River Brewing Company & Brewpub",1260870489,3,3,4,"American Pale Ale (APA)",3,2.5,"Snake River Pale Ale",5.2,592
+"299",179,"Snake River Brewing Company & Brewpub",1260647862,5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"300",179,"Snake River Brewing Company & Brewpub",1252949639,4,3,4,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"301",179,"Snake River Brewing Company & Brewpub",1252539816,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"302",179,"Snake River Brewing Company & Brewpub",1160603550,3.5,2.5,3.5,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
+"303",179,"Snake River Brewing Company & Brewpub",1251431363,5,4,3.5,"American Pale Ale (APA)",5,4.5,"Snake River Pale Ale",5.2,592
+"304",179,"Snake River Brewing Company & Brewpub",1249683390,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"305",179,"Snake River Brewing Company & Brewpub",1248924196,4,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"306",179,"Snake River Brewing Company & Brewpub",1242880054,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"307",179,"Snake River Brewing Company & Brewpub",1237664819,5,4,3.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"308",179,"Snake River Brewing Company & Brewpub",1229395805,3.5,3,3,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"309",179,"Snake River Brewing Company & Brewpub",1210051682,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"310",179,"Snake River Brewing Company & Brewpub",1209417611,3,3,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"311",179,"Snake River Brewing Company & Brewpub",1189655580,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"312",179,"Snake River Brewing Company & Brewpub",1208531804,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"313",179,"Snake River Brewing Company & Brewpub",1205712689,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"314",179,"Snake River Brewing Company & Brewpub",1202511730,4,4,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"315",179,"Snake River Brewing Company & Brewpub",1202185534,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"316",179,"Snake River Brewing Company & Brewpub",1198527108,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
+"317",179,"Snake River Brewing Company & Brewpub",1197360350,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"318",179,"Snake River Brewing Company & Brewpub",1194558012,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"319",179,"Snake River Brewing Company & Brewpub",1191792281,4.5,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"320",179,"Snake River Brewing Company & Brewpub",1191645246,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"321",179,"Snake River Brewing Company & Brewpub",1182791316,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"322",179,"Snake River Brewing Company & Brewpub",1180930298,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"323",179,"Snake River Brewing Company & Brewpub",1178049742,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"324",179,"Snake River Brewing Company & Brewpub",1174601551,3,3,3,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
+"325",179,"Snake River Brewing Company & Brewpub",1171240612,3.5,3,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
+"326",179,"Snake River Brewing Company & Brewpub",1160602759,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"327",179,"Snake River Brewing Company & Brewpub",1159399874,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Snake River Pale Ale",5.2,592
+"328",179,"Snake River Brewing Company & Brewpub",1157255495,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"329",179,"Snake River Brewing Company & Brewpub",1151795724,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"330",179,"Snake River Brewing Company & Brewpub",1126739204,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"331",179,"Snake River Brewing Company & Brewpub",1151200672,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"332",179,"Snake River Brewing Company & Brewpub",1148843880,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"333",179,"Snake River Brewing Company & Brewpub",1147017618,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
+"334",179,"Snake River Brewing Company & Brewpub",1141881166,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"335",179,"Snake River Brewing Company & Brewpub",1138409401,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"336",179,"Snake River Brewing Company & Brewpub",1136931882,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Snake River Pale Ale",5.2,592
+"337",179,"Snake River Brewing Company & Brewpub",1135898922,2.5,3.5,3,"American Pale Ale (APA)",3,2,"Snake River Pale Ale",5.2,592
+"338",179,"Snake River Brewing Company & Brewpub",1134264284,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"339",179,"Snake River Brewing Company & Brewpub",1133918172,3.5,4,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"340",179,"Snake River Brewing Company & Brewpub",1133643804,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"341",179,"Snake River Brewing Company & Brewpub",1132888668,4.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"342",179,"Snake River Brewing Company & Brewpub",1125947663,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"343",179,"Snake River Brewing Company & Brewpub",1121900391,4,4,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"344",179,"Snake River Brewing Company & Brewpub",1115512416,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"345",179,"Snake River Brewing Company & Brewpub",1104842894,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"346",179,"Snake River Brewing Company & Brewpub",1104816197,4,4.5,3.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"347",179,"Snake River Brewing Company & Brewpub",1104532981,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Snake River Pale Ale",5.2,592
+"348",179,"Snake River Brewing Company & Brewpub",1098219252,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Snake River Pale Ale",5.2,592
+"349",179,"Snake River Brewing Company & Brewpub",1094770726,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"350",179,"Snake River Brewing Company & Brewpub",1093039315,3.5,3,3.5,"American Pale Ale (APA)",3,2,"Snake River Pale Ale",5.2,592
+"351",179,"Snake River Brewing Company & Brewpub",1087906099,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"352",179,"Snake River Brewing Company & Brewpub",1230576385,4,3,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"353",179,"Snake River Brewing Company & Brewpub",1086838368,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Snake River Pale Ale",5.2,592
+"354",179,"Snake River Brewing Company & Brewpub",1076378419,4,3.5,4,"American Pale Ale (APA)",3,3,"Snake River Pale Ale",5.2,592
+"355",179,"Snake River Brewing Company & Brewpub",1072655373,4,3.5,2.5,"American Pale Ale (APA)",3,3.5,"Snake River Pale Ale",5.2,592
+"356",179,"Snake River Brewing Company & Brewpub",1066961802,4,3.5,4,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"357",179,"Snake River Brewing Company & Brewpub",1066449857,4,4,3.5,"American Pale Ale (APA)",4,4,"Snake River Pale Ale",5.2,592
+"358",179,"Snake River Brewing Company & Brewpub",1058888716,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Snake River Pale Ale",5.2,592
+"359",179,"Snake River Brewing Company & Brewpub",1053716555,4.5,5,4.5,"American Pale Ale (APA)",4,4.5,"Snake River Pale Ale",5.2,592
+"360",179,"Snake River Brewing Company & Brewpub",1053717655,4.5,4.5,4.5,"Dortmunder / Export Lager",4,4.5,"Dortmunder Lager",NA,9990
+"361",179,"Snake River Brewing Company & Brewpub",1160093096,4.5,4.5,4,"Vienna Lager",3.5,5,"Snake River Lager",4.8,581
+"362",179,"Snake River Brewing Company & Brewpub",1321317861,3.5,4,3.5,"Flanders Oud Bruin",4,3.5,"Le Serpent",NA,58574
+"363",179,"Snake River Brewing Company & Brewpub",1199051990,3.5,3,4,"Vienna Lager",2.5,3,"Snake River Lager",4.8,581
+"364",179,"Snake River Brewing Company & Brewpub",1314854880,4.5,4,4,"Flanders Oud Bruin",4,4,"Le Serpent",NA,58574
+"365",179,"Snake River Brewing Company & Brewpub",1314753021,4,4.5,4,"Flanders Oud Bruin",4,4,"Le Serpent",NA,58574
+"366",179,"Snake River Brewing Company & Brewpub",1312426112,4,4,4,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
+"367",179,"Snake River Brewing Company & Brewpub",1310609506,4,4.5,4,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
+"368",179,"Snake River Brewing Company & Brewpub",1296185781,4.5,5,4.5,"Flanders Oud Bruin",4,4.5,"Le Serpent",NA,58574
+"369",179,"Snake River Brewing Company & Brewpub",1324331650,4,4,3.5,"Flanders Oud Bruin",4.5,4.5,"Le Serpent Cerise",NA,71896
+"370",179,"Snake River Brewing Company & Brewpub",1323823352,4,3.5,3.5,"Flanders Oud Bruin",4,4,"Le Serpent Cerise",NA,71896
+"371",179,"Snake River Brewing Company & Brewpub",1323633207,4.5,4.5,3.5,"Flanders Oud Bruin",2.5,4.5,"Le Serpent Cerise",NA,71896
+"372",179,"Snake River Brewing Company & Brewpub",1189803820,4.5,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"373",179,"Snake River Brewing Company & Brewpub",1321216882,5,5,4,"Flanders Oud Bruin",4,5,"Le Serpent Cerise",NA,71896
+"374",179,"Snake River Brewing Company & Brewpub",1320531064,4,4.5,3.5,"Flanders Oud Bruin",3.5,4,"Le Serpent Cerise",NA,71896
+"375",179,"Snake River Brewing Company & Brewpub",1314857215,4,4,4,"Flanders Oud Bruin",4,4,"Le Serpent Cerise",NA,71896
+"376",179,"Snake River Brewing Company & Brewpub",1320714824,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"377",179,"Snake River Brewing Company & Brewpub",1318815650,3.5,3,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"378",179,"Snake River Brewing Company & Brewpub",1314765752,3.5,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"379",179,"Snake River Brewing Company & Brewpub",1312835159,3,3,3,"Vienna Lager",3,2.5,"Snake River Lager",4.8,581
+"380",179,"Snake River Brewing Company & Brewpub",1309221799,3,3,3.5,"Vienna Lager",3,3,"Snake River Lager",4.8,581
+"381",179,"Snake River Brewing Company & Brewpub",1299203787,3,3,3.5,"Vienna Lager",3,3,"Snake River Lager",4.8,581
+"382",179,"Snake River Brewing Company & Brewpub",1298762044,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"383",179,"Snake River Brewing Company & Brewpub",1297793283,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"384",179,"Snake River Brewing Company & Brewpub",1296613650,3.5,4,4.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"385",179,"Snake River Brewing Company & Brewpub",1287458393,3,3.5,3,"Vienna Lager",2.5,3,"Snake River Lager",4.8,581
+"386",179,"Snake River Brewing Company & Brewpub",1287184918,4,4,4.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"387",179,"Snake River Brewing Company & Brewpub",1286503602,3.5,4,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
+"388",179,"Snake River Brewing Company & Brewpub",1285614182,3,3,3,"Vienna Lager",3,3.5,"Snake River Lager",4.8,581
+"389",179,"Snake River Brewing Company & Brewpub",1282818630,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"390",179,"Snake River Brewing Company & Brewpub",1059200032,2.5,3,4,"Vienna Lager",2.5,2.5,"Snake River Lager",4.8,581
+"391",179,"Snake River Brewing Company & Brewpub",1275443685,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"392",179,"Snake River Brewing Company & Brewpub",1273123277,4,4,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"393",179,"Snake River Brewing Company & Brewpub",1265132550,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"394",179,"Snake River Brewing Company & Brewpub",1259953868,4,4,3.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"395",179,"Snake River Brewing Company & Brewpub",1252106340,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"396",179,"Snake River Brewing Company & Brewpub",1249855559,5,4.5,4.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"397",179,"Snake River Brewing Company & Brewpub",1249616525,3.5,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"398",179,"Snake River Brewing Company & Brewpub",1249269825,4,4.5,4,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"399",179,"Snake River Brewing Company & Brewpub",1248619948,4,4,3,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"400",179,"Snake River Brewing Company & Brewpub",1247233518,3.5,3.5,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
+"401",179,"Snake River Brewing Company & Brewpub",1246341783,3.5,3,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"402",179,"Snake River Brewing Company & Brewpub",1218426901,3,3,4,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
+"403",179,"Snake River Brewing Company & Brewpub",1213034924,4.5,3.5,3,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"404",179,"Snake River Brewing Company & Brewpub",1210727618,4,4.5,4.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"405",179,"Snake River Brewing Company & Brewpub",1210049797,4,4.5,4,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"406",179,"Snake River Brewing Company & Brewpub",1209090791,4,4,4.5,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
+"407",179,"Snake River Brewing Company & Brewpub",1207754774,4.5,4,4,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
+"408",179,"Snake River Brewing Company & Brewpub",1205798962,4.5,4,4,"Vienna Lager",4.5,4.5,"Snake River Lager",4.8,581
+"409",179,"Snake River Brewing Company & Brewpub",1202511223,4,4,4.5,"Vienna Lager",3.5,4,"Snake River Lager",4.8,581
+"410",179,"Snake River Brewing Company & Brewpub",1201599194,4.5,4,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"411",179,"Snake River Brewing Company & Brewpub",1187664365,4.5,3,3.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"412",179,"Snake River Brewing Company & Brewpub",1181014184,4.5,3.5,4.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"413",179,"Snake River Brewing Company & Brewpub",1178604920,5,4,4,"Vienna Lager",4.5,5,"Snake River Lager",4.8,581
+"414",179,"Snake River Brewing Company & Brewpub",1178410946,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"415",179,"Snake River Brewing Company & Brewpub",1176582575,5,4,4.5,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"416",179,"Snake River Brewing Company & Brewpub",1171062145,4.5,3.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"417",179,"Snake River Brewing Company & Brewpub",1167590755,4,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"418",179,"Snake River Brewing Company & Brewpub",1166462144,4,4,3,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"419",179,"Snake River Brewing Company & Brewpub",1161627486,4,4,4,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"420",179,"Snake River Brewing Company & Brewpub",1157254913,4,4,3.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"421",179,"Snake River Brewing Company & Brewpub",1154674154,5,3.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"422",179,"Snake River Brewing Company & Brewpub",1154262066,4.5,4,3.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"423",179,"Snake River Brewing Company & Brewpub",1148166386,4,3,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"424",179,"Snake River Brewing Company & Brewpub",1143185624,4,2.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"425",179,"Snake River Brewing Company & Brewpub",1141879009,5,4.5,4,"Vienna Lager",5,4.5,"Snake River Lager",4.8,581
+"426",179,"Snake River Brewing Company & Brewpub",1138406147,4,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"427",179,"Snake River Brewing Company & Brewpub",1134006893,4,3.5,3.5,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"428",179,"Snake River Brewing Company & Brewpub",1133644717,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"429",179,"Snake River Brewing Company & Brewpub",1125953660,4.5,4.5,4,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581
+"430",179,"Snake River Brewing Company & Brewpub",1125949324,3.5,4,4.5,"Vienna Lager",3.5,3,"Snake River Lager",4.8,581
+"431",179,"Snake River Brewing Company & Brewpub",1056139027,3,3,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"432",179,"Snake River Brewing Company & Brewpub",1123794393,4.5,3.5,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"433",179,"Snake River Brewing Company & Brewpub",1104716372,4,3.5,4,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"434",179,"Snake River Brewing Company & Brewpub",1094512346,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"435",179,"Snake River Brewing Company & Brewpub",1084852690,5,4,3.5,"Vienna Lager",4.5,5,"Snake River Lager",4.8,581
+"436",179,"Snake River Brewing Company & Brewpub",1079977992,4,3.5,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"437",179,"Snake River Brewing Company & Brewpub",1075773897,3.5,3.5,3.5,"Vienna Lager",4,3,"Snake River Lager",4.8,581
+"438",179,"Snake River Brewing Company & Brewpub",1066700919,4,4,3.5,"Vienna Lager",4,4,"Snake River Lager",4.8,581
+"439",179,"Snake River Brewing Company & Brewpub",1062204847,3,3.5,3,"Vienna Lager",3,3,"Snake River Lager",4.8,581
+"440",179,"Snake River Brewing Company & Brewpub",1062001247,4,3,3,"Vienna Lager",5,4,"Snake River Lager",4.8,581
+"441",179,"Snake River Brewing Company & Brewpub",1053716859,4.5,4.5,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"442",179,"Snake River Brewing Company & Brewpub",1048607308,4.5,4,4,"Vienna Lager",4,5,"Snake River Lager",4.8,581
+"443",179,"Snake River Brewing Company & Brewpub",1044119096,3.5,4,3.5,"Vienna Lager",3.5,3.5,"Snake River Lager",4.8,581
+"444",179,"Snake River Brewing Company & Brewpub",1039506779,4.5,4.5,4,"Vienna Lager",4,4.5,"Snake River Lager",4.8,581
+"445",179,"Snake River Brewing Company & Brewpub",1029865613,4,3.5,4,"Vienna Lager",4,3.5,"Snake River Lager",4.8,581
+"446",179,"Snake River Brewing Company & Brewpub",1018475571,4.5,4,4.5,"Vienna Lager",4.5,4,"Snake River Lager",4.8,581

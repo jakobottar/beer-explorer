@@ -1,445 +1,431 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",16304,"Grand River Brewing",1247431276,3.5,3,3,"American Pale Wheat Ale",3,3.5,"C'est Wheat",5.1,51083
-"2",16304,"Grand River Brewing",1268275461,4,4,4,"Maibock / Helles Bock",4,3.5,"Dog Stalker April Bock",6.5,56724
-"3",16304,"Grand River Brewing",1301116455,2,3,3.5,"English India Pale Ale (IPA)",3,3,"Curmudgeon IPA",6.5,48090
-"4",16304,"Grand River Brewing",1238107257,4,3.5,3,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
-"5",16304,"Grand River Brewing",1285880448,3.5,4,3,"Fruit / Vegetable Beer",4,3.5,"Raspberry Pils",4.5,58759
-"6",16304,"Grand River Brewing",1283303053,4,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Raspberry Pils",4.5,58759
-"7",16304,"Grand River Brewing",1282594027,3,3.5,4,"Fruit / Vegetable Beer",3.5,3,"Raspberry Pils",4.5,58759
-"8",16304,"Grand River Brewing",1279131048,3.5,4,3.5,"Fruit / Vegetable Beer",2.5,3,"Raspberry Pils",4.5,58759
-"9",16304,"Grand River Brewing",1278818070,4.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Raspberry Pils",4.5,58759
-"10",16304,"Grand River Brewing",1277689260,4,4,4,"Fruit / Vegetable Beer",4,4,"Raspberry Pils",4.5,58759
-"11",16304,"Grand River Brewing",1277684082,4,3,3,"Fruit / Vegetable Beer",3,3.5,"Raspberry Pils",4.5,58759
-"12",16304,"Grand River Brewing",1277439832,1.5,3,3.5,"Fruit / Vegetable Beer",2,2,"Raspberry Pils",4.5,58759
-"13",16304,"Grand River Brewing",1275233778,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Pils",4.5,58759
-"14",16304,"Grand River Brewing",1324601307,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"15",16304,"Grand River Brewing",1322173956,3,3,3,"English Dark Mild Ale",3,3.5,"Mill Race Mild",3.5,38676
-"16",16304,"Grand River Brewing",1316470550,3.5,3.5,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"17",16304,"Grand River Brewing",1315960633,4,3.5,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"18",16304,"Grand River Brewing",1313371563,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"19",16304,"Grand River Brewing",1306854407,4,3.5,3.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
-"20",16304,"Grand River Brewing",1306853953,3.5,3.5,3.5,"English Dark Mild Ale",3,3.5,"Mill Race Mild",3.5,38676
-"21",16304,"Grand River Brewing",1304299671,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
-"22",16304,"Grand River Brewing",1256093004,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"23",16304,"Grand River Brewing",1304201943,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"24",16304,"Grand River Brewing",1294973664,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"25",16304,"Grand River Brewing",1289175349,5,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"26",16304,"Grand River Brewing",1282531068,5,4,4.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"27",16304,"Grand River Brewing",1280194621,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"28",16304,"Grand River Brewing",1279477069,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
-"29",16304,"Grand River Brewing",1274325420,4,3.5,4.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"30",16304,"Grand River Brewing",1272840884,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"31",16304,"Grand River Brewing",1258497100,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"32",16304,"Grand River Brewing",1252003657,4.5,3.5,4.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
-"33",16304,"Grand River Brewing",1249590283,5,3.5,4,"English Dark Mild Ale",4.5,4,"Mill Race Mild",3.5,38676
-"34",16304,"Grand River Brewing",1249004620,4.5,3.5,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"35",16304,"Grand River Brewing",1248875922,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"36",16304,"Grand River Brewing",1242324525,4.5,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
-"37",16304,"Grand River Brewing",1241115959,5,4,4.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
-"38",16304,"Grand River Brewing",1228010863,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"39",16304,"Grand River Brewing",1227504010,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"40",16304,"Grand River Brewing",1190208915,4.5,4,4,"American Amber / Red Lager",4.5,4.5,"Town Hall Lager",3.9,38723
-"41",16304,"Grand River Brewing",1227202092,4.5,3.5,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"42",16304,"Grand River Brewing",1222135280,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
-"43",16304,"Grand River Brewing",1221346577,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"44",16304,"Grand River Brewing",1209860015,4.5,4,4,"English Dark Mild Ale",4,4.5,"Mill Race Mild",3.5,38676
-"45",16304,"Grand River Brewing",1195315032,5,5,3,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"46",16304,"Grand River Brewing",1194674812,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"47",16304,"Grand River Brewing",1193001267,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
-"48",16304,"Grand River Brewing",1191427761,4.5,4,4,"English Dark Mild Ale",4,4.5,"Mill Race Mild",3.5,38676
-"49",16304,"Grand River Brewing",1191116484,3,3.5,3.5,"English Dark Mild Ale",3,3,"Mill Race Mild",3.5,38676
-"50",16304,"Grand River Brewing",1190208479,4.5,4,4,"English Dark Mild Ale",4.5,4.5,"Mill Race Mild",3.5,38676
-"51",16304,"Grand River Brewing",1189899113,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
-"52",16304,"Grand River Brewing",1269105536,4.5,3,3.5,"American Amber / Red Lager",3.5,3.5,"Town Hall Lager",3.9,38723
-"53",16304,"Grand River Brewing",1258599995,4.5,3,4,"American Amber / Red Lager",4,4.5,"Town Hall Lager",3.9,38723
-"54",16304,"Grand River Brewing",1256735255,3.5,4,3.5,"American Amber / Red Lager",3.5,3.5,"Town Hall Lager",3.9,38723
-"55",16304,"Grand River Brewing",1254865633,4,4,3,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"56",16304,"Grand River Brewing",1252649669,4,3,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"57",16304,"Grand River Brewing",1251769707,2.5,3,3.5,"American Amber / Red Lager",3,2.5,"Town Hall Lager",3.9,38723
-"58",16304,"Grand River Brewing",1249005044,3.5,4,3.5,"American Amber / Red Lager",3.5,4,"Town Hall Lager",3.9,38723
-"59",16304,"Grand River Brewing",1245351577,4,3.5,4,"American Amber / Red Lager",4,3,"Town Hall Lager",3.9,38723
-"60",16304,"Grand River Brewing",1191116914,3.5,4,4,"American Amber / Red Lager",3.5,4,"Town Hall Lager",3.9,38723
-"61",16304,"Grand River Brewing",1241198879,4,3.5,3.5,"American Amber / Red Lager",3,3.5,"Town Hall Lager",3.9,38723
-"62",16304,"Grand River Brewing",1238437109,4.5,3.5,4,"American Amber / Red Lager",4.5,3.5,"Town Hall Lager",3.9,38723
-"63",16304,"Grand River Brewing",1238275469,4,3.5,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"64",16304,"Grand River Brewing",1224871509,3.5,3.5,3.5,"American Amber / Red Lager",3,3.5,"Town Hall Lager",3.9,38723
-"65",16304,"Grand River Brewing",1224250658,5,4,3.5,"American Amber / Red Lager",4.5,4.5,"Town Hall Lager",3.9,38723
-"66",16304,"Grand River Brewing",1222273676,4.5,4,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"67",16304,"Grand River Brewing",1206488052,3.5,3.5,4,"American Amber / Red Lager",4,3.5,"Town Hall Lager",3.9,38723
-"68",16304,"Grand River Brewing",1195930152,4.5,4,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"69",16304,"Grand River Brewing",1191877328,4.5,4.5,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
-"70",16304,"Grand River Brewing",1321335590,4.5,4,4.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"71",16304,"Grand River Brewing",1319464882,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"72",16304,"Grand River Brewing",1319325251,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"73",16304,"Grand River Brewing",1318622582,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"74",16304,"Grand River Brewing",1317581468,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"75",16304,"Grand River Brewing",1313712565,4,4,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"76",16304,"Grand River Brewing",1311727438,4,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"77",16304,"Grand River Brewing",1309388922,3,3.5,4,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
-"78",16304,"Grand River Brewing",1308962836,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Plowman's Ale",4.7,38674
-"79",16304,"Grand River Brewing",1304786281,4,4,3.5,"American Amber / Red Ale",3.5,3.5,"Plowman's Ale",4.7,38674
-"80",16304,"Grand River Brewing",1304604353,4,4,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"81",16304,"Grand River Brewing",1304387847,3.5,4,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"82",16304,"Grand River Brewing",1303920772,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"83",16304,"Grand River Brewing",1298151087,4,3,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"84",16304,"Grand River Brewing",1295459063,5,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"85",16304,"Grand River Brewing",1292189063,3,3,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"86",16304,"Grand River Brewing",1268596086,4.5,4,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"87",16304,"Grand River Brewing",1264466731,4,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"88",16304,"Grand River Brewing",1258424848,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"89",16304,"Grand River Brewing",1257713118,3,3,3,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
-"90",16304,"Grand River Brewing",1255466060,4,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"91",16304,"Grand River Brewing",1249167448,4,4,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"92",16304,"Grand River Brewing",1244998711,4.5,3,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"93",16304,"Grand River Brewing",1242199220,3,4,4.5,"American Amber / Red Ale",3,3.5,"Plowman's Ale",4.7,38674
-"94",16304,"Grand River Brewing",1242088074,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"95",16304,"Grand River Brewing",1240249006,4.5,3,3.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"96",16304,"Grand River Brewing",1238901334,4,4,4,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
-"97",16304,"Grand River Brewing",1238270950,4.5,4.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"98",16304,"Grand River Brewing",1228098156,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"99",16304,"Grand River Brewing",1226178913,4.5,4.5,4,"American Amber / Red Ale",4,5,"Plowman's Ale",4.7,38674
-"100",16304,"Grand River Brewing",1222541697,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Plowman's Ale",4.7,38674
-"101",16304,"Grand River Brewing",1220915700,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"102",16304,"Grand River Brewing",1216689533,2.5,2,4,"American Amber / Red Ale",3,2.5,"Plowman's Ale",4.7,38674
-"103",16304,"Grand River Brewing",1194044340,4,4,3.5,"American Amber / Red Ale",4,4.5,"Plowman's Ale",4.7,38674
-"104",16304,"Grand River Brewing",1254840928,4,3.5,4,"Vienna Lager",4,3.5,"Vienna Lager",4.2,53124
-"105",16304,"Grand River Brewing",1191427336,5,4,4.5,"American Amber / Red Ale",4,4.5,"Plowman's Ale",4.7,38674
-"106",16304,"Grand River Brewing",1191116704,3.5,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
-"107",16304,"Grand River Brewing",1190209753,3.5,3.5,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"108",16304,"Grand River Brewing",1189983306,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"109",16304,"Grand River Brewing",1189899897,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
-"110",16304,"Grand River Brewing",1189898258,4.5,3.5,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
-"111",16304,"Grand River Brewing",1248875757,4.5,4.5,4,"American Strong Ale",4,4.5,"Executioner's Ale",6,41798
-"112",16304,"Grand River Brewing",1240376700,4,4,4,"American Strong Ale",4,4.5,"Executioner's Ale",6,41798
-"113",16304,"Grand River Brewing",1206488380,4,4,4,"American Strong Ale",3.5,4,"Executioner's Ale",6,41798
-"114",16304,"Grand River Brewing",1254876137,3.5,4,3.5,"Vienna Lager",4,3.5,"Vienna Lager",4.2,53124
-"115",16304,"Grand River Brewing",1254774881,4,3.5,4,"Vienna Lager",3.5,3,"Vienna Lager",4.2,53124
-"116",16304,"Grand River Brewing",1254772376,3.5,3.5,3,"Vienna Lager",2.5,3.5,"Vienna Lager",4.2,53124
-"117",16304,"Grand River Brewing",1319344870,3.5,4,4,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
-"118",16304,"Grand River Brewing",1318106714,4,4,4,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
-"119",16304,"Grand River Brewing",1317666950,4,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"120",16304,"Grand River Brewing",1317422452,4,3.5,4,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
-"121",16304,"Grand River Brewing",1316901338,3.5,4.5,4,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"122",16304,"Grand River Brewing",1302203873,4,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"123",16304,"Grand River Brewing",1300568132,4,4,4,"Pumpkin Ale",4,4.5,"Highballer Pumpkin Ale",5.2,38855
-"124",16304,"Grand River Brewing",1292464370,4,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"125",16304,"Grand River Brewing",1288642177,4,4,3,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
-"126",16304,"Grand River Brewing",1288567097,3.5,4.5,4,"Pumpkin Ale",3.5,4.5,"Highballer Pumpkin Ale",5.2,38855
-"127",16304,"Grand River Brewing",1288541714,3.5,4,4,"Pumpkin Ale",3,3,"Highballer Pumpkin Ale",5.2,38855
-"128",16304,"Grand River Brewing",1288373822,3.5,4,4,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
-"129",16304,"Grand River Brewing",1287353406,4.5,4,3,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
-"130",16304,"Grand River Brewing",1286081308,3.5,3.5,3.5,"Pumpkin Ale",3.5,3,"Highballer Pumpkin Ale",5.2,38855
-"131",16304,"Grand River Brewing",1264636500,4.5,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"132",16304,"Grand River Brewing",1261095115,4.5,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"133",16304,"Grand River Brewing",1257719906,3.5,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"134",16304,"Grand River Brewing",1256735152,3.5,3.5,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"135",16304,"Grand River Brewing",1255973158,4,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"136",16304,"Grand River Brewing",1255891523,3.5,3.5,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"137",16304,"Grand River Brewing",1251856410,3.5,4.5,4,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
-"138",16304,"Grand River Brewing",1242268743,3,3.5,4,"Pumpkin Ale",4,3,"Highballer Pumpkin Ale",5.2,38855
-"139",16304,"Grand River Brewing",1233021268,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Highballer Pumpkin Ale",5.2,38855
-"140",16304,"Grand River Brewing",1228701759,4,4,3.5,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
-"141",16304,"Grand River Brewing",1227646398,4.5,4.5,4.5,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
-"142",16304,"Grand River Brewing",1223430237,4,4,4,"Pumpkin Ale",4.5,3.5,"Highballer Pumpkin Ale",5.2,38855
-"143",16304,"Grand River Brewing",1200166801,4,4,4,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
-"144",16304,"Grand River Brewing",1193010339,4,4,3.5,"Pumpkin Ale",3.5,4.5,"Highballer Pumpkin Ale",5.2,38855
-"145",16304,"Grand River Brewing",1193001497,2.5,4,4,"Pumpkin Ale",2.5,3,"Highballer Pumpkin Ale",5.2,38855
-"146",16304,"Grand River Brewing",1191378416,4,4,3,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
-"147",16304,"Grand River Brewing",1191270828,3.5,4,3.5,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
-"148",16304,"Grand River Brewing",1191094152,4,3.5,4,"Pumpkin Ale",3.5,3,"Highballer Pumpkin Ale",5.2,38855
-"149",16304,"Grand River Brewing",1284145384,3.5,3.5,4,"American IPA",3.5,3.5,"Plowman's Anniversary Ale",6.5,59618
-"150",16304,"Grand River Brewing",1282530851,4,4,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
-"151",16304,"Grand River Brewing",1282347964,4.5,4,4,"American IPA",4,4.5,"Plowman's Anniversary Ale",6.5,59618
-"152",16304,"Grand River Brewing",1281634907,3.5,3,4,"American IPA",3.5,3.5,"Plowman's Anniversary Ale",6.5,59618
-"153",16304,"Grand River Brewing",1281558243,4.5,4,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
-"154",16304,"Grand River Brewing",1242167733,2.5,4,4,"Flanders Oud Bruin",3.5,2.5,"Ploegers Vlaams Rood",7,41515
-"155",16304,"Grand River Brewing",1281405081,4,3.5,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
-"156",16304,"Grand River Brewing",1281305479,3.5,2.5,4,"American IPA",4,3.5,"Plowman's Anniversary Ale",6.5,59618
-"157",16304,"Grand River Brewing",1280198445,4,2.5,4,"American IPA",5,4.5,"Plowman's Anniversary Ale",6.5,59618
-"158",16304,"Grand River Brewing",1280012754,4,4,3.5,"American IPA",4,4.5,"Plowman's Anniversary Ale",6.5,59618
-"159",16304,"Grand River Brewing",1280012613,3.5,3.5,4,"American IPA",4,3.5,"Plowman's Anniversary Ale",6.5,59618
-"160",16304,"Grand River Brewing",1279427833,4.5,4,3.5,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
-"161",16304,"Grand River Brewing",1278961550,4,4,3.5,"American IPA",3.5,4,"Plowman's Anniversary Ale",6.5,59618
-"162",16304,"Grand River Brewing",1277690370,4.5,4.5,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
-"163",16304,"Grand River Brewing",1325266318,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"164",16304,"Grand River Brewing",1314053707,3.5,2.5,4,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"165",16304,"Grand River Brewing",1304552909,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"166",16304,"Grand River Brewing",1302281439,3.5,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"167",16304,"Grand River Brewing",1301070797,4,3.5,4.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"168",16304,"Grand River Brewing",1300073453,3.5,3,4,"American Pale Lager",3,3,"Galt Knife Old Style Lager",4.4,38673
-"169",16304,"Grand River Brewing",1295827953,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"170",16304,"Grand River Brewing",1294288928,3,3,4,"American Pale Lager",3,3.5,"Galt Knife Old Style Lager",4.4,38673
-"171",16304,"Grand River Brewing",1293055928,5,4.5,3,"American Pale Lager",3.5,4.5,"Galt Knife Old Style Lager",4.4,38673
-"172",16304,"Grand River Brewing",1287532019,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"173",16304,"Grand River Brewing",1303015984,3.5,3.5,4,"Old Ale",3.5,3.5,"Old Defiant Old Ale",8,68181
-"174",16304,"Grand River Brewing",1285896578,2,1.5,4.5,"American Pale Lager",2,1,"Galt Knife Old Style Lager",4.4,38673
-"175",16304,"Grand River Brewing",1285006233,3.5,3,4,"American Pale Lager",3.5,3,"Galt Knife Old Style Lager",4.4,38673
-"176",16304,"Grand River Brewing",1282609199,4,3,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"177",16304,"Grand River Brewing",1281577022,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"178",16304,"Grand River Brewing",1280356450,4,2.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"179",16304,"Grand River Brewing",1278543730,4.5,3,5,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"180",16304,"Grand River Brewing",1276884097,3.5,4.5,4,"American Pale Lager",4.5,3,"Galt Knife Old Style Lager",4.4,38673
-"181",16304,"Grand River Brewing",1274302727,4,3,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"182",16304,"Grand River Brewing",1273628238,4,3.5,3,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"183",16304,"Grand River Brewing",1270590305,4,4,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"184",16304,"Grand River Brewing",1258424394,4,3.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"185",16304,"Grand River Brewing",1258251265,4,4,4.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"186",16304,"Grand River Brewing",1257102423,4.5,3.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"187",16304,"Grand River Brewing",1256735040,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"188",16304,"Grand River Brewing",1256178062,3,3,4.5,"American Pale Lager",3,3,"Galt Knife Old Style Lager",4.4,38673
-"189",16304,"Grand River Brewing",1251285739,4,3,3.5,"American Pale Lager",3.5,4,"Galt Knife Old Style Lager",4.4,38673
-"190",16304,"Grand River Brewing",1249437413,3.5,3.5,3.5,"American Pale Lager",3,3.5,"Galt Knife Old Style Lager",4.4,38673
-"191",16304,"Grand River Brewing",1190425762,4,3.5,3.5,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
-"192",16304,"Grand River Brewing",1242196761,5,4.5,4.5,"American Pale Lager",4.5,4,"Galt Knife Old Style Lager",4.4,38673
-"193",16304,"Grand River Brewing",1241285847,3.5,3.5,3.5,"American Pale Lager",3.5,4,"Galt Knife Old Style Lager",4.4,38673
-"194",16304,"Grand River Brewing",1240247948,4,2.5,4,"American Pale Lager",2.5,2.5,"Galt Knife Old Style Lager",4.4,38673
-"195",16304,"Grand River Brewing",1238212270,4,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"196",16304,"Grand River Brewing",1225115660,4.5,3.5,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"197",16304,"Grand River Brewing",1222273457,2.5,3,4,"American Pale Lager",2,2.5,"Galt Knife Old Style Lager",4.4,38673
-"198",16304,"Grand River Brewing",1191427570,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
-"199",16304,"Grand River Brewing",1191116133,3,4,4,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"200",16304,"Grand River Brewing",1190210606,5,4,4,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
-"201",16304,"Grand River Brewing",1189983181,3.5,4,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
-"202",16304,"Grand River Brewing",1189899350,4,4.5,4,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
-"203",16304,"Grand River Brewing",1189898068,4,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
-"204",16304,"Grand River Brewing",1318469286,3.5,3.5,4,"Winter Warmer",4,3.5,"Jubilation Spiced Ale",6.5,39880
-"205",16304,"Grand River Brewing",1293678088,4.5,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
-"206",16304,"Grand River Brewing",1276041359,3.5,3.5,3,"Winter Warmer",3.5,3.5,"Jubilation Spiced Ale",6.5,39880
-"207",16304,"Grand River Brewing",1248875824,4.5,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
-"208",16304,"Grand River Brewing",1229437236,4,4,4.5,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
-"209",16304,"Grand River Brewing",1203484900,4,4.5,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
-"210",16304,"Grand River Brewing",1301361411,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
-"211",16304,"Grand River Brewing",1198290660,4,4.5,4,"Winter Warmer",4.5,4,"Jubilation Spiced Ale",6.5,39880
-"212",16304,"Grand River Brewing",1197178424,4,4,3,"Winter Warmer",3.5,3.5,"Jubilation Spiced Ale",6.5,39880
-"213",16304,"Grand River Brewing",1196802309,3.5,4.5,4,"Winter Warmer",3.5,4,"Jubilation Spiced Ale",6.5,39880
-"214",16304,"Grand River Brewing",1196656430,3.5,4.5,3,"Winter Warmer",3,4.5,"Jubilation Spiced Ale",6.5,39880
-"215",16304,"Grand River Brewing",1196552599,3.5,4.5,3.5,"Winter Warmer",3.5,4,"Jubilation Spiced Ale",6.5,39880
-"216",16304,"Grand River Brewing",1196533449,4,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
-"217",16304,"Grand River Brewing",1249167537,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Jubiliation Spiced Ale 2008",5.7,46805
-"218",16304,"Grand River Brewing",1231769920,4.5,4,4,"Herbed / Spiced Beer",4.5,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
-"219",16304,"Grand River Brewing",1231119425,4,4,4.5,"Herbed / Spiced Beer",4,4,"Jubiliation Spiced Ale 2008",5.7,46805
-"220",16304,"Grand River Brewing",1230858598,4,4,4,"Herbed / Spiced Beer",4,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
-"221",16304,"Grand River Brewing",1230518138,4,3.5,4,"Herbed / Spiced Beer",3.5,4,"Jubiliation Spiced Ale 2008",5.7,46805
-"222",16304,"Grand River Brewing",1230154365,3.5,4,3.5,"Herbed / Spiced Beer",3.5,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
-"223",16304,"Grand River Brewing",1304299443,2,2,4,"Doppelbock",3,2.5,"Jubilation Winter Warmer 2010",7,65256
-"224",16304,"Grand River Brewing",1301768220,4,4,3,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
-"225",16304,"Grand River Brewing",1300503132,3.5,3.5,3.5,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
-"226",16304,"Grand River Brewing",1299633407,4,3.5,4,"Doppelbock",3.5,3.5,"Jubilation Winter Warmer 2010",7,65256
-"227",16304,"Grand River Brewing",1296247819,4,3,4,"Doppelbock",3,3.5,"Jubilation Winter Warmer 2010",7,65256
-"228",16304,"Grand River Brewing",1294982932,4,4,4,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
-"229",16304,"Grand River Brewing",1312669049,4,3,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"230",16304,"Grand River Brewing",1309390941,3.5,4,4.5,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
-"231",16304,"Grand River Brewing",1306851250,3.5,4,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
-"232",16304,"Grand River Brewing",1304697681,4,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
-"233",16304,"Grand River Brewing",1304067080,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"234",16304,"Grand River Brewing",1303705918,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"235",16304,"Grand River Brewing",1303323538,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"236",16304,"Grand River Brewing",1302882509,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
-"237",16304,"Grand River Brewing",1301704181,4,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"238",16304,"Grand River Brewing",1301539685,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
-"239",16304,"Grand River Brewing",1301192765,5,5,5,"English India Pale Ale (IPA)",5,5,"Curmudgeon IPA",6.5,48090
-"240",16304,"Grand River Brewing",1300576329,4,3.5,4,"English India Pale Ale (IPA)",4.5,3.5,"Curmudgeon IPA",6.5,48090
-"241",16304,"Grand River Brewing",1299985219,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"242",16304,"Grand River Brewing",1299803782,4,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"243",16304,"Grand River Brewing",1299270495,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
-"244",16304,"Grand River Brewing",1298678970,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"245",16304,"Grand River Brewing",1297976881,4,4,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"246",16304,"Grand River Brewing",1297180353,4.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"247",16304,"Grand River Brewing",1276041722,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
-"248",16304,"Grand River Brewing",1273865722,3,3,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
-"249",16304,"Grand River Brewing",1266010684,4,3,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"250",16304,"Grand River Brewing",1264649327,3.5,3,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
-"251",16304,"Grand River Brewing",1261456853,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"252",16304,"Grand River Brewing",1256735113,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
-"253",16304,"Grand River Brewing",1246375248,4,3,3.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"254",16304,"Grand River Brewing",1246068252,4,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
-"255",16304,"Grand River Brewing",1245294401,4,3.5,4.5,"English India Pale Ale (IPA)",3,3,"Curmudgeon IPA",6.5,48090
-"256",16304,"Grand River Brewing",1242324135,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"257",16304,"Grand River Brewing",1242266395,3,3.5,5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
-"258",16304,"Grand River Brewing",1242111348,3,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
-"259",16304,"Grand River Brewing",1241297049,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
-"260",16304,"Grand River Brewing",1240955715,3.5,3,4,"English India Pale Ale (IPA)",4,3,"Curmudgeon IPA",6.5,48090
-"261",16304,"Grand River Brewing",1240519129,3.5,3,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"262",16304,"Grand River Brewing",1239585840,4,3,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"263",16304,"Grand River Brewing",1238865971,4,3,3.5,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
-"264",16304,"Grand River Brewing",1237755428,3.5,3,4,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
-"265",16304,"Grand River Brewing",1276217770,4,3,4,"German Pilsener",3,3,"Hannenberg Pils",4.5,42599
-"266",16304,"Grand River Brewing",1237601148,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"267",16304,"Grand River Brewing",1236646484,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"268",16304,"Grand River Brewing",1236301439,4,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
-"269",16304,"Grand River Brewing",1235860154,4,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
-"270",16304,"Grand River Brewing",1235859321,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
-"271",16304,"Grand River Brewing",1235270652,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
-"272",16304,"Grand River Brewing",1326049953,3.5,3.5,3,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"273",16304,"Grand River Brewing",1310946449,4,3.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"274",16304,"Grand River Brewing",1294372679,4,4,4,"German Pilsener",4.5,3.5,"Hannenberg Pils",4.5,42599
-"275",16304,"Grand River Brewing",1284772392,3.5,3,4,"German Pilsener",3.5,3.5,"Hannenberg Pils",4.5,42599
-"276",16304,"Grand River Brewing",1274718464,4,2.5,4,"German Pilsener",5,3.5,"Hannenberg Pils",4.5,42599
-"277",16304,"Grand River Brewing",1271896649,4,4,3.5,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
-"278",16304,"Grand River Brewing",1263166554,4.5,4,3.5,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
-"279",16304,"Grand River Brewing",1257720348,4.5,3.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"280",16304,"Grand River Brewing",1256735198,4,4,4,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
-"281",16304,"Grand River Brewing",1255654210,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Hannenberg Pils",4.5,42599
-"282",16304,"Grand River Brewing",1252371747,4,3.5,4,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"283",16304,"Grand River Brewing",1241127536,4,4,4,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
-"284",16304,"Grand River Brewing",1226207000,4,4,4,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"285",16304,"Grand River Brewing",1223852600,4.5,4.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"286",16304,"Grand River Brewing",1222135655,3.5,3,3,"German Pilsener",3,3.5,"Hannenberg Pils",4.5,42599
-"287",16304,"Grand River Brewing",1218825642,4.5,3.5,3,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
-"288",16304,"Grand River Brewing",1218044619,4.5,4,4,"German Pilsener",4,3.5,"Hannenberg Pils",4.5,42599
-"289",16304,"Grand River Brewing",1214362913,4.5,4,4,"German Pilsener",4.5,4,"Hannenberg Pils",4.5,42599
-"290",16304,"Grand River Brewing",1210628352,4,3.5,3.5,"German Pilsener",4,3.5,"Hannenberg Pils",4.5,42599
-"291",16304,"Grand River Brewing",1210550396,5,4.5,4,"German Pilsener",4.5,4.5,"Hannenberg Pils",4.5,42599
-"292",16304,"Grand River Brewing",1315932922,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
-"293",16304,"Grand River Brewing",1210530614,4.5,4,4,"German Pilsener",4.5,4.5,"Hannenberg Pils",4.5,42599
-"294",16304,"Grand River Brewing",1321658587,4,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
-"295",16304,"Grand River Brewing",1320109529,4,3.5,4,"American Pale Ale (APA)",3.5,4.5,"Pugnacious Pale Ale",4.5,72182
-"296",16304,"Grand River Brewing",1318471984,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
-"297",16304,"Grand River Brewing",1318457021,3,3,4,"American Pale Ale (APA)",3.5,3,"Pugnacious Pale Ale",4.5,72182
-"298",16304,"Grand River Brewing",1316821720,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"299",16304,"Grand River Brewing",1316476713,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"300",16304,"Grand River Brewing",1316300611,3.5,3.5,4,"American Pale Ale (APA)",2.5,3,"Pugnacious Pale Ale",4.5,72182
-"301",16304,"Grand River Brewing",1316298226,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Pugnacious Pale Ale",4.5,72182
-"302",16304,"Grand River Brewing",1316139612,3.5,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
-"303",16304,"Grand River Brewing",1315852024,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
-"304",16304,"Grand River Brewing",1315612611,3.5,3,3,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"305",16304,"Grand River Brewing",1315545332,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"306",16304,"Grand River Brewing",1315108770,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"307",16304,"Grand River Brewing",1315010926,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
-"308",16304,"Grand River Brewing",1314690152,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"309",16304,"Grand River Brewing",1314565195,3.5,3,3,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"310",16304,"Grand River Brewing",1314465267,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
-"311",16304,"Grand River Brewing",1314322196,2.5,2.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Pugnacious Pale Ale",4.5,72182
-"312",16304,"Grand River Brewing",1314226246,3,3,4,"American Pale Ale (APA)",3.5,3,"Pugnacious Pale Ale",4.5,72182
-"313",16304,"Grand River Brewing",1314149998,3,2.5,3,"American Pale Ale (APA)",3,3,"Pugnacious Pale Ale",4.5,72182
-"314",16304,"Grand River Brewing",1314041154,4,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
-"315",16304,"Grand River Brewing",1313978871,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
-"316",16304,"Grand River Brewing",1313791237,4,2.5,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
-"317",16304,"Grand River Brewing",1313719033,4,3.5,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
-"318",16304,"Grand River Brewing",1313611394,4,4,4.5,"American Pale Ale (APA)",3.5,4,"Pugnacious Pale Ale",4.5,72182
-"319",16304,"Grand River Brewing",1248122896,4,3.5,3.5,"American Pale Wheat Ale",4,3,"C'est Wheat",5.1,51083
-"320",16304,"Grand River Brewing",1315707671,3.5,3,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
-"321",16304,"Grand River Brewing",1314727763,4,3,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
-"322",16304,"Grand River Brewing",1305407584,3.5,3.5,3,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
-"323",16304,"Grand River Brewing",1301767850,4,4,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
-"324",16304,"Grand River Brewing",1301365778,3.5,3.5,3.5,"Kölsch",3.5,3.5,"1913 Traditional Kolsch",4.5,62110
-"325",16304,"Grand River Brewing",1295736277,4,3.5,3.5,"Kölsch",3.5,4,"1913 Traditional Kolsch",4.5,62110
-"326",16304,"Grand River Brewing",1295570755,4,3.5,3.5,"Kölsch",3.5,3.5,"1913 Traditional Kolsch",4.5,62110
-"327",16304,"Grand River Brewing",1294364439,3.5,3.5,3.5,"Kölsch",3.5,3,"1913 Traditional Kolsch",4.5,62110
-"328",16304,"Grand River Brewing",1291518330,3,3,3,"Kölsch",3,3,"1913 Traditional Kolsch",4.5,62110
-"329",16304,"Grand River Brewing",1285861542,3,3,3.5,"Kölsch",3.5,3,"1913 Traditional Kolsch",4.5,62110
-"330",16304,"Grand River Brewing",1285530467,2.5,3,3.5,"Kölsch",2.5,3,"1913 Traditional Kolsch",4.5,62110
-"331",16304,"Grand River Brewing",1270575403,4.5,3.5,3.5,"Maibock / Helles Bock",4.5,4,"Dog Stalker April Bock",6.5,56724
-"332",16304,"Grand River Brewing",1268274832,4.5,4,3.5,"Maibock / Helles Bock",4.5,4,"Dog Stalker April Bock",6.5,56724
-"333",16304,"Grand River Brewing",1304299831,3.5,3.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
-"334",16304,"Grand River Brewing",1282871340,4.5,4,4,"Flanders Oud Bruin",4,4.5,"Ploegers Vlaams Rood",7,41515
-"335",16304,"Grand River Brewing",1274834987,3.5,4,4,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
-"336",16304,"Grand River Brewing",1271722914,3,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
-"337",16304,"Grand River Brewing",1265607149,3,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
-"338",16304,"Grand River Brewing",1258480916,4.5,4,4,"Flanders Oud Bruin",4.5,4,"Ploegers Vlaams Rood",7,41515
-"339",16304,"Grand River Brewing",1247468355,4,3.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
-"340",16304,"Grand River Brewing",1242327954,3.5,4.5,4,"Flanders Oud Bruin",3.5,4,"Ploegers Vlaams Rood",7,41515
-"341",16304,"Grand River Brewing",1242167631,1,3.5,2.5,"Flanders Oud Bruin",2.5,1,"Ploegers Vlaams Rood",7,41515
-"342",16304,"Grand River Brewing",1238437470,4,4,4.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
-"343",16304,"Grand River Brewing",1238277724,4,4,4.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
-"344",16304,"Grand River Brewing",1236645579,3.5,2.5,3,"Flanders Oud Bruin",3.5,4,"Ploegers Vlaams Rood",7,41515
-"345",16304,"Grand River Brewing",1231535512,4,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
-"346",16304,"Grand River Brewing",1222311426,4.5,5,4.5,"Flanders Oud Bruin",4.5,4.5,"Ploegers Vlaams Rood",7,41515
-"347",16304,"Grand River Brewing",1221694906,4,4,5,"Flanders Oud Bruin",4.5,3.5,"Ploegers Vlaams Rood",7,41515
-"348",16304,"Grand River Brewing",1208742209,3,4.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
-"349",16304,"Grand River Brewing",1205618048,4.5,4,5,"Flanders Oud Bruin",5,4.5,"Ploegers Vlaams Rood",7,41515
-"350",16304,"Grand River Brewing",1205275933,4,4,3.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
-"351",16304,"Grand River Brewing",1303005181,3,3.5,3.5,"Old Ale",3,3,"Old Defiant Old Ale",8,68181
-"352",16304,"Grand River Brewing",1325131726,4,4.5,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"353",16304,"Grand River Brewing",1324092201,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"354",16304,"Grand River Brewing",1323565679,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"355",16304,"Grand River Brewing",1322441766,3.5,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"356",16304,"Grand River Brewing",1322313616,4,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"357",16304,"Grand River Brewing",1322167274,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"358",16304,"Grand River Brewing",1321228945,3.5,3.5,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"359",16304,"Grand River Brewing",1300828839,4,4.5,4.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"360",16304,"Grand River Brewing",1319329517,2,2.5,4,"Russian Imperial Stout",1,2,"Russian Gun Imperial Stout",8.5,48921
-"361",16304,"Grand River Brewing",1314026854,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"362",16304,"Grand River Brewing",1313650226,3,3,3,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
-"363",16304,"Grand River Brewing",1307123221,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"364",16304,"Grand River Brewing",1305242626,4,4,4.5,"Russian Imperial Stout",2.5,4,"Russian Gun Imperial Stout",8.5,48921
-"365",16304,"Grand River Brewing",1303531608,4,4,4.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"366",16304,"Grand River Brewing",1303503095,4,4,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"367",16304,"Grand River Brewing",1301105860,4,3.5,4,"Russian Imperial Stout",4.5,4,"Russian Gun Imperial Stout",8.5,48921
-"368",16304,"Grand River Brewing",1300567867,4,4.5,4,"Russian Imperial Stout",3,4.5,"Russian Gun Imperial Stout",8.5,48921
-"369",16304,"Grand River Brewing",1299107105,4,4,5,"Russian Imperial Stout",4.5,4.5,"Russian Gun Imperial Stout",8.5,48921
-"370",16304,"Grand River Brewing",1296694020,4,4,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"371",16304,"Grand River Brewing",1296183091,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"372",16304,"Grand River Brewing",1295307215,4.5,4,4.5,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
-"373",16304,"Grand River Brewing",1294816044,3,4,4,"Russian Imperial Stout",2,3.5,"Russian Gun Imperial Stout",8.5,48921
-"374",16304,"Grand River Brewing",1294281555,3,4,5,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
-"375",16304,"Grand River Brewing",1293081575,4,4.5,4,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
-"376",16304,"Grand River Brewing",1290309061,4.5,3.5,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"377",16304,"Grand River Brewing",1288205407,3.5,3,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"378",16304,"Grand River Brewing",1278894027,4,4,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"379",16304,"Grand River Brewing",1276481432,4,3.5,4,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
-"380",16304,"Grand River Brewing",1276111353,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"381",16304,"Grand River Brewing",1275185371,4,3.5,4,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
-"382",16304,"Grand River Brewing",1274927311,4,4,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"383",16304,"Grand River Brewing",1274229381,3,3.5,3,"Russian Imperial Stout",3,3.5,"Russian Gun Imperial Stout",8.5,48921
-"384",16304,"Grand River Brewing",1273507622,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"385",16304,"Grand River Brewing",1272856184,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"386",16304,"Grand River Brewing",1271822856,4,4,4,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"387",16304,"Grand River Brewing",1270692032,3.5,3,3,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"388",16304,"Grand River Brewing",1269568589,4.5,3,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"389",16304,"Grand River Brewing",1269133480,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"390",16304,"Grand River Brewing",1268864915,3.5,3,3.5,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
-"391",16304,"Grand River Brewing",1268714919,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"392",16304,"Grand River Brewing",1268698367,3.5,3.5,3.5,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
-"393",16304,"Grand River Brewing",1268463621,3,2.5,3,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
-"394",16304,"Grand River Brewing",1268355705,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"395",16304,"Grand River Brewing",1267979450,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Russian Gun Imperial Stout",8.5,48921
-"396",16304,"Grand River Brewing",1267589097,4,4,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"397",16304,"Grand River Brewing",1264651849,3.5,4,4,"Russian Imperial Stout",4.5,4,"Russian Gun Imperial Stout",8.5,48921
-"398",16304,"Grand River Brewing",1264455410,3.5,3,3.5,"Russian Imperial Stout",3,3.5,"Russian Gun Imperial Stout",8.5,48921
-"399",16304,"Grand River Brewing",1258861368,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"400",16304,"Grand River Brewing",1257205077,3,3.5,3.5,"Russian Imperial Stout",2.5,3,"Russian Gun Imperial Stout",8.5,48921
-"401",16304,"Grand River Brewing",1255555230,4.5,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"402",16304,"Grand River Brewing",1247359113,4,4.5,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"403",16304,"Grand River Brewing",1254357713,3.5,3,4,"Russian Imperial Stout",2,3,"Russian Gun Imperial Stout",8.5,48921
-"404",16304,"Grand River Brewing",1253891172,4,4,3,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"405",16304,"Grand River Brewing",1252714031,3,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"406",16304,"Grand River Brewing",1249391085,3.5,3,4,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
-"407",16304,"Grand River Brewing",1249301729,3,3.5,3.5,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
-"408",16304,"Grand River Brewing",1248908051,3.5,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"409",16304,"Grand River Brewing",1248875606,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
-"410",16304,"Grand River Brewing",1310252240,4,4,4,"Fruit / Vegetable Beer",4,4.5,"Blackberry Wheat Ale",4.5,70126
-"411",16304,"Grand River Brewing",1247168453,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"412",16304,"Grand River Brewing",1245726199,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"413",16304,"Grand River Brewing",1245380053,4,3.5,3.5,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
-"414",16304,"Grand River Brewing",1244053852,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"415",16304,"Grand River Brewing",1243793108,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"416",16304,"Grand River Brewing",1242283423,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"417",16304,"Grand River Brewing",1242181555,4,3.5,4,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"418",16304,"Grand River Brewing",1242171391,3.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"419",16304,"Grand River Brewing",1242170665,3,1,4.5,"Russian Imperial Stout",2,2.5,"Russian Gun Imperial Stout",8.5,48921
-"420",16304,"Grand River Brewing",1240376429,3.5,4,3.5,"Russian Imperial Stout",4,4.5,"Russian Gun Imperial Stout",8.5,48921
-"421",16304,"Grand River Brewing",1238907007,3.5,4,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
-"422",16304,"Grand River Brewing",1238869785,4,3.5,3,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
-"423",16304,"Grand River Brewing",1238864887,4,3.5,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
-"424",16304,"Grand River Brewing",1303016464,2.5,3,3,"American Double / Imperial Pilsner",3,2,"Chikara Imperial Pilsner",11,68182
-"425",16304,"Grand River Brewing",1303005292,2.5,2.5,3,"American Double / Imperial Pilsner",3,2.5,"Chikara Imperial Pilsner",11,68182
-"426",16304,"Grand River Brewing",1322717212,4,4,4,"Winter Warmer",3.5,4,"Jubilation Winter Warmer 2011",7,75879
-"427",16304,"Grand River Brewing",1285595792,4,4,4.5,"Flanders Oud Bruin",3.5,4.5,"Oak Aged Ploegers Vlaams Rood",NA,62143
-"428",16304,"Grand River Brewing",1314575499,4,4,4,"Fruit / Vegetable Beer",4,4,"Blackberry Wheat Ale",4.5,70126
-"429",16304,"Grand River Brewing",1312668282,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Blackberry Wheat Ale",4.5,70126
-"430",16304,"Grand River Brewing",1311392952,4,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Blackberry Wheat Ale",4.5,70126
-"431",16304,"Grand River Brewing",1309466090,3.5,3.5,4,"Fruit / Vegetable Beer",4,4,"Blackberry Wheat Ale",4.5,70126
-"432",16304,"Grand River Brewing",1308365850,4,3.5,4,"Fruit / Vegetable Beer",4.5,3.5,"Blackberry Wheat Ale",4.5,70126
-"433",16304,"Grand River Brewing",1271990092,4,3.5,3,"Fruit / Vegetable Beer",3,4,"Bumbleberry Wheat Ale",4.2,44959
-"434",16304,"Grand River Brewing",1258327397,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Bumbleberry Wheat Ale",4.2,44959
-"435",16304,"Grand River Brewing",1256734990,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Bumbleberry Wheat Ale",4.2,44959
-"436",16304,"Grand River Brewing",1255476062,4,3,3.5,"Fruit / Vegetable Beer",3.5,4,"Bumbleberry Wheat Ale",4.2,44959
-"437",16304,"Grand River Brewing",1251947833,2,3,3.5,"Fruit / Vegetable Beer",2.5,2.5,"Bumbleberry Wheat Ale",4.2,44959
-"438",16304,"Grand River Brewing",1251670506,3,3.5,3,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
-"439",16304,"Grand River Brewing",1249675382,3,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Bumbleberry Wheat Ale",4.2,44959
-"440",16304,"Grand River Brewing",1248183795,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
-"441",16304,"Grand River Brewing",1224527818,3,2.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Bumbleberry Wheat Ale",4.2,44959
-"442",16304,"Grand River Brewing",1224089805,4,4,3.5,"Fruit / Vegetable Beer",4,3,"Bumbleberry Wheat Ale",4.2,44959
-"443",16304,"Grand River Brewing",1222732749,4.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
-"444",16304,"Grand River Brewing",1222037347,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
+"1",16304,"Grand River Brewing",1301116455,2,3,3.5,"English India Pale Ale (IPA)",3,3,"Curmudgeon IPA",6.5,48090
+"2",16304,"Grand River Brewing",1238107257,4,3.5,3,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
+"3",16304,"Grand River Brewing",1285880448,3.5,4,3,"Fruit / Vegetable Beer",4,3.5,"Raspberry Pils",4.5,58759
+"4",16304,"Grand River Brewing",1283303053,4,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Raspberry Pils",4.5,58759
+"5",16304,"Grand River Brewing",1282594027,3,3.5,4,"Fruit / Vegetable Beer",3.5,3,"Raspberry Pils",4.5,58759
+"6",16304,"Grand River Brewing",1279131048,3.5,4,3.5,"Fruit / Vegetable Beer",2.5,3,"Raspberry Pils",4.5,58759
+"7",16304,"Grand River Brewing",1278818070,4.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Raspberry Pils",4.5,58759
+"8",16304,"Grand River Brewing",1277689260,4,4,4,"Fruit / Vegetable Beer",4,4,"Raspberry Pils",4.5,58759
+"9",16304,"Grand River Brewing",1277684082,4,3,3,"Fruit / Vegetable Beer",3,3.5,"Raspberry Pils",4.5,58759
+"10",16304,"Grand River Brewing",1277439832,1.5,3,3.5,"Fruit / Vegetable Beer",2,2,"Raspberry Pils",4.5,58759
+"11",16304,"Grand River Brewing",1275233778,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Pils",4.5,58759
+"12",16304,"Grand River Brewing",1324601307,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"13",16304,"Grand River Brewing",1322173956,3,3,3,"English Dark Mild Ale",3,3.5,"Mill Race Mild",3.5,38676
+"14",16304,"Grand River Brewing",1316470550,3.5,3.5,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"15",16304,"Grand River Brewing",1315960633,4,3.5,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"16",16304,"Grand River Brewing",1313371563,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"17",16304,"Grand River Brewing",1306854407,4,3.5,3.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
+"18",16304,"Grand River Brewing",1306853953,3.5,3.5,3.5,"English Dark Mild Ale",3,3.5,"Mill Race Mild",3.5,38676
+"19",16304,"Grand River Brewing",1304299671,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
+"20",16304,"Grand River Brewing",1256093004,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"21",16304,"Grand River Brewing",1304201943,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"22",16304,"Grand River Brewing",1294973664,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"23",16304,"Grand River Brewing",1289175349,5,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"24",16304,"Grand River Brewing",1282531068,5,4,4.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"25",16304,"Grand River Brewing",1280194621,4,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"26",16304,"Grand River Brewing",1279477069,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
+"27",16304,"Grand River Brewing",1274325420,4,3.5,4.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"28",16304,"Grand River Brewing",1272840884,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"29",16304,"Grand River Brewing",1258497100,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"30",16304,"Grand River Brewing",1252003657,4.5,3.5,4.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
+"31",16304,"Grand River Brewing",1249590283,5,3.5,4,"English Dark Mild Ale",4.5,4,"Mill Race Mild",3.5,38676
+"32",16304,"Grand River Brewing",1249004620,4.5,3.5,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"33",16304,"Grand River Brewing",1248875922,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"34",16304,"Grand River Brewing",1242324525,4.5,4,4,"English Dark Mild Ale",3.5,4,"Mill Race Mild",3.5,38676
+"35",16304,"Grand River Brewing",1241115959,5,4,4.5,"English Dark Mild Ale",4,3.5,"Mill Race Mild",3.5,38676
+"36",16304,"Grand River Brewing",1228010863,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"37",16304,"Grand River Brewing",1227504010,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"38",16304,"Grand River Brewing",1190208915,4.5,4,4,"American Amber / Red Lager",4.5,4.5,"Town Hall Lager",3.9,38723
+"39",16304,"Grand River Brewing",1227202092,4.5,3.5,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"40",16304,"Grand River Brewing",1222135280,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
+"41",16304,"Grand River Brewing",1221346577,4.5,4,3.5,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"42",16304,"Grand River Brewing",1209860015,4.5,4,4,"English Dark Mild Ale",4,4.5,"Mill Race Mild",3.5,38676
+"43",16304,"Grand River Brewing",1195315032,5,5,3,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"44",16304,"Grand River Brewing",1194674812,4.5,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"45",16304,"Grand River Brewing",1193001267,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Mill Race Mild",3.5,38676
+"46",16304,"Grand River Brewing",1191427761,4.5,4,4,"English Dark Mild Ale",4,4.5,"Mill Race Mild",3.5,38676
+"47",16304,"Grand River Brewing",1191116484,3,3.5,3.5,"English Dark Mild Ale",3,3,"Mill Race Mild",3.5,38676
+"48",16304,"Grand River Brewing",1190208479,4.5,4,4,"English Dark Mild Ale",4.5,4.5,"Mill Race Mild",3.5,38676
+"49",16304,"Grand River Brewing",1189899113,4,4,4,"English Dark Mild Ale",4,4,"Mill Race Mild",3.5,38676
+"50",16304,"Grand River Brewing",1269105536,4.5,3,3.5,"American Amber / Red Lager",3.5,3.5,"Town Hall Lager",3.9,38723
+"51",16304,"Grand River Brewing",1258599995,4.5,3,4,"American Amber / Red Lager",4,4.5,"Town Hall Lager",3.9,38723
+"52",16304,"Grand River Brewing",1256735255,3.5,4,3.5,"American Amber / Red Lager",3.5,3.5,"Town Hall Lager",3.9,38723
+"53",16304,"Grand River Brewing",1254865633,4,4,3,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"54",16304,"Grand River Brewing",1252649669,4,3,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"55",16304,"Grand River Brewing",1251769707,2.5,3,3.5,"American Amber / Red Lager",3,2.5,"Town Hall Lager",3.9,38723
+"56",16304,"Grand River Brewing",1249005044,3.5,4,3.5,"American Amber / Red Lager",3.5,4,"Town Hall Lager",3.9,38723
+"57",16304,"Grand River Brewing",1245351577,4,3.5,4,"American Amber / Red Lager",4,3,"Town Hall Lager",3.9,38723
+"58",16304,"Grand River Brewing",1191116914,3.5,4,4,"American Amber / Red Lager",3.5,4,"Town Hall Lager",3.9,38723
+"59",16304,"Grand River Brewing",1241198879,4,3.5,3.5,"American Amber / Red Lager",3,3.5,"Town Hall Lager",3.9,38723
+"60",16304,"Grand River Brewing",1238437109,4.5,3.5,4,"American Amber / Red Lager",4.5,3.5,"Town Hall Lager",3.9,38723
+"61",16304,"Grand River Brewing",1238275469,4,3.5,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"62",16304,"Grand River Brewing",1224871509,3.5,3.5,3.5,"American Amber / Red Lager",3,3.5,"Town Hall Lager",3.9,38723
+"63",16304,"Grand River Brewing",1224250658,5,4,3.5,"American Amber / Red Lager",4.5,4.5,"Town Hall Lager",3.9,38723
+"64",16304,"Grand River Brewing",1222273676,4.5,4,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"65",16304,"Grand River Brewing",1206488052,3.5,3.5,4,"American Amber / Red Lager",4,3.5,"Town Hall Lager",3.9,38723
+"66",16304,"Grand River Brewing",1195930152,4.5,4,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"67",16304,"Grand River Brewing",1191877328,4.5,4.5,4,"American Amber / Red Lager",4,4,"Town Hall Lager",3.9,38723
+"68",16304,"Grand River Brewing",1321335590,4.5,4,4.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"69",16304,"Grand River Brewing",1319464882,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"70",16304,"Grand River Brewing",1319325251,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"71",16304,"Grand River Brewing",1318622582,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"72",16304,"Grand River Brewing",1317581468,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"73",16304,"Grand River Brewing",1313712565,4,4,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"74",16304,"Grand River Brewing",1311727438,4,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"75",16304,"Grand River Brewing",1309388922,3,3.5,4,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
+"76",16304,"Grand River Brewing",1308962836,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Plowman's Ale",4.7,38674
+"77",16304,"Grand River Brewing",1304786281,4,4,3.5,"American Amber / Red Ale",3.5,3.5,"Plowman's Ale",4.7,38674
+"78",16304,"Grand River Brewing",1304604353,4,4,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"79",16304,"Grand River Brewing",1304387847,3.5,4,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"80",16304,"Grand River Brewing",1303920772,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"81",16304,"Grand River Brewing",1298151087,4,3,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"82",16304,"Grand River Brewing",1295459063,5,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"83",16304,"Grand River Brewing",1292189063,3,3,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"84",16304,"Grand River Brewing",1268596086,4.5,4,3.5,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"85",16304,"Grand River Brewing",1264466731,4,3.5,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"86",16304,"Grand River Brewing",1258424848,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"87",16304,"Grand River Brewing",1257713118,3,3,3,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
+"88",16304,"Grand River Brewing",1255466060,4,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"89",16304,"Grand River Brewing",1249167448,4,4,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"90",16304,"Grand River Brewing",1244998711,4.5,3,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"91",16304,"Grand River Brewing",1242199220,3,4,4.5,"American Amber / Red Ale",3,3.5,"Plowman's Ale",4.7,38674
+"92",16304,"Grand River Brewing",1242088074,4,3.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"93",16304,"Grand River Brewing",1240249006,4.5,3,3.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"94",16304,"Grand River Brewing",1238901334,4,4,4,"American Amber / Red Ale",3,3,"Plowman's Ale",4.7,38674
+"95",16304,"Grand River Brewing",1238270950,4.5,4.5,4.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"96",16304,"Grand River Brewing",1228098156,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"97",16304,"Grand River Brewing",1226178913,4.5,4.5,4,"American Amber / Red Ale",4,5,"Plowman's Ale",4.7,38674
+"98",16304,"Grand River Brewing",1222541697,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Plowman's Ale",4.7,38674
+"99",16304,"Grand River Brewing",1220915700,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"100",16304,"Grand River Brewing",1216689533,2.5,2,4,"American Amber / Red Ale",3,2.5,"Plowman's Ale",4.7,38674
+"101",16304,"Grand River Brewing",1194044340,4,4,3.5,"American Amber / Red Ale",4,4.5,"Plowman's Ale",4.7,38674
+"102",16304,"Grand River Brewing",1254840928,4,3.5,4,"Vienna Lager",4,3.5,"Vienna Lager",4.2,53124
+"103",16304,"Grand River Brewing",1191427336,5,4,4.5,"American Amber / Red Ale",4,4.5,"Plowman's Ale",4.7,38674
+"104",16304,"Grand River Brewing",1191116704,3.5,4,4,"American Amber / Red Ale",3.5,4,"Plowman's Ale",4.7,38674
+"105",16304,"Grand River Brewing",1190209753,3.5,3.5,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"106",16304,"Grand River Brewing",1189983306,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"107",16304,"Grand River Brewing",1189899897,4,4,4,"American Amber / Red Ale",4,3.5,"Plowman's Ale",4.7,38674
+"108",16304,"Grand River Brewing",1189898258,4.5,3.5,4,"American Amber / Red Ale",4,4,"Plowman's Ale",4.7,38674
+"109",16304,"Grand River Brewing",1254876137,3.5,4,3.5,"Vienna Lager",4,3.5,"Vienna Lager",4.2,53124
+"110",16304,"Grand River Brewing",1254774881,4,3.5,4,"Vienna Lager",3.5,3,"Vienna Lager",4.2,53124
+"111",16304,"Grand River Brewing",1254772376,3.5,3.5,3,"Vienna Lager",2.5,3.5,"Vienna Lager",4.2,53124
+"112",16304,"Grand River Brewing",1319344870,3.5,4,4,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
+"113",16304,"Grand River Brewing",1318106714,4,4,4,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
+"114",16304,"Grand River Brewing",1317666950,4,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"115",16304,"Grand River Brewing",1317422452,4,3.5,4,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
+"116",16304,"Grand River Brewing",1316901338,3.5,4.5,4,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"117",16304,"Grand River Brewing",1302203873,4,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"118",16304,"Grand River Brewing",1300568132,4,4,4,"Pumpkin Ale",4,4.5,"Highballer Pumpkin Ale",5.2,38855
+"119",16304,"Grand River Brewing",1292464370,4,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"120",16304,"Grand River Brewing",1288642177,4,4,3,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
+"121",16304,"Grand River Brewing",1288567097,3.5,4.5,4,"Pumpkin Ale",3.5,4.5,"Highballer Pumpkin Ale",5.2,38855
+"122",16304,"Grand River Brewing",1288541714,3.5,4,4,"Pumpkin Ale",3,3,"Highballer Pumpkin Ale",5.2,38855
+"123",16304,"Grand River Brewing",1288373822,3.5,4,4,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
+"124",16304,"Grand River Brewing",1287353406,4.5,4,3,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
+"125",16304,"Grand River Brewing",1286081308,3.5,3.5,3.5,"Pumpkin Ale",3.5,3,"Highballer Pumpkin Ale",5.2,38855
+"126",16304,"Grand River Brewing",1264636500,4.5,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"127",16304,"Grand River Brewing",1261095115,4.5,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"128",16304,"Grand River Brewing",1257719906,3.5,4,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"129",16304,"Grand River Brewing",1256735152,3.5,3.5,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"130",16304,"Grand River Brewing",1255973158,4,4,3.5,"Pumpkin Ale",3.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"131",16304,"Grand River Brewing",1255891523,3.5,3.5,3.5,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"132",16304,"Grand River Brewing",1251856410,3.5,4.5,4,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
+"133",16304,"Grand River Brewing",1242268743,3,3.5,4,"Pumpkin Ale",4,3,"Highballer Pumpkin Ale",5.2,38855
+"134",16304,"Grand River Brewing",1233021268,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Highballer Pumpkin Ale",5.2,38855
+"135",16304,"Grand River Brewing",1228701759,4,4,3.5,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
+"136",16304,"Grand River Brewing",1227646398,4.5,4.5,4.5,"Pumpkin Ale",4,4,"Highballer Pumpkin Ale",5.2,38855
+"137",16304,"Grand River Brewing",1223430237,4,4,4,"Pumpkin Ale",4.5,3.5,"Highballer Pumpkin Ale",5.2,38855
+"138",16304,"Grand River Brewing",1200166801,4,4,4,"Pumpkin Ale",3.5,4,"Highballer Pumpkin Ale",5.2,38855
+"139",16304,"Grand River Brewing",1193010339,4,4,3.5,"Pumpkin Ale",3.5,4.5,"Highballer Pumpkin Ale",5.2,38855
+"140",16304,"Grand River Brewing",1193001497,2.5,4,4,"Pumpkin Ale",2.5,3,"Highballer Pumpkin Ale",5.2,38855
+"141",16304,"Grand River Brewing",1191378416,4,4,3,"Pumpkin Ale",4,3.5,"Highballer Pumpkin Ale",5.2,38855
+"142",16304,"Grand River Brewing",1191270828,3.5,4,3.5,"Pumpkin Ale",3,4,"Highballer Pumpkin Ale",5.2,38855
+"143",16304,"Grand River Brewing",1191094152,4,3.5,4,"Pumpkin Ale",3.5,3,"Highballer Pumpkin Ale",5.2,38855
+"144",16304,"Grand River Brewing",1284145384,3.5,3.5,4,"American IPA",3.5,3.5,"Plowman's Anniversary Ale",6.5,59618
+"145",16304,"Grand River Brewing",1282530851,4,4,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
+"146",16304,"Grand River Brewing",1282347964,4.5,4,4,"American IPA",4,4.5,"Plowman's Anniversary Ale",6.5,59618
+"147",16304,"Grand River Brewing",1281634907,3.5,3,4,"American IPA",3.5,3.5,"Plowman's Anniversary Ale",6.5,59618
+"148",16304,"Grand River Brewing",1281558243,4.5,4,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
+"149",16304,"Grand River Brewing",1242167733,2.5,4,4,"Flanders Oud Bruin",3.5,2.5,"Ploegers Vlaams Rood",7,41515
+"150",16304,"Grand River Brewing",1281405081,4,3.5,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
+"151",16304,"Grand River Brewing",1281305479,3.5,2.5,4,"American IPA",4,3.5,"Plowman's Anniversary Ale",6.5,59618
+"152",16304,"Grand River Brewing",1280198445,4,2.5,4,"American IPA",5,4.5,"Plowman's Anniversary Ale",6.5,59618
+"153",16304,"Grand River Brewing",1280012754,4,4,3.5,"American IPA",4,4.5,"Plowman's Anniversary Ale",6.5,59618
+"154",16304,"Grand River Brewing",1280012613,3.5,3.5,4,"American IPA",4,3.5,"Plowman's Anniversary Ale",6.5,59618
+"155",16304,"Grand River Brewing",1279427833,4.5,4,3.5,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
+"156",16304,"Grand River Brewing",1278961550,4,4,3.5,"American IPA",3.5,4,"Plowman's Anniversary Ale",6.5,59618
+"157",16304,"Grand River Brewing",1277690370,4.5,4.5,4,"American IPA",4,4,"Plowman's Anniversary Ale",6.5,59618
+"158",16304,"Grand River Brewing",1325266318,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"159",16304,"Grand River Brewing",1314053707,3.5,2.5,4,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"160",16304,"Grand River Brewing",1304552909,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"161",16304,"Grand River Brewing",1302281439,3.5,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"162",16304,"Grand River Brewing",1301070797,4,3.5,4.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"163",16304,"Grand River Brewing",1300073453,3.5,3,4,"American Pale Lager",3,3,"Galt Knife Old Style Lager",4.4,38673
+"164",16304,"Grand River Brewing",1295827953,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"165",16304,"Grand River Brewing",1294288928,3,3,4,"American Pale Lager",3,3.5,"Galt Knife Old Style Lager",4.4,38673
+"166",16304,"Grand River Brewing",1293055928,5,4.5,3,"American Pale Lager",3.5,4.5,"Galt Knife Old Style Lager",4.4,38673
+"167",16304,"Grand River Brewing",1287532019,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"168",16304,"Grand River Brewing",1285896578,2,1.5,4.5,"American Pale Lager",2,1,"Galt Knife Old Style Lager",4.4,38673
+"169",16304,"Grand River Brewing",1285006233,3.5,3,4,"American Pale Lager",3.5,3,"Galt Knife Old Style Lager",4.4,38673
+"170",16304,"Grand River Brewing",1282609199,4,3,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"171",16304,"Grand River Brewing",1281577022,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"172",16304,"Grand River Brewing",1280356450,4,2.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"173",16304,"Grand River Brewing",1278543730,4.5,3,5,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"174",16304,"Grand River Brewing",1276884097,3.5,4.5,4,"American Pale Lager",4.5,3,"Galt Knife Old Style Lager",4.4,38673
+"175",16304,"Grand River Brewing",1274302727,4,3,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"176",16304,"Grand River Brewing",1273628238,4,3.5,3,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"177",16304,"Grand River Brewing",1270590305,4,4,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"178",16304,"Grand River Brewing",1258424394,4,3.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"179",16304,"Grand River Brewing",1258251265,4,4,4.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"180",16304,"Grand River Brewing",1257102423,4.5,3.5,4,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"181",16304,"Grand River Brewing",1256735040,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"182",16304,"Grand River Brewing",1256178062,3,3,4.5,"American Pale Lager",3,3,"Galt Knife Old Style Lager",4.4,38673
+"183",16304,"Grand River Brewing",1251285739,4,3,3.5,"American Pale Lager",3.5,4,"Galt Knife Old Style Lager",4.4,38673
+"184",16304,"Grand River Brewing",1249437413,3.5,3.5,3.5,"American Pale Lager",3,3.5,"Galt Knife Old Style Lager",4.4,38673
+"185",16304,"Grand River Brewing",1190425762,4,3.5,3.5,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
+"186",16304,"Grand River Brewing",1242196761,5,4.5,4.5,"American Pale Lager",4.5,4,"Galt Knife Old Style Lager",4.4,38673
+"187",16304,"Grand River Brewing",1241285847,3.5,3.5,3.5,"American Pale Lager",3.5,4,"Galt Knife Old Style Lager",4.4,38673
+"188",16304,"Grand River Brewing",1240247948,4,2.5,4,"American Pale Lager",2.5,2.5,"Galt Knife Old Style Lager",4.4,38673
+"189",16304,"Grand River Brewing",1238212270,4,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"190",16304,"Grand River Brewing",1225115660,4.5,3.5,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"191",16304,"Grand River Brewing",1222273457,2.5,3,4,"American Pale Lager",2,2.5,"Galt Knife Old Style Lager",4.4,38673
+"192",16304,"Grand River Brewing",1191427570,4,4,4,"American Pale Lager",4,3.5,"Galt Knife Old Style Lager",4.4,38673
+"193",16304,"Grand River Brewing",1191116133,3,4,4,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"194",16304,"Grand River Brewing",1190210606,5,4,4,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
+"195",16304,"Grand River Brewing",1189983181,3.5,4,3.5,"American Pale Lager",3.5,3.5,"Galt Knife Old Style Lager",4.4,38673
+"196",16304,"Grand River Brewing",1189899350,4,4.5,4,"American Pale Lager",4,4.5,"Galt Knife Old Style Lager",4.4,38673
+"197",16304,"Grand River Brewing",1189898068,4,3.5,3.5,"American Pale Lager",4,4,"Galt Knife Old Style Lager",4.4,38673
+"198",16304,"Grand River Brewing",1318469286,3.5,3.5,4,"Winter Warmer",4,3.5,"Jubilation Spiced Ale",6.5,39880
+"199",16304,"Grand River Brewing",1293678088,4.5,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
+"200",16304,"Grand River Brewing",1276041359,3.5,3.5,3,"Winter Warmer",3.5,3.5,"Jubilation Spiced Ale",6.5,39880
+"201",16304,"Grand River Brewing",1248875824,4.5,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
+"202",16304,"Grand River Brewing",1229437236,4,4,4.5,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
+"203",16304,"Grand River Brewing",1203484900,4,4.5,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
+"204",16304,"Grand River Brewing",1301361411,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
+"205",16304,"Grand River Brewing",1198290660,4,4.5,4,"Winter Warmer",4.5,4,"Jubilation Spiced Ale",6.5,39880
+"206",16304,"Grand River Brewing",1197178424,4,4,3,"Winter Warmer",3.5,3.5,"Jubilation Spiced Ale",6.5,39880
+"207",16304,"Grand River Brewing",1196802309,3.5,4.5,4,"Winter Warmer",3.5,4,"Jubilation Spiced Ale",6.5,39880
+"208",16304,"Grand River Brewing",1196656430,3.5,4.5,3,"Winter Warmer",3,4.5,"Jubilation Spiced Ale",6.5,39880
+"209",16304,"Grand River Brewing",1196552599,3.5,4.5,3.5,"Winter Warmer",3.5,4,"Jubilation Spiced Ale",6.5,39880
+"210",16304,"Grand River Brewing",1196533449,4,4,4,"Winter Warmer",4,4,"Jubilation Spiced Ale",6.5,39880
+"211",16304,"Grand River Brewing",1249167537,3.5,3.5,3.5,"Herbed / Spiced Beer",4,4,"Jubiliation Spiced Ale 2008",5.7,46805
+"212",16304,"Grand River Brewing",1231769920,4.5,4,4,"Herbed / Spiced Beer",4.5,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
+"213",16304,"Grand River Brewing",1231119425,4,4,4.5,"Herbed / Spiced Beer",4,4,"Jubiliation Spiced Ale 2008",5.7,46805
+"214",16304,"Grand River Brewing",1230858598,4,4,4,"Herbed / Spiced Beer",4,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
+"215",16304,"Grand River Brewing",1230518138,4,3.5,4,"Herbed / Spiced Beer",3.5,4,"Jubiliation Spiced Ale 2008",5.7,46805
+"216",16304,"Grand River Brewing",1230154365,3.5,4,3.5,"Herbed / Spiced Beer",3.5,3.5,"Jubiliation Spiced Ale 2008",5.7,46805
+"217",16304,"Grand River Brewing",1304299443,2,2,4,"Doppelbock",3,2.5,"Jubilation Winter Warmer 2010",7,65256
+"218",16304,"Grand River Brewing",1301768220,4,4,3,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
+"219",16304,"Grand River Brewing",1300503132,3.5,3.5,3.5,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
+"220",16304,"Grand River Brewing",1299633407,4,3.5,4,"Doppelbock",3.5,3.5,"Jubilation Winter Warmer 2010",7,65256
+"221",16304,"Grand River Brewing",1296247819,4,3,4,"Doppelbock",3,3.5,"Jubilation Winter Warmer 2010",7,65256
+"222",16304,"Grand River Brewing",1294982932,4,4,4,"Doppelbock",4,4,"Jubilation Winter Warmer 2010",7,65256
+"223",16304,"Grand River Brewing",1312669049,4,3,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"224",16304,"Grand River Brewing",1309390941,3.5,4,4.5,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
+"225",16304,"Grand River Brewing",1306851250,3.5,4,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
+"226",16304,"Grand River Brewing",1304697681,4,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
+"227",16304,"Grand River Brewing",1304067080,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"228",16304,"Grand River Brewing",1303705918,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"229",16304,"Grand River Brewing",1303323538,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"230",16304,"Grand River Brewing",1302882509,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
+"231",16304,"Grand River Brewing",1301704181,4,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"232",16304,"Grand River Brewing",1301539685,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
+"233",16304,"Grand River Brewing",1301192765,5,5,5,"English India Pale Ale (IPA)",5,5,"Curmudgeon IPA",6.5,48090
+"234",16304,"Grand River Brewing",1300576329,4,3.5,4,"English India Pale Ale (IPA)",4.5,3.5,"Curmudgeon IPA",6.5,48090
+"235",16304,"Grand River Brewing",1299985219,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"236",16304,"Grand River Brewing",1299803782,4,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"237",16304,"Grand River Brewing",1299270495,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
+"238",16304,"Grand River Brewing",1298678970,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"239",16304,"Grand River Brewing",1297976881,4,4,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"240",16304,"Grand River Brewing",1297180353,4.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"241",16304,"Grand River Brewing",1276041722,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
+"242",16304,"Grand River Brewing",1273865722,3,3,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
+"243",16304,"Grand River Brewing",1266010684,4,3,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"244",16304,"Grand River Brewing",1264649327,3.5,3,4,"English India Pale Ale (IPA)",3.5,3,"Curmudgeon IPA",6.5,48090
+"245",16304,"Grand River Brewing",1261456853,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"246",16304,"Grand River Brewing",1256735113,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Curmudgeon IPA",6.5,48090
+"247",16304,"Grand River Brewing",1246375248,4,3,3.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"248",16304,"Grand River Brewing",1246068252,4,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Curmudgeon IPA",6.5,48090
+"249",16304,"Grand River Brewing",1245294401,4,3.5,4.5,"English India Pale Ale (IPA)",3,3,"Curmudgeon IPA",6.5,48090
+"250",16304,"Grand River Brewing",1242324135,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"251",16304,"Grand River Brewing",1242266395,3,3.5,5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
+"252",16304,"Grand River Brewing",1242111348,3,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
+"253",16304,"Grand River Brewing",1241297049,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
+"254",16304,"Grand River Brewing",1240955715,3.5,3,4,"English India Pale Ale (IPA)",4,3,"Curmudgeon IPA",6.5,48090
+"255",16304,"Grand River Brewing",1240519129,3.5,3,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"256",16304,"Grand River Brewing",1239585840,4,3,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"257",16304,"Grand River Brewing",1238865971,4,3,3.5,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
+"258",16304,"Grand River Brewing",1237755428,3.5,3,4,"English India Pale Ale (IPA)",3,3.5,"Curmudgeon IPA",6.5,48090
+"259",16304,"Grand River Brewing",1276217770,4,3,4,"German Pilsener",3,3,"Hannenberg Pils",4.5,42599
+"260",16304,"Grand River Brewing",1237601148,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"261",16304,"Grand River Brewing",1236646484,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"262",16304,"Grand River Brewing",1236301439,4,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
+"263",16304,"Grand River Brewing",1235860154,4,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Curmudgeon IPA",6.5,48090
+"264",16304,"Grand River Brewing",1235859321,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Curmudgeon IPA",6.5,48090
+"265",16304,"Grand River Brewing",1235270652,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Curmudgeon IPA",6.5,48090
+"266",16304,"Grand River Brewing",1326049953,3.5,3.5,3,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"267",16304,"Grand River Brewing",1310946449,4,3.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"268",16304,"Grand River Brewing",1294372679,4,4,4,"German Pilsener",4.5,3.5,"Hannenberg Pils",4.5,42599
+"269",16304,"Grand River Brewing",1284772392,3.5,3,4,"German Pilsener",3.5,3.5,"Hannenberg Pils",4.5,42599
+"270",16304,"Grand River Brewing",1274718464,4,2.5,4,"German Pilsener",5,3.5,"Hannenberg Pils",4.5,42599
+"271",16304,"Grand River Brewing",1271896649,4,4,3.5,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
+"272",16304,"Grand River Brewing",1263166554,4.5,4,3.5,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
+"273",16304,"Grand River Brewing",1257720348,4.5,3.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"274",16304,"Grand River Brewing",1256735198,4,4,4,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
+"275",16304,"Grand River Brewing",1255654210,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Hannenberg Pils",4.5,42599
+"276",16304,"Grand River Brewing",1252371747,4,3.5,4,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"277",16304,"Grand River Brewing",1241127536,4,4,4,"German Pilsener",3.5,4,"Hannenberg Pils",4.5,42599
+"278",16304,"Grand River Brewing",1226207000,4,4,4,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"279",16304,"Grand River Brewing",1223852600,4.5,4.5,3.5,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"280",16304,"Grand River Brewing",1222135655,3.5,3,3,"German Pilsener",3,3.5,"Hannenberg Pils",4.5,42599
+"281",16304,"Grand River Brewing",1218825642,4.5,3.5,3,"German Pilsener",4,4,"Hannenberg Pils",4.5,42599
+"282",16304,"Grand River Brewing",1218044619,4.5,4,4,"German Pilsener",4,3.5,"Hannenberg Pils",4.5,42599
+"283",16304,"Grand River Brewing",1214362913,4.5,4,4,"German Pilsener",4.5,4,"Hannenberg Pils",4.5,42599
+"284",16304,"Grand River Brewing",1210628352,4,3.5,3.5,"German Pilsener",4,3.5,"Hannenberg Pils",4.5,42599
+"285",16304,"Grand River Brewing",1210550396,5,4.5,4,"German Pilsener",4.5,4.5,"Hannenberg Pils",4.5,42599
+"286",16304,"Grand River Brewing",1315932922,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
+"287",16304,"Grand River Brewing",1210530614,4.5,4,4,"German Pilsener",4.5,4.5,"Hannenberg Pils",4.5,42599
+"288",16304,"Grand River Brewing",1321658587,4,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
+"289",16304,"Grand River Brewing",1320109529,4,3.5,4,"American Pale Ale (APA)",3.5,4.5,"Pugnacious Pale Ale",4.5,72182
+"290",16304,"Grand River Brewing",1318471984,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
+"291",16304,"Grand River Brewing",1318457021,3,3,4,"American Pale Ale (APA)",3.5,3,"Pugnacious Pale Ale",4.5,72182
+"292",16304,"Grand River Brewing",1316821720,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"293",16304,"Grand River Brewing",1316476713,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"294",16304,"Grand River Brewing",1316300611,3.5,3.5,4,"American Pale Ale (APA)",2.5,3,"Pugnacious Pale Ale",4.5,72182
+"295",16304,"Grand River Brewing",1316298226,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Pugnacious Pale Ale",4.5,72182
+"296",16304,"Grand River Brewing",1316139612,3.5,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
+"297",16304,"Grand River Brewing",1315852024,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
+"298",16304,"Grand River Brewing",1315612611,3.5,3,3,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"299",16304,"Grand River Brewing",1315545332,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"300",16304,"Grand River Brewing",1315108770,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"301",16304,"Grand River Brewing",1315010926,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
+"302",16304,"Grand River Brewing",1314690152,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"303",16304,"Grand River Brewing",1314565195,3.5,3,3,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"304",16304,"Grand River Brewing",1314465267,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Pugnacious Pale Ale",4.5,72182
+"305",16304,"Grand River Brewing",1314322196,2.5,2.5,3.5,"American Pale Ale (APA)",3.5,2.5,"Pugnacious Pale Ale",4.5,72182
+"306",16304,"Grand River Brewing",1314226246,3,3,4,"American Pale Ale (APA)",3.5,3,"Pugnacious Pale Ale",4.5,72182
+"307",16304,"Grand River Brewing",1314149998,3,2.5,3,"American Pale Ale (APA)",3,3,"Pugnacious Pale Ale",4.5,72182
+"308",16304,"Grand River Brewing",1314041154,4,4,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
+"309",16304,"Grand River Brewing",1313978871,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pugnacious Pale Ale",4.5,72182
+"310",16304,"Grand River Brewing",1313791237,4,2.5,3.5,"American Pale Ale (APA)",4,3.5,"Pugnacious Pale Ale",4.5,72182
+"311",16304,"Grand River Brewing",1313719033,4,3.5,4,"American Pale Ale (APA)",4,4,"Pugnacious Pale Ale",4.5,72182
+"312",16304,"Grand River Brewing",1313611394,4,4,4.5,"American Pale Ale (APA)",3.5,4,"Pugnacious Pale Ale",4.5,72182
+"313",16304,"Grand River Brewing",1315707671,3.5,3,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
+"314",16304,"Grand River Brewing",1314727763,4,3,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
+"315",16304,"Grand River Brewing",1305407584,3.5,3.5,3,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
+"316",16304,"Grand River Brewing",1301767850,4,4,4,"Kölsch",4,3.5,"1913 Traditional Kolsch",4.5,62110
+"317",16304,"Grand River Brewing",1301365778,3.5,3.5,3.5,"Kölsch",3.5,3.5,"1913 Traditional Kolsch",4.5,62110
+"318",16304,"Grand River Brewing",1295736277,4,3.5,3.5,"Kölsch",3.5,4,"1913 Traditional Kolsch",4.5,62110
+"319",16304,"Grand River Brewing",1295570755,4,3.5,3.5,"Kölsch",3.5,3.5,"1913 Traditional Kolsch",4.5,62110
+"320",16304,"Grand River Brewing",1294364439,3.5,3.5,3.5,"Kölsch",3.5,3,"1913 Traditional Kolsch",4.5,62110
+"321",16304,"Grand River Brewing",1291518330,3,3,3,"Kölsch",3,3,"1913 Traditional Kolsch",4.5,62110
+"322",16304,"Grand River Brewing",1285861542,3,3,3.5,"Kölsch",3.5,3,"1913 Traditional Kolsch",4.5,62110
+"323",16304,"Grand River Brewing",1285530467,2.5,3,3.5,"Kölsch",2.5,3,"1913 Traditional Kolsch",4.5,62110
+"324",16304,"Grand River Brewing",1304299831,3.5,3.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
+"325",16304,"Grand River Brewing",1282871340,4.5,4,4,"Flanders Oud Bruin",4,4.5,"Ploegers Vlaams Rood",7,41515
+"326",16304,"Grand River Brewing",1274834987,3.5,4,4,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
+"327",16304,"Grand River Brewing",1271722914,3,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
+"328",16304,"Grand River Brewing",1265607149,3,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
+"329",16304,"Grand River Brewing",1258480916,4.5,4,4,"Flanders Oud Bruin",4.5,4,"Ploegers Vlaams Rood",7,41515
+"330",16304,"Grand River Brewing",1247468355,4,3.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
+"331",16304,"Grand River Brewing",1242327954,3.5,4.5,4,"Flanders Oud Bruin",3.5,4,"Ploegers Vlaams Rood",7,41515
+"332",16304,"Grand River Brewing",1242167631,1,3.5,2.5,"Flanders Oud Bruin",2.5,1,"Ploegers Vlaams Rood",7,41515
+"333",16304,"Grand River Brewing",1238437470,4,4,4.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
+"334",16304,"Grand River Brewing",1238277724,4,4,4.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
+"335",16304,"Grand River Brewing",1236645579,3.5,2.5,3,"Flanders Oud Bruin",3.5,4,"Ploegers Vlaams Rood",7,41515
+"336",16304,"Grand River Brewing",1231535512,4,3.5,3.5,"Flanders Oud Bruin",3.5,3.5,"Ploegers Vlaams Rood",7,41515
+"337",16304,"Grand River Brewing",1222311426,4.5,5,4.5,"Flanders Oud Bruin",4.5,4.5,"Ploegers Vlaams Rood",7,41515
+"338",16304,"Grand River Brewing",1221694906,4,4,5,"Flanders Oud Bruin",4.5,3.5,"Ploegers Vlaams Rood",7,41515
+"339",16304,"Grand River Brewing",1208742209,3,4.5,4,"Flanders Oud Bruin",4,3.5,"Ploegers Vlaams Rood",7,41515
+"340",16304,"Grand River Brewing",1205618048,4.5,4,5,"Flanders Oud Bruin",5,4.5,"Ploegers Vlaams Rood",7,41515
+"341",16304,"Grand River Brewing",1205275933,4,4,3.5,"Flanders Oud Bruin",4,4,"Ploegers Vlaams Rood",7,41515
+"342",16304,"Grand River Brewing",1325131726,4,4.5,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"343",16304,"Grand River Brewing",1324092201,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"344",16304,"Grand River Brewing",1323565679,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"345",16304,"Grand River Brewing",1322441766,3.5,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"346",16304,"Grand River Brewing",1322313616,4,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"347",16304,"Grand River Brewing",1322167274,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"348",16304,"Grand River Brewing",1321228945,3.5,3.5,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"349",16304,"Grand River Brewing",1300828839,4,4.5,4.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"350",16304,"Grand River Brewing",1319329517,2,2.5,4,"Russian Imperial Stout",1,2,"Russian Gun Imperial Stout",8.5,48921
+"351",16304,"Grand River Brewing",1314026854,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"352",16304,"Grand River Brewing",1313650226,3,3,3,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
+"353",16304,"Grand River Brewing",1307123221,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"354",16304,"Grand River Brewing",1305242626,4,4,4.5,"Russian Imperial Stout",2.5,4,"Russian Gun Imperial Stout",8.5,48921
+"355",16304,"Grand River Brewing",1303531608,4,4,4.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"356",16304,"Grand River Brewing",1303503095,4,4,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"357",16304,"Grand River Brewing",1301105860,4,3.5,4,"Russian Imperial Stout",4.5,4,"Russian Gun Imperial Stout",8.5,48921
+"358",16304,"Grand River Brewing",1300567867,4,4.5,4,"Russian Imperial Stout",3,4.5,"Russian Gun Imperial Stout",8.5,48921
+"359",16304,"Grand River Brewing",1299107105,4,4,5,"Russian Imperial Stout",4.5,4.5,"Russian Gun Imperial Stout",8.5,48921
+"360",16304,"Grand River Brewing",1296694020,4,4,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"361",16304,"Grand River Brewing",1296183091,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"362",16304,"Grand River Brewing",1295307215,4.5,4,4.5,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
+"363",16304,"Grand River Brewing",1294816044,3,4,4,"Russian Imperial Stout",2,3.5,"Russian Gun Imperial Stout",8.5,48921
+"364",16304,"Grand River Brewing",1294281555,3,4,5,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
+"365",16304,"Grand River Brewing",1293081575,4,4.5,4,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
+"366",16304,"Grand River Brewing",1290309061,4.5,3.5,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"367",16304,"Grand River Brewing",1288205407,3.5,3,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"368",16304,"Grand River Brewing",1278894027,4,4,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"369",16304,"Grand River Brewing",1276481432,4,3.5,4,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
+"370",16304,"Grand River Brewing",1276111353,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"371",16304,"Grand River Brewing",1275185371,4,3.5,4,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
+"372",16304,"Grand River Brewing",1274927311,4,4,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"373",16304,"Grand River Brewing",1274229381,3,3.5,3,"Russian Imperial Stout",3,3.5,"Russian Gun Imperial Stout",8.5,48921
+"374",16304,"Grand River Brewing",1273507622,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"375",16304,"Grand River Brewing",1272856184,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"376",16304,"Grand River Brewing",1271822856,4,4,4,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"377",16304,"Grand River Brewing",1270692032,3.5,3,3,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"378",16304,"Grand River Brewing",1269568589,4.5,3,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"379",16304,"Grand River Brewing",1269133480,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"380",16304,"Grand River Brewing",1268864915,3.5,3,3.5,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
+"381",16304,"Grand River Brewing",1268714919,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"382",16304,"Grand River Brewing",1268698367,3.5,3.5,3.5,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
+"383",16304,"Grand River Brewing",1268463621,3,2.5,3,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
+"384",16304,"Grand River Brewing",1268355705,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"385",16304,"Grand River Brewing",1267979450,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Russian Gun Imperial Stout",8.5,48921
+"386",16304,"Grand River Brewing",1267589097,4,4,3.5,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"387",16304,"Grand River Brewing",1264651849,3.5,4,4,"Russian Imperial Stout",4.5,4,"Russian Gun Imperial Stout",8.5,48921
+"388",16304,"Grand River Brewing",1264455410,3.5,3,3.5,"Russian Imperial Stout",3,3.5,"Russian Gun Imperial Stout",8.5,48921
+"389",16304,"Grand River Brewing",1258861368,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"390",16304,"Grand River Brewing",1257205077,3,3.5,3.5,"Russian Imperial Stout",2.5,3,"Russian Gun Imperial Stout",8.5,48921
+"391",16304,"Grand River Brewing",1255555230,4.5,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"392",16304,"Grand River Brewing",1247359113,4,4.5,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"393",16304,"Grand River Brewing",1254357713,3.5,3,4,"Russian Imperial Stout",2,3,"Russian Gun Imperial Stout",8.5,48921
+"394",16304,"Grand River Brewing",1253891172,4,4,3,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"395",16304,"Grand River Brewing",1252714031,3,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"396",16304,"Grand River Brewing",1249391085,3.5,3,4,"Russian Imperial Stout",3,3,"Russian Gun Imperial Stout",8.5,48921
+"397",16304,"Grand River Brewing",1249301729,3,3.5,3.5,"Russian Imperial Stout",3.5,3,"Russian Gun Imperial Stout",8.5,48921
+"398",16304,"Grand River Brewing",1248908051,3.5,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"399",16304,"Grand River Brewing",1248875606,4,4,4,"Russian Imperial Stout",4,4,"Russian Gun Imperial Stout",8.5,48921
+"400",16304,"Grand River Brewing",1310252240,4,4,4,"Fruit / Vegetable Beer",4,4.5,"Blackberry Wheat Ale",4.5,70126
+"401",16304,"Grand River Brewing",1247168453,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"402",16304,"Grand River Brewing",1245726199,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"403",16304,"Grand River Brewing",1245380053,4,3.5,3.5,"Russian Imperial Stout",3,4,"Russian Gun Imperial Stout",8.5,48921
+"404",16304,"Grand River Brewing",1244053852,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"405",16304,"Grand River Brewing",1243793108,4,3.5,4,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"406",16304,"Grand River Brewing",1242283423,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"407",16304,"Grand River Brewing",1242181555,4,3.5,4,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"408",16304,"Grand River Brewing",1242171391,3.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"409",16304,"Grand River Brewing",1242170665,3,1,4.5,"Russian Imperial Stout",2,2.5,"Russian Gun Imperial Stout",8.5,48921
+"410",16304,"Grand River Brewing",1240376429,3.5,4,3.5,"Russian Imperial Stout",4,4.5,"Russian Gun Imperial Stout",8.5,48921
+"411",16304,"Grand River Brewing",1238907007,3.5,4,3.5,"Russian Imperial Stout",3.5,3.5,"Russian Gun Imperial Stout",8.5,48921
+"412",16304,"Grand River Brewing",1238869785,4,3.5,3,"Russian Imperial Stout",3.5,4,"Russian Gun Imperial Stout",8.5,48921
+"413",16304,"Grand River Brewing",1238864887,4,3.5,3.5,"Russian Imperial Stout",4,3.5,"Russian Gun Imperial Stout",8.5,48921
+"414",16304,"Grand River Brewing",1314575499,4,4,4,"Fruit / Vegetable Beer",4,4,"Blackberry Wheat Ale",4.5,70126
+"415",16304,"Grand River Brewing",1312668282,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Blackberry Wheat Ale",4.5,70126
+"416",16304,"Grand River Brewing",1311392952,4,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Blackberry Wheat Ale",4.5,70126
+"417",16304,"Grand River Brewing",1309466090,3.5,3.5,4,"Fruit / Vegetable Beer",4,4,"Blackberry Wheat Ale",4.5,70126
+"418",16304,"Grand River Brewing",1308365850,4,3.5,4,"Fruit / Vegetable Beer",4.5,3.5,"Blackberry Wheat Ale",4.5,70126
+"419",16304,"Grand River Brewing",1271990092,4,3.5,3,"Fruit / Vegetable Beer",3,4,"Bumbleberry Wheat Ale",4.2,44959
+"420",16304,"Grand River Brewing",1258327397,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Bumbleberry Wheat Ale",4.2,44959
+"421",16304,"Grand River Brewing",1256734990,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Bumbleberry Wheat Ale",4.2,44959
+"422",16304,"Grand River Brewing",1255476062,4,3,3.5,"Fruit / Vegetable Beer",3.5,4,"Bumbleberry Wheat Ale",4.2,44959
+"423",16304,"Grand River Brewing",1251947833,2,3,3.5,"Fruit / Vegetable Beer",2.5,2.5,"Bumbleberry Wheat Ale",4.2,44959
+"424",16304,"Grand River Brewing",1251670506,3,3.5,3,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
+"425",16304,"Grand River Brewing",1249675382,3,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Bumbleberry Wheat Ale",4.2,44959
+"426",16304,"Grand River Brewing",1248183795,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
+"427",16304,"Grand River Brewing",1224527818,3,2.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Bumbleberry Wheat Ale",4.2,44959
+"428",16304,"Grand River Brewing",1224089805,4,4,3.5,"Fruit / Vegetable Beer",4,3,"Bumbleberry Wheat Ale",4.2,44959
+"429",16304,"Grand River Brewing",1222732749,4.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959
+"430",16304,"Grand River Brewing",1222037347,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Bumbleberry Wheat Ale",4.2,44959

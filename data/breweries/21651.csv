@@ -1,88 +1,77 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",21651,"Eagle Rock Brewery",1267696105,4.5,3.5,4,"Witbier",4,4.5,"Libertine",7,56470
-"2",21651,"Eagle Rock Brewery",1267325252,4.5,4,4,"Witbier",4,4,"Libertine",7,56470
-"3",21651,"Eagle Rock Brewery",1288569226,2.5,3,4,"Witbier",2,3,"Manifesto",4.7,54885
-"4",21651,"Eagle Rock Brewery",1324828641,4,4,4.5,"American IPA",4,4,"Populist",7,61017
-"5",21651,"Eagle Rock Brewery",1316309211,4,4,4,"American IPA",4,4.5,"Populist",7,61017
-"6",21651,"Eagle Rock Brewery",1310058894,4,3.5,4,"American IPA",4,3.5,"Populist",7,61017
-"7",21651,"Eagle Rock Brewery",1308200629,4,4,4.5,"American IPA",4,4.5,"Populist",7,61017
-"8",21651,"Eagle Rock Brewery",1307663914,4,3.5,4,"American IPA",3,4,"Populist",7,61017
-"9",21651,"Eagle Rock Brewery",1305317455,3.5,3,4.5,"American IPA",3,4,"Populist",7,61017
-"10",21651,"Eagle Rock Brewery",1299986752,4.5,3,4,"American IPA",4,4.5,"Populist",7,61017
-"11",21651,"Eagle Rock Brewery",1296453747,4.5,4,4,"American IPA",4,4,"Populist",7,61017
-"12",21651,"Eagle Rock Brewery",1295746241,4.5,4,4,"American IPA",4.5,4,"Populist",7,61017
-"13",21651,"Eagle Rock Brewery",1292200038,4.5,4.5,4,"American IPA",3,3.5,"Populist",7,61017
-"14",21651,"Eagle Rock Brewery",1284342849,4,3,4,"American IPA",4,3.5,"Populist",7,61017
-"15",21651,"Eagle Rock Brewery",1283820593,4.5,4,4,"American IPA",4.5,4,"Populist",7,61017
-"16",21651,"Eagle Rock Brewery",1281761217,4.5,4.5,4,"American IPA",4.5,4.5,"Populist",7,61017
-"17",21651,"Eagle Rock Brewery",1310361981,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Ginger Saison",NA,70939
-"18",21651,"Eagle Rock Brewery",1324960925,3.5,4,3.5,"Flanders Red Ale",3.5,3.5,"Yearling",NA,69548
-"19",21651,"Eagle Rock Brewery",1315802369,4.5,4,3.5,"Flanders Red Ale",4,4.5,"Yearling",NA,69548
-"20",21651,"Eagle Rock Brewery",1315343461,4.5,3.5,4,"Flanders Red Ale",4.5,4.5,"Yearling",NA,69548
-"21",21651,"Eagle Rock Brewery",1311981345,3.5,4,4,"Flanders Red Ale",3.5,3.5,"Yearling",NA,69548
-"22",21651,"Eagle Rock Brewery",1309182160,3.5,3,4,"Flanders Red Ale",4,3.5,"Yearling",NA,69548
-"23",21651,"Eagle Rock Brewery",1307994578,4,4.5,4,"Flanders Red Ale",4,3.5,"Yearling",NA,69548
-"24",21651,"Eagle Rock Brewery",1307236463,5,4.5,4.5,"Flanders Red Ale",5,5,"Yearling",NA,69548
-"25",21651,"Eagle Rock Brewery",1306722095,4.5,4.5,4,"Flanders Red Ale",4.5,4.5,"Yearling",NA,69548
-"26",21651,"Eagle Rock Brewery",1314028508,3.5,4,3.5,"Witbier",3.5,3,"Manifesto",4.7,54885
-"27",21651,"Eagle Rock Brewery",1292120285,4.5,4,3.5,"Witbier",4.5,4,"Manifesto",4.7,54885
-"28",21651,"Eagle Rock Brewery",1283649611,4.5,3,4,"Witbier",4,3,"Manifesto",4.7,54885
-"29",21651,"Eagle Rock Brewery",1279082175,3.5,3.5,3.5,"Witbier",3.5,3.5,"Manifesto",4.7,54885
-"30",21651,"Eagle Rock Brewery",1275703569,4,4,3.5,"Witbier",4,4,"Manifesto",4.7,54885
-"31",21651,"Eagle Rock Brewery",1267231404,3.5,4,3.5,"Witbier",3.5,3,"Manifesto",4.7,54885
-"32",21651,"Eagle Rock Brewery",1262207825,4.5,4,4,"Witbier",4,4,"Manifesto",4.7,54885
-"33",21651,"Eagle Rock Brewery",1261892280,4,4,4,"Witbier",4,4.5,"Manifesto",4.7,54885
-"34",21651,"Eagle Rock Brewery",1261293629,4,4,3.5,"Witbier",2.5,4,"Manifesto",4.7,54885
-"35",21651,"Eagle Rock Brewery",1309324593,3.5,3,3.5,"American Wild Ale",4,3,"Equinox",6.6,56910
-"36",21651,"Eagle Rock Brewery",1309180048,3.5,3.5,4,"American Wild Ale",3.5,3.5,"Equinox",6.6,56910
-"37",21651,"Eagle Rock Brewery",1302631306,4,3.5,3.5,"American Wild Ale",4,3.5,"Equinox",6.6,56910
-"38",21651,"Eagle Rock Brewery",1291453488,4,3.5,3.5,"American Wild Ale",4,4,"Equinox",6.6,56910
-"39",21651,"Eagle Rock Brewery",1286762667,5,4,4,"American Wild Ale",4,4,"Equinox",6.6,56910
-"40",21651,"Eagle Rock Brewery",1286069210,4.5,4,4,"American Wild Ale",3.5,4,"Equinox",6.6,56910
-"41",21651,"Eagle Rock Brewery",1284343124,3,3,3.5,"American Wild Ale",3,3,"Equinox",6.6,56910
-"42",21651,"Eagle Rock Brewery",1279081289,4,3.5,4,"American Wild Ale",4,4,"Equinox",6.6,56910
-"43",21651,"Eagle Rock Brewery",1272225664,4,4,4,"American Wild Ale",4,4,"Equinox",6.6,56910
-"44",21651,"Eagle Rock Brewery",1269049476,4,3,4,"American Wild Ale",4,4,"Equinox",6.6,56910
-"45",21651,"Eagle Rock Brewery",1279439651,4.5,4,4.5,"Saison / Farmhouse Ale",4,4.5,"Limbo",5.4,60108
-"46",21651,"Eagle Rock Brewery",1279256409,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Limbo",5.4,60108
-"47",21651,"Eagle Rock Brewery",1324680173,4.5,4.5,5,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
-"48",21651,"Eagle Rock Brewery",1320555544,3,4,3.5,"English Dark Mild Ale",3,3.5,"Solidarity",3.8,54635
-"49",21651,"Eagle Rock Brewery",1319402474,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
-"50",21651,"Eagle Rock Brewery",1318555061,4,3.5,4,"English Dark Mild Ale",4.5,4,"Solidarity",3.8,54635
-"51",21651,"Eagle Rock Brewery",1316927908,4,4,4.5,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
-"52",21651,"Eagle Rock Brewery",1316738348,4,3,4,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
-"53",21651,"Eagle Rock Brewery",1314028242,3.5,3.5,4,"English Dark Mild Ale",3,3.5,"Solidarity",3.8,54635
-"54",21651,"Eagle Rock Brewery",1313983715,3,2,5,"English Dark Mild Ale",4,3,"Solidarity",3.8,54635
-"55",21651,"Eagle Rock Brewery",1305398532,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Solidarity",3.8,54635
-"56",21651,"Eagle Rock Brewery",1304902351,4.5,4.5,3.5,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
-"57",21651,"Eagle Rock Brewery",1299896412,4,3.5,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
-"58",21651,"Eagle Rock Brewery",1294504174,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Solidarity",3.8,54635
-"59",21651,"Eagle Rock Brewery",1291454067,4.5,4,3.5,"English Dark Mild Ale",3.5,4.5,"Solidarity",3.8,54635
-"60",21651,"Eagle Rock Brewery",1291216565,4.5,4,4,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
-"61",21651,"Eagle Rock Brewery",1274809493,4,4,3.5,"English Dark Mild Ale",4.5,4,"Solidarity",3.8,54635
-"62",21651,"Eagle Rock Brewery",1271918096,2.5,2.5,3.5,"English Dark Mild Ale",3,3,"Solidarity",3.8,54635
-"63",21651,"Eagle Rock Brewery",1271056766,4.5,4,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
-"64",21651,"Eagle Rock Brewery",1261891536,5,3.5,4,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
-"65",21651,"Eagle Rock Brewery",1261114235,4,4,4,"English Dark Mild Ale",4.5,3.5,"Solidarity",3.8,54635
-"66",21651,"Eagle Rock Brewery",1260287851,4.5,4,4.5,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
-"67",21651,"Eagle Rock Brewery",1283731724,4,4,4,"American Amber / Red Ale",4.5,4,"Red Velvet",10,57258
-"68",21651,"Eagle Rock Brewery",1275022677,2.5,3.5,4,"American Amber / Red Ale",4,3.5,"Red Velvet",10,57258
-"69",21651,"Eagle Rock Brewery",1271350258,2,3.5,4,"American Amber / Red Ale",3.5,2,"Red Velvet",10,57258
-"70",21651,"Eagle Rock Brewery",1271058263,4.5,4,4,"American Amber / Red Ale",4,4.5,"Red Velvet",10,57258
-"71",21651,"Eagle Rock Brewery",1270175471,4,4,4,"American Amber / Red Ale",4,4.5,"Red Velvet",10,57258
-"72",21651,"Eagle Rock Brewery",1288224617,4,3,4.5,"California Common / Steam Beer",4,4,"Unity (2010)",9,62954
-"73",21651,"Eagle Rock Brewery",1313679153,3.5,3.5,4,"English Dark Mild Ale",2.5,3,"Bourbon Oaked Solidarity",3.8,72212
-"74",21651,"Eagle Rock Brewery",1321480635,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Unity (2011)",6.7,75355
-"75",21651,"Eagle Rock Brewery",1318555325,4,4,3.5,"Belgian Pale Ale",3,4,"Stimulus",7.75,72353
-"76",21651,"Eagle Rock Brewery",1314033333,2,3.5,3.5,"Belgian Pale Ale",2,2.5,"Stimulus",7.75,72353
-"77",21651,"Eagle Rock Brewery",1325367643,4,4,3.5,"Winter Warmer",4,4.5,"Jubilee",7.8,64254
-"78",21651,"Eagle Rock Brewery",1324912051,4,4,3.5,"Winter Warmer",4.5,4,"Jubilee",7.8,64254
-"79",21651,"Eagle Rock Brewery",1323632249,3.5,3,3,"Winter Warmer",4,3.5,"Jubilee",7.8,64254
-"80",21651,"Eagle Rock Brewery",1291942852,4.5,4,4,"Winter Warmer",4,4.5,"Jubilee",7.8,64254
-"81",21651,"Eagle Rock Brewery",1303450753,1.5,3,4,"American IPA",3.5,2,"Populist IPA In Spanish Cedar",7,68048
-"82",21651,"Eagle Rock Brewery",1321696373,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Revolution",5.6,55297
-"83",21651,"Eagle Rock Brewery",1320941300,3.5,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Revolution",5.6,55297
-"84",21651,"Eagle Rock Brewery",1312668876,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Revolution",5.6,55297
-"85",21651,"Eagle Rock Brewery",1279080525,4.5,4,4,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297
-"86",21651,"Eagle Rock Brewery",1271057494,4,4,4,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297
-"87",21651,"Eagle Rock Brewery",1263005696,4,4,4.5,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297
+"1",21651,"Eagle Rock Brewery",1288569226,2.5,3,4,"Witbier",2,3,"Manifesto",4.7,54885
+"2",21651,"Eagle Rock Brewery",1324828641,4,4,4.5,"American IPA",4,4,"Populist",7,61017
+"3",21651,"Eagle Rock Brewery",1316309211,4,4,4,"American IPA",4,4.5,"Populist",7,61017
+"4",21651,"Eagle Rock Brewery",1310058894,4,3.5,4,"American IPA",4,3.5,"Populist",7,61017
+"5",21651,"Eagle Rock Brewery",1308200629,4,4,4.5,"American IPA",4,4.5,"Populist",7,61017
+"6",21651,"Eagle Rock Brewery",1307663914,4,3.5,4,"American IPA",3,4,"Populist",7,61017
+"7",21651,"Eagle Rock Brewery",1305317455,3.5,3,4.5,"American IPA",3,4,"Populist",7,61017
+"8",21651,"Eagle Rock Brewery",1299986752,4.5,3,4,"American IPA",4,4.5,"Populist",7,61017
+"9",21651,"Eagle Rock Brewery",1296453747,4.5,4,4,"American IPA",4,4,"Populist",7,61017
+"10",21651,"Eagle Rock Brewery",1295746241,4.5,4,4,"American IPA",4.5,4,"Populist",7,61017
+"11",21651,"Eagle Rock Brewery",1292200038,4.5,4.5,4,"American IPA",3,3.5,"Populist",7,61017
+"12",21651,"Eagle Rock Brewery",1284342849,4,3,4,"American IPA",4,3.5,"Populist",7,61017
+"13",21651,"Eagle Rock Brewery",1283820593,4.5,4,4,"American IPA",4.5,4,"Populist",7,61017
+"14",21651,"Eagle Rock Brewery",1281761217,4.5,4.5,4,"American IPA",4.5,4.5,"Populist",7,61017
+"15",21651,"Eagle Rock Brewery",1324960925,3.5,4,3.5,"Flanders Red Ale",3.5,3.5,"Yearling",NA,69548
+"16",21651,"Eagle Rock Brewery",1315802369,4.5,4,3.5,"Flanders Red Ale",4,4.5,"Yearling",NA,69548
+"17",21651,"Eagle Rock Brewery",1315343461,4.5,3.5,4,"Flanders Red Ale",4.5,4.5,"Yearling",NA,69548
+"18",21651,"Eagle Rock Brewery",1311981345,3.5,4,4,"Flanders Red Ale",3.5,3.5,"Yearling",NA,69548
+"19",21651,"Eagle Rock Brewery",1309182160,3.5,3,4,"Flanders Red Ale",4,3.5,"Yearling",NA,69548
+"20",21651,"Eagle Rock Brewery",1307994578,4,4.5,4,"Flanders Red Ale",4,3.5,"Yearling",NA,69548
+"21",21651,"Eagle Rock Brewery",1307236463,5,4.5,4.5,"Flanders Red Ale",5,5,"Yearling",NA,69548
+"22",21651,"Eagle Rock Brewery",1306722095,4.5,4.5,4,"Flanders Red Ale",4.5,4.5,"Yearling",NA,69548
+"23",21651,"Eagle Rock Brewery",1314028508,3.5,4,3.5,"Witbier",3.5,3,"Manifesto",4.7,54885
+"24",21651,"Eagle Rock Brewery",1292120285,4.5,4,3.5,"Witbier",4.5,4,"Manifesto",4.7,54885
+"25",21651,"Eagle Rock Brewery",1283649611,4.5,3,4,"Witbier",4,3,"Manifesto",4.7,54885
+"26",21651,"Eagle Rock Brewery",1279082175,3.5,3.5,3.5,"Witbier",3.5,3.5,"Manifesto",4.7,54885
+"27",21651,"Eagle Rock Brewery",1275703569,4,4,3.5,"Witbier",4,4,"Manifesto",4.7,54885
+"28",21651,"Eagle Rock Brewery",1267231404,3.5,4,3.5,"Witbier",3.5,3,"Manifesto",4.7,54885
+"29",21651,"Eagle Rock Brewery",1262207825,4.5,4,4,"Witbier",4,4,"Manifesto",4.7,54885
+"30",21651,"Eagle Rock Brewery",1261892280,4,4,4,"Witbier",4,4.5,"Manifesto",4.7,54885
+"31",21651,"Eagle Rock Brewery",1261293629,4,4,3.5,"Witbier",2.5,4,"Manifesto",4.7,54885
+"32",21651,"Eagle Rock Brewery",1309324593,3.5,3,3.5,"American Wild Ale",4,3,"Equinox",6.6,56910
+"33",21651,"Eagle Rock Brewery",1309180048,3.5,3.5,4,"American Wild Ale",3.5,3.5,"Equinox",6.6,56910
+"34",21651,"Eagle Rock Brewery",1302631306,4,3.5,3.5,"American Wild Ale",4,3.5,"Equinox",6.6,56910
+"35",21651,"Eagle Rock Brewery",1291453488,4,3.5,3.5,"American Wild Ale",4,4,"Equinox",6.6,56910
+"36",21651,"Eagle Rock Brewery",1286762667,5,4,4,"American Wild Ale",4,4,"Equinox",6.6,56910
+"37",21651,"Eagle Rock Brewery",1286069210,4.5,4,4,"American Wild Ale",3.5,4,"Equinox",6.6,56910
+"38",21651,"Eagle Rock Brewery",1284343124,3,3,3.5,"American Wild Ale",3,3,"Equinox",6.6,56910
+"39",21651,"Eagle Rock Brewery",1279081289,4,3.5,4,"American Wild Ale",4,4,"Equinox",6.6,56910
+"40",21651,"Eagle Rock Brewery",1272225664,4,4,4,"American Wild Ale",4,4,"Equinox",6.6,56910
+"41",21651,"Eagle Rock Brewery",1269049476,4,3,4,"American Wild Ale",4,4,"Equinox",6.6,56910
+"42",21651,"Eagle Rock Brewery",1324680173,4.5,4.5,5,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
+"43",21651,"Eagle Rock Brewery",1320555544,3,4,3.5,"English Dark Mild Ale",3,3.5,"Solidarity",3.8,54635
+"44",21651,"Eagle Rock Brewery",1319402474,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
+"45",21651,"Eagle Rock Brewery",1318555061,4,3.5,4,"English Dark Mild Ale",4.5,4,"Solidarity",3.8,54635
+"46",21651,"Eagle Rock Brewery",1316927908,4,4,4.5,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
+"47",21651,"Eagle Rock Brewery",1316738348,4,3,4,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
+"48",21651,"Eagle Rock Brewery",1314028242,3.5,3.5,4,"English Dark Mild Ale",3,3.5,"Solidarity",3.8,54635
+"49",21651,"Eagle Rock Brewery",1313983715,3,2,5,"English Dark Mild Ale",4,3,"Solidarity",3.8,54635
+"50",21651,"Eagle Rock Brewery",1305398532,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Solidarity",3.8,54635
+"51",21651,"Eagle Rock Brewery",1304902351,4.5,4.5,3.5,"English Dark Mild Ale",4,3.5,"Solidarity",3.8,54635
+"52",21651,"Eagle Rock Brewery",1299896412,4,3.5,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
+"53",21651,"Eagle Rock Brewery",1294504174,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Solidarity",3.8,54635
+"54",21651,"Eagle Rock Brewery",1291454067,4.5,4,3.5,"English Dark Mild Ale",3.5,4.5,"Solidarity",3.8,54635
+"55",21651,"Eagle Rock Brewery",1291216565,4.5,4,4,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
+"56",21651,"Eagle Rock Brewery",1274809493,4,4,3.5,"English Dark Mild Ale",4.5,4,"Solidarity",3.8,54635
+"57",21651,"Eagle Rock Brewery",1271918096,2.5,2.5,3.5,"English Dark Mild Ale",3,3,"Solidarity",3.8,54635
+"58",21651,"Eagle Rock Brewery",1271056766,4.5,4,3.5,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
+"59",21651,"Eagle Rock Brewery",1261891536,5,3.5,4,"English Dark Mild Ale",4,4,"Solidarity",3.8,54635
+"60",21651,"Eagle Rock Brewery",1261114235,4,4,4,"English Dark Mild Ale",4.5,3.5,"Solidarity",3.8,54635
+"61",21651,"Eagle Rock Brewery",1260287851,4.5,4,4.5,"English Dark Mild Ale",4,4.5,"Solidarity",3.8,54635
+"62",21651,"Eagle Rock Brewery",1283731724,4,4,4,"American Amber / Red Ale",4.5,4,"Red Velvet",10,57258
+"63",21651,"Eagle Rock Brewery",1275022677,2.5,3.5,4,"American Amber / Red Ale",4,3.5,"Red Velvet",10,57258
+"64",21651,"Eagle Rock Brewery",1271350258,2,3.5,4,"American Amber / Red Ale",3.5,2,"Red Velvet",10,57258
+"65",21651,"Eagle Rock Brewery",1271058263,4.5,4,4,"American Amber / Red Ale",4,4.5,"Red Velvet",10,57258
+"66",21651,"Eagle Rock Brewery",1270175471,4,4,4,"American Amber / Red Ale",4,4.5,"Red Velvet",10,57258
+"67",21651,"Eagle Rock Brewery",1325367643,4,4,3.5,"Winter Warmer",4,4.5,"Jubilee",7.8,64254
+"68",21651,"Eagle Rock Brewery",1324912051,4,4,3.5,"Winter Warmer",4.5,4,"Jubilee",7.8,64254
+"69",21651,"Eagle Rock Brewery",1323632249,3.5,3,3,"Winter Warmer",4,3.5,"Jubilee",7.8,64254
+"70",21651,"Eagle Rock Brewery",1291942852,4.5,4,4,"Winter Warmer",4,4.5,"Jubilee",7.8,64254
+"71",21651,"Eagle Rock Brewery",1321696373,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Revolution",5.6,55297
+"72",21651,"Eagle Rock Brewery",1320941300,3.5,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Revolution",5.6,55297
+"73",21651,"Eagle Rock Brewery",1312668876,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Revolution",5.6,55297
+"74",21651,"Eagle Rock Brewery",1279080525,4.5,4,4,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297
+"75",21651,"Eagle Rock Brewery",1271057494,4,4,4,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297
+"76",21651,"Eagle Rock Brewery",1263005696,4,4,4.5,"American Pale Ale (APA)",4,4,"Revolution",5.6,55297

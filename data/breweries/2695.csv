@@ -1,187 +1,122 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",2695,"Bull & Bush Pub & Brewery",1180239635,4,4,4,"English Stout",3.5,4,"Stonehenge Stout",NA,13990
 "2",2695,"Bull & Bush Pub & Brewery",1259799864,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Tower ESB",NA,24280
-"3",2695,"Bull & Bush Pub & Brewery",1317849551,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Hop Karl",4.5,73812
-"4",2695,"Bull & Bush Pub & Brewery",1308579085,2.5,2,3.5,"American Strong Ale",3,2.5,"Tank Town Brown",8.4,69612
-"5",2695,"Bull & Bush Pub & Brewery",1306897033,4.5,4,4,"American Strong Ale",4,4.5,"Tank Town Brown",8.4,69612
-"6",2695,"Bull & Bush Pub & Brewery",1138577160,4,4,4,"English Stout",4,4,"Stonehenge Stout",NA,13990
-"7",2695,"Bull & Bush Pub & Brewery",1299194266,4,3,3.5,"American Black Ale",3.5,3.5,"Black Coast IPA",NA,61843
-"8",2695,"Bull & Bush Pub & Brewery",1284417123,4,4,4,"American Black Ale",4.5,4,"Black Coast IPA",NA,61843
-"9",2695,"Bull & Bush Pub & Brewery",1322904664,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"10",2695,"Bull & Bush Pub & Brewery",1322194432,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"11",2695,"Bull & Bush Pub & Brewery",1303439415,4.5,4,4,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"12",2695,"Bull & Bush Pub & Brewery",1290144040,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
-"13",2695,"Bull & Bush Pub & Brewery",1181162240,5,4,4,"American Double / Imperial Stout",3.5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"14",2695,"Bull & Bush Pub & Brewery",1176424829,3,5,4.5,"American Double / Imperial Stout",3.5,3,"Legend Of The Liquid Brain",11.5,22421
-"15",2695,"Bull & Bush Pub & Brewery",1284740406,2.5,2.5,4.5,"American Double / Imperial Stout",4,2,"Legend Of The Liquid Brain",11.5,22421
-"16",2695,"Bull & Bush Pub & Brewery",1276197947,4.5,5,4,"American Double / Imperial Stout",5,5,"Legend Of The Liquid Brain",11.5,22421
-"17",2695,"Bull & Bush Pub & Brewery",1276189684,4,5,3.5,"American Double / Imperial Stout",4,5,"Legend Of The Liquid Brain",11.5,22421
-"18",2695,"Bull & Bush Pub & Brewery",1274758754,3.5,4,3.5,"American Double / Imperial Stout",4,4,"Legend Of The Liquid Brain",11.5,22421
-"19",2695,"Bull & Bush Pub & Brewery",1270684368,3.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
-"20",2695,"Bull & Bush Pub & Brewery",1236192178,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"21",2695,"Bull & Bush Pub & Brewery",1207108817,4,4,4,"American Double / Imperial Stout",4,4,"Legend Of The Liquid Brain",11.5,22421
-"22",2695,"Bull & Bush Pub & Brewery",1204719374,4.5,4,5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"23",2695,"Bull & Bush Pub & Brewery",1199038274,4.5,3,4.5,"American Double / Imperial Stout",4.5,3.5,"Legend Of The Liquid Brain",11.5,22421
-"24",2695,"Bull & Bush Pub & Brewery",1171681070,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
-"25",2695,"Bull & Bush Pub & Brewery",1163440044,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
-"26",2695,"Bull & Bush Pub & Brewery",1319383284,4,3.5,4,"Saison / Farmhouse Ale",4,3,"Captain Midnight",7,73814
-"27",2695,"Bull & Bush Pub & Brewery",1317851734,4,4.5,2.5,"Saison / Farmhouse Ale",3.5,4.5,"Captain Midnight",7,73814
-"28",2695,"Bull & Bush Pub & Brewery",1204720211,4,3.5,4,"Lambic - Fruit",4.5,4.5,"Cheery Cherry Kriek",NA,39285
-"29",2695,"Bull & Bush Pub & Brewery",1195487426,1,2.5,3,"Lambic - Fruit",3,2,"Cheery Cherry Kriek",NA,39285
-"30",2695,"Bull & Bush Pub & Brewery",1193245172,3.5,4.5,2.5,"Lambic - Fruit",4.5,4,"Cheery Cherry Kriek",NA,39285
-"31",2695,"Bull & Bush Pub & Brewery",1193167493,3.5,4,4,"Lambic - Fruit",3.5,4.5,"Cheery Cherry Kriek",NA,39285
-"32",2695,"Bull & Bush Pub & Brewery",1271908033,4,4,4,"American IPA",3.5,4.5,"No Coast IPA",6,45433
-"33",2695,"Bull & Bush Pub & Brewery",1259799590,4,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
-"34",2695,"Bull & Bush Pub & Brewery",1247185776,3.5,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
-"35",2695,"Bull & Bush Pub & Brewery",1242430120,3.5,4,4,"American IPA",3.5,3.5,"No Coast IPA",6,45433
-"36",2695,"Bull & Bush Pub & Brewery",1224301979,3.5,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
-"37",2695,"Bull & Bush Pub & Brewery",1305938484,3.5,3,4,"Maibock / Helles Bock",4,3.5,"Don't Mock Mai Bock",NA,37799
-"38",2695,"Bull & Bush Pub & Brewery",1185286686,3.5,4,4,"Maibock / Helles Bock",4,3.5,"Don't Mock Mai Bock",NA,37799
-"39",2695,"Bull & Bush Pub & Brewery",1184776118,4,4,4,"Maibock / Helles Bock",4,4,"Don't Mock Mai Bock",NA,37799
-"40",2695,"Bull & Bush Pub & Brewery",1295894377,4,4,4,"Bock",3.5,3.5,"Bear Skin Rug",6,65574
-"41",2695,"Bull & Bush Pub & Brewery",1221497643,4,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"37th Suitcase",NA,44872
-"42",2695,"Bull & Bush Pub & Brewery",1305937701,3,3,3.5,"American Amber / Red Ale",3.5,3,"Allgood Amber Ale",NA,69287
-"43",2695,"Bull & Bush Pub & Brewery",1325360791,4,3.5,4,"Dunkelweizen",4.5,4,"Patio's Vat Dunkelweiss",NA,54012
-"44",2695,"Bull & Bush Pub & Brewery",1259799432,4,4,4,"Dunkelweizen",3.5,3,"Patio's Vat Dunkelweiss",NA,54012
-"45",2695,"Bull & Bush Pub & Brewery",1257794144,4.5,3.5,3.5,"Dunkelweizen",4,4,"Patio's Vat Dunkelweiss",NA,54012
-"46",2695,"Bull & Bush Pub & Brewery",1242588616,4.5,4.5,4,"Fruit / Vegetable Beer",4.5,4.5,"Mighty Kriek",NA,49850
-"47",2695,"Bull & Bush Pub & Brewery",1299146316,5,4,3.5,"Scottish Ale",4.5,4.5,"Fyfe's Highland Ale",7.4,66842
-"48",2695,"Bull & Bush Pub & Brewery",1267672447,4,4,4.5,"American Double / Imperial Pilsner",4,4,"Über Düber Pilsner",6.5,56559
-"49",2695,"Bull & Bush Pub & Brewery",1251856503,3.5,3,4,"American Pale Ale (APA)",4,3,"Hopsmith Pale Ale",NA,52285
-"50",2695,"Bull & Bush Pub & Brewery",1317850089,4,4.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison De Suitcase",7,30554
-"51",2695,"Bull & Bush Pub & Brewery",1219418067,4,4,4,"Saison / Farmhouse Ale",4.5,4,"Saison De Suitcase",7,30554
-"52",2695,"Bull & Bush Pub & Brewery",1182184239,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,2.5,"Saison De Suitcase",7,30554
-"53",2695,"Bull & Bush Pub & Brewery",1147833826,4,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Saison De Suitcase",7,30554
-"54",2695,"Bull & Bush Pub & Brewery",1305938962,3.5,3.5,3.5,"English Strong Ale",4,3.5,"Union Jack",9,35746
-"55",2695,"Bull & Bush Pub & Brewery",1243892785,4,4,4,"English Stout",3.5,4,"Stonehenge Stout",NA,13990
-"56",2695,"Bull & Bush Pub & Brewery",1197859024,4.5,4.5,3.5,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
-"57",2695,"Bull & Bush Pub & Brewery",1178491024,4,4,3.5,"English Strong Ale",4,4,"Union Jack",9,35746
-"58",2695,"Bull & Bush Pub & Brewery",1177948594,4,3.5,4,"English Strong Ale",4,4,"Union Jack",9,35746
-"59",2695,"Bull & Bush Pub & Brewery",1173304858,3.5,3.5,4,"English Strong Ale",3.5,3,"Union Jack",9,35746
-"60",2695,"Bull & Bush Pub & Brewery",1215872790,4,4,4,"Belgian Dark Ale",4,4.5,"Gargamel",NA,43688
-"61",2695,"Bull & Bush Pub & Brewery",1325360607,3.5,3.5,3.5,"English Stout",3,4,"Stonehenge Stout",NA,13990
-"62",2695,"Bull & Bush Pub & Brewery",1317852013,3.5,4.5,4,"English Stout",3.5,3.5,"Stonehenge Stout",NA,13990
-"63",2695,"Bull & Bush Pub & Brewery",1305938148,3.5,3.5,4,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
-"64",2695,"Bull & Bush Pub & Brewery",1303482193,4,4,4,"English Stout",4,4,"Stonehenge Stout",NA,13990
-"65",2695,"Bull & Bush Pub & Brewery",1260981382,4.5,4,4,"English Stout",5,4,"Stonehenge Stout",NA,13990
-"66",2695,"Bull & Bush Pub & Brewery",1254080926,4.5,3,4,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
-"67",2695,"Bull & Bush Pub & Brewery",1089495924,4,4,3.5,"English Stout",3.5,4.5,"Stonehenge Stout",NA,13990
-"68",2695,"Bull & Bush Pub & Brewery",1204718073,4.5,4,4.5,"Belgian Dark Ale",4.5,4.5,"36th Anniversary Ale",NA,38085
-"69",2695,"Bull & Bush Pub & Brewery",1186677443,4,3.5,3,"Belgian Dark Ale",3.5,4,"36th Anniversary Ale",NA,38085
-"70",2695,"Bull & Bush Pub & Brewery",1317851163,4,4,4,"Wheatwine",4,4.5,"40th Anniversary Wheatwine",NA,68303
-"71",2695,"Bull & Bush Pub & Brewery",1303485980,4.5,4.5,4,"Wheatwine",4.5,4.5,"40th Anniversary Wheatwine",NA,68303
-"72",2695,"Bull & Bush Pub & Brewery",1308576043,4,4.5,3.5,"Winter Warmer",4.5,4,"Yule Fuel",NA,38143
-"73",2695,"Bull & Bush Pub & Brewery",1305938820,4,4,4,"Winter Warmer",4.5,4,"Yule Fuel",NA,38143
-"74",2695,"Bull & Bush Pub & Brewery",1204719851,4.5,4.5,4.5,"Winter Warmer",4,4.5,"Yule Fuel",NA,38143
-"75",2695,"Bull & Bush Pub & Brewery",1187043773,3.5,4.5,4,"Winter Warmer",3.5,4.5,"Yule Fuel",NA,38143
-"76",2695,"Bull & Bush Pub & Brewery",1186892977,3.5,4,4,"Winter Warmer",4,4.5,"Yule Fuel",NA,38143
-"77",2695,"Bull & Bush Pub & Brewery",1225485571,4,4,4,"Rye Beer",3.5,4,"Pimp My Rye",NA,41611
-"78",2695,"Bull & Bush Pub & Brewery",1205713066,4,4,4,"Rye Beer",4.5,4.5,"Pimp My Rye",NA,41611
-"79",2695,"Bull & Bush Pub & Brewery",1289355743,4.5,4,3.5,"Pumpkin Ale",4,4.5,"Ghoul Fuel",NA,54058
-"80",2695,"Bull & Bush Pub & Brewery",1288623775,4,4,4,"Pumpkin Ale",3.5,4,"Ghoul Fuel",NA,54058
-"81",2695,"Bull & Bush Pub & Brewery",1257994364,4,3.5,4,"Pumpkin Ale",4,3.5,"Ghoul Fuel",NA,54058
-"82",2695,"Bull & Bush Pub & Brewery",1186881039,4,4,4,"English India Pale Ale (IPA)",4,4,"Royal Arms",8.5,38137
-"83",2695,"Bull & Bush Pub & Brewery",1267672048,4,3,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Highland Ale",NA,35318
-"84",2695,"Bull & Bush Pub & Brewery",1173122183,4.5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Highland Ale",NA,35318
-"85",2695,"Bull & Bush Pub & Brewery",1271523230,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
-"86",2695,"Bull & Bush Pub & Brewery",1171680102,3.5,2.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Highland Ale",NA,35318
-"87",2695,"Bull & Bush Pub & Brewery",1254013236,4,3,4,"American Pale Ale (APA)",4,3.5,"Dry The Rain Pale Ale",NA,52948
-"88",2695,"Bull & Bush Pub & Brewery",1302887782,5,4.5,4.5,"Belgian Strong Dark Ale",4.5,4.5,"A. Lotta Cougar",NA,68064
-"89",2695,"Bull & Bush Pub & Brewery",1302686348,4.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"A. Lotta Cougar",NA,68064
-"90",2695,"Bull & Bush Pub & Brewery",1305935960,4,4,4,"American Wild Ale",4,4.5,"Funky Cougar",11,69284
-"91",2695,"Bull & Bush Pub & Brewery",1244492925,4.5,3.5,4,"Munich Helles Lager",4,4.5,"Highway To Helles",NA,49012
-"92",2695,"Bull & Bush Pub & Brewery",1239140121,4,4,3.5,"Munich Helles Lager",4,4,"Highway To Helles",NA,49012
-"93",2695,"Bull & Bush Pub & Brewery",1239115577,4,4,3.5,"Munich Helles Lager",4,3.5,"Highway To Helles",NA,49012
-"94",2695,"Bull & Bush Pub & Brewery",1147833245,4,3.5,4,"American Amber / Red Ale",4,4,"Allgood Ale",NA,13987
-"95",2695,"Bull & Bush Pub & Brewery",1320782603,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Tower ESB",NA,24280
-"96",2695,"Bull & Bush Pub & Brewery",1309228359,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Tower ESB",NA,24280
-"97",2695,"Bull & Bush Pub & Brewery",1305937841,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Tower ESB",NA,24280
-"98",2695,"Bull & Bush Pub & Brewery",1243891827,4.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Tower ESB",NA,24280
-"99",2695,"Bull & Bush Pub & Brewery",1242954804,5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Tower ESB",NA,24280
-"100",2695,"Bull & Bush Pub & Brewery",1219727606,5,4,4,"Extra Special / Strong Bitter (ESB)",4,5,"Tower ESB",NA,24280
-"101",2695,"Bull & Bush Pub & Brewery",1191787643,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Tower ESB",NA,24280
-"102",2695,"Bull & Bush Pub & Brewery",1180239329,4.5,5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
-"103",2695,"Bull & Bush Pub & Brewery",1167107628,3,3.5,2.5,"Extra Special / Strong Bitter (ESB)",4,3,"Tower ESB",NA,24280
-"104",2695,"Bull & Bush Pub & Brewery",1153022496,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Tower ESB",NA,24280
-"105",2695,"Bull & Bush Pub & Brewery",1138577317,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
-"106",2695,"Bull & Bush Pub & Brewery",1211148564,3.5,3,4,"American Double / Imperial IPA",4,3,"Man Man Beer",NA,42560
-"107",2695,"Bull & Bush Pub & Brewery",1210611420,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Man Man Beer",NA,42560
-"108",2695,"Bull & Bush Pub & Brewery",1210310594,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Man Man Beer",NA,42560
-"109",2695,"Bull & Bush Pub & Brewery",1279841826,4,4,4,"American Stout",4,4,"St. Mark's Stout",7,49937
-"110",2695,"Bull & Bush Pub & Brewery",1242955809,4.5,4,4,"American Stout",4,4,"St. Mark's Stout",7,49937
-"111",2695,"Bull & Bush Pub & Brewery",1325360973,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Big Ben Brown Ale",NA,13989
-"112",2695,"Bull & Bush Pub & Brewery",1305936405,4,4,4,"English Brown Ale",4,4,"Big Ben Brown Ale",NA,13989
-"113",2695,"Bull & Bush Pub & Brewery",1297609017,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Big Ben Brown Ale",NA,13989
-"114",2695,"Bull & Bush Pub & Brewery",1259800236,4,4,4,"English Brown Ale",4,3.5,"Big Ben Brown Ale",NA,13989
-"115",2695,"Bull & Bush Pub & Brewery",1215226293,4.5,4.5,5,"English Brown Ale",5,4.5,"Big Ben Brown Ale",NA,13989
-"116",2695,"Bull & Bush Pub & Brewery",1211899149,4,3.5,4,"English Brown Ale",4,4,"Big Ben Brown Ale",NA,13989
-"117",2695,"Bull & Bush Pub & Brewery",1180239196,3,4,4,"English Brown Ale",3.5,3,"Big Ben Brown Ale",NA,13989
-"118",2695,"Bull & Bush Pub & Brewery",1175554754,4,4,4,"English Brown Ale",4,4.5,"Big Ben Brown Ale",NA,13989
-"119",2695,"Bull & Bush Pub & Brewery",1146368829,4,4,4,"English Brown Ale",4,3.5,"Big Ben Brown Ale",NA,13989
-"120",2695,"Bull & Bush Pub & Brewery",1070648956,3.5,3.5,3.5,"English Brown Ale",3,4,"Big Ben Brown Ale",NA,13989
-"121",2695,"Bull & Bush Pub & Brewery",1184770622,4,4,4,"Schwarzbier",4,4,"Black Bull",NA,37406
-"122",2695,"Bull & Bush Pub & Brewery",1182795039,3.5,4,4,"Schwarzbier",4,3.5,"Black Bull",NA,37406
-"123",2695,"Bull & Bush Pub & Brewery",1290187531,4.5,5,4,"English Barleywine",5,5,"Royal Oil",12.5,36275
-"124",2695,"Bull & Bush Pub & Brewery",1284816209,5,5,4,"English Barleywine",5,5,"Royal Oil",12.5,36275
-"125",2695,"Bull & Bush Pub & Brewery",1274759071,4,4.5,4,"English Barleywine",4,4.5,"Royal Oil",12.5,36275
-"126",2695,"Bull & Bush Pub & Brewery",1260602971,5,4,4.5,"English Barleywine",5,5,"Royal Oil",12.5,36275
-"127",2695,"Bull & Bush Pub & Brewery",1260459521,4,5,4,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
-"128",2695,"Bull & Bush Pub & Brewery",1259801745,5,5,5,"English Barleywine",5,5,"Royal Oil",12.5,36275
-"129",2695,"Bull & Bush Pub & Brewery",1214760521,4.5,4,4,"English Barleywine",4.5,4,"Royal Oil",12.5,36275
-"130",2695,"Bull & Bush Pub & Brewery",1206649600,4.5,5,5,"English Barleywine",5,5,"Royal Oil",12.5,36275
-"131",2695,"Bull & Bush Pub & Brewery",1204720572,4.5,4.5,4,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
-"132",2695,"Bull & Bush Pub & Brewery",1198711375,4,4,4,"English Barleywine",2.5,4.5,"Royal Oil",12.5,36275
-"133",2695,"Bull & Bush Pub & Brewery",1197859758,4.5,5,3,"English Barleywine",4,5,"Royal Oil",12.5,36275
-"134",2695,"Bull & Bush Pub & Brewery",1182230916,4,5,4.5,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
-"135",2695,"Bull & Bush Pub & Brewery",1181163301,3.5,4.5,4,"English Barleywine",4,4.5,"Royal Oil",12.5,36275
-"136",2695,"Bull & Bush Pub & Brewery",1243891263,4.5,3.5,3.5,"Hefeweizen",3,3.5,"Hail Brau",NA,36950
-"137",2695,"Bull & Bush Pub & Brewery",1185467052,4,4,4,"Hefeweizen",4,4,"Hail Brau",NA,36950
-"138",2695,"Bull & Bush Pub & Brewery",1180239509,3.5,3.5,4,"Hefeweizen",4,4,"Hail Brau",NA,36950
-"139",2695,"Bull & Bush Pub & Brewery",1180987413,3,4,4,"English Barleywine",3,4.5,"Royal Oil",12.5,36275
-"140",2695,"Bull & Bush Pub & Brewery",1176064509,3.5,4,4.5,"English Barleywine",4,5,"Royal Oil",12.5,36275
-"141",2695,"Bull & Bush Pub & Brewery",1276144044,4,3,4,"Smoked Beer",2.5,3,"Smoke On The Lager",NA,59053
-"142",2695,"Bull & Bush Pub & Brewery",1204718679,4,4,4.5,"American Barleywine",4.5,4,"Release The Hounds",NA,36006
-"143",2695,"Bull & Bush Pub & Brewery",1193077821,5,4,3.5,"American Barleywine",4.5,4,"Release The Hounds",NA,36006
-"144",2695,"Bull & Bush Pub & Brewery",1180239053,3,3.5,4.5,"American Barleywine",3.5,3,"Release The Hounds",NA,36006
-"145",2695,"Bull & Bush Pub & Brewery",1174662324,3,4,4.5,"American Barleywine",4,3,"Release The Hounds",NA,36006
-"146",2695,"Bull & Bush Pub & Brewery",1324156946,4,4,4,"Quadrupel (Quad)",4,4,"Abt 12",10,70212
-"147",2695,"Bull & Bush Pub & Brewery",1309102535,4,4,3.5,"Quadrupel (Quad)",4,4.5,"Abt 12",10,70212
-"148",2695,"Bull & Bush Pub & Brewery",1308578659,2.5,3,3.5,"Quadrupel (Quad)",3,2.5,"Abt 12",10,70212
-"149",2695,"Bull & Bush Pub & Brewery",1179781860,3.5,3,2.5,"Hefeweizen",3.5,2.5,"Hail Brau",NA,36950
-"150",2695,"Bull & Bush Pub & Brewery",1309062762,4,3,3.5,"German Pilsener",3.5,4,"Happy Hop Pilsner",NA,37915
-"151",2695,"Bull & Bush Pub & Brewery",1259801423,4.5,4,3.5,"German Pilsener",4,4,"Happy Hop Pilsner",NA,37915
-"152",2695,"Bull & Bush Pub & Brewery",1208303410,4.5,4,4,"German Pilsener",3.5,4.5,"Happy Hop Pilsner",NA,37915
-"153",2695,"Bull & Bush Pub & Brewery",1203398212,5,4.5,3.5,"German Pilsener",4,4.5,"Happy Hop Pilsner",NA,37915
-"154",2695,"Bull & Bush Pub & Brewery",1200083803,4,3,3.5,"German Pilsener",4,3,"Happy Hop Pilsner",NA,37915
-"155",2695,"Bull & Bush Pub & Brewery",1190773962,4.5,4,4,"German Pilsener",4.5,4.5,"Happy Hop Pilsner",NA,37915
-"156",2695,"Bull & Bush Pub & Brewery",1185467594,4.5,4,4,"German Pilsener",4,4.5,"Happy Hop Pilsner",NA,37915
-"157",2695,"Bull & Bush Pub & Brewery",1309103746,3.5,3,3,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
-"158",2695,"Bull & Bush Pub & Brewery",1308070934,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
-"159",2695,"Bull & Bush Pub & Brewery",1305938013,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
-"160",2695,"Bull & Bush Pub & Brewery",1282589006,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
-"161",2695,"Bull & Bush Pub & Brewery",1279837692,3.5,4,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
-"162",2695,"Bull & Bush Pub & Brewery",1270684638,2,1.5,4.5,"English India Pale Ale (IPA)",3.5,1.5,"Man Beer",7,13988
-"163",2695,"Bull & Bush Pub & Brewery",1265583214,4,3,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
-"164",2695,"Bull & Bush Pub & Brewery",1259799264,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
-"165",2695,"Bull & Bush Pub & Brewery",1247186159,4,4,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
-"166",2695,"Bull & Bush Pub & Brewery",1244493496,3.5,3,3,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
-"167",2695,"Bull & Bush Pub & Brewery",1225486881,4,4,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
-"168",2695,"Bull & Bush Pub & Brewery",1215874018,4,4,4.5,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
-"169",2695,"Bull & Bush Pub & Brewery",1204718298,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Man Beer",7,13988
-"170",2695,"Bull & Bush Pub & Brewery",1198712174,4,4.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
-"171",2695,"Bull & Bush Pub & Brewery",1180627298,4.5,4,5,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
-"172",2695,"Bull & Bush Pub & Brewery",1180238802,3.5,4.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
-"173",2695,"Bull & Bush Pub & Brewery",1161726876,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
-"174",2695,"Bull & Bush Pub & Brewery",1163439705,4,4,4,"American IPA",4,4,"Justice",NA,28056
-"175",2695,"Bull & Bush Pub & Brewery",1156016461,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
-"176",2695,"Bull & Bush Pub & Brewery",1152589143,5,3,3.5,"English India Pale Ale (IPA)",5,5,"Man Beer",7,13988
-"177",2695,"Bull & Bush Pub & Brewery",1147833419,4,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Man Beer",7,13988
-"178",2695,"Bull & Bush Pub & Brewery",1142039187,4,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
-"179",2695,"Bull & Bush Pub & Brewery",1095692427,4,5,4.5,"English India Pale Ale (IPA)",2.5,3.5,"Man Beer",7,13988
-"180",2695,"Bull & Bush Pub & Brewery",1084039620,4,4,4,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
-"181",2695,"Bull & Bush Pub & Brewery",1070405678,3.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
-"182",2695,"Bull & Bush Pub & Brewery",1200609742,4.5,4,4,"American IPA",4,4.5,"Justice",NA,28056
-"183",2695,"Bull & Bush Pub & Brewery",1174662847,4.5,4,4,"American IPA",4,4.5,"Justice",NA,28056
-"184",2695,"Bull & Bush Pub & Brewery",1171684300,4.5,3.5,4.5,"American IPA",4,4,"Justice",NA,28056
-"185",2695,"Bull & Bush Pub & Brewery",1163106274,4,4,3,"American IPA",4.5,4,"Justice",NA,28056
-"186",2695,"Bull & Bush Pub & Brewery",1138526845,4,4.5,4.5,"American IPA",4,4.5,"Justice",NA,28056
+"3",2695,"Bull & Bush Pub & Brewery",1138577160,4,4,4,"English Stout",4,4,"Stonehenge Stout",NA,13990
+"4",2695,"Bull & Bush Pub & Brewery",1322904664,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"5",2695,"Bull & Bush Pub & Brewery",1322194432,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"6",2695,"Bull & Bush Pub & Brewery",1303439415,4.5,4,4,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"7",2695,"Bull & Bush Pub & Brewery",1290144040,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
+"8",2695,"Bull & Bush Pub & Brewery",1181162240,5,4,4,"American Double / Imperial Stout",3.5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"9",2695,"Bull & Bush Pub & Brewery",1176424829,3,5,4.5,"American Double / Imperial Stout",3.5,3,"Legend Of The Liquid Brain",11.5,22421
+"10",2695,"Bull & Bush Pub & Brewery",1284740406,2.5,2.5,4.5,"American Double / Imperial Stout",4,2,"Legend Of The Liquid Brain",11.5,22421
+"11",2695,"Bull & Bush Pub & Brewery",1276197947,4.5,5,4,"American Double / Imperial Stout",5,5,"Legend Of The Liquid Brain",11.5,22421
+"12",2695,"Bull & Bush Pub & Brewery",1276189684,4,5,3.5,"American Double / Imperial Stout",4,5,"Legend Of The Liquid Brain",11.5,22421
+"13",2695,"Bull & Bush Pub & Brewery",1274758754,3.5,4,3.5,"American Double / Imperial Stout",4,4,"Legend Of The Liquid Brain",11.5,22421
+"14",2695,"Bull & Bush Pub & Brewery",1270684368,3.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
+"15",2695,"Bull & Bush Pub & Brewery",1236192178,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"16",2695,"Bull & Bush Pub & Brewery",1207108817,4,4,4,"American Double / Imperial Stout",4,4,"Legend Of The Liquid Brain",11.5,22421
+"17",2695,"Bull & Bush Pub & Brewery",1204719374,4.5,4,5,"American Double / Imperial Stout",4.5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"18",2695,"Bull & Bush Pub & Brewery",1199038274,4.5,3,4.5,"American Double / Imperial Stout",4.5,3.5,"Legend Of The Liquid Brain",11.5,22421
+"19",2695,"Bull & Bush Pub & Brewery",1171681070,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Legend Of The Liquid Brain",11.5,22421
+"20",2695,"Bull & Bush Pub & Brewery",1163440044,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Legend Of The Liquid Brain",11.5,22421
+"21",2695,"Bull & Bush Pub & Brewery",1271908033,4,4,4,"American IPA",3.5,4.5,"No Coast IPA",6,45433
+"22",2695,"Bull & Bush Pub & Brewery",1259799590,4,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
+"23",2695,"Bull & Bush Pub & Brewery",1247185776,3.5,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
+"24",2695,"Bull & Bush Pub & Brewery",1242430120,3.5,4,4,"American IPA",3.5,3.5,"No Coast IPA",6,45433
+"25",2695,"Bull & Bush Pub & Brewery",1224301979,3.5,3.5,4,"American IPA",4,3.5,"No Coast IPA",6,45433
+"26",2695,"Bull & Bush Pub & Brewery",1305938962,3.5,3.5,3.5,"English Strong Ale",4,3.5,"Union Jack",9,35746
+"27",2695,"Bull & Bush Pub & Brewery",1243892785,4,4,4,"English Stout",3.5,4,"Stonehenge Stout",NA,13990
+"28",2695,"Bull & Bush Pub & Brewery",1197859024,4.5,4.5,3.5,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
+"29",2695,"Bull & Bush Pub & Brewery",1178491024,4,4,3.5,"English Strong Ale",4,4,"Union Jack",9,35746
+"30",2695,"Bull & Bush Pub & Brewery",1177948594,4,3.5,4,"English Strong Ale",4,4,"Union Jack",9,35746
+"31",2695,"Bull & Bush Pub & Brewery",1173304858,3.5,3.5,4,"English Strong Ale",3.5,3,"Union Jack",9,35746
+"32",2695,"Bull & Bush Pub & Brewery",1325360607,3.5,3.5,3.5,"English Stout",3,4,"Stonehenge Stout",NA,13990
+"33",2695,"Bull & Bush Pub & Brewery",1317852013,3.5,4.5,4,"English Stout",3.5,3.5,"Stonehenge Stout",NA,13990
+"34",2695,"Bull & Bush Pub & Brewery",1305938148,3.5,3.5,4,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
+"35",2695,"Bull & Bush Pub & Brewery",1303482193,4,4,4,"English Stout",4,4,"Stonehenge Stout",NA,13990
+"36",2695,"Bull & Bush Pub & Brewery",1260981382,4.5,4,4,"English Stout",5,4,"Stonehenge Stout",NA,13990
+"37",2695,"Bull & Bush Pub & Brewery",1254080926,4.5,3,4,"English Stout",4,3.5,"Stonehenge Stout",NA,13990
+"38",2695,"Bull & Bush Pub & Brewery",1089495924,4,4,3.5,"English Stout",3.5,4.5,"Stonehenge Stout",NA,13990
+"39",2695,"Bull & Bush Pub & Brewery",1308576043,4,4.5,3.5,"Winter Warmer",4.5,4,"Yule Fuel",NA,38143
+"40",2695,"Bull & Bush Pub & Brewery",1305938820,4,4,4,"Winter Warmer",4.5,4,"Yule Fuel",NA,38143
+"41",2695,"Bull & Bush Pub & Brewery",1204719851,4.5,4.5,4.5,"Winter Warmer",4,4.5,"Yule Fuel",NA,38143
+"42",2695,"Bull & Bush Pub & Brewery",1187043773,3.5,4.5,4,"Winter Warmer",3.5,4.5,"Yule Fuel",NA,38143
+"43",2695,"Bull & Bush Pub & Brewery",1186892977,3.5,4,4,"Winter Warmer",4,4.5,"Yule Fuel",NA,38143
+"44",2695,"Bull & Bush Pub & Brewery",1225485571,4,4,4,"Rye Beer",3.5,4,"Pimp My Rye",NA,41611
+"45",2695,"Bull & Bush Pub & Brewery",1205713066,4,4,4,"Rye Beer",4.5,4.5,"Pimp My Rye",NA,41611
+"46",2695,"Bull & Bush Pub & Brewery",1271523230,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
+"47",2695,"Bull & Bush Pub & Brewery",1320782603,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Tower ESB",NA,24280
+"48",2695,"Bull & Bush Pub & Brewery",1309228359,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Tower ESB",NA,24280
+"49",2695,"Bull & Bush Pub & Brewery",1305937841,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Tower ESB",NA,24280
+"50",2695,"Bull & Bush Pub & Brewery",1243891827,4.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Tower ESB",NA,24280
+"51",2695,"Bull & Bush Pub & Brewery",1242954804,5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Tower ESB",NA,24280
+"52",2695,"Bull & Bush Pub & Brewery",1219727606,5,4,4,"Extra Special / Strong Bitter (ESB)",4,5,"Tower ESB",NA,24280
+"53",2695,"Bull & Bush Pub & Brewery",1191787643,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Tower ESB",NA,24280
+"54",2695,"Bull & Bush Pub & Brewery",1180239329,4.5,5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
+"55",2695,"Bull & Bush Pub & Brewery",1167107628,3,3.5,2.5,"Extra Special / Strong Bitter (ESB)",4,3,"Tower ESB",NA,24280
+"56",2695,"Bull & Bush Pub & Brewery",1153022496,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Tower ESB",NA,24280
+"57",2695,"Bull & Bush Pub & Brewery",1138577317,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Tower ESB",NA,24280
+"58",2695,"Bull & Bush Pub & Brewery",1325360973,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Big Ben Brown Ale",NA,13989
+"59",2695,"Bull & Bush Pub & Brewery",1305936405,4,4,4,"English Brown Ale",4,4,"Big Ben Brown Ale",NA,13989
+"60",2695,"Bull & Bush Pub & Brewery",1297609017,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Big Ben Brown Ale",NA,13989
+"61",2695,"Bull & Bush Pub & Brewery",1259800236,4,4,4,"English Brown Ale",4,3.5,"Big Ben Brown Ale",NA,13989
+"62",2695,"Bull & Bush Pub & Brewery",1215226293,4.5,4.5,5,"English Brown Ale",5,4.5,"Big Ben Brown Ale",NA,13989
+"63",2695,"Bull & Bush Pub & Brewery",1211899149,4,3.5,4,"English Brown Ale",4,4,"Big Ben Brown Ale",NA,13989
+"64",2695,"Bull & Bush Pub & Brewery",1180239196,3,4,4,"English Brown Ale",3.5,3,"Big Ben Brown Ale",NA,13989
+"65",2695,"Bull & Bush Pub & Brewery",1175554754,4,4,4,"English Brown Ale",4,4.5,"Big Ben Brown Ale",NA,13989
+"66",2695,"Bull & Bush Pub & Brewery",1146368829,4,4,4,"English Brown Ale",4,3.5,"Big Ben Brown Ale",NA,13989
+"67",2695,"Bull & Bush Pub & Brewery",1070648956,3.5,3.5,3.5,"English Brown Ale",3,4,"Big Ben Brown Ale",NA,13989
+"68",2695,"Bull & Bush Pub & Brewery",1184770622,4,4,4,"Schwarzbier",4,4,"Black Bull",NA,37406
+"69",2695,"Bull & Bush Pub & Brewery",1182795039,3.5,4,4,"Schwarzbier",4,3.5,"Black Bull",NA,37406
+"70",2695,"Bull & Bush Pub & Brewery",1290187531,4.5,5,4,"English Barleywine",5,5,"Royal Oil",12.5,36275
+"71",2695,"Bull & Bush Pub & Brewery",1284816209,5,5,4,"English Barleywine",5,5,"Royal Oil",12.5,36275
+"72",2695,"Bull & Bush Pub & Brewery",1274759071,4,4.5,4,"English Barleywine",4,4.5,"Royal Oil",12.5,36275
+"73",2695,"Bull & Bush Pub & Brewery",1260602971,5,4,4.5,"English Barleywine",5,5,"Royal Oil",12.5,36275
+"74",2695,"Bull & Bush Pub & Brewery",1260459521,4,5,4,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
+"75",2695,"Bull & Bush Pub & Brewery",1259801745,5,5,5,"English Barleywine",5,5,"Royal Oil",12.5,36275
+"76",2695,"Bull & Bush Pub & Brewery",1214760521,4.5,4,4,"English Barleywine",4.5,4,"Royal Oil",12.5,36275
+"77",2695,"Bull & Bush Pub & Brewery",1206649600,4.5,5,5,"English Barleywine",5,5,"Royal Oil",12.5,36275
+"78",2695,"Bull & Bush Pub & Brewery",1204720572,4.5,4.5,4,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
+"79",2695,"Bull & Bush Pub & Brewery",1198711375,4,4,4,"English Barleywine",2.5,4.5,"Royal Oil",12.5,36275
+"80",2695,"Bull & Bush Pub & Brewery",1197859758,4.5,5,3,"English Barleywine",4,5,"Royal Oil",12.5,36275
+"81",2695,"Bull & Bush Pub & Brewery",1182230916,4,5,4.5,"English Barleywine",4.5,5,"Royal Oil",12.5,36275
+"82",2695,"Bull & Bush Pub & Brewery",1181163301,3.5,4.5,4,"English Barleywine",4,4.5,"Royal Oil",12.5,36275
+"83",2695,"Bull & Bush Pub & Brewery",1180987413,3,4,4,"English Barleywine",3,4.5,"Royal Oil",12.5,36275
+"84",2695,"Bull & Bush Pub & Brewery",1176064509,3.5,4,4.5,"English Barleywine",4,5,"Royal Oil",12.5,36275
+"85",2695,"Bull & Bush Pub & Brewery",1309062762,4,3,3.5,"German Pilsener",3.5,4,"Happy Hop Pilsner",NA,37915
+"86",2695,"Bull & Bush Pub & Brewery",1259801423,4.5,4,3.5,"German Pilsener",4,4,"Happy Hop Pilsner",NA,37915
+"87",2695,"Bull & Bush Pub & Brewery",1208303410,4.5,4,4,"German Pilsener",3.5,4.5,"Happy Hop Pilsner",NA,37915
+"88",2695,"Bull & Bush Pub & Brewery",1203398212,5,4.5,3.5,"German Pilsener",4,4.5,"Happy Hop Pilsner",NA,37915
+"89",2695,"Bull & Bush Pub & Brewery",1200083803,4,3,3.5,"German Pilsener",4,3,"Happy Hop Pilsner",NA,37915
+"90",2695,"Bull & Bush Pub & Brewery",1190773962,4.5,4,4,"German Pilsener",4.5,4.5,"Happy Hop Pilsner",NA,37915
+"91",2695,"Bull & Bush Pub & Brewery",1185467594,4.5,4,4,"German Pilsener",4,4.5,"Happy Hop Pilsner",NA,37915
+"92",2695,"Bull & Bush Pub & Brewery",1309103746,3.5,3,3,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
+"93",2695,"Bull & Bush Pub & Brewery",1308070934,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
+"94",2695,"Bull & Bush Pub & Brewery",1305938013,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
+"95",2695,"Bull & Bush Pub & Brewery",1282589006,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
+"96",2695,"Bull & Bush Pub & Brewery",1279837692,3.5,4,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
+"97",2695,"Bull & Bush Pub & Brewery",1270684638,2,1.5,4.5,"English India Pale Ale (IPA)",3.5,1.5,"Man Beer",7,13988
+"98",2695,"Bull & Bush Pub & Brewery",1265583214,4,3,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
+"99",2695,"Bull & Bush Pub & Brewery",1259799264,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
+"100",2695,"Bull & Bush Pub & Brewery",1247186159,4,4,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
+"101",2695,"Bull & Bush Pub & Brewery",1244493496,3.5,3,3,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
+"102",2695,"Bull & Bush Pub & Brewery",1225486881,4,4,4,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
+"103",2695,"Bull & Bush Pub & Brewery",1215874018,4,4,4.5,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
+"104",2695,"Bull & Bush Pub & Brewery",1204718298,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Man Beer",7,13988
+"105",2695,"Bull & Bush Pub & Brewery",1198712174,4,4.5,4,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
+"106",2695,"Bull & Bush Pub & Brewery",1180627298,4.5,4,5,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
+"107",2695,"Bull & Bush Pub & Brewery",1180238802,3.5,4.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Man Beer",7,13988
+"108",2695,"Bull & Bush Pub & Brewery",1161726876,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Man Beer",7,13988
+"109",2695,"Bull & Bush Pub & Brewery",1163439705,4,4,4,"American IPA",4,4,"Justice",NA,28056
+"110",2695,"Bull & Bush Pub & Brewery",1156016461,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
+"111",2695,"Bull & Bush Pub & Brewery",1152589143,5,3,3.5,"English India Pale Ale (IPA)",5,5,"Man Beer",7,13988
+"112",2695,"Bull & Bush Pub & Brewery",1147833419,4,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Man Beer",7,13988
+"113",2695,"Bull & Bush Pub & Brewery",1142039187,4,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Man Beer",7,13988
+"114",2695,"Bull & Bush Pub & Brewery",1095692427,4,5,4.5,"English India Pale Ale (IPA)",2.5,3.5,"Man Beer",7,13988
+"115",2695,"Bull & Bush Pub & Brewery",1084039620,4,4,4,"English India Pale Ale (IPA)",4,4.5,"Man Beer",7,13988
+"116",2695,"Bull & Bush Pub & Brewery",1070405678,3.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Man Beer",7,13988
+"117",2695,"Bull & Bush Pub & Brewery",1200609742,4.5,4,4,"American IPA",4,4.5,"Justice",NA,28056
+"118",2695,"Bull & Bush Pub & Brewery",1174662847,4.5,4,4,"American IPA",4,4.5,"Justice",NA,28056
+"119",2695,"Bull & Bush Pub & Brewery",1171684300,4.5,3.5,4.5,"American IPA",4,4,"Justice",NA,28056
+"120",2695,"Bull & Bush Pub & Brewery",1163106274,4,4,3,"American IPA",4.5,4,"Justice",NA,28056
+"121",2695,"Bull & Bush Pub & Brewery",1138526845,4,4.5,4.5,"American IPA",4,4.5,"Justice",NA,28056

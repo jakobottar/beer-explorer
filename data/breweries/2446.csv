@@ -1,180 +1,158 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",2446,"Catawba Valley Brewing Company",1290394775,4.5,5,4,"Pumpkin Ale",4,4.5,"King Don's Original Pumpkin Ale",5,13282
 "2",2446,"Catawba Valley Brewing Company",1164673245,4,4,4,"Pumpkin Ale",4,4.5,"King Don's Original Pumpkin Ale",5,13282
-"3",2446,"Catawba Valley Brewing Company",1301414066,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Le Sexxxy Saison",NA,58776
-"4",2446,"Catawba Valley Brewing Company",1275307104,3.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Le Sexxxy Saison",NA,58776
-"5",2446,"Catawba Valley Brewing Company",1173914063,2.5,3,3,"American Pale Wheat Ale",2.5,2.5,"King Karma Ale",5.6,14591
-"6",2446,"Catawba Valley Brewing Company",1092700039,4,3.5,4,"American Pale Wheat Ale",4,4,"King Karma Ale",5.6,14591
-"7",2446,"Catawba Valley Brewing Company",1088518001,3.5,4,3.5,"American Pale Wheat Ale",4,4,"King Karma Ale",5.6,14591
-"8",2446,"Catawba Valley Brewing Company",1315886310,4,4,3,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
-"9",2446,"Catawba Valley Brewing Company",1293079974,4.5,4.5,4.5,"Pumpkin Ale",4.5,4.5,"King Don's Original Pumpkin Ale",5,13282
-"10",2446,"Catawba Valley Brewing Company",1288515076,4.5,5,4,"Pumpkin Ale",4.5,5,"King Don's Original Pumpkin Ale",5,13282
-"11",2446,"Catawba Valley Brewing Company",1263486288,3.5,4,3.5,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
-"12",2446,"Catawba Valley Brewing Company",1237935589,5,4.5,4.5,"Pumpkin Ale",5,5,"King Don's Original Pumpkin Ale",5,13282
-"13",2446,"Catawba Valley Brewing Company",1225423947,4,4.5,4,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
-"14",2446,"Catawba Valley Brewing Company",1222213459,4.5,4.5,4.5,"Pumpkin Ale",4.5,4.5,"King Don's Original Pumpkin Ale",5,13282
-"15",2446,"Catawba Valley Brewing Company",1212956472,4.5,4.5,4.5,"Pumpkin Ale",4,5,"King Don's Original Pumpkin Ale",5,13282
-"16",2446,"Catawba Valley Brewing Company",1192423027,4,4,4.5,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
-"17",2446,"Catawba Valley Brewing Company",1191206220,4,4,3.5,"Pumpkin Ale",3.5,3.5,"King Don's Original Pumpkin Ale",5,13282
-"18",2446,"Catawba Valley Brewing Company",1190670369,4,3.5,3.5,"Pumpkin Ale",3.5,3.5,"King Don's Original Pumpkin Ale",5,13282
-"19",2446,"Catawba Valley Brewing Company",1190441934,4,4,3,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
-"20",2446,"Catawba Valley Brewing Company",1162616046,4.5,4,3.5,"Pumpkin Ale",3,3.5,"King Don's Original Pumpkin Ale",5,13282
-"21",2446,"Catawba Valley Brewing Company",1159828224,3.5,3.5,3.5,"Pumpkin Ale",2.5,3,"King Don's Original Pumpkin Ale",5,13282
-"22",2446,"Catawba Valley Brewing Company",1156726381,4,4.5,3.5,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
-"23",2446,"Catawba Valley Brewing Company",1102280012,4,4,4,"Pumpkin Ale",4,4,"King Don's Original Pumpkin Ale",5,13282
-"24",2446,"Catawba Valley Brewing Company",1096768719,3.5,4,4,"Pumpkin Ale",3,3.5,"King Don's Original Pumpkin Ale",5,13282
-"25",2446,"Catawba Valley Brewing Company",1095203722,4,4.5,4,"Pumpkin Ale",4,4,"King Don's Original Pumpkin Ale",5,13282
-"26",2446,"Catawba Valley Brewing Company",1071370224,4,4.5,4,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
-"27",2446,"Catawba Valley Brewing Company",1066428329,4,4.5,4,"Pumpkin Ale",4,4.5,"King Don's Original Pumpkin Ale",5,13282
-"28",2446,"Catawba Valley Brewing Company",1311337347,4.5,5,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
-"29",2446,"Catawba Valley Brewing Company",1311208248,4.5,4,4.5,"American Porter",5,4.5,"King Coconut Porter",5.4,14592
-"30",2446,"Catawba Valley Brewing Company",1310915426,4.5,4.5,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
-"31",2446,"Catawba Valley Brewing Company",1308286402,4,5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
-"32",2446,"Catawba Valley Brewing Company",1296056200,5,4.5,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
-"33",2446,"Catawba Valley Brewing Company",1270170786,4,4,3.5,"American Porter",4.5,5,"King Coconut Porter",5.4,14592
-"34",2446,"Catawba Valley Brewing Company",1263485124,4.5,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
-"35",2446,"Catawba Valley Brewing Company",1257708082,4,3.5,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
-"36",2446,"Catawba Valley Brewing Company",1251513593,4,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
-"37",2446,"Catawba Valley Brewing Company",1246325280,4.5,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
-"38",2446,"Catawba Valley Brewing Company",1212842768,5,4.5,4,"American Porter",5,4.5,"King Coconut Porter",5.4,14592
-"39",2446,"Catawba Valley Brewing Company",1191613702,4,4,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
-"40",2446,"Catawba Valley Brewing Company",1179736304,4.5,4.5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
-"41",2446,"Catawba Valley Brewing Company",1170555813,4.5,4.5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
-"42",2446,"Catawba Valley Brewing Company",1154289352,3.5,4,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
-"43",2446,"Catawba Valley Brewing Company",1146865687,3.5,4,4,"American Porter",3.5,4,"King Coconut Porter",5.4,14592
-"44",2446,"Catawba Valley Brewing Company",1146797344,4,3.5,4,"American Porter",4,5,"King Coconut Porter",5.4,14592
-"45",2446,"Catawba Valley Brewing Company",1084577394,4,5,4.5,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
-"46",2446,"Catawba Valley Brewing Company",1285472177,4,4,4,"American Black Ale",4,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"47",2446,"Catawba Valley Brewing Company",1282347857,4.5,4.5,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"48",2446,"Catawba Valley Brewing Company",1263389903,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"49",2446,"Catawba Valley Brewing Company",1206659885,3.5,3.5,3.5,"American Black Ale",3.5,3.5,"Blackwater Uber Pale Ale",9.2,37952
-"50",2446,"Catawba Valley Brewing Company",1261007615,4,4,4.5,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"51",2446,"Catawba Valley Brewing Company",1250734398,4.5,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"52",2446,"Catawba Valley Brewing Company",1250110074,4,3,4,"American Black Ale",4,3.5,"Blackwater Uber Pale Ale",9.2,37952
-"53",2446,"Catawba Valley Brewing Company",1246140249,4,4.5,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"54",2446,"Catawba Valley Brewing Company",1231479142,4,4,3.5,"American Black Ale",3.5,4,"Blackwater Uber Pale Ale",9.2,37952
-"55",2446,"Catawba Valley Brewing Company",1224540730,4.5,4,4,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"56",2446,"Catawba Valley Brewing Company",1214867577,3.5,4,4,"American Black Ale",3.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"57",2446,"Catawba Valley Brewing Company",1214535421,4.5,4,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"58",2446,"Catawba Valley Brewing Company",1193412175,4,3,3,"American Black Ale",4,5,"Blackwater Uber Pale Ale",9.2,37952
-"59",2446,"Catawba Valley Brewing Company",1192652929,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"60",2446,"Catawba Valley Brewing Company",1192198229,4,4,5,"American Black Ale",4.5,4,"Blackwater Uber Pale Ale",9.2,37952
-"61",2446,"Catawba Valley Brewing Company",1191454284,4,4,3.5,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"62",2446,"Catawba Valley Brewing Company",1189647606,5,4.5,3.5,"American Black Ale",4,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"63",2446,"Catawba Valley Brewing Company",1189532597,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
-"64",2446,"Catawba Valley Brewing Company",1185679876,4,4,3.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
-"65",2446,"Catawba Valley Brewing Company",1301658828,3,3,3.5,"Cream Ale",3.5,3,"Farmer Ted's Cream Ale",5,25101
-"66",2446,"Catawba Valley Brewing Company",1296245653,2.5,3,3,"Cream Ale",2,2.5,"Farmer Ted's Cream Ale",5,25101
-"67",2446,"Catawba Valley Brewing Company",1273546176,4,3.5,3,"Cream Ale",5,4,"Farmer Ted's Cream Ale",5,25101
-"68",2446,"Catawba Valley Brewing Company",1263390258,4,3.5,3.5,"Cream Ale",4,3.5,"Farmer Ted's Cream Ale",5,25101
-"69",2446,"Catawba Valley Brewing Company",1189519434,3.5,3.5,3.5,"Cream Ale",3.5,3.5,"Farmer Ted's Cream Ale",5,25101
-"70",2446,"Catawba Valley Brewing Company",1147135540,3.5,3,3,"Cream Ale",3,3,"Farmer Ted's Cream Ale",5,25101
-"71",2446,"Catawba Valley Brewing Company",1140200686,4,3.5,3,"Cream Ale",3,3.5,"Farmer Ted's Cream Ale",5,25101
-"72",2446,"Catawba Valley Brewing Company",1123005739,4,4,4,"Cream Ale",4,4,"Farmer Ted's Cream Ale",5,25101
-"73",2446,"Catawba Valley Brewing Company",1308025701,3.5,3.5,4,"Flanders Oud Bruin",3.5,3.5,"Oakey Dokey",6,63654
-"74",2446,"Catawba Valley Brewing Company",1307564233,4,4.5,4,"Flanders Oud Bruin",3,4,"Oakey Dokey",6,63654
-"75",2446,"Catawba Valley Brewing Company",1290105638,3.5,3.5,3.5,"Flanders Oud Bruin",4,3.5,"Oakey Dokey",6,63654
-"76",2446,"Catawba Valley Brewing Company",1307744342,4,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"77",2446,"Catawba Valley Brewing Company",1278427948,4,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"78",2446,"Catawba Valley Brewing Company",1278032014,4.5,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"79",2446,"Catawba Valley Brewing Company",1250109577,3.5,4.5,3.5,"American IPA",3.5,4,"Whiskey River IPA",7.2,32371
-"80",2446,"Catawba Valley Brewing Company",1265902658,5,4.5,4,"American IPA",4.5,5,"Whiskey River IPA",7.2,32371
-"81",2446,"Catawba Valley Brewing Company",1263486911,4.5,4.5,3.5,"American IPA",4,4,"Whiskey River IPA",7.2,32371
-"82",2446,"Catawba Valley Brewing Company",1255220079,4,4.5,4,"American IPA",4.5,4.5,"Whiskey River IPA",7.2,32371
-"83",2446,"Catawba Valley Brewing Company",1252470372,4.5,4.5,3.5,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"84",2446,"Catawba Valley Brewing Company",1250786513,3.5,4.5,4,"American IPA",4,4,"Whiskey River IPA",7.2,32371
-"85",2446,"Catawba Valley Brewing Company",1250638562,5,4.5,4.5,"American IPA",5,4.5,"Whiskey River IPA",7.2,32371
-"86",2446,"Catawba Valley Brewing Company",1250174193,4.5,4.5,3.5,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"87",2446,"Catawba Valley Brewing Company",1156130543,4,4.5,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
-"88",2446,"Catawba Valley Brewing Company",1156129546,4,4.5,3.5,"American IPA",4,5,"Whiskey River IPA",7.2,32371
-"89",2446,"Catawba Valley Brewing Company",1156038030,4,4,4,"American IPA",4,4,"Whiskey River IPA",7.2,32371
-"90",2446,"Catawba Valley Brewing Company",1315237598,3.5,3.5,4,"American IPA",3.5,4,"Firewater IPA",5.2,8950
-"91",2446,"Catawba Valley Brewing Company",1304384713,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
-"92",2446,"Catawba Valley Brewing Company",1301659086,3.5,3.5,4,"American IPA",3.5,3,"Firewater IPA",5.2,8950
-"93",2446,"Catawba Valley Brewing Company",1300510769,3.5,3,3,"American IPA",4,4,"Firewater IPA",5.2,8950
-"94",2446,"Catawba Valley Brewing Company",1298168996,3,3,3,"American IPA",3,3,"Firewater IPA",5.2,8950
-"95",2446,"Catawba Valley Brewing Company",1293808635,2,3,4,"American IPA",3,2.5,"Firewater IPA",5.2,8950
-"96",2446,"Catawba Valley Brewing Company",1243455282,4,4,3,"English Brown Ale",4,3.5,"Brown Bear Ale",4.5,14413
-"97",2446,"Catawba Valley Brewing Company",1293372960,4,2.5,3,"American IPA",4,3,"Firewater IPA",5.2,8950
-"98",2446,"Catawba Valley Brewing Company",1278900191,4,3.5,4,"American IPA",4,3.5,"Firewater IPA",5.2,8950
-"99",2446,"Catawba Valley Brewing Company",1275225439,3.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"100",2446,"Catawba Valley Brewing Company",1272478468,4,3,3.5,"American IPA",3.5,3,"Firewater IPA",5.2,8950
-"101",2446,"Catawba Valley Brewing Company",1263484630,3.5,3.5,3.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
-"102",2446,"Catawba Valley Brewing Company",1243977777,3,3,3,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"103",2446,"Catawba Valley Brewing Company",1240402683,4,3.5,4,"American IPA",4,4,"Firewater IPA",5.2,8950
-"104",2446,"Catawba Valley Brewing Company",1238338684,2,3,3,"American IPA",3,1.5,"Firewater IPA",5.2,8950
-"105",2446,"Catawba Valley Brewing Company",1233275695,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
-"106",2446,"Catawba Valley Brewing Company",1231492308,3,3.5,3,"American IPA",3,3,"Firewater IPA",5.2,8950
-"107",2446,"Catawba Valley Brewing Company",1227567684,4.5,3.5,4.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
-"108",2446,"Catawba Valley Brewing Company",1217957865,4.5,4,4.5,"American IPA",4,4,"Firewater IPA",5.2,8950
-"109",2446,"Catawba Valley Brewing Company",1217093083,3.5,3.5,3.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
-"110",2446,"Catawba Valley Brewing Company",1204946571,4,3.5,4,"American IPA",4,4,"Firewater IPA",5.2,8950
-"111",2446,"Catawba Valley Brewing Company",1193410165,3.5,4,3,"American IPA",3,3.5,"Firewater IPA",5.2,8950
-"112",2446,"Catawba Valley Brewing Company",1192422236,4,4,4.5,"American IPA",4,4,"Firewater IPA",5.2,8950
-"113",2446,"Catawba Valley Brewing Company",1191954631,4,4,3.5,"American IPA",4.5,4,"Firewater IPA",5.2,8950
-"114",2446,"Catawba Valley Brewing Company",1184787542,3.5,3.5,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
-"115",2446,"Catawba Valley Brewing Company",1174877570,3.5,3.5,3.5,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"116",2446,"Catawba Valley Brewing Company",1170560988,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
-"117",2446,"Catawba Valley Brewing Company",1163996376,3.5,3.5,3.5,"American IPA",3,3.5,"Firewater IPA",5.2,8950
-"118",2446,"Catawba Valley Brewing Company",1146796922,4,3.5,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
-"119",2446,"Catawba Valley Brewing Company",1129562518,3.5,4,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
-"120",2446,"Catawba Valley Brewing Company",1128293988,3,3,3.5,"American IPA",3.5,2.5,"Firewater IPA",5.2,8950
-"121",2446,"Catawba Valley Brewing Company",1124582734,4.5,4,3.5,"American IPA",4.5,3,"Firewater IPA",5.2,8950
-"122",2446,"Catawba Valley Brewing Company",1123530118,4,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"123",2446,"Catawba Valley Brewing Company",1121905684,4.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"124",2446,"Catawba Valley Brewing Company",1111359428,4,3.5,3.5,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"125",2446,"Catawba Valley Brewing Company",1105754503,3.5,3.5,4,"American IPA",3.5,4,"Firewater IPA",5.2,8950
-"126",2446,"Catawba Valley Brewing Company",1100202946,3.5,3.5,4,"American IPA",4,3.5,"Firewater IPA",5.2,8950
-"127",2446,"Catawba Valley Brewing Company",1081211220,4.5,4.5,3,"American IPA",4,5,"Firewater IPA",5.2,8950
-"128",2446,"Catawba Valley Brewing Company",1063287431,3.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
-"129",2446,"Catawba Valley Brewing Company",1047708560,3.5,3,3.5,"American IPA",3,2.5,"Firewater IPA",5.2,8950
-"130",2446,"Catawba Valley Brewing Company",1205076412,4.5,4,4,"American Stout",4,4.5,"Bier De Clam",NA,38408
-"131",2446,"Catawba Valley Brewing Company",1195941754,4,3.5,3,"American Stout",4,4,"Bier De Clam",NA,38408
-"132",2446,"Catawba Valley Brewing Company",1188182436,4,3.5,4,"American Stout",3.5,4,"Bier De Clam",NA,38408
-"133",2446,"Catawba Valley Brewing Company",1206757675,4,4,3.5,"American Stout",3.5,4,"Whiskey River Stout",NA,41844
-"134",2446,"Catawba Valley Brewing Company",1316146865,4,4.5,4,"American Wild Ale",3.5,3.5,"Momotaro",4.9,73052
-"135",2446,"Catawba Valley Brewing Company",1315781146,4,3.5,3.5,"American Wild Ale",4,4,"Momotaro",4.9,73052
-"136",2446,"Catawba Valley Brewing Company",1297183537,5,4.5,4.5,"Witbier",4.5,4.5,"White Zombie Ale",NA,55375
-"137",2446,"Catawba Valley Brewing Company",1281894271,4,4,4,"Witbier",3.5,4,"White Zombie Ale",NA,55375
-"138",2446,"Catawba Valley Brewing Company",1273545917,5,4,4,"Witbier",4.5,4,"White Zombie Ale",NA,55375
-"139",2446,"Catawba Valley Brewing Company",1265902836,4,3.5,4,"Witbier",4,3.5,"White Zombie Ale",NA,55375
-"140",2446,"Catawba Valley Brewing Company",1263388464,4.5,4,3.5,"Witbier",4,4,"White Zombie Ale",NA,55375
-"141",2446,"Catawba Valley Brewing Company",1290350041,2,3.5,3.5,"English Brown Ale",3,2.5,"Bears 'n Roses",NA,60696
-"142",2446,"Catawba Valley Brewing Company",1280809730,4,4,4,"English Brown Ale",4,4,"Bears 'n Roses",NA,60696
-"143",2446,"Catawba Valley Brewing Company",1257708396,4,4,4,"American Stout",4,4,"Honest Injun Stout",5,6150
-"144",2446,"Catawba Valley Brewing Company",1170555494,4,4,4,"American Stout",3.5,3.5,"Honest Injun Stout",5,6150
-"145",2446,"Catawba Valley Brewing Company",1147136330,4,4,4.5,"American Stout",4,4.5,"Honest Injun Stout",5,6150
-"146",2446,"Catawba Valley Brewing Company",1140823482,4.5,4,3.5,"American Stout",3.5,4.5,"Honest Injun Stout",5,6150
-"147",2446,"Catawba Valley Brewing Company",1102280771,4,3.5,4,"American Stout",3.5,4,"Honest Injun Stout",5,6150
-"148",2446,"Catawba Valley Brewing Company",1082513474,3.5,3.5,4.5,"American Stout",3.5,3.5,"Honest Injun Stout",5,6150
-"149",2446,"Catawba Valley Brewing Company",1050476065,4,4,4,"American Stout",4,4.5,"Honest Injun Stout",5,6150
-"150",2446,"Catawba Valley Brewing Company",1032516877,3,2,2,"American Stout",3,2,"Honest Injun Stout",5,6150
-"151",2446,"Catawba Valley Brewing Company",1297035999,2,2,2,"English Brown Ale",2.5,1,"Brown Bear Ale",4.5,14413
-"152",2446,"Catawba Valley Brewing Company",1278636693,4,4,4,"English Brown Ale",4.5,4,"Brown Bear Ale",4.5,14413
-"153",2446,"Catawba Valley Brewing Company",1190666052,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Brown Bear Ale",4.5,14413
-"154",2446,"Catawba Valley Brewing Company",1183377665,3.5,4,4.5,"English Brown Ale",4,3.5,"Brown Bear Ale",4.5,14413
-"155",2446,"Catawba Valley Brewing Company",1170555075,4.5,4,4,"English Brown Ale",4,4.5,"Brown Bear Ale",4.5,14413
-"156",2446,"Catawba Valley Brewing Company",1159828543,4,3.5,4,"English Brown Ale",4.5,4,"Brown Bear Ale",4.5,14413
-"157",2446,"Catawba Valley Brewing Company",1159319290,4,3.5,4,"English Brown Ale",4,4,"Brown Bear Ale",4.5,14413
-"158",2446,"Catawba Valley Brewing Company",1147135891,4,4,4.5,"English Brown Ale",4,4.5,"Brown Bear Ale",4.5,14413
-"159",2446,"Catawba Valley Brewing Company",1135786564,4,3,3.5,"English Brown Ale",3.5,4,"Brown Bear Ale",4.5,14413
-"160",2446,"Catawba Valley Brewing Company",1069807630,4,4,4,"English Brown Ale",4,4,"Brown Bear Ale",4.5,14413
-"161",2446,"Catawba Valley Brewing Company",1325109802,4.5,4.5,4.5,"Scotch Ale / Wee Heavy",5,4.5,"The Hooligan King",8,76780
-"162",2446,"Catawba Valley Brewing Company",1310055582,3,4.5,3,"American Stout",2.5,2.5,"Hyper Monkey Java Stout",5.2,47245
-"163",2446,"Catawba Valley Brewing Company",1308494963,3.5,4.5,4,"American Stout",3.5,3,"Hyper Monkey Java Stout",5.2,47245
-"164",2446,"Catawba Valley Brewing Company",1294457727,4,4,4,"American Stout",3.5,3.5,"Hyper Monkey Java Stout",5.2,47245
-"165",2446,"Catawba Valley Brewing Company",1240191102,5,4,4,"American Stout",4.5,4.5,"Hyper Monkey Java Stout",5.2,47245
-"166",2446,"Catawba Valley Brewing Company",1231811690,4.5,4,4,"American Stout",4,4,"Hyper Monkey Java Stout",5.2,47245
-"167",2446,"Catawba Valley Brewing Company",1293570845,2,2,2.5,"American Amber / Red Ale",1,2.5,"Indian Red Head",5,14589
-"168",2446,"Catawba Valley Brewing Company",1240420019,3.5,3.5,3.5,"American Amber / Red Ale",3,3,"Indian Red Head",5,14589
-"169",2446,"Catawba Valley Brewing Company",1226267217,4,3.5,4,"American Amber / Red Ale",4,3.5,"Indian Red Head",5,14589
-"170",2446,"Catawba Valley Brewing Company",1195710411,4,4,3.5,"American Amber / Red Ale",4,3.5,"Indian Red Head",5,14589
-"171",2446,"Catawba Valley Brewing Company",1174878054,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Indian Red Head",5,14589
-"172",2446,"Catawba Valley Brewing Company",1147136130,4,4,4,"American Amber / Red Ale",4,4,"Indian Red Head",5,14589
-"173",2446,"Catawba Valley Brewing Company",1138658436,1.5,2.5,4,"American Amber / Red Ale",3,2,"Indian Red Head",5,14589
-"174",2446,"Catawba Valley Brewing Company",1137286737,4.5,4.5,4.5,"American Stout",4,4,"Oak Aged Stout",5.5,27828
-"175",2446,"Catawba Valley Brewing Company",1287425353,3,3.5,3.5,"Saison / Farmhouse Ale",3,2.5,"Farmer Ted's Farmhouse Ale",5.5,40140
-"176",2446,"Catawba Valley Brewing Company",1198073989,3,1.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Farmer Ted's Farmhouse Ale",5.5,40140
-"177",2446,"Catawba Valley Brewing Company",1318652114,4,4.5,3.5,"Belgian Strong Dark Ale",3,4,"Cleopatra",9,74146
-"178",2446,"Catawba Valley Brewing Company",1307018515,4,3.5,3.5,"American Pale Ale (APA)",4.5,4,"Mothertrucker Pale Ale",NA,66498
-"179",2446,"Catawba Valley Brewing Company",1298210823,4,3,4,"American Pale Ale (APA)",3,3.5,"Mothertrucker Pale Ale",NA,66498
+"3",2446,"Catawba Valley Brewing Company",1315886310,4,4,3,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
+"4",2446,"Catawba Valley Brewing Company",1293079974,4.5,4.5,4.5,"Pumpkin Ale",4.5,4.5,"King Don's Original Pumpkin Ale",5,13282
+"5",2446,"Catawba Valley Brewing Company",1288515076,4.5,5,4,"Pumpkin Ale",4.5,5,"King Don's Original Pumpkin Ale",5,13282
+"6",2446,"Catawba Valley Brewing Company",1263486288,3.5,4,3.5,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
+"7",2446,"Catawba Valley Brewing Company",1237935589,5,4.5,4.5,"Pumpkin Ale",5,5,"King Don's Original Pumpkin Ale",5,13282
+"8",2446,"Catawba Valley Brewing Company",1225423947,4,4.5,4,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
+"9",2446,"Catawba Valley Brewing Company",1222213459,4.5,4.5,4.5,"Pumpkin Ale",4.5,4.5,"King Don's Original Pumpkin Ale",5,13282
+"10",2446,"Catawba Valley Brewing Company",1212956472,4.5,4.5,4.5,"Pumpkin Ale",4,5,"King Don's Original Pumpkin Ale",5,13282
+"11",2446,"Catawba Valley Brewing Company",1192423027,4,4,4.5,"Pumpkin Ale",4,3.5,"King Don's Original Pumpkin Ale",5,13282
+"12",2446,"Catawba Valley Brewing Company",1191206220,4,4,3.5,"Pumpkin Ale",3.5,3.5,"King Don's Original Pumpkin Ale",5,13282
+"13",2446,"Catawba Valley Brewing Company",1190670369,4,3.5,3.5,"Pumpkin Ale",3.5,3.5,"King Don's Original Pumpkin Ale",5,13282
+"14",2446,"Catawba Valley Brewing Company",1190441934,4,4,3,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
+"15",2446,"Catawba Valley Brewing Company",1162616046,4.5,4,3.5,"Pumpkin Ale",3,3.5,"King Don's Original Pumpkin Ale",5,13282
+"16",2446,"Catawba Valley Brewing Company",1159828224,3.5,3.5,3.5,"Pumpkin Ale",2.5,3,"King Don's Original Pumpkin Ale",5,13282
+"17",2446,"Catawba Valley Brewing Company",1156726381,4,4.5,3.5,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
+"18",2446,"Catawba Valley Brewing Company",1102280012,4,4,4,"Pumpkin Ale",4,4,"King Don's Original Pumpkin Ale",5,13282
+"19",2446,"Catawba Valley Brewing Company",1096768719,3.5,4,4,"Pumpkin Ale",3,3.5,"King Don's Original Pumpkin Ale",5,13282
+"20",2446,"Catawba Valley Brewing Company",1095203722,4,4.5,4,"Pumpkin Ale",4,4,"King Don's Original Pumpkin Ale",5,13282
+"21",2446,"Catawba Valley Brewing Company",1071370224,4,4.5,4,"Pumpkin Ale",3.5,4,"King Don's Original Pumpkin Ale",5,13282
+"22",2446,"Catawba Valley Brewing Company",1066428329,4,4.5,4,"Pumpkin Ale",4,4.5,"King Don's Original Pumpkin Ale",5,13282
+"23",2446,"Catawba Valley Brewing Company",1311337347,4.5,5,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
+"24",2446,"Catawba Valley Brewing Company",1311208248,4.5,4,4.5,"American Porter",5,4.5,"King Coconut Porter",5.4,14592
+"25",2446,"Catawba Valley Brewing Company",1310915426,4.5,4.5,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
+"26",2446,"Catawba Valley Brewing Company",1308286402,4,5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
+"27",2446,"Catawba Valley Brewing Company",1296056200,5,4.5,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
+"28",2446,"Catawba Valley Brewing Company",1270170786,4,4,3.5,"American Porter",4.5,5,"King Coconut Porter",5.4,14592
+"29",2446,"Catawba Valley Brewing Company",1263485124,4.5,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
+"30",2446,"Catawba Valley Brewing Company",1257708082,4,3.5,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
+"31",2446,"Catawba Valley Brewing Company",1251513593,4,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
+"32",2446,"Catawba Valley Brewing Company",1246325280,4.5,4,4,"American Porter",4,4,"King Coconut Porter",5.4,14592
+"33",2446,"Catawba Valley Brewing Company",1212842768,5,4.5,4,"American Porter",5,4.5,"King Coconut Porter",5.4,14592
+"34",2446,"Catawba Valley Brewing Company",1191613702,4,4,4,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
+"35",2446,"Catawba Valley Brewing Company",1179736304,4.5,4.5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
+"36",2446,"Catawba Valley Brewing Company",1170555813,4.5,4.5,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
+"37",2446,"Catawba Valley Brewing Company",1154289352,3.5,4,4,"American Porter",4,4.5,"King Coconut Porter",5.4,14592
+"38",2446,"Catawba Valley Brewing Company",1146865687,3.5,4,4,"American Porter",3.5,4,"King Coconut Porter",5.4,14592
+"39",2446,"Catawba Valley Brewing Company",1146797344,4,3.5,4,"American Porter",4,5,"King Coconut Porter",5.4,14592
+"40",2446,"Catawba Valley Brewing Company",1084577394,4,5,4.5,"American Porter",4.5,4.5,"King Coconut Porter",5.4,14592
+"41",2446,"Catawba Valley Brewing Company",1285472177,4,4,4,"American Black Ale",4,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"42",2446,"Catawba Valley Brewing Company",1282347857,4.5,4.5,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"43",2446,"Catawba Valley Brewing Company",1263389903,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"44",2446,"Catawba Valley Brewing Company",1206659885,3.5,3.5,3.5,"American Black Ale",3.5,3.5,"Blackwater Uber Pale Ale",9.2,37952
+"45",2446,"Catawba Valley Brewing Company",1261007615,4,4,4.5,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"46",2446,"Catawba Valley Brewing Company",1250734398,4.5,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"47",2446,"Catawba Valley Brewing Company",1250110074,4,3,4,"American Black Ale",4,3.5,"Blackwater Uber Pale Ale",9.2,37952
+"48",2446,"Catawba Valley Brewing Company",1246140249,4,4.5,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"49",2446,"Catawba Valley Brewing Company",1231479142,4,4,3.5,"American Black Ale",3.5,4,"Blackwater Uber Pale Ale",9.2,37952
+"50",2446,"Catawba Valley Brewing Company",1224540730,4.5,4,4,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"51",2446,"Catawba Valley Brewing Company",1214867577,3.5,4,4,"American Black Ale",3.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"52",2446,"Catawba Valley Brewing Company",1214535421,4.5,4,4.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"53",2446,"Catawba Valley Brewing Company",1193412175,4,3,3,"American Black Ale",4,5,"Blackwater Uber Pale Ale",9.2,37952
+"54",2446,"Catawba Valley Brewing Company",1192652929,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"55",2446,"Catawba Valley Brewing Company",1192198229,4,4,5,"American Black Ale",4.5,4,"Blackwater Uber Pale Ale",9.2,37952
+"56",2446,"Catawba Valley Brewing Company",1191454284,4,4,3.5,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"57",2446,"Catawba Valley Brewing Company",1189647606,5,4.5,3.5,"American Black Ale",4,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"58",2446,"Catawba Valley Brewing Company",1189532597,4,4,4,"American Black Ale",4,4,"Blackwater Uber Pale Ale",9.2,37952
+"59",2446,"Catawba Valley Brewing Company",1185679876,4,4,3.5,"American Black Ale",4.5,4.5,"Blackwater Uber Pale Ale",9.2,37952
+"60",2446,"Catawba Valley Brewing Company",1301658828,3,3,3.5,"Cream Ale",3.5,3,"Farmer Ted's Cream Ale",5,25101
+"61",2446,"Catawba Valley Brewing Company",1296245653,2.5,3,3,"Cream Ale",2,2.5,"Farmer Ted's Cream Ale",5,25101
+"62",2446,"Catawba Valley Brewing Company",1273546176,4,3.5,3,"Cream Ale",5,4,"Farmer Ted's Cream Ale",5,25101
+"63",2446,"Catawba Valley Brewing Company",1263390258,4,3.5,3.5,"Cream Ale",4,3.5,"Farmer Ted's Cream Ale",5,25101
+"64",2446,"Catawba Valley Brewing Company",1189519434,3.5,3.5,3.5,"Cream Ale",3.5,3.5,"Farmer Ted's Cream Ale",5,25101
+"65",2446,"Catawba Valley Brewing Company",1147135540,3.5,3,3,"Cream Ale",3,3,"Farmer Ted's Cream Ale",5,25101
+"66",2446,"Catawba Valley Brewing Company",1140200686,4,3.5,3,"Cream Ale",3,3.5,"Farmer Ted's Cream Ale",5,25101
+"67",2446,"Catawba Valley Brewing Company",1123005739,4,4,4,"Cream Ale",4,4,"Farmer Ted's Cream Ale",5,25101
+"68",2446,"Catawba Valley Brewing Company",1307744342,4,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"69",2446,"Catawba Valley Brewing Company",1278427948,4,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"70",2446,"Catawba Valley Brewing Company",1278032014,4.5,4,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"71",2446,"Catawba Valley Brewing Company",1250109577,3.5,4.5,3.5,"American IPA",3.5,4,"Whiskey River IPA",7.2,32371
+"72",2446,"Catawba Valley Brewing Company",1265902658,5,4.5,4,"American IPA",4.5,5,"Whiskey River IPA",7.2,32371
+"73",2446,"Catawba Valley Brewing Company",1263486911,4.5,4.5,3.5,"American IPA",4,4,"Whiskey River IPA",7.2,32371
+"74",2446,"Catawba Valley Brewing Company",1255220079,4,4.5,4,"American IPA",4.5,4.5,"Whiskey River IPA",7.2,32371
+"75",2446,"Catawba Valley Brewing Company",1252470372,4.5,4.5,3.5,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"76",2446,"Catawba Valley Brewing Company",1250786513,3.5,4.5,4,"American IPA",4,4,"Whiskey River IPA",7.2,32371
+"77",2446,"Catawba Valley Brewing Company",1250638562,5,4.5,4.5,"American IPA",5,4.5,"Whiskey River IPA",7.2,32371
+"78",2446,"Catawba Valley Brewing Company",1250174193,4.5,4.5,3.5,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"79",2446,"Catawba Valley Brewing Company",1156130543,4,4.5,4,"American IPA",4,4.5,"Whiskey River IPA",7.2,32371
+"80",2446,"Catawba Valley Brewing Company",1156129546,4,4.5,3.5,"American IPA",4,5,"Whiskey River IPA",7.2,32371
+"81",2446,"Catawba Valley Brewing Company",1156038030,4,4,4,"American IPA",4,4,"Whiskey River IPA",7.2,32371
+"82",2446,"Catawba Valley Brewing Company",1315237598,3.5,3.5,4,"American IPA",3.5,4,"Firewater IPA",5.2,8950
+"83",2446,"Catawba Valley Brewing Company",1304384713,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
+"84",2446,"Catawba Valley Brewing Company",1301659086,3.5,3.5,4,"American IPA",3.5,3,"Firewater IPA",5.2,8950
+"85",2446,"Catawba Valley Brewing Company",1300510769,3.5,3,3,"American IPA",4,4,"Firewater IPA",5.2,8950
+"86",2446,"Catawba Valley Brewing Company",1298168996,3,3,3,"American IPA",3,3,"Firewater IPA",5.2,8950
+"87",2446,"Catawba Valley Brewing Company",1293808635,2,3,4,"American IPA",3,2.5,"Firewater IPA",5.2,8950
+"88",2446,"Catawba Valley Brewing Company",1243455282,4,4,3,"English Brown Ale",4,3.5,"Brown Bear Ale",4.5,14413
+"89",2446,"Catawba Valley Brewing Company",1293372960,4,2.5,3,"American IPA",4,3,"Firewater IPA",5.2,8950
+"90",2446,"Catawba Valley Brewing Company",1278900191,4,3.5,4,"American IPA",4,3.5,"Firewater IPA",5.2,8950
+"91",2446,"Catawba Valley Brewing Company",1275225439,3.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"92",2446,"Catawba Valley Brewing Company",1272478468,4,3,3.5,"American IPA",3.5,3,"Firewater IPA",5.2,8950
+"93",2446,"Catawba Valley Brewing Company",1263484630,3.5,3.5,3.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
+"94",2446,"Catawba Valley Brewing Company",1243977777,3,3,3,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"95",2446,"Catawba Valley Brewing Company",1240402683,4,3.5,4,"American IPA",4,4,"Firewater IPA",5.2,8950
+"96",2446,"Catawba Valley Brewing Company",1238338684,2,3,3,"American IPA",3,1.5,"Firewater IPA",5.2,8950
+"97",2446,"Catawba Valley Brewing Company",1233275695,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
+"98",2446,"Catawba Valley Brewing Company",1231492308,3,3.5,3,"American IPA",3,3,"Firewater IPA",5.2,8950
+"99",2446,"Catawba Valley Brewing Company",1227567684,4.5,3.5,4.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
+"100",2446,"Catawba Valley Brewing Company",1217957865,4.5,4,4.5,"American IPA",4,4,"Firewater IPA",5.2,8950
+"101",2446,"Catawba Valley Brewing Company",1217093083,3.5,3.5,3.5,"American IPA",4,3.5,"Firewater IPA",5.2,8950
+"102",2446,"Catawba Valley Brewing Company",1204946571,4,3.5,4,"American IPA",4,4,"Firewater IPA",5.2,8950
+"103",2446,"Catawba Valley Brewing Company",1193410165,3.5,4,3,"American IPA",3,3.5,"Firewater IPA",5.2,8950
+"104",2446,"Catawba Valley Brewing Company",1192422236,4,4,4.5,"American IPA",4,4,"Firewater IPA",5.2,8950
+"105",2446,"Catawba Valley Brewing Company",1191954631,4,4,3.5,"American IPA",4.5,4,"Firewater IPA",5.2,8950
+"106",2446,"Catawba Valley Brewing Company",1184787542,3.5,3.5,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
+"107",2446,"Catawba Valley Brewing Company",1174877570,3.5,3.5,3.5,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"108",2446,"Catawba Valley Brewing Company",1170560988,4,4,4,"American IPA",4,4,"Firewater IPA",5.2,8950
+"109",2446,"Catawba Valley Brewing Company",1163996376,3.5,3.5,3.5,"American IPA",3,3.5,"Firewater IPA",5.2,8950
+"110",2446,"Catawba Valley Brewing Company",1146796922,4,3.5,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
+"111",2446,"Catawba Valley Brewing Company",1129562518,3.5,4,3.5,"American IPA",3.5,4,"Firewater IPA",5.2,8950
+"112",2446,"Catawba Valley Brewing Company",1128293988,3,3,3.5,"American IPA",3.5,2.5,"Firewater IPA",5.2,8950
+"113",2446,"Catawba Valley Brewing Company",1124582734,4.5,4,3.5,"American IPA",4.5,3,"Firewater IPA",5.2,8950
+"114",2446,"Catawba Valley Brewing Company",1123530118,4,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"115",2446,"Catawba Valley Brewing Company",1121905684,4.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"116",2446,"Catawba Valley Brewing Company",1111359428,4,3.5,3.5,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"117",2446,"Catawba Valley Brewing Company",1105754503,3.5,3.5,4,"American IPA",3.5,4,"Firewater IPA",5.2,8950
+"118",2446,"Catawba Valley Brewing Company",1100202946,3.5,3.5,4,"American IPA",4,3.5,"Firewater IPA",5.2,8950
+"119",2446,"Catawba Valley Brewing Company",1081211220,4.5,4.5,3,"American IPA",4,5,"Firewater IPA",5.2,8950
+"120",2446,"Catawba Valley Brewing Company",1063287431,3.5,3.5,4,"American IPA",3.5,3.5,"Firewater IPA",5.2,8950
+"121",2446,"Catawba Valley Brewing Company",1047708560,3.5,3,3.5,"American IPA",3,2.5,"Firewater IPA",5.2,8950
+"122",2446,"Catawba Valley Brewing Company",1297183537,5,4.5,4.5,"Witbier",4.5,4.5,"White Zombie Ale",NA,55375
+"123",2446,"Catawba Valley Brewing Company",1281894271,4,4,4,"Witbier",3.5,4,"White Zombie Ale",NA,55375
+"124",2446,"Catawba Valley Brewing Company",1273545917,5,4,4,"Witbier",4.5,4,"White Zombie Ale",NA,55375
+"125",2446,"Catawba Valley Brewing Company",1265902836,4,3.5,4,"Witbier",4,3.5,"White Zombie Ale",NA,55375
+"126",2446,"Catawba Valley Brewing Company",1263388464,4.5,4,3.5,"Witbier",4,4,"White Zombie Ale",NA,55375
+"127",2446,"Catawba Valley Brewing Company",1257708396,4,4,4,"American Stout",4,4,"Honest Injun Stout",5,6150
+"128",2446,"Catawba Valley Brewing Company",1170555494,4,4,4,"American Stout",3.5,3.5,"Honest Injun Stout",5,6150
+"129",2446,"Catawba Valley Brewing Company",1147136330,4,4,4.5,"American Stout",4,4.5,"Honest Injun Stout",5,6150
+"130",2446,"Catawba Valley Brewing Company",1140823482,4.5,4,3.5,"American Stout",3.5,4.5,"Honest Injun Stout",5,6150
+"131",2446,"Catawba Valley Brewing Company",1102280771,4,3.5,4,"American Stout",3.5,4,"Honest Injun Stout",5,6150
+"132",2446,"Catawba Valley Brewing Company",1082513474,3.5,3.5,4.5,"American Stout",3.5,3.5,"Honest Injun Stout",5,6150
+"133",2446,"Catawba Valley Brewing Company",1050476065,4,4,4,"American Stout",4,4.5,"Honest Injun Stout",5,6150
+"134",2446,"Catawba Valley Brewing Company",1032516877,3,2,2,"American Stout",3,2,"Honest Injun Stout",5,6150
+"135",2446,"Catawba Valley Brewing Company",1297035999,2,2,2,"English Brown Ale",2.5,1,"Brown Bear Ale",4.5,14413
+"136",2446,"Catawba Valley Brewing Company",1278636693,4,4,4,"English Brown Ale",4.5,4,"Brown Bear Ale",4.5,14413
+"137",2446,"Catawba Valley Brewing Company",1190666052,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Brown Bear Ale",4.5,14413
+"138",2446,"Catawba Valley Brewing Company",1183377665,3.5,4,4.5,"English Brown Ale",4,3.5,"Brown Bear Ale",4.5,14413
+"139",2446,"Catawba Valley Brewing Company",1170555075,4.5,4,4,"English Brown Ale",4,4.5,"Brown Bear Ale",4.5,14413
+"140",2446,"Catawba Valley Brewing Company",1159828543,4,3.5,4,"English Brown Ale",4.5,4,"Brown Bear Ale",4.5,14413
+"141",2446,"Catawba Valley Brewing Company",1159319290,4,3.5,4,"English Brown Ale",4,4,"Brown Bear Ale",4.5,14413
+"142",2446,"Catawba Valley Brewing Company",1147135891,4,4,4.5,"English Brown Ale",4,4.5,"Brown Bear Ale",4.5,14413
+"143",2446,"Catawba Valley Brewing Company",1135786564,4,3,3.5,"English Brown Ale",3.5,4,"Brown Bear Ale",4.5,14413
+"144",2446,"Catawba Valley Brewing Company",1069807630,4,4,4,"English Brown Ale",4,4,"Brown Bear Ale",4.5,14413
+"145",2446,"Catawba Valley Brewing Company",1310055582,3,4.5,3,"American Stout",2.5,2.5,"Hyper Monkey Java Stout",5.2,47245
+"146",2446,"Catawba Valley Brewing Company",1308494963,3.5,4.5,4,"American Stout",3.5,3,"Hyper Monkey Java Stout",5.2,47245
+"147",2446,"Catawba Valley Brewing Company",1294457727,4,4,4,"American Stout",3.5,3.5,"Hyper Monkey Java Stout",5.2,47245
+"148",2446,"Catawba Valley Brewing Company",1240191102,5,4,4,"American Stout",4.5,4.5,"Hyper Monkey Java Stout",5.2,47245
+"149",2446,"Catawba Valley Brewing Company",1231811690,4.5,4,4,"American Stout",4,4,"Hyper Monkey Java Stout",5.2,47245
+"150",2446,"Catawba Valley Brewing Company",1293570845,2,2,2.5,"American Amber / Red Ale",1,2.5,"Indian Red Head",5,14589
+"151",2446,"Catawba Valley Brewing Company",1240420019,3.5,3.5,3.5,"American Amber / Red Ale",3,3,"Indian Red Head",5,14589
+"152",2446,"Catawba Valley Brewing Company",1226267217,4,3.5,4,"American Amber / Red Ale",4,3.5,"Indian Red Head",5,14589
+"153",2446,"Catawba Valley Brewing Company",1195710411,4,4,3.5,"American Amber / Red Ale",4,3.5,"Indian Red Head",5,14589
+"154",2446,"Catawba Valley Brewing Company",1174878054,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Indian Red Head",5,14589
+"155",2446,"Catawba Valley Brewing Company",1147136130,4,4,4,"American Amber / Red Ale",4,4,"Indian Red Head",5,14589
+"156",2446,"Catawba Valley Brewing Company",1138658436,1.5,2.5,4,"American Amber / Red Ale",3,2,"Indian Red Head",5,14589
+"157",2446,"Catawba Valley Brewing Company",1137286737,4.5,4.5,4.5,"American Stout",4,4,"Oak Aged Stout",5.5,27828

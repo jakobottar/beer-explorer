@@ -1,62 +1,38 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1413,"Desert Edge Brewery",1030197670,0,2,0,"Czech Pilsener",3,2,"Pub Pils",4,3806
 "2",1413,"Desert Edge Brewery",1022170015,3.5,3,2.5,"Czech Pilsener",3,3,"Pub Pils",4,3806
-"3",1413,"Desert Edge Brewery",1160277524,4,3.5,3.5,"California Common / Steam Beer",4,4,"Centennial Steam Beer",4,5660
-"4",1413,"Desert Edge Brewery",1022169387,4,4,3.5,"Irish Dry Stout",4,4.5,"Latter Days Stout",4,3804
-"5",1413,"Desert Edge Brewery",1310587976,2.5,3,3,"Czech Pilsener",2.5,2.5,"Pub Pils",4,3806
-"6",1413,"Desert Edge Brewery",1030197598,2.5,2.5,3,"Kristalweizen",2.5,2,"Krystal Weis",4,5652
-"7",1413,"Desert Edge Brewery",1144531546,3.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Pub Pils",4,3806
-"8",1413,"Desert Edge Brewery",1101071848,3.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Pub Pils",4,3806
-"9",1413,"Desert Edge Brewery",1310586058,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Augustus Amber Ale",NA,71000
-"10",1413,"Desert Edge Brewery",1163821892,4,3.5,3.5,"Schwarzbier",4,4,"Schwarzien Lager",4,33816
-"11",1413,"Desert Edge Brewery",1223772145,4,4,4,"Cream Ale",3.5,3.5,"Radius",4,45318
-"12",1413,"Desert Edge Brewery",1310587673,2.5,2.5,2.5,"Hefeweizen",3,2.5,"Happy Valley Hefeweizen",4,5659
-"13",1413,"Desert Edge Brewery",1144531928,4,3.5,3.5,"Hefeweizen",4,4,"Happy Valley Hefeweizen",4,5659
-"14",1413,"Desert Edge Brewery",1101072038,2.5,2.5,3,"Hefeweizen",2.5,2.5,"Happy Valley Hefeweizen",4,5659
-"15",1413,"Desert Edge Brewery",1030266821,2.5,2.5,3,"Hefeweizen",3,2,"Happy Valley Hefeweizen",4,5659
-"16",1413,"Desert Edge Brewery",1143337785,3.5,3.5,3.5,"Dunkelweizen",3.5,3.5,"Dunkel Weissen",4,29296
-"17",1413,"Desert Edge Brewery",1143933170,4,3.5,3.5,"Cream Ale",4,4,"Backcountry Cream Ale",4,29608
-"18",1413,"Desert Edge Brewery",1160277355,4,4,4,"English Dark Mild Ale",4,4,"British Mild Ale",4,33116
-"19",1413,"Desert Edge Brewery",1310588808,4,3,4,"Munich Dunkel Lager",4,3.5,"Munich Lager",4,20859
-"20",1413,"Desert Edge Brewery",1274654869,5,4.5,4,"Munich Dunkel Lager",5,5,"Munich Lager",4,20859
-"21",1413,"Desert Edge Brewery",1143932739,4,3.5,3.5,"Munich Dunkel Lager",4,4,"Munich Lager",4,20859
-"22",1413,"Desert Edge Brewery",1101071457,4,3.5,3.5,"Munich Dunkel Lager",4,3.5,"Munich Lager",4,20859
-"23",1413,"Desert Edge Brewery",1046979950,2,3,4,"California Common / Steam Beer",3,2.5,"Centennial Steam Beer",4,5660
-"24",1413,"Desert Edge Brewery",1030267074,2,2,4,"California Common / Steam Beer",2,2,"Centennial Steam Beer",4,5660
-"25",1413,"Desert Edge Brewery",1223772362,4,3.5,4,"Rye Beer",3.5,4,"Road Rage Rye",4,5657
-"26",1413,"Desert Edge Brewery",1101072704,4,3.5,3.5,"Rye Beer",3.5,4,"Road Rage Rye",4,5657
-"27",1413,"Desert Edge Brewery",1030266630,3.5,3.5,4,"Rye Beer",3.5,3.5,"Road Rage Rye",4,5657
-"28",1413,"Desert Edge Brewery",1310587238,3,2,3,"Irish Dry Stout",3,3,"Latter Days Stout",4,3804
-"29",1413,"Desert Edge Brewery",1210569007,4,4,4,"Irish Dry Stout",4,3.5,"Latter Days Stout",4,3804
-"30",1413,"Desert Edge Brewery",1173334543,2.5,3,3.5,"Irish Dry Stout",3,2.5,"Latter Days Stout",4,3804
-"31",1413,"Desert Edge Brewery",1144532229,4,4,4,"Irish Dry Stout",4.5,4.5,"Latter Days Stout",4,3804
-"32",1413,"Desert Edge Brewery",1143932944,4,4,3.5,"Irish Dry Stout",4,4,"Latter Days Stout",4,3804
-"33",1413,"Desert Edge Brewery",1142312615,3,4,4,"Irish Dry Stout",2.5,3,"Latter Days Stout",4,3804
-"34",1413,"Desert Edge Brewery",1101073138,3.5,4,4,"Irish Dry Stout",3,4,"Latter Days Stout",4,3804
-"35",1413,"Desert Edge Brewery",1046980244,4,4,3,"Irish Dry Stout",4,4,"Latter Days Stout",4,3804
-"36",1413,"Desert Edge Brewery",1030267158,0,4,0,"Irish Dry Stout",2,2,"Latter Days Stout",4,3804
-"37",1413,"Desert Edge Brewery",1197308269,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Desert Edge ESB",4,40004
-"38",1413,"Desert Edge Brewery",1166396804,3,3,3,"Altbier",3,3,"All The Way Alt",4,29292
-"39",1413,"Desert Edge Brewery",1143337321,3.5,3.5,3.5,"Altbier",3.5,3.5,"All The Way Alt",4,29292
-"40",1413,"Desert Edge Brewery",1216291617,4,4,4,"American Brown Ale",3.5,4,"Nut Brown Ale",4,29697
-"41",1413,"Desert Edge Brewery",1144454162,4,4,4,"American Brown Ale",4,4,"Nut Brown Ale",4,29697
-"42",1413,"Desert Edge Brewery",1310586397,3.5,2,4,"Kristalweizen",3.5,3.5,"Summertime Kristalweizen",NA,71003
-"43",1413,"Desert Edge Brewery",1101073538,3,3,4,"American Stout",2.5,2,"Kona Coffee Stout",4,20860
-"44",1413,"Desert Edge Brewery",1310588378,4,3.5,3,"American Pale Ale (APA)",4,4,"Utah Pale Ale",4,3810
-"45",1413,"Desert Edge Brewery",1254800113,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
-"46",1413,"Desert Edge Brewery",1237397255,3,2,3.5,"American Pale Ale (APA)",3,3,"Utah Pale Ale",4,3810
-"47",1413,"Desert Edge Brewery",1217913005,3.5,3.5,4,"American Pale Ale (APA)",3.5,3,"Utah Pale Ale",4,3810
-"48",1413,"Desert Edge Brewery",1213126538,4,4,4,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
-"49",1413,"Desert Edge Brewery",1210639723,4,5,3.5,"American Pale Ale (APA)",2.5,4,"Utah Pale Ale",4,3810
-"50",1413,"Desert Edge Brewery",1210639467,3.5,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
-"51",1413,"Desert Edge Brewery",1143337063,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Utah Pale Ale",4,3810
-"52",1413,"Desert Edge Brewery",1142050583,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Utah Pale Ale",4,3810
-"53",1413,"Desert Edge Brewery",1140329917,3.5,3.5,4,"American Pale Ale (APA)",3,2.5,"Utah Pale Ale",4,3810
-"54",1413,"Desert Edge Brewery",1101072301,4.5,4,3.5,"American Pale Ale (APA)",3,4,"Utah Pale Ale",4,3810
-"55",1413,"Desert Edge Brewery",1030266889,0,3,0,"American Pale Ale (APA)",2,2,"Utah Pale Ale",4,3810
-"56",1413,"Desert Edge Brewery",1022171971,4,4.5,3,"American Pale Ale (APA)",2.5,3.5,"Utah Pale Ale",4,3810
-"57",1413,"Desert Edge Brewery",1143932453,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber Ale",4,5658
-"58",1413,"Desert Edge Brewery",1101072854,4,4,3,"American Amber / Red Ale",3.5,4,"Amber Ale",4,5658
-"59",1413,"Desert Edge Brewery",1030266725,2.5,3,3,"American Amber / Red Ale",2.5,2.5,"Amber Ale",4,5658
-"60",1413,"Desert Edge Brewery",1313299723,3.5,3.5,5,"American Stout",4,4,"Shot In The Dark Stout",NA,71005
-"61",1413,"Desert Edge Brewery",1310586808,2.5,4,4,"American Stout",2,2,"Shot In The Dark Stout",NA,71005
+"3",1413,"Desert Edge Brewery",1022169387,4,4,3.5,"Irish Dry Stout",4,4.5,"Latter Days Stout",4,3804
+"4",1413,"Desert Edge Brewery",1310587976,2.5,3,3,"Czech Pilsener",2.5,2.5,"Pub Pils",4,3806
+"5",1413,"Desert Edge Brewery",1144531546,3.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Pub Pils",4,3806
+"6",1413,"Desert Edge Brewery",1101071848,3.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Pub Pils",4,3806
+"7",1413,"Desert Edge Brewery",1310588808,4,3,4,"Munich Dunkel Lager",4,3.5,"Munich Lager",4,20859
+"8",1413,"Desert Edge Brewery",1274654869,5,4.5,4,"Munich Dunkel Lager",5,5,"Munich Lager",4,20859
+"9",1413,"Desert Edge Brewery",1143932739,4,3.5,3.5,"Munich Dunkel Lager",4,4,"Munich Lager",4,20859
+"10",1413,"Desert Edge Brewery",1101071457,4,3.5,3.5,"Munich Dunkel Lager",4,3.5,"Munich Lager",4,20859
+"11",1413,"Desert Edge Brewery",1310587238,3,2,3,"Irish Dry Stout",3,3,"Latter Days Stout",4,3804
+"12",1413,"Desert Edge Brewery",1210569007,4,4,4,"Irish Dry Stout",4,3.5,"Latter Days Stout",4,3804
+"13",1413,"Desert Edge Brewery",1173334543,2.5,3,3.5,"Irish Dry Stout",3,2.5,"Latter Days Stout",4,3804
+"14",1413,"Desert Edge Brewery",1144532229,4,4,4,"Irish Dry Stout",4.5,4.5,"Latter Days Stout",4,3804
+"15",1413,"Desert Edge Brewery",1143932944,4,4,3.5,"Irish Dry Stout",4,4,"Latter Days Stout",4,3804
+"16",1413,"Desert Edge Brewery",1142312615,3,4,4,"Irish Dry Stout",2.5,3,"Latter Days Stout",4,3804
+"17",1413,"Desert Edge Brewery",1101073138,3.5,4,4,"Irish Dry Stout",3,4,"Latter Days Stout",4,3804
+"18",1413,"Desert Edge Brewery",1046980244,4,4,3,"Irish Dry Stout",4,4,"Latter Days Stout",4,3804
+"19",1413,"Desert Edge Brewery",1030267158,0,4,0,"Irish Dry Stout",2,2,"Latter Days Stout",4,3804
+"20",1413,"Desert Edge Brewery",1216291617,4,4,4,"American Brown Ale",3.5,4,"Nut Brown Ale",4,29697
+"21",1413,"Desert Edge Brewery",1144454162,4,4,4,"American Brown Ale",4,4,"Nut Brown Ale",4,29697
+"22",1413,"Desert Edge Brewery",1310588378,4,3.5,3,"American Pale Ale (APA)",4,4,"Utah Pale Ale",4,3810
+"23",1413,"Desert Edge Brewery",1254800113,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
+"24",1413,"Desert Edge Brewery",1237397255,3,2,3.5,"American Pale Ale (APA)",3,3,"Utah Pale Ale",4,3810
+"25",1413,"Desert Edge Brewery",1217913005,3.5,3.5,4,"American Pale Ale (APA)",3.5,3,"Utah Pale Ale",4,3810
+"26",1413,"Desert Edge Brewery",1213126538,4,4,4,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
+"27",1413,"Desert Edge Brewery",1210639723,4,5,3.5,"American Pale Ale (APA)",2.5,4,"Utah Pale Ale",4,3810
+"28",1413,"Desert Edge Brewery",1210639467,3.5,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Utah Pale Ale",4,3810
+"29",1413,"Desert Edge Brewery",1143337063,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Utah Pale Ale",4,3810
+"30",1413,"Desert Edge Brewery",1142050583,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Utah Pale Ale",4,3810
+"31",1413,"Desert Edge Brewery",1140329917,3.5,3.5,4,"American Pale Ale (APA)",3,2.5,"Utah Pale Ale",4,3810
+"32",1413,"Desert Edge Brewery",1101072301,4.5,4,3.5,"American Pale Ale (APA)",3,4,"Utah Pale Ale",4,3810
+"33",1413,"Desert Edge Brewery",1030266889,0,3,0,"American Pale Ale (APA)",2,2,"Utah Pale Ale",4,3810
+"34",1413,"Desert Edge Brewery",1022171971,4,4.5,3,"American Pale Ale (APA)",2.5,3.5,"Utah Pale Ale",4,3810
+"35",1413,"Desert Edge Brewery",1143932453,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber Ale",4,5658
+"36",1413,"Desert Edge Brewery",1101072854,4,4,3,"American Amber / Red Ale",3.5,4,"Amber Ale",4,5658
+"37",1413,"Desert Edge Brewery",1030266725,2.5,3,3,"American Amber / Red Ale",2.5,2.5,"Amber Ale",4,5658

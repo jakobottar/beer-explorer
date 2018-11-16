@@ -1,181 +1,19 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",13228,"Green Man Brewery",1245836810,3,3,3,"English Dark Mild Ale",2.5,2.5,"Dark Mild",3.5,49959
 "2",13228,"Green Man Brewery",1243061570,4,3.5,4.5,"English Dark Mild Ale",3,3.5,"Dark Mild",3.5,49959
-"3",13228,"Green Man Brewery",1244258957,3.5,3.5,3,"Scottish Ale",3.5,4,"Celt",6.5,39716
-"4",13228,"Green Man Brewery",1242719829,3.5,4,4,"Scottish Ale",3.5,3.5,"Celt",6.5,39716
-"5",13228,"Green Man Brewery",1199244637,2.5,3,3,"Scottish Ale",2.5,2.5,"Celt",6.5,39716
-"6",13228,"Green Man Brewery",1195694947,3.5,4,3.5,"Scottish Ale",3,3.5,"Celt",6.5,39716
-"7",13228,"Green Man Brewery",1282984041,3.5,4,4.5,"English India Pale Ale (IPA)",4,3,"IPA",5.5,51842
-"8",13228,"Green Man Brewery",1250144574,4.5,5,4,"English India Pale Ale (IPA)",4,3.5,"IPA",5.5,51842
-"9",13228,"Green Man Brewery",1244792683,4,4,4,"Hefeweizen",3.5,4,"Wheat",5.2,50421
-"10",13228,"Green Man Brewery",1242973206,5,3.5,3.5,"Dortmunder / Export Lager",4.5,4,"Lager",4.8,49941
-"11",13228,"Green Man Brewery",1258881002,4,3.5,4.5,"Foreign / Export Stout",4.5,3.5,"Stout",7,49718
-"12",13228,"Green Man Brewery",1244628025,4,4,3.5,"Foreign / Export Stout",4,4.5,"Stout",7,49718
-"13",13228,"Green Man Brewery",1242870468,4,4,4,"Foreign / Export Stout",4,4,"Stout",7,49718
-"14",13228,"Green Man Brewery",1242049165,3.5,3.5,4,"Foreign / Export Stout",3.5,3.5,"Stout",7,49718
-"15",13228,"Green Man Brewery",1282977090,3.5,3,3.5,"English Strong Ale",4,3,"Strong",6.5,40342
-"16",13228,"Green Man Brewery",1243065611,4,4,3.5,"English Strong Ale",3.5,4,"Strong",6.5,40342
-"17",13228,"Green Man Brewery",1199245214,3.5,3.5,3,"English Strong Ale",3.5,4,"Strong",6.5,40342
-"18",13228,"Green Man Brewery",1280658180,3,3,3.5,"Doppelbock",3,2.5,"Whiskey Bock",9,45555
-"19",13228,"Green Man Brewery",1224811795,3,3,3,"Doppelbock",2.5,4,"Whiskey Bock",9,45555
-"20",13228,"Green Man Brewery",1252900813,4.5,3.5,4.5,"Keller Bier / Zwickel Bier",3.5,4,"Keller",4.8,40980
-"21",13228,"Green Man Brewery",1252731166,4.5,3.5,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Keller",4.8,40980
-"22",13228,"Green Man Brewery",1242636017,4.5,4,3.5,"Keller Bier / Zwickel Bier",4,3.5,"Keller",4.8,40980
-"23",13228,"Green Man Brewery",1202856683,4,4,3,"Keller Bier / Zwickel Bier",2.5,4,"Keller",4.8,40980
-"24",13228,"Green Man Brewery",1269905816,4,4,3,"English Bitter",2.5,3,"Best Bitter",4.5,36083
-"25",13228,"Green Man Brewery",1269813886,2.5,2.5,2.5,"English Bitter",1.5,2.5,"Best Bitter",4.5,36083
-"26",13228,"Green Man Brewery",1243062644,4,3,4,"English Bitter",4,3.5,"Best Bitter",4.5,36083
-"27",13228,"Green Man Brewery",1174940517,3,2,3.5,"English Bitter",2.5,3,"Best Bitter",4.5,36083
-"28",13228,"Green Man Brewery",1298882210,3.5,3.5,3,"English Barleywine",3.5,3.5,"Enrico's Cure",14.5,66769
-"29",11599,"Green Man Brewery",1314329968,3,3,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Green Man ESB",5.3,28146
-"30",11599,"Green Man Brewery",1311129547,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4,"Green Man ESB",5.3,28146
-"31",11599,"Green Man Brewery",1325623506,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Green Man India Pale Ale",6,25100
-"32",11599,"Green Man Brewery",1322144612,4.5,3.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Green Man India Pale Ale",6,25100
-"33",11599,"Green Man Brewery",1190689939,3.5,3.5,4,"English India Pale Ale (IPA)",4,3,"Green Man India Pale Ale",6,25100
-"34",11599,"Green Man Brewery",1320988268,4,4,4,"English India Pale Ale (IPA)",4,4.5,"Green Man India Pale Ale",6,25100
-"35",11599,"Green Man Brewery",1318897406,4,3.5,4,"English India Pale Ale (IPA)",4,4.5,"Green Man India Pale Ale",6,25100
-"36",11599,"Green Man Brewery",1317091106,4,3.5,4,"English India Pale Ale (IPA)",4.5,4,"Green Man India Pale Ale",6,25100
-"37",11599,"Green Man Brewery",1315043448,3.5,3,3.5,"English India Pale Ale (IPA)",4,3,"Green Man India Pale Ale",6,25100
-"38",11599,"Green Man Brewery",1311113155,3.5,3,4,"English India Pale Ale (IPA)",3,3.5,"Green Man India Pale Ale",6,25100
-"39",11599,"Green Man Brewery",1305862791,3.5,3,3,"English India Pale Ale (IPA)",3.5,4,"Green Man India Pale Ale",6,25100
-"40",11599,"Green Man Brewery",1301666065,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Green Man India Pale Ale",6,25100
-"41",11599,"Green Man Brewery",1300679025,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"42",11599,"Green Man Brewery",1300125920,2.5,2,4,"English India Pale Ale (IPA)",2.5,2,"Green Man India Pale Ale",6,25100
-"43",11599,"Green Man Brewery",1299733182,2,2,4,"English India Pale Ale (IPA)",2,2,"Green Man India Pale Ale",6,25100
-"44",11599,"Green Man Brewery",1299600964,2.5,2.5,4,"English India Pale Ale (IPA)",4,2,"Green Man India Pale Ale",6,25100
-"45",11599,"Green Man Brewery",1299584536,2,2.5,4,"English India Pale Ale (IPA)",2,2,"Green Man India Pale Ale",6,25100
-"46",11599,"Green Man Brewery",1299282775,4.5,4,4.5,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"47",11599,"Green Man Brewery",1298297532,4,3.5,3.5,"English India Pale Ale (IPA)",4.5,4.5,"Green Man India Pale Ale",6,25100
-"48",11599,"Green Man Brewery",1285603887,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"49",11599,"Green Man Brewery",1275877890,4.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"50",11599,"Green Man Brewery",1275305448,4,4,4,"English India Pale Ale (IPA)",4,3.5,"Green Man India Pale Ale",6,25100
-"51",11599,"Green Man Brewery",1261581091,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Green Man India Pale Ale",6,25100
-"52",11599,"Green Man Brewery",1259073988,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Green Man India Pale Ale",6,25100
-"53",11599,"Green Man Brewery",1250193134,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"54",11599,"Green Man Brewery",1248569684,4,4,3.5,"English India Pale Ale (IPA)",4,4.5,"Green Man India Pale Ale",6,25100
-"55",11599,"Green Man Brewery",1246139881,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Green Man India Pale Ale",6,25100
-"56",11599,"Green Man Brewery",1243039306,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"57",11599,"Green Man Brewery",1241058418,3.5,3.5,3,"English India Pale Ale (IPA)",4,3.5,"Green Man India Pale Ale",6,25100
-"58",11599,"Green Man Brewery",1236129566,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"59",11599,"Green Man Brewery",1231658027,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Green Man India Pale Ale",6,25100
-"60",11599,"Green Man Brewery",1214255253,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Green Man India Pale Ale",6,25100
-"61",11599,"Green Man Brewery",1195952862,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Green Man India Pale Ale",6,25100
-"62",11599,"Green Man Brewery",1193255549,3,3,4,"English India Pale Ale (IPA)",3,3,"Green Man India Pale Ale",6,25100
-"63",11599,"Green Man Brewery",1189630189,4,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Green Man India Pale Ale",6,25100
-"64",11599,"Green Man Brewery",1157643855,3,3,2.5,"English India Pale Ale (IPA)",4,3,"Green Man India Pale Ale",6,25100
-"65",11599,"Green Man Brewery",1123004818,4.5,4,4,"English India Pale Ale (IPA)",4,4.5,"Green Man India Pale Ale",6,25100
-"66",11599,"Green Man Brewery",1285162538,4,3.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Abbey Ale",NA,48306
-"67",11599,"Green Man Brewery",1275961598,4,3.5,4,"Belgian Strong Dark Ale",3.5,4,"Abbey Ale",NA,48306
-"68",11599,"Green Man Brewery",1138886719,4,4.5,4.5,"American Stout",4,3.5,"Green Man Chocolate Stout",6.2,28140
-"69",11599,"Green Man Brewery",1149795756,4,4,4,"English Pale Ale",4,4,"Green Man E.P.A.",7.2,30984
-"70",11599,"Green Man Brewery",1322376624,4,3.5,4,"American IPA",3.5,3.5,"Green Man Dry Hopped India Pale Ale",7.4,28139
-"71",11599,"Green Man Brewery",1142203898,4,4.5,4,"American IPA",4,4.5,"Green Man Dry Hopped India Pale Ale",7.4,28139
-"72",11599,"Green Man Brewery",1314477211,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Green Man ESB",5.3,28146
-"73",11599,"Green Man Brewery",1138886308,4.5,5,4,"American IPA",4.5,4.5,"Green Man Dry Hopped India Pale Ale",7.4,28139
-"74",11599,"Green Man Brewery",1285030318,3,3.5,4.5,"English Bitter",4,3,"Green Man Brewgrass Bitter",NA,61986
-"75",11599,"Green Man Brewery",1326143993,3,3.5,3.5,"English Stout",3,3,"Green Man House Stout",5.2,28148
-"76",11599,"Green Man Brewery",1322376195,3,3,3.5,"English Stout",3.5,3,"Green Man House Stout",5.2,28148
-"77",11599,"Green Man Brewery",1303004901,3,3.5,3.5,"English Stout",3,3.5,"Green Man House Stout",5.2,28148
-"78",11599,"Green Man Brewery",1300682318,2.5,2.5,4,"English Stout",2.5,3,"Green Man House Stout",5.2,28148
-"79",11599,"Green Man Brewery",1297648442,3.5,3.5,3.5,"English Stout",3,3,"Green Man House Stout",5.2,28148
-"80",11599,"Green Man Brewery",1259076551,2,2.5,4,"English Stout",2.5,2,"Green Man House Stout",5.2,28148
-"81",11599,"Green Man Brewery",1326238480,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Green Man ESB",5.3,28146
-"82",11599,"Green Man Brewery",1308275706,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"83",11599,"Green Man Brewery",1301492145,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Green Man ESB",5.3,28146
-"84",11599,"Green Man Brewery",1300757753,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Green Man ESB",5.3,28146
-"85",11599,"Green Man Brewery",1300678413,3.5,2.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Green Man ESB",5.3,28146
-"86",11599,"Green Man Brewery",1298669424,4,3,4,"Extra Special / Strong Bitter (ESB)",3,4,"Green Man ESB",5.3,28146
-"87",11599,"Green Man Brewery",1295051212,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Green Man ESB",5.3,28146
-"88",11599,"Green Man Brewery",1288548780,4.5,4.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Green Man ESB",5.3,28146
-"89",11599,"Green Man Brewery",1287428874,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"90",11599,"Green Man Brewery",1282350704,4.5,3.5,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"91",11599,"Green Man Brewery",1278593401,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Green Man ESB",5.3,28146
-"92",11599,"Green Man Brewery",1201701465,4,2.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"Green Man ESB",5.3,28146
-"93",11599,"Green Man Brewery",1275877058,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Green Man ESB",5.3,28146
-"94",11599,"Green Man Brewery",1271700102,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Green Man ESB",5.3,28146
-"95",11599,"Green Man Brewery",1263135089,4.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"96",11599,"Green Man Brewery",1260141607,4,3.5,3,"Extra Special / Strong Bitter (ESB)",4,3.5,"Green Man ESB",5.3,28146
-"97",11599,"Green Man Brewery",1247832811,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"98",11599,"Green Man Brewery",1231631340,3,3.5,3,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"99",11599,"Green Man Brewery",1230510115,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Green Man ESB",5.3,28146
-"100",11599,"Green Man Brewery",1223763890,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Green Man ESB",5.3,28146
-"101",11599,"Green Man Brewery",1222363989,5,4,5,"Extra Special / Strong Bitter (ESB)",4.5,5,"Green Man ESB",5.3,28146
-"102",11599,"Green Man Brewery",1203253699,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Green Man ESB",5.3,28146
-"103",11599,"Green Man Brewery",1192199126,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3,"Green Man ESB",5.3,28146
-"104",11599,"Green Man Brewery",1189617930,3.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3,3.5,"Green Man ESB",5.3,28146
-"105",11599,"Green Man Brewery",1147135336,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Green Man ESB",5.3,28146
-"106",11599,"Green Man Brewery",1290639808,4.5,4.5,4.5,"Oatmeal Stout",4.5,4,"Green Man Oatmeal Stout",5.6,29766
-"107",11599,"Green Man Brewery",1147137971,3.5,4.5,3.5,"Oatmeal Stout",4.5,5,"Green Man Oatmeal Stout",5.6,29766
-"108",11599,"Green Man Brewery",1147137024,4,4,4.5,"Oatmeal Stout",4,4,"Green Man Oatmeal Stout",5.6,29766
-"109",11599,"Green Man Brewery",1144892654,4,4,4.5,"Oatmeal Stout",4,4.5,"Green Man Oatmeal Stout",5.6,29766
-"110",11599,"Green Man Brewery",1202278514,3,3.5,4,"English Bitter",3.5,3.5,"Green Man Gold Ale",4.8,28147
-"111",11599,"Green Man Brewery",1290638877,4,4,4,"English Bitter",4,4,"Green Man Pub Ale",3.9,58207
-"112",11599,"Green Man Brewery",1273490530,4,3.5,4,"English Bitter",4,3.5,"Green Man Pub Ale",3.9,58207
-"113",11599,"Green Man Brewery",1275875817,4,4,4,"American Pale Wheat Ale",4,4,"Easy Rider Wheat",NA,58966
-"114",11599,"Green Man Brewery",1239569221,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Green Man Dragon",9,28138
-"115",11599,"Green Man Brewery",1142260332,3.5,3.5,4,"Belgian Strong Dark Ale",4,3,"Green Man Dragon",9,28138
-"116",11599,"Green Man Brewery",1138885956,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Green Man Dragon",9,28138
-"117",11599,"Green Man Brewery",1153274508,4.5,4,4,"Tripel",4,4.5,"Green Man Merlin Trippel",10,31773
-"118",11599,"Green Man Brewery",1235969037,3,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Green Man Gollum",8.5,28685
-"119",11599,"Green Man Brewery",1144892413,4,4,4,"Belgian Strong Pale Ale",4,4,"Green Man Gollum",8.5,28685
-"120",11599,"Green Man Brewery",1326144214,4,4,3.5,"American Double / Imperial IPA",4,3.5,"Green Man Cask IPA",NA,77245
-"121",11599,"Green Man Brewery",1290639277,4,3.5,4,"American Brown Ale",4,4,"Green Man Summer Brunette",6,31774
-"122",11599,"Green Man Brewery",1280197961,5,4,4,"English Porter",4,4,"Green Man Porter",5.6,28151
-"123",11599,"Green Man Brewery",1156129992,4,3,4,"American Brown Ale",5,4,"Green Man Summer Brunette",6,31774
-"124",11599,"Green Man Brewery",1156129468,3.5,3,4,"American Brown Ale",4,3.5,"Green Man Summer Brunette",6,31774
-"125",11599,"Green Man Brewery",1153274839,4,3.5,4,"American Brown Ale",3.5,3.5,"Green Man Summer Brunette",6,31774
-"126",11599,"Green Man Brewery",1322375904,4,4,3.5,"Doppelbock",4,3.5,"Green Man Doppelbock",7.6,28684
-"127",11599,"Green Man Brewery",1144892141,4,4,4,"Doppelbock",4,4.5,"Green Man Doppelbock",7.6,28684
-"128",11599,"Green Man Brewery",1142205388,3.5,4.5,4,"Doppelbock",4,4.5,"Green Man Doppelbock",7.6,28684
-"129",11599,"Green Man Brewery",1322375981,4,4,4,"English Stout",4,4,"Green Man Imperial Stout",5.7,28149
-"130",11599,"Green Man Brewery",1297094578,3.5,3.5,3.5,"English Stout",4,3.5,"Green Man Imperial Stout",5.7,28149
-"131",11599,"Green Man Brewery",1234998567,5,4,5,"English Stout",5,5,"Green Man Imperial Stout",5.7,28149
-"132",11599,"Green Man Brewery",1234756170,4,4,4.5,"English Stout",4,4.5,"Green Man Imperial Stout",5.7,28149
-"133",11599,"Green Man Brewery",1202704967,4,4.5,3.5,"English Stout",3.5,4,"Green Man Imperial Stout",5.7,28149
-"134",11599,"Green Man Brewery",1202314690,4,4.5,4.5,"English Stout",5,4.5,"Green Man Imperial Stout",5.7,28149
-"135",11599,"Green Man Brewery",1198881730,4,4,4,"English Stout",4,4.5,"Green Man Imperial Stout",5.7,28149
-"136",11599,"Green Man Brewery",1326144483,3.5,3.5,3.5,"English Porter",4,3.5,"Green Man Porter",5.6,28151
-"137",11599,"Green Man Brewery",1325457848,3,4,4,"English Porter",3,3.5,"Green Man Porter",5.6,28151
-"138",11599,"Green Man Brewery",1325452141,4,4,4,"English Porter",4.5,4,"Green Man Porter",5.6,28151
-"139",11599,"Green Man Brewery",1322797110,4,4,4.5,"English Porter",5,4.5,"Green Man Porter",5.6,28151
-"140",11599,"Green Man Brewery",1322376240,4,4,4.5,"English Porter",4.5,4,"Green Man Porter",5.6,28151
-"141",11599,"Green Man Brewery",1315851494,3.5,3.5,4,"English Porter",3,3,"Green Man Porter",5.6,28151
-"142",11599,"Green Man Brewery",1300678813,3.5,4,4,"English Porter",3.5,3.5,"Green Man Porter",5.6,28151
-"143",11599,"Green Man Brewery",1295879738,4.5,3.5,3,"English Porter",4,4,"Green Man Porter",5.6,28151
-"144",11599,"Green Man Brewery",1293668128,3.5,3.5,3,"English Porter",3,3.5,"Green Man Porter",5.6,28151
-"145",11599,"Green Man Brewery",1271764991,4,3.5,3.5,"English Porter",3.5,4,"Green Man Porter",5.6,28151
-"146",11599,"Green Man Brewery",1259885004,3.5,3.5,3.5,"English Porter",3.5,3.5,"Green Man Porter",5.6,28151
-"147",11599,"Green Man Brewery",1253670959,4.5,4.5,3.5,"English Porter",3.5,5,"Green Man Porter",5.6,28151
-"148",11599,"Green Man Brewery",1201701718,4,3,4.5,"English Porter",5,4.5,"Green Man Porter",5.6,28151
-"149",11599,"Green Man Brewery",1195952567,4.5,4.5,3,"English Porter",3.5,4,"Green Man Porter",5.6,28151
-"150",11599,"Green Man Brewery",1190753134,3.5,3.5,3.5,"English Porter",4,3.5,"Green Man Porter",5.6,28151
-"151",11599,"Green Man Brewery",1189629325,4,3.5,3.5,"English Porter",3.5,4,"Green Man Porter",5.6,28151
-"152",11599,"Green Man Brewery",1322376147,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Green Man The Truth",9.5,54471
-"153",11599,"Green Man Brewery",1278458891,4,4,4,"American Double / Imperial IPA",4,3.5,"Green Man The Truth",9.5,54471
-"154",11599,"Green Man Brewery",1262508861,4,4,4.5,"American Double / Imperial IPA",4,4,"Green Man The Truth",9.5,54471
-"155",11599,"Green Man Brewery",1259884340,4,4,4,"American Double / Imperial IPA",4,4,"Green Man The Truth",9.5,54471
-"156",11599,"Green Man Brewery",1259699791,4.5,4,3.5,"American Double / Imperial IPA",4.5,4,"Green Man The Truth",9.5,54471
-"157",11599,"Green Man Brewery",1260478796,4,4,3,"American Strong Ale",3.5,4.5,"Francis",8,54474
-"158",11599,"Green Man Brewery",1259700969,5,4.5,3.5,"American Strong Ale",4,5,"Francis",8,54474
-"159",11599,"Green Man Brewery",1285114351,4,3.5,4,"Witbier",4,3.5,"Green Man Belgian Wit",5.6,30985
-"160",11599,"Green Man Brewery",1149796125,4.5,4.5,4,"Witbier",4.5,4,"Green Man Belgian Wit",5.6,30985
-"161",11599,"Green Man Brewery",1322376457,3,3,3.5,"Russian Imperial Stout",2.5,3.5,"Green Man Kill Devil Dweller",11,67071
-"162",11599,"Green Man Brewery",1301443846,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3,"Green Man Kill Devil Dweller",11,67071
-"163",11599,"Green Man Brewery",1299812138,3,3.5,4,"Russian Imperial Stout",3.5,3,"Green Man Kill Devil Dweller",11,67071
-"164",11599,"Green Man Brewery",1275876100,4.5,4.5,4.5,"American Porter",3.5,4.5,"Green Man Coconut Porter",NA,58967
-"165",11599,"Green Man Brewery",1261005592,3.5,4,3.5,"Old Ale",3.5,3.5,"Cinnamon Girl",6.5,54473
-"166",11599,"Green Man Brewery",1259700510,4,3.5,3.5,"Old Ale",4.5,4,"Cinnamon Girl",6.5,54473
-"167",11599,"Green Man Brewery",1290640469,4,3.5,3.5,"Czech Pilsener",4,4,"Green Man Czech Pilsner",5.5,31775
-"168",11599,"Green Man Brewery",1153276210,3.5,3.5,3.5,"Czech Pilsener",3.5,3.5,"Green Man Czech Pilsner",5.5,31775
-"169",11599,"Green Man Brewery",1290640745,4,3.5,3.5,"German Pilsener",3.5,3.5,"Green Man Pilsner",NA,28943
-"170",11599,"Green Man Brewery",1142206700,4.5,4,3.5,"German Pilsener",4,3.5,"Green Man Pilsner",NA,28943
-"171",11599,"Green Man Brewery",1278636557,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Green Man Pale Ale",6.1,28150
-"172",11599,"Green Man Brewery",1248569504,4,4,3.5,"American Pale Ale (APA)",4,4,"Green Man Pale Ale",6.1,28150
-"173",11599,"Green Man Brewery",1202279006,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Green Man Pale Ale",6.1,28150
-"174",11599,"Green Man Brewery",1201702166,4.5,3.5,4,"American Pale Ale (APA)",5,5,"Green Man Pale Ale",6.1,28150
-"175",11599,"Green Man Brewery",1166149481,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Green Man Pale Ale",6.1,28150
-"176",11599,"Green Man Brewery",1322376692,4,4.5,4,"American Strong Ale",4.5,4,"Rosemary's Baby",8,54472
-"177",11599,"Green Man Brewery",1261005113,3.5,4.5,3,"American Strong Ale",3.5,4,"Rosemary's Baby",8,54472
-"178",11599,"Green Man Brewery",1259700149,3.5,4,3.5,"American Strong Ale",4,4,"Rosemary's Baby",8,54472
-"179",11599,"Green Man Brewery",1261006067,4,4,3,"Extra Special / Strong Bitter (ESB)",4,4,"Cerveza Loca",6,54475
-"180",11599,"Green Man Brewery",1259701499,4.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Cerveza Loca",6,54475
+"3",13228,"Green Man Brewery",1282984041,3.5,4,4.5,"English India Pale Ale (IPA)",4,3,"IPA",5.5,51842
+"4",13228,"Green Man Brewery",1250144574,4.5,5,4,"English India Pale Ale (IPA)",4,3.5,"IPA",5.5,51842
+"5",13228,"Green Man Brewery",1244792683,4,4,4,"Hefeweizen",3.5,4,"Wheat",5.2,50421
+"6",13228,"Green Man Brewery",1242973206,5,3.5,3.5,"Dortmunder / Export Lager",4.5,4,"Lager",4.8,49941
+"7",13228,"Green Man Brewery",1258881002,4,3.5,4.5,"Foreign / Export Stout",4.5,3.5,"Stout",7,49718
+"8",13228,"Green Man Brewery",1244628025,4,4,3.5,"Foreign / Export Stout",4,4.5,"Stout",7,49718
+"9",13228,"Green Man Brewery",1242870468,4,4,4,"Foreign / Export Stout",4,4,"Stout",7,49718
+"10",13228,"Green Man Brewery",1242049165,3.5,3.5,4,"Foreign / Export Stout",3.5,3.5,"Stout",7,49718
+"11",13228,"Green Man Brewery",1252900813,4.5,3.5,4.5,"Keller Bier / Zwickel Bier",3.5,4,"Keller",4.8,40980
+"12",13228,"Green Man Brewery",1252731166,4.5,3.5,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Keller",4.8,40980
+"13",13228,"Green Man Brewery",1242636017,4.5,4,3.5,"Keller Bier / Zwickel Bier",4,3.5,"Keller",4.8,40980
+"14",13228,"Green Man Brewery",1202856683,4,4,3,"Keller Bier / Zwickel Bier",2.5,4,"Keller",4.8,40980
+"15",13228,"Green Man Brewery",1269905816,4,4,3,"English Bitter",2.5,3,"Best Bitter",4.5,36083
+"16",13228,"Green Man Brewery",1269813886,2.5,2.5,2.5,"English Bitter",1.5,2.5,"Best Bitter",4.5,36083
+"17",13228,"Green Man Brewery",1243062644,4,3,4,"English Bitter",4,3.5,"Best Bitter",4.5,36083
+"18",13228,"Green Man Brewery",1174940517,3,2,3.5,"English Bitter",2.5,3,"Best Bitter",4.5,36083

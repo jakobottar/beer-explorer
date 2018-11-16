@@ -1,77 +1,35 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",18081,"Big Al Brewing",1270393319,3,4,4,"American Porter",2.5,3,"Smoked Porter",5.8,47706
-"2",18081,"Big Al Brewing",1307044366,4,3.5,3.5,"American Wild Ale",4,4,"Super Kriek",NA,69663
-"3",18081,"Big Al Brewing",1321204611,3,2.5,3.5,"American IPA",4,2.5,"IPA",7.3,58300
-"4",18081,"Big Al Brewing",1313632459,3,3,3,"Irish Red Ale",2.5,3,"Irish Red",6,47701
-"5",18081,"Big Al Brewing",1267505530,4,4,4,"Saison / Farmhouse Ale",4,4,"Saison",NA,56055
-"6",18081,"Big Al Brewing",1266010499,4,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison",NA,56055
-"7",18081,"Big Al Brewing",1312994977,4,3.5,4,"American Black Ale",3.5,4,"Hop Villian",NA,66304
-"8",18081,"Big Al Brewing",1300063141,4,3.5,3.5,"American Black Ale",4,4,"Hop Villian",NA,66304
-"9",18081,"Big Al Brewing",1297820859,4,3.5,3.5,"American Black Ale",3.5,4,"Hop Villian",NA,66304
-"10",18081,"Big Al Brewing",1297779367,3,2.5,3.5,"American Black Ale",3,2.5,"Hop Villian",NA,66304
-"11",18081,"Big Al Brewing",1308095908,3.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Brougham Bitter",5.5,65136
-"12",18081,"Big Al Brewing",1307131549,4,3.5,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Brougham Bitter",5.5,65136
-"13",18081,"Big Al Brewing",1294451035,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Brougham Bitter",5.5,65136
-"14",18081,"Big Al Brewing",1237254120,3,2,3.5,"American Stout",3,3,"Dark Roast",5.5,47702
-"15",18081,"Big Al Brewing",1233630340,4,4.5,4.5,"American Stout",4,4,"Dark Roast",5.5,47702
-"16",18081,"Big Al Brewing",1311801671,4.5,4.5,4,"Kölsch",4,4.5,"Lowman Brau",4.5,71460
-"17",18081,"Big Al Brewing",1312941429,3.5,3.5,4,"American Porter",3,4,"Smoked Porter",5.8,47706
-"18",18081,"Big Al Brewing",1302378382,4.5,4,4,"American Porter",4,4,"Smoked Porter",5.8,47706
-"19",18081,"Big Al Brewing",1273534686,3.5,3,3.5,"American Porter",3,3.5,"Smoked Porter",5.8,47706
-"20",18081,"Big Al Brewing",1257714550,3.5,3.5,3.5,"American Porter",3.5,4,"Smoked Porter",5.8,47706
-"21",18081,"Big Al Brewing",1233633173,2.5,3,3,"American Porter",3,2.5,"Smoked Porter",5.8,47706
-"22",18081,"Big Al Brewing",1280881441,3.5,3.5,4,"Belgian Dark Ale",3.5,3.5,"Belgian Brown",NA,60715
-"23",18081,"Big Al Brewing",1277323842,3,4,4,"American Stout",3.5,3.5,"Peanut Butter Stout",NA,59475
-"24",18081,"Big Al Brewing",1277237664,4,4,4,"American Stout",4,4,"Peanut Butter Stout",NA,59475
-"25",18081,"Big Al Brewing",1233632226,3,3,3.5,"Doppelbock",3.5,3,"Local Hero Doppelbock",8.6,47705
-"26",18081,"Big Al Brewing",1249075480,5,3.5,4,"Cream Ale",4.5,4,"Cream Ale",NA,51535
-"27",18081,"Big Al Brewing",1264198660,3.5,3.5,3.5,"American Strong Ale",3,3.5,"Sam The Man",NA,55577
-"28",18081,"Big Al Brewing",1277235159,4,3.5,3,"American Pale Wheat Ale",4,4,"Passive Aggresive Wheat",NA,59472
-"29",18081,"Big Al Brewing",1273534006,4,3.5,4.5,"Belgian Pale Ale",3.5,4,"Local Hero #7 (Pale Rover)",6.6,57756
-"30",18081,"Big Al Brewing",1271967554,4.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Local Hero #7 (Pale Rover)",6.6,57756
-"31",18081,"Big Al Brewing",1287102420,4,4,4,"Tripel",4,4,"Tripel",9,48129
-"32",18081,"Big Al Brewing",1270392788,3.5,3.5,3.5,"Tripel",3.5,3.5,"Tripel",9,48129
-"33",18081,"Big Al Brewing",1235522204,4,2.5,3,"Tripel",3.5,3,"Tripel",9,48129
-"34",18081,"Big Al Brewing",1296514312,4,3.5,3.5,"Winter Warmer",4,4,"Winter Warmer",7.5,55010
-"35",18081,"Big Al Brewing",1294885749,4.5,4,4,"Winter Warmer",5,4.5,"Winter Warmer",7.5,55010
-"36",18081,"Big Al Brewing",1262141401,3.5,3,3.5,"Winter Warmer",3.5,3.5,"Winter Warmer",7.5,55010
-"37",18081,"Big Al Brewing",1261825962,4,3,3.5,"Winter Warmer",3.5,3.5,"Winter Warmer",7.5,55010
-"38",18081,"Big Al Brewing",1288915676,3,4,4,"Belgian IPA",2.5,2.5,"Belgian IPA",NA,63155
-"39",18081,"Big Al Brewing",1271966442,4,3.5,3,"Flanders Red Ale",3,4,"Sourlicious",5.5,56320
-"40",18081,"Big Al Brewing",1266813095,4.5,5,4,"Flanders Red Ale",4,4.5,"Sourlicious",5.5,56320
-"41",18081,"Big Al Brewing",1317515197,4,3,4.5,"American Pale Ale (APA)",4.5,4,"Cask Pale",NA,73691
-"42",18081,"Big Al Brewing",1317258674,2,1,3.5,"American IPA",2.5,1.5,"IPA",7.3,58300
-"43",18081,"Big Al Brewing",1309760189,3.5,3.5,4,"American IPA",3.5,4,"IPA",7.3,58300
-"44",18081,"Big Al Brewing",1296146900,5,3,3,"American IPA",4,3,"IPA",7.3,58300
-"45",18081,"Big Al Brewing",1279594678,2.5,3.5,4,"American IPA",3,3,"IPA",7.3,58300
-"46",18081,"Big Al Brewing",1275682880,4,3.5,4,"American IPA",4,3.5,"IPA",7.3,58300
-"47",18081,"Big Al Brewing",1273709503,4,3.5,4,"American IPA",3.5,4,"IPA",7.3,58300
-"48",18081,"Big Al Brewing",1252613494,4,2.5,3,"Scotch Ale / Wee Heavy",3.5,3,"Local Hero #4  Scotch Ale",NA,52525
-"49",18081,"Big Al Brewing",1297025270,4.5,4,4,"Fruit / Vegetable Beer",4.5,4.5,"Nut Warmer",NA,66013
-"50",18081,"Big Al Brewing",1314513047,3,3,3,"American Wild Ale",3,3,"Sesame Plum Sour",NA,70000
-"51",18081,"Big Al Brewing",1308014919,3,3.5,3,"American Wild Ale",3,3,"Sesame Plum Sour",NA,70000
-"52",18081,"Big Al Brewing",1286163982,4,4,3.5,"American Amber / Red Ale",3,4,"Fresh Hopped Harvest Ale",NA,53818
-"53",18081,"Big Al Brewing",1266969570,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Fresh Hopped Harvest Ale",NA,53818
-"54",18081,"Big Al Brewing",1257029152,4,4,4,"American Amber / Red Ale",4,4,"Fresh Hopped Harvest Ale",NA,53818
-"55",18081,"Big Al Brewing",1240596284,4.5,3.5,4.5,"Belgian Dark Ale",4,4.5,"Abbey Wheat",5.2,47674
-"56",18081,"Big Al Brewing",1234108636,4,2.5,3,"Belgian Dark Ale",3,3,"Abbey Wheat",5.2,47674
-"57",18081,"Big Al Brewing",1233556614,4,4,3.5,"Belgian Dark Ale",3,4,"Abbey Wheat",5.2,47674
-"58",18081,"Big Al Brewing",1316808779,4.5,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Local Hero #10",NA,73378
-"59",18081,"Big Al Brewing",1309741448,4,4,3.5,"Kölsch",4,4,"Summer Ale",NA,69696
-"60",18081,"Big Al Brewing",1307132261,4,3.5,3.5,"Kölsch",4,4,"Summer Ale",NA,69696
-"61",18081,"Big Al Brewing",1270392987,3,4,3.5,"Winter Warmer",3,3,"Winter Mint",7,56888
-"62",18081,"Big Al Brewing",1268949900,3.5,3.5,3.5,"Winter Warmer",3.5,3.5,"Winter Mint",7,56888
-"63",18081,"Big Al Brewing",1314415122,4,4,4.5,"Irish Red Ale",3.5,4.5,"Irish Red",6,47701
-"64",18081,"Big Al Brewing",1235523931,4,3,3.5,"Irish Red Ale",4,4,"Irish Red",6,47701
-"65",18081,"Big Al Brewing",1233628151,3.5,3.5,3.5,"Irish Red Ale",3,3.5,"Irish Red",6,47701
-"66",18081,"Big Al Brewing",1250195454,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Hop Soup",NA,51849
-"67",18081,"Big Al Brewing",1291677082,3,2,3.5,"American Pale Ale (APA)",3,3,"Papa Charlie's Pale Ale",4.2,47675
-"68",18081,"Big Al Brewing",1275683104,3.5,3.5,4,"American Pale Ale (APA)",2.5,3.5,"Papa Charlie's Pale Ale",4.2,47675
-"69",18081,"Big Al Brewing",1251575216,5,3,3,"American Pale Ale (APA)",3.5,4,"Papa Charlie's Pale Ale",4.2,47675
-"70",18081,"Big Al Brewing",1233557580,4,3.5,4,"American Pale Ale (APA)",4,4,"Papa Charlie's Pale Ale",4.2,47675
-"71",18081,"Big Al Brewing",1308868828,3,3.5,4,"American Pale Lager",3,3,"Summer Lager",NA,50904
-"72",18081,"Big Al Brewing",1246787186,5,3,3.5,"American Pale Lager",4,4,"Summer Lager",NA,50904
-"73",18081,"Big Al Brewing",1257463820,5,4,3.5,"American Amber / Red Ale",4,4.5,"Tutta Bella Amber",NA,50596
-"74",18081,"Big Al Brewing",1251608197,2.5,2.5,3.5,"American Amber / Red Ale",2.5,2.5,"Tutta Bella Amber",NA,50596
-"75",18081,"Big Al Brewing",1245535942,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Tutta Bella Amber",NA,50596
-"76",18081,"Big Al Brewing",1291863416,4,3.5,3.5,"Dubbel",3.5,3.5,"Local Hero #9",NA,64238
+"2",18081,"Big Al Brewing",1321204611,3,2.5,3.5,"American IPA",4,2.5,"IPA",7.3,58300
+"3",18081,"Big Al Brewing",1313632459,3,3,3,"Irish Red Ale",2.5,3,"Irish Red",6,47701
+"4",18081,"Big Al Brewing",1267505530,4,4,4,"Saison / Farmhouse Ale",4,4,"Saison",NA,56055
+"5",18081,"Big Al Brewing",1266010499,4,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison",NA,56055
+"6",18081,"Big Al Brewing",1312941429,3.5,3.5,4,"American Porter",3,4,"Smoked Porter",5.8,47706
+"7",18081,"Big Al Brewing",1302378382,4.5,4,4,"American Porter",4,4,"Smoked Porter",5.8,47706
+"8",18081,"Big Al Brewing",1273534686,3.5,3,3.5,"American Porter",3,3.5,"Smoked Porter",5.8,47706
+"9",18081,"Big Al Brewing",1257714550,3.5,3.5,3.5,"American Porter",3.5,4,"Smoked Porter",5.8,47706
+"10",18081,"Big Al Brewing",1233633173,2.5,3,3,"American Porter",3,2.5,"Smoked Porter",5.8,47706
+"11",18081,"Big Al Brewing",1280881441,3.5,3.5,4,"Belgian Dark Ale",3.5,3.5,"Belgian Brown",NA,60715
+"12",18081,"Big Al Brewing",1249075480,5,3.5,4,"Cream Ale",4.5,4,"Cream Ale",NA,51535
+"13",18081,"Big Al Brewing",1287102420,4,4,4,"Tripel",4,4,"Tripel",9,48129
+"14",18081,"Big Al Brewing",1270392788,3.5,3.5,3.5,"Tripel",3.5,3.5,"Tripel",9,48129
+"15",18081,"Big Al Brewing",1235522204,4,2.5,3,"Tripel",3.5,3,"Tripel",9,48129
+"16",18081,"Big Al Brewing",1296514312,4,3.5,3.5,"Winter Warmer",4,4,"Winter Warmer",7.5,55010
+"17",18081,"Big Al Brewing",1294885749,4.5,4,4,"Winter Warmer",5,4.5,"Winter Warmer",7.5,55010
+"18",18081,"Big Al Brewing",1262141401,3.5,3,3.5,"Winter Warmer",3.5,3.5,"Winter Warmer",7.5,55010
+"19",18081,"Big Al Brewing",1261825962,4,3,3.5,"Winter Warmer",3.5,3.5,"Winter Warmer",7.5,55010
+"20",18081,"Big Al Brewing",1288915676,3,4,4,"Belgian IPA",2.5,2.5,"Belgian IPA",NA,63155
+"21",18081,"Big Al Brewing",1317258674,2,1,3.5,"American IPA",2.5,1.5,"IPA",7.3,58300
+"22",18081,"Big Al Brewing",1309760189,3.5,3.5,4,"American IPA",3.5,4,"IPA",7.3,58300
+"23",18081,"Big Al Brewing",1296146900,5,3,3,"American IPA",4,3,"IPA",7.3,58300
+"24",18081,"Big Al Brewing",1279594678,2.5,3.5,4,"American IPA",3,3,"IPA",7.3,58300
+"25",18081,"Big Al Brewing",1275682880,4,3.5,4,"American IPA",4,3.5,"IPA",7.3,58300
+"26",18081,"Big Al Brewing",1273709503,4,3.5,4,"American IPA",3.5,4,"IPA",7.3,58300
+"27",18081,"Big Al Brewing",1309741448,4,4,3.5,"Kölsch",4,4,"Summer Ale",NA,69696
+"28",18081,"Big Al Brewing",1307132261,4,3.5,3.5,"Kölsch",4,4,"Summer Ale",NA,69696
+"29",18081,"Big Al Brewing",1314415122,4,4,4.5,"Irish Red Ale",3.5,4.5,"Irish Red",6,47701
+"30",18081,"Big Al Brewing",1235523931,4,3,3.5,"Irish Red Ale",4,4,"Irish Red",6,47701
+"31",18081,"Big Al Brewing",1233628151,3.5,3.5,3.5,"Irish Red Ale",3,3.5,"Irish Red",6,47701
+"32",18081,"Big Al Brewing",1250195454,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Hop Soup",NA,51849
+"33",18081,"Big Al Brewing",1308868828,3,3.5,4,"American Pale Lager",3,3,"Summer Lager",NA,50904
+"34",18081,"Big Al Brewing",1246787186,5,3,3.5,"American Pale Lager",4,4,"Summer Lager",NA,50904

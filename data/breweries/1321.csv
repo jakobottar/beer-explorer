@@ -1,120 +1,59 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1321,"Wig And Pen",1288592634,4.5,3,3.5,"Dunkelweizen",4,3.5,"Amber Hefeweizen",NA,13493
 "2",1321,"Wig And Pen",1068561659,4,3.5,3,"Kölsch",3.5,4,"Kamberra Kolsch",NA,12935
-"3",1321,"Wig And Pen",1162789185,3.5,3.5,3.5,"Smoked Beer",3.5,3.5,"Wobbly Boot Smokey Weizen",NA,13504
-"4",1321,"Wig And Pen",1251183400,2.5,2,2.5,"Witbier",4,2,"Belgian Blonde Witbier",4.8,32585
-"5",1321,"Wig And Pen",1247804657,1.5,2.5,2.5,"Witbier",1,1.5,"Belgian Blonde Witbier",4.8,32585
-"6",1321,"Wig And Pen",1172382071,3.5,3,3,"Witbier",4,3.5,"Belgian Blonde Witbier",4.8,32585
-"7",1321,"Wig And Pen",1171866145,2,3,3.5,"Witbier",2,1.5,"Belgian Blonde Witbier",4.8,32585
-"8",1321,"Wig And Pen",1317793448,3,2.5,3,"Czech Pilsener",2.5,3,"Kiandra Gold Pilsner",NA,13499
-"9",1321,"Wig And Pen",1298020424,3.5,3,3.5,"Czech Pilsener",3.5,3.5,"Kiandra Gold Pilsner",NA,13499
-"10",1321,"Wig And Pen",1247805099,3.5,3.5,2,"Czech Pilsener",3,3.5,"Kiandra Gold Pilsner",NA,13499
-"11",1321,"Wig And Pen",1140497595,4,4,3,"Czech Pilsener",4,4.5,"Kiandra Gold Pilsner",NA,13499
-"12",1321,"Wig And Pen",1078051364,3.5,4,3,"Czech Pilsener",3.5,4,"Kiandra Gold Pilsner",NA,13499
-"13",1321,"Wig And Pen",1078134098,3.5,3.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Lachies Ness Scottish Ale",NA,16229
-"14",1321,"Wig And Pen",1249885534,3.5,3,3.5,"Herbed / Spiced Beer",4,3.5,"Spies'd Spiced Olde Ale",5.8,51173
-"15",1321,"Wig And Pen",1298790780,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Kb",4.3,66392
-"16",1321,"Wig And Pen",1162786928,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Velvet Cream Stout",NA,13503
-"17",1321,"Wig And Pen",1298541845,3,3,4,"Fruit / Vegetable Beer",3.5,3,"Kb",4.3,66392
-"18",1321,"Wig And Pen",1298020233,4.5,4,5,"Fruit / Vegetable Beer",4.5,4.5,"Kb",4.3,66392
-"19",1321,"Wig And Pen",1303732123,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Lazy Day's ESB",5.9,66543
-"20",1321,"Wig And Pen",1298338997,4,4,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Lazy Day's ESB",5.9,66543
-"21",1321,"Wig And Pen",1301546832,3.5,3.5,4,"American Brown Ale",3.5,3.5,"Big Brown Beaver",6.3,67668
-"22",1321,"Wig And Pen",1317806982,3.5,2,3.5,"Doppelbock",4,4,"Aviator",6.9,73804
-"23",1321,"Wig And Pen",1317793309,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Velvet Cream Stout",NA,13503
-"24",1321,"Wig And Pen",1303559249,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Velvet Cream Stout",NA,13503
-"25",1321,"Wig And Pen",1289456117,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Velvet Cream Stout",NA,13503
-"26",1321,"Wig And Pen",1247811676,3.5,4,3.5,"Milk / Sweet Stout",4,3.5,"Velvet Cream Stout",NA,13503
-"27",1321,"Wig And Pen",1140497815,4.5,4.5,4.5,"Milk / Sweet Stout",5,4,"Velvet Cream Stout",NA,13503
-"28",1321,"Wig And Pen",1113617108,4,3.5,4,"Milk / Sweet Stout",3.5,4,"Velvet Cream Stout",NA,13503
-"29",1321,"Wig And Pen",1095994843,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Velvet Cream Stout",NA,13503
-"30",1321,"Wig And Pen",1078050465,4,4,4,"Milk / Sweet Stout",4,4,"Velvet Cream Stout",NA,13503
-"31",1321,"Wig And Pen",1317801987,4.5,3,3.5,"Kölsch",3,3.5,"Kembery Ale",4.4,73802
-"32",1321,"Wig And Pen",1288351110,4,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Rich's Summer Frenzy",5.3,32586
-"33",1321,"Wig And Pen",1247812658,2.5,2,3.5,"Fruit / Vegetable Beer",2.5,3,"Rich's Summer Frenzy",5.3,32586
-"34",1321,"Wig And Pen",1232971059,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,4,"Rich's Summer Frenzy",5.3,32586
-"35",1321,"Wig And Pen",1171922392,3.5,3,3.5,"Fruit / Vegetable Beer",3,3,"Rich's Summer Frenzy",5.3,32586
-"36",1321,"Wig And Pen",1319507705,4,4,4,"Flanders Red Ale",4,4.5,"Flemm",7.1,74494
-"37",1321,"Wig And Pen",1254100177,4,4,4.5,"Rauchbier",4.5,4.5,"Hopfenrauch",5.8,52967
-"38",1321,"Wig And Pen",1317801424,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,4,"Brewers IPA",NA,13496
-"39",1321,"Wig And Pen",1288350681,3.5,3,4,"English India Pale Ale (IPA)",4,3.5,"Brewers IPA",NA,13496
-"40",1321,"Wig And Pen",1247810761,3.5,4,3,"English India Pale Ale (IPA)",3.5,3.5,"Brewers IPA",NA,13496
-"41",1321,"Wig And Pen",1162786644,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Brewers IPA",NA,13496
-"42",1321,"Wig And Pen",1140497174,4,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Brewers IPA",NA,13496
-"43",1321,"Wig And Pen",1317807580,4,3.5,4,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
-"44",1321,"Wig And Pen",1303731682,3.5,4,3.5,"Irish Red Ale",3.5,3.5,"Ballyragget Irish Red Ale",NA,13495
-"45",1321,"Wig And Pen",1298522154,4,4,3.5,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
-"46",1321,"Wig And Pen",1247811089,3.5,4,2.5,"Irish Red Ale",3.5,3.5,"Ballyragget Irish Red Ale",NA,13495
-"47",1321,"Wig And Pen",1172381760,4,4,4.5,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
-"48",1321,"Wig And Pen",1171922904,3,3.5,2.5,"Irish Red Ale",3,3.5,"Ballyragget Irish Red Ale",NA,13495
-"49",1321,"Wig And Pen",1160210226,4,3.5,3.5,"Irish Red Ale",4,4,"Ballyragget Irish Red Ale",NA,13495
-"50",1321,"Wig And Pen",1078131208,2.5,2.5,3,"Irish Red Ale",3,2.5,"Ballyragget Irish Red Ale",NA,13495
-"51",1321,"Wig And Pen",1303962111,4,4,3.5,"Belgian Strong Pale Ale",4,4,"Lunch With The Monks",9,68455
-"52",1321,"Wig And Pen",1319785655,4,3.5,4,"Belgian Strong Pale Ale",4,4,"2000 Not Out",8,71871
-"53",1321,"Wig And Pen",1317807472,3.5,3.5,4,"Belgian Strong Pale Ale",3,3.5,"2000 Not Out",8,71871
-"54",1321,"Wig And Pen",1312860561,4,3.5,3.5,"Belgian Strong Pale Ale",4,4.5,"2000 Not Out",8,71871
-"55",1321,"Wig And Pen",1262426123,4,3.5,4,"Fruit / Vegetable Beer",4,4,"Framboise",5,55161
-"56",1321,"Wig And Pen",1272595734,2.5,3.5,3.5,"American Pale Ale (APA)",4,2.5,"Kiwi In A Pouch",NA,57876
-"57",1321,"Wig And Pen",1272347073,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Kiwi In A Pouch",NA,57876
-"58",1321,"Wig And Pen",1247804251,3,4,3,"Dunkelweizen",3,3.5,"Amber Hefeweizen",NA,13493
-"59",1321,"Wig And Pen",1162785776,4,3,3.5,"Dunkelweizen",3.5,4,"Amber Hefeweizen",NA,13493
-"60",1321,"Wig And Pen",1140497414,4,4,4,"Dunkelweizen",3,3.5,"Amber Hefeweizen",NA,13493
-"61",1321,"Wig And Pen",1078050151,2,2.5,3,"Dunkelweizen",2,2.5,"Amber Hefeweizen",NA,13493
-"62",1321,"Wig And Pen",1317801318,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Pale Ale",5,13500
-"63",1321,"Wig And Pen",1253774681,4.5,3.5,4.5,"American Pale Ale (APA)",4,4,"Pale Ale",5,13500
-"64",1321,"Wig And Pen",1247800865,2.5,3.5,3,"American Pale Ale (APA)",3,2.5,"Pale Ale",5,13500
-"65",1321,"Wig And Pen",1162786451,4,4,4,"American Pale Ale (APA)",4,4.5,"Pale Ale",5,13500
-"66",1321,"Wig And Pen",1140499645,3.5,4.5,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5,13500
-"67",1321,"Wig And Pen",1317807343,3.5,3.5,4.5,"American Strong Ale",3,3.5,"61.0",NA,72608
-"68",1321,"Wig And Pen",1314671391,4.5,4,4,"American Strong Ale",4.5,4.5,"61.0",NA,72608
-"69",1321,"Wig And Pen",1078133146,3.5,3.5,3.5,"Smoked Beer",3,3.5,"Wobbly Boot Smokey Weizen",NA,13504
-"70",1321,"Wig And Pen",1073368753,4,4,3,"Smoked Beer",4,5,"Wobbly Boot Smokey Weizen",NA,13504
-"71",1321,"Wig And Pen",1284018480,4,4,3.5,"Doppelbock",4,3.5,"Aviator Doppelbock",NA,13494
-"72",1321,"Wig And Pen",1243248939,4.5,3.5,4,"American Pale Ale (APA)",4.5,4,"Hop Heads",5.8,50035
-"73",1321,"Wig And Pen",1140496937,4.5,3,4,"Berliner Weissbier",4,3.5,"Berliner Weisse",NA,28507
-"74",1321,"Wig And Pen",1306986809,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"Bald Headed Stagger",7.5,69641
-"75",1321,"Wig And Pen",1244121089,3.5,2.5,4,"English Pale Ale",4.5,4,"Hopidemic",5,42700
-"76",1321,"Wig And Pen",1210915642,4.5,4.5,3.5,"English Pale Ale",4,5,"Hopidemic",5,42700
-"77",1321,"Wig And Pen",1317807092,3.5,3,4.5,"English Porter",3,3,"London Porter",5.2,51588
-"78",1321,"Wig And Pen",1305168607,4.5,3.5,4,"English Porter",4.5,4,"London Porter",5.2,51588
-"79",1321,"Wig And Pen",1247813597,1.5,2,1.5,"Low Alcohol Beer",2,2,"Mr Natural",3,32587
-"80",1321,"Wig And Pen",1171922615,3,4,2.5,"Low Alcohol Beer",3,2.5,"Mr Natural",3,32587
-"81",1321,"Wig And Pen",1309321707,4.5,2.5,4.5,"American Stout",4,4.5,"Firey Aztec",6,70545
-"82",1321,"Wig And Pen",1283232642,4,4,4.5,"American Strong Ale",3,4,"Spiced Obama IPA",6.8,61515
-"83",1321,"Wig And Pen",1315456193,4,4,4.5,"American Double / Imperial Pilsner",4,4,"Midas",7.5,72924
-"84",1321,"Wig And Pen",1318901812,3.5,4,4,"Vienna Lager",4,3,"Vienna Lager",5.4,74268
-"85",1321,"Wig And Pen",1281416056,4,4,4,"American Black Ale",4,4,"Obama IPA",7,60236
-"86",1321,"Wig And Pen",1279612265,4,3,3.5,"American Black Ale",4,3.5,"Obama IPA",7,60236
-"87",1321,"Wig And Pen",1261123245,3.5,3.5,4,"Fruit / Vegetable Beer",4,4,"Summer Frenzy Framboise",5,54839
-"88",1321,"Wig And Pen",1262426480,4,3.5,4,"Belgian Strong Pale Ale",4,4.5,"Tarty Blonde Grand Cru",8.2,55162
-"89",1321,"Wig And Pen",1246506824,5,4.5,5,"Russian Imperial Stout",4.5,4,"Russian Imperial Stout",11,19995
-"90",1321,"Wig And Pen",1152524028,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Russian Imperial Stout",11,19995
-"91",1321,"Wig And Pen",1095994609,4,4.5,4,"Russian Imperial Stout",4,5,"Russian Imperial Stout",11,19995
-"92",1321,"Wig And Pen",1323343839,4,4,4,"Weizenbock",4,3.5,"Goatee",6.5,76097
-"93",1321,"Wig And Pen",1320114607,3.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Multigrain",4.3,74762
-"94",1321,"Wig And Pen",1242044946,4,3,4,"American Double / Imperial IPA",4.5,4,"Venom Double IPA",7,49667
-"95",1321,"Wig And Pen",1241765068,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Venom Double IPA",7,49667
-"96",1321,"Wig And Pen",1255322554,4.5,4,4.5,"English Pale Ale",4,4.5,"Grasscutters",4,53325
-"97",1321,"Wig And Pen",1312803458,4,4,4,"Dubbel",4,4,"Dubbel Trubbel",8,71843
-"98",1321,"Wig And Pen",1319509934,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Scotty's Choccy Na-Na",5.2,74498
-"99",1321,"Wig And Pen",1253773836,4.5,4,4,"Flanders Red Ale",4,4,"Stagger-red Through The Tulips",5.4,52878
-"100",1321,"Wig And Pen",1298020340,4,3.5,4,"English Bitter",4,3.5,"Bulldog Best Bitter",NA,13497
-"101",1321,"Wig And Pen",1247800535,3,2.5,3,"English Bitter",3.5,3,"Bulldog Best Bitter",NA,13497
-"102",1321,"Wig And Pen",1171923250,4.5,3.5,4,"English Bitter",4.5,3.5,"Bulldog Best Bitter",NA,13497
-"103",1321,"Wig And Pen",1162786130,3,2.5,3.5,"English Bitter",3,3.5,"Bulldog Best Bitter",NA,13497
-"104",1321,"Wig And Pen",1113618365,4,4,3.5,"English Bitter",3.5,4,"Bulldog Best Bitter",NA,13497
-"105",1321,"Wig And Pen",1113554811,4,4,4,"English Pale Ale",3.5,3.5,"Autumn Pale Ale",4.6,23160
-"106",1321,"Wig And Pen",1298028458,4,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Cilly Caison",4.5,66401
-"107",1321,"Wig And Pen",1140399248,4.5,4,3.5,"Kölsch",4,4,"Kamberra Kolsch",NA,12935
-"108",1321,"Wig And Pen",1303605709,3.5,4,4,"American Wild Ale",3.5,4,"Bob's Armpit",7,67908
-"109",1321,"Wig And Pen",1302161195,3.5,4,4,"American Wild Ale",4,3.5,"Bob's Armpit",7,67908
-"110",1321,"Wig And Pen",1317793717,3,3,3.5,"English Pale Mild Ale",2.5,3,"Marv Mans Mild",3.1,62532
-"111",1321,"Wig And Pen",1303560552,4,3.5,4,"English Pale Mild Ale",3.5,4,"Marv Mans Mild",3.1,62532
-"112",1321,"Wig And Pen",1286850864,4,4,4.5,"English Pale Mild Ale",4,4,"Marv Mans Mild",3.1,62532
-"113",1321,"Wig And Pen",1312255049,2.5,2.5,4.5,"American Stout",4,2.5,"Elders Of The Black Forest",6.1,71615
-"114",1321,"Wig And Pen",1303731342,3.5,3.5,3.5,"Kölsch",3.5,4,"Kamberra Kolsch",NA,12935
-"115",1321,"Wig And Pen",1256106343,4,4,4.5,"Kölsch",4,4.5,"Kamberra Kolsch",NA,12935
-"116",1321,"Wig And Pen",1253002023,3.5,3,4,"Kölsch",4,3.5,"Kamberra Kolsch",NA,12935
-"117",1321,"Wig And Pen",1247810378,2.5,3,2,"Kölsch",3,3,"Kamberra Kolsch",NA,12935
-"118",1321,"Wig And Pen",1318905081,4,3,4.5,"American Pale Ale (APA)",4,4.5,"Rumpole's Pale",5,73805
-"119",1321,"Wig And Pen",1317807827,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Rumpole's Pale",5,73805
+"3",1321,"Wig And Pen",1317793448,3,2.5,3,"Czech Pilsener",2.5,3,"Kiandra Gold Pilsner",NA,13499
+"4",1321,"Wig And Pen",1298020424,3.5,3,3.5,"Czech Pilsener",3.5,3.5,"Kiandra Gold Pilsner",NA,13499
+"5",1321,"Wig And Pen",1247805099,3.5,3.5,2,"Czech Pilsener",3,3.5,"Kiandra Gold Pilsner",NA,13499
+"6",1321,"Wig And Pen",1140497595,4,4,3,"Czech Pilsener",4,4.5,"Kiandra Gold Pilsner",NA,13499
+"7",1321,"Wig And Pen",1078051364,3.5,4,3,"Czech Pilsener",3.5,4,"Kiandra Gold Pilsner",NA,13499
+"8",1321,"Wig And Pen",1162786928,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Velvet Cream Stout",NA,13503
+"9",1321,"Wig And Pen",1317806982,3.5,2,3.5,"Doppelbock",4,4,"Aviator",6.9,73804
+"10",1321,"Wig And Pen",1317793309,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Velvet Cream Stout",NA,13503
+"11",1321,"Wig And Pen",1303559249,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Velvet Cream Stout",NA,13503
+"12",1321,"Wig And Pen",1289456117,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Velvet Cream Stout",NA,13503
+"13",1321,"Wig And Pen",1247811676,3.5,4,3.5,"Milk / Sweet Stout",4,3.5,"Velvet Cream Stout",NA,13503
+"14",1321,"Wig And Pen",1140497815,4.5,4.5,4.5,"Milk / Sweet Stout",5,4,"Velvet Cream Stout",NA,13503
+"15",1321,"Wig And Pen",1113617108,4,3.5,4,"Milk / Sweet Stout",3.5,4,"Velvet Cream Stout",NA,13503
+"16",1321,"Wig And Pen",1095994843,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Velvet Cream Stout",NA,13503
+"17",1321,"Wig And Pen",1078050465,4,4,4,"Milk / Sweet Stout",4,4,"Velvet Cream Stout",NA,13503
+"18",1321,"Wig And Pen",1317801424,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,4,"Brewers IPA",NA,13496
+"19",1321,"Wig And Pen",1288350681,3.5,3,4,"English India Pale Ale (IPA)",4,3.5,"Brewers IPA",NA,13496
+"20",1321,"Wig And Pen",1247810761,3.5,4,3,"English India Pale Ale (IPA)",3.5,3.5,"Brewers IPA",NA,13496
+"21",1321,"Wig And Pen",1162786644,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Brewers IPA",NA,13496
+"22",1321,"Wig And Pen",1140497174,4,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Brewers IPA",NA,13496
+"23",1321,"Wig And Pen",1317807580,4,3.5,4,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
+"24",1321,"Wig And Pen",1303731682,3.5,4,3.5,"Irish Red Ale",3.5,3.5,"Ballyragget Irish Red Ale",NA,13495
+"25",1321,"Wig And Pen",1298522154,4,4,3.5,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
+"26",1321,"Wig And Pen",1247811089,3.5,4,2.5,"Irish Red Ale",3.5,3.5,"Ballyragget Irish Red Ale",NA,13495
+"27",1321,"Wig And Pen",1172381760,4,4,4.5,"Irish Red Ale",3.5,4,"Ballyragget Irish Red Ale",NA,13495
+"28",1321,"Wig And Pen",1171922904,3,3.5,2.5,"Irish Red Ale",3,3.5,"Ballyragget Irish Red Ale",NA,13495
+"29",1321,"Wig And Pen",1160210226,4,3.5,3.5,"Irish Red Ale",4,4,"Ballyragget Irish Red Ale",NA,13495
+"30",1321,"Wig And Pen",1078131208,2.5,2.5,3,"Irish Red Ale",3,2.5,"Ballyragget Irish Red Ale",NA,13495
+"31",1321,"Wig And Pen",1262426123,4,3.5,4,"Fruit / Vegetable Beer",4,4,"Framboise",5,55161
+"32",1321,"Wig And Pen",1247804251,3,4,3,"Dunkelweizen",3,3.5,"Amber Hefeweizen",NA,13493
+"33",1321,"Wig And Pen",1162785776,4,3,3.5,"Dunkelweizen",3.5,4,"Amber Hefeweizen",NA,13493
+"34",1321,"Wig And Pen",1140497414,4,4,4,"Dunkelweizen",3,3.5,"Amber Hefeweizen",NA,13493
+"35",1321,"Wig And Pen",1078050151,2,2.5,3,"Dunkelweizen",2,2.5,"Amber Hefeweizen",NA,13493
+"36",1321,"Wig And Pen",1317801318,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Pale Ale",5,13500
+"37",1321,"Wig And Pen",1253774681,4.5,3.5,4.5,"American Pale Ale (APA)",4,4,"Pale Ale",5,13500
+"38",1321,"Wig And Pen",1247800865,2.5,3.5,3,"American Pale Ale (APA)",3,2.5,"Pale Ale",5,13500
+"39",1321,"Wig And Pen",1162786451,4,4,4,"American Pale Ale (APA)",4,4.5,"Pale Ale",5,13500
+"40",1321,"Wig And Pen",1140499645,3.5,4.5,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5,13500
+"41",1321,"Wig And Pen",1140496937,4.5,3,4,"Berliner Weissbier",4,3.5,"Berliner Weisse",NA,28507
+"42",1321,"Wig And Pen",1317807092,3.5,3,4.5,"English Porter",3,3,"London Porter",5.2,51588
+"43",1321,"Wig And Pen",1305168607,4.5,3.5,4,"English Porter",4.5,4,"London Porter",5.2,51588
+"44",1321,"Wig And Pen",1318901812,3.5,4,4,"Vienna Lager",4,3,"Vienna Lager",5.4,74268
+"45",1321,"Wig And Pen",1246506824,5,4.5,5,"Russian Imperial Stout",4.5,4,"Russian Imperial Stout",11,19995
+"46",1321,"Wig And Pen",1152524028,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Russian Imperial Stout",11,19995
+"47",1321,"Wig And Pen",1095994609,4,4.5,4,"Russian Imperial Stout",4,5,"Russian Imperial Stout",11,19995
+"48",1321,"Wig And Pen",1312803458,4,4,4,"Dubbel",4,4,"Dubbel Trubbel",8,71843
+"49",1321,"Wig And Pen",1298020340,4,3.5,4,"English Bitter",4,3.5,"Bulldog Best Bitter",NA,13497
+"50",1321,"Wig And Pen",1247800535,3,2.5,3,"English Bitter",3.5,3,"Bulldog Best Bitter",NA,13497
+"51",1321,"Wig And Pen",1171923250,4.5,3.5,4,"English Bitter",4.5,3.5,"Bulldog Best Bitter",NA,13497
+"52",1321,"Wig And Pen",1162786130,3,2.5,3.5,"English Bitter",3,3.5,"Bulldog Best Bitter",NA,13497
+"53",1321,"Wig And Pen",1113618365,4,4,3.5,"English Bitter",3.5,4,"Bulldog Best Bitter",NA,13497
+"54",1321,"Wig And Pen",1140399248,4.5,4,3.5,"Kölsch",4,4,"Kamberra Kolsch",NA,12935
+"55",1321,"Wig And Pen",1303731342,3.5,3.5,3.5,"Kölsch",3.5,4,"Kamberra Kolsch",NA,12935
+"56",1321,"Wig And Pen",1256106343,4,4,4.5,"Kölsch",4,4.5,"Kamberra Kolsch",NA,12935
+"57",1321,"Wig And Pen",1253002023,3.5,3,4,"Kölsch",4,3.5,"Kamberra Kolsch",NA,12935
+"58",1321,"Wig And Pen",1247810378,2.5,3,2,"Kölsch",3,3,"Kamberra Kolsch",NA,12935

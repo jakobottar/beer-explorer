@@ -1,59 +1,20 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",18724,"Old Forge Brewing Company",1247592755,3.5,3.5,4,"German Pilsener",3.5,4,"Paradise Pilsner",NA,47079
-"2",18724,"Old Forge Brewing Company",1291333295,4,4,4,"American Brown Ale",4,4,"Bellows Brown Ale",5,46577
-"3",18724,"Old Forge Brewing Company",1230796908,3,3,3.5,"American Brown Ale",3.5,3.5,"Bellows Brown Ale",5,46577
-"4",18724,"Old Forge Brewing Company",1239504570,4,3.5,4,"German Pilsener",4,3.5,"Paradise Pilsner",NA,47079
-"5",18724,"Old Forge Brewing Company",1281688343,4,4,3,"American Pale Wheat Ale",3.5,3.5,"Endless Summer Ale",4.8,46461
-"6",18724,"Old Forge Brewing Company",1249404505,4,4,4,"American Pale Wheat Ale",4,4,"Endless Summer Ale",4.8,46461
-"7",18724,"Old Forge Brewing Company",1230796627,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Endless Summer Ale",4.8,46461
-"8",18724,"Old Forge Brewing Company",1230397908,4,3,4,"American Pale Wheat Ale",4,4,"Endless Summer Ale",4.8,46461
-"9",18724,"Old Forge Brewing Company",1290028962,3.5,4,3,"Pumpkin Ale",3.5,3.5,"Smashing Pumpkin Ale",NA,63049
-"10",18724,"Old Forge Brewing Company",1289997436,3.5,4,4,"Pumpkin Ale",4,3.5,"Smashing Pumpkin Ale",NA,63049
-"11",18724,"Old Forge Brewing Company",1288549501,4,3.5,4,"Pumpkin Ale",3.5,4,"Smashing Pumpkin Ale",NA,63049
-"12",18724,"Old Forge Brewing Company",1304451219,3.5,3.5,4,"Oatmeal Stout",4,3,"Slack Tub Stout",4.5,46701
-"13",18724,"Old Forge Brewing Company",1247592636,3.5,3.5,4,"Oatmeal Stout",3.5,3,"Slack Tub Stout",4.5,46701
-"14",18724,"Old Forge Brewing Company",1239120320,4.5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
-"15",18724,"Old Forge Brewing Company",1237548602,5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
-"16",18724,"Old Forge Brewing Company",1237158558,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
-"17",18724,"Old Forge Brewing Company",1232992255,4.5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
-"18",18724,"Old Forge Brewing Company",1264516263,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Anniversary Double IPA",7.5,55669
-"19",18724,"Old Forge Brewing Company",1308876919,4,3,4,"American Pale Ale (APA)",4,4,"T-Rail Pale Ale",5.5,46462
-"20",18724,"Old Forge Brewing Company",1230796349,4,3.5,4,"American Pale Ale (APA)",4,4,"T-Rail Pale Ale",5.5,46462
-"21",18724,"Old Forge Brewing Company",1230398519,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"T-Rail Pale Ale",5.5,46462
-"22",18724,"Old Forge Brewing Company",1229821151,3.5,3.5,4,"American Pale Ale (APA)",4,4,"T-Rail Pale Ale",5.5,46462
-"23",18724,"Old Forge Brewing Company",1325204422,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Underbite IPA",NA,46700
-"24",18724,"Old Forge Brewing Company",1285376992,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3,"Underbite IPA",NA,46700
-"25",18724,"Old Forge Brewing Company",1249404333,3,3,4,"English India Pale Ale (IPA)",4,3.5,"Underbite IPA",NA,46700
-"26",18724,"Old Forge Brewing Company",1237158901,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Underbite IPA",NA,46700
-"27",18724,"Old Forge Brewing Company",1304990342,3.5,3.5,4,"Belgian Pale Ale",3.5,3.5,"Slightly Rood",5.2,63607
-"28",18724,"Old Forge Brewing Company",1292544373,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4.5,"Slightly Rood",5.2,63607
-"29",18724,"Old Forge Brewing Company",1289998546,3.5,3.5,3.5,"Belgian Pale Ale",4,3.5,"Slightly Rood",5.2,63607
-"30",18724,"Old Forge Brewing Company",1308447941,4,3.5,4,"Altbier",4,3.5,"Old Forge Alt",NA,47749
-"31",18724,"Old Forge Brewing Company",1239120848,3.5,3.5,4,"Irish Dry Stout",3.5,4,"Irish Draught Ale",4,48509
-"32",18724,"Old Forge Brewing Company",1304441957,3,3.5,4,"American Brown Ale",3,3,"Falling Down India Brown Ale",6.5,68634
-"33",18724,"Old Forge Brewing Company",1293750962,4,4,3.5,"American IPA",4,4,"Overbite IPA",7,64897
-"34",18724,"Old Forge Brewing Company",1238100040,3.5,4,3,"Winter Warmer",4,3.5,"Ol' Smithy Spiced Winter Ale",9.6,46699
-"35",18724,"Old Forge Brewing Company",1234127790,4,3.5,3.5,"Winter Warmer",3.5,3.5,"Ol' Smithy Spiced Winter Ale",9.6,46699
-"36",18724,"Old Forge Brewing Company",1247592576,3.5,3,4,"English Dark Mild Ale",3.5,3.5,"Sensessionale",3.5,47464
-"37",18724,"Old Forge Brewing Company",1239565648,4.5,4,3.5,"English Dark Mild Ale",4,3.5,"Sensessionale",3.5,47464
-"38",18724,"Old Forge Brewing Company",1238098906,4.5,3.5,3.5,"English Dark Mild Ale",4,4,"Sensessionale",3.5,47464
-"39",18724,"Old Forge Brewing Company",1234128302,4,3.5,3.5,"English Dark Mild Ale",3.5,4,"Sensessionale",3.5,47464
-"40",18724,"Old Forge Brewing Company",1253720745,4,4,3.5,"English Pale Ale",3.5,4,"Old Trafford Pale Ale",NA,52850
-"41",18724,"Old Forge Brewing Company",1230398183,3.5,3,4,"American Brown Ale",3,3,"Bellows Brown Ale",5,46577
-"42",18724,"Old Forge Brewing Company",1281688999,4,4,3.5,"American Blonde Ale",3.5,4,"Celestial Blond Ale",7,50683
-"43",18724,"Old Forge Brewing Company",1254103334,4,4,3.5,"American Blonde Ale",4,4,"Celestial Blond Ale",7,50683
-"44",18724,"Old Forge Brewing Company",1247592840,3,3,4,"American Blonde Ale",3,3,"Celestial Blond Ale",7,50683
-"45",18724,"Old Forge Brewing Company",1245899184,4,3.5,4,"American Blonde Ale",3.5,4,"Celestial Blond Ale",7,50683
-"46",18724,"Old Forge Brewing Company",1238098331,4.5,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Brickscraper E.S.P.",6,47078
-"47",18724,"Old Forge Brewing Company",1230796064,3.5,3,3.5,"English Dark Mild Ale",3.5,4,"Old Forge Inaugural Ale",NA,46464
-"48",18724,"Old Forge Brewing Company",1230397583,4,3.5,3.5,"English Dark Mild Ale",3.5,4,"Old Forge Inaugural Ale",NA,46464
-"49",18724,"Old Forge Brewing Company",1229914541,4.5,4.5,4,"English Dark Mild Ale",4.5,4.5,"Old Forge Inaugural Ale",NA,46464
-"50",18724,"Old Forge Brewing Company",1229817193,4.5,4,4,"English Dark Mild Ale",4.5,4.5,"Old Forge Inaugural Ale",NA,46464
-"51",18724,"Old Forge Brewing Company",1297291647,4.5,4.5,4.5,"Foreign / Export Stout",4,4.5,"Double Chocolate Stout",NA,66085
-"52",18724,"Old Forge Brewing Company",1294077053,4,3.5,3.5,"American Porter",3.5,4,"Petey's Porter",NA,47750
-"53",18724,"Old Forge Brewing Company",1285364193,4,4,4,"American Porter",4,3.5,"Petey's Porter",NA,47750
-"54",18724,"Old Forge Brewing Company",1260095522,4,4,3.5,"American Porter",4,4,"Petey's Porter",NA,47750
-"55",18724,"Old Forge Brewing Company",1247592795,3.5,3.5,4,"American Porter",3.5,4,"Petey's Porter",NA,47750
-"56",18724,"Old Forge Brewing Company",1237158052,4,4,4,"American Porter",3.5,4,"Petey's Porter",NA,47750
-"57",18724,"Old Forge Brewing Company",1315957462,4,4,3.5,"American Double / Imperial Pilsner",4.5,4.5,"Irontown Imperial Lager",6.4,73111
-"58",18724,"Old Forge Brewing Company",1253720416,4,3.5,4,"Märzen / Oktoberfest",3.5,4,"Ludwig's Anniversary Lager",NA,52849
+"2",18724,"Old Forge Brewing Company",1239504570,4,3.5,4,"German Pilsener",4,3.5,"Paradise Pilsner",NA,47079
+"3",18724,"Old Forge Brewing Company",1281688343,4,4,3,"American Pale Wheat Ale",3.5,3.5,"Endless Summer Ale",4.8,46461
+"4",18724,"Old Forge Brewing Company",1249404505,4,4,4,"American Pale Wheat Ale",4,4,"Endless Summer Ale",4.8,46461
+"5",18724,"Old Forge Brewing Company",1230796627,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Endless Summer Ale",4.8,46461
+"6",18724,"Old Forge Brewing Company",1230397908,4,3,4,"American Pale Wheat Ale",4,4,"Endless Summer Ale",4.8,46461
+"7",18724,"Old Forge Brewing Company",1304451219,3.5,3.5,4,"Oatmeal Stout",4,3,"Slack Tub Stout",4.5,46701
+"8",18724,"Old Forge Brewing Company",1247592636,3.5,3.5,4,"Oatmeal Stout",3.5,3,"Slack Tub Stout",4.5,46701
+"9",18724,"Old Forge Brewing Company",1239120320,4.5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
+"10",18724,"Old Forge Brewing Company",1237548602,5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
+"11",18724,"Old Forge Brewing Company",1237158558,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
+"12",18724,"Old Forge Brewing Company",1232992255,4.5,4,4,"Oatmeal Stout",4.5,4.5,"Slack Tub Stout",4.5,46701
+"13",18724,"Old Forge Brewing Company",1264516263,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Anniversary Double IPA",7.5,55669
+"14",18724,"Old Forge Brewing Company",1297291647,4.5,4.5,4.5,"Foreign / Export Stout",4,4.5,"Double Chocolate Stout",NA,66085
+"15",18724,"Old Forge Brewing Company",1294077053,4,3.5,3.5,"American Porter",3.5,4,"Petey's Porter",NA,47750
+"16",18724,"Old Forge Brewing Company",1285364193,4,4,4,"American Porter",4,3.5,"Petey's Porter",NA,47750
+"17",18724,"Old Forge Brewing Company",1260095522,4,4,3.5,"American Porter",4,4,"Petey's Porter",NA,47750
+"18",18724,"Old Forge Brewing Company",1247592795,3.5,3.5,4,"American Porter",3.5,4,"Petey's Porter",NA,47750
+"19",18724,"Old Forge Brewing Company",1237158052,4,4,4,"American Porter",3.5,4,"Petey's Porter",NA,47750

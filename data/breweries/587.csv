@@ -1,77 +1,53 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",587,"Long Valley Pub & Brewery",1163893155,3,3,2.5,"English Bitter",3,3,"Best Bitter",3.8,17821
-"2",587,"Long Valley Pub & Brewery",1208790735,3.5,3.5,3.5,"Rye Beer",3.5,3.5,"Bartleyville Rye",NA,42265
-"3",587,"Long Valley Pub & Brewery",1163892749,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Grist Mill Golden Ale",NA,8578
-"4",587,"Long Valley Pub & Brewery",1145305987,2.5,3,4,"English Bitter",2,2.5,"Best Bitter",3.8,17821
-"5",587,"Long Valley Pub & Brewery",1124126961,2.5,3,3,"English Bitter",3,2.5,"Best Bitter",3.8,17821
-"6",587,"Long Valley Pub & Brewery",1088611336,4.5,4,4,"English Bitter",4,4.5,"Best Bitter",3.8,17821
-"7",587,"Long Valley Pub & Brewery",1086566965,4.5,3.5,4,"English Bitter",4.5,4,"Best Bitter",3.8,17821
-"8",587,"Long Valley Pub & Brewery",1045377951,3,3,3.5,"English Brown Ale",4,3,"Steel Bridges Brown",4.2,8582
-"9",587,"Long Valley Pub & Brewery",1222618173,3.5,3,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",NA,45089
-"10",587,"Long Valley Pub & Brewery",1136676372,4,3.5,4,"Milk / Sweet Stout",4,3.5,"Little Jacob's Milk Stout",5,27714
-"11",587,"Long Valley Pub & Brewery",1293937095,3,3,4,"American Pale Wheat Ale",2,3,"Hookerman's Light Ale",NA,8577
-"12",587,"Long Valley Pub & Brewery",1262232675,3.5,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Hookerman's Light Ale",NA,8577
-"13",587,"Long Valley Pub & Brewery",1163892501,3.5,3,3,"American Pale Wheat Ale",3.5,3.5,"Hookerman's Light Ale",NA,8577
-"14",587,"Long Valley Pub & Brewery",1045374378,4,3.5,4.5,"American Pale Wheat Ale",4,4,"Hookerman's Light Ale",NA,8577
-"15",587,"Long Valley Pub & Brewery",1315317589,3,3.5,3,"Rye Beer",3,3.5,"Bartleyville Rye",NA,42265
-"16",587,"Long Valley Pub & Brewery",1239481644,3.5,3,3,"Altbier",3.5,3,"Dusseldorf Alt Bier",5,49083
-"17",587,"Long Valley Pub & Brewery",1208790600,4,4,4,"Milk / Sweet Stout",4,4,"Chocolate Stout",NA,42264
-"18",587,"Long Valley Pub & Brewery",1303648210,3.5,3,3,"American Pale Ale (APA)",2.5,4,"American Pale Ale",5.5,47295
-"19",587,"Long Valley Pub & Brewery",1293936500,3.5,4,3.5,"American Pale Ale (APA)",4,2.5,"American Pale Ale",5.5,47295
-"20",587,"Long Valley Pub & Brewery",1280601876,3,2,3.5,"American Pale Ale (APA)",2.5,3.5,"American Pale Ale",5.5,47295
-"21",587,"Long Valley Pub & Brewery",1232067857,4,4,3.5,"American Pale Ale (APA)",3,3.5,"American Pale Ale",5.5,47295
-"22",587,"Long Valley Pub & Brewery",1293936313,4.5,3.5,4,"Oatmeal Stout",4.5,3.5,"Joe's Oatmeal Stout",4.5,35336
-"23",587,"Long Valley Pub & Brewery",1292183851,4.5,3.5,4,"Oatmeal Stout",4,4,"Joe's Oatmeal Stout",4.5,35336
-"24",587,"Long Valley Pub & Brewery",1193102875,4,2.5,4.5,"Oatmeal Stout",4,4.5,"Joe's Oatmeal Stout",4.5,35336
-"25",587,"Long Valley Pub & Brewery",1171834028,4,3.5,4,"Oatmeal Stout",4,4,"Joe's Oatmeal Stout",4.5,35336
-"26",587,"Long Valley Pub & Brewery",1232047685,4,3.5,3,"English Brown Ale",3.5,4,"Long Valley Nut Brown Ale",4.8,17867
-"27",587,"Long Valley Pub & Brewery",1219004922,3.5,4,3,"English Brown Ale",4,3.5,"Long Valley Nut Brown Ale",4.8,17867
-"28",587,"Long Valley Pub & Brewery",1163893740,3,3,3,"English Brown Ale",3,3,"Long Valley Nut Brown Ale",4.8,17867
-"29",587,"Long Valley Pub & Brewery",1155069126,5,5,4,"English Brown Ale",4,5,"Long Valley Nut Brown Ale",4.8,17867
-"30",587,"Long Valley Pub & Brewery",1145307476,2.5,3,3.5,"English Brown Ale",2.5,3,"Long Valley Nut Brown Ale",4.8,17867
-"31",587,"Long Valley Pub & Brewery",1086794034,4,3.5,3.5,"English Brown Ale",4,3.5,"Long Valley Nut Brown Ale",4.8,17867
-"32",587,"Long Valley Pub & Brewery",1267923960,4,3.5,4,"American Stout",4,4,"Cup 'o Joes Coffee Stout",5,47291
-"33",587,"Long Valley Pub & Brewery",1232085084,3.5,3.5,4,"American Stout",4.5,5,"Cup 'o Joes Coffee Stout",5,47291
-"34",587,"Long Valley Pub & Brewery",1232054303,4,3.5,4,"American Stout",4,4,"Cup 'o Joes Coffee Stout",5,47291
-"35",587,"Long Valley Pub & Brewery",1086565998,4.5,4,3,"American Pale Ale (APA)",4.5,4.5,"Ponytail Pale Ale",5.4,17820
-"36",587,"Long Valley Pub & Brewery",1225845043,4.5,4,4,"American Pale Wheat Ale",3.5,4,"Harvest Ale",5.8,33824
-"37",587,"Long Valley Pub & Brewery",1163894356,4,4,4,"American Pale Wheat Ale",4,4,"Harvest Ale",5.8,33824
-"38",587,"Long Valley Pub & Brewery",1145308318,4,3.5,3.5,"American Blonde Ale",4,3.5,"Grist Mill Golden Ale",NA,8578
-"39",587,"Long Valley Pub & Brewery",1045375498,4,3.5,4,"American Blonde Ale",4.5,4,"Grist Mill Golden Ale",NA,8578
-"40",587,"Long Valley Pub & Brewery",1180474773,4.5,5,4.5,"Russian Imperial Stout",5,5,"Batch 1000 Brewmaster's Reserve",9.5,37052
-"41",587,"Long Valley Pub & Brewery",1045377290,3,3.5,4,"English Brown Ale",4,3.5,"Black River Brown",NA,8580
-"42",587,"Long Valley Pub & Brewery",1315317241,4,4,4,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
-"43",587,"Long Valley Pub & Brewery",1303648522,4,3,4,"American Porter",3.5,4.5,"Lazy Jake Porter",NA,8583
-"44",587,"Long Valley Pub & Brewery",1297839714,5,4.5,4,"American Porter",5,4.5,"Lazy Jake Porter",NA,8583
-"45",587,"Long Valley Pub & Brewery",1285716682,4,3,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"46",587,"Long Valley Pub & Brewery",1280602293,5,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"47",587,"Long Valley Pub & Brewery",1262232371,4,3.5,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"48",587,"Long Valley Pub & Brewery",1262073901,4,4,3.5,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
-"49",587,"Long Valley Pub & Brewery",1250536997,4.5,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"50",587,"Long Valley Pub & Brewery",1238378397,4,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"51",587,"Long Valley Pub & Brewery",1233619240,4,4,4,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
-"52",587,"Long Valley Pub & Brewery",1219004706,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"53",587,"Long Valley Pub & Brewery",1174958131,4,3.5,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"54",587,"Long Valley Pub & Brewery",1171815062,4.5,3.5,4,"American Porter",4.5,4.5,"Lazy Jake Porter",NA,8583
-"55",587,"Long Valley Pub & Brewery",1156969228,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"56",587,"Long Valley Pub & Brewery",1136732207,4,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"57",587,"Long Valley Pub & Brewery",1124127331,4,4,4,"American Porter",4.5,4,"Lazy Jake Porter",NA,8583
-"58",587,"Long Valley Pub & Brewery",1091248591,4,4,4,"American Porter",3,4,"Lazy Jake Porter",NA,8583
-"59",587,"Long Valley Pub & Brewery",1088611199,4.5,3.5,3,"American Porter",4,3.5,"Lazy Jake Porter",NA,8583
-"60",587,"Long Valley Pub & Brewery",1086566373,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"61",587,"Long Valley Pub & Brewery",1066522714,4,3,3,"American Porter",4,4,"Lazy Jake Porter",NA,8583
-"62",587,"Long Valley Pub & Brewery",1045379208,4.5,4,4.5,"American Porter",4.5,4.5,"Lazy Jake Porter",NA,8583
-"63",587,"Long Valley Pub & Brewery",1193108964,4.5,4,4,"Irish Dry Stout",4,5,"Stone Barn Stout",3.8,39287
-"64",587,"Long Valley Pub & Brewery",1297817816,4,3,4,"American Amber / Red Ale",3.5,4,"German Valley Amber",NA,8579
-"65",587,"Long Valley Pub & Brewery",1293937527,4,3,3,"American Amber / Red Ale",3.5,4,"German Valley Amber",NA,8579
-"66",587,"Long Valley Pub & Brewery",1224901299,4,4,4,"American Amber / Red Ale",4,4,"German Valley Amber",NA,8579
-"67",587,"Long Valley Pub & Brewery",1163893369,3,3,3,"American Amber / Red Ale",3,3,"German Valley Amber",NA,8579
-"68",587,"Long Valley Pub & Brewery",1156088026,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"German Valley Amber",NA,8579
-"69",587,"Long Valley Pub & Brewery",1145307868,3,3.5,4,"American Amber / Red Ale",2.5,3,"German Valley Amber",NA,8579
-"70",587,"Long Valley Pub & Brewery",1086794344,4.5,4,4,"American Amber / Red Ale",4.5,4.5,"German Valley Amber",NA,8579
-"71",587,"Long Valley Pub & Brewery",1045376624,4,4.5,4.5,"American Amber / Red Ale",4,4,"German Valley Amber",NA,8579
-"72",587,"Long Valley Pub & Brewery",1262225701,4,3,3.5,"English Pale Ale",3,3,"English Pale Ale",NA,55106
-"73",587,"Long Valley Pub & Brewery",1293936761,4.5,3.5,4,"English Strong Ale",4,3.5,"Celebration",6.7,55105
-"74",587,"Long Valley Pub & Brewery",1293082716,3.5,3.5,3.5,"English Strong Ale",3,3.5,"Celebration",6.7,55105
-"75",587,"Long Valley Pub & Brewery",1262225210,3.5,2.5,3.5,"English Strong Ale",3.5,2.5,"Celebration",6.7,55105
-"76",587,"Long Valley Pub & Brewery",1045379891,5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Willy's Wee Heavy",8.5,8584
+"2",587,"Long Valley Pub & Brewery",1145305987,2.5,3,4,"English Bitter",2,2.5,"Best Bitter",3.8,17821
+"3",587,"Long Valley Pub & Brewery",1124126961,2.5,3,3,"English Bitter",3,2.5,"Best Bitter",3.8,17821
+"4",587,"Long Valley Pub & Brewery",1088611336,4.5,4,4,"English Bitter",4,4.5,"Best Bitter",3.8,17821
+"5",587,"Long Valley Pub & Brewery",1086566965,4.5,3.5,4,"English Bitter",4.5,4,"Best Bitter",3.8,17821
+"6",587,"Long Valley Pub & Brewery",1222618173,3.5,3,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",NA,45089
+"7",587,"Long Valley Pub & Brewery",1208790600,4,4,4,"Milk / Sweet Stout",4,4,"Chocolate Stout",NA,42264
+"8",587,"Long Valley Pub & Brewery",1303648210,3.5,3,3,"American Pale Ale (APA)",2.5,4,"American Pale Ale",5.5,47295
+"9",587,"Long Valley Pub & Brewery",1293936500,3.5,4,3.5,"American Pale Ale (APA)",4,2.5,"American Pale Ale",5.5,47295
+"10",587,"Long Valley Pub & Brewery",1280601876,3,2,3.5,"American Pale Ale (APA)",2.5,3.5,"American Pale Ale",5.5,47295
+"11",587,"Long Valley Pub & Brewery",1232067857,4,4,3.5,"American Pale Ale (APA)",3,3.5,"American Pale Ale",5.5,47295
+"12",587,"Long Valley Pub & Brewery",1232047685,4,3.5,3,"English Brown Ale",3.5,4,"Long Valley Nut Brown Ale",4.8,17867
+"13",587,"Long Valley Pub & Brewery",1219004922,3.5,4,3,"English Brown Ale",4,3.5,"Long Valley Nut Brown Ale",4.8,17867
+"14",587,"Long Valley Pub & Brewery",1163893740,3,3,3,"English Brown Ale",3,3,"Long Valley Nut Brown Ale",4.8,17867
+"15",587,"Long Valley Pub & Brewery",1155069126,5,5,4,"English Brown Ale",4,5,"Long Valley Nut Brown Ale",4.8,17867
+"16",587,"Long Valley Pub & Brewery",1145307476,2.5,3,3.5,"English Brown Ale",2.5,3,"Long Valley Nut Brown Ale",4.8,17867
+"17",587,"Long Valley Pub & Brewery",1086794034,4,3.5,3.5,"English Brown Ale",4,3.5,"Long Valley Nut Brown Ale",4.8,17867
+"18",587,"Long Valley Pub & Brewery",1225845043,4.5,4,4,"American Pale Wheat Ale",3.5,4,"Harvest Ale",5.8,33824
+"19",587,"Long Valley Pub & Brewery",1163894356,4,4,4,"American Pale Wheat Ale",4,4,"Harvest Ale",5.8,33824
+"20",587,"Long Valley Pub & Brewery",1315317241,4,4,4,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
+"21",587,"Long Valley Pub & Brewery",1303648522,4,3,4,"American Porter",3.5,4.5,"Lazy Jake Porter",NA,8583
+"22",587,"Long Valley Pub & Brewery",1297839714,5,4.5,4,"American Porter",5,4.5,"Lazy Jake Porter",NA,8583
+"23",587,"Long Valley Pub & Brewery",1285716682,4,3,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"24",587,"Long Valley Pub & Brewery",1280602293,5,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"25",587,"Long Valley Pub & Brewery",1262232371,4,3.5,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"26",587,"Long Valley Pub & Brewery",1262073901,4,4,3.5,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
+"27",587,"Long Valley Pub & Brewery",1250536997,4.5,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"28",587,"Long Valley Pub & Brewery",1238378397,4,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"29",587,"Long Valley Pub & Brewery",1233619240,4,4,4,"American Porter",3.5,4,"Lazy Jake Porter",NA,8583
+"30",587,"Long Valley Pub & Brewery",1219004706,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"31",587,"Long Valley Pub & Brewery",1174958131,4,3.5,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"32",587,"Long Valley Pub & Brewery",1171815062,4.5,3.5,4,"American Porter",4.5,4.5,"Lazy Jake Porter",NA,8583
+"33",587,"Long Valley Pub & Brewery",1156969228,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"34",587,"Long Valley Pub & Brewery",1136732207,4,4,4,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"35",587,"Long Valley Pub & Brewery",1124127331,4,4,4,"American Porter",4.5,4,"Lazy Jake Porter",NA,8583
+"36",587,"Long Valley Pub & Brewery",1091248591,4,4,4,"American Porter",3,4,"Lazy Jake Porter",NA,8583
+"37",587,"Long Valley Pub & Brewery",1088611199,4.5,3.5,3,"American Porter",4,3.5,"Lazy Jake Porter",NA,8583
+"38",587,"Long Valley Pub & Brewery",1086566373,4,4,3.5,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"39",587,"Long Valley Pub & Brewery",1066522714,4,3,3,"American Porter",4,4,"Lazy Jake Porter",NA,8583
+"40",587,"Long Valley Pub & Brewery",1045379208,4.5,4,4.5,"American Porter",4.5,4.5,"Lazy Jake Porter",NA,8583
+"41",587,"Long Valley Pub & Brewery",1297817816,4,3,4,"American Amber / Red Ale",3.5,4,"German Valley Amber",NA,8579
+"42",587,"Long Valley Pub & Brewery",1293937527,4,3,3,"American Amber / Red Ale",3.5,4,"German Valley Amber",NA,8579
+"43",587,"Long Valley Pub & Brewery",1224901299,4,4,4,"American Amber / Red Ale",4,4,"German Valley Amber",NA,8579
+"44",587,"Long Valley Pub & Brewery",1163893369,3,3,3,"American Amber / Red Ale",3,3,"German Valley Amber",NA,8579
+"45",587,"Long Valley Pub & Brewery",1156088026,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"German Valley Amber",NA,8579
+"46",587,"Long Valley Pub & Brewery",1145307868,3,3.5,4,"American Amber / Red Ale",2.5,3,"German Valley Amber",NA,8579
+"47",587,"Long Valley Pub & Brewery",1086794344,4.5,4,4,"American Amber / Red Ale",4.5,4.5,"German Valley Amber",NA,8579
+"48",587,"Long Valley Pub & Brewery",1045376624,4,4.5,4.5,"American Amber / Red Ale",4,4,"German Valley Amber",NA,8579
+"49",587,"Long Valley Pub & Brewery",1262225701,4,3,3.5,"English Pale Ale",3,3,"English Pale Ale",NA,55106
+"50",587,"Long Valley Pub & Brewery",1293936761,4.5,3.5,4,"English Strong Ale",4,3.5,"Celebration",6.7,55105
+"51",587,"Long Valley Pub & Brewery",1293082716,3.5,3.5,3.5,"English Strong Ale",3,3.5,"Celebration",6.7,55105
+"52",587,"Long Valley Pub & Brewery",1262225210,3.5,2.5,3.5,"English Strong Ale",3.5,2.5,"Celebration",6.7,55105

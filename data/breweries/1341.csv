@@ -1,180 +1,150 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1341,"J.J. Bitting Brewing Company",1078431625,3.5,3,3,"Bock",2.5,3,"Knockout Bock",6.5,9887
 "2",1341,"J.J. Bitting Brewing Company",1239045861,4.5,3.5,4,"American Porter",4,4.5,"Coal Train Porter",NA,6344
-"3",1341,"J.J. Bitting Brewing Company",1032420605,5,4.5,4.5,"Märzen / Oktoberfest",4.5,5,"J.J.'s Oktoberfest",NA,6120
-"4",1341,"J.J. Bitting Brewing Company",1053082214,4.5,4,4,"California Common / Steam Beer",4.5,5,"Cali' Steam Locomotive",4.6,9885
-"5",1341,"J.J. Bitting Brewing Company",1078292674,4,4,3.5,"Bock",4,3.5,"Knockout Bock",6.5,9887
-"6",1341,"J.J. Bitting Brewing Company",1058454651,3.5,4,4.5,"Bock",4,4,"Knockout Bock",6.5,9887
-"7",1341,"J.J. Bitting Brewing Company",1053082805,5,4.5,4.5,"Bock",4.5,4.5,"Knockout Bock",6.5,9887
-"8",1341,"J.J. Bitting Brewing Company",1242507737,4,3,3.5,"American Amber / Red Lager",3.5,2.5,"Avenel Amber",4.7,6153
-"9",1341,"J.J. Bitting Brewing Company",1239045814,4,3.5,4,"American Amber / Red Lager",4,3.5,"Avenel Amber",4.7,6153
-"10",1341,"J.J. Bitting Brewing Company",1229382249,3.5,3,4,"American Amber / Red Lager",3.5,3.5,"Avenel Amber",4.7,6153
-"11",1341,"J.J. Bitting Brewing Company",1214763685,3,3,3,"American Amber / Red Lager",3,3,"Avenel Amber",4.7,6153
-"12",1341,"J.J. Bitting Brewing Company",1165784787,4,3.5,4,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
-"13",1341,"J.J. Bitting Brewing Company",1160917116,2.5,3,4,"American Amber / Red Lager",3,2.5,"Avenel Amber",4.7,6153
-"14",1341,"J.J. Bitting Brewing Company",1154532813,3.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Avenel Amber",4.7,6153
-"15",1341,"J.J. Bitting Brewing Company",1140801748,3.5,3,3.5,"American Amber / Red Lager",3.5,3,"Avenel Amber",4.7,6153
-"16",1341,"J.J. Bitting Brewing Company",1105034110,3.5,3,4,"American Amber / Red Lager",4,3.5,"Avenel Amber",4.7,6153
-"17",1341,"J.J. Bitting Brewing Company",1078260634,4,3.5,4,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
-"18",1341,"J.J. Bitting Brewing Company",1073262506,3.5,4,4,"American Amber / Red Lager",3,3.5,"Avenel Amber",4.7,6153
-"19",1341,"J.J. Bitting Brewing Company",1037564985,4.5,4,4,"American Amber / Red Lager",3.5,4,"Avenel Amber",4.7,6153
-"20",1341,"J.J. Bitting Brewing Company",1032529414,4,4,4.5,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
-"21",1341,"J.J. Bitting Brewing Company",1184636316,4.5,5,4.5,"Hefeweizen",4,4,"Bierstrasse Hefeweizen",5.3,24415
-"22",1341,"J.J. Bitting Brewing Company",1151027538,4,3.5,4,"Hefeweizen",4,4,"Bierstrasse Hefeweizen",5.3,24415
-"23",1341,"J.J. Bitting Brewing Company",1119999633,4.5,4,4,"Hefeweizen",4,4,"Bierstrasse Hefeweizen",5.3,24415
-"24",1341,"J.J. Bitting Brewing Company",1196369408,4.5,4.5,4.5,"American Stout",3,4.5,"Black Jack Stout",NA,28156
-"25",1341,"J.J. Bitting Brewing Company",1196202619,4,3.5,4.5,"American Stout",4,4,"Black Jack Stout",NA,28156
-"26",1341,"J.J. Bitting Brewing Company",1165787500,4.5,4.5,4,"American Stout",4,4,"Black Jack Stout",NA,28156
-"27",1341,"J.J. Bitting Brewing Company",1140408187,3.5,3.5,4.5,"American Stout",2.5,3,"Black Jack Stout",NA,28156
-"28",1341,"J.J. Bitting Brewing Company",1139114002,4.5,4.5,4,"American Stout",4.5,4,"Black Jack Stout",NA,28156
-"29",1341,"J.J. Bitting Brewing Company",1138976421,4,4,4,"American Stout",4,4.5,"Black Jack Stout",NA,28156
-"30",1341,"J.J. Bitting Brewing Company",1138978117,4.5,4,4.5,"American Stout",4.5,4,"Stout",NA,15096
-"31",1341,"J.J. Bitting Brewing Company",1137983108,3.5,4,3.5,"American Stout",3.5,4,"Stout",NA,15096
-"32",1341,"J.J. Bitting Brewing Company",1160918326,3,3,4,"American Porter",3,3,"Cappa Cappa Crusher",4.6,6111
-"33",1341,"J.J. Bitting Brewing Company",1160796688,4,4,4,"American Porter",4.5,4.5,"Cappa Cappa Crusher",4.6,6111
-"34",1341,"J.J. Bitting Brewing Company",1080937226,4.5,4,4,"American Porter",4,4.5,"Cappa Cappa Crusher",4.6,6111
-"35",1341,"J.J. Bitting Brewing Company",1037552244,4,4.5,4.5,"Scottish Ale",4.5,4.5,"Great Scot Ale",4.5,7163
-"36",1341,"J.J. Bitting Brewing Company",1066098949,4,4,4,"American Porter",4.5,4,"Cappa Cappa Crusher",4.6,6111
-"37",1341,"J.J. Bitting Brewing Company",1062547399,4.5,4,4.5,"American Porter",4,4.5,"Cappa Cappa Crusher",4.6,6111
-"38",1341,"J.J. Bitting Brewing Company",1037023718,5,4.5,5,"American Porter",5,5,"Cappa Cappa Crusher",4.6,6111
-"39",1341,"J.J. Bitting Brewing Company",1032354534,5,5,5,"American Porter",5,5,"Cappa Cappa Crusher",4.6,6111
-"40",1341,"J.J. Bitting Brewing Company",1308439185,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
-"41",1341,"J.J. Bitting Brewing Company",1239045917,4,3.5,4,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
-"42",1341,"J.J. Bitting Brewing Company",1238301602,4,3.5,3,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
-"43",1341,"J.J. Bitting Brewing Company",1229383123,3.5,4,3.5,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
-"44",1341,"J.J. Bitting Brewing Company",1192992844,4.5,4,4,"American Pale Wheat Ale",3.5,5,"J.J.'s Raspberry Wheat",4.5,6152
-"45",1341,"J.J. Bitting Brewing Company",1165885559,3.5,4,3.5,"American Pale Wheat Ale",3.5,3.5,"J.J.'s Raspberry Wheat",4.5,6152
-"46",1341,"J.J. Bitting Brewing Company",1160917630,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"J.J.'s Raspberry Wheat",4.5,6152
-"47",1341,"J.J. Bitting Brewing Company",1151546046,2.5,3,3,"American Pale Wheat Ale",3,2.5,"J.J.'s Raspberry Wheat",4.5,6152
-"48",1341,"J.J. Bitting Brewing Company",1080935913,4,4.5,3.5,"American Pale Wheat Ale",4.5,4,"J.J.'s Raspberry Wheat",4.5,6152
-"49",1341,"J.J. Bitting Brewing Company",1078248214,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"J.J.'s Raspberry Wheat",4.5,6152
-"50",1341,"J.J. Bitting Brewing Company",1073243401,4,4,3,"American Pale Wheat Ale",3,4,"J.J.'s Raspberry Wheat",4.5,6152
-"51",1341,"J.J. Bitting Brewing Company",1062545941,3,4,2.5,"American Pale Wheat Ale",3,2.5,"J.J.'s Raspberry Wheat",4.5,6152
-"52",1341,"J.J. Bitting Brewing Company",1040943633,3.5,4.5,4,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
-"53",1341,"J.J. Bitting Brewing Company",1037551678,4,5,4,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
-"54",1341,"J.J. Bitting Brewing Company",1032529078,4,5,4,"American Pale Wheat Ale",4.5,4.5,"J.J.'s Raspberry Wheat",4.5,6152
-"55",1341,"J.J. Bitting Brewing Company",1239045972,4,3.5,4,"Czech Pilsener",3.5,3.5,"Rat Pack Pilsner",5,25968
-"56",1341,"J.J. Bitting Brewing Company",1238302486,4,3.5,3,"Czech Pilsener",3.5,4,"Rat Pack Pilsner",5,25968
-"57",1341,"J.J. Bitting Brewing Company",1229383204,3.5,3,3.5,"Czech Pilsener",3,3.5,"Rat Pack Pilsner",5,25968
-"58",1341,"J.J. Bitting Brewing Company",1179236929,3,2.5,3.5,"Czech Pilsener",2.5,2.5,"Rat Pack Pilsner",5,25968
-"59",1341,"J.J. Bitting Brewing Company",1041887484,4,3.5,4.5,"English Brown Ale",3.5,3.5,"J.J.'s Nut Brown Ale",4.6,6119
-"60",1341,"J.J. Bitting Brewing Company",1041019953,4,4,4.5,"English Brown Ale",4,4,"J.J.'s Nut Brown Ale",4.6,6119
-"61",1341,"J.J. Bitting Brewing Company",1032418276,5,4.5,4.5,"English Brown Ale",4.5,5,"J.J.'s Nut Brown Ale",4.6,6119
-"62",1341,"J.J. Bitting Brewing Company",1297142613,4,3,3.5,"Doppelbock",3.5,4,"Doppelbock",8.2,28062
-"63",1341,"J.J. Bitting Brewing Company",1138550900,3.5,3,3.5,"Doppelbock",3.5,4,"Doppelbock",8.2,28062
-"64",1341,"J.J. Bitting Brewing Company",1242537116,4.5,4,4,"American IPA",4,4,"Garden State IPA",5,6154
-"65",1341,"J.J. Bitting Brewing Company",1239046481,4,4,4.5,"American IPA",4,4,"Garden State IPA",5,6154
-"66",1341,"J.J. Bitting Brewing Company",1229383021,3.5,3.5,4,"American IPA",3.5,3.5,"Garden State IPA",5,6154
-"67",1341,"J.J. Bitting Brewing Company",1204763303,4,3,4,"American IPA",4.5,3.5,"Garden State IPA",5,6154
-"68",1341,"J.J. Bitting Brewing Company",1177254794,3.5,3,3,"American IPA",3.5,3.5,"Garden State IPA",5,6154
-"69",1341,"J.J. Bitting Brewing Company",1136150639,4.5,4,4,"American IPA",4,4,"Garden State IPA",5,6154
-"70",1341,"J.J. Bitting Brewing Company",1078292389,4,4,3.5,"American IPA",4,4,"Garden State IPA",5,6154
-"71",1341,"J.J. Bitting Brewing Company",1057699127,4,2.5,4,"American IPA",4,4,"Garden State IPA",5,6154
-"72",1341,"J.J. Bitting Brewing Company",1045389373,4,3,3.5,"American IPA",3.5,4,"Garden State IPA",5,6154
-"73",1341,"J.J. Bitting Brewing Company",1037564597,4.5,4,4,"American IPA",4,4.5,"Garden State IPA",5,6154
-"74",1341,"J.J. Bitting Brewing Company",1032529845,4.5,4.5,4,"American IPA",4.5,4.5,"Garden State IPA",5,6154
-"75",1341,"J.J. Bitting Brewing Company",1214792995,2,4,4,"English Bitter",2.5,2,"Bittings Best Bitter",NA,6127
-"76",1341,"J.J. Bitting Brewing Company",1214762881,3.5,3.5,4,"English Bitter",3,3,"Bittings Best Bitter",NA,6127
-"77",1341,"J.J. Bitting Brewing Company",1208630460,3.5,3.5,4.5,"English Bitter",3.5,3.5,"Bittings Best Bitter",NA,6127
-"78",1341,"J.J. Bitting Brewing Company",1197515345,3.5,3.5,3.5,"English Bitter",2.5,4,"Bittings Best Bitter",NA,6127
-"79",1341,"J.J. Bitting Brewing Company",1155584278,4.5,3.5,4,"English Bitter",4,4,"Bittings Best Bitter",NA,6127
-"80",1341,"J.J. Bitting Brewing Company",1078260574,4,3.5,4,"English Bitter",3.5,4,"Bittings Best Bitter",NA,6127
-"81",1341,"J.J. Bitting Brewing Company",1043438896,4,3.5,4,"English Bitter",4,3,"Bittings Best Bitter",NA,6127
-"82",1341,"J.J. Bitting Brewing Company",1041019622,4.5,3,4,"English Bitter",4,3,"Bittings Best Bitter",NA,6127
-"83",1341,"J.J. Bitting Brewing Company",1032431008,5,4,4,"English Bitter",5,5,"Bittings Best Bitter",NA,6127
-"84",1341,"J.J. Bitting Brewing Company",1238355832,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
-"85",1341,"J.J. Bitting Brewing Company",1257644329,4,4,4,"American Porter",3.5,4.5,"Coal Train Porter",NA,6344
-"86",1341,"J.J. Bitting Brewing Company",1162258658,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
-"87",1341,"J.J. Bitting Brewing Company",1160917960,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Hopgarden Pale Ale",6,7687
-"88",1341,"J.J. Bitting Brewing Company",1130131519,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Hopgarden Pale Ale",6,7687
-"89",1341,"J.J. Bitting Brewing Company",1130113936,5,4,4,"American Pale Ale (APA)",4.5,4,"Hopgarden Pale Ale",6,7687
-"90",1341,"J.J. Bitting Brewing Company",1120762509,4.5,4,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
-"91",1341,"J.J. Bitting Brewing Company",1120000611,4.5,4,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
-"92",1341,"J.J. Bitting Brewing Company",1080936955,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
-"93",1341,"J.J. Bitting Brewing Company",1073245201,4,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
-"94",1341,"J.J. Bitting Brewing Company",1042832830,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
-"95",1341,"J.J. Bitting Brewing Company",1042832585,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
-"96",1341,"J.J. Bitting Brewing Company",1040940975,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Hopgarden Pale Ale",6,7687
-"97",1341,"J.J. Bitting Brewing Company",1140014924,4,4,4.5,"American Pale Ale (APA)",3.5,4,"Dry-hopped Pale Ale.",NA,28357
-"98",1341,"J.J. Bitting Brewing Company",1320721571,4.5,4,4,"American Double / Imperial IPA",3.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"99",1341,"J.J. Bitting Brewing Company",1308511271,4,4,4,"American Double / Imperial IPA",4,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"100",1341,"J.J. Bitting Brewing Company",1239046267,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"101",1341,"J.J. Bitting Brewing Company",1238302874,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"102",1341,"J.J. Bitting Brewing Company",1165785077,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"103",1341,"J.J. Bitting Brewing Company",1154144378,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"104",1341,"J.J. Bitting Brewing Company",1131760603,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
-"105",1341,"J.J. Bitting Brewing Company",1239046187,4,3,4,"American Blonde Ale",4,3.5,"Victoria's Golden Ale",4.2,6151
-"106",1341,"J.J. Bitting Brewing Company",1238301343,3.5,3,3,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
-"107",1341,"J.J. Bitting Brewing Company",1229383370,3,3,2.5,"American Blonde Ale",3,3,"Victoria's Golden Ale",4.2,6151
-"108",1341,"J.J. Bitting Brewing Company",1208631169,4,3.5,4,"American Blonde Ale",4,3.5,"Victoria's Golden Ale",4.2,6151
-"109",1341,"J.J. Bitting Brewing Company",1208628748,4.5,4,4,"Bock",4.5,4.5,"Knockout Bock",6.5,9887
-"110",1341,"J.J. Bitting Brewing Company",1182300347,4.5,3.5,3.5,"American Blonde Ale",3.5,4,"Victoria's Golden Ale",4.2,6151
-"111",1341,"J.J. Bitting Brewing Company",1165885815,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Victoria's Golden Ale",4.2,6151
-"112",1341,"J.J. Bitting Brewing Company",1160917361,3.5,3,3,"American Blonde Ale",3.5,3.5,"Victoria's Golden Ale",4.2,6151
-"113",1341,"J.J. Bitting Brewing Company",1151551096,4,3.5,3.5,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
-"114",1341,"J.J. Bitting Brewing Company",1080935616,3.5,3.5,3.5,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
-"115",1341,"J.J. Bitting Brewing Company",1078248153,4.5,3,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
-"116",1341,"J.J. Bitting Brewing Company",1073242848,3,3,3.5,"American Blonde Ale",3,4,"Victoria's Golden Ale",4.2,6151
-"117",1341,"J.J. Bitting Brewing Company",1062545668,3,3,2.5,"American Blonde Ale",3,2.5,"Victoria's Golden Ale",4.2,6151
-"118",1341,"J.J. Bitting Brewing Company",1040941631,5,4,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
-"119",1341,"J.J. Bitting Brewing Company",1037024012,5,4,4,"American Blonde Ale",4,4.5,"Victoria's Golden Ale",4.2,6151
-"120",1341,"J.J. Bitting Brewing Company",1032528722,4,4,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
-"121",1341,"J.J. Bitting Brewing Company",1317064649,3,4.5,3,"Dunkelweizen",2.5,3.5,"Dunkelweizen",5,10410
-"122",1341,"J.J. Bitting Brewing Company",1229382913,3.5,3.5,4,"Dunkelweizen",4,3.5,"Dunkelweizen",5,10410
-"123",1341,"J.J. Bitting Brewing Company",1176943411,3.5,3,4,"Bock",3,3,"Knockout Bock",6.5,9887
-"124",1341,"J.J. Bitting Brewing Company",1214765067,4.5,4.5,3.5,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
-"125",1341,"J.J. Bitting Brewing Company",1152242375,4,3.5,4,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
-"126",1341,"J.J. Bitting Brewing Company",1123113796,4,4.5,3,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
-"127",1341,"J.J. Bitting Brewing Company",1123022183,4,4.5,3.5,"Dunkelweizen",4,4,"Dunkelweizen",5,10410
-"128",1341,"J.J. Bitting Brewing Company",1055744622,4,4.5,4.5,"Dunkelweizen",4,4,"Dunkelweizen",5,10410
-"129",1341,"J.J. Bitting Brewing Company",1228056701,4,3.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
-"130",1341,"J.J. Bitting Brewing Company",1166384639,4,3.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
-"131",1341,"J.J. Bitting Brewing Company",1140789097,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Great Scot Ale",4.5,7163
-"132",1341,"J.J. Bitting Brewing Company",1137912818,3,2.5,3.5,"Scottish Ale",3.5,3,"Great Scot Ale",4.5,7163
-"133",1341,"J.J. Bitting Brewing Company",1080936188,4.5,3.5,4,"Scottish Ale",4.5,4,"Great Scot Ale",4.5,7163
-"134",1341,"J.J. Bitting Brewing Company",1062546242,4,4.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
-"135",1341,"J.J. Bitting Brewing Company",1238301998,5,4.5,4,"American Porter",5,4.5,"Coal Train Porter",NA,6344
-"136",1341,"J.J. Bitting Brewing Company",1167879320,4,4,4.5,"American Porter",4,4,"Coal Train Porter",NA,6344
-"137",1341,"J.J. Bitting Brewing Company",1167878996,3.5,4,5,"American Porter",3.5,3.5,"Coal Train Porter",NA,6344
-"138",1341,"J.J. Bitting Brewing Company",1136128258,4.5,4.5,4.5,"American Porter",4,4.5,"Coal Train Porter",NA,6344
-"139",1341,"J.J. Bitting Brewing Company",1130201239,4,4,3.5,"American Porter",3.5,4,"Coal Train Porter",NA,6344
-"140",1341,"J.J. Bitting Brewing Company",1080257360,4.5,4,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
-"141",1341,"J.J. Bitting Brewing Company",1078260788,4.5,4,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
-"142",1341,"J.J. Bitting Brewing Company",1033368370,4.5,4.5,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
-"143",1341,"J.J. Bitting Brewing Company",1174616179,4,3,4,"Irish Red Ale",3.5,3.5,"O'Halloran's Irish Red",4.5,7164
-"144",1341,"J.J. Bitting Brewing Company",1173917747,4.5,3.5,4,"Irish Red Ale",4.5,4,"O'Halloran's Irish Red",4.5,7164
-"145",1341,"J.J. Bitting Brewing Company",1037552813,4.5,4,4,"Irish Red Ale",4,4,"O'Halloran's Irish Red",4.5,7164
-"146",1341,"J.J. Bitting Brewing Company",1227813816,4,4,4,"Winter Warmer",4.5,4,"Woodbridge Winter Warmer",5.9,7487
-"147",1341,"J.J. Bitting Brewing Company",1167880145,4,4,4,"Winter Warmer",4,4.5,"Woodbridge Winter Warmer",5.9,7487
-"148",1341,"J.J. Bitting Brewing Company",1165784222,4.5,4.5,4,"Winter Warmer",4.5,4.5,"Woodbridge Winter Warmer",5.9,7487
-"149",1341,"J.J. Bitting Brewing Company",1105034653,4,3.5,4.5,"Winter Warmer",4,4.5,"Woodbridge Winter Warmer",5.9,7487
-"150",1341,"J.J. Bitting Brewing Company",1073244953,4,4,4,"Winter Warmer",4.5,4,"Woodbridge Winter Warmer",5.9,7487
-"151",1341,"J.J. Bitting Brewing Company",1041886491,3.5,4,4,"Winter Warmer",3.5,3,"Woodbridge Winter Warmer",5.9,7487
-"152",1341,"J.J. Bitting Brewing Company",1041018806,5,4.5,4,"Winter Warmer",4,5,"Woodbridge Winter Warmer",5.9,7487
-"153",1341,"J.J. Bitting Brewing Company",1039427809,4.5,4,4,"Winter Warmer",4.5,4.5,"Woodbridge Winter Warmer",5.9,7487
-"154",1341,"J.J. Bitting Brewing Company",1032430185,5,4.5,4.5,"Hefeweizen",4.5,5,"J.J.'s Hefeweizen",NA,6126
-"155",1341,"J.J. Bitting Brewing Company",1147648049,4.5,4.5,4,"Schwarzbier",5,4.5,"Bitting's Black Magic",4.8,18024
-"156",1341,"J.J. Bitting Brewing Company",1118954027,4,4,3.5,"Schwarzbier",4,4.5,"Bitting's Black Magic",4.8,18024
-"157",1341,"J.J. Bitting Brewing Company",1118849398,4,4.5,4.5,"Schwarzbier",4,4,"Bitting's Black Magic",4.8,18024
-"158",1341,"J.J. Bitting Brewing Company",1087531610,4,3,4,"Schwarzbier",4,4,"Bitting's Black Magic",4.8,18024
-"159",1341,"J.J. Bitting Brewing Company",1308437738,3.5,3.5,3.5,"American Porter",3.5,3.5,"Vanilla Porter",NA,70141
-"160",1341,"J.J. Bitting Brewing Company",1297143041,4,3.5,3.5,"American Stout",3,4,"Chocolate Cherry Stout",NA,14739
-"161",1341,"J.J. Bitting Brewing Company",1193154006,2.5,3,4,"American Stout",3,2.5,"Chocolate Cherry Stout",NA,14739
-"162",1341,"J.J. Bitting Brewing Company",1174446759,3.5,3.5,3.5,"American Stout",3,3.5,"Chocolate Cherry Stout",NA,14739
-"163",1341,"J.J. Bitting Brewing Company",1144210372,4,3.5,4,"American Stout",4.5,3.5,"Chocolate Cherry Stout",NA,14739
-"164",1341,"J.J. Bitting Brewing Company",1083855097,4,4,3.5,"American Stout",4,3.5,"Chocolate Cherry Stout",NA,14739
-"165",1341,"J.J. Bitting Brewing Company",1071078838,4.5,4.5,4,"American Stout",4,4,"Chocolate Cherry Stout",NA,14739
-"166",1341,"J.J. Bitting Brewing Company",1160920688,3,3,4,"Vienna Lager",3,3,"Bitting's Bad Boy",6,16913
-"167",1341,"J.J. Bitting Brewing Company",1080938218,4,3.5,3.5,"Vienna Lager",4,4,"Bitting's Bad Boy",6,16913
-"168",1341,"J.J. Bitting Brewing Company",1066098571,4,4,3.5,"Märzen / Oktoberfest",4,4,"J.J.'s Oktoberfest",NA,6120
-"169",1341,"J.J. Bitting Brewing Company",1062546721,4,4,4,"Märzen / Oktoberfest",4,4,"J.J.'s Oktoberfest",NA,6120
-"170",1341,"J.J. Bitting Brewing Company",1196366950,3.5,3,3.5,"Märzen / Oktoberfest",4,3,"Bad Boy Octoberfest",NA,33235
-"171",1341,"J.J. Bitting Brewing Company",1160937697,3.5,3,2.5,"Märzen / Oktoberfest",4,3.5,"Bad Boy Octoberfest",NA,33235
-"172",1341,"J.J. Bitting Brewing Company",1185052565,3.5,3.5,3,"American Barleywine",3,3.5,"Barley Legal",NA,35600
-"173",1341,"J.J. Bitting Brewing Company",1174771468,3,3.5,3.5,"American Barleywine",3,3.5,"Barley Legal",NA,35600
-"174",1341,"J.J. Bitting Brewing Company",1172719776,3.5,4,4.5,"American Barleywine",3,3.5,"Barley Legal",NA,35600
-"175",1341,"J.J. Bitting Brewing Company",1243997386,3.5,3.5,4,"Maibock / Helles Bock",3.5,3.5,"Knockout Maibock",6.2,17395
-"176",1341,"J.J. Bitting Brewing Company",1144210055,4,4,4,"Maibock / Helles Bock",4,4,"Knockout Maibock",6.2,17395
-"177",1341,"J.J. Bitting Brewing Company",1083854630,4,3.5,3.5,"Maibock / Helles Bock",4,4,"Knockout Maibock",6.2,17395
-"178",1341,"J.J. Bitting Brewing Company",1254406003,2,2,3,"American Adjunct Lager",3,2.5,"Duff Beer",4.6,15243
-"179",1341,"J.J. Bitting Brewing Company",1073244036,3,3,3.5,"American Adjunct Lager",3,3,"Duff Beer",4.6,15243
+"3",1341,"J.J. Bitting Brewing Company",1078292674,4,4,3.5,"Bock",4,3.5,"Knockout Bock",6.5,9887
+"4",1341,"J.J. Bitting Brewing Company",1058454651,3.5,4,4.5,"Bock",4,4,"Knockout Bock",6.5,9887
+"5",1341,"J.J. Bitting Brewing Company",1053082805,5,4.5,4.5,"Bock",4.5,4.5,"Knockout Bock",6.5,9887
+"6",1341,"J.J. Bitting Brewing Company",1242507737,4,3,3.5,"American Amber / Red Lager",3.5,2.5,"Avenel Amber",4.7,6153
+"7",1341,"J.J. Bitting Brewing Company",1239045814,4,3.5,4,"American Amber / Red Lager",4,3.5,"Avenel Amber",4.7,6153
+"8",1341,"J.J. Bitting Brewing Company",1229382249,3.5,3,4,"American Amber / Red Lager",3.5,3.5,"Avenel Amber",4.7,6153
+"9",1341,"J.J. Bitting Brewing Company",1214763685,3,3,3,"American Amber / Red Lager",3,3,"Avenel Amber",4.7,6153
+"10",1341,"J.J. Bitting Brewing Company",1165784787,4,3.5,4,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
+"11",1341,"J.J. Bitting Brewing Company",1160917116,2.5,3,4,"American Amber / Red Lager",3,2.5,"Avenel Amber",4.7,6153
+"12",1341,"J.J. Bitting Brewing Company",1154532813,3.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Avenel Amber",4.7,6153
+"13",1341,"J.J. Bitting Brewing Company",1140801748,3.5,3,3.5,"American Amber / Red Lager",3.5,3,"Avenel Amber",4.7,6153
+"14",1341,"J.J. Bitting Brewing Company",1105034110,3.5,3,4,"American Amber / Red Lager",4,3.5,"Avenel Amber",4.7,6153
+"15",1341,"J.J. Bitting Brewing Company",1078260634,4,3.5,4,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
+"16",1341,"J.J. Bitting Brewing Company",1073262506,3.5,4,4,"American Amber / Red Lager",3,3.5,"Avenel Amber",4.7,6153
+"17",1341,"J.J. Bitting Brewing Company",1037564985,4.5,4,4,"American Amber / Red Lager",3.5,4,"Avenel Amber",4.7,6153
+"18",1341,"J.J. Bitting Brewing Company",1032529414,4,4,4.5,"American Amber / Red Lager",4,4,"Avenel Amber",4.7,6153
+"19",1341,"J.J. Bitting Brewing Company",1196369408,4.5,4.5,4.5,"American Stout",3,4.5,"Black Jack Stout",NA,28156
+"20",1341,"J.J. Bitting Brewing Company",1196202619,4,3.5,4.5,"American Stout",4,4,"Black Jack Stout",NA,28156
+"21",1341,"J.J. Bitting Brewing Company",1165787500,4.5,4.5,4,"American Stout",4,4,"Black Jack Stout",NA,28156
+"22",1341,"J.J. Bitting Brewing Company",1140408187,3.5,3.5,4.5,"American Stout",2.5,3,"Black Jack Stout",NA,28156
+"23",1341,"J.J. Bitting Brewing Company",1139114002,4.5,4.5,4,"American Stout",4.5,4,"Black Jack Stout",NA,28156
+"24",1341,"J.J. Bitting Brewing Company",1138976421,4,4,4,"American Stout",4,4.5,"Black Jack Stout",NA,28156
+"25",1341,"J.J. Bitting Brewing Company",1138978117,4.5,4,4.5,"American Stout",4.5,4,"Stout",NA,15096
+"26",1341,"J.J. Bitting Brewing Company",1137983108,3.5,4,3.5,"American Stout",3.5,4,"Stout",NA,15096
+"27",1341,"J.J. Bitting Brewing Company",1160918326,3,3,4,"American Porter",3,3,"Cappa Cappa Crusher",4.6,6111
+"28",1341,"J.J. Bitting Brewing Company",1160796688,4,4,4,"American Porter",4.5,4.5,"Cappa Cappa Crusher",4.6,6111
+"29",1341,"J.J. Bitting Brewing Company",1080937226,4.5,4,4,"American Porter",4,4.5,"Cappa Cappa Crusher",4.6,6111
+"30",1341,"J.J. Bitting Brewing Company",1037552244,4,4.5,4.5,"Scottish Ale",4.5,4.5,"Great Scot Ale",4.5,7163
+"31",1341,"J.J. Bitting Brewing Company",1066098949,4,4,4,"American Porter",4.5,4,"Cappa Cappa Crusher",4.6,6111
+"32",1341,"J.J. Bitting Brewing Company",1062547399,4.5,4,4.5,"American Porter",4,4.5,"Cappa Cappa Crusher",4.6,6111
+"33",1341,"J.J. Bitting Brewing Company",1037023718,5,4.5,5,"American Porter",5,5,"Cappa Cappa Crusher",4.6,6111
+"34",1341,"J.J. Bitting Brewing Company",1032354534,5,5,5,"American Porter",5,5,"Cappa Cappa Crusher",4.6,6111
+"35",1341,"J.J. Bitting Brewing Company",1308439185,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
+"36",1341,"J.J. Bitting Brewing Company",1239045917,4,3.5,4,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
+"37",1341,"J.J. Bitting Brewing Company",1238301602,4,3.5,3,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
+"38",1341,"J.J. Bitting Brewing Company",1229383123,3.5,4,3.5,"American Pale Wheat Ale",3.5,4,"J.J.'s Raspberry Wheat",4.5,6152
+"39",1341,"J.J. Bitting Brewing Company",1192992844,4.5,4,4,"American Pale Wheat Ale",3.5,5,"J.J.'s Raspberry Wheat",4.5,6152
+"40",1341,"J.J. Bitting Brewing Company",1165885559,3.5,4,3.5,"American Pale Wheat Ale",3.5,3.5,"J.J.'s Raspberry Wheat",4.5,6152
+"41",1341,"J.J. Bitting Brewing Company",1160917630,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"J.J.'s Raspberry Wheat",4.5,6152
+"42",1341,"J.J. Bitting Brewing Company",1151546046,2.5,3,3,"American Pale Wheat Ale",3,2.5,"J.J.'s Raspberry Wheat",4.5,6152
+"43",1341,"J.J. Bitting Brewing Company",1080935913,4,4.5,3.5,"American Pale Wheat Ale",4.5,4,"J.J.'s Raspberry Wheat",4.5,6152
+"44",1341,"J.J. Bitting Brewing Company",1078248214,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"J.J.'s Raspberry Wheat",4.5,6152
+"45",1341,"J.J. Bitting Brewing Company",1073243401,4,4,3,"American Pale Wheat Ale",3,4,"J.J.'s Raspberry Wheat",4.5,6152
+"46",1341,"J.J. Bitting Brewing Company",1062545941,3,4,2.5,"American Pale Wheat Ale",3,2.5,"J.J.'s Raspberry Wheat",4.5,6152
+"47",1341,"J.J. Bitting Brewing Company",1040943633,3.5,4.5,4,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
+"48",1341,"J.J. Bitting Brewing Company",1037551678,4,5,4,"American Pale Wheat Ale",4,4,"J.J.'s Raspberry Wheat",4.5,6152
+"49",1341,"J.J. Bitting Brewing Company",1032529078,4,5,4,"American Pale Wheat Ale",4.5,4.5,"J.J.'s Raspberry Wheat",4.5,6152
+"50",1341,"J.J. Bitting Brewing Company",1297142613,4,3,3.5,"Doppelbock",3.5,4,"Doppelbock",8.2,28062
+"51",1341,"J.J. Bitting Brewing Company",1138550900,3.5,3,3.5,"Doppelbock",3.5,4,"Doppelbock",8.2,28062
+"52",1341,"J.J. Bitting Brewing Company",1242537116,4.5,4,4,"American IPA",4,4,"Garden State IPA",5,6154
+"53",1341,"J.J. Bitting Brewing Company",1239046481,4,4,4.5,"American IPA",4,4,"Garden State IPA",5,6154
+"54",1341,"J.J. Bitting Brewing Company",1229383021,3.5,3.5,4,"American IPA",3.5,3.5,"Garden State IPA",5,6154
+"55",1341,"J.J. Bitting Brewing Company",1204763303,4,3,4,"American IPA",4.5,3.5,"Garden State IPA",5,6154
+"56",1341,"J.J. Bitting Brewing Company",1177254794,3.5,3,3,"American IPA",3.5,3.5,"Garden State IPA",5,6154
+"57",1341,"J.J. Bitting Brewing Company",1136150639,4.5,4,4,"American IPA",4,4,"Garden State IPA",5,6154
+"58",1341,"J.J. Bitting Brewing Company",1078292389,4,4,3.5,"American IPA",4,4,"Garden State IPA",5,6154
+"59",1341,"J.J. Bitting Brewing Company",1057699127,4,2.5,4,"American IPA",4,4,"Garden State IPA",5,6154
+"60",1341,"J.J. Bitting Brewing Company",1045389373,4,3,3.5,"American IPA",3.5,4,"Garden State IPA",5,6154
+"61",1341,"J.J. Bitting Brewing Company",1037564597,4.5,4,4,"American IPA",4,4.5,"Garden State IPA",5,6154
+"62",1341,"J.J. Bitting Brewing Company",1032529845,4.5,4.5,4,"American IPA",4.5,4.5,"Garden State IPA",5,6154
+"63",1341,"J.J. Bitting Brewing Company",1214792995,2,4,4,"English Bitter",2.5,2,"Bittings Best Bitter",NA,6127
+"64",1341,"J.J. Bitting Brewing Company",1214762881,3.5,3.5,4,"English Bitter",3,3,"Bittings Best Bitter",NA,6127
+"65",1341,"J.J. Bitting Brewing Company",1208630460,3.5,3.5,4.5,"English Bitter",3.5,3.5,"Bittings Best Bitter",NA,6127
+"66",1341,"J.J. Bitting Brewing Company",1197515345,3.5,3.5,3.5,"English Bitter",2.5,4,"Bittings Best Bitter",NA,6127
+"67",1341,"J.J. Bitting Brewing Company",1155584278,4.5,3.5,4,"English Bitter",4,4,"Bittings Best Bitter",NA,6127
+"68",1341,"J.J. Bitting Brewing Company",1078260574,4,3.5,4,"English Bitter",3.5,4,"Bittings Best Bitter",NA,6127
+"69",1341,"J.J. Bitting Brewing Company",1043438896,4,3.5,4,"English Bitter",4,3,"Bittings Best Bitter",NA,6127
+"70",1341,"J.J. Bitting Brewing Company",1041019622,4.5,3,4,"English Bitter",4,3,"Bittings Best Bitter",NA,6127
+"71",1341,"J.J. Bitting Brewing Company",1032431008,5,4,4,"English Bitter",5,5,"Bittings Best Bitter",NA,6127
+"72",1341,"J.J. Bitting Brewing Company",1238355832,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
+"73",1341,"J.J. Bitting Brewing Company",1257644329,4,4,4,"American Porter",3.5,4.5,"Coal Train Porter",NA,6344
+"74",1341,"J.J. Bitting Brewing Company",1162258658,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
+"75",1341,"J.J. Bitting Brewing Company",1160917960,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Hopgarden Pale Ale",6,7687
+"76",1341,"J.J. Bitting Brewing Company",1130131519,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Hopgarden Pale Ale",6,7687
+"77",1341,"J.J. Bitting Brewing Company",1130113936,5,4,4,"American Pale Ale (APA)",4.5,4,"Hopgarden Pale Ale",6,7687
+"78",1341,"J.J. Bitting Brewing Company",1120762509,4.5,4,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
+"79",1341,"J.J. Bitting Brewing Company",1120000611,4.5,4,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
+"80",1341,"J.J. Bitting Brewing Company",1080936955,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
+"81",1341,"J.J. Bitting Brewing Company",1073245201,4,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
+"82",1341,"J.J. Bitting Brewing Company",1042832830,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Hopgarden Pale Ale",6,7687
+"83",1341,"J.J. Bitting Brewing Company",1042832585,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Hopgarden Pale Ale",6,7687
+"84",1341,"J.J. Bitting Brewing Company",1040940975,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Hopgarden Pale Ale",6,7687
+"85",1341,"J.J. Bitting Brewing Company",1320721571,4.5,4,4,"American Double / Imperial IPA",3.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"86",1341,"J.J. Bitting Brewing Company",1308511271,4,4,4,"American Double / Imperial IPA",4,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"87",1341,"J.J. Bitting Brewing Company",1239046267,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"88",1341,"J.J. Bitting Brewing Company",1238302874,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"89",1341,"J.J. Bitting Brewing Company",1165785077,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"90",1341,"J.J. Bitting Brewing Company",1154144378,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"91",1341,"J.J. Bitting Brewing Company",1131760603,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"W.H.A.L.E.S. Imperial IPA",7.2,26888
+"92",1341,"J.J. Bitting Brewing Company",1239046187,4,3,4,"American Blonde Ale",4,3.5,"Victoria's Golden Ale",4.2,6151
+"93",1341,"J.J. Bitting Brewing Company",1238301343,3.5,3,3,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
+"94",1341,"J.J. Bitting Brewing Company",1229383370,3,3,2.5,"American Blonde Ale",3,3,"Victoria's Golden Ale",4.2,6151
+"95",1341,"J.J. Bitting Brewing Company",1208631169,4,3.5,4,"American Blonde Ale",4,3.5,"Victoria's Golden Ale",4.2,6151
+"96",1341,"J.J. Bitting Brewing Company",1208628748,4.5,4,4,"Bock",4.5,4.5,"Knockout Bock",6.5,9887
+"97",1341,"J.J. Bitting Brewing Company",1182300347,4.5,3.5,3.5,"American Blonde Ale",3.5,4,"Victoria's Golden Ale",4.2,6151
+"98",1341,"J.J. Bitting Brewing Company",1165885815,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Victoria's Golden Ale",4.2,6151
+"99",1341,"J.J. Bitting Brewing Company",1160917361,3.5,3,3,"American Blonde Ale",3.5,3.5,"Victoria's Golden Ale",4.2,6151
+"100",1341,"J.J. Bitting Brewing Company",1151551096,4,3.5,3.5,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
+"101",1341,"J.J. Bitting Brewing Company",1080935616,3.5,3.5,3.5,"American Blonde Ale",3.5,3,"Victoria's Golden Ale",4.2,6151
+"102",1341,"J.J. Bitting Brewing Company",1078248153,4.5,3,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
+"103",1341,"J.J. Bitting Brewing Company",1073242848,3,3,3.5,"American Blonde Ale",3,4,"Victoria's Golden Ale",4.2,6151
+"104",1341,"J.J. Bitting Brewing Company",1062545668,3,3,2.5,"American Blonde Ale",3,2.5,"Victoria's Golden Ale",4.2,6151
+"105",1341,"J.J. Bitting Brewing Company",1040941631,5,4,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
+"106",1341,"J.J. Bitting Brewing Company",1037024012,5,4,4,"American Blonde Ale",4,4.5,"Victoria's Golden Ale",4.2,6151
+"107",1341,"J.J. Bitting Brewing Company",1032528722,4,4,4,"American Blonde Ale",4,4,"Victoria's Golden Ale",4.2,6151
+"108",1341,"J.J. Bitting Brewing Company",1317064649,3,4.5,3,"Dunkelweizen",2.5,3.5,"Dunkelweizen",5,10410
+"109",1341,"J.J. Bitting Brewing Company",1229382913,3.5,3.5,4,"Dunkelweizen",4,3.5,"Dunkelweizen",5,10410
+"110",1341,"J.J. Bitting Brewing Company",1176943411,3.5,3,4,"Bock",3,3,"Knockout Bock",6.5,9887
+"111",1341,"J.J. Bitting Brewing Company",1214765067,4.5,4.5,3.5,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
+"112",1341,"J.J. Bitting Brewing Company",1152242375,4,3.5,4,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
+"113",1341,"J.J. Bitting Brewing Company",1123113796,4,4.5,3,"Dunkelweizen",3.5,4,"Dunkelweizen",5,10410
+"114",1341,"J.J. Bitting Brewing Company",1123022183,4,4.5,3.5,"Dunkelweizen",4,4,"Dunkelweizen",5,10410
+"115",1341,"J.J. Bitting Brewing Company",1055744622,4,4.5,4.5,"Dunkelweizen",4,4,"Dunkelweizen",5,10410
+"116",1341,"J.J. Bitting Brewing Company",1228056701,4,3.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
+"117",1341,"J.J. Bitting Brewing Company",1166384639,4,3.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
+"118",1341,"J.J. Bitting Brewing Company",1140789097,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Great Scot Ale",4.5,7163
+"119",1341,"J.J. Bitting Brewing Company",1137912818,3,2.5,3.5,"Scottish Ale",3.5,3,"Great Scot Ale",4.5,7163
+"120",1341,"J.J. Bitting Brewing Company",1080936188,4.5,3.5,4,"Scottish Ale",4.5,4,"Great Scot Ale",4.5,7163
+"121",1341,"J.J. Bitting Brewing Company",1062546242,4,4.5,4,"Scottish Ale",4,4,"Great Scot Ale",4.5,7163
+"122",1341,"J.J. Bitting Brewing Company",1238301998,5,4.5,4,"American Porter",5,4.5,"Coal Train Porter",NA,6344
+"123",1341,"J.J. Bitting Brewing Company",1167879320,4,4,4.5,"American Porter",4,4,"Coal Train Porter",NA,6344
+"124",1341,"J.J. Bitting Brewing Company",1167878996,3.5,4,5,"American Porter",3.5,3.5,"Coal Train Porter",NA,6344
+"125",1341,"J.J. Bitting Brewing Company",1136128258,4.5,4.5,4.5,"American Porter",4,4.5,"Coal Train Porter",NA,6344
+"126",1341,"J.J. Bitting Brewing Company",1130201239,4,4,3.5,"American Porter",3.5,4,"Coal Train Porter",NA,6344
+"127",1341,"J.J. Bitting Brewing Company",1080257360,4.5,4,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
+"128",1341,"J.J. Bitting Brewing Company",1078260788,4.5,4,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
+"129",1341,"J.J. Bitting Brewing Company",1033368370,4.5,4.5,4.5,"American Porter",4.5,4.5,"Coal Train Porter",NA,6344
+"130",1341,"J.J. Bitting Brewing Company",1227813816,4,4,4,"Winter Warmer",4.5,4,"Woodbridge Winter Warmer",5.9,7487
+"131",1341,"J.J. Bitting Brewing Company",1167880145,4,4,4,"Winter Warmer",4,4.5,"Woodbridge Winter Warmer",5.9,7487
+"132",1341,"J.J. Bitting Brewing Company",1165784222,4.5,4.5,4,"Winter Warmer",4.5,4.5,"Woodbridge Winter Warmer",5.9,7487
+"133",1341,"J.J. Bitting Brewing Company",1105034653,4,3.5,4.5,"Winter Warmer",4,4.5,"Woodbridge Winter Warmer",5.9,7487
+"134",1341,"J.J. Bitting Brewing Company",1073244953,4,4,4,"Winter Warmer",4.5,4,"Woodbridge Winter Warmer",5.9,7487
+"135",1341,"J.J. Bitting Brewing Company",1041886491,3.5,4,4,"Winter Warmer",3.5,3,"Woodbridge Winter Warmer",5.9,7487
+"136",1341,"J.J. Bitting Brewing Company",1041018806,5,4.5,4,"Winter Warmer",4,5,"Woodbridge Winter Warmer",5.9,7487
+"137",1341,"J.J. Bitting Brewing Company",1039427809,4.5,4,4,"Winter Warmer",4.5,4.5,"Woodbridge Winter Warmer",5.9,7487
+"138",1341,"J.J. Bitting Brewing Company",1308437738,3.5,3.5,3.5,"American Porter",3.5,3.5,"Vanilla Porter",NA,70141
+"139",1341,"J.J. Bitting Brewing Company",1297143041,4,3.5,3.5,"American Stout",3,4,"Chocolate Cherry Stout",NA,14739
+"140",1341,"J.J. Bitting Brewing Company",1193154006,2.5,3,4,"American Stout",3,2.5,"Chocolate Cherry Stout",NA,14739
+"141",1341,"J.J. Bitting Brewing Company",1174446759,3.5,3.5,3.5,"American Stout",3,3.5,"Chocolate Cherry Stout",NA,14739
+"142",1341,"J.J. Bitting Brewing Company",1144210372,4,3.5,4,"American Stout",4.5,3.5,"Chocolate Cherry Stout",NA,14739
+"143",1341,"J.J. Bitting Brewing Company",1083855097,4,4,3.5,"American Stout",4,3.5,"Chocolate Cherry Stout",NA,14739
+"144",1341,"J.J. Bitting Brewing Company",1071078838,4.5,4.5,4,"American Stout",4,4,"Chocolate Cherry Stout",NA,14739
+"145",1341,"J.J. Bitting Brewing Company",1185052565,3.5,3.5,3,"American Barleywine",3,3.5,"Barley Legal",NA,35600
+"146",1341,"J.J. Bitting Brewing Company",1174771468,3,3.5,3.5,"American Barleywine",3,3.5,"Barley Legal",NA,35600
+"147",1341,"J.J. Bitting Brewing Company",1172719776,3.5,4,4.5,"American Barleywine",3,3.5,"Barley Legal",NA,35600
+"148",1341,"J.J. Bitting Brewing Company",1254406003,2,2,3,"American Adjunct Lager",3,2.5,"Duff Beer",4.6,15243
+"149",1341,"J.J. Bitting Brewing Company",1073244036,3,3,3.5,"American Adjunct Lager",3,3,"Duff Beer",4.6,15243

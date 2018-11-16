@@ -1,650 +1,633 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",10321,"Central City Brewing",1133534821,4,3.5,3.5,"American Porter",4,3.5,"Station Porter",7,27174
-"2",10321,"Central City Brewing",1248831336,4.5,4,4,"English Bitter",4,4,"Boomers Red Ale",5.5,51474
-"3",10321,"Central City Brewing",1323975297,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Red Racer Peated Wee Heavy Scotch Ale",NA,76357
-"4",10321,"Central City Brewing",1313991787,4,4.5,4,"American Pale Wheat Ale",3.5,4,"Red Racer Raspberry Wheat Ale",5,72350
-"5",10321,"Central City Brewing",1322911412,4,4,4,"Baltic Porter",4,4,"Red Racer Bourbon Barrel Aged Imperial Porter",9.5,73564
-"6",10321,"Central City Brewing",1317253089,4.5,5,4.5,"Baltic Porter",4.5,5,"Red Racer Bourbon Barrel Aged Imperial Porter",9.5,73564
-"7",10321,"Central City Brewing",1312643553,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Red Racer Imperial IPA",9,66444
-"8",10321,"Central City Brewing",1312595972,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
-"9",10321,"Central City Brewing",1299728122,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
-"10",10321,"Central City Brewing",1299708485,4,4,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
-"11",10321,"Central City Brewing",1299637077,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
-"12",10321,"Central City Brewing",1299598630,5,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
-"13",10321,"Central City Brewing",1299551939,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Red Racer Imperial IPA",9,66444
-"14",10321,"Central City Brewing",1298516247,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
-"15",10321,"Central City Brewing",1298439203,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Red Racer Imperial IPA",9,66444
-"16",10321,"Central City Brewing",1298099588,5,5,4.5,"American Double / Imperial IPA",5,5,"Red Racer Imperial IPA",9,66444
-"17",10321,"Central City Brewing",1298076991,5,5,5,"American Double / Imperial IPA",4.5,5,"Red Racer Imperial IPA",9,66444
-"18",10321,"Central City Brewing",1289227799,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
-"19",10321,"Central City Brewing",1288585416,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Red Racer Imperial IPA",9,66444
-"20",10321,"Central City Brewing",1157897878,4,3.5,4,"Oatmeal Stout",3.5,4,"Red Racer Stout",4.2,32687
-"21",10321,"Central City Brewing",1275879992,5,5,4.5,"American Double / Imperial IPA",5,5,"Red Racer Imperial IPA",9,66444
-"22",10321,"Central City Brewing",1254006384,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
-"23",10321,"Central City Brewing",1307026579,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Imperial Porter",9,69090
-"24",10321,"Central City Brewing",1305485965,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Imperial Porter",9,69090
-"25",10321,"Central City Brewing",1319081375,3.5,3,4,"Oatmeal Stout",4.5,3.5,"Red Racer Stout",4.2,32687
-"26",10321,"Central City Brewing",1312085028,3,3.5,4,"Oatmeal Stout",4,3,"Red Racer Stout",4.2,32687
-"27",10321,"Central City Brewing",1275877499,3,2,2.5,"Oatmeal Stout",2.5,2,"Red Racer Stout",4.2,32687
-"28",10321,"Central City Brewing",1251307737,3.5,3.5,3,"Oatmeal Stout",3.5,3.5,"Red Racer Stout",4.2,32687
-"29",10321,"Central City Brewing",1248830767,4,3,4,"Oatmeal Stout",4,3.5,"Red Racer Stout",4.2,32687
-"30",10321,"Central City Brewing",1322118708,3.5,3,3.5,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"31",10321,"Central City Brewing",1318105097,2,2,4,"Witbier",2.5,2,"Red Racer White Ale / Wally's Wheat",5,42329
-"32",10321,"Central City Brewing",1313991380,4,4,4.5,"Witbier",3,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"33",10321,"Central City Brewing",1311472207,3.5,4,3,"Witbier",3.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"34",10321,"Central City Brewing",1309666578,3.5,3,3,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"35",10321,"Central City Brewing",1309647219,3.5,3.5,3,"Witbier",2.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"36",10321,"Central City Brewing",1308200469,4,4,4,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"37",10321,"Central City Brewing",1299111743,4.5,4,4,"Witbier",4.5,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"38",10321,"Central City Brewing",1294118970,4,3,2.5,"Witbier",4,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"39",10321,"Central City Brewing",1296362241,4.5,4,3.5,"Winter Warmer",4.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"40",10321,"Central City Brewing",1279082517,3,3,4,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"41",10321,"Central City Brewing",1278127265,3,3,2.5,"Witbier",4,3,"Red Racer White Ale / Wally's Wheat",5,42329
-"42",10321,"Central City Brewing",1272657600,4,4,3,"Witbier",4.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"43",10321,"Central City Brewing",1270347162,3.5,3.5,3.5,"Witbier",3.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"44",10321,"Central City Brewing",1268692069,4,4,3.5,"Witbier",3.5,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"45",10321,"Central City Brewing",1268263950,4,3,4,"Witbier",3.5,3,"Red Racer White Ale / Wally's Wheat",5,42329
-"46",10321,"Central City Brewing",1267490333,4,3.5,4,"Witbier",3,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"47",10321,"Central City Brewing",1248830355,4,3.5,3.5,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"48",10321,"Central City Brewing",1222817266,4,3.5,4,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"49",10321,"Central City Brewing",1216086977,4,3,4,"Witbier",4,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
-"50",10321,"Central City Brewing",1209162964,4.5,3.5,3,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
-"51",10321,"Central City Brewing",1316927236,4,4,4.5,"American Stout",3.5,4,"Red Racer Orange & Chocolate Stout",4.5,73436
-"52",10321,"Central City Brewing",1302984163,4,3.5,3,"American Pale Lager",3.5,4,"Springboard Lager",4.7,27171
-"53",10321,"Central City Brewing",1258323593,3.5,3,4.5,"American Pale Lager",4,3,"Springboard Lager",4.7,27171
-"54",10321,"Central City Brewing",1248829883,4.5,3.5,3.5,"American Pale Lager",4,4,"Springboard Lager",4.7,27171
-"55",10321,"Central City Brewing",1238216822,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
-"56",10321,"Central City Brewing",1216003494,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
-"57",10321,"Central City Brewing",1209163264,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
-"58",10321,"Central City Brewing",1133533732,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
-"59",10321,"Central City Brewing",1321926775,3,3.5,3,"German Pilsener",3.5,3,"Red Racer Lager",5,55018
-"60",10321,"Central City Brewing",1312160115,4,3.5,4,"German Pilsener",3.5,4,"Red Racer Lager",5,55018
-"61",10321,"Central City Brewing",1311805222,4,3,3.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
-"62",10321,"Central City Brewing",1309041938,4,3,2.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
-"63",10321,"Central City Brewing",1260843355,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"64",10321,"Central City Brewing",1308378175,2,2.5,3.5,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
-"65",10321,"Central City Brewing",1308347919,2.5,3,4,"German Pilsener",4,2.5,"Red Racer Lager",5,55018
-"66",10321,"Central City Brewing",1308270552,3.5,3,3.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
-"67",10321,"Central City Brewing",1306186825,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"68",10321,"Central City Brewing",1300150184,3,3,4,"German Pilsener",3,3,"Red Racer Lager",5,55018
-"69",10321,"Central City Brewing",1297229555,4,3,3,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"70",10321,"Central City Brewing",1292110296,2.5,2,1,"German Pilsener",3,2.5,"Red Racer Lager",5,55018
-"71",10321,"Central City Brewing",1289427708,3,3,3,"German Pilsener",3.5,2.5,"Red Racer Lager",5,55018
-"72",10321,"Central City Brewing",1284346274,4,3,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"73",10321,"Central City Brewing",1271191909,3.5,3.5,3.5,"German Pilsener",4,4,"Red Racer Lager",5,55018
-"74",10321,"Central City Brewing",1282140900,3,3.5,4,"German Pilsener",3,3,"Red Racer Lager",5,55018
-"75",10321,"Central City Brewing",1280370077,4,3.5,3,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"76",10321,"Central City Brewing",1280031177,2.5,2.5,3,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
-"77",10321,"Central City Brewing",1278732203,4,3,3.5,"German Pilsener",4,3,"Red Racer Lager",5,55018
-"78",10321,"Central City Brewing",1278461864,2,2.5,2.5,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
-"79",10321,"Central City Brewing",1277846665,4,2.5,3,"German Pilsener",3,3.5,"Red Racer Lager",5,55018
-"80",10321,"Central City Brewing",1275877883,4,3,3,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
-"81",10321,"Central City Brewing",1274213188,2,2.5,2,"German Pilsener",3,2,"Red Racer Lager",5,55018
-"82",10321,"Central City Brewing",1273348842,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"83",10321,"Central City Brewing",1248829453,3.5,3.5,4.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"84",10321,"Central City Brewing",1270934848,4.5,4,3.5,"German Pilsener",4,4,"Red Racer Lager",5,55018
-"85",10321,"Central City Brewing",1270516328,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"86",10321,"Central City Brewing",1270164618,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"87",10321,"Central City Brewing",1269127939,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"88",10321,"Central City Brewing",1267888616,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"89",10321,"Central City Brewing",1265693580,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
-"90",10321,"Central City Brewing",1261861274,3.5,3.5,4,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
-"91",10321,"Central City Brewing",1325988321,4.5,4.5,5,"Winter Warmer",4.5,4.5,"Red Racer Limited Edition Winter Ale",7,46573
-"92",10321,"Central City Brewing",1322911780,4,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"93",10321,"Central City Brewing",1312596202,4,4.5,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"94",10321,"Central City Brewing",1300152548,4,4,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"95",10321,"Central City Brewing",1309038110,4.5,4.5,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
-"96",10321,"Central City Brewing",1308638302,4,4,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
-"97",10321,"Central City Brewing",1306885631,4.5,4.5,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"98",10321,"Central City Brewing",1304138491,4.5,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"99",10321,"Central City Brewing",1302978550,4.5,4,5,"Winter Warmer",5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"100",10321,"Central City Brewing",1301171032,4,3.5,4,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
-"101",10321,"Central City Brewing",1300302051,4,4,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"102",10321,"Central City Brewing",1294614633,4,4,3.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"103",10321,"Central City Brewing",1292787250,4.5,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"104",10321,"Central City Brewing",1292544101,3.5,4,4.5,"Winter Warmer",3.5,3,"Red Racer Limited Edition Winter Ale",7,46573
-"105",10321,"Central City Brewing",1277524265,4,4,4,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
-"106",10321,"Central City Brewing",1276922900,4.5,4,4,"Winter Warmer",4.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"107",10321,"Central City Brewing",1273976939,4,3,3.5,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
-"108",10321,"Central City Brewing",1271804073,4.5,4.5,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
-"109",10321,"Central City Brewing",1270356194,4,4,4.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"110",10321,"Central City Brewing",1264909010,4,3.5,4,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"111",10321,"Central City Brewing",1260135890,3.5,3.5,3.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
-"112",10321,"Central City Brewing",1242839461,4.5,5,5,"Winter Warmer",5,5,"Red Racer Limited Edition Winter Ale",7,46573
-"113",10321,"Central City Brewing",1241752488,4,4,3.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
-"114",10321,"Central City Brewing",1229136826,4,4.5,4,"Winter Warmer",3.5,4.5,"Red Racer Limited Edition Winter Ale",7,46573
-"115",10321,"Central City Brewing",1325854440,4,4,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"116",10321,"Central City Brewing",1322591630,3.5,3,3,"Pumpkin Ale",3.5,3.5,"Red Racer Pumpkin Ale",5,53924
-"117",10321,"Central City Brewing",1321761462,3,4,4,"Pumpkin Ale",3.5,2.5,"Red Racer Pumpkin Ale",5,53924
-"118",10321,"Central City Brewing",1317356880,4.5,4.5,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"119",10321,"Central City Brewing",1311819485,4,4,4,"Pumpkin Ale",3.5,4.5,"Red Racer Pumpkin Ale",5,53924
-"120",10321,"Central City Brewing",1308274438,4.5,4,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"121",10321,"Central City Brewing",1303784839,4,4.5,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"122",10321,"Central City Brewing",1302973634,4,4,5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"123",10321,"Central City Brewing",1300326465,3.5,3.5,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
-"124",10321,"Central City Brewing",1295741156,4,4,3,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
-"125",10321,"Central City Brewing",1295070224,3.5,4,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
-"126",10321,"Central City Brewing",1292202928,3.5,4,4.5,"Pumpkin Ale",3.5,4.5,"Red Racer Pumpkin Ale",5,53924
-"127",10321,"Central City Brewing",1291953514,4,4,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
-"128",10321,"Central City Brewing",1289081078,4,4,4,"Tripel",4,4,"Belgian Abbey Special (Tripel)",8.4,63218
-"129",10321,"Central City Brewing",1272829599,4,4,4.5,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
-"130",10321,"Central City Brewing",1271804030,4.5,4,4,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
-"131",10321,"Central City Brewing",1270515491,4.5,3.5,4,"Pumpkin Ale",4.5,4,"Red Racer Pumpkin Ale",5,53924
-"132",10321,"Central City Brewing",1270094286,4,4,3.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"133",10321,"Central City Brewing",1265076594,4.5,4.5,3.5,"Pumpkin Ale",3,4,"Red Racer Pumpkin Ale",5,53924
-"134",10321,"Central City Brewing",1259723345,4,4,3,"Pumpkin Ale",4.5,4,"Red Racer Pumpkin Ale",5,53924
-"135",10321,"Central City Brewing",1259092126,4,4,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"136",10321,"Central City Brewing",1258336333,4,4.5,4,"Pumpkin Ale",3,4,"Red Racer Pumpkin Ale",5,53924
-"137",10321,"Central City Brewing",1257407767,4.5,4,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
-"138",10321,"Central City Brewing",1304987023,4.5,4,4.5,"Tripel",4.5,4.5,"Belgian Abbey Special (Tripel)",8.4,63218
-"139",10321,"Central City Brewing",1318545204,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Red Racer Saison",7,74100
-"140",10321,"Central City Brewing",1298134273,3.5,4.5,3.5,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
-"141",10321,"Central City Brewing",1297923534,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"142",10321,"Central City Brewing",1297908960,3.5,2.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"143",10321,"Central City Brewing",1297625929,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"144",10321,"Central City Brewing",1297480164,4.5,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"145",10321,"Central City Brewing",1297464381,4,3.5,4,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
-"146",10321,"Central City Brewing",1297235621,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"147",10321,"Central City Brewing",1296980126,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"148",10321,"Central City Brewing",1296962877,5,3.5,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"149",10321,"Central City Brewing",1296927903,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"150",10321,"Central City Brewing",1296662567,3,3,3.5,"American IPA",3,3,"Red Racer IPA",6.5,49058
-"151",10321,"Central City Brewing",1296368412,4.5,4,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"152",10321,"Central City Brewing",1296347382,5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"153",10321,"Central City Brewing",1296005861,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"154",10321,"Central City Brewing",1296005760,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"155",10321,"Central City Brewing",1295930323,4.5,5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"156",10321,"Central City Brewing",1295864990,4,3.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"157",10321,"Central City Brewing",1295526745,4,3.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"158",10321,"Central City Brewing",1295488641,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"159",10321,"Central City Brewing",1295398815,4.5,4.5,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"160",10321,"Central City Brewing",1295319678,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"161",10321,"Central City Brewing",1295309659,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"162",10321,"Central City Brewing",1295052451,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"163",10321,"Central City Brewing",1294984470,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"164",10321,"Central City Brewing",1294891447,4,4.5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"165",10321,"Central City Brewing",1294633999,5,4.5,3,"American IPA",2.5,4.5,"Red Racer IPA",6.5,49058
-"166",10321,"Central City Brewing",1294587403,5,4.5,3.5,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"167",10321,"Central City Brewing",1286606695,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"168",10321,"Central City Brewing",1294547597,4.5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"169",10321,"Central City Brewing",1294543289,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"170",10321,"Central City Brewing",1294443311,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"171",10321,"Central City Brewing",1293947576,5,4.5,3.5,"American IPA",3.5,5,"Red Racer IPA",6.5,49058
-"172",10321,"Central City Brewing",1293759252,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"173",10321,"Central City Brewing",1293598853,5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"174",10321,"Central City Brewing",1293566340,4,3.5,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"175",10321,"Central City Brewing",1286062339,5,3.5,3,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"176",10321,"Central City Brewing",1293507920,4.5,3.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"177",10321,"Central City Brewing",1292983816,3,4,2.5,"American IPA",2,4.5,"Red Racer IPA",6.5,49058
-"178",10321,"Central City Brewing",1292889993,4,4.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"179",10321,"Central City Brewing",1292727303,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"180",10321,"Central City Brewing",1292125502,3.5,3.5,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
-"181",10321,"Central City Brewing",1291954208,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"182",10321,"Central City Brewing",1291606973,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"183",10321,"Central City Brewing",1291519757,4,4.5,3.5,"American IPA",2,4,"Red Racer IPA",6.5,49058
-"184",10321,"Central City Brewing",1291348643,4,4.5,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"185",10321,"Central City Brewing",1291065197,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"186",10321,"Central City Brewing",1291000801,3.5,4,4,"American IPA",3,4,"Red Racer IPA",6.5,49058
-"187",10321,"Central City Brewing",1290653732,4,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"188",10321,"Central City Brewing",1290134174,4,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"189",10321,"Central City Brewing",1289956643,5,3.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"190",10321,"Central City Brewing",1289688031,4.5,3,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"191",10321,"Central City Brewing",1289684660,4,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"192",10321,"Central City Brewing",1289608285,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"193",10321,"Central City Brewing",1289534255,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"194",10321,"Central City Brewing",1284853370,3.5,3.5,3.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"195",10321,"Central City Brewing",1289524768,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"196",10321,"Central City Brewing",1289434360,3.5,3.5,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"197",10321,"Central City Brewing",1289364601,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"198",10321,"Central City Brewing",1289275913,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"199",10321,"Central City Brewing",1289184520,4,4,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"200",10321,"Central City Brewing",1289096580,3.5,3.5,4,"American IPA",4,3,"Red Racer IPA",6.5,49058
-"201",10321,"Central City Brewing",1289055867,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"202",10321,"Central City Brewing",1288958963,4.5,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"203",10321,"Central City Brewing",1288836381,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"204",10321,"Central City Brewing",1284839449,4,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"205",10321,"Central City Brewing",1288566354,5,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"206",10321,"Central City Brewing",1288468587,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"207",10321,"Central City Brewing",1288235262,3.5,3.5,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"208",10321,"Central City Brewing",1287953225,5,4.5,4.5,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"209",10321,"Central City Brewing",1287887509,4.5,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"210",10321,"Central City Brewing",1287505260,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"211",10321,"Central City Brewing",1287317309,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"212",10321,"Central City Brewing",1287020721,5,4.5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"213",10321,"Central City Brewing",1286850438,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"214",10321,"Central City Brewing",1285978252,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"215",10321,"Central City Brewing",1285747541,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"216",10321,"Central City Brewing",1285377144,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"217",10321,"Central City Brewing",1285206058,4,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
-"218",10321,"Central City Brewing",1284944527,4,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"219",10321,"Central City Brewing",1284872732,4.5,4,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"220",10321,"Central City Brewing",1284750487,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"221",10321,"Central City Brewing",1284686391,5,3.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"222",10321,"Central City Brewing",1284595962,4,3.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"223",10321,"Central City Brewing",1284164499,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"224",10321,"Central City Brewing",1283985176,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"225",10321,"Central City Brewing",1283741072,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"226",10321,"Central City Brewing",1283483828,3.5,3.5,4.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"227",10321,"Central City Brewing",1283308664,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"228",10321,"Central City Brewing",1283275126,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"229",10321,"Central City Brewing",1283194493,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"230",10321,"Central City Brewing",1283039255,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"231",10321,"Central City Brewing",1282944330,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"232",10321,"Central City Brewing",1282809929,4,3.5,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"233",10321,"Central City Brewing",1282787889,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"234",10321,"Central City Brewing",1282767953,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"235",10321,"Central City Brewing",1282726204,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"236",10321,"Central City Brewing",1282672161,4.5,5,5,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"237",10321,"Central City Brewing",1282626725,5,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
-"238",10321,"Central City Brewing",1282362207,5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"239",10321,"Central City Brewing",1282190669,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"240",10321,"Central City Brewing",1325627213,5,4.5,5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"241",10321,"Central City Brewing",1324933570,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"242",10321,"Central City Brewing",1323484438,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"243",10321,"Central City Brewing",1322341631,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"244",10321,"Central City Brewing",1321850454,4,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"245",10321,"Central City Brewing",1280149909,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"246",10321,"Central City Brewing",1321682231,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"247",10321,"Central City Brewing",1321676912,4,3,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"248",10321,"Central City Brewing",1321578910,4,4,4,"American IPA",3,4,"Red Racer IPA",6.5,49058
-"249",10321,"Central City Brewing",1321323464,4.5,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"250",10321,"Central City Brewing",1321159222,4,4.5,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"251",10321,"Central City Brewing",1282172898,5,5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"252",10321,"Central City Brewing",1279931519,4,4,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"253",10321,"Central City Brewing",1282159140,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"254",10321,"Central City Brewing",1282157193,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"255",10321,"Central City Brewing",1282116975,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"256",10321,"Central City Brewing",1281760094,3.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"257",10321,"Central City Brewing",1281671031,4,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"258",10321,"Central City Brewing",1281581288,4,3.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"259",10321,"Central City Brewing",1281486092,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"260",10321,"Central City Brewing",1281386922,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"261",10321,"Central City Brewing",1281277888,2.5,3,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
-"262",10321,"Central City Brewing",1281218610,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"263",10321,"Central City Brewing",1281212327,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"264",10321,"Central City Brewing",1280906477,5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"265",10321,"Central City Brewing",1280603480,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"266",10321,"Central City Brewing",1280469452,3.5,4,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"267",10321,"Central City Brewing",1280197009,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"268",10321,"Central City Brewing",1280170990,4,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"269",10321,"Central City Brewing",1279579656,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"270",10321,"Central City Brewing",1279326586,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"271",10321,"Central City Brewing",1278817416,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"272",10321,"Central City Brewing",1278644514,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"273",10321,"Central City Brewing",1278465020,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"274",10321,"Central City Brewing",1278298568,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"275",10321,"Central City Brewing",1278001730,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"276",10321,"Central City Brewing",1277862118,4.5,4,3,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"277",10321,"Central City Brewing",1277772485,4,3.5,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"278",10321,"Central City Brewing",1277663436,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"279",10321,"Central City Brewing",1277598750,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"280",10321,"Central City Brewing",1277597718,3.5,3.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"281",10321,"Central City Brewing",1277590213,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"282",10321,"Central City Brewing",1277519741,4,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"283",10321,"Central City Brewing",1277517200,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"284",10321,"Central City Brewing",1277507042,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"285",10321,"Central City Brewing",1277415769,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"286",10321,"Central City Brewing",1277088104,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"287",10321,"Central City Brewing",1277004293,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"288",10321,"Central City Brewing",1276923211,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"289",10321,"Central City Brewing",1276817007,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"290",10321,"Central City Brewing",1276753312,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"291",10321,"Central City Brewing",1276539577,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"292",10321,"Central City Brewing",1276305113,4,4,3.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"293",10321,"Central City Brewing",1276122132,4,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"294",10321,"Central City Brewing",1275958704,5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"295",10321,"Central City Brewing",1275878484,4,4,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"296",10321,"Central City Brewing",1275715636,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"297",10321,"Central City Brewing",1275514000,4,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"298",10321,"Central City Brewing",1275481293,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"299",10321,"Central City Brewing",1275421974,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"300",10321,"Central City Brewing",1275409430,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"301",10321,"Central City Brewing",1275361197,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"302",10321,"Central City Brewing",1275274324,4.5,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
-"303",10321,"Central City Brewing",1275269976,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"304",10321,"Central City Brewing",1275184572,5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"305",10321,"Central City Brewing",1275141385,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"306",10321,"Central City Brewing",1275110643,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"307",10321,"Central City Brewing",1275089871,4.5,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"308",10321,"Central City Brewing",1274933582,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"309",10321,"Central City Brewing",1274924373,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"310",10321,"Central City Brewing",1274741635,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"311",10321,"Central City Brewing",1274714367,5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"312",10321,"Central City Brewing",1274657899,5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"313",10321,"Central City Brewing",1274628086,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"314",10321,"Central City Brewing",1248319032,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"315",10321,"Central City Brewing",1274566195,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"316",10321,"Central City Brewing",1274501603,3.5,4,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"317",10321,"Central City Brewing",1274492187,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"318",10321,"Central City Brewing",1274481678,5,4,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
-"319",10321,"Central City Brewing",1274381262,4.5,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"320",10321,"Central City Brewing",1274139041,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"321",10321,"Central City Brewing",1273869236,5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"322",10321,"Central City Brewing",1271963474,5,5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"323",10321,"Central City Brewing",1273729856,4,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"324",10321,"Central City Brewing",1273358384,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"325",10321,"Central City Brewing",1272851562,4.5,4.5,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"326",10321,"Central City Brewing",1272818421,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"327",10321,"Central City Brewing",1272659363,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"328",10321,"Central City Brewing",1272588579,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"329",10321,"Central City Brewing",1272587669,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"330",10321,"Central City Brewing",1272476155,5,5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"331",10321,"Central City Brewing",1272397541,5,4.5,4,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"332",10321,"Central City Brewing",1271810819,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"333",10321,"Central City Brewing",1271807922,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"334",10321,"Central City Brewing",1271552465,4,4.5,4.5,"American IPA",3,4.5,"Red Racer IPA",6.5,49058
-"335",10321,"Central City Brewing",1271300423,4.5,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"336",10321,"Central City Brewing",1270929299,4,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"337",10321,"Central City Brewing",1270851850,4,4,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"338",10321,"Central City Brewing",1270721143,4,4,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"339",10321,"Central City Brewing",1270527723,3.5,3.5,4,"American IPA",4,3,"Red Racer IPA",6.5,49058
-"340",10321,"Central City Brewing",1270434476,4,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"341",10321,"Central City Brewing",1270252908,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"342",10321,"Central City Brewing",1270009805,5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"343",10321,"Central City Brewing",1269904168,4.5,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"344",10321,"Central City Brewing",1269746293,5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"345",10321,"Central City Brewing",1269730399,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"346",10321,"Central City Brewing",1269575535,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"347",10321,"Central City Brewing",1269560013,3.5,5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"348",10321,"Central City Brewing",1269377455,4,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"349",10321,"Central City Brewing",1269241045,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"350",10321,"Central City Brewing",1268972168,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"351",10321,"Central City Brewing",1321032122,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"352",10321,"Central City Brewing",1320808221,3.5,3.5,4.5,"American IPA",4,3,"Red Racer IPA",6.5,49058
-"353",10321,"Central City Brewing",1320620140,4.5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"354",10321,"Central City Brewing",1320469691,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"355",10321,"Central City Brewing",1320374346,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"356",10321,"Central City Brewing",1319862129,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"357",10321,"Central City Brewing",1319603708,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"358",10321,"Central City Brewing",1319072901,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"359",10321,"Central City Brewing",1319056109,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"360",10321,"Central City Brewing",1318195579,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"361",10321,"Central City Brewing",1268967482,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"362",10321,"Central City Brewing",1268697849,5,4.5,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"363",10321,"Central City Brewing",1268592591,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"364",10321,"Central City Brewing",1268546732,4,4,3.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"365",10321,"Central City Brewing",1261773927,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"366",10321,"Central City Brewing",1268518488,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"367",10321,"Central City Brewing",1268515448,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"368",10321,"Central City Brewing",1268346755,4.5,5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"369",10321,"Central City Brewing",1268260235,5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"370",10321,"Central City Brewing",1268060566,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"371",10321,"Central City Brewing",1268016884,4,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"372",10321,"Central City Brewing",1267673517,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"373",10321,"Central City Brewing",1261662261,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"374",10321,"Central City Brewing",1267668494,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"375",10321,"Central City Brewing",1267647309,4,4.5,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"376",10321,"Central City Brewing",1267586802,4,4,4.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
-"377",10321,"Central City Brewing",1267236100,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"378",10321,"Central City Brewing",1267061555,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"379",10321,"Central City Brewing",1266991027,4.5,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"380",10321,"Central City Brewing",1266822373,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"381",10321,"Central City Brewing",1266627796,5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"382",10321,"Central City Brewing",1266370520,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"383",10321,"Central City Brewing",1266219480,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"384",10321,"Central City Brewing",1266038246,4,5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"385",10321,"Central City Brewing",1265957574,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"386",10321,"Central City Brewing",1265865425,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"387",10321,"Central City Brewing",1265783656,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"388",10321,"Central City Brewing",1265779699,5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"389",10321,"Central City Brewing",1260987191,4.5,5,5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"390",10321,"Central City Brewing",1265417914,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"391",10321,"Central City Brewing",1265256030,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"392",10321,"Central City Brewing",1265067074,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"393",10321,"Central City Brewing",1264808748,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"394",10321,"Central City Brewing",1264742176,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"395",10321,"Central City Brewing",1264730518,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"396",10321,"Central City Brewing",1264113810,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"397",10321,"Central City Brewing",1264035933,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"398",10321,"Central City Brewing",1260917741,4.5,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"399",10321,"Central City Brewing",1263835669,4,4.5,5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"400",10321,"Central City Brewing",1262742730,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"401",10321,"Central City Brewing",1262702440,4.5,3.5,5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"402",10321,"Central City Brewing",1262501419,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"403",10321,"Central City Brewing",1262230489,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"404",10321,"Central City Brewing",1262223084,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"405",10321,"Central City Brewing",1260504739,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"406",10321,"Central City Brewing",1260502194,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"407",10321,"Central City Brewing",1259958308,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"408",10321,"Central City Brewing",1259707746,5,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"409",10321,"Central City Brewing",1259680551,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"410",10321,"Central City Brewing",1259620189,4.5,4.5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"411",10321,"Central City Brewing",1259537957,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"412",10321,"Central City Brewing",1259536513,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"413",10321,"Central City Brewing",1259158615,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"414",10321,"Central City Brewing",1258501373,4,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"415",10321,"Central City Brewing",1258327251,3.5,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"416",10321,"Central City Brewing",1258256441,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"417",10321,"Central City Brewing",1257987773,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"418",10321,"Central City Brewing",1257706220,5,5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"419",10321,"Central City Brewing",1257287488,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"420",10321,"Central City Brewing",1257231118,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"421",10321,"Central City Brewing",1256785806,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"422",10321,"Central City Brewing",1256574945,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"423",10321,"Central City Brewing",1255994378,5,4.5,4.5,"American IPA",4,5,"Red Racer IPA",6.5,49058
-"424",10321,"Central City Brewing",1255892000,4.5,4,4.5,"American IPA",5,4,"Red Racer IPA",6.5,49058
-"425",10321,"Central City Brewing",1255572828,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"426",10321,"Central City Brewing",1255292806,4,3.5,4,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"427",10321,"Central City Brewing",1255214113,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"428",10321,"Central City Brewing",1254862608,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"429",10321,"Central City Brewing",1254184431,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"430",10321,"Central City Brewing",1252894696,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"431",10321,"Central City Brewing",1250390959,4,3.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"432",10321,"Central City Brewing",1249953715,4.5,5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"433",10321,"Central City Brewing",1249943239,4,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"434",10321,"Central City Brewing",1249177743,4.5,4.5,4,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"435",10321,"Central City Brewing",1248564745,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"436",10321,"Central City Brewing",1248116115,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"437",10321,"Central City Brewing",1246649627,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"438",10321,"Central City Brewing",1246403877,4,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"439",10321,"Central City Brewing",1243716709,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"440",10321,"Central City Brewing",1239334366,5,5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"441",10321,"Central City Brewing",1229800214,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"442",10321,"Central City Brewing",1215993212,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"443",10321,"Central City Brewing",1133534266,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"444",10321,"Central City Brewing",1318105842,3,2.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
-"445",10321,"Central City Brewing",1316907448,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"446",10321,"Central City Brewing",1316837278,4,4,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
-"447",10321,"Central City Brewing",1316133546,4.5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"448",10321,"Central City Brewing",1315339300,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"449",10321,"Central City Brewing",1315186773,4,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"450",10321,"Central City Brewing",1315173137,4,4,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"451",10321,"Central City Brewing",1315093638,4,4.5,3,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"452",10321,"Central City Brewing",1314758895,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"453",10321,"Central City Brewing",1314150606,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"454",10321,"Central City Brewing",1314075542,4.5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
-"455",10321,"Central City Brewing",1313637125,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"456",10321,"Central City Brewing",1313556879,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"457",10321,"Central City Brewing",1313530228,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"458",10321,"Central City Brewing",1313377678,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"459",10321,"Central City Brewing",1313353430,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"460",10321,"Central City Brewing",1313343477,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"461",10321,"Central City Brewing",1312767316,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"462",10321,"Central City Brewing",1312664815,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"463",10321,"Central City Brewing",1312412028,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"464",10321,"Central City Brewing",1312235598,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"465",10321,"Central City Brewing",1311863058,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"466",10321,"Central City Brewing",1311472901,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"467",10321,"Central City Brewing",1311123505,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"468",10321,"Central City Brewing",1310434460,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"469",10321,"Central City Brewing",1310407877,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"470",10321,"Central City Brewing",1310079221,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"471",10321,"Central City Brewing",1309310200,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"472",10321,"Central City Brewing",1309298176,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"473",10321,"Central City Brewing",1308551519,4.5,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"474",10321,"Central City Brewing",1308450812,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"475",10321,"Central City Brewing",1308287708,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"476",10321,"Central City Brewing",1307834252,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"477",10321,"Central City Brewing",1307413988,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"478",10321,"Central City Brewing",1307162557,5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"479",10321,"Central City Brewing",1306698582,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"480",10321,"Central City Brewing",1306679548,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"481",10321,"Central City Brewing",1306376074,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"482",10321,"Central City Brewing",1305994084,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"483",10321,"Central City Brewing",1305671638,4,5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"484",10321,"Central City Brewing",1305595257,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"485",10321,"Central City Brewing",1320978293,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"486",10321,"Central City Brewing",1305340073,4,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"487",10321,"Central City Brewing",1305252898,4.5,5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"488",10321,"Central City Brewing",1304872634,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"489",10321,"Central City Brewing",1304828078,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"490",10321,"Central City Brewing",1304564273,3,3,3.5,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
-"491",10321,"Central City Brewing",1304462667,4,4,5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"492",10321,"Central City Brewing",1304282830,4,4.5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"493",10321,"Central City Brewing",1304107842,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"494",10321,"Central City Brewing",1303432632,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"495",10321,"Central City Brewing",1303006421,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"496",10321,"Central City Brewing",1302666268,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"497",10321,"Central City Brewing",1302479560,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"498",10321,"Central City Brewing",1302141122,5,4.5,5,"American IPA",5,5,"Red Racer IPA",6.5,49058
-"499",10321,"Central City Brewing",1301664052,4,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"500",10321,"Central City Brewing",1301624941,4,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"501",10321,"Central City Brewing",1301275532,4.5,4.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"502",10321,"Central City Brewing",1300929608,4.5,5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"503",10321,"Central City Brewing",1300679818,4,3.5,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"504",10321,"Central City Brewing",1300631341,5,5,5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
-"505",10321,"Central City Brewing",1300597685,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"506",10321,"Central City Brewing",1300588627,3,4,4,"American IPA",2.5,3,"Red Racer IPA",6.5,49058
-"507",10321,"Central City Brewing",1300470602,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"508",10321,"Central City Brewing",1300283948,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"509",10321,"Central City Brewing",1300039598,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
-"510",10321,"Central City Brewing",1299442302,4,3,4,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
-"511",10321,"Central City Brewing",1299339300,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
-"512",10321,"Central City Brewing",1298907322,4.5,4.5,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
-"513",10321,"Central City Brewing",1298835391,3.5,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
-"514",10321,"Central City Brewing",1298476193,3.5,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
-"515",10321,"Central City Brewing",1320099888,3.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,3,"Red Racer Centennial ESB",5.6,74752
-"516",10321,"Central City Brewing",1309067308,4.5,5,4.5,"Baltic Porter",4,5,"Red Racer Oaked Imperial Porter",9,70403
-"517",10321,"Central City Brewing",1323975883,4.5,4.5,4,"English Barleywine",4,4.5,"Thor's Hammer Barley Wine",10.25,52943
-"518",10321,"Central City Brewing",1298440111,4,4.5,4,"English Barleywine",4,4,"Thor's Hammer Barley Wine",10.25,52943
-"519",10321,"Central City Brewing",1293338892,3.5,4,4,"English Barleywine",4.5,4,"Thor's Hammer Barley Wine",10.25,52943
-"520",10321,"Central City Brewing",1287503587,4.5,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
-"521",10321,"Central City Brewing",1300848694,4.5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"522",10321,"Central City Brewing",1287075898,4,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
-"523",10321,"Central City Brewing",1287073375,4.5,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
-"524",10321,"Central City Brewing",1254005909,3.5,4,3,"English Barleywine",4,4,"Thor's Hammer Barley Wine",10.25,52943
-"525",10321,"Central City Brewing",1317089386,4.5,4,4.5,"Munich Dunkel Lager",4.5,4.5,"Red Racer Dunkel",5.8,73500
-"526",10321,"Central City Brewing",1325987776,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
-"527",10321,"Central City Brewing",1324757243,4,4,5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
-"528",10321,"Central City Brewing",1323843831,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"529",10321,"Central City Brewing",1314663671,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"530",10321,"Central City Brewing",1312052075,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
-"531",10321,"Central City Brewing",1308515431,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
-"532",10321,"Central City Brewing",1307974258,3.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
-"533",10321,"Central City Brewing",1307746307,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"534",10321,"Central City Brewing",1307310477,3,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Red Racer ESB",6.5,26380
-"535",10321,"Central City Brewing",1305432937,4,4,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
-"536",10321,"Central City Brewing",1305246183,4,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
-"537",10321,"Central City Brewing",1303085308,4,4.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"538",10321,"Central City Brewing",1300512036,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
-"539",10321,"Central City Brewing",1298517101,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
-"540",10321,"Central City Brewing",1298075168,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
-"541",10321,"Central City Brewing",1297998183,4.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Red Racer ESB",6.5,26380
-"542",10321,"Central City Brewing",1296786068,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"543",10321,"Central City Brewing",1294122235,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
-"544",10321,"Central City Brewing",1293951251,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"545",10321,"Central City Brewing",1293517025,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
-"546",10321,"Central City Brewing",1293398519,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"547",10321,"Central City Brewing",1292434816,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
-"548",10321,"Central City Brewing",1292116481,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",5,4.5,"Red Racer ESB",6.5,26380
-"549",10321,"Central City Brewing",1287447601,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
-"550",10321,"Central City Brewing",1286927213,3.5,4,4.5,"Extra Special / Strong Bitter (ESB)",3,4,"Red Racer ESB",6.5,26380
-"551",10321,"Central City Brewing",1284239901,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"552",10321,"Central City Brewing",1275878915,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"553",10321,"Central City Brewing",1266733103,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
-"554",10321,"Central City Brewing",1258439481,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
-"555",10321,"Central City Brewing",1254793389,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,5,"Red Racer ESB",6.5,26380
-"556",10321,"Central City Brewing",1235956771,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Red Racer ESB",6.5,26380
-"557",10321,"Central City Brewing",1129245726,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
-"558",10321,"Central City Brewing",1325965692,4,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"559",10321,"Central City Brewing",1325769112,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"560",10321,"Central City Brewing",1318476828,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"561",10321,"Central City Brewing",1316760021,4,4,4.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"562",10321,"Central City Brewing",1315269878,4.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"563",10321,"Central City Brewing",1314463207,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"564",10321,"Central City Brewing",1311385555,4,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"565",10321,"Central City Brewing",1310263256,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"566",10321,"Central City Brewing",1309713414,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"567",10321,"Central City Brewing",1309323381,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"568",10321,"Central City Brewing",1306694276,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"569",10321,"Central City Brewing",1306640005,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"570",10321,"Central City Brewing",1276557287,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"571",10321,"Central City Brewing",1304281101,4,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"572",10321,"Central City Brewing",1303596747,5,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"573",10321,"Central City Brewing",1303511502,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
-"574",10321,"Central City Brewing",1300763638,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Red Racer Pale Ale",5,42312
-"575",10321,"Central City Brewing",1300758353,2.5,3.5,4,"American Pale Ale (APA)",4,3,"Red Racer Pale Ale",5,42312
-"576",10321,"Central City Brewing",1300508682,3,4,3,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
-"577",10321,"Central City Brewing",1300157998,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"578",10321,"Central City Brewing",1300046845,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"579",10321,"Central City Brewing",1299026614,4.5,4,4,"American Pale Ale (APA)",5,4.5,"Red Racer Pale Ale",5,42312
-"580",10321,"Central City Brewing",1270082641,4,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"581",10321,"Central City Brewing",1297229471,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"582",10321,"Central City Brewing",1297200251,3.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"583",10321,"Central City Brewing",1294634333,4.5,3,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"584",10321,"Central City Brewing",1294024352,2.5,4,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
-"585",10321,"Central City Brewing",1293608911,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"586",10321,"Central City Brewing",1293566645,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
-"587",10321,"Central City Brewing",1292121447,3,4,4.5,"American Pale Ale (APA)",2.5,2.5,"Red Racer Pale Ale",5,42312
-"588",10321,"Central City Brewing",1289603606,4,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"589",10321,"Central City Brewing",1288574267,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"590",10321,"Central City Brewing",1216091079,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"591",10321,"Central City Brewing",1287619614,4,4,3,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
-"592",10321,"Central City Brewing",1287502949,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"593",10321,"Central City Brewing",1287205696,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
-"594",10321,"Central City Brewing",1287078305,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312
-"595",10321,"Central City Brewing",1286935833,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"596",10321,"Central City Brewing",1286850632,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"597",10321,"Central City Brewing",1286673395,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"598",10321,"Central City Brewing",1286156024,3,3,4,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
-"599",10321,"Central City Brewing",1285435415,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
-"600",10321,"Central City Brewing",1284249705,2,3.5,4,"American Pale Ale (APA)",1.5,2,"Red Racer Pale Ale",5,42312
-"601",10321,"Central City Brewing",1283708518,3,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"602",10321,"Central City Brewing",1283473360,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"603",10321,"Central City Brewing",1283226713,4,4,3.5,"American Pale Ale (APA)",3,4,"Red Racer Pale Ale",5,42312
-"604",10321,"Central City Brewing",1282768831,2.5,3,4,"American Pale Ale (APA)",4,2.5,"Red Racer Pale Ale",5,42312
-"605",10321,"Central City Brewing",1281484499,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"606",10321,"Central City Brewing",1281102219,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"607",10321,"Central City Brewing",1280709370,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
-"608",10321,"Central City Brewing",1279936363,3,3.5,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
-"609",10321,"Central City Brewing",1279678581,4,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"610",10321,"Central City Brewing",1279573508,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"611",10321,"Central City Brewing",1278820464,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"612",10321,"Central City Brewing",1278716407,4.5,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"613",10321,"Central City Brewing",1278277265,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"614",10321,"Central City Brewing",1277926220,3,3.5,3,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
-"615",10321,"Central City Brewing",1276835493,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"616",10321,"Central City Brewing",1276697056,4,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"617",10321,"Central City Brewing",1274828722,4,3.5,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
-"618",10321,"Central City Brewing",1274407599,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"619",10321,"Central City Brewing",1274290526,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
-"620",10321,"Central City Brewing",1273353306,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"621",10321,"Central City Brewing",1273110874,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"622",10321,"Central City Brewing",1272831454,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"623",10321,"Central City Brewing",1272575643,4,4.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"624",10321,"Central City Brewing",1270936888,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"625",10321,"Central City Brewing",1269791074,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"626",10321,"Central City Brewing",1269572443,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"627",10321,"Central City Brewing",1267998778,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
-"628",10321,"Central City Brewing",1267400464,3,2.5,3.5,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
-"629",10321,"Central City Brewing",1267235060,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"630",10321,"Central City Brewing",1265414284,3,4,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
-"631",10321,"Central City Brewing",1262215281,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"632",10321,"Central City Brewing",1261864070,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312
-"633",10321,"Central City Brewing",1261840012,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"634",10321,"Central City Brewing",1259990274,4.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"635",10321,"Central City Brewing",1258325159,4.5,4,4,"American Pale Ale (APA)",3,4,"Red Racer Pale Ale",5,42312
-"636",10321,"Central City Brewing",1209076049,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"637",10321,"Central City Brewing",1256255355,3.5,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"638",10321,"Central City Brewing",1255735171,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
-"639",10321,"Central City Brewing",1253643590,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
-"640",10321,"Central City Brewing",1251219621,4,4.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
-"641",10321,"Central City Brewing",1238217300,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"642",10321,"Central City Brewing",1229799952,4,4.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"643",10321,"Central City Brewing",1228148627,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
-"644",10321,"Central City Brewing",1216761283,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312
-"645",10321,"Central City Brewing",1320266272,4,4.5,3.5,"American IPA",4,4,"Red Racer Amarillo IPA",NA,74801
-"646",10321,"Central City Brewing",1273646245,5,5,5,"Bock",5,5,"Copper Bock",6.5,27172
-"647",10321,"Central City Brewing",1270516017,4,4,4,"Bock",4,4,"Copper Bock",6.5,27172
-"648",10321,"Central City Brewing",1133533966,4.5,4,3.5,"Bock",4.5,4,"Copper Bock",6.5,27172
-"649",10321,"Central City Brewing",1320099643,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Red Racer Citra Pale Ale",5,74751
+"2",10321,"Central City Brewing",1312643553,5,4.5,5,"American Double / Imperial IPA",4.5,5,"Red Racer Imperial IPA",9,66444
+"3",10321,"Central City Brewing",1312595972,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
+"4",10321,"Central City Brewing",1299728122,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
+"5",10321,"Central City Brewing",1299708485,4,4,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
+"6",10321,"Central City Brewing",1299637077,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
+"7",10321,"Central City Brewing",1299598630,5,4.5,4.5,"American Double / Imperial IPA",4,4,"Red Racer Imperial IPA",9,66444
+"8",10321,"Central City Brewing",1299551939,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Red Racer Imperial IPA",9,66444
+"9",10321,"Central City Brewing",1298516247,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
+"10",10321,"Central City Brewing",1298439203,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Red Racer Imperial IPA",9,66444
+"11",10321,"Central City Brewing",1298099588,5,5,4.5,"American Double / Imperial IPA",5,5,"Red Racer Imperial IPA",9,66444
+"12",10321,"Central City Brewing",1298076991,5,5,5,"American Double / Imperial IPA",4.5,5,"Red Racer Imperial IPA",9,66444
+"13",10321,"Central City Brewing",1289227799,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
+"14",10321,"Central City Brewing",1288585416,4.5,4.5,4,"American Double / Imperial IPA",5,4.5,"Red Racer Imperial IPA",9,66444
+"15",10321,"Central City Brewing",1157897878,4,3.5,4,"Oatmeal Stout",3.5,4,"Red Racer Stout",4.2,32687
+"16",10321,"Central City Brewing",1275879992,5,5,4.5,"American Double / Imperial IPA",5,5,"Red Racer Imperial IPA",9,66444
+"17",10321,"Central City Brewing",1254006384,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Red Racer Imperial IPA",9,66444
+"18",10321,"Central City Brewing",1307026579,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Imperial Porter",9,69090
+"19",10321,"Central City Brewing",1305485965,3.5,3.5,4,"Baltic Porter",3.5,3.5,"Imperial Porter",9,69090
+"20",10321,"Central City Brewing",1319081375,3.5,3,4,"Oatmeal Stout",4.5,3.5,"Red Racer Stout",4.2,32687
+"21",10321,"Central City Brewing",1312085028,3,3.5,4,"Oatmeal Stout",4,3,"Red Racer Stout",4.2,32687
+"22",10321,"Central City Brewing",1275877499,3,2,2.5,"Oatmeal Stout",2.5,2,"Red Racer Stout",4.2,32687
+"23",10321,"Central City Brewing",1251307737,3.5,3.5,3,"Oatmeal Stout",3.5,3.5,"Red Racer Stout",4.2,32687
+"24",10321,"Central City Brewing",1248830767,4,3,4,"Oatmeal Stout",4,3.5,"Red Racer Stout",4.2,32687
+"25",10321,"Central City Brewing",1322118708,3.5,3,3.5,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"26",10321,"Central City Brewing",1318105097,2,2,4,"Witbier",2.5,2,"Red Racer White Ale / Wally's Wheat",5,42329
+"27",10321,"Central City Brewing",1313991380,4,4,4.5,"Witbier",3,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"28",10321,"Central City Brewing",1311472207,3.5,4,3,"Witbier",3.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"29",10321,"Central City Brewing",1309666578,3.5,3,3,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"30",10321,"Central City Brewing",1309647219,3.5,3.5,3,"Witbier",2.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"31",10321,"Central City Brewing",1308200469,4,4,4,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"32",10321,"Central City Brewing",1299111743,4.5,4,4,"Witbier",4.5,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"33",10321,"Central City Brewing",1294118970,4,3,2.5,"Witbier",4,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"34",10321,"Central City Brewing",1296362241,4.5,4,3.5,"Winter Warmer",4.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"35",10321,"Central City Brewing",1279082517,3,3,4,"Witbier",3.5,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"36",10321,"Central City Brewing",1278127265,3,3,2.5,"Witbier",4,3,"Red Racer White Ale / Wally's Wheat",5,42329
+"37",10321,"Central City Brewing",1272657600,4,4,3,"Witbier",4.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"38",10321,"Central City Brewing",1270347162,3.5,3.5,3.5,"Witbier",3.5,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"39",10321,"Central City Brewing",1268692069,4,4,3.5,"Witbier",3.5,4.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"40",10321,"Central City Brewing",1268263950,4,3,4,"Witbier",3.5,3,"Red Racer White Ale / Wally's Wheat",5,42329
+"41",10321,"Central City Brewing",1267490333,4,3.5,4,"Witbier",3,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"42",10321,"Central City Brewing",1248830355,4,3.5,3.5,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"43",10321,"Central City Brewing",1222817266,4,3.5,4,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"44",10321,"Central City Brewing",1216086977,4,3,4,"Witbier",4,3.5,"Red Racer White Ale / Wally's Wheat",5,42329
+"45",10321,"Central City Brewing",1209162964,4.5,3.5,3,"Witbier",4,4,"Red Racer White Ale / Wally's Wheat",5,42329
+"46",10321,"Central City Brewing",1302984163,4,3.5,3,"American Pale Lager",3.5,4,"Springboard Lager",4.7,27171
+"47",10321,"Central City Brewing",1258323593,3.5,3,4.5,"American Pale Lager",4,3,"Springboard Lager",4.7,27171
+"48",10321,"Central City Brewing",1248829883,4.5,3.5,3.5,"American Pale Lager",4,4,"Springboard Lager",4.7,27171
+"49",10321,"Central City Brewing",1238216822,3.5,3,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
+"50",10321,"Central City Brewing",1216003494,3.5,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
+"51",10321,"Central City Brewing",1209163264,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
+"52",10321,"Central City Brewing",1133533732,4,3.5,3.5,"American Pale Lager",3.5,3.5,"Springboard Lager",4.7,27171
+"53",10321,"Central City Brewing",1321926775,3,3.5,3,"German Pilsener",3.5,3,"Red Racer Lager",5,55018
+"54",10321,"Central City Brewing",1312160115,4,3.5,4,"German Pilsener",3.5,4,"Red Racer Lager",5,55018
+"55",10321,"Central City Brewing",1311805222,4,3,3.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
+"56",10321,"Central City Brewing",1309041938,4,3,2.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
+"57",10321,"Central City Brewing",1260843355,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"58",10321,"Central City Brewing",1308378175,2,2.5,3.5,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
+"59",10321,"Central City Brewing",1308347919,2.5,3,4,"German Pilsener",4,2.5,"Red Racer Lager",5,55018
+"60",10321,"Central City Brewing",1308270552,3.5,3,3.5,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
+"61",10321,"Central City Brewing",1306186825,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"62",10321,"Central City Brewing",1300150184,3,3,4,"German Pilsener",3,3,"Red Racer Lager",5,55018
+"63",10321,"Central City Brewing",1297229555,4,3,3,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"64",10321,"Central City Brewing",1292110296,2.5,2,1,"German Pilsener",3,2.5,"Red Racer Lager",5,55018
+"65",10321,"Central City Brewing",1289427708,3,3,3,"German Pilsener",3.5,2.5,"Red Racer Lager",5,55018
+"66",10321,"Central City Brewing",1284346274,4,3,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"67",10321,"Central City Brewing",1271191909,3.5,3.5,3.5,"German Pilsener",4,4,"Red Racer Lager",5,55018
+"68",10321,"Central City Brewing",1282140900,3,3.5,4,"German Pilsener",3,3,"Red Racer Lager",5,55018
+"69",10321,"Central City Brewing",1280370077,4,3.5,3,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"70",10321,"Central City Brewing",1280031177,2.5,2.5,3,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
+"71",10321,"Central City Brewing",1278732203,4,3,3.5,"German Pilsener",4,3,"Red Racer Lager",5,55018
+"72",10321,"Central City Brewing",1278461864,2,2.5,2.5,"German Pilsener",2.5,2.5,"Red Racer Lager",5,55018
+"73",10321,"Central City Brewing",1277846665,4,2.5,3,"German Pilsener",3,3.5,"Red Racer Lager",5,55018
+"74",10321,"Central City Brewing",1275877883,4,3,3,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
+"75",10321,"Central City Brewing",1274213188,2,2.5,2,"German Pilsener",3,2,"Red Racer Lager",5,55018
+"76",10321,"Central City Brewing",1273348842,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"77",10321,"Central City Brewing",1248829453,3.5,3.5,4.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"78",10321,"Central City Brewing",1270934848,4.5,4,3.5,"German Pilsener",4,4,"Red Racer Lager",5,55018
+"79",10321,"Central City Brewing",1270516328,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"80",10321,"Central City Brewing",1270164618,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"81",10321,"Central City Brewing",1269127939,3.5,3.5,4,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"82",10321,"Central City Brewing",1267888616,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"83",10321,"Central City Brewing",1265693580,4,3.5,3.5,"German Pilsener",3.5,3.5,"Red Racer Lager",5,55018
+"84",10321,"Central City Brewing",1261861274,3.5,3.5,4,"German Pilsener",4,3.5,"Red Racer Lager",5,55018
+"85",10321,"Central City Brewing",1325988321,4.5,4.5,5,"Winter Warmer",4.5,4.5,"Red Racer Limited Edition Winter Ale",7,46573
+"86",10321,"Central City Brewing",1322911780,4,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"87",10321,"Central City Brewing",1312596202,4,4.5,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"88",10321,"Central City Brewing",1300152548,4,4,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"89",10321,"Central City Brewing",1309038110,4.5,4.5,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
+"90",10321,"Central City Brewing",1308638302,4,4,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
+"91",10321,"Central City Brewing",1306885631,4.5,4.5,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"92",10321,"Central City Brewing",1304138491,4.5,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"93",10321,"Central City Brewing",1302978550,4.5,4,5,"Winter Warmer",5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"94",10321,"Central City Brewing",1301171032,4,3.5,4,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
+"95",10321,"Central City Brewing",1300302051,4,4,4,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"96",10321,"Central City Brewing",1294614633,4,4,3.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"97",10321,"Central City Brewing",1292787250,4.5,4,4.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"98",10321,"Central City Brewing",1292544101,3.5,4,4.5,"Winter Warmer",3.5,3,"Red Racer Limited Edition Winter Ale",7,46573
+"99",10321,"Central City Brewing",1277524265,4,4,4,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
+"100",10321,"Central City Brewing",1276922900,4.5,4,4,"Winter Warmer",4.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"101",10321,"Central City Brewing",1273976939,4,3,3.5,"Winter Warmer",4,3.5,"Red Racer Limited Edition Winter Ale",7,46573
+"102",10321,"Central City Brewing",1271804073,4.5,4.5,4,"Winter Warmer",4,4.5,"Red Racer Limited Edition Winter Ale",7,46573
+"103",10321,"Central City Brewing",1270356194,4,4,4.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"104",10321,"Central City Brewing",1264909010,4,3.5,4,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"105",10321,"Central City Brewing",1260135890,3.5,3.5,3.5,"Winter Warmer",3.5,4,"Red Racer Limited Edition Winter Ale",7,46573
+"106",10321,"Central City Brewing",1242839461,4.5,5,5,"Winter Warmer",5,5,"Red Racer Limited Edition Winter Ale",7,46573
+"107",10321,"Central City Brewing",1241752488,4,4,3.5,"Winter Warmer",4,4,"Red Racer Limited Edition Winter Ale",7,46573
+"108",10321,"Central City Brewing",1229136826,4,4.5,4,"Winter Warmer",3.5,4.5,"Red Racer Limited Edition Winter Ale",7,46573
+"109",10321,"Central City Brewing",1325854440,4,4,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"110",10321,"Central City Brewing",1322591630,3.5,3,3,"Pumpkin Ale",3.5,3.5,"Red Racer Pumpkin Ale",5,53924
+"111",10321,"Central City Brewing",1321761462,3,4,4,"Pumpkin Ale",3.5,2.5,"Red Racer Pumpkin Ale",5,53924
+"112",10321,"Central City Brewing",1317356880,4.5,4.5,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"113",10321,"Central City Brewing",1311819485,4,4,4,"Pumpkin Ale",3.5,4.5,"Red Racer Pumpkin Ale",5,53924
+"114",10321,"Central City Brewing",1308274438,4.5,4,4.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"115",10321,"Central City Brewing",1303784839,4,4.5,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"116",10321,"Central City Brewing",1302973634,4,4,5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"117",10321,"Central City Brewing",1300326465,3.5,3.5,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
+"118",10321,"Central City Brewing",1295741156,4,4,3,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
+"119",10321,"Central City Brewing",1295070224,3.5,4,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
+"120",10321,"Central City Brewing",1292202928,3.5,4,4.5,"Pumpkin Ale",3.5,4.5,"Red Racer Pumpkin Ale",5,53924
+"121",10321,"Central City Brewing",1291953514,4,4,4,"Pumpkin Ale",4,3.5,"Red Racer Pumpkin Ale",5,53924
+"122",10321,"Central City Brewing",1272829599,4,4,4.5,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
+"123",10321,"Central City Brewing",1271804030,4.5,4,4,"Pumpkin Ale",3.5,4,"Red Racer Pumpkin Ale",5,53924
+"124",10321,"Central City Brewing",1270515491,4.5,3.5,4,"Pumpkin Ale",4.5,4,"Red Racer Pumpkin Ale",5,53924
+"125",10321,"Central City Brewing",1270094286,4,4,3.5,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"126",10321,"Central City Brewing",1265076594,4.5,4.5,3.5,"Pumpkin Ale",3,4,"Red Racer Pumpkin Ale",5,53924
+"127",10321,"Central City Brewing",1259723345,4,4,3,"Pumpkin Ale",4.5,4,"Red Racer Pumpkin Ale",5,53924
+"128",10321,"Central City Brewing",1259092126,4,4,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"129",10321,"Central City Brewing",1258336333,4,4.5,4,"Pumpkin Ale",3,4,"Red Racer Pumpkin Ale",5,53924
+"130",10321,"Central City Brewing",1257407767,4.5,4,4,"Pumpkin Ale",4,4,"Red Racer Pumpkin Ale",5,53924
+"131",10321,"Central City Brewing",1298134273,3.5,4.5,3.5,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
+"132",10321,"Central City Brewing",1297923534,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"133",10321,"Central City Brewing",1297908960,3.5,2.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"134",10321,"Central City Brewing",1297625929,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"135",10321,"Central City Brewing",1297480164,4.5,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"136",10321,"Central City Brewing",1297464381,4,3.5,4,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
+"137",10321,"Central City Brewing",1297235621,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"138",10321,"Central City Brewing",1296980126,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"139",10321,"Central City Brewing",1296962877,5,3.5,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"140",10321,"Central City Brewing",1296927903,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"141",10321,"Central City Brewing",1296662567,3,3,3.5,"American IPA",3,3,"Red Racer IPA",6.5,49058
+"142",10321,"Central City Brewing",1296368412,4.5,4,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"143",10321,"Central City Brewing",1296347382,5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"144",10321,"Central City Brewing",1296005861,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"145",10321,"Central City Brewing",1296005760,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"146",10321,"Central City Brewing",1295930323,4.5,5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"147",10321,"Central City Brewing",1295864990,4,3.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"148",10321,"Central City Brewing",1295526745,4,3.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"149",10321,"Central City Brewing",1295488641,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"150",10321,"Central City Brewing",1295398815,4.5,4.5,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"151",10321,"Central City Brewing",1295319678,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"152",10321,"Central City Brewing",1295309659,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"153",10321,"Central City Brewing",1295052451,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"154",10321,"Central City Brewing",1294984470,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"155",10321,"Central City Brewing",1294891447,4,4.5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"156",10321,"Central City Brewing",1294633999,5,4.5,3,"American IPA",2.5,4.5,"Red Racer IPA",6.5,49058
+"157",10321,"Central City Brewing",1294587403,5,4.5,3.5,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"158",10321,"Central City Brewing",1286606695,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"159",10321,"Central City Brewing",1294547597,4.5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"160",10321,"Central City Brewing",1294543289,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"161",10321,"Central City Brewing",1294443311,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"162",10321,"Central City Brewing",1293947576,5,4.5,3.5,"American IPA",3.5,5,"Red Racer IPA",6.5,49058
+"163",10321,"Central City Brewing",1293759252,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"164",10321,"Central City Brewing",1293598853,5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"165",10321,"Central City Brewing",1293566340,4,3.5,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"166",10321,"Central City Brewing",1286062339,5,3.5,3,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"167",10321,"Central City Brewing",1293507920,4.5,3.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"168",10321,"Central City Brewing",1292983816,3,4,2.5,"American IPA",2,4.5,"Red Racer IPA",6.5,49058
+"169",10321,"Central City Brewing",1292889993,4,4.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"170",10321,"Central City Brewing",1292727303,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"171",10321,"Central City Brewing",1292125502,3.5,3.5,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
+"172",10321,"Central City Brewing",1291954208,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"173",10321,"Central City Brewing",1291606973,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"174",10321,"Central City Brewing",1291519757,4,4.5,3.5,"American IPA",2,4,"Red Racer IPA",6.5,49058
+"175",10321,"Central City Brewing",1291348643,4,4.5,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"176",10321,"Central City Brewing",1291065197,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"177",10321,"Central City Brewing",1291000801,3.5,4,4,"American IPA",3,4,"Red Racer IPA",6.5,49058
+"178",10321,"Central City Brewing",1290653732,4,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"179",10321,"Central City Brewing",1290134174,4,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"180",10321,"Central City Brewing",1289956643,5,3.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"181",10321,"Central City Brewing",1289688031,4.5,3,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"182",10321,"Central City Brewing",1289684660,4,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"183",10321,"Central City Brewing",1289608285,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"184",10321,"Central City Brewing",1289534255,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"185",10321,"Central City Brewing",1284853370,3.5,3.5,3.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"186",10321,"Central City Brewing",1289524768,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"187",10321,"Central City Brewing",1289434360,3.5,3.5,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"188",10321,"Central City Brewing",1289364601,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"189",10321,"Central City Brewing",1289275913,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"190",10321,"Central City Brewing",1289184520,4,4,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"191",10321,"Central City Brewing",1289096580,3.5,3.5,4,"American IPA",4,3,"Red Racer IPA",6.5,49058
+"192",10321,"Central City Brewing",1289055867,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"193",10321,"Central City Brewing",1288958963,4.5,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"194",10321,"Central City Brewing",1288836381,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"195",10321,"Central City Brewing",1284839449,4,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"196",10321,"Central City Brewing",1288566354,5,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"197",10321,"Central City Brewing",1288468587,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"198",10321,"Central City Brewing",1288235262,3.5,3.5,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"199",10321,"Central City Brewing",1287953225,5,4.5,4.5,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"200",10321,"Central City Brewing",1287887509,4.5,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"201",10321,"Central City Brewing",1287505260,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"202",10321,"Central City Brewing",1287317309,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"203",10321,"Central City Brewing",1287020721,5,4.5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"204",10321,"Central City Brewing",1286850438,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"205",10321,"Central City Brewing",1285978252,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"206",10321,"Central City Brewing",1285747541,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"207",10321,"Central City Brewing",1285377144,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"208",10321,"Central City Brewing",1285206058,4,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
+"209",10321,"Central City Brewing",1284944527,4,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"210",10321,"Central City Brewing",1284872732,4.5,4,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"211",10321,"Central City Brewing",1284750487,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"212",10321,"Central City Brewing",1284686391,5,3.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"213",10321,"Central City Brewing",1284595962,4,3.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"214",10321,"Central City Brewing",1284164499,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"215",10321,"Central City Brewing",1283985176,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"216",10321,"Central City Brewing",1283741072,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"217",10321,"Central City Brewing",1283483828,3.5,3.5,4.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"218",10321,"Central City Brewing",1283308664,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"219",10321,"Central City Brewing",1283275126,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"220",10321,"Central City Brewing",1283194493,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"221",10321,"Central City Brewing",1283039255,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"222",10321,"Central City Brewing",1282944330,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"223",10321,"Central City Brewing",1282809929,4,3.5,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"224",10321,"Central City Brewing",1282787889,5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"225",10321,"Central City Brewing",1282767953,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"226",10321,"Central City Brewing",1282726204,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"227",10321,"Central City Brewing",1282672161,4.5,5,5,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"228",10321,"Central City Brewing",1282626725,5,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
+"229",10321,"Central City Brewing",1282362207,5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"230",10321,"Central City Brewing",1282190669,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"231",10321,"Central City Brewing",1325627213,5,4.5,5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"232",10321,"Central City Brewing",1324933570,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"233",10321,"Central City Brewing",1323484438,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"234",10321,"Central City Brewing",1322341631,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"235",10321,"Central City Brewing",1321850454,4,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"236",10321,"Central City Brewing",1280149909,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"237",10321,"Central City Brewing",1321682231,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"238",10321,"Central City Brewing",1321676912,4,3,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"239",10321,"Central City Brewing",1321578910,4,4,4,"American IPA",3,4,"Red Racer IPA",6.5,49058
+"240",10321,"Central City Brewing",1321323464,4.5,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"241",10321,"Central City Brewing",1321159222,4,4.5,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"242",10321,"Central City Brewing",1282172898,5,5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"243",10321,"Central City Brewing",1279931519,4,4,4,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"244",10321,"Central City Brewing",1282159140,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"245",10321,"Central City Brewing",1282157193,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"246",10321,"Central City Brewing",1282116975,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"247",10321,"Central City Brewing",1281760094,3.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"248",10321,"Central City Brewing",1281671031,4,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"249",10321,"Central City Brewing",1281581288,4,3.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"250",10321,"Central City Brewing",1281486092,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"251",10321,"Central City Brewing",1281386922,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"252",10321,"Central City Brewing",1281277888,2.5,3,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
+"253",10321,"Central City Brewing",1281218610,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"254",10321,"Central City Brewing",1281212327,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"255",10321,"Central City Brewing",1280906477,5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"256",10321,"Central City Brewing",1280603480,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"257",10321,"Central City Brewing",1280469452,3.5,4,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"258",10321,"Central City Brewing",1280197009,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"259",10321,"Central City Brewing",1280170990,4,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"260",10321,"Central City Brewing",1279579656,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"261",10321,"Central City Brewing",1279326586,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"262",10321,"Central City Brewing",1278817416,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"263",10321,"Central City Brewing",1278644514,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"264",10321,"Central City Brewing",1278465020,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"265",10321,"Central City Brewing",1278298568,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"266",10321,"Central City Brewing",1278001730,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"267",10321,"Central City Brewing",1277862118,4.5,4,3,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"268",10321,"Central City Brewing",1277772485,4,3.5,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"269",10321,"Central City Brewing",1277663436,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"270",10321,"Central City Brewing",1277598750,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"271",10321,"Central City Brewing",1277597718,3.5,3.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"272",10321,"Central City Brewing",1277590213,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"273",10321,"Central City Brewing",1277519741,4,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"274",10321,"Central City Brewing",1277517200,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"275",10321,"Central City Brewing",1277507042,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"276",10321,"Central City Brewing",1277415769,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"277",10321,"Central City Brewing",1277088104,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"278",10321,"Central City Brewing",1277004293,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"279",10321,"Central City Brewing",1276923211,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"280",10321,"Central City Brewing",1276817007,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"281",10321,"Central City Brewing",1276753312,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"282",10321,"Central City Brewing",1276539577,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"283",10321,"Central City Brewing",1276305113,4,4,3.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"284",10321,"Central City Brewing",1276122132,4,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"285",10321,"Central City Brewing",1275958704,5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"286",10321,"Central City Brewing",1275878484,4,4,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"287",10321,"Central City Brewing",1275715636,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"288",10321,"Central City Brewing",1275514000,4,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"289",10321,"Central City Brewing",1275481293,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"290",10321,"Central City Brewing",1275421974,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"291",10321,"Central City Brewing",1275409430,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"292",10321,"Central City Brewing",1275361197,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"293",10321,"Central City Brewing",1275274324,4.5,4.5,4,"American IPA",5,4,"Red Racer IPA",6.5,49058
+"294",10321,"Central City Brewing",1275269976,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"295",10321,"Central City Brewing",1275184572,5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"296",10321,"Central City Brewing",1275141385,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"297",10321,"Central City Brewing",1275110643,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"298",10321,"Central City Brewing",1275089871,4.5,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"299",10321,"Central City Brewing",1274933582,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"300",10321,"Central City Brewing",1274924373,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"301",10321,"Central City Brewing",1274741635,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"302",10321,"Central City Brewing",1274714367,5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"303",10321,"Central City Brewing",1274657899,5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"304",10321,"Central City Brewing",1274628086,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"305",10321,"Central City Brewing",1248319032,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"306",10321,"Central City Brewing",1274566195,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"307",10321,"Central City Brewing",1274501603,3.5,4,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"308",10321,"Central City Brewing",1274492187,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"309",10321,"Central City Brewing",1274481678,5,4,4,"American IPA",3,3,"Red Racer IPA",6.5,49058
+"310",10321,"Central City Brewing",1274381262,4.5,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"311",10321,"Central City Brewing",1274139041,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"312",10321,"Central City Brewing",1273869236,5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"313",10321,"Central City Brewing",1271963474,5,5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"314",10321,"Central City Brewing",1273729856,4,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"315",10321,"Central City Brewing",1273358384,4.5,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"316",10321,"Central City Brewing",1272851562,4.5,4.5,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"317",10321,"Central City Brewing",1272818421,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"318",10321,"Central City Brewing",1272659363,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"319",10321,"Central City Brewing",1272588579,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"320",10321,"Central City Brewing",1272587669,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"321",10321,"Central City Brewing",1272476155,5,5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"322",10321,"Central City Brewing",1272397541,5,4.5,4,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"323",10321,"Central City Brewing",1271810819,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"324",10321,"Central City Brewing",1271807922,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"325",10321,"Central City Brewing",1271552465,4,4.5,4.5,"American IPA",3,4.5,"Red Racer IPA",6.5,49058
+"326",10321,"Central City Brewing",1271300423,4.5,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"327",10321,"Central City Brewing",1270929299,4,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"328",10321,"Central City Brewing",1270851850,4,4,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"329",10321,"Central City Brewing",1270721143,4,4,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"330",10321,"Central City Brewing",1270527723,3.5,3.5,4,"American IPA",4,3,"Red Racer IPA",6.5,49058
+"331",10321,"Central City Brewing",1270434476,4,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"332",10321,"Central City Brewing",1270252908,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"333",10321,"Central City Brewing",1270009805,5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"334",10321,"Central City Brewing",1269904168,4.5,4,4.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"335",10321,"Central City Brewing",1269746293,5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"336",10321,"Central City Brewing",1269730399,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"337",10321,"Central City Brewing",1269575535,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"338",10321,"Central City Brewing",1269560013,3.5,5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"339",10321,"Central City Brewing",1269377455,4,5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"340",10321,"Central City Brewing",1269241045,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"341",10321,"Central City Brewing",1268972168,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"342",10321,"Central City Brewing",1321032122,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"343",10321,"Central City Brewing",1320808221,3.5,3.5,4.5,"American IPA",4,3,"Red Racer IPA",6.5,49058
+"344",10321,"Central City Brewing",1320620140,4.5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"345",10321,"Central City Brewing",1320469691,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"346",10321,"Central City Brewing",1320374346,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"347",10321,"Central City Brewing",1319862129,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"348",10321,"Central City Brewing",1319603708,4.5,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"349",10321,"Central City Brewing",1319072901,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"350",10321,"Central City Brewing",1319056109,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"351",10321,"Central City Brewing",1318195579,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"352",10321,"Central City Brewing",1268967482,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"353",10321,"Central City Brewing",1268697849,5,4.5,3.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"354",10321,"Central City Brewing",1268592591,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"355",10321,"Central City Brewing",1268546732,4,4,3.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"356",10321,"Central City Brewing",1261773927,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"357",10321,"Central City Brewing",1268518488,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"358",10321,"Central City Brewing",1268515448,4.5,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"359",10321,"Central City Brewing",1268346755,4.5,5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"360",10321,"Central City Brewing",1268260235,5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"361",10321,"Central City Brewing",1268060566,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"362",10321,"Central City Brewing",1268016884,4,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"363",10321,"Central City Brewing",1267673517,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"364",10321,"Central City Brewing",1261662261,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"365",10321,"Central City Brewing",1267668494,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"366",10321,"Central City Brewing",1267647309,4,4.5,4.5,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"367",10321,"Central City Brewing",1267586802,4,4,4.5,"American IPA",3.5,3.5,"Red Racer IPA",6.5,49058
+"368",10321,"Central City Brewing",1267236100,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"369",10321,"Central City Brewing",1267061555,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"370",10321,"Central City Brewing",1266991027,4.5,4.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"371",10321,"Central City Brewing",1266822373,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"372",10321,"Central City Brewing",1266627796,5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"373",10321,"Central City Brewing",1266370520,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"374",10321,"Central City Brewing",1266219480,4.5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"375",10321,"Central City Brewing",1266038246,4,5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"376",10321,"Central City Brewing",1265957574,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"377",10321,"Central City Brewing",1265865425,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"378",10321,"Central City Brewing",1265783656,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"379",10321,"Central City Brewing",1265779699,5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"380",10321,"Central City Brewing",1260987191,4.5,5,5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"381",10321,"Central City Brewing",1265417914,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"382",10321,"Central City Brewing",1265256030,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"383",10321,"Central City Brewing",1265067074,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"384",10321,"Central City Brewing",1264808748,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"385",10321,"Central City Brewing",1264742176,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"386",10321,"Central City Brewing",1264730518,4,4,5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"387",10321,"Central City Brewing",1264113810,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"388",10321,"Central City Brewing",1264035933,4.5,4,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"389",10321,"Central City Brewing",1260917741,4.5,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"390",10321,"Central City Brewing",1263835669,4,4.5,5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"391",10321,"Central City Brewing",1262742730,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"392",10321,"Central City Brewing",1262702440,4.5,3.5,5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"393",10321,"Central City Brewing",1262501419,5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"394",10321,"Central City Brewing",1262230489,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"395",10321,"Central City Brewing",1262223084,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"396",10321,"Central City Brewing",1260504739,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"397",10321,"Central City Brewing",1260502194,4.5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"398",10321,"Central City Brewing",1259958308,4.5,4.5,4,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"399",10321,"Central City Brewing",1259707746,5,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"400",10321,"Central City Brewing",1259680551,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"401",10321,"Central City Brewing",1259620189,4.5,4.5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"402",10321,"Central City Brewing",1259537957,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"403",10321,"Central City Brewing",1259536513,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"404",10321,"Central City Brewing",1259158615,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"405",10321,"Central City Brewing",1258501373,4,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"406",10321,"Central City Brewing",1258327251,3.5,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"407",10321,"Central City Brewing",1258256441,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"408",10321,"Central City Brewing",1257987773,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"409",10321,"Central City Brewing",1257706220,5,5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"410",10321,"Central City Brewing",1257287488,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"411",10321,"Central City Brewing",1257231118,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"412",10321,"Central City Brewing",1256785806,5,4.5,4,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"413",10321,"Central City Brewing",1256574945,5,5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"414",10321,"Central City Brewing",1255994378,5,4.5,4.5,"American IPA",4,5,"Red Racer IPA",6.5,49058
+"415",10321,"Central City Brewing",1255892000,4.5,4,4.5,"American IPA",5,4,"Red Racer IPA",6.5,49058
+"416",10321,"Central City Brewing",1255572828,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"417",10321,"Central City Brewing",1255292806,4,3.5,4,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"418",10321,"Central City Brewing",1255214113,4.5,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"419",10321,"Central City Brewing",1254862608,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"420",10321,"Central City Brewing",1254184431,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"421",10321,"Central City Brewing",1252894696,5,5,4.5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"422",10321,"Central City Brewing",1250390959,4,3.5,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"423",10321,"Central City Brewing",1249953715,4.5,5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"424",10321,"Central City Brewing",1249943239,4,4.5,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"425",10321,"Central City Brewing",1249177743,4.5,4.5,4,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"426",10321,"Central City Brewing",1248564745,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"427",10321,"Central City Brewing",1248116115,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"428",10321,"Central City Brewing",1246649627,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"429",10321,"Central City Brewing",1246403877,4,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"430",10321,"Central City Brewing",1243716709,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"431",10321,"Central City Brewing",1239334366,5,5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"432",10321,"Central City Brewing",1229800214,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"433",10321,"Central City Brewing",1215993212,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"434",10321,"Central City Brewing",1133534266,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"435",10321,"Central City Brewing",1318105842,3,2.5,4,"American IPA",4,3.5,"Red Racer IPA",6.5,49058
+"436",10321,"Central City Brewing",1316907448,4.5,5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"437",10321,"Central City Brewing",1316837278,4,4,4,"American IPA",3.5,4.5,"Red Racer IPA",6.5,49058
+"438",10321,"Central City Brewing",1316133546,4.5,5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"439",10321,"Central City Brewing",1315339300,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"440",10321,"Central City Brewing",1315186773,4,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"441",10321,"Central City Brewing",1315173137,4,4,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"442",10321,"Central City Brewing",1315093638,4,4.5,3,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"443",10321,"Central City Brewing",1314758895,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"444",10321,"Central City Brewing",1314150606,4,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"445",10321,"Central City Brewing",1314075542,4.5,4.5,4.5,"American IPA",5,4.5,"Red Racer IPA",6.5,49058
+"446",10321,"Central City Brewing",1313637125,4,4,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"447",10321,"Central City Brewing",1313556879,4.5,4.5,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"448",10321,"Central City Brewing",1313530228,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"449",10321,"Central City Brewing",1313377678,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"450",10321,"Central City Brewing",1313353430,4.5,4,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"451",10321,"Central City Brewing",1313343477,4.5,5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"452",10321,"Central City Brewing",1312767316,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"453",10321,"Central City Brewing",1312664815,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"454",10321,"Central City Brewing",1312412028,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"455",10321,"Central City Brewing",1312235598,4,4.5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"456",10321,"Central City Brewing",1311863058,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"457",10321,"Central City Brewing",1311472901,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"458",10321,"Central City Brewing",1311123505,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"459",10321,"Central City Brewing",1310434460,4,4,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"460",10321,"Central City Brewing",1310407877,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"461",10321,"Central City Brewing",1310079221,4.5,4.5,5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"462",10321,"Central City Brewing",1309310200,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"463",10321,"Central City Brewing",1309298176,5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"464",10321,"Central City Brewing",1308551519,4.5,5,4.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"465",10321,"Central City Brewing",1308450812,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"466",10321,"Central City Brewing",1308287708,4.5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"467",10321,"Central City Brewing",1307834252,4.5,4,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"468",10321,"Central City Brewing",1307413988,5,4.5,4,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"469",10321,"Central City Brewing",1307162557,5,4.5,4.5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"470",10321,"Central City Brewing",1306698582,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"471",10321,"Central City Brewing",1306679548,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"472",10321,"Central City Brewing",1306376074,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"473",10321,"Central City Brewing",1305994084,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"474",10321,"Central City Brewing",1305671638,4,5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"475",10321,"Central City Brewing",1305595257,4,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"476",10321,"Central City Brewing",1320978293,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"477",10321,"Central City Brewing",1305340073,4,4,4,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"478",10321,"Central City Brewing",1305252898,4.5,5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"479",10321,"Central City Brewing",1304872634,4.5,4,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"480",10321,"Central City Brewing",1304828078,4.5,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"481",10321,"Central City Brewing",1304564273,3,3,3.5,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
+"482",10321,"Central City Brewing",1304462667,4,4,5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"483",10321,"Central City Brewing",1304282830,4,4.5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"484",10321,"Central City Brewing",1304107842,4,4.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"485",10321,"Central City Brewing",1303432632,4,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"486",10321,"Central City Brewing",1303006421,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"487",10321,"Central City Brewing",1302666268,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"488",10321,"Central City Brewing",1302479560,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"489",10321,"Central City Brewing",1302141122,5,4.5,5,"American IPA",5,5,"Red Racer IPA",6.5,49058
+"490",10321,"Central City Brewing",1301664052,4,4.5,4.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"491",10321,"Central City Brewing",1301624941,4,4,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"492",10321,"Central City Brewing",1301275532,4.5,4.5,3.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"493",10321,"Central City Brewing",1300929608,4.5,5,3.5,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"494",10321,"Central City Brewing",1300679818,4,3.5,5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"495",10321,"Central City Brewing",1300631341,5,5,5,"American IPA",4.5,5,"Red Racer IPA",6.5,49058
+"496",10321,"Central City Brewing",1300597685,4,4.5,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"497",10321,"Central City Brewing",1300588627,3,4,4,"American IPA",2.5,3,"Red Racer IPA",6.5,49058
+"498",10321,"Central City Brewing",1300470602,4.5,4,4.5,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"499",10321,"Central City Brewing",1300283948,4,4,4,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"500",10321,"Central City Brewing",1300039598,4.5,4.5,4.5,"American IPA",4.5,4.5,"Red Racer IPA",6.5,49058
+"501",10321,"Central City Brewing",1299442302,4,3,4,"American IPA",3,3.5,"Red Racer IPA",6.5,49058
+"502",10321,"Central City Brewing",1299339300,4.5,4,4,"American IPA",4,4.5,"Red Racer IPA",6.5,49058
+"503",10321,"Central City Brewing",1298907322,4.5,4.5,3.5,"American IPA",4.5,4,"Red Racer IPA",6.5,49058
+"504",10321,"Central City Brewing",1298835391,3.5,3.5,4,"American IPA",4,4,"Red Racer IPA",6.5,49058
+"505",10321,"Central City Brewing",1298476193,3.5,4,3.5,"American IPA",3.5,4,"Red Racer IPA",6.5,49058
+"506",10321,"Central City Brewing",1323975883,4.5,4.5,4,"English Barleywine",4,4.5,"Thor's Hammer Barley Wine",10.25,52943
+"507",10321,"Central City Brewing",1298440111,4,4.5,4,"English Barleywine",4,4,"Thor's Hammer Barley Wine",10.25,52943
+"508",10321,"Central City Brewing",1293338892,3.5,4,4,"English Barleywine",4.5,4,"Thor's Hammer Barley Wine",10.25,52943
+"509",10321,"Central City Brewing",1287503587,4.5,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
+"510",10321,"Central City Brewing",1300848694,4.5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"511",10321,"Central City Brewing",1287075898,4,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
+"512",10321,"Central City Brewing",1287073375,4.5,4.5,4,"English Barleywine",4.5,4.5,"Thor's Hammer Barley Wine",10.25,52943
+"513",10321,"Central City Brewing",1254005909,3.5,4,3,"English Barleywine",4,4,"Thor's Hammer Barley Wine",10.25,52943
+"514",10321,"Central City Brewing",1325987776,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
+"515",10321,"Central City Brewing",1324757243,4,4,5,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
+"516",10321,"Central City Brewing",1323843831,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"517",10321,"Central City Brewing",1314663671,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"518",10321,"Central City Brewing",1312052075,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
+"519",10321,"Central City Brewing",1308515431,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
+"520",10321,"Central City Brewing",1307974258,3.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
+"521",10321,"Central City Brewing",1307746307,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"522",10321,"Central City Brewing",1307310477,3,3.5,4.5,"Extra Special / Strong Bitter (ESB)",3.5,3,"Red Racer ESB",6.5,26380
+"523",10321,"Central City Brewing",1305432937,4,4,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
+"524",10321,"Central City Brewing",1305246183,4,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
+"525",10321,"Central City Brewing",1303085308,4,4.5,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"526",10321,"Central City Brewing",1300512036,4,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
+"527",10321,"Central City Brewing",1298517101,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
+"528",10321,"Central City Brewing",1298075168,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
+"529",10321,"Central City Brewing",1297998183,4.5,4,4,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Red Racer ESB",6.5,26380
+"530",10321,"Central City Brewing",1296786068,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"531",10321,"Central City Brewing",1294122235,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
+"532",10321,"Central City Brewing",1293951251,4,4,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"533",10321,"Central City Brewing",1293517025,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"Red Racer ESB",6.5,26380
+"534",10321,"Central City Brewing",1293398519,4,3.5,4.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"535",10321,"Central City Brewing",1292434816,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Red Racer ESB",6.5,26380
+"536",10321,"Central City Brewing",1292116481,4.5,4,4.5,"Extra Special / Strong Bitter (ESB)",5,4.5,"Red Racer ESB",6.5,26380
+"537",10321,"Central City Brewing",1287447601,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Red Racer ESB",6.5,26380
+"538",10321,"Central City Brewing",1286927213,3.5,4,4.5,"Extra Special / Strong Bitter (ESB)",3,4,"Red Racer ESB",6.5,26380
+"539",10321,"Central City Brewing",1284239901,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"540",10321,"Central City Brewing",1275878915,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"541",10321,"Central City Brewing",1266733103,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
+"542",10321,"Central City Brewing",1258439481,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Red Racer ESB",6.5,26380
+"543",10321,"Central City Brewing",1254793389,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,5,"Red Racer ESB",6.5,26380
+"544",10321,"Central City Brewing",1235956771,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Red Racer ESB",6.5,26380
+"545",10321,"Central City Brewing",1129245726,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Red Racer ESB",6.5,26380
+"546",10321,"Central City Brewing",1325965692,4,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"547",10321,"Central City Brewing",1325769112,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"548",10321,"Central City Brewing",1318476828,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"549",10321,"Central City Brewing",1316760021,4,4,4.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"550",10321,"Central City Brewing",1315269878,4.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"551",10321,"Central City Brewing",1314463207,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"552",10321,"Central City Brewing",1311385555,4,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"553",10321,"Central City Brewing",1310263256,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"554",10321,"Central City Brewing",1309713414,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"555",10321,"Central City Brewing",1309323381,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"556",10321,"Central City Brewing",1306694276,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"557",10321,"Central City Brewing",1306640005,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"558",10321,"Central City Brewing",1276557287,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"559",10321,"Central City Brewing",1304281101,4,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"560",10321,"Central City Brewing",1303596747,5,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"561",10321,"Central City Brewing",1303511502,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
+"562",10321,"Central City Brewing",1300763638,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Red Racer Pale Ale",5,42312
+"563",10321,"Central City Brewing",1300758353,2.5,3.5,4,"American Pale Ale (APA)",4,3,"Red Racer Pale Ale",5,42312
+"564",10321,"Central City Brewing",1300508682,3,4,3,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
+"565",10321,"Central City Brewing",1300157998,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"566",10321,"Central City Brewing",1300046845,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"567",10321,"Central City Brewing",1299026614,4.5,4,4,"American Pale Ale (APA)",5,4.5,"Red Racer Pale Ale",5,42312
+"568",10321,"Central City Brewing",1270082641,4,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"569",10321,"Central City Brewing",1297229471,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"570",10321,"Central City Brewing",1297200251,3.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"571",10321,"Central City Brewing",1294634333,4.5,3,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"572",10321,"Central City Brewing",1294024352,2.5,4,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
+"573",10321,"Central City Brewing",1293608911,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"574",10321,"Central City Brewing",1293566645,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
+"575",10321,"Central City Brewing",1292121447,3,4,4.5,"American Pale Ale (APA)",2.5,2.5,"Red Racer Pale Ale",5,42312
+"576",10321,"Central City Brewing",1289603606,4,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"577",10321,"Central City Brewing",1288574267,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"578",10321,"Central City Brewing",1216091079,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"579",10321,"Central City Brewing",1287619614,4,4,3,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
+"580",10321,"Central City Brewing",1287502949,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"581",10321,"Central City Brewing",1287205696,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
+"582",10321,"Central City Brewing",1287078305,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312
+"583",10321,"Central City Brewing",1286935833,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"584",10321,"Central City Brewing",1286850632,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"585",10321,"Central City Brewing",1286673395,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"586",10321,"Central City Brewing",1286156024,3,3,4,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
+"587",10321,"Central City Brewing",1285435415,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
+"588",10321,"Central City Brewing",1284249705,2,3.5,4,"American Pale Ale (APA)",1.5,2,"Red Racer Pale Ale",5,42312
+"589",10321,"Central City Brewing",1283708518,3,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"590",10321,"Central City Brewing",1283473360,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"591",10321,"Central City Brewing",1283226713,4,4,3.5,"American Pale Ale (APA)",3,4,"Red Racer Pale Ale",5,42312
+"592",10321,"Central City Brewing",1282768831,2.5,3,4,"American Pale Ale (APA)",4,2.5,"Red Racer Pale Ale",5,42312
+"593",10321,"Central City Brewing",1281484499,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"594",10321,"Central City Brewing",1281102219,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"595",10321,"Central City Brewing",1280709370,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
+"596",10321,"Central City Brewing",1279936363,3,3.5,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
+"597",10321,"Central City Brewing",1279678581,4,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"598",10321,"Central City Brewing",1279573508,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"599",10321,"Central City Brewing",1278820464,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"600",10321,"Central City Brewing",1278716407,4.5,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"601",10321,"Central City Brewing",1278277265,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"602",10321,"Central City Brewing",1277926220,3,3.5,3,"American Pale Ale (APA)",3.5,3,"Red Racer Pale Ale",5,42312
+"603",10321,"Central City Brewing",1276835493,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"604",10321,"Central City Brewing",1276697056,4,4,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"605",10321,"Central City Brewing",1274828722,4,3.5,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
+"606",10321,"Central City Brewing",1274407599,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"607",10321,"Central City Brewing",1274290526,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Red Racer Pale Ale",5,42312
+"608",10321,"Central City Brewing",1273353306,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"609",10321,"Central City Brewing",1273110874,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"610",10321,"Central City Brewing",1272831454,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"611",10321,"Central City Brewing",1272575643,4,4.5,3.5,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"612",10321,"Central City Brewing",1270936888,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"613",10321,"Central City Brewing",1269791074,4.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"614",10321,"Central City Brewing",1269572443,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"615",10321,"Central City Brewing",1267998778,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Red Racer Pale Ale",5,42312
+"616",10321,"Central City Brewing",1267400464,3,2.5,3.5,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
+"617",10321,"Central City Brewing",1267235060,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"618",10321,"Central City Brewing",1265414284,3,4,4,"American Pale Ale (APA)",3,3,"Red Racer Pale Ale",5,42312
+"619",10321,"Central City Brewing",1262215281,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"620",10321,"Central City Brewing",1261864070,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312
+"621",10321,"Central City Brewing",1261840012,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"622",10321,"Central City Brewing",1259990274,4.5,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"623",10321,"Central City Brewing",1258325159,4.5,4,4,"American Pale Ale (APA)",3,4,"Red Racer Pale Ale",5,42312
+"624",10321,"Central City Brewing",1209076049,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"625",10321,"Central City Brewing",1256255355,3.5,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"626",10321,"Central City Brewing",1255735171,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Red Racer Pale Ale",5,42312
+"627",10321,"Central City Brewing",1253643590,4,4,4,"American Pale Ale (APA)",3.5,4,"Red Racer Pale Ale",5,42312
+"628",10321,"Central City Brewing",1251219621,4,4.5,4,"American Pale Ale (APA)",4,3.5,"Red Racer Pale Ale",5,42312
+"629",10321,"Central City Brewing",1238217300,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"630",10321,"Central City Brewing",1229799952,4,4.5,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"631",10321,"Central City Brewing",1228148627,4,4,4,"American Pale Ale (APA)",4,4,"Red Racer Pale Ale",5,42312
+"632",10321,"Central City Brewing",1216761283,4,4,3.5,"American Pale Ale (APA)",4,4.5,"Red Racer Pale Ale",5,42312

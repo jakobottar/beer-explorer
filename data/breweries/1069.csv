@@ -1,63 +1,29 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1069,"Elliott Bay Brewing Co.",1252730045,3.5,3.5,3.5,"American Amber / Red Ale",4,4,"Burien Batch 200",8.3,52566
-"2",1069,"Elliott Bay Brewing Co.",1252735925,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Red Von Boorien",NA,52573
-"3",1069,"Elliott Bay Brewing Co.",1267927251,4,4,4,"American Barleywine",4,4,"Pro-Am",NA,56621
-"4",1069,"Elliott Bay Brewing Co.",1252729248,3,3.5,3.5,"Rye Beer",3,3,"RyePA",NA,52565
-"5",1069,"Elliott Bay Brewing Co.",1061482446,4.5,4,4,"American Pale Ale (APA)",4,4,"Klondike Gold",NA,12192
-"6",1069,"Elliott Bay Brewing Co.",1252726608,3.5,4,4,"American IPA",4,3.5,"Elliott Bay IPA",NA,3226
-"7",1069,"Elliott Bay Brewing Co.",1241061535,4.5,4,4.5,"American IPA",4,4,"Elliott Bay IPA",NA,3226
-"8",1069,"Elliott Bay Brewing Co.",1232943469,3.5,3,4.5,"American IPA",3.5,3.5,"Elliott Bay IPA",NA,3226
-"9",1069,"Elliott Bay Brewing Co.",1225302474,4,4,4,"American IPA",4,4,"Elliott Bay IPA",NA,3226
-"10",1069,"Elliott Bay Brewing Co.",1199031013,4,3,3,"American IPA",3.5,3.5,"Elliott Bay IPA",NA,3226
-"11",1069,"Elliott Bay Brewing Co.",1178141395,3.5,3.5,3.5,"American IPA",4,4.5,"Elliott Bay IPA",NA,3226
-"12",1069,"Elliott Bay Brewing Co.",1095212325,3,3,3.5,"American IPA",3,3,"Elliott Bay IPA",NA,3226
-"13",1069,"Elliott Bay Brewing Co.",1233385374,4,3,4,"Extra Special / Strong Bitter (ESB)",3.5,4,"1492.0",NA,47605
-"14",1069,"Elliott Bay Brewing Co.",1256335081,3,3,3,"Pumpkin Ale",3,3,"Munchin' Pumpkin Ale",NA,53601
-"15",1069,"Elliott Bay Brewing Co.",1252731552,4,4,3.5,"Witbier",4,4,"Wit Von Boorian",NA,52569
-"16",1069,"Elliott Bay Brewing Co.",1131947559,4,4,4,"American Pale Ale (APA)",4,4,"Ebb Hop Harvest Ale",NA,26924
-"17",1069,"Elliott Bay Brewing Co.",1248034865,3,2.5,2.5,"American Pale Ale (APA)",3,3.5,"Sunnydale Pale",NA,51285
-"18",1069,"Elliott Bay Brewing Co.",1253245978,4,4.5,4.5,"American Double / Imperial IPA",3.5,4,"Hoppus Callosum",8.5,52697
-"19",1069,"Elliott Bay Brewing Co.",1302052404,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"One Hop Pale Ale (Sorachi Ace)",NA,67482
-"20",1069,"Elliott Bay Brewing Co.",1300934691,3.5,3.5,3,"American Pale Ale (APA)",3,4,"One Hop Pale Ale (Sorachi Ace)",NA,67482
-"21",1069,"Elliott Bay Brewing Co.",1024215686,4,4.5,4,"Fruit / Vegetable Beer",4,4,"Orange Infusion Ale",NA,4368
-"22",1069,"Elliott Bay Brewing Co.",1095620839,3.5,3,3.5,"Kölsch",3.5,3.5,"Junction Summer Ale",5,19923
-"23",1069,"Elliott Bay Brewing Co.",1288441619,4,4,4,"Pumpkin Ale",4,4,"Mashing Pumpkin",7.99,40098
-"24",1069,"Elliott Bay Brewing Co.",1197836051,3.5,3,4,"Pumpkin Ale",3.5,3.5,"Mashing Pumpkin",7.99,40098
-"25",1069,"Elliott Bay Brewing Co.",1263368097,3.5,3,4,"American Amber / Red Ale",4,4.5,"Burien Batch 200",8.3,52566
-"26",1069,"Elliott Bay Brewing Co.",1242961011,4.5,4.5,4.5,"American IPA",3.5,4,"Dry Hopped IPA",NA,36633
-"27",1069,"Elliott Bay Brewing Co.",1236401294,3,3,3,"American IPA",3,3.5,"Dry Hopped IPA",NA,36633
-"28",1069,"Elliott Bay Brewing Co.",1178141022,3,4,3.5,"American IPA",3,3.5,"Dry Hopped IPA",NA,36633
-"29",1069,"Elliott Bay Brewing Co.",1293839870,3,3,4,"Belgian IPA",3,3,"Hop Van Boorian Belgian IPA",NA,36632
-"30",1069,"Elliott Bay Brewing Co.",1285215541,4,4.5,4,"Belgian IPA",4,4.5,"Hop Van Boorian Belgian IPA",NA,36632
-"31",1069,"Elliott Bay Brewing Co.",1242996304,4,3.5,4,"Belgian IPA",4,4,"Hop Van Boorian Belgian IPA",NA,36632
-"32",1069,"Elliott Bay Brewing Co.",1233459829,3,2.5,2.5,"Belgian IPA",2.5,3,"Hop Van Boorian Belgian IPA",NA,36632
-"33",1069,"Elliott Bay Brewing Co.",1232349871,4.5,4,4,"Belgian IPA",4.5,4.5,"Hop Van Boorian Belgian IPA",NA,36632
-"34",1069,"Elliott Bay Brewing Co.",1217302463,4.5,4,4,"Belgian IPA",4,4.5,"Hop Van Boorian Belgian IPA",NA,36632
-"35",1069,"Elliott Bay Brewing Co.",1178140838,3,4,4,"Belgian IPA",3,3.5,"Hop Van Boorian Belgian IPA",NA,36632
-"36",1069,"Elliott Bay Brewing Co.",1263365761,3.5,4,4,"American Strong Ale",3.5,3.5,"Demolition Strong Ale",NA,3230
-"37",1069,"Elliott Bay Brewing Co.",1260441941,4,3.5,4,"American Strong Ale",3,3.5,"Demolition Strong Ale",NA,3230
-"38",1069,"Elliott Bay Brewing Co.",1114373185,4,3.5,4,"American Strong Ale",3.5,4.5,"Demolition Strong Ale",NA,3230
-"39",1069,"Elliott Bay Brewing Co.",1262869502,3.5,3.5,3,"Belgian Strong Pale Ale",3,3,"Gulden Von Boorian",NA,55270
-"40",1069,"Elliott Bay Brewing Co.",1314118887,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Riot Ale",8,19870
-"41",1069,"Elliott Bay Brewing Co.",1278300687,3,3.5,3.5,"American Double / Imperial IPA",3,3,"Riot Ale",8,19870
-"42",1069,"Elliott Bay Brewing Co.",1245532893,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Riot Ale",8,19870
-"43",1069,"Elliott Bay Brewing Co.",1095212884,3.5,3.5,4.5,"American Double / Imperial IPA",4,4,"Riot Ale",8,19870
-"44",1069,"Elliott Bay Brewing Co.",1292380520,3,3.5,3.5,"American Amber / Red Ale",3,3.5,"Red Von Boorien",NA,52573
-"45",1069,"Elliott Bay Brewing Co.",1291499131,3,3.5,4,"American Amber / Red Ale",3,3.5,"Red Von Boorien",NA,52573
-"46",1069,"Elliott Bay Brewing Co.",1252726119,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Alembic Pale Ale",NA,3225
-"47",1069,"Elliott Bay Brewing Co.",1246529337,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Alembic Pale Ale",NA,3225
-"48",1069,"Elliott Bay Brewing Co.",1095212151,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Alembic Pale Ale",NA,3225
-"49",1069,"Elliott Bay Brewing Co.",1266356080,3.5,3.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Hop Scotch",7.2,56166
-"50",1069,"Elliott Bay Brewing Co.",1292747766,3.5,3,3,"Hefeweizen",3,3.5,"Luna Weizen",NA,3227
-"51",1069,"Elliott Bay Brewing Co.",1252725654,3,3,3,"Hefeweizen",3.5,3.5,"Luna Weizen",NA,3227
-"52",1069,"Elliott Bay Brewing Co.",1232341250,4.5,4,4,"Hefeweizen",4.5,4.5,"Luna Weizen",NA,3227
-"53",1069,"Elliott Bay Brewing Co.",1095212436,3.5,3,3,"Hefeweizen",3.5,3.5,"Luna Weizen",NA,3227
-"54",1069,"Elliott Bay Brewing Co.",1178141128,3.5,3.5,3.5,"American Porter",4,4,"Dark Star Porter",NA,3229
-"55",1069,"Elliott Bay Brewing Co.",1252728418,4,4,4,"Milk / Sweet Stout",4,4.5,"No Doubt Stout",NA,3228
-"56",1069,"Elliott Bay Brewing Co.",1232350959,4,4,4,"Milk / Sweet Stout",4,4.5,"No Doubt Stout",NA,3228
-"57",1069,"Elliott Bay Brewing Co.",1198537621,3,3,3,"Milk / Sweet Stout",3,3,"No Doubt Stout",NA,3228
-"58",1069,"Elliott Bay Brewing Co.",1178141271,3,4,3,"Milk / Sweet Stout",3,4,"No Doubt Stout",NA,3228
-"59",1069,"Elliott Bay Brewing Co.",1133501656,3.5,3,4.5,"Milk / Sweet Stout",4,3,"No Doubt Stout",NA,3228
-"60",1069,"Elliott Bay Brewing Co.",1095212681,3,3.5,3,"Milk / Sweet Stout",3,3.5,"No Doubt Stout",NA,3228
-"61",1069,"Elliott Bay Brewing Co.",1024386166,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"No Doubt Stout",NA,3228
-"62",1069,"Elliott Bay Brewing Co.",1232944457,3,3,3,"American Porter",3,3,"Chocolate Porter",NA,47524
+"1",1069,"Elliott Bay Brewing Co.",1252729248,3,3.5,3.5,"Rye Beer",3,3,"RyePA",NA,52565
+"2",1069,"Elliott Bay Brewing Co.",1252726608,3.5,4,4,"American IPA",4,3.5,"Elliott Bay IPA",NA,3226
+"3",1069,"Elliott Bay Brewing Co.",1241061535,4.5,4,4.5,"American IPA",4,4,"Elliott Bay IPA",NA,3226
+"4",1069,"Elliott Bay Brewing Co.",1232943469,3.5,3,4.5,"American IPA",3.5,3.5,"Elliott Bay IPA",NA,3226
+"5",1069,"Elliott Bay Brewing Co.",1225302474,4,4,4,"American IPA",4,4,"Elliott Bay IPA",NA,3226
+"6",1069,"Elliott Bay Brewing Co.",1199031013,4,3,3,"American IPA",3.5,3.5,"Elliott Bay IPA",NA,3226
+"7",1069,"Elliott Bay Brewing Co.",1178141395,3.5,3.5,3.5,"American IPA",4,4.5,"Elliott Bay IPA",NA,3226
+"8",1069,"Elliott Bay Brewing Co.",1095212325,3,3,3.5,"American IPA",3,3,"Elliott Bay IPA",NA,3226
+"9",1069,"Elliott Bay Brewing Co.",1242961011,4.5,4.5,4.5,"American IPA",3.5,4,"Dry Hopped IPA",NA,36633
+"10",1069,"Elliott Bay Brewing Co.",1236401294,3,3,3,"American IPA",3,3.5,"Dry Hopped IPA",NA,36633
+"11",1069,"Elliott Bay Brewing Co.",1178141022,3,4,3.5,"American IPA",3,3.5,"Dry Hopped IPA",NA,36633
+"12",1069,"Elliott Bay Brewing Co.",1293839870,3,3,4,"Belgian IPA",3,3,"Hop Van Boorian Belgian IPA",NA,36632
+"13",1069,"Elliott Bay Brewing Co.",1285215541,4,4.5,4,"Belgian IPA",4,4.5,"Hop Van Boorian Belgian IPA",NA,36632
+"14",1069,"Elliott Bay Brewing Co.",1242996304,4,3.5,4,"Belgian IPA",4,4,"Hop Van Boorian Belgian IPA",NA,36632
+"15",1069,"Elliott Bay Brewing Co.",1233459829,3,2.5,2.5,"Belgian IPA",2.5,3,"Hop Van Boorian Belgian IPA",NA,36632
+"16",1069,"Elliott Bay Brewing Co.",1232349871,4.5,4,4,"Belgian IPA",4.5,4.5,"Hop Van Boorian Belgian IPA",NA,36632
+"17",1069,"Elliott Bay Brewing Co.",1217302463,4.5,4,4,"Belgian IPA",4,4.5,"Hop Van Boorian Belgian IPA",NA,36632
+"18",1069,"Elliott Bay Brewing Co.",1178140838,3,4,4,"Belgian IPA",3,3.5,"Hop Van Boorian Belgian IPA",NA,36632
+"19",1069,"Elliott Bay Brewing Co.",1266356080,3.5,3.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Hop Scotch",7.2,56166
+"20",1069,"Elliott Bay Brewing Co.",1178141128,3.5,3.5,3.5,"American Porter",4,4,"Dark Star Porter",NA,3229
+"21",1069,"Elliott Bay Brewing Co.",1252728418,4,4,4,"Milk / Sweet Stout",4,4.5,"No Doubt Stout",NA,3228
+"22",1069,"Elliott Bay Brewing Co.",1232350959,4,4,4,"Milk / Sweet Stout",4,4.5,"No Doubt Stout",NA,3228
+"23",1069,"Elliott Bay Brewing Co.",1198537621,3,3,3,"Milk / Sweet Stout",3,3,"No Doubt Stout",NA,3228
+"24",1069,"Elliott Bay Brewing Co.",1178141271,3,4,3,"Milk / Sweet Stout",3,4,"No Doubt Stout",NA,3228
+"25",1069,"Elliott Bay Brewing Co.",1133501656,3.5,3,4.5,"Milk / Sweet Stout",4,3,"No Doubt Stout",NA,3228
+"26",1069,"Elliott Bay Brewing Co.",1095212681,3,3.5,3,"Milk / Sweet Stout",3,3.5,"No Doubt Stout",NA,3228
+"27",1069,"Elliott Bay Brewing Co.",1024386166,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"No Doubt Stout",NA,3228
+"28",1069,"Elliott Bay Brewing Co.",1232944457,3,3,3,"American Porter",3,3,"Chocolate Porter",NA,47524

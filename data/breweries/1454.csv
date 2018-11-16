@@ -1,153 +1,106 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1454,"Broad Ripple Brew Pub",1262208997,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown",4.7,55097
-"2",1454,"Broad Ripple Brew Pub",1216943757,4,3.5,4,"American Amber / Red Lager",4,4.5,"Amarillo Lager",5,43516
-"3",1454,"Broad Ripple Brew Pub",1215108987,5,4.5,4,"American Amber / Red Lager",4,4.5,"Amarillo Lager",5,43516
-"4",1454,"Broad Ripple Brew Pub",1216944537,4,3.5,4,"Scottish Ale",4,3.5,"Replic Ale",5.7,43945
-"5",1454,"Broad Ripple Brew Pub",1248562709,4.5,3.5,4.5,"Witbier",3.5,4,"Wheat Beer",4.5,10649
-"6",1454,"Broad Ripple Brew Pub",1217031003,3,3.5,3.5,"Witbier",3,3,"Wheat Beer",4.5,10649
-"7",1454,"Broad Ripple Brew Pub",1215108431,3,3.5,3.5,"Witbier",4,3,"Wheat Beer",4.5,10649
-"8",1454,"Broad Ripple Brew Pub",1156183442,2.5,2.5,4,"Witbier",2.5,2,"Wheat Beer",4.5,10649
-"9",1454,"Broad Ripple Brew Pub",1074524962,3,3,3,"Witbier",3,3,"Wheat Beer",4.5,10649
-"10",1454,"Broad Ripple Brew Pub",1056555383,1,2,2,"Witbier",2,1,"Wheat Beer",4.5,10649
-"11",1454,"Broad Ripple Brew Pub",1317731732,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",5.5,13289
-"12",1454,"Broad Ripple Brew Pub",1189969120,4.5,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5.5,13289
-"13",1454,"Broad Ripple Brew Pub",1161112399,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5.5,13289
-"14",1454,"Broad Ripple Brew Pub",1160959471,4.5,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5.5,13289
-"15",1454,"Broad Ripple Brew Pub",1299186682,4.5,4,4,"American Black Ale",4.5,4,"Black IPA",6,66855
-"16",1454,"Broad Ripple Brew Pub",1160669337,5,3.5,4.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5.5,13289
-"17",1454,"Broad Ripple Brew Pub",1065483023,3.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5.5,13289
-"18",1454,"Broad Ripple Brew Pub",1294325047,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Winter Wheat",5,65089
-"19",1454,"Broad Ripple Brew Pub",1230309606,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Broad Ripple Diving Duck American Brown Ale",NA,15475
-"20",1454,"Broad Ripple Brew Pub",1154268715,2,3,3.5,"English Brown Ale",3,2.5,"Broad Ripple Diving Duck American Brown Ale",NA,15475
-"21",1454,"Broad Ripple Brew Pub",1074525161,4,3.5,4,"English Brown Ale",4,4,"Broad Ripple Diving Duck American Brown Ale",NA,15475
-"22",1454,"Broad Ripple Brew Pub",1228002759,4.5,4,4,"American Stout",3.5,4,"Broad Ripple Stout",NA,15476
-"23",1454,"Broad Ripple Brew Pub",1074525258,4,4.5,4.5,"American Stout",4,4,"Broad Ripple Stout",NA,15476
-"24",1454,"Broad Ripple Brew Pub",1294015618,5,4,4.5,"English Strong Ale",4,4.5,"Limping Mallard",7.7,63460
-"25",1454,"Broad Ripple Brew Pub",1289592403,5,4.5,4.5,"English Strong Ale",5,5,"Limping Mallard",7.7,63460
-"26",1454,"Broad Ripple Brew Pub",1299278182,4,3.5,3.5,"American Black Ale",4,4,"Black IPA",6,66855
-"27",1454,"Broad Ripple Brew Pub",1299215027,2,2.5,2.5,"American Black Ale",3,3,"Black IPA",6,66855
-"28",1454,"Broad Ripple Brew Pub",1288537402,4.5,4,4.5,"English Strong Ale",4.5,5,"Bigger Boy's Beer",8.4,63020
-"29",1454,"Broad Ripple Brew Pub",1318962300,5,4,4.5,"American Pale Ale (APA)",5,5,"Extra Pale Ale",5,38414
-"30",1454,"Broad Ripple Brew Pub",1188254533,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Extra Pale Ale",5,38414
-"31",1454,"Broad Ripple Brew Pub",1268435695,5,5,4.5,"American Porter",5,4.5,"Monon Porter",6,39008
-"32",1454,"Broad Ripple Brew Pub",1263686228,3.5,4,3.5,"American Porter",3.5,4,"Monon Porter",6,39008
-"33",1454,"Broad Ripple Brew Pub",1196544317,4.5,3.5,3,"American Porter",4,3.5,"Monon Porter",6,39008
-"34",1454,"Broad Ripple Brew Pub",1191940359,5,4,4.5,"American Porter",5,4.5,"Monon Porter",6,39008
-"35",1454,"Broad Ripple Brew Pub",1295878422,5,4,4,"Märzen / Oktoberfest",5,4,"Marzen",5.2,65568
-"36",1454,"Broad Ripple Brew Pub",1289594919,2,2,3,"American IPA",3,2.5,"I.P.A.",6.2,6825
-"37",1454,"Broad Ripple Brew Pub",1275360527,1.5,2,2.5,"American IPA",2.5,3,"I.P.A.",6.2,6825
-"38",1454,"Broad Ripple Brew Pub",1274740443,2,1.5,3,"American IPA",2.5,2,"I.P.A.",6.2,6825
-"39",1454,"Broad Ripple Brew Pub",1263686489,3.5,3.5,3.5,"American IPA",3.5,4,"I.P.A.",6.2,6825
-"40",1454,"Broad Ripple Brew Pub",1259532850,2,3,2,"American IPA",2.5,2,"I.P.A.",6.2,6825
-"41",1454,"Broad Ripple Brew Pub",1244846380,2.5,2,3,"American IPA",3,4,"I.P.A.",6.2,6825
-"42",1454,"Broad Ripple Brew Pub",1235251655,4,3.5,2.5,"American IPA",4,3,"I.P.A.",6.2,6825
-"43",1454,"Broad Ripple Brew Pub",1231353495,3.5,3,3.5,"American IPA",3,3.5,"I.P.A.",6.2,6825
-"44",1454,"Broad Ripple Brew Pub",1217031427,3.5,4,3.5,"American IPA",3,3,"I.P.A.",6.2,6825
-"45",1454,"Broad Ripple Brew Pub",1191939582,5,3,4,"American IPA",4,4,"I.P.A.",6.2,6825
-"46",1454,"Broad Ripple Brew Pub",1153230304,3.5,3.5,3.5,"American IPA",3,3.5,"I.P.A.",6.2,6825
-"47",1454,"Broad Ripple Brew Pub",1145215386,4,4,4,"American IPA",4,4.5,"I.P.A.",6.2,6825
-"48",1454,"Broad Ripple Brew Pub",1138156848,4,4,3,"American IPA",3.5,4,"I.P.A.",6.2,6825
-"49",1454,"Broad Ripple Brew Pub",1136768731,3,3.5,3.5,"American IPA",4,3.5,"I.P.A.",6.2,6825
-"50",1454,"Broad Ripple Brew Pub",1074525091,4,4,3.5,"American IPA",3.5,3.5,"I.P.A.",6.2,6825
-"51",1454,"Broad Ripple Brew Pub",1035444416,4,3.5,4,"American IPA",3.5,3.5,"I.P.A.",6.2,6825
-"52",1454,"Broad Ripple Brew Pub",1299280554,3.5,3.5,3.5,"American Porter",3.5,3.5,"Jack Daniels Barrel Aged Porter",6,66857
-"53",1454,"Broad Ripple Brew Pub",1299188185,5,5,4,"American Porter",4,5,"Jack Daniels Barrel Aged Porter",6,66857
-"54",1454,"Broad Ripple Brew Pub",1292279279,5,4.5,5,"English Strong Ale",4,4,"Bigger Boy's Beer",8.4,63020
-"55",1454,"Broad Ripple Brew Pub",1288489750,2.5,4,3.5,"English Strong Ale",4,3.5,"Bigger Boy's Beer",8.4,63020
-"56",1454,"Broad Ripple Brew Pub",1074525360,4,4,4,"English Barleywine",4,4,"Broad Ripple Ankle Biter 2003",NA,15477
-"57",1454,"Broad Ripple Brew Pub",1320696088,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Sparky's Chocolate Milk Stout",5.6,74998
-"58",1454,"Broad Ripple Brew Pub",1259462590,4,4,4.5,"English Dark Mild Ale",3.5,4,"Red Bird Mild",NA,31838
-"59",1454,"Broad Ripple Brew Pub",1235260562,4,4,4,"English Dark Mild Ale",3.5,4,"Red Bird Mild",NA,31838
-"60",1454,"Broad Ripple Brew Pub",1215108236,5,4,4,"English Dark Mild Ale",4.5,4.5,"Red Bird Mild",NA,31838
-"61",1454,"Broad Ripple Brew Pub",1153624636,3.5,3.5,3,"English Dark Mild Ale",3,3.5,"Red Bird Mild",NA,31838
-"62",1454,"Broad Ripple Brew Pub",1245695854,4.5,5,4.5,"Russian Imperial Stout",4.5,4.5,"Broad Ripple Evilsizors Russian Imperial Stout",10.5,49038
-"63",1454,"Broad Ripple Brew Pub",1239235009,4,4.5,4.5,"Russian Imperial Stout",4,5,"Broad Ripple Evilsizors Russian Imperial Stout",10.5,49038
-"64",1454,"Broad Ripple Brew Pub",1316545215,4,3.5,3,"Hefeweizen",4,4.5,"Hefe Weizen",4.5,73291
-"65",1454,"Broad Ripple Brew Pub",1191939714,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Pilsner",5.2,31935
-"66",1454,"Broad Ripple Brew Pub",1158321776,2,4,2,"German Pilsener",3,2.5,"Pilsner",5.2,31935
-"67",1454,"Broad Ripple Brew Pub",1171223444,3.5,3.5,3.5,"English Barleywine",3.5,4,"Ankle Biter Ale \""06",NA,35229
-"68",1454,"Broad Ripple Brew Pub",1171223155,4,4,3.5,"English Barleywine",4,4,"Ankle Biter Ale '07",9.8,35228
-"69",1454,"Broad Ripple Brew Pub",1295991277,5,4,4.5,"American Pale Ale (APA)",4.5,5,"Amarillo Single Hop Pale Ale",5,65636
-"70",1454,"Broad Ripple Brew Pub",1298059262,5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hopcicle Double IPA",9,55445
-"71",1454,"Broad Ripple Brew Pub",1276566829,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hopcicle Double IPA",9,55445
-"72",1454,"Broad Ripple Brew Pub",1268435392,4.5,5,5,"American Double / Imperial IPA",4.5,4.5,"Hopcicle Double IPA",9,55445
-"73",1454,"Broad Ripple Brew Pub",1264536415,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hopcicle Double IPA",9,55445
-"74",1454,"Broad Ripple Brew Pub",1263685665,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hopcicle Double IPA",9,55445
-"75",1454,"Broad Ripple Brew Pub",1292279460,4.5,5,4,"Fruit / Vegetable Beer",5,4.5,"Apple Chucker",5.5,64379
-"76",1454,"Broad Ripple Brew Pub",1298059701,5,4,4,"American Double / Imperial Stout",5,4.5,"Ackerman's Imperial Double Stout (Winterfest Replicale 2011)",8,66430
-"77",1454,"Broad Ripple Brew Pub",1289596713,5,3.5,3,"Kölsch",4.5,4.5,"Kölsch",NA,63470
-"78",1454,"Broad Ripple Brew Pub",1265984401,5,3,4.5,"American Porter",4,4,"Porter",NA,9545
-"79",1454,"Broad Ripple Brew Pub",1188255861,4,4,3.5,"American Porter",4,4,"Porter",NA,9545
-"80",1454,"Broad Ripple Brew Pub",1154268934,4,3.5,4,"American Porter",4,4,"Porter",NA,9545
-"81",1454,"Broad Ripple Brew Pub",1153230547,4,3.5,3.5,"American Porter",3.5,4,"Porter",NA,9545
-"82",1454,"Broad Ripple Brew Pub",1051169805,4,3,4,"American Porter",4,4,"Porter",NA,9545
-"83",1454,"Broad Ripple Brew Pub",1279124302,5,5,4,"Extra Special / Strong Bitter (ESB)",5,4.5,"E.S.B.",5.6,6824
-"84",1454,"Broad Ripple Brew Pub",1263684845,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
-"85",1454,"Broad Ripple Brew Pub",1243207240,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"E.S.B.",5.6,6824
-"86",1454,"Broad Ripple Brew Pub",1217031295,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"E.S.B.",5.6,6824
-"87",1454,"Broad Ripple Brew Pub",1191939854,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"E.S.B.",5.6,6824
-"88",1454,"Broad Ripple Brew Pub",1188255321,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"E.S.B.",5.6,6824
-"89",1454,"Broad Ripple Brew Pub",1299273020,4,3.5,4.5,"American Double / Imperial Stout",4,4,"Ackerman's Imperial Double Stout (Indiana Replicale 2011)",8,66889
-"90",1454,"Broad Ripple Brew Pub",1303400336,5,4,4.5,"English Bitter",5,4.5,"T.J.'s Best Bitter",5.3,16491
-"91",1454,"Broad Ripple Brew Pub",1166540267,5,3,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
-"92",1454,"Broad Ripple Brew Pub",1156176091,5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,5,"E.S.B.",5.6,6824
-"93",1454,"Broad Ripple Brew Pub",1153230026,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
-"94",1454,"Broad Ripple Brew Pub",1122604269,4.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"E.S.B.",5.6,6824
-"95",1454,"Broad Ripple Brew Pub",1075607242,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
-"96",1454,"Broad Ripple Brew Pub",1074525053,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"E.S.B.",5.6,6824
-"97",1454,"Broad Ripple Brew Pub",1036908893,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
-"98",1454,"Broad Ripple Brew Pub",1035443883,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,5,"E.S.B.",5.6,6824
-"99",1454,"Broad Ripple Brew Pub",1289595481,5,4,3.5,"Schwarzbier",4,4,"Replic Ale (2010)",NA,63467
-"100",1454,"Broad Ripple Brew Pub",1299187586,5,4,3.5,"California Common / Steam Beer",5,4,"California Common",5,66856
-"101",1454,"Broad Ripple Brew Pub",1270407482,4,4,4,"Irish Dry Stout",4,4,"Finneen's Auld Sod Stout",4.8,43364
-"102",1454,"Broad Ripple Brew Pub",1254799511,3,2.5,3.5,"English Bitter",3.5,2.5,"T.J.'s Best Bitter",5.3,16491
-"103",1454,"Broad Ripple Brew Pub",1214320926,4,4,4,"English Bitter",4,4.5,"T.J.'s Best Bitter",5.3,16491
-"104",1454,"Broad Ripple Brew Pub",1182392570,5,5,5,"English Bitter",5,5,"T.J.'s Best Bitter",5.3,16491
-"105",1454,"Broad Ripple Brew Pub",1153231062,4,3,3.5,"English Bitter",3.5,3.5,"T.J.'s Best Bitter",5.3,16491
-"106",1454,"Broad Ripple Brew Pub",1143421768,4.5,3.5,4,"English Bitter",4,4,"T.J.'s Best Bitter",5.3,16491
-"107",1454,"Broad Ripple Brew Pub",1122604083,4.5,4,3.5,"English Bitter",5,4,"T.J.'s Best Bitter",5.3,16491
-"108",1454,"Broad Ripple Brew Pub",1079113268,4.5,4,4,"English Bitter",4,4.5,"T.J.'s Best Bitter",5.3,16491
-"109",1454,"Broad Ripple Brew Pub",1217030771,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Broad Ripple Lawnmower Pale Ale",5,15474
-"110",1454,"Broad Ripple Brew Pub",1193329038,4,3.5,4,"American Pale Ale (APA)",4,4,"Broad Ripple Lawnmower Pale Ale",5,15474
-"111",1454,"Broad Ripple Brew Pub",1191939454,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Broad Ripple Lawnmower Pale Ale",5,15474
-"112",1454,"Broad Ripple Brew Pub",1153229507,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Broad Ripple Lawnmower Pale Ale",5,15474
-"113",1454,"Broad Ripple Brew Pub",1074524925,3,3,3,"American Pale Ale (APA)",2.5,3,"Broad Ripple Lawnmower Pale Ale",5,15474
-"114",1454,"Broad Ripple Brew Pub",1287451400,5,5,4,"Irish Dry Stout",4.5,5,"Finneen's Auld Sod Stout",4.8,43364
-"115",1454,"Broad Ripple Brew Pub",1214321925,4.5,4.5,4,"Irish Dry Stout",4,4.5,"Finneen's Auld Sod Stout",4.8,43364
-"116",1454,"Broad Ripple Brew Pub",1262208676,3,3.5,4,"American Double / Imperial Stout",3,3,"2001 - A Stout Odyssey",8,55096
-"117",1454,"Broad Ripple Brew Pub",1191940108,4,3.5,4,"Altbier",3.5,4,"Herr Kevin's Alt Bier",5.2,39007
-"118",1454,"Broad Ripple Brew Pub",1323979200,5,4.5,4,"Euro Dark Lager",4.5,5,"Black Heart Lager",5.9,43944
-"119",1454,"Broad Ripple Brew Pub",1244846579,4.5,4,3,"Euro Dark Lager",4.5,4.5,"Black Heart Lager",5.9,43944
-"120",1454,"Broad Ripple Brew Pub",1243205984,3.5,2.5,3,"Euro Dark Lager",2,4,"Black Heart Lager",5.9,43944
-"121",1454,"Broad Ripple Brew Pub",1234549968,4,4,4,"Euro Dark Lager",4,4,"Black Heart Lager",5.9,43944
-"122",1454,"Broad Ripple Brew Pub",1216944291,4,4,3.5,"Euro Dark Lager",3.5,4,"Black Heart Lager",5.9,43944
-"123",1454,"Broad Ripple Brew Pub",1264534216,4.5,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Wee Alec Heavy",7.7,8284
-"124",1454,"Broad Ripple Brew Pub",1262208342,5,4.5,5,"Scotch Ale / Wee Heavy",5,4.5,"Wee Alec Heavy",7.7,8284
-"125",1454,"Broad Ripple Brew Pub",1171332015,3,2.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Wee Alec Heavy",7.7,8284
-"126",1454,"Broad Ripple Brew Pub",1153231443,4,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"Wee Alec Heavy",7.7,8284
-"127",1454,"Broad Ripple Brew Pub",1138130168,4,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Wee Alec Heavy",7.7,8284
-"128",1454,"Broad Ripple Brew Pub",1104559525,5,5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Wee Alec Heavy",7.7,8284
-"129",1454,"Broad Ripple Brew Pub",1043771857,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,4,"Wee Alec Heavy",7.7,8284
-"130",1454,"Broad Ripple Brew Pub",1294324816,5,4.5,4.5,"English Pale Ale",5,4,"Lawn Mower Pale Ale",5,61478
-"131",1454,"Broad Ripple Brew Pub",1283115229,4.5,4,4,"English Pale Ale",4,3.5,"Lawn Mower Pale Ale",5,61478
-"132",1454,"Broad Ripple Brew Pub",1316545078,4.5,4,4,"American Porter",5,4,"Bjava Porter",6,73290
-"133",1454,"Broad Ripple Brew Pub",1244846124,4.5,4,4,"American Pale Ale (APA)",5,4.5,"Dual Citizenship Ale",5.5,39009
-"134",1454,"Broad Ripple Brew Pub",1191940494,4,4,4,"American Pale Ale (APA)",4,4.5,"Dual Citizenship Ale",5.5,39009
-"135",1454,"Broad Ripple Brew Pub",1156178493,4.5,4,4,"English Pale Ale",4.5,4.5,"15th Anniversary",NA,27918
-"136",1454,"Broad Ripple Brew Pub",1137722353,3.5,3,3.5,"English Pale Ale",3.5,3.5,"15th Anniversary",NA,27918
-"137",1454,"Broad Ripple Brew Pub",1156177895,5,4.5,4.5,"Saison / Farmhouse Ale",4.5,5,"Farmhouse Ale",5.9,32306
-"138",1454,"Broad Ripple Brew Pub",1155747089,5,4,4,"Saison / Farmhouse Ale",4,4.5,"Farmhouse Ale",5.9,32306
-"139",1454,"Broad Ripple Brew Pub",1321646001,5,4,4.5,"American Pale Ale (APA)",4,4.5,"Centennial Pale Ale",5,75449
-"140",1454,"Broad Ripple Brew Pub",1294013791,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Wobbly Bob APA",5.5,15660
-"141",1454,"Broad Ripple Brew Pub",1289594316,5,4,4,"American Pale Ale (APA)",4,4.5,"Wobbly Bob APA",5.5,15660
-"142",1454,"Broad Ripple Brew Pub",1288538410,5,5,5,"American Pale Ale (APA)",5,5,"Wobbly Bob APA",5.5,15660
-"143",1454,"Broad Ripple Brew Pub",1259533123,4.5,4.5,4.5,"American Pale Ale (APA)",4,5,"Wobbly Bob APA",5.5,15660
-"144",1454,"Broad Ripple Brew Pub",1258169804,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Wobbly Bob APA",5.5,15660
-"145",1454,"Broad Ripple Brew Pub",1075607859,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Wobbly Bob APA",5.5,15660
-"146",1454,"Broad Ripple Brew Pub",1075563582,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Wobbly Bob APA",5.5,15660
-"147",1454,"Broad Ripple Brew Pub",1075757551,4,4,4,"English Barleywine",4.5,4,"Broad Ripple Ankle Biter 2004",NA,15478
-"148",1454,"Broad Ripple Brew Pub",1075606852,4,4,4.5,"English Barleywine",4,4,"Broad Ripple Ankle Biter 2004",NA,15478
-"149",1454,"Broad Ripple Brew Pub",1074525457,4.5,4,3.5,"English Barleywine",4.5,4,"Broad Ripple Ankle Biter 2004",NA,15478
-"150",1454,"Broad Ripple Brew Pub",1318365919,4.5,4,4,"Pumpkin Ale",4.5,4.5,"Pumpkin Ale",4.5,33272
-"151",1454,"Broad Ripple Brew Pub",1226623341,3,3,4,"Pumpkin Ale",3,2.5,"Pumpkin Ale",4.5,33272
-"152",1454,"Broad Ripple Brew Pub",1161112701,2,3,3.5,"Pumpkin Ale",3,2,"Pumpkin Ale",4.5,33272
+"2",1454,"Broad Ripple Brew Pub",1248562709,4.5,3.5,4.5,"Witbier",3.5,4,"Wheat Beer",4.5,10649
+"3",1454,"Broad Ripple Brew Pub",1217031003,3,3.5,3.5,"Witbier",3,3,"Wheat Beer",4.5,10649
+"4",1454,"Broad Ripple Brew Pub",1215108431,3,3.5,3.5,"Witbier",4,3,"Wheat Beer",4.5,10649
+"5",1454,"Broad Ripple Brew Pub",1156183442,2.5,2.5,4,"Witbier",2.5,2,"Wheat Beer",4.5,10649
+"6",1454,"Broad Ripple Brew Pub",1074524962,3,3,3,"Witbier",3,3,"Wheat Beer",4.5,10649
+"7",1454,"Broad Ripple Brew Pub",1056555383,1,2,2,"Witbier",2,1,"Wheat Beer",4.5,10649
+"8",1454,"Broad Ripple Brew Pub",1317731732,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",5.5,13289
+"9",1454,"Broad Ripple Brew Pub",1189969120,4.5,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5.5,13289
+"10",1454,"Broad Ripple Brew Pub",1161112399,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5.5,13289
+"11",1454,"Broad Ripple Brew Pub",1160959471,4.5,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5.5,13289
+"12",1454,"Broad Ripple Brew Pub",1299186682,4.5,4,4,"American Black Ale",4.5,4,"Black IPA",6,66855
+"13",1454,"Broad Ripple Brew Pub",1160669337,5,3.5,4.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5.5,13289
+"14",1454,"Broad Ripple Brew Pub",1065483023,3.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5.5,13289
+"15",1454,"Broad Ripple Brew Pub",1294325047,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Winter Wheat",5,65089
+"16",1454,"Broad Ripple Brew Pub",1299278182,4,3.5,3.5,"American Black Ale",4,4,"Black IPA",6,66855
+"17",1454,"Broad Ripple Brew Pub",1299215027,2,2.5,2.5,"American Black Ale",3,3,"Black IPA",6,66855
+"18",1454,"Broad Ripple Brew Pub",1318962300,5,4,4.5,"American Pale Ale (APA)",5,5,"Extra Pale Ale",5,38414
+"19",1454,"Broad Ripple Brew Pub",1188254533,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Extra Pale Ale",5,38414
+"20",1454,"Broad Ripple Brew Pub",1295878422,5,4,4,"Märzen / Oktoberfest",5,4,"Marzen",5.2,65568
+"21",1454,"Broad Ripple Brew Pub",1289594919,2,2,3,"American IPA",3,2.5,"I.P.A.",6.2,6825
+"22",1454,"Broad Ripple Brew Pub",1275360527,1.5,2,2.5,"American IPA",2.5,3,"I.P.A.",6.2,6825
+"23",1454,"Broad Ripple Brew Pub",1274740443,2,1.5,3,"American IPA",2.5,2,"I.P.A.",6.2,6825
+"24",1454,"Broad Ripple Brew Pub",1263686489,3.5,3.5,3.5,"American IPA",3.5,4,"I.P.A.",6.2,6825
+"25",1454,"Broad Ripple Brew Pub",1259532850,2,3,2,"American IPA",2.5,2,"I.P.A.",6.2,6825
+"26",1454,"Broad Ripple Brew Pub",1244846380,2.5,2,3,"American IPA",3,4,"I.P.A.",6.2,6825
+"27",1454,"Broad Ripple Brew Pub",1235251655,4,3.5,2.5,"American IPA",4,3,"I.P.A.",6.2,6825
+"28",1454,"Broad Ripple Brew Pub",1231353495,3.5,3,3.5,"American IPA",3,3.5,"I.P.A.",6.2,6825
+"29",1454,"Broad Ripple Brew Pub",1217031427,3.5,4,3.5,"American IPA",3,3,"I.P.A.",6.2,6825
+"30",1454,"Broad Ripple Brew Pub",1191939582,5,3,4,"American IPA",4,4,"I.P.A.",6.2,6825
+"31",1454,"Broad Ripple Brew Pub",1153230304,3.5,3.5,3.5,"American IPA",3,3.5,"I.P.A.",6.2,6825
+"32",1454,"Broad Ripple Brew Pub",1145215386,4,4,4,"American IPA",4,4.5,"I.P.A.",6.2,6825
+"33",1454,"Broad Ripple Brew Pub",1138156848,4,4,3,"American IPA",3.5,4,"I.P.A.",6.2,6825
+"34",1454,"Broad Ripple Brew Pub",1136768731,3,3.5,3.5,"American IPA",4,3.5,"I.P.A.",6.2,6825
+"35",1454,"Broad Ripple Brew Pub",1074525091,4,4,3.5,"American IPA",3.5,3.5,"I.P.A.",6.2,6825
+"36",1454,"Broad Ripple Brew Pub",1035444416,4,3.5,4,"American IPA",3.5,3.5,"I.P.A.",6.2,6825
+"37",1454,"Broad Ripple Brew Pub",1316545215,4,3.5,3,"Hefeweizen",4,4.5,"Hefe Weizen",4.5,73291
+"38",1454,"Broad Ripple Brew Pub",1191939714,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Pilsner",5.2,31935
+"39",1454,"Broad Ripple Brew Pub",1158321776,2,4,2,"German Pilsener",3,2.5,"Pilsner",5.2,31935
+"40",1454,"Broad Ripple Brew Pub",1295991277,5,4,4.5,"American Pale Ale (APA)",4.5,5,"Amarillo Single Hop Pale Ale",5,65636
+"41",1454,"Broad Ripple Brew Pub",1298059262,5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hopcicle Double IPA",9,55445
+"42",1454,"Broad Ripple Brew Pub",1276566829,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hopcicle Double IPA",9,55445
+"43",1454,"Broad Ripple Brew Pub",1268435392,4.5,5,5,"American Double / Imperial IPA",4.5,4.5,"Hopcicle Double IPA",9,55445
+"44",1454,"Broad Ripple Brew Pub",1264536415,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hopcicle Double IPA",9,55445
+"45",1454,"Broad Ripple Brew Pub",1263685665,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hopcicle Double IPA",9,55445
+"46",1454,"Broad Ripple Brew Pub",1289596713,5,3.5,3,"Kölsch",4.5,4.5,"Kölsch",NA,63470
+"47",1454,"Broad Ripple Brew Pub",1265984401,5,3,4.5,"American Porter",4,4,"Porter",NA,9545
+"48",1454,"Broad Ripple Brew Pub",1188255861,4,4,3.5,"American Porter",4,4,"Porter",NA,9545
+"49",1454,"Broad Ripple Brew Pub",1154268934,4,3.5,4,"American Porter",4,4,"Porter",NA,9545
+"50",1454,"Broad Ripple Brew Pub",1153230547,4,3.5,3.5,"American Porter",3.5,4,"Porter",NA,9545
+"51",1454,"Broad Ripple Brew Pub",1051169805,4,3,4,"American Porter",4,4,"Porter",NA,9545
+"52",1454,"Broad Ripple Brew Pub",1279124302,5,5,4,"Extra Special / Strong Bitter (ESB)",5,4.5,"E.S.B.",5.6,6824
+"53",1454,"Broad Ripple Brew Pub",1263684845,4,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
+"54",1454,"Broad Ripple Brew Pub",1243207240,3.5,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"E.S.B.",5.6,6824
+"55",1454,"Broad Ripple Brew Pub",1217031295,4,3,3.5,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"E.S.B.",5.6,6824
+"56",1454,"Broad Ripple Brew Pub",1191939854,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4,"E.S.B.",5.6,6824
+"57",1454,"Broad Ripple Brew Pub",1188255321,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"E.S.B.",5.6,6824
+"58",1454,"Broad Ripple Brew Pub",1299273020,4,3.5,4.5,"American Double / Imperial Stout",4,4,"Ackerman's Imperial Double Stout (Indiana Replicale 2011)",8,66889
+"59",1454,"Broad Ripple Brew Pub",1303400336,5,4,4.5,"English Bitter",5,4.5,"T.J.'s Best Bitter",5.3,16491
+"60",1454,"Broad Ripple Brew Pub",1166540267,5,3,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
+"61",1454,"Broad Ripple Brew Pub",1156176091,5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,5,"E.S.B.",5.6,6824
+"62",1454,"Broad Ripple Brew Pub",1153230026,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
+"63",1454,"Broad Ripple Brew Pub",1122604269,4.5,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"E.S.B.",5.6,6824
+"64",1454,"Broad Ripple Brew Pub",1075607242,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
+"65",1454,"Broad Ripple Brew Pub",1074525053,4,4,3.5,"Extra Special / Strong Bitter (ESB)",3.5,4,"E.S.B.",5.6,6824
+"66",1454,"Broad Ripple Brew Pub",1036908893,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"E.S.B.",5.6,6824
+"67",1454,"Broad Ripple Brew Pub",1035443883,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,5,"E.S.B.",5.6,6824
+"68",1454,"Broad Ripple Brew Pub",1299187586,5,4,3.5,"California Common / Steam Beer",5,4,"California Common",5,66856
+"69",1454,"Broad Ripple Brew Pub",1254799511,3,2.5,3.5,"English Bitter",3.5,2.5,"T.J.'s Best Bitter",5.3,16491
+"70",1454,"Broad Ripple Brew Pub",1214320926,4,4,4,"English Bitter",4,4.5,"T.J.'s Best Bitter",5.3,16491
+"71",1454,"Broad Ripple Brew Pub",1182392570,5,5,5,"English Bitter",5,5,"T.J.'s Best Bitter",5.3,16491
+"72",1454,"Broad Ripple Brew Pub",1153231062,4,3,3.5,"English Bitter",3.5,3.5,"T.J.'s Best Bitter",5.3,16491
+"73",1454,"Broad Ripple Brew Pub",1143421768,4.5,3.5,4,"English Bitter",4,4,"T.J.'s Best Bitter",5.3,16491
+"74",1454,"Broad Ripple Brew Pub",1122604083,4.5,4,3.5,"English Bitter",5,4,"T.J.'s Best Bitter",5.3,16491
+"75",1454,"Broad Ripple Brew Pub",1079113268,4.5,4,4,"English Bitter",4,4.5,"T.J.'s Best Bitter",5.3,16491
+"76",1454,"Broad Ripple Brew Pub",1217030771,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Broad Ripple Lawnmower Pale Ale",5,15474
+"77",1454,"Broad Ripple Brew Pub",1193329038,4,3.5,4,"American Pale Ale (APA)",4,4,"Broad Ripple Lawnmower Pale Ale",5,15474
+"78",1454,"Broad Ripple Brew Pub",1191939454,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Broad Ripple Lawnmower Pale Ale",5,15474
+"79",1454,"Broad Ripple Brew Pub",1153229507,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Broad Ripple Lawnmower Pale Ale",5,15474
+"80",1454,"Broad Ripple Brew Pub",1074524925,3,3,3,"American Pale Ale (APA)",2.5,3,"Broad Ripple Lawnmower Pale Ale",5,15474
+"81",1454,"Broad Ripple Brew Pub",1323979200,5,4.5,4,"Euro Dark Lager",4.5,5,"Black Heart Lager",5.9,43944
+"82",1454,"Broad Ripple Brew Pub",1244846579,4.5,4,3,"Euro Dark Lager",4.5,4.5,"Black Heart Lager",5.9,43944
+"83",1454,"Broad Ripple Brew Pub",1243205984,3.5,2.5,3,"Euro Dark Lager",2,4,"Black Heart Lager",5.9,43944
+"84",1454,"Broad Ripple Brew Pub",1234549968,4,4,4,"Euro Dark Lager",4,4,"Black Heart Lager",5.9,43944
+"85",1454,"Broad Ripple Brew Pub",1216944291,4,4,3.5,"Euro Dark Lager",3.5,4,"Black Heart Lager",5.9,43944
+"86",1454,"Broad Ripple Brew Pub",1264534216,4.5,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Wee Alec Heavy",7.7,8284
+"87",1454,"Broad Ripple Brew Pub",1262208342,5,4.5,5,"Scotch Ale / Wee Heavy",5,4.5,"Wee Alec Heavy",7.7,8284
+"88",1454,"Broad Ripple Brew Pub",1171332015,3,2.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Wee Alec Heavy",7.7,8284
+"89",1454,"Broad Ripple Brew Pub",1153231443,4,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"Wee Alec Heavy",7.7,8284
+"90",1454,"Broad Ripple Brew Pub",1138130168,4,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Wee Alec Heavy",7.7,8284
+"91",1454,"Broad Ripple Brew Pub",1104559525,5,5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Wee Alec Heavy",7.7,8284
+"92",1454,"Broad Ripple Brew Pub",1043771857,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,4,"Wee Alec Heavy",7.7,8284
+"93",1454,"Broad Ripple Brew Pub",1156177895,5,4.5,4.5,"Saison / Farmhouse Ale",4.5,5,"Farmhouse Ale",5.9,32306
+"94",1454,"Broad Ripple Brew Pub",1155747089,5,4,4,"Saison / Farmhouse Ale",4,4.5,"Farmhouse Ale",5.9,32306
+"95",1454,"Broad Ripple Brew Pub",1321646001,5,4,4.5,"American Pale Ale (APA)",4,4.5,"Centennial Pale Ale",5,75449
+"96",1454,"Broad Ripple Brew Pub",1294013791,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Wobbly Bob APA",5.5,15660
+"97",1454,"Broad Ripple Brew Pub",1289594316,5,4,4,"American Pale Ale (APA)",4,4.5,"Wobbly Bob APA",5.5,15660
+"98",1454,"Broad Ripple Brew Pub",1288538410,5,5,5,"American Pale Ale (APA)",5,5,"Wobbly Bob APA",5.5,15660
+"99",1454,"Broad Ripple Brew Pub",1259533123,4.5,4.5,4.5,"American Pale Ale (APA)",4,5,"Wobbly Bob APA",5.5,15660
+"100",1454,"Broad Ripple Brew Pub",1258169804,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Wobbly Bob APA",5.5,15660
+"101",1454,"Broad Ripple Brew Pub",1075607859,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Wobbly Bob APA",5.5,15660
+"102",1454,"Broad Ripple Brew Pub",1075563582,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Wobbly Bob APA",5.5,15660
+"103",1454,"Broad Ripple Brew Pub",1318365919,4.5,4,4,"Pumpkin Ale",4.5,4.5,"Pumpkin Ale",4.5,33272
+"104",1454,"Broad Ripple Brew Pub",1226623341,3,3,4,"Pumpkin Ale",3,2.5,"Pumpkin Ale",4.5,33272
+"105",1454,"Broad Ripple Brew Pub",1161112701,2,3,3.5,"Pumpkin Ale",3,2,"Pumpkin Ale",4.5,33272

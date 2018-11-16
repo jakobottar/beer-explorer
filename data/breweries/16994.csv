@@ -1,69 +1,9 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",16994,"Ohio Brewing Company",1252295567,4,4,3.5,"American Strong Ale",4,4,"Twice Bitten",8.1,46683
-"2",16994,"Ohio Brewing Company",1250706941,4.5,5,4.5,"American Strong Ale",4.5,4.5,"Twice Bitten",8.1,46683
-"3",16994,"Ohio Brewing Company",1235326090,4.5,5,4.5,"American Strong Ale",4.5,4.5,"Twice Bitten",8.1,46683
-"4",16994,"Ohio Brewing Company",1229665571,4,3.5,3.5,"American Strong Ale",4.5,4.5,"Twice Bitten",8.1,46683
-"5",16994,"Ohio Brewing Company",1229976031,4,4,4.5,"American IPA",4,4.5,"O'Hoppy IPA",NA,45172
-"6",16994,"Ohio Brewing Company",1228064447,2,2.5,3.5,"American IPA",2.5,2,"O'Hoppy IPA",NA,45172
-"7",16994,"Ohio Brewing Company",1223087910,3.5,3.5,3,"American IPA",3.5,3.5,"O'Hoppy IPA",NA,45172
-"8",16994,"Ohio Brewing Company",1229976706,4.5,4,5,"Kölsch",5,5,"Verich Gold",5,46255
-"9",16994,"Ohio Brewing Company",1228068530,4,2,2,"Kölsch",2,1.5,"Verich Gold",5,46255
-"10",16994,"Ohio Brewing Company",1228067374,4,3.5,2.5,"Pumpkin Ale",2,2,"Ohio Pumpkin Ale",6.2,46252
-"11",16994,"Ohio Brewing Company",1232657519,4.5,4.5,4,"Altbier",5,5,"Alt-Ernative Amber",5.4,46249
-"12",16994,"Ohio Brewing Company",1219345472,4.5,4.5,4,"American Stout",4,4.5,"Steel Valley Stout",6.2,43396
-"13",16994,"Ohio Brewing Company",1228066282,3,2.5,3,"Altbier",2.5,2,"Alt-Ernative Amber",5.4,46249
-"14",16994,"Ohio Brewing Company",1228065047,3,3.5,3,"Altbier",3,3.5,"Akron Dopple Alt",NA,44875
-"15",16994,"Ohio Brewing Company",1221510007,5,4.5,5,"Altbier",4.5,5,"Akron Dopple Alt",NA,44875
-"16",16994,"Ohio Brewing Company",1229975275,4.5,4.5,4.5,"American Brown Ale",5,4.5,"Buckeye Brown",5.2,46248
-"17",16994,"Ohio Brewing Company",1228065633,3,3,3,"American Brown Ale",2.5,2.5,"Buckeye Brown",5.2,46248
-"18",16994,"Ohio Brewing Company",1228066808,1.5,1.5,3,"Czech Pilsener",2.5,1.5,"Polymer Pilsner",NA,46250
-"19",16994,"Ohio Brewing Company",1228026906,4,4.5,4,"American Stout",3.5,3.5,"Steel Valley Stout",6.2,43396
-"20",16994,"Ohio Brewing Company",1217469062,3,4,4.5,"American Stout",2.5,3.5,"Steel Valley Stout",6.2,43396
-"21",16994,"Ohio Brewing Company",1214443145,3,3,5,"American Stout",3.5,3,"Steel Valley Stout",6.2,43396
-"22",16994,"Ohio Brewing Company",1229975681,4,4,4.5,"Irish Red Ale",4.5,5,"Cardinal Ale",5,46254
-"23",16994,"Ohio Brewing Company",1228067933,2.5,2,3,"Irish Red Ale",2.5,2,"Cardinal Ale",5,46254
-"24",4210,"Ohio Brewing Company",1047721938,2.5,3.5,4,"English Brown Ale",2,2,"Buckeye Brown",NA,8952
-"25",23954,"Ohio Brewing Company",1297460631,4.5,4,4,"American Stout",4,4,"Steel Valley Stout",6.2,64093
-"26",23954,"Ohio Brewing Company",1291442558,4,4,4,"American Stout",4,4.5,"Steel Valley Stout",6.2,64093
-"27",23954,"Ohio Brewing Company",1323920572,1.5,2.5,2,"Witbier",1.5,1.5,"Buckeye Blonde",5,72977
-"28",23954,"Ohio Brewing Company",1323748857,3,3.5,3,"Witbier",3.5,3,"Buckeye Blonde",5,72977
-"29",23954,"Ohio Brewing Company",1319644226,3.5,3.5,3,"Witbier",4,3,"Buckeye Blonde",5,72977
-"30",23954,"Ohio Brewing Company",1319416147,3.5,3.5,3,"Witbier",3.5,3.5,"Buckeye Blonde",5,72977
-"31",23954,"Ohio Brewing Company",1316784282,2,2.5,3,"Witbier",2,2,"Buckeye Blonde",5,72977
-"32",23954,"Ohio Brewing Company",1315602519,3.5,4,3.5,"Witbier",3,3.5,"Buckeye Blonde",5,72977
-"33",23954,"Ohio Brewing Company",1290145470,4,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Ohiofest",6.8,62707
-"34",23954,"Ohio Brewing Company",1287373592,1.5,3,4,"Märzen / Oktoberfest",1.5,2,"Ohiofest",6.8,62707
-"35",23954,"Ohio Brewing Company",1325735094,3,3,3,"Kölsch",3,2.5,"Verich Gold",5,62504
-"36",23954,"Ohio Brewing Company",1319072897,2.5,2.5,2,"Kölsch",2.5,2.5,"Verich Gold",5,62504
-"37",23954,"Ohio Brewing Company",1317172799,3.5,3.5,3.5,"Kölsch",4,3.5,"Verich Gold",5,62504
-"38",23954,"Ohio Brewing Company",1315970978,3.5,4,4,"Kölsch",4,3.5,"Verich Gold",5,62504
-"39",23954,"Ohio Brewing Company",1304034681,3,3.5,3.5,"Kölsch",3.5,3.5,"Verich Gold",5,62504
-"40",23954,"Ohio Brewing Company",1304017052,3.5,3.5,4,"Kölsch",3.5,4,"Verich Gold",5,62504
-"41",23954,"Ohio Brewing Company",1300671343,3.5,3,4,"Kölsch",3.5,3.5,"Verich Gold",5,62504
-"42",23954,"Ohio Brewing Company",1299376856,3.5,3,3.5,"Kölsch",3,3.5,"Verich Gold",5,62504
-"43",23954,"Ohio Brewing Company",1292954870,4,4,4,"Kölsch",4,4.5,"Verich Gold",5,62504
-"44",23954,"Ohio Brewing Company",1291442256,3,3,3.5,"Kölsch",3.5,3,"Verich Gold",5,62504
-"45",23954,"Ohio Brewing Company",1290144602,4,4,3,"Kölsch",4,3.5,"Verich Gold",5,62504
-"46",23954,"Ohio Brewing Company",1288036434,4.5,3.5,3.5,"Kölsch",4,3.5,"Verich Gold",5,62504
-"47",23954,"Ohio Brewing Company",1286759059,4.5,3.5,4,"Kölsch",4,3.5,"Verich Gold",5,62504
-"48",23954,"Ohio Brewing Company",1321330527,3.5,5,4.5,"Irish Red Ale",4,3,"Cardinal Ale",5,62533
-"49",23954,"Ohio Brewing Company",1319153770,3.5,3.5,3.5,"Irish Red Ale",2.5,3.5,"Cardinal Ale",5,62533
-"50",23954,"Ohio Brewing Company",1318720754,3.5,3.5,3.5,"Irish Red Ale",3,4,"Cardinal Ale",5,62533
-"51",23954,"Ohio Brewing Company",1318102740,3,3.5,3.5,"Irish Red Ale",3,3,"Cardinal Ale",5,62533
-"52",23954,"Ohio Brewing Company",1316781572,1,1,2,"Irish Red Ale",1.5,1,"Cardinal Ale",5,62533
-"53",23954,"Ohio Brewing Company",1316736260,2.5,3.5,4,"Irish Red Ale",2.5,2.5,"Cardinal Ale",5,62533
-"54",23954,"Ohio Brewing Company",1313698995,4.5,4,3.5,"Irish Red Ale",4,4,"Cardinal Ale",5,62533
-"55",23954,"Ohio Brewing Company",1292955090,4,4.5,4.5,"Irish Red Ale",4.5,5,"Cardinal Ale",5,62533
-"56",23954,"Ohio Brewing Company",1290145172,4,4,3.5,"Irish Red Ale",3.5,4,"Cardinal Ale",5,62533
-"57",23954,"Ohio Brewing Company",1289781594,3.5,3,4.5,"Irish Red Ale",4,4.5,"Cardinal Ale",5,62533
-"58",23954,"Ohio Brewing Company",1286858368,4,2.5,4,"Irish Red Ale",4.5,3.5,"Cardinal Ale",5,62533
-"59",23954,"Ohio Brewing Company",1308296662,4,4,4,"Irish Red Ale",4,3.5,"Double Irish Red",6.9,68536
-"60",23954,"Ohio Brewing Company",1304200163,4,4,4,"Irish Red Ale",4,4,"Double Irish Red",6.9,68536
-"61",23954,"Ohio Brewing Company",1323913771,4.5,4.5,4,"Winter Warmer",4.5,4.5,"Jingle Bell Ale",7.5,65515
-"62",23954,"Ohio Brewing Company",1323801509,5,5,5,"Winter Warmer",5,5,"Jingle Bell Ale",7.5,65515
-"63",23954,"Ohio Brewing Company",1321371876,3.5,3.5,3.5,"Winter Warmer",3,3,"Jingle Bell Ale",7.5,65515
-"64",23954,"Ohio Brewing Company",1321206216,3,2.5,4,"Winter Warmer",3.5,2,"Jingle Bell Ale",7.5,65515
-"65",23954,"Ohio Brewing Company",1320177400,2.5,3,3.5,"Winter Warmer",3,2.5,"Jingle Bell Ale",7.5,65515
-"66",23954,"Ohio Brewing Company",1295738333,3,4,3.5,"Winter Warmer",4,3.5,"Jingle Bell Ale",7.5,65515
-"67",23954,"Ohio Brewing Company",1326073710,4,4,4,"American IPA",4,4,"O'Hoppy Ale IPA",7,68535
-"68",23954,"Ohio Brewing Company",1304194669,3.5,4,4,"American IPA",4,4.5,"O'Hoppy Ale IPA",7,68535
+"1",16994,"Ohio Brewing Company",1229976706,4.5,4,5,"Kölsch",5,5,"Verich Gold",5,46255
+"2",16994,"Ohio Brewing Company",1228068530,4,2,2,"Kölsch",2,1.5,"Verich Gold",5,46255
+"3",16994,"Ohio Brewing Company",1219345472,4.5,4.5,4,"American Stout",4,4.5,"Steel Valley Stout",6.2,43396
+"4",16994,"Ohio Brewing Company",1228026906,4,4.5,4,"American Stout",3.5,3.5,"Steel Valley Stout",6.2,43396
+"5",16994,"Ohio Brewing Company",1217469062,3,4,4.5,"American Stout",2.5,3.5,"Steel Valley Stout",6.2,43396
+"6",16994,"Ohio Brewing Company",1214443145,3,3,5,"American Stout",3.5,3,"Steel Valley Stout",6.2,43396
+"7",16994,"Ohio Brewing Company",1229975681,4,4,4.5,"Irish Red Ale",4.5,5,"Cardinal Ale",5,46254
+"8",16994,"Ohio Brewing Company",1228067933,2.5,2,3,"Irish Red Ale",2.5,2,"Cardinal Ale",5,46254

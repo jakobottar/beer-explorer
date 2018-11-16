@@ -1,107 +1,85 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",2194,"Rio Salado Brewing Company",1101173588,3,3.5,3.5,"Schwarzbier",3,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"2",2194,"Rio Salado Brewing Company",1042486658,5,4,4.5,"Schwarzbier",4,4.5,"Rio Salado DoppelSchwarz",7.2,6207
-"3",2194,"Rio Salado Brewing Company",1032861835,4.5,3.5,4.5,"Schwarzbier",4.5,4.5,"Rio Salado DoppelSchwarz",7.2,6207
-"4",2194,"Rio Salado Brewing Company",1074238554,4.5,4,4.5,"American Barleywine",4.5,4.5,"Rio Salado Redzilla",10,14854
-"5",2194,"Rio Salado Brewing Company",1071531035,4.5,4.5,4.5,"American Barleywine",5,5,"Rio Salado Redzilla",10,14854
-"6",2194,"Rio Salado Brewing Company",1071419453,4.5,5,4.5,"American Barleywine",4.5,5,"Rio Salado Redzilla",10,14854
-"7",2194,"Rio Salado Brewing Company",1119040284,3,3,4,"American Pale Ale (APA)",3,3,"Rio Salado Jack Swilling Pale Ale",5,9245
-"8",2194,"Rio Salado Brewing Company",1049016995,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Rio Salado Jack Swilling Pale Ale",5,9245
-"9",2194,"Rio Salado Brewing Company",1049561124,4,4,4,"Doppelbock",4,4,"Rio Salado Defibrillator Dopplebock",9.1,9351
-"10",2194,"Rio Salado Brewing Company",1041951941,3,3,3,"Keller Bier / Zwickel Bier",3,3,"Rio Salado Keller Pils",5,7896
-"11",2194,"Rio Salado Brewing Company",1131301154,5,3.5,4,"Fruit / Vegetable Beer",4.5,4.5,"Rio Salado Anniversary Apricot Hefeweizen",NA,24294
-"12",2194,"Rio Salado Brewing Company",1119040240,3,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Rio Salado Anniversary Apricot Hefeweizen",NA,24294
-"13",2194,"Rio Salado Brewing Company",1100134804,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Rio Salado Saison De Carbs",7.3,20712
-"14",2194,"Rio Salado Brewing Company",1085674259,1,1,4,"Maibock / Helles Bock",3,1,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
-"15",2194,"Rio Salado Brewing Company",1063770141,3.5,3.5,4,"Maibock / Helles Bock",3,3,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
-"16",2194,"Rio Salado Brewing Company",1062291518,3.5,3.5,3,"Maibock / Helles Bock",3.5,3.5,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
-"17",2194,"Rio Salado Brewing Company",1055250913,4,4,4,"Maibock / Helles Bock",4,4,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
-"18",2194,"Rio Salado Brewing Company",1039087889,3.5,3,3,"Maibock / Helles Bock",3,3.5,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
-"19",2194,"Rio Salado Brewing Company",1119297532,3,3,4,"Weizenbock",2,2.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"20",2194,"Rio Salado Brewing Company",1039089524,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
-"21",2194,"Rio Salado Brewing Company",1111896085,3.5,4,3,"Weizenbock",4,4,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"22",2194,"Rio Salado Brewing Company",1063769460,4,4,4,"Weizenbock",4,4,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"23",2194,"Rio Salado Brewing Company",1054217288,3.5,4,4,"Weizenbock",4,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"24",2194,"Rio Salado Brewing Company",1046269118,3.5,3,4,"Weizenbock",4,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"25",2194,"Rio Salado Brewing Company",1043865676,4,3.5,4,"Weizenbock",4.5,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"26",2194,"Rio Salado Brewing Company",1037855256,3.5,3.5,4,"Weizenbock",3.5,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
-"27",2194,"Rio Salado Brewing Company",1093024480,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
-"28",2194,"Rio Salado Brewing Company",1092527568,4,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
-"29",2194,"Rio Salado Brewing Company",1063769954,3.5,3.5,4,"Fruit / Vegetable Beer",3,4,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
-"30",2194,"Rio Salado Brewing Company",1058323246,4.5,3,4,"Fruit / Vegetable Beer",4,4,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
-"31",2194,"Rio Salado Brewing Company",1121968285,4,3,4,"Kölsch",4,4,"Rio Salado Cold Front Kolsch Style Ale",4.95,7067
-"32",2194,"Rio Salado Brewing Company",1120190235,3,3.5,4,"Kölsch",3.5,3.5,"Rio Salado Cold Front Kolsch Style Ale",4.95,7067
-"33",2194,"Rio Salado Brewing Company",1063769609,3.5,3,4,"Kölsch",3,3,"Rio Salado Cold Front Kolsch Style Ale",4.95,7067
-"34",2194,"Rio Salado Brewing Company",1037014390,4,3.5,3.5,"Kölsch",3.5,3.5,"Rio Salado Cold Front Kolsch Style Ale",4.95,7067
-"35",2194,"Rio Salado Brewing Company",1104976381,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"36",2194,"Rio Salado Brewing Company",1094475903,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"37",2194,"Rio Salado Brewing Company",1085987113,4,3.5,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"38",2194,"Rio Salado Brewing Company",1085143192,4.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"39",2194,"Rio Salado Brewing Company",1083380889,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"40",2194,"Rio Salado Brewing Company",1082151144,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"41",2194,"Rio Salado Brewing Company",1075945873,4,3.5,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"42",2194,"Rio Salado Brewing Company",1075149390,4,3.5,4,"Märzen / Oktoberfest",3.5,3,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"43",2194,"Rio Salado Brewing Company",1065751759,2,3.5,4,"Märzen / Oktoberfest",2.5,2,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"44",2194,"Rio Salado Brewing Company",1063987054,3,3.5,4,"Märzen / Oktoberfest",3.5,3,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"45",2194,"Rio Salado Brewing Company",1063769839,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"46",2194,"Rio Salado Brewing Company",1057859842,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"47",2194,"Rio Salado Brewing Company",1054582987,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"48",2194,"Rio Salado Brewing Company",1054029046,3.5,3.5,2.5,"Märzen / Oktoberfest",3.5,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"49",2194,"Rio Salado Brewing Company",1053292197,2.5,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"50",2194,"Rio Salado Brewing Company",1051803990,4,3.5,4,"Märzen / Oktoberfest",4.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"51",2194,"Rio Salado Brewing Company",1046357899,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"52",2194,"Rio Salado Brewing Company",1039727783,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"53",2194,"Rio Salado Brewing Company",1037106906,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"54",2194,"Rio Salado Brewing Company",1032211573,4.5,4.5,4.5,"Märzen / Oktoberfest",4.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
-"55",2194,"Rio Salado Brewing Company",1119040347,3.5,3.5,4,"Irish Dry Stout",3,3.5,"Rio Salado Killarney Stout",5,8963
-"56",2194,"Rio Salado Brewing Company",1047753235,4,4,5,"Irish Dry Stout",3.5,4,"Rio Salado Killarney Stout",5,8963
-"57",2194,"Rio Salado Brewing Company",1131702001,2,4,5,"Schwarzbier",3.5,2.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"58",2194,"Rio Salado Brewing Company",1116198139,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"59",2194,"Rio Salado Brewing Company",1105564055,3.5,4,4,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"60",2194,"Rio Salado Brewing Company",1091924014,4,4,4,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"61",2194,"Rio Salado Brewing Company",1078549050,4,4,4.5,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"62",2194,"Rio Salado Brewing Company",1063900612,4,4,4.5,"Schwarzbier",4.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"63",2194,"Rio Salado Brewing Company",1063770006,4,4,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"64",2194,"Rio Salado Brewing Company",1059188654,4,4.5,4.5,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"65",2194,"Rio Salado Brewing Company",1055705554,4,3,3.5,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"66",2194,"Rio Salado Brewing Company",1054583255,4.5,4,4.5,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"67",2194,"Rio Salado Brewing Company",1053293082,4.5,3.5,4,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"68",2194,"Rio Salado Brewing Company",1052220371,5,3.5,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"69",2194,"Rio Salado Brewing Company",1049657611,4.5,4,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"70",2194,"Rio Salado Brewing Company",1042057755,4.5,4,4.5,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"71",2194,"Rio Salado Brewing Company",1037891697,4,4,4,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"72",2194,"Rio Salado Brewing Company",1036938285,4,4,5,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"73",2194,"Rio Salado Brewing Company",1032213720,4.5,4,4.5,"Schwarzbier",4,5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
-"74",2194,"Rio Salado Brewing Company",1100134598,4,3,3.5,"Altbier",4,3.5,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"75",2194,"Rio Salado Brewing Company",1095273363,4,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"76",2194,"Rio Salado Brewing Company",1078544030,4,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"77",2194,"Rio Salado Brewing Company",1075860625,4,4,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"78",2194,"Rio Salado Brewing Company",1119040397,3.5,3.5,4,"German Pilsener",4,3.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"79",2194,"Rio Salado Brewing Company",1067275115,3.5,3.5,3.5,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"80",2194,"Rio Salado Brewing Company",1053291208,4,3.5,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"81",2194,"Rio Salado Brewing Company",1046354550,4,4,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"82",2194,"Rio Salado Brewing Company",1041622295,4.5,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"83",2194,"Rio Salado Brewing Company",1038813402,4.5,4,3,"Altbier",4.5,4.5,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"84",2194,"Rio Salado Brewing Company",1037109615,4,3.5,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
-"85",2194,"Rio Salado Brewing Company",1120801771,3.5,4,4,"Bock",3,4,"Rio Salado Bock Is Beautiful",NA,24562
-"86",2194,"Rio Salado Brewing Company",1064425897,4,3,3.5,"Witbier",3.5,3.5,"Rio Salado Witty Witbier",3.6,12908
-"87",2194,"Rio Salado Brewing Company",1050272359,5,3.5,3.5,"Maibock / Helles Bock",5,4.5,"Rio Salado Mai Bock",8,9247
-"88",2194,"Rio Salado Brewing Company",1049017596,4,4,4,"Maibock / Helles Bock",4,4,"Rio Salado Mai Bock",8,9247
-"89",2194,"Rio Salado Brewing Company",1098131750,2.5,2.5,3,"German Pilsener",3,2,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"90",2194,"Rio Salado Brewing Company",1075776926,3,3,3,"German Pilsener",2.5,3,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"91",2194,"Rio Salado Brewing Company",1063987137,2.5,4,4,"German Pilsener",3,2,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"92",2194,"Rio Salado Brewing Company",1063769689,3,3,3,"German Pilsener",3,3,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"93",2194,"Rio Salado Brewing Company",1053291719,3,3,2,"German Pilsener",3,2.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"94",2194,"Rio Salado Brewing Company",1036941011,2.5,2.5,2.5,"German Pilsener",2.5,2.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
-"95",2194,"Rio Salado Brewing Company",1100134680,4.5,3.5,3,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"96",2194,"Rio Salado Brewing Company",1095992502,2.5,3,3.5,"Hefeweizen",2.5,2.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"97",2194,"Rio Salado Brewing Company",1078541364,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"98",2194,"Rio Salado Brewing Company",1075776576,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"99",2194,"Rio Salado Brewing Company",1063986766,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"100",2194,"Rio Salado Brewing Company",1054028706,3,3.5,2.5,"Hefeweizen",2.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"101",2194,"Rio Salado Brewing Company",1053290439,3,4,3.5,"Hefeweizen",2.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"102",2194,"Rio Salado Brewing Company",1050355653,3.5,4,3,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"103",2194,"Rio Salado Brewing Company",1046352690,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"104",2194,"Rio Salado Brewing Company",1041266731,4.5,4.5,3,"Hefeweizen",4,4.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"105",2194,"Rio Salado Brewing Company",1036936505,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
-"106",2194,"Rio Salado Brewing Company",1032862326,4.5,4,3.5,"Hefeweizen",4.5,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"2",2194,"Rio Salado Brewing Company",1085674259,1,1,4,"Maibock / Helles Bock",3,1,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
+"3",2194,"Rio Salado Brewing Company",1063770141,3.5,3.5,4,"Maibock / Helles Bock",3,3,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
+"4",2194,"Rio Salado Brewing Company",1062291518,3.5,3.5,3,"Maibock / Helles Bock",3.5,3.5,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
+"5",2194,"Rio Salado Brewing Company",1055250913,4,4,4,"Maibock / Helles Bock",4,4,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
+"6",2194,"Rio Salado Brewing Company",1039087889,3.5,3,3,"Maibock / Helles Bock",3,3.5,"Rio Salado Tornado Helles Bock Pale Lager",8.9,7429
+"7",2194,"Rio Salado Brewing Company",1119297532,3,3,4,"Weizenbock",2,2.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"8",2194,"Rio Salado Brewing Company",1039089524,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
+"9",2194,"Rio Salado Brewing Company",1111896085,3.5,4,3,"Weizenbock",4,4,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"10",2194,"Rio Salado Brewing Company",1063769460,4,4,4,"Weizenbock",4,4,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"11",2194,"Rio Salado Brewing Company",1054217288,3.5,4,4,"Weizenbock",4,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"12",2194,"Rio Salado Brewing Company",1046269118,3.5,3,4,"Weizenbock",4,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"13",2194,"Rio Salado Brewing Company",1043865676,4,3.5,4,"Weizenbock",4.5,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"14",2194,"Rio Salado Brewing Company",1037855256,3.5,3.5,4,"Weizenbock",3.5,3.5,"Rio Salado Blizzard Bock Winter Wheat Ale",7.2,7223
+"15",2194,"Rio Salado Brewing Company",1093024480,4,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
+"16",2194,"Rio Salado Brewing Company",1092527568,4,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
+"17",2194,"Rio Salado Brewing Company",1063769954,3.5,3.5,4,"Fruit / Vegetable Beer",3,4,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
+"18",2194,"Rio Salado Brewing Company",1058323246,4.5,3,4,"Fruit / Vegetable Beer",4,4,"Rio Salado Summer Typhoon Cherry Weisse Ale",4.9,7430
+"19",2194,"Rio Salado Brewing Company",1104976381,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"20",2194,"Rio Salado Brewing Company",1094475903,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"21",2194,"Rio Salado Brewing Company",1085987113,4,3.5,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"22",2194,"Rio Salado Brewing Company",1085143192,4.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"23",2194,"Rio Salado Brewing Company",1083380889,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"24",2194,"Rio Salado Brewing Company",1082151144,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"25",2194,"Rio Salado Brewing Company",1075945873,4,3.5,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"26",2194,"Rio Salado Brewing Company",1075149390,4,3.5,4,"Märzen / Oktoberfest",3.5,3,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"27",2194,"Rio Salado Brewing Company",1065751759,2,3.5,4,"Märzen / Oktoberfest",2.5,2,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"28",2194,"Rio Salado Brewing Company",1063987054,3,3.5,4,"Märzen / Oktoberfest",3.5,3,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"29",2194,"Rio Salado Brewing Company",1063769839,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"30",2194,"Rio Salado Brewing Company",1057859842,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"31",2194,"Rio Salado Brewing Company",1054582987,4,4,4,"Märzen / Oktoberfest",4,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"32",2194,"Rio Salado Brewing Company",1054029046,3.5,3.5,2.5,"Märzen / Oktoberfest",3.5,3.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"33",2194,"Rio Salado Brewing Company",1053292197,2.5,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"34",2194,"Rio Salado Brewing Company",1051803990,4,3.5,4,"Märzen / Oktoberfest",4.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"35",2194,"Rio Salado Brewing Company",1046357899,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"36",2194,"Rio Salado Brewing Company",1039727783,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"37",2194,"Rio Salado Brewing Company",1037106906,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"38",2194,"Rio Salado Brewing Company",1032211573,4.5,4.5,4.5,"Märzen / Oktoberfest",4.5,4.5,"Rio Salado Monsoon Maerzen Amber Lager",6.38,6079
+"39",2194,"Rio Salado Brewing Company",1131702001,2,4,5,"Schwarzbier",3.5,2.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"40",2194,"Rio Salado Brewing Company",1116198139,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"41",2194,"Rio Salado Brewing Company",1105564055,3.5,4,4,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"42",2194,"Rio Salado Brewing Company",1091924014,4,4,4,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"43",2194,"Rio Salado Brewing Company",1078549050,4,4,4.5,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"44",2194,"Rio Salado Brewing Company",1063900612,4,4,4.5,"Schwarzbier",4.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"45",2194,"Rio Salado Brewing Company",1063770006,4,4,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"46",2194,"Rio Salado Brewing Company",1059188654,4,4.5,4.5,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"47",2194,"Rio Salado Brewing Company",1055705554,4,3,3.5,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"48",2194,"Rio Salado Brewing Company",1054583255,4.5,4,4.5,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"49",2194,"Rio Salado Brewing Company",1053293082,4.5,3.5,4,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"50",2194,"Rio Salado Brewing Company",1052220371,5,3.5,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"51",2194,"Rio Salado Brewing Company",1049657611,4.5,4,4,"Schwarzbier",4,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"52",2194,"Rio Salado Brewing Company",1042057755,4.5,4,4.5,"Schwarzbier",3.5,4,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"53",2194,"Rio Salado Brewing Company",1037891697,4,4,4,"Schwarzbier",4,4.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"54",2194,"Rio Salado Brewing Company",1036938285,4,4,5,"Schwarzbier",3.5,3.5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"55",2194,"Rio Salado Brewing Company",1032213720,4.5,4,4.5,"Schwarzbier",4,5,"Rio Salado Thunderhead Schwarz Dark Lager",5.81,6082
+"56",2194,"Rio Salado Brewing Company",1100134598,4,3,3.5,"Altbier",4,3.5,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"57",2194,"Rio Salado Brewing Company",1095273363,4,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"58",2194,"Rio Salado Brewing Company",1078544030,4,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"59",2194,"Rio Salado Brewing Company",1075860625,4,4,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"60",2194,"Rio Salado Brewing Company",1119040397,3.5,3.5,4,"German Pilsener",4,3.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"61",2194,"Rio Salado Brewing Company",1067275115,3.5,3.5,3.5,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"62",2194,"Rio Salado Brewing Company",1053291208,4,3.5,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"63",2194,"Rio Salado Brewing Company",1046354550,4,4,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"64",2194,"Rio Salado Brewing Company",1041622295,4.5,3.5,4,"Altbier",4,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"65",2194,"Rio Salado Brewing Company",1038813402,4.5,4,3,"Altbier",4.5,4.5,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"66",2194,"Rio Salado Brewing Company",1037109615,4,3.5,4,"Altbier",3.5,4,"Rio Salado Autumn Deluge Alt Bier Amber Ale",5,7084
+"67",2194,"Rio Salado Brewing Company",1098131750,2.5,2.5,3,"German Pilsener",3,2,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"68",2194,"Rio Salado Brewing Company",1075776926,3,3,3,"German Pilsener",2.5,3,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"69",2194,"Rio Salado Brewing Company",1063987137,2.5,4,4,"German Pilsener",3,2,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"70",2194,"Rio Salado Brewing Company",1063769689,3,3,3,"German Pilsener",3,3,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"71",2194,"Rio Salado Brewing Company",1053291719,3,3,2,"German Pilsener",3,2.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"72",2194,"Rio Salado Brewing Company",1036941011,2.5,2.5,2.5,"German Pilsener",2.5,2.5,"Rio Salado Lightning Bolt Pilsner Blond Lager",5,7048
+"73",2194,"Rio Salado Brewing Company",1100134680,4.5,3.5,3,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"74",2194,"Rio Salado Brewing Company",1095992502,2.5,3,3.5,"Hefeweizen",2.5,2.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"75",2194,"Rio Salado Brewing Company",1078541364,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"76",2194,"Rio Salado Brewing Company",1075776576,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"77",2194,"Rio Salado Brewing Company",1063986766,4,4,4,"Hefeweizen",4,4,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"78",2194,"Rio Salado Brewing Company",1054028706,3,3.5,2.5,"Hefeweizen",2.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"79",2194,"Rio Salado Brewing Company",1053290439,3,4,3.5,"Hefeweizen",2.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"80",2194,"Rio Salado Brewing Company",1050355653,3.5,4,3,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"81",2194,"Rio Salado Brewing Company",1046352690,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"82",2194,"Rio Salado Brewing Company",1041266731,4.5,4.5,3,"Hefeweizen",4,4.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"83",2194,"Rio Salado Brewing Company",1036936505,3.5,4,3.5,"Hefeweizen",3.5,3.5,"Rio Salado Hurricane Hefeweizen",4.9,6208
+"84",2194,"Rio Salado Brewing Company",1032862326,4.5,4,3.5,"Hefeweizen",4.5,4,"Rio Salado Hurricane Hefeweizen",4.9,6208

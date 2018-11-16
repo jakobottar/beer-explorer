@@ -1,294 +1,267 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",159,"Burton Bridge Brewery",1100763145,4,4,4,"English Bitter",4,4,"Devil's Advocate Bitter",4.5,20800
-"2",159,"Burton Bridge Brewery",1159401760,4,4.5,5,"English Porter",3,4,"Burton Porter",4.5,7897
-"3",159,"Burton Bridge Brewery",1168703753,4.5,4,5,"English Bitter",4,4,"Burton Bridge Santi-Freeze",4.5,34562
-"4",159,"Burton Bridge Brewery",1167753310,4,3,4.5,"English Bitter",4,4,"Burton Bridge Santi-Freeze",4.5,34562
-"5",159,"Burton Bridge Brewery",1115136364,3,3,4,"English Bitter",3,3.5,"Burton Bridge Tree Cheers",4.5,23500
-"6",159,"Burton Bridge Brewery",1312148095,2.5,3,4,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
-"7",159,"Burton Bridge Brewery",1274404849,3.5,3.5,4.5,"Old Ale",4,3.5,"Olde Expensive Ale",6.5,1908
-"8",159,"Burton Bridge Brewery",1270852680,3.5,3.5,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
-"9",159,"Burton Bridge Brewery",1264887270,3,2.5,3,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
-"10",159,"Burton Bridge Brewery",1259808466,3,3.5,3.5,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
-"11",159,"Burton Bridge Brewery",1248493639,4,4,2.5,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
-"12",159,"Burton Bridge Brewery",1244517310,2.5,3,3,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
-"13",159,"Burton Bridge Brewery",1234046084,4,4,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
-"14",159,"Burton Bridge Brewery",1226605315,1,2,4,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
-"15",159,"Burton Bridge Brewery",1222053222,2.5,3,3,"Old Ale",3.5,2,"Olde Expensive Ale",6.5,1908
-"16",159,"Burton Bridge Brewery",1219251314,3,3,3.5,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
-"17",159,"Burton Bridge Brewery",1213672814,2.5,3,3.5,"Old Ale",3,2,"Olde Expensive Ale",6.5,1908
-"18",159,"Burton Bridge Brewery",1208463907,3.5,3,4,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
-"19",159,"Burton Bridge Brewery",1206906254,2.5,2.5,2.5,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
-"20",159,"Burton Bridge Brewery",1158346121,1.5,1.5,2,"Old Ale",1.5,2,"Olde Expensive Ale",6.5,1908
-"21",159,"Burton Bridge Brewery",1206760707,2,2.5,2,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
-"22",159,"Burton Bridge Brewery",1204318293,4.5,4,4,"Old Ale",4,4.5,"Olde Expensive Ale",6.5,1908
-"23",159,"Burton Bridge Brewery",1202610827,1.5,3,2.5,"Old Ale",1.5,2,"Olde Expensive Ale",6.5,1908
-"24",159,"Burton Bridge Brewery",1182897179,2,3,4,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
-"25",159,"Burton Bridge Brewery",1176787533,2.5,3,3.5,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
-"26",159,"Burton Bridge Brewery",1174434107,1.5,3,3,"Old Ale",2,2.5,"Olde Expensive Ale",6.5,1908
-"27",159,"Burton Bridge Brewery",1170644620,2,3.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
-"28",159,"Burton Bridge Brewery",1170533579,2.5,3,3.5,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
-"29",159,"Burton Bridge Brewery",1168051887,1.5,2.5,4,"Old Ale",4,1,"Olde Expensive Ale",6.5,1908
-"30",159,"Burton Bridge Brewery",1163384334,2,2.5,3,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
-"31",159,"Burton Bridge Brewery",1154059983,2.5,2.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
-"32",159,"Burton Bridge Brewery",1153790900,2.5,2.5,3.5,"Old Ale",3,2,"Olde Expensive Ale",6.5,1908
-"33",159,"Burton Bridge Brewery",1143865410,4,4.5,4.5,"Old Ale",4,4.5,"Olde Expensive Ale",6.5,1908
-"34",159,"Burton Bridge Brewery",1139338003,3.5,3,3.5,"Old Ale",3.5,4,"Olde Expensive Ale",6.5,1908
-"35",159,"Burton Bridge Brewery",1127527438,1.5,3,2.5,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
-"36",159,"Burton Bridge Brewery",1124407562,1.5,3.5,3.5,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
-"37",159,"Burton Bridge Brewery",1110332087,2.5,3.5,2.5,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
-"38",159,"Burton Bridge Brewery",1095808392,1,4,3.5,"Old Ale",2,1,"Olde Expensive Ale",6.5,1908
-"39",159,"Burton Bridge Brewery",1088796927,2,2.5,2.5,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
-"40",159,"Burton Bridge Brewery",1086561721,4,3.5,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
-"41",159,"Burton Bridge Brewery",1083715117,3,4,3.5,"Old Ale",3.5,4,"Olde Expensive Ale",6.5,1908
-"42",159,"Burton Bridge Brewery",1077496033,2.5,3.5,4,"Old Ale",3.5,2,"Olde Expensive Ale",6.5,1908
-"43",159,"Burton Bridge Brewery",1063758503,2.5,3,3,"English Bitter",3,2.5,"Burton Bridge XL Bitter",4,12736
-"44",159,"Burton Bridge Brewery",1076902918,2,3,4,"Old Ale",2,2.5,"Olde Expensive Ale",6.5,1908
-"45",159,"Burton Bridge Brewery",1074359156,2,3,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
-"46",159,"Burton Bridge Brewery",1071023922,3,4.5,4,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
-"47",159,"Burton Bridge Brewery",1069033744,2.5,3.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
-"48",159,"Burton Bridge Brewery",1064890279,3,3,3,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
-"49",159,"Burton Bridge Brewery",1064212023,3,3,3,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
-"50",159,"Burton Bridge Brewery",1056524639,2.5,4,3.5,"Old Ale",3.5,2.5,"Olde Expensive Ale",6.5,1908
-"51",159,"Burton Bridge Brewery",1056475035,1.5,2,3.5,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
-"52",159,"Burton Bridge Brewery",1053579364,2.5,3,3.5,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
-"53",159,"Burton Bridge Brewery",1046866280,3.5,3,3.5,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
-"54",159,"Burton Bridge Brewery",1038605626,2,2.5,2,"Old Ale",3,1.5,"Olde Expensive Ale",6.5,1908
-"55",159,"Burton Bridge Brewery",1034497576,3.5,4,4.5,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
-"56",159,"Burton Bridge Brewery",1024815119,3.5,3,4,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
-"57",159,"Burton Bridge Brewery",1024688874,3,4,3.5,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
-"58",159,"Burton Bridge Brewery",1004659201,1,3.5,2,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
-"59",159,"Burton Bridge Brewery",1294408407,4.5,3.5,3.5,"English Bitter",4,4,"Burton Bridge XL Bitter",4,12736
-"60",159,"Burton Bridge Brewery",1235841691,3.5,4,4,"English Bitter",3,3.5,"Burton Bridge XL Bitter",4,12736
-"61",159,"Burton Bridge Brewery",1150331370,3.5,3,3.5,"English Bitter",3.5,3,"Burton Bridge XL Bitter",4,12736
-"62",159,"Burton Bridge Brewery",1114128220,4,2.5,3.5,"English Bitter",4.5,4,"Burton Bridge Silent Knight",4.5,23285
-"63",159,"Burton Bridge Brewery",1251660832,3.5,3.5,3.5,"English Pale Mild Ale",4,3.5,"Burton Bridge Golden Delicious",3.8,13046
-"64",159,"Burton Bridge Brewery",1180223903,3,3,4,"English Pale Mild Ale",3,4,"Burton Bridge Golden Delicious",3.8,13046
-"65",159,"Burton Bridge Brewery",1064799686,2.5,2.5,3,"English Pale Mild Ale",2,2.5,"Burton Bridge Golden Delicious",3.8,13046
-"66",159,"Burton Bridge Brewery",1264274521,4,3.5,3.5,"English Bitter",4,4,"Burton Bridge BBB",4.5,55593
-"67",159,"Burton Bridge Brewery",1199207023,3.5,4.5,3,"English Porter",3.5,3.5,"Festive Christmas Porter",4.5,40332
-"68",159,"Burton Bridge Brewery",1262201954,3.5,3.5,3,"Dubbel",3.5,4,"Tickle Brain",8.6,27463
-"69",159,"Burton Bridge Brewery",1254865975,4,3.5,4,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
-"70",159,"Burton Bridge Brewery",1243333469,3.5,3.5,4,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
-"71",159,"Burton Bridge Brewery",1185735444,3.5,4.5,4,"Dubbel",4,4,"Tickle Brain",8.6,27463
-"72",159,"Burton Bridge Brewery",1173468851,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
-"73",159,"Burton Bridge Brewery",1152571633,2,4,4.5,"Dubbel",4,2.5,"Tickle Brain",8.6,27463
-"74",159,"Burton Bridge Brewery",1147992777,3.5,4,4,"Dubbel",3.5,3,"Tickle Brain",8.6,27463
-"75",159,"Burton Bridge Brewery",1144375938,4,4,4.5,"Dubbel",4,4.5,"Tickle Brain",8.6,27463
-"76",159,"Burton Bridge Brewery",1141272649,4,4,4.5,"Dubbel",4,4,"Tickle Brain",8.6,27463
-"77",159,"Burton Bridge Brewery",1135314186,4,3.5,4,"Dubbel",3.5,4,"Tickle Brain",8.6,27463
-"78",159,"Burton Bridge Brewery",1271106940,3.5,3.5,3,"English Porter",3.5,4,"Burton Porter",4.5,7897
-"79",159,"Burton Bridge Brewery",1251546196,3.5,4,4,"English Porter",3.5,3.5,"Burton Porter",4.5,7897
-"80",159,"Burton Bridge Brewery",1246046894,3.5,3,4,"English Porter",3.5,3,"Burton Porter",4.5,7897
-"81",159,"Burton Bridge Brewery",1232339456,3.5,3,4,"English Porter",3.5,3,"Burton Porter",4.5,7897
-"82",159,"Burton Bridge Brewery",1229789610,3.5,3,4.5,"English Porter",3,3.5,"Burton Porter",4.5,7897
-"83",159,"Burton Bridge Brewery",1228275882,4.5,3.5,4.5,"English Porter",4,3,"Burton Porter",4.5,7897
-"84",159,"Burton Bridge Brewery",1227580461,2.5,2,4,"English Porter",3.5,2.5,"Burton Porter",4.5,7897
-"85",159,"Burton Bridge Brewery",1226365644,2.5,3,4.5,"English Porter",4,3,"Burton Porter",4.5,7897
-"86",159,"Burton Bridge Brewery",1226195067,3,3,4,"English Porter",3,3.5,"Burton Porter",4.5,7897
-"87",159,"Burton Bridge Brewery",1205710247,4,4,4.5,"English Porter",3,4.5,"Burton Porter",4.5,7897
-"88",159,"Burton Bridge Brewery",1204492431,4,4,4.5,"English Porter",4,4,"Burton Porter",4.5,7897
-"89",159,"Burton Bridge Brewery",1202531548,2.5,3,3,"English Porter",2,2.5,"Burton Porter",4.5,7897
-"90",159,"Burton Bridge Brewery",1190770413,3.5,3.5,4.5,"English Porter",3.5,3.5,"Burton Porter",4.5,7897
-"91",159,"Burton Bridge Brewery",1189982552,2.5,2.5,2.5,"English Porter",3,3,"Burton Porter",4.5,7897
-"92",159,"Burton Bridge Brewery",1180895910,4,2.5,2,"English Porter",2.5,3,"Burton Porter",4.5,7897
-"93",159,"Burton Bridge Brewery",1170044600,3,2.5,3,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
-"94",159,"Burton Bridge Brewery",1165532371,3,2.5,3,"English Porter",2.5,3,"Burton Porter",4.5,7897
-"95",159,"Burton Bridge Brewery",1163817985,3,3,3.5,"English Porter",2.5,3,"Burton Porter",4.5,7897
-"96",159,"Burton Bridge Brewery",1161041412,4,3.5,4,"English Porter",3,3,"Burton Porter",4.5,7897
-"97",159,"Burton Bridge Brewery",1160790395,2,3.5,3.5,"English Porter",2.5,2,"Burton Porter",4.5,7897
-"98",159,"Burton Bridge Brewery",1160256503,4,3.5,3.5,"English Porter",3,3,"Burton Porter",4.5,7897
-"99",159,"Burton Bridge Brewery",1159674833,2,3.5,2.5,"English Porter",2,2,"Burton Porter",4.5,7897
-"100",159,"Burton Bridge Brewery",1159668207,2.5,2.5,3,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
-"101",159,"Burton Bridge Brewery",1159574604,4.5,4,4.5,"English Porter",3.5,4,"Burton Porter",4.5,7897
-"102",159,"Burton Bridge Brewery",1159138435,3,3.5,3.5,"English Porter",3,4,"Burton Porter",4.5,7897
-"103",159,"Burton Bridge Brewery",1158979075,3.5,4.5,4,"English Porter",3.5,4,"Burton Porter",4.5,7897
-"104",159,"Burton Bridge Brewery",1158887795,4.5,4,4.5,"English Porter",4,4.5,"Burton Porter",4.5,7897
-"105",159,"Burton Bridge Brewery",1158713991,4,4,4,"English Porter",4,3.5,"Burton Porter",4.5,7897
-"106",159,"Burton Bridge Brewery",1144007963,2.5,3.5,3,"English Porter",2.5,3,"Burton Porter",4.5,7897
-"107",159,"Burton Bridge Brewery",1135316505,4,3.5,4,"English Porter",4,3.5,"Burton Porter",4.5,7897
-"108",159,"Burton Bridge Brewery",1133174680,4,3.5,3.5,"English Porter",4,3,"Burton Porter",4.5,7897
-"109",159,"Burton Bridge Brewery",1081872911,4,4,4,"English Porter",4,4,"Burton Porter",4.5,7897
-"110",159,"Burton Bridge Brewery",1076979932,1.5,2,3,"English Porter",3.5,2,"Burton Porter",4.5,7897
-"111",159,"Burton Bridge Brewery",1073195302,2,2.5,1.5,"English Porter",2,2,"Burton Porter",4.5,7897
-"112",159,"Burton Bridge Brewery",1063844417,3.5,4,4,"English Porter",4,4,"Burton Porter",4.5,7897
-"113",159,"Burton Bridge Brewery",1054743241,3.5,4,3.5,"English Porter",4,3,"Burton Porter",4.5,7897
-"114",159,"Burton Bridge Brewery",1044117134,3,2.5,3.5,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
-"115",159,"Burton Bridge Brewery",1042298709,2,2.5,4,"English Porter",2,2,"Burton Porter",4.5,7897
-"116",159,"Burton Bridge Brewery",1041952339,3,2.5,4,"English Porter",3,2.5,"Burton Porter",4.5,7897
-"117",159,"Burton Bridge Brewery",1188161420,3.5,3.5,4,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Battle Brew",5,38403
-"118",159,"Burton Bridge Brewery",1145984970,4,3.5,4,"English Dark Mild Ale",3.5,3.5,"Burton Bridge XL Mild",4,30119
-"119",159,"Burton Bridge Brewery",1118131671,3.5,3.5,3.5,"English Porter",4,4,"Damson Porter",4.5,24139
-"120",159,"Burton Bridge Brewery",1318535694,4,4.5,4.5,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
-"121",159,"Burton Bridge Brewery",1315440966,4,4,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
-"122",159,"Burton Bridge Brewery",1311738689,4.5,4,3.5,"Old Ale",3.5,4,"Thomas Sykes Old Ale",10,14264
-"123",159,"Burton Bridge Brewery",1272683214,4,3.5,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
-"124",159,"Burton Bridge Brewery",1237914759,3,3,4,"Old Ale",4,3.5,"Thomas Sykes Old Ale",10,14264
-"125",159,"Burton Bridge Brewery",1236912958,1,2,3,"Old Ale",2,1,"Thomas Sykes Old Ale",10,14264
-"126",159,"Burton Bridge Brewery",1236620781,2,2.5,3.5,"Old Ale",2,1.5,"Thomas Sykes Old Ale",10,14264
-"127",159,"Burton Bridge Brewery",1234205563,3,4,3.5,"Old Ale",4,3,"Thomas Sykes Old Ale",10,14264
-"128",159,"Burton Bridge Brewery",1234060191,4.5,4.5,3.5,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
-"129",159,"Burton Bridge Brewery",1132433046,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"130",159,"Burton Bridge Brewery",1182563777,3,3.5,4,"Old Ale",4.5,4.5,"Thomas Sykes Old Ale",10,14264
-"131",159,"Burton Bridge Brewery",1174660739,3.5,3,4,"Old Ale",4,3.5,"Thomas Sykes Old Ale",10,14264
-"132",159,"Burton Bridge Brewery",1146081582,4,4,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
-"133",159,"Burton Bridge Brewery",1069096104,4.5,4.5,4,"Old Ale",4.5,4.5,"Thomas Sykes Old Ale",10,14264
-"134",159,"Burton Bridge Brewery",1166133900,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Burton Bridge Festival Ale",5.5,34321
-"135",159,"Burton Bridge Brewery",1139720772,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"136",159,"Burton Bridge Brewery",1138754636,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"137",159,"Burton Bridge Brewery",1137985169,5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"138",159,"Burton Bridge Brewery",1137643493,3.5,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"139",159,"Burton Bridge Brewery",1135312359,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"140",159,"Burton Bridge Brewery",1134776976,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"141",159,"Burton Bridge Brewery",1129926865,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"142",159,"Burton Bridge Brewery",1127481646,3,3,4,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"143",159,"Burton Bridge Brewery",1125975726,1.5,4,4.5,"English India Pale Ale (IPA)",4.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
-"144",159,"Burton Bridge Brewery",1123194205,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"145",159,"Burton Bridge Brewery",1119482883,3.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"146",159,"Burton Bridge Brewery",1118416553,3,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"147",159,"Burton Bridge Brewery",1111248862,4,3.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"148",159,"Burton Bridge Brewery",1111029660,3,4,4,"English India Pale Ale (IPA)",3,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"149",159,"Burton Bridge Brewery",1106281304,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"150",159,"Burton Bridge Brewery",1105560249,4.5,4.5,5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"151",159,"Burton Bridge Brewery",1099541045,3,3,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"152",159,"Burton Bridge Brewery",1098735183,4,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"153",159,"Burton Bridge Brewery",1098729183,3,3,4,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"154",159,"Burton Bridge Brewery",1098710830,3,3,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"155",159,"Burton Bridge Brewery",1097161783,3.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"156",159,"Burton Bridge Brewery",1090014102,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"157",159,"Burton Bridge Brewery",1089767399,4,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"158",159,"Burton Bridge Brewery",1089699546,3.5,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"159",159,"Burton Bridge Brewery",1084758239,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"160",159,"Burton Bridge Brewery",1062337648,2.5,3,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"161",159,"Burton Bridge Brewery",1082154380,3,3.5,3,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"162",159,"Burton Bridge Brewery",1078859267,3,3,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"163",159,"Burton Bridge Brewery",1077146242,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"164",159,"Burton Bridge Brewery",1075508283,4,4,3.5,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"165",159,"Burton Bridge Brewery",1073140832,2,2.5,3,"English India Pale Ale (IPA)",2.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
-"166",159,"Burton Bridge Brewery",1071463239,2.5,4,4,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"167",159,"Burton Bridge Brewery",1064714495,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"168",159,"Burton Bridge Brewery",1063832118,3,4,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"169",159,"Burton Bridge Brewery",1063667909,3,4,3,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"170",159,"Burton Bridge Brewery",1061511545,2.5,1,4,"English India Pale Ale (IPA)",2.5,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"171",159,"Burton Bridge Brewery",1060667369,1,1.5,3.5,"English India Pale Ale (IPA)",2.5,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"172",159,"Burton Bridge Brewery",1059890175,4,3,4,"English India Pale Ale (IPA)",4.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"173",159,"Burton Bridge Brewery",1055357013,3,3.5,3,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"174",159,"Burton Bridge Brewery",1054742596,2.5,4,2,"English India Pale Ale (IPA)",2,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"175",159,"Burton Bridge Brewery",1043100030,3.5,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"176",159,"Burton Bridge Brewery",1041282979,3.5,4,3.5,"English India Pale Ale (IPA)",4,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"177",159,"Burton Bridge Brewery",1032364519,3,3,1.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"178",159,"Burton Bridge Brewery",1025511352,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"179",159,"Burton Bridge Brewery",1024392060,4.5,5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"180",159,"Burton Bridge Brewery",1017660595,3.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"181",159,"Burton Bridge Brewery",1317749480,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"182",159,"Burton Bridge Brewery",1313122134,3.5,3,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"183",159,"Burton Bridge Brewery",1309276756,2.5,2.5,3,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"184",159,"Burton Bridge Brewery",1308779528,3.5,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"185",159,"Burton Bridge Brewery",1303561451,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"186",159,"Burton Bridge Brewery",1302651203,2,2,3.5,"English India Pale Ale (IPA)",3,2,"Burton Bridge Empire India Pale Ale",7.5,235
-"187",159,"Burton Bridge Brewery",1302215937,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"188",159,"Burton Bridge Brewery",1301503216,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"189",159,"Burton Bridge Brewery",1289361713,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"190",159,"Burton Bridge Brewery",1285698748,4,4.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"191",159,"Burton Bridge Brewery",1285387378,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"192",159,"Burton Bridge Brewery",1283959464,4.5,4,3.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"193",159,"Burton Bridge Brewery",1279919489,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"194",159,"Burton Bridge Brewery",1277816650,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"195",159,"Burton Bridge Brewery",1255479887,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"196",159,"Burton Bridge Brewery",1276650049,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"197",159,"Burton Bridge Brewery",1270133892,3.5,4,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"198",159,"Burton Bridge Brewery",1269613188,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"199",159,"Burton Bridge Brewery",1267396317,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"200",159,"Burton Bridge Brewery",1267237643,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"201",159,"Burton Bridge Brewery",1266691727,5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"202",159,"Burton Bridge Brewery",1262131384,3.5,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"203",159,"Burton Bridge Brewery",1260737491,4,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"204",159,"Burton Bridge Brewery",1258786438,4.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"205",159,"Burton Bridge Brewery",1166133712,4,4,4.5,"English Stout",4,4.5,"Burton Bridge Top Dog Stout",5,17764
-"206",159,"Burton Bridge Brewery",1251482493,4,2,5,"English India Pale Ale (IPA)",5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"207",159,"Burton Bridge Brewery",1249842562,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"208",159,"Burton Bridge Brewery",1248489015,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"209",159,"Burton Bridge Brewery",1247017962,3.5,4,3.5,"English India Pale Ale (IPA)",4,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"210",159,"Burton Bridge Brewery",1247006802,1,1,3,"English India Pale Ale (IPA)",1.5,1,"Burton Bridge Empire India Pale Ale",7.5,235
-"211",159,"Burton Bridge Brewery",1242039556,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"212",159,"Burton Bridge Brewery",1237171827,4,4,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"213",159,"Burton Bridge Brewery",1237060137,4.5,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"214",159,"Burton Bridge Brewery",1236577067,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"215",159,"Burton Bridge Brewery",1235706258,5,5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"216",159,"Burton Bridge Brewery",1235521883,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"217",159,"Burton Bridge Brewery",1235419678,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"218",159,"Burton Bridge Brewery",1232419765,3,4,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"219",159,"Burton Bridge Brewery",1226084268,1,3,4,"English India Pale Ale (IPA)",1.5,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"220",159,"Burton Bridge Brewery",1225652824,3.5,4,4,"English India Pale Ale (IPA)",2.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"221",159,"Burton Bridge Brewery",1225224069,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"222",159,"Burton Bridge Brewery",1223770243,3,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"223",159,"Burton Bridge Brewery",1221573869,4,3,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"224",159,"Burton Bridge Brewery",1221251180,4,3.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"225",159,"Burton Bridge Brewery",1217617517,4,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"226",159,"Burton Bridge Brewery",1214883706,3,3,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"227",159,"Burton Bridge Brewery",1212379484,4.5,3,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"228",159,"Burton Bridge Brewery",1211963677,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"229",159,"Burton Bridge Brewery",1105198864,4.5,4.5,4,"English Stout",4,4,"Burton Bridge Top Dog Stout",5,17764
-"230",159,"Burton Bridge Brewery",1210987602,3.5,3,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"231",159,"Burton Bridge Brewery",1208463385,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"232",159,"Burton Bridge Brewery",1207183045,4.5,3.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"233",159,"Burton Bridge Brewery",1207126579,2.5,3,3,"English India Pale Ale (IPA)",2.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
-"234",159,"Burton Bridge Brewery",1204491061,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"235",159,"Burton Bridge Brewery",1203916160,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"236",159,"Burton Bridge Brewery",1200880820,5,4.5,4,"English India Pale Ale (IPA)",4.5,5,"Burton Bridge Empire India Pale Ale",7.5,235
-"237",159,"Burton Bridge Brewery",1199668885,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"238",159,"Burton Bridge Brewery",1199331082,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"239",159,"Burton Bridge Brewery",1197252935,4,4.5,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"240",159,"Burton Bridge Brewery",1195339685,4.5,5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"241",159,"Burton Bridge Brewery",1194648910,3.5,4,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"242",159,"Burton Bridge Brewery",1194313668,4.5,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"243",159,"Burton Bridge Brewery",1186790552,3.5,1.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"244",159,"Burton Bridge Brewery",1184387743,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"245",159,"Burton Bridge Brewery",1183898827,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"246",159,"Burton Bridge Brewery",1181864579,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"247",159,"Burton Bridge Brewery",1179794192,3.5,3.5,4,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"248",159,"Burton Bridge Brewery",1176186089,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"249",159,"Burton Bridge Brewery",1175628525,3.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"250",159,"Burton Bridge Brewery",1174773440,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"251",159,"Burton Bridge Brewery",1171651021,3,3.5,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"252",159,"Burton Bridge Brewery",1171213550,2.5,2,2,"English India Pale Ale (IPA)",3,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"253",159,"Burton Bridge Brewery",1171063039,3.5,4,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"254",159,"Burton Bridge Brewery",1169773505,3.5,3,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"255",159,"Burton Bridge Brewery",1163380856,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"256",159,"Burton Bridge Brewery",1163380413,4,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"257",159,"Burton Bridge Brewery",1157257171,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"258",159,"Burton Bridge Brewery",1155699403,2.5,3,3.5,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"259",159,"Burton Bridge Brewery",1155672992,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"260",159,"Burton Bridge Brewery",1155255253,3.5,4.5,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"261",159,"Burton Bridge Brewery",1153817388,4,3,3.5,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"262",159,"Burton Bridge Brewery",1153402952,3,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"263",159,"Burton Bridge Brewery",1147581209,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
-"264",159,"Burton Bridge Brewery",1146275311,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"265",159,"Burton Bridge Brewery",1145936211,4,4,5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
-"266",159,"Burton Bridge Brewery",1144966295,4.5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"267",159,"Burton Bridge Brewery",1143007788,4,3.5,3.5,"English India Pale Ale (IPA)",4.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"268",159,"Burton Bridge Brewery",1142927527,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"269",159,"Burton Bridge Brewery",1142550866,4,4.5,4.5,"English India Pale Ale (IPA)",5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"270",159,"Burton Bridge Brewery",1142389852,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"271",159,"Burton Bridge Brewery",1141260834,4,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"272",159,"Burton Bridge Brewery",1140215408,3,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
-"273",159,"Burton Bridge Brewery",1063070615,3.5,3,3,"English Bitter",3,3.5,"Burton Bridge Paramount Gold Medal Ale",4.5,12614
-"274",159,"Burton Bridge Brewery",1166125314,2,2.5,4,"English Bitter",3,2,"Burton Bridge Stairway To Heaven",5,13181
-"275",159,"Burton Bridge Brewery",1147998713,4.5,4,4,"English Bitter",4,4,"Burton Bridge Stairway To Heaven",5,13181
-"276",159,"Burton Bridge Brewery",1065191740,3,3,3,"English Bitter",3,3.5,"Burton Bridge Stairway To Heaven",5,13181
-"277",159,"Burton Bridge Brewery",1324767546,4,4,4.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"278",159,"Burton Bridge Brewery",1320985371,3.5,3.5,4.5,"English Stout",3.5,3.5,"Burton Bridge Bramble Stout",5,13179
-"279",159,"Burton Bridge Brewery",1274343836,3.5,3.5,4,"English Stout",3.5,3.5,"Burton Bridge Bramble Stout",5,13179
-"280",159,"Burton Bridge Brewery",1271011906,4,3.5,3.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"281",159,"Burton Bridge Brewery",1268711959,3.5,3.5,4,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"282",159,"Burton Bridge Brewery",1268680207,3.5,4,4,"English Stout",4,3.5,"Burton Bridge Bramble Stout",5,13179
-"283",159,"Burton Bridge Brewery",1267585558,4.5,4,4.5,"English Stout",5,4.5,"Burton Bridge Bramble Stout",5,13179
-"284",159,"Burton Bridge Brewery",1260056305,4,4,3.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"285",159,"Burton Bridge Brewery",1182548974,4,4.5,5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"286",159,"Burton Bridge Brewery",1150134352,4,4,3.5,"English Stout",3.5,3,"Burton Bridge Bramble Stout",5,13179
-"287",159,"Burton Bridge Brewery",1149276617,4.5,4,4.5,"English Stout",4.5,4,"Burton Bridge Bramble Stout",5,13179
-"288",159,"Burton Bridge Brewery",1147123784,4,3.5,4,"English Stout",5,4.5,"Burton Bridge Bramble Stout",5,13179
-"289",159,"Burton Bridge Brewery",1135315863,4,3.5,4,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
-"290",159,"Burton Bridge Brewery",1065191293,3.5,3.5,3,"English Stout",4,3.5,"Burton Bridge Bramble Stout",5,13179
-"291",159,"Burton Bridge Brewery",1201377673,4,4.5,4.5,"English Stout",4.5,4.5,"Burton Bridge Top Dog Stout",5,17764
-"292",159,"Burton Bridge Brewery",1086264673,4.5,4,4.5,"English Stout",4,4,"Burton Bridge Top Dog Stout",5,17764
-"293",159,"Burton Bridge Brewery",1065493978,3,3,3,"English Bitter",3,3.5,"Burton Bridge Star Turn",4.5,13293
+"1",159,"Burton Bridge Brewery",1159401760,4,4.5,5,"English Porter",3,4,"Burton Porter",4.5,7897
+"2",159,"Burton Bridge Brewery",1312148095,2.5,3,4,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
+"3",159,"Burton Bridge Brewery",1274404849,3.5,3.5,4.5,"Old Ale",4,3.5,"Olde Expensive Ale",6.5,1908
+"4",159,"Burton Bridge Brewery",1270852680,3.5,3.5,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
+"5",159,"Burton Bridge Brewery",1264887270,3,2.5,3,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
+"6",159,"Burton Bridge Brewery",1259808466,3,3.5,3.5,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
+"7",159,"Burton Bridge Brewery",1248493639,4,4,2.5,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
+"8",159,"Burton Bridge Brewery",1244517310,2.5,3,3,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
+"9",159,"Burton Bridge Brewery",1234046084,4,4,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
+"10",159,"Burton Bridge Brewery",1226605315,1,2,4,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
+"11",159,"Burton Bridge Brewery",1222053222,2.5,3,3,"Old Ale",3.5,2,"Olde Expensive Ale",6.5,1908
+"12",159,"Burton Bridge Brewery",1219251314,3,3,3.5,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
+"13",159,"Burton Bridge Brewery",1213672814,2.5,3,3.5,"Old Ale",3,2,"Olde Expensive Ale",6.5,1908
+"14",159,"Burton Bridge Brewery",1208463907,3.5,3,4,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
+"15",159,"Burton Bridge Brewery",1206906254,2.5,2.5,2.5,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
+"16",159,"Burton Bridge Brewery",1158346121,1.5,1.5,2,"Old Ale",1.5,2,"Olde Expensive Ale",6.5,1908
+"17",159,"Burton Bridge Brewery",1206760707,2,2.5,2,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
+"18",159,"Burton Bridge Brewery",1204318293,4.5,4,4,"Old Ale",4,4.5,"Olde Expensive Ale",6.5,1908
+"19",159,"Burton Bridge Brewery",1202610827,1.5,3,2.5,"Old Ale",1.5,2,"Olde Expensive Ale",6.5,1908
+"20",159,"Burton Bridge Brewery",1182897179,2,3,4,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
+"21",159,"Burton Bridge Brewery",1176787533,2.5,3,3.5,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
+"22",159,"Burton Bridge Brewery",1174434107,1.5,3,3,"Old Ale",2,2.5,"Olde Expensive Ale",6.5,1908
+"23",159,"Burton Bridge Brewery",1170644620,2,3.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
+"24",159,"Burton Bridge Brewery",1170533579,2.5,3,3.5,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
+"25",159,"Burton Bridge Brewery",1168051887,1.5,2.5,4,"Old Ale",4,1,"Olde Expensive Ale",6.5,1908
+"26",159,"Burton Bridge Brewery",1163384334,2,2.5,3,"Old Ale",2.5,2.5,"Olde Expensive Ale",6.5,1908
+"27",159,"Burton Bridge Brewery",1154059983,2.5,2.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
+"28",159,"Burton Bridge Brewery",1153790900,2.5,2.5,3.5,"Old Ale",3,2,"Olde Expensive Ale",6.5,1908
+"29",159,"Burton Bridge Brewery",1143865410,4,4.5,4.5,"Old Ale",4,4.5,"Olde Expensive Ale",6.5,1908
+"30",159,"Burton Bridge Brewery",1139338003,3.5,3,3.5,"Old Ale",3.5,4,"Olde Expensive Ale",6.5,1908
+"31",159,"Burton Bridge Brewery",1127527438,1.5,3,2.5,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
+"32",159,"Burton Bridge Brewery",1124407562,1.5,3.5,3.5,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
+"33",159,"Burton Bridge Brewery",1110332087,2.5,3.5,2.5,"Old Ale",2.5,3,"Olde Expensive Ale",6.5,1908
+"34",159,"Burton Bridge Brewery",1095808392,1,4,3.5,"Old Ale",2,1,"Olde Expensive Ale",6.5,1908
+"35",159,"Burton Bridge Brewery",1088796927,2,2.5,2.5,"Old Ale",2.5,2,"Olde Expensive Ale",6.5,1908
+"36",159,"Burton Bridge Brewery",1086561721,4,3.5,4,"Old Ale",4,4,"Olde Expensive Ale",6.5,1908
+"37",159,"Burton Bridge Brewery",1083715117,3,4,3.5,"Old Ale",3.5,4,"Olde Expensive Ale",6.5,1908
+"38",159,"Burton Bridge Brewery",1077496033,2.5,3.5,4,"Old Ale",3.5,2,"Olde Expensive Ale",6.5,1908
+"39",159,"Burton Bridge Brewery",1076902918,2,3,4,"Old Ale",2,2.5,"Olde Expensive Ale",6.5,1908
+"40",159,"Burton Bridge Brewery",1074359156,2,3,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
+"41",159,"Burton Bridge Brewery",1071023922,3,4.5,4,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
+"42",159,"Burton Bridge Brewery",1069033744,2.5,3.5,3.5,"Old Ale",3,2.5,"Olde Expensive Ale",6.5,1908
+"43",159,"Burton Bridge Brewery",1064890279,3,3,3,"Old Ale",3,3,"Olde Expensive Ale",6.5,1908
+"44",159,"Burton Bridge Brewery",1064212023,3,3,3,"Old Ale",3.5,3,"Olde Expensive Ale",6.5,1908
+"45",159,"Burton Bridge Brewery",1056524639,2.5,4,3.5,"Old Ale",3.5,2.5,"Olde Expensive Ale",6.5,1908
+"46",159,"Burton Bridge Brewery",1056475035,1.5,2,3.5,"Old Ale",2,1.5,"Olde Expensive Ale",6.5,1908
+"47",159,"Burton Bridge Brewery",1053579364,2.5,3,3.5,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
+"48",159,"Burton Bridge Brewery",1046866280,3.5,3,3.5,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
+"49",159,"Burton Bridge Brewery",1038605626,2,2.5,2,"Old Ale",3,1.5,"Olde Expensive Ale",6.5,1908
+"50",159,"Burton Bridge Brewery",1034497576,3.5,4,4.5,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
+"51",159,"Burton Bridge Brewery",1024815119,3.5,3,4,"Old Ale",3,3.5,"Olde Expensive Ale",6.5,1908
+"52",159,"Burton Bridge Brewery",1024688874,3,4,3.5,"Old Ale",3.5,3.5,"Olde Expensive Ale",6.5,1908
+"53",159,"Burton Bridge Brewery",1004659201,1,3.5,2,"Old Ale",2,2,"Olde Expensive Ale",6.5,1908
+"54",159,"Burton Bridge Brewery",1262201954,3.5,3.5,3,"Dubbel",3.5,4,"Tickle Brain",8.6,27463
+"55",159,"Burton Bridge Brewery",1254865975,4,3.5,4,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
+"56",159,"Burton Bridge Brewery",1243333469,3.5,3.5,4,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
+"57",159,"Burton Bridge Brewery",1185735444,3.5,4.5,4,"Dubbel",4,4,"Tickle Brain",8.6,27463
+"58",159,"Burton Bridge Brewery",1173468851,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Tickle Brain",8.6,27463
+"59",159,"Burton Bridge Brewery",1152571633,2,4,4.5,"Dubbel",4,2.5,"Tickle Brain",8.6,27463
+"60",159,"Burton Bridge Brewery",1147992777,3.5,4,4,"Dubbel",3.5,3,"Tickle Brain",8.6,27463
+"61",159,"Burton Bridge Brewery",1144375938,4,4,4.5,"Dubbel",4,4.5,"Tickle Brain",8.6,27463
+"62",159,"Burton Bridge Brewery",1141272649,4,4,4.5,"Dubbel",4,4,"Tickle Brain",8.6,27463
+"63",159,"Burton Bridge Brewery",1135314186,4,3.5,4,"Dubbel",3.5,4,"Tickle Brain",8.6,27463
+"64",159,"Burton Bridge Brewery",1271106940,3.5,3.5,3,"English Porter",3.5,4,"Burton Porter",4.5,7897
+"65",159,"Burton Bridge Brewery",1251546196,3.5,4,4,"English Porter",3.5,3.5,"Burton Porter",4.5,7897
+"66",159,"Burton Bridge Brewery",1246046894,3.5,3,4,"English Porter",3.5,3,"Burton Porter",4.5,7897
+"67",159,"Burton Bridge Brewery",1232339456,3.5,3,4,"English Porter",3.5,3,"Burton Porter",4.5,7897
+"68",159,"Burton Bridge Brewery",1229789610,3.5,3,4.5,"English Porter",3,3.5,"Burton Porter",4.5,7897
+"69",159,"Burton Bridge Brewery",1228275882,4.5,3.5,4.5,"English Porter",4,3,"Burton Porter",4.5,7897
+"70",159,"Burton Bridge Brewery",1227580461,2.5,2,4,"English Porter",3.5,2.5,"Burton Porter",4.5,7897
+"71",159,"Burton Bridge Brewery",1226365644,2.5,3,4.5,"English Porter",4,3,"Burton Porter",4.5,7897
+"72",159,"Burton Bridge Brewery",1226195067,3,3,4,"English Porter",3,3.5,"Burton Porter",4.5,7897
+"73",159,"Burton Bridge Brewery",1205710247,4,4,4.5,"English Porter",3,4.5,"Burton Porter",4.5,7897
+"74",159,"Burton Bridge Brewery",1204492431,4,4,4.5,"English Porter",4,4,"Burton Porter",4.5,7897
+"75",159,"Burton Bridge Brewery",1202531548,2.5,3,3,"English Porter",2,2.5,"Burton Porter",4.5,7897
+"76",159,"Burton Bridge Brewery",1190770413,3.5,3.5,4.5,"English Porter",3.5,3.5,"Burton Porter",4.5,7897
+"77",159,"Burton Bridge Brewery",1189982552,2.5,2.5,2.5,"English Porter",3,3,"Burton Porter",4.5,7897
+"78",159,"Burton Bridge Brewery",1180895910,4,2.5,2,"English Porter",2.5,3,"Burton Porter",4.5,7897
+"79",159,"Burton Bridge Brewery",1170044600,3,2.5,3,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
+"80",159,"Burton Bridge Brewery",1165532371,3,2.5,3,"English Porter",2.5,3,"Burton Porter",4.5,7897
+"81",159,"Burton Bridge Brewery",1163817985,3,3,3.5,"English Porter",2.5,3,"Burton Porter",4.5,7897
+"82",159,"Burton Bridge Brewery",1161041412,4,3.5,4,"English Porter",3,3,"Burton Porter",4.5,7897
+"83",159,"Burton Bridge Brewery",1160790395,2,3.5,3.5,"English Porter",2.5,2,"Burton Porter",4.5,7897
+"84",159,"Burton Bridge Brewery",1160256503,4,3.5,3.5,"English Porter",3,3,"Burton Porter",4.5,7897
+"85",159,"Burton Bridge Brewery",1159674833,2,3.5,2.5,"English Porter",2,2,"Burton Porter",4.5,7897
+"86",159,"Burton Bridge Brewery",1159668207,2.5,2.5,3,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
+"87",159,"Burton Bridge Brewery",1159574604,4.5,4,4.5,"English Porter",3.5,4,"Burton Porter",4.5,7897
+"88",159,"Burton Bridge Brewery",1159138435,3,3.5,3.5,"English Porter",3,4,"Burton Porter",4.5,7897
+"89",159,"Burton Bridge Brewery",1158979075,3.5,4.5,4,"English Porter",3.5,4,"Burton Porter",4.5,7897
+"90",159,"Burton Bridge Brewery",1158887795,4.5,4,4.5,"English Porter",4,4.5,"Burton Porter",4.5,7897
+"91",159,"Burton Bridge Brewery",1158713991,4,4,4,"English Porter",4,3.5,"Burton Porter",4.5,7897
+"92",159,"Burton Bridge Brewery",1144007963,2.5,3.5,3,"English Porter",2.5,3,"Burton Porter",4.5,7897
+"93",159,"Burton Bridge Brewery",1135316505,4,3.5,4,"English Porter",4,3.5,"Burton Porter",4.5,7897
+"94",159,"Burton Bridge Brewery",1133174680,4,3.5,3.5,"English Porter",4,3,"Burton Porter",4.5,7897
+"95",159,"Burton Bridge Brewery",1081872911,4,4,4,"English Porter",4,4,"Burton Porter",4.5,7897
+"96",159,"Burton Bridge Brewery",1076979932,1.5,2,3,"English Porter",3.5,2,"Burton Porter",4.5,7897
+"97",159,"Burton Bridge Brewery",1073195302,2,2.5,1.5,"English Porter",2,2,"Burton Porter",4.5,7897
+"98",159,"Burton Bridge Brewery",1063844417,3.5,4,4,"English Porter",4,4,"Burton Porter",4.5,7897
+"99",159,"Burton Bridge Brewery",1054743241,3.5,4,3.5,"English Porter",4,3,"Burton Porter",4.5,7897
+"100",159,"Burton Bridge Brewery",1044117134,3,2.5,3.5,"English Porter",2.5,2.5,"Burton Porter",4.5,7897
+"101",159,"Burton Bridge Brewery",1042298709,2,2.5,4,"English Porter",2,2,"Burton Porter",4.5,7897
+"102",159,"Burton Bridge Brewery",1041952339,3,2.5,4,"English Porter",3,2.5,"Burton Porter",4.5,7897
+"103",159,"Burton Bridge Brewery",1318535694,4,4.5,4.5,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
+"104",159,"Burton Bridge Brewery",1315440966,4,4,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
+"105",159,"Burton Bridge Brewery",1311738689,4.5,4,3.5,"Old Ale",3.5,4,"Thomas Sykes Old Ale",10,14264
+"106",159,"Burton Bridge Brewery",1272683214,4,3.5,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
+"107",159,"Burton Bridge Brewery",1237914759,3,3,4,"Old Ale",4,3.5,"Thomas Sykes Old Ale",10,14264
+"108",159,"Burton Bridge Brewery",1236912958,1,2,3,"Old Ale",2,1,"Thomas Sykes Old Ale",10,14264
+"109",159,"Burton Bridge Brewery",1236620781,2,2.5,3.5,"Old Ale",2,1.5,"Thomas Sykes Old Ale",10,14264
+"110",159,"Burton Bridge Brewery",1234205563,3,4,3.5,"Old Ale",4,3,"Thomas Sykes Old Ale",10,14264
+"111",159,"Burton Bridge Brewery",1234060191,4.5,4.5,3.5,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
+"112",159,"Burton Bridge Brewery",1132433046,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"113",159,"Burton Bridge Brewery",1182563777,3,3.5,4,"Old Ale",4.5,4.5,"Thomas Sykes Old Ale",10,14264
+"114",159,"Burton Bridge Brewery",1174660739,3.5,3,4,"Old Ale",4,3.5,"Thomas Sykes Old Ale",10,14264
+"115",159,"Burton Bridge Brewery",1146081582,4,4,4,"Old Ale",4,4,"Thomas Sykes Old Ale",10,14264
+"116",159,"Burton Bridge Brewery",1069096104,4.5,4.5,4,"Old Ale",4.5,4.5,"Thomas Sykes Old Ale",10,14264
+"117",159,"Burton Bridge Brewery",1139720772,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"118",159,"Burton Bridge Brewery",1138754636,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"119",159,"Burton Bridge Brewery",1137985169,5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"120",159,"Burton Bridge Brewery",1137643493,3.5,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"121",159,"Burton Bridge Brewery",1135312359,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"122",159,"Burton Bridge Brewery",1134776976,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"123",159,"Burton Bridge Brewery",1129926865,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"124",159,"Burton Bridge Brewery",1127481646,3,3,4,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"125",159,"Burton Bridge Brewery",1125975726,1.5,4,4.5,"English India Pale Ale (IPA)",4.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
+"126",159,"Burton Bridge Brewery",1123194205,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"127",159,"Burton Bridge Brewery",1119482883,3.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"128",159,"Burton Bridge Brewery",1118416553,3,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"129",159,"Burton Bridge Brewery",1111248862,4,3.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"130",159,"Burton Bridge Brewery",1111029660,3,4,4,"English India Pale Ale (IPA)",3,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"131",159,"Burton Bridge Brewery",1106281304,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"132",159,"Burton Bridge Brewery",1105560249,4.5,4.5,5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"133",159,"Burton Bridge Brewery",1099541045,3,3,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"134",159,"Burton Bridge Brewery",1098735183,4,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"135",159,"Burton Bridge Brewery",1098729183,3,3,4,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"136",159,"Burton Bridge Brewery",1098710830,3,3,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"137",159,"Burton Bridge Brewery",1097161783,3.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"138",159,"Burton Bridge Brewery",1090014102,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"139",159,"Burton Bridge Brewery",1089767399,4,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"140",159,"Burton Bridge Brewery",1089699546,3.5,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"141",159,"Burton Bridge Brewery",1084758239,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"142",159,"Burton Bridge Brewery",1062337648,2.5,3,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"143",159,"Burton Bridge Brewery",1082154380,3,3.5,3,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"144",159,"Burton Bridge Brewery",1078859267,3,3,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"145",159,"Burton Bridge Brewery",1077146242,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"146",159,"Burton Bridge Brewery",1075508283,4,4,3.5,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"147",159,"Burton Bridge Brewery",1073140832,2,2.5,3,"English India Pale Ale (IPA)",2.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
+"148",159,"Burton Bridge Brewery",1071463239,2.5,4,4,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"149",159,"Burton Bridge Brewery",1064714495,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"150",159,"Burton Bridge Brewery",1063832118,3,4,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"151",159,"Burton Bridge Brewery",1063667909,3,4,3,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"152",159,"Burton Bridge Brewery",1061511545,2.5,1,4,"English India Pale Ale (IPA)",2.5,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"153",159,"Burton Bridge Brewery",1060667369,1,1.5,3.5,"English India Pale Ale (IPA)",2.5,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"154",159,"Burton Bridge Brewery",1059890175,4,3,4,"English India Pale Ale (IPA)",4.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"155",159,"Burton Bridge Brewery",1055357013,3,3.5,3,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"156",159,"Burton Bridge Brewery",1054742596,2.5,4,2,"English India Pale Ale (IPA)",2,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"157",159,"Burton Bridge Brewery",1043100030,3.5,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"158",159,"Burton Bridge Brewery",1041282979,3.5,4,3.5,"English India Pale Ale (IPA)",4,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"159",159,"Burton Bridge Brewery",1032364519,3,3,1.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"160",159,"Burton Bridge Brewery",1025511352,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"161",159,"Burton Bridge Brewery",1024392060,4.5,5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"162",159,"Burton Bridge Brewery",1017660595,3.5,4.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"163",159,"Burton Bridge Brewery",1317749480,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"164",159,"Burton Bridge Brewery",1313122134,3.5,3,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"165",159,"Burton Bridge Brewery",1309276756,2.5,2.5,3,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"166",159,"Burton Bridge Brewery",1308779528,3.5,3.5,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"167",159,"Burton Bridge Brewery",1303561451,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"168",159,"Burton Bridge Brewery",1302651203,2,2,3.5,"English India Pale Ale (IPA)",3,2,"Burton Bridge Empire India Pale Ale",7.5,235
+"169",159,"Burton Bridge Brewery",1302215937,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"170",159,"Burton Bridge Brewery",1301503216,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"171",159,"Burton Bridge Brewery",1289361713,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"172",159,"Burton Bridge Brewery",1285698748,4,4.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"173",159,"Burton Bridge Brewery",1285387378,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"174",159,"Burton Bridge Brewery",1283959464,4.5,4,3.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"175",159,"Burton Bridge Brewery",1279919489,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"176",159,"Burton Bridge Brewery",1277816650,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"177",159,"Burton Bridge Brewery",1255479887,4,4,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"178",159,"Burton Bridge Brewery",1276650049,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"179",159,"Burton Bridge Brewery",1270133892,3.5,4,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"180",159,"Burton Bridge Brewery",1269613188,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"181",159,"Burton Bridge Brewery",1267396317,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"182",159,"Burton Bridge Brewery",1267237643,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"183",159,"Burton Bridge Brewery",1266691727,5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"184",159,"Burton Bridge Brewery",1262131384,3.5,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"185",159,"Burton Bridge Brewery",1260737491,4,4,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"186",159,"Burton Bridge Brewery",1258786438,4.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"187",159,"Burton Bridge Brewery",1251482493,4,2,5,"English India Pale Ale (IPA)",5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"188",159,"Burton Bridge Brewery",1249842562,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"189",159,"Burton Bridge Brewery",1248489015,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"190",159,"Burton Bridge Brewery",1247017962,3.5,4,3.5,"English India Pale Ale (IPA)",4,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"191",159,"Burton Bridge Brewery",1247006802,1,1,3,"English India Pale Ale (IPA)",1.5,1,"Burton Bridge Empire India Pale Ale",7.5,235
+"192",159,"Burton Bridge Brewery",1242039556,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"193",159,"Burton Bridge Brewery",1237171827,4,4,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"194",159,"Burton Bridge Brewery",1237060137,4.5,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"195",159,"Burton Bridge Brewery",1236577067,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"196",159,"Burton Bridge Brewery",1235706258,5,5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"197",159,"Burton Bridge Brewery",1235521883,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"198",159,"Burton Bridge Brewery",1235419678,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"199",159,"Burton Bridge Brewery",1232419765,3,4,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"200",159,"Burton Bridge Brewery",1226084268,1,3,4,"English India Pale Ale (IPA)",1.5,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"201",159,"Burton Bridge Brewery",1225652824,3.5,4,4,"English India Pale Ale (IPA)",2.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"202",159,"Burton Bridge Brewery",1225224069,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"203",159,"Burton Bridge Brewery",1223770243,3,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"204",159,"Burton Bridge Brewery",1221573869,4,3,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"205",159,"Burton Bridge Brewery",1221251180,4,3.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"206",159,"Burton Bridge Brewery",1217617517,4,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"207",159,"Burton Bridge Brewery",1214883706,3,3,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"208",159,"Burton Bridge Brewery",1212379484,4.5,3,4.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"209",159,"Burton Bridge Brewery",1211963677,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"210",159,"Burton Bridge Brewery",1210987602,3.5,3,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"211",159,"Burton Bridge Brewery",1208463385,4,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"212",159,"Burton Bridge Brewery",1207183045,4.5,3.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"213",159,"Burton Bridge Brewery",1207126579,2.5,3,3,"English India Pale Ale (IPA)",2.5,2,"Burton Bridge Empire India Pale Ale",7.5,235
+"214",159,"Burton Bridge Brewery",1204491061,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"215",159,"Burton Bridge Brewery",1203916160,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"216",159,"Burton Bridge Brewery",1200880820,5,4.5,4,"English India Pale Ale (IPA)",4.5,5,"Burton Bridge Empire India Pale Ale",7.5,235
+"217",159,"Burton Bridge Brewery",1199668885,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"218",159,"Burton Bridge Brewery",1199331082,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"219",159,"Burton Bridge Brewery",1197252935,4,4.5,4.5,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"220",159,"Burton Bridge Brewery",1195339685,4.5,5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"221",159,"Burton Bridge Brewery",1194648910,3.5,4,4,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"222",159,"Burton Bridge Brewery",1194313668,4.5,4,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"223",159,"Burton Bridge Brewery",1186790552,3.5,1.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"224",159,"Burton Bridge Brewery",1184387743,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"225",159,"Burton Bridge Brewery",1183898827,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"226",159,"Burton Bridge Brewery",1181864579,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"227",159,"Burton Bridge Brewery",1179794192,3.5,3.5,4,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"228",159,"Burton Bridge Brewery",1176186089,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"229",159,"Burton Bridge Brewery",1175628525,3.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"230",159,"Burton Bridge Brewery",1174773440,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"231",159,"Burton Bridge Brewery",1171651021,3,3.5,4,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"232",159,"Burton Bridge Brewery",1171213550,2.5,2,2,"English India Pale Ale (IPA)",3,1.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"233",159,"Burton Bridge Brewery",1171063039,3.5,4,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"234",159,"Burton Bridge Brewery",1169773505,3.5,3,4,"English India Pale Ale (IPA)",4,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"235",159,"Burton Bridge Brewery",1163380856,4,4,4,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"236",159,"Burton Bridge Brewery",1163380413,4,4.5,4,"English India Pale Ale (IPA)",3.5,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"237",159,"Burton Bridge Brewery",1157257171,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"238",159,"Burton Bridge Brewery",1155699403,2.5,3,3.5,"English India Pale Ale (IPA)",3,2.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"239",159,"Burton Bridge Brewery",1155672992,3,3,3,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"240",159,"Burton Bridge Brewery",1155255253,3.5,4.5,3.5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"241",159,"Burton Bridge Brewery",1153817388,4,3,3.5,"English India Pale Ale (IPA)",3,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"242",159,"Burton Bridge Brewery",1153402952,3,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"243",159,"Burton Bridge Brewery",1147581209,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Burton Bridge Empire India Pale Ale",7.5,235
+"244",159,"Burton Bridge Brewery",1146275311,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"245",159,"Burton Bridge Brewery",1145936211,4,4,5,"English India Pale Ale (IPA)",4,4,"Burton Bridge Empire India Pale Ale",7.5,235
+"246",159,"Burton Bridge Brewery",1144966295,4.5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"247",159,"Burton Bridge Brewery",1143007788,4,3.5,3.5,"English India Pale Ale (IPA)",4.5,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"248",159,"Burton Bridge Brewery",1142927527,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"249",159,"Burton Bridge Brewery",1142550866,4,4.5,4.5,"English India Pale Ale (IPA)",5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"250",159,"Burton Bridge Brewery",1142389852,4.5,4.5,4,"English India Pale Ale (IPA)",4.5,4.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"251",159,"Burton Bridge Brewery",1141260834,4,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"252",159,"Burton Bridge Brewery",1140215408,3,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Burton Bridge Empire India Pale Ale",7.5,235
+"253",159,"Burton Bridge Brewery",1324767546,4,4,4.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"254",159,"Burton Bridge Brewery",1320985371,3.5,3.5,4.5,"English Stout",3.5,3.5,"Burton Bridge Bramble Stout",5,13179
+"255",159,"Burton Bridge Brewery",1274343836,3.5,3.5,4,"English Stout",3.5,3.5,"Burton Bridge Bramble Stout",5,13179
+"256",159,"Burton Bridge Brewery",1271011906,4,3.5,3.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"257",159,"Burton Bridge Brewery",1268711959,3.5,3.5,4,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"258",159,"Burton Bridge Brewery",1268680207,3.5,4,4,"English Stout",4,3.5,"Burton Bridge Bramble Stout",5,13179
+"259",159,"Burton Bridge Brewery",1267585558,4.5,4,4.5,"English Stout",5,4.5,"Burton Bridge Bramble Stout",5,13179
+"260",159,"Burton Bridge Brewery",1260056305,4,4,3.5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"261",159,"Burton Bridge Brewery",1182548974,4,4.5,5,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"262",159,"Burton Bridge Brewery",1150134352,4,4,3.5,"English Stout",3.5,3,"Burton Bridge Bramble Stout",5,13179
+"263",159,"Burton Bridge Brewery",1149276617,4.5,4,4.5,"English Stout",4.5,4,"Burton Bridge Bramble Stout",5,13179
+"264",159,"Burton Bridge Brewery",1147123784,4,3.5,4,"English Stout",5,4.5,"Burton Bridge Bramble Stout",5,13179
+"265",159,"Burton Bridge Brewery",1135315863,4,3.5,4,"English Stout",4,4,"Burton Bridge Bramble Stout",5,13179
+"266",159,"Burton Bridge Brewery",1065191293,3.5,3.5,3,"English Stout",4,3.5,"Burton Bridge Bramble Stout",5,13179

@@ -1,105 +1,60 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",1183,"Southend Brewery & Smokehouse",1019049763,2.5,2.5,3.5,"American Blonde Ale",3,2.5,"Southend Blonde",NA,3399
-"2",1183,"Southend Brewery & Smokehouse",1325209299,1.5,3,1.5,"American Pale Ale (APA)",2,2,"Castle Pinckley Pale Ale",NA,76483
-"3",1183,"Southend Brewery & Smokehouse",1324242447,3.5,3.5,4,"American Pale Ale (APA)",4,3,"Castle Pinckley Pale Ale",NA,76483
-"4",1183,"Southend Brewery & Smokehouse",1241027402,3.5,3,4,"Scottish Ale",4,3,"Scottish Ale",NA,17985
-"5",1183,"Southend Brewery & Smokehouse",1241028478,4,4,3.5,"English Brown Ale",3.5,4,"East Bay Brown",NA,3400
-"6",1183,"Southend Brewery & Smokehouse",1130282451,3,2,3,"American Blonde Ale",2.5,2.5,"Southend Blonde",NA,3399
-"7",1183,"Southend Brewery & Smokehouse",1306193547,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
-"8",1183,"Southend Brewery & Smokehouse",1283820875,2.5,3.5,3.5,"Oatmeal Stout",1.5,3,"O' Ryans Oatmeal Stout",NA,3401
-"9",1183,"Southend Brewery & Smokehouse",1261955557,3.5,3.5,4,"Oatmeal Stout",3,4,"O' Ryans Oatmeal Stout",NA,3401
-"10",1183,"Southend Brewery & Smokehouse",1245900912,4,4,4.5,"Oatmeal Stout",3.5,4,"O' Ryans Oatmeal Stout",NA,3401
-"11",1183,"Southend Brewery & Smokehouse",1232506519,4,4,4,"Oatmeal Stout",4,4,"O' Ryans Oatmeal Stout",NA,3401
-"12",1183,"Southend Brewery & Smokehouse",1210632582,4,2,2,"Oatmeal Stout",1.5,3,"O' Ryans Oatmeal Stout",NA,3401
-"13",1183,"Southend Brewery & Smokehouse",1177540266,2,3.5,2,"Oatmeal Stout",1.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
-"14",1183,"Southend Brewery & Smokehouse",1141573345,4,4,4,"Oatmeal Stout",2.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
-"15",1183,"Southend Brewery & Smokehouse",1136411181,2.5,4.5,5,"Oatmeal Stout",2,3.5,"O' Ryans Oatmeal Stout",NA,3401
-"16",1183,"Southend Brewery & Smokehouse",1130282647,3,2.5,3,"Oatmeal Stout",3,3,"O' Ryans Oatmeal Stout",NA,3401
-"17",1183,"Southend Brewery & Smokehouse",1019050448,3.5,3.5,3.5,"Oatmeal Stout",3.5,4,"O' Ryans Oatmeal Stout",NA,3401
-"18",1183,"Southend Brewery & Smokehouse",1116527508,4,3.5,3,"American Stout",3.5,3.5,"Almond Stout",NA,15219
-"19",1183,"Southend Brewery & Smokehouse",1076200202,5,5,5,"American Stout",5,5,"Almond Stout",NA,15219
-"20",1183,"Southend Brewery & Smokehouse",1073110688,4.5,5,5,"American Stout",4.5,5,"Almond Stout",NA,15219
-"21",1183,"Southend Brewery & Smokehouse",1324243738,4,4,4,"Milk / Sweet Stout",3.5,4,"Milk Stout",NA,76486
-"22",1183,"Southend Brewery & Smokehouse",1261954264,3.5,3.5,4,"English Brown Ale",3,4,"East Bay Brown",NA,3400
-"23",1183,"Southend Brewery & Smokehouse",1245900455,2.5,2,2.5,"English Brown Ale",2.5,2.5,"East Bay Brown",NA,3400
-"24",1183,"Southend Brewery & Smokehouse",1232506168,3.5,3,3,"English Brown Ale",3.5,3.5,"East Bay Brown",NA,3400
-"25",1183,"Southend Brewery & Smokehouse",1207579442,3.5,2.5,3,"English Brown Ale",4,4,"East Bay Brown",NA,3400
-"26",1183,"Southend Brewery & Smokehouse",1177539892,1.5,2.5,2,"English Brown Ale",1.5,1.5,"East Bay Brown",NA,3400
-"27",1183,"Southend Brewery & Smokehouse",1019050108,3,3,3.5,"English Brown Ale",3,3,"East Bay Brown",NA,3400
-"28",1183,"Southend Brewery & Smokehouse",1261953277,2.5,2.5,3.5,"Light Lager",2,3,"Blonde Light",NA,31458
-"29",1183,"Southend Brewery & Smokehouse",1232505592,2,2,3,"Light Lager",2,2,"Blonde Light",NA,31458
-"30",1183,"Southend Brewery & Smokehouse",1222050569,3,2.5,2.5,"Light Lager",2.5,2,"Blonde Light",NA,31458
-"31",1183,"Southend Brewery & Smokehouse",1261955089,3.5,3,3,"American Porter",3,4,"Coconut Chocolate Porter",NA,55038
-"32",1183,"Southend Brewery & Smokehouse",1261953590,3.5,3.5,3.5,"Hefeweizen",3.5,4,"Ironman Wheat",NA,31459
-"33",1183,"Southend Brewery & Smokehouse",1232506331,1,2,3,"Hefeweizen",2,1,"Ironman Wheat",NA,31459
-"34",1183,"Southend Brewery & Smokehouse",1222099676,4,3.5,4,"Hefeweizen",3.5,3,"Ironman Wheat",NA,31459
-"35",1183,"Southend Brewery & Smokehouse",1207578570,3.5,3.5,3.5,"Hefeweizen",3.5,4,"Ironman Wheat",NA,31459
-"36",1183,"Southend Brewery & Smokehouse",1261953873,4,3.5,3,"American Amber / Red Ale",4,4,"Scarlet Ale",NA,12658
-"37",1183,"Southend Brewery & Smokehouse",1245900105,3.5,2,3,"American Amber / Red Ale",2,3.5,"Scarlet Ale",NA,12658
-"38",1183,"Southend Brewery & Smokehouse",1232506685,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3,"Scarlet Ale",NA,12658
-"39",1183,"Southend Brewery & Smokehouse",1210632914,2,2,3,"American Amber / Red Ale",2,2,"Scarlet Ale",NA,12658
-"40",1183,"Southend Brewery & Smokehouse",1207578291,2.5,3,3.5,"American Amber / Red Ale",2.5,3,"Scarlet Ale",NA,12658
-"41",1183,"Southend Brewery & Smokehouse",1063158443,4,3,3.5,"American Amber / Red Ale",4,4,"Scarlet Ale",NA,12658
-"42",1183,"Southend Brewery & Smokehouse",1308653118,4,4,4,"American Pale Ale (APA)",4,4,"Bombay Pale Ale",5.72,31470
-"43",1183,"Southend Brewery & Smokehouse",1271082861,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Bombay Pale Ale",5.72,31470
-"44",1183,"Southend Brewery & Smokehouse",1261875289,4,4,4,"American Pale Ale (APA)",3,4,"Bombay Pale Ale",5.72,31470
-"45",1183,"Southend Brewery & Smokehouse",1232505797,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Bombay Pale Ale",5.72,31470
-"46",1183,"Southend Brewery & Smokehouse",1222100229,3.5,4,5,"American Pale Ale (APA)",3,2.5,"Bombay Pale Ale",5.72,31470
-"47",1183,"Southend Brewery & Smokehouse",1221398199,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Bombay Pale Ale",5.72,31470
-"48",1183,"Southend Brewery & Smokehouse",1207577965,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Bombay Pale Ale",5.72,31470
-"49",1183,"Southend Brewery & Smokehouse",1203256392,4,3,3,"American Pale Ale (APA)",3.5,3.5,"Bombay Pale Ale",5.72,31470
-"50",1183,"Southend Brewery & Smokehouse",1186878355,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Bombay Pale Ale",5.72,31470
-"51",1183,"Southend Brewery & Smokehouse",1177540052,2,2,2,"American Pale Ale (APA)",2.5,2,"Bombay Pale Ale",5.72,31470
-"52",1183,"Southend Brewery & Smokehouse",1324240761,2,2.5,4,"Hefeweizen",2.5,2,"Watch It Grow Wheat",NA,76476
-"53",1183,"Southend Brewery & Smokehouse",1324240116,2.5,3,3,"American Blonde Ale",3,2.5,"Southend Blonde",NA,3399
-"54",1183,"Southend Brewery & Smokehouse",1306193386,2.5,2.5,3,"American Blonde Ale",3.5,2.5,"Southend Blonde",NA,3399
-"55",1183,"Southend Brewery & Smokehouse",1261875829,2.5,2.5,3.5,"American Blonde Ale",2,2,"Southend Blonde",NA,3399
-"56",1183,"Southend Brewery & Smokehouse",1241026746,4,3,3,"American Blonde Ale",3,3,"Southend Blonde",NA,3399
-"57",1183,"Southend Brewery & Smokehouse",1232506827,2,2,2.5,"American Blonde Ale",2,2,"Southend Blonde",NA,3399
-"58",1183,"Southend Brewery & Smokehouse",1222051038,3.5,3,1.5,"American Blonde Ale",2.5,3,"Southend Blonde",NA,3399
-"59",1183,"Southend Brewery & Smokehouse",1210635968,1,1,2,"American Blonde Ale",1,1,"Southend Blonde",NA,3399
-"60",1183,"Southend Brewery & Smokehouse",1209304377,2,2,2.5,"American Blonde Ale",2,1,"Southend Blonde",NA,3399
-"61",1183,"Southend Brewery & Smokehouse",1207579750,2.5,2,2,"American Blonde Ale",3.5,2,"Southend Blonde",NA,3399
-"62",1183,"Southend Brewery & Smokehouse",1087355018,4.5,4,3.5,"Scottish Ale",3.5,4,"Scottish Ale",NA,17985
-"63",1183,"Southend Brewery & Smokehouse",1073111167,5,4.5,3.5,"Pumpkin Ale",4.5,5,"Pumpkin Ale",NA,15220
-"64",1183,"Southend Brewery & Smokehouse",1179610932,2.5,2.5,4,"Oatmeal Stout",3,3,"Oatmeal Stout",NA,36907
-"65",1183,"Southend Brewery & Smokehouse",1311174965,3.5,3,3,"American Stout",4,3,"Pict's Stout",NA,71227
-"66",1183,"Southend Brewery & Smokehouse",1324241730,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Rip Tide Red",NA,76480
-"67",1183,"Southend Brewery & Smokehouse",1207579028,2.5,3,3.5,"Witbier",2,2.5,"Friarfest Belgian White",NA,42038
-"68",1183,"Southend Brewery & Smokehouse",1311057639,4,4,4,"American Blonde Ale",3.5,4,"Lemon Grass Ginger",NA,44966
-"69",1183,"Southend Brewery & Smokehouse",1222052149,3,3.5,4,"American Blonde Ale",3,4,"Lemon Grass Ginger",NA,44966
-"70",1183,"Southend Brewery & Smokehouse",1232505970,2,2,3,"American Porter",1.5,1.5,"Chocolate Porter",NA,35366
-"71",1183,"Southend Brewery & Smokehouse",1171999139,3,3,3,"American Porter",3,2.5,"Chocolate Porter",NA,35366
-"72",1866,"Southend Brewery & Smokehouse",1124585994,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Powerhouse Pale Ale",5.9,18167
-"73",1866,"Southend Brewery & Smokehouse",1122861808,4.5,2.5,3.5,"American Pale Ale (APA)",4.5,3,"Powerhouse Pale Ale",5.9,18167
-"74",1866,"Southend Brewery & Smokehouse",1117415930,1,2,3,"American Pale Ale (APA)",1,1,"Powerhouse Pale Ale",5.9,18167
-"75",1866,"Southend Brewery & Smokehouse",1087742582,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Powerhouse Pale Ale",5.9,18167
-"76",1866,"Southend Brewery & Smokehouse",1139181270,4,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Double Endo India Pale Ale",8.5,28028
-"77",1866,"Southend Brewery & Smokehouse",1138338121,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Double Endo India Pale Ale",8.5,28028
-"78",1866,"Southend Brewery & Smokehouse",1087743156,3.5,3.5,4,"Scottish Ale",3,2.5,"Scottish Ale",NA,18172
-"79",1866,"Southend Brewery & Smokehouse",1124586391,3,3.5,3.5,"American Amber / Red Ale",2.5,3,"Railroad Red",4.6,18163
-"80",1866,"Southend Brewery & Smokehouse",1087742232,3,3,4,"American Amber / Red Ale",2.5,3,"Railroad Red",4.6,18163
-"81",1866,"Southend Brewery & Smokehouse",1087741689,2,2,2.5,"American Blonde Ale",2,2,"Southend Blonde Light",3.5,18160
-"82",1866,"Southend Brewery & Smokehouse",1087742374,4,3.5,4,"English Brown Ale",3.5,4,"Downtown Brown Ale",5.7,18166
-"83",1866,"Southend Brewery & Smokehouse",1087741909,3.5,3.5,4,"Munich Helles Lager",4,3.5,"Southend Blonde",5,18161
-"84",1866,"Southend Brewery & Smokehouse",1145397121,5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"O'Ryan's Oatmeal Stout",3.8,25715
-"85",1866,"Southend Brewery & Smokehouse",1121419077,3.5,3,3,"American Pale Wheat Ale",3.5,3.5,"Ironman Wheat",4,18162
-"86",1866,"Southend Brewery & Smokehouse",1087742081,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Ironman Wheat",4,18162
-"87",1866,"Southend Brewery & Smokehouse",1117415679,2,2,2.5,"American Stout",2.5,2,"Almond Stout",NA,18171
-"88",1866,"Southend Brewery & Smokehouse",1087742951,1.5,2.5,3,"American Stout",1,1,"Almond Stout",NA,18171
-"89",1866,"Southend Brewery & Smokehouse",1139181617,4,4,5,"American Double / Imperial Stout",4,3.5,"Chocolate Hazelnut Stout",8.5,28027
-"90",1866,"Southend Brewery & Smokehouse",1138337927,3.5,4,4,"American Double / Imperial Stout",4,4,"Chocolate Hazelnut Stout",8.5,28027
-"91",1865,"Southend Brewery & Smokehouse",1102561488,3,3,4.5,"Oatmeal Stout",3.5,3.5,"O'Ryans Oatmeal Stout",NA,5077
-"92",1865,"Southend Brewery & Smokehouse",1063157940,3.5,3,4,"Oatmeal Stout",3,3,"O'Ryans Oatmeal Stout",NA,5077
-"93",1865,"Southend Brewery & Smokehouse",1032602132,3,2.5,3.5,"Oatmeal Stout",3,3,"O'Ryans Oatmeal Stout",NA,5077
-"94",1865,"Southend Brewery & Smokehouse",1063159068,3.5,3,3.5,"English Brown Ale",3,3.5,"Bank Town Brown",NA,5076
-"95",1863,"Southend Brewery & Smokehouse",1095468563,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Motorman's Pale Ale",NA,19906
-"96",1863,"Southend Brewery & Smokehouse",1181529130,3.5,3.5,3,"American IPA",3.5,3.5,"Indian Pale Ale",NA,19905
-"97",1863,"Southend Brewery & Smokehouse",1095468273,3,2,3,"American IPA",2.5,2.5,"Indian Pale Ale",NA,19905
-"98",1863,"Southend Brewery & Smokehouse",1181528893,2.5,2.5,4,"Oatmeal Stout",3,3,"O'Ryan's Oatmeal Stout",NA,28372
-"99",1863,"Southend Brewery & Smokehouse",1158625392,3.5,4,3.5,"American IPA",4,4,"Jack Frost",NA,23319
-"100",1863,"Southend Brewery & Smokehouse",1114353882,3.5,3.5,4,"American IPA",3.5,4,"Jack Frost",NA,23319
-"101",1863,"Southend Brewery & Smokehouse",1152231811,2.5,3,3.5,"American Pale Ale (APA)",3,3,"Motorman's Pale Ale",NA,19906
-"102",1863,"Southend Brewery & Smokehouse",1158625752,2.5,4,4.5,"Oatmeal Stout",3,3,"O'Ryan's Oatmeal Stout",NA,28372
-"103",1863,"Southend Brewery & Smokehouse",1095467842,2.5,2,3,"American Pale Wheat Ale",3,2.5,"Ironman Wheat",4,19904
-"104",1863,"Southend Brewery & Smokehouse",1122083295,3.5,3,3.5,"Rye Beer",3.5,3.5,"Rye Bock",NA,24924
+"2",1183,"Southend Brewery & Smokehouse",1241027402,3.5,3,4,"Scottish Ale",4,3,"Scottish Ale",NA,17985
+"3",1183,"Southend Brewery & Smokehouse",1241028478,4,4,3.5,"English Brown Ale",3.5,4,"East Bay Brown",NA,3400
+"4",1183,"Southend Brewery & Smokehouse",1130282451,3,2,3,"American Blonde Ale",2.5,2.5,"Southend Blonde",NA,3399
+"5",1183,"Southend Brewery & Smokehouse",1306193547,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
+"6",1183,"Southend Brewery & Smokehouse",1283820875,2.5,3.5,3.5,"Oatmeal Stout",1.5,3,"O' Ryans Oatmeal Stout",NA,3401
+"7",1183,"Southend Brewery & Smokehouse",1261955557,3.5,3.5,4,"Oatmeal Stout",3,4,"O' Ryans Oatmeal Stout",NA,3401
+"8",1183,"Southend Brewery & Smokehouse",1245900912,4,4,4.5,"Oatmeal Stout",3.5,4,"O' Ryans Oatmeal Stout",NA,3401
+"9",1183,"Southend Brewery & Smokehouse",1232506519,4,4,4,"Oatmeal Stout",4,4,"O' Ryans Oatmeal Stout",NA,3401
+"10",1183,"Southend Brewery & Smokehouse",1210632582,4,2,2,"Oatmeal Stout",1.5,3,"O' Ryans Oatmeal Stout",NA,3401
+"11",1183,"Southend Brewery & Smokehouse",1177540266,2,3.5,2,"Oatmeal Stout",1.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
+"12",1183,"Southend Brewery & Smokehouse",1141573345,4,4,4,"Oatmeal Stout",2.5,3.5,"O' Ryans Oatmeal Stout",NA,3401
+"13",1183,"Southend Brewery & Smokehouse",1136411181,2.5,4.5,5,"Oatmeal Stout",2,3.5,"O' Ryans Oatmeal Stout",NA,3401
+"14",1183,"Southend Brewery & Smokehouse",1130282647,3,2.5,3,"Oatmeal Stout",3,3,"O' Ryans Oatmeal Stout",NA,3401
+"15",1183,"Southend Brewery & Smokehouse",1019050448,3.5,3.5,3.5,"Oatmeal Stout",3.5,4,"O' Ryans Oatmeal Stout",NA,3401
+"16",1183,"Southend Brewery & Smokehouse",1116527508,4,3.5,3,"American Stout",3.5,3.5,"Almond Stout",NA,15219
+"17",1183,"Southend Brewery & Smokehouse",1076200202,5,5,5,"American Stout",5,5,"Almond Stout",NA,15219
+"18",1183,"Southend Brewery & Smokehouse",1073110688,4.5,5,5,"American Stout",4.5,5,"Almond Stout",NA,15219
+"19",1183,"Southend Brewery & Smokehouse",1324243738,4,4,4,"Milk / Sweet Stout",3.5,4,"Milk Stout",NA,76486
+"20",1183,"Southend Brewery & Smokehouse",1261954264,3.5,3.5,4,"English Brown Ale",3,4,"East Bay Brown",NA,3400
+"21",1183,"Southend Brewery & Smokehouse",1245900455,2.5,2,2.5,"English Brown Ale",2.5,2.5,"East Bay Brown",NA,3400
+"22",1183,"Southend Brewery & Smokehouse",1232506168,3.5,3,3,"English Brown Ale",3.5,3.5,"East Bay Brown",NA,3400
+"23",1183,"Southend Brewery & Smokehouse",1207579442,3.5,2.5,3,"English Brown Ale",4,4,"East Bay Brown",NA,3400
+"24",1183,"Southend Brewery & Smokehouse",1177539892,1.5,2.5,2,"English Brown Ale",1.5,1.5,"East Bay Brown",NA,3400
+"25",1183,"Southend Brewery & Smokehouse",1019050108,3,3,3.5,"English Brown Ale",3,3,"East Bay Brown",NA,3400
+"26",1183,"Southend Brewery & Smokehouse",1261953590,3.5,3.5,3.5,"Hefeweizen",3.5,4,"Ironman Wheat",NA,31459
+"27",1183,"Southend Brewery & Smokehouse",1232506331,1,2,3,"Hefeweizen",2,1,"Ironman Wheat",NA,31459
+"28",1183,"Southend Brewery & Smokehouse",1222099676,4,3.5,4,"Hefeweizen",3.5,3,"Ironman Wheat",NA,31459
+"29",1183,"Southend Brewery & Smokehouse",1207578570,3.5,3.5,3.5,"Hefeweizen",3.5,4,"Ironman Wheat",NA,31459
+"30",1183,"Southend Brewery & Smokehouse",1261953873,4,3.5,3,"American Amber / Red Ale",4,4,"Scarlet Ale",NA,12658
+"31",1183,"Southend Brewery & Smokehouse",1245900105,3.5,2,3,"American Amber / Red Ale",2,3.5,"Scarlet Ale",NA,12658
+"32",1183,"Southend Brewery & Smokehouse",1232506685,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3,"Scarlet Ale",NA,12658
+"33",1183,"Southend Brewery & Smokehouse",1210632914,2,2,3,"American Amber / Red Ale",2,2,"Scarlet Ale",NA,12658
+"34",1183,"Southend Brewery & Smokehouse",1207578291,2.5,3,3.5,"American Amber / Red Ale",2.5,3,"Scarlet Ale",NA,12658
+"35",1183,"Southend Brewery & Smokehouse",1063158443,4,3,3.5,"American Amber / Red Ale",4,4,"Scarlet Ale",NA,12658
+"36",1183,"Southend Brewery & Smokehouse",1308653118,4,4,4,"American Pale Ale (APA)",4,4,"Bombay Pale Ale",5.72,31470
+"37",1183,"Southend Brewery & Smokehouse",1271082861,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Bombay Pale Ale",5.72,31470
+"38",1183,"Southend Brewery & Smokehouse",1261875289,4,4,4,"American Pale Ale (APA)",3,4,"Bombay Pale Ale",5.72,31470
+"39",1183,"Southend Brewery & Smokehouse",1232505797,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Bombay Pale Ale",5.72,31470
+"40",1183,"Southend Brewery & Smokehouse",1222100229,3.5,4,5,"American Pale Ale (APA)",3,2.5,"Bombay Pale Ale",5.72,31470
+"41",1183,"Southend Brewery & Smokehouse",1221398199,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Bombay Pale Ale",5.72,31470
+"42",1183,"Southend Brewery & Smokehouse",1207577965,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Bombay Pale Ale",5.72,31470
+"43",1183,"Southend Brewery & Smokehouse",1203256392,4,3,3,"American Pale Ale (APA)",3.5,3.5,"Bombay Pale Ale",5.72,31470
+"44",1183,"Southend Brewery & Smokehouse",1186878355,3,3,3.5,"American Pale Ale (APA)",3,2.5,"Bombay Pale Ale",5.72,31470
+"45",1183,"Southend Brewery & Smokehouse",1177540052,2,2,2,"American Pale Ale (APA)",2.5,2,"Bombay Pale Ale",5.72,31470
+"46",1183,"Southend Brewery & Smokehouse",1324240116,2.5,3,3,"American Blonde Ale",3,2.5,"Southend Blonde",NA,3399
+"47",1183,"Southend Brewery & Smokehouse",1306193386,2.5,2.5,3,"American Blonde Ale",3.5,2.5,"Southend Blonde",NA,3399
+"48",1183,"Southend Brewery & Smokehouse",1261875829,2.5,2.5,3.5,"American Blonde Ale",2,2,"Southend Blonde",NA,3399
+"49",1183,"Southend Brewery & Smokehouse",1241026746,4,3,3,"American Blonde Ale",3,3,"Southend Blonde",NA,3399
+"50",1183,"Southend Brewery & Smokehouse",1232506827,2,2,2.5,"American Blonde Ale",2,2,"Southend Blonde",NA,3399
+"51",1183,"Southend Brewery & Smokehouse",1222051038,3.5,3,1.5,"American Blonde Ale",2.5,3,"Southend Blonde",NA,3399
+"52",1183,"Southend Brewery & Smokehouse",1210635968,1,1,2,"American Blonde Ale",1,1,"Southend Blonde",NA,3399
+"53",1183,"Southend Brewery & Smokehouse",1209304377,2,2,2.5,"American Blonde Ale",2,1,"Southend Blonde",NA,3399
+"54",1183,"Southend Brewery & Smokehouse",1207579750,2.5,2,2,"American Blonde Ale",3.5,2,"Southend Blonde",NA,3399
+"55",1183,"Southend Brewery & Smokehouse",1087355018,4.5,4,3.5,"Scottish Ale",3.5,4,"Scottish Ale",NA,17985
+"56",1183,"Southend Brewery & Smokehouse",1073111167,5,4.5,3.5,"Pumpkin Ale",4.5,5,"Pumpkin Ale",NA,15220
+"57",1183,"Southend Brewery & Smokehouse",1179610932,2.5,2.5,4,"Oatmeal Stout",3,3,"Oatmeal Stout",NA,36907
+"58",1183,"Southend Brewery & Smokehouse",1232505970,2,2,3,"American Porter",1.5,1.5,"Chocolate Porter",NA,35366
+"59",1183,"Southend Brewery & Smokehouse",1171999139,3,3,3,"American Porter",3,2.5,"Chocolate Porter",NA,35366

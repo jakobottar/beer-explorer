@@ -1,39 +1,18 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",23081,"Strange Brewing Company",1305162178,4,4.5,4.5,"Fruit / Vegetable Beer",4,4,"Cherry Kriek",5.1,68970
-"2",23081,"Strange Brewing Company",1305767720,4,4,4,"American Barleywine",4,3.5,"American Barleywine",11,69211
-"3",23081,"Strange Brewing Company",1305768315,4,4.5,4.5,"English Barleywine",4,4,"English Barleywine",11.5,69214
-"4",23081,"Strange Brewing Company",1317262485,3,3.5,4,"Chile Beer",3.5,3,"Cinco Mil",5.5,73574
-"5",23081,"Strange Brewing Company",1313600022,3.5,3.5,3.5,"Saison / Farmhouse Ale",3,3.5,"Farmhouse",8,68971
-"6",23081,"Strange Brewing Company",1305162431,4,4,4,"Saison / Farmhouse Ale",4,4,"Farmhouse",8,68971
-"7",23081,"Strange Brewing Company",1323022470,4.5,4,5,"Chile Beer",4,4.5,"Cinco Mil",5.5,73574
-"8",23081,"Strange Brewing Company",1317529193,3,3.5,4,"Chile Beer",3,3,"Cinco Mil",5.5,73574
-"9",23081,"Strange Brewing Company",1325451114,3.5,4,3,"Saison / Farmhouse Ale",3.5,3.5,"Patience Saison",6.6,69207
-"10",23081,"Strange Brewing Company",1313600268,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,4,"Patience Saison",6.6,69207
-"11",23081,"Strange Brewing Company",1305766441,3.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Patience Saison",6.6,69207
-"12",23081,"Strange Brewing Company",1313601252,3,3,3.5,"Witbier",3,3,"Wit",4.6,69206
-"13",23081,"Strange Brewing Company",1305766005,3,3,4,"Witbier",4,3,"Wit",4.6,69206
-"14",23081,"Strange Brewing Company",1305162836,4,4,3.5,"American Porter",4,4,"Powerhouse Porter",5.5,68972
-"15",23081,"Strange Brewing Company",1305947815,4,4,4.5,"Tripel",4,4,"151 Anniversary Ale",9,69294
-"16",23081,"Strange Brewing Company",1309589599,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,69205
-"17",23081,"Strange Brewing Company",1305765642,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,69205
-"18",23081,"Strange Brewing Company",1305272385,4,4,4,"Milk / Sweet Stout",4,4.5,"Paint It Black",NA,68974
-"19",23081,"Strange Brewing Company",1305163708,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Paint It Black",NA,68974
-"20",23081,"Strange Brewing Company",1305767539,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Double Take Imperial IPA",12,69210
-"21",23081,"Strange Brewing Company",1323388078,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Seven Barrel Saison",9.3,76112
-"22",23081,"Strange Brewing Company",1312940065,3.5,3.5,3.5,"Belgian IPA",3.5,3.5,"Belgian IPA",NA,71897
-"23",23081,"Strange Brewing Company",1324232486,3,3,4,"Fruit / Vegetable Beer",4,3,"Cherry Kriek",5.1,68970
-"24",23081,"Strange Brewing Company",1306584282,4.5,4,4.5,"American Black Ale",4,4,"Tainted Black",6,68975
-"25",23081,"Strange Brewing Company",1305163925,4,3.5,4,"American Black Ale",4,4,"Tainted Black",6,68975
-"26",23081,"Strange Brewing Company",1303706682,3.5,4,4,"American IPA",4,3.5,"Hops & PIePA",6.6,68376
-"27",23081,"Strange Brewing Company",1325622153,4,4.5,4,"American Brown Ale",4,4,"Gingerbread Man",NA,77031
-"28",23081,"Strange Brewing Company",1317262297,4,4,4,"American Pale Ale (APA)",4,4.5,"Fresh Hop Pale Ale",5.5,73573
-"29",23081,"Strange Brewing Company",1320792738,4,3,4,"American IPA",4,4,"IPAphany IPA",6.6,68973
-"30",23081,"Strange Brewing Company",1313599506,3.5,3.5,3.5,"American IPA",3.5,3.5,"IPAphany IPA",6.6,68973
-"31",23081,"Strange Brewing Company",1305163505,3.5,3.5,4,"American IPA",4,3.5,"IPAphany IPA",6.6,68973
-"32",23081,"Strange Brewing Company",1325455470,3,3.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Cherry Kriek",5.1,68970
-"33",23081,"Strange Brewing Company",1324682647,4,4.5,3.5,"Fruit / Vegetable Beer",4,4,"Cherry Kriek",5.1,68970
-"34",23081,"Strange Brewing Company",1325450388,4,4,3.5,"American Stout",4,4,"Cherry Bomb Stout",5.2,69208
-"35",23081,"Strange Brewing Company",1314936126,4,4,4,"American Stout",4,4.5,"Cherry Bomb Stout",5.2,69208
-"36",23081,"Strange Brewing Company",1313599831,3.5,3.5,4,"American Stout",3.5,3.5,"Cherry Bomb Stout",5.2,69208
-"37",23081,"Strange Brewing Company",1305766617,3.5,3.5,4.5,"American Stout",3,3,"Cherry Bomb Stout",5.2,69208
-"38",23081,"Strange Brewing Company",1305768159,4,4,4.5,"American Barleywine",4,4,"Belgian Barleywine",11.5,69213
+"2",23081,"Strange Brewing Company",1305768315,4,4.5,4.5,"English Barleywine",4,4,"English Barleywine",11.5,69214
+"3",23081,"Strange Brewing Company",1313601252,3,3,3.5,"Witbier",3,3,"Wit",4.6,69206
+"4",23081,"Strange Brewing Company",1305766005,3,3,4,"Witbier",4,3,"Wit",4.6,69206
+"5",23081,"Strange Brewing Company",1309589599,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,69205
+"6",23081,"Strange Brewing Company",1305765642,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,69205
+"7",23081,"Strange Brewing Company",1305272385,4,4,4,"Milk / Sweet Stout",4,4.5,"Paint It Black",NA,68974
+"8",23081,"Strange Brewing Company",1305163708,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Paint It Black",NA,68974
+"9",23081,"Strange Brewing Company",1312940065,3.5,3.5,3.5,"Belgian IPA",3.5,3.5,"Belgian IPA",NA,71897
+"10",23081,"Strange Brewing Company",1324232486,3,3,4,"Fruit / Vegetable Beer",4,3,"Cherry Kriek",5.1,68970
+"11",23081,"Strange Brewing Company",1317262297,4,4,4,"American Pale Ale (APA)",4,4.5,"Fresh Hop Pale Ale",5.5,73573
+"12",23081,"Strange Brewing Company",1325455470,3,3.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Cherry Kriek",5.1,68970
+"13",23081,"Strange Brewing Company",1324682647,4,4.5,3.5,"Fruit / Vegetable Beer",4,4,"Cherry Kriek",5.1,68970
+"14",23081,"Strange Brewing Company",1325450388,4,4,3.5,"American Stout",4,4,"Cherry Bomb Stout",5.2,69208
+"15",23081,"Strange Brewing Company",1314936126,4,4,4,"American Stout",4,4.5,"Cherry Bomb Stout",5.2,69208
+"16",23081,"Strange Brewing Company",1313599831,3.5,3.5,4,"American Stout",3.5,3.5,"Cherry Bomb Stout",5.2,69208
+"17",23081,"Strange Brewing Company",1305766617,3.5,3.5,4.5,"American Stout",3,3,"Cherry Bomb Stout",5.2,69208

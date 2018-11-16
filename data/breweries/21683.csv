@@ -1,62 +1,39 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",21683,"The Lucky Monk",1322344798,4,4,4,"Oatmeal Stout",4.5,4,"Solitude Stout",5,65048
-"2",21683,"The Lucky Monk",1294183176,4,3.5,4.5,"Oatmeal Stout",4.5,3.5,"Solitude Stout",5,65048
-"3",21683,"The Lucky Monk",1269304156,4,3.5,4,"Irish Red Ale",4,4,"Irish Red",NA,56996
-"4",21683,"The Lucky Monk",1310271205,3.5,3.5,4,"Wheatwine",4,3.5,"Imperial Wheat",9,70900
-"5",21683,"The Lucky Monk",1296078129,4,4,4,"Rye Beer",4,4,"Reverence Rye Brown Ale",8,65654
-"6",21683,"The Lucky Monk",1286685823,4,3,3.5,"American Brown Ale",3.5,3.5,"Priory Rye Brown Ale",5.7,62479
-"7",21683,"The Lucky Monk",1269304419,4,4,4.5,"Irish Dry Stout",4,4.5,"Irish Stout",5.8,56997
-"8",21683,"The Lucky Monk",1286684985,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"ReplicAle",NA,62477
-"9",21683,"The Lucky Monk",1307329367,3.5,3,3.5,"Maibock / Helles Bock",3.5,3.5,"Maibock",7.6,69763
-"10",21683,"The Lucky Monk",1298957343,3.5,4,3.5,"Belgian Pale Ale",3.5,3.5,"Belgian Pale Ale",6.7,54668
-"11",21683,"The Lucky Monk",1277563679,3,2,3.5,"Belgian Pale Ale",2.5,2.5,"Belgian Pale Ale",6.7,54668
-"12",21683,"The Lucky Monk",1263650307,4,3.5,3.5,"Belgian Pale Ale",4,3.5,"Belgian Pale Ale",6.7,54668
-"13",21683,"The Lucky Monk",1261371007,4,4,4,"Belgian Pale Ale",4,4,"Belgian Pale Ale",6.7,54668
-"14",21683,"The Lucky Monk",1307329687,4,3.5,4,"Tripel",4,4,"CollaBEERation #1: Tripel",9.3,69764
-"15",21683,"The Lucky Monk",1295419441,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Fallen Angel",4.8,65425
-"16",21683,"The Lucky Monk",1277564313,2.5,3,4,"American IPA",2.5,2,"IPA",5.7,55664
-"17",21683,"The Lucky Monk",1269305410,3,2.5,3,"American IPA",3.5,2.5,"IPA",5.7,55664
-"18",21683,"The Lucky Monk",1264472865,4,3.5,4,"American IPA",3.5,4,"IPA",5.7,55664
-"19",21683,"The Lucky Monk",1310572363,3.5,3,3.5,"Kölsch",3,3.5,"Kölsch",5.2,59549
-"20",21683,"The Lucky Monk",1286687773,4,3.5,4,"Kölsch",4,3.5,"Kölsch",5.2,59549
-"21",21683,"The Lucky Monk",1279497942,5,3.5,3,"Kölsch",3.5,4.5,"Kölsch",5.2,59549
-"22",21683,"The Lucky Monk",1277525352,3.5,3.5,3,"Kölsch",3,3,"Kölsch",5.2,59549
-"23",21683,"The Lucky Monk",1322883143,4,4,4,"American Stout",3,4,"Bourbon Barrel Solitude Stout",5.6,55682
-"24",21683,"The Lucky Monk",1313176053,3.5,4.5,4.5,"American Stout",3,3.5,"Bourbon Barrel Solitude Stout",5.6,55682
-"25",21683,"The Lucky Monk",1286691512,3.5,3.5,4,"American Brown Ale",4,3,"Priory Rye Brown Ale",5.7,62479
-"26",21683,"The Lucky Monk",1264557872,3.5,4.5,2.5,"American Stout",3,3,"Bourbon Barrel Solitude Stout",5.6,55682
-"27",21683,"The Lucky Monk",1286687340,4,4,4,"Czech Pilsener",4,3,"Cardinal Sin",5,54663
-"28",21683,"The Lucky Monk",1277563325,4,2.5,3.5,"Czech Pilsener",3,3,"Cardinal Sin",5,54663
-"29",21683,"The Lucky Monk",1277258664,3.5,3,3,"Czech Pilsener",3,3,"Cardinal Sin",5,54663
-"30",21683,"The Lucky Monk",1269297491,4,4,3.5,"Czech Pilsener",4,4,"Cardinal Sin",5,54663
-"31",21683,"The Lucky Monk",1261371291,4.5,3.5,3.5,"Czech Pilsener",3.5,4,"Cardinal Sin",5,54663
-"32",21683,"The Lucky Monk",1286690645,3.5,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62478
-"33",21683,"The Lucky Monk",1286685313,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62478
-"34",21683,"The Lucky Monk",1286686163,3.5,3.5,3.5,"Hefeweizen",3.5,3,"Tritica Wheat",5,54665
-"35",21683,"The Lucky Monk",1277524850,4,3.5,3,"Hefeweizen",3.5,3.5,"Tritica Wheat",5,54665
-"36",21683,"The Lucky Monk",1269297813,3,3.5,2.5,"Hefeweizen",3.5,3,"Tritica Wheat",5,54665
-"37",21683,"The Lucky Monk",1261372298,4,3.5,3,"Hefeweizen",3,3,"Tritica Wheat",5,54665
-"38",21683,"The Lucky Monk",1269304910,3.5,4,3.5,"Dubbel",3.5,4,"Dubbel",6.5,56998
-"39",21683,"The Lucky Monk",1291538771,3.5,3.5,4.5,"Dubbel",3.5,3.5,"Anniversary Ale",8,64135
-"40",21683,"The Lucky Monk",1291525741,3.5,4,4,"Dubbel",3,3.5,"Anniversary Ale",8,64135
-"41",21683,"The Lucky Monk",1322347632,3.5,3,3.5,"American IPA",4,4,"Confessional IPA",6.5,64136
-"42",21683,"The Lucky Monk",1307926684,3,3,3,"American IPA",3,3,"Confessional IPA",6.5,64136
-"43",21683,"The Lucky Monk",1291539369,3.5,3.5,3.5,"American IPA",3.5,3.5,"Confessional IPA",6.5,64136
-"44",21683,"The Lucky Monk",1291526523,3.5,3,3.5,"American IPA",3.5,3,"Confessional IPA",6.5,64136
-"45",21683,"The Lucky Monk",1321323911,4,4,4.5,"Tripel",4,4,"Black Trippel",8,75284
-"46",21683,"The Lucky Monk",1263651100,4,4,4,"Bock",4,4,"Holiday Bock",7,54666
-"47",21683,"The Lucky Monk",1261371754,4,4,4,"Bock",4,4,"Holiday Bock",7,54666
-"48",21683,"The Lucky Monk",1324848678,4,4,4,"American Brown Ale",4,4,"Bishop's Brown Ale",5.5,76684
-"49",21683,"The Lucky Monk",1291500278,4,4,4.5,"American Porter",4,4,"Pal's Porter",6,54667
-"50",21683,"The Lucky Monk",1291479945,4.5,4,4,"American Porter",3.5,3.5,"Pal's Porter",6,54667
-"51",21683,"The Lucky Monk",1286689942,4,3.5,5,"American Porter",4,4,"Pal's Porter",6,54667
-"52",21683,"The Lucky Monk",1286688147,4.5,4,4.5,"American Porter",4,4,"Pal's Porter",6,54667
-"53",21683,"The Lucky Monk",1263650659,4.5,4,4,"American Porter",4,4,"Pal's Porter",6,54667
-"54",21683,"The Lucky Monk",1261372051,4,4,4,"American Porter",4,4,"Pal's Porter",6,54667
-"55",21683,"The Lucky Monk",1298957797,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Gr'ale",5.5,54664
-"56",21683,"The Lucky Monk",1286686870,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Gr'ale",5.5,54664
-"57",21683,"The Lucky Monk",1277563977,4,3,4,"American Amber / Red Ale",4,3.5,"Gr'ale",5.5,54664
-"58",21683,"The Lucky Monk",1277259205,3,2.5,3,"American Amber / Red Ale",2.5,3,"Gr'ale",5.5,54664
-"59",21683,"The Lucky Monk",1269303879,3.5,3,4,"American Amber / Red Ale",4,4,"Gr'ale",5.5,54664
-"60",21683,"The Lucky Monk",1263649744,4,3.5,4,"American Amber / Red Ale",4,3.5,"Gr'ale",5.5,54664
-"61",21683,"The Lucky Monk",1261371527,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Gr'ale",5.5,54664
+"1",21683,"The Lucky Monk",1269304156,4,3.5,4,"Irish Red Ale",4,4,"Irish Red",NA,56996
+"2",21683,"The Lucky Monk",1269304419,4,4,4.5,"Irish Dry Stout",4,4.5,"Irish Stout",5.8,56997
+"3",21683,"The Lucky Monk",1307329367,3.5,3,3.5,"Maibock / Helles Bock",3.5,3.5,"Maibock",7.6,69763
+"4",21683,"The Lucky Monk",1298957343,3.5,4,3.5,"Belgian Pale Ale",3.5,3.5,"Belgian Pale Ale",6.7,54668
+"5",21683,"The Lucky Monk",1277563679,3,2,3.5,"Belgian Pale Ale",2.5,2.5,"Belgian Pale Ale",6.7,54668
+"6",21683,"The Lucky Monk",1263650307,4,3.5,3.5,"Belgian Pale Ale",4,3.5,"Belgian Pale Ale",6.7,54668
+"7",21683,"The Lucky Monk",1261371007,4,4,4,"Belgian Pale Ale",4,4,"Belgian Pale Ale",6.7,54668
+"8",21683,"The Lucky Monk",1295419441,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Fallen Angel",4.8,65425
+"9",21683,"The Lucky Monk",1277564313,2.5,3,4,"American IPA",2.5,2,"IPA",5.7,55664
+"10",21683,"The Lucky Monk",1269305410,3,2.5,3,"American IPA",3.5,2.5,"IPA",5.7,55664
+"11",21683,"The Lucky Monk",1264472865,4,3.5,4,"American IPA",3.5,4,"IPA",5.7,55664
+"12",21683,"The Lucky Monk",1310572363,3.5,3,3.5,"Kölsch",3,3.5,"Kölsch",5.2,59549
+"13",21683,"The Lucky Monk",1286687773,4,3.5,4,"Kölsch",4,3.5,"Kölsch",5.2,59549
+"14",21683,"The Lucky Monk",1279497942,5,3.5,3,"Kölsch",3.5,4.5,"Kölsch",5.2,59549
+"15",21683,"The Lucky Monk",1277525352,3.5,3.5,3,"Kölsch",3,3,"Kölsch",5.2,59549
+"16",21683,"The Lucky Monk",1286687340,4,4,4,"Czech Pilsener",4,3,"Cardinal Sin",5,54663
+"17",21683,"The Lucky Monk",1277563325,4,2.5,3.5,"Czech Pilsener",3,3,"Cardinal Sin",5,54663
+"18",21683,"The Lucky Monk",1277258664,3.5,3,3,"Czech Pilsener",3,3,"Cardinal Sin",5,54663
+"19",21683,"The Lucky Monk",1269297491,4,4,3.5,"Czech Pilsener",4,4,"Cardinal Sin",5,54663
+"20",21683,"The Lucky Monk",1261371291,4.5,3.5,3.5,"Czech Pilsener",3.5,4,"Cardinal Sin",5,54663
+"21",21683,"The Lucky Monk",1286690645,3.5,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62478
+"22",21683,"The Lucky Monk",1286685313,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62478
+"23",21683,"The Lucky Monk",1269304910,3.5,4,3.5,"Dubbel",3.5,4,"Dubbel",6.5,56998
+"24",21683,"The Lucky Monk",1291538771,3.5,3.5,4.5,"Dubbel",3.5,3.5,"Anniversary Ale",8,64135
+"25",21683,"The Lucky Monk",1291525741,3.5,4,4,"Dubbel",3,3.5,"Anniversary Ale",8,64135
+"26",21683,"The Lucky Monk",1291500278,4,4,4.5,"American Porter",4,4,"Pal's Porter",6,54667
+"27",21683,"The Lucky Monk",1291479945,4.5,4,4,"American Porter",3.5,3.5,"Pal's Porter",6,54667
+"28",21683,"The Lucky Monk",1286689942,4,3.5,5,"American Porter",4,4,"Pal's Porter",6,54667
+"29",21683,"The Lucky Monk",1286688147,4.5,4,4.5,"American Porter",4,4,"Pal's Porter",6,54667
+"30",21683,"The Lucky Monk",1263650659,4.5,4,4,"American Porter",4,4,"Pal's Porter",6,54667
+"31",21683,"The Lucky Monk",1261372051,4,4,4,"American Porter",4,4,"Pal's Porter",6,54667
+"32",21683,"The Lucky Monk",1298957797,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Gr'ale",5.5,54664
+"33",21683,"The Lucky Monk",1286686870,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Gr'ale",5.5,54664
+"34",21683,"The Lucky Monk",1277563977,4,3,4,"American Amber / Red Ale",4,3.5,"Gr'ale",5.5,54664
+"35",21683,"The Lucky Monk",1277259205,3,2.5,3,"American Amber / Red Ale",2.5,3,"Gr'ale",5.5,54664
+"36",21683,"The Lucky Monk",1269303879,3.5,3,4,"American Amber / Red Ale",4,4,"Gr'ale",5.5,54664
+"37",21683,"The Lucky Monk",1263649744,4,3.5,4,"American Amber / Red Ale",4,3.5,"Gr'ale",5.5,54664
+"38",21683,"The Lucky Monk",1261371527,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Gr'ale",5.5,54664

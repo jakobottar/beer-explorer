@@ -1,263 +1,195 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",4983,"Walking Man Brewing Co.",1265776989,4,3.5,3,"American Pale Wheat Ale",4,4,"Crosswalk Wheat",4.8,17250
-"2",4983,"Walking Man Brewing Co.",1268020402,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"3",4983,"Walking Man Brewing Co.",1318307818,4.5,4,4.5,"American IPA",4,4.5,"Walking Man IPA",7.2,17267
-"4",4983,"Walking Man Brewing Co.",1326145163,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"5",4983,"Walking Man Brewing Co.",1325035069,4,4,4,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
-"6",4983,"Walking Man Brewing Co.",1321761837,1.5,1.5,3,"Fruit / Vegetable Beer",1.5,1,"Black Cherry Stout",7.2,17251
-"7",4983,"Walking Man Brewing Co.",1320379331,4,4.5,3.5,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"8",4983,"Walking Man Brewing Co.",1312621745,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
-"9",4983,"Walking Man Brewing Co.",1284022431,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Black Cherry Stout",7.2,17251
-"10",4983,"Walking Man Brewing Co.",1283868902,3.5,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
-"11",4983,"Walking Man Brewing Co.",1283234553,4.5,4.5,4.5,"Fruit / Vegetable Beer",4,4.5,"Black Cherry Stout",7.2,17251
-"12",4983,"Walking Man Brewing Co.",1278343509,3,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
-"13",4983,"Walking Man Brewing Co.",1141879681,4.5,5,5,"Weizenbock",4.5,5,"Perambulator",7.1,17421
-"14",4983,"Walking Man Brewing Co.",1275880036,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"15",4983,"Walking Man Brewing Co.",1272730861,2,2,4,"Fruit / Vegetable Beer",4,1.5,"Black Cherry Stout",7.2,17251
-"16",4983,"Walking Man Brewing Co.",1272564023,2,2,4.5,"Fruit / Vegetable Beer",4,1.5,"Black Cherry Stout",7.2,17251
-"17",4983,"Walking Man Brewing Co.",1267504962,4.5,4,4,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
-"18",4983,"Walking Man Brewing Co.",1254320802,4,4,3,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"19",4983,"Walking Man Brewing Co.",1252811087,4.5,4,4,"Fruit / Vegetable Beer",4,4.5,"Black Cherry Stout",7.2,17251
-"20",4983,"Walking Man Brewing Co.",1233367872,3,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
-"21",4983,"Walking Man Brewing Co.",1216686002,3,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
-"22",4983,"Walking Man Brewing Co.",1209092804,4,4,3,"Fruit / Vegetable Beer",4,5,"Black Cherry Stout",7.2,17251
-"23",4983,"Walking Man Brewing Co.",1191279877,3,4,4,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
-"24",4983,"Walking Man Brewing Co.",1255581361,4,4,4,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
-"25",4983,"Walking Man Brewing Co.",1170650710,3,4.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Black Cherry Stout",7.2,17251
-"26",4983,"Walking Man Brewing Co.",1163895417,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
-"27",4983,"Walking Man Brewing Co.",1160941432,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
-"28",4983,"Walking Man Brewing Co.",1160253292,3.5,4.5,3,"Fruit / Vegetable Beer",2.5,3.5,"Black Cherry Stout",7.2,17251
-"29",4983,"Walking Man Brewing Co.",1133034503,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"30",4983,"Walking Man Brewing Co.",1129065627,2,3.5,4,"Fruit / Vegetable Beer",3.5,1.5,"Black Cherry Stout",7.2,17251
-"31",4983,"Walking Man Brewing Co.",1125965418,5,5,4,"Fruit / Vegetable Beer",4,5,"Black Cherry Stout",7.2,17251
-"32",4983,"Walking Man Brewing Co.",1219873572,5,3,4,"Doppelbock",3.5,4.5,"Somnambulator",10,32429
-"33",4983,"Walking Man Brewing Co.",1247632110,4.5,4,4,"American IPA",3.5,4.5,"Walking Man IPA",7.2,17267
-"34",4983,"Walking Man Brewing Co.",1125187701,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
-"35",4983,"Walking Man Brewing Co.",1112489618,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
-"36",4983,"Walking Man Brewing Co.",1088235379,1,2.5,4,"Fruit / Vegetable Beer",1,1,"Black Cherry Stout",7.2,17251
-"37",4983,"Walking Man Brewing Co.",1087254619,4,4,4,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
-"38",4983,"Walking Man Brewing Co.",1082877110,4.5,4.5,4.5,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
-"39",4983,"Walking Man Brewing Co.",1265776089,4,3.5,3,"Chile Beer",4,4,"Fire Walker",8,50163
-"40",4983,"Walking Man Brewing Co.",1243582006,4,4.5,3,"Chile Beer",4,4.5,"Fire Walker",8,50163
-"41",4983,"Walking Man Brewing Co.",1158641110,5,4.5,4.5,"Weizenbock",4.5,5,"Perambulator",7.1,17421
-"42",4983,"Walking Man Brewing Co.",1083994248,3.5,4.5,4.5,"Weizenbock",3.5,4.5,"Perambulator",7.1,17421
-"43",4983,"Walking Man Brewing Co.",1254320075,4.5,4,4.5,"American Black Ale",4,4,"Big Black Homo",9.6,49102
-"44",4983,"Walking Man Brewing Co.",1249098844,5,3.5,4,"American Black Ale",4,4,"Big Black Homo",9.6,49102
-"45",4983,"Walking Man Brewing Co.",1239527796,3.5,4,4.5,"American Black Ale",4,4,"Big Black Homo",9.6,49102
-"46",4983,"Walking Man Brewing Co.",1265776336,3,4,4,"American Brown Ale",3,3,"Barefoot Brown Ale",5.2,23426
-"47",4983,"Walking Man Brewing Co.",1170121891,4,3,4,"American Brown Ale",4,4,"Barefoot Brown Ale",5.2,23426
-"48",4983,"Walking Man Brewing Co.",1147299074,4,3.5,3.5,"American Brown Ale",3.5,4,"Barefoot Brown Ale",5.2,23426
-"49",4983,"Walking Man Brewing Co.",1114908970,4,4.5,3.5,"American Brown Ale",4,4,"Barefoot Brown Ale",5.2,23426
-"50",4983,"Walking Man Brewing Co.",1214719854,3.5,4.5,4,"Doppelbock",4,4,"Somnambulator",10,32429
-"51",4983,"Walking Man Brewing Co.",1156341088,4,4.5,4,"Doppelbock",3.5,4,"Somnambulator",10,32429
-"52",4983,"Walking Man Brewing Co.",1292002582,4.5,4.5,4,"American IPA",4.5,5,"Marc's Portage Anniversary Rye IPA",NA,63973
-"53",4983,"Walking Man Brewing Co.",1290994277,4.5,4,3,"American IPA",4.5,5,"Marc's Portage Anniversary Rye IPA",NA,63973
-"54",4983,"Walking Man Brewing Co.",1290031665,4.5,4,4.5,"American IPA",4.5,4.5,"Hop-ALong",NA,54307
-"55",4983,"Walking Man Brewing Co.",1289442253,4.5,4,4.5,"American IPA",4,4.5,"Hop-ALong",NA,54307
-"56",4983,"Walking Man Brewing Co.",1258941297,4.5,4,4.5,"American IPA",4,4.5,"Hop-ALong",NA,54307
-"57",4983,"Walking Man Brewing Co.",1179642138,3.5,2.5,3.5,"Saison / Farmhouse Ale",3,3.5,"Saison DuPed",7.1,34505
-"58",4983,"Walking Man Brewing Co.",1167498225,3,3,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison DuPed",7.1,34505
-"59",4983,"Walking Man Brewing Co.",1213231865,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Staggering Monk",9.4,23491
-"60",4983,"Walking Man Brewing Co.",1121471277,5,3.5,3.5,"Belgian Strong Dark Ale",3.5,4.5,"Staggering Monk",9.4,23491
-"61",4983,"Walking Man Brewing Co.",1315855075,4,4,3.5,"German Pilsener",4,4,"Flip Flop",NA,60882
-"62",4983,"Walking Man Brewing Co.",1314412706,4,3.5,4,"German Pilsener",4,4,"Flip Flop",NA,60882
-"63",4983,"Walking Man Brewing Co.",1281319202,3.5,4,4,"German Pilsener",3.5,4,"Flip Flop",NA,60882
-"64",4983,"Walking Man Brewing Co.",1274764043,4.5,3,3.5,"American Pale Lager",4,3,"Lightfoot Lager",5,21033
-"65",4983,"Walking Man Brewing Co.",1274574737,4.5,3.5,4,"American Pale Lager",4,4,"Lightfoot Lager",5,21033
-"66",4983,"Walking Man Brewing Co.",1125183410,2.5,3,2.5,"American Pale Lager",3,2.5,"Lightfoot Lager",5,21033
-"67",4983,"Walking Man Brewing Co.",1102643359,3.5,4,4,"American Pale Lager",3.5,3.5,"Lightfoot Lager",5,21033
-"68",4983,"Walking Man Brewing Co.",1315853772,3.5,3.5,4,"American IPA",4,3.5,"Walking Man IPA",7.2,17267
-"69",4983,"Walking Man Brewing Co.",1290962322,4.5,4,4,"American IPA",4,4.5,"Walking Man IPA",7.2,17267
-"70",4983,"Walking Man Brewing Co.",1274763780,4,3.5,4,"American IPA",4,3.5,"Walking Man IPA",7.2,17267
-"71",4983,"Walking Man Brewing Co.",1274752914,3.5,4,4,"American IPA",3.5,4,"Walking Man IPA",7.2,17267
-"72",4983,"Walking Man Brewing Co.",1274575222,4,4.5,4,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
-"73",4983,"Walking Man Brewing Co.",1274025139,4,4,4.5,"American IPA",4,4,"Walking Man IPA",7.2,17267
-"74",4983,"Walking Man Brewing Co.",1272509047,4,4,4,"American IPA",4.5,4,"Walking Man IPA",7.2,17267
-"75",4983,"Walking Man Brewing Co.",1272493798,5,4.5,4,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
-"76",4983,"Walking Man Brewing Co.",1265775817,4,3.5,3.5,"American IPA",4,4,"Walking Man IPA",7.2,17267
-"77",4983,"Walking Man Brewing Co.",1221841532,4.5,4.5,4.5,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
-"78",4983,"Walking Man Brewing Co.",1187839439,3.5,3.5,4,"American IPA",3.5,3,"Walking Man IPA",7.2,17267
-"79",4983,"Walking Man Brewing Co.",1187107561,3.5,3,4.5,"American IPA",3.5,3.5,"Walking Man IPA",7.2,17267
-"80",4983,"Walking Man Brewing Co.",1140212477,4.5,4.5,5,"American IPA",4,5,"Walking Man IPA",7.2,17267
-"81",4983,"Walking Man Brewing Co.",1113188839,4,4,4,"American IPA",4,4,"Walking Man IPA",7.2,17267
-"82",4983,"Walking Man Brewing Co.",1088244652,5,4,4.5,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
-"83",4983,"Walking Man Brewing Co.",1086647536,5,4.5,4,"American IPA",4,5,"Walking Man IPA",7.2,17267
-"84",4983,"Walking Man Brewing Co.",1187839940,4,4.5,4,"California Common / Steam Beer",3.5,3.5,"Sasquatch Legacy Project Imperial Steam",9,38329
-"85",4983,"Walking Man Brewing Co.",1085687054,4.5,4.5,4.5,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
-"86",4983,"Walking Man Brewing Co.",1083028323,5,5,4.5,"American IPA",5,5,"Walking Man IPA",7.2,17267
-"87",4983,"Walking Man Brewing Co.",1082957821,4.5,5,4.5,"American IPA",5,5,"Walking Man IPA",7.2,17267
-"88",4983,"Walking Man Brewing Co.",1190241631,4.5,3.5,4,"American Amber / Red Ale",4,4,"Homo Sapien",NA,38733
-"89",4983,"Walking Man Brewing Co.",1161262977,4,4,4,"Märzen / Oktoberfest",4.5,4,"Hoptoberfest",NA,26016
-"90",4983,"Walking Man Brewing Co.",1129080060,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Hoptoberfest",NA,26016
-"91",4983,"Walking Man Brewing Co.",1127685550,4,4,4,"Märzen / Oktoberfest",4,4,"Hoptoberfest",NA,26016
-"92",4983,"Walking Man Brewing Co.",1274236835,3,3,3.5,"American Barleywine",3,3,"Old Stumblefoot",11.9,21299
-"93",4983,"Walking Man Brewing Co.",1193626975,4.5,3,4.5,"Czech Pilsener",4.5,4.5,"Flip-Flop Pilsner",5.6,18817
-"94",4983,"Walking Man Brewing Co.",1090210859,5,4.5,4.5,"Czech Pilsener",4,5,"Flip-Flop Pilsner",5.6,18817
-"95",4983,"Walking Man Brewing Co.",1240035312,4,4,4,"American Brown Ale",3.5,4,"Foot Fetish Imperial Brown Ale",NA,46690
-"96",4983,"Walking Man Brewing Co.",1229725674,3,4,4,"American Brown Ale",3,3.5,"Foot Fetish Imperial Brown Ale",NA,46690
-"97",4983,"Walking Man Brewing Co.",1193778848,4,4,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Barrel-Aged High Road Scotch Ale",9.2,39389
-"98",4983,"Walking Man Brewing Co.",1294569054,4.5,4,3.5,"American Wild Ale",3.5,4,"Foot Funk",5,56987
-"99",4983,"Walking Man Brewing Co.",1269275297,3,4,4,"American Wild Ale",3.5,3,"Foot Funk",5,56987
-"100",4983,"Walking Man Brewing Co.",1274574256,4.5,4.5,4,"American Pale Wheat Ale",4,4,"Crosswalk Wheat",4.8,17250
-"101",4983,"Walking Man Brewing Co.",1206220476,4,3.5,2.5,"American Double / Imperial IPA",4,4,"Big Phat Homo",9.9,31756
-"102",4983,"Walking Man Brewing Co.",1174403034,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Big Phat Homo",9.9,31756
-"103",4983,"Walking Man Brewing Co.",1167785103,3.5,4,4,"American Double / Imperial IPA",4,4,"Big Phat Homo",9.9,31756
-"104",4983,"Walking Man Brewing Co.",1153155663,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Big Phat Homo",9.9,31756
-"105",4983,"Walking Man Brewing Co.",1237255618,5,4.5,3.5,"Scotch Ale / Wee Heavy",4,4.5,"High Road Scotch Ale",9.7,17282
-"106",4983,"Walking Man Brewing Co.",1187841530,4,3.5,3,"Scotch Ale / Wee Heavy",4,4,"High Road Scotch Ale",9.7,17282
-"107",4983,"Walking Man Brewing Co.",1152137107,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"High Road Scotch Ale",9.7,17282
-"108",4983,"Walking Man Brewing Co.",1115880423,4.5,5,4.5,"Scotch Ale / Wee Heavy",4,5,"High Road Scotch Ale",9.7,17282
-"109",4983,"Walking Man Brewing Co.",1113190388,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"High Road Scotch Ale",9.7,17282
-"110",4983,"Walking Man Brewing Co.",1083044326,4.5,5,4.5,"Scotch Ale / Wee Heavy",5,5,"High Road Scotch Ale",9.7,17282
-"111",4983,"Walking Man Brewing Co.",1321853214,3,3.5,3.5,"American Double / Imperial IPA",3,3,"Iron Man IPA",NA,58533
-"112",4983,"Walking Man Brewing Co.",1306294603,4.5,4,3.5,"American Double / Imperial IPA",4.5,4.5,"Iron Man IPA",NA,58533
-"113",4983,"Walking Man Brewing Co.",1305862980,4,4,4.5,"American Double / Imperial IPA",4,3.5,"Iron Man IPA",NA,58533
-"114",4983,"Walking Man Brewing Co.",1274668906,3,3,3,"American Double / Imperial IPA",3.5,3,"Iron Man IPA",NA,58533
-"115",4983,"Walking Man Brewing Co.",1274576561,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Iron Man IPA",NA,58533
-"116",4983,"Walking Man Brewing Co.",1275064010,4.5,4,4,"American Barleywine",3.5,4,"Old Stumblefoot",11.9,21299
-"117",4983,"Walking Man Brewing Co.",1274575053,4,4,5,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
-"118",4983,"Walking Man Brewing Co.",1272618599,4.5,4,4.5,"American Barleywine",4,4,"Old Stumblefoot",11.9,21299
-"119",4983,"Walking Man Brewing Co.",1267929672,4,4,4,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
-"120",4983,"Walking Man Brewing Co.",1265777297,4.5,4.5,3.5,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
-"121",4983,"Walking Man Brewing Co.",1260466804,4.5,4,4,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
-"122",4983,"Walking Man Brewing Co.",1187840211,4.5,4,4,"American Barleywine",4,4,"Old Stumblefoot",11.9,21299
-"123",4983,"Walking Man Brewing Co.",1186609366,5,4,4,"American Barleywine",4.5,4,"Old Stumblefoot",11.9,21299
-"124",4983,"Walking Man Brewing Co.",1180032983,5,5,4,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
-"125",4983,"Walking Man Brewing Co.",1107016231,5,4.5,4.5,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
-"126",4983,"Walking Man Brewing Co.",1104179133,5,5,4.5,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
-"127",4983,"Walking Man Brewing Co.",1113178409,3.5,3,4,"American Pale Wheat Ale",4,3.5,"Crosswalk Wheat",4.8,17250
-"128",4983,"Walking Man Brewing Co.",1082874506,4,4,3.5,"American Pale Wheat Ale",4,3.5,"Crosswalk Wheat",4.8,17250
-"129",4983,"Walking Man Brewing Co.",1176151606,2.5,2.5,4,"American Brown Ale",2.5,2.5,"Imperial Brown",NA,36294
-"130",4983,"Walking Man Brewing Co.",1321195721,4.5,4,3.5,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"131",4983,"Walking Man Brewing Co.",1318894166,4.5,3.5,5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"132",4983,"Walking Man Brewing Co.",1309494377,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"133",4983,"Walking Man Brewing Co.",1302474784,3.5,4,3.5,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
-"134",4983,"Walking Man Brewing Co.",1296425966,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"135",4983,"Walking Man Brewing Co.",1288035575,4.5,4,4,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
-"136",4983,"Walking Man Brewing Co.",1274574481,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"137",4983,"Walking Man Brewing Co.",1273954605,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"138",4983,"Walking Man Brewing Co.",1260465642,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"139",4983,"Walking Man Brewing Co.",1255051767,3.5,4,4.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
-"140",4983,"Walking Man Brewing Co.",1251331415,3,4,2.5,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
-"141",4983,"Walking Man Brewing Co.",1250349019,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
-"142",4983,"Walking Man Brewing Co.",1244996632,4,4,4,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
-"143",4983,"Walking Man Brewing Co.",1239525434,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"144",4983,"Walking Man Brewing Co.",1235493129,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Homo Erectus",9,12495
-"145",4983,"Walking Man Brewing Co.",1234984963,4,4,4,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
-"146",4983,"Walking Man Brewing Co.",1228770519,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"147",4983,"Walking Man Brewing Co.",1223428612,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"148",4983,"Walking Man Brewing Co.",1196184478,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"149",4983,"Walking Man Brewing Co.",1191279636,3,4.5,4,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
-"150",4983,"Walking Man Brewing Co.",1180133628,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"151",4983,"Walking Man Brewing Co.",1179641007,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"152",4983,"Walking Man Brewing Co.",1162666488,5,4,4.5,"American Double / Imperial IPA",4.5,5,"Homo Erectus",9,12495
-"153",4983,"Walking Man Brewing Co.",1158308926,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"154",4983,"Walking Man Brewing Co.",1157996617,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"155",4983,"Walking Man Brewing Co.",1143705966,4,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"156",4983,"Walking Man Brewing Co.",1142998457,4,3.5,3,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
-"157",4983,"Walking Man Brewing Co.",1141525091,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
-"158",4983,"Walking Man Brewing Co.",1121754706,4.5,4,4.5,"American Double / Imperial IPA",5,5,"Homo Erectus",9,12495
-"159",4983,"Walking Man Brewing Co.",1121375636,4,4,4,"American Double / Imperial IPA",3.5,4,"Homo Erectus",9,12495
-"160",4983,"Walking Man Brewing Co.",1117693004,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"161",4983,"Walking Man Brewing Co.",1114922440,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
-"162",4983,"Walking Man Brewing Co.",1112489278,3.5,3.5,4,"American Double / Imperial IPA",3.5,4,"Homo Erectus",9,12495
-"163",4983,"Walking Man Brewing Co.",1112068176,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"164",4983,"Walking Man Brewing Co.",1104119035,3.5,4.5,5,"American Double / Imperial IPA",4,3,"Homo Erectus",9,12495
-"165",4983,"Walking Man Brewing Co.",1101684279,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"166",4983,"Walking Man Brewing Co.",1087954442,4.5,5,4.5,"American Double / Imperial IPA",5,4.5,"Homo Erectus",9,12495
-"167",4983,"Walking Man Brewing Co.",1073243351,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"168",4983,"Walking Man Brewing Co.",1062655355,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
-"169",4983,"Walking Man Brewing Co.",1218820552,3,3,3.5,"Flanders Oud Bruin",3.5,3,"Blootvoetse Bruin",5.3,31757
-"170",4983,"Walking Man Brewing Co.",1153166266,4,4,4,"Flanders Oud Bruin",4.5,4,"Blootvoetse Bruin",5.3,31757
-"171",4983,"Walking Man Brewing Co.",1292525222,4,4,4.5,"American Double / Imperial Stout",4,4,"Leonard's B(l)ender",11,64475
-"172",4983,"Walking Man Brewing Co.",1175133673,4,4,4,"Dubbel",3.5,4,"Abbey Rode",8,36127
-"173",4983,"Walking Man Brewing Co.",1319598872,4.5,4,4.5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
-"174",4983,"Walking Man Brewing Co.",1313797640,4,4.5,5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
-"175",4983,"Walking Man Brewing Co.",1300247243,4,4,4.5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
-"176",4983,"Walking Man Brewing Co.",1292365149,4,4,4.5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
-"177",4983,"Walking Man Brewing Co.",1291500736,4.5,4.5,4,"Russian Imperial Stout",4,5,"Jaywalker Imperial Stout",11.4,18137
-"178",4983,"Walking Man Brewing Co.",1291250441,4,4.5,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"179",4983,"Walking Man Brewing Co.",1291249017,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"180",4983,"Walking Man Brewing Co.",1291240439,5,4.5,4,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
-"181",4983,"Walking Man Brewing Co.",1187249971,4,4,4.5,"Russian Imperial Stout",5,4,"Jaywalker Imperial Stout",11.4,18137
-"182",4983,"Walking Man Brewing Co.",1290139038,4,4.5,4.5,"Russian Imperial Stout",4.5,5,"Jaywalker Imperial Stout",11.4,18137
-"183",4983,"Walking Man Brewing Co.",1290135076,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"184",4983,"Walking Man Brewing Co.",1289946229,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"185",4983,"Walking Man Brewing Co.",1272610220,4,5,4,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
-"186",4983,"Walking Man Brewing Co.",1271995522,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Jaywalker Imperial Stout",11.4,18137
-"187",4983,"Walking Man Brewing Co.",1224686122,4,4,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"188",4983,"Walking Man Brewing Co.",1202101530,3.5,5,4.5,"Russian Imperial Stout",3.5,5,"Jaywalker Imperial Stout",11.4,18137
-"189",4983,"Walking Man Brewing Co.",1193143908,4,4,4.5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
-"190",4983,"Walking Man Brewing Co.",1187839123,5,4,4,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"191",4983,"Walking Man Brewing Co.",1186085699,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"192",4983,"Walking Man Brewing Co.",1154461758,5,4.5,4,"Russian Imperial Stout",4.5,5,"Jaywalker Imperial Stout",11.4,18137
-"193",4983,"Walking Man Brewing Co.",1142733312,5,4,4,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"194",4983,"Walking Man Brewing Co.",1141878344,5,4,5,"Russian Imperial Stout",5,4,"Jaywalker Imperial Stout",11.4,18137
-"195",4983,"Walking Man Brewing Co.",1090899426,4.5,4.5,5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
-"196",4983,"Walking Man Brewing Co.",1090382938,5,4.5,5,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"197",4983,"Walking Man Brewing Co.",1087688789,4,4,5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
-"198",4983,"Walking Man Brewing Co.",1324163174,4,4,4.5,"American Pale Ale (APA)",4,4,"Pale Strider",5.2,17280
-"199",4983,"Walking Man Brewing Co.",1315837973,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
-"200",4983,"Walking Man Brewing Co.",1308544090,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
-"201",4983,"Walking Man Brewing Co.",1283472354,5,4,3.5,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
-"202",4983,"Walking Man Brewing Co.",1274575541,4,4,4,"American Pale Ale (APA)",4,4.5,"Pale Strider",5.2,17280
-"203",4983,"Walking Man Brewing Co.",1241965424,4,3.5,4,"American Pale Ale (APA)",3,4,"Pale Strider",5.2,17280
-"204",4983,"Walking Man Brewing Co.",1232587720,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Pale Strider",5.2,17280
-"205",4983,"Walking Man Brewing Co.",1221805272,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Strider",5.2,17280
-"206",4983,"Walking Man Brewing Co.",1136769353,4.5,4.5,4.5,"American Pale Ale (APA)",4,4.5,"Pale Strider",5.2,17280
-"207",4983,"Walking Man Brewing Co.",1113176005,3,3.5,2.5,"American Pale Ale (APA)",3,3,"Pale Strider",5.2,17280
-"208",4983,"Walking Man Brewing Co.",1083043980,5,4.5,4.5,"American Pale Ale (APA)",3.5,5,"Pale Strider",5.2,17280
-"209",4983,"Walking Man Brewing Co.",1315605901,4.5,4,3.5,"Belgian IPA",4.5,4,"Divergent",7.6,72979
-"210",4983,"Walking Man Brewing Co.",1274575801,5,4,4,"Fruit / Vegetable Beer",4,4.5,"Ramblin' Raspberry",4.5,17261
-"211",4983,"Walking Man Brewing Co.",1209095094,4.5,4.5,4,"Fruit / Vegetable Beer",4,4.5,"Ramblin' Raspberry",4.5,17261
-"212",4983,"Walking Man Brewing Co.",1114908186,4,4.5,3.5,"Fruit / Vegetable Beer",3.5,4,"Ramblin' Raspberry",4.5,17261
-"213",4983,"Walking Man Brewing Co.",1082925514,5,4,3.5,"Fruit / Vegetable Beer",4,4.5,"Ramblin' Raspberry",4.5,17261
-"214",4983,"Walking Man Brewing Co.",1325214425,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Right Of Way",6,76847
-"215",4983,"Walking Man Brewing Co.",1326146747,4,3.5,4,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
-"216",4983,"Walking Man Brewing Co.",1320628237,4.5,4.5,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
-"217",4983,"Walking Man Brewing Co.",1315855795,4,4,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
-"218",4983,"Walking Man Brewing Co.",1275166614,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
-"219",4983,"Walking Man Brewing Co.",1258516669,4,4,4.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
-"220",4983,"Walking Man Brewing Co.",1255582122,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
-"221",4983,"Walking Man Brewing Co.",1200022302,4.5,5,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
-"222",4983,"Walking Man Brewing Co.",1193968153,4,4.5,4.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
-"223",4983,"Walking Man Brewing Co.",1191303661,4,4,4.5,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
-"224",4983,"Walking Man Brewing Co.",1185066179,4.5,4,4,"Oatmeal Stout",4.5,4,"Walking Stick Stout",7.2,17260
-"225",4983,"Walking Man Brewing Co.",1140476141,5,4.5,4.5,"Oatmeal Stout",3.5,4,"Walking Stick Stout",7.2,17260
-"226",4983,"Walking Man Brewing Co.",1120686075,5,3.5,3.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
-"227",4983,"Walking Man Brewing Co.",1114910717,3.5,4,3.5,"Oatmeal Stout",4,3.5,"Walking Stick Stout",7.2,17260
-"228",4983,"Walking Man Brewing Co.",1082924230,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
-"229",4983,"Walking Man Brewing Co.",1070865685,3.5,3.5,3.5,"Belgian Dark Ale",4.5,3.5,"Webfoot Winter Ale",NA,14684
-"230",4983,"Walking Man Brewing Co.",1267666498,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Shin Splint Imperial Red",NA,56429
-"231",4983,"Walking Man Brewing Co.",1267119306,4.5,3.5,3.5,"American Amber / Red Ale",4.5,4,"Shin Splint Imperial Red",NA,56429
-"232",4983,"Walking Man Brewing Co.",1281827148,2.5,3.5,4,"American IPA",3,3,"Runaway IPA",NA,61031
-"233",4983,"Walking Man Brewing Co.",1239565691,4.5,4,4,"American Malt Liquor",4,4,"Street Walker Malt Liquor",7.8,30844
-"234",4983,"Walking Man Brewing Co.",1170840971,4.5,4,3.5,"American Malt Liquor",4,4,"Street Walker Malt Liquor",7.8,30844
-"235",4983,"Walking Man Brewing Co.",1149202599,5,5,4.5,"American Malt Liquor",4.5,5,"Street Walker Malt Liquor",7.8,30844
-"236",4983,"Walking Man Brewing Co.",1103854019,4,4.5,3.5,"Belgian Dark Ale",4,4,"Webfoot Winter Ale",NA,14684
-"237",4983,"Walking Man Brewing Co.",1307757427,5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
-"238",4983,"Walking Man Brewing Co.",1295058670,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
-"239",4983,"Walking Man Brewing Co.",1291098423,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Knuckle Dragger",6.5,15257
-"240",4983,"Walking Man Brewing Co.",1273471536,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
-"241",4983,"Walking Man Brewing Co.",1268975654,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
-"242",4983,"Walking Man Brewing Co.",1262060957,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
-"243",4983,"Walking Man Brewing Co.",1261188930,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"244",4983,"Walking Man Brewing Co.",1258329543,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"245",4983,"Walking Man Brewing Co.",1245454692,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Knuckle Dragger",6.5,15257
-"246",4983,"Walking Man Brewing Co.",1223791906,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
-"247",4983,"Walking Man Brewing Co.",1223238951,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"248",4983,"Walking Man Brewing Co.",1196440446,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
-"249",4983,"Walking Man Brewing Co.",1190057529,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
-"250",4983,"Walking Man Brewing Co.",1187840583,3.5,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
-"251",4983,"Walking Man Brewing Co.",1186608703,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Knuckle Dragger",6.5,15257
-"252",4983,"Walking Man Brewing Co.",1175647624,4,3.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
-"253",4983,"Walking Man Brewing Co.",1163264641,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
-"254",4983,"Walking Man Brewing Co.",1154108010,4,4,4,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
-"255",4983,"Walking Man Brewing Co.",1152745209,4.5,4,5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"256",4983,"Walking Man Brewing Co.",1126814197,3,3.5,3.5,"American Pale Ale (APA)",3,2.5,"Knuckle Dragger",6.5,15257
-"257",4983,"Walking Man Brewing Co.",1113180875,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"258",4983,"Walking Man Brewing Co.",1091046872,3.5,4.5,4,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
-"259",4983,"Walking Man Brewing Co.",1087800893,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"260",4983,"Walking Man Brewing Co.",1083044893,4.5,5,4,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
-"261",4983,"Walking Man Brewing Co.",1073269717,4,4,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
-"262",4983,"Walking Man Brewing Co.",1260465937,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Ho Ho Homo Erectus",10,54670
+"1",4983,"Walking Man Brewing Co.",1268020402,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"2",4983,"Walking Man Brewing Co.",1318307818,4.5,4,4.5,"American IPA",4,4.5,"Walking Man IPA",7.2,17267
+"3",4983,"Walking Man Brewing Co.",1326145163,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"4",4983,"Walking Man Brewing Co.",1325035069,4,4,4,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
+"5",4983,"Walking Man Brewing Co.",1321761837,1.5,1.5,3,"Fruit / Vegetable Beer",1.5,1,"Black Cherry Stout",7.2,17251
+"6",4983,"Walking Man Brewing Co.",1320379331,4,4.5,3.5,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"7",4983,"Walking Man Brewing Co.",1312621745,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
+"8",4983,"Walking Man Brewing Co.",1284022431,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Black Cherry Stout",7.2,17251
+"9",4983,"Walking Man Brewing Co.",1283868902,3.5,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
+"10",4983,"Walking Man Brewing Co.",1283234553,4.5,4.5,4.5,"Fruit / Vegetable Beer",4,4.5,"Black Cherry Stout",7.2,17251
+"11",4983,"Walking Man Brewing Co.",1278343509,3,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
+"12",4983,"Walking Man Brewing Co.",1275880036,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"13",4983,"Walking Man Brewing Co.",1272730861,2,2,4,"Fruit / Vegetable Beer",4,1.5,"Black Cherry Stout",7.2,17251
+"14",4983,"Walking Man Brewing Co.",1272564023,2,2,4.5,"Fruit / Vegetable Beer",4,1.5,"Black Cherry Stout",7.2,17251
+"15",4983,"Walking Man Brewing Co.",1267504962,4.5,4,4,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
+"16",4983,"Walking Man Brewing Co.",1254320802,4,4,3,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"17",4983,"Walking Man Brewing Co.",1252811087,4.5,4,4,"Fruit / Vegetable Beer",4,4.5,"Black Cherry Stout",7.2,17251
+"18",4983,"Walking Man Brewing Co.",1233367872,3,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
+"19",4983,"Walking Man Brewing Co.",1216686002,3,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
+"20",4983,"Walking Man Brewing Co.",1209092804,4,4,3,"Fruit / Vegetable Beer",4,5,"Black Cherry Stout",7.2,17251
+"21",4983,"Walking Man Brewing Co.",1191279877,3,4,4,"Fruit / Vegetable Beer",4,3.5,"Black Cherry Stout",7.2,17251
+"22",4983,"Walking Man Brewing Co.",1255581361,4,4,4,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
+"23",4983,"Walking Man Brewing Co.",1170650710,3,4.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Black Cherry Stout",7.2,17251
+"24",4983,"Walking Man Brewing Co.",1163895417,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Black Cherry Stout",7.2,17251
+"25",4983,"Walking Man Brewing Co.",1160941432,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
+"26",4983,"Walking Man Brewing Co.",1160253292,3.5,4.5,3,"Fruit / Vegetable Beer",2.5,3.5,"Black Cherry Stout",7.2,17251
+"27",4983,"Walking Man Brewing Co.",1133034503,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"28",4983,"Walking Man Brewing Co.",1129065627,2,3.5,4,"Fruit / Vegetable Beer",3.5,1.5,"Black Cherry Stout",7.2,17251
+"29",4983,"Walking Man Brewing Co.",1125965418,5,5,4,"Fruit / Vegetable Beer",4,5,"Black Cherry Stout",7.2,17251
+"30",4983,"Walking Man Brewing Co.",1247632110,4.5,4,4,"American IPA",3.5,4.5,"Walking Man IPA",7.2,17267
+"31",4983,"Walking Man Brewing Co.",1125187701,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Black Cherry Stout",7.2,17251
+"32",4983,"Walking Man Brewing Co.",1112489618,4,4,4,"Fruit / Vegetable Beer",4,4,"Black Cherry Stout",7.2,17251
+"33",4983,"Walking Man Brewing Co.",1088235379,1,2.5,4,"Fruit / Vegetable Beer",1,1,"Black Cherry Stout",7.2,17251
+"34",4983,"Walking Man Brewing Co.",1087254619,4,4,4,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
+"35",4983,"Walking Man Brewing Co.",1082877110,4.5,4.5,4.5,"Fruit / Vegetable Beer",4.5,4.5,"Black Cherry Stout",7.2,17251
+"36",4983,"Walking Man Brewing Co.",1315853772,3.5,3.5,4,"American IPA",4,3.5,"Walking Man IPA",7.2,17267
+"37",4983,"Walking Man Brewing Co.",1290962322,4.5,4,4,"American IPA",4,4.5,"Walking Man IPA",7.2,17267
+"38",4983,"Walking Man Brewing Co.",1274763780,4,3.5,4,"American IPA",4,3.5,"Walking Man IPA",7.2,17267
+"39",4983,"Walking Man Brewing Co.",1274752914,3.5,4,4,"American IPA",3.5,4,"Walking Man IPA",7.2,17267
+"40",4983,"Walking Man Brewing Co.",1274575222,4,4.5,4,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
+"41",4983,"Walking Man Brewing Co.",1274025139,4,4,4.5,"American IPA",4,4,"Walking Man IPA",7.2,17267
+"42",4983,"Walking Man Brewing Co.",1272509047,4,4,4,"American IPA",4.5,4,"Walking Man IPA",7.2,17267
+"43",4983,"Walking Man Brewing Co.",1272493798,5,4.5,4,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
+"44",4983,"Walking Man Brewing Co.",1265775817,4,3.5,3.5,"American IPA",4,4,"Walking Man IPA",7.2,17267
+"45",4983,"Walking Man Brewing Co.",1221841532,4.5,4.5,4.5,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
+"46",4983,"Walking Man Brewing Co.",1187839439,3.5,3.5,4,"American IPA",3.5,3,"Walking Man IPA",7.2,17267
+"47",4983,"Walking Man Brewing Co.",1187107561,3.5,3,4.5,"American IPA",3.5,3.5,"Walking Man IPA",7.2,17267
+"48",4983,"Walking Man Brewing Co.",1140212477,4.5,4.5,5,"American IPA",4,5,"Walking Man IPA",7.2,17267
+"49",4983,"Walking Man Brewing Co.",1113188839,4,4,4,"American IPA",4,4,"Walking Man IPA",7.2,17267
+"50",4983,"Walking Man Brewing Co.",1088244652,5,4,4.5,"American IPA",4.5,5,"Walking Man IPA",7.2,17267
+"51",4983,"Walking Man Brewing Co.",1086647536,5,4.5,4,"American IPA",4,5,"Walking Man IPA",7.2,17267
+"52",4983,"Walking Man Brewing Co.",1085687054,4.5,4.5,4.5,"American IPA",4.5,4.5,"Walking Man IPA",7.2,17267
+"53",4983,"Walking Man Brewing Co.",1083028323,5,5,4.5,"American IPA",5,5,"Walking Man IPA",7.2,17267
+"54",4983,"Walking Man Brewing Co.",1082957821,4.5,5,4.5,"American IPA",5,5,"Walking Man IPA",7.2,17267
+"55",4983,"Walking Man Brewing Co.",1161262977,4,4,4,"Märzen / Oktoberfest",4.5,4,"Hoptoberfest",NA,26016
+"56",4983,"Walking Man Brewing Co.",1129080060,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Hoptoberfest",NA,26016
+"57",4983,"Walking Man Brewing Co.",1127685550,4,4,4,"Märzen / Oktoberfest",4,4,"Hoptoberfest",NA,26016
+"58",4983,"Walking Man Brewing Co.",1274236835,3,3,3.5,"American Barleywine",3,3,"Old Stumblefoot",11.9,21299
+"59",4983,"Walking Man Brewing Co.",1237255618,5,4.5,3.5,"Scotch Ale / Wee Heavy",4,4.5,"High Road Scotch Ale",9.7,17282
+"60",4983,"Walking Man Brewing Co.",1187841530,4,3.5,3,"Scotch Ale / Wee Heavy",4,4,"High Road Scotch Ale",9.7,17282
+"61",4983,"Walking Man Brewing Co.",1152137107,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"High Road Scotch Ale",9.7,17282
+"62",4983,"Walking Man Brewing Co.",1115880423,4.5,5,4.5,"Scotch Ale / Wee Heavy",4,5,"High Road Scotch Ale",9.7,17282
+"63",4983,"Walking Man Brewing Co.",1113190388,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"High Road Scotch Ale",9.7,17282
+"64",4983,"Walking Man Brewing Co.",1083044326,4.5,5,4.5,"Scotch Ale / Wee Heavy",5,5,"High Road Scotch Ale",9.7,17282
+"65",4983,"Walking Man Brewing Co.",1321853214,3,3.5,3.5,"American Double / Imperial IPA",3,3,"Iron Man IPA",NA,58533
+"66",4983,"Walking Man Brewing Co.",1306294603,4.5,4,3.5,"American Double / Imperial IPA",4.5,4.5,"Iron Man IPA",NA,58533
+"67",4983,"Walking Man Brewing Co.",1305862980,4,4,4.5,"American Double / Imperial IPA",4,3.5,"Iron Man IPA",NA,58533
+"68",4983,"Walking Man Brewing Co.",1274668906,3,3,3,"American Double / Imperial IPA",3.5,3,"Iron Man IPA",NA,58533
+"69",4983,"Walking Man Brewing Co.",1274576561,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Iron Man IPA",NA,58533
+"70",4983,"Walking Man Brewing Co.",1275064010,4.5,4,4,"American Barleywine",3.5,4,"Old Stumblefoot",11.9,21299
+"71",4983,"Walking Man Brewing Co.",1274575053,4,4,5,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
+"72",4983,"Walking Man Brewing Co.",1272618599,4.5,4,4.5,"American Barleywine",4,4,"Old Stumblefoot",11.9,21299
+"73",4983,"Walking Man Brewing Co.",1267929672,4,4,4,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
+"74",4983,"Walking Man Brewing Co.",1265777297,4.5,4.5,3.5,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
+"75",4983,"Walking Man Brewing Co.",1260466804,4.5,4,4,"American Barleywine",4,4.5,"Old Stumblefoot",11.9,21299
+"76",4983,"Walking Man Brewing Co.",1187840211,4.5,4,4,"American Barleywine",4,4,"Old Stumblefoot",11.9,21299
+"77",4983,"Walking Man Brewing Co.",1186609366,5,4,4,"American Barleywine",4.5,4,"Old Stumblefoot",11.9,21299
+"78",4983,"Walking Man Brewing Co.",1180032983,5,5,4,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
+"79",4983,"Walking Man Brewing Co.",1107016231,5,4.5,4.5,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
+"80",4983,"Walking Man Brewing Co.",1104179133,5,5,4.5,"American Barleywine",5,5,"Old Stumblefoot",11.9,21299
+"81",4983,"Walking Man Brewing Co.",1321195721,4.5,4,3.5,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"82",4983,"Walking Man Brewing Co.",1318894166,4.5,3.5,5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"83",4983,"Walking Man Brewing Co.",1309494377,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"84",4983,"Walking Man Brewing Co.",1302474784,3.5,4,3.5,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
+"85",4983,"Walking Man Brewing Co.",1296425966,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"86",4983,"Walking Man Brewing Co.",1288035575,4.5,4,4,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
+"87",4983,"Walking Man Brewing Co.",1274574481,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"88",4983,"Walking Man Brewing Co.",1273954605,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"89",4983,"Walking Man Brewing Co.",1260465642,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"90",4983,"Walking Man Brewing Co.",1255051767,3.5,4,4.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
+"91",4983,"Walking Man Brewing Co.",1251331415,3,4,2.5,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
+"92",4983,"Walking Man Brewing Co.",1250349019,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
+"93",4983,"Walking Man Brewing Co.",1244996632,4,4,4,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
+"94",4983,"Walking Man Brewing Co.",1239525434,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"95",4983,"Walking Man Brewing Co.",1235493129,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Homo Erectus",9,12495
+"96",4983,"Walking Man Brewing Co.",1234984963,4,4,4,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
+"97",4983,"Walking Man Brewing Co.",1228770519,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"98",4983,"Walking Man Brewing Co.",1223428612,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"99",4983,"Walking Man Brewing Co.",1196184478,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"100",4983,"Walking Man Brewing Co.",1191279636,3,4.5,4,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
+"101",4983,"Walking Man Brewing Co.",1180133628,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"102",4983,"Walking Man Brewing Co.",1179641007,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"103",4983,"Walking Man Brewing Co.",1162666488,5,4,4.5,"American Double / Imperial IPA",4.5,5,"Homo Erectus",9,12495
+"104",4983,"Walking Man Brewing Co.",1158308926,4,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"105",4983,"Walking Man Brewing Co.",1157996617,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"106",4983,"Walking Man Brewing Co.",1143705966,4,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"107",4983,"Walking Man Brewing Co.",1142998457,4,3.5,3,"American Double / Imperial IPA",4,3.5,"Homo Erectus",9,12495
+"108",4983,"Walking Man Brewing Co.",1141525091,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Homo Erectus",9,12495
+"109",4983,"Walking Man Brewing Co.",1121754706,4.5,4,4.5,"American Double / Imperial IPA",5,5,"Homo Erectus",9,12495
+"110",4983,"Walking Man Brewing Co.",1121375636,4,4,4,"American Double / Imperial IPA",3.5,4,"Homo Erectus",9,12495
+"111",4983,"Walking Man Brewing Co.",1117693004,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"112",4983,"Walking Man Brewing Co.",1114922440,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Homo Erectus",9,12495
+"113",4983,"Walking Man Brewing Co.",1112489278,3.5,3.5,4,"American Double / Imperial IPA",3.5,4,"Homo Erectus",9,12495
+"114",4983,"Walking Man Brewing Co.",1112068176,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"115",4983,"Walking Man Brewing Co.",1104119035,3.5,4.5,5,"American Double / Imperial IPA",4,3,"Homo Erectus",9,12495
+"116",4983,"Walking Man Brewing Co.",1101684279,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"117",4983,"Walking Man Brewing Co.",1087954442,4.5,5,4.5,"American Double / Imperial IPA",5,4.5,"Homo Erectus",9,12495
+"118",4983,"Walking Man Brewing Co.",1073243351,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"119",4983,"Walking Man Brewing Co.",1062655355,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Homo Erectus",9,12495
+"120",4983,"Walking Man Brewing Co.",1319598872,4.5,4,4.5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
+"121",4983,"Walking Man Brewing Co.",1313797640,4,4.5,5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
+"122",4983,"Walking Man Brewing Co.",1300247243,4,4,4.5,"Russian Imperial Stout",4.5,4,"Jaywalker Imperial Stout",11.4,18137
+"123",4983,"Walking Man Brewing Co.",1292365149,4,4,4.5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
+"124",4983,"Walking Man Brewing Co.",1291500736,4.5,4.5,4,"Russian Imperial Stout",4,5,"Jaywalker Imperial Stout",11.4,18137
+"125",4983,"Walking Man Brewing Co.",1291250441,4,4.5,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"126",4983,"Walking Man Brewing Co.",1291249017,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"127",4983,"Walking Man Brewing Co.",1291240439,5,4.5,4,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
+"128",4983,"Walking Man Brewing Co.",1187249971,4,4,4.5,"Russian Imperial Stout",5,4,"Jaywalker Imperial Stout",11.4,18137
+"129",4983,"Walking Man Brewing Co.",1290139038,4,4.5,4.5,"Russian Imperial Stout",4.5,5,"Jaywalker Imperial Stout",11.4,18137
+"130",4983,"Walking Man Brewing Co.",1290135076,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"131",4983,"Walking Man Brewing Co.",1289946229,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"132",4983,"Walking Man Brewing Co.",1272610220,4,5,4,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
+"133",4983,"Walking Man Brewing Co.",1271995522,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Jaywalker Imperial Stout",11.4,18137
+"134",4983,"Walking Man Brewing Co.",1224686122,4,4,4,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"135",4983,"Walking Man Brewing Co.",1202101530,3.5,5,4.5,"Russian Imperial Stout",3.5,5,"Jaywalker Imperial Stout",11.4,18137
+"136",4983,"Walking Man Brewing Co.",1193143908,4,4,4.5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
+"137",4983,"Walking Man Brewing Co.",1187839123,5,4,4,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"138",4983,"Walking Man Brewing Co.",1186085699,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"139",4983,"Walking Man Brewing Co.",1154461758,5,4.5,4,"Russian Imperial Stout",4.5,5,"Jaywalker Imperial Stout",11.4,18137
+"140",4983,"Walking Man Brewing Co.",1142733312,5,4,4,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"141",4983,"Walking Man Brewing Co.",1141878344,5,4,5,"Russian Imperial Stout",5,4,"Jaywalker Imperial Stout",11.4,18137
+"142",4983,"Walking Man Brewing Co.",1090899426,4.5,4.5,5,"Russian Imperial Stout",4,4.5,"Jaywalker Imperial Stout",11.4,18137
+"143",4983,"Walking Man Brewing Co.",1090382938,5,4.5,5,"Russian Imperial Stout",5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"144",4983,"Walking Man Brewing Co.",1087688789,4,4,5,"Russian Imperial Stout",4.5,4.5,"Jaywalker Imperial Stout",11.4,18137
+"145",4983,"Walking Man Brewing Co.",1324163174,4,4,4.5,"American Pale Ale (APA)",4,4,"Pale Strider",5.2,17280
+"146",4983,"Walking Man Brewing Co.",1315837973,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
+"147",4983,"Walking Man Brewing Co.",1308544090,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
+"148",4983,"Walking Man Brewing Co.",1283472354,5,4,3.5,"American Pale Ale (APA)",4.5,4,"Pale Strider",5.2,17280
+"149",4983,"Walking Man Brewing Co.",1274575541,4,4,4,"American Pale Ale (APA)",4,4.5,"Pale Strider",5.2,17280
+"150",4983,"Walking Man Brewing Co.",1241965424,4,3.5,4,"American Pale Ale (APA)",3,4,"Pale Strider",5.2,17280
+"151",4983,"Walking Man Brewing Co.",1232587720,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Pale Strider",5.2,17280
+"152",4983,"Walking Man Brewing Co.",1221805272,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Strider",5.2,17280
+"153",4983,"Walking Man Brewing Co.",1136769353,4.5,4.5,4.5,"American Pale Ale (APA)",4,4.5,"Pale Strider",5.2,17280
+"154",4983,"Walking Man Brewing Co.",1113176005,3,3.5,2.5,"American Pale Ale (APA)",3,3,"Pale Strider",5.2,17280
+"155",4983,"Walking Man Brewing Co.",1083043980,5,4.5,4.5,"American Pale Ale (APA)",3.5,5,"Pale Strider",5.2,17280
+"156",4983,"Walking Man Brewing Co.",1326146747,4,3.5,4,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
+"157",4983,"Walking Man Brewing Co.",1320628237,4.5,4.5,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
+"158",4983,"Walking Man Brewing Co.",1315855795,4,4,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
+"159",4983,"Walking Man Brewing Co.",1275166614,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
+"160",4983,"Walking Man Brewing Co.",1258516669,4,4,4.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
+"161",4983,"Walking Man Brewing Co.",1255582122,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
+"162",4983,"Walking Man Brewing Co.",1200022302,4.5,5,4,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
+"163",4983,"Walking Man Brewing Co.",1193968153,4,4.5,4.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
+"164",4983,"Walking Man Brewing Co.",1191303661,4,4,4.5,"Oatmeal Stout",4,4.5,"Walking Stick Stout",7.2,17260
+"165",4983,"Walking Man Brewing Co.",1185066179,4.5,4,4,"Oatmeal Stout",4.5,4,"Walking Stick Stout",7.2,17260
+"166",4983,"Walking Man Brewing Co.",1140476141,5,4.5,4.5,"Oatmeal Stout",3.5,4,"Walking Stick Stout",7.2,17260
+"167",4983,"Walking Man Brewing Co.",1120686075,5,3.5,3.5,"Oatmeal Stout",4,4,"Walking Stick Stout",7.2,17260
+"168",4983,"Walking Man Brewing Co.",1114910717,3.5,4,3.5,"Oatmeal Stout",4,3.5,"Walking Stick Stout",7.2,17260
+"169",4983,"Walking Man Brewing Co.",1082924230,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Walking Stick Stout",7.2,17260
+"170",4983,"Walking Man Brewing Co.",1307757427,5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
+"171",4983,"Walking Man Brewing Co.",1295058670,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
+"172",4983,"Walking Man Brewing Co.",1291098423,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Knuckle Dragger",6.5,15257
+"173",4983,"Walking Man Brewing Co.",1273471536,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
+"174",4983,"Walking Man Brewing Co.",1268975654,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
+"175",4983,"Walking Man Brewing Co.",1262060957,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
+"176",4983,"Walking Man Brewing Co.",1261188930,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"177",4983,"Walking Man Brewing Co.",1258329543,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"178",4983,"Walking Man Brewing Co.",1245454692,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Knuckle Dragger",6.5,15257
+"179",4983,"Walking Man Brewing Co.",1223791906,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
+"180",4983,"Walking Man Brewing Co.",1223238951,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"181",4983,"Walking Man Brewing Co.",1196440446,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
+"182",4983,"Walking Man Brewing Co.",1190057529,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
+"183",4983,"Walking Man Brewing Co.",1187840583,3.5,4.5,4,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
+"184",4983,"Walking Man Brewing Co.",1186608703,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Knuckle Dragger",6.5,15257
+"185",4983,"Walking Man Brewing Co.",1175647624,4,3.5,4,"American Pale Ale (APA)",4.5,4.5,"Knuckle Dragger",6.5,15257
+"186",4983,"Walking Man Brewing Co.",1163264641,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Knuckle Dragger",6.5,15257
+"187",4983,"Walking Man Brewing Co.",1154108010,4,4,4,"American Pale Ale (APA)",4,4.5,"Knuckle Dragger",6.5,15257
+"188",4983,"Walking Man Brewing Co.",1152745209,4.5,4,5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"189",4983,"Walking Man Brewing Co.",1126814197,3,3.5,3.5,"American Pale Ale (APA)",3,2.5,"Knuckle Dragger",6.5,15257
+"190",4983,"Walking Man Brewing Co.",1113180875,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"191",4983,"Walking Man Brewing Co.",1091046872,3.5,4.5,4,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
+"192",4983,"Walking Man Brewing Co.",1087800893,4,4,3.5,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257
+"193",4983,"Walking Man Brewing Co.",1083044893,4.5,5,4,"American Pale Ale (APA)",3.5,4,"Knuckle Dragger",6.5,15257
+"194",4983,"Walking Man Brewing Co.",1073269717,4,4,4,"American Pale Ale (APA)",4,4,"Knuckle Dragger",6.5,15257

@@ -1,137 +1,89 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",16846,"Block 15 Brewery & Restaurant",1305183547,4,3.5,4,"American IPA",4,4,"One Hop Wonder Centennial IPA",6.8,68980
-"2",16846,"Block 15 Brewery & Restaurant",1311287884,4.5,4.5,3.5,"Belgian Pale Ale",4.5,4,"Wandelpad",6.4,71258
-"3",16846,"Block 15 Brewery & Restaurant",1325360166,4,3.5,3.5,"Dunkelweizen",4,4,"Dunkel Weissbier",5.5,76921
-"4",16846,"Block 15 Brewery & Restaurant",1325988092,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
-"5",16846,"Block 15 Brewery & Restaurant",1324523334,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Imagine",15,75256
-"6",16846,"Block 15 Brewery & Restaurant",1324098668,4,4,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
-"7",16846,"Block 15 Brewery & Restaurant",1323994892,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Imagine",15,75256
-"8",16846,"Block 15 Brewery & Restaurant",1317253578,3.5,4,3.5,"American Strong Ale",3.5,4,"Pappy's Dark",10,58706
-"9",16846,"Block 15 Brewery & Restaurant",1323069649,4,4,2.5,"Russian Imperial Stout",4,3.5,"Imagine",15,75256
-"10",16846,"Block 15 Brewery & Restaurant",1322546448,4.5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Imagine",15,75256
-"11",16846,"Block 15 Brewery & Restaurant",1322096532,5,4.5,3,"Russian Imperial Stout",5,5,"Imagine",15,75256
-"12",16846,"Block 15 Brewery & Restaurant",1321775627,4.5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Imagine",15,75256
-"13",16846,"Block 15 Brewery & Restaurant",1321771940,4.5,5,4,"Russian Imperial Stout",4,5,"Imagine",15,75256
-"14",16846,"Block 15 Brewery & Restaurant",1321298077,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
-"15",16846,"Block 15 Brewery & Restaurant",1312656097,4,4.5,4,"American Amber / Red Ale",3.5,4,"King Caspian",9,48489
-"16",16846,"Block 15 Brewery & Restaurant",1237166584,4.5,4,4.5,"American Amber / Red Ale",4.5,4,"King Caspian",9,48489
-"17",16846,"Block 15 Brewery & Restaurant",1316930803,4,4,3,"American Strong Ale",3.5,4,"Pappy's Dark",10,58706
-"18",16846,"Block 15 Brewery & Restaurant",1309576061,3.5,4,3.5,"American Strong Ale",2.5,3.5,"Pappy's Dark",10,58706
-"19",16846,"Block 15 Brewery & Restaurant",1304874834,3.5,4.5,4,"American Strong Ale",3,3.5,"Pappy's Dark",10,58706
-"20",16846,"Block 15 Brewery & Restaurant",1304574922,3,3.5,4,"American Strong Ale",3.5,3,"Pappy's Dark",10,58706
-"21",16846,"Block 15 Brewery & Restaurant",1303923479,4.5,4.5,4.5,"American Strong Ale",5,4.5,"Pappy's Dark",10,58706
-"22",16846,"Block 15 Brewery & Restaurant",1300259403,4.5,4,4,"American Strong Ale",4,5,"Pappy's Dark",10,58706
-"23",16846,"Block 15 Brewery & Restaurant",1300235358,4.5,4.5,4,"American Strong Ale",4,4.5,"Pappy's Dark",10,58706
-"24",16846,"Block 15 Brewery & Restaurant",1297645006,3.5,4,3.5,"American Strong Ale",4,4,"Pappy's Dark",10,58706
-"25",16846,"Block 15 Brewery & Restaurant",1297559829,3,3.5,3.5,"American Strong Ale",4,3.5,"Pappy's Dark",10,58706
-"26",16846,"Block 15 Brewery & Restaurant",1275555853,3.5,4,4,"American Strong Ale",4,4,"Pappy's Dark",10,58706
-"27",16846,"Block 15 Brewery & Restaurant",1275008919,4,4.5,3.5,"American Strong Ale",4,4,"Pappy's Dark",10,58706
-"28",16846,"Block 15 Brewery & Restaurant",1207275165,5,4.5,4.5,"Scottish Ale",4.5,4.5,"Scottish 70 Schilling",6.6,41958
-"29",16846,"Block 15 Brewery & Restaurant",1309911582,3.5,3.5,3.5,"American Stout",3,3.5,"Love Potion #9",NA,70758
-"30",16846,"Block 15 Brewery & Restaurant",1313083030,3.5,3,4,"American Amber / Red Ale",4,4,"Ridgeback Red",6.3,43174
-"31",16846,"Block 15 Brewery & Restaurant",1246167876,4,3,4,"American Amber / Red Ale",4,4,"Ridgeback Red",6.3,43174
-"32",16846,"Block 15 Brewery & Restaurant",1231318301,4,3.5,4,"American Amber / Red Ale",4,4,"Ridgeback Red",6.3,43174
-"33",16846,"Block 15 Brewery & Restaurant",1213230156,3,3,4,"American Amber / Red Ale",3.5,3,"Ridgeback Red",6.3,43174
-"34",16846,"Block 15 Brewery & Restaurant",1319400266,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Super Nebula",11,48124
-"35",16846,"Block 15 Brewery & Restaurant",1235449657,3.5,3,4,"Doppelbock",3.5,3,"Dopplebock",NA,48125
-"36",16846,"Block 15 Brewery & Restaurant",1324162928,4,4,3.5,"American Wild Ale",4,4,"Strawberry Fields",7,74597
-"37",16846,"Block 15 Brewery & Restaurant",1320086917,4,4.5,4,"American Wild Ale",4,4,"Strawberry Fields",7,74597
-"38",16846,"Block 15 Brewery & Restaurant",1319770060,4,4.5,4,"American Wild Ale",4,4,"Strawberry Fields",7,74597
-"39",16846,"Block 15 Brewery & Restaurant",1313722173,4,4,4,"American Barleywine",4,4,"Hypnosis",12,64431
-"40",16846,"Block 15 Brewery & Restaurant",1312656438,4,4.5,4,"American Barleywine",4.5,4,"Hypnosis",12,64431
-"41",16846,"Block 15 Brewery & Restaurant",1325737479,3.5,3.5,3.5,"Dubbel",3,3.5,"Fat Monk",7.5,53299
-"42",16846,"Block 15 Brewery & Restaurant",1324249706,3,3.5,3.5,"Dubbel",3,3,"Fat Monk",7.5,53299
-"43",16846,"Block 15 Brewery & Restaurant",1255282929,4,5,3,"Dubbel",4,4,"Fat Monk",7.5,53299
-"44",16846,"Block 15 Brewery & Restaurant",1323573282,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Ferme De La' Ville Provision",6.9,71253
-"45",16846,"Block 15 Brewery & Restaurant",1312656759,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Super Nebula",11,48124
-"46",16846,"Block 15 Brewery & Restaurant",1301225984,5,4.5,5,"American Double / Imperial Stout",5,5,"Super Nebula",11,48124
-"47",16846,"Block 15 Brewery & Restaurant",1297561331,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
-"48",16846,"Block 15 Brewery & Restaurant",1297560640,4,4,4,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
-"49",16846,"Block 15 Brewery & Restaurant",1274751674,4.5,4.5,4,"American Double / Imperial Stout",5,4,"Super Nebula",11,48124
-"50",16846,"Block 15 Brewery & Restaurant",1259633891,3.5,3,4,"American Double / Imperial Stout",3.5,3,"Super Nebula",11,48124
-"51",16846,"Block 15 Brewery & Restaurant",1235449030,3,5,4.5,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
-"52",16846,"Block 15 Brewery & Restaurant",1312061836,4.5,4.5,4,"Witbier",4,4.5,"Wonka's Wit",5,71524
-"53",16846,"Block 15 Brewery & Restaurant",1260052146,4,4,4.5,"American Strong Ale",4,4.5,"Oaked Ol' St. Nick",9.4,54561
-"54",16846,"Block 15 Brewery & Restaurant",1312926958,4,4,4,"Kölsch",4,4,"Summer Knights",5,71185
-"55",16846,"Block 15 Brewery & Restaurant",1312062066,4,4,4,"Kölsch",4.5,4,"Summer Knights",5,71185
-"56",16846,"Block 15 Brewery & Restaurant",1311049196,4,4,4,"Kölsch",4.5,4.5,"Summer Knights",5,71185
-"57",16846,"Block 15 Brewery & Restaurant",1325737052,4,4,4,"Oatmeal Stout",4,4,"Nebula Oatmeal Stout",6.8,43175
-"58",16846,"Block 15 Brewery & Restaurant",1310586678,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"Nebula Oatmeal Stout",6.8,43175
-"59",16846,"Block 15 Brewery & Restaurant",1277138314,4.5,4.5,4,"Oatmeal Stout",4.5,5,"Nebula Oatmeal Stout",6.8,43175
-"60",16846,"Block 15 Brewery & Restaurant",1249143742,4.5,4.5,5,"Oatmeal Stout",4.5,4.5,"Nebula Oatmeal Stout",6.8,43175
-"61",16846,"Block 15 Brewery & Restaurant",1213230357,3.5,3.5,3.5,"Oatmeal Stout",3,3.5,"Nebula Oatmeal Stout",6.8,43175
-"62",16846,"Block 15 Brewery & Restaurant",1235966957,4.5,4,4,"Rye Beer",3.5,3.5,"Super Fly Rye",7.5,47848
-"63",16846,"Block 15 Brewery & Restaurant",1234150411,4.5,4,4.5,"Rye Beer",4.5,4.5,"Super Fly Rye",7.5,47848
-"64",16846,"Block 15 Brewery & Restaurant",1310587149,4,4.5,4.5,"American IPA",3.5,4,"Alpha IPA",6.8,43160
-"65",16846,"Block 15 Brewery & Restaurant",1246297365,4.5,5,4.5,"American IPA",4,4,"Alpha IPA",6.8,43160
-"66",16846,"Block 15 Brewery & Restaurant",1235449275,4.5,4,4,"American IPA",4.5,4,"Alpha IPA",6.8,43160
-"67",16846,"Block 15 Brewery & Restaurant",1213150899,4,4,4,"American IPA",3.5,4,"Alpha IPA",6.8,43160
-"68",16846,"Block 15 Brewery & Restaurant",1256772928,3,3,3.5,"American Blonde Ale",3.5,3,"Glo Golden Ale",4.5,43142
-"69",16846,"Block 15 Brewery & Restaurant",1246111036,4,3.5,4,"American Blonde Ale",4,3.5,"Glo Golden Ale",4.5,43142
-"70",16846,"Block 15 Brewery & Restaurant",1235448816,4,3,4,"American Blonde Ale",4,3,"Glo Golden Ale",4.5,43142
-"71",16846,"Block 15 Brewery & Restaurant",1231317397,4.5,3.5,4,"American Blonde Ale",4,4,"Glo Golden Ale",4.5,43142
-"72",16846,"Block 15 Brewery & Restaurant",1213065606,4,3.5,3.5,"American Blonde Ale",4,3.5,"Glo Golden Ale",4.5,43142
-"73",16846,"Block 15 Brewery & Restaurant",1310587385,3.5,3.5,4,"American IPA",3.5,3.5,"One Hop Wonder Calypso IPA",6.8,71006
-"74",16846,"Block 15 Brewery & Restaurant",1213230467,2.5,3,2.5,"American Pale Wheat Ale",2.5,2.5,"Gateway Wheat",NA,43176
-"75",16846,"Block 15 Brewery & Restaurant",1281724779,3.5,3.5,4,"Belgian Dark Ale",4,3.5,"Eleven Minds",7,61000
-"76",16846,"Block 15 Brewery & Restaurant",1305272703,2.5,3,3,"Belgian Dark Ale",3,3,"St.Macarius",NA,69004
-"77",16846,"Block 15 Brewery & Restaurant",1317512852,4,4,4.5,"Hefeweizen",3.5,4,"Hefeweizen",NA,45797
-"78",16846,"Block 15 Brewery & Restaurant",1231318567,4,4,4,"Hefeweizen",4,4,"Hefeweizen",NA,45797
-"79",16846,"Block 15 Brewery & Restaurant",1226107206,4,4.5,4.5,"Hefeweizen",4,5,"Hefeweizen",NA,45797
-"80",16846,"Block 15 Brewery & Restaurant",1325358669,4.5,4.5,5,"English Porter",4.5,5,"Chocolate Porter",5.5,76915
-"81",16846,"Block 15 Brewery & Restaurant",1325359724,3.5,3.5,3.5,"English Brown Ale",3,3.5,"Hemp Nut Brown",5,76919
-"82",16846,"Block 15 Brewery & Restaurant",1324526401,3.5,4,3,"Saison / Farmhouse Ale",3,3.5,"La Ferme' De Demons",8.75,57998
-"83",16846,"Block 15 Brewery & Restaurant",1324090903,4,4,4,"Saison / Farmhouse Ale",4,4,"La Ferme' De Demons",8.75,57998
-"84",16846,"Block 15 Brewery & Restaurant",1323213877,4,4,4.5,"Saison / Farmhouse Ale",4.5,4,"La Ferme' De Demons",8.75,57998
-"85",16846,"Block 15 Brewery & Restaurant",1320379894,4.5,5,4.5,"Saison / Farmhouse Ale",4.5,4,"La Ferme' De Demons",8.75,57998
-"86",16846,"Block 15 Brewery & Restaurant",1320087415,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"La Ferme' De Demons",8.75,57998
-"87",16846,"Block 15 Brewery & Restaurant",1319770217,3.5,4,4,"Saison / Farmhouse Ale",4,3,"La Ferme' De Demons",8.75,57998
-"88",16846,"Block 15 Brewery & Restaurant",1272909877,4,4,4.5,"Saison / Farmhouse Ale",4,4.5,"La Ferme' De Demons",8.75,57998
-"89",16846,"Block 15 Brewery & Restaurant",1270478323,4.5,4,4,"American Pale Ale (APA)",4,4.5,"300.0",5,57336
-"90",16846,"Block 15 Brewery & Restaurant",1292351816,4,4,4,"English Strong Ale",4.5,4.5,"Figgy Pudding, Olde Stock",11.6,64111
-"91",16846,"Block 15 Brewery & Restaurant",1291496838,3,3.5,3.5,"English Strong Ale",4,4,"Figgy Pudding, Olde Stock",11.6,64111
-"92",16846,"Block 15 Brewery & Restaurant",1325735670,4,3.5,4,"American Strong Ale",3.5,4,"Ol' Saint Nick",10,46605
-"93",16846,"Block 15 Brewery & Restaurant",1323546111,4,4,4,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
-"94",16846,"Block 15 Brewery & Restaurant",1322525211,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
-"95",16846,"Block 15 Brewery & Restaurant",1229305544,4,4,4.5,"American Strong Ale",4.5,4,"Ol' Saint Nick",10,46605
-"96",16846,"Block 15 Brewery & Restaurant",1325737923,3.5,3.5,3.5,"Old Ale",3.5,3.5,"Aboriginale",7.1,43155
-"97",16846,"Block 15 Brewery & Restaurant",1319858225,4,4,4,"Old Ale",4.5,4,"Aboriginale",7.1,43155
-"98",16846,"Block 15 Brewery & Restaurant",1316026984,4.5,4.5,4,"Old Ale",4,4,"Aboriginale",7.1,43155
-"99",16846,"Block 15 Brewery & Restaurant",1310586940,4,3.5,3.5,"Old Ale",4,4,"Aboriginale",7.1,43155
-"100",16846,"Block 15 Brewery & Restaurant",1298495216,4,4,3,"Old Ale",4,4,"Aboriginale",7.1,43155
-"101",16846,"Block 15 Brewery & Restaurant",1235448141,4.5,4,4.5,"Old Ale",4,4.5,"Aboriginale",7.1,43155
-"102",16846,"Block 15 Brewery & Restaurant",1213146200,4,4,4,"Old Ale",4,4,"Aboriginale",7.1,43155
-"103",16846,"Block 15 Brewery & Restaurant",1316937032,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Ferme De La' Ville Provision",6.9,71253
-"104",16846,"Block 15 Brewery & Restaurant",1316105364,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
-"105",16846,"Block 15 Brewery & Restaurant",1315899730,4.5,4.5,5,"Saison / Farmhouse Ale",4.5,4.5,"Ferme De La' Ville Provision",6.9,71253
-"106",16846,"Block 15 Brewery & Restaurant",1315199017,4,4,3.5,"Saison / Farmhouse Ale",3.5,4.5,"Ferme De La' Ville Provision",6.9,71253
-"107",16846,"Block 15 Brewery & Restaurant",1314678004,4,3.5,4.5,"Saison / Farmhouse Ale",3.5,4.5,"Ferme De La' Ville Provision",6.9,71253
-"108",16846,"Block 15 Brewery & Restaurant",1310586181,3.5,3.5,4,"Vienna Lager",4,4,"Vienna Lager",4.55,71002
-"109",16846,"Block 15 Brewery & Restaurant",1311292715,3.5,4,3.5,"American Wild Ale",4,4,"Golden Canary",7.25,71260
-"110",16846,"Block 15 Brewery & Restaurant",1235448544,3,3.5,3,"Dubbel",3,3,"Dominus 100",9,48123
-"111",16846,"Block 15 Brewery & Restaurant",1325359104,4,4,4,"Pumpkin Ale",4,4,"Jack Straw",7,76916
-"112",16846,"Block 15 Brewery & Restaurant",1281724216,4.5,3.5,4.5,"American Double / Imperial IPA",4,4.5,"Six Hop Wonder",9.5,60999
-"113",16846,"Block 15 Brewery & Restaurant",1213314067,4.5,4,4.5,"Dubbel",4,4.5,"Trubbled Monk",8.7,43196
-"114",16846,"Block 15 Brewery & Restaurant",1316037127,3,3.5,3.5,"American Pale Ale (APA)",4,3,"Print Master's Pale Ale",5.5,43173
-"115",16846,"Block 15 Brewery & Restaurant",1249144007,4.5,5,4.5,"American Pale Ale (APA)",4,4,"Print Master's Pale Ale",5.5,43173
-"116",16846,"Block 15 Brewery & Restaurant",1213230018,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Print Master's Pale Ale",5.5,43173
-"117",16846,"Block 15 Brewery & Restaurant",1325359400,4,3.5,3.5,"English Dark Mild Ale",4.5,4,"Have Another Mild",4,76917
-"118",16846,"Block 15 Brewery & Restaurant",1325876686,4,4,4,"English Strong Ale",4,4,"Figgy Pudding",11,63672
-"119",16846,"Block 15 Brewery & Restaurant",1325736468,4.5,4.5,4,"English Strong Ale",4,4.5,"Figgy Pudding",11,63672
-"120",16846,"Block 15 Brewery & Restaurant",1325733552,4,3.5,4.5,"English Strong Ale",4,4,"Figgy Pudding",11,63672
-"121",16846,"Block 15 Brewery & Restaurant",1325482464,4.5,4,4.5,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
-"122",16846,"Block 15 Brewery & Restaurant",1324935507,4,3.5,4.5,"English Strong Ale",4,4,"Figgy Pudding",11,63672
-"123",16846,"Block 15 Brewery & Restaurant",1324837649,4.5,4.5,4.5,"English Strong Ale",4.5,5,"Figgy Pudding",11,63672
-"124",16846,"Block 15 Brewery & Restaurant",1324155348,3.5,3.5,3,"English Strong Ale",4,3.5,"Figgy Pudding",11,63672
-"125",16846,"Block 15 Brewery & Restaurant",1322711002,4.5,4.5,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
-"126",16846,"Block 15 Brewery & Restaurant",1321778326,4,4,4,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
-"127",16846,"Block 15 Brewery & Restaurant",1298427237,3.5,4,4,"English Strong Ale",4,4,"Figgy Pudding",11,63672
-"128",16846,"Block 15 Brewery & Restaurant",1292173590,4,4,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
-"129",16846,"Block 15 Brewery & Restaurant",1292104038,4,4,3,"English Strong Ale",4,4.5,"Figgy Pudding",11,63672
-"130",16846,"Block 15 Brewery & Restaurant",1292091957,4.5,4.5,4.5,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
-"131",16846,"Block 15 Brewery & Restaurant",1292038668,4,4,4,"English Strong Ale",5,4.5,"Figgy Pudding",11,63672
-"132",16846,"Block 15 Brewery & Restaurant",1291138913,4,4.5,3.5,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
-"133",16846,"Block 15 Brewery & Restaurant",1291076372,4,4,3.5,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
-"134",16846,"Block 15 Brewery & Restaurant",1290623788,4.5,4.5,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
-"135",16846,"Block 15 Brewery & Restaurant",1213229856,3,3,4,"American Pale Ale (APA)",3,3,"Earth Pale Ale",NA,43172
-"136",16846,"Block 15 Brewery & Restaurant",1213231996,3,3.5,3,"Fruit / Vegetable Beer",3.5,3,"Marion Berry",NA,43177
+"1",16846,"Block 15 Brewery & Restaurant",1325988092,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
+"2",16846,"Block 15 Brewery & Restaurant",1324523334,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Imagine",15,75256
+"3",16846,"Block 15 Brewery & Restaurant",1324098668,4,4,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
+"4",16846,"Block 15 Brewery & Restaurant",1323994892,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Imagine",15,75256
+"5",16846,"Block 15 Brewery & Restaurant",1317253578,3.5,4,3.5,"American Strong Ale",3.5,4,"Pappy's Dark",10,58706
+"6",16846,"Block 15 Brewery & Restaurant",1323069649,4,4,2.5,"Russian Imperial Stout",4,3.5,"Imagine",15,75256
+"7",16846,"Block 15 Brewery & Restaurant",1322546448,4.5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Imagine",15,75256
+"8",16846,"Block 15 Brewery & Restaurant",1322096532,5,4.5,3,"Russian Imperial Stout",5,5,"Imagine",15,75256
+"9",16846,"Block 15 Brewery & Restaurant",1321775627,4.5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Imagine",15,75256
+"10",16846,"Block 15 Brewery & Restaurant",1321771940,4.5,5,4,"Russian Imperial Stout",4,5,"Imagine",15,75256
+"11",16846,"Block 15 Brewery & Restaurant",1321298077,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Imagine",15,75256
+"12",16846,"Block 15 Brewery & Restaurant",1316930803,4,4,3,"American Strong Ale",3.5,4,"Pappy's Dark",10,58706
+"13",16846,"Block 15 Brewery & Restaurant",1309576061,3.5,4,3.5,"American Strong Ale",2.5,3.5,"Pappy's Dark",10,58706
+"14",16846,"Block 15 Brewery & Restaurant",1304874834,3.5,4.5,4,"American Strong Ale",3,3.5,"Pappy's Dark",10,58706
+"15",16846,"Block 15 Brewery & Restaurant",1304574922,3,3.5,4,"American Strong Ale",3.5,3,"Pappy's Dark",10,58706
+"16",16846,"Block 15 Brewery & Restaurant",1303923479,4.5,4.5,4.5,"American Strong Ale",5,4.5,"Pappy's Dark",10,58706
+"17",16846,"Block 15 Brewery & Restaurant",1300259403,4.5,4,4,"American Strong Ale",4,5,"Pappy's Dark",10,58706
+"18",16846,"Block 15 Brewery & Restaurant",1300235358,4.5,4.5,4,"American Strong Ale",4,4.5,"Pappy's Dark",10,58706
+"19",16846,"Block 15 Brewery & Restaurant",1297645006,3.5,4,3.5,"American Strong Ale",4,4,"Pappy's Dark",10,58706
+"20",16846,"Block 15 Brewery & Restaurant",1297559829,3,3.5,3.5,"American Strong Ale",4,3.5,"Pappy's Dark",10,58706
+"21",16846,"Block 15 Brewery & Restaurant",1275555853,3.5,4,4,"American Strong Ale",4,4,"Pappy's Dark",10,58706
+"22",16846,"Block 15 Brewery & Restaurant",1275008919,4,4.5,3.5,"American Strong Ale",4,4,"Pappy's Dark",10,58706
+"23",16846,"Block 15 Brewery & Restaurant",1319400266,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Super Nebula",11,48124
+"24",16846,"Block 15 Brewery & Restaurant",1235449657,3.5,3,4,"Doppelbock",3.5,3,"Dopplebock",NA,48125
+"25",16846,"Block 15 Brewery & Restaurant",1324162928,4,4,3.5,"American Wild Ale",4,4,"Strawberry Fields",7,74597
+"26",16846,"Block 15 Brewery & Restaurant",1320086917,4,4.5,4,"American Wild Ale",4,4,"Strawberry Fields",7,74597
+"27",16846,"Block 15 Brewery & Restaurant",1319770060,4,4.5,4,"American Wild Ale",4,4,"Strawberry Fields",7,74597
+"28",16846,"Block 15 Brewery & Restaurant",1323573282,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Ferme De La' Ville Provision",6.9,71253
+"29",16846,"Block 15 Brewery & Restaurant",1312656759,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Super Nebula",11,48124
+"30",16846,"Block 15 Brewery & Restaurant",1301225984,5,4.5,5,"American Double / Imperial Stout",5,5,"Super Nebula",11,48124
+"31",16846,"Block 15 Brewery & Restaurant",1297561331,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
+"32",16846,"Block 15 Brewery & Restaurant",1297560640,4,4,4,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
+"33",16846,"Block 15 Brewery & Restaurant",1274751674,4.5,4.5,4,"American Double / Imperial Stout",5,4,"Super Nebula",11,48124
+"34",16846,"Block 15 Brewery & Restaurant",1259633891,3.5,3,4,"American Double / Imperial Stout",3.5,3,"Super Nebula",11,48124
+"35",16846,"Block 15 Brewery & Restaurant",1235449030,3,5,4.5,"American Double / Imperial Stout",4,4.5,"Super Nebula",11,48124
+"36",16846,"Block 15 Brewery & Restaurant",1325737052,4,4,4,"Oatmeal Stout",4,4,"Nebula Oatmeal Stout",6.8,43175
+"37",16846,"Block 15 Brewery & Restaurant",1310586678,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"Nebula Oatmeal Stout",6.8,43175
+"38",16846,"Block 15 Brewery & Restaurant",1277138314,4.5,4.5,4,"Oatmeal Stout",4.5,5,"Nebula Oatmeal Stout",6.8,43175
+"39",16846,"Block 15 Brewery & Restaurant",1249143742,4.5,4.5,5,"Oatmeal Stout",4.5,4.5,"Nebula Oatmeal Stout",6.8,43175
+"40",16846,"Block 15 Brewery & Restaurant",1213230357,3.5,3.5,3.5,"Oatmeal Stout",3,3.5,"Nebula Oatmeal Stout",6.8,43175
+"41",16846,"Block 15 Brewery & Restaurant",1256772928,3,3,3.5,"American Blonde Ale",3.5,3,"Glo Golden Ale",4.5,43142
+"42",16846,"Block 15 Brewery & Restaurant",1246111036,4,3.5,4,"American Blonde Ale",4,3.5,"Glo Golden Ale",4.5,43142
+"43",16846,"Block 15 Brewery & Restaurant",1235448816,4,3,4,"American Blonde Ale",4,3,"Glo Golden Ale",4.5,43142
+"44",16846,"Block 15 Brewery & Restaurant",1231317397,4.5,3.5,4,"American Blonde Ale",4,4,"Glo Golden Ale",4.5,43142
+"45",16846,"Block 15 Brewery & Restaurant",1213065606,4,3.5,3.5,"American Blonde Ale",4,3.5,"Glo Golden Ale",4.5,43142
+"46",16846,"Block 15 Brewery & Restaurant",1317512852,4,4,4.5,"Hefeweizen",3.5,4,"Hefeweizen",NA,45797
+"47",16846,"Block 15 Brewery & Restaurant",1231318567,4,4,4,"Hefeweizen",4,4,"Hefeweizen",NA,45797
+"48",16846,"Block 15 Brewery & Restaurant",1226107206,4,4.5,4.5,"Hefeweizen",4,5,"Hefeweizen",NA,45797
+"49",16846,"Block 15 Brewery & Restaurant",1325358669,4.5,4.5,5,"English Porter",4.5,5,"Chocolate Porter",5.5,76915
+"50",16846,"Block 15 Brewery & Restaurant",1324526401,3.5,4,3,"Saison / Farmhouse Ale",3,3.5,"La Ferme' De Demons",8.75,57998
+"51",16846,"Block 15 Brewery & Restaurant",1324090903,4,4,4,"Saison / Farmhouse Ale",4,4,"La Ferme' De Demons",8.75,57998
+"52",16846,"Block 15 Brewery & Restaurant",1323213877,4,4,4.5,"Saison / Farmhouse Ale",4.5,4,"La Ferme' De Demons",8.75,57998
+"53",16846,"Block 15 Brewery & Restaurant",1320379894,4.5,5,4.5,"Saison / Farmhouse Ale",4.5,4,"La Ferme' De Demons",8.75,57998
+"54",16846,"Block 15 Brewery & Restaurant",1320087415,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"La Ferme' De Demons",8.75,57998
+"55",16846,"Block 15 Brewery & Restaurant",1319770217,3.5,4,4,"Saison / Farmhouse Ale",4,3,"La Ferme' De Demons",8.75,57998
+"56",16846,"Block 15 Brewery & Restaurant",1272909877,4,4,4.5,"Saison / Farmhouse Ale",4,4.5,"La Ferme' De Demons",8.75,57998
+"57",16846,"Block 15 Brewery & Restaurant",1323546111,4,4,4,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
+"58",16846,"Block 15 Brewery & Restaurant",1322525211,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
+"59",16846,"Block 15 Brewery & Restaurant",1325737923,3.5,3.5,3.5,"Old Ale",3.5,3.5,"Aboriginale",7.1,43155
+"60",16846,"Block 15 Brewery & Restaurant",1319858225,4,4,4,"Old Ale",4.5,4,"Aboriginale",7.1,43155
+"61",16846,"Block 15 Brewery & Restaurant",1316026984,4.5,4.5,4,"Old Ale",4,4,"Aboriginale",7.1,43155
+"62",16846,"Block 15 Brewery & Restaurant",1310586940,4,3.5,3.5,"Old Ale",4,4,"Aboriginale",7.1,43155
+"63",16846,"Block 15 Brewery & Restaurant",1298495216,4,4,3,"Old Ale",4,4,"Aboriginale",7.1,43155
+"64",16846,"Block 15 Brewery & Restaurant",1235448141,4.5,4,4.5,"Old Ale",4,4.5,"Aboriginale",7.1,43155
+"65",16846,"Block 15 Brewery & Restaurant",1213146200,4,4,4,"Old Ale",4,4,"Aboriginale",7.1,43155
+"66",16846,"Block 15 Brewery & Restaurant",1316937032,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Ferme De La' Ville Provision",6.9,71253
+"67",16846,"Block 15 Brewery & Restaurant",1316105364,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Ferme De La' Ville Provision",6.9,71253
+"68",16846,"Block 15 Brewery & Restaurant",1315899730,4.5,4.5,5,"Saison / Farmhouse Ale",4.5,4.5,"Ferme De La' Ville Provision",6.9,71253
+"69",16846,"Block 15 Brewery & Restaurant",1315199017,4,4,3.5,"Saison / Farmhouse Ale",3.5,4.5,"Ferme De La' Ville Provision",6.9,71253
+"70",16846,"Block 15 Brewery & Restaurant",1314678004,4,3.5,4.5,"Saison / Farmhouse Ale",3.5,4.5,"Ferme De La' Ville Provision",6.9,71253
+"71",16846,"Block 15 Brewery & Restaurant",1310586181,3.5,3.5,4,"Vienna Lager",4,4,"Vienna Lager",4.55,71002
+"72",16846,"Block 15 Brewery & Restaurant",1325876686,4,4,4,"English Strong Ale",4,4,"Figgy Pudding",11,63672
+"73",16846,"Block 15 Brewery & Restaurant",1325736468,4.5,4.5,4,"English Strong Ale",4,4.5,"Figgy Pudding",11,63672
+"74",16846,"Block 15 Brewery & Restaurant",1325733552,4,3.5,4.5,"English Strong Ale",4,4,"Figgy Pudding",11,63672
+"75",16846,"Block 15 Brewery & Restaurant",1325482464,4.5,4,4.5,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
+"76",16846,"Block 15 Brewery & Restaurant",1324935507,4,3.5,4.5,"English Strong Ale",4,4,"Figgy Pudding",11,63672
+"77",16846,"Block 15 Brewery & Restaurant",1324837649,4.5,4.5,4.5,"English Strong Ale",4.5,5,"Figgy Pudding",11,63672
+"78",16846,"Block 15 Brewery & Restaurant",1324155348,3.5,3.5,3,"English Strong Ale",4,3.5,"Figgy Pudding",11,63672
+"79",16846,"Block 15 Brewery & Restaurant",1322711002,4.5,4.5,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
+"80",16846,"Block 15 Brewery & Restaurant",1321778326,4,4,4,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
+"81",16846,"Block 15 Brewery & Restaurant",1298427237,3.5,4,4,"English Strong Ale",4,4,"Figgy Pudding",11,63672
+"82",16846,"Block 15 Brewery & Restaurant",1292173590,4,4,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
+"83",16846,"Block 15 Brewery & Restaurant",1292104038,4,4,3,"English Strong Ale",4,4.5,"Figgy Pudding",11,63672
+"84",16846,"Block 15 Brewery & Restaurant",1292091957,4.5,4.5,4.5,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
+"85",16846,"Block 15 Brewery & Restaurant",1292038668,4,4,4,"English Strong Ale",5,4.5,"Figgy Pudding",11,63672
+"86",16846,"Block 15 Brewery & Restaurant",1291138913,4,4.5,3.5,"English Strong Ale",4.5,4,"Figgy Pudding",11,63672
+"87",16846,"Block 15 Brewery & Restaurant",1291076372,4,4,3.5,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672
+"88",16846,"Block 15 Brewery & Restaurant",1290623788,4.5,4.5,4,"English Strong Ale",4.5,4.5,"Figgy Pudding",11,63672

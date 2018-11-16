@@ -1,80 +1,52 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",4712,"Brewhouse, The",1212391922,3,4,3,"American IPA",3,3,"West Beach IPA",6.5,31268
 "2",4712,"Brewhouse, The",1204943335,3,2,4,"American IPA",3,2.5,"West Beach IPA",6.5,31268
-"3",4712,"Brewhouse, The",1212386697,4.5,3.5,4,"Belgian Pale Ale",4,3.5,"Saint Barb's Abbey Ale",6.5,35005
-"4",4712,"Brewhouse, The",1204943025,4,3.5,3.5,"Belgian Pale Ale",3,4,"Saint Barb's Abbey Ale",6.5,35005
-"5",4712,"Brewhouse, The",1271393512,2.5,3.5,4,"English Brown Ale",3.5,3,"Buster Brown",4.7,57566
-"6",4712,"Brewhouse, The",1290720663,3,3,3,"Chile Beer",3,3,"Habanero Wheat Hot Shot",NA,63884
-"7",4712,"Brewhouse, The",1212385856,4,2.5,4,"Oatmeal Stout",3,3.5,"10w-30 Oatmeal Stout",NA,33125
-"8",4712,"Brewhouse, The",1204942909,3.5,3.5,4,"Oatmeal Stout",3,4,"10w-30 Oatmeal Stout",NA,33125
-"9",4712,"Brewhouse, The",1160331302,4.5,4,4,"Oatmeal Stout",2,4,"10w-30 Oatmeal Stout",NA,33125
-"10",4712,"Brewhouse, The",1260115432,4,4,4,"Fruit / Vegetable Beer",4,4,"Apricot Wheat",NA,54581
-"11",4712,"Brewhouse, The",1290715213,3,3,3,"Dubbel",3,3,"Dave's Demonic XX",NA,63877
-"12",4712,"Brewhouse, The",1212386022,2.5,3,4,"Doppelbock",4,3,"Doppelbock",NA,16488
-"13",4712,"Brewhouse, The",1120630146,4,3,4,"Doppelbock",4,3.5,"Doppelbock",NA,16488
-"14",4712,"Brewhouse, The",1079079562,3,4,4,"Doppelbock",3.5,3,"Doppelbock",NA,16488
-"15",4712,"Brewhouse, The",1170021885,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Ale",10.5,31842
-"16",4712,"Brewhouse, The",1153675675,3.5,3.5,4,"Scotch Ale / Wee Heavy",5,4,"Scotch Ale",10.5,31842
-"17",4712,"Brewhouse, The",1290714731,3,3,3.5,"Saison / Farmhouse Ale",3.5,3,"Football Saison",7.8,63876
-"18",4712,"Brewhouse, The",1263088126,2,4,4,"Russian Imperial Stout",2,3.5,"Russian Imperial Stout",NA,55319
-"19",4712,"Brewhouse, The",1260152298,3.5,4,4,"Tripel",3.5,3.5,"Saint Barb's Tripel",9,17403
-"20",4712,"Brewhouse, The",1212391824,4,4,4,"Tripel",4,3.5,"Saint Barb's Tripel",9,17403
-"21",4712,"Brewhouse, The",1204943238,4,3.5,4,"Tripel",3,4,"Saint Barb's Tripel",9,17403
-"22",4712,"Brewhouse, The",1177550821,4.5,4,3.5,"Tripel",4,4,"Saint Barb's Tripel",9,17403
-"23",4712,"Brewhouse, The",1225658126,3.5,4,4,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
-"24",4712,"Brewhouse, The",1173842466,4,2,3.5,"Tripel",3.5,4,"Saint Barb's Tripel",9,17403
-"25",4712,"Brewhouse, The",1172613782,4,4,3.5,"Tripel",4,4,"Saint Barb's Tripel",9,17403
-"26",4712,"Brewhouse, The",1170045294,3,3.5,4,"Tripel",4,3.5,"Saint Barb's Tripel",9,17403
-"27",4712,"Brewhouse, The",1148095550,3,3.5,3.5,"Tripel",3,3,"Saint Barb's Tripel",9,17403
-"28",4712,"Brewhouse, The",1083896552,3.5,4,3.5,"Tripel",3.5,3.5,"Saint Barb's Tripel",9,17403
-"29",4712,"Brewhouse, The",1290717978,3.5,3,3.5,"Milk / Sweet Stout",3.5,3.5,"Fat Momma Milk Stout",4.2,63879
-"30",4712,"Brewhouse, The",1263087898,3,4,4,"American Porter",3,3,"Smoked Porter",5.6,46531
-"31",4712,"Brewhouse, The",1228980409,4.5,3.5,4.5,"American Porter",3.5,4,"Smoked Porter",5.6,46531
-"32",4712,"Brewhouse, The",1308345468,3.5,3.5,3.5,"American IPA",3.5,4,"West Beach IPA",6.5,31268
-"33",4712,"Brewhouse, The",1260114926,3,3.5,4,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
-"34",4712,"Brewhouse, The",1183688293,3.5,4,4,"American IPA",4,3.5,"West Beach IPA",6.5,31268
-"35",4712,"Brewhouse, The",1180258854,4.5,4,4,"American IPA",4,4,"West Beach IPA",6.5,31268
-"36",4712,"Brewhouse, The",1175987558,4,3.5,4,"American IPA",4,3.5,"West Beach IPA",6.5,31268
-"37",4712,"Brewhouse, The",1170221059,4,3.5,3.5,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
-"38",4712,"Brewhouse, The",1151115785,4.5,4,3.5,"American IPA",4,4,"West Beach IPA",6.5,31268
-"39",4712,"Brewhouse, The",1228979951,4,3.5,3,"Scotch Ale / Wee Heavy",4,4,"Bonnie Jean's Scottish Ale",10.3,46530
-"40",4712,"Brewhouse, The",1297152322,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Elephant Seal",8.5,54580
-"41",4712,"Brewhouse, The",1260115224,3,4,4,"American Double / Imperial IPA",3,4,"Elephant Seal",8.5,54580
-"42",4712,"Brewhouse, The",1202009320,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Xtra Pale Ale",6,40845
-"43",4712,"Brewhouse, The",1310750957,4,3.5,4,"American Porter",3.5,4,"Black Out Porter",6.6,71063
-"44",4712,"Brewhouse, The",1249783799,4,4,3.5,"American Barleywine",3,4,"Big Johnson",NA,51732
-"45",4712,"Brewhouse, The",1240631026,5,3,3.5,"Belgian Pale Ale",4.5,3.5,"Saint Barb's Abbey Ale",6.5,35005
-"46",4712,"Brewhouse, The",1170044782,4,3,3.5,"Belgian Pale Ale",4,3.5,"Saint Barb's Abbey Ale",6.5,35005
-"47",4712,"Brewhouse, The",1212386596,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Nirvana Pale Ale",5.5,24508
-"48",4712,"Brewhouse, The",1204942808,3.5,2,4,"American Pale Ale (APA)",4,3.5,"Nirvana Pale Ale",5.5,24508
-"49",4712,"Brewhouse, The",1170645710,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Nirvana Pale Ale",5.5,24508
-"50",4712,"Brewhouse, The",1151115410,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Nirvana Pale Ale",5.5,24508
-"51",4712,"Brewhouse, The",1120630946,4,3,4,"American Pale Ale (APA)",4,4,"Nirvana Pale Ale",5.5,24508
-"52",4712,"Brewhouse, The",1260114188,3,3,4,"Hefeweizen",3,3,"Montecito Street Wheat",NA,35124
-"53",4712,"Brewhouse, The",1225669190,3,3,4,"Hefeweizen",3,2.5,"Montecito Street Wheat",NA,35124
-"54",4712,"Brewhouse, The",1212386464,2.5,2.5,4,"Hefeweizen",2,3,"Montecito Street Wheat",NA,35124
-"55",4712,"Brewhouse, The",1204942696,3,3,4,"Hefeweizen",3,3,"Montecito Street Wheat",NA,35124
-"56",4712,"Brewhouse, The",1170645427,4.5,3.5,3.5,"Hefeweizen",4,3.5,"Montecito Street Wheat",NA,35124
-"57",4712,"Brewhouse, The",1243405831,4,3,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",NA,33126
-"58",4712,"Brewhouse, The",1160332018,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",NA,33126
-"59",4712,"Brewhouse, The",1308345411,3.5,3.5,4,"American Amber / Red Ale",3,4,"Rebel Red Ale",5.7,63882
-"60",4712,"Brewhouse, The",1290719342,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Rebel Red Ale",5.7,63882
-"61",4712,"Brewhouse, The",1186755051,2.5,3.5,4,"Chile Beer",3.5,4,"Habanero Pilsner",5.2,35006
-"62",4712,"Brewhouse, The",1183502995,1.5,3,4,"Chile Beer",3,3.5,"Habanero Pilsner",5.2,35006
-"63",4712,"Brewhouse, The",1170046564,1.5,3,4,"Chile Beer",3.5,3.5,"Habanero Pilsner",5.2,35006
-"64",4712,"Brewhouse, The",1212391671,3.5,3,4,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
-"65",4712,"Brewhouse, The",1204943150,3.5,4,3,"Dubbel",3,4,"Saint Barb's Dubbel",7.9,27937
-"66",4712,"Brewhouse, The",1202009128,4,4,3,"Dubbel",3.5,4,"Saint Barb's Dubbel",7.9,27937
-"67",4712,"Brewhouse, The",1170044255,4,4,3.5,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
-"68",4712,"Brewhouse, The",1137816294,4,4,4,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
-"69",4712,"Brewhouse, The",1308345340,3.5,4,2.5,"German Pilsener",4,4,"Condor Pilsner",5.2,31270
-"70",4712,"Brewhouse, The",1243405631,4,3.5,4,"German Pilsener",3,3.5,"Condor Pilsner",5.2,31270
-"71",4712,"Brewhouse, The",1204942581,3.5,4,3,"German Pilsener",3,4,"Condor Pilsner",5.2,31270
-"72",4712,"Brewhouse, The",1163731607,4.5,4,4,"German Pilsener",4,4.5,"Condor Pilsner",5.2,31270
-"73",4712,"Brewhouse, The",1151116126,4,4,3.5,"German Pilsener",4,4,"Condor Pilsner",5.2,31270
-"74",4712,"Brewhouse, The",1243405721,5,3,4,"Milk / Sweet Stout",4,3.5,"Mother Tucker's Milk Stout",4.7,35123
-"75",4712,"Brewhouse, The",1170644836,4.5,3.5,4,"Milk / Sweet Stout",4,4,"Mother Tucker's Milk Stout",4.7,35123
-"76",4712,"Brewhouse, The",1290715722,3.5,3.5,4,"Munich Dunkel Lager",4,4,"Pete's Dark Lager",5.9,63878
-"77",4712,"Brewhouse, The",1214892791,4,4.5,4,"American Porter",4,4,"Harry Porter",5.3,43320
-"78",4712,"Brewhouse, The",1214002934,4,3.5,4.5,"American Porter",4,4,"Harry Porter",5.3,43320
-"79",4712,"Brewhouse, The",1271394708,2,3,3,"Saison / Farmhouse Ale",3,2,"Baseball Saison",8.1,57567
+"3",4712,"Brewhouse, The",1260115432,4,4,4,"Fruit / Vegetable Beer",4,4,"Apricot Wheat",NA,54581
+"4",4712,"Brewhouse, The",1212386022,2.5,3,4,"Doppelbock",4,3,"Doppelbock",NA,16488
+"5",4712,"Brewhouse, The",1120630146,4,3,4,"Doppelbock",4,3.5,"Doppelbock",NA,16488
+"6",4712,"Brewhouse, The",1079079562,3,4,4,"Doppelbock",3.5,3,"Doppelbock",NA,16488
+"7",4712,"Brewhouse, The",1170021885,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Ale",10.5,31842
+"8",4712,"Brewhouse, The",1153675675,3.5,3.5,4,"Scotch Ale / Wee Heavy",5,4,"Scotch Ale",10.5,31842
+"9",4712,"Brewhouse, The",1263088126,2,4,4,"Russian Imperial Stout",2,3.5,"Russian Imperial Stout",NA,55319
+"10",4712,"Brewhouse, The",1260152298,3.5,4,4,"Tripel",3.5,3.5,"Saint Barb's Tripel",9,17403
+"11",4712,"Brewhouse, The",1212391824,4,4,4,"Tripel",4,3.5,"Saint Barb's Tripel",9,17403
+"12",4712,"Brewhouse, The",1204943238,4,3.5,4,"Tripel",3,4,"Saint Barb's Tripel",9,17403
+"13",4712,"Brewhouse, The",1177550821,4.5,4,3.5,"Tripel",4,4,"Saint Barb's Tripel",9,17403
+"14",4712,"Brewhouse, The",1225658126,3.5,4,4,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
+"15",4712,"Brewhouse, The",1173842466,4,2,3.5,"Tripel",3.5,4,"Saint Barb's Tripel",9,17403
+"16",4712,"Brewhouse, The",1172613782,4,4,3.5,"Tripel",4,4,"Saint Barb's Tripel",9,17403
+"17",4712,"Brewhouse, The",1170045294,3,3.5,4,"Tripel",4,3.5,"Saint Barb's Tripel",9,17403
+"18",4712,"Brewhouse, The",1148095550,3,3.5,3.5,"Tripel",3,3,"Saint Barb's Tripel",9,17403
+"19",4712,"Brewhouse, The",1083896552,3.5,4,3.5,"Tripel",3.5,3.5,"Saint Barb's Tripel",9,17403
+"20",4712,"Brewhouse, The",1263087898,3,4,4,"American Porter",3,3,"Smoked Porter",5.6,46531
+"21",4712,"Brewhouse, The",1228980409,4.5,3.5,4.5,"American Porter",3.5,4,"Smoked Porter",5.6,46531
+"22",4712,"Brewhouse, The",1308345468,3.5,3.5,3.5,"American IPA",3.5,4,"West Beach IPA",6.5,31268
+"23",4712,"Brewhouse, The",1260114926,3,3.5,4,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
+"24",4712,"Brewhouse, The",1183688293,3.5,4,4,"American IPA",4,3.5,"West Beach IPA",6.5,31268
+"25",4712,"Brewhouse, The",1180258854,4.5,4,4,"American IPA",4,4,"West Beach IPA",6.5,31268
+"26",4712,"Brewhouse, The",1175987558,4,3.5,4,"American IPA",4,3.5,"West Beach IPA",6.5,31268
+"27",4712,"Brewhouse, The",1170221059,4,3.5,3.5,"American IPA",3.5,3.5,"West Beach IPA",6.5,31268
+"28",4712,"Brewhouse, The",1151115785,4.5,4,3.5,"American IPA",4,4,"West Beach IPA",6.5,31268
+"29",4712,"Brewhouse, The",1202009320,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Xtra Pale Ale",6,40845
+"30",4712,"Brewhouse, The",1212386596,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Nirvana Pale Ale",5.5,24508
+"31",4712,"Brewhouse, The",1204942808,3.5,2,4,"American Pale Ale (APA)",4,3.5,"Nirvana Pale Ale",5.5,24508
+"32",4712,"Brewhouse, The",1170645710,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Nirvana Pale Ale",5.5,24508
+"33",4712,"Brewhouse, The",1151115410,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Nirvana Pale Ale",5.5,24508
+"34",4712,"Brewhouse, The",1120630946,4,3,4,"American Pale Ale (APA)",4,4,"Nirvana Pale Ale",5.5,24508
+"35",4712,"Brewhouse, The",1260114188,3,3,4,"Hefeweizen",3,3,"Montecito Street Wheat",NA,35124
+"36",4712,"Brewhouse, The",1225669190,3,3,4,"Hefeweizen",3,2.5,"Montecito Street Wheat",NA,35124
+"37",4712,"Brewhouse, The",1212386464,2.5,2.5,4,"Hefeweizen",2,3,"Montecito Street Wheat",NA,35124
+"38",4712,"Brewhouse, The",1204942696,3,3,4,"Hefeweizen",3,3,"Montecito Street Wheat",NA,35124
+"39",4712,"Brewhouse, The",1170645427,4.5,3.5,3.5,"Hefeweizen",4,3.5,"Montecito Street Wheat",NA,35124
+"40",4712,"Brewhouse, The",1243405831,4,3,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",NA,33126
+"41",4712,"Brewhouse, The",1160332018,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",NA,33126
+"42",4712,"Brewhouse, The",1212391671,3.5,3,4,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
+"43",4712,"Brewhouse, The",1204943150,3.5,4,3,"Dubbel",3,4,"Saint Barb's Dubbel",7.9,27937
+"44",4712,"Brewhouse, The",1202009128,4,4,3,"Dubbel",3.5,4,"Saint Barb's Dubbel",7.9,27937
+"45",4712,"Brewhouse, The",1170044255,4,4,3.5,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
+"46",4712,"Brewhouse, The",1137816294,4,4,4,"Dubbel",4,4,"Saint Barb's Dubbel",7.9,27937
+"47",4712,"Brewhouse, The",1308345340,3.5,4,2.5,"German Pilsener",4,4,"Condor Pilsner",5.2,31270
+"48",4712,"Brewhouse, The",1243405631,4,3.5,4,"German Pilsener",3,3.5,"Condor Pilsner",5.2,31270
+"49",4712,"Brewhouse, The",1204942581,3.5,4,3,"German Pilsener",3,4,"Condor Pilsner",5.2,31270
+"50",4712,"Brewhouse, The",1163731607,4.5,4,4,"German Pilsener",4,4.5,"Condor Pilsner",5.2,31270
+"51",4712,"Brewhouse, The",1151116126,4,4,3.5,"German Pilsener",4,4,"Condor Pilsner",5.2,31270

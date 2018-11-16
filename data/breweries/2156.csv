@@ -1,106 +1,59 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",2156,"San Diego Brewing Co.",1304892163,3.5,4,4,"American IPA",3.5,3.5,"Galaxy",NA,68841
-"2",2156,"San Diego Brewing Co.",1307413724,5,5,4,"American IPA",4.5,5,"Down Under IPA",6.7,68290
-"3",2156,"San Diego Brewing Co.",1306454663,4.5,4.5,4,"American IPA",4.5,4,"Down Under IPA",6.7,68290
-"4",2156,"San Diego Brewing Co.",1303436241,5,5,5,"American IPA",4.5,5,"Down Under IPA",6.7,68290
-"5",2156,"San Diego Brewing Co.",1250719437,4,4,4,"American Porter",4,4,"Smoke Jumper",NA,51986
-"6",2156,"San Diego Brewing Co.",1319775214,2.5,3.5,3,"Hefeweizen",2,3,"El \""Hefe\""Weizen",4.5,52902
-"7",2156,"San Diego Brewing Co.",1318666370,3.5,4,4,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
-"8",2156,"San Diego Brewing Co.",1312843549,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
-"9",2156,"San Diego Brewing Co.",1310018995,4,4,2.5,"Hefeweizen",4.5,3.5,"El \""Hefe\""Weizen",4.5,52902
-"10",2156,"San Diego Brewing Co.",1294613783,4.5,4,3.5,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
-"11",2156,"San Diego Brewing Co.",1279587388,4,4,4,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
-"12",2156,"San Diego Brewing Co.",1272083234,3.5,3.5,4,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
-"13",2156,"San Diego Brewing Co.",1268207181,4,3.5,4,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
-"14",2156,"San Diego Brewing Co.",1323194624,3,4,4,"English Barleywine",4,3.5,"Happy Ending - Brandy Barrel Aged",8.5,75235
-"15",2156,"San Diego Brewing Co.",1321232322,4.5,4.5,4,"English Barleywine",4.5,4.5,"Happy Ending - Brandy Barrel Aged",8.5,75235
-"16",2156,"San Diego Brewing Co.",1277088020,4,5,4,"American Double / Imperial Stout",3.5,4,"Black Eye Imperial Stout",9,58468
-"17",2156,"San Diego Brewing Co.",1274328088,3.5,4,4,"American Double / Imperial Stout",4,4,"Black Eye Imperial Stout",9,58468
-"18",2156,"San Diego Brewing Co.",1228797826,3,3.5,3,"Dubbel",3,3.5,"Dubbel Fantasy",7,46321
-"19",2156,"San Diego Brewing Co.",1228285825,4,4,4.5,"Dubbel",4,4.5,"Dubbel Fantasy",7,46321
-"20",2156,"San Diego Brewing Co.",1229448116,3,3,3,"American IPA",3,2.5,"Friar IPA",NA,5842
-"21",2156,"San Diego Brewing Co.",1129606985,4.5,3,2.5,"American IPA",4,3.5,"Friar IPA",NA,5842
-"22",2156,"San Diego Brewing Co.",1067678702,3.5,3.5,4,"American IPA",3,3,"Friar IPA",NA,5842
-"23",2156,"San Diego Brewing Co.",1177025710,4.5,4.5,4,"Oatmeal Stout",4,4.5,"McGowans Oatmeal Stout",NA,10098
-"24",2156,"San Diego Brewing Co.",1070994476,4,4,4,"Russian Imperial Stout",3.5,4,"Red Star Imperial Stout",NA,7510
-"25",2156,"San Diego Brewing Co.",1294616472,4,4,4,"American Strong Ale",4,4.5,"Hop Goddess",9,56762
-"26",2156,"San Diego Brewing Co.",1268465965,3.5,4.5,4,"American Strong Ale",4,4,"Hop Goddess",9,56762
-"27",2156,"San Diego Brewing Co.",1311993504,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Neptune's Spear Imperial Stout",9,69797
-"28",2156,"San Diego Brewing Co.",1309926695,3.5,4,4,"American Double / Imperial Stout",3.5,4.5,"Neptune's Spear Imperial Stout",9,69797
-"29",2156,"San Diego Brewing Co.",1307412016,4,4,4.5,"American Double / Imperial Stout",4,4,"Neptune's Spear Imperial Stout",9,69797
-"30",2156,"San Diego Brewing Co.",1312844488,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber",5.5,46476
-"31",2156,"San Diego Brewing Co.",1311655739,3.5,2.5,4,"American Amber / Red Ale",3.5,3.5,"Amber",5.5,46476
-"32",2156,"San Diego Brewing Co.",1294614592,4,2.5,4,"American Amber / Red Ale",4,3.5,"Amber",5.5,46476
-"33",2156,"San Diego Brewing Co.",1279586760,3.5,4,4,"American Amber / Red Ale",4,3.5,"Amber",5.5,46476
-"34",2156,"San Diego Brewing Co.",1272083875,4,3.5,4,"American Amber / Red Ale",4,4,"Amber",5.5,46476
-"35",2156,"San Diego Brewing Co.",1268207339,4,4,4,"American Amber / Red Ale",4.5,4,"Amber",5.5,46476
-"36",2156,"San Diego Brewing Co.",1228799293,3,3,3.5,"American Amber / Red Ale",3,3.5,"Amber",5.5,46476
-"37",2156,"San Diego Brewing Co.",1280287899,4.5,3.5,3.5,"Cream Ale",3,3.5,"Fat Tail Scottish Cream Ale",NA,60193
-"38",2156,"San Diego Brewing Co.",1279529085,3,3,3.5,"Cream Ale",2.5,2.5,"Fat Tail Scottish Cream Ale",NA,60193
-"39",2156,"San Diego Brewing Co.",1294616983,4,4,4.5,"American Porter",3.5,4.5,"Chocolatte Porter",7,44858
-"40",2156,"San Diego Brewing Co.",1248062495,4,4,4,"American Porter",3.5,4,"Chocolatte Porter",7,44858
-"41",2156,"San Diego Brewing Co.",1229448164,3.5,4,4,"American Porter",4,3,"Chocolatte Porter",7,44858
-"42",2156,"San Diego Brewing Co.",1222325196,4,4,4,"American Porter",4,4,"Chocolatte Porter",7,44858
-"43",2156,"San Diego Brewing Co.",1221408972,4,4.5,4.5,"American Porter",4,4,"Chocolatte Porter",7,44858
-"44",2156,"San Diego Brewing Co.",1133915462,3,3,3,"Russian Imperial Stout",3,3.5,"Ax Pickin' Stout",8.8,27232
-"45",2156,"San Diego Brewing Co.",1319775320,4,4,4,"American Strong Ale",4,4,"Monster Mash",8,20363
-"46",2156,"San Diego Brewing Co.",1312846957,4,4,4,"American Strong Ale",4,4,"Monster Mash",8,20363
-"47",2156,"San Diego Brewing Co.",1259783559,4,4,4,"American Strong Ale",3,4,"Monster Mash",8,20363
-"48",2156,"San Diego Brewing Co.",1160492051,4.5,3.5,3,"American Strong Ale",3.5,3.5,"Monster Mash",8,20363
-"49",2156,"San Diego Brewing Co.",1324694100,4,4,4,"American IPA",4,4,"Hopnotic",7.5,38887
-"50",2156,"San Diego Brewing Co.",1318823340,4,4.5,4,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
-"51",2156,"San Diego Brewing Co.",1315637162,4,4,4,"American IPA",4,4,"Hopnotic",7.5,38887
-"52",2156,"San Diego Brewing Co.",1313527670,4,4.5,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
-"53",2156,"San Diego Brewing Co.",1311390344,4,3,3,"American IPA",4,4,"Hopnotic",7.5,38887
-"54",2156,"San Diego Brewing Co.",1281522389,3.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
-"55",2156,"San Diego Brewing Co.",1279587703,4,4.5,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
-"56",2156,"San Diego Brewing Co.",1272831946,4,4.5,3.5,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
-"57",2156,"San Diego Brewing Co.",1271188068,4.5,4,3.5,"American IPA",4,4,"Hopnotic",7.5,38887
-"58",2156,"San Diego Brewing Co.",1268207490,4,4.5,4,"American IPA",4,4.5,"Hopnotic",7.5,38887
-"59",2156,"San Diego Brewing Co.",1258693610,4,4,4,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
-"60",2156,"San Diego Brewing Co.",1257218613,5,5,4.5,"American IPA",5,5,"Hopnotic",7.5,38887
-"61",2156,"San Diego Brewing Co.",1248844488,4.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
-"62",2156,"San Diego Brewing Co.",1243393929,4.5,4,4.5,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
-"63",2156,"San Diego Brewing Co.",1242885835,4.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
-"64",2156,"San Diego Brewing Co.",1233513630,4.5,4,3.5,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
-"65",2156,"San Diego Brewing Co.",1232386613,3.5,4,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
-"66",2156,"San Diego Brewing Co.",1200260455,4,4,4.5,"American IPA",4.5,4,"Hopnotic",7.5,38887
-"67",2156,"San Diego Brewing Co.",1191205852,4.5,3.5,3.5,"American IPA",4,3.5,"Hopnotic",7.5,38887
-"68",2156,"San Diego Brewing Co.",1067678937,5,4,4,"American Pale Ale (APA)",4.5,4.5,"Paddle Up Pale Ale",NA,10399
-"69",2156,"San Diego Brewing Co.",1277087423,4.5,3.5,4,"American Pale Ale (APA)",4,4,"World Cup Pale Ale",NA,59414
-"70",2156,"San Diego Brewing Co.",1280288061,4.5,3.5,4.5,"Belgian Pale Ale",4,4,"Trophy Wife",NA,60192
-"71",2156,"San Diego Brewing Co.",1279528425,3,3,3.5,"Belgian Pale Ale",3.5,3.5,"Trophy Wife",NA,60192
-"72",2156,"San Diego Brewing Co.",1319766029,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Freshy Yum Yum XPA",6.8,74592
-"73",2156,"San Diego Brewing Co.",1272082784,3.5,4,4,"Baltic Porter",4,4.5,"Love Potion #9",9,56195
-"74",2156,"San Diego Brewing Co.",1271964878,3.5,4,4,"Baltic Porter",3.5,4,"Love Potion #9",9,56195
-"75",2156,"San Diego Brewing Co.",1266516079,1,2.5,3.5,"Baltic Porter",3.5,1.5,"Love Potion #9",9,56195
-"76",2156,"San Diego Brewing Co.",1067679223,4,4,4,"American Porter",4,4,"Mission Gorge Porter",NA,13512
-"77",2156,"San Diego Brewing Co.",1291859580,1,1.5,3.5,"Belgian Strong Dark Ale",3,1.5,"Whobilation",8,64107
-"78",2156,"San Diego Brewing Co.",1272082628,3.5,4,4,"American Pale Ale (APA)",4,4,"Peep Show Pale Ale",6,45588
-"79",2156,"San Diego Brewing Co.",1225011442,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Peep Show Pale Ale",6,45588
-"80",2156,"San Diego Brewing Co.",1302468849,5,5,4.5,"American Strong Ale",4.5,4.5,"Headwrecker",9.1,45406
-"81",2156,"San Diego Brewing Co.",1224630810,4.5,4.5,4.5,"American Strong Ale",4,5,"Headwrecker",9.1,45406
-"82",2156,"San Diego Brewing Co.",1312844048,3,2.5,3.5,"American Blonde Ale",3,2.5,"Grantville Gold",4.5,57786
-"83",2156,"San Diego Brewing Co.",1294614132,2,1.5,3.5,"American Blonde Ale",3,3,"Grantville Gold",4.5,57786
-"84",2156,"San Diego Brewing Co.",1272083492,4,3,3,"American Blonde Ale",3.5,4,"Grantville Gold",4.5,57786
-"85",2156,"San Diego Brewing Co.",1234397629,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Night Marchers Stout",8.55,47902
-"86",2156,"San Diego Brewing Co.",1281390881,4,3.5,2.5,"Fruit / Vegetable Beer",2.5,3,"Blueberry Wheat",4.5,43426
-"87",2156,"San Diego Brewing Co.",1232800293,4,3,3,"Fruit / Vegetable Beer",3,3.5,"Blueberry Wheat",4.5,43426
-"88",2156,"San Diego Brewing Co.",1216760716,4,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Blueberry Wheat",4.5,43426
-"89",2156,"San Diego Brewing Co.",1208114258,4.5,4,3.5,"American Double / Imperial IPA",4,4.5,"Hopopotamus",NA,42152
-"90",2156,"San Diego Brewing Co.",1228799407,3,3,3,"American Amber / Red Ale",3,3,"Alvarado Ale",NA,46477
-"91",2156,"San Diego Brewing Co.",1294616183,2.5,2.5,4,"American Brown Ale",3,3.5,"O Tannen Brown",8,65187
-"92",2156,"San Diego Brewing Co.",1313265708,3.5,3.5,4,"American Brown Ale",3.5,4,"Old Town Nut Brown Ale",5.6,57789
-"93",2156,"San Diego Brewing Co.",1312844888,3,3,3,"American Brown Ale",3,3,"Old Town Nut Brown Ale",5.6,57789
-"94",2156,"San Diego Brewing Co.",1311992100,3.5,3.5,3.5,"American Brown Ale",4,3.5,"Old Town Nut Brown Ale",5.6,57789
-"95",2156,"San Diego Brewing Co.",1311390488,3.5,3,3,"American Brown Ale",3,3.5,"Old Town Nut Brown Ale",5.6,57789
-"96",2156,"San Diego Brewing Co.",1294615425,3.5,4,4,"American Brown Ale",4,3.5,"Old Town Nut Brown Ale",5.6,57789
-"97",2156,"San Diego Brewing Co.",1279588045,3,3.5,3.5,"American Brown Ale",4,3,"Old Town Nut Brown Ale",5.6,57789
-"98",2156,"San Diego Brewing Co.",1272091072,3.5,4,4,"American Brown Ale",4,4,"Old Town Nut Brown Ale",5.6,57789
-"99",2156,"San Diego Brewing Co.",1311655144,3.5,3,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison D'Brain",4.7,69766
-"100",2156,"San Diego Brewing Co.",1307332056,3.5,3.5,4,"Saison / Farmhouse Ale",3,3.5,"Saison D'Brain",4.7,69766
-"101",2156,"San Diego Brewing Co.",1279529635,1,1.5,4,"American Double / Imperial Stout",3.5,1,"Oaked Black Eye Imperial Stout",NA,60194
-"102",2156,"San Diego Brewing Co.",1221422129,4.5,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Summer Love",6.7,43411
-"103",2156,"San Diego Brewing Co.",1216427371,4,4,4,"Saison / Farmhouse Ale",4,4,"Summer Love",6.7,43411
-"104",2156,"San Diego Brewing Co.",1248844844,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Padre Pale Ale",NA,51479
-"105",2156,"San Diego Brewing Co.",1228799172,3,2.5,2.5,"Hefeweizen",2.5,3,"Harvest Wheat",NA,46475
+"1",2156,"San Diego Brewing Co.",1319775214,2.5,3.5,3,"Hefeweizen",2,3,"El \""Hefe\""Weizen",4.5,52902
+"2",2156,"San Diego Brewing Co.",1318666370,3.5,4,4,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
+"3",2156,"San Diego Brewing Co.",1312843549,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
+"4",2156,"San Diego Brewing Co.",1310018995,4,4,2.5,"Hefeweizen",4.5,3.5,"El \""Hefe\""Weizen",4.5,52902
+"5",2156,"San Diego Brewing Co.",1294613783,4.5,4,3.5,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
+"6",2156,"San Diego Brewing Co.",1279587388,4,4,4,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
+"7",2156,"San Diego Brewing Co.",1272083234,3.5,3.5,4,"Hefeweizen",3.5,3.5,"El \""Hefe\""Weizen",4.5,52902
+"8",2156,"San Diego Brewing Co.",1268207181,4,3.5,4,"Hefeweizen",4,4,"El \""Hefe\""Weizen",4.5,52902
+"9",2156,"San Diego Brewing Co.",1294616472,4,4,4,"American Strong Ale",4,4.5,"Hop Goddess",9,56762
+"10",2156,"San Diego Brewing Co.",1268465965,3.5,4.5,4,"American Strong Ale",4,4,"Hop Goddess",9,56762
+"11",2156,"San Diego Brewing Co.",1312844488,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Amber",5.5,46476
+"12",2156,"San Diego Brewing Co.",1311655739,3.5,2.5,4,"American Amber / Red Ale",3.5,3.5,"Amber",5.5,46476
+"13",2156,"San Diego Brewing Co.",1294614592,4,2.5,4,"American Amber / Red Ale",4,3.5,"Amber",5.5,46476
+"14",2156,"San Diego Brewing Co.",1279586760,3.5,4,4,"American Amber / Red Ale",4,3.5,"Amber",5.5,46476
+"15",2156,"San Diego Brewing Co.",1272083875,4,3.5,4,"American Amber / Red Ale",4,4,"Amber",5.5,46476
+"16",2156,"San Diego Brewing Co.",1268207339,4,4,4,"American Amber / Red Ale",4.5,4,"Amber",5.5,46476
+"17",2156,"San Diego Brewing Co.",1228799293,3,3,3.5,"American Amber / Red Ale",3,3.5,"Amber",5.5,46476
+"18",2156,"San Diego Brewing Co.",1294616983,4,4,4.5,"American Porter",3.5,4.5,"Chocolatte Porter",7,44858
+"19",2156,"San Diego Brewing Co.",1248062495,4,4,4,"American Porter",3.5,4,"Chocolatte Porter",7,44858
+"20",2156,"San Diego Brewing Co.",1229448164,3.5,4,4,"American Porter",4,3,"Chocolatte Porter",7,44858
+"21",2156,"San Diego Brewing Co.",1222325196,4,4,4,"American Porter",4,4,"Chocolatte Porter",7,44858
+"22",2156,"San Diego Brewing Co.",1221408972,4,4.5,4.5,"American Porter",4,4,"Chocolatte Porter",7,44858
+"23",2156,"San Diego Brewing Co.",1319775320,4,4,4,"American Strong Ale",4,4,"Monster Mash",8,20363
+"24",2156,"San Diego Brewing Co.",1312846957,4,4,4,"American Strong Ale",4,4,"Monster Mash",8,20363
+"25",2156,"San Diego Brewing Co.",1259783559,4,4,4,"American Strong Ale",3,4,"Monster Mash",8,20363
+"26",2156,"San Diego Brewing Co.",1160492051,4.5,3.5,3,"American Strong Ale",3.5,3.5,"Monster Mash",8,20363
+"27",2156,"San Diego Brewing Co.",1324694100,4,4,4,"American IPA",4,4,"Hopnotic",7.5,38887
+"28",2156,"San Diego Brewing Co.",1318823340,4,4.5,4,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
+"29",2156,"San Diego Brewing Co.",1315637162,4,4,4,"American IPA",4,4,"Hopnotic",7.5,38887
+"30",2156,"San Diego Brewing Co.",1313527670,4,4.5,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
+"31",2156,"San Diego Brewing Co.",1311390344,4,3,3,"American IPA",4,4,"Hopnotic",7.5,38887
+"32",2156,"San Diego Brewing Co.",1281522389,3.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
+"33",2156,"San Diego Brewing Co.",1279587703,4,4.5,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
+"34",2156,"San Diego Brewing Co.",1272831946,4,4.5,3.5,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
+"35",2156,"San Diego Brewing Co.",1271188068,4.5,4,3.5,"American IPA",4,4,"Hopnotic",7.5,38887
+"36",2156,"San Diego Brewing Co.",1268207490,4,4.5,4,"American IPA",4,4.5,"Hopnotic",7.5,38887
+"37",2156,"San Diego Brewing Co.",1258693610,4,4,4,"American IPA",3.5,4.5,"Hopnotic",7.5,38887
+"38",2156,"San Diego Brewing Co.",1257218613,5,5,4.5,"American IPA",5,5,"Hopnotic",7.5,38887
+"39",2156,"San Diego Brewing Co.",1248844488,4.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
+"40",2156,"San Diego Brewing Co.",1243393929,4.5,4,4.5,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
+"41",2156,"San Diego Brewing Co.",1242885835,4.5,4.5,4,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
+"42",2156,"San Diego Brewing Co.",1233513630,4.5,4,3.5,"American IPA",4.5,4.5,"Hopnotic",7.5,38887
+"43",2156,"San Diego Brewing Co.",1232386613,3.5,4,4,"American IPA",4,3.5,"Hopnotic",7.5,38887
+"44",2156,"San Diego Brewing Co.",1200260455,4,4,4.5,"American IPA",4.5,4,"Hopnotic",7.5,38887
+"45",2156,"San Diego Brewing Co.",1191205852,4.5,3.5,3.5,"American IPA",4,3.5,"Hopnotic",7.5,38887
+"46",2156,"San Diego Brewing Co.",1281390881,4,3.5,2.5,"Fruit / Vegetable Beer",2.5,3,"Blueberry Wheat",4.5,43426
+"47",2156,"San Diego Brewing Co.",1232800293,4,3,3,"Fruit / Vegetable Beer",3,3.5,"Blueberry Wheat",4.5,43426
+"48",2156,"San Diego Brewing Co.",1216760716,4,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Blueberry Wheat",4.5,43426
+"49",2156,"San Diego Brewing Co.",1313265708,3.5,3.5,4,"American Brown Ale",3.5,4,"Old Town Nut Brown Ale",5.6,57789
+"50",2156,"San Diego Brewing Co.",1312844888,3,3,3,"American Brown Ale",3,3,"Old Town Nut Brown Ale",5.6,57789
+"51",2156,"San Diego Brewing Co.",1311992100,3.5,3.5,3.5,"American Brown Ale",4,3.5,"Old Town Nut Brown Ale",5.6,57789
+"52",2156,"San Diego Brewing Co.",1311390488,3.5,3,3,"American Brown Ale",3,3.5,"Old Town Nut Brown Ale",5.6,57789
+"53",2156,"San Diego Brewing Co.",1294615425,3.5,4,4,"American Brown Ale",4,3.5,"Old Town Nut Brown Ale",5.6,57789
+"54",2156,"San Diego Brewing Co.",1279588045,3,3.5,3.5,"American Brown Ale",4,3,"Old Town Nut Brown Ale",5.6,57789
+"55",2156,"San Diego Brewing Co.",1272091072,3.5,4,4,"American Brown Ale",4,4,"Old Town Nut Brown Ale",5.6,57789
+"56",2156,"San Diego Brewing Co.",1221422129,4.5,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Summer Love",6.7,43411
+"57",2156,"San Diego Brewing Co.",1216427371,4,4,4,"Saison / Farmhouse Ale",4,4,"Summer Love",6.7,43411
+"58",2156,"San Diego Brewing Co.",1228799172,3,2.5,2.5,"Hefeweizen",2.5,3,"Harvest Wheat",NA,46475

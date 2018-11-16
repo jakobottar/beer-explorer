@@ -1,159 +1,99 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
 "1",16088,"Uncle Billy's Brew & Que",1255802335,4.5,4,4,"Rauchbier",4.5,4,"Thick Black Smoke",NA,44597
-"2",16088,"Uncle Billy's Brew & Que",1226864031,4,3.5,4.5,"Witbier",3,3.5,"Harvest Wit",NA,45950
-"3",16088,"Uncle Billy's Brew & Que",1200517736,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Haystack Hefeweizen",NA,37233
-"4",16088,"Uncle Billy's Brew & Que",1305383874,4,4,4,"American IPA",3.5,4,"Bride Of Zombie",7.1,61032
-"5",16088,"Uncle Billy's Brew & Que",1292914618,4.5,4,4.5,"Keller Bier / Zwickel Bier",5,4.5,"Hell In Keller",NA,47180
-"6",16088,"Uncle Billy's Brew & Que",1296758090,4,3.5,4,"American IPA",4,4,"Wood Eye Rye IPA",NA,41998
-"7",16088,"Uncle Billy's Brew & Que",1269037423,4,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
-"8",16088,"Uncle Billy's Brew & Que",1234297433,4,4,3.5,"American Amber / Red Ale",4,4,"Uncle Billy's Bitchin' Camaro",5.7,41687
-"9",16088,"Uncle Billy's Brew & Que",1205983277,4,4,4,"American Amber / Red Ale",3,3.5,"Uncle Billy's Bitchin' Camaro",5.7,41687
-"10",16088,"Uncle Billy's Brew & Que",1315424538,4,4.5,4,"American IPA",4,4,"Hop Zombie",6.6,48703
-"11",16088,"Uncle Billy's Brew & Que",1306210952,3,3,3,"Belgian Strong Pale Ale",3,3,"Muscles From Brussels",8.2,69415
-"12",16088,"Uncle Billy's Brew & Que",1214852841,3.5,3.5,4,"American Amber / Red Ale",3,3,"Uncle Billy's Subatomic",NA,43468
-"13",16088,"Uncle Billy's Brew & Que",1246726683,4.5,3.5,4,"Belgian IPA",4.5,4,"Uncle Billy's Belgo A-Go-Go",6,50902
-"14",16088,"Uncle Billy's Brew & Que",1265415153,4,4,4,"American Double / Imperial IPA",4,4,"Uncle Billy's Resonator Double IPA",8,39483
-"15",16088,"Uncle Billy's Brew & Que",1265003810,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Uncle Billy's Resonator Double IPA",8,39483
-"16",16088,"Uncle Billy's Brew & Que",1264086367,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Uncle Billy's Resonator Double IPA",8,39483
-"17",16088,"Uncle Billy's Brew & Que",1204409026,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Uncle Billy's Resonator Double IPA",8,39483
-"18",16088,"Uncle Billy's Brew & Que",1300577360,4,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
-"19",16088,"Uncle Billy's Brew & Que",1194224453,4,4,4,"American Double / Imperial IPA",4,4.5,"Uncle Billy's Resonator Double IPA",8,39483
-"20",16088,"Uncle Billy's Brew & Que",1204410710,4.5,4.5,5,"American Double / Imperial IPA",4,4,"ADHD IPA",NA,41299
-"21",16088,"Uncle Billy's Brew & Que",1296266021,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"22",16088,"Uncle Billy's Brew & Que",1292914378,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"23",16088,"Uncle Billy's Brew & Que",1282005882,4,4,4,"American Pale Ale (APA)",4,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"24",16088,"Uncle Billy's Brew & Que",1279589317,4,4,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"25",16088,"Uncle Billy's Brew & Que",1244921341,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"26",16088,"Uncle Billy's Brew & Que",1242625848,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"27",16088,"Uncle Billy's Brew & Que",1241760972,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"28",16088,"Uncle Billy's Brew & Que",1238436420,3.5,4,3.5,"American Pale Ale (APA)",3,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"29",16088,"Uncle Billy's Brew & Que",1238268970,4,4,4,"American Pale Ale (APA)",4,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"30",16088,"Uncle Billy's Brew & Que",1236116312,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"31",16088,"Uncle Billy's Brew & Que",1230856183,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"32",16088,"Uncle Billy's Brew & Que",1204946381,4,4,3.5,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"33",16088,"Uncle Billy's Brew & Que",1200518737,4,4,4,"American Pale Ale (APA)",3.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"34",16088,"Uncle Billy's Brew & Que",1199488954,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"35",16088,"Uncle Billy's Brew & Que",1194223475,3.5,3.5,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
-"36",16088,"Uncle Billy's Brew & Que",1204410560,3,2.5,4,"Belgian Dark Ale",4.5,3,"Brewcue Black Sabbath",NA,41297
-"37",16088,"Uncle Billy's Brew & Que",1276481283,4,4,4,"American Stout",4,4.5,"Insomniac Espresso Stout",5.8,40993
-"38",16088,"Uncle Billy's Brew & Que",1251149583,4.5,3.5,4,"American Stout",4,4,"Insomniac Espresso Stout",5.8,40993
-"39",16088,"Uncle Billy's Brew & Que",1202939880,4,3.5,4,"American Stout",4,3.5,"Insomniac Espresso Stout",5.8,40993
-"40",16088,"Uncle Billy's Brew & Que",1319210683,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Smoked Baltic Porter",8,74375
-"41",16088,"Uncle Billy's Brew & Que",1282006806,4,3.5,3.5,"Smoked Beer",4,3.5,"Stop, Drop & Roll One",5.8,60170
-"42",16088,"Uncle Billy's Brew & Que",1279507633,4,4,3.5,"Smoked Beer",4,4,"Stop, Drop & Roll One",5.8,60170
-"43",16088,"Uncle Billy's Brew & Que",1321327050,4,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Bottlerocket",5.5,75291
-"44",16088,"Uncle Billy's Brew & Que",1242625386,4,4,4,"Smoked Beer",4,4,"Uncle Billy's Smokehouse Porter",NA,39484
-"45",16088,"Uncle Billy's Brew & Que",1241761381,4,3,3,"Smoked Beer",4,3,"Uncle Billy's Smokehouse Porter",NA,39484
-"46",16088,"Uncle Billy's Brew & Que",1239745662,4,3.5,4,"Smoked Beer",4,3.5,"Uncle Billy's Smokehouse Porter",NA,39484
-"47",16088,"Uncle Billy's Brew & Que",1216438564,4.5,4,4,"Smoked Beer",4,4.5,"Uncle Billy's Smokehouse Porter",NA,39484
-"48",16088,"Uncle Billy's Brew & Que",1207441242,4,4,4,"Smoked Beer",3,3.5,"Uncle Billy's Smokehouse Porter",NA,39484
-"49",16088,"Uncle Billy's Brew & Que",1194225501,4.5,4.5,4,"Smoked Beer",4.5,4.5,"Uncle Billy's Smokehouse Porter",NA,39484
-"50",16088,"Uncle Billy's Brew & Que",1231615441,4,3.5,4,"American IPA",4,4,"420 IPA",NA,47182
-"51",16088,"Uncle Billy's Brew & Que",1321326720,3,3,3.5,"Kölsch",3,3,"Back 40 Blonde Ale",4.8,37231
-"52",16088,"Uncle Billy's Brew & Que",1296265013,4.5,4,3.5,"Kölsch",4,4,"Back 40 Blonde Ale",4.8,37231
-"53",16088,"Uncle Billy's Brew & Que",1244919417,3,3,3.5,"Kölsch",3,3,"Back 40 Blonde Ale",4.8,37231
-"54",16088,"Uncle Billy's Brew & Que",1214852627,4,3.5,4,"Smoked Beer",3,3.5,"Uncle Billy's Smoke Brown",NA,43467
-"55",16088,"Uncle Billy's Brew & Que",1235604874,4,4,3.5,"Kölsch",3.5,3.5,"Back 40 Blonde Ale",4.8,37231
-"56",16088,"Uncle Billy's Brew & Que",1210010651,4,4,4,"Kölsch",4,4.5,"Back 40 Blonde Ale",4.8,37231
-"57",16088,"Uncle Billy's Brew & Que",1200517949,3.5,3.5,2,"Kölsch",3,3.5,"Back 40 Blonde Ale",4.8,37231
-"58",16088,"Uncle Billy's Brew & Que",1194218014,3.5,3.5,3.5,"Kölsch",3.5,3.5,"Back 40 Blonde Ale",4.8,37231
-"59",16088,"Uncle Billy's Brew & Que",1182217332,4,3,3,"Kölsch",3,3.5,"Back 40 Blonde Ale",4.8,37231
-"60",16088,"Uncle Billy's Brew & Que",1181707384,2.5,2.5,2.5,"Kölsch",2,2.5,"Back 40 Blonde Ale",4.8,37231
-"61",16088,"Uncle Billy's Brew & Que",1325286041,4.5,4.5,4,"Baltic Porter",4,4.5,"Bourbon Barrel Baltic Porter",9.5,76885
-"62",16088,"Uncle Billy's Brew & Que",1319914511,4,4,4,"American Brown Ale",4,4,"Busted Gate Brown Ale",7,74671
-"63",16088,"Uncle Billy's Brew & Que",1321325842,4,4,4,"American Porter",4,4,"Snake Island Porter",4.8,75288
-"64",16088,"Uncle Billy's Brew & Que",1266616691,4,4,4,"American Wild Ale",4,4.5,"Ruby Red",7.2,56226
-"65",16088,"Uncle Billy's Brew & Que",1214863947,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Anniversary Ale",9.9,43474
-"66",16088,"Uncle Billy's Brew & Que",1319913957,4,4,4,"American Amber / Red Ale",4,4,"Uncle Billy's Bitchin' Camaro",5.7,41687
-"67",16088,"Uncle Billy's Brew & Que",1292965884,4,4.5,4.5,"American Amber / Red Ale",4,4.5,"Uncle Billy's Bitchin' Camaro",5.7,41687
-"68",16088,"Uncle Billy's Brew & Que",1299860597,4.5,4,4,"American IPA",4.5,3.5,"Hop Zombie",6.6,48703
-"69",16088,"Uncle Billy's Brew & Que",1299527676,4,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
-"70",16088,"Uncle Billy's Brew & Que",1296430522,4.5,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
-"71",16088,"Uncle Billy's Brew & Que",1296266358,3.5,3.5,3.5,"American IPA",4,4,"Hop Zombie",6.6,48703
-"72",16088,"Uncle Billy's Brew & Que",1295124080,4.5,4.5,4.5,"American IPA",4,4.5,"Hop Zombie",6.6,48703
-"73",16088,"Uncle Billy's Brew & Que",1289106914,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hop Zombie",6.6,48703
-"74",16088,"Uncle Billy's Brew & Que",1244921817,4,4,4,"American IPA",3.5,4,"Hop Zombie",6.6,48703
-"75",16088,"Uncle Billy's Brew & Que",1241762777,5,4,3.5,"American IPA",5,5,"Hop Zombie",6.6,48703
-"76",16088,"Uncle Billy's Brew & Que",1239645208,4,4.5,4,"American IPA",3.5,4,"Hop Zombie",6.6,48703
-"77",16088,"Uncle Billy's Brew & Que",1238859975,4.5,4.5,4.5,"American IPA",3.5,4,"Hop Zombie",6.6,48703
-"78",16088,"Uncle Billy's Brew & Que",1237916051,4,4,4.5,"American IPA",4,4.5,"Hop Zombie",6.6,48703
-"79",16088,"Uncle Billy's Brew & Que",1281827514,4.5,4.5,4,"American IPA",4.5,4,"Bride Of Zombie",7.1,61032
-"80",16088,"Uncle Billy's Brew & Que",1319914251,3.5,3,4,"Keller Bier / Zwickel Bier",3.5,4,"Psycho Keller",NA,74670
-"81",16088,"Uncle Billy's Brew & Que",1204410649,3.5,3,4,"Belgian Dark Ale",4,3,"Dirty Monk Amber",NA,41298
-"82",16088,"Uncle Billy's Brew & Que",1253458889,3,3.5,3.5,"Märzen / Oktoberfest",4,3,"Uncle Billy's Hoptoberfest",NA,52760
-"83",16088,"Uncle Billy's Brew & Que",1296938189,3.5,4.5,4,"Russian Imperial Stout",3,4,"Capt. Ivan Drago's Russian Imperial Stout",8.3,65766
-"84",16088,"Uncle Billy's Brew & Que",1296431415,4,4,4.5,"Russian Imperial Stout",4,4,"Capt. Ivan Drago's Russian Imperial Stout",8.3,65766
-"85",16088,"Uncle Billy's Brew & Que",1296265739,4,3.5,3.5,"American Amber / Red Ale",4,3,"Uncle Billy's Organic Amber",5.1,41581
-"86",16088,"Uncle Billy's Brew & Que",1266267413,4,4,4,"American Amber / Red Ale",4,4,"Uncle Billy's Organic Amber",5.1,41581
-"87",16088,"Uncle Billy's Brew & Que",1244920378,4,4,3.5,"American Amber / Red Ale",3.5,4,"Uncle Billy's Organic Amber",5.1,41581
-"88",16088,"Uncle Billy's Brew & Que",1238190806,3.5,3.5,3.5,"American Amber / Red Ale",4,3,"Uncle Billy's Organic Amber",5.1,41581
-"89",16088,"Uncle Billy's Brew & Que",1205611190,3,3,4,"American Amber / Red Ale",4,3.5,"Uncle Billy's Organic Amber",5.1,41581
-"90",16088,"Uncle Billy's Brew & Que",1321073733,4,4.5,4,"Baltic Porter",4,4,"Bourbon Barrel-Aged Smoked Baltic Porter",8,75179
-"91",16088,"Uncle Billy's Brew & Que",1282006359,5,4,4,"Keller Bier / Zwickel Bier",4.5,4,"Hell In Keller",NA,47180
-"92",16088,"Uncle Billy's Brew & Que",1266266392,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Hell In Keller",NA,47180
-"93",16088,"Uncle Billy's Brew & Que",1233109441,4.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4,"Hell In Keller",NA,47180
-"94",16088,"Uncle Billy's Brew & Que",1231611108,5,4.5,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Hell In Keller",NA,47180
-"95",16088,"Uncle Billy's Brew & Que",1236707744,4,4,4.5,"Irish Dry Stout",4,4,"Burnout Stout",4.6,48393
-"96",16088,"Uncle Billy's Brew & Que",1234296287,4,4,4.5,"American Stout",5,4,"Bengal Bout Stout",NA,42017
-"97",16088,"Uncle Billy's Brew & Que",1207507255,4,3.5,4,"American Stout",3.5,3.5,"Bengal Bout Stout",NA,42017
-"98",16088,"Uncle Billy's Brew & Que",1206394820,4,4,4,"American IPA",5,4,"Atomic '55' IPA",NA,40779
-"99",16088,"Uncle Billy's Brew & Que",1201575012,4.5,3.5,4.5,"American IPA",5,3.5,"Atomic '55' IPA",NA,40779
-"100",16088,"Uncle Billy's Brew & Que",1244922198,3.5,4,3.5,"Belgian Strong Pale Ale",4,4,"Boozer Chavez - 2nd Anniversary Ale",9.9,49497
-"101",16088,"Uncle Billy's Brew & Que",1241120653,4,4,3.5,"Belgian Strong Pale Ale",4,4.5,"Boozer Chavez - 2nd Anniversary Ale",9.9,49497
-"102",16088,"Uncle Billy's Brew & Que",1204408979,4.5,3.5,4,"English Pale Ale",4,3.5,"Uncle Billy's English Pale Ale (aka The EPA)",NA,39481
-"103",16088,"Uncle Billy's Brew & Que",1274237322,4,4,4,"Tripel",4,4,"Dave Tripel - 3rd Anniversary Ale",8.5,58442
-"104",16088,"Uncle Billy's Brew & Que",1194222818,3,3,3.5,"English Pale Ale",3.5,3,"Uncle Billy's English Pale Ale (aka The EPA)",NA,39481
-"105",16088,"Uncle Billy's Brew & Que",1266266972,4,3,4,"Altbier",4,3.5,"Ctrl Alt Del",5.1,56140
-"106",16088,"Uncle Billy's Brew & Que",1296431139,4.5,4,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
-"107",16088,"Uncle Billy's Brew & Que",1296266704,3,3,3.5,"American IPA",3.5,3,"Uncle Billy's Summit IPA",6.5,41580
-"108",16088,"Uncle Billy's Brew & Que",1292970425,4,4,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
-"109",16088,"Uncle Billy's Brew & Que",1224559928,4.5,4,4.5,"American IPA",4,4.5,"Uncle Billy's Summit IPA",6.5,41580
-"110",16088,"Uncle Billy's Brew & Que",1205611129,4.5,4.5,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
-"111",16088,"Uncle Billy's Brew & Que",1279589191,4,4,4,"American IPA",4,4,"El Camino XPA",6.4,60230
-"112",16088,"Uncle Billy's Brew & Que",1264220530,4.5,4,4.5,"American Porter",4,4.5,"Uncle Billy's Smokestack Lightning",8.7,55582
-"113",16088,"Uncle Billy's Brew & Que",1316116294,4,4.5,4,"American Black Ale",4,4.5,"Hop Dead Gorgeous",7.7,73159
-"114",16088,"Uncle Billy's Brew & Que",1314310848,3.5,3.5,3.5,"American IPA",3.5,3.5,"Wood Eye Rye IPA",NA,41998
-"115",16088,"Uncle Billy's Brew & Que",1249432735,5,4.5,3.5,"American IPA",3.5,4,"Wood Eye Rye IPA",NA,41998
-"116",16088,"Uncle Billy's Brew & Que",1236720291,4,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
-"117",16088,"Uncle Billy's Brew & Que",1236113185,4,3,4.5,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
-"118",16088,"Uncle Billy's Brew & Que",1216437598,4.5,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
-"119",16088,"Uncle Billy's Brew & Que",1207441312,4,4.5,4,"American IPA",4,4,"Wood Eye Rye IPA",NA,41998
-"120",16088,"Uncle Billy's Brew & Que",1226863837,3.5,3,4,"Hefeweizen",3,3,"Uber Weiss",NA,45949
-"121",16088,"Uncle Billy's Brew & Que",1205611089,3.5,3.5,4,"Weizenbock",4,3,"Uncle Billy's Yule Be Bock",NA,41579
-"122",16088,"Uncle Billy's Brew & Que",1293165159,4,4,3.5,"American Black Ale",3.5,3.5,"Cascadian Dark Ale",6.7,64712
-"123",16088,"Uncle Billy's Brew & Que",1200518564,4,4,4.5,"American Amber / Red Ale",4,4,"Uncle Billy's Brewcue Amber Ale",NA,40589
-"124",16088,"Uncle Billy's Brew & Que",1279589052,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Triumph ESB",NA,45951
-"125",16088,"Uncle Billy's Brew & Que",1239745821,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Triumph ESB",NA,45951
-"126",16088,"Uncle Billy's Brew & Que",1231615170,4,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"Triumph ESB",NA,45951
-"127",16088,"Uncle Billy's Brew & Que",1226864192,4.5,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Triumph ESB",NA,45951
-"128",16088,"Uncle Billy's Brew & Que",1283131522,3,3.5,3.5,"Tripel",3.5,3,"Dave Tripel - 3rd Anniversary Ale",8.5,58442
-"129",16088,"Uncle Billy's Brew & Que",1252465143,3.5,3.5,3.5,"Rauchbier",3.5,3,"Thick Black Smoke",NA,44597
-"130",16088,"Uncle Billy's Brew & Que",1238793040,4,5,4,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
-"131",16088,"Uncle Billy's Brew & Que",1226864348,4.5,4,4,"Rauchbier",4,4,"Thick Black Smoke",NA,44597
-"132",16088,"Uncle Billy's Brew & Que",1225226883,4.5,4.5,4,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
-"133",16088,"Uncle Billy's Brew & Que",1223337865,5,4.5,4.5,"Rauchbier",4.5,4.5,"Thick Black Smoke",NA,44597
-"134",16088,"Uncle Billy's Brew & Que",1222886023,4,4,3.5,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
-"135",16088,"Uncle Billy's Brew & Que",1219981150,5,4,4,"Rauchbier",5,5,"Thick Black Smoke",NA,44597
-"136",16088,"Uncle Billy's Brew & Que",1204946150,3.5,3.5,3.5,"American IPA",3.5,3.5,"Uncle Billy's IPA",6.4,37230
-"137",16088,"Uncle Billy's Brew & Que",1200518987,3.5,4,3,"American IPA",3.5,3.5,"Uncle Billy's IPA",6.4,37230
-"138",16088,"Uncle Billy's Brew & Que",1182218293,3,3.5,3.5,"American IPA",3.5,3,"Uncle Billy's IPA",6.4,37230
-"139",16088,"Uncle Billy's Brew & Que",1181705204,3.5,4,4,"American IPA",3.5,4,"Uncle Billy's IPA",6.4,37230
-"140",16088,"Uncle Billy's Brew & Que",1194222256,3.5,4,4,"Hefeweizen",3.5,3.5,"Haystack Hefeweizen",NA,37233
-"141",16088,"Uncle Billy's Brew & Que",1182037112,4,3.5,3.5,"Hefeweizen",4,4,"Haystack Hefeweizen",NA,37233
-"142",16088,"Uncle Billy's Brew & Que",1181707984,5,4.5,4.5,"Hefeweizen",4,4,"Haystack Hefeweizen",NA,37233
-"143",16088,"Uncle Billy's Brew & Que",1321326253,3.5,3.5,4,"American Pale Lager",4,4,"Sparkle Party",6.3,75289
-"144",16088,"Uncle Billy's Brew & Que",1288976035,4,4.5,4,"American IPA",4,4,"Hop School IPA",6.9,62876
-"145",16088,"Uncle Billy's Brew & Que",1287977395,4,4,4,"American IPA",4,3.5,"Hop School IPA",6.9,62876
-"146",16088,"Uncle Billy's Brew & Que",1269037526,4,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,56902
-"147",16088,"Uncle Billy's Brew & Que",1306210755,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Black Jesus",6.8,69414
-"148",16088,"Uncle Billy's Brew & Que",1321326485,3.5,3,4,"Witbier",3,3.5,"Agave Wit",4.6,44967
-"149",16088,"Uncle Billy's Brew & Que",1296265276,3,3,3,"Witbier",3,3,"Agave Wit",4.6,44967
-"150",16088,"Uncle Billy's Brew & Que",1292970652,4.5,4.5,4.5,"Witbier",4,4.5,"Agave Wit",4.6,44967
-"151",16088,"Uncle Billy's Brew & Que",1283131208,4.5,4,4,"Witbier",3.5,4,"Agave Wit",4.6,44967
-"152",16088,"Uncle Billy's Brew & Que",1282005587,3,3,3,"Witbier",3,3,"Agave Wit",4.6,44967
-"153",16088,"Uncle Billy's Brew & Que",1244919940,3.5,3.5,3.5,"Witbier",3.5,4,"Agave Wit",4.6,44967
-"154",16088,"Uncle Billy's Brew & Que",1235605385,4,4.5,4,"Witbier",3.5,4,"Agave Wit",4.6,44967
-"155",16088,"Uncle Billy's Brew & Que",1234902613,3.5,3.5,3,"Witbier",3,4,"Agave Wit",4.6,44967
-"156",16088,"Uncle Billy's Brew & Que",1231614936,3.5,3,3.5,"Witbier",3.5,3.5,"Agave Wit",4.6,44967
-"157",16088,"Uncle Billy's Brew & Que",1222053081,5,3.5,4,"Witbier",4.5,4.5,"Agave Wit",4.6,44967
-"158",16088,"Uncle Billy's Brew & Que",1273419959,3.5,4,4.5,"American IPA",4,4,"Code Red IPA",NA,58172
+"2",16088,"Uncle Billy's Brew & Que",1200517736,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Haystack Hefeweizen",NA,37233
+"3",16088,"Uncle Billy's Brew & Que",1292914618,4.5,4,4.5,"Keller Bier / Zwickel Bier",5,4.5,"Hell In Keller",NA,47180
+"4",16088,"Uncle Billy's Brew & Que",1296758090,4,3.5,4,"American IPA",4,4,"Wood Eye Rye IPA",NA,41998
+"5",16088,"Uncle Billy's Brew & Que",1269037423,4,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
+"6",16088,"Uncle Billy's Brew & Que",1315424538,4,4.5,4,"American IPA",4,4,"Hop Zombie",6.6,48703
+"7",16088,"Uncle Billy's Brew & Que",1265415153,4,4,4,"American Double / Imperial IPA",4,4,"Uncle Billy's Resonator Double IPA",8,39483
+"8",16088,"Uncle Billy's Brew & Que",1265003810,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Uncle Billy's Resonator Double IPA",8,39483
+"9",16088,"Uncle Billy's Brew & Que",1264086367,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Uncle Billy's Resonator Double IPA",8,39483
+"10",16088,"Uncle Billy's Brew & Que",1204409026,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Uncle Billy's Resonator Double IPA",8,39483
+"11",16088,"Uncle Billy's Brew & Que",1300577360,4,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
+"12",16088,"Uncle Billy's Brew & Que",1194224453,4,4,4,"American Double / Imperial IPA",4,4.5,"Uncle Billy's Resonator Double IPA",8,39483
+"13",16088,"Uncle Billy's Brew & Que",1296266021,4.5,4.5,3.5,"American Pale Ale (APA)",4.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"14",16088,"Uncle Billy's Brew & Que",1292914378,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"15",16088,"Uncle Billy's Brew & Que",1282005882,4,4,4,"American Pale Ale (APA)",4,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"16",16088,"Uncle Billy's Brew & Que",1279589317,4,4,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"17",16088,"Uncle Billy's Brew & Que",1244921341,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"18",16088,"Uncle Billy's Brew & Que",1242625848,4.5,4,3.5,"American Pale Ale (APA)",4.5,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"19",16088,"Uncle Billy's Brew & Que",1241760972,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"20",16088,"Uncle Billy's Brew & Que",1238436420,3.5,4,3.5,"American Pale Ale (APA)",3,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"21",16088,"Uncle Billy's Brew & Que",1238268970,4,4,4,"American Pale Ale (APA)",4,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"22",16088,"Uncle Billy's Brew & Que",1236116312,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"23",16088,"Uncle Billy's Brew & Que",1230856183,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"24",16088,"Uncle Billy's Brew & Que",1204946381,4,4,3.5,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"25",16088,"Uncle Billy's Brew & Que",1200518737,4,4,4,"American Pale Ale (APA)",3.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"26",16088,"Uncle Billy's Brew & Que",1199488954,4,4.5,4,"American Pale Ale (APA)",4.5,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"27",16088,"Uncle Billy's Brew & Que",1194223475,3.5,3.5,4,"American Pale Ale (APA)",4,4,"Uncle Billy's Ax Handle American Pale Ale",5.6,39482
+"28",16088,"Uncle Billy's Brew & Que",1319210683,4.5,4.5,4,"Baltic Porter",4.5,4.5,"Smoked Baltic Porter",8,74375
+"29",16088,"Uncle Billy's Brew & Que",1242625386,4,4,4,"Smoked Beer",4,4,"Uncle Billy's Smokehouse Porter",NA,39484
+"30",16088,"Uncle Billy's Brew & Que",1241761381,4,3,3,"Smoked Beer",4,3,"Uncle Billy's Smokehouse Porter",NA,39484
+"31",16088,"Uncle Billy's Brew & Que",1239745662,4,3.5,4,"Smoked Beer",4,3.5,"Uncle Billy's Smokehouse Porter",NA,39484
+"32",16088,"Uncle Billy's Brew & Que",1216438564,4.5,4,4,"Smoked Beer",4,4.5,"Uncle Billy's Smokehouse Porter",NA,39484
+"33",16088,"Uncle Billy's Brew & Que",1207441242,4,4,4,"Smoked Beer",3,3.5,"Uncle Billy's Smokehouse Porter",NA,39484
+"34",16088,"Uncle Billy's Brew & Que",1194225501,4.5,4.5,4,"Smoked Beer",4.5,4.5,"Uncle Billy's Smokehouse Porter",NA,39484
+"35",16088,"Uncle Billy's Brew & Que",1321326720,3,3,3.5,"Kölsch",3,3,"Back 40 Blonde Ale",4.8,37231
+"36",16088,"Uncle Billy's Brew & Que",1296265013,4.5,4,3.5,"Kölsch",4,4,"Back 40 Blonde Ale",4.8,37231
+"37",16088,"Uncle Billy's Brew & Que",1244919417,3,3,3.5,"Kölsch",3,3,"Back 40 Blonde Ale",4.8,37231
+"38",16088,"Uncle Billy's Brew & Que",1235604874,4,4,3.5,"Kölsch",3.5,3.5,"Back 40 Blonde Ale",4.8,37231
+"39",16088,"Uncle Billy's Brew & Que",1210010651,4,4,4,"Kölsch",4,4.5,"Back 40 Blonde Ale",4.8,37231
+"40",16088,"Uncle Billy's Brew & Que",1200517949,3.5,3.5,2,"Kölsch",3,3.5,"Back 40 Blonde Ale",4.8,37231
+"41",16088,"Uncle Billy's Brew & Que",1194218014,3.5,3.5,3.5,"Kölsch",3.5,3.5,"Back 40 Blonde Ale",4.8,37231
+"42",16088,"Uncle Billy's Brew & Que",1182217332,4,3,3,"Kölsch",3,3.5,"Back 40 Blonde Ale",4.8,37231
+"43",16088,"Uncle Billy's Brew & Que",1181707384,2.5,2.5,2.5,"Kölsch",2,2.5,"Back 40 Blonde Ale",4.8,37231
+"44",16088,"Uncle Billy's Brew & Que",1266616691,4,4,4,"American Wild Ale",4,4.5,"Ruby Red",7.2,56226
+"45",16088,"Uncle Billy's Brew & Que",1214863947,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Anniversary Ale",9.9,43474
+"46",16088,"Uncle Billy's Brew & Que",1299860597,4.5,4,4,"American IPA",4.5,3.5,"Hop Zombie",6.6,48703
+"47",16088,"Uncle Billy's Brew & Que",1299527676,4,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
+"48",16088,"Uncle Billy's Brew & Que",1296430522,4.5,4,4,"American IPA",4,4.5,"Hop Zombie",6.6,48703
+"49",16088,"Uncle Billy's Brew & Que",1296266358,3.5,3.5,3.5,"American IPA",4,4,"Hop Zombie",6.6,48703
+"50",16088,"Uncle Billy's Brew & Que",1295124080,4.5,4.5,4.5,"American IPA",4,4.5,"Hop Zombie",6.6,48703
+"51",16088,"Uncle Billy's Brew & Que",1289106914,4.5,4.5,4.5,"American IPA",4.5,4.5,"Hop Zombie",6.6,48703
+"52",16088,"Uncle Billy's Brew & Que",1244921817,4,4,4,"American IPA",3.5,4,"Hop Zombie",6.6,48703
+"53",16088,"Uncle Billy's Brew & Que",1241762777,5,4,3.5,"American IPA",5,5,"Hop Zombie",6.6,48703
+"54",16088,"Uncle Billy's Brew & Que",1239645208,4,4.5,4,"American IPA",3.5,4,"Hop Zombie",6.6,48703
+"55",16088,"Uncle Billy's Brew & Que",1238859975,4.5,4.5,4.5,"American IPA",3.5,4,"Hop Zombie",6.6,48703
+"56",16088,"Uncle Billy's Brew & Que",1237916051,4,4,4.5,"American IPA",4,4.5,"Hop Zombie",6.6,48703
+"57",16088,"Uncle Billy's Brew & Que",1296265739,4,3.5,3.5,"American Amber / Red Ale",4,3,"Uncle Billy's Organic Amber",5.1,41581
+"58",16088,"Uncle Billy's Brew & Que",1266267413,4,4,4,"American Amber / Red Ale",4,4,"Uncle Billy's Organic Amber",5.1,41581
+"59",16088,"Uncle Billy's Brew & Que",1244920378,4,4,3.5,"American Amber / Red Ale",3.5,4,"Uncle Billy's Organic Amber",5.1,41581
+"60",16088,"Uncle Billy's Brew & Que",1238190806,3.5,3.5,3.5,"American Amber / Red Ale",4,3,"Uncle Billy's Organic Amber",5.1,41581
+"61",16088,"Uncle Billy's Brew & Que",1205611190,3,3,4,"American Amber / Red Ale",4,3.5,"Uncle Billy's Organic Amber",5.1,41581
+"62",16088,"Uncle Billy's Brew & Que",1282006359,5,4,4,"Keller Bier / Zwickel Bier",4.5,4,"Hell In Keller",NA,47180
+"63",16088,"Uncle Billy's Brew & Que",1266266392,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Hell In Keller",NA,47180
+"64",16088,"Uncle Billy's Brew & Que",1233109441,4.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4,"Hell In Keller",NA,47180
+"65",16088,"Uncle Billy's Brew & Que",1231611108,5,4.5,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Hell In Keller",NA,47180
+"66",16088,"Uncle Billy's Brew & Que",1296431139,4.5,4,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
+"67",16088,"Uncle Billy's Brew & Que",1296266704,3,3,3.5,"American IPA",3.5,3,"Uncle Billy's Summit IPA",6.5,41580
+"68",16088,"Uncle Billy's Brew & Que",1292970425,4,4,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
+"69",16088,"Uncle Billy's Brew & Que",1224559928,4.5,4,4.5,"American IPA",4,4.5,"Uncle Billy's Summit IPA",6.5,41580
+"70",16088,"Uncle Billy's Brew & Que",1205611129,4.5,4.5,4,"American IPA",4,4,"Uncle Billy's Summit IPA",6.5,41580
+"71",16088,"Uncle Billy's Brew & Que",1314310848,3.5,3.5,3.5,"American IPA",3.5,3.5,"Wood Eye Rye IPA",NA,41998
+"72",16088,"Uncle Billy's Brew & Que",1249432735,5,4.5,3.5,"American IPA",3.5,4,"Wood Eye Rye IPA",NA,41998
+"73",16088,"Uncle Billy's Brew & Que",1236720291,4,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
+"74",16088,"Uncle Billy's Brew & Que",1236113185,4,3,4.5,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
+"75",16088,"Uncle Billy's Brew & Que",1216437598,4.5,4,4,"American IPA",4,4.5,"Wood Eye Rye IPA",NA,41998
+"76",16088,"Uncle Billy's Brew & Que",1207441312,4,4.5,4,"American IPA",4,4,"Wood Eye Rye IPA",NA,41998
+"77",16088,"Uncle Billy's Brew & Que",1293165159,4,4,3.5,"American Black Ale",3.5,3.5,"Cascadian Dark Ale",6.7,64712
+"78",16088,"Uncle Billy's Brew & Que",1252465143,3.5,3.5,3.5,"Rauchbier",3.5,3,"Thick Black Smoke",NA,44597
+"79",16088,"Uncle Billy's Brew & Que",1238793040,4,5,4,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
+"80",16088,"Uncle Billy's Brew & Que",1226864348,4.5,4,4,"Rauchbier",4,4,"Thick Black Smoke",NA,44597
+"81",16088,"Uncle Billy's Brew & Que",1225226883,4.5,4.5,4,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
+"82",16088,"Uncle Billy's Brew & Que",1223337865,5,4.5,4.5,"Rauchbier",4.5,4.5,"Thick Black Smoke",NA,44597
+"83",16088,"Uncle Billy's Brew & Que",1222886023,4,4,3.5,"Rauchbier",4,4.5,"Thick Black Smoke",NA,44597
+"84",16088,"Uncle Billy's Brew & Que",1219981150,5,4,4,"Rauchbier",5,5,"Thick Black Smoke",NA,44597
+"85",16088,"Uncle Billy's Brew & Que",1194222256,3.5,4,4,"Hefeweizen",3.5,3.5,"Haystack Hefeweizen",NA,37233
+"86",16088,"Uncle Billy's Brew & Que",1182037112,4,3.5,3.5,"Hefeweizen",4,4,"Haystack Hefeweizen",NA,37233
+"87",16088,"Uncle Billy's Brew & Que",1181707984,5,4.5,4.5,"Hefeweizen",4,4,"Haystack Hefeweizen",NA,37233
+"88",16088,"Uncle Billy's Brew & Que",1269037526,4,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,56902
+"89",16088,"Uncle Billy's Brew & Que",1321326485,3.5,3,4,"Witbier",3,3.5,"Agave Wit",4.6,44967
+"90",16088,"Uncle Billy's Brew & Que",1296265276,3,3,3,"Witbier",3,3,"Agave Wit",4.6,44967
+"91",16088,"Uncle Billy's Brew & Que",1292970652,4.5,4.5,4.5,"Witbier",4,4.5,"Agave Wit",4.6,44967
+"92",16088,"Uncle Billy's Brew & Que",1283131208,4.5,4,4,"Witbier",3.5,4,"Agave Wit",4.6,44967
+"93",16088,"Uncle Billy's Brew & Que",1282005587,3,3,3,"Witbier",3,3,"Agave Wit",4.6,44967
+"94",16088,"Uncle Billy's Brew & Que",1244919940,3.5,3.5,3.5,"Witbier",3.5,4,"Agave Wit",4.6,44967
+"95",16088,"Uncle Billy's Brew & Que",1235605385,4,4.5,4,"Witbier",3.5,4,"Agave Wit",4.6,44967
+"96",16088,"Uncle Billy's Brew & Que",1234902613,3.5,3.5,3,"Witbier",3,4,"Agave Wit",4.6,44967
+"97",16088,"Uncle Billy's Brew & Que",1231614936,3.5,3,3.5,"Witbier",3.5,3.5,"Agave Wit",4.6,44967
+"98",16088,"Uncle Billy's Brew & Que",1222053081,5,3.5,4,"Witbier",4.5,4.5,"Agave Wit",4.6,44967

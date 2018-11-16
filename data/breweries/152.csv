@@ -1,716 +1,691 @@
 "","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",152,"Young & Co Brewery PLC",1113873462,3,2.5,2.5,"Belgian Pale Ale",2,2.5,"Acclaim Champion Beer",4,3235
-"2",152,"Young & Co Brewery PLC",1021399533,2,2,1.5,"Belgian Pale Ale",1.5,1.5,"Acclaim Champion Beer",4,3235
-"3",152,"Young & Co Brewery PLC",1080510651,3.5,3.5,5,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"4",152,"Young & Co Brewery PLC",1072508547,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"5",152,"Young & Co Brewery PLC",1089666642,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"6",152,"Young & Co Brewery PLC",1058081346,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"7",152,"Young & Co Brewery PLC",1004139886,3,3,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"8",152,"Young & Co Brewery PLC",1003315501,4,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"9",152,"Young & Co Brewery PLC",1071677841,4,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"10",152,"Young & Co Brewery PLC",1138652280,4,4,4.5,"English Bitter",2.5,4,"Young's Christmas Ale",5,20948
-"11",152,"Young & Co Brewery PLC",1079130156,4,4.5,3,"English Pale Ale",3.5,4.5,"Youngs Celebration GBG",5.6,16495
-"12",152,"Young & Co Brewery PLC",1121378584,4.5,3.5,4,"American Blonde Ale",4,4.5,"Young's Golden Zest",4.7,17315
-"13",152,"Young & Co Brewery PLC",1067925046,4.5,5,4.5,"Dortmunder / Export Lager",4,5,"Young's Export Lager",NA,10475
-"14",152,"Young & Co Brewery PLC",1055943701,3.5,3,3,"Dortmunder / Export Lager",3,3.5,"Young's Export Lager",NA,10475
-"15",152,"Young & Co Brewery PLC",1064665336,1,1,1,"English Pale Ale",1,1,"Elysium",4,10556
-"16",152,"Young & Co Brewery PLC",1056241360,4,4,4,"English Pale Ale",4,4.5,"Elysium",4,10556
-"17",152,"Young & Co Brewery PLC",1119551645,2.5,3,3,"German Pilsener",3,3.5,"Young's Pilsner",4,12974
-"18",152,"Young & Co Brewery PLC",1096734241,4,4,3,"German Pilsener",3.5,3.5,"Young's Pilsner",4,12974
-"19",152,"Young & Co Brewery PLC",1071471437,3.5,3,3.5,"German Pilsener",3.5,3.5,"Young's Pilsner",4,12974
-"20",152,"Young & Co Brewery PLC",1069602730,3,3,3,"German Pilsener",3,3.5,"Young's Pilsner",4,12974
-"21",152,"Young & Co Brewery PLC",1081908559,4.5,4.5,4.5,"English Pale Ale",4,4.5,"Youngs Celebration GBG",5.6,16495
-"22",152,"Young & Co Brewery PLC",1080058663,3.5,4.5,4,"English Pale Ale",3.5,4.5,"Youngs Celebration GBG",5.6,16495
-"23",152,"Young & Co Brewery PLC",1118372632,3.5,4.5,3.5,"American Blonde Ale",3.5,3.5,"Young's Golden Zest",4.7,17315
-"24",152,"Young & Co Brewery PLC",1083342736,4.5,4,3.5,"American Blonde Ale",4,4,"Young's Golden Zest",4.7,17315
-"25",152,"Young & Co Brewery PLC",1132573546,4.5,3.5,4.5,"Winter Warmer",4,4,"Young's Burton",5.5,27023
-"26",152,"Young & Co Brewery PLC",1174851245,3,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Ruby Star",5.5,33750
-"27",152,"Young & Co Brewery PLC",1171821148,4,3,3,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
-"28",152,"Young & Co Brewery PLC",1169522698,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
-"29",152,"Young & Co Brewery PLC",1163711923,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
-"30",152,"Young & Co Brewery PLC",1163524104,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
-"31",152,"Young & Co Brewery PLC",1174016357,4,3.5,3.5,"English Strong Ale",4,4.5,"Young's 175th Anniversary Ale",7.5,32580
-"32",152,"Young & Co Brewery PLC",1158530675,4,4,4,"English Strong Ale",4,4.5,"Young's 175th Anniversary Ale",7.5,32580
-"33",152,"Young & Co Brewery PLC",1157244415,4,4,4,"English Strong Ale",4,4,"Young's 175th Anniversary Ale",7.5,32580
-"34",152,"Young & Co Brewery PLC",1200612740,4,3.5,3,"Extra Special / Strong Bitter (ESB)",3.5,3.5,"Young's 400 King's Arms Quadricentennial Anniversary Ale",6.5,40596
-"35",152,"Young & Co Brewery PLC",1159232951,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"36",152,"Young & Co Brewery PLC",1158308431,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"37",152,"Young & Co Brewery PLC",1158001079,3.5,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"38",152,"Young & Co Brewery PLC",1157866290,4,4.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"39",152,"Young & Co Brewery PLC",1108926395,4.5,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"40",152,"Young & Co Brewery PLC",1156792897,3,4,4.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"41",152,"Young & Co Brewery PLC",1156283425,4,4,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"42",152,"Young & Co Brewery PLC",1156206551,3,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"43",152,"Young & Co Brewery PLC",1155958567,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"44",152,"Young & Co Brewery PLC",1155675374,3.5,4,4.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"45",152,"Young & Co Brewery PLC",1155613320,4,4.5,3.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"46",152,"Young & Co Brewery PLC",1155311562,5,5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"47",152,"Young & Co Brewery PLC",1155244381,4.5,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"48",152,"Young & Co Brewery PLC",1155088359,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"49",152,"Young & Co Brewery PLC",1153773408,4,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"50",152,"Young & Co Brewery PLC",1153709908,3.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"51",152,"Young & Co Brewery PLC",1152899760,4,4.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"52",152,"Young & Co Brewery PLC",1151733221,3.5,3,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"53",152,"Young & Co Brewery PLC",1151338945,4.5,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"54",152,"Young & Co Brewery PLC",1150099616,4.5,5,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"55",152,"Young & Co Brewery PLC",1150050718,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"56",152,"Young & Co Brewery PLC",1103086131,5,3.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"57",152,"Young & Co Brewery PLC",1148829722,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"58",152,"Young & Co Brewery PLC",1148697312,4,4,4,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"59",152,"Young & Co Brewery PLC",1148156012,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"60",152,"Young & Co Brewery PLC",1146221710,4,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"61",152,"Young & Co Brewery PLC",1146099239,4,3.5,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"62",152,"Young & Co Brewery PLC",1145063324,4.5,4,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"63",152,"Young & Co Brewery PLC",1144298574,3,3.5,3.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"64",152,"Young & Co Brewery PLC",1144017743,3.5,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"65",152,"Young & Co Brewery PLC",1143944679,4,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"66",152,"Young & Co Brewery PLC",1085192022,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"67",152,"Young & Co Brewery PLC",1143122318,4.5,4,5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"68",152,"Young & Co Brewery PLC",1142874873,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"69",152,"Young & Co Brewery PLC",1142609216,3.5,4,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"70",152,"Young & Co Brewery PLC",1142562638,4,3.5,3,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"71",152,"Young & Co Brewery PLC",1141664742,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"72",152,"Young & Co Brewery PLC",1141439966,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"73",152,"Young & Co Brewery PLC",1140810662,4.5,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"74",152,"Young & Co Brewery PLC",1140495174,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"75",152,"Young & Co Brewery PLC",1140471511,5,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"76",152,"Young & Co Brewery PLC",1138554763,4,3.5,4,"English Barleywine",4.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"77",152,"Young & Co Brewery PLC",1140388981,4,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"78",152,"Young & Co Brewery PLC",1140137208,4.5,4,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"79",152,"Young & Co Brewery PLC",1140113157,3.5,3.5,3,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"80",152,"Young & Co Brewery PLC",1139975536,4.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"81",152,"Young & Co Brewery PLC",1139974979,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"82",152,"Young & Co Brewery PLC",1139966422,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"83",152,"Young & Co Brewery PLC",1139789894,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"84",152,"Young & Co Brewery PLC",1139621542,4.5,3,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"85",152,"Young & Co Brewery PLC",1138830755,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"86",152,"Young & Co Brewery PLC",1138324456,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"87",152,"Young & Co Brewery PLC",1138248672,4.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"88",152,"Young & Co Brewery PLC",1137439473,4,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"89",152,"Young & Co Brewery PLC",1137027871,4,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"90",152,"Young & Co Brewery PLC",1136836721,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"91",152,"Young & Co Brewery PLC",1136820534,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"92",152,"Young & Co Brewery PLC",1136598684,4.5,4,3.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"93",152,"Young & Co Brewery PLC",1131777488,3,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"94",152,"Young & Co Brewery PLC",1135917233,4,4,4.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"95",152,"Young & Co Brewery PLC",1135911256,4,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"96",152,"Young & Co Brewery PLC",1135678373,4,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"97",152,"Young & Co Brewery PLC",1135657261,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"98",152,"Young & Co Brewery PLC",1135639963,4,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"99",152,"Young & Co Brewery PLC",1135512417,4.5,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"100",152,"Young & Co Brewery PLC",1135486119,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"101",152,"Young & Co Brewery PLC",1135150708,3.5,3,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"102",152,"Young & Co Brewery PLC",1135143985,2.5,2.5,3.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"103",152,"Young & Co Brewery PLC",1134533559,3,2,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"104",152,"Young & Co Brewery PLC",1134375790,3.5,3,3,"English Barleywine",2.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"105",152,"Young & Co Brewery PLC",1134106261,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"106",152,"Young & Co Brewery PLC",1133590020,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"107",152,"Young & Co Brewery PLC",1133255554,4,2.5,4.5,"English Barleywine",4.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"108",152,"Young & Co Brewery PLC",1133232845,4.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"109",152,"Young & Co Brewery PLC",1133118906,4,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"110",152,"Young & Co Brewery PLC",1132906297,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"111",152,"Young & Co Brewery PLC",1132694952,4,3,4,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"112",152,"Young & Co Brewery PLC",1131655994,4,3,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"113",152,"Young & Co Brewery PLC",1131502741,4,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"114",152,"Young & Co Brewery PLC",1131357942,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"115",152,"Young & Co Brewery PLC",1131335309,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"116",152,"Young & Co Brewery PLC",1131252983,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"117",152,"Young & Co Brewery PLC",1131079373,4,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"118",152,"Young & Co Brewery PLC",1131004661,4.5,4.5,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"119",152,"Young & Co Brewery PLC",1128460211,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"120",152,"Young & Co Brewery PLC",1130853993,4,3,5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"121",152,"Young & Co Brewery PLC",1130021630,4,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"122",152,"Young & Co Brewery PLC",1129915895,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"123",152,"Young & Co Brewery PLC",1129694000,4,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"124",152,"Young & Co Brewery PLC",1129500268,3,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"125",152,"Young & Co Brewery PLC",1129180148,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"126",152,"Young & Co Brewery PLC",1129170984,4,3,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"127",152,"Young & Co Brewery PLC",1128920576,4.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"128",152,"Young & Co Brewery PLC",1128910620,4.5,4.5,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"129",152,"Young & Co Brewery PLC",1128409251,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"130",152,"Young & Co Brewery PLC",1127920069,4,4.5,4,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"131",152,"Young & Co Brewery PLC",1127766981,5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"132",152,"Young & Co Brewery PLC",1126761741,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"133",152,"Young & Co Brewery PLC",1126754976,4.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"134",152,"Young & Co Brewery PLC",1126307052,4.5,3.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"135",152,"Young & Co Brewery PLC",1126238232,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"136",152,"Young & Co Brewery PLC",1126235051,4,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"137",152,"Young & Co Brewery PLC",1125453672,3.5,3.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"138",152,"Young & Co Brewery PLC",1229456105,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"139",152,"Young & Co Brewery PLC",1227982616,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"140",152,"Young & Co Brewery PLC",1227155028,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"141",152,"Young & Co Brewery PLC",1218914912,4.5,4,4.5,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"142",152,"Young & Co Brewery PLC",1217445862,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"143",152,"Young & Co Brewery PLC",1216090128,5,4.5,4,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"144",152,"Young & Co Brewery PLC",1213837918,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"145",152,"Young & Co Brewery PLC",1208299670,5,5,5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"146",152,"Young & Co Brewery PLC",1207853037,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"147",152,"Young & Co Brewery PLC",1207538992,2.5,3.5,3.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"148",152,"Young & Co Brewery PLC",1125068640,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"149",152,"Young & Co Brewery PLC",1124985179,3.5,4.5,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"150",152,"Young & Co Brewery PLC",1122953161,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"151",152,"Young & Co Brewery PLC",1122776859,4.5,2.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"152",152,"Young & Co Brewery PLC",1122157208,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"153",152,"Young & Co Brewery PLC",1121665130,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"154",152,"Young & Co Brewery PLC",1118611663,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"155",152,"Young & Co Brewery PLC",1117474219,4,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"156",152,"Young & Co Brewery PLC",1117137134,3.5,3,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"157",152,"Young & Co Brewery PLC",1116712261,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"158",152,"Young & Co Brewery PLC",1116639880,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"159",152,"Young & Co Brewery PLC",1115687687,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"160",152,"Young & Co Brewery PLC",1115520769,4.5,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"161",152,"Young & Co Brewery PLC",1115436123,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"162",152,"Young & Co Brewery PLC",1114232529,3,4,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"163",152,"Young & Co Brewery PLC",1114146970,4,3.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"164",152,"Young & Co Brewery PLC",1108952959,4.5,3.5,4.5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"165",152,"Young & Co Brewery PLC",1114127840,4.5,3.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"166",152,"Young & Co Brewery PLC",1113888543,4,4,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"167",152,"Young & Co Brewery PLC",1113113315,4.5,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"168",152,"Young & Co Brewery PLC",1112155959,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"169",152,"Young & Co Brewery PLC",1111108658,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"170",152,"Young & Co Brewery PLC",1110695240,4.5,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"171",152,"Young & Co Brewery PLC",1110336839,3,3.5,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"172",152,"Young & Co Brewery PLC",1109016518,3,3,4,"English Barleywine",2.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"173",152,"Young & Co Brewery PLC",1108788856,3.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"174",152,"Young & Co Brewery PLC",1108783676,3,3,4,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"175",152,"Young & Co Brewery PLC",1108688574,3.5,4,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"176",152,"Young & Co Brewery PLC",1107699843,3.5,3,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"177",152,"Young & Co Brewery PLC",1107656237,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"178",152,"Young & Co Brewery PLC",1107320494,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"179",152,"Young & Co Brewery PLC",1106528778,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"180",152,"Young & Co Brewery PLC",1106171276,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"181",152,"Young & Co Brewery PLC",1105410796,5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"182",152,"Young & Co Brewery PLC",1104713001,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"183",152,"Young & Co Brewery PLC",1103832994,4.5,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"184",152,"Young & Co Brewery PLC",1102567562,4.5,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"185",152,"Young & Co Brewery PLC",1102564520,4.5,5,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"186",152,"Young & Co Brewery PLC",1101762621,4,4.5,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"187",152,"Young & Co Brewery PLC",1099419109,4,4,5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"188",152,"Young & Co Brewery PLC",1099104879,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"189",152,"Young & Co Brewery PLC",1098396693,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"190",152,"Young & Co Brewery PLC",1096701150,4.5,5,5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"191",152,"Young & Co Brewery PLC",1096668503,5,4,4.5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"192",152,"Young & Co Brewery PLC",1096230161,3.5,4.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"193",152,"Young & Co Brewery PLC",1096164139,3,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"194",152,"Young & Co Brewery PLC",1095729368,4,3,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"195",152,"Young & Co Brewery PLC",1095557148,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"196",152,"Young & Co Brewery PLC",1094365585,3.5,3.5,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"197",152,"Young & Co Brewery PLC",1093281502,3,3,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"198",152,"Young & Co Brewery PLC",1092967207,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"199",152,"Young & Co Brewery PLC",1092404438,4,4,3.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"200",152,"Young & Co Brewery PLC",1092128056,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"201",152,"Young & Co Brewery PLC",1084046997,5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"202",152,"Young & Co Brewery PLC",1091581615,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"203",152,"Young & Co Brewery PLC",1091395265,4,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"204",152,"Young & Co Brewery PLC",1090717902,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"205",152,"Young & Co Brewery PLC",1090013678,3.5,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"206",152,"Young & Co Brewery PLC",1089083046,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"207",152,"Young & Co Brewery PLC",1087324546,3.5,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"208",152,"Young & Co Brewery PLC",1086567669,4,4,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"209",152,"Young & Co Brewery PLC",1085846773,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"210",152,"Young & Co Brewery PLC",1085324149,4,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"211",152,"Young & Co Brewery PLC",1079916174,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"212",152,"Young & Co Brewery PLC",1079419459,3.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"213",152,"Young & Co Brewery PLC",1078008920,4,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"214",152,"Young & Co Brewery PLC",1077160668,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"215",152,"Young & Co Brewery PLC",1076825077,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"216",152,"Young & Co Brewery PLC",1076133427,4,4,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"217",152,"Young & Co Brewery PLC",1075435364,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"218",152,"Young & Co Brewery PLC",1074950714,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"219",152,"Young & Co Brewery PLC",1074052528,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"220",152,"Young & Co Brewery PLC",1073810854,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"221",152,"Young & Co Brewery PLC",1073783955,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"222",152,"Young & Co Brewery PLC",1073413191,4.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"223",152,"Young & Co Brewery PLC",1072491151,3,4.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"224",152,"Young & Co Brewery PLC",1072102712,2,2,3.5,"English Barleywine",3,2,"Young's Old Nick Barley Wine Ale",7.2,1441
-"225",152,"Young & Co Brewery PLC",1070773250,3,3,4.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"226",152,"Young & Co Brewery PLC",1070506324,4,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"227",152,"Young & Co Brewery PLC",1070218716,3,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"228",152,"Young & Co Brewery PLC",1069992495,4,4,4,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"229",152,"Young & Co Brewery PLC",1068001918,4.5,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"230",152,"Young & Co Brewery PLC",1067823906,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"231",152,"Young & Co Brewery PLC",1067110961,3.5,4.5,5,"English Barleywine",4.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"232",152,"Young & Co Brewery PLC",1066942355,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"233",152,"Young & Co Brewery PLC",1066695778,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"234",152,"Young & Co Brewery PLC",1065412420,3.5,3.5,3,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"235",152,"Young & Co Brewery PLC",1060999325,4.5,4.5,4.5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"236",152,"Young & Co Brewery PLC",1060636324,3,3.5,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"237",152,"Young & Co Brewery PLC",1059493340,3.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"238",152,"Young & Co Brewery PLC",1059001121,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"239",152,"Young & Co Brewery PLC",1058285358,3,3,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"240",152,"Young & Co Brewery PLC",1057735473,4,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"241",152,"Young & Co Brewery PLC",1055607931,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"242",152,"Young & Co Brewery PLC",1206996943,4.5,4.5,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"243",152,"Young & Co Brewery PLC",1205974017,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"244",152,"Young & Co Brewery PLC",1205207670,3.5,4,4,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"245",152,"Young & Co Brewery PLC",1204945185,4,2.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"246",152,"Young & Co Brewery PLC",1204673498,3.5,4,3.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"247",152,"Young & Co Brewery PLC",1203647907,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"248",152,"Young & Co Brewery PLC",1202789401,4.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"249",152,"Young & Co Brewery PLC",1202446998,4,4,4,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"250",152,"Young & Co Brewery PLC",1202260904,4,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"251",152,"Young & Co Brewery PLC",1201963601,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"252",152,"Young & Co Brewery PLC",1055373102,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"253",152,"Young & Co Brewery PLC",1055140495,4,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"254",152,"Young & Co Brewery PLC",1054977101,4,4.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"255",152,"Young & Co Brewery PLC",1054637749,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"256",152,"Young & Co Brewery PLC",1053879222,2.5,4,3.5,"English Barleywine",3.5,2,"Young's Old Nick Barley Wine Ale",7.2,1441
-"257",152,"Young & Co Brewery PLC",1053197545,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"258",152,"Young & Co Brewery PLC",1053111081,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"259",152,"Young & Co Brewery PLC",1052840500,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"260",152,"Young & Co Brewery PLC",1052374555,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"261",152,"Young & Co Brewery PLC",1049429876,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"262",152,"Young & Co Brewery PLC",1049192424,4.5,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"263",152,"Young & Co Brewery PLC",1047725296,4.5,3.5,4.5,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"264",152,"Young & Co Brewery PLC",1047678205,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"265",152,"Young & Co Brewery PLC",1047386741,4.5,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"266",152,"Young & Co Brewery PLC",1046611713,4,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"267",152,"Young & Co Brewery PLC",1046548055,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"268",152,"Young & Co Brewery PLC",1046115276,3,4.5,4.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"269",152,"Young & Co Brewery PLC",1045844312,3.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"270",152,"Young & Co Brewery PLC",1189738865,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"271",152,"Young & Co Brewery PLC",1044800245,2.5,3,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"272",152,"Young & Co Brewery PLC",1044648287,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"273",152,"Young & Co Brewery PLC",1044462165,4.5,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"274",152,"Young & Co Brewery PLC",1043862046,3,3.5,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"275",152,"Young & Co Brewery PLC",1042364636,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"276",152,"Young & Co Brewery PLC",1042136890,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"277",152,"Young & Co Brewery PLC",1041767450,3,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"278",152,"Young & Co Brewery PLC",1041627196,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"279",152,"Young & Co Brewery PLC",1040895740,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"280",152,"Young & Co Brewery PLC",1039801487,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"281",152,"Young & Co Brewery PLC",1039722946,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"282",152,"Young & Co Brewery PLC",1189720158,3.5,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"283",152,"Young & Co Brewery PLC",1039598442,4.5,4.5,5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"284",152,"Young & Co Brewery PLC",1039216159,4.5,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"285",152,"Young & Co Brewery PLC",1039071292,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"286",152,"Young & Co Brewery PLC",1038577210,3,3,3.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"287",152,"Young & Co Brewery PLC",1038376127,4,4,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"288",152,"Young & Co Brewery PLC",1037914287,4.5,3.5,5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"289",152,"Young & Co Brewery PLC",1036576492,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"290",152,"Young & Co Brewery PLC",1036019434,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"291",152,"Young & Co Brewery PLC",1035361167,4,3.5,3.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"292",152,"Young & Co Brewery PLC",1034198864,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"293",152,"Young & Co Brewery PLC",1032552448,5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"294",152,"Young & Co Brewery PLC",1032374597,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"295",152,"Young & Co Brewery PLC",1030877367,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"296",152,"Young & Co Brewery PLC",1029794319,4,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"297",152,"Young & Co Brewery PLC",1029775356,3.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"298",152,"Young & Co Brewery PLC",1027448212,3.5,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"299",152,"Young & Co Brewery PLC",1026937718,4,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"300",152,"Young & Co Brewery PLC",1026631043,3,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"301",152,"Young & Co Brewery PLC",1025997106,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"302",152,"Young & Co Brewery PLC",1025120439,3,3,4.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"303",152,"Young & Co Brewery PLC",1024300331,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"304",152,"Young & Co Brewery PLC",1024175316,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"305",152,"Young & Co Brewery PLC",1189030353,4.5,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"306",152,"Young & Co Brewery PLC",1024089120,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"307",152,"Young & Co Brewery PLC",1023639726,4,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"308",152,"Young & Co Brewery PLC",1022013671,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"309",152,"Young & Co Brewery PLC",1021469701,3.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"310",152,"Young & Co Brewery PLC",1021399943,2.5,2.5,2.5,"English Barleywine",2.5,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"311",152,"Young & Co Brewery PLC",1019755514,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"312",152,"Young & Co Brewery PLC",1019471497,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"313",152,"Young & Co Brewery PLC",1018073378,5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"314",152,"Young & Co Brewery PLC",1014978349,4,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"315",152,"Young & Co Brewery PLC",1012828647,4.5,4.5,4,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"316",152,"Young & Co Brewery PLC",1007894418,5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"317",152,"Young & Co Brewery PLC",1007412100,5,4,4,"English Barleywine",4,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"318",152,"Young & Co Brewery PLC",1201053735,5,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"319",152,"Young & Co Brewery PLC",1200616220,2.5,3.5,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"320",152,"Young & Co Brewery PLC",1198957431,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"321",152,"Young & Co Brewery PLC",1196901968,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"322",152,"Young & Co Brewery PLC",1193619754,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"323",152,"Young & Co Brewery PLC",1192407777,5,4,4.5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"324",152,"Young & Co Brewery PLC",1192145183,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"325",152,"Young & Co Brewery PLC",1191727717,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"326",152,"Young & Co Brewery PLC",1189807730,4,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"327",152,"Young & Co Brewery PLC",1188604537,3.5,3,3.5,"English Barleywine",3,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"328",152,"Young & Co Brewery PLC",1188100569,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"329",152,"Young & Co Brewery PLC",1187665673,4,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"330",152,"Young & Co Brewery PLC",1187038292,4,4,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"331",152,"Young & Co Brewery PLC",1184599603,4.5,4.5,3.5,"English Barleywine",4.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"332",152,"Young & Co Brewery PLC",1184477477,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"333",152,"Young & Co Brewery PLC",1183904570,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"334",152,"Young & Co Brewery PLC",1183403396,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"335",152,"Young & Co Brewery PLC",1182573633,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"336",152,"Young & Co Brewery PLC",1181954955,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"337",152,"Young & Co Brewery PLC",1180148732,4.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"338",152,"Young & Co Brewery PLC",1179882908,3.5,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"339",152,"Young & Co Brewery PLC",1179612383,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"340",152,"Young & Co Brewery PLC",1179199618,4,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"341",152,"Young & Co Brewery PLC",1178924810,5,3,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"342",152,"Young & Co Brewery PLC",1178691935,3.5,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"343",152,"Young & Co Brewery PLC",1177372497,4.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"344",152,"Young & Co Brewery PLC",1171992870,3.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"345",152,"Young & Co Brewery PLC",1176271096,3.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"346",152,"Young & Co Brewery PLC",1175484331,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"347",152,"Young & Co Brewery PLC",1174623422,3,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"348",152,"Young & Co Brewery PLC",1174341318,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"349",152,"Young & Co Brewery PLC",1174273475,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"350",152,"Young & Co Brewery PLC",1173992156,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"351",152,"Young & Co Brewery PLC",1173455437,3.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"352",152,"Young & Co Brewery PLC",1173407604,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"353",152,"Young & Co Brewery PLC",1173405498,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"354",152,"Young & Co Brewery PLC",1173244270,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"355",152,"Young & Co Brewery PLC",1173026457,3.5,4,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"356",152,"Young & Co Brewery PLC",1172895608,4,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"357",152,"Young & Co Brewery PLC",1172210012,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"358",152,"Young & Co Brewery PLC",1172016833,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"359",152,"Young & Co Brewery PLC",1168229861,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"360",152,"Young & Co Brewery PLC",1171682832,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"361",152,"Young & Co Brewery PLC",1171421121,4,3,2,"English Barleywine",2,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"362",152,"Young & Co Brewery PLC",1171340233,3.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"363",152,"Young & Co Brewery PLC",1171075274,2.5,2,4.5,"English Barleywine",4,2,"Young's Old Nick Barley Wine Ale",7.2,1441
-"364",152,"Young & Co Brewery PLC",1170716806,5,4.5,5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"365",152,"Young & Co Brewery PLC",1170576455,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"366",152,"Young & Co Brewery PLC",1169013364,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"367",152,"Young & Co Brewery PLC",1168998142,4,3.5,4,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
-"368",152,"Young & Co Brewery PLC",1167613493,4,2,4,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"369",152,"Young & Co Brewery PLC",1166581905,4,3,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"370",152,"Young & Co Brewery PLC",1166493876,3,3,4,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"371",152,"Young & Co Brewery PLC",1165703623,4,4,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"372",152,"Young & Co Brewery PLC",1164948692,3.5,4,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"373",152,"Young & Co Brewery PLC",1163889752,4,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"374",152,"Young & Co Brewery PLC",1163422217,4,4.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"375",152,"Young & Co Brewery PLC",1109252463,4,2.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"376",152,"Young & Co Brewery PLC",1162610126,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"377",152,"Young & Co Brewery PLC",1161647765,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"378",152,"Young & Co Brewery PLC",1161473240,4,3,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"379",152,"Young & Co Brewery PLC",1161443022,4,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"380",152,"Young & Co Brewery PLC",1160786839,4,3.5,4.5,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"381",152,"Young & Co Brewery PLC",1160712192,3.5,2.5,2.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"382",152,"Young & Co Brewery PLC",1160678414,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
-"383",152,"Young & Co Brewery PLC",1160638194,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"384",152,"Young & Co Brewery PLC",1108896529,3,2.5,3.5,"English Bitter",3.5,2,"Young's Dirty Dick's Ale",5.2,725
-"385",152,"Young & Co Brewery PLC",1159828629,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"386",152,"Young & Co Brewery PLC",1159666182,4,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
-"387",152,"Young & Co Brewery PLC",1102364988,3,3,3.5,"English Pale Ale",3.5,3.5,"Young's Triple 'A'",4,4078
-"388",152,"Young & Co Brewery PLC",1051504474,5,3,2.5,"English Pale Ale",3.5,3,"Young's Triple 'A'",4,4078
-"389",152,"Young & Co Brewery PLC",1023714231,4,3.5,4,"English Pale Ale",3.5,3.5,"Young's Triple 'A'",4,4078
-"390",152,"Young & Co Brewery PLC",1180498282,4.5,4,4,"English Pale Ale",4.5,4.5,"Young's Champion Live Beer",5,14408
-"391",152,"Young & Co Brewery PLC",1170709859,4,2.5,3,"English Pale Ale",3,3.5,"Young's Champion Live Beer",5,14408
-"392",152,"Young & Co Brewery PLC",1152205899,3.5,3,4,"English Pale Ale",2.5,3,"Young's Champion Live Beer",5,14408
-"393",152,"Young & Co Brewery PLC",1148843411,4,4,3,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
-"394",152,"Young & Co Brewery PLC",1148726718,4,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's Champion Live Beer",5,14408
-"395",152,"Young & Co Brewery PLC",1116113518,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"396",152,"Young & Co Brewery PLC",1113747772,3.5,3.5,3,"English Pale Ale",3,3.5,"Young's Champion Live Beer",5,14408
-"397",152,"Young & Co Brewery PLC",1112440140,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Young's Champion Live Beer",5,14408
-"398",152,"Young & Co Brewery PLC",1092922826,3,2.5,2,"English Pale Ale",3,3,"Young's Champion Live Beer",5,14408
-"399",152,"Young & Co Brewery PLC",1087857609,3,3,3,"English Pale Ale",3.5,3,"Young's Champion Live Beer",5,14408
-"400",152,"Young & Co Brewery PLC",1080934277,4,4,4.5,"English Pale Ale",4,4,"Young's Champion Live Beer",5,14408
-"401",152,"Young & Co Brewery PLC",1076272450,4.5,3.5,3,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
-"402",152,"Young & Co Brewery PLC",1069798425,4,4,4,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
-"403",152,"Young & Co Brewery PLC",1124152692,5,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"404",152,"Young & Co Brewery PLC",1123803991,3.5,4,4,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
-"405",152,"Young & Co Brewery PLC",1123370788,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"406",152,"Young & Co Brewery PLC",1118901761,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"407",152,"Young & Co Brewery PLC",1115919680,4,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"408",152,"Young & Co Brewery PLC",1115867902,5,3.5,4,"English Bitter",4,5,"Young's Dirty Dick's Ale",5.2,725
-"409",152,"Young & Co Brewery PLC",1114237743,3.5,3,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"410",152,"Young & Co Brewery PLC",1114060467,4.5,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"411",152,"Young & Co Brewery PLC",1113360601,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"412",152,"Young & Co Brewery PLC",1113260251,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"413",152,"Young & Co Brewery PLC",1112532719,4,3,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"414",152,"Young & Co Brewery PLC",1111716381,4,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"415",152,"Young & Co Brewery PLC",1110854718,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"416",152,"Young & Co Brewery PLC",1109657067,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"417",152,"Young & Co Brewery PLC",1108429943,3.5,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"418",152,"Young & Co Brewery PLC",1107701965,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"419",152,"Young & Co Brewery PLC",1107133615,5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"420",152,"Young & Co Brewery PLC",1107054127,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"421",152,"Young & Co Brewery PLC",1106965532,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"422",152,"Young & Co Brewery PLC",1105313656,3,3.5,3.5,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
-"423",152,"Young & Co Brewery PLC",1105072053,4,4.5,4.5,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
-"424",152,"Young & Co Brewery PLC",1104273167,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"425",152,"Young & Co Brewery PLC",1103407734,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"426",152,"Young & Co Brewery PLC",1102041194,2,3,4,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
-"427",152,"Young & Co Brewery PLC",1093445336,3,3,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"428",152,"Young & Co Brewery PLC",1091755225,4,3,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"429",152,"Young & Co Brewery PLC",1101849980,3.5,2.5,3.5,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
-"430",152,"Young & Co Brewery PLC",1101330366,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"431",152,"Young & Co Brewery PLC",1099319161,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"432",152,"Young & Co Brewery PLC",1097801663,5,4,4,"English Bitter",4.5,5,"Young's Dirty Dick's Ale",5.2,725
-"433",152,"Young & Co Brewery PLC",1097390680,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"434",152,"Young & Co Brewery PLC",1096757895,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"435",152,"Young & Co Brewery PLC",1096157708,4,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"436",152,"Young & Co Brewery PLC",1095992247,3,2.5,4,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
-"437",152,"Young & Co Brewery PLC",1095717426,4,3.5,3.5,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
-"438",152,"Young & Co Brewery PLC",1094104534,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"439",152,"Young & Co Brewery PLC",1093723758,3.5,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"440",152,"Young & Co Brewery PLC",1088305985,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"441",152,"Young & Co Brewery PLC",1087566865,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"442",152,"Young & Co Brewery PLC",1085708681,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"443",152,"Young & Co Brewery PLC",1084916050,3,2,3,"English Bitter",2.5,2,"Young's Dirty Dick's Ale",5.2,725
-"444",152,"Young & Co Brewery PLC",1083893059,2.5,3,4,"English Bitter",2.5,2.5,"Young's Dirty Dick's Ale",5.2,725
-"445",152,"Young & Co Brewery PLC",1083166229,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"446",152,"Young & Co Brewery PLC",1081734555,4,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"447",152,"Young & Co Brewery PLC",1081476217,4,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"448",152,"Young & Co Brewery PLC",1081382957,4.5,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"449",152,"Young & Co Brewery PLC",1081214947,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"450",152,"Young & Co Brewery PLC",1080070496,3.5,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"451",152,"Young & Co Brewery PLC",1156812011,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"452",152,"Young & Co Brewery PLC",1079292486,3.5,3.5,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
-"453",152,"Young & Co Brewery PLC",1077563847,3.5,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"454",152,"Young & Co Brewery PLC",1076687976,3.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"455",152,"Young & Co Brewery PLC",1076513212,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"456",152,"Young & Co Brewery PLC",1076372233,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"457",152,"Young & Co Brewery PLC",1075684619,4,3,4,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
-"458",152,"Young & Co Brewery PLC",1075254442,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"459",152,"Young & Co Brewery PLC",1075124187,3.5,3,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"460",152,"Young & Co Brewery PLC",1070935052,4,3,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"461",152,"Young & Co Brewery PLC",1069152905,4.5,3.5,3.5,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
-"462",152,"Young & Co Brewery PLC",1069091459,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"463",152,"Young & Co Brewery PLC",1066996122,3,3,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"464",152,"Young & Co Brewery PLC",1062518028,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"465",152,"Young & Co Brewery PLC",1065587637,4.5,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"466",152,"Young & Co Brewery PLC",1065544911,4.5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"467",152,"Young & Co Brewery PLC",1065412295,3,3,4,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
-"468",152,"Young & Co Brewery PLC",1065054131,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"469",152,"Young & Co Brewery PLC",1064412911,3.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"470",152,"Young & Co Brewery PLC",1063731997,4.5,3.5,3,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"471",152,"Young & Co Brewery PLC",1063507076,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"472",152,"Young & Co Brewery PLC",1062636432,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"473",152,"Young & Co Brewery PLC",1062521002,4,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"474",152,"Young & Co Brewery PLC",1061065749,4,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"475",152,"Young & Co Brewery PLC",1060027951,4,3.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"476",152,"Young & Co Brewery PLC",1059310464,4.5,3,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
-"477",152,"Young & Co Brewery PLC",1058317055,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"478",152,"Young & Co Brewery PLC",1057852486,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"479",152,"Young & Co Brewery PLC",1057566056,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"480",152,"Young & Co Brewery PLC",1056619143,3.5,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"481",152,"Young & Co Brewery PLC",1055956443,3.5,2.5,4,"English Bitter",3,2.5,"Young's Dirty Dick's Ale",5.2,725
-"482",152,"Young & Co Brewery PLC",1055071019,4.5,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"483",152,"Young & Co Brewery PLC",1052682243,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"484",152,"Young & Co Brewery PLC",1052153656,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"485",152,"Young & Co Brewery PLC",1051698332,4,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"486",152,"Young & Co Brewery PLC",1051346054,3,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"487",152,"Young & Co Brewery PLC",1049902118,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"488",152,"Young & Co Brewery PLC",1049479733,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"489",152,"Young & Co Brewery PLC",1049174726,3.5,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"490",152,"Young & Co Brewery PLC",1048229624,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"491",152,"Young & Co Brewery PLC",1047856573,3,3,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"492",152,"Young & Co Brewery PLC",1047154273,3,3,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"493",152,"Young & Co Brewery PLC",1046755279,4.5,3.5,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"494",152,"Young & Co Brewery PLC",1046068815,2,2,2,"English Bitter",2,2,"Young's Dirty Dick's Ale",5.2,725
-"495",152,"Young & Co Brewery PLC",1044882047,4,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"496",152,"Young & Co Brewery PLC",1044802118,4,3,3.5,"English Bitter",4,3,"Young's Dirty Dick's Ale",5.2,725
-"497",152,"Young & Co Brewery PLC",1041710422,4,2.5,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"498",152,"Young & Co Brewery PLC",1041621914,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"499",152,"Young & Co Brewery PLC",1037619698,3.5,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"500",152,"Young & Co Brewery PLC",1221627740,3,2.5,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
-"501",152,"Young & Co Brewery PLC",1221007426,4.5,4,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"502",152,"Young & Co Brewery PLC",1217536242,3.5,3,3,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"503",152,"Young & Co Brewery PLC",1209320144,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"504",152,"Young & Co Brewery PLC",1203709448,4,4.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"505",152,"Young & Co Brewery PLC",1194140892,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"506",152,"Young & Co Brewery PLC",1193510726,5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"507",152,"Young & Co Brewery PLC",1190416134,3.5,4,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"508",152,"Young & Co Brewery PLC",1017537393,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"509",152,"Young & Co Brewery PLC",1190415548,4,4,3.5,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"510",152,"Young & Co Brewery PLC",1188507556,4.5,3.5,4,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"511",152,"Young & Co Brewery PLC",1032465813,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"512",152,"Young & Co Brewery PLC",1030348329,4,3.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"513",152,"Young & Co Brewery PLC",1030347132,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"514",152,"Young & Co Brewery PLC",1029312286,3,3,4,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"515",152,"Young & Co Brewery PLC",1028460144,4.5,4.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"516",152,"Young & Co Brewery PLC",1026717399,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"517",152,"Young & Co Brewery PLC",1026549696,4,3.5,4.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"518",152,"Young & Co Brewery PLC",1023202918,5,4,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"519",152,"Young & Co Brewery PLC",1021290333,4.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"520",152,"Young & Co Brewery PLC",1019200128,4,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"521",152,"Young & Co Brewery PLC",1018385350,5,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"522",152,"Young & Co Brewery PLC",1015886552,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"523",152,"Young & Co Brewery PLC",994877200,3,3,3,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
-"524",152,"Young & Co Brewery PLC",979481223,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"525",152,"Young & Co Brewery PLC",1186761613,4,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"526",152,"Young & Co Brewery PLC",1183159075,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"527",152,"Young & Co Brewery PLC",1181963220,5,3,5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"528",152,"Young & Co Brewery PLC",1181608408,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"529",152,"Young & Co Brewery PLC",1179623691,4,3,4.5,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"530",152,"Young & Co Brewery PLC",1175993776,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"531",152,"Young & Co Brewery PLC",1172939286,4,4,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"532",152,"Young & Co Brewery PLC",1172299847,4,4,4,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"533",152,"Young & Co Brewery PLC",1171854266,3.5,3.5,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"534",152,"Young & Co Brewery PLC",1171514224,3.5,3.5,3,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"535",152,"Young & Co Brewery PLC",1171173519,4.5,3.5,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"536",152,"Young & Co Brewery PLC",1171073637,4,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"537",152,"Young & Co Brewery PLC",1170519760,4.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"538",152,"Young & Co Brewery PLC",1170379041,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"539",152,"Young & Co Brewery PLC",1169866676,4.5,4,4,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
-"540",152,"Young & Co Brewery PLC",1169678069,4,4,4,"English Bitter",3.5,4.5,"Young's Dirty Dick's Ale",5.2,725
-"541",152,"Young & Co Brewery PLC",1169584234,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"542",152,"Young & Co Brewery PLC",1166312740,4,4,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"543",152,"Young & Co Brewery PLC",1164726887,4,4.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"544",152,"Young & Co Brewery PLC",1164071341,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"545",152,"Young & Co Brewery PLC",1163919414,3.5,4,3,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"546",152,"Young & Co Brewery PLC",1163264554,4,3.5,4,"English Bitter",5,4,"Young's Dirty Dick's Ale",5.2,725
-"547",152,"Young & Co Brewery PLC",1160538016,3.5,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"548",152,"Young & Co Brewery PLC",1160441520,4,4,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"549",152,"Young & Co Brewery PLC",1158895914,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"550",152,"Young & Co Brewery PLC",1157906767,4.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"551",152,"Young & Co Brewery PLC",1157594672,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"552",152,"Young & Co Brewery PLC",1156713787,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"553",152,"Young & Co Brewery PLC",1156347756,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"554",152,"Young & Co Brewery PLC",1156010486,3.5,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"555",152,"Young & Co Brewery PLC",1155773523,4,2.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"556",152,"Young & Co Brewery PLC",1155171243,3.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"557",152,"Young & Co Brewery PLC",1154052169,4,4.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"558",152,"Young & Co Brewery PLC",1154045738,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"559",152,"Young & Co Brewery PLC",1153959916,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"560",152,"Young & Co Brewery PLC",1153367114,3,3,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"561",152,"Young & Co Brewery PLC",1152746366,4,3,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"562",152,"Young & Co Brewery PLC",1151683096,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"563",152,"Young & Co Brewery PLC",1151624250,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"564",152,"Young & Co Brewery PLC",1151554981,4.5,3.5,3,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"565",152,"Young & Co Brewery PLC",1150479565,3.5,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"566",152,"Young & Co Brewery PLC",1148949106,3.5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"567",152,"Young & Co Brewery PLC",1148872702,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"568",152,"Young & Co Brewery PLC",1147828451,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"569",152,"Young & Co Brewery PLC",1147482796,4,3,3.5,"English Bitter",4,3,"Young's Dirty Dick's Ale",5.2,725
-"570",152,"Young & Co Brewery PLC",1146541334,5,3.5,3.5,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
-"571",152,"Young & Co Brewery PLC",1145609543,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"572",152,"Young & Co Brewery PLC",1145320889,5,4.5,4.5,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
-"573",152,"Young & Co Brewery PLC",1143901018,3,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"574",152,"Young & Co Brewery PLC",1139394738,3.5,2.5,3,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"575",152,"Young & Co Brewery PLC",1143875973,3,2.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"576",152,"Young & Co Brewery PLC",1143279037,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"577",152,"Young & Co Brewery PLC",1142638245,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
-"578",152,"Young & Co Brewery PLC",1142638240,4.5,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"579",152,"Young & Co Brewery PLC",1142258711,5,3,5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"580",152,"Young & Co Brewery PLC",1140969418,4,3,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"581",152,"Young & Co Brewery PLC",1140830029,3.5,4.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"582",152,"Young & Co Brewery PLC",1140765716,3,2.5,4.5,"English Bitter",5,3,"Young's Dirty Dick's Ale",5.2,725
-"583",152,"Young & Co Brewery PLC",1140313884,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"584",152,"Young & Co Brewery PLC",1139639399,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"585",152,"Young & Co Brewery PLC",1139113602,4,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"586",152,"Young & Co Brewery PLC",1138813868,3.5,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"587",152,"Young & Co Brewery PLC",1138755816,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"588",152,"Young & Co Brewery PLC",1138416903,3,2.5,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"589",152,"Young & Co Brewery PLC",1137511266,5,3,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
-"590",152,"Young & Co Brewery PLC",1137341422,4,2.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"591",152,"Young & Co Brewery PLC",1137276008,3.5,3.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
-"592",152,"Young & Co Brewery PLC",1135920428,3.5,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"593",152,"Young & Co Brewery PLC",1135381528,4,3.5,4.5,"English Bitter",4.5,4,"Young's Dirty Dick's Ale",5.2,725
-"594",152,"Young & Co Brewery PLC",1134515496,4,3,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"595",152,"Young & Co Brewery PLC",1133930131,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
-"596",152,"Young & Co Brewery PLC",1133056417,4.5,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"597",152,"Young & Co Brewery PLC",1132409120,3.5,3,3,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
-"598",152,"Young & Co Brewery PLC",1130274449,4,4,4.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"599",152,"Young & Co Brewery PLC",1128560758,3,3,3,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
-"600",152,"Young & Co Brewery PLC",1127624258,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"601",152,"Young & Co Brewery PLC",1125530764,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"602",152,"Young & Co Brewery PLC",1124931554,3,2.5,4,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
-"603",152,"Young & Co Brewery PLC",1124252374,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
-"604",152,"Young & Co Brewery PLC",1017541926,4,4,4.5,"Belgian Pale Ale",3.5,3.5,"Acclaim Champion Beer",4,3235
-"605",152,"Young & Co Brewery PLC",1123823736,4.5,3.5,4.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"606",152,"Young & Co Brewery PLC",1123397458,4.5,4,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"607",152,"Young & Co Brewery PLC",1123291673,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"608",152,"Young & Co Brewery PLC",1123227024,4.5,4,3.5,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
-"609",152,"Young & Co Brewery PLC",1121637880,5,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"610",152,"Young & Co Brewery PLC",1120491989,4,3.5,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"611",152,"Young & Co Brewery PLC",1120089986,4,3.5,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"612",152,"Young & Co Brewery PLC",1119083107,4.5,3.5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"613",152,"Young & Co Brewery PLC",1114088386,3.5,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"614",152,"Young & Co Brewery PLC",1112406616,3.5,3.5,4,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
-"615",152,"Young & Co Brewery PLC",1080769218,4,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"616",152,"Young & Co Brewery PLC",1041975228,4.5,4,4.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"617",152,"Young & Co Brewery PLC",1229455848,3,3,2.5,"English Pale Ale",2.5,2.5,"Young's St. George's Ale",4.3,7901
-"618",152,"Young & Co Brewery PLC",1217957267,3,2.5,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"619",152,"Young & Co Brewery PLC",1212616807,3,3.5,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"620",152,"Young & Co Brewery PLC",1209146179,4.5,3.5,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"621",152,"Young & Co Brewery PLC",1207513625,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"622",152,"Young & Co Brewery PLC",1207103017,3.5,3,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"623",152,"Young & Co Brewery PLC",1207101155,3.5,4,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"624",152,"Young & Co Brewery PLC",1205717962,4.5,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"625",152,"Young & Co Brewery PLC",1205112648,3,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"626",152,"Young & Co Brewery PLC",1202069985,3.5,3.5,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
-"627",152,"Young & Co Brewery PLC",1199686464,3,5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"628",152,"Young & Co Brewery PLC",1195866132,4.5,3.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"629",152,"Young & Co Brewery PLC",1195457091,3.5,4,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"630",152,"Young & Co Brewery PLC",1193094351,4.5,4,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"631",152,"Young & Co Brewery PLC",1191990643,4.5,4,3.5,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
-"632",152,"Young & Co Brewery PLC",1190117612,4,4,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"633",152,"Young & Co Brewery PLC",1186443499,4.5,4.5,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
-"634",152,"Young & Co Brewery PLC",1186264175,4,4.5,4.5,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
-"635",152,"Young & Co Brewery PLC",1180273179,3,4,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"636",152,"Young & Co Brewery PLC",1178161101,4,3,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"637",152,"Young & Co Brewery PLC",1177177704,4,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"638",152,"Young & Co Brewery PLC",1177011118,4.5,4,4.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"639",152,"Young & Co Brewery PLC",1176360027,5,3.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"640",152,"Young & Co Brewery PLC",1176268225,3.5,3,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"641",152,"Young & Co Brewery PLC",1176258921,4.5,3,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"642",152,"Young & Co Brewery PLC",1174103552,4,2.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"643",152,"Young & Co Brewery PLC",1173070795,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"644",152,"Young & Co Brewery PLC",1169963163,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"645",152,"Young & Co Brewery PLC",1167417553,2.5,3,3.5,"English Pale Ale",2.5,3,"Young's St. George's Ale",4.3,7901
-"646",152,"Young & Co Brewery PLC",1166669571,3,2.5,3.5,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
-"647",152,"Young & Co Brewery PLC",1165805044,4.5,3,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"648",152,"Young & Co Brewery PLC",1165774319,5,3,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
-"649",152,"Young & Co Brewery PLC",1165709058,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"650",152,"Young & Co Brewery PLC",1165295975,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"651",152,"Young & Co Brewery PLC",1164743318,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"652",152,"Young & Co Brewery PLC",1162356487,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"653",152,"Young & Co Brewery PLC",1162337854,3.5,2,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"654",152,"Young & Co Brewery PLC",1162163776,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"655",152,"Young & Co Brewery PLC",1161666937,4,4.5,4.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"656",152,"Young & Co Brewery PLC",1160617134,5,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"657",152,"Young & Co Brewery PLC",1160336302,3.5,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"658",152,"Young & Co Brewery PLC",1159413937,4.5,4,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
-"659",152,"Young & Co Brewery PLC",1158381095,3.5,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"660",152,"Young & Co Brewery PLC",1158018963,4,4,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"661",152,"Young & Co Brewery PLC",1156991430,3.5,3,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
-"662",152,"Young & Co Brewery PLC",1155683864,4,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"663",152,"Young & Co Brewery PLC",1153271386,3.5,3,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"664",152,"Young & Co Brewery PLC",1153016213,4,4,2.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"665",152,"Young & Co Brewery PLC",1151600983,5,3.5,3.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"666",152,"Young & Co Brewery PLC",1151455176,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"667",152,"Young & Co Brewery PLC",1150772850,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"668",152,"Young & Co Brewery PLC",1150582562,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"669",152,"Young & Co Brewery PLC",1150426544,4,4,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"670",152,"Young & Co Brewery PLC",1150077065,4,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"671",152,"Young & Co Brewery PLC",1149608435,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"672",152,"Young & Co Brewery PLC",1149200378,3.5,4,4,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
-"673",152,"Young & Co Brewery PLC",1147964926,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"674",152,"Young & Co Brewery PLC",1147705650,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"675",152,"Young & Co Brewery PLC",1147397570,4.5,4.5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"676",152,"Young & Co Brewery PLC",1146428353,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"677",152,"Young & Co Brewery PLC",1145884921,4.5,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"678",152,"Young & Co Brewery PLC",1145687167,3,3.5,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"679",152,"Young & Co Brewery PLC",1145594071,3.5,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"680",152,"Young & Co Brewery PLC",1145146746,3.5,3,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
-"681",152,"Young & Co Brewery PLC",1144713077,4,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"682",152,"Young & Co Brewery PLC",1143399390,4.5,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"683",152,"Young & Co Brewery PLC",1143080696,3.5,2,3,"English Pale Ale",3,4,"Young's St. George's Ale",4.3,7901
-"684",152,"Young & Co Brewery PLC",1140972221,4,3,3,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"685",152,"Young & Co Brewery PLC",1140480649,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"686",152,"Young & Co Brewery PLC",1139132688,3,3.5,3.5,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
-"687",152,"Young & Co Brewery PLC",1136166707,4.5,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"688",152,"Young & Co Brewery PLC",1133156822,4,4,4,"English Pale Ale",2,2,"Young's St. George's Ale",4.3,7901
-"689",152,"Young & Co Brewery PLC",1132815244,4.5,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"690",152,"Young & Co Brewery PLC",1132806072,4.5,3,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
-"691",152,"Young & Co Brewery PLC",1131825234,4.5,4.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"692",152,"Young & Co Brewery PLC",1131415598,4,3.5,3.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"693",152,"Young & Co Brewery PLC",1131163225,4.5,3.5,3.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
-"694",152,"Young & Co Brewery PLC",1129685386,5,4,4.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
-"695",152,"Young & Co Brewery PLC",1129685178,4,4,3,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"696",152,"Young & Co Brewery PLC",1128992790,3,3.5,4,"English Pale Ale",2.5,3,"Young's St. George's Ale",4.3,7901
-"697",152,"Young & Co Brewery PLC",1128900965,3,3,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
-"698",152,"Young & Co Brewery PLC",1128650267,4.5,4,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"699",152,"Young & Co Brewery PLC",1128649599,4.5,3,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"700",152,"Young & Co Brewery PLC",1128286768,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"701",152,"Young & Co Brewery PLC",1127521725,4,4.5,4.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
-"702",152,"Young & Co Brewery PLC",1127452804,3,3.5,4,"English Pale Ale",3.5,2.5,"Young's St. George's Ale",4.3,7901
-"703",152,"Young & Co Brewery PLC",1127417434,4.5,3.5,3.5,"English Pale Ale",4.5,3.5,"Young's St. George's Ale",4.3,7901
-"704",152,"Young & Co Brewery PLC",1126213611,4,3.5,4,"English Pale Ale",4,3,"Young's St. George's Ale",4.3,7901
-"705",152,"Young & Co Brewery PLC",1125510855,4,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
-"706",152,"Young & Co Brewery PLC",1124126762,4.5,4.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
-"707",152,"Young & Co Brewery PLC",1119210313,3,4,3.5,"English Pale Ale",3,3,"Lords",4,10557
-"708",152,"Young & Co Brewery PLC",1089636181,4.5,3.5,4,"English Pale Ale",3.5,4,"Lords",4,10557
-"709",152,"Young & Co Brewery PLC",1087562137,2,2,1.5,"English Pale Ale",2,2.5,"Lords",4,10557
-"710",152,"Young & Co Brewery PLC",1068336695,5,3,3,"English Pale Ale",3.5,3.5,"Lords",4,10557
-"711",152,"Young & Co Brewery PLC",1056241842,4,3.5,3.5,"English Pale Ale",3.5,4,"Lords",4,10557
-"712",152,"Young & Co Brewery PLC",1198775347,3.5,3.5,4,"English Bitter",3,3.5,"Young's Christmas Ale",5,20948
-"713",152,"Young & Co Brewery PLC",1160944406,3.5,4,3.5,"English Bitter",4,4,"Young's Christmas Ale",5,20948
-"714",152,"Young & Co Brewery PLC",1135539620,3.5,4,4,"English Bitter",3.5,4,"Young's Christmas Ale",5,20948
-"715",152,"Young & Co Brewery PLC",1103858446,4.5,5,4.5,"English Bitter",4,4.5,"Young's Christmas Ale",5,20948
+"1",152,"Young & Co Brewery PLC",1080510651,3.5,3.5,5,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"2",152,"Young & Co Brewery PLC",1072508547,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"3",152,"Young & Co Brewery PLC",1089666642,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"4",152,"Young & Co Brewery PLC",1058081346,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"5",152,"Young & Co Brewery PLC",1004139886,3,3,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"6",152,"Young & Co Brewery PLC",1003315501,4,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"7",152,"Young & Co Brewery PLC",1071677841,4,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"8",152,"Young & Co Brewery PLC",1138652280,4,4,4.5,"English Bitter",2.5,4,"Young's Christmas Ale",5,20948
+"9",152,"Young & Co Brewery PLC",1174851245,3,3.5,3.5,"Extra Special / Strong Bitter (ESB)",4,3.5,"Ruby Star",5.5,33750
+"10",152,"Young & Co Brewery PLC",1171821148,4,3,3,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
+"11",152,"Young & Co Brewery PLC",1169522698,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
+"12",152,"Young & Co Brewery PLC",1163711923,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
+"13",152,"Young & Co Brewery PLC",1163524104,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4,"Ruby Star",5.5,33750
+"14",152,"Young & Co Brewery PLC",1159232951,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"15",152,"Young & Co Brewery PLC",1158308431,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"16",152,"Young & Co Brewery PLC",1158001079,3.5,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"17",152,"Young & Co Brewery PLC",1157866290,4,4.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"18",152,"Young & Co Brewery PLC",1108926395,4.5,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"19",152,"Young & Co Brewery PLC",1156792897,3,4,4.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"20",152,"Young & Co Brewery PLC",1156283425,4,4,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"21",152,"Young & Co Brewery PLC",1156206551,3,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"22",152,"Young & Co Brewery PLC",1155958567,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"23",152,"Young & Co Brewery PLC",1155675374,3.5,4,4.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"24",152,"Young & Co Brewery PLC",1155613320,4,4.5,3.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"25",152,"Young & Co Brewery PLC",1155311562,5,5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"26",152,"Young & Co Brewery PLC",1155244381,4.5,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"27",152,"Young & Co Brewery PLC",1155088359,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"28",152,"Young & Co Brewery PLC",1153773408,4,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"29",152,"Young & Co Brewery PLC",1153709908,3.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"30",152,"Young & Co Brewery PLC",1152899760,4,4.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"31",152,"Young & Co Brewery PLC",1151733221,3.5,3,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"32",152,"Young & Co Brewery PLC",1151338945,4.5,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"33",152,"Young & Co Brewery PLC",1150099616,4.5,5,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"34",152,"Young & Co Brewery PLC",1150050718,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"35",152,"Young & Co Brewery PLC",1103086131,5,3.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"36",152,"Young & Co Brewery PLC",1148829722,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"37",152,"Young & Co Brewery PLC",1148697312,4,4,4,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"38",152,"Young & Co Brewery PLC",1148156012,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"39",152,"Young & Co Brewery PLC",1146221710,4,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"40",152,"Young & Co Brewery PLC",1146099239,4,3.5,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"41",152,"Young & Co Brewery PLC",1145063324,4.5,4,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"42",152,"Young & Co Brewery PLC",1144298574,3,3.5,3.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"43",152,"Young & Co Brewery PLC",1144017743,3.5,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"44",152,"Young & Co Brewery PLC",1143944679,4,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"45",152,"Young & Co Brewery PLC",1085192022,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"46",152,"Young & Co Brewery PLC",1143122318,4.5,4,5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"47",152,"Young & Co Brewery PLC",1142874873,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"48",152,"Young & Co Brewery PLC",1142609216,3.5,4,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"49",152,"Young & Co Brewery PLC",1142562638,4,3.5,3,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"50",152,"Young & Co Brewery PLC",1141664742,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"51",152,"Young & Co Brewery PLC",1141439966,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"52",152,"Young & Co Brewery PLC",1140810662,4.5,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"53",152,"Young & Co Brewery PLC",1140495174,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"54",152,"Young & Co Brewery PLC",1140471511,5,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"55",152,"Young & Co Brewery PLC",1138554763,4,3.5,4,"English Barleywine",4.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"56",152,"Young & Co Brewery PLC",1140388981,4,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"57",152,"Young & Co Brewery PLC",1140137208,4.5,4,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"58",152,"Young & Co Brewery PLC",1140113157,3.5,3.5,3,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"59",152,"Young & Co Brewery PLC",1139975536,4.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"60",152,"Young & Co Brewery PLC",1139974979,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"61",152,"Young & Co Brewery PLC",1139966422,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"62",152,"Young & Co Brewery PLC",1139789894,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"63",152,"Young & Co Brewery PLC",1139621542,4.5,3,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"64",152,"Young & Co Brewery PLC",1138830755,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"65",152,"Young & Co Brewery PLC",1138324456,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"66",152,"Young & Co Brewery PLC",1138248672,4.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"67",152,"Young & Co Brewery PLC",1137439473,4,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"68",152,"Young & Co Brewery PLC",1137027871,4,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"69",152,"Young & Co Brewery PLC",1136836721,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"70",152,"Young & Co Brewery PLC",1136820534,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"71",152,"Young & Co Brewery PLC",1136598684,4.5,4,3.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"72",152,"Young & Co Brewery PLC",1131777488,3,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"73",152,"Young & Co Brewery PLC",1135917233,4,4,4.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"74",152,"Young & Co Brewery PLC",1135911256,4,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"75",152,"Young & Co Brewery PLC",1135678373,4,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"76",152,"Young & Co Brewery PLC",1135657261,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"77",152,"Young & Co Brewery PLC",1135639963,4,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"78",152,"Young & Co Brewery PLC",1135512417,4.5,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"79",152,"Young & Co Brewery PLC",1135486119,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"80",152,"Young & Co Brewery PLC",1135150708,3.5,3,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"81",152,"Young & Co Brewery PLC",1135143985,2.5,2.5,3.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"82",152,"Young & Co Brewery PLC",1134533559,3,2,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"83",152,"Young & Co Brewery PLC",1134375790,3.5,3,3,"English Barleywine",2.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"84",152,"Young & Co Brewery PLC",1134106261,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"85",152,"Young & Co Brewery PLC",1133590020,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"86",152,"Young & Co Brewery PLC",1133255554,4,2.5,4.5,"English Barleywine",4.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"87",152,"Young & Co Brewery PLC",1133232845,4.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"88",152,"Young & Co Brewery PLC",1133118906,4,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"89",152,"Young & Co Brewery PLC",1132906297,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"90",152,"Young & Co Brewery PLC",1132694952,4,3,4,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"91",152,"Young & Co Brewery PLC",1131655994,4,3,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"92",152,"Young & Co Brewery PLC",1131502741,4,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"93",152,"Young & Co Brewery PLC",1131357942,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"94",152,"Young & Co Brewery PLC",1131335309,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"95",152,"Young & Co Brewery PLC",1131252983,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"96",152,"Young & Co Brewery PLC",1131079373,4,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"97",152,"Young & Co Brewery PLC",1131004661,4.5,4.5,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"98",152,"Young & Co Brewery PLC",1128460211,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"99",152,"Young & Co Brewery PLC",1130853993,4,3,5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"100",152,"Young & Co Brewery PLC",1130021630,4,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"101",152,"Young & Co Brewery PLC",1129915895,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"102",152,"Young & Co Brewery PLC",1129694000,4,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"103",152,"Young & Co Brewery PLC",1129500268,3,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"104",152,"Young & Co Brewery PLC",1129180148,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"105",152,"Young & Co Brewery PLC",1129170984,4,3,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"106",152,"Young & Co Brewery PLC",1128920576,4.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"107",152,"Young & Co Brewery PLC",1128910620,4.5,4.5,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"108",152,"Young & Co Brewery PLC",1128409251,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"109",152,"Young & Co Brewery PLC",1127920069,4,4.5,4,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"110",152,"Young & Co Brewery PLC",1127766981,5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"111",152,"Young & Co Brewery PLC",1126761741,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"112",152,"Young & Co Brewery PLC",1126754976,4.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"113",152,"Young & Co Brewery PLC",1126307052,4.5,3.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"114",152,"Young & Co Brewery PLC",1126238232,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"115",152,"Young & Co Brewery PLC",1126235051,4,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"116",152,"Young & Co Brewery PLC",1125453672,3.5,3.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"117",152,"Young & Co Brewery PLC",1229456105,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"118",152,"Young & Co Brewery PLC",1227982616,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"119",152,"Young & Co Brewery PLC",1227155028,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"120",152,"Young & Co Brewery PLC",1218914912,4.5,4,4.5,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"121",152,"Young & Co Brewery PLC",1217445862,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"122",152,"Young & Co Brewery PLC",1216090128,5,4.5,4,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"123",152,"Young & Co Brewery PLC",1213837918,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"124",152,"Young & Co Brewery PLC",1208299670,5,5,5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"125",152,"Young & Co Brewery PLC",1207853037,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"126",152,"Young & Co Brewery PLC",1207538992,2.5,3.5,3.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"127",152,"Young & Co Brewery PLC",1125068640,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"128",152,"Young & Co Brewery PLC",1124985179,3.5,4.5,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"129",152,"Young & Co Brewery PLC",1122953161,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"130",152,"Young & Co Brewery PLC",1122776859,4.5,2.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"131",152,"Young & Co Brewery PLC",1122157208,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"132",152,"Young & Co Brewery PLC",1121665130,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"133",152,"Young & Co Brewery PLC",1118611663,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"134",152,"Young & Co Brewery PLC",1117474219,4,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"135",152,"Young & Co Brewery PLC",1117137134,3.5,3,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"136",152,"Young & Co Brewery PLC",1116712261,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"137",152,"Young & Co Brewery PLC",1116639880,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"138",152,"Young & Co Brewery PLC",1115687687,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"139",152,"Young & Co Brewery PLC",1115520769,4.5,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"140",152,"Young & Co Brewery PLC",1115436123,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"141",152,"Young & Co Brewery PLC",1114232529,3,4,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"142",152,"Young & Co Brewery PLC",1114146970,4,3.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"143",152,"Young & Co Brewery PLC",1108952959,4.5,3.5,4.5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"144",152,"Young & Co Brewery PLC",1114127840,4.5,3.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"145",152,"Young & Co Brewery PLC",1113888543,4,4,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"146",152,"Young & Co Brewery PLC",1113113315,4.5,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"147",152,"Young & Co Brewery PLC",1112155959,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"148",152,"Young & Co Brewery PLC",1111108658,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"149",152,"Young & Co Brewery PLC",1110695240,4.5,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"150",152,"Young & Co Brewery PLC",1110336839,3,3.5,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"151",152,"Young & Co Brewery PLC",1109016518,3,3,4,"English Barleywine",2.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"152",152,"Young & Co Brewery PLC",1108788856,3.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"153",152,"Young & Co Brewery PLC",1108783676,3,3,4,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"154",152,"Young & Co Brewery PLC",1108688574,3.5,4,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"155",152,"Young & Co Brewery PLC",1107699843,3.5,3,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"156",152,"Young & Co Brewery PLC",1107656237,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"157",152,"Young & Co Brewery PLC",1107320494,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"158",152,"Young & Co Brewery PLC",1106528778,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"159",152,"Young & Co Brewery PLC",1106171276,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"160",152,"Young & Co Brewery PLC",1105410796,5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"161",152,"Young & Co Brewery PLC",1104713001,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"162",152,"Young & Co Brewery PLC",1103832994,4.5,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"163",152,"Young & Co Brewery PLC",1102567562,4.5,4,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"164",152,"Young & Co Brewery PLC",1102564520,4.5,5,4.5,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"165",152,"Young & Co Brewery PLC",1101762621,4,4.5,5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"166",152,"Young & Co Brewery PLC",1099419109,4,4,5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"167",152,"Young & Co Brewery PLC",1099104879,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"168",152,"Young & Co Brewery PLC",1098396693,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"169",152,"Young & Co Brewery PLC",1096701150,4.5,5,5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"170",152,"Young & Co Brewery PLC",1096668503,5,4,4.5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"171",152,"Young & Co Brewery PLC",1096230161,3.5,4.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"172",152,"Young & Co Brewery PLC",1096164139,3,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"173",152,"Young & Co Brewery PLC",1095729368,4,3,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"174",152,"Young & Co Brewery PLC",1095557148,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"175",152,"Young & Co Brewery PLC",1094365585,3.5,3.5,4.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"176",152,"Young & Co Brewery PLC",1093281502,3,3,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"177",152,"Young & Co Brewery PLC",1092967207,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"178",152,"Young & Co Brewery PLC",1092404438,4,4,3.5,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"179",152,"Young & Co Brewery PLC",1092128056,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"180",152,"Young & Co Brewery PLC",1084046997,5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"181",152,"Young & Co Brewery PLC",1091581615,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"182",152,"Young & Co Brewery PLC",1091395265,4,3,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"183",152,"Young & Co Brewery PLC",1090717902,3.5,3.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"184",152,"Young & Co Brewery PLC",1090013678,3.5,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"185",152,"Young & Co Brewery PLC",1089083046,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"186",152,"Young & Co Brewery PLC",1087324546,3.5,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"187",152,"Young & Co Brewery PLC",1086567669,4,4,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"188",152,"Young & Co Brewery PLC",1085846773,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"189",152,"Young & Co Brewery PLC",1085324149,4,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"190",152,"Young & Co Brewery PLC",1079916174,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"191",152,"Young & Co Brewery PLC",1079419459,3.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"192",152,"Young & Co Brewery PLC",1078008920,4,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"193",152,"Young & Co Brewery PLC",1077160668,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"194",152,"Young & Co Brewery PLC",1076825077,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"195",152,"Young & Co Brewery PLC",1076133427,4,4,4,"English Barleywine",3,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"196",152,"Young & Co Brewery PLC",1075435364,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"197",152,"Young & Co Brewery PLC",1074950714,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"198",152,"Young & Co Brewery PLC",1074052528,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"199",152,"Young & Co Brewery PLC",1073810854,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"200",152,"Young & Co Brewery PLC",1073783955,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"201",152,"Young & Co Brewery PLC",1073413191,4.5,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"202",152,"Young & Co Brewery PLC",1072491151,3,4.5,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"203",152,"Young & Co Brewery PLC",1072102712,2,2,3.5,"English Barleywine",3,2,"Young's Old Nick Barley Wine Ale",7.2,1441
+"204",152,"Young & Co Brewery PLC",1070773250,3,3,4.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"205",152,"Young & Co Brewery PLC",1070506324,4,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"206",152,"Young & Co Brewery PLC",1070218716,3,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"207",152,"Young & Co Brewery PLC",1069992495,4,4,4,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"208",152,"Young & Co Brewery PLC",1068001918,4.5,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"209",152,"Young & Co Brewery PLC",1067823906,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"210",152,"Young & Co Brewery PLC",1067110961,3.5,4.5,5,"English Barleywine",4.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"211",152,"Young & Co Brewery PLC",1066942355,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"212",152,"Young & Co Brewery PLC",1066695778,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"213",152,"Young & Co Brewery PLC",1065412420,3.5,3.5,3,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"214",152,"Young & Co Brewery PLC",1060999325,4.5,4.5,4.5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"215",152,"Young & Co Brewery PLC",1060636324,3,3.5,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"216",152,"Young & Co Brewery PLC",1059493340,3.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"217",152,"Young & Co Brewery PLC",1059001121,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"218",152,"Young & Co Brewery PLC",1058285358,3,3,4,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"219",152,"Young & Co Brewery PLC",1057735473,4,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"220",152,"Young & Co Brewery PLC",1055607931,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"221",152,"Young & Co Brewery PLC",1206996943,4.5,4.5,4,"English Barleywine",3.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"222",152,"Young & Co Brewery PLC",1205974017,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"223",152,"Young & Co Brewery PLC",1205207670,3.5,4,4,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"224",152,"Young & Co Brewery PLC",1204945185,4,2.5,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"225",152,"Young & Co Brewery PLC",1204673498,3.5,4,3.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"226",152,"Young & Co Brewery PLC",1203647907,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"227",152,"Young & Co Brewery PLC",1202789401,4.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"228",152,"Young & Co Brewery PLC",1202446998,4,4,4,"English Barleywine",5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"229",152,"Young & Co Brewery PLC",1202260904,4,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"230",152,"Young & Co Brewery PLC",1201963601,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"231",152,"Young & Co Brewery PLC",1055373102,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"232",152,"Young & Co Brewery PLC",1055140495,4,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"233",152,"Young & Co Brewery PLC",1054977101,4,4.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"234",152,"Young & Co Brewery PLC",1054637749,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"235",152,"Young & Co Brewery PLC",1053879222,2.5,4,3.5,"English Barleywine",3.5,2,"Young's Old Nick Barley Wine Ale",7.2,1441
+"236",152,"Young & Co Brewery PLC",1053197545,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"237",152,"Young & Co Brewery PLC",1053111081,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"238",152,"Young & Co Brewery PLC",1052840500,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"239",152,"Young & Co Brewery PLC",1052374555,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"240",152,"Young & Co Brewery PLC",1049429876,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"241",152,"Young & Co Brewery PLC",1049192424,4.5,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"242",152,"Young & Co Brewery PLC",1047725296,4.5,3.5,4.5,"English Barleywine",5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"243",152,"Young & Co Brewery PLC",1047678205,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"244",152,"Young & Co Brewery PLC",1047386741,4.5,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"245",152,"Young & Co Brewery PLC",1046611713,4,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"246",152,"Young & Co Brewery PLC",1046548055,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"247",152,"Young & Co Brewery PLC",1046115276,3,4.5,4.5,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"248",152,"Young & Co Brewery PLC",1045844312,3.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"249",152,"Young & Co Brewery PLC",1189738865,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"250",152,"Young & Co Brewery PLC",1044800245,2.5,3,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"251",152,"Young & Co Brewery PLC",1044648287,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"252",152,"Young & Co Brewery PLC",1044462165,4.5,4.5,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"253",152,"Young & Co Brewery PLC",1043862046,3,3.5,3.5,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"254",152,"Young & Co Brewery PLC",1042364636,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"255",152,"Young & Co Brewery PLC",1042136890,3.5,3.5,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"256",152,"Young & Co Brewery PLC",1041767450,3,3.5,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"257",152,"Young & Co Brewery PLC",1041627196,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"258",152,"Young & Co Brewery PLC",1040895740,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"259",152,"Young & Co Brewery PLC",1039801487,4,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"260",152,"Young & Co Brewery PLC",1039722946,3.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"261",152,"Young & Co Brewery PLC",1189720158,3.5,3.5,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"262",152,"Young & Co Brewery PLC",1039598442,4.5,4.5,5,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"263",152,"Young & Co Brewery PLC",1039216159,4.5,4,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"264",152,"Young & Co Brewery PLC",1039071292,4.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"265",152,"Young & Co Brewery PLC",1038577210,3,3,3.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"266",152,"Young & Co Brewery PLC",1038376127,4,4,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"267",152,"Young & Co Brewery PLC",1037914287,4.5,3.5,5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"268",152,"Young & Co Brewery PLC",1036576492,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"269",152,"Young & Co Brewery PLC",1036019434,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"270",152,"Young & Co Brewery PLC",1035361167,4,3.5,3.5,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"271",152,"Young & Co Brewery PLC",1034198864,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"272",152,"Young & Co Brewery PLC",1032552448,5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"273",152,"Young & Co Brewery PLC",1032374597,4,3.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"274",152,"Young & Co Brewery PLC",1030877367,4.5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"275",152,"Young & Co Brewery PLC",1029794319,4,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"276",152,"Young & Co Brewery PLC",1029775356,3.5,4,4.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"277",152,"Young & Co Brewery PLC",1027448212,3.5,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"278",152,"Young & Co Brewery PLC",1026937718,4,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"279",152,"Young & Co Brewery PLC",1026631043,3,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"280",152,"Young & Co Brewery PLC",1025997106,4,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"281",152,"Young & Co Brewery PLC",1025120439,3,3,4.5,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"282",152,"Young & Co Brewery PLC",1024300331,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"283",152,"Young & Co Brewery PLC",1024175316,4,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"284",152,"Young & Co Brewery PLC",1189030353,4.5,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"285",152,"Young & Co Brewery PLC",1024089120,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"286",152,"Young & Co Brewery PLC",1023639726,4,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"287",152,"Young & Co Brewery PLC",1022013671,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"288",152,"Young & Co Brewery PLC",1021469701,3.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"289",152,"Young & Co Brewery PLC",1021399943,2.5,2.5,2.5,"English Barleywine",2.5,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"290",152,"Young & Co Brewery PLC",1019755514,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"291",152,"Young & Co Brewery PLC",1019471497,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"292",152,"Young & Co Brewery PLC",1018073378,5,4.5,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"293",152,"Young & Co Brewery PLC",1014978349,4,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"294",152,"Young & Co Brewery PLC",1012828647,4.5,4.5,4,"English Barleywine",4.5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"295",152,"Young & Co Brewery PLC",1007894418,5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"296",152,"Young & Co Brewery PLC",1007412100,5,4,4,"English Barleywine",4,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"297",152,"Young & Co Brewery PLC",1201053735,5,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"298",152,"Young & Co Brewery PLC",1200616220,2.5,3.5,3,"English Barleywine",3,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"299",152,"Young & Co Brewery PLC",1198957431,4,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"300",152,"Young & Co Brewery PLC",1196901968,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"301",152,"Young & Co Brewery PLC",1193619754,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"302",152,"Young & Co Brewery PLC",1192407777,5,4,4.5,"English Barleywine",5,5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"303",152,"Young & Co Brewery PLC",1192145183,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"304",152,"Young & Co Brewery PLC",1191727717,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"305",152,"Young & Co Brewery PLC",1189807730,4,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"306",152,"Young & Co Brewery PLC",1188604537,3.5,3,3.5,"English Barleywine",3,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"307",152,"Young & Co Brewery PLC",1188100569,4.5,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"308",152,"Young & Co Brewery PLC",1187665673,4,3.5,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"309",152,"Young & Co Brewery PLC",1187038292,4,4,3.5,"English Barleywine",3,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"310",152,"Young & Co Brewery PLC",1184599603,4.5,4.5,3.5,"English Barleywine",4.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"311",152,"Young & Co Brewery PLC",1184477477,3.5,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"312",152,"Young & Co Brewery PLC",1183904570,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"313",152,"Young & Co Brewery PLC",1183403396,4,4.5,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"314",152,"Young & Co Brewery PLC",1182573633,3.5,3.5,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"315",152,"Young & Co Brewery PLC",1181954955,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"316",152,"Young & Co Brewery PLC",1180148732,4.5,3.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"317",152,"Young & Co Brewery PLC",1179882908,3.5,3.5,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"318",152,"Young & Co Brewery PLC",1179612383,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"319",152,"Young & Co Brewery PLC",1179199618,4,3,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"320",152,"Young & Co Brewery PLC",1178924810,5,3,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"321",152,"Young & Co Brewery PLC",1178691935,3.5,3.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"322",152,"Young & Co Brewery PLC",1177372497,4.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"323",152,"Young & Co Brewery PLC",1171992870,3.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"324",152,"Young & Co Brewery PLC",1176271096,3.5,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"325",152,"Young & Co Brewery PLC",1175484331,4.5,4,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"326",152,"Young & Co Brewery PLC",1174623422,3,4,3.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"327",152,"Young & Co Brewery PLC",1174341318,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"328",152,"Young & Co Brewery PLC",1174273475,4.5,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"329",152,"Young & Co Brewery PLC",1173992156,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"330",152,"Young & Co Brewery PLC",1173455437,3.5,4,4,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"331",152,"Young & Co Brewery PLC",1173407604,3.5,4,4,"English Barleywine",4,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"332",152,"Young & Co Brewery PLC",1173405498,4.5,4.5,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"333",152,"Young & Co Brewery PLC",1173244270,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"334",152,"Young & Co Brewery PLC",1173026457,3.5,4,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"335",152,"Young & Co Brewery PLC",1172895608,4,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"336",152,"Young & Co Brewery PLC",1172210012,4,4,4,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"337",152,"Young & Co Brewery PLC",1172016833,4.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"338",152,"Young & Co Brewery PLC",1168229861,4,4,4,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"339",152,"Young & Co Brewery PLC",1171682832,4,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"340",152,"Young & Co Brewery PLC",1171421121,4,3,2,"English Barleywine",2,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"341",152,"Young & Co Brewery PLC",1171340233,3.5,4,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"342",152,"Young & Co Brewery PLC",1171075274,2.5,2,4.5,"English Barleywine",4,2,"Young's Old Nick Barley Wine Ale",7.2,1441
+"343",152,"Young & Co Brewery PLC",1170716806,5,4.5,5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"344",152,"Young & Co Brewery PLC",1170576455,4,4.5,4,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"345",152,"Young & Co Brewery PLC",1169013364,4,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"346",152,"Young & Co Brewery PLC",1168998142,4,3.5,4,"English Barleywine",3.5,3,"Young's Old Nick Barley Wine Ale",7.2,1441
+"347",152,"Young & Co Brewery PLC",1167613493,4,2,4,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"348",152,"Young & Co Brewery PLC",1166581905,4,3,4.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"349",152,"Young & Co Brewery PLC",1166493876,3,3,4,"English Barleywine",3,2.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"350",152,"Young & Co Brewery PLC",1165703623,4,4,4.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"351",152,"Young & Co Brewery PLC",1164948692,3.5,4,3.5,"English Barleywine",3.5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"352",152,"Young & Co Brewery PLC",1163889752,4,4,4.5,"English Barleywine",4,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"353",152,"Young & Co Brewery PLC",1163422217,4,4.5,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"354",152,"Young & Co Brewery PLC",1109252463,4,2.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"355",152,"Young & Co Brewery PLC",1162610126,4.5,4,4,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"356",152,"Young & Co Brewery PLC",1161647765,4.5,4,4,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"357",152,"Young & Co Brewery PLC",1161473240,4,3,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"358",152,"Young & Co Brewery PLC",1161443022,4,4,4.5,"English Barleywine",4.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"359",152,"Young & Co Brewery PLC",1160786839,4,3.5,4.5,"English Barleywine",5,3.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"360",152,"Young & Co Brewery PLC",1160712192,3.5,2.5,2.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"361",152,"Young & Co Brewery PLC",1160678414,4,4,3.5,"English Barleywine",4.5,4.5,"Young's Old Nick Barley Wine Ale",7.2,1441
+"362",152,"Young & Co Brewery PLC",1160638194,3.5,4,3.5,"English Barleywine",3.5,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"363",152,"Young & Co Brewery PLC",1108896529,3,2.5,3.5,"English Bitter",3.5,2,"Young's Dirty Dick's Ale",5.2,725
+"364",152,"Young & Co Brewery PLC",1159828629,4,4,3.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"365",152,"Young & Co Brewery PLC",1159666182,4,3.5,4.5,"English Barleywine",4,4,"Young's Old Nick Barley Wine Ale",7.2,1441
+"366",152,"Young & Co Brewery PLC",1180498282,4.5,4,4,"English Pale Ale",4.5,4.5,"Young's Champion Live Beer",5,14408
+"367",152,"Young & Co Brewery PLC",1170709859,4,2.5,3,"English Pale Ale",3,3.5,"Young's Champion Live Beer",5,14408
+"368",152,"Young & Co Brewery PLC",1152205899,3.5,3,4,"English Pale Ale",2.5,3,"Young's Champion Live Beer",5,14408
+"369",152,"Young & Co Brewery PLC",1148843411,4,4,3,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
+"370",152,"Young & Co Brewery PLC",1148726718,4,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's Champion Live Beer",5,14408
+"371",152,"Young & Co Brewery PLC",1116113518,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"372",152,"Young & Co Brewery PLC",1113747772,3.5,3.5,3,"English Pale Ale",3,3.5,"Young's Champion Live Beer",5,14408
+"373",152,"Young & Co Brewery PLC",1112440140,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Young's Champion Live Beer",5,14408
+"374",152,"Young & Co Brewery PLC",1092922826,3,2.5,2,"English Pale Ale",3,3,"Young's Champion Live Beer",5,14408
+"375",152,"Young & Co Brewery PLC",1087857609,3,3,3,"English Pale Ale",3.5,3,"Young's Champion Live Beer",5,14408
+"376",152,"Young & Co Brewery PLC",1080934277,4,4,4.5,"English Pale Ale",4,4,"Young's Champion Live Beer",5,14408
+"377",152,"Young & Co Brewery PLC",1076272450,4.5,3.5,3,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
+"378",152,"Young & Co Brewery PLC",1069798425,4,4,4,"English Pale Ale",3.5,4,"Young's Champion Live Beer",5,14408
+"379",152,"Young & Co Brewery PLC",1124152692,5,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"380",152,"Young & Co Brewery PLC",1123803991,3.5,4,4,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
+"381",152,"Young & Co Brewery PLC",1123370788,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"382",152,"Young & Co Brewery PLC",1118901761,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"383",152,"Young & Co Brewery PLC",1115919680,4,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"384",152,"Young & Co Brewery PLC",1115867902,5,3.5,4,"English Bitter",4,5,"Young's Dirty Dick's Ale",5.2,725
+"385",152,"Young & Co Brewery PLC",1114237743,3.5,3,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"386",152,"Young & Co Brewery PLC",1114060467,4.5,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"387",152,"Young & Co Brewery PLC",1113360601,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"388",152,"Young & Co Brewery PLC",1113260251,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"389",152,"Young & Co Brewery PLC",1112532719,4,3,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"390",152,"Young & Co Brewery PLC",1111716381,4,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"391",152,"Young & Co Brewery PLC",1110854718,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"392",152,"Young & Co Brewery PLC",1109657067,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"393",152,"Young & Co Brewery PLC",1108429943,3.5,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"394",152,"Young & Co Brewery PLC",1107701965,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"395",152,"Young & Co Brewery PLC",1107133615,5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"396",152,"Young & Co Brewery PLC",1107054127,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"397",152,"Young & Co Brewery PLC",1106965532,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"398",152,"Young & Co Brewery PLC",1105313656,3,3.5,3.5,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
+"399",152,"Young & Co Brewery PLC",1105072053,4,4.5,4.5,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
+"400",152,"Young & Co Brewery PLC",1104273167,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"401",152,"Young & Co Brewery PLC",1103407734,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"402",152,"Young & Co Brewery PLC",1102041194,2,3,4,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
+"403",152,"Young & Co Brewery PLC",1093445336,3,3,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"404",152,"Young & Co Brewery PLC",1091755225,4,3,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"405",152,"Young & Co Brewery PLC",1101849980,3.5,2.5,3.5,"English Bitter",3.5,3,"Young's Dirty Dick's Ale",5.2,725
+"406",152,"Young & Co Brewery PLC",1101330366,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"407",152,"Young & Co Brewery PLC",1099319161,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"408",152,"Young & Co Brewery PLC",1097801663,5,4,4,"English Bitter",4.5,5,"Young's Dirty Dick's Ale",5.2,725
+"409",152,"Young & Co Brewery PLC",1097390680,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"410",152,"Young & Co Brewery PLC",1096757895,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"411",152,"Young & Co Brewery PLC",1096157708,4,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"412",152,"Young & Co Brewery PLC",1095992247,3,2.5,4,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
+"413",152,"Young & Co Brewery PLC",1095717426,4,3.5,3.5,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
+"414",152,"Young & Co Brewery PLC",1094104534,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"415",152,"Young & Co Brewery PLC",1093723758,3.5,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"416",152,"Young & Co Brewery PLC",1088305985,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"417",152,"Young & Co Brewery PLC",1087566865,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"418",152,"Young & Co Brewery PLC",1085708681,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"419",152,"Young & Co Brewery PLC",1084916050,3,2,3,"English Bitter",2.5,2,"Young's Dirty Dick's Ale",5.2,725
+"420",152,"Young & Co Brewery PLC",1083893059,2.5,3,4,"English Bitter",2.5,2.5,"Young's Dirty Dick's Ale",5.2,725
+"421",152,"Young & Co Brewery PLC",1083166229,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"422",152,"Young & Co Brewery PLC",1081734555,4,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"423",152,"Young & Co Brewery PLC",1081476217,4,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"424",152,"Young & Co Brewery PLC",1081382957,4.5,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"425",152,"Young & Co Brewery PLC",1081214947,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"426",152,"Young & Co Brewery PLC",1080070496,3.5,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"427",152,"Young & Co Brewery PLC",1156812011,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"428",152,"Young & Co Brewery PLC",1079292486,3.5,3.5,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
+"429",152,"Young & Co Brewery PLC",1077563847,3.5,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"430",152,"Young & Co Brewery PLC",1076687976,3.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"431",152,"Young & Co Brewery PLC",1076513212,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"432",152,"Young & Co Brewery PLC",1076372233,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"433",152,"Young & Co Brewery PLC",1075684619,4,3,4,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
+"434",152,"Young & Co Brewery PLC",1075254442,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"435",152,"Young & Co Brewery PLC",1075124187,3.5,3,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"436",152,"Young & Co Brewery PLC",1070935052,4,3,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"437",152,"Young & Co Brewery PLC",1069152905,4.5,3.5,3.5,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
+"438",152,"Young & Co Brewery PLC",1069091459,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"439",152,"Young & Co Brewery PLC",1066996122,3,3,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"440",152,"Young & Co Brewery PLC",1062518028,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"441",152,"Young & Co Brewery PLC",1065587637,4.5,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"442",152,"Young & Co Brewery PLC",1065544911,4.5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"443",152,"Young & Co Brewery PLC",1065412295,3,3,4,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
+"444",152,"Young & Co Brewery PLC",1065054131,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"445",152,"Young & Co Brewery PLC",1064412911,3.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"446",152,"Young & Co Brewery PLC",1063731997,4.5,3.5,3,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"447",152,"Young & Co Brewery PLC",1063507076,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"448",152,"Young & Co Brewery PLC",1062636432,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"449",152,"Young & Co Brewery PLC",1062521002,4,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"450",152,"Young & Co Brewery PLC",1061065749,4,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"451",152,"Young & Co Brewery PLC",1060027951,4,3.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"452",152,"Young & Co Brewery PLC",1059310464,4.5,3,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
+"453",152,"Young & Co Brewery PLC",1058317055,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"454",152,"Young & Co Brewery PLC",1057852486,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"455",152,"Young & Co Brewery PLC",1057566056,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"456",152,"Young & Co Brewery PLC",1056619143,3.5,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"457",152,"Young & Co Brewery PLC",1055956443,3.5,2.5,4,"English Bitter",3,2.5,"Young's Dirty Dick's Ale",5.2,725
+"458",152,"Young & Co Brewery PLC",1055071019,4.5,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"459",152,"Young & Co Brewery PLC",1052682243,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"460",152,"Young & Co Brewery PLC",1052153656,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"461",152,"Young & Co Brewery PLC",1051698332,4,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"462",152,"Young & Co Brewery PLC",1051346054,3,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"463",152,"Young & Co Brewery PLC",1049902118,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"464",152,"Young & Co Brewery PLC",1049479733,3.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"465",152,"Young & Co Brewery PLC",1049174726,3.5,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"466",152,"Young & Co Brewery PLC",1048229624,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"467",152,"Young & Co Brewery PLC",1047856573,3,3,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"468",152,"Young & Co Brewery PLC",1047154273,3,3,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"469",152,"Young & Co Brewery PLC",1046755279,4.5,3.5,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"470",152,"Young & Co Brewery PLC",1046068815,2,2,2,"English Bitter",2,2,"Young's Dirty Dick's Ale",5.2,725
+"471",152,"Young & Co Brewery PLC",1044882047,4,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"472",152,"Young & Co Brewery PLC",1044802118,4,3,3.5,"English Bitter",4,3,"Young's Dirty Dick's Ale",5.2,725
+"473",152,"Young & Co Brewery PLC",1041710422,4,2.5,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"474",152,"Young & Co Brewery PLC",1041621914,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"475",152,"Young & Co Brewery PLC",1037619698,3.5,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"476",152,"Young & Co Brewery PLC",1221627740,3,2.5,3.5,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
+"477",152,"Young & Co Brewery PLC",1221007426,4.5,4,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"478",152,"Young & Co Brewery PLC",1217536242,3.5,3,3,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"479",152,"Young & Co Brewery PLC",1209320144,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"480",152,"Young & Co Brewery PLC",1203709448,4,4.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"481",152,"Young & Co Brewery PLC",1194140892,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"482",152,"Young & Co Brewery PLC",1193510726,5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"483",152,"Young & Co Brewery PLC",1190416134,3.5,4,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"484",152,"Young & Co Brewery PLC",1017537393,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"485",152,"Young & Co Brewery PLC",1190415548,4,4,3.5,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"486",152,"Young & Co Brewery PLC",1188507556,4.5,3.5,4,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"487",152,"Young & Co Brewery PLC",1032465813,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"488",152,"Young & Co Brewery PLC",1030348329,4,3.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"489",152,"Young & Co Brewery PLC",1030347132,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"490",152,"Young & Co Brewery PLC",1029312286,3,3,4,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"491",152,"Young & Co Brewery PLC",1028460144,4.5,4.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"492",152,"Young & Co Brewery PLC",1026717399,4.5,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"493",152,"Young & Co Brewery PLC",1026549696,4,3.5,4.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"494",152,"Young & Co Brewery PLC",1023202918,5,4,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"495",152,"Young & Co Brewery PLC",1021290333,4.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"496",152,"Young & Co Brewery PLC",1019200128,4,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"497",152,"Young & Co Brewery PLC",1018385350,5,4,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"498",152,"Young & Co Brewery PLC",1015886552,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"499",152,"Young & Co Brewery PLC",994877200,3,3,3,"English Bitter",3,4,"Young's Dirty Dick's Ale",5.2,725
+"500",152,"Young & Co Brewery PLC",979481223,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"501",152,"Young & Co Brewery PLC",1186761613,4,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"502",152,"Young & Co Brewery PLC",1183159075,4,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"503",152,"Young & Co Brewery PLC",1181963220,5,3,5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"504",152,"Young & Co Brewery PLC",1181608408,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"505",152,"Young & Co Brewery PLC",1179623691,4,3,4.5,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"506",152,"Young & Co Brewery PLC",1175993776,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"507",152,"Young & Co Brewery PLC",1172939286,4,4,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"508",152,"Young & Co Brewery PLC",1172299847,4,4,4,"English Bitter",4.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"509",152,"Young & Co Brewery PLC",1171854266,3.5,3.5,4.5,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"510",152,"Young & Co Brewery PLC",1171514224,3.5,3.5,3,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"511",152,"Young & Co Brewery PLC",1171173519,4.5,3.5,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"512",152,"Young & Co Brewery PLC",1171073637,4,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"513",152,"Young & Co Brewery PLC",1170519760,4.5,4,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"514",152,"Young & Co Brewery PLC",1170379041,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"515",152,"Young & Co Brewery PLC",1169866676,4.5,4,4,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
+"516",152,"Young & Co Brewery PLC",1169678069,4,4,4,"English Bitter",3.5,4.5,"Young's Dirty Dick's Ale",5.2,725
+"517",152,"Young & Co Brewery PLC",1169584234,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"518",152,"Young & Co Brewery PLC",1166312740,4,4,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"519",152,"Young & Co Brewery PLC",1164726887,4,4.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"520",152,"Young & Co Brewery PLC",1164071341,3.5,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"521",152,"Young & Co Brewery PLC",1163919414,3.5,4,3,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"522",152,"Young & Co Brewery PLC",1163264554,4,3.5,4,"English Bitter",5,4,"Young's Dirty Dick's Ale",5.2,725
+"523",152,"Young & Co Brewery PLC",1160538016,3.5,3.5,4.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"524",152,"Young & Co Brewery PLC",1160441520,4,4,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"525",152,"Young & Co Brewery PLC",1158895914,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"526",152,"Young & Co Brewery PLC",1157906767,4.5,3.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"527",152,"Young & Co Brewery PLC",1157594672,4,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"528",152,"Young & Co Brewery PLC",1156713787,3.5,3.5,4,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"529",152,"Young & Co Brewery PLC",1156347756,4,3,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"530",152,"Young & Co Brewery PLC",1156010486,3.5,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"531",152,"Young & Co Brewery PLC",1155773523,4,2.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"532",152,"Young & Co Brewery PLC",1155171243,3.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"533",152,"Young & Co Brewery PLC",1154052169,4,4.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"534",152,"Young & Co Brewery PLC",1154045738,4,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"535",152,"Young & Co Brewery PLC",1153959916,4,3.5,4,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"536",152,"Young & Co Brewery PLC",1153367114,3,3,4.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"537",152,"Young & Co Brewery PLC",1152746366,4,3,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"538",152,"Young & Co Brewery PLC",1151683096,4,3,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"539",152,"Young & Co Brewery PLC",1151624250,4,4,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"540",152,"Young & Co Brewery PLC",1151554981,4.5,3.5,3,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"541",152,"Young & Co Brewery PLC",1150479565,3.5,4,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"542",152,"Young & Co Brewery PLC",1148949106,3.5,3.5,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"543",152,"Young & Co Brewery PLC",1148872702,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"544",152,"Young & Co Brewery PLC",1147828451,4,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"545",152,"Young & Co Brewery PLC",1147482796,4,3,3.5,"English Bitter",4,3,"Young's Dirty Dick's Ale",5.2,725
+"546",152,"Young & Co Brewery PLC",1146541334,5,3.5,3.5,"English Bitter",2,3,"Young's Dirty Dick's Ale",5.2,725
+"547",152,"Young & Co Brewery PLC",1145609543,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"548",152,"Young & Co Brewery PLC",1145320889,5,4.5,4.5,"English Bitter",4.5,4.5,"Young's Dirty Dick's Ale",5.2,725
+"549",152,"Young & Co Brewery PLC",1143901018,3,3,3,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"550",152,"Young & Co Brewery PLC",1139394738,3.5,2.5,3,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"551",152,"Young & Co Brewery PLC",1143875973,3,2.5,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"552",152,"Young & Co Brewery PLC",1143279037,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"553",152,"Young & Co Brewery PLC",1142638245,4,3.5,3.5,"English Bitter",4,3.5,"Young's Dirty Dick's Ale",5.2,725
+"554",152,"Young & Co Brewery PLC",1142638240,4.5,3.5,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"555",152,"Young & Co Brewery PLC",1142258711,5,3,5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"556",152,"Young & Co Brewery PLC",1140969418,4,3,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"557",152,"Young & Co Brewery PLC",1140830029,3.5,4.5,4.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"558",152,"Young & Co Brewery PLC",1140765716,3,2.5,4.5,"English Bitter",5,3,"Young's Dirty Dick's Ale",5.2,725
+"559",152,"Young & Co Brewery PLC",1140313884,4,3.5,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"560",152,"Young & Co Brewery PLC",1139639399,4.5,4,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"561",152,"Young & Co Brewery PLC",1139113602,4,4,4.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"562",152,"Young & Co Brewery PLC",1138813868,3.5,3,4,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"563",152,"Young & Co Brewery PLC",1138755816,4,3.5,4,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"564",152,"Young & Co Brewery PLC",1138416903,3,2.5,3.5,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"565",152,"Young & Co Brewery PLC",1137511266,5,3,4,"English Bitter",4,4.5,"Young's Dirty Dick's Ale",5.2,725
+"566",152,"Young & Co Brewery PLC",1137341422,4,2.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"567",152,"Young & Co Brewery PLC",1137276008,3.5,3.5,3.5,"English Bitter",3,3.5,"Young's Dirty Dick's Ale",5.2,725
+"568",152,"Young & Co Brewery PLC",1135920428,3.5,4,3.5,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"569",152,"Young & Co Brewery PLC",1135381528,4,3.5,4.5,"English Bitter",4.5,4,"Young's Dirty Dick's Ale",5.2,725
+"570",152,"Young & Co Brewery PLC",1134515496,4,3,3.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"571",152,"Young & Co Brewery PLC",1133930131,4,3.5,3.5,"English Bitter",4,4,"Young's Dirty Dick's Ale",5.2,725
+"572",152,"Young & Co Brewery PLC",1133056417,4.5,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"573",152,"Young & Co Brewery PLC",1132409120,3.5,3,3,"English Bitter",3,3,"Young's Dirty Dick's Ale",5.2,725
+"574",152,"Young & Co Brewery PLC",1130274449,4,4,4.5,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"575",152,"Young & Co Brewery PLC",1128560758,3,3,3,"English Bitter",3.5,3.5,"Young's Dirty Dick's Ale",5.2,725
+"576",152,"Young & Co Brewery PLC",1127624258,4,4,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"577",152,"Young & Co Brewery PLC",1125530764,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"578",152,"Young & Co Brewery PLC",1124931554,3,2.5,4,"English Bitter",2.5,3,"Young's Dirty Dick's Ale",5.2,725
+"579",152,"Young & Co Brewery PLC",1124252374,4,3.5,4,"English Bitter",3.5,4,"Young's Dirty Dick's Ale",5.2,725
+"580",152,"Young & Co Brewery PLC",1123823736,4.5,3.5,4.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"581",152,"Young & Co Brewery PLC",1123397458,4.5,4,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"582",152,"Young & Co Brewery PLC",1123291673,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"583",152,"Young & Co Brewery PLC",1123227024,4.5,4,3.5,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
+"584",152,"Young & Co Brewery PLC",1121637880,5,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"585",152,"Young & Co Brewery PLC",1120491989,4,3.5,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"586",152,"Young & Co Brewery PLC",1120089986,4,3.5,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"587",152,"Young & Co Brewery PLC",1119083107,4.5,3.5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"588",152,"Young & Co Brewery PLC",1114088386,3.5,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"589",152,"Young & Co Brewery PLC",1112406616,3.5,3.5,4,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
+"590",152,"Young & Co Brewery PLC",1080769218,4,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"591",152,"Young & Co Brewery PLC",1041975228,4.5,4,4.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"592",152,"Young & Co Brewery PLC",1229455848,3,3,2.5,"English Pale Ale",2.5,2.5,"Young's St. George's Ale",4.3,7901
+"593",152,"Young & Co Brewery PLC",1217957267,3,2.5,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"594",152,"Young & Co Brewery PLC",1212616807,3,3.5,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"595",152,"Young & Co Brewery PLC",1209146179,4.5,3.5,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"596",152,"Young & Co Brewery PLC",1207513625,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"597",152,"Young & Co Brewery PLC",1207103017,3.5,3,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"598",152,"Young & Co Brewery PLC",1207101155,3.5,4,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"599",152,"Young & Co Brewery PLC",1205717962,4.5,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"600",152,"Young & Co Brewery PLC",1205112648,3,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"601",152,"Young & Co Brewery PLC",1202069985,3.5,3.5,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
+"602",152,"Young & Co Brewery PLC",1199686464,3,5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"603",152,"Young & Co Brewery PLC",1195866132,4.5,3.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"604",152,"Young & Co Brewery PLC",1195457091,3.5,4,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"605",152,"Young & Co Brewery PLC",1193094351,4.5,4,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"606",152,"Young & Co Brewery PLC",1191990643,4.5,4,3.5,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
+"607",152,"Young & Co Brewery PLC",1190117612,4,4,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"608",152,"Young & Co Brewery PLC",1186443499,4.5,4.5,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
+"609",152,"Young & Co Brewery PLC",1186264175,4,4.5,4.5,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
+"610",152,"Young & Co Brewery PLC",1180273179,3,4,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"611",152,"Young & Co Brewery PLC",1178161101,4,3,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"612",152,"Young & Co Brewery PLC",1177177704,4,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"613",152,"Young & Co Brewery PLC",1177011118,4.5,4,4.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"614",152,"Young & Co Brewery PLC",1176360027,5,3.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"615",152,"Young & Co Brewery PLC",1176268225,3.5,3,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"616",152,"Young & Co Brewery PLC",1176258921,4.5,3,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"617",152,"Young & Co Brewery PLC",1174103552,4,2.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"618",152,"Young & Co Brewery PLC",1173070795,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"619",152,"Young & Co Brewery PLC",1169963163,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"620",152,"Young & Co Brewery PLC",1167417553,2.5,3,3.5,"English Pale Ale",2.5,3,"Young's St. George's Ale",4.3,7901
+"621",152,"Young & Co Brewery PLC",1166669571,3,2.5,3.5,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
+"622",152,"Young & Co Brewery PLC",1165805044,4.5,3,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"623",152,"Young & Co Brewery PLC",1165774319,5,3,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
+"624",152,"Young & Co Brewery PLC",1165709058,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"625",152,"Young & Co Brewery PLC",1165295975,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"626",152,"Young & Co Brewery PLC",1164743318,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"627",152,"Young & Co Brewery PLC",1162356487,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"628",152,"Young & Co Brewery PLC",1162337854,3.5,2,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"629",152,"Young & Co Brewery PLC",1162163776,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"630",152,"Young & Co Brewery PLC",1161666937,4,4.5,4.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"631",152,"Young & Co Brewery PLC",1160617134,5,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"632",152,"Young & Co Brewery PLC",1160336302,3.5,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"633",152,"Young & Co Brewery PLC",1159413937,4.5,4,4,"English Pale Ale",4.5,4.5,"Young's St. George's Ale",4.3,7901
+"634",152,"Young & Co Brewery PLC",1158381095,3.5,3.5,4.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"635",152,"Young & Co Brewery PLC",1158018963,4,4,3.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"636",152,"Young & Co Brewery PLC",1156991430,3.5,3,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
+"637",152,"Young & Co Brewery PLC",1155683864,4,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"638",152,"Young & Co Brewery PLC",1153271386,3.5,3,4,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"639",152,"Young & Co Brewery PLC",1153016213,4,4,2.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"640",152,"Young & Co Brewery PLC",1151600983,5,3.5,3.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"641",152,"Young & Co Brewery PLC",1151455176,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"642",152,"Young & Co Brewery PLC",1150772850,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"643",152,"Young & Co Brewery PLC",1150582562,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"644",152,"Young & Co Brewery PLC",1150426544,4,4,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"645",152,"Young & Co Brewery PLC",1150077065,4,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"646",152,"Young & Co Brewery PLC",1149608435,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"647",152,"Young & Co Brewery PLC",1149200378,3.5,4,4,"English Pale Ale",3.5,3,"Young's St. George's Ale",4.3,7901
+"648",152,"Young & Co Brewery PLC",1147964926,4,4,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"649",152,"Young & Co Brewery PLC",1147705650,4,3.5,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"650",152,"Young & Co Brewery PLC",1147397570,4.5,4.5,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"651",152,"Young & Co Brewery PLC",1146428353,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"652",152,"Young & Co Brewery PLC",1145884921,4.5,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"653",152,"Young & Co Brewery PLC",1145687167,3,3.5,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"654",152,"Young & Co Brewery PLC",1145594071,3.5,3.5,3.5,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"655",152,"Young & Co Brewery PLC",1145146746,3.5,3,4,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
+"656",152,"Young & Co Brewery PLC",1144713077,4,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"657",152,"Young & Co Brewery PLC",1143399390,4.5,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"658",152,"Young & Co Brewery PLC",1143080696,3.5,2,3,"English Pale Ale",3,4,"Young's St. George's Ale",4.3,7901
+"659",152,"Young & Co Brewery PLC",1140972221,4,3,3,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"660",152,"Young & Co Brewery PLC",1140480649,4,4,4,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"661",152,"Young & Co Brewery PLC",1139132688,3,3.5,3.5,"English Pale Ale",3,3.5,"Young's St. George's Ale",4.3,7901
+"662",152,"Young & Co Brewery PLC",1136166707,4.5,3.5,4,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"663",152,"Young & Co Brewery PLC",1133156822,4,4,4,"English Pale Ale",2,2,"Young's St. George's Ale",4.3,7901
+"664",152,"Young & Co Brewery PLC",1132815244,4.5,4,4.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"665",152,"Young & Co Brewery PLC",1132806072,4.5,3,4,"English Pale Ale",4,3.5,"Young's St. George's Ale",4.3,7901
+"666",152,"Young & Co Brewery PLC",1131825234,4.5,4.5,4,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"667",152,"Young & Co Brewery PLC",1131415598,4,3.5,3.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"668",152,"Young & Co Brewery PLC",1131163225,4.5,3.5,3.5,"English Pale Ale",4.5,4,"Young's St. George's Ale",4.3,7901
+"669",152,"Young & Co Brewery PLC",1129685386,5,4,4.5,"English Pale Ale",4,4.5,"Young's St. George's Ale",4.3,7901
+"670",152,"Young & Co Brewery PLC",1129685178,4,4,3,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"671",152,"Young & Co Brewery PLC",1128992790,3,3.5,4,"English Pale Ale",2.5,3,"Young's St. George's Ale",4.3,7901
+"672",152,"Young & Co Brewery PLC",1128900965,3,3,3.5,"English Pale Ale",3,3,"Young's St. George's Ale",4.3,7901
+"673",152,"Young & Co Brewery PLC",1128650267,4.5,4,3.5,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"674",152,"Young & Co Brewery PLC",1128649599,4.5,3,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"675",152,"Young & Co Brewery PLC",1128286768,4,3.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"676",152,"Young & Co Brewery PLC",1127521725,4,4.5,4.5,"English Pale Ale",3.5,4,"Young's St. George's Ale",4.3,7901
+"677",152,"Young & Co Brewery PLC",1127452804,3,3.5,4,"English Pale Ale",3.5,2.5,"Young's St. George's Ale",4.3,7901
+"678",152,"Young & Co Brewery PLC",1127417434,4.5,3.5,3.5,"English Pale Ale",4.5,3.5,"Young's St. George's Ale",4.3,7901
+"679",152,"Young & Co Brewery PLC",1126213611,4,3.5,4,"English Pale Ale",4,3,"Young's St. George's Ale",4.3,7901
+"680",152,"Young & Co Brewery PLC",1125510855,4,3.5,4,"English Pale Ale",3.5,3.5,"Young's St. George's Ale",4.3,7901
+"681",152,"Young & Co Brewery PLC",1124126762,4.5,4.5,4,"English Pale Ale",4,4,"Young's St. George's Ale",4.3,7901
+"682",152,"Young & Co Brewery PLC",1119210313,3,4,3.5,"English Pale Ale",3,3,"Lords",4,10557
+"683",152,"Young & Co Brewery PLC",1089636181,4.5,3.5,4,"English Pale Ale",3.5,4,"Lords",4,10557
+"684",152,"Young & Co Brewery PLC",1087562137,2,2,1.5,"English Pale Ale",2,2.5,"Lords",4,10557
+"685",152,"Young & Co Brewery PLC",1068336695,5,3,3,"English Pale Ale",3.5,3.5,"Lords",4,10557
+"686",152,"Young & Co Brewery PLC",1056241842,4,3.5,3.5,"English Pale Ale",3.5,4,"Lords",4,10557
+"687",152,"Young & Co Brewery PLC",1198775347,3.5,3.5,4,"English Bitter",3,3.5,"Young's Christmas Ale",5,20948
+"688",152,"Young & Co Brewery PLC",1160944406,3.5,4,3.5,"English Bitter",4,4,"Young's Christmas Ale",5,20948
+"689",152,"Young & Co Brewery PLC",1135539620,3.5,4,4,"English Bitter",3.5,4,"Young's Christmas Ale",5,20948
+"690",152,"Young & Co Brewery PLC",1103858446,4.5,5,4.5,"English Bitter",4,4.5,"Young's Christmas Ale",5,20948
