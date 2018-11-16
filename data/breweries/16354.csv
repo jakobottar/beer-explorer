@@ -1,0 +1,974 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",16354,"COAST Brewing Company",1227490805,4.5,3.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"2",16354,"COAST Brewing Company",1294519656,5,5,5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"3",16354,"COAST Brewing Company",1289272808,4,4.5,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"4",16354,"COAST Brewing Company",1281284258,4,4,4,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"5",16354,"COAST Brewing Company",1275158254,3.5,4,5,"American Porter",3.5,3.5,"Porter, Smoked",5.8,54235
+"6",16354,"COAST Brewing Company",1208931113,3.5,4,3.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"7",16354,"COAST Brewing Company",1274141131,4,4,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"8",16354,"COAST Brewing Company",1274111287,2.5,4,3.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"9",16354,"COAST Brewing Company",1273718686,3.5,5,2.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"10",16354,"COAST Brewing Company",1264888503,4.5,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"11",16354,"COAST Brewing Company",1273344502,3.5,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"12",16354,"COAST Brewing Company",1273194903,4,3.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"13",16354,"COAST Brewing Company",1272993685,4,4.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"14",16354,"COAST Brewing Company",1272908467,3.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"15",16354,"COAST Brewing Company",1272412693,4,4,4,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"16",16354,"COAST Brewing Company",1272342394,4,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"17",16354,"COAST Brewing Company",1272238920,4,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"18",16354,"COAST Brewing Company",1272060424,5,4,3.5,"American IPA",3.5,4.5,"HopArt IPA",7.7,39236
+"19",16354,"COAST Brewing Company",1271812982,3.5,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"20",16354,"COAST Brewing Company",1271034192,4,4.5,5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"21",16354,"COAST Brewing Company",1270680624,3.5,4.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"22",16354,"COAST Brewing Company",1270331717,3.5,3.5,4.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"23",16354,"COAST Brewing Company",1269058260,4,3.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"24",16354,"COAST Brewing Company",1264240688,4,4,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"25",16354,"COAST Brewing Company",1269051504,2.5,3.5,4,"American IPA",4,3,"HopArt IPA",7.7,39236
+"26",16354,"COAST Brewing Company",1268965954,4,4,3,"American IPA",4,4,"HopArt IPA",7.7,39236
+"27",16354,"COAST Brewing Company",1268277323,4.5,4,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"28",16354,"COAST Brewing Company",1268169616,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"29",16354,"COAST Brewing Company",1267999392,4,4,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"30",16354,"COAST Brewing Company",1267849097,3.5,4.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"31",16354,"COAST Brewing Company",1267836452,4.5,5,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"32",16354,"COAST Brewing Company",1267516772,5,4.5,3.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"33",16354,"COAST Brewing Company",1247600248,4,4.5,4.5,"American IPA",4,5,"HopArt IPA",7.7,39236
+"34",16354,"COAST Brewing Company",1267495517,4,3.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"35",16354,"COAST Brewing Company",1267151147,4,3.5,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"36",16354,"COAST Brewing Company",1267148771,4,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"37",16354,"COAST Brewing Company",1267076129,3.5,3,3,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"38",16354,"COAST Brewing Company",1266925253,3.5,4,4,"American IPA",3,4,"HopArt IPA",7.7,39236
+"39",16354,"COAST Brewing Company",1266559381,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"40",16354,"COAST Brewing Company",1265897141,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"41",16354,"COAST Brewing Company",1265077504,5,5,4.5,"American IPA",5,5,"HopArt IPA",7.7,39236
+"42",16354,"COAST Brewing Company",1264225996,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"43",16354,"COAST Brewing Company",1264225712,4.5,4.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"44",16354,"COAST Brewing Company",1264212610,4,4,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"45",16354,"COAST Brewing Company",1264205294,4.5,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"46",16354,"COAST Brewing Company",1263083550,4,4,4,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"47",16354,"COAST Brewing Company",1263009593,3.5,3.5,3.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"48",16354,"COAST Brewing Company",1261772938,4.5,4.5,4.5,"American IPA",5,5,"HopArt IPA",7.7,39236
+"49",16354,"COAST Brewing Company",1228355640,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"50",16354,"COAST Brewing Company",1260339096,4.5,4.5,5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"51",16354,"COAST Brewing Company",1260054918,4,4.5,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"52",16354,"COAST Brewing Company",1258822853,4.5,4.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"53",16354,"COAST Brewing Company",1255233333,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"54",16354,"COAST Brewing Company",1251924958,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"55",16354,"COAST Brewing Company",1250616354,4,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"56",16354,"COAST Brewing Company",1250518655,4,4.5,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"57",16354,"COAST Brewing Company",1250474225,4,3,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"58",16354,"COAST Brewing Company",1249183375,4,4.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"59",16354,"COAST Brewing Company",1247660818,4.5,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"60",16354,"COAST Brewing Company",1247083875,4.5,4,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"61",16354,"COAST Brewing Company",1246158076,4.5,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"62",16354,"COAST Brewing Company",1242008561,4,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"63",16354,"COAST Brewing Company",1240711811,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"64",16354,"COAST Brewing Company",1238121614,4.5,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"65",16354,"COAST Brewing Company",1237768701,4,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"66",16354,"COAST Brewing Company",1233676575,4,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"67",16354,"COAST Brewing Company",1232772761,5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"68",16354,"COAST Brewing Company",1231680644,4,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"69",16354,"COAST Brewing Company",1230954369,3.5,3,4,"American IPA",3,3.5,"HopArt IPA",7.7,39236
+"70",16354,"COAST Brewing Company",1228450341,4.5,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"71",16354,"COAST Brewing Company",1227016486,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"72",16354,"COAST Brewing Company",1226791544,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"73",16354,"COAST Brewing Company",1225689726,5,4,5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"74",16354,"COAST Brewing Company",1225678495,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"75",16354,"COAST Brewing Company",1225309708,5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"76",16354,"COAST Brewing Company",1225163443,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"77",16354,"COAST Brewing Company",1220897257,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"78",16354,"COAST Brewing Company",1220623923,4,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"79",16354,"COAST Brewing Company",1220545508,4.5,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"80",16354,"COAST Brewing Company",1220202926,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"81",16354,"COAST Brewing Company",1220045033,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"82",16354,"COAST Brewing Company",1218312598,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"83",16354,"COAST Brewing Company",1217549547,5,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"84",16354,"COAST Brewing Company",1217279862,3.5,4,4,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"85",16354,"COAST Brewing Company",1215599388,5,4,4.5,"American IPA",5,4.5,"HopArt IPA",7.7,39236
+"86",16354,"COAST Brewing Company",1215220247,3.5,3.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"87",16354,"COAST Brewing Company",1215105429,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"88",16354,"COAST Brewing Company",1214974655,3.5,4,3.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"89",16354,"COAST Brewing Company",1213992808,4,3.5,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"90",16354,"COAST Brewing Company",1213654689,3.5,4,4,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"91",16354,"COAST Brewing Company",1212697427,4.5,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"92",16354,"COAST Brewing Company",1212384261,4.5,4,4.5,"American IPA",4,5,"HopArt IPA",7.7,39236
+"93",16354,"COAST Brewing Company",1211420213,4,4,4.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"94",16354,"COAST Brewing Company",1210827274,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"95",16354,"COAST Brewing Company",1208992068,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"96",16354,"COAST Brewing Company",1208832746,5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"97",16354,"COAST Brewing Company",1208293518,4,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"98",16354,"COAST Brewing Company",1207097607,3.5,3.5,4.5,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"99",16354,"COAST Brewing Company",1206813749,5,4.5,4.5,"American IPA",4.5,5,"HopArt IPA",7.7,39236
+"100",16354,"COAST Brewing Company",1206308604,4.5,3.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"101",16354,"COAST Brewing Company",1200027093,3.5,4,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"102",16354,"COAST Brewing Company",1198984038,4.5,4.5,4,"American IPA",3.5,4.5,"HopArt IPA",7.7,39236
+"103",16354,"COAST Brewing Company",1193030932,3.5,3,3.5,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"104",16354,"COAST Brewing Company",1192924807,4,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"105",16354,"COAST Brewing Company",1324141683,4,3,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"106",16354,"COAST Brewing Company",1321146398,4,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"107",16354,"COAST Brewing Company",1320720917,4,3.5,3.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"108",16354,"COAST Brewing Company",1319149191,4.5,4,5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"109",16354,"COAST Brewing Company",1318709952,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"110",16354,"COAST Brewing Company",1318702440,4,3.5,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"111",16354,"COAST Brewing Company",1318534572,4,4,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"112",16354,"COAST Brewing Company",1318119093,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"113",16354,"COAST Brewing Company",1317097862,3.5,4,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"114",16354,"COAST Brewing Company",1305602892,4.5,4,4,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"115",16354,"COAST Brewing Company",1316934806,4,3.5,4,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"116",16354,"COAST Brewing Company",1316907224,3.5,3.5,4.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"117",16354,"COAST Brewing Company",1316652623,4,3.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"118",16354,"COAST Brewing Company",1316562175,4,3.5,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"119",16354,"COAST Brewing Company",1315535139,4.5,4,4,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"120",16354,"COAST Brewing Company",1315167488,4,4,3.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"121",16354,"COAST Brewing Company",1313876035,5,4.5,5,"American IPA",4.5,5,"HopArt IPA",7.7,39236
+"122",16354,"COAST Brewing Company",1312509574,4,3,3.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"123",16354,"COAST Brewing Company",1312397766,4,4.5,4,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"124",16354,"COAST Brewing Company",1312149408,4,4,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"125",16354,"COAST Brewing Company",1312053712,4,4.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"126",16354,"COAST Brewing Company",1311639099,4,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"127",16354,"COAST Brewing Company",1307914073,4.5,4,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"128",16354,"COAST Brewing Company",1307357744,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"129",16354,"COAST Brewing Company",1307316142,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"130",16354,"COAST Brewing Company",1306204970,4.5,4,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"131",16354,"COAST Brewing Company",1305754840,3.5,3,4,"American IPA",3,3.5,"HopArt IPA",7.7,39236
+"132",16354,"COAST Brewing Company",1305426423,2.5,2.5,3.5,"American IPA",4,1.5,"HopArt IPA",7.7,39236
+"133",16354,"COAST Brewing Company",1304801149,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"134",16354,"COAST Brewing Company",1304661674,2,3,3.5,"American IPA",3,2,"HopArt IPA",7.7,39236
+"135",16354,"COAST Brewing Company",1304169802,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"136",16354,"COAST Brewing Company",1302138689,4,4,4.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"137",16354,"COAST Brewing Company",1302101450,3,4,4.5,"American IPA",3.5,3,"HopArt IPA",7.7,39236
+"138",16354,"COAST Brewing Company",1302019530,4,4,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"139",16354,"COAST Brewing Company",1301979109,4,4,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"140",16354,"COAST Brewing Company",1301951442,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"141",16354,"COAST Brewing Company",1300831286,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"142",16354,"COAST Brewing Company",1299035439,4,4.5,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"143",16354,"COAST Brewing Company",1298591549,4.5,4.5,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"144",16354,"COAST Brewing Company",1298421842,5,5,4.5,"American IPA",4.5,5,"HopArt IPA",7.7,39236
+"145",16354,"COAST Brewing Company",1298005325,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"146",16354,"COAST Brewing Company",1297951427,4,3.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"147",16354,"COAST Brewing Company",1297834363,4,4,4,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"148",16354,"COAST Brewing Company",1296700391,4,3.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"149",16354,"COAST Brewing Company",1296070499,4,4,3,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"150",16354,"COAST Brewing Company",1295666500,4.5,4.5,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"151",16354,"COAST Brewing Company",1294711628,4.5,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"152",16354,"COAST Brewing Company",1294710231,3,4,4,"American IPA",3,3,"HopArt IPA",7.7,39236
+"153",16354,"COAST Brewing Company",1294285804,2.5,3.5,3.5,"American IPA",2.5,2.5,"HopArt IPA",7.7,39236
+"154",16354,"COAST Brewing Company",1293574544,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"155",16354,"COAST Brewing Company",1293226257,4.5,4.5,4.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"156",16354,"COAST Brewing Company",1293138185,4,4,4.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"157",16354,"COAST Brewing Company",1292984914,4.5,4.5,4.5,"American IPA",4.5,5,"HopArt IPA",7.7,39236
+"158",16354,"COAST Brewing Company",1292651186,3.5,3.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"159",16354,"COAST Brewing Company",1292543848,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"160",16354,"COAST Brewing Company",1290560217,4,4.5,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"161",16354,"COAST Brewing Company",1289428868,3.5,4,3.5,"American IPA",3,3.5,"HopArt IPA",7.7,39236
+"162",16354,"COAST Brewing Company",1287759950,3,3.5,3,"American IPA",3,3.5,"HopArt IPA",7.7,39236
+"163",16354,"COAST Brewing Company",1286848913,3,3.5,4.5,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"164",16354,"COAST Brewing Company",1286804213,2,3.5,1,"American IPA",2,3.5,"HopArt IPA",7.7,39236
+"165",16354,"COAST Brewing Company",1285293014,4.5,4,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"166",16354,"COAST Brewing Company",1285120901,4,4.5,3.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"167",16354,"COAST Brewing Company",1284845710,4,4,4.5,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"168",16354,"COAST Brewing Company",1284751827,4,4,4,"American IPA",4.5,4,"HopArt IPA",7.7,39236
+"169",16354,"COAST Brewing Company",1284122578,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"170",16354,"COAST Brewing Company",1283485042,4,4,4.5,"American IPA",3.5,4,"HopArt IPA",7.7,39236
+"171",16354,"COAST Brewing Company",1283211364,4,3.5,4,"American IPA",3.5,3,"HopArt IPA",7.7,39236
+"172",16354,"COAST Brewing Company",1282784052,4,4,4,"American IPA",4,3.5,"HopArt IPA",7.7,39236
+"173",16354,"COAST Brewing Company",1281486916,4.5,4.5,4,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"174",16354,"COAST Brewing Company",1281321221,3.5,3.5,3.5,"American IPA",3.5,3,"HopArt IPA",7.7,39236
+"175",16354,"COAST Brewing Company",1280886917,4.5,4,3,"American IPA",4,4,"HopArt IPA",7.7,39236
+"176",16354,"COAST Brewing Company",1280280782,3.5,3.5,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"177",16354,"COAST Brewing Company",1279583880,3.5,3.5,4,"American IPA",3.5,3.5,"HopArt IPA",7.7,39236
+"178",16354,"COAST Brewing Company",1279235185,4,4,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"179",16354,"COAST Brewing Company",1278857071,4.5,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"180",16354,"COAST Brewing Company",1271637675,3,3.5,4,"American Porter",4,3,"Porter, Smoked",5.8,54235
+"181",16354,"COAST Brewing Company",1278785848,4.5,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"182",16354,"COAST Brewing Company",1278718551,4.5,4.5,4.5,"American IPA",4.5,4.5,"HopArt IPA",7.7,39236
+"183",16354,"COAST Brewing Company",1278470480,4.5,4,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"184",16354,"COAST Brewing Company",1277172620,1.5,4,2.5,"American IPA",2,2,"HopArt IPA",7.7,39236
+"185",16354,"COAST Brewing Company",1276385819,4.5,4.5,4,"American IPA",4,4,"HopArt IPA",7.7,39236
+"186",16354,"COAST Brewing Company",1276309718,3.5,4,4,"American IPA",4.5,3.5,"HopArt IPA",7.7,39236
+"187",16354,"COAST Brewing Company",1275962455,4.5,4,3.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"188",16354,"COAST Brewing Company",1275607019,4,4,4.5,"American IPA",4.5,3.5,"HopArt IPA",7.7,39236
+"189",16354,"COAST Brewing Company",1275447176,3,4.5,4,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"190",16354,"COAST Brewing Company",1275426377,4.5,4.5,3.5,"American IPA",4,4.5,"HopArt IPA",7.7,39236
+"191",16354,"COAST Brewing Company",1275259785,4,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"192",16354,"COAST Brewing Company",1275098548,4.5,4.5,4.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"193",16354,"COAST Brewing Company",1274454491,4,4,3.5,"American IPA",4,4,"HopArt IPA",7.7,39236
+"194",16354,"COAST Brewing Company",1298820704,2.5,3.5,4.5,"American Porter",4,3,"Porter, Smoked",5.8,54235
+"195",16354,"COAST Brewing Company",1271035036,5,5,5,"American Porter",4.5,4.5,"Porter, Smoked",5.8,54235
+"196",16354,"COAST Brewing Company",1267982750,3.5,4,4,"American Porter",3.5,4,"Porter, Smoked",5.8,54235
+"197",16354,"COAST Brewing Company",1267916531,5,5,4.5,"American Porter",4.5,5,"Porter, Smoked",5.8,54235
+"198",16354,"COAST Brewing Company",1266799575,3.5,4.5,4,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"199",16354,"COAST Brewing Company",1265056810,4,4.5,4,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"200",16354,"COAST Brewing Company",1264455247,3.5,4,4.5,"American Porter",4,4,"Porter, Smoked",5.8,54235
+"201",16354,"COAST Brewing Company",1262744463,4,4.5,4,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"202",16354,"COAST Brewing Company",1284764862,5,4.5,4.5,"American Black Ale",4.5,5,"Event Horizon Cascadian Dark Ale",7,61391
+"203",16354,"COAST Brewing Company",1262008452,5,4.5,4.5,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"204",16354,"COAST Brewing Company",1261773828,4,3.5,4.5,"American Porter",4,3.5,"Porter, Smoked",5.8,54235
+"205",16354,"COAST Brewing Company",1261289978,4.5,4,4.5,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"206",16354,"COAST Brewing Company",1260494899,4.5,3.5,5,"American Porter",4.5,4.5,"Porter, Smoked",5.8,54235
+"207",16354,"COAST Brewing Company",1260458592,4.5,4.5,4.5,"American Porter",4.5,4,"Porter, Smoked",5.8,54235
+"208",16354,"COAST Brewing Company",1260417658,4,4.5,4.5,"American Porter",4.5,4.5,"Porter, Smoked",5.8,54235
+"209",16354,"COAST Brewing Company",1260146699,4.5,4,4.5,"American Porter",4.5,4.5,"Porter, Smoked",5.8,54235
+"210",16354,"COAST Brewing Company",1260066182,4.5,5,4,"American Porter",4,5,"Porter, Smoked",5.8,54235
+"211",16354,"COAST Brewing Company",1259902702,4.5,5,4.5,"American Porter",4,4.5,"Porter, Smoked",5.8,54235
+"212",16354,"COAST Brewing Company",1323707408,4,4.5,4,"Belgian Strong Pale Ale",4.5,4,"Wadmalaw Sunset",7.5,73387
+"213",16354,"COAST Brewing Company",1321845151,4,4.5,4,"Belgian Strong Pale Ale",4.5,4,"Wadmalaw Sunset",7.5,73387
+"214",16354,"COAST Brewing Company",1320756604,4,4,4,"Belgian Strong Pale Ale",4.5,4,"Wadmalaw Sunset",7.5,73387
+"215",16354,"COAST Brewing Company",1317340737,4.5,4.5,4.5,"Belgian Strong Pale Ale",4,4.5,"Wadmalaw Sunset",7.5,73387
+"216",16354,"COAST Brewing Company",1316824704,4.5,4.5,4,"Belgian Strong Pale Ale",4,4.5,"Wadmalaw Sunset",7.5,73387
+"217",16354,"COAST Brewing Company",1236448030,4.5,4,4.5,"American IPA",5,4.5,"HopArt Cask Dry Hopped",7.7,48187
+"218",16354,"COAST Brewing Company",1323986812,5,5,4.5,"American Black Ale",4.5,5,"Event Horizon Cascadian Dark Ale",7,61391
+"219",16354,"COAST Brewing Company",1323294124,4.5,4,4.5,"American Black Ale",4,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"220",16354,"COAST Brewing Company",1322592420,4,2.5,4.5,"American Black Ale",4,3.5,"Event Horizon Cascadian Dark Ale",7,61391
+"221",16354,"COAST Brewing Company",1321824001,4.5,4.5,4,"American Black Ale",4,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"222",16354,"COAST Brewing Company",1320529717,4.5,4,5,"American Black Ale",4.5,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"223",16354,"COAST Brewing Company",1319930702,4,4,4.5,"American Black Ale",4,4,"Event Horizon Cascadian Dark Ale",7,61391
+"224",16354,"COAST Brewing Company",1292614412,4.5,4,4.5,"American Black Ale",4,4,"Event Horizon Cascadian Dark Ale",7,61391
+"225",16354,"COAST Brewing Company",1287940637,4,5,4.5,"American Black Ale",4,3.5,"Event Horizon Cascadian Dark Ale",7,61391
+"226",16354,"COAST Brewing Company",1286846365,4.5,5,4.5,"American Black Ale",4.5,5,"Event Horizon Cascadian Dark Ale",7,61391
+"227",16354,"COAST Brewing Company",1285707748,4.5,5,4,"American Black Ale",4,4,"Event Horizon Cascadian Dark Ale",7,61391
+"228",16354,"COAST Brewing Company",1285615058,4,4.5,4.5,"American Black Ale",4,4,"Event Horizon Cascadian Dark Ale",7,61391
+"229",16354,"COAST Brewing Company",1285598880,4,5,4,"American Black Ale",4.5,4,"Event Horizon Cascadian Dark Ale",7,61391
+"230",16354,"COAST Brewing Company",1285036928,4,4.5,4,"American Black Ale",4.5,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"231",16354,"COAST Brewing Company",1284915619,5,5,4.5,"American Black Ale",4,5,"Event Horizon Cascadian Dark Ale",7,61391
+"232",16354,"COAST Brewing Company",1284591467,4,4.5,3.5,"American Black Ale",4,3.5,"Event Horizon Cascadian Dark Ale",7,61391
+"233",16354,"COAST Brewing Company",1284343623,3.5,4.5,4,"American Black Ale",4,4,"Event Horizon Cascadian Dark Ale",7,61391
+"234",16354,"COAST Brewing Company",1284293581,4.5,4,4.5,"American Black Ale",4,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"235",16354,"COAST Brewing Company",1284247886,5,5,4,"American Black Ale",5,5,"Event Horizon Cascadian Dark Ale",7,61391
+"236",16354,"COAST Brewing Company",1284217973,5,5,5,"American Black Ale",5,5,"Event Horizon Cascadian Dark Ale",7,61391
+"237",16354,"COAST Brewing Company",1283986336,4,4.5,4.5,"American Black Ale",4.5,4.5,"Event Horizon Cascadian Dark Ale",7,61391
+"238",16354,"COAST Brewing Company",1283976566,4,4,4.5,"American Black Ale",3.5,4,"Event Horizon Cascadian Dark Ale",7,61391
+"239",16354,"COAST Brewing Company",1311104840,5,4.5,5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"240",16354,"COAST Brewing Company",1323479908,4.5,4,4,"Altbier",4.5,4,"ALTerior Motive",6.3,44410
+"241",16354,"COAST Brewing Company",1322088785,4,4,4,"Altbier",3.5,3.5,"ALTerior Motive",6.3,44410
+"242",16354,"COAST Brewing Company",1320755689,4.5,4,4,"Altbier",4.5,4.5,"ALTerior Motive",6.3,44410
+"243",16354,"COAST Brewing Company",1319849741,5,4.5,4.5,"Altbier",5,4.5,"ALTerior Motive",6.3,44410
+"244",16354,"COAST Brewing Company",1275141024,4,4.5,4,"Altbier",4,4.5,"ALTerior Motive",6.3,44410
+"245",16354,"COAST Brewing Company",1274904119,4,4,3.5,"Altbier",4,4,"ALTerior Motive",6.3,44410
+"246",16354,"COAST Brewing Company",1274371325,4,3.5,3.5,"Altbier",4,3.5,"ALTerior Motive",6.3,44410
+"247",16354,"COAST Brewing Company",1273622491,4.5,4.5,3.5,"Altbier",4.5,4.5,"ALTerior Motive",6.3,44410
+"248",16354,"COAST Brewing Company",1284754617,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"249",16354,"COAST Brewing Company",1272926049,4.5,4,4.5,"Altbier",4,4.5,"ALTerior Motive",6.3,44410
+"250",16354,"COAST Brewing Company",1252718164,4.5,4,4,"Altbier",4,4,"ALTerior Motive",6.3,44410
+"251",16354,"COAST Brewing Company",1250615484,3.5,3,3,"Altbier",3,3,"ALTerior Motive",6.3,44410
+"252",16354,"COAST Brewing Company",1249793070,4.5,4,4.5,"Altbier",5,4.5,"ALTerior Motive",6.3,44410
+"253",16354,"COAST Brewing Company",1226527136,5,5,4.5,"Altbier",4.5,5,"ALTerior Motive",6.3,44410
+"254",16354,"COAST Brewing Company",1220792905,5,4.5,4.5,"Altbier",4.5,4.5,"ALTerior Motive",6.3,44410
+"255",16354,"COAST Brewing Company",1220202540,5,5,4.5,"Altbier",4.5,5,"ALTerior Motive",6.3,44410
+"256",16354,"COAST Brewing Company",1319997337,4.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"257",16354,"COAST Brewing Company",1219140493,5,4.5,4.5,"Altbier",4.5,4.5,"ALTerior Motive",6.3,44410
+"258",16354,"COAST Brewing Company",1325270027,4,4.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"259",16354,"COAST Brewing Company",1324765143,4,4.5,4.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"260",16354,"COAST Brewing Company",1324142889,4,3.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"261",16354,"COAST Brewing Company",1322714832,4,4,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"262",16354,"COAST Brewing Company",1321889706,4,4.5,3.5,"Russian Imperial Stout",2.5,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"263",16354,"COAST Brewing Company",1320167500,4,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"264",16354,"COAST Brewing Company",1318556117,4,4,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"265",16354,"COAST Brewing Company",1318003994,4,4.5,3.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"266",16354,"COAST Brewing Company",1317672417,4.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"267",16354,"COAST Brewing Company",1313869596,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"268",16354,"COAST Brewing Company",1313496726,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"269",16354,"COAST Brewing Company",1313372197,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"270",16354,"COAST Brewing Company",1313115491,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"271",16354,"COAST Brewing Company",1311470477,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, 2011 Barrel Aged",9.3,70622
+"272",16354,"COAST Brewing Company",1311881265,4,4,3.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"273",16354,"COAST Brewing Company",1311533568,4.5,4.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"274",16354,"COAST Brewing Company",1311468683,4.5,4.5,4,"Russian Imperial Stout",5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"275",16354,"COAST Brewing Company",1311464937,4.5,4,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"276",16354,"COAST Brewing Company",1311261967,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"277",16354,"COAST Brewing Company",1311221872,4.5,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"278",16354,"COAST Brewing Company",1310748302,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"279",16354,"COAST Brewing Company",1310525587,3.5,4,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"280",16354,"COAST Brewing Company",1310191979,4,3.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"281",16354,"COAST Brewing Company",1303527097,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"282",16354,"COAST Brewing Company",1301153687,4.5,4.5,3.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"283",16354,"COAST Brewing Company",1300566389,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"284",16354,"COAST Brewing Company",1300566278,4,4,4.5,"Russian Imperial Stout",3.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"285",16354,"COAST Brewing Company",1300566265,4,4.5,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"286",16354,"COAST Brewing Company",1297915615,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"287",16354,"COAST Brewing Company",1297644795,4,4,4.5,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"288",16354,"COAST Brewing Company",1297558574,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"289",16354,"COAST Brewing Company",1297132745,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"290",16354,"COAST Brewing Company",1296831647,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"291",16354,"COAST Brewing Company",1295396460,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"292",16354,"COAST Brewing Company",1295294550,3.5,4,4.5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"293",16354,"COAST Brewing Company",1294638562,4,4,3.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"294",16354,"COAST Brewing Company",1293657842,4,3.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"295",16354,"COAST Brewing Company",1292641333,4,4,3.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"296",16354,"COAST Brewing Company",1284574797,4,3.5,4,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"297",16354,"COAST Brewing Company",1288111105,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"298",16354,"COAST Brewing Company",1287282050,4,4,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"299",16354,"COAST Brewing Company",1286512585,4,4.5,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"300",16354,"COAST Brewing Company",1285649967,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"301",16354,"COAST Brewing Company",1285351307,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"302",16354,"COAST Brewing Company",1285036669,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"303",16354,"COAST Brewing Company",1284946512,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"304",16354,"COAST Brewing Company",1284915264,5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"305",16354,"COAST Brewing Company",1283294476,4.5,4.5,4,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"306",16354,"COAST Brewing Company",1282967364,5,4.5,4,"Russian Imperial Stout",2.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"307",16354,"COAST Brewing Company",1282279009,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"308",16354,"COAST Brewing Company",1281888329,4,4.5,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"309",16354,"COAST Brewing Company",1281550953,4,4.5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"310",16354,"COAST Brewing Company",1281537759,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"311",16354,"COAST Brewing Company",1280723720,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"312",16354,"COAST Brewing Company",1280613088,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"313",16354,"COAST Brewing Company",1280561209,4,4,4.5,"Russian Imperial Stout",3,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"314",16354,"COAST Brewing Company",1280500385,4,4.5,4,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"315",16354,"COAST Brewing Company",1280208498,4.5,5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"316",16354,"COAST Brewing Company",1280189891,4,4,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"317",16354,"COAST Brewing Company",1279664882,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"318",16354,"COAST Brewing Company",1279551128,4,4.5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"319",16354,"COAST Brewing Company",1279424674,3.5,3.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"320",16354,"COAST Brewing Company",1279424005,4.5,3.5,4.5,"Russian Imperial Stout",4,5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"321",16354,"COAST Brewing Company",1279283299,4.5,5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"322",16354,"COAST Brewing Company",1278985276,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"323",16354,"COAST Brewing Company",1277747817,5,5,4.5,"Russian Imperial Stout",4,5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"324",16354,"COAST Brewing Company",1277607364,4,5,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"325",16354,"COAST Brewing Company",1277607259,3.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"326",16354,"COAST Brewing Company",1277009194,4.5,4.5,5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Buffalo Trace Barrel Aged",9.3,56993
+"327",16354,"COAST Brewing Company",1300107589,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Cascade Pale",5.8,54783
+"328",16354,"COAST Brewing Company",1298163094,4.5,4.5,4.5,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"329",16354,"COAST Brewing Company",1294973610,5,5,4.5,"American Pale Ale (APA)",5,5,"Cascade Pale",5.8,54783
+"330",16354,"COAST Brewing Company",1297998309,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Cascade Pale",5.8,54783
+"331",16354,"COAST Brewing Company",1297810595,5,4,4,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"332",16354,"COAST Brewing Company",1297377297,4,4,4.5,"American Pale Ale (APA)",4,3,"Cascade Pale",5.8,54783
+"333",16354,"COAST Brewing Company",1297216429,4.5,3.5,4.5,"American Pale Ale (APA)",4.5,4,"Cascade Pale",5.8,54783
+"334",16354,"COAST Brewing Company",1296339964,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"335",16354,"COAST Brewing Company",1296327421,4.5,4,4,"American Pale Ale (APA)",4,4,"Cascade Pale",5.8,54783
+"336",16354,"COAST Brewing Company",1295823886,4,4,4.5,"American Pale Ale (APA)",4,4,"Cascade Pale",5.8,54783
+"337",16354,"COAST Brewing Company",1295267760,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Cascade Pale",5.8,54783
+"338",16354,"COAST Brewing Company",1295219670,5,4,5,"American Pale Ale (APA)",4.5,4,"Cascade Pale",5.8,54783
+"339",16354,"COAST Brewing Company",1294586457,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"340",16354,"COAST Brewing Company",1293215017,4,3.5,3,"American Pale Ale (APA)",4,3.5,"Cascade Pale",5.8,54783
+"341",16354,"COAST Brewing Company",1268701706,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Cascade Pale",5.8,54783
+"342",16354,"COAST Brewing Company",1268628927,4.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"343",16354,"COAST Brewing Company",1263953042,5,4.5,4.5,"American Pale Ale (APA)",4.5,5,"Cascade Pale",5.8,54783
+"344",16354,"COAST Brewing Company",1263097944,4.5,4.5,4.5,"American Pale Ale (APA)",3.5,4,"Cascade Pale",5.8,54783
+"345",16354,"COAST Brewing Company",1262722747,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Cascade Pale",5.8,54783
+"346",16354,"COAST Brewing Company",1262017481,5,5,4.5,"American Pale Ale (APA)",4.5,5,"Cascade Pale",5.8,54783
+"347",16354,"COAST Brewing Company",1235876379,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Experimental: Knob Creek Whiskey And Cocoa Nibs",10,48160
+"348",16354,"COAST Brewing Company",1235839142,3.5,4.5,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Experimental: Knob Creek Whiskey And Cocoa Nibs",10,48160
+"349",16354,"COAST Brewing Company",1299340717,4.5,4,3.5,"Milk / Sweet Stout",4,4.5,"Milk Stout Cask With Cocoa Nibs",NA,66718
+"350",16354,"COAST Brewing Company",1298819566,4.5,5,4,"Milk / Sweet Stout",4.5,4.5,"Milk Stout Cask With Cocoa Nibs",NA,66718
+"351",16354,"COAST Brewing Company",1280689568,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"352",16354,"COAST Brewing Company",1280688090,4,4,3.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"353",16354,"COAST Brewing Company",1280543708,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"354",16354,"COAST Brewing Company",1280417793,3.5,4,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"355",16354,"COAST Brewing Company",1280369077,3.5,4,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"356",16354,"COAST Brewing Company",1280112163,4.5,4,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"357",16354,"COAST Brewing Company",1280024299,4.5,4,5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"358",16354,"COAST Brewing Company",1280006512,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"359",16354,"COAST Brewing Company",1279989978,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Boy King Double IPA",9.5,49151
+"360",16354,"COAST Brewing Company",1279848401,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Boy King Double IPA",9.5,49151
+"361",16354,"COAST Brewing Company",1279755484,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"362",16354,"COAST Brewing Company",1279735583,5,4.5,4.5,"American Double / Imperial IPA",5,4.5,"Boy King Double IPA",9.5,49151
+"363",16354,"COAST Brewing Company",1279664895,4,4.5,4.5,"American Double / Imperial IPA",5,4,"Boy King Double IPA",9.5,49151
+"364",16354,"COAST Brewing Company",1279589557,4,4,4,"American Double / Imperial IPA",3.5,4.5,"Boy King Double IPA",9.5,49151
+"365",16354,"COAST Brewing Company",1279329623,4.5,5,5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"366",16354,"COAST Brewing Company",1279253013,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"367",16354,"COAST Brewing Company",1277750019,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"368",16354,"COAST Brewing Company",1274902556,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"369",16354,"COAST Brewing Company",1274650889,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"370",16354,"COAST Brewing Company",1274640722,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"371",16354,"COAST Brewing Company",1274574514,4.5,5,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"372",16354,"COAST Brewing Company",1272510785,5,4.5,4,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"373",16354,"COAST Brewing Company",1272330242,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"374",16354,"COAST Brewing Company",1272241238,4,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"375",16354,"COAST Brewing Company",1272205423,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"376",16354,"COAST Brewing Company",1272129641,4,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"377",16354,"COAST Brewing Company",1272035354,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"378",16354,"COAST Brewing Company",1271974701,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"379",16354,"COAST Brewing Company",1271889058,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"380",16354,"COAST Brewing Company",1271565632,5,4,5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"381",16354,"COAST Brewing Company",1271436306,4,4,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"382",16354,"COAST Brewing Company",1271378111,5,5,4.5,"American Double / Imperial IPA",5,4.5,"Boy King Double IPA",9.5,49151
+"383",16354,"COAST Brewing Company",1271375424,4,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"384",16354,"COAST Brewing Company",1271361912,4,4.5,5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"385",16354,"COAST Brewing Company",1271361668,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"386",16354,"COAST Brewing Company",1271207020,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"387",16354,"COAST Brewing Company",1271155836,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"388",16354,"COAST Brewing Company",1271118616,4,5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"389",16354,"COAST Brewing Company",1271018715,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"390",16354,"COAST Brewing Company",1270946079,5,4,4,"American Double / Imperial IPA",5,4.5,"Boy King Double IPA",9.5,49151
+"391",16354,"COAST Brewing Company",1270923469,5,5,4.5,"American Double / Imperial IPA",4,5,"Boy King Double IPA",9.5,49151
+"392",16354,"COAST Brewing Company",1269032456,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"393",16354,"COAST Brewing Company",1270833838,4,4,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"394",16354,"COAST Brewing Company",1270561360,5,5,5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"395",16354,"COAST Brewing Company",1270519464,5,4.5,5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"396",16354,"COAST Brewing Company",1270354609,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"397",16354,"COAST Brewing Company",1270346903,4,4,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"398",16354,"COAST Brewing Company",1249766907,5,4,5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"399",16354,"COAST Brewing Company",1270261695,4.5,4.5,4.5,"American Double / Imperial IPA",5,4.5,"Boy King Double IPA",9.5,49151
+"400",16354,"COAST Brewing Company",1269789161,5,5,4.5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"401",16354,"COAST Brewing Company",1269711227,5,5,5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"402",16354,"COAST Brewing Company",1269559231,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"403",16354,"COAST Brewing Company",1269142458,4,5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"404",16354,"COAST Brewing Company",1248565180,5,4.5,5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"405",16354,"COAST Brewing Company",1246147031,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"406",16354,"COAST Brewing Company",1244653340,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"407",16354,"COAST Brewing Company",1243386958,5,4,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"408",16354,"COAST Brewing Company",1241976423,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"409",16354,"COAST Brewing Company",1241704777,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"410",16354,"COAST Brewing Company",1241288855,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"411",16354,"COAST Brewing Company",1240535047,4,5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"412",16354,"COAST Brewing Company",1240385184,4.5,5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"413",16354,"COAST Brewing Company",1240361765,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"414",16354,"COAST Brewing Company",1240361111,4,4,3.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"415",16354,"COAST Brewing Company",1240359516,5,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"416",16354,"COAST Brewing Company",1325309063,4.5,5,4,"American Double / Imperial IPA",3.5,3.5,"Boy King Double IPA",9.5,49151
+"417",16354,"COAST Brewing Company",1325136663,3.5,3,4,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"418",16354,"COAST Brewing Company",1321224296,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"419",16354,"COAST Brewing Company",1321153222,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"420",16354,"COAST Brewing Company",1319981820,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"421",16354,"COAST Brewing Company",1318555281,4.5,4.5,4.5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"422",16354,"COAST Brewing Company",1318385355,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"423",16354,"COAST Brewing Company",1317954176,5,4.5,5,"American Double / Imperial IPA",5,4.5,"Boy King Double IPA",9.5,49151
+"424",16354,"COAST Brewing Company",1317952363,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"425",16354,"COAST Brewing Company",1317602301,5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"426",16354,"COAST Brewing Company",1317364355,4,4,4,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"427",16354,"COAST Brewing Company",1317266825,4,4,4,"American Double / Imperial IPA",3.5,4,"Boy King Double IPA",9.5,49151
+"428",16354,"COAST Brewing Company",1317266160,3,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Boy King Double IPA",9.5,49151
+"429",16354,"COAST Brewing Company",1317064583,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Boy King Double IPA",9.5,49151
+"430",16354,"COAST Brewing Company",1316576217,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"431",16354,"COAST Brewing Company",1316325583,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"432",16354,"COAST Brewing Company",1316132386,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"433",16354,"COAST Brewing Company",1316052882,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"434",16354,"COAST Brewing Company",1315969195,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"435",16354,"COAST Brewing Company",1315871835,4.5,5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"436",16354,"COAST Brewing Company",1315745785,4.5,4.5,4,"American Double / Imperial IPA",4,5,"Boy King Double IPA",9.5,49151
+"437",16354,"COAST Brewing Company",1315456918,4,4.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"438",16354,"COAST Brewing Company",1315446354,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"439",16354,"COAST Brewing Company",1315335988,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"440",16354,"COAST Brewing Company",1315179111,4,4,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"441",16354,"COAST Brewing Company",1315081764,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"442",16354,"COAST Brewing Company",1314747441,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"443",16354,"COAST Brewing Company",1314642999,4.5,5,4.5,"American Double / Imperial IPA",3.5,4.5,"Boy King Double IPA",9.5,49151
+"444",16354,"COAST Brewing Company",1307114352,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"445",16354,"COAST Brewing Company",1313532360,4.5,5,5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"446",16354,"COAST Brewing Company",1313364634,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"447",16354,"COAST Brewing Company",1313133926,4.5,4,5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"448",16354,"COAST Brewing Company",1313005507,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"449",16354,"COAST Brewing Company",1312830369,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"450",16354,"COAST Brewing Company",1312672777,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"451",16354,"COAST Brewing Company",1312549156,4,4.5,3.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"452",16354,"COAST Brewing Company",1307332057,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"453",16354,"COAST Brewing Company",1312524776,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"454",16354,"COAST Brewing Company",1312508755,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"455",16354,"COAST Brewing Company",1312508671,4,5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"456",16354,"COAST Brewing Company",1312282230,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"457",16354,"COAST Brewing Company",1312012480,4,4.5,5,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"458",16354,"COAST Brewing Company",1311777912,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"459",16354,"COAST Brewing Company",1307157289,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"460",16354,"COAST Brewing Company",1310177560,4,4.5,4.5,"American Pale Ale (APA)",4.5,4,"Simcoe Pale",5.8,67058
+"461",16354,"COAST Brewing Company",1311552919,4,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Boy King Double IPA",9.5,49151
+"462",16354,"COAST Brewing Company",1311297084,4.5,5,5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"463",16354,"COAST Brewing Company",1311113894,3.5,3,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"464",16354,"COAST Brewing Company",1310957992,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"465",16354,"COAST Brewing Company",1310955965,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"466",16354,"COAST Brewing Company",1307137150,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"467",16354,"COAST Brewing Company",1310689365,4.5,5,3.5,"American Double / Imperial IPA",5,4,"Boy King Double IPA",9.5,49151
+"468",16354,"COAST Brewing Company",1310357232,4,4,4,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"469",16354,"COAST Brewing Company",1309815458,5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"470",16354,"COAST Brewing Company",1309746669,5,5,5,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"471",16354,"COAST Brewing Company",1308584188,3,3,4,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"472",16354,"COAST Brewing Company",1308094892,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"473",16354,"COAST Brewing Company",1308094398,4.5,4,5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"474",16354,"COAST Brewing Company",1307566283,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"475",16354,"COAST Brewing Company",1307072561,4,4,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"476",16354,"COAST Brewing Company",1307071438,4.5,5,4.5,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"477",16354,"COAST Brewing Company",1306946550,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"478",16354,"COAST Brewing Company",1306884332,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Boy King Double IPA",9.5,49151
+"479",16354,"COAST Brewing Company",1306765742,4,3.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"480",16354,"COAST Brewing Company",1306542937,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Boy King Double IPA",9.5,49151
+"481",16354,"COAST Brewing Company",1306538649,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"482",16354,"COAST Brewing Company",1306155626,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"483",16354,"COAST Brewing Company",1288924853,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"484",16354,"COAST Brewing Company",1288671131,3.5,4,5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"485",16354,"COAST Brewing Company",1285350614,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"486",16354,"COAST Brewing Company",1283831982,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"487",16354,"COAST Brewing Company",1283192109,4,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Boy King Double IPA",9.5,49151
+"488",16354,"COAST Brewing Company",1283134439,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"489",16354,"COAST Brewing Company",1283046037,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"490",16354,"COAST Brewing Company",1282940822,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"491",16354,"COAST Brewing Company",1282278298,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"492",16354,"COAST Brewing Company",1282154420,4.5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"493",16354,"COAST Brewing Company",1282084090,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"494",16354,"COAST Brewing Company",1281763533,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"495",16354,"COAST Brewing Company",1281664321,3,4,4,"American Double / Imperial IPA",3.5,3,"Boy King Double IPA",9.5,49151
+"496",16354,"COAST Brewing Company",1281479753,4,4,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"497",16354,"COAST Brewing Company",1281449751,5,5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"498",16354,"COAST Brewing Company",1281406419,4,4,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"499",16354,"COAST Brewing Company",1281286209,3,4.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"500",16354,"COAST Brewing Company",1281151483,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Boy King Double IPA",9.5,49151
+"501",16354,"COAST Brewing Company",1281023852,5,4.5,5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"502",16354,"COAST Brewing Company",1280890668,4.5,4.5,4,"American Double / Imperial IPA",5,5,"Boy King Double IPA",9.5,49151
+"503",16354,"COAST Brewing Company",1280839558,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Boy King Double IPA",9.5,49151
+"504",16354,"COAST Brewing Company",1280802522,4,4.5,4,"American Double / Imperial IPA",4,4,"Boy King Double IPA",9.5,49151
+"505",16354,"COAST Brewing Company",1280755358,4.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Boy King Double IPA",9.5,49151
+"506",16354,"COAST Brewing Company",1280694361,3.5,5,4,"American Double / Imperial IPA",3,4,"Boy King Double IPA",9.5,49151
+"507",16354,"COAST Brewing Company",1310747814,3.5,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"508",16354,"COAST Brewing Company",1301153687,4.5,4.5,3.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"509",16354,"COAST Brewing Company",1300566998,4,4,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"510",16354,"COAST Brewing Company",1300565122,4,4.5,4.5,"Russian Imperial Stout",3,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"511",16354,"COAST Brewing Company",1300564956,4,4,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"512",16354,"COAST Brewing Company",1232150905,4.5,4,4,"Irish Dry Stout",4,4,"DIS Stout",6,47308
+"513",16354,"COAST Brewing Company",1299125264,4,3,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"514",16354,"COAST Brewing Company",1298919910,4.5,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"515",16354,"COAST Brewing Company",1298820152,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"516",16354,"COAST Brewing Company",1292526636,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"517",16354,"COAST Brewing Company",1287281172,3.5,3.5,3.5,"Russian Imperial Stout",2.5,3,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"518",16354,"COAST Brewing Company",1281540557,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"519",16354,"COAST Brewing Company",1281121076,4.5,4,4,"Russian Imperial Stout",4.5,3.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"520",16354,"COAST Brewing Company",1269810221,4,4.5,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"521",16354,"COAST Brewing Company",1279473352,5,5,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"522",16354,"COAST Brewing Company",1278768498,4,4.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"523",16354,"COAST Brewing Company",1278653362,4.5,4,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"524",16354,"COAST Brewing Company",1275964459,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"525",16354,"COAST Brewing Company",1275148132,4,4,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"526",16354,"COAST Brewing Company",1274161427,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"527",16354,"COAST Brewing Company",1272218493,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"528",16354,"COAST Brewing Company",1270531304,4,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"529",16354,"COAST Brewing Company",1268341088,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"530",16354,"COAST Brewing Company",1267477822,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"531",16354,"COAST Brewing Company",1266376212,4,5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"532",16354,"COAST Brewing Company",1260641132,4,4.5,4,"Russian Imperial Stout",3.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"533",16354,"COAST Brewing Company",1260410389,2,3.5,4,"Russian Imperial Stout",2.5,3,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"534",16354,"COAST Brewing Company",1258686278,4,4,3.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"535",16354,"COAST Brewing Company",1242599898,4,5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"536",16354,"COAST Brewing Company",1258376581,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"537",16354,"COAST Brewing Company",1257807361,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"538",16354,"COAST Brewing Company",1257702970,4,4.5,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"539",16354,"COAST Brewing Company",1257650820,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"540",16354,"COAST Brewing Company",1256593305,4,4,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"541",16354,"COAST Brewing Company",1254850678,3.5,4.5,4,"Russian Imperial Stout",3.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"542",16354,"COAST Brewing Company",1254201249,5,5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"543",16354,"COAST Brewing Company",1253563055,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"544",16354,"COAST Brewing Company",1249767650,5,4.5,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"545",16354,"COAST Brewing Company",1248657862,5,4.5,5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"546",16354,"COAST Brewing Company",1248611741,2.5,2,3,"Russian Imperial Stout",2.5,2,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"547",16354,"COAST Brewing Company",1247801328,2,4,4.5,"Russian Imperial Stout",2,3.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"548",16354,"COAST Brewing Company",1245734606,5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"549",16354,"COAST Brewing Company",1245602801,4,4.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"550",16354,"COAST Brewing Company",1244145057,4,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"551",16354,"COAST Brewing Company",1243798469,5,5,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"552",16354,"COAST Brewing Company",1242754069,4,4.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"553",16354,"COAST Brewing Company",1324142093,4.5,4,4,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"554",16354,"COAST Brewing Company",1242599196,4.5,4.5,5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"555",16354,"COAST Brewing Company",1241927755,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"556",16354,"COAST Brewing Company",1239764752,5,4.5,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"557",16354,"COAST Brewing Company",1239327964,4.5,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"558",16354,"COAST Brewing Company",1239327353,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"559",16354,"COAST Brewing Company",1239326632,5,5,4,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"560",16354,"COAST Brewing Company",1239239707,4.5,4.5,4,"Russian Imperial Stout",5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"561",16354,"COAST Brewing Company",1298771696,4.5,4,4.5,"Milk / Sweet Stout",5,5,"Milk Stout",5.7,66078
+"562",16354,"COAST Brewing Company",1239068515,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"563",16354,"COAST Brewing Company",1239042196,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"564",16354,"COAST Brewing Company",1238871385,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"565",16354,"COAST Brewing Company",1238801576,5,5,5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"566",16354,"COAST Brewing Company",1238555395,5,5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"567",16354,"COAST Brewing Company",1238459950,5,5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"568",16354,"COAST Brewing Company",1238346851,5,5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"569",16354,"COAST Brewing Company",1291468103,4.5,4.5,4.5,"American Amber / Red Ale",4,4,"Carnie Fire",5,63811
+"570",16354,"COAST Brewing Company",1238296994,5,5,5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"571",16354,"COAST Brewing Company",1237942705,5,5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"572",16354,"COAST Brewing Company",1237942015,5,5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"573",16354,"COAST Brewing Company",1237922019,4.5,5,4.5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"574",16354,"COAST Brewing Company",1237047674,5,5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"575",16354,"COAST Brewing Company",1236908361,4,5,4,"Russian Imperial Stout",4,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"576",16354,"COAST Brewing Company",1236142433,5,4.5,4.5,"Russian Imperial Stout",4,5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"577",16354,"COAST Brewing Company",1236017761,4.5,5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"578",16354,"COAST Brewing Company",1235875790,5,5,5,"Russian Imperial Stout",5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"579",16354,"COAST Brewing Company",1235846589,4,5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout, Jack Daniels Barrel Aged",9.3,48159
+"580",16354,"COAST Brewing Company",1319074861,4,4,4.5,"Milk / Sweet Stout",4.5,4,"Milk Stout",5.7,66078
+"581",16354,"COAST Brewing Company",1306285865,4,4,5,"Milk / Sweet Stout",3.5,3.5,"Milk Stout",5.7,66078
+"582",16354,"COAST Brewing Company",1305602159,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Milk Stout",5.7,66078
+"583",16354,"COAST Brewing Company",1299202442,5,4.5,5,"Milk / Sweet Stout",5,4.5,"Milk Stout",5.7,66078
+"584",16354,"COAST Brewing Company",1299109384,5,4.5,5,"Milk / Sweet Stout",4.5,4.5,"Milk Stout",5.7,66078
+"585",16354,"COAST Brewing Company",1297645747,4.5,5,4,"Milk / Sweet Stout",4.5,4.5,"Milk Stout",5.7,66078
+"586",16354,"COAST Brewing Company",1296652766,4,4.5,4.5,"American Amber / Red Ale",4,4.5,"Carnie Fire",5,63811
+"587",16354,"COAST Brewing Company",1295158813,5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Carnie Fire",5,63811
+"588",16354,"COAST Brewing Company",1293336936,5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Carnie Fire",5,63811
+"589",16354,"COAST Brewing Company",1292893945,5,5,4.5,"American Amber / Red Ale",5,5,"Carnie Fire",5,63811
+"590",16354,"COAST Brewing Company",1292809730,4.5,4,4.5,"American Amber / Red Ale",4.5,4,"Carnie Fire",5,63811
+"591",16354,"COAST Brewing Company",1292190816,4.5,5,4.5,"American Amber / Red Ale",4.5,5,"Carnie Fire",5,63811
+"592",16354,"COAST Brewing Company",1291757806,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Carnie Fire",5,63811
+"593",16354,"COAST Brewing Company",1291533030,5,5,4.5,"American Amber / Red Ale",4.5,4.5,"Carnie Fire",5,63811
+"594",16354,"COAST Brewing Company",1290657264,5,4.5,4,"American Amber / Red Ale",4.5,4,"Carnie Fire",5,63811
+"595",16354,"COAST Brewing Company",1314545003,4,4,3.5,"Belgian Pale Ale",4,4,"Belafonte",5.7,58029
+"596",16354,"COAST Brewing Company",1312505345,5,4.5,3,"Belgian Pale Ale",4.5,4.5,"Belafonte",5.7,58029
+"597",16354,"COAST Brewing Company",1292474678,5,4.5,4,"Belgian Pale Ale",4,4.5,"Belafonte",5.7,58029
+"598",16354,"COAST Brewing Company",1286808731,4.5,4,4,"Belgian Pale Ale",4.5,4,"Belafonte",5.7,58029
+"599",16354,"COAST Brewing Company",1284752405,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4.5,"Belafonte",5.7,58029
+"600",16354,"COAST Brewing Company",1277169050,5,4,4.5,"Belgian Pale Ale",4.5,5,"Belafonte",5.7,58029
+"601",16354,"COAST Brewing Company",1275781282,4,4,4,"Belgian Pale Ale",4.5,4.5,"Belafonte",5.7,58029
+"602",16354,"COAST Brewing Company",1275263922,3.5,4,4,"Belgian Pale Ale",3.5,3.5,"Belafonte",5.7,58029
+"603",16354,"COAST Brewing Company",1275087255,5,4,5,"Belgian Pale Ale",4.5,4.5,"Belafonte",5.7,58029
+"604",16354,"COAST Brewing Company",1274843189,3.5,4,4.5,"Belgian Pale Ale",4.5,4,"Belafonte",5.7,58029
+"605",16354,"COAST Brewing Company",1274755352,4.5,3.5,4.5,"Belgian Pale Ale",3.5,4.5,"Belafonte",5.7,58029
+"606",16354,"COAST Brewing Company",1273974880,4,4,4.5,"Belgian Pale Ale",4,4.5,"Belafonte",5.7,58029
+"607",16354,"COAST Brewing Company",1273925436,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4,"Belafonte",5.7,58029
+"608",16354,"COAST Brewing Company",1273807945,3,4.5,4,"Belgian Pale Ale",5,4,"Belafonte",5.7,58029
+"609",16354,"COAST Brewing Company",1319074944,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Simcoe Pale",5.8,67058
+"610",16354,"COAST Brewing Company",1302019936,4,4,4,"American Pale Ale (APA)",4.5,4,"Simcoe Pale",5.8,67058
+"611",16354,"COAST Brewing Company",1301512079,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Simcoe Pale",5.8,67058
+"612",16354,"COAST Brewing Company",1301157208,4.5,4.5,4.5,"American Pale Ale (APA)",4,4.5,"Simcoe Pale",5.8,67058
+"613",16354,"COAST Brewing Company",1240886470,5,3.5,4,"Irish Dry Stout",4.5,4.5,"DIS Stout",6,47308
+"614",16354,"COAST Brewing Company",1233715235,4.5,4.5,4.5,"Irish Dry Stout",4,4,"DIS Stout",6,47308
+"615",16354,"COAST Brewing Company",1232845942,5,4.5,4.5,"Irish Dry Stout",5,5,"DIS Stout",6,47308
+"616",16354,"COAST Brewing Company",1232744018,5,4.5,4,"Irish Dry Stout",4,4.5,"DIS Stout",6,47308
+"617",16354,"COAST Brewing Company",1232591076,4.5,4.5,5,"Irish Dry Stout",4,5,"DIS Stout",6,47308
+"618",16354,"COAST Brewing Company",1232163240,4,3.5,4.5,"Irish Dry Stout",4.5,4.5,"DIS Stout",6,47308
+"619",16354,"COAST Brewing Company",1322343810,4,3.5,3.5,"American Brown Ale",4,4,"Rye Knot Brown",6.1,39239
+"620",16354,"COAST Brewing Company",1321836051,4.5,4,3.5,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"621",16354,"COAST Brewing Company",1299023173,4.5,4.5,4,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"622",16354,"COAST Brewing Company",1296244481,3.5,3,4,"American Brown Ale",4,3.5,"Rye Knot Brown",6.1,39239
+"623",16354,"COAST Brewing Company",1293542055,4,4.5,4,"American Brown Ale",4,4,"Rye Knot Brown",6.1,39239
+"624",16354,"COAST Brewing Company",1292810150,3,3.5,4.5,"American Brown Ale",4.5,3.5,"Rye Knot Brown",6.1,39239
+"625",16354,"COAST Brewing Company",1291683299,4,4.5,4.5,"American Brown Ale",4,5,"Rye Knot Brown",6.1,39239
+"626",16354,"COAST Brewing Company",1290657965,5,4,4.5,"American Brown Ale",5,4.5,"Rye Knot Brown",6.1,39239
+"627",16354,"COAST Brewing Company",1290132393,5,4,4.5,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"628",16354,"COAST Brewing Company",1289748927,5,4,4.5,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"629",16354,"COAST Brewing Company",1294439600,5,4.5,4,"Kölsch",4.5,4,"32/50",4.8,39238
+"630",16354,"COAST Brewing Company",1289440084,4.5,4,4,"American Brown Ale",4.5,4,"Rye Knot Brown",6.1,39239
+"631",16354,"COAST Brewing Company",1289105211,4,3.5,4,"American Brown Ale",4,4,"Rye Knot Brown",6.1,39239
+"632",16354,"COAST Brewing Company",1288616837,4,4,4.5,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"633",16354,"COAST Brewing Company",1262071355,3.5,4.5,4,"American Brown Ale",3.5,4,"Rye Knot Brown",6.1,39239
+"634",16354,"COAST Brewing Company",1259971092,4,4.5,3.5,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"635",16354,"COAST Brewing Company",1259789126,5,4,4,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"636",16354,"COAST Brewing Company",1259118669,4.5,4,4,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"637",16354,"COAST Brewing Company",1259009417,4.5,3,3.5,"American Brown Ale",4,4,"Rye Knot Brown",6.1,39239
+"638",16354,"COAST Brewing Company",1257703684,3.5,4,4,"American Brown Ale",3,4,"Rye Knot Brown",6.1,39239
+"639",16354,"COAST Brewing Company",1257189473,4,4,4,"American Brown Ale",4.5,4,"Rye Knot Brown",6.1,39239
+"640",16354,"COAST Brewing Company",1231604968,4.5,4.5,4.5,"American Brown Ale",4,4,"Rye Knot Brown",6.1,39239
+"641",16354,"COAST Brewing Company",1230690957,4.5,4.5,4,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"642",16354,"COAST Brewing Company",1227584403,5,4.5,3.5,"American Brown Ale",4,5,"Rye Knot Brown",6.1,39239
+"643",16354,"COAST Brewing Company",1227197864,4,4,4.5,"American Brown Ale",4.5,4,"Rye Knot Brown",6.1,39239
+"644",16354,"COAST Brewing Company",1225978328,4.5,4.5,4.5,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"645",16354,"COAST Brewing Company",1225320567,4.5,4,4.5,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"646",16354,"COAST Brewing Company",1325905753,4,4,3,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"647",16354,"COAST Brewing Company",1224254880,4.5,4.5,4.5,"American Brown Ale",4.5,4.5,"Rye Knot Brown",6.1,39239
+"648",16354,"COAST Brewing Company",1222297042,5,4.5,4.5,"American Brown Ale",5,5,"Rye Knot Brown",6.1,39239
+"649",16354,"COAST Brewing Company",1207106829,4.5,4.5,4,"American Brown Ale",4.5,5,"Rye Knot Brown",6.1,39239
+"650",16354,"COAST Brewing Company",1193030326,4,4,4,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"651",16354,"COAST Brewing Company",1192925675,4,4,4.5,"American Brown Ale",4,4.5,"Rye Knot Brown",6.1,39239
+"652",16354,"COAST Brewing Company",1236061200,3,3.5,4.5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"653",16354,"COAST Brewing Company",1300564358,4,3.5,5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"654",16354,"COAST Brewing Company",1235238457,4,3.5,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"655",16354,"COAST Brewing Company",1233539643,4.5,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"656",16354,"COAST Brewing Company",1233524738,5,4.5,4,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout",9.3,39965
+"657",16354,"COAST Brewing Company",1231818279,4.5,4,3.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"658",16354,"COAST Brewing Company",1231809914,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"659",16354,"COAST Brewing Company",1231723986,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"660",16354,"COAST Brewing Company",1231721962,4,4,4,"Russian Imperial Stout",3.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"661",16354,"COAST Brewing Company",1231648017,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"662",16354,"COAST Brewing Company",1231638652,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"663",16354,"COAST Brewing Company",1231249737,4.5,4,5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"664",16354,"COAST Brewing Company",1230774634,5,4.5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout",9.3,39965
+"665",16354,"COAST Brewing Company",1229840593,5,5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout",9.3,39965
+"666",16354,"COAST Brewing Company",1228186242,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"667",16354,"COAST Brewing Company",1223338757,4,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"668",16354,"COAST Brewing Company",1223226823,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"669",16354,"COAST Brewing Company",1223096279,5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"670",16354,"COAST Brewing Company",1221345850,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"671",16354,"COAST Brewing Company",1220897032,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"672",16354,"COAST Brewing Company",1218120687,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"673",16354,"COAST Brewing Company",1217363497,4,4.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"674",16354,"COAST Brewing Company",1216946617,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"675",16354,"COAST Brewing Company",1211648325,5,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"676",16354,"COAST Brewing Company",1210471952,3,3,4,"Russian Imperial Stout",3,3,"Blackbeerd Imperial Stout",9.3,39965
+"677",16354,"COAST Brewing Company",1210471191,3.5,3.5,3.5,"Russian Imperial Stout",3,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"678",16354,"COAST Brewing Company",1210470573,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"679",16354,"COAST Brewing Company",1294360628,4.5,4,3,"Kölsch",4,3.5,"32/50",4.8,39238
+"680",16354,"COAST Brewing Company",1210439694,5,4.5,4.5,"Russian Imperial Stout",4,5,"Blackbeerd Imperial Stout",9.3,39965
+"681",16354,"COAST Brewing Company",1208472963,4,4.5,4,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout",9.3,39965
+"682",16354,"COAST Brewing Company",1207698669,5,5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"683",16354,"COAST Brewing Company",1207012783,5,4.5,4.5,"Russian Imperial Stout",4.5,5,"Blackbeerd Imperial Stout",9.3,39965
+"684",16354,"COAST Brewing Company",1206810787,5,5,5,"Russian Imperial Stout",5,5,"Blackbeerd Imperial Stout",9.3,39965
+"685",16354,"COAST Brewing Company",1203552844,4.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"686",16354,"COAST Brewing Company",1200026618,4,3.5,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"687",16354,"COAST Brewing Company",1197154618,5,4.5,4.5,"Russian Imperial Stout",5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"688",16354,"COAST Brewing Company",1323090608,4,4,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"689",16354,"COAST Brewing Company",1322371259,4,4,3.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"690",16354,"COAST Brewing Company",1318816649,3.5,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"691",16354,"COAST Brewing Company",1318555659,4,3.5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"692",16354,"COAST Brewing Company",1317363959,4,2,3.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"693",16354,"COAST Brewing Company",1316903535,3.5,3.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"694",16354,"COAST Brewing Company",1316734332,4.5,5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"695",16354,"COAST Brewing Company",1315153869,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"696",16354,"COAST Brewing Company",1314514092,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"697",16354,"COAST Brewing Company",1300564016,4,4,3.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"698",16354,"COAST Brewing Company",1311534688,4,4,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"699",16354,"COAST Brewing Company",1311468236,4,3.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"700",16354,"COAST Brewing Company",1311464075,4.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"701",16354,"COAST Brewing Company",1310747098,3.5,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"702",16354,"COAST Brewing Company",1309479733,4,4.5,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"703",16354,"COAST Brewing Company",1309011817,3.5,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"704",16354,"COAST Brewing Company",1300029638,4,4.5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"705",16354,"COAST Brewing Company",1307502685,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"706",16354,"COAST Brewing Company",1306478378,4.5,4,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"707",16354,"COAST Brewing Company",1306465894,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"708",16354,"COAST Brewing Company",1305552946,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"709",16354,"COAST Brewing Company",1304432607,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"710",16354,"COAST Brewing Company",1301152854,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"711",16354,"COAST Brewing Company",1300840148,4,4.5,5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"712",16354,"COAST Brewing Company",1300565683,4,3.5,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"713",16354,"COAST Brewing Company",1299383779,4,4.5,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"714",16354,"COAST Brewing Company",1297725024,4,4.5,4.5,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"715",16354,"COAST Brewing Company",1296834016,3.5,3.5,3.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"716",16354,"COAST Brewing Company",1296090423,3,4,3.5,"Russian Imperial Stout",3,3,"Blackbeerd Imperial Stout",9.3,39965
+"717",16354,"COAST Brewing Company",1294806436,4,4,5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"718",16354,"COAST Brewing Company",1294719269,3.5,4,4.5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"719",16354,"COAST Brewing Company",1292911196,4.5,4,3.5,"Russian Imperial Stout",4.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"720",16354,"COAST Brewing Company",1292712662,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"721",16354,"COAST Brewing Company",1292460697,3,3.5,4,"Russian Imperial Stout",3,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"722",16354,"COAST Brewing Company",1277349181,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"723",16354,"COAST Brewing Company",1292003302,3.5,4,4.5,"Russian Imperial Stout",3,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"724",16354,"COAST Brewing Company",1291795348,2,4,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"725",16354,"COAST Brewing Company",1291276801,4,4,4.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"726",16354,"COAST Brewing Company",1291255732,3.5,3.5,4.5,"Russian Imperial Stout",4,3,"Blackbeerd Imperial Stout",9.3,39965
+"727",16354,"COAST Brewing Company",1289588865,4.5,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"728",16354,"COAST Brewing Company",1289282080,4,4,3.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"729",16354,"COAST Brewing Company",1289272311,4,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"730",16354,"COAST Brewing Company",1272273242,4,4,4,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout",9.3,39965
+"731",16354,"COAST Brewing Company",1288193900,4,4,4,"Russian Imperial Stout",3.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"732",16354,"COAST Brewing Company",1288139955,4.5,5,4.5,"Russian Imperial Stout",2,4,"Blackbeerd Imperial Stout",9.3,39965
+"733",16354,"COAST Brewing Company",1287281669,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"734",16354,"COAST Brewing Company",1284122399,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"735",16354,"COAST Brewing Company",1284072247,4,4,4.5,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"736",16354,"COAST Brewing Company",1255730940,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Double IPA #2",8.5,52661
+"737",16354,"COAST Brewing Company",1281995102,3.5,4.5,4.5,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout",9.3,39965
+"738",16354,"COAST Brewing Company",1281535838,3,3.5,3.5,"Russian Imperial Stout",2.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"739",16354,"COAST Brewing Company",1281134921,4,4,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"740",16354,"COAST Brewing Company",1279154131,4,4.5,4.5,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"741",16354,"COAST Brewing Company",1278723368,4.5,3.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"742",16354,"COAST Brewing Company",1278542677,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"743",16354,"COAST Brewing Company",1278012695,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"744",16354,"COAST Brewing Company",1277709841,4,4,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"745",16354,"COAST Brewing Company",1277661943,4,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"746",16354,"COAST Brewing Company",1276493170,4,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"747",16354,"COAST Brewing Company",1275965066,4,3.5,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"748",16354,"COAST Brewing Company",1275680556,4.5,4,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"749",16354,"COAST Brewing Company",1275306135,4,3.5,4,"Russian Imperial Stout",3,3,"Blackbeerd Imperial Stout",9.3,39965
+"750",16354,"COAST Brewing Company",1275247527,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"751",16354,"COAST Brewing Company",1273438013,4,4,4.5,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout",9.3,39965
+"752",16354,"COAST Brewing Company",1273192586,4,4,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"753",16354,"COAST Brewing Company",1309406073,4,4,4,"Kölsch",4.5,4,"32/50",4.8,39238
+"754",16354,"COAST Brewing Company",1272237669,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"755",16354,"COAST Brewing Company",1271545645,4,4,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"756",16354,"COAST Brewing Company",1271119694,4,4.5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"757",16354,"COAST Brewing Company",1270954000,4.5,3.5,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"758",16354,"COAST Brewing Company",1270946712,4,4.5,5,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"759",16354,"COAST Brewing Company",1270431609,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"760",16354,"COAST Brewing Company",1269219217,4,4.5,4,"Russian Imperial Stout",3.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"761",16354,"COAST Brewing Company",1268807383,4.5,4,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"762",16354,"COAST Brewing Company",1268781088,5,3.5,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"763",16354,"COAST Brewing Company",1268631895,3.5,3,2.5,"Russian Imperial Stout",3,4,"Blackbeerd Imperial Stout",9.3,39965
+"764",16354,"COAST Brewing Company",1268450853,4.5,4,4,"Russian Imperial Stout",4,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"765",16354,"COAST Brewing Company",1268352053,3.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"766",16354,"COAST Brewing Company",1268279971,4,3,4,"Russian Imperial Stout",4,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"767",16354,"COAST Brewing Company",1268013703,4.5,3,4.5,"Russian Imperial Stout",4,3,"Blackbeerd Imperial Stout",9.3,39965
+"768",16354,"COAST Brewing Company",1267681857,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"769",16354,"COAST Brewing Company",1267420553,4,4,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"770",16354,"COAST Brewing Company",1308638466,5,5,5,"Kölsch",5,5,"32/50",4.8,39238
+"771",16354,"COAST Brewing Company",1258659361,4,4,4,"Russian Imperial Stout",4.5,4,"Blackbeerd Imperial Stout",9.3,39965
+"772",16354,"COAST Brewing Company",1258377209,4,4.5,4,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"773",16354,"COAST Brewing Company",1251016242,2,3.5,3.5,"Russian Imperial Stout",2,3,"Blackbeerd Imperial Stout",9.3,39965
+"774",16354,"COAST Brewing Company",1247622529,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"775",16354,"COAST Brewing Company",1244330977,3,3.5,4,"Russian Imperial Stout",3,3,"Blackbeerd Imperial Stout",9.3,39965
+"776",16354,"COAST Brewing Company",1242179545,4,5,4.5,"Russian Imperial Stout",4,4,"Blackbeerd Imperial Stout",9.3,39965
+"777",16354,"COAST Brewing Company",1239041133,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Blackbeerd Imperial Stout",9.3,39965
+"778",16354,"COAST Brewing Company",1236642055,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Blackbeerd Imperial Stout",9.3,39965
+"779",16354,"COAST Brewing Company",1318528612,4.5,5,4,"American Barleywine",4,5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"780",16354,"COAST Brewing Company",1317514539,3,4.5,4,"American Barleywine",3.5,3,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"781",16354,"COAST Brewing Company",1314659185,4,4,4.5,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"782",16354,"COAST Brewing Company",1314569539,4.5,4.5,4.5,"American Barleywine",4.5,4,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"783",16354,"COAST Brewing Company",1314110934,4.5,4.5,4,"American Barleywine",3.5,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"784",16354,"COAST Brewing Company",1314031124,4.5,4.5,4.5,"American Barleywine",4.5,4,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"785",16354,"COAST Brewing Company",1312343731,4.5,4,3,"Kölsch",3.5,5,"32/50",4.8,39238
+"786",16354,"COAST Brewing Company",1311800254,4.5,4.5,4,"American Barleywine",4,5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"787",16354,"COAST Brewing Company",1309572213,5,4.5,4,"American Barleywine",4.5,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"788",16354,"COAST Brewing Company",1309027013,4,3.5,4,"American Barleywine",3.5,4,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"789",16354,"COAST Brewing Company",1308806531,4,4.5,4,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"790",16354,"COAST Brewing Company",1307533423,4.5,4.5,4,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"791",16354,"COAST Brewing Company",1307412375,5,4.5,3.5,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"792",16354,"COAST Brewing Company",1307259137,4,4.5,4,"American Barleywine",3.5,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"793",16354,"COAST Brewing Company",1307156047,4.5,4.5,4.5,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"794",16354,"COAST Brewing Company",1299340504,4.5,4.5,4,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"795",16354,"COAST Brewing Company",1298987200,4.5,4,4,"American Barleywine",4.5,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"796",16354,"COAST Brewing Company",1298848501,4,5,4,"American Barleywine",4,4.5,"Old Nuptial - Bourbon Barrel Aged Barleywine",11,66136
+"797",16354,"COAST Brewing Company",1323707737,4.5,4.5,4,"American Pale Ale (APA)",4.5,4,"Chinook Pale",6.6,73602
+"798",16354,"COAST Brewing Company",1321845453,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Chinook Pale",6.6,73602
+"799",16354,"COAST Brewing Company",1320755984,4,4,4.5,"American Pale Ale (APA)",4,4,"Chinook Pale",6.6,73602
+"800",16354,"COAST Brewing Company",1318542744,4.5,5,4,"American Pale Ale (APA)",4,4.5,"Chinook Pale",6.6,73602
+"801",16354,"COAST Brewing Company",1317342420,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Chinook Pale",6.6,73602
+"802",16354,"COAST Brewing Company",1301660770,4,4,4,"American Stout",4.5,4,"Bulls Bay Oyster Stout",6.5,65420
+"803",16354,"COAST Brewing Company",1301260218,4.5,4.5,4.5,"American Stout",4.5,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"804",16354,"COAST Brewing Company",1300189594,4.5,4,4.5,"American Stout",5,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"805",16354,"COAST Brewing Company",1298511410,4.5,4,4.5,"American Stout",4.5,4,"Bulls Bay Oyster Stout",6.5,65420
+"806",16354,"COAST Brewing Company",1310246079,4.5,4,3,"Kölsch",4.5,5,"32/50",4.8,39238
+"807",16354,"COAST Brewing Company",1298168728,4.5,4.5,4,"American Stout",4.5,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"808",16354,"COAST Brewing Company",1297992430,4.5,4,4,"American Stout",4.5,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"809",16354,"COAST Brewing Company",1296514287,4.5,3.5,4,"American Stout",3.5,4,"Bulls Bay Oyster Stout",6.5,65420
+"810",16354,"COAST Brewing Company",1296027432,4.5,4,4,"American Stout",4,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"811",16354,"COAST Brewing Company",1296007793,4.5,4.5,4.5,"American Stout",4.5,4.5,"Bulls Bay Oyster Stout",6.5,65420
+"812",16354,"COAST Brewing Company",1261960952,3.5,3,4.5,"American Double / Imperial IPA",3.5,3.5,"Double IPA #2",8.5,52661
+"813",16354,"COAST Brewing Company",1260919098,3.5,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Double IPA #2",8.5,52661
+"814",16354,"COAST Brewing Company",1259420025,3,3.5,4,"American Double / Imperial IPA",3.5,3.5,"Double IPA #2",8.5,52661
+"815",16354,"COAST Brewing Company",1258840628,4,4,3.5,"American Double / Imperial IPA",4,4,"Double IPA #2",8.5,52661
+"816",16354,"COAST Brewing Company",1258409711,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Double IPA #2",8.5,52661
+"817",16354,"COAST Brewing Company",1257644536,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Double IPA #2",8.5,52661
+"818",16354,"COAST Brewing Company",1257477227,4,4,4.5,"American Double / Imperial IPA",3,3.5,"Double IPA #2",8.5,52661
+"819",16354,"COAST Brewing Company",1257278903,4,4,4,"American Double / Imperial IPA",4.5,4,"Double IPA #2",8.5,52661
+"820",16354,"COAST Brewing Company",1256689342,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Double IPA #2",8.5,52661
+"821",16354,"COAST Brewing Company",1255743224,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Double IPA #2",8.5,52661
+"822",16354,"COAST Brewing Company",1255558597,5,5,4.5,"American Double / Imperial IPA",4.5,4.5,"Double IPA #2",8.5,52661
+"823",16354,"COAST Brewing Company",1253566486,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Double IPA #2",8.5,52661
+"824",16354,"COAST Brewing Company",1253459726,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Double IPA #2",8.5,52661
+"825",16354,"COAST Brewing Company",1253118159,4.5,3,4.5,"American Double / Imperial IPA",4.5,3.5,"Double IPA #2",8.5,52661
+"826",16354,"COAST Brewing Company",1192925276,5,3.5,4,"Kölsch",4,4,"32/50",4.8,39238
+"827",16354,"COAST Brewing Company",1324337560,4.5,4,4.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"828",16354,"COAST Brewing Company",1322007972,4,4,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"829",16354,"COAST Brewing Company",1320755428,4,4,4,"Kölsch",4.5,4,"32/50",4.8,39238
+"830",16354,"COAST Brewing Company",1320755106,4.5,4,4.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"831",16354,"COAST Brewing Company",1318977156,4,4,3.5,"Kölsch",4,4,"32/50",4.8,39238
+"832",16354,"COAST Brewing Company",1318383205,4,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"833",16354,"COAST Brewing Company",1316562137,4.5,4,4,"Kölsch",4.5,4,"32/50",4.8,39238
+"834",16354,"COAST Brewing Company",1314800257,5,4.5,4.5,"Kölsch",5,5,"32/50",4.8,39238
+"835",16354,"COAST Brewing Company",1314330213,4,3.5,3.5,"Kölsch",4,4,"32/50",4.8,39238
+"836",16354,"COAST Brewing Company",1312575872,2.5,3,4,"Kölsch",4,2.5,"32/50",4.8,39238
+"837",16354,"COAST Brewing Company",1308512792,4.5,4.5,4,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"838",16354,"COAST Brewing Company",1307571854,4.5,4.5,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"839",16354,"COAST Brewing Company",1305742485,4,4,3.5,"Kölsch",4,4,"32/50",4.8,39238
+"840",16354,"COAST Brewing Company",1305731406,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"841",16354,"COAST Brewing Company",1305510046,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"842",16354,"COAST Brewing Company",1302502259,4,4,4.5,"Kölsch",4.5,4,"32/50",4.8,39238
+"843",16354,"COAST Brewing Company",1301843924,4,4,4,"Kölsch",3.5,4,"32/50",4.8,39238
+"844",16354,"COAST Brewing Company",1299970040,5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"845",16354,"COAST Brewing Company",1298948065,5,4,3.5,"Kölsch",4.5,4,"32/50",4.8,39238
+"846",16354,"COAST Brewing Company",1296341331,5,4.5,4.5,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"847",16354,"COAST Brewing Company",1289013089,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"848",16354,"COAST Brewing Company",1288407744,4.5,4,5,"Kölsch",4,4.5,"32/50",4.8,39238
+"849",16354,"COAST Brewing Company",1286486530,4.5,4.5,3.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"850",16354,"COAST Brewing Company",1285640136,4.5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"851",16354,"COAST Brewing Company",1285247127,3,3,4,"Kölsch",3,3,"32/50",4.8,39238
+"852",16354,"COAST Brewing Company",1284163758,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"853",16354,"COAST Brewing Company",1283899779,5,4.5,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"854",16354,"COAST Brewing Company",1283618691,3.5,4,4.5,"Kölsch",2.5,3.5,"32/50",4.8,39238
+"855",16354,"COAST Brewing Company",1283412426,4.5,3.5,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"856",16354,"COAST Brewing Company",1283300982,5,4.5,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"857",16354,"COAST Brewing Company",1281903053,3.5,3,4,"Kölsch",3.5,3,"32/50",4.8,39238
+"858",16354,"COAST Brewing Company",1281677252,5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"859",16354,"COAST Brewing Company",1281276106,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"860",16354,"COAST Brewing Company",1280947646,4.5,4.5,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"861",16354,"COAST Brewing Company",1280710366,5,4,4.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"862",16354,"COAST Brewing Company",1279943012,4.5,4.5,4.5,"Kölsch",3.5,4,"32/50",4.8,39238
+"863",16354,"COAST Brewing Company",1279667112,4.5,3.5,4.5,"Kölsch",4.5,4,"32/50",4.8,39238
+"864",16354,"COAST Brewing Company",1278800282,4.5,4,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"865",16354,"COAST Brewing Company",1277610711,4.5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"866",16354,"COAST Brewing Company",1277489672,4.5,4.5,4.5,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"867",16354,"COAST Brewing Company",1277433408,5,4,3.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"868",16354,"COAST Brewing Company",1276639626,4,4,4.5,"Kölsch",3.5,4,"32/50",4.8,39238
+"869",16354,"COAST Brewing Company",1275615983,5,4,4.5,"Kölsch",4.5,5,"32/50",4.8,39238
+"870",16354,"COAST Brewing Company",1274670655,5,3,4,"Kölsch",4,4,"32/50",4.8,39238
+"871",16354,"COAST Brewing Company",1274229181,4.5,4,4.5,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"872",16354,"COAST Brewing Company",1273366641,5,4,5,"Kölsch",4,4,"32/50",4.8,39238
+"873",16354,"COAST Brewing Company",1273003468,5,3.5,3.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"874",16354,"COAST Brewing Company",1272687601,4,3.5,4,"Kölsch",4,4,"32/50",4.8,39238
+"875",16354,"COAST Brewing Company",1272347396,3.5,4,4,"Kölsch",4,3.5,"32/50",4.8,39238
+"876",16354,"COAST Brewing Company",1271131265,5,3.5,3.5,"Kölsch",4.5,4,"32/50",4.8,39238
+"877",16354,"COAST Brewing Company",1270939602,4.5,3.5,5,"Kölsch",4.5,4,"32/50",4.8,39238
+"878",16354,"COAST Brewing Company",1270782745,5,3.5,4,"Kölsch",4,4,"32/50",4.8,39238
+"879",16354,"COAST Brewing Company",1270437836,4,4,3.5,"Kölsch",3.5,4,"32/50",4.8,39238
+"880",16354,"COAST Brewing Company",1220045302,5,5,5,"Kölsch",4.5,5,"32/50",4.8,39238
+"881",16354,"COAST Brewing Company",1267725893,4.5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"882",16354,"COAST Brewing Company",1267493886,4.5,3.5,4,"Kölsch",4.5,4,"32/50",4.8,39238
+"883",16354,"COAST Brewing Company",1267073078,5,3.5,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"884",16354,"COAST Brewing Company",1266971199,4.5,4,4.5,"Kölsch",4,4.5,"32/50",4.8,39238
+"885",16354,"COAST Brewing Company",1266139968,3,3,4,"Kölsch",3.5,3.5,"32/50",4.8,39238
+"886",16354,"COAST Brewing Company",1266121874,4.5,3.5,3.5,"Kölsch",3.5,4,"32/50",4.8,39238
+"887",16354,"COAST Brewing Company",1264993900,5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"888",16354,"COAST Brewing Company",1264671497,4.5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"889",16354,"COAST Brewing Company",1310911588,4,4,4.5,"Scottish Ale",4.5,4.5,"Red Legs Scotch Ale",6.6,41573
+"890",16354,"COAST Brewing Company",1264222904,5,4,3.5,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"891",16354,"COAST Brewing Company",1263670239,4.5,4.5,3.5,"Kölsch",5,4,"32/50",4.8,39238
+"892",16354,"COAST Brewing Company",1261345397,5,4.5,3,"Kölsch",4.5,5,"32/50",4.8,39238
+"893",16354,"COAST Brewing Company",1260335497,5,4.5,3,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"894",16354,"COAST Brewing Company",1257569805,4.5,4,4,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"895",16354,"COAST Brewing Company",1250613609,4.5,3.5,3,"Kölsch",3.5,4.5,"32/50",4.8,39238
+"896",16354,"COAST Brewing Company",1246998786,5,4.5,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"897",16354,"COAST Brewing Company",1246910939,4.5,4.5,4,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"898",16354,"COAST Brewing Company",1314473037,4.5,4,4.5,"American Pale Wheat Ale",4.5,5,"Shreddin’ Wheat",5.5,71981
+"899",16354,"COAST Brewing Company",1246330556,4.5,4,4.5,"Kölsch",4,4,"32/50",4.8,39238
+"900",16354,"COAST Brewing Company",1242849528,5,5,4.5,"Kölsch",4,5,"32/50",4.8,39238
+"901",16354,"COAST Brewing Company",1240274458,4.5,3.5,4,"Kölsch",4.5,3.5,"32/50",4.8,39238
+"902",16354,"COAST Brewing Company",1233027203,5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"903",16354,"COAST Brewing Company",1232384702,4.5,4,4,"Kölsch",4,4,"32/50",4.8,39238
+"904",16354,"COAST Brewing Company",1231682229,4.5,4.5,4,"Kölsch",4,4.5,"32/50",4.8,39238
+"905",16354,"COAST Brewing Company",1229791272,4.5,4.5,4,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"906",16354,"COAST Brewing Company",1220406818,5,5,4.5,"Kölsch",4.5,5,"32/50",4.8,39238
+"907",16354,"COAST Brewing Company",1218860262,5,4.5,5,"Kölsch",5,4.5,"32/50",4.8,39238
+"908",16354,"COAST Brewing Company",1215220648,4,2.5,5,"Kölsch",3.5,4,"32/50",4.8,39238
+"909",16354,"COAST Brewing Company",1212945786,5,4.5,4,"Kölsch",4.5,5,"32/50",4.8,39238
+"910",16354,"COAST Brewing Company",1206927363,5,4.5,4.5,"Kölsch",4.5,5,"32/50",4.8,39238
+"911",16354,"COAST Brewing Company",1206810126,5,4.5,4.5,"Kölsch",5,5,"32/50",4.8,39238
+"912",16354,"COAST Brewing Company",1193029094,4.5,4,4,"Kölsch",4.5,4.5,"32/50",4.8,39238
+"913",16354,"COAST Brewing Company",1313178623,4.5,4.5,4.5,"Oatmeal Stout",4,4.5,"Angry Mash Oatmeal Stout",9,68316
+"914",16354,"COAST Brewing Company",1312082790,4,3.5,4,"Oatmeal Stout",3.5,4,"Angry Mash Oatmeal Stout",9,68316
+"915",16354,"COAST Brewing Company",1311300877,4.5,4.5,4,"Oatmeal Stout",4.5,4.5,"Angry Mash Oatmeal Stout",9,68316
+"916",16354,"COAST Brewing Company",1310793561,3.5,3.5,4.5,"Oatmeal Stout",4,3.5,"Angry Mash Oatmeal Stout",9,68316
+"917",16354,"COAST Brewing Company",1310231574,4,4,4,"Oatmeal Stout",4,4.5,"Angry Mash Oatmeal Stout",9,68316
+"918",16354,"COAST Brewing Company",1309456520,4.5,4.5,4,"Oatmeal Stout",4.5,4,"Angry Mash Oatmeal Stout",9,68316
+"919",16354,"COAST Brewing Company",1309197524,4,4,4,"Oatmeal Stout",5,4.5,"Angry Mash Oatmeal Stout",9,68316
+"920",16354,"COAST Brewing Company",1307588800,4,4,4.5,"Oatmeal Stout",3,4,"Angry Mash Oatmeal Stout",9,68316
+"921",16354,"COAST Brewing Company",1305764607,4.5,4,4,"Oatmeal Stout",4,4,"Angry Mash Oatmeal Stout",9,68316
+"922",16354,"COAST Brewing Company",1305630102,4.5,4.5,4.5,"Oatmeal Stout",5,4.5,"Angry Mash Oatmeal Stout",9,68316
+"923",16354,"COAST Brewing Company",1311779166,4.5,4.5,4.5,"Scottish Ale",4.5,4.5,"Red Legs Scotch Ale",6.6,41573
+"924",16354,"COAST Brewing Company",1305589945,4.5,4,5,"Oatmeal Stout",4.5,4,"Angry Mash Oatmeal Stout",9,68316
+"925",16354,"COAST Brewing Company",1304478135,4,4,4,"Oatmeal Stout",4,4.5,"Angry Mash Oatmeal Stout",9,68316
+"926",16354,"COAST Brewing Company",1304389582,4.5,3.5,4.5,"Oatmeal Stout",4.5,4.5,"Angry Mash Oatmeal Stout",9,68316
+"927",16354,"COAST Brewing Company",1324141175,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Smoked Rye Pale Ale",4.8,69153
+"928",16354,"COAST Brewing Company",1324135765,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Smoked Rye Pale Ale",4.8,69153
+"929",16354,"COAST Brewing Company",1323630105,4.5,4,4.5,"American Pale Ale (APA)",4.5,5,"Smoked Rye Pale Ale",4.8,69153
+"930",16354,"COAST Brewing Company",1321845211,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Smoked Rye Pale Ale",4.8,69153
+"931",16354,"COAST Brewing Company",1320830271,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Smoked Rye Pale Ale",4.8,69153
+"932",16354,"COAST Brewing Company",1306816285,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Smoked Rye Pale Ale",4.8,69153
+"933",16354,"COAST Brewing Company",1306155857,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Smoked Rye Pale Ale",4.8,69153
+"934",16354,"COAST Brewing Company",1275148699,4,4,3.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Jack Daniels Barrel Aged Red Legs Scotch Ale",NA,52762
+"935",16354,"COAST Brewing Company",1253553772,5,4.5,4.5,"Scotch Ale / Wee Heavy",4.5,5,"Jack Daniels Barrel Aged Red Legs Scotch Ale",NA,52762
+"936",16354,"COAST Brewing Company",1211670471,4.5,4,4.5,"American IPA",4,4.5,"HopArt Cask Oaked",7.7,42860
+"937",16354,"COAST Brewing Company",1319074784,4.5,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"938",16354,"COAST Brewing Company",1311014618,4,4.5,4,"Scotch Ale / Wee Heavy",3.5,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"939",16354,"COAST Brewing Company",1307208226,3,4,4,"Scotch Ale / Wee Heavy",2.5,3.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"940",16354,"COAST Brewing Company",1305734936,4,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"941",16354,"COAST Brewing Company",1305041969,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"942",16354,"COAST Brewing Company",1304895571,4.5,4,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"943",16354,"COAST Brewing Company",1304344204,3.5,3,4,"Scotch Ale / Wee Heavy",4,3.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"944",16354,"COAST Brewing Company",1304291028,4.5,5,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"945",16354,"COAST Brewing Company",1303849811,4.5,4.5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Blended Aged Red Legs Scotch Ale",7.8,68315
+"946",16354,"COAST Brewing Company",1305889826,4,4,4,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"947",16354,"COAST Brewing Company",1304290276,4.5,4.5,4,"Scottish Ale",4.5,4,"Red Legs Scotch Ale",6.6,41573
+"948",16354,"COAST Brewing Company",1258822982,3.5,3.5,3,"Scottish Ale",4,3.5,"Red Legs Scotch Ale",6.6,41573
+"949",16354,"COAST Brewing Company",1251722201,4.5,4.5,4,"Scottish Ale",4,3.5,"Red Legs Scotch Ale",6.6,41573
+"950",16354,"COAST Brewing Company",1249429978,4,4.5,4,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"951",16354,"COAST Brewing Company",1247872131,4,4,4,"Scottish Ale",4.5,4.5,"Red Legs Scotch Ale",6.6,41573
+"952",16354,"COAST Brewing Company",1247359251,4.5,4,4.5,"Scottish Ale",4,4,"Red Legs Scotch Ale",6.6,41573
+"953",16354,"COAST Brewing Company",1247268375,4,4,4,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"954",16354,"COAST Brewing Company",1246849818,5,4,4.5,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"955",16354,"COAST Brewing Company",1209915200,4.5,4,4,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"956",16354,"COAST Brewing Company",1206814077,4.5,4,4,"Scottish Ale",4,4,"Red Legs Scotch Ale",6.6,41573
+"957",16354,"COAST Brewing Company",1206377586,4,3.5,4.5,"Scottish Ale",4,4,"Red Legs Scotch Ale",6.6,41573
+"958",16354,"COAST Brewing Company",1205544704,5,4,4,"Scottish Ale",4,4.5,"Red Legs Scotch Ale",6.6,41573
+"959",16354,"COAST Brewing Company",1320756316,4,4,4,"American Pale Wheat Ale",4,3.5,"Shreddin’ Wheat",5.5,71981
+"960",16354,"COAST Brewing Company",1319075019,4,4,4,"American Pale Wheat Ale",4.5,4,"Shreddin’ Wheat",5.5,71981
+"961",16354,"COAST Brewing Company",1315505447,4,4,4.5,"American Pale Wheat Ale",4.5,4,"Shreddin’ Wheat",5.5,71981
+"962",16354,"COAST Brewing Company",1314229529,4,4,4.5,"American Pale Wheat Ale",4,4,"Shreddin’ Wheat",5.5,71981
+"963",16354,"COAST Brewing Company",1313107548,4,4,4,"American Pale Wheat Ale",4,4,"Shreddin’ Wheat",5.5,71981
+"964",16354,"COAST Brewing Company",1291945418,4,4,4,"American Stout",4,4,"Harold",6,55680
+"965",16354,"COAST Brewing Company",1276314035,5,4.5,4,"American Stout",4,4,"Harold",6,55680
+"966",16354,"COAST Brewing Company",1267752388,5,4,4,"American Stout",3.5,4,"Harold",6,55680
+"967",16354,"COAST Brewing Company",1267741350,4,4,4,"American Stout",4,4,"Harold",6,55680
+"968",16354,"COAST Brewing Company",1267586237,3.5,3,4,"American Stout",3.5,3.5,"Harold",6,55680
+"969",16354,"COAST Brewing Company",1266857658,4.5,4,4,"American Stout",4,4,"Harold",6,55680
+"970",16354,"COAST Brewing Company",1266289950,3,4.5,4.5,"American Stout",3,3,"Harold",6,55680
+"971",16354,"COAST Brewing Company",1265293591,4,4.5,4.5,"American Stout",4.5,4,"Harold",6,55680
+"972",16354,"COAST Brewing Company",1264888003,4.5,4,4,"American Stout",3.5,4.5,"Harold",6,55680
+"973",16354,"COAST Brewing Company",1264711824,4.5,3,4,"American Stout",4,4,"Harold",6,55680

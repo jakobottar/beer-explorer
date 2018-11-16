@@ -1,0 +1,741 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",419,"Spanish Peaks Brewing Co.",1246502799,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"2",419,"Spanish Peaks Brewing Co.",1196125771,2,3,3,"American Amber / Red Ale",3,2,"Winter Cheer Ale",6.3,39553
+"3",419,"Spanish Peaks Brewing Co.",1186325953,4.5,4,4,"Witbier",4,4,"Summer White (Seasonal)",4.7,36573
+"4",419,"Spanish Peaks Brewing Co.",1029522490,4,4,4,"Hefeweizen",4,4.5,"Sweetwater Wheat Ale",NA,5506
+"5",419,"Spanish Peaks Brewing Co.",1063684665,3.5,4,4.5,"American Porter",3,3.5,"Spanish Peaks Porter",NA,1239
+"6",419,"Spanish Peaks Brewing Co.",1043223766,3.5,3.5,4,"American Porter",4.5,3.5,"Spanish Peaks Porter",NA,1239
+"7",419,"Spanish Peaks Brewing Co.",1029575049,4,4.5,4,"American Porter",4,4.5,"Spanish Peaks Porter",NA,1239
+"8",419,"Spanish Peaks Brewing Co.",998001871,5,5,4,"American Porter",4,5,"Spanish Peaks Porter",NA,1239
+"9",419,"Spanish Peaks Brewing Co.",1325870570,3,3,3,"American IPA",3.5,2.5,"Chug's Private Stash Big Bite IPA",7,73929
+"10",419,"Spanish Peaks Brewing Co.",1324071982,3.5,3.5,4,"American IPA",4,3.5,"Chug's Private Stash Big Bite IPA",7,73929
+"11",419,"Spanish Peaks Brewing Co.",1321480059,4,4,4.5,"American IPA",4.5,4,"Chug's Private Stash Big Bite IPA",7,73929
+"12",419,"Spanish Peaks Brewing Co.",1318278759,4,4,4,"American IPA",4,4,"Chug's Private Stash Big Bite IPA",7,73929
+"13",419,"Spanish Peaks Brewing Co.",1318115529,4,4,4.5,"American IPA",4,4,"Chug's Private Stash Big Bite IPA",7,73929
+"14",419,"Spanish Peaks Brewing Co.",1049712023,4,3.5,4,"Hefeweizen",3,4,"Sweetwater Wheat Ale",NA,5506
+"15",419,"Spanish Peaks Brewing Co.",1200854505,4.5,4.5,2.5,"Witbier",4.5,4,"Spanish Peaks White Ale",NA,1240
+"16",419,"Spanish Peaks Brewing Co.",1196960252,4.5,3.5,4,"Witbier",4,4.5,"Spanish Peaks White Ale",NA,1240
+"17",419,"Spanish Peaks Brewing Co.",1155952299,4,3.5,3.5,"Witbier",3.5,3.5,"Spanish Peaks White Ale",NA,1240
+"18",419,"Spanish Peaks Brewing Co.",1136693160,3.5,4,3.5,"Witbier",4,3.5,"Spanish Peaks White Ale",NA,1240
+"19",419,"Spanish Peaks Brewing Co.",1133831820,4.5,3.5,4,"Witbier",3.5,4,"Spanish Peaks White Ale",NA,1240
+"20",419,"Spanish Peaks Brewing Co.",1130520049,3.5,4,3.5,"Witbier",3.5,3.5,"Spanish Peaks White Ale",NA,1240
+"21",419,"Spanish Peaks Brewing Co.",1126574919,3.5,3.5,3.5,"Witbier",3.5,4,"Spanish Peaks White Ale",NA,1240
+"22",419,"Spanish Peaks Brewing Co.",1120417892,4,3.5,3,"Witbier",3,3.5,"Spanish Peaks White Ale",NA,1240
+"23",419,"Spanish Peaks Brewing Co.",1118530804,4,4.5,3.5,"Witbier",3,4,"Spanish Peaks White Ale",NA,1240
+"24",419,"Spanish Peaks Brewing Co.",1114997944,3.5,3,3,"Witbier",2.5,3,"Spanish Peaks White Ale",NA,1240
+"25",419,"Spanish Peaks Brewing Co.",1114177422,4,3.5,4,"Witbier",4.5,4,"Spanish Peaks White Ale",NA,1240
+"26",419,"Spanish Peaks Brewing Co.",1189205241,3,3,3,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"27",419,"Spanish Peaks Brewing Co.",1108516079,3.5,3.5,3,"Witbier",3,3.5,"Spanish Peaks White Ale",NA,1240
+"28",419,"Spanish Peaks Brewing Co.",1099672316,3,3,4,"Witbier",3,3.5,"Spanish Peaks White Ale",NA,1240
+"29",419,"Spanish Peaks Brewing Co.",1095794247,4,3.5,3.5,"Witbier",3.5,3.5,"Spanish Peaks White Ale",NA,1240
+"30",419,"Spanish Peaks Brewing Co.",1092789499,4,3.5,3.5,"Witbier",3.5,3.5,"Spanish Peaks White Ale",NA,1240
+"31",419,"Spanish Peaks Brewing Co.",1090704356,3.5,4,3.5,"Witbier",4,3.5,"Spanish Peaks White Ale",NA,1240
+"32",419,"Spanish Peaks Brewing Co.",1086241505,4,3.5,3,"Witbier",3,3.5,"Spanish Peaks White Ale",NA,1240
+"33",419,"Spanish Peaks Brewing Co.",1046426355,2.5,3,2.5,"Witbier",2.5,2.5,"Spanish Peaks White Ale",NA,1240
+"34",419,"Spanish Peaks Brewing Co.",1034799088,4.5,3.5,3.5,"Witbier",3.5,4.5,"Spanish Peaks White Ale",NA,1240
+"35",419,"Spanish Peaks Brewing Co.",1032888114,3.5,3.5,4,"Witbier",3,4,"Spanish Peaks White Ale",NA,1240
+"36",419,"Spanish Peaks Brewing Co.",998002052,5,5,5,"Witbier",5,5,"Spanish Peaks White Ale",NA,1240
+"37",419,"Spanish Peaks Brewing Co.",1029522763,5,5,4.5,"Smoked Beer",4.5,5,"Wildfire",NA,5516
+"38",419,"Spanish Peaks Brewing Co.",1188619100,2.5,5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"39",419,"Spanish Peaks Brewing Co.",1188258948,3,2,2.5,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"40",419,"Spanish Peaks Brewing Co.",1188093284,3.5,4,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"41",419,"Spanish Peaks Brewing Co.",1187412284,4,4,3.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"42",419,"Spanish Peaks Brewing Co.",1187112339,4,5,4,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"43",419,"Spanish Peaks Brewing Co.",1186679584,3.5,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"44",419,"Spanish Peaks Brewing Co.",1186581199,3,3,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"45",419,"Spanish Peaks Brewing Co.",1185835965,3.5,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"46",419,"Spanish Peaks Brewing Co.",1185751701,2,3,3,"Fruit / Vegetable Beer",2,2,"Honey Raspberry Ale",5.1,4080
+"47",419,"Spanish Peaks Brewing Co.",1185233337,4.5,3,3,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"48",419,"Spanish Peaks Brewing Co.",1184628813,2.5,2.5,4,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"49",419,"Spanish Peaks Brewing Co.",1183050644,2,2.5,2.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"50",419,"Spanish Peaks Brewing Co.",1060951612,3.5,3.5,4,"Fruit / Vegetable Beer",4,3,"Honey Raspberry Ale",5.1,4080
+"51",419,"Spanish Peaks Brewing Co.",1181088953,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"Honey Raspberry Ale",5.1,4080
+"52",419,"Spanish Peaks Brewing Co.",1180998408,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"53",419,"Spanish Peaks Brewing Co.",1180627419,4.5,4,3,"Fruit / Vegetable Beer",4,4.5,"Honey Raspberry Ale",5.1,4080
+"54",419,"Spanish Peaks Brewing Co.",1179975357,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"55",419,"Spanish Peaks Brewing Co.",1179617941,3,3,2,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"56",419,"Spanish Peaks Brewing Co.",1179456575,3,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"57",419,"Spanish Peaks Brewing Co.",1179085070,3.5,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"58",419,"Spanish Peaks Brewing Co.",1178936708,3,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"59",419,"Spanish Peaks Brewing Co.",1178418164,2.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"60",419,"Spanish Peaks Brewing Co.",1176683756,2,3.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"61",419,"Spanish Peaks Brewing Co.",1176506776,2.5,2.5,2.5,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"62",419,"Spanish Peaks Brewing Co.",1176467710,3,3.5,4,"Fruit / Vegetable Beer",2.5,3.5,"Honey Raspberry Ale",5.1,4080
+"63",419,"Spanish Peaks Brewing Co.",1175817953,3,2.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"64",419,"Spanish Peaks Brewing Co.",1175637929,3,4,4,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"65",419,"Spanish Peaks Brewing Co.",1175577949,2.5,4,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"66",419,"Spanish Peaks Brewing Co.",1175565575,3,4,2,"Fruit / Vegetable Beer",4,3,"Honey Raspberry Ale",5.1,4080
+"67",419,"Spanish Peaks Brewing Co.",1175486454,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"68",419,"Spanish Peaks Brewing Co.",1174701580,4,3.5,3.5,"Fruit / Vegetable Beer",4.5,3,"Honey Raspberry Ale",5.1,4080
+"69",419,"Spanish Peaks Brewing Co.",1174621096,2.5,3,3,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"70",419,"Spanish Peaks Brewing Co.",1174545668,4.5,4.5,3,"Fruit / Vegetable Beer",3,4.5,"Honey Raspberry Ale",5.1,4080
+"71",419,"Spanish Peaks Brewing Co.",1186157898,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"72",419,"Spanish Peaks Brewing Co.",1173646584,2,2,3.5,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"73",419,"Spanish Peaks Brewing Co.",1173646102,3,2.5,3,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"74",419,"Spanish Peaks Brewing Co.",1171935341,4,4,3,"Fruit / Vegetable Beer",3,4.5,"Honey Raspberry Ale",5.1,4080
+"75",419,"Spanish Peaks Brewing Co.",1171925364,3,1.5,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"76",419,"Spanish Peaks Brewing Co.",1171652337,3,2,2,"Fruit / Vegetable Beer",1.5,3,"Honey Raspberry Ale",5.1,4080
+"77",419,"Spanish Peaks Brewing Co.",1171056822,3,2.5,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"78",419,"Spanish Peaks Brewing Co.",1170905973,4,3,2.5,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"79",419,"Spanish Peaks Brewing Co.",1169974200,3.5,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"80",419,"Spanish Peaks Brewing Co.",1169697905,3,3,2,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"81",419,"Spanish Peaks Brewing Co.",1168755480,4,3,3.5,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"82",419,"Spanish Peaks Brewing Co.",1166144446,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"83",419,"Spanish Peaks Brewing Co.",1164408587,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"84",419,"Spanish Peaks Brewing Co.",1161310247,4,4,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"85",419,"Spanish Peaks Brewing Co.",1154851138,3,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"86",419,"Spanish Peaks Brewing Co.",1154474927,2.5,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"87",419,"Spanish Peaks Brewing Co.",1153492278,4.5,4,2,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"88",419,"Spanish Peaks Brewing Co.",1149618017,3,3.5,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"89",419,"Spanish Peaks Brewing Co.",1142208586,3.5,3,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"90",419,"Spanish Peaks Brewing Co.",1136351956,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"91",419,"Spanish Peaks Brewing Co.",1131917933,2,3,4,"Fruit / Vegetable Beer",2,2.5,"Honey Raspberry Ale",5.1,4080
+"92",419,"Spanish Peaks Brewing Co.",1128999582,3,3.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"93",419,"Spanish Peaks Brewing Co.",1175413393,3,2.5,3,"American Pale Ale (APA)",3,2.5,"American Pale Ale",5.7,36119
+"94",419,"Spanish Peaks Brewing Co.",1127313054,4,3.5,2.5,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"95",419,"Spanish Peaks Brewing Co.",1127086719,2.5,2.5,3,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"96",419,"Spanish Peaks Brewing Co.",1123547202,2.5,4,4,"Fruit / Vegetable Beer",2.5,2,"Honey Raspberry Ale",5.1,4080
+"97",419,"Spanish Peaks Brewing Co.",1122948779,2.5,2,4,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"98",419,"Spanish Peaks Brewing Co.",1122088574,2,3,3.5,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"99",419,"Spanish Peaks Brewing Co.",1121045928,4.5,4.5,3.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"100",419,"Spanish Peaks Brewing Co.",1120164216,2.5,4,3.5,"Fruit / Vegetable Beer",1.5,2.5,"Honey Raspberry Ale",5.1,4080
+"101",419,"Spanish Peaks Brewing Co.",1119523340,3,4,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"102",419,"Spanish Peaks Brewing Co.",1117852870,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"103",419,"Spanish Peaks Brewing Co.",1114800879,2,3,3.5,"Fruit / Vegetable Beer",2,2.5,"Honey Raspberry Ale",5.1,4080
+"104",419,"Spanish Peaks Brewing Co.",1112152339,3,4,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"105",419,"Spanish Peaks Brewing Co.",1111670058,4,4,4,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"106",419,"Spanish Peaks Brewing Co.",1110433420,3.5,2.5,2.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"107",419,"Spanish Peaks Brewing Co.",1110083531,2.5,3.5,2.5,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"108",419,"Spanish Peaks Brewing Co.",1109123599,4,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"109",419,"Spanish Peaks Brewing Co.",1108611342,4,4,3,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"110",419,"Spanish Peaks Brewing Co.",1108316459,3,4,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"111",419,"Spanish Peaks Brewing Co.",1106889757,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"112",419,"Spanish Peaks Brewing Co.",1106172663,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"113",419,"Spanish Peaks Brewing Co.",1097955243,4,2.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"114",419,"Spanish Peaks Brewing Co.",1095170587,3,4,2.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"115",419,"Spanish Peaks Brewing Co.",1094165201,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"116",419,"Spanish Peaks Brewing Co.",1094041167,2.5,2,2,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"117",419,"Spanish Peaks Brewing Co.",1093312720,3.5,4,4,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"118",419,"Spanish Peaks Brewing Co.",1093082044,2.5,2.5,2.5,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"119",419,"Spanish Peaks Brewing Co.",1093067656,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"120",419,"Spanish Peaks Brewing Co.",1091211880,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"121",419,"Spanish Peaks Brewing Co.",1090534762,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"122",419,"Spanish Peaks Brewing Co.",1088661728,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"123",419,"Spanish Peaks Brewing Co.",1088310234,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"124",419,"Spanish Peaks Brewing Co.",1086058002,3.5,4,3.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"125",419,"Spanish Peaks Brewing Co.",1298597473,2.5,3,3.5,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"126",419,"Spanish Peaks Brewing Co.",1085669166,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"127",419,"Spanish Peaks Brewing Co.",1083117077,3,4,3,"Fruit / Vegetable Beer",2.5,3.5,"Honey Raspberry Ale",5.1,4080
+"128",419,"Spanish Peaks Brewing Co.",1081028482,3,3,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"129",419,"Spanish Peaks Brewing Co.",1079375102,2.5,3.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"130",419,"Spanish Peaks Brewing Co.",1077417032,2.5,3.5,3,"Fruit / Vegetable Beer",2.5,3.5,"Honey Raspberry Ale",5.1,4080
+"131",419,"Spanish Peaks Brewing Co.",1075601493,4,3.5,4,"Fruit / Vegetable Beer",4,3,"Honey Raspberry Ale",5.1,4080
+"132",419,"Spanish Peaks Brewing Co.",1075572917,2.5,4,2.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"133",419,"Spanish Peaks Brewing Co.",1067919677,5,4.5,4,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"134",419,"Spanish Peaks Brewing Co.",1067227902,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"135",419,"Spanish Peaks Brewing Co.",1064286412,2.5,2.5,2.5,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"136",419,"Spanish Peaks Brewing Co.",1063373658,2.5,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"137",419,"Spanish Peaks Brewing Co.",1060266460,4.5,3.5,3.5,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"138",419,"Spanish Peaks Brewing Co.",1059884957,4,3.5,3,"Fruit / Vegetable Beer",3,4.5,"Honey Raspberry Ale",5.1,4080
+"139",419,"Spanish Peaks Brewing Co.",1059179996,3,3,4,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"140",419,"Spanish Peaks Brewing Co.",1317786460,2.5,2.5,2.5,"Fruit / Vegetable Beer",2.5,2,"Honey Raspberry Ale",5.1,4080
+"141",419,"Spanish Peaks Brewing Co.",1316282906,3.5,3.5,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"142",419,"Spanish Peaks Brewing Co.",1314808279,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"143",419,"Spanish Peaks Brewing Co.",1314128515,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"144",419,"Spanish Peaks Brewing Co.",1312827482,4.5,4,3.5,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"145",419,"Spanish Peaks Brewing Co.",1307928652,3,3,3.5,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"146",419,"Spanish Peaks Brewing Co.",1307919839,3,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"147",419,"Spanish Peaks Brewing Co.",1306796063,2.5,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"148",419,"Spanish Peaks Brewing Co.",1306548651,3,3,2.5,"Fruit / Vegetable Beer",4,3.5,"Honey Raspberry Ale",5.1,4080
+"149",419,"Spanish Peaks Brewing Co.",1300647378,3,3,4,"Fruit / Vegetable Beer",2.5,2,"Honey Raspberry Ale",5.1,4080
+"150",419,"Spanish Peaks Brewing Co.",1057698404,3,2.5,2.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"151",419,"Spanish Peaks Brewing Co.",1054039040,2,4,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"152",419,"Spanish Peaks Brewing Co.",1053709166,3.5,4.5,4.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"153",419,"Spanish Peaks Brewing Co.",1050918778,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"154",419,"Spanish Peaks Brewing Co.",1050447930,4,4.5,3,"Fruit / Vegetable Beer",4,3.5,"Honey Raspberry Ale",5.1,4080
+"155",419,"Spanish Peaks Brewing Co.",1049632222,3.5,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"156",419,"Spanish Peaks Brewing Co.",1049625164,4.5,3.5,3.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"157",419,"Spanish Peaks Brewing Co.",1043717347,4.5,5,4,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"158",419,"Spanish Peaks Brewing Co.",1042547724,3.5,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"159",419,"Spanish Peaks Brewing Co.",1039805278,4,4,3.5,"Fruit / Vegetable Beer",3.5,4.5,"Honey Raspberry Ale",5.1,4080
+"160",419,"Spanish Peaks Brewing Co.",1039492393,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"161",419,"Spanish Peaks Brewing Co.",1035903753,3,2,3,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"162",419,"Spanish Peaks Brewing Co.",1033493614,4.5,4,3,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"163",419,"Spanish Peaks Brewing Co.",1032720612,3.5,3,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"164",419,"Spanish Peaks Brewing Co.",1032541961,3,2.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"165",419,"Spanish Peaks Brewing Co.",1031686118,2.5,4,3,"Fruit / Vegetable Beer",2.5,2,"Honey Raspberry Ale",5.1,4080
+"166",419,"Spanish Peaks Brewing Co.",1031681295,3.5,4,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"167",419,"Spanish Peaks Brewing Co.",1029765116,3,2.5,3,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"168",419,"Spanish Peaks Brewing Co.",1298869199,3,4,3,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"169",419,"Spanish Peaks Brewing Co.",1297225880,1.5,2,1,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"170",419,"Spanish Peaks Brewing Co.",1287529602,1,1.5,3,"Fruit / Vegetable Beer",1,1,"Honey Raspberry Ale",5.1,4080
+"171",419,"Spanish Peaks Brewing Co.",1287517494,2,2,2,"Fruit / Vegetable Beer",2,2,"Honey Raspberry Ale",5.1,4080
+"172",419,"Spanish Peaks Brewing Co.",1286674960,4,4,3,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"173",419,"Spanish Peaks Brewing Co.",1282363916,4,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"174",419,"Spanish Peaks Brewing Co.",1280187465,3,2.5,4,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"175",419,"Spanish Peaks Brewing Co.",1278206319,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"176",419,"Spanish Peaks Brewing Co.",1276453844,5,4,3.5,"Fruit / Vegetable Beer",4.5,4,"Honey Raspberry Ale",5.1,4080
+"177",419,"Spanish Peaks Brewing Co.",1275875553,4,4.5,4,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"178",419,"Spanish Peaks Brewing Co.",1275410737,4,2.5,3,"Fruit / Vegetable Beer",4,3,"Honey Raspberry Ale",5.1,4080
+"179",419,"Spanish Peaks Brewing Co.",1274281514,1,1,2,"Fruit / Vegetable Beer",1,1,"Honey Raspberry Ale",5.1,4080
+"180",419,"Spanish Peaks Brewing Co.",1272228900,1,3,1.5,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"181",419,"Spanish Peaks Brewing Co.",1264835447,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"182",419,"Spanish Peaks Brewing Co.",1263351985,2,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Honey Raspberry Ale",5.1,4080
+"183",419,"Spanish Peaks Brewing Co.",1261688512,2.5,3.5,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"184",419,"Spanish Peaks Brewing Co.",1261361958,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"185",419,"Spanish Peaks Brewing Co.",1259890195,3,4,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"186",419,"Spanish Peaks Brewing Co.",1258934481,3.5,4,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"187",419,"Spanish Peaks Brewing Co.",1064286456,3,3,3,"American Pale Ale (APA)",3,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"188",419,"Spanish Peaks Brewing Co.",1258091392,2.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"189",419,"Spanish Peaks Brewing Co.",1253422406,3,3.5,3,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"190",419,"Spanish Peaks Brewing Co.",1252901811,2.5,3,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"191",419,"Spanish Peaks Brewing Co.",1250817081,3,3.5,4,"Fruit / Vegetable Beer",2.5,3,"Honey Raspberry Ale",5.1,4080
+"192",419,"Spanish Peaks Brewing Co.",1245626175,3,3.5,2.5,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"193",419,"Spanish Peaks Brewing Co.",1244779517,4,3.5,3,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"194",419,"Spanish Peaks Brewing Co.",1241471256,3.5,3.5,3,"Fruit / Vegetable Beer",2.5,3.5,"Honey Raspberry Ale",5.1,4080
+"195",419,"Spanish Peaks Brewing Co.",1240584365,3.5,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"196",419,"Spanish Peaks Brewing Co.",1239330092,1.5,2.5,4,"Fruit / Vegetable Beer",2,2,"Honey Raspberry Ale",5.1,4080
+"197",419,"Spanish Peaks Brewing Co.",1234066266,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"198",419,"Spanish Peaks Brewing Co.",1233194274,3.5,3,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"199",419,"Spanish Peaks Brewing Co.",1219199675,3.5,2,2,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"200",419,"Spanish Peaks Brewing Co.",1232228418,3,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"201",419,"Spanish Peaks Brewing Co.",1230723011,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"202",419,"Spanish Peaks Brewing Co.",1230402457,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"203",419,"Spanish Peaks Brewing Co.",1228146648,3,3.5,4,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"204",419,"Spanish Peaks Brewing Co.",1224729716,3,3,3.5,"Fruit / Vegetable Beer",3.5,2.5,"Honey Raspberry Ale",5.1,4080
+"205",419,"Spanish Peaks Brewing Co.",1222881728,4,4,3,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"206",419,"Spanish Peaks Brewing Co.",1221785932,1,3,3.5,"Fruit / Vegetable Beer",3.5,1.5,"Honey Raspberry Ale",5.1,4080
+"207",419,"Spanish Peaks Brewing Co.",1221748941,1,3,4,"Fruit / Vegetable Beer",2,1,"Honey Raspberry Ale",5.1,4080
+"208",419,"Spanish Peaks Brewing Co.",1221535694,2,2,3,"Fruit / Vegetable Beer",2.5,1.5,"Honey Raspberry Ale",5.1,4080
+"209",419,"Spanish Peaks Brewing Co.",1219284728,2.5,2.5,4,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"210",419,"Spanish Peaks Brewing Co.",1219185276,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"211",419,"Spanish Peaks Brewing Co.",1217470053,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"212",419,"Spanish Peaks Brewing Co.",1216533657,3,4,4,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"213",419,"Spanish Peaks Brewing Co.",1216002229,4.5,4,4,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"214",419,"Spanish Peaks Brewing Co.",1215986981,2,2.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Honey Raspberry Ale",5.1,4080
+"215",419,"Spanish Peaks Brewing Co.",1212932614,2.5,2.5,3,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"216",419,"Spanish Peaks Brewing Co.",1211488320,2,3,4,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"217",419,"Spanish Peaks Brewing Co.",1211390825,2.5,2.5,3,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"218",419,"Spanish Peaks Brewing Co.",1211327632,1,1.5,3,"Fruit / Vegetable Beer",3,1.5,"Honey Raspberry Ale",5.1,4080
+"219",419,"Spanish Peaks Brewing Co.",1062552859,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"220",419,"Spanish Peaks Brewing Co.",1211327294,1.5,2.5,2.5,"Fruit / Vegetable Beer",1.5,2,"Honey Raspberry Ale",5.1,4080
+"221",419,"Spanish Peaks Brewing Co.",1209792136,2,3,3,"Fruit / Vegetable Beer",3,2,"Honey Raspberry Ale",5.1,4080
+"222",419,"Spanish Peaks Brewing Co.",1209196320,2,3,4,"Fruit / Vegetable Beer",2.5,2,"Honey Raspberry Ale",5.1,4080
+"223",419,"Spanish Peaks Brewing Co.",1208394202,2.5,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"224",419,"Spanish Peaks Brewing Co.",1206664728,1.5,4,4,"Fruit / Vegetable Beer",1.5,1.5,"Honey Raspberry Ale",5.1,4080
+"225",419,"Spanish Peaks Brewing Co.",1206224899,3,3,4,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"226",419,"Spanish Peaks Brewing Co.",1205815895,4,3,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"227",419,"Spanish Peaks Brewing Co.",1205113323,3.5,4,3,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"228",419,"Spanish Peaks Brewing Co.",1205016702,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Honey Raspberry Ale",5.1,4080
+"229",419,"Spanish Peaks Brewing Co.",1204594855,3,4,3.5,"Fruit / Vegetable Beer",3,4,"Honey Raspberry Ale",5.1,4080
+"230",419,"Spanish Peaks Brewing Co.",1175113052,4.5,4,3.5,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"231",419,"Spanish Peaks Brewing Co.",1202338561,3.5,3,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"232",419,"Spanish Peaks Brewing Co.",1202074577,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"233",419,"Spanish Peaks Brewing Co.",1201823403,2,3,2,"Fruit / Vegetable Beer",3,2.5,"Honey Raspberry Ale",5.1,4080
+"234",419,"Spanish Peaks Brewing Co.",1201494373,2.5,2.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"235",419,"Spanish Peaks Brewing Co.",1200980131,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"236",419,"Spanish Peaks Brewing Co.",1200583396,3,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Honey Raspberry Ale",5.1,4080
+"237",419,"Spanish Peaks Brewing Co.",1199922885,3.5,2.5,3,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"238",419,"Spanish Peaks Brewing Co.",1199765259,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Honey Raspberry Ale",5.1,4080
+"239",419,"Spanish Peaks Brewing Co.",1199057230,4,4,4,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"240",419,"Spanish Peaks Brewing Co.",1198711988,2.5,3.5,3,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"241",419,"Spanish Peaks Brewing Co.",1196988112,3,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"242",419,"Spanish Peaks Brewing Co.",1196444459,3,2.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Honey Raspberry Ale",5.1,4080
+"243",419,"Spanish Peaks Brewing Co.",1196300117,2.5,2.5,2.5,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"244",419,"Spanish Peaks Brewing Co.",1193767547,2.5,4,3.5,"Fruit / Vegetable Beer",2.5,2.5,"Honey Raspberry Ale",5.1,4080
+"245",419,"Spanish Peaks Brewing Co.",1193083921,4,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"Honey Raspberry Ale",5.1,4080
+"246",419,"Spanish Peaks Brewing Co.",1192938249,2,2.5,3,"Fruit / Vegetable Beer",1.5,2,"Honey Raspberry Ale",5.1,4080
+"247",419,"Spanish Peaks Brewing Co.",1192555453,3,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Honey Raspberry Ale",5.1,4080
+"248",419,"Spanish Peaks Brewing Co.",1191540982,3,4,3.5,"Fruit / Vegetable Beer",4,3,"Honey Raspberry Ale",5.1,4080
+"249",419,"Spanish Peaks Brewing Co.",1191241560,4,5,4,"Fruit / Vegetable Beer",4,4,"Honey Raspberry Ale",5.1,4080
+"250",419,"Spanish Peaks Brewing Co.",1226197526,3.5,3,4,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"251",419,"Spanish Peaks Brewing Co.",1134582200,3.5,3,4,"American Pale Ale (APA)",3,2.5,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"252",419,"Spanish Peaks Brewing Co.",1052205662,4,4,4.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"253",419,"Spanish Peaks Brewing Co.",1049713066,3,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"254",419,"Spanish Peaks Brewing Co.",1025342731,3,3,2,"American Pale Ale (APA)",3,2.5,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"255",419,"Spanish Peaks Brewing Co.",1014894332,3.5,3,3,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"256",419,"Spanish Peaks Brewing Co.",1003506063,4,3,4,"American Pale Ale (APA)",3,4,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"257",419,"Spanish Peaks Brewing Co.",998002189,3,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Yellowstone Pale Ale",NA,1241
+"258",419,"Spanish Peaks Brewing Co.",1307907976,3,3.5,4,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"259",419,"Spanish Peaks Brewing Co.",1283468271,3.5,4,3.5,"American Amber / Red Ale",4,3.5,"Winter Cheer Ale",6.3,39553
+"260",419,"Spanish Peaks Brewing Co.",1269739931,3,3,3,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"261",419,"Spanish Peaks Brewing Co.",1247496969,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Winter Cheer Ale",6.3,39553
+"262",419,"Spanish Peaks Brewing Co.",1202245614,2,3.5,3,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"263",419,"Spanish Peaks Brewing Co.",1241393218,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Winter Cheer Ale",6.3,39553
+"264",419,"Spanish Peaks Brewing Co.",1240375169,3.5,4,4,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"265",419,"Spanish Peaks Brewing Co.",1236811978,3,3.5,4,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"266",419,"Spanish Peaks Brewing Co.",1230958766,4,3.5,4,"American Amber / Red Ale",3.5,4.5,"Winter Cheer Ale",6.3,39553
+"267",419,"Spanish Peaks Brewing Co.",1230090984,3,3.5,4,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"268",419,"Spanish Peaks Brewing Co.",1229563989,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Winter Cheer Ale",6.3,39553
+"269",419,"Spanish Peaks Brewing Co.",1229546173,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"270",419,"Spanish Peaks Brewing Co.",1229111135,3,3.5,4,"American Amber / Red Ale",4,3.5,"Winter Cheer Ale",6.3,39553
+"271",419,"Spanish Peaks Brewing Co.",1228266171,3.5,4,4,"American Amber / Red Ale",4,3.5,"Winter Cheer Ale",6.3,39553
+"272",419,"Spanish Peaks Brewing Co.",1228166257,4,4,3,"American Amber / Red Ale",4.5,4,"Winter Cheer Ale",6.3,39553
+"273",419,"Spanish Peaks Brewing Co.",1228105407,3.5,3.5,4.5,"American Amber / Red Ale",4,4,"Winter Cheer Ale",6.3,39553
+"274",419,"Spanish Peaks Brewing Co.",1220758567,3.5,4,4,"American Amber / Red Ale",4,4,"Winter Cheer Ale",6.3,39553
+"275",419,"Spanish Peaks Brewing Co.",1219200149,3,4,3.5,"American Amber / Red Ale",2,4,"Winter Cheer Ale",6.3,39553
+"276",419,"Spanish Peaks Brewing Co.",1211029087,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Winter Cheer Ale",6.3,39553
+"277",419,"Spanish Peaks Brewing Co.",1207522481,3,3,3,"American Amber / Red Ale",4,3,"Winter Cheer Ale",6.3,39553
+"278",419,"Spanish Peaks Brewing Co.",1205002637,3.5,3.5,4,"American Amber / Red Ale",3,4,"Winter Cheer Ale",6.3,39553
+"279",419,"Spanish Peaks Brewing Co.",1203985464,3,3,2.5,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"280",419,"Spanish Peaks Brewing Co.",1203496330,3,3,3,"American Amber / Red Ale",3,2.5,"Winter Cheer Ale",6.3,39553
+"281",419,"Spanish Peaks Brewing Co.",1203285901,3,2.5,3.5,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"282",419,"Spanish Peaks Brewing Co.",1203051115,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Winter Cheer Ale",6.3,39553
+"283",419,"Spanish Peaks Brewing Co.",1201111248,2,3.5,4,"American Amber / Red Ale",2,1.5,"Winter Cheer Ale",6.3,39553
+"284",419,"Spanish Peaks Brewing Co.",1200857049,4,3,4,"American Amber / Red Ale",3.5,3.5,"Winter Cheer Ale",6.3,39553
+"285",419,"Spanish Peaks Brewing Co.",1200015480,4,3.5,4,"American Amber / Red Ale",2.5,3.5,"Winter Cheer Ale",6.3,39553
+"286",419,"Spanish Peaks Brewing Co.",1199400371,3.5,3,3,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"287",419,"Spanish Peaks Brewing Co.",1199112740,3.5,3,3.5,"American Amber / Red Ale",2.5,3.5,"Winter Cheer Ale",6.3,39553
+"288",419,"Spanish Peaks Brewing Co.",1198541869,4.5,4,4,"American Amber / Red Ale",4.5,4.5,"Winter Cheer Ale",6.3,39553
+"289",419,"Spanish Peaks Brewing Co.",1198011556,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"290",419,"Spanish Peaks Brewing Co.",1197932371,3.5,4,3.5,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"291",419,"Spanish Peaks Brewing Co.",1197589210,4,3,4,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"292",419,"Spanish Peaks Brewing Co.",1196808249,4,3.5,4.5,"American Amber / Red Ale",3,3.5,"Winter Cheer Ale",6.3,39553
+"293",419,"Spanish Peaks Brewing Co.",1196377217,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Winter Cheer Ale",6.3,39553
+"294",419,"Spanish Peaks Brewing Co.",1195341445,3.5,4,4,"American Amber / Red Ale",4,3.5,"Winter Cheer Ale",6.3,39553
+"295",419,"Spanish Peaks Brewing Co.",1194827952,3,3,3.5,"American Amber / Red Ale",3,3,"Winter Cheer Ale",6.3,39553
+"296",419,"Spanish Peaks Brewing Co.",1270402919,4,3,4,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"297",419,"Spanish Peaks Brewing Co.",1265591526,3,3,3.5,"American Pale Ale (APA)",3.5,3,"American Pale Ale",5.7,36119
+"298",419,"Spanish Peaks Brewing Co.",1245625805,3,3.5,3.5,"American Pale Ale (APA)",3.5,4,"American Pale Ale",5.7,36119
+"299",419,"Spanish Peaks Brewing Co.",1245600194,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"300",419,"Spanish Peaks Brewing Co.",1240354648,4.5,4,4,"American Pale Ale (APA)",3.5,4.5,"American Pale Ale",5.7,36119
+"301",419,"Spanish Peaks Brewing Co.",1237691401,3,3,4,"American Pale Ale (APA)",3,3,"American Pale Ale",5.7,36119
+"302",419,"Spanish Peaks Brewing Co.",1233011377,4.5,3.5,3,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"303",419,"Spanish Peaks Brewing Co.",1232816293,4,3.5,3.5,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"304",419,"Spanish Peaks Brewing Co.",1228260510,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"305",419,"Spanish Peaks Brewing Co.",1227010215,4,4,3.5,"American Pale Ale (APA)",4,3.5,"American Pale Ale",5.7,36119
+"306",419,"Spanish Peaks Brewing Co.",1225070051,4,4.5,4,"American Pale Ale (APA)",3.5,4.5,"American Pale Ale",5.7,36119
+"307",419,"Spanish Peaks Brewing Co.",1224369845,4.5,4,4.5,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"308",419,"Spanish Peaks Brewing Co.",1223248280,4.5,4,4,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"309",419,"Spanish Peaks Brewing Co.",1216521731,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"310",419,"Spanish Peaks Brewing Co.",1215815143,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"American Pale Ale",5.7,36119
+"311",419,"Spanish Peaks Brewing Co.",1214098052,3,3.5,3,"American Pale Ale (APA)",3,3.5,"American Pale Ale",5.7,36119
+"312",419,"Spanish Peaks Brewing Co.",1210788461,3.5,3,3.5,"American Pale Ale (APA)",3.5,4,"American Pale Ale",5.7,36119
+"313",419,"Spanish Peaks Brewing Co.",1209519101,4,3.5,3.5,"American Pale Ale (APA)",3,4,"American Pale Ale",5.7,36119
+"314",419,"Spanish Peaks Brewing Co.",1208397327,3,3,3,"American Pale Ale (APA)",3,3,"American Pale Ale",5.7,36119
+"315",419,"Spanish Peaks Brewing Co.",1204053618,3,3,3,"American Pale Ale (APA)",3,3.5,"American Pale Ale",5.7,36119
+"316",419,"Spanish Peaks Brewing Co.",1203913120,4,4,4,"American Pale Ale (APA)",4.5,3.5,"American Pale Ale",5.7,36119
+"317",419,"Spanish Peaks Brewing Co.",1203303769,4,3,4,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"318",419,"Spanish Peaks Brewing Co.",1200362575,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"American Pale Ale",5.7,36119
+"319",419,"Spanish Peaks Brewing Co.",1197334905,4,3.5,4,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"320",419,"Spanish Peaks Brewing Co.",1194643355,4,4,3,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"321",419,"Spanish Peaks Brewing Co.",1193148699,4,4,4,"American Pale Ale (APA)",4,4,"American Pale Ale",5.7,36119
+"322",419,"Spanish Peaks Brewing Co.",1189532899,4,3,3,"American Pale Ale (APA)",3,3.5,"American Pale Ale",5.7,36119
+"323",419,"Spanish Peaks Brewing Co.",1188075474,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"324",419,"Spanish Peaks Brewing Co.",1186613140,4.5,3.5,4,"American Pale Ale (APA)",4.5,4.5,"American Pale Ale",5.7,36119
+"325",419,"Spanish Peaks Brewing Co.",1186013372,4.5,3.5,5,"American Pale Ale (APA)",3.5,4,"American Pale Ale",5.7,36119
+"326",419,"Spanish Peaks Brewing Co.",1185876474,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"327",419,"Spanish Peaks Brewing Co.",1183931094,5,4.5,4.5,"American Pale Ale (APA)",4,5,"American Pale Ale",5.7,36119
+"328",419,"Spanish Peaks Brewing Co.",1182397841,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5.7,36119
+"329",419,"Spanish Peaks Brewing Co.",1182209759,4.5,3.5,4.5,"American Pale Ale (APA)",4,4.5,"American Pale Ale",5.7,36119
+"330",419,"Spanish Peaks Brewing Co.",1181259487,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"American Pale Ale",5.7,36119
+"331",419,"Spanish Peaks Brewing Co.",1180716979,3.5,3.5,3.5,"American Pale Ale (APA)",3,4,"American Pale Ale",5.7,36119
+"332",419,"Spanish Peaks Brewing Co.",1179439195,3,3.5,3,"American Pale Ale (APA)",2.5,2.5,"American Pale Ale",5.7,36119
+"333",419,"Spanish Peaks Brewing Co.",1178918782,4,3,3,"American Pale Ale (APA)",3.5,3,"American Pale Ale",5.7,36119
+"334",419,"Spanish Peaks Brewing Co.",1176237916,2,2.5,3,"American Pale Ale (APA)",2,2,"American Pale Ale",5.7,36119
+"335",419,"Spanish Peaks Brewing Co.",1072242621,3.5,3.5,3.5,"American Pale Lager",3,3,"Monterey Lager",NA,4081
+"336",419,"Spanish Peaks Brewing Co.",1071959414,3,3.5,2.5,"American Pale Lager",3,3,"Monterey Lager",NA,4081
+"337",419,"Spanish Peaks Brewing Co.",1065982969,3,3,3,"American Pale Lager",2.5,3,"Monterey Lager",NA,4081
+"338",419,"Spanish Peaks Brewing Co.",1044108868,4,3,2.5,"American Pale Lager",3.5,3.5,"Monterey Lager",NA,4081
+"339",419,"Spanish Peaks Brewing Co.",1032015850,4,3,3,"American Pale Lager",4,4,"Monterey Lager",NA,4081
+"340",419,"Spanish Peaks Brewing Co.",1028234718,3,2,3,"American Pale Lager",2,2,"Monterey Lager",NA,4081
+"341",419,"Spanish Peaks Brewing Co.",1198615662,1,2.5,3,"American Pale Ale (APA)",2,1.5,"Monterey Pale Ale (MPA)",NA,3398
+"342",419,"Spanish Peaks Brewing Co.",1171410483,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Monterey Pale Ale (MPA)",NA,3398
+"343",419,"Spanish Peaks Brewing Co.",1140142300,2.5,2.5,3.5,"American Pale Ale (APA)",3,2,"Monterey Pale Ale (MPA)",NA,3398
+"344",419,"Spanish Peaks Brewing Co.",1126011789,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"345",419,"Spanish Peaks Brewing Co.",1123646404,2.5,3.5,4,"American Pale Ale (APA)",3,3,"Monterey Pale Ale (MPA)",NA,3398
+"346",419,"Spanish Peaks Brewing Co.",1118494155,3,3,3,"American Pale Ale (APA)",2.5,3,"Monterey Pale Ale (MPA)",NA,3398
+"347",419,"Spanish Peaks Brewing Co.",1115185575,3,3,3.5,"American Pale Ale (APA)",3,3,"Monterey Pale Ale (MPA)",NA,3398
+"348",419,"Spanish Peaks Brewing Co.",1114009599,2.5,3.5,3.5,"American Pale Ale (APA)",2.5,2.5,"Monterey Pale Ale (MPA)",NA,3398
+"349",419,"Spanish Peaks Brewing Co.",1110756918,1,3,3.5,"American Pale Ale (APA)",2,1,"Monterey Pale Ale (MPA)",NA,3398
+"350",419,"Spanish Peaks Brewing Co.",1108263120,1,4,3.5,"American Pale Ale (APA)",3,1.5,"Monterey Pale Ale (MPA)",NA,3398
+"351",419,"Spanish Peaks Brewing Co.",1103081071,3.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"352",419,"Spanish Peaks Brewing Co.",1101791391,3,4,2.5,"American Pale Ale (APA)",3.5,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"353",419,"Spanish Peaks Brewing Co.",1101512098,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"354",419,"Spanish Peaks Brewing Co.",1066025542,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"355",419,"Spanish Peaks Brewing Co.",1099528930,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Monterey Pale Ale (MPA)",NA,3398
+"356",419,"Spanish Peaks Brewing Co.",1090540126,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Monterey Pale Ale (MPA)",NA,3398
+"357",419,"Spanish Peaks Brewing Co.",1088363977,4,4,4,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"358",419,"Spanish Peaks Brewing Co.",1084677677,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"359",419,"Spanish Peaks Brewing Co.",1083561031,3,4,4.5,"American Pale Ale (APA)",3.5,3,"Monterey Pale Ale (MPA)",NA,3398
+"360",419,"Spanish Peaks Brewing Co.",1082595385,4,3.5,4,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"361",419,"Spanish Peaks Brewing Co.",1082163834,4,4,3,"American Pale Ale (APA)",4,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"362",419,"Spanish Peaks Brewing Co.",1077948533,3,3,4,"American Pale Ale (APA)",3.5,2.5,"Monterey Pale Ale (MPA)",NA,3398
+"363",419,"Spanish Peaks Brewing Co.",1072897589,4,3.5,4,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"364",419,"Spanish Peaks Brewing Co.",1068675883,3,3.5,4,"American Pale Ale (APA)",3,3,"Monterey Pale Ale (MPA)",NA,3398
+"365",419,"Spanish Peaks Brewing Co.",1067017118,3,3,3,"American Pale Ale (APA)",3,3,"Monterey Pale Ale (MPA)",NA,3398
+"366",419,"Spanish Peaks Brewing Co.",1062551747,2.5,3,4,"American Pale Ale (APA)",3.5,2.5,"Monterey Pale Ale (MPA)",NA,3398
+"367",419,"Spanish Peaks Brewing Co.",1059774426,1.5,3,3,"American Pale Ale (APA)",2.5,2,"Monterey Pale Ale (MPA)",NA,3398
+"368",419,"Spanish Peaks Brewing Co.",1054503481,4,3,3.5,"American Pale Ale (APA)",3,3,"Monterey Pale Ale (MPA)",NA,3398
+"369",419,"Spanish Peaks Brewing Co.",1050938668,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Monterey Pale Ale (MPA)",NA,3398
+"370",419,"Spanish Peaks Brewing Co.",1048780713,4,2.5,4,"American Pale Ale (APA)",3.5,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"371",419,"Spanish Peaks Brewing Co.",1046005065,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"372",419,"Spanish Peaks Brewing Co.",1040154496,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Monterey Pale Ale (MPA)",NA,3398
+"373",419,"Spanish Peaks Brewing Co.",1035485249,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"374",419,"Spanish Peaks Brewing Co.",1032812404,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Monterey Pale Ale (MPA)",NA,3398
+"375",419,"Spanish Peaks Brewing Co.",1029574965,4,4,4,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"376",419,"Spanish Peaks Brewing Co.",1021788264,4,4,3.5,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"377",419,"Spanish Peaks Brewing Co.",1020064419,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Monterey Pale Ale (MPA)",NA,3398
+"378",419,"Spanish Peaks Brewing Co.",1195436954,4,3,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"379",419,"Spanish Peaks Brewing Co.",1019038333,4,3,4,"American Pale Ale (APA)",4,4,"Monterey Pale Ale (MPA)",NA,3398
+"380",419,"Spanish Peaks Brewing Co.",1251518833,4,4,4,"Witbier",4,4,"Summer White (Seasonal)",4.7,36573
+"381",419,"Spanish Peaks Brewing Co.",1240795941,4,4,4,"Witbier",4,4,"Summer White (Seasonal)",4.7,36573
+"382",419,"Spanish Peaks Brewing Co.",1238210782,4.5,4,4,"Witbier",4,4.5,"Summer White (Seasonal)",4.7,36573
+"383",419,"Spanish Peaks Brewing Co.",1219468897,3,4,3,"Witbier",3.5,3,"Summer White (Seasonal)",4.7,36573
+"384",419,"Spanish Peaks Brewing Co.",1219113774,3.5,4,4,"Witbier",2.5,4,"Summer White (Seasonal)",4.7,36573
+"385",419,"Spanish Peaks Brewing Co.",1216788600,3,4,4,"Witbier",4,4.5,"Summer White (Seasonal)",4.7,36573
+"386",419,"Spanish Peaks Brewing Co.",1214186097,4,3.5,4,"Witbier",4,4,"Summer White (Seasonal)",4.7,36573
+"387",419,"Spanish Peaks Brewing Co.",1207181769,3.5,4,3.5,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"388",419,"Spanish Peaks Brewing Co.",1199122104,3.5,4,4,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"389",419,"Spanish Peaks Brewing Co.",1186446873,5,4.5,3.5,"Witbier",4,4.5,"Summer White (Seasonal)",4.7,36573
+"390",419,"Spanish Peaks Brewing Co.",1196823925,4,2.5,3.5,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"391",419,"Spanish Peaks Brewing Co.",1196444044,3.5,3.5,4,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"392",419,"Spanish Peaks Brewing Co.",1192248659,4,3.5,3.5,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"393",419,"Spanish Peaks Brewing Co.",1191653182,4,3.5,3,"Witbier",3,4,"Summer White (Seasonal)",4.7,36573
+"394",419,"Spanish Peaks Brewing Co.",1191040670,3.5,4,3.5,"Witbier",3,4,"Summer White (Seasonal)",4.7,36573
+"395",419,"Spanish Peaks Brewing Co.",1189996938,3.5,3.5,4,"Witbier",2.5,3,"Summer White (Seasonal)",4.7,36573
+"396",419,"Spanish Peaks Brewing Co.",1188349456,4,4,4,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"397",419,"Spanish Peaks Brewing Co.",1187496079,4,3.5,3,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"398",419,"Spanish Peaks Brewing Co.",1186580280,4.5,4,4,"Witbier",4,4,"Summer White (Seasonal)",4.7,36573
+"399",419,"Spanish Peaks Brewing Co.",1186085168,3,3,4,"Witbier",2.5,3,"Summer White (Seasonal)",4.7,36573
+"400",419,"Spanish Peaks Brewing Co.",1185037786,3,3.5,3,"Witbier",1.5,3.5,"Summer White (Seasonal)",4.7,36573
+"401",419,"Spanish Peaks Brewing Co.",1184800037,4,3.5,3.5,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"402",419,"Spanish Peaks Brewing Co.",1184354512,3.5,3.5,4,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"403",419,"Spanish Peaks Brewing Co.",1183854288,3.5,4,3.5,"Witbier",4,3.5,"Summer White (Seasonal)",4.7,36573
+"404",419,"Spanish Peaks Brewing Co.",1183838319,4,4,4,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"405",419,"Spanish Peaks Brewing Co.",1183330378,4,3,4,"Witbier",4,3.5,"Summer White (Seasonal)",4.7,36573
+"406",419,"Spanish Peaks Brewing Co.",1182660154,4,3.5,4,"Witbier",4,3.5,"Summer White (Seasonal)",4.7,36573
+"407",419,"Spanish Peaks Brewing Co.",1182638181,4,4,3.5,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"408",419,"Spanish Peaks Brewing Co.",1182474757,4,4,4,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"409",419,"Spanish Peaks Brewing Co.",1189231606,4,3,3,"American Amber / Red Ale",3.5,2.5,"Black Dog Ale",5.2,36731
+"410",419,"Spanish Peaks Brewing Co.",1182213989,3.5,3,3.5,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"411",419,"Spanish Peaks Brewing Co.",1181936590,4,3.5,3.5,"Witbier",3,3,"Summer White (Seasonal)",4.7,36573
+"412",419,"Spanish Peaks Brewing Co.",1181424529,4,4,4,"Witbier",3.5,4,"Summer White (Seasonal)",4.7,36573
+"413",419,"Spanish Peaks Brewing Co.",1181357196,3,3.5,3.5,"Witbier",3,3,"Summer White (Seasonal)",4.7,36573
+"414",419,"Spanish Peaks Brewing Co.",1181190709,3.5,4,4,"Witbier",3,3.5,"Summer White (Seasonal)",4.7,36573
+"415",419,"Spanish Peaks Brewing Co.",1181062875,4,2.5,3.5,"Witbier",3,3,"Summer White (Seasonal)",4.7,36573
+"416",419,"Spanish Peaks Brewing Co.",1180732612,4,3,4,"Witbier",3,3,"Summer White (Seasonal)",4.7,36573
+"417",419,"Spanish Peaks Brewing Co.",1179338595,4,3,3.5,"Witbier",3.5,3.5,"Summer White (Seasonal)",4.7,36573
+"418",419,"Spanish Peaks Brewing Co.",1178585796,4,3,3,"Witbier",3,3,"Summer White (Seasonal)",4.7,36573
+"419",419,"Spanish Peaks Brewing Co.",1177885921,4,3.5,4,"Witbier",3.5,3,"Summer White (Seasonal)",4.7,36573
+"420",419,"Spanish Peaks Brewing Co.",1318378364,4,3.5,4,"Fruit / Vegetable Beer",4.5,4,"Chug's Private Stash Big Bite Peach Wheat",7,74025
+"421",419,"Spanish Peaks Brewing Co.",1194645478,4,4,4,"American Amber / Red Ale",4.5,4,"Black Dog Ale",5.2,36731
+"422",419,"Spanish Peaks Brewing Co.",1193484822,4,3.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"423",419,"Spanish Peaks Brewing Co.",1192663636,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"424",419,"Spanish Peaks Brewing Co.",1192591785,4,3.5,3.5,"American Amber / Red Ale",4.5,3.5,"Black Dog Ale",5.2,36731
+"425",419,"Spanish Peaks Brewing Co.",1192550874,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"426",419,"Spanish Peaks Brewing Co.",1192163627,2,2.5,3,"American Amber / Red Ale",2,2,"Black Dog Ale",5.2,36731
+"427",419,"Spanish Peaks Brewing Co.",1191957617,4,3.5,4,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"428",419,"Spanish Peaks Brewing Co.",1191351800,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"429",419,"Spanish Peaks Brewing Co.",1190173230,5,4,4,"American Amber / Red Ale",4,4.5,"Black Dog Ale",5.2,36731
+"430",419,"Spanish Peaks Brewing Co.",1190163616,4.5,3.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"431",419,"Spanish Peaks Brewing Co.",1161759385,3,4,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"432",419,"Spanish Peaks Brewing Co.",1188780296,4.5,3.5,4.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"433",419,"Spanish Peaks Brewing Co.",1188083669,4,3.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"434",419,"Spanish Peaks Brewing Co.",1187823299,4.5,3.5,3,"American Amber / Red Ale",2.5,3.5,"Black Dog Ale",5.2,36731
+"435",419,"Spanish Peaks Brewing Co.",1187261312,3.5,3.5,3,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"436",419,"Spanish Peaks Brewing Co.",1186580657,4,3,3,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"437",419,"Spanish Peaks Brewing Co.",1186269085,4.5,4,4.5,"American Amber / Red Ale",3,5,"Black Dog Ale",5.2,36731
+"438",419,"Spanish Peaks Brewing Co.",1185231784,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"439",419,"Spanish Peaks Brewing Co.",1184630188,3.5,4,4,"American Amber / Red Ale",3,4,"Black Dog Ale",5.2,36731
+"440",419,"Spanish Peaks Brewing Co.",1184379035,3,3,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"441",419,"Spanish Peaks Brewing Co.",1183684743,3,4,4.5,"American Amber / Red Ale",2.5,3,"Black Dog Ale",5.2,36731
+"442",419,"Spanish Peaks Brewing Co.",1183599196,2,4,3.5,"American Amber / Red Ale",3.5,2.5,"Black Dog Ale",5.2,36731
+"443",419,"Spanish Peaks Brewing Co.",1181099298,3,4,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"444",419,"Spanish Peaks Brewing Co.",1182916698,4,4,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"445",419,"Spanish Peaks Brewing Co.",1182725531,3,3.5,3,"American Amber / Red Ale",3.5,3,"Black Dog Ale",5.2,36731
+"446",419,"Spanish Peaks Brewing Co.",1182701938,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"447",419,"Spanish Peaks Brewing Co.",1182380020,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"448",419,"Spanish Peaks Brewing Co.",1182221716,4,3.5,4.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"449",419,"Spanish Peaks Brewing Co.",1182117766,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"450",419,"Spanish Peaks Brewing Co.",1182025794,4,4,4.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"451",419,"Spanish Peaks Brewing Co.",1181354919,4,2.5,4.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"452",419,"Spanish Peaks Brewing Co.",1181348782,3,3.5,3,"American Amber / Red Ale",3,2.5,"Black Dog Ale",5.2,36731
+"453",419,"Spanish Peaks Brewing Co.",1181194213,4,3.5,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"454",419,"Spanish Peaks Brewing Co.",1180655556,3.5,4,3,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"455",419,"Spanish Peaks Brewing Co.",1180588300,2,3,3,"American Amber / Red Ale",1,2,"Black Dog Ale",5.2,36731
+"456",419,"Spanish Peaks Brewing Co.",1180318766,3.5,4,3,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"457",419,"Spanish Peaks Brewing Co.",1180265004,4,3,4.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"458",419,"Spanish Peaks Brewing Co.",1179461248,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"459",419,"Spanish Peaks Brewing Co.",1179144358,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"460",419,"Spanish Peaks Brewing Co.",1178935002,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"461",419,"Spanish Peaks Brewing Co.",1178635375,4,4,3,"American Amber / Red Ale",3,4,"Black Dog Ale",5.2,36731
+"462",419,"Spanish Peaks Brewing Co.",1323319318,3.5,3,4,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"463",419,"Spanish Peaks Brewing Co.",1299390939,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"464",419,"Spanish Peaks Brewing Co.",1320191866,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"465",419,"Spanish Peaks Brewing Co.",1314999697,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"466",419,"Spanish Peaks Brewing Co.",1310417437,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"467",419,"Spanish Peaks Brewing Co.",1310163246,3,3,3,"American Amber / Red Ale",2.5,3,"Black Dog Ale",5.2,36731
+"468",419,"Spanish Peaks Brewing Co.",1310158150,3.5,4,3.5,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"469",419,"Spanish Peaks Brewing Co.",1306121829,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"470",419,"Spanish Peaks Brewing Co.",1304905045,3,3.5,3.5,"American Amber / Red Ale",3.5,3,"Black Dog Ale",5.2,36731
+"471",419,"Spanish Peaks Brewing Co.",1301621096,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"472",419,"Spanish Peaks Brewing Co.",1299940167,2,2,3,"American Amber / Red Ale",3.5,2,"Black Dog Ale",5.2,36731
+"473",419,"Spanish Peaks Brewing Co.",1292542460,3.5,3,3.5,"American Amber / Red Ale",2.5,3,"Black Dog Ale",5.2,36731
+"474",419,"Spanish Peaks Brewing Co.",1291601023,2,2,2.5,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"475",419,"Spanish Peaks Brewing Co.",1291003961,3.5,4.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"476",419,"Spanish Peaks Brewing Co.",1285900352,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"477",419,"Spanish Peaks Brewing Co.",1283795313,4.5,4,4,"American Amber / Red Ale",4,4.5,"Black Dog Ale",5.2,36731
+"478",419,"Spanish Peaks Brewing Co.",1283116778,4.5,3.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"479",419,"Spanish Peaks Brewing Co.",1281664001,4,4.5,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"480",419,"Spanish Peaks Brewing Co.",1281582086,2,3,3,"American Amber / Red Ale",3.5,2,"Black Dog Ale",5.2,36731
+"481",419,"Spanish Peaks Brewing Co.",1270597628,2.5,2,3,"American Amber / Red Ale",3,2,"Black Dog Ale",5.2,36731
+"482",419,"Spanish Peaks Brewing Co.",1248913064,4,3.5,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"483",419,"Spanish Peaks Brewing Co.",1268267843,3.5,3.5,3.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"484",419,"Spanish Peaks Brewing Co.",1267986487,3.5,4,4,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"485",419,"Spanish Peaks Brewing Co.",1267672301,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"486",419,"Spanish Peaks Brewing Co.",1267399782,4,3.5,3.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"487",419,"Spanish Peaks Brewing Co.",1261359775,3.5,4,4.5,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"488",419,"Spanish Peaks Brewing Co.",1259474262,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"489",419,"Spanish Peaks Brewing Co.",1258846875,3.5,4,4.5,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"490",419,"Spanish Peaks Brewing Co.",1255488958,4,4,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"491",419,"Spanish Peaks Brewing Co.",1252902276,3,3,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"492",419,"Spanish Peaks Brewing Co.",1249009216,4,4,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"493",419,"Spanish Peaks Brewing Co.",1246162218,3.5,3,4,"American Amber / Red Ale",2.5,3.5,"Black Dog Ale",5.2,36731
+"494",419,"Spanish Peaks Brewing Co.",1245989019,2.5,3,4.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"495",419,"Spanish Peaks Brewing Co.",1243180422,3,3.5,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"496",419,"Spanish Peaks Brewing Co.",1241310275,2.5,3,3.5,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"497",419,"Spanish Peaks Brewing Co.",1236152076,3.5,2.5,3.5,"American Amber / Red Ale",3.5,3,"Black Dog Ale",5.2,36731
+"498",419,"Spanish Peaks Brewing Co.",1235099498,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"499",419,"Spanish Peaks Brewing Co.",1234626974,3,3.5,3.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"500",419,"Spanish Peaks Brewing Co.",1233028839,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"501",419,"Spanish Peaks Brewing Co.",1232580954,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"502",419,"Spanish Peaks Brewing Co.",1232326931,3.5,3.5,2.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"503",419,"Spanish Peaks Brewing Co.",1134885739,3,3.5,4,"English Brown Ale",3,3,"Nut Brown Ale",NA,5517
+"504",419,"Spanish Peaks Brewing Co.",1231350627,4,3,3,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"505",419,"Spanish Peaks Brewing Co.",1230927538,3.5,4,3,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"506",419,"Spanish Peaks Brewing Co.",1230763534,4,4,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"507",419,"Spanish Peaks Brewing Co.",1230715454,3,3,4.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"508",419,"Spanish Peaks Brewing Co.",1229643847,4.5,4,4.5,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"509",419,"Spanish Peaks Brewing Co.",1229049367,4.5,4,3.5,"American Amber / Red Ale",4.5,3.5,"Black Dog Ale",5.2,36731
+"510",419,"Spanish Peaks Brewing Co.",1228840713,3.5,3.5,3,"American Amber / Red Ale",3.5,2,"Black Dog Ale",5.2,36731
+"511",419,"Spanish Peaks Brewing Co.",1226528334,3,2.5,3,"American Amber / Red Ale",4.5,3,"Black Dog Ale",5.2,36731
+"512",419,"Spanish Peaks Brewing Co.",1223953968,4.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"513",419,"Spanish Peaks Brewing Co.",1222137571,3,4,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"514",419,"Spanish Peaks Brewing Co.",1220741492,2.5,3.5,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"515",419,"Spanish Peaks Brewing Co.",1220303307,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"516",419,"Spanish Peaks Brewing Co.",1217955520,3.5,4,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"517",419,"Spanish Peaks Brewing Co.",1216935545,4,4,4.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"518",419,"Spanish Peaks Brewing Co.",1216264510,3.5,4,3.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"519",419,"Spanish Peaks Brewing Co.",1216181800,4,3.5,4,"American Amber / Red Ale",4,4.5,"Black Dog Ale",5.2,36731
+"520",419,"Spanish Peaks Brewing Co.",1215753174,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"521",419,"Spanish Peaks Brewing Co.",1215551707,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"522",419,"Spanish Peaks Brewing Co.",1214148906,4,3.5,3.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"523",419,"Spanish Peaks Brewing Co.",1213670150,4,3.5,4.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"524",419,"Spanish Peaks Brewing Co.",1212246445,3.5,4,4.5,"American Amber / Red Ale",5,4,"Black Dog Ale",5.2,36731
+"525",419,"Spanish Peaks Brewing Co.",1206892108,4,3.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"526",419,"Spanish Peaks Brewing Co.",1211437210,4.5,3.5,4,"American Amber / Red Ale",4.5,4,"Black Dog Ale",5.2,36731
+"527",419,"Spanish Peaks Brewing Co.",1209837705,3,4,3,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"528",419,"Spanish Peaks Brewing Co.",1209791920,3.5,4,3.5,"American Amber / Red Ale",3.5,3,"Black Dog Ale",5.2,36731
+"529",419,"Spanish Peaks Brewing Co.",1209008048,4.5,4.5,4,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"530",419,"Spanish Peaks Brewing Co.",1208820870,2.5,4,3,"American Amber / Red Ale",3,2.5,"Black Dog Ale",5.2,36731
+"531",419,"Spanish Peaks Brewing Co.",1208724151,3.5,4,3,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"532",419,"Spanish Peaks Brewing Co.",1208661341,4,4,4,"American Amber / Red Ale",3.5,4,"Black Dog Ale",5.2,36731
+"533",419,"Spanish Peaks Brewing Co.",1208323940,4.5,3.5,3.5,"American Amber / Red Ale",2,4.5,"Black Dog Ale",5.2,36731
+"534",419,"Spanish Peaks Brewing Co.",1207784208,4,4.5,4,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"535",419,"Spanish Peaks Brewing Co.",1206826166,4,4.5,4,"American Amber / Red Ale",4.5,4.5,"Black Dog Ale",5.2,36731
+"536",419,"Spanish Peaks Brewing Co.",1206758500,3.5,3,3,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"537",419,"Spanish Peaks Brewing Co.",1206668249,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"538",419,"Spanish Peaks Brewing Co.",1206666865,3,3.5,4,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"539",419,"Spanish Peaks Brewing Co.",1204161456,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"540",419,"Spanish Peaks Brewing Co.",1202950265,4.5,3,4.5,"American Amber / Red Ale",4,4,"Black Dog Ale",5.2,36731
+"541",419,"Spanish Peaks Brewing Co.",1202748615,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"542",419,"Spanish Peaks Brewing Co.",1202577623,2,2.5,3.5,"American Amber / Red Ale",3,2,"Black Dog Ale",5.2,36731
+"543",419,"Spanish Peaks Brewing Co.",1202400397,3.5,4,3.5,"American Amber / Red Ale",4,3.5,"Black Dog Ale",5.2,36731
+"544",419,"Spanish Peaks Brewing Co.",1202390736,4,4,4,"American Amber / Red Ale",4,4.5,"Black Dog Ale",5.2,36731
+"545",419,"Spanish Peaks Brewing Co.",1201052941,2.5,3.5,4,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"546",419,"Spanish Peaks Brewing Co.",1133204824,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",NA,5517
+"547",419,"Spanish Peaks Brewing Co.",1200386360,3,2.5,3.5,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"548",419,"Spanish Peaks Brewing Co.",1200324662,4,3,4,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"549",419,"Spanish Peaks Brewing Co.",1199319208,3,3,3,"American Amber / Red Ale",3,3,"Black Dog Ale",5.2,36731
+"550",419,"Spanish Peaks Brewing Co.",1198124857,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Black Dog Ale",5.2,36731
+"551",419,"Spanish Peaks Brewing Co.",1197240989,3.5,3,3,"American Amber / Red Ale",3,3.5,"Black Dog Ale",5.2,36731
+"552",419,"Spanish Peaks Brewing Co.",1196986628,3,2.5,3,"American Amber / Red Ale",2.5,2.5,"Black Dog Ale",5.2,36731
+"553",419,"Spanish Peaks Brewing Co.",1172533428,4.5,4,4.5,"English Brown Ale",4,4,"Nut Brown Ale",NA,5517
+"554",419,"Spanish Peaks Brewing Co.",1138327647,3,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",NA,5517
+"555",419,"Spanish Peaks Brewing Co.",1138140727,3.5,4.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",NA,5517
+"556",419,"Spanish Peaks Brewing Co.",1135919243,4,3.5,4.5,"English Brown Ale",4,4,"Nut Brown Ale",NA,5517
+"557",419,"Spanish Peaks Brewing Co.",1131780020,2.5,3.5,3,"English Brown Ale",2.5,2.5,"Nut Brown Ale",NA,5517
+"558",419,"Spanish Peaks Brewing Co.",1130182026,3,3.5,4,"English Brown Ale",3,3,"Nut Brown Ale",NA,5517
+"559",419,"Spanish Peaks Brewing Co.",1127352622,4,4.5,4,"English Brown Ale",4,4,"Nut Brown Ale",NA,5517
+"560",419,"Spanish Peaks Brewing Co.",1125802257,2.5,2.5,3,"English Brown Ale",2,2.5,"Nut Brown Ale",NA,5517
+"561",419,"Spanish Peaks Brewing Co.",1123784900,3.5,3.5,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",NA,5517
+"562",419,"Spanish Peaks Brewing Co.",1122819903,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",NA,5517
+"563",419,"Spanish Peaks Brewing Co.",1121497643,3,2,3,"English Brown Ale",3,3,"Nut Brown Ale",NA,5517
+"564",419,"Spanish Peaks Brewing Co.",1114563451,4.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",NA,5517
+"565",419,"Spanish Peaks Brewing Co.",1112677061,4.5,4.5,4.5,"English Brown Ale",4.5,4.5,"Nut Brown Ale",NA,5517
+"566",419,"Spanish Peaks Brewing Co.",1110761528,3,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",NA,5517
+"567",419,"Spanish Peaks Brewing Co.",1031681506,3.5,4,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",NA,5517
+"568",419,"Spanish Peaks Brewing Co.",1029522880,4.5,4.5,3.5,"English Brown Ale",4,4.5,"Nut Brown Ale",NA,5517
+"569",419,"Spanish Peaks Brewing Co.",1255110026,4,3,3.5,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"570",419,"Spanish Peaks Brewing Co.",1314807680,3.5,3.5,3.5,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"571",419,"Spanish Peaks Brewing Co.",1303344217,3,3,2.5,"Kristalweizen",2.5,3,"Crystal Weiss",4.5,42120
+"572",419,"Spanish Peaks Brewing Co.",1286146957,3,3,3,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"573",419,"Spanish Peaks Brewing Co.",1282840548,3,3,2,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"574",419,"Spanish Peaks Brewing Co.",1268698864,4,3,3,"Kristalweizen",3.5,3.5,"Crystal Weiss",4.5,42120
+"575",419,"Spanish Peaks Brewing Co.",1262568935,3,3,2,"Kristalweizen",3.5,2.5,"Crystal Weiss",4.5,42120
+"576",419,"Spanish Peaks Brewing Co.",1261688812,2.5,3,2.5,"Kristalweizen",2.5,3,"Crystal Weiss",4.5,42120
+"577",419,"Spanish Peaks Brewing Co.",1260043585,2.5,3.5,2.5,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"578",419,"Spanish Peaks Brewing Co.",1257162845,2.5,3,3.5,"Kristalweizen",3.5,2.5,"Crystal Weiss",4.5,42120
+"579",419,"Spanish Peaks Brewing Co.",1018546476,3.5,3,4,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"580",419,"Spanish Peaks Brewing Co.",1252796214,1.5,2,3.5,"Kristalweizen",1.5,1.5,"Crystal Weiss",4.5,42120
+"581",419,"Spanish Peaks Brewing Co.",1249937996,3.5,4,3,"Kristalweizen",4,4,"Crystal Weiss",4.5,42120
+"582",419,"Spanish Peaks Brewing Co.",1249000416,3,3.5,3.5,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"583",419,"Spanish Peaks Brewing Co.",1248696603,3.5,3,3,"Kristalweizen",3.5,3,"Crystal Weiss",4.5,42120
+"584",419,"Spanish Peaks Brewing Co.",1244340060,4,3.5,3.5,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"585",419,"Spanish Peaks Brewing Co.",1235266582,3.5,3,3,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"586",419,"Spanish Peaks Brewing Co.",1233887531,4,2.5,3,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"587",419,"Spanish Peaks Brewing Co.",1233372071,3,2.5,2.5,"Kristalweizen",2,2,"Crystal Weiss",4.5,42120
+"588",419,"Spanish Peaks Brewing Co.",1230830596,3.5,3,2.5,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"589",419,"Spanish Peaks Brewing Co.",1229396699,4,4,3.5,"Kristalweizen",3,3.5,"Crystal Weiss",4.5,42120
+"590",419,"Spanish Peaks Brewing Co.",1226613761,3.5,4,3,"Kristalweizen",3.5,3.5,"Crystal Weiss",4.5,42120
+"591",419,"Spanish Peaks Brewing Co.",1225665399,3.5,3,3,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"592",419,"Spanish Peaks Brewing Co.",1225071978,3,3.5,3,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"593",419,"Spanish Peaks Brewing Co.",1223582640,4,3,4,"Kristalweizen",3.5,3.5,"Crystal Weiss",4.5,42120
+"594",419,"Spanish Peaks Brewing Co.",1223419117,4,3,4,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"595",419,"Spanish Peaks Brewing Co.",1223311086,3,3.5,3.5,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"596",419,"Spanish Peaks Brewing Co.",1218240292,4,3.5,3.5,"Kristalweizen",3.5,3.5,"Crystal Weiss",4.5,42120
+"597",419,"Spanish Peaks Brewing Co.",1217652102,4,3,4,"Kristalweizen",3.5,3,"Crystal Weiss",4.5,42120
+"598",419,"Spanish Peaks Brewing Co.",1216758515,4,3,3,"Kristalweizen",3,3.5,"Crystal Weiss",4.5,42120
+"599",419,"Spanish Peaks Brewing Co.",1216682531,3.5,3,3,"Kristalweizen",3,3,"Crystal Weiss",4.5,42120
+"600",419,"Spanish Peaks Brewing Co.",1216584308,4,3,3,"Kristalweizen",3,3.5,"Crystal Weiss",4.5,42120
+"601",419,"Spanish Peaks Brewing Co.",1214799868,4,3.5,3.5,"Kristalweizen",3.5,3.5,"Crystal Weiss",4.5,42120
+"602",419,"Spanish Peaks Brewing Co.",1209792270,2,2,3,"Kristalweizen",2.5,2,"Crystal Weiss",4.5,42120
+"603",419,"Spanish Peaks Brewing Co.",1209317017,4,3,4,"Kristalweizen",4,3.5,"Crystal Weiss",4.5,42120
+"604",419,"Spanish Peaks Brewing Co.",1208018811,3,3,4,"Kristalweizen",4,3,"Crystal Weiss",4.5,42120
+"605",419,"Spanish Peaks Brewing Co.",1117755166,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"606",419,"Spanish Peaks Brewing Co.",1116699153,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"607",419,"Spanish Peaks Brewing Co.",1114009482,3.5,3,3.5,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"608",419,"Spanish Peaks Brewing Co.",1108782390,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"609",419,"Spanish Peaks Brewing Co.",1108261121,4,4.5,3.5,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"610",419,"Spanish Peaks Brewing Co.",1106544441,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"611",419,"Spanish Peaks Brewing Co.",1106322704,3.5,3.5,4.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"612",419,"Spanish Peaks Brewing Co.",1105750978,3,3,4,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"613",419,"Spanish Peaks Brewing Co.",1105583853,3.5,3.5,3.5,"American Pale Ale (APA)",2.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"614",419,"Spanish Peaks Brewing Co.",1101789155,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"615",419,"Spanish Peaks Brewing Co.",1100447626,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"616",419,"Spanish Peaks Brewing Co.",1098662093,3,3.5,3,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"617",419,"Spanish Peaks Brewing Co.",1096940223,2.5,3.5,4,"American Pale Ale (APA)",2,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"618",419,"Spanish Peaks Brewing Co.",1095633822,4,3,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"619",419,"Spanish Peaks Brewing Co.",1094421574,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"620",419,"Spanish Peaks Brewing Co.",1093649866,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"621",419,"Spanish Peaks Brewing Co.",1093486988,3.5,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"622",419,"Spanish Peaks Brewing Co.",1093369866,3,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"623",419,"Spanish Peaks Brewing Co.",1093037976,3,3.5,4,"American Pale Ale (APA)",3,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"624",419,"Spanish Peaks Brewing Co.",1089770581,4,4,4.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"625",419,"Spanish Peaks Brewing Co.",1083192869,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"626",419,"Spanish Peaks Brewing Co.",1079630990,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"627",419,"Spanish Peaks Brewing Co.",1073511853,3.5,3,4,"American Pale Ale (APA)",4,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"628",419,"Spanish Peaks Brewing Co.",1072660020,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"629",419,"Spanish Peaks Brewing Co.",1067225529,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"630",419,"Spanish Peaks Brewing Co.",1067016938,4,3.5,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"631",419,"Spanish Peaks Brewing Co.",1065599074,5,3,4,"American Pale Ale (APA)",2,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"632",419,"Spanish Peaks Brewing Co.",1064888405,3,3,2.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"633",419,"Spanish Peaks Brewing Co.",1064710161,3,4,4,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"634",419,"Spanish Peaks Brewing Co.",1064286343,2.5,2.5,4,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"635",419,"Spanish Peaks Brewing Co.",1063115532,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"636",419,"Spanish Peaks Brewing Co.",1062553123,4,3.5,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"637",419,"Spanish Peaks Brewing Co.",1050491725,3,3,3,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"638",419,"Spanish Peaks Brewing Co.",1252804341,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"639",419,"Spanish Peaks Brewing Co.",1050082160,4,4,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"640",419,"Spanish Peaks Brewing Co.",1049712466,4,3,4,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"641",419,"Spanish Peaks Brewing Co.",1049485758,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"642",419,"Spanish Peaks Brewing Co.",1048853802,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"643",419,"Spanish Peaks Brewing Co.",1044021632,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"644",419,"Spanish Peaks Brewing Co.",1039174788,2.5,3,4,"American Pale Ale (APA)",3,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"645",419,"Spanish Peaks Brewing Co.",1035484418,4,4,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"646",419,"Spanish Peaks Brewing Co.",1032713727,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"647",419,"Spanish Peaks Brewing Co.",1032195746,4.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"648",419,"Spanish Peaks Brewing Co.",1030152137,4,4,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"649",419,"Spanish Peaks Brewing Co.",1029522989,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"650",419,"Spanish Peaks Brewing Co.",1019040884,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"651",419,"Spanish Peaks Brewing Co.",1017497518,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"652",419,"Spanish Peaks Brewing Co.",1014906107,3,3.5,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"653",419,"Spanish Peaks Brewing Co.",1277246635,4.5,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"654",419,"Spanish Peaks Brewing Co.",1271896221,3.5,3.5,3,"American Pale Ale (APA)",3,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"655",419,"Spanish Peaks Brewing Co.",1268268869,2.5,3,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"656",419,"Spanish Peaks Brewing Co.",1268267583,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"657",419,"Spanish Peaks Brewing Co.",1267388475,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"658",419,"Spanish Peaks Brewing Co.",1264210944,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"659",419,"Spanish Peaks Brewing Co.",1262733747,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"660",419,"Spanish Peaks Brewing Co.",1248325725,4,3,3.5,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"661",419,"Spanish Peaks Brewing Co.",1244475792,4,3.5,3,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"662",419,"Spanish Peaks Brewing Co.",1237948265,4.5,3.5,5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"663",419,"Spanish Peaks Brewing Co.",1226945370,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"664",419,"Spanish Peaks Brewing Co.",1225242319,3,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"665",419,"Spanish Peaks Brewing Co.",1211390107,3,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"666",419,"Spanish Peaks Brewing Co.",1207788811,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"667",419,"Spanish Peaks Brewing Co.",1203391271,4,4,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"668",419,"Spanish Peaks Brewing Co.",1202940342,4,3,4,"American Pale Ale (APA)",3,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"669",419,"Spanish Peaks Brewing Co.",1202784332,4,4,3,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"670",419,"Spanish Peaks Brewing Co.",1200073919,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"671",419,"Spanish Peaks Brewing Co.",1183509460,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"672",419,"Spanish Peaks Brewing Co.",1199896456,3,3,4,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"673",419,"Spanish Peaks Brewing Co.",1199777244,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"674",419,"Spanish Peaks Brewing Co.",1197080458,4,3.5,3,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"675",419,"Spanish Peaks Brewing Co.",1196302062,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"676",419,"Spanish Peaks Brewing Co.",1190153624,4,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"677",419,"Spanish Peaks Brewing Co.",1188329915,3,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"678",419,"Spanish Peaks Brewing Co.",1185752062,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"679",419,"Spanish Peaks Brewing Co.",1185163494,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"680",419,"Spanish Peaks Brewing Co.",1184970006,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"681",419,"Spanish Peaks Brewing Co.",1184599770,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"682",419,"Spanish Peaks Brewing Co.",1183662951,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"683",419,"Spanish Peaks Brewing Co.",1183524560,3,3.5,4,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"684",419,"Spanish Peaks Brewing Co.",1182264919,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"685",419,"Spanish Peaks Brewing Co.",1181516957,2.5,2.5,3.5,"American Pale Ale (APA)",3.5,1.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"686",419,"Spanish Peaks Brewing Co.",1181424857,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"687",419,"Spanish Peaks Brewing Co.",1178337214,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"688",419,"Spanish Peaks Brewing Co.",1176776935,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"689",419,"Spanish Peaks Brewing Co.",1176581784,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"690",419,"Spanish Peaks Brewing Co.",1176510854,3,3,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"691",419,"Spanish Peaks Brewing Co.",1176442875,4.5,4,4,"American Pale Ale (APA)",4.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"692",419,"Spanish Peaks Brewing Co.",1175902755,3,3.5,4,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"693",419,"Spanish Peaks Brewing Co.",1175145511,4,4,4,"American Pale Ale (APA)",5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"694",419,"Spanish Peaks Brewing Co.",1175052476,2,3,3,"American Pale Ale (APA)",2.5,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"695",419,"Spanish Peaks Brewing Co.",1173644492,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"696",419,"Spanish Peaks Brewing Co.",1174807151,3,3,4,"American Pale Ale (APA)",3,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"697",419,"Spanish Peaks Brewing Co.",1174674912,3,3.5,4,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"698",419,"Spanish Peaks Brewing Co.",1174669885,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"699",419,"Spanish Peaks Brewing Co.",1174181154,3.5,2.5,3.5,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"700",419,"Spanish Peaks Brewing Co.",1174085940,4.5,3.5,3,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"701",419,"Spanish Peaks Brewing Co.",1174000064,4,4,4,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"702",419,"Spanish Peaks Brewing Co.",1173914749,3.5,3.5,4.5,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"703",419,"Spanish Peaks Brewing Co.",1173719281,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"704",419,"Spanish Peaks Brewing Co.",1173645286,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"705",419,"Spanish Peaks Brewing Co.",1173221076,4,4,3.5,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"706",419,"Spanish Peaks Brewing Co.",1172346129,3,3,4,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"707",419,"Spanish Peaks Brewing Co.",1171676172,3.5,2.5,3,"American Pale Ale (APA)",4,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"708",419,"Spanish Peaks Brewing Co.",1171411250,4.5,4,4,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"709",419,"Spanish Peaks Brewing Co.",1171327550,2.5,3,3,"American Pale Ale (APA)",3,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"710",419,"Spanish Peaks Brewing Co.",1171289099,4,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"711",419,"Spanish Peaks Brewing Co.",1171045472,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"712",419,"Spanish Peaks Brewing Co.",1170471642,2,2,3.5,"American Pale Ale (APA)",3,2,"Spanish Peaks Black Dog Ale",5.2,2888
+"713",419,"Spanish Peaks Brewing Co.",1169974758,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"714",419,"Spanish Peaks Brewing Co.",1169773447,2.5,3,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"715",419,"Spanish Peaks Brewing Co.",1169598386,4,3,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"716",419,"Spanish Peaks Brewing Co.",1169435059,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"717",419,"Spanish Peaks Brewing Co.",1168474921,3.5,3.5,3.5,"American Pale Ale (APA)",4,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"718",419,"Spanish Peaks Brewing Co.",1168131663,4,4,4,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"719",419,"Spanish Peaks Brewing Co.",1167457318,3,2.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"720",419,"Spanish Peaks Brewing Co.",1166850147,2.5,2.5,3,"American Pale Ale (APA)",2,2.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"721",419,"Spanish Peaks Brewing Co.",1165160276,4,2.5,3,"American Pale Ale (APA)",4,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"722",419,"Spanish Peaks Brewing Co.",1164686215,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"723",419,"Spanish Peaks Brewing Co.",1164644412,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"724",419,"Spanish Peaks Brewing Co.",1163551486,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"725",419,"Spanish Peaks Brewing Co.",1162175751,2,2.5,3,"American Pale Ale (APA)",2.5,2,"Spanish Peaks Black Dog Ale",5.2,2888
+"726",419,"Spanish Peaks Brewing Co.",1161565655,4,3,3,"American Pale Ale (APA)",3,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"727",419,"Spanish Peaks Brewing Co.",1157411472,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"728",419,"Spanish Peaks Brewing Co.",1150505881,2.5,3,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"729",419,"Spanish Peaks Brewing Co.",1148883279,2,2.5,3.5,"American Pale Ale (APA)",2.5,2,"Spanish Peaks Black Dog Ale",5.2,2888
+"730",419,"Spanish Peaks Brewing Co.",1148742197,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"731",419,"Spanish Peaks Brewing Co.",1147647046,3.5,3,3.5,"American Pale Ale (APA)",3.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"732",419,"Spanish Peaks Brewing Co.",1146789356,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"733",419,"Spanish Peaks Brewing Co.",1139966877,3,3,3,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"734",419,"Spanish Peaks Brewing Co.",1134613347,3.5,3.5,3,"American Pale Ale (APA)",3.5,4,"Spanish Peaks Black Dog Ale",5.2,2888
+"735",419,"Spanish Peaks Brewing Co.",1128472678,3,4,3.5,"American Pale Ale (APA)",4.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"736",419,"Spanish Peaks Brewing Co.",1125115513,3,2,3.5,"American Pale Ale (APA)",3,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"737",419,"Spanish Peaks Brewing Co.",1124830432,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"738",419,"Spanish Peaks Brewing Co.",1124459909,3.5,2.5,4,"American Pale Ale (APA)",2.5,3,"Spanish Peaks Black Dog Ale",5.2,2888
+"739",419,"Spanish Peaks Brewing Co.",1123644529,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Spanish Peaks Black Dog Ale",5.2,2888
+"740",419,"Spanish Peaks Brewing Co.",1122261579,3.5,4,3,"American Pale Ale (APA)",4,4,"Spanish Peaks Black Dog Ale",5.2,2888

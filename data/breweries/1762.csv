@@ -1,0 +1,641 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",1762,"St. George Brewing Company, The",1050990766,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"2",1762,"St. George Brewing Company, The",1243309627,4,3.5,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"3",1762,"St. George Brewing Company, The",1049519060,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"4",1762,"St. George Brewing Company, The",1180491751,4,3,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"5",1762,"St. George Brewing Company, The",1176794375,4,3.5,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"6",1762,"St. George Brewing Company, The",1286226324,3.5,3,4,"English Porter",4,4,"Porter",5,4957
+"7",1762,"St. George Brewing Company, The",1175746619,4,3.5,3.5,"English Porter",4.5,4.5,"Porter",5,4957
+"8",1762,"St. George Brewing Company, The",1243225236,3.5,3.5,3.5,"Vienna Lager",3.5,3,"Spring Lager",5.5,37835
+"9",1762,"St. George Brewing Company, The",1274408124,3.5,3.5,4,"Russian Imperial Stout",3,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"10",1762,"St. George Brewing Company, The",1308760606,3.5,3,3,"American Amber / Red Ale",4,3,"Fishbones Amber Ale",5.2,70291
+"11",1762,"St. George Brewing Company, The",1301168723,4.5,4.5,4,"Vienna Lager",4,4,"Spring Lager",5.5,37835
+"12",1762,"St. George Brewing Company, The",1243309188,4,3.5,4,"Vienna Lager",3.5,3.5,"Spring Lager",5.5,37835
+"13",1762,"St. George Brewing Company, The",1239420994,3.5,4,3.5,"Vienna Lager",4,3,"Spring Lager",5.5,37835
+"14",1762,"St. George Brewing Company, The",1235269166,4.5,4,4,"Vienna Lager",4,4,"Spring Lager",5.5,37835
+"15",1762,"St. George Brewing Company, The",1209010244,3.5,3.5,3.5,"Vienna Lager",3,3.5,"Spring Lager",5.5,37835
+"16",1762,"St. George Brewing Company, The",1206625340,3.5,3.5,3.5,"Vienna Lager",4,3.5,"Spring Lager",5.5,37835
+"17",1762,"St. George Brewing Company, The",1193089245,4,4,3.5,"Vienna Lager",4,4,"Spring Lager",5.5,37835
+"18",1762,"St. George Brewing Company, The",1191710473,3.5,3.5,3,"Vienna Lager",3,3.5,"Spring Lager",5.5,37835
+"19",1762,"St. George Brewing Company, The",1193001011,4,4,4,"English Brown Ale",3.5,3.5,"Brown Ale",5.4,16879
+"20",1762,"St. George Brewing Company, The",1191123956,3.5,3.5,3,"English Brown Ale",3,4,"Brown Ale",5.4,16879
+"21",1762,"St. George Brewing Company, The",1178294498,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Brown Ale",5.4,16879
+"22",1762,"St. George Brewing Company, The",1135308984,3.5,4,3,"English Brown Ale",3.5,4,"Brown Ale",5.4,16879
+"23",1762,"St. George Brewing Company, The",1115247502,3,3,3.5,"English Brown Ale",3.5,3.5,"Brown Ale",5.4,16879
+"24",1762,"St. George Brewing Company, The",1080781543,4,3.5,4,"English Brown Ale",4,3.5,"Brown Ale",5.4,16879
+"25",1762,"St. George Brewing Company, The",1305404657,4.5,3,4.5,"Russian Imperial Stout",5,4.5,"Imperial Stout",8,69062
+"26",1762,"St. George Brewing Company, The",1229126714,3,3.5,3,"Maibock / Helles Bock",3.5,3,"Fall Bock",7.7,28498
+"27",1762,"St. George Brewing Company, The",1223696645,4,4,3.5,"Maibock / Helles Bock",4,4,"Fall Bock",7.7,28498
+"28",1762,"St. George Brewing Company, The",1210031131,3.5,4,4,"Maibock / Helles Bock",3.5,4,"Fall Bock",7.7,28498
+"29",1762,"St. George Brewing Company, The",1204009231,4.5,4,4,"Maibock / Helles Bock",4,5,"Fall Bock",7.7,28498
+"30",1762,"St. George Brewing Company, The",1200782571,4,4,4,"Maibock / Helles Bock",4,4.5,"Fall Bock",7.7,28498
+"31",1762,"St. George Brewing Company, The",1197387969,4,4,4,"Maibock / Helles Bock",4,4.5,"Fall Bock",7.7,28498
+"32",1762,"St. George Brewing Company, The",1188071147,4,4,4,"Maibock / Helles Bock",4,4.5,"Fall Bock",7.7,28498
+"33",1762,"St. George Brewing Company, The",1168018955,3.5,4,4,"Maibock / Helles Bock",4,4,"Fall Bock",7.7,28498
+"34",1762,"St. George Brewing Company, The",1166918320,3.5,4,4,"Maibock / Helles Bock",3.5,3.5,"Fall Bock",7.7,28498
+"35",1762,"St. George Brewing Company, The",1165683707,3.5,4,4,"Maibock / Helles Bock",4,4,"Fall Bock",7.7,28498
+"36",1762,"St. George Brewing Company, The",1162572981,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Fall Bock",7.7,28498
+"37",1762,"St. George Brewing Company, The",1160277763,4,3,4,"Maibock / Helles Bock",4,3.5,"Fall Bock",7.7,28498
+"38",1762,"St. George Brewing Company, The",1140489969,3.5,3,3.5,"Maibock / Helles Bock",4,3,"Fall Bock",7.7,28498
+"39",1762,"St. George Brewing Company, The",1095731630,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"40",1762,"St. George Brewing Company, The",1095048085,3,3.5,3,"English India Pale Ale (IPA)",4,3,"India Pale Ale",5.5,4948
+"41",1762,"St. George Brewing Company, The",1094508650,4.5,4.5,4.5,"English India Pale Ale (IPA)",4,5,"India Pale Ale",5.5,4948
+"42",1762,"St. George Brewing Company, The",1089167523,4,3.5,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"43",1762,"St. George Brewing Company, The",1089082929,3.5,2.5,3.5,"English India Pale Ale (IPA)",3,3.5,"India Pale Ale",5.5,4948
+"44",1762,"St. George Brewing Company, The",1085428852,3,2.5,2.5,"English India Pale Ale (IPA)",3,3,"India Pale Ale",5.5,4948
+"45",1762,"St. George Brewing Company, The",1053723967,4,4,3.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"46",1762,"St. George Brewing Company, The",1052505494,4,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"47",1762,"St. George Brewing Company, The",1083537305,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"48",1762,"St. George Brewing Company, The",1083203817,3.5,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"49",1762,"St. George Brewing Company, The",1082160891,3.5,3.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"50",1762,"St. George Brewing Company, The",1069985924,4.5,4,4.5,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.5,4948
+"51",1762,"St. George Brewing Company, The",1059889317,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3,"India Pale Ale",5.5,4948
+"52",1762,"St. George Brewing Company, The",1059763112,3.5,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"53",1762,"St. George Brewing Company, The",1059550738,4,3.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"54",1762,"St. George Brewing Company, The",1056400070,4,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"55",1762,"St. George Brewing Company, The",1046960336,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"56",1762,"St. George Brewing Company, The",1041939009,3.5,4,4,"English India Pale Ale (IPA)",4.5,3.5,"India Pale Ale",5.5,4948
+"57",1762,"St. George Brewing Company, The",1041578673,4,4.5,4.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"58",1762,"St. George Brewing Company, The",1039983474,3.5,4,3.5,"English India Pale Ale (IPA)",3,4,"India Pale Ale",5.5,4948
+"59",1762,"St. George Brewing Company, The",1035633782,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"60",1762,"St. George Brewing Company, The",1026995469,4,4,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"61",1762,"St. George Brewing Company, The",1323747384,3.5,4,4.5,"English India Pale Ale (IPA)",4,2.5,"India Pale Ale",5.5,4948
+"62",1762,"St. George Brewing Company, The",1320021067,4,3,4.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"63",1762,"St. George Brewing Company, The",1318802705,2,2.5,4,"English India Pale Ale (IPA)",3.5,2,"India Pale Ale",5.5,4948
+"64",1762,"St. George Brewing Company, The",1311421118,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"65",1762,"St. George Brewing Company, The",1308339642,4,4.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"66",1762,"St. George Brewing Company, The",1307758690,3.5,3,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"67",1762,"St. George Brewing Company, The",1306584762,3.5,4,4,"English India Pale Ale (IPA)",3.5,3,"India Pale Ale",5.5,4948
+"68",1762,"St. George Brewing Company, The",1305124511,2,2,3.5,"English India Pale Ale (IPA)",3,2,"India Pale Ale",5.5,4948
+"69",1762,"St. George Brewing Company, The",1302388718,4,3,4,"English India Pale Ale (IPA)",3,4,"India Pale Ale",5.5,4948
+"70",1762,"St. George Brewing Company, The",1296836485,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"71",1762,"St. George Brewing Company, The",1291343185,3.5,4,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"72",1762,"St. George Brewing Company, The",1290652656,1.5,4,3.5,"English India Pale Ale (IPA)",2.5,2,"India Pale Ale",5.5,4948
+"73",1762,"St. George Brewing Company, The",1282776982,4,4,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"74",1762,"St. George Brewing Company, The",1281477652,4,4.5,4.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"75",1762,"St. George Brewing Company, The",1280531922,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"76",1762,"St. George Brewing Company, The",1151010501,4,3.5,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"77",1762,"St. George Brewing Company, The",1278351591,4,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"78",1762,"St. George Brewing Company, The",1273463077,4,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"79",1762,"St. George Brewing Company, The",1273352882,3,4,4,"English India Pale Ale (IPA)",3.5,3,"India Pale Ale",5.5,4948
+"80",1762,"St. George Brewing Company, The",1270960821,4.5,4.5,4,"English India Pale Ale (IPA)",3.5,4.5,"India Pale Ale",5.5,4948
+"81",1762,"St. George Brewing Company, The",1263685329,4,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"82",1762,"St. George Brewing Company, The",1256970911,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"83",1762,"St. George Brewing Company, The",1256903307,3,2.5,4,"English India Pale Ale (IPA)",3,3,"India Pale Ale",5.5,4948
+"84",1762,"St. George Brewing Company, The",1249699907,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"85",1762,"St. George Brewing Company, The",1247747219,5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"86",1762,"St. George Brewing Company, The",1244528985,4,3.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"87",1762,"St. George Brewing Company, The",1241737238,4.5,4,4,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.5,4948
+"88",1762,"St. George Brewing Company, The",1233804154,3.5,3,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"89",1762,"St. George Brewing Company, The",1232767794,3,3,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"90",1762,"St. George Brewing Company, The",1229469118,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,3,"India Pale Ale",5.5,4948
+"91",1762,"St. George Brewing Company, The",1228317030,4,4,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"92",1762,"St. George Brewing Company, The",1222108499,4,4.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"93",1762,"St. George Brewing Company, The",1218922901,4,4.5,4.5,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"94",1762,"St. George Brewing Company, The",1218505439,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"95",1762,"St. George Brewing Company, The",1216953977,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"96",1762,"St. George Brewing Company, The",1215470318,4,4,3.5,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"97",1762,"St. George Brewing Company, The",1212956192,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"98",1762,"St. George Brewing Company, The",1212590366,4,4,3.5,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"99",1762,"St. George Brewing Company, The",1207881906,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"100",1762,"St. George Brewing Company, The",1207272931,4.5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.5,4948
+"101",1762,"St. George Brewing Company, The",1207259524,5,4,4.5,"English India Pale Ale (IPA)",4.5,5,"India Pale Ale",5.5,4948
+"102",1762,"St. George Brewing Company, The",1207099486,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"103",1762,"St. George Brewing Company, The",1206828760,4,4,3,"English India Pale Ale (IPA)",5,4,"India Pale Ale",5.5,4948
+"104",1762,"St. George Brewing Company, The",1205038632,4,3,4.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"105",1762,"St. George Brewing Company, The",1203735619,4,4,4.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"106",1762,"St. George Brewing Company, The",1100752343,4.5,3.5,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"107",1762,"St. George Brewing Company, The",1201993692,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"108",1762,"St. George Brewing Company, The",1199467067,4,3.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"109",1762,"St. George Brewing Company, The",1196135714,3,3,3,"English India Pale Ale (IPA)",3,3,"India Pale Ale",5.5,4948
+"110",1762,"St. George Brewing Company, The",1194927902,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"111",1762,"St. George Brewing Company, The",1192675451,1.5,2,4,"English India Pale Ale (IPA)",3.5,1.5,"India Pale Ale",5.5,4948
+"112",1762,"St. George Brewing Company, The",1192534146,4.5,4.5,4,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"113",1762,"St. George Brewing Company, The",1190951640,4.5,1.5,4,"English India Pale Ale (IPA)",3,3.5,"India Pale Ale",5.5,4948
+"114",1762,"St. George Brewing Company, The",1326251226,3.5,4,3,"Scotch Ale / Wee Heavy",4,4,"Winter Scotch Ale",6,63115
+"115",1762,"St. George Brewing Company, The",1190820524,3.5,3,4.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"116",1762,"St. George Brewing Company, The",1190327538,4,4,4.5,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"117",1762,"St. George Brewing Company, The",1190251154,4,4,4,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"118",1762,"St. George Brewing Company, The",1187927302,3,4,4,"English India Pale Ale (IPA)",3.5,3,"India Pale Ale",5.5,4948
+"119",1762,"St. George Brewing Company, The",1183654101,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"120",1762,"St. George Brewing Company, The",1180818153,4,2,3,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"121",1762,"St. George Brewing Company, The",1179951231,1.5,1.5,4.5,"English India Pale Ale (IPA)",3.5,1.5,"India Pale Ale",5.5,4948
+"122",1762,"St. George Brewing Company, The",1173816536,3,3,3,"English India Pale Ale (IPA)",3,3,"India Pale Ale",5.5,4948
+"123",1762,"St. George Brewing Company, The",1321986273,2.5,3,3,"Scotch Ale / Wee Heavy",2,3,"Winter Scotch Ale",6,63115
+"124",1762,"St. George Brewing Company, The",1171743050,4.5,4.5,3.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"125",1762,"St. George Brewing Company, The",1169501613,5,3.5,4.5,"English India Pale Ale (IPA)",5,5,"India Pale Ale",5.5,4948
+"126",1762,"St. George Brewing Company, The",1163885292,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"127",1762,"St. George Brewing Company, The",1163294231,3.5,4,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"128",1762,"St. George Brewing Company, The",1157283421,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"129",1762,"St. George Brewing Company, The",1154543212,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"India Pale Ale",5.5,4948
+"130",1762,"St. George Brewing Company, The",1153760314,3.5,3,4,"English India Pale Ale (IPA)",3.5,3,"India Pale Ale",5.5,4948
+"131",1762,"St. George Brewing Company, The",1153613388,4,4,3.5,"English India Pale Ale (IPA)",4,4.5,"India Pale Ale",5.5,4948
+"132",1762,"St. George Brewing Company, The",1151365643,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"133",1762,"St. George Brewing Company, The",1319762538,3,3,3,"Scotch Ale / Wee Heavy",3,3,"Winter Scotch Ale",6,63115
+"134",1762,"St. George Brewing Company, The",1149561417,4.5,4,4.5,"English India Pale Ale (IPA)",5,4.5,"India Pale Ale",5.5,4948
+"135",1762,"St. George Brewing Company, The",1147234629,4,4,4.5,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"136",1762,"St. George Brewing Company, The",1145230327,4.5,4,4,"English India Pale Ale (IPA)",4.5,4,"India Pale Ale",5.5,4948
+"137",1762,"St. George Brewing Company, The",1141609211,4.5,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"138",1762,"St. George Brewing Company, The",1140786638,4.5,4,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"139",1762,"St. George Brewing Company, The",1134248002,2,3,3,"English India Pale Ale (IPA)",2,2.5,"India Pale Ale",5.5,4948
+"140",1762,"St. George Brewing Company, The",1133168057,1.5,2,3.5,"English India Pale Ale (IPA)",3.5,1.5,"India Pale Ale",5.5,4948
+"141",1762,"St. George Brewing Company, The",1131144510,4,3,4,"English India Pale Ale (IPA)",3,4,"India Pale Ale",5.5,4948
+"142",1762,"St. George Brewing Company, The",1128655259,3.5,3.5,4,"English India Pale Ale (IPA)",4,3,"India Pale Ale",5.5,4948
+"143",1762,"St. George Brewing Company, The",1128033297,4,3.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"144",1762,"St. George Brewing Company, The",1304118419,4,3,3.5,"Scotch Ale / Wee Heavy",4,4,"Winter Scotch Ale",6,63115
+"145",1762,"St. George Brewing Company, The",1127702825,4.5,3.5,3.5,"English India Pale Ale (IPA)",4.5,4.5,"India Pale Ale",5.5,4948
+"146",1762,"St. George Brewing Company, The",1125370744,3,3.5,3,"English India Pale Ale (IPA)",4,3,"India Pale Ale",5.5,4948
+"147",1762,"St. George Brewing Company, The",1125180339,4,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"India Pale Ale",5.5,4948
+"148",1762,"St. George Brewing Company, The",1124075723,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"149",1762,"St. George Brewing Company, The",1123504043,4,3,4,"English India Pale Ale (IPA)",3,4,"India Pale Ale",5.5,4948
+"150",1762,"St. George Brewing Company, The",1122501271,4.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,4.5,"India Pale Ale",5.5,4948
+"151",1762,"St. George Brewing Company, The",1120835857,4.5,4,3.5,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"152",1762,"St. George Brewing Company, The",1117814769,3.5,2.5,3.5,"English India Pale Ale (IPA)",3,3,"India Pale Ale",5.5,4948
+"153",1762,"St. George Brewing Company, The",1115247732,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"India Pale Ale",5.5,4948
+"154",1762,"St. George Brewing Company, The",1107204588,4.5,3.5,4,"English India Pale Ale (IPA)",4,4,"India Pale Ale",5.5,4948
+"155",1762,"St. George Brewing Company, The",1298253535,5,3.5,2.5,"Scotch Ale / Wee Heavy",4,4.5,"Winter Scotch Ale",6,63115
+"156",1762,"St. George Brewing Company, The",1297827309,4,3,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Winter Scotch Ale",6,63115
+"157",1762,"St. George Brewing Company, The",1296077143,4,4,3.5,"Scotch Ale / Wee Heavy",3,3.5,"Winter Scotch Ale",6,63115
+"158",1762,"St. George Brewing Company, The",1295189352,5,4,3.5,"Scotch Ale / Wee Heavy",4.5,4,"Winter Scotch Ale",6,63115
+"159",1762,"St. George Brewing Company, The",1293593384,3.5,3,3,"Scotch Ale / Wee Heavy",3.5,3,"Winter Scotch Ale",6,63115
+"160",1762,"St. George Brewing Company, The",1292776589,4.5,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Winter Scotch Ale",6,63115
+"161",1762,"St. George Brewing Company, The",1292132169,3,3,3.5,"Scotch Ale / Wee Heavy",3.5,3,"Winter Scotch Ale",6,63115
+"162",1762,"St. George Brewing Company, The",1291982477,3,3,4,"Scotch Ale / Wee Heavy",3,3,"Winter Scotch Ale",6,63115
+"163",1762,"St. George Brewing Company, The",1290484423,3.5,4,4,"Scotch Ale / Wee Heavy",3,4,"Winter Scotch Ale",6,63115
+"164",1762,"St. George Brewing Company, The",1290133861,4.5,2.5,2.5,"Scotch Ale / Wee Heavy",4,4,"Winter Scotch Ale",6,63115
+"165",1762,"St. George Brewing Company, The",1289599740,4.5,4,4.5,"Scotch Ale / Wee Heavy",4,4.5,"Winter Scotch Ale",6,63115
+"166",1762,"St. George Brewing Company, The",1289076996,4,3,3,"Scotch Ale / Wee Heavy",4,4.5,"Winter Scotch Ale",6,63115
+"167",1762,"St. George Brewing Company, The",1288734572,4,3,3.5,"Scotch Ale / Wee Heavy",4,4,"Winter Scotch Ale",6,63115
+"168",1762,"St. George Brewing Company, The",1324523969,3.5,3.5,4,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"169",1762,"St. George Brewing Company, The",1323739646,4,4,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"170",1762,"St. George Brewing Company, The",1323312348,3.5,3,4,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"171",1762,"St. George Brewing Company, The",1318804735,4,4,3,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"172",1762,"St. George Brewing Company, The",1304732833,3,2.5,3,"American Blonde Ale",3,3,"Golden Ale",5.5,4941
+"173",1762,"St. George Brewing Company, The",1302129781,4,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"174",1762,"St. George Brewing Company, The",1294009097,4.5,4.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"175",1762,"St. George Brewing Company, The",1285135545,3.5,3.5,3.5,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"176",1762,"St. George Brewing Company, The",1281371737,4,3.5,4,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"177",1762,"St. George Brewing Company, The",1273443388,3.5,2,3,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"178",1762,"St. George Brewing Company, The",1269183558,3.5,4,4,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"179",1762,"St. George Brewing Company, The",1267576714,4.5,4,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"180",1762,"St. George Brewing Company, The",1249231655,2.5,2.5,4,"American Blonde Ale",2.5,2.5,"Golden Ale",5.5,4941
+"181",1762,"St. George Brewing Company, The",1243309411,4,4,3.5,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"182",1762,"St. George Brewing Company, The",1234926536,4,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"183",1762,"St. George Brewing Company, The",1218849768,4,4,4,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"184",1762,"St. George Brewing Company, The",1217049739,4,4,4,"American Blonde Ale",4.5,4,"Golden Ale",5.5,4941
+"185",1762,"St. George Brewing Company, The",1216692726,4,3,4,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"186",1762,"St. George Brewing Company, The",1214246528,3.5,3,4,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"187",1762,"St. George Brewing Company, The",1202514255,4,4,4,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"188",1762,"St. George Brewing Company, The",1201567236,4,3.5,3,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"189",1762,"St. George Brewing Company, The",1201137554,5,4.5,4,"American Blonde Ale",4,4.5,"Golden Ale",5.5,4941
+"190",1762,"St. George Brewing Company, The",1199842289,4,4,4,"American Blonde Ale",4,4.5,"Golden Ale",5.5,4941
+"191",1762,"St. George Brewing Company, The",1197257677,4,3.5,3.5,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"192",1762,"St. George Brewing Company, The",1196639047,4.5,3.5,4.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"193",1762,"St. George Brewing Company, The",1166466846,4.5,4.5,4,"American Blonde Ale",4,4.5,"Golden Ale",5.5,4941
+"194",1762,"St. George Brewing Company, The",1191934879,4.5,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"195",1762,"St. George Brewing Company, The",1191710919,3.5,3,4,"American Blonde Ale",4,3,"Golden Ale",5.5,4941
+"196",1762,"St. George Brewing Company, The",1188910432,4.5,4,4,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"197",1762,"St. George Brewing Company, The",1178297888,4,3.5,3.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"198",1762,"St. George Brewing Company, The",1177389584,4,3,5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"199",1762,"St. George Brewing Company, The",1175629086,4,4,5,"American Blonde Ale",4.5,4,"Golden Ale",5.5,4941
+"200",1762,"St. George Brewing Company, The",1172635824,3,2,3.5,"American Blonde Ale",3,3,"Golden Ale",5.5,4941
+"201",1762,"St. George Brewing Company, The",1171504438,3.5,4,3.5,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"202",1762,"St. George Brewing Company, The",1170443315,2.5,3,3,"American Blonde Ale",3,2.5,"Golden Ale",5.5,4941
+"203",1762,"St. George Brewing Company, The",1169945915,4.5,3.5,3.5,"American Blonde Ale",3.5,4.5,"Golden Ale",5.5,4941
+"204",1762,"St. George Brewing Company, The",1161377652,4,3.5,3.5,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"205",1762,"St. George Brewing Company, The",1160174138,2,3,4,"American Blonde Ale",2,2,"Golden Ale",5.5,4941
+"206",1762,"St. George Brewing Company, The",1156991362,4,4,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"207",1762,"St. George Brewing Company, The",1156219369,2.5,3,3.5,"American Blonde Ale",3,2.5,"Golden Ale",5.5,4941
+"208",1762,"St. George Brewing Company, The",1149046796,3,3.5,3,"American Blonde Ale",3,3,"Golden Ale",5.5,4941
+"209",1762,"St. George Brewing Company, The",1145235531,4.5,3.5,3,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"210",1762,"St. George Brewing Company, The",1144034778,4,4,3.5,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"211",1762,"St. George Brewing Company, The",1143959657,4,4,3.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"212",1762,"St. George Brewing Company, The",1143070293,3,3,3.5,"American Blonde Ale",3,3,"Golden Ale",5.5,4941
+"213",1762,"St. George Brewing Company, The",1137642926,3,2.5,3,"American Blonde Ale",3,3,"Golden Ale",5.5,4941
+"214",1762,"St. George Brewing Company, The",1137206377,4,4,3.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"215",1762,"St. George Brewing Company, The",1126471313,4,4,3.5,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"216",1762,"St. George Brewing Company, The",1123029769,4,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"217",1762,"St. George Brewing Company, The",1120835540,4,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"218",1762,"St. George Brewing Company, The",1119494596,4,4,3.5,"American Blonde Ale",4,3,"Golden Ale",5.5,4941
+"219",1762,"St. George Brewing Company, The",1112141372,4,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"220",1762,"St. George Brewing Company, The",1110839550,3.5,3.5,3.5,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"221",1762,"St. George Brewing Company, The",1107738910,4.5,3.5,3.5,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"222",1762,"St. George Brewing Company, The",1095732368,4,3.5,4,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"223",1762,"St. George Brewing Company, The",1089604296,3.5,3,3,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"224",1762,"St. George Brewing Company, The",1085428660,3,3,3,"American Blonde Ale",3.5,3.5,"Golden Ale",5.5,4941
+"225",1762,"St. George Brewing Company, The",1082159083,3,3.5,3.5,"American Blonde Ale",3.5,3,"Golden Ale",5.5,4941
+"226",1762,"St. George Brewing Company, The",1074135977,2.5,3,3.5,"American Blonde Ale",2.5,2,"Golden Ale",5.5,4941
+"227",1762,"St. George Brewing Company, The",1073861030,4.5,4,3.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"228",1762,"St. George Brewing Company, The",1073470755,4,3.5,3.5,"American Blonde Ale",3,3.5,"Golden Ale",5.5,4941
+"229",1762,"St. George Brewing Company, The",1071591072,4.5,5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"230",1762,"St. George Brewing Company, The",1069987149,4.5,4.5,4,"American Blonde Ale",4.5,4.5,"Golden Ale",5.5,4941
+"231",1762,"St. George Brewing Company, The",1064791669,3.5,3.5,3.5,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"232",1762,"St. George Brewing Company, The",1059440980,3.5,3.5,3.5,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"233",1762,"St. George Brewing Company, The",1057101444,4.5,3.5,4,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"234",1762,"St. George Brewing Company, The",1056212145,4,2.5,4,"American Blonde Ale",4,3.5,"Golden Ale",5.5,4941
+"235",1762,"St. George Brewing Company, The",1053621246,4.5,4,4.5,"American Blonde Ale",3.5,4.5,"Golden Ale",5.5,4941
+"236",1762,"St. George Brewing Company, The",1052505249,4.5,3.5,4,"American Blonde Ale",4,4.5,"Golden Ale",5.5,4941
+"237",1762,"St. George Brewing Company, The",1049003687,4.5,4,3.5,"American Blonde Ale",3.5,4,"Golden Ale",5.5,4941
+"238",1762,"St. George Brewing Company, The",1048594349,4,4.5,4.5,"American Blonde Ale",4.5,4,"Golden Ale",5.5,4941
+"239",1762,"St. George Brewing Company, The",1041578178,4.5,4,4.5,"American Blonde Ale",4,4,"Golden Ale",5.5,4941
+"240",1762,"St. George Brewing Company, The",1026920717,5,4,4,"American Blonde Ale",4.5,4.5,"Golden Ale",5.5,4941
+"241",1762,"St. George Brewing Company, The",1324155551,3.5,4,3.5,"American Brown Ale",3,3.5,"American Brown Ale",5.5,28552
+"242",1762,"St. George Brewing Company, The",1320157422,3.5,3.5,2.5,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"243",1762,"St. George Brewing Company, The",1305296072,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"244",1762,"St. George Brewing Company, The",1301869314,4,3.5,4,"American Brown Ale",4.5,4,"American Brown Ale",5.5,28552
+"245",1762,"St. George Brewing Company, The",1253484555,2.5,4,3.5,"American Brown Ale",3,2,"American Brown Ale",5.5,28552
+"246",1762,"St. George Brewing Company, The",1230869926,5,4,4,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"247",1762,"St. George Brewing Company, The",1229299388,3.5,4,4.5,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"248",1762,"St. George Brewing Company, The",1218318663,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"249",1762,"St. George Brewing Company, The",1217955219,3.5,3.5,3.5,"American Brown Ale",3.5,3.5,"American Brown Ale",5.5,28552
+"250",1762,"St. George Brewing Company, The",1216696661,3.5,3.5,3.5,"American Brown Ale",3,3.5,"American Brown Ale",5.5,28552
+"251",1762,"St. George Brewing Company, The",1208361488,4.5,4.5,3.5,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"252",1762,"St. George Brewing Company, The",1205562219,4,3,4.5,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"253",1762,"St. George Brewing Company, The",1200923550,4.5,4,3.5,"American Brown Ale",4.5,4.5,"American Brown Ale",5.5,28552
+"254",1762,"St. George Brewing Company, The",1200716312,4.5,4.5,4.5,"American Brown Ale",4.5,4.5,"American Brown Ale",5.5,28552
+"255",1762,"St. George Brewing Company, The",1199583445,4,3.5,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"256",1762,"St. George Brewing Company, The",1192270857,4.5,4,4.5,"American Brown Ale",4,5,"American Brown Ale",5.5,28552
+"257",1762,"St. George Brewing Company, The",1191627889,4,3.5,4,"American Brown Ale",4,3.5,"American Brown Ale",5.5,28552
+"258",1762,"St. George Brewing Company, The",1187651700,4,4,3,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"259",1762,"St. George Brewing Company, The",1184357194,5,5,5,"American Brown Ale",5,5,"American Brown Ale",5.5,28552
+"260",1762,"St. George Brewing Company, The",1179113501,4.5,4,3.5,"American Brown Ale",4.5,4.5,"American Brown Ale",5.5,28552
+"261",1762,"St. George Brewing Company, The",1178757214,4,4.5,3.5,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"262",1762,"St. George Brewing Company, The",1172806954,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"263",1762,"St. George Brewing Company, The",1169426756,4,3.5,4,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"264",1762,"St. George Brewing Company, The",1168014961,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"265",1762,"St. George Brewing Company, The",1165979210,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"266",1762,"St. George Brewing Company, The",1161447540,4.5,3.5,4,"American Brown Ale",4.5,5,"American Brown Ale",5.5,28552
+"267",1762,"St. George Brewing Company, The",1160979316,4,3.5,3,"American Brown Ale",3.5,3.5,"American Brown Ale",5.5,28552
+"268",1762,"St. George Brewing Company, The",1148000311,4,3.5,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"269",1762,"St. George Brewing Company, The",1147707433,3.5,3.5,4,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"270",1762,"St. George Brewing Company, The",1143675832,4,4,4,"American Brown Ale",4,4,"American Brown Ale",5.5,28552
+"271",1762,"St. George Brewing Company, The",1143152787,4,4,4,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"272",1762,"St. George Brewing Company, The",1140665796,4,3.5,3.5,"American Brown Ale",4,3.5,"American Brown Ale",5.5,28552
+"273",1762,"St. George Brewing Company, The",1137647830,4,3.5,4,"American Brown Ale",3.5,4,"American Brown Ale",5.5,28552
+"274",1762,"St. George Brewing Company, The",1142046385,4.5,4,4.5,"Vienna Lager",4,4.5,"Vienna Lager",5.5,23061
+"275",1762,"St. George Brewing Company, The",1123031858,4,4,5,"Vienna Lager",3.5,4.5,"Vienna Lager",5.5,23061
+"276",1762,"St. George Brewing Company, The",1113142998,4,4,4,"Vienna Lager",4,4.5,"Vienna Lager",5.5,23061
+"277",1762,"St. George Brewing Company, The",1308693215,3.5,4.5,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"278",1762,"St. George Brewing Company, The",1278801198,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Lager",4.5,25052
+"279",1762,"St. George Brewing Company, The",1278638360,4.5,3.5,4,"Munich Helles Lager",4.5,4,"Lager",4.5,25052
+"280",1762,"St. George Brewing Company, The",1278429705,4,3,4,"Munich Helles Lager",4,3.5,"Lager",4.5,25052
+"281",1762,"St. George Brewing Company, The",1253336588,3,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Lager",4.5,25052
+"282",1762,"St. George Brewing Company, The",1245198706,4.5,4,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"283",1762,"St. George Brewing Company, The",1231027769,4.5,4,2.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"284",1762,"St. George Brewing Company, The",1229295396,2,3,3.5,"Munich Helles Lager",2.5,1.5,"Lager",4.5,25052
+"285",1762,"St. George Brewing Company, The",1218317661,4,4,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"286",1762,"St. George Brewing Company, The",1214140843,4.5,4,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"287",1762,"St. George Brewing Company, The",1205386824,4.5,3.5,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"288",1762,"St. George Brewing Company, The",1201478977,4.5,4,4,"Munich Helles Lager",4.5,4.5,"Lager",4.5,25052
+"289",1762,"St. George Brewing Company, The",1201003432,4,4,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"290",1762,"St. George Brewing Company, The",1193866533,4,3.5,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"291",1762,"St. George Brewing Company, The",1192299499,2,3,4,"Munich Helles Lager",3.5,3,"Lager",4.5,25052
+"292",1762,"St. George Brewing Company, The",1191629312,3,3,3,"Munich Helles Lager",3.5,3,"Lager",4.5,25052
+"293",1762,"St. George Brewing Company, The",1190950145,3.5,3,3.5,"Munich Helles Lager",2.5,3.5,"Lager",4.5,25052
+"294",1762,"St. George Brewing Company, The",1189385628,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Lager",4.5,25052
+"295",1762,"St. George Brewing Company, The",1187133470,3.5,3.5,4,"Munich Helles Lager",3.5,4,"Lager",4.5,25052
+"296",1762,"St. George Brewing Company, The",1175188278,4.5,4,3.5,"Munich Helles Lager",4.5,4,"Lager",4.5,25052
+"297",1762,"St. George Brewing Company, The",1173840960,3,3.5,3,"Munich Helles Lager",3,3,"Lager",4.5,25052
+"298",1762,"St. George Brewing Company, The",1169694558,5,3,3.5,"Munich Helles Lager",3.5,4,"Lager",4.5,25052
+"299",1762,"St. George Brewing Company, The",1167795465,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Lager",4.5,25052
+"300",1762,"St. George Brewing Company, The",1167780323,4.5,3.5,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"301",1762,"St. George Brewing Company, The",1167265420,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Lager",4.5,25052
+"302",1762,"St. George Brewing Company, The",1166395939,4,3.5,4,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"303",1762,"St. George Brewing Company, The",1163728135,4,3.5,3.5,"Munich Helles Lager",4.5,4.5,"Lager",4.5,25052
+"304",1762,"St. George Brewing Company, The",1159491044,3.5,3,3.5,"Munich Helles Lager",3.5,4,"Lager",4.5,25052
+"305",1762,"St. George Brewing Company, The",1156990663,3.5,3.5,4,"Munich Helles Lager",3,3,"Lager",4.5,25052
+"306",1762,"St. George Brewing Company, The",1168954117,4,3.5,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"307",1762,"St. George Brewing Company, The",1147749025,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Lager",4.5,25052
+"308",1762,"St. George Brewing Company, The",1145408365,4.5,4,4,"Munich Helles Lager",4.5,4,"Lager",4.5,25052
+"309",1762,"St. George Brewing Company, The",1140572248,4.5,4,3.5,"Munich Helles Lager",4,4,"Lager",4.5,25052
+"310",1762,"St. George Brewing Company, The",1134254786,4,4,4,"Munich Helles Lager",3.5,4,"Lager",4.5,25052
+"311",1762,"St. George Brewing Company, The",1131145376,3.5,4,4,"Munich Helles Lager",3,3,"Lager",4.5,25052
+"312",1762,"St. George Brewing Company, The",1122855647,4.5,4,4,"Munich Helles Lager",4.5,4,"Lager",4.5,25052
+"313",1762,"St. George Brewing Company, The",1320014893,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,62773
+"314",1762,"St. George Brewing Company, The",1315684497,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,62773
+"315",1762,"St. George Brewing Company, The",1315667947,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,62773
+"316",1762,"St. George Brewing Company, The",1291606329,4,3.5,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,62773
+"317",1762,"St. George Brewing Company, The",1138144677,4.5,4,4,"English Porter",5,4,"Porter",5,4957
+"318",1762,"St. George Brewing Company, The",1138078526,4,4,4,"English Porter",4.5,4,"Porter",5,4957
+"319",1762,"St. George Brewing Company, The",1137711789,5,4.5,4,"English Porter",4.5,4,"Porter",5,4957
+"320",1762,"St. George Brewing Company, The",1136348155,4,4.5,4.5,"English Porter",4,4,"Porter",5,4957
+"321",1762,"St. George Brewing Company, The",1134595027,3.5,3.5,4,"English Porter",3,3.5,"Porter",5,4957
+"322",1762,"St. George Brewing Company, The",1132628579,4,4,4,"English Porter",4.5,4,"Porter",5,4957
+"323",1762,"St. George Brewing Company, The",1132544115,4,3.5,3.5,"English Porter",4,3.5,"Porter",5,4957
+"324",1762,"St. George Brewing Company, The",1131144164,4,4,4,"English Porter",4,4,"Porter",5,4957
+"325",1762,"St. George Brewing Company, The",1128904146,4,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"326",1762,"St. George Brewing Company, The",1125628801,3.5,4.5,3.5,"English Porter",3.5,4,"Porter",5,4957
+"327",1762,"St. George Brewing Company, The",1123760448,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"328",1762,"St. George Brewing Company, The",1122946129,4.5,4,3.5,"English Porter",5,4,"Porter",5,4957
+"329",1762,"St. George Brewing Company, The",1122257960,4.5,4,4.5,"English Porter",3.5,4.5,"Porter",5,4957
+"330",1762,"St. George Brewing Company, The",1122083675,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"331",1762,"St. George Brewing Company, The",1121955857,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"332",1762,"St. George Brewing Company, The",1121558136,4.5,4,4,"English Porter",4,4,"Porter",5,4957
+"333",1762,"St. George Brewing Company, The",1114561236,4.5,4.5,4,"English Porter",4,4,"Porter",5,4957
+"334",1762,"St. George Brewing Company, The",1114063214,4,4,4,"English Porter",3.5,4,"Porter",5,4957
+"335",1762,"St. George Brewing Company, The",1110599719,3,4,4,"English Porter",4,3.5,"Porter",5,4957
+"336",1762,"St. George Brewing Company, The",1109989040,4,4.5,4,"English Porter",4,4.5,"Porter",5,4957
+"337",1762,"St. George Brewing Company, The",1109164281,4.5,4.5,4,"English Porter",4,4,"Porter",5,4957
+"338",1762,"St. George Brewing Company, The",1106959674,4.5,3.5,4,"English Porter",4,4,"Porter",5,4957
+"339",1762,"St. George Brewing Company, The",1100720451,3,3,3.5,"English Porter",3.5,3.5,"Porter",5,4957
+"340",1762,"St. George Brewing Company, The",1100670074,3,4,4,"English Porter",4,4,"Porter",5,4957
+"341",1762,"St. George Brewing Company, The",1098317780,4.5,4.5,3.5,"English Porter",4.5,4.5,"Porter",5,4957
+"342",1762,"St. George Brewing Company, The",1095388939,4,5,4,"English Porter",4,4,"Porter",5,4957
+"343",1762,"St. George Brewing Company, The",1094819893,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"344",1762,"St. George Brewing Company, The",1089253627,4,4,5,"English Porter",4.5,4.5,"Porter",5,4957
+"345",1762,"St. George Brewing Company, The",1089168093,4,3.5,3.5,"English Porter",4,4,"Porter",5,4957
+"346",1762,"St. George Brewing Company, The",1086455313,4.5,4.5,4,"English Porter",4,4.5,"Porter",5,4957
+"347",1762,"St. George Brewing Company, The",1082163874,4,4,4,"English Porter",4,5,"Porter",5,4957
+"348",1762,"St. George Brewing Company, The",1078798223,4,4,4,"English Porter",4,4,"Porter",5,4957
+"349",1762,"St. George Brewing Company, The",1074922108,4.5,3.5,4,"English Porter",4,4,"Porter",5,4957
+"350",1762,"St. George Brewing Company, The",1074528368,2.5,3.5,3,"English Porter",2.5,3,"Porter",5,4957
+"351",1762,"St. George Brewing Company, The",1071245601,4.5,4,4,"English Porter",4.5,4,"Porter",5,4957
+"352",1762,"St. George Brewing Company, The",1069195700,4.5,4.5,4,"English Porter",4,4.5,"Porter",5,4957
+"353",1762,"St. George Brewing Company, The",1067600493,4,4,4.5,"English Porter",4.5,4,"Porter",5,4957
+"354",1762,"St. George Brewing Company, The",1066942799,4,4,4,"English Porter",3.5,4,"Porter",5,4957
+"355",1762,"St. George Brewing Company, The",1063071077,4,4.5,4.5,"English Porter",4.5,4.5,"Porter",5,4957
+"356",1762,"St. George Brewing Company, The",1059473937,4.5,3.5,4,"English Porter",4,5,"Porter",5,4957
+"357",1762,"St. George Brewing Company, The",1057963074,4,4.5,4,"English Porter",4,4.5,"Porter",5,4957
+"358",1762,"St. George Brewing Company, The",1053704422,4,4,4,"English Porter",4,4.5,"Porter",5,4957
+"359",1762,"St. George Brewing Company, The",1048796738,4,4,4,"English Porter",3.5,4,"Porter",5,4957
+"360",1762,"St. George Brewing Company, The",1048659051,4,4,4,"English Porter",4,4,"Porter",5,4957
+"361",1762,"St. George Brewing Company, The",1043318009,4.5,5,4.5,"English Porter",4.5,5,"Porter",5,4957
+"362",1762,"St. George Brewing Company, The",1041577790,4,4,4.5,"English Porter",4,4,"Porter",5,4957
+"363",1762,"St. George Brewing Company, The",1040569115,4.5,4,4.5,"English Porter",4.5,4.5,"Porter",5,4957
+"364",1762,"St. George Brewing Company, The",1028143923,3.5,4,4.5,"English Porter",4,4,"Porter",5,4957
+"365",1762,"St. George Brewing Company, The",1027018342,5,4,4.5,"English Porter",4.5,4.5,"Porter",5,4957
+"366",1762,"St. George Brewing Company, The",1324692065,4,4,3.5,"English Porter",4,4,"Porter",5,4957
+"367",1762,"St. George Brewing Company, The",1323400605,4.5,4.5,4,"English Porter",4,4,"Porter",5,4957
+"368",1762,"St. George Brewing Company, The",1320638919,4,3.5,4,"English Porter",4,4,"Porter",5,4957
+"369",1762,"St. George Brewing Company, The",1318281301,4,3.5,4,"English Porter",4,3.5,"Porter",5,4957
+"370",1762,"St. George Brewing Company, The",1316488069,5,4.5,4.5,"English Porter",5,5,"Porter",5,4957
+"371",1762,"St. George Brewing Company, The",1314376779,3.5,3,4.5,"English Porter",4.5,3.5,"Porter",5,4957
+"372",1762,"St. George Brewing Company, The",1313676091,4,4,4.5,"English Porter",4,4,"Porter",5,4957
+"373",1762,"St. George Brewing Company, The",1309055789,4,4,4,"English Porter",4,4,"Porter",5,4957
+"374",1762,"St. George Brewing Company, The",1308611639,4.5,4.5,4,"English Porter",4,4,"Porter",5,4957
+"375",1762,"St. George Brewing Company, The",1307675696,4,5,3.5,"English Porter",4,4.5,"Porter",5,4957
+"376",1762,"St. George Brewing Company, The",1305241869,3,3,3.5,"English Porter",3,3.5,"Porter",5,4957
+"377",1762,"St. George Brewing Company, The",1304517555,3,3.5,3.5,"English Porter",3,3.5,"Porter",5,4957
+"378",1762,"St. George Brewing Company, The",1302561526,4,3.5,4,"English Porter",4,4,"Porter",5,4957
+"379",1762,"St. George Brewing Company, The",1298675591,2.5,3,3,"English Porter",3,3.5,"Porter",5,4957
+"380",1762,"St. George Brewing Company, The",1298171824,3,4,4,"English Porter",3.5,3,"Porter",5,4957
+"381",1762,"St. George Brewing Company, The",1294624675,4,4.5,4.5,"English Porter",4,4.5,"Porter",5,4957
+"382",1762,"St. George Brewing Company, The",1294012133,4.5,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"383",1762,"St. George Brewing Company, The",1290048634,5,4.5,4.5,"English Porter",5,5,"Porter",5,4957
+"384",1762,"St. George Brewing Company, The",1289952192,4.5,3.5,3.5,"English Porter",4.5,4,"Porter",5,4957
+"385",1762,"St. George Brewing Company, The",1289066527,4,4,4.5,"English Porter",4,4,"Porter",5,4957
+"386",1762,"St. George Brewing Company, The",1283969534,3.5,4,4.5,"English Porter",4.5,4,"Porter",5,4957
+"387",1762,"St. George Brewing Company, The",1280702393,4,3,4,"English Porter",3.5,3.5,"Porter",5,4957
+"388",1762,"St. George Brewing Company, The",1279470317,4,3.5,4,"English Porter",3.5,4,"Porter",5,4957
+"389",1762,"St. George Brewing Company, The",1265143116,4,4,4,"English Porter",4,4.5,"Porter",5,4957
+"390",1762,"St. George Brewing Company, The",1254885059,4,2.5,4.5,"English Porter",3.5,4,"Porter",5,4957
+"391",1762,"St. George Brewing Company, The",1253473795,4,4,4,"English Porter",4,4,"Porter",5,4957
+"392",1762,"St. George Brewing Company, The",1253473329,4,4,4,"English Porter",4,4,"Porter",5,4957
+"393",1762,"St. George Brewing Company, The",1251227125,3.5,3.5,2.5,"English Porter",3.5,3.5,"Porter",5,4957
+"394",1762,"St. George Brewing Company, The",1245208228,4,4,4,"English Porter",3,3,"Porter",5,4957
+"395",1762,"St. George Brewing Company, The",1242746513,4.5,4,4,"English Porter",4,4,"Porter",5,4957
+"396",1762,"St. George Brewing Company, The",1309802416,3,3,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5,27812
+"397",1762,"St. George Brewing Company, The",1238880720,4,4,4.5,"English Porter",4,4,"Porter",5,4957
+"398",1762,"St. George Brewing Company, The",1238023809,4,3.5,4.5,"English Porter",3.5,4,"Porter",5,4957
+"399",1762,"St. George Brewing Company, The",1235088953,3.5,4,3.5,"English Porter",3.5,4,"Porter",5,4957
+"400",1762,"St. George Brewing Company, The",1234896519,4.5,4,4,"English Porter",4,4,"Porter",5,4957
+"401",1762,"St. George Brewing Company, The",1234871438,4.5,4,4,"English Porter",4,4,"Porter",5,4957
+"402",1762,"St. George Brewing Company, The",1231990473,4,3,4,"English Porter",3,4,"Porter",5,4957
+"403",1762,"St. George Brewing Company, The",1229128247,4.5,5,4.5,"English Porter",4.5,5,"Porter",5,4957
+"404",1762,"St. George Brewing Company, The",1222043289,4,4,3.5,"English Porter",4,4,"Porter",5,4957
+"405",1762,"St. George Brewing Company, The",1220932901,4,3.5,4.5,"English Porter",4,3.5,"Porter",5,4957
+"406",1762,"St. George Brewing Company, The",1218577985,4.5,4.5,4,"English Porter",4,4.5,"Porter",5,4957
+"407",1762,"St. George Brewing Company, The",1218463797,4,4.5,4.5,"English Porter",3.5,4,"Porter",5,4957
+"408",1762,"St. George Brewing Company, The",1217205960,4,4,3.5,"English Porter",4,4,"Porter",5,4957
+"409",1762,"St. George Brewing Company, The",1217030880,4,4.5,3.5,"English Porter",4,4.5,"Porter",5,4957
+"410",1762,"St. George Brewing Company, The",1216953647,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"411",1762,"St. George Brewing Company, The",1214873113,4,3.5,4,"English Porter",4,4,"Porter",5,4957
+"412",1762,"St. George Brewing Company, The",1213399454,4,4.5,4,"English Porter",3.5,3.5,"Porter",5,4957
+"413",1762,"St. George Brewing Company, The",1212887358,5,4,3.5,"English Porter",4.5,4.5,"Porter",5,4957
+"414",1762,"St. George Brewing Company, The",1208914760,4,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"415",1762,"St. George Brewing Company, The",1207546307,4,3.5,4,"English Porter",4,3.5,"Porter",5,4957
+"416",1762,"St. George Brewing Company, The",1207166591,4,3.5,3.5,"English Porter",4,4,"Porter",5,4957
+"417",1762,"St. George Brewing Company, The",1206808469,4.5,4,4,"English Porter",4.5,4,"Porter",5,4957
+"418",1762,"St. George Brewing Company, The",1205386321,4,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"419",1762,"St. George Brewing Company, The",1202827449,4.5,4,4,"English Porter",5,4.5,"Porter",5,4957
+"420",1762,"St. George Brewing Company, The",1200229597,4,4,4,"English Porter",4.5,4,"Porter",5,4957
+"421",1762,"St. George Brewing Company, The",1199899355,4,3.5,4,"English Porter",4.5,4.5,"Porter",5,4957
+"422",1762,"St. George Brewing Company, The",1196389962,4,4,3.5,"English Porter",4,4,"Porter",5,4957
+"423",1762,"St. George Brewing Company, The",1195044476,4.5,4,4.5,"English Porter",4.5,4,"Porter",5,4957
+"424",1762,"St. George Brewing Company, The",1194548391,4,4,4,"English Porter",4,4.5,"Porter",5,4957
+"425",1762,"St. George Brewing Company, The",1192648214,5,4,4,"English Porter",4,5,"Porter",5,4957
+"426",1762,"St. George Brewing Company, The",1192301890,4.5,4.5,4.5,"English Porter",4,4.5,"Porter",5,4957
+"427",1762,"St. George Brewing Company, The",1192151271,5,4.5,4.5,"English Porter",5,5,"Porter",5,4957
+"428",1762,"St. George Brewing Company, The",1305241426,2.5,2.5,3.5,"English Brown Ale",2,3,"Nut Brown Ale",5,27812
+"429",1762,"St. George Brewing Company, The",1191802554,4,4,4.5,"English Porter",3,4,"Porter",5,4957
+"430",1762,"St. George Brewing Company, The",1191013963,4.5,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"431",1762,"St. George Brewing Company, The",1189385230,4,4,4,"English Porter",3.5,4,"Porter",5,4957
+"432",1762,"St. George Brewing Company, The",1187744816,4.5,3,4,"English Porter",4,5,"Porter",5,4957
+"433",1762,"St. George Brewing Company, The",1187703554,4,4,4.5,"English Porter",4,4,"Porter",5,4957
+"434",1762,"St. George Brewing Company, The",1181611941,4,4.5,4.5,"English Porter",3.5,4.5,"Porter",5,4957
+"435",1762,"St. George Brewing Company, The",1180329577,4,4,4.5,"English Porter",4.5,4,"Porter",5,4957
+"436",1762,"St. George Brewing Company, The",1178930648,5,4,3,"English Porter",5,4,"Porter",5,4957
+"437",1762,"St. George Brewing Company, The",1176668214,4,4.5,4.5,"English Porter",4.5,4,"Porter",5,4957
+"438",1762,"St. George Brewing Company, The",1173502753,4.5,4,4,"English Porter",4,4.5,"Porter",5,4957
+"439",1762,"St. George Brewing Company, The",1173278704,4.5,4,3.5,"English Porter",4,4,"Porter",5,4957
+"440",1762,"St. George Brewing Company, The",1172102614,3.5,4,4,"English Porter",3.5,3.5,"Porter",5,4957
+"441",1762,"St. George Brewing Company, The",1169512014,4,3.5,3.5,"English Porter",3.5,4.5,"Porter",5,4957
+"442",1762,"St. George Brewing Company, The",1169178628,4,4,4,"English Porter",3.5,4,"Porter",5,4957
+"443",1762,"St. George Brewing Company, The",1168104636,4,4,4,"English Porter",4,4.5,"Porter",5,4957
+"444",1762,"St. George Brewing Company, The",1164076136,3.5,4.5,4.5,"English Porter",3.5,4,"Porter",5,4957
+"445",1762,"St. George Brewing Company, The",1163819030,4,4,4,"English Porter",4.5,4.5,"Porter",5,4957
+"446",1762,"St. George Brewing Company, The",1163595337,3.5,4,4.5,"English Porter",4,4.5,"Porter",5,4957
+"447",1762,"St. George Brewing Company, The",1163290166,4.5,4,4,"English Porter",4.5,4,"Porter",5,4957
+"448",1762,"St. George Brewing Company, The",1157111860,4,4,4,"English Porter",4,4,"Porter",5,4957
+"449",1762,"St. George Brewing Company, The",1154555229,4,4,4,"English Porter",4,4.5,"Porter",5,4957
+"450",1762,"St. George Brewing Company, The",1152163210,4,4,3,"English Porter",4,4,"Porter",5,4957
+"451",1762,"St. George Brewing Company, The",1150643532,3.5,4.5,4,"English Porter",4,4,"Porter",5,4957
+"452",1762,"St. George Brewing Company, The",1149525648,3,4,4,"English Porter",3.5,4.5,"Porter",5,4957
+"453",1762,"St. George Brewing Company, The",1149042557,4,4,4,"English Porter",4.5,4,"Porter",5,4957
+"454",1762,"St. George Brewing Company, The",1145232506,3.5,3,5,"English Porter",3.5,4,"Porter",5,4957
+"455",1762,"St. George Brewing Company, The",1143947795,4.5,4.5,4,"English Porter",4.5,4.5,"Porter",5,4957
+"456",1762,"St. George Brewing Company, The",1297713247,3,3,3,"Russian Imperial Stout",3,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"457",1762,"St. George Brewing Company, The",1296781970,2.5,4.5,4,"Russian Imperial Stout",4.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"458",1762,"St. George Brewing Company, The",1292368341,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"459",1762,"St. George Brewing Company, The",1292197528,4,3.5,4.5,"Russian Imperial Stout",3.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"460",1762,"St. George Brewing Company, The",1291982725,4,4,3.5,"Russian Imperial Stout",4,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"461",1762,"St. George Brewing Company, The",1291576408,3,2.5,4,"Russian Imperial Stout",2.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"462",1762,"St. George Brewing Company, The",1290580746,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"463",1762,"St. George Brewing Company, The",1289867343,3,3.5,4.5,"Russian Imperial Stout",3.5,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"464",1762,"St. George Brewing Company, The",1289352299,4,3,3,"Russian Imperial Stout",3,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"465",1762,"St. George Brewing Company, The",1288493287,2,3,2.5,"Russian Imperial Stout",3.5,2.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"466",1762,"St. George Brewing Company, The",1286683949,2,3,3,"Russian Imperial Stout",3,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"467",1762,"St. George Brewing Company, The",1285724039,4,4,4.5,"Russian Imperial Stout",3,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"468",1762,"St. George Brewing Company, The",1276450965,3,3.5,4,"Russian Imperial Stout",3,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"469",1762,"St. George Brewing Company, The",1274141939,4,4,4,"Russian Imperial Stout",4.5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"470",1762,"St. George Brewing Company, The",1272303785,3.5,4,4,"Russian Imperial Stout",4.5,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"471",1762,"St. George Brewing Company, The",1270953539,3.5,3.5,4,"Russian Imperial Stout",2.5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"472",1762,"St. George Brewing Company, The",1269905237,3.5,3.5,4,"Russian Imperial Stout",3,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"473",1762,"St. George Brewing Company, The",1268763230,5,4.5,3.5,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"474",1762,"St. George Brewing Company, The",1268749348,3.5,3.5,4,"Russian Imperial Stout",4,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"475",1762,"St. George Brewing Company, The",1268710324,4,4,4,"Russian Imperial Stout",4,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"476",1762,"St. George Brewing Company, The",1268621814,4.5,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"477",1762,"St. George Brewing Company, The",1266717470,3,3.5,4,"Russian Imperial Stout",4,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"478",1762,"St. George Brewing Company, The",1265490186,4.5,4,4,"Russian Imperial Stout",4.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"479",1762,"St. George Brewing Company, The",1265076423,4,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"480",1762,"St. George Brewing Company, The",1262004005,4.5,4.5,3.5,"Russian Imperial Stout",4.5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"481",1762,"St. George Brewing Company, The",1261871450,2.5,3.5,4,"Russian Imperial Stout",4,3,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"482",1762,"St. George Brewing Company, The",1238210102,4,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"483",1762,"St. George Brewing Company, The",1231221059,4.5,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"484",1762,"St. George Brewing Company, The",1229798675,4.5,4,4.5,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"485",1762,"St. George Brewing Company, The",1226418881,5,4,4,"Russian Imperial Stout",5,5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"486",1762,"St. George Brewing Company, The",1211561283,4,4,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"487",1762,"St. George Brewing Company, The",1210742296,4,4.5,4,"Russian Imperial Stout",4.5,5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"488",1762,"St. George Brewing Company, The",1206219715,4.5,3.5,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"489",1762,"St. George Brewing Company, The",1205565237,4,4,3.5,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"490",1762,"St. George Brewing Company, The",1204078154,4,4.5,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"491",1762,"St. George Brewing Company, The",1202319916,4,4,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"492",1762,"St. George Brewing Company, The",1201711926,5,4.5,4,"Russian Imperial Stout",4.5,5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"493",1762,"St. George Brewing Company, The",1169948105,3,4,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"494",1762,"St. George Brewing Company, The",1201230725,4.5,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"495",1762,"St. George Brewing Company, The",1200832821,4.5,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"496",1762,"St. George Brewing Company, The",1198726826,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"497",1762,"St. George Brewing Company, The",1184774029,4,3.5,4.5,"Russian Imperial Stout",5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"498",1762,"St. George Brewing Company, The",1183668169,4,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"499",1762,"St. George Brewing Company, The",1179292254,4,4,5,"Russian Imperial Stout",4.5,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"500",1762,"St. George Brewing Company, The",1179193642,4,4,4,"Russian Imperial Stout",4.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"501",1762,"St. George Brewing Company, The",1177555229,4,4.5,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"502",1762,"St. George Brewing Company, The",1175659139,4,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"503",1762,"St. George Brewing Company, The",1174015390,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"504",1762,"St. George Brewing Company, The",1168358436,4,4,4.5,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"505",1762,"St. George Brewing Company, The",1166629436,4,4,4,"Russian Imperial Stout",4,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"506",1762,"St. George Brewing Company, The",1164689289,4,4,4.5,"Russian Imperial Stout",4.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"507",1762,"St. George Brewing Company, The",1153373316,3.5,4,3.5,"Russian Imperial Stout",3.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"508",1762,"St. George Brewing Company, The",1143070044,3.5,3.5,4.5,"Russian Imperial Stout",4.5,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"509",1762,"St. George Brewing Company, The",1138377516,4,4,4,"Russian Imperial Stout",4,4.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"510",1762,"St. George Brewing Company, The",1138231841,4,4,4.5,"Russian Imperial Stout",4.5,4,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"511",1762,"St. George Brewing Company, The",1137199530,2.5,3,3,"Russian Imperial Stout",3,3.5,"Winter Stout (Russian Imperial Stout)",7.6,27811
+"512",1762,"St. George Brewing Company, The",1323825805,4,3.5,4.5,"German Pilsener",4.5,4,"Pilsner",5,7386
+"513",1762,"St. George Brewing Company, The",1323291896,4,3,3.5,"German Pilsener",4,4,"Pilsner",5,7386
+"514",1762,"St. George Brewing Company, The",1319851988,3.5,2.5,3,"German Pilsener",3,3.5,"Pilsner",5,7386
+"515",1762,"St. George Brewing Company, The",1306602758,2.5,3,2.5,"German Pilsener",2.5,2.5,"Pilsner",5,7386
+"516",1762,"St. George Brewing Company, The",1301782771,4,4,4,"German Pilsener",4,4,"Pilsner",5,7386
+"517",1762,"St. George Brewing Company, The",1291242275,4.5,3.5,4,"German Pilsener",4,4,"Pilsner",5,7386
+"518",1762,"St. George Brewing Company, The",1278798350,4,4,4,"German Pilsener",4,4,"Pilsner",5,7386
+"519",1762,"St. George Brewing Company, The",1278096148,4,3.5,4,"German Pilsener",4,3.5,"Pilsner",5,7386
+"520",1762,"St. George Brewing Company, The",1269180286,4,4,4,"German Pilsener",4,3.5,"Pilsner",5,7386
+"521",1762,"St. George Brewing Company, The",1263694341,4.5,3.5,4,"German Pilsener",4,4,"Pilsner",5,7386
+"522",1762,"St. George Brewing Company, The",1252979176,4,3,4.5,"German Pilsener",4,3.5,"Pilsner",5,7386
+"523",1762,"St. George Brewing Company, The",1247705557,4,4,3.5,"German Pilsener",3.5,3.5,"Pilsner",5,7386
+"524",1762,"St. George Brewing Company, The",1246980531,3,3,3,"German Pilsener",3,3,"Pilsner",5,7386
+"525",1762,"St. George Brewing Company, The",1245191736,4.5,4,3.5,"German Pilsener",4,4,"Pilsner",5,7386
+"526",1762,"St. George Brewing Company, The",1234409293,4.5,4,4,"German Pilsener",4,4.5,"Pilsner",5,7386
+"527",1762,"St. George Brewing Company, The",1231034434,3,2,3,"German Pilsener",3,2.5,"Pilsner",5,7386
+"528",1762,"St. George Brewing Company, The",1230939820,2,2.5,3,"German Pilsener",2,2,"Pilsner",5,7386
+"529",1762,"St. George Brewing Company, The",1229298036,2,3,4,"German Pilsener",2,2,"Pilsner",5,7386
+"530",1762,"St. George Brewing Company, The",1218317891,2,2,2.5,"German Pilsener",2,2,"Pilsner",5,7386
+"531",1762,"St. George Brewing Company, The",1216779946,3.5,3.5,3.5,"German Pilsener",3.5,3.5,"Pilsner",5,7386
+"532",1762,"St. George Brewing Company, The",1215462263,3.5,4,3.5,"German Pilsener",4,4,"Pilsner",5,7386
+"533",1762,"St. George Brewing Company, The",1207665969,4.5,4.5,4,"German Pilsener",3.5,4,"Pilsner",5,7386
+"534",1762,"St. George Brewing Company, The",1205387432,4,3.5,3.5,"German Pilsener",4,3.5,"Pilsner",5,7386
+"535",1762,"St. George Brewing Company, The",1200882005,4.5,4,4,"German Pilsener",4,4.5,"Pilsner",5,7386
+"536",1762,"St. George Brewing Company, The",1192812716,4,3.5,3.5,"German Pilsener",4,4,"Pilsner",5,7386
+"537",1762,"St. George Brewing Company, The",1192272044,2.5,3,2.5,"German Pilsener",3.5,3,"Pilsner",5,7386
+"538",1762,"St. George Brewing Company, The",1187377712,3.5,2.5,4,"German Pilsener",4,3,"Pilsner",5,7386
+"539",1762,"St. George Brewing Company, The",1164939508,3.5,3.5,4,"German Pilsener",3.5,3.5,"Pilsner",5,7386
+"540",1762,"St. George Brewing Company, The",1161378894,4,3.5,3.5,"German Pilsener",4,4.5,"Pilsner",5,7386
+"541",1762,"St. George Brewing Company, The",1156858067,3.5,3.5,4,"German Pilsener",3,3.5,"Pilsner",5,7386
+"542",1762,"St. George Brewing Company, The",1153271071,4.5,4.5,4,"German Pilsener",4.5,4.5,"Pilsner",5,7386
+"543",1762,"St. George Brewing Company, The",1143070625,2.5,3,3,"German Pilsener",3,2.5,"Pilsner",5,7386
+"544",1762,"St. George Brewing Company, The",1137642256,4,3.5,3,"German Pilsener",4,4,"Pilsner",5,7386
+"545",1762,"St. George Brewing Company, The",1137201721,4.5,4.5,4.5,"German Pilsener",4,4,"Pilsner",5,7386
+"546",1762,"St. George Brewing Company, The",1137119131,3,3.5,3.5,"German Pilsener",3,3,"Pilsner",5,7386
+"547",1762,"St. George Brewing Company, The",1131913252,4.5,4,4,"German Pilsener",4.5,4,"Pilsner",5,7386
+"548",1762,"St. George Brewing Company, The",1122432223,4.5,4.5,4,"German Pilsener",4.5,4.5,"Pilsner",5,7386
+"549",1762,"St. George Brewing Company, The",1115247956,4,4,3.5,"German Pilsener",3.5,3.5,"Pilsner",5,7386
+"550",1762,"St. George Brewing Company, The",1113608646,4,3.5,3.5,"German Pilsener",3.5,3.5,"Pilsner",5,7386
+"551",1762,"St. George Brewing Company, The",1110407781,4,3,4,"German Pilsener",4,4,"Pilsner",5,7386
+"552",1762,"St. George Brewing Company, The",1105218462,4,3.5,4,"German Pilsener",3.5,4,"Pilsner",5,7386
+"553",1762,"St. George Brewing Company, The",1094956471,4,3.5,3,"German Pilsener",3.5,4,"Pilsner",5,7386
+"554",1762,"St. George Brewing Company, The",1074528141,2,2.5,3,"German Pilsener",2,2.5,"Pilsner",5,7386
+"555",1762,"St. George Brewing Company, The",1069796456,4.5,3.5,3.5,"German Pilsener",4,4,"Pilsner",5,7386
+"556",1762,"St. George Brewing Company, The",1053758153,4,4.5,3.5,"German Pilsener",4,4.5,"Pilsner",5,7386
+"557",1762,"St. George Brewing Company, The",1041579062,4,4,4,"German Pilsener",4,4,"Pilsner",5,7386
+"558",1762,"St. George Brewing Company, The",1038905028,3.5,3.5,3.5,"German Pilsener",3,3.5,"Pilsner",5,7386
+"559",1762,"St. George Brewing Company, The",1038850138,4.5,4,3.5,"German Pilsener",4.5,4,"Pilsner",5,7386
+"560",1762,"St. George Brewing Company, The",1316564865,4,4,4.5,"Russian Imperial Stout",4,4.5,"Imperial Stout (formerly Russian Imperial Stout)",8,65720
+"561",1762,"St. George Brewing Company, The",1306870927,4,4.5,4,"Russian Imperial Stout",4.5,4,"Imperial Stout (formerly Russian Imperial Stout)",8,65720
+"562",1762,"St. George Brewing Company, The",1300830096,4,5,4,"Russian Imperial Stout",3,3.5,"Imperial Stout (formerly Russian Imperial Stout)",8,65720
+"563",1762,"St. George Brewing Company, The",1296272717,3.5,4.5,4.5,"Russian Imperial Stout",3.5,4,"Imperial Stout (formerly Russian Imperial Stout)",8,65720
+"564",1762,"St. George Brewing Company, The",1319763242,3,3,3.5,"Bock",3,3,"Imperial Bock",9,74590
+"565",1762,"St. George Brewing Company, The",1324236675,4,4.5,3.5,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"566",1762,"St. George Brewing Company, The",1320283136,4,3,4,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"567",1762,"St. George Brewing Company, The",1305144373,3,3.5,2.5,"English Brown Ale",2.5,4,"Nut Brown Ale",5,27812
+"568",1762,"St. George Brewing Company, The",1305060568,3,3,4,"English Brown Ale",3,3,"Nut Brown Ale",5,27812
+"569",1762,"St. George Brewing Company, The",1304625502,2.5,3.5,2,"English Brown Ale",3,3,"Nut Brown Ale",5,27812
+"570",1762,"St. George Brewing Company, The",1301955883,3.5,2.5,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"571",1762,"St. George Brewing Company, The",1279471007,4,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5,27812
+"572",1762,"St. George Brewing Company, The",1278417853,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5,27812
+"573",1762,"St. George Brewing Company, The",1267150039,3,4,3,"English Brown Ale",2.5,3,"Nut Brown Ale",5,27812
+"574",1762,"St. George Brewing Company, The",1244577615,5,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"575",1762,"St. George Brewing Company, The",1243345542,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"576",1762,"St. George Brewing Company, The",1229303209,4,3,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"577",1762,"St. George Brewing Company, The",1229216092,4.5,4,3,"English Brown Ale",3,4,"Nut Brown Ale",5,27812
+"578",1762,"St. George Brewing Company, The",1224088593,3.5,3,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5,27812
+"579",1762,"St. George Brewing Company, The",1218161984,3.5,3,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"580",1762,"St. George Brewing Company, The",1213130842,4,3,3,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"581",1762,"St. George Brewing Company, The",1205292540,3.5,4.5,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5,27812
+"582",1762,"St. George Brewing Company, The",1201388889,4.5,4,3.5,"English Brown Ale",3.5,4.5,"Nut Brown Ale",5,27812
+"583",1762,"St. George Brewing Company, The",1201381201,4,4,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5,27812
+"584",1762,"St. George Brewing Company, The",1201051139,4,3,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5,27812
+"585",1762,"St. George Brewing Company, The",1197151966,3,3,2.5,"English Brown Ale",3,3,"Nut Brown Ale",5,27812
+"586",1762,"St. George Brewing Company, The",1193601104,4,4,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"587",1762,"St. George Brewing Company, The",1191628374,3,3,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5,27812
+"588",1762,"St. George Brewing Company, The",1190948134,3,2.5,2.5,"English Brown Ale",2,3,"Nut Brown Ale",5,27812
+"589",1762,"St. George Brewing Company, The",1189384047,3.5,3.5,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5,27812
+"590",1762,"St. George Brewing Company, The",1187740148,3.5,3.5,3,"English Brown Ale",2,3,"Nut Brown Ale",5,27812
+"591",1762,"St. George Brewing Company, The",1186185740,4.5,3.5,3,"English Brown Ale",4,3,"Nut Brown Ale",5,27812
+"592",1762,"St. George Brewing Company, The",1183057886,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"593",1762,"St. George Brewing Company, The",1181687780,3.5,3,3,"English Brown Ale",3,3.5,"Nut Brown Ale",5,27812
+"594",1762,"St. George Brewing Company, The",1177905773,3.5,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"595",1762,"St. George Brewing Company, The",1172284791,3.5,3.5,3,"English Brown Ale",3,3.5,"Nut Brown Ale",5,27812
+"596",1762,"St. George Brewing Company, The",1169426821,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5,27812
+"597",1762,"St. George Brewing Company, The",1168021447,4,3,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5,27812
+"598",1762,"St. George Brewing Company, The",1166151117,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"599",1762,"St. George Brewing Company, The",1251252837,3.5,3,3.5,"English Pale Ale",3.5,3.5,"Summer Ale",5,43621
+"600",1762,"St. George Brewing Company, The",1163552925,3.5,3.5,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5,27812
+"601",1762,"St. George Brewing Company, The",1161380723,4,4.5,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5,27812
+"602",1762,"St. George Brewing Company, The",1156990943,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"603",1762,"St. George Brewing Company, The",1151102226,3,3.5,3.5,"English Brown Ale",3.5,3,"Nut Brown Ale",5,27812
+"604",1762,"St. George Brewing Company, The",1143952544,4,4.5,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"605",1762,"St. George Brewing Company, The",1143676089,4,4,3.5,"English Brown Ale",4,4,"Nut Brown Ale",5,27812
+"606",1762,"St. George Brewing Company, The",1143153086,3.5,3,4,"English Brown Ale",3,3,"Nut Brown Ale",5,27812
+"607",1762,"St. George Brewing Company, The",1140980260,4,3.5,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5,27812
+"608",1762,"St. George Brewing Company, The",1137203679,4,4,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5,27812
+"609",1762,"St. George Brewing Company, The",1322871931,3.5,3.5,4,"English Pale Ale",4.5,4,"Summer Ale",5,43621
+"610",1762,"St. George Brewing Company, The",1318279842,4,4,4,"English Pale Ale",4,4,"Summer Ale",5,43621
+"611",1762,"St. George Brewing Company, The",1314998263,3.5,3.5,3.5,"English Pale Ale",3.5,4,"Summer Ale",5,43621
+"612",1762,"St. George Brewing Company, The",1313710185,4,3.5,3.5,"English Pale Ale",4,4,"Summer Ale",5,43621
+"613",1762,"St. George Brewing Company, The",1311202008,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Summer Ale",5,43621
+"614",1762,"St. George Brewing Company, The",1308070298,5,3.5,4.5,"English Pale Ale",4,4,"Summer Ale",5,43621
+"615",1762,"St. George Brewing Company, The",1307904841,4,4,3.5,"English Pale Ale",4,3.5,"Summer Ale",5,43621
+"616",1762,"St. George Brewing Company, The",1305073655,4,3,4,"English Pale Ale",4,3.5,"Summer Ale",5,43621
+"617",1762,"St. George Brewing Company, The",1303502182,4,3.5,3,"English Pale Ale",4,4,"Summer Ale",5,43621
+"618",1762,"St. George Brewing Company, The",1288218299,4,4,4,"English Pale Ale",4,3.5,"Summer Ale",5,43621
+"619",1762,"St. George Brewing Company, The",1279510414,4,3.5,4,"English Pale Ale",4,3.5,"Summer Ale",5,43621
+"620",1762,"St. George Brewing Company, The",1279470701,4,4,4,"English Pale Ale",3.5,4,"Summer Ale",5,43621
+"621",1762,"St. George Brewing Company, The",1252897255,2.5,3.5,3.5,"English Pale Ale",4,2.5,"Summer Ale",5,43621
+"622",1762,"St. George Brewing Company, The",1244432300,4,4,4,"English Pale Ale",4,4,"Summer Ale",5,43621
+"623",1762,"St. George Brewing Company, The",1218317515,4,4,4,"English Pale Ale",4,4,"Summer Ale",5,43621
+"624",1762,"St. George Brewing Company, The",1217045642,3,2.5,3.5,"English Pale Ale",3,3,"Summer Ale",5,43621
+"625",1762,"St. George Brewing Company, The",1216607774,4,4,4,"English Pale Ale",4,4,"Summer Ale",5,43621
+"626",1762,"St. George Brewing Company, The",1215487036,4.5,4.5,4,"English Pale Ale",4.5,4.5,"Summer Ale",5,43621
+"627",1762,"St. George Brewing Company, The",1215034509,4.5,3.5,3.5,"English Pale Ale",4,4,"Summer Ale",5,43621
+"628",1762,"St. George Brewing Company, The",1192273037,3.5,4,3,"English Pale Ale",3.5,4,"Summer Ale",5,43621
+"629",1762,"St. George Brewing Company, The",1189645629,4,3.5,3.5,"English Pale Ale",4,4.5,"Summer Ale",5,43621
+"630",1762,"St. George Brewing Company, The",1187137021,3.5,2,4.5,"English Pale Ale",4,3.5,"Summer Ale",5,43621
+"631",1762,"St. George Brewing Company, The",1169689079,3,3,3.5,"English Pale Ale",3.5,3,"Summer Ale",5,43621
+"632",1762,"St. George Brewing Company, The",1159493183,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Summer Ale",5,43621
+"633",1762,"St. George Brewing Company, The",1157111866,2.5,2,4,"English Pale Ale",2.5,2.5,"Summer Ale",5,43621
+"634",1762,"St. George Brewing Company, The",1154494470,3.5,3.5,4,"English Pale Ale",4.5,4,"Summer Ale",5,43621
+"635",1762,"St. George Brewing Company, The",1122857591,3.5,3.5,4,"English Pale Ale",4.5,4,"Summer Ale",5,43621
+"636",1762,"St. George Brewing Company, The",1089489564,3,3,4,"English Pale Ale",3.5,3,"Summer Ale",5,43621
+"637",1762,"St. George Brewing Company, The",1323651494,1.5,1.5,2,"English Pale Ale",1.5,1,"Imperial Pale Ale",10,70224
+"638",1762,"St. George Brewing Company, The",1317590759,3.5,3.5,3,"English Pale Ale",4,4,"Imperial Pale Ale",10,70224
+"639",1762,"St. George Brewing Company, The",1309465450,3,2.5,4,"English Pale Ale",3.5,2.5,"Imperial Pale Ale",10,70224
+"640",1762,"St. George Brewing Company, The",1308598632,4.5,4,4,"English Pale Ale",5,4,"Imperial Pale Ale",10,70224

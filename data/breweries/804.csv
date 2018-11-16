@@ -1,0 +1,530 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",804,"Brasserie de Silly S.A.",1169053376,3,3,4.5,"Belgian Strong Pale Ale",3,3,"La Divine Blond",7.5,31229
+"2",804,"Brasserie de Silly S.A.",1322651924,3.5,3.5,3,"Witbier",2,3,"Titje Blanche",4.7,2492
+"3",804,"Brasserie de Silly S.A.",1238731121,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"4",804,"Brasserie de Silly S.A.",1210266943,3.5,3.5,4,"Belgian Pale Ale",3,3,"La Cré Tonnerre",7,33328
+"5",804,"Brasserie de Silly S.A.",1100073043,4,4,3.5,"Belgian Strong Dark Ale",4,4,"Double Enghien Brune",8,2491
+"6",804,"Brasserie de Silly S.A.",1312657935,2,3,3,"Fruit / Vegetable Beer",2,1,"Pink Killer",5,21095
+"7",804,"Brasserie de Silly S.A.",1312583213,3,3,3,"Fruit / Vegetable Beer",4,3,"Pink Killer",5,21095
+"8",804,"Brasserie de Silly S.A.",1234546000,5,5,4.5,"Fruit / Vegetable Beer",3,4.5,"Pink Killer",5,21095
+"9",804,"Brasserie de Silly S.A.",1317886835,3.5,4,3,"Belgian Pale Ale",2,3,"Abbaye De Forest",6.5,42338
+"10",804,"Brasserie de Silly S.A.",1317477595,3.5,3.5,4,"Belgian Pale Ale",4,4,"Abbaye De Forest",6.5,42338
+"11",804,"Brasserie de Silly S.A.",1182345023,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"12",804,"Brasserie de Silly S.A.",1160846955,2,2,2.5,"Belgian Strong Pale Ale",1.5,1.5,"Cuvée Des Hauts Voués De L'Avouerie D'Anthisnes",8,33214
+"13",804,"Brasserie de Silly S.A.",1321216459,3.5,3.5,4,"Tripel",3.5,4,"La Divine",9.5,2495
+"14",804,"Brasserie de Silly S.A.",1320062569,3,3.5,3,"Tripel",3,3,"La Divine",9.5,2495
+"15",804,"Brasserie de Silly S.A.",1312419737,3.5,3.5,3.5,"Tripel",3.5,4,"La Divine",9.5,2495
+"16",804,"Brasserie de Silly S.A.",1303379398,1,4,4,"Tripel",3.5,2,"La Divine",9.5,2495
+"17",804,"Brasserie de Silly S.A.",1299643010,2,3.5,3.5,"Tripel",2.5,3,"La Divine",9.5,2495
+"18",804,"Brasserie de Silly S.A.",1292986396,3.5,4,4,"Tripel",4,4,"La Divine",9.5,2495
+"19",804,"Brasserie de Silly S.A.",1287782101,2.5,3,2,"Tripel",2.5,2.5,"La Divine",9.5,2495
+"20",804,"Brasserie de Silly S.A.",1287185631,2.5,4,2.5,"Tripel",4,3,"La Divine",9.5,2495
+"21",804,"Brasserie de Silly S.A.",1282601322,3,4.5,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"22",804,"Brasserie de Silly S.A.",1280466552,4.5,3.5,4.5,"Tripel",4,4,"La Divine",9.5,2495
+"23",804,"Brasserie de Silly S.A.",1280153364,4,4,4.5,"Tripel",3.5,4,"La Divine",9.5,2495
+"24",804,"Brasserie de Silly S.A.",1271524398,2,3,3,"Tripel",4,3,"La Divine",9.5,2495
+"25",804,"Brasserie de Silly S.A.",1270622785,3.5,3,3,"Tripel",3.5,3,"La Divine",9.5,2495
+"26",804,"Brasserie de Silly S.A.",1267388205,2,2.5,2.5,"Tripel",2.5,2,"La Divine",9.5,2495
+"27",804,"Brasserie de Silly S.A.",1261454227,4,3.5,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"28",804,"Brasserie de Silly S.A.",1259083390,4,4,4.5,"Tripel",4,4,"La Divine",9.5,2495
+"29",804,"Brasserie de Silly S.A.",1253318546,4,4,4,"Tripel",4,4,"La Divine",9.5,2495
+"30",804,"Brasserie de Silly S.A.",1244788169,5,4,4,"Tripel",5,4.5,"La Divine",9.5,2495
+"31",804,"Brasserie de Silly S.A.",1242622419,3.5,4,4,"Tripel",3.5,4,"La Divine",9.5,2495
+"32",804,"Brasserie de Silly S.A.",1227812745,4,4,4.5,"Tripel",4,4.5,"La Divine",9.5,2495
+"33",804,"Brasserie de Silly S.A.",1105332551,3.5,3.5,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"34",804,"Brasserie de Silly S.A.",1224795502,3.5,3,3.5,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"35",804,"Brasserie de Silly S.A.",1224653104,3.5,4,3.5,"Tripel",4,4,"La Divine",9.5,2495
+"36",804,"Brasserie de Silly S.A.",1216656563,4,4,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"37",804,"Brasserie de Silly S.A.",1207204391,4,4,4.5,"Tripel",4.5,3.5,"La Divine",9.5,2495
+"38",804,"Brasserie de Silly S.A.",1206916534,3.5,4,4,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"39",804,"Brasserie de Silly S.A.",1205535996,4,4.5,4,"Tripel",4.5,4,"La Divine",9.5,2495
+"40",804,"Brasserie de Silly S.A.",1204406944,3,4,4.5,"Tripel",3.5,3,"La Divine",9.5,2495
+"41",804,"Brasserie de Silly S.A.",1203703834,3,3.5,3.5,"Tripel",3,3.5,"La Divine",9.5,2495
+"42",804,"Brasserie de Silly S.A.",1202309244,3,3.5,3,"Tripel",3,3.5,"La Divine",9.5,2495
+"43",804,"Brasserie de Silly S.A.",1202242970,3.5,4,4,"Tripel",4,4,"La Divine",9.5,2495
+"44",804,"Brasserie de Silly S.A.",1202001500,3.5,4,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"45",804,"Brasserie de Silly S.A.",1197649052,2.5,3,3,"Tripel",2.5,3,"La Divine",9.5,2495
+"46",804,"Brasserie de Silly S.A.",1194701201,3.5,3.5,3.5,"Tripel",3.5,4,"La Divine",9.5,2495
+"47",804,"Brasserie de Silly S.A.",1183573782,4,3.5,4,"Tripel",4,4.5,"La Divine",9.5,2495
+"48",804,"Brasserie de Silly S.A.",1181390725,4,4,3.5,"Tripel",4,4,"La Divine",9.5,2495
+"49",804,"Brasserie de Silly S.A.",1179344927,2.5,3.5,4.5,"Tripel",4,2.5,"La Divine",9.5,2495
+"50",804,"Brasserie de Silly S.A.",1178686668,4.5,4,4,"Tripel",4,4.5,"La Divine",9.5,2495
+"51",804,"Brasserie de Silly S.A.",1177660024,4,4,4,"Tripel",4.5,4,"La Divine",9.5,2495
+"52",804,"Brasserie de Silly S.A.",1164500355,4,3.5,3.5,"Tripel",4,4,"La Divine",9.5,2495
+"53",804,"Brasserie de Silly S.A.",1161737342,3.5,4,4,"Tripel",4,3.5,"La Divine",9.5,2495
+"54",804,"Brasserie de Silly S.A.",1153174529,4,4,4,"Tripel",4,5,"La Divine",9.5,2495
+"55",804,"Brasserie de Silly S.A.",1151886271,4,3.5,3,"Tripel",3,2.5,"La Divine",9.5,2495
+"56",804,"Brasserie de Silly S.A.",1151779889,3.5,4,3.5,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"57",804,"Brasserie de Silly S.A.",1149739571,3.5,3,4.5,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"58",804,"Brasserie de Silly S.A.",1142021079,4,4,4,"Tripel",4,4,"La Divine",9.5,2495
+"59",804,"Brasserie de Silly S.A.",1137569399,3.5,4,3.5,"Tripel",3.5,4,"La Divine",9.5,2495
+"60",804,"Brasserie de Silly S.A.",1135120623,4,4.5,3.5,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"61",804,"Brasserie de Silly S.A.",1127892715,3.5,3.5,4,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"62",804,"Brasserie de Silly S.A.",1120068114,2,2,3.5,"Tripel",2.5,2.5,"La Divine",9.5,2495
+"63",804,"Brasserie de Silly S.A.",1116219172,4,3.5,3.5,"Tripel",4,4,"La Divine",9.5,2495
+"64",804,"Brasserie de Silly S.A.",1113223184,4,4.5,4,"Tripel",5,4.5,"La Divine",9.5,2495
+"65",804,"Brasserie de Silly S.A.",1110237568,3.5,4,4,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"66",804,"Brasserie de Silly S.A.",1092742471,3.5,3.5,4,"Tripel",4,3,"La Divine",9.5,2495
+"67",804,"Brasserie de Silly S.A.",1092598008,4.5,4.5,3.5,"Tripel",3.5,4,"La Divine",9.5,2495
+"68",804,"Brasserie de Silly S.A.",1079649698,3.5,4,3.5,"Tripel",3.5,3.5,"La Divine",9.5,2495
+"69",804,"Brasserie de Silly S.A.",1078106875,4.5,3.5,4,"Tripel",4,4,"La Divine",9.5,2495
+"70",804,"Brasserie de Silly S.A.",1074926277,3.5,4,4.5,"Tripel",5,5,"La Divine",9.5,2495
+"71",804,"Brasserie de Silly S.A.",1017954975,4.5,5,4,"Tripel",4,5,"La Divine",9.5,2495
+"72",804,"Brasserie de Silly S.A.",1317478067,3.5,4,4,"Witbier",4,4,"Villée (Bière Blanche à L'Eau De Villée)",5.9,70751
+"73",804,"Brasserie de Silly S.A.",1309898395,2.5,2.5,2.5,"Witbier",2.5,3.5,"Villée (Bière Blanche à L'Eau De Villée)",5.9,70751
+"74",804,"Brasserie de Silly S.A.",1193738632,3,3,3.5,"Belgian Strong Pale Ale",3,3.5,"Belgian Passions Comics & Beer Triple Blond",9,10230
+"75",804,"Brasserie de Silly S.A.",1054747219,2.5,2,2,"Belgian Strong Pale Ale",2,2,"Belgian Passions Comics & Beer Triple Blond",9,10230
+"76",804,"Brasserie de Silly S.A.",1317477910,4,4,4,"Belgian Pale Ale",4,4,"La Cré Tonnerre",7,33328
+"77",804,"Brasserie de Silly S.A.",1269428691,4.5,2.5,3.5,"Belgian Pale Ale",2.5,3,"La Cré Tonnerre",7,33328
+"78",804,"Brasserie de Silly S.A.",1232213745,4,4.5,3.5,"Belgian Pale Ale",3.5,4,"La Cré Tonnerre",7,33328
+"79",804,"Brasserie de Silly S.A.",1164923992,3.5,4,4,"Belgian Pale Ale",3.5,3,"La Cré Tonnerre",7,33328
+"80",804,"Brasserie de Silly S.A.",1161387327,2,4,4,"Belgian Pale Ale",1.5,2,"La Cré Tonnerre",7,33328
+"81",804,"Brasserie de Silly S.A.",1299955476,4,3.5,4,"Tripel",3.5,4,"Enghien Noël Triple Blonde",9,16676
+"82",804,"Brasserie de Silly S.A.",1292786517,4,4,4,"Tripel",4,3.5,"Enghien Noël Triple Blonde",9,16676
+"83",804,"Brasserie de Silly S.A.",1266688083,3,3,3,"Tripel",3,2.5,"Enghien Noël Triple Blonde",9,16676
+"84",804,"Brasserie de Silly S.A.",1266179859,3.5,4.5,4,"Tripel",4,4,"Enghien Noël Triple Blonde",9,16676
+"85",804,"Brasserie de Silly S.A.",1257369714,4.5,4,3.5,"Tripel",4,4.5,"Enghien Noël Triple Blonde",9,16676
+"86",804,"Brasserie de Silly S.A.",1228642064,4,3.5,4,"Tripel",3.5,4,"Enghien Noël Triple Blonde",9,16676
+"87",804,"Brasserie de Silly S.A.",1168864316,4,4,4,"Tripel",3.5,3.5,"Enghien Noël Triple Blonde",9,16676
+"88",804,"Brasserie de Silly S.A.",1137164880,4.5,4,5,"Tripel",4,4,"Enghien Noël Triple Blonde",9,16676
+"89",804,"Brasserie de Silly S.A.",1116216566,4,4,4,"Tripel",4.5,4.5,"Enghien Noël Triple Blonde",9,16676
+"90",804,"Brasserie de Silly S.A.",1103844075,4,4,4,"Tripel",5,5,"Enghien Noël Triple Blonde",9,16676
+"91",804,"Brasserie de Silly S.A.",1087964404,4,4.5,4.5,"Tripel",3.5,4,"Enghien Noël Triple Blonde",9,16676
+"92",804,"Brasserie de Silly S.A.",1079840695,3.5,3.5,3,"Tripel",4,4,"Enghien Noël Triple Blonde",9,16676
+"93",804,"Brasserie de Silly S.A.",1184098900,3,3,2,"Belgian Pale Ale",3,3.5,"La Gueule Noire - Koempelbier",8,30487
+"94",804,"Brasserie de Silly S.A.",1154254919,2.5,2,3,"Belgian Pale Ale",2,2.5,"La Gueule Noire - Koempelbier",8,30487
+"95",804,"Brasserie de Silly S.A.",1147574881,3,4,4,"Belgian Pale Ale",3.5,3,"La Gueule Noire - Koempelbier",8,30487
+"96",804,"Brasserie de Silly S.A.",1311983660,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Double Enghien Brune",8,2491
+"97",804,"Brasserie de Silly S.A.",1300154655,3,4,3,"Belgian Strong Dark Ale",4,3,"Double Enghien Brune",8,2491
+"98",804,"Brasserie de Silly S.A.",1297162760,2.5,3.5,3.5,"Belgian Strong Dark Ale",2.5,2,"Double Enghien Brune",8,2491
+"99",804,"Brasserie de Silly S.A.",1262626177,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Double Enghien Brune",8,2491
+"100",804,"Brasserie de Silly S.A.",1212038486,4,3.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Double Enghien Brune",8,2491
+"101",804,"Brasserie de Silly S.A.",1184205023,4,4,3.5,"Belgian Strong Dark Ale",3,4,"Double Enghien Brune",8,2491
+"102",804,"Brasserie de Silly S.A.",1183559203,3,4,4,"Belgian Strong Dark Ale",3.5,3,"Double Enghien Brune",8,2491
+"103",804,"Brasserie de Silly S.A.",1170810155,3,3.5,4.5,"Belgian Strong Dark Ale",2.5,3,"Double Enghien Brune",8,2491
+"104",804,"Brasserie de Silly S.A.",1157091607,4.5,4,4.5,"Belgian Strong Dark Ale",4.5,4,"Double Enghien Brune",8,2491
+"105",804,"Brasserie de Silly S.A.",1141961414,4,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Double Enghien Brune",8,2491
+"106",804,"Brasserie de Silly S.A.",1140666983,4,4.5,4,"Belgian Strong Dark Ale",4,4,"Double Enghien Brune",8,2491
+"107",804,"Brasserie de Silly S.A.",1134792443,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3,"Double Enghien Brune",8,2491
+"108",804,"Brasserie de Silly S.A.",1130081033,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Double Enghien Brune",8,2491
+"109",804,"Brasserie de Silly S.A.",1129688892,4.5,4,4,"Belgian Strong Dark Ale",3.5,4,"Double Enghien Brune",8,2491
+"110",804,"Brasserie de Silly S.A.",1127269255,3.5,4.5,3.5,"Belgian Strong Dark Ale",3.5,3,"Double Enghien Brune",8,2491
+"111",804,"Brasserie de Silly S.A.",1125119718,4,4.5,3.5,"Belgian Strong Dark Ale",4.5,4,"Double Enghien Brune",8,2491
+"112",804,"Brasserie de Silly S.A.",1120182555,2.5,3,3.5,"Belgian Strong Dark Ale",2.5,2.5,"Double Enghien Brune",8,2491
+"113",804,"Brasserie de Silly S.A.",1115944377,4,4,3.5,"Belgian Strong Dark Ale",3.5,4,"Double Enghien Brune",8,2491
+"114",804,"Brasserie de Silly S.A.",1105419676,3.5,3.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Double Enghien Brune",8,2491
+"115",804,"Brasserie de Silly S.A.",1104469926,4.5,4,4,"Belgian Strong Dark Ale",4.5,4,"Double Enghien Brune",8,2491
+"116",804,"Brasserie de Silly S.A.",1097403811,3.5,4,3,"Belgian Strong Dark Ale",4,3.5,"Double Enghien Brune",8,2491
+"117",804,"Brasserie de Silly S.A.",1083550146,3.5,4.5,4.5,"Belgian Strong Dark Ale",4,4,"Double Enghien Brune",8,2491
+"118",804,"Brasserie de Silly S.A.",1078707280,4,4,4.5,"Belgian Strong Dark Ale",3.5,3.5,"Double Enghien Brune",8,2491
+"119",804,"Brasserie de Silly S.A.",1066353020,2.5,2.5,4,"Belgian Strong Dark Ale",2.5,2.5,"Double Enghien Brune",8,2491
+"120",804,"Brasserie de Silly S.A.",1064197906,3.5,3.5,4,"Belgian Strong Dark Ale",4,3.5,"Double Enghien Brune",8,2491
+"121",804,"Brasserie de Silly S.A.",1325995284,3,4,3,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"122",804,"Brasserie de Silly S.A.",1324163925,2.5,2.5,2.5,"Saison / Farmhouse Ale",3,2.5,"Saison De Silly",5.3,2493
+"123",804,"Brasserie de Silly S.A.",1322558039,3.5,3,3,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"124",804,"Brasserie de Silly S.A.",1317826665,3.5,3,3.5,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"125",804,"Brasserie de Silly S.A.",1315171303,3,3,4.5,"Saison / Farmhouse Ale",3.5,3,"Saison De Silly",5.3,2493
+"126",804,"Brasserie de Silly S.A.",1315096989,3.5,3,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"127",804,"Brasserie de Silly S.A.",1309723385,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"128",804,"Brasserie de Silly S.A.",1305361709,3,3.5,3,"Saison / Farmhouse Ale",2.5,3,"Saison De Silly",5.3,2493
+"129",804,"Brasserie de Silly S.A.",1302835458,3,3.5,3,"Saison / Farmhouse Ale",2.5,2.5,"Saison De Silly",5.3,2493
+"130",804,"Brasserie de Silly S.A.",1301852738,3.5,3,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"131",804,"Brasserie de Silly S.A.",1299955692,3.5,3.5,4.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"132",804,"Brasserie de Silly S.A.",1299900116,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"133",804,"Brasserie de Silly S.A.",1296962143,2.5,2.5,3,"Saison / Farmhouse Ale",2.5,2.5,"Saison De Silly",5.3,2493
+"134",804,"Brasserie de Silly S.A.",1296170926,3.5,3,4,"Saison / Farmhouse Ale",4,3,"Saison De Silly",5.3,2493
+"135",804,"Brasserie de Silly S.A.",1295626479,3,4,3.5,"Saison / Farmhouse Ale",2.5,2.5,"Saison De Silly",5.3,2493
+"136",804,"Brasserie de Silly S.A.",1294906482,3,2.5,3.5,"Saison / Farmhouse Ale",2.5,3.5,"Saison De Silly",5.3,2493
+"137",804,"Brasserie de Silly S.A.",1292626540,1.5,2.5,3,"Saison / Farmhouse Ale",2,2,"Saison De Silly",5.3,2493
+"138",804,"Brasserie de Silly S.A.",1287970114,2.5,3,3,"Saison / Farmhouse Ale",2.5,3,"Saison De Silly",5.3,2493
+"139",804,"Brasserie de Silly S.A.",1287284325,2.5,2,2.5,"Saison / Farmhouse Ale",2.5,3,"Saison De Silly",5.3,2493
+"140",804,"Brasserie de Silly S.A.",1286395784,2,3,3,"Saison / Farmhouse Ale",3,2,"Saison De Silly",5.3,2493
+"141",804,"Brasserie de Silly S.A.",1280603338,3,3,3,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"142",804,"Brasserie de Silly S.A.",1277614423,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"143",804,"Brasserie de Silly S.A.",1274133614,3,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"144",804,"Brasserie de Silly S.A.",1274047273,3.5,3.5,4.5,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"145",804,"Brasserie de Silly S.A.",1268528689,3,3,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"146",804,"Brasserie de Silly S.A.",1268521124,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"147",804,"Brasserie de Silly S.A.",1266202711,4.5,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"148",804,"Brasserie de Silly S.A.",1266117282,2,2.5,4,"Saison / Farmhouse Ale",4,2,"Saison De Silly",5.3,2493
+"149",804,"Brasserie de Silly S.A.",1262090032,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"150",804,"Brasserie de Silly S.A.",1259226343,3.5,3.5,3,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"151",804,"Brasserie de Silly S.A.",1256647227,3.5,3,4,"Saison / Farmhouse Ale",2.5,3,"Saison De Silly",5.3,2493
+"152",804,"Brasserie de Silly S.A.",1253077251,3.5,4,3,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"153",804,"Brasserie de Silly S.A.",1252284688,4,3.5,4.5,"Saison / Farmhouse Ale",3.5,4,"Saison De Silly",5.3,2493
+"154",804,"Brasserie de Silly S.A.",1247987247,2.5,3,2.5,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"155",804,"Brasserie de Silly S.A.",1246086777,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"156",804,"Brasserie de Silly S.A.",1244890829,2.5,2.5,3,"Saison / Farmhouse Ale",2.5,3,"Saison De Silly",5.3,2493
+"157",804,"Brasserie de Silly S.A.",1238625030,2.5,2,3,"Saison / Farmhouse Ale",3,2,"Saison De Silly",5.3,2493
+"158",804,"Brasserie de Silly S.A.",1224269862,3,3.5,4,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"159",804,"Brasserie de Silly S.A.",1224171773,3,4.5,3.5,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"160",804,"Brasserie de Silly S.A.",1219547265,4,3,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"161",804,"Brasserie de Silly S.A.",1217202752,4,3.5,3,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"162",804,"Brasserie de Silly S.A.",1208096051,2.5,4.5,4,"Saison / Farmhouse Ale",4.5,2.5,"Saison De Silly",5.3,2493
+"163",804,"Brasserie de Silly S.A.",1204804432,2.5,2.5,3,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"164",804,"Brasserie de Silly S.A.",1199008752,3.5,3.5,3.5,"Saison / Farmhouse Ale",3,4,"Saison De Silly",5.3,2493
+"165",804,"Brasserie de Silly S.A.",1198164248,4,4,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"166",804,"Brasserie de Silly S.A.",1197227785,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"167",804,"Brasserie de Silly S.A.",1196239900,2.5,3,3.5,"Saison / Farmhouse Ale",3,2.5,"Saison De Silly",5.3,2493
+"168",804,"Brasserie de Silly S.A.",1193721191,3.5,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"169",804,"Brasserie de Silly S.A.",1193340940,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Saison De Silly",5.3,2493
+"170",804,"Brasserie de Silly S.A.",1190664069,3.5,3,4,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"171",804,"Brasserie de Silly S.A.",1180730118,4,3.5,3.5,"Saison / Farmhouse Ale",3.5,4,"Saison De Silly",5.3,2493
+"172",804,"Brasserie de Silly S.A.",1171269143,3.5,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"173",804,"Brasserie de Silly S.A.",1168679826,4,3.5,4,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"174",804,"Brasserie de Silly S.A.",1166111830,3.5,3,4,"Saison / Farmhouse Ale",3,4,"Saison De Silly",5.3,2493
+"175",804,"Brasserie de Silly S.A.",1159652210,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"176",804,"Brasserie de Silly S.A.",1159563367,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"177",804,"Brasserie de Silly S.A.",1152975870,4.5,4,4.5,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"178",804,"Brasserie de Silly S.A.",1149961710,3.5,3,5,"Saison / Farmhouse Ale",4,4.5,"Saison De Silly",5.3,2493
+"179",804,"Brasserie de Silly S.A.",1145884001,3,3,3.5,"Saison / Farmhouse Ale",2.5,2,"Saison De Silly",5.3,2493
+"180",804,"Brasserie de Silly S.A.",1145059209,3.5,3,4,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"181",804,"Brasserie de Silly S.A.",1133142548,4,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"182",804,"Brasserie de Silly S.A.",1124674175,2.5,3.5,4,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"183",804,"Brasserie de Silly S.A.",1123453824,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Saison De Silly",5.3,2493
+"184",804,"Brasserie de Silly S.A.",1122302409,3,2.5,2.5,"Saison / Farmhouse Ale",2.5,2,"Saison De Silly",5.3,2493
+"185",804,"Brasserie de Silly S.A.",1121937275,3.5,4.5,4,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"186",804,"Brasserie de Silly S.A.",1118923389,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Saison De Silly",5.3,2493
+"187",804,"Brasserie de Silly S.A.",1115855332,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Saison De Silly",5.3,2493
+"188",804,"Brasserie de Silly S.A.",1113280703,2,3.5,4.5,"Saison / Farmhouse Ale",2,2.5,"Saison De Silly",5.3,2493
+"189",804,"Brasserie de Silly S.A.",1107151181,4,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"190",804,"Brasserie de Silly S.A.",1105559669,3.5,4,4,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"191",804,"Brasserie de Silly S.A.",1105544457,2.5,2.5,4,"Saison / Farmhouse Ale",2,2.5,"Saison De Silly",5.3,2493
+"192",804,"Brasserie de Silly S.A.",1099970634,3.5,3.5,3.5,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"193",804,"Brasserie de Silly S.A.",1095793817,2.5,2.5,3.5,"Saison / Farmhouse Ale",3,2.5,"Saison De Silly",5.3,2493
+"194",804,"Brasserie de Silly S.A.",1092297370,3.5,4,3.5,"Saison / Farmhouse Ale",4,4.5,"Saison De Silly",5.3,2493
+"195",804,"Brasserie de Silly S.A.",1091825600,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"196",804,"Brasserie de Silly S.A.",1087513548,4,4,4.5,"Saison / Farmhouse Ale",3.5,4,"Saison De Silly",5.3,2493
+"197",804,"Brasserie de Silly S.A.",1071086884,4,3.5,5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"198",804,"Brasserie de Silly S.A.",1059411431,3,3.5,4.5,"Saison / Farmhouse Ale",3.5,3,"Saison De Silly",5.3,2493
+"199",804,"Brasserie de Silly S.A.",1058910210,4,3.5,2.5,"Saison / Farmhouse Ale",3,3,"Saison De Silly",5.3,2493
+"200",804,"Brasserie de Silly S.A.",1055016820,3.5,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"201",804,"Brasserie de Silly S.A.",1052868449,3.5,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"202",804,"Brasserie de Silly S.A.",1050092067,3.5,3.5,4,"Saison / Farmhouse Ale",3,3.5,"Saison De Silly",5.3,2493
+"203",804,"Brasserie de Silly S.A.",1045961262,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"204",804,"Brasserie de Silly S.A.",1044948389,3,1.5,4,"Saison / Farmhouse Ale",3.5,3,"Saison De Silly",5.3,2493
+"205",804,"Brasserie de Silly S.A.",1043942289,4,3.5,3.5,"Saison / Farmhouse Ale",4,3.5,"Saison De Silly",5.3,2493
+"206",804,"Brasserie de Silly S.A.",1043778577,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Saison De Silly",5.3,2493
+"207",804,"Brasserie de Silly S.A.",1312081086,2,3.5,3.5,"Fruit / Vegetable Beer",2.5,3,"Pink Killer",5,21095
+"208",804,"Brasserie de Silly S.A.",1233992419,2,2,3,"Fruit / Vegetable Beer",2.5,2,"Pink Killer",5,21095
+"209",804,"Brasserie de Silly S.A.",1042995489,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Saison De Silly",5.3,2493
+"210",804,"Brasserie de Silly S.A.",1034407465,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Saison De Silly",5.3,2493
+"211",804,"Brasserie de Silly S.A.",1027354892,4,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison De Silly",5.3,2493
+"212",804,"Brasserie de Silly S.A.",1150689257,3,3,3.5,"Belgian Dark Ale",3,3.5,"Schwendi",7.5,31188
+"213",804,"Brasserie de Silly S.A.",1320027482,2,4,3,"Fruit / Vegetable Beer",2,1.5,"Pink Killer",5,21095
+"214",804,"Brasserie de Silly S.A.",1318039583,3,2.5,3,"Fruit / Vegetable Beer",3,3,"Pink Killer",5,21095
+"215",804,"Brasserie de Silly S.A.",1317485090,2.5,3.5,4,"Fruit / Vegetable Beer",3,3,"Pink Killer",5,21095
+"216",804,"Brasserie de Silly S.A.",1317086964,1.5,3,3.5,"Fruit / Vegetable Beer",3.5,2,"Pink Killer",5,21095
+"217",804,"Brasserie de Silly S.A.",1313871471,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Pink Killer",5,21095
+"218",804,"Brasserie de Silly S.A.",1311393290,1.5,1.5,2.5,"Fruit / Vegetable Beer",1.5,1.5,"Pink Killer",5,21095
+"219",804,"Brasserie de Silly S.A.",1311372937,1,2,5,"Fruit / Vegetable Beer",4,1,"Pink Killer",5,21095
+"220",804,"Brasserie de Silly S.A.",1310050619,4,4.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Pink Killer",5,21095
+"221",804,"Brasserie de Silly S.A.",1302213222,3,3.5,5,"Fruit / Vegetable Beer",3.5,3,"Pink Killer",5,21095
+"222",804,"Brasserie de Silly S.A.",1298067351,1,1,2,"Fruit / Vegetable Beer",3,1,"Pink Killer",5,21095
+"223",804,"Brasserie de Silly S.A.",1296533182,1,3.5,2,"Fruit / Vegetable Beer",3,1,"Pink Killer",5,21095
+"224",804,"Brasserie de Silly S.A.",1295821074,2,2.5,2.5,"Fruit / Vegetable Beer",2.5,2,"Pink Killer",5,21095
+"225",804,"Brasserie de Silly S.A.",1286624523,2,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Pink Killer",5,21095
+"226",804,"Brasserie de Silly S.A.",1283911579,1,2.5,2,"Fruit / Vegetable Beer",1,1,"Pink Killer",5,21095
+"227",804,"Brasserie de Silly S.A.",1282884514,1,2.5,2.5,"Fruit / Vegetable Beer",2,1,"Pink Killer",5,21095
+"228",804,"Brasserie de Silly S.A.",1282598103,2,2.5,3,"Fruit / Vegetable Beer",3,1,"Pink Killer",5,21095
+"229",804,"Brasserie de Silly S.A.",1282016103,1.5,2,2,"Fruit / Vegetable Beer",2,1.5,"Pink Killer",5,21095
+"230",804,"Brasserie de Silly S.A.",1281971227,1,1,3,"Fruit / Vegetable Beer",1,1,"Pink Killer",5,21095
+"231",804,"Brasserie de Silly S.A.",1280168287,1,2,3,"Fruit / Vegetable Beer",2,1,"Pink Killer",5,21095
+"232",804,"Brasserie de Silly S.A.",1276526680,1,2,1,"Fruit / Vegetable Beer",2,1.5,"Pink Killer",5,21095
+"233",804,"Brasserie de Silly S.A.",1274326587,3,2.5,3,"Fruit / Vegetable Beer",3.5,3,"Pink Killer",5,21095
+"234",804,"Brasserie de Silly S.A.",1274162119,3,2,3.5,"Fruit / Vegetable Beer",2.5,2.5,"Pink Killer",5,21095
+"235",804,"Brasserie de Silly S.A.",1238655336,2.5,2,2.5,"Fruit / Vegetable Beer",3,2.5,"Pink Killer",5,21095
+"236",804,"Brasserie de Silly S.A.",1238508145,4,4.5,4,"Fruit / Vegetable Beer",4,4,"Pink Killer",5,21095
+"237",804,"Brasserie de Silly S.A.",1274035646,2,2.5,4,"Fruit / Vegetable Beer",3,2,"Pink Killer",5,21095
+"238",804,"Brasserie de Silly S.A.",1273972417,4.5,5,4,"Fruit / Vegetable Beer",4,4,"Pink Killer",5,21095
+"239",804,"Brasserie de Silly S.A.",1273737005,3,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Pink Killer",5,21095
+"240",804,"Brasserie de Silly S.A.",1272589483,2,3,3.5,"Fruit / Vegetable Beer",2,2.5,"Pink Killer",5,21095
+"241",804,"Brasserie de Silly S.A.",1271388843,1,1.5,3.5,"Fruit / Vegetable Beer",2.5,2,"Pink Killer",5,21095
+"242",804,"Brasserie de Silly S.A.",1268486449,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Pink Killer",5,21095
+"243",804,"Brasserie de Silly S.A.",1267107658,1,1,3,"Fruit / Vegetable Beer",2.5,2.5,"Pink Killer",5,21095
+"244",804,"Brasserie de Silly S.A.",1241673228,1.5,2,4,"Fruit / Vegetable Beer",3,2.5,"Pink Killer",5,21095
+"245",804,"Brasserie de Silly S.A.",1231475354,3,3,3,"Fruit / Vegetable Beer",3,3.5,"Pink Killer",5,21095
+"246",804,"Brasserie de Silly S.A.",1219147444,5,4,4.5,"Fruit / Vegetable Beer",4,4.5,"Pink Killer",5,21095
+"247",804,"Brasserie de Silly S.A.",1218474585,2,2.5,3.5,"Fruit / Vegetable Beer",3.5,2,"Pink Killer",5,21095
+"248",804,"Brasserie de Silly S.A.",1214451035,4.5,4,3,"Fruit / Vegetable Beer",3.5,4.5,"Pink Killer",5,21095
+"249",804,"Brasserie de Silly S.A.",1204693622,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Pink Killer",5,21095
+"250",804,"Brasserie de Silly S.A.",1176341606,4.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Pink Killer",5,21095
+"251",804,"Brasserie de Silly S.A.",1165909372,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Pink Killer",5,21095
+"252",804,"Brasserie de Silly S.A.",1159305452,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"Pink Killer",5,21095
+"253",804,"Brasserie de Silly S.A.",1156055316,4,4.5,3.5,"Fruit / Vegetable Beer",3,4,"Pink Killer",5,21095
+"254",804,"Brasserie de Silly S.A.",1154579787,4.5,5,3.5,"Fruit / Vegetable Beer",4.5,4.5,"Pink Killer",5,21095
+"255",804,"Brasserie de Silly S.A.",1140397127,3,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Pink Killer",5,21095
+"256",804,"Brasserie de Silly S.A.",1120001741,1,2,1.5,"Fruit / Vegetable Beer",2,1,"Pink Killer",5,21095
+"257",804,"Brasserie de Silly S.A.",1117885763,1,2,2.5,"Fruit / Vegetable Beer",2,1,"Pink Killer",5,21095
+"258",804,"Brasserie de Silly S.A.",1116025043,1,1,3,"Fruit / Vegetable Beer",1,1,"Pink Killer",5,21095
+"259",804,"Brasserie de Silly S.A.",1109961567,1,2,1,"Fruit / Vegetable Beer",1,1,"Pink Killer",5,21095
+"260",804,"Brasserie de Silly S.A.",1102804510,2.5,2.5,4,"Fruit / Vegetable Beer",3,2.5,"Pink Killer",5,21095
+"261",804,"Brasserie de Silly S.A.",1145100260,2.5,2.5,3,"Belgian Strong Dark Ale",2,3,"St. Christophe",8,8935
+"262",804,"Brasserie de Silly S.A.",1047569140,3.5,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"St. Christophe",8,8935
+"263",804,"Brasserie de Silly S.A.",1295770401,3.5,3.5,3.5,"Belgian Pale Ale",4,4,"Abbaye De Forest",6.5,42338
+"264",804,"Brasserie de Silly S.A.",1277614674,3.5,3.5,3.5,"Belgian Pale Ale",3.5,3.5,"Abbaye De Forest",6.5,42338
+"265",804,"Brasserie de Silly S.A.",1266870064,3,3.5,3.5,"Belgian Pale Ale",3,3.5,"Abbaye De Forest",6.5,42338
+"266",804,"Brasserie de Silly S.A.",1258306966,4,3.5,4,"Belgian Pale Ale",4.5,4,"Abbaye De Forest",6.5,42338
+"267",804,"Brasserie de Silly S.A.",1245413101,3.5,4,3.5,"Belgian Pale Ale",3,3.5,"Abbaye De Forest",6.5,42338
+"268",804,"Brasserie de Silly S.A.",1235592457,3,3.5,4,"Belgian Pale Ale",3,3,"Abbaye De Forest",6.5,42338
+"269",804,"Brasserie de Silly S.A.",1217203172,3.5,3,3.5,"Belgian Pale Ale",3,3.5,"Abbaye De Forest",6.5,42338
+"270",804,"Brasserie de Silly S.A.",1209195583,3,3,3.5,"Belgian Pale Ale",3.5,3,"Abbaye De Forest",6.5,42338
+"271",804,"Brasserie de Silly S.A.",1317477748,3,3,3.5,"Belgian Pale Ale",3,3,"Super 64",5.2,2496
+"272",804,"Brasserie de Silly S.A.",1299439677,3,3.5,4,"Belgian Pale Ale",3.5,3,"Super 64",5.2,2496
+"273",804,"Brasserie de Silly S.A.",1269727249,2.5,2.5,4,"Belgian Pale Ale",2.5,2.5,"Super 64",5.2,2496
+"274",804,"Brasserie de Silly S.A.",1202242563,4,4,4,"Belgian Pale Ale",4,4,"Super 64",5.2,2496
+"275",804,"Brasserie de Silly S.A.",1182386632,3,4,4,"Belgian Pale Ale",3,2.5,"Super 64",5.2,2496
+"276",804,"Brasserie de Silly S.A.",1150143606,2.5,3,3,"Belgian Pale Ale",2,2.5,"Super 64",5.2,2496
+"277",804,"Brasserie de Silly S.A.",1318637111,3.5,3.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"278",804,"Brasserie de Silly S.A.",1297162244,3.5,2.5,4,"Belgian Strong Pale Ale",3.5,3,"Double Enghien Blonde",7.5,2490
+"279",804,"Brasserie de Silly S.A.",1279312528,2.5,3.5,2.5,"Belgian Strong Pale Ale",3,3,"Double Enghien Blonde",7.5,2490
+"280",804,"Brasserie de Silly S.A.",1233024130,3,3,3,"Belgian Strong Pale Ale",3,3,"Double Enghien Blonde",7.5,2490
+"281",804,"Brasserie de Silly S.A.",1202235966,3,3.5,3.5,"Belgian Strong Pale Ale",2.5,3.5,"Double Enghien Blonde",7.5,2490
+"282",804,"Brasserie de Silly S.A.",1194720068,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,4,"Double Enghien Blonde",7.5,2490
+"283",804,"Brasserie de Silly S.A.",1172999157,4,4,3.5,"Belgian Strong Pale Ale",4.5,4,"Double Enghien Blonde",7.5,2490
+"284",804,"Brasserie de Silly S.A.",1162447503,3,4,4,"Belgian Strong Pale Ale",3.5,3,"Double Enghien Blonde",7.5,2490
+"285",804,"Brasserie de Silly S.A.",1168756917,3,3,4,"Belgian Strong Pale Ale",3,3,"La Divine Blond",7.5,31229
+"286",804,"Brasserie de Silly S.A.",1148189001,3,4,3.5,"Belgian Strong Pale Ale",3,3.5,"Double Enghien Blonde",7.5,2490
+"287",804,"Brasserie de Silly S.A.",1147767040,4,4,4,"Belgian Strong Pale Ale",4,4,"Double Enghien Blonde",7.5,2490
+"288",804,"Brasserie de Silly S.A.",1135344467,3.5,2,3.5,"Belgian Strong Pale Ale",3.5,3,"Double Enghien Blonde",7.5,2490
+"289",804,"Brasserie de Silly S.A.",1126710381,3.5,3,4,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"290",804,"Brasserie de Silly S.A.",1124346259,3,4,4.5,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"291",804,"Brasserie de Silly S.A.",1121729019,3,2.5,3.5,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"292",804,"Brasserie de Silly S.A.",1120128052,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Double Enghien Blonde",7.5,2490
+"293",804,"Brasserie de Silly S.A.",1110599117,3.5,4,3.5,"Belgian Strong Pale Ale",3.5,4,"Double Enghien Blonde",7.5,2490
+"294",804,"Brasserie de Silly S.A.",1281847217,4,4,3.5,"Belgian Strong Pale Ale",4,3.5,"La Divine Blond",7.5,31229
+"295",804,"Brasserie de Silly S.A.",1104387965,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"296",804,"Brasserie de Silly S.A.",1097068415,3,3,2.5,"Belgian Strong Pale Ale",4,3.5,"Double Enghien Blonde",7.5,2490
+"297",804,"Brasserie de Silly S.A.",1094954978,4,4,4.5,"Belgian Strong Pale Ale",4,4,"Double Enghien Blonde",7.5,2490
+"298",804,"Brasserie de Silly S.A.",1077424976,4,4,3.5,"Belgian Strong Pale Ale",3.5,3.5,"Double Enghien Blonde",7.5,2490
+"299",804,"Brasserie de Silly S.A.",1064197841,3,3,3,"Belgian Strong Pale Ale",4,3,"Double Enghien Blonde",7.5,2490
+"300",804,"Brasserie de Silly S.A.",1062609032,4,3.5,4,"Belgian Strong Pale Ale",3.5,3.5,"Double Enghien Blonde",7.5,2490
+"301",804,"Brasserie de Silly S.A.",1052762678,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"Double Enghien Blonde",7.5,2490
+"302",804,"Brasserie de Silly S.A.",1307921978,3,3.5,3,"Belgian Strong Pale Ale",3,3,"La Divine Blond",7.5,31229
+"303",804,"Brasserie de Silly S.A.",1179986575,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"La Divine Blond",7.5,31229
+"304",804,"Brasserie de Silly S.A.",1267403293,4,3.5,3.5,"Belgian Strong Pale Ale",3.5,3.5,"La Divine Blond",7.5,31229
+"305",804,"Brasserie de Silly S.A.",1265512686,3,3.5,4,"Belgian Strong Pale Ale",3,3.5,"La Divine Blond",7.5,31229
+"306",804,"Brasserie de Silly S.A.",1254841869,1.5,3.5,4,"Belgian Strong Pale Ale",3,2.5,"La Divine Blond",7.5,31229
+"307",804,"Brasserie de Silly S.A.",1243442103,4.5,4,4.5,"Belgian Strong Pale Ale",4.5,4,"La Divine Blond",7.5,31229
+"308",804,"Brasserie de Silly S.A.",1217027816,2.5,3,4.5,"Belgian Strong Pale Ale",4,3,"La Divine Blond",7.5,31229
+"309",804,"Brasserie de Silly S.A.",1204490298,2.5,3.5,4.5,"Belgian Strong Pale Ale",3.5,3,"La Divine Blond",7.5,31229
+"310",804,"Brasserie de Silly S.A.",1196960832,2,3.5,4.5,"Belgian Strong Pale Ale",3,1.5,"La Divine Blond",7.5,31229
+"311",804,"Brasserie de Silly S.A.",1169911657,3.5,4,4,"Belgian Strong Pale Ale",4,3.5,"La Divine Blond",7.5,31229
+"312",804,"Brasserie de Silly S.A.",1163125019,3.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"La Divine Blond",7.5,31229
+"313",804,"Brasserie de Silly S.A.",1160963070,2.5,4,3.5,"Belgian Strong Pale Ale",2.5,2.5,"La Divine Blond",7.5,31229
+"314",804,"Brasserie de Silly S.A.",1159513946,3,3,3.5,"Belgian Strong Pale Ale",3,3.5,"La Divine Blond",7.5,31229
+"315",804,"Brasserie de Silly S.A.",1157088665,3.5,3.5,4,"Belgian Strong Pale Ale",3,3.5,"La Divine Blond",7.5,31229
+"316",804,"Brasserie de Silly S.A.",1150871350,2.5,4,2.5,"Belgian Strong Pale Ale",4,2.5,"La Divine Blond",7.5,31229
+"317",804,"Brasserie de Silly S.A.",1302170131,3,3,2,"German Pilsener",3,2,"Silly Pils",5,2494
+"318",804,"Brasserie de Silly S.A.",1206725752,3,3,2.5,"German Pilsener",2.5,2.5,"Silly Pils",5,2494
+"319",804,"Brasserie de Silly S.A.",1116213922,2.5,3,3.5,"German Pilsener",2.5,3,"Silly Pils",5,2494
+"320",804,"Brasserie de Silly S.A.",1326009398,4,4,4,"Witbier",3.5,4.5,"Titje Blanche",4.7,2492
+"321",804,"Brasserie de Silly S.A.",1299739129,3.5,3.5,4,"Witbier",4,3.5,"Titje Blanche",4.7,2492
+"322",804,"Brasserie de Silly S.A.",1299205546,3,3.5,2,"Witbier",2,3.5,"Titje Blanche",4.7,2492
+"323",804,"Brasserie de Silly S.A.",1291914776,5,4,3.5,"Witbier",4.5,5,"Titje Blanche",4.7,2492
+"324",804,"Brasserie de Silly S.A.",1281989933,5,4,4,"Witbier",4,4,"Titje Blanche",4.7,2492
+"325",804,"Brasserie de Silly S.A.",1280389297,4,4,4,"Witbier",4,3.5,"Titje Blanche",4.7,2492
+"326",804,"Brasserie de Silly S.A.",1248853552,3,4,3.5,"Witbier",3,3,"Titje Blanche",4.7,2492
+"327",804,"Brasserie de Silly S.A.",1228644345,3.5,3.5,3.5,"Witbier",3.5,4,"Titje Blanche",4.7,2492
+"328",804,"Brasserie de Silly S.A.",1226130691,4,4,3.5,"Witbier",3.5,4.5,"Titje Blanche",4.7,2492
+"329",804,"Brasserie de Silly S.A.",1215953868,3.5,4,3,"Witbier",3.5,3.5,"Titje Blanche",4.7,2492
+"330",804,"Brasserie de Silly S.A.",1210916003,3.5,3.5,3,"Witbier",3.5,4,"Titje Blanche",4.7,2492
+"331",804,"Brasserie de Silly S.A.",1204806163,4,3,3,"Witbier",3,3,"Titje Blanche",4.7,2492
+"332",804,"Brasserie de Silly S.A.",1030881755,4,4,4,"Witbier",3.5,3,"Titje Blanche",4.7,2492
+"333",804,"Brasserie de Silly S.A.",1262608456,3.5,4,3,"Belgian Pale Ale",3,2.5,"Cervoise De L'Avouerie D'Anthisnes",5,26698
+"334",804,"Brasserie de Silly S.A.",1233511371,3.5,4,3.5,"Belgian Pale Ale",3,3.5,"Cervoise De L'Avouerie D'Anthisnes",5,26698
+"335",804,"Brasserie de Silly S.A.",1184366072,2,2.5,3,"Belgian Pale Ale",2,2,"Cervoise De L'Avouerie D'Anthisnes",5,26698
+"336",804,"Brasserie de Silly S.A.",1130860145,2.5,2.5,2.5,"Belgian Pale Ale",2.5,3,"Cervoise De L'Avouerie D'Anthisnes",5,26698
+"337",804,"Brasserie de Silly S.A.",1171347148,3,3.5,3,"Scotch Ale / Wee Heavy",4,2.5,"Scotch Silly",8,2489
+"338",804,"Brasserie de Silly S.A.",1169353906,4,3.5,3.5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"339",804,"Brasserie de Silly S.A.",1167755578,2.5,3.5,3.5,"Scotch Ale / Wee Heavy",2.5,3,"Scotch Silly",8,2489
+"340",804,"Brasserie de Silly S.A.",1166939438,4,3.5,5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"341",804,"Brasserie de Silly S.A.",1166863626,4,3,3.5,"Scotch Ale / Wee Heavy",4.5,3.5,"Scotch Silly",8,2489
+"342",804,"Brasserie de Silly S.A.",1166666422,3,4,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"343",804,"Brasserie de Silly S.A.",1165592629,3,3,3,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"344",804,"Brasserie de Silly S.A.",1155011526,3,4,4,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"345",804,"Brasserie de Silly S.A.",1164634894,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"346",804,"Brasserie de Silly S.A.",1162788944,3,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"347",804,"Brasserie de Silly S.A.",1162254428,3,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"348",804,"Brasserie de Silly S.A.",1160446255,3,4,4.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"349",804,"Brasserie de Silly S.A.",1160349380,3.5,3.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"350",804,"Brasserie de Silly S.A.",1158461917,2.5,2.5,4.5,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"351",804,"Brasserie de Silly S.A.",1157408449,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"352",804,"Brasserie de Silly S.A.",1157093165,2.5,3,3.5,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"353",804,"Brasserie de Silly S.A.",1156521604,3,4,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"354",804,"Brasserie de Silly S.A.",1131502380,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"355",804,"Brasserie de Silly S.A.",1154819774,2.5,3,3.5,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"356",804,"Brasserie de Silly S.A.",1153631704,5,5,4.5,"Scotch Ale / Wee Heavy",4,5,"Scotch Silly",8,2489
+"357",804,"Brasserie de Silly S.A.",1153546377,2,2.5,4.5,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"358",804,"Brasserie de Silly S.A.",1153097754,1,1.5,3,"Scotch Ale / Wee Heavy",1,1,"Scotch Silly",8,2489
+"359",804,"Brasserie de Silly S.A.",1152033606,3,3.5,3.5,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"360",804,"Brasserie de Silly S.A.",1151169558,3.5,3.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"361",804,"Brasserie de Silly S.A.",1150700956,3.5,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"362",804,"Brasserie de Silly S.A.",1149984296,4,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"363",804,"Brasserie de Silly S.A.",1149916223,3.5,3,3,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"364",804,"Brasserie de Silly S.A.",1146389733,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"365",804,"Brasserie de Silly S.A.",1130094132,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"366",804,"Brasserie de Silly S.A.",1145381305,3.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"367",804,"Brasserie de Silly S.A.",1144414143,3.5,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"368",804,"Brasserie de Silly S.A.",1141874271,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"369",804,"Brasserie de Silly S.A.",1141221089,4,4,3,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"370",804,"Brasserie de Silly S.A.",1138505988,3.5,3,3.5,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"371",804,"Brasserie de Silly S.A.",1137820223,3,4,2.5,"Scotch Ale / Wee Heavy",1.5,3,"Scotch Silly",8,2489
+"372",804,"Brasserie de Silly S.A.",1136766732,2.5,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"373",804,"Brasserie de Silly S.A.",1135373434,3,4,4,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"374",804,"Brasserie de Silly S.A.",1133810078,3.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"375",804,"Brasserie de Silly S.A.",1132624323,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"376",804,"Brasserie de Silly S.A.",1128979591,4,4,3,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"377",804,"Brasserie de Silly S.A.",1128915871,4,4.5,4.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"378",804,"Brasserie de Silly S.A.",1127106445,3.5,3.5,3,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"379",804,"Brasserie de Silly S.A.",1126927961,4,4,4.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"380",804,"Brasserie de Silly S.A.",1124078544,3,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"381",804,"Brasserie de Silly S.A.",1122923780,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"382",804,"Brasserie de Silly S.A.",1122355535,3.5,4,4.5,"Scotch Ale / Wee Heavy",4.5,3.5,"Scotch Silly",8,2489
+"383",804,"Brasserie de Silly S.A.",1122000018,4.5,4,4.5,"Scotch Ale / Wee Heavy",5,4,"Scotch Silly",8,2489
+"384",804,"Brasserie de Silly S.A.",1121740876,3,4.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"385",804,"Brasserie de Silly S.A.",1104563265,3,3.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"386",804,"Brasserie de Silly S.A.",1120891376,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"387",804,"Brasserie de Silly S.A.",1120599255,3.5,4,4,"Scotch Ale / Wee Heavy",3.5,4.5,"Scotch Silly",8,2489
+"388",804,"Brasserie de Silly S.A.",1120184187,3.5,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"389",804,"Brasserie de Silly S.A.",1119388832,4,4,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"390",804,"Brasserie de Silly S.A.",1117636922,3,3.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"391",804,"Brasserie de Silly S.A.",1113869817,4,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"392",804,"Brasserie de Silly S.A.",1110255253,3,3.5,4,"Scotch Ale / Wee Heavy",4.5,3.5,"Scotch Silly",8,2489
+"393",804,"Brasserie de Silly S.A.",1106340423,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"394",804,"Brasserie de Silly S.A.",1104848720,3,3.5,4,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"395",804,"Brasserie de Silly S.A.",1104713915,3,3.5,3.5,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"396",804,"Brasserie de Silly S.A.",1104478147,4.5,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"397",804,"Brasserie de Silly S.A.",1098321405,4,3.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"398",804,"Brasserie de Silly S.A.",1097461845,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"399",804,"Brasserie de Silly S.A.",1097329319,4.5,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"400",804,"Brasserie de Silly S.A.",1095211719,3.5,4.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"401",804,"Brasserie de Silly S.A.",1092740310,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"402",804,"Brasserie de Silly S.A.",1091412296,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"403",804,"Brasserie de Silly S.A.",1089843139,3.5,3.5,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"404",804,"Brasserie de Silly S.A.",1089624967,3,4,4,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"405",804,"Brasserie de Silly S.A.",1087144478,4,4,3.5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"406",804,"Brasserie de Silly S.A.",1083130091,3.5,3.5,4.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"407",804,"Brasserie de Silly S.A.",1081825938,4,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"408",804,"Brasserie de Silly S.A.",1077849496,3.5,4,4.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"409",804,"Brasserie de Silly S.A.",1077057154,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"410",804,"Brasserie de Silly S.A.",1076986446,3,5,4.5,"Scotch Ale / Wee Heavy",5,2.5,"Scotch Silly",8,2489
+"411",804,"Brasserie de Silly S.A.",1076875076,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,3.5,"Scotch Silly",8,2489
+"412",804,"Brasserie de Silly S.A.",1074586595,4.5,4.5,4.5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"413",804,"Brasserie de Silly S.A.",1069207933,4,3.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"414",804,"Brasserie de Silly S.A.",1066266157,4.5,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"415",804,"Brasserie de Silly S.A.",1065462262,4.5,3.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"416",804,"Brasserie de Silly S.A.",1064799755,4,4,5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"417",804,"Brasserie de Silly S.A.",1064112290,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"418",804,"Brasserie de Silly S.A.",1060829352,3.5,4,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"419",804,"Brasserie de Silly S.A.",1056493516,3.5,3,3,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"420",804,"Brasserie de Silly S.A.",1054669239,4.5,4,4,"Scotch Ale / Wee Heavy",3,4,"Scotch Silly",8,2489
+"421",804,"Brasserie de Silly S.A.",1053389907,3,2,4,"Scotch Ale / Wee Heavy",3.5,2.5,"Scotch Silly",8,2489
+"422",804,"Brasserie de Silly S.A.",1051684362,3.5,4.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"423",804,"Brasserie de Silly S.A.",1044114951,3.5,4,4,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"424",804,"Brasserie de Silly S.A.",1179888013,3,4,3.5,"Scotch Ale / Wee Heavy",3,2.5,"Scotch Silly",8,2489
+"425",804,"Brasserie de Silly S.A.",1043071159,4.5,4.5,4,"Scotch Ale / Wee Heavy",5,5,"Scotch Silly",8,2489
+"426",804,"Brasserie de Silly S.A.",1042216275,4.5,4.5,4.5,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"427",804,"Brasserie de Silly S.A.",1041955050,4,4.5,4,"Scotch Ale / Wee Heavy",3.5,4.5,"Scotch Silly",8,2489
+"428",804,"Brasserie de Silly S.A.",1041435989,5,5,5,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"429",804,"Brasserie de Silly S.A.",1040394001,3.5,4.5,3.5,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"430",804,"Brasserie de Silly S.A.",1039715115,3.5,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"431",804,"Brasserie de Silly S.A.",1037720514,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,5,"Scotch Silly",8,2489
+"432",804,"Brasserie de Silly S.A.",1036948496,3.5,3,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"433",804,"Brasserie de Silly S.A.",1036507509,4,4,4,"Scotch Ale / Wee Heavy",4.5,3.5,"Scotch Silly",8,2489
+"434",804,"Brasserie de Silly S.A.",1034252750,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"435",804,"Brasserie de Silly S.A.",1031659512,3.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"436",804,"Brasserie de Silly S.A.",1026149321,4,4.5,4.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"437",804,"Brasserie de Silly S.A.",1325702133,3.5,4,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"438",804,"Brasserie de Silly S.A.",1324437079,4,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"439",804,"Brasserie de Silly S.A.",1322330467,3,2.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"440",804,"Brasserie de Silly S.A.",1321326236,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"441",804,"Brasserie de Silly S.A.",1320805852,4.5,5,4.5,"Scotch Ale / Wee Heavy",4,5,"Scotch Silly",8,2489
+"442",804,"Brasserie de Silly S.A.",1319327812,4,4,3.5,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"443",804,"Brasserie de Silly S.A.",1313192576,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"444",804,"Brasserie de Silly S.A.",1310946940,4,4,4.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"445",804,"Brasserie de Silly S.A.",1179508021,3,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"446",804,"Brasserie de Silly S.A.",1310005004,4,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"447",804,"Brasserie de Silly S.A.",1307809963,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"448",804,"Brasserie de Silly S.A.",1306109645,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"449",804,"Brasserie de Silly S.A.",1300040626,3,3.5,4,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"450",804,"Brasserie de Silly S.A.",1299716919,3.5,4,3.5,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"451",804,"Brasserie de Silly S.A.",1298675662,1.5,2,4,"Scotch Ale / Wee Heavy",2.5,2,"Scotch Silly",8,2489
+"452",804,"Brasserie de Silly S.A.",1295160436,3,3.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Scotch Silly",8,2489
+"453",804,"Brasserie de Silly S.A.",1292653450,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"454",804,"Brasserie de Silly S.A.",1292541438,3.5,3.5,4.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"455",804,"Brasserie de Silly S.A.",1292368992,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"456",804,"Brasserie de Silly S.A.",1291925065,2,3.5,3.5,"Scotch Ale / Wee Heavy",3,1,"Scotch Silly",8,2489
+"457",804,"Brasserie de Silly S.A.",1290485188,3,3.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"458",804,"Brasserie de Silly S.A.",1287327659,3,3,3.5,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"459",804,"Brasserie de Silly S.A.",1284312488,4.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"460",804,"Brasserie de Silly S.A.",1283295959,4,3,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"461",804,"Brasserie de Silly S.A.",1282654966,2,3,4,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"462",804,"Brasserie de Silly S.A.",1282487429,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"463",804,"Brasserie de Silly S.A.",1282266901,3,3.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"464",804,"Brasserie de Silly S.A.",1281644748,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"465",804,"Brasserie de Silly S.A.",1280454987,4,3.5,3.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"466",804,"Brasserie de Silly S.A.",1258084939,2,3.5,2,"Scotch Ale / Wee Heavy",3,2,"Scotch Silly",8,2489
+"467",804,"Brasserie de Silly S.A.",1278815296,3.5,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"468",804,"Brasserie de Silly S.A.",1275188667,4,3,2.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"469",804,"Brasserie de Silly S.A.",1274735980,2,3,4.5,"Scotch Ale / Wee Heavy",3.5,2.5,"Scotch Silly",8,2489
+"470",804,"Brasserie de Silly S.A.",1271545520,2.5,3,4.5,"Scotch Ale / Wee Heavy",3.5,2.5,"Scotch Silly",8,2489
+"471",804,"Brasserie de Silly S.A.",1269642844,3,3,4,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"472",804,"Brasserie de Silly S.A.",1265591803,2,3,3.5,"Scotch Ale / Wee Heavy",2,2,"Scotch Silly",8,2489
+"473",804,"Brasserie de Silly S.A.",1263968871,3,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"474",804,"Brasserie de Silly S.A.",1259634587,3.5,3.5,4,"Scotch Ale / Wee Heavy",3,3,"Scotch Silly",8,2489
+"475",804,"Brasserie de Silly S.A.",1259282568,1.5,3,4.5,"Scotch Ale / Wee Heavy",1.5,1,"Scotch Silly",8,2489
+"476",804,"Brasserie de Silly S.A.",1255921684,2.5,4,3.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"477",804,"Brasserie de Silly S.A.",1252204634,1.5,3,3.5,"Scotch Ale / Wee Heavy",3,1.5,"Scotch Silly",8,2489
+"478",804,"Brasserie de Silly S.A.",1249306027,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"479",804,"Brasserie de Silly S.A.",1244848658,4,3.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"480",804,"Brasserie de Silly S.A.",1243040408,2.5,4,4,"Scotch Ale / Wee Heavy",2,2.5,"Scotch Silly",8,2489
+"481",804,"Brasserie de Silly S.A.",1241928978,3,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"482",804,"Brasserie de Silly S.A.",1241503719,3.5,4,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"483",804,"Brasserie de Silly S.A.",1239195422,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"484",804,"Brasserie de Silly S.A.",1235101851,3,3.5,4,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"485",804,"Brasserie de Silly S.A.",1234156164,3,4,4,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"486",804,"Brasserie de Silly S.A.",1233967242,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"487",804,"Brasserie de Silly S.A.",1233519945,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"488",804,"Brasserie de Silly S.A.",1233094506,4.5,4,4.5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"489",804,"Brasserie de Silly S.A.",1231367214,4,4.5,3.5,"Scotch Ale / Wee Heavy",3.5,4.5,"Scotch Silly",8,2489
+"490",804,"Brasserie de Silly S.A.",1230423091,4.5,4,5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"491",804,"Brasserie de Silly S.A.",1228641114,4,3.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"492",804,"Brasserie de Silly S.A.",1226944118,3,3,4,"Scotch Ale / Wee Heavy",3.5,3,"Scotch Silly",8,2489
+"493",804,"Brasserie de Silly S.A.",1226451414,3.5,3.5,4.5,"Scotch Ale / Wee Heavy",2.5,4,"Scotch Silly",8,2489
+"494",804,"Brasserie de Silly S.A.",1225777887,4,4,5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"495",804,"Brasserie de Silly S.A.",1225050665,3,3,4,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"496",804,"Brasserie de Silly S.A.",1224474052,3,3.5,3.5,"Scotch Ale / Wee Heavy",4,3,"Scotch Silly",8,2489
+"497",804,"Brasserie de Silly S.A.",1223497973,4.5,4,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"498",804,"Brasserie de Silly S.A.",1222438917,4,3.5,4.5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"499",804,"Brasserie de Silly S.A.",1222392363,4,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"500",804,"Brasserie de Silly S.A.",1220303824,2.5,3,4,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"501",804,"Brasserie de Silly S.A.",1218304356,3.5,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"502",804,"Brasserie de Silly S.A.",1212727300,3.5,3.5,4,"Scotch Ale / Wee Heavy",3,4,"Scotch Silly",8,2489
+"503",804,"Brasserie de Silly S.A.",1207127652,3,4.5,4,"Scotch Ale / Wee Heavy",3.5,2.5,"Scotch Silly",8,2489
+"504",804,"Brasserie de Silly S.A.",1206236128,4,4.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"505",804,"Brasserie de Silly S.A.",1205800312,4,4.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Scotch Silly",8,2489
+"506",804,"Brasserie de Silly S.A.",1203724680,3,4,4,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"507",804,"Brasserie de Silly S.A.",1203395632,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Scotch Silly",8,2489
+"508",804,"Brasserie de Silly S.A.",1202288596,4.5,4,4.5,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"509",804,"Brasserie de Silly S.A.",1201588451,4,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Scotch Silly",8,2489
+"510",804,"Brasserie de Silly S.A.",1200436478,3,3,4,"Scotch Ale / Wee Heavy",2.5,3.5,"Scotch Silly",8,2489
+"511",804,"Brasserie de Silly S.A.",1199584333,2,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"512",804,"Brasserie de Silly S.A.",1197900442,5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,4.5,"Scotch Silly",8,2489
+"513",804,"Brasserie de Silly S.A.",1181375408,2,3.5,4,"Scotch Ale / Wee Heavy",3,2.5,"Scotch Silly",8,2489
+"514",804,"Brasserie de Silly S.A.",1194743428,2.5,2,4.5,"Scotch Ale / Wee Heavy",2.5,1.5,"Scotch Silly",8,2489
+"515",804,"Brasserie de Silly S.A.",1193803497,3.5,4,5,"Scotch Ale / Wee Heavy",4,3.5,"Scotch Silly",8,2489
+"516",804,"Brasserie de Silly S.A.",1192420471,4,3.5,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"517",804,"Brasserie de Silly S.A.",1187747307,4.5,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Scotch Silly",8,2489
+"518",804,"Brasserie de Silly S.A.",1186577253,2.5,2.5,3,"Scotch Ale / Wee Heavy",2.5,2.5,"Scotch Silly",8,2489
+"519",804,"Brasserie de Silly S.A.",1186331812,4.5,3.5,4.5,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"520",804,"Brasserie de Silly S.A.",1186109859,2,3,2,"Scotch Ale / Wee Heavy",3,1.5,"Scotch Silly",8,2489
+"521",804,"Brasserie de Silly S.A.",1183942754,4.5,3,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Scotch Silly",8,2489
+"522",804,"Brasserie de Silly S.A.",1177098215,4,4,4,"Scotch Ale / Wee Heavy",4.5,5,"Scotch Silly",8,2489
+"523",804,"Brasserie de Silly S.A.",1174993008,3,4,4,"Scotch Ale / Wee Heavy",4.5,4,"Scotch Silly",8,2489
+"524",804,"Brasserie de Silly S.A.",1145216174,4,4.5,4.5,"Belgian Strong Pale Ale",4.5,4.5,"Printemps De Silly",6.5,17757
+"525",804,"Brasserie de Silly S.A.",1142826731,3.5,3.5,4,"Belgian Strong Pale Ale",4,3.5,"Printemps De Silly",6.5,17757
+"526",804,"Brasserie de Silly S.A.",1114377301,3.5,4,4.5,"Belgian Strong Pale Ale",3.5,4,"Printemps De Silly",6.5,17757
+"527",804,"Brasserie de Silly S.A.",1100884198,3.5,3.5,4.5,"Belgian Strong Pale Ale",3.5,4,"Printemps De Silly",6.5,17757
+"528",804,"Brasserie de Silly S.A.",1099346103,4,4,5,"Belgian Strong Pale Ale",3.5,4,"Printemps De Silly",6.5,17757
+"529",804,"Brasserie de Silly S.A.",1086121015,4.5,3,4.5,"Belgian Strong Pale Ale",4,3.5,"Printemps De Silly",6.5,17757

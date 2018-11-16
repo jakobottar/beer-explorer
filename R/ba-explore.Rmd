@@ -32,7 +32,7 @@ colnames(ba_raw) # the variables:
 Let's get rid of some of those extra variables that we don't care about
 
 ```{r import2}
-ba <- select(ba_raw, -c(brewery_id, review_time, review_profilename))
+ba <- select(ba_raw, -c(review_profilename))
 knitr::kable(head(ba))
 ```
 
@@ -100,6 +100,7 @@ by_beer <- ba %>%
   group_by(beer_name) %>%
   summarize(beer_id = beer_beerid[1],
             brewery_name = brewery_name[1],
+            brewery_id = brewery_id[1],
             beer_style = beer_style[1],
             beer_abv = beer_abv[1],
             mean_overall = mean(review_overall),
@@ -120,7 +121,8 @@ After grouping reviews of the same beer, and removing beers with <5 reviews, we 
 ```{r byBreweryGrouping, cache = TRUE}
 by_brewery <- ba %>%
   group_by(brewery_name) %>%
-  summarize(beers = jsonlite::toJSON(unique(beer_name)), 
+  summarize(brewery_id = brewery_id[1],
+            beers = jsonlite::toJSON(unique(beer_name)), 
             beers_id = jsonlite::toJSON(as.character(unique(beer_beerid))), 
             n_beers = length(unique(beer_name)),
             mean_overall = mean(review_overall),
@@ -137,3 +139,11 @@ knitr::kable(sample_n(by_brewery, 10))
 ```
 
 After grouping reviews from beers at the same brewery, and removing breweries with <5 beers, we are now down to `r nrow(by_brewery)` observations and `r ncol(by_brewery)` variables. 
+
+
+In this we will split the original `ba` dataset by brewery and write each to a csv. This will allow for easier and faster loading on the webpage. 
+
+```{r csv_split, cache = TRUE}
+ba %>% group_by(brewery_name) %>%
+  do(write.csv(., sprintf("data/breweries/%s.csv", .$brewery_id[1])))
+```

@@ -1,0 +1,898 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",9,"Whitbread PLC",1038820376,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"2",9,"Whitbread PLC",1038731360,2,3,4.5,"Milk / Sweet Stout",2.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"3",9,"Whitbread PLC",1022777266,2.5,3,4,"Milk / Sweet Stout",2.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"4",9,"Whitbread PLC",1001426219,3,4,5,"Milk / Sweet Stout",3,1,"Mackeson Triple XXX Stout",4.9,19
+"5",9,"Whitbread PLC",993253662,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"6",9,"Whitbread PLC",1129596421,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"7",9,"Whitbread PLC",1234331147,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"8",9,"Whitbread PLC",1185296066,4,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"9",9,"Whitbread PLC",1170314174,4.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"10",9,"Whitbread PLC",1094345343,5,4,4,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"11",9,"Whitbread PLC",1099250185,3.5,3,3,"English Dark Mild Ale",3,3,"Whitbread Best Mild",2.6,20360
+"12",9,"Whitbread PLC",1097952305,4,3.5,3.5,"English Dark Mild Ale",4,3.5,"Whitbread Best Mild",2.6,20360
+"13",9,"Whitbread PLC",1239843199,4.5,4,4,"English Barleywine",4,5,"Whitbread Celebration Ale",NA,49174
+"14",9,"Whitbread PLC",1294432276,4.5,4.5,3,"English Barleywine",4,4.5,"Roger & Out",16.9,65126
+"15",9,"Whitbread PLC",1205992071,3.5,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"16",9,"Whitbread PLC",1205799530,4.5,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"17",9,"Whitbread PLC",1205700234,4,4.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"18",9,"Whitbread PLC",1205462256,3.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"19",9,"Whitbread PLC",1205454614,2,3.5,2.5,"Milk / Sweet Stout",2,3,"Mackeson Triple XXX Stout",4.9,19
+"20",9,"Whitbread PLC",1205286801,4,3,4.5,"Milk / Sweet Stout",4,3,"Mackeson Triple XXX Stout",4.9,19
+"21",9,"Whitbread PLC",1205210504,4,3,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"22",9,"Whitbread PLC",1205106573,3.5,3,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"23",9,"Whitbread PLC",1204653548,4.5,4,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"24",9,"Whitbread PLC",1204603823,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"25",9,"Whitbread PLC",1204549948,4.5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"26",9,"Whitbread PLC",1204238171,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"27",9,"Whitbread PLC",1204186341,5,4.5,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"28",9,"Whitbread PLC",1200671143,4.5,5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"29",9,"Whitbread PLC",1204134750,4.5,4,4,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"30",9,"Whitbread PLC",1204107421,4.5,4,4,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"31",9,"Whitbread PLC",1203780255,4,4.5,3,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"32",9,"Whitbread PLC",1203725106,4.5,4.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"33",9,"Whitbread PLC",1203604878,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"34",9,"Whitbread PLC",1203473736,5,4,4.5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"35",9,"Whitbread PLC",1203472495,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"36",9,"Whitbread PLC",1202957473,3.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"37",9,"Whitbread PLC",1193217643,3.5,3.5,3.5,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"38",9,"Whitbread PLC",1202086001,4,3.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"39",9,"Whitbread PLC",1202082345,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"40",9,"Whitbread PLC",1201920866,4.5,5,4,"Milk / Sweet Stout",3.5,5,"Mackeson Triple XXX Stout",4.9,19
+"41",9,"Whitbread PLC",1201691696,4,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"42",9,"Whitbread PLC",1201646921,3,3.5,3.5,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"43",9,"Whitbread PLC",1201613347,3,3,4,"Milk / Sweet Stout",4,3,"Mackeson Triple XXX Stout",4.9,19
+"44",9,"Whitbread PLC",1201577977,4,4,3.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"45",9,"Whitbread PLC",1201497190,4,4,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"46",9,"Whitbread PLC",1201149288,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"47",9,"Whitbread PLC",1201030857,4,3,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"48",9,"Whitbread PLC",1200778783,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"49",9,"Whitbread PLC",1200455615,3.5,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"50",9,"Whitbread PLC",1200196454,4.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"51",9,"Whitbread PLC",1200098928,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"52",9,"Whitbread PLC",1199866539,5,4.5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"53",9,"Whitbread PLC",1199812109,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"54",9,"Whitbread PLC",1199760367,3,4,3.5,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"55",9,"Whitbread PLC",1199590559,4,3,5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"56",9,"Whitbread PLC",1199238014,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"57",9,"Whitbread PLC",1198987444,4.5,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"58",9,"Whitbread PLC",1198753297,4,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"59",9,"Whitbread PLC",1198445269,4.5,3,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"60",9,"Whitbread PLC",1198219517,4.5,4.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"61",9,"Whitbread PLC",1198027271,3,3,4,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"62",9,"Whitbread PLC",1196816666,4.5,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"63",9,"Whitbread PLC",1196707706,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"64",9,"Whitbread PLC",1196580311,4,4,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"65",9,"Whitbread PLC",1196132496,4.5,5,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"66",9,"Whitbread PLC",1196053957,4.5,4.5,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"67",9,"Whitbread PLC",1196047724,4.5,4.5,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"68",9,"Whitbread PLC",1195133827,3.5,4,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"69",9,"Whitbread PLC",1195078415,3.5,4,3,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"70",9,"Whitbread PLC",1194934273,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"71",9,"Whitbread PLC",1194812546,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"72",9,"Whitbread PLC",1194148917,4.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"73",9,"Whitbread PLC",1193948307,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"74",9,"Whitbread PLC",1193811113,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"75",9,"Whitbread PLC",1193795349,4.5,3.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"76",9,"Whitbread PLC",1193614917,2,4,4,"Milk / Sweet Stout",2.5,2,"Mackeson Triple XXX Stout",4.9,19
+"77",9,"Whitbread PLC",1193589710,4,4,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"78",9,"Whitbread PLC",1193363897,3.5,4,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"79",9,"Whitbread PLC",1192881096,3,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"80",9,"Whitbread PLC",1192496614,3.5,3.5,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"81",9,"Whitbread PLC",1192254715,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"82",9,"Whitbread PLC",1192061889,3.5,3,4,"Milk / Sweet Stout",4.5,3,"Mackeson Triple XXX Stout",4.9,19
+"83",9,"Whitbread PLC",1192044296,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"84",9,"Whitbread PLC",1191864230,3.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"85",9,"Whitbread PLC",1191709203,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"86",9,"Whitbread PLC",1191699809,5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"87",9,"Whitbread PLC",1191619113,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"88",9,"Whitbread PLC",1191472585,4,4.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"89",9,"Whitbread PLC",1190255071,4.5,4,3,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"90",9,"Whitbread PLC",1189995823,4,3.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"91",9,"Whitbread PLC",1189049729,3.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"92",9,"Whitbread PLC",1189047230,3.5,4.5,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"93",9,"Whitbread PLC",1188845129,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"94",9,"Whitbread PLC",1187449348,2.5,3,3.5,"Milk / Sweet Stout",3,2.5,"Mackeson Triple XXX Stout",4.9,19
+"95",9,"Whitbread PLC",1186965018,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"96",9,"Whitbread PLC",1186539322,5,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"97",9,"Whitbread PLC",1185744596,5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"98",9,"Whitbread PLC",1184786387,2.5,4,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"99",9,"Whitbread PLC",1184552465,4,3,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"100",9,"Whitbread PLC",1184487883,4,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"101",9,"Whitbread PLC",1184030198,4.5,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"102",9,"Whitbread PLC",1183683680,3,3.5,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"103",9,"Whitbread PLC",1183671041,4.5,4,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"104",9,"Whitbread PLC",1183669724,4,4,3.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"105",9,"Whitbread PLC",1183319554,4,4,3,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"106",9,"Whitbread PLC",1183260923,4,4,5,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"107",9,"Whitbread PLC",1183168613,3.5,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"108",9,"Whitbread PLC",1060148624,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"109",9,"Whitbread PLC",1182909034,4,2,4,"Milk / Sweet Stout",4,3,"Mackeson Triple XXX Stout",4.9,19
+"110",9,"Whitbread PLC",1182111583,2.5,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"111",9,"Whitbread PLC",1182098759,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"112",9,"Whitbread PLC",1182027520,3.5,5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"113",9,"Whitbread PLC",1181543952,3.5,4.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"114",9,"Whitbread PLC",1181017537,3.5,4,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"115",9,"Whitbread PLC",1322195205,3.5,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"116",9,"Whitbread PLC",1309028021,4,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"117",9,"Whitbread PLC",1297307911,4,3.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"118",9,"Whitbread PLC",1294962814,4.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"119",9,"Whitbread PLC",1292663612,4,4.5,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"120",9,"Whitbread PLC",1290124758,4,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"121",9,"Whitbread PLC",1289245554,2.5,2.5,2,"Milk / Sweet Stout",2,2.5,"Mackeson Triple XXX Stout",4.9,19
+"122",9,"Whitbread PLC",1273890963,2.5,4,5,"Milk / Sweet Stout",3,2.5,"Mackeson Triple XXX Stout",4.9,19
+"123",9,"Whitbread PLC",1272935275,2.5,3,3.5,"Milk / Sweet Stout",3,2.5,"Mackeson Triple XXX Stout",4.9,19
+"124",9,"Whitbread PLC",1272309307,3.5,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"125",9,"Whitbread PLC",1181001597,4,3.5,3,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"126",9,"Whitbread PLC",1180292407,3.5,5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"127",9,"Whitbread PLC",1180141935,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"128",9,"Whitbread PLC",1179169134,3,2,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"129",9,"Whitbread PLC",1096577638,3.5,2.5,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"130",9,"Whitbread PLC",1179111065,4,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"131",9,"Whitbread PLC",1179015391,3,3,3,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"132",9,"Whitbread PLC",1178920173,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"133",9,"Whitbread PLC",1178595597,3.5,4,2.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"134",9,"Whitbread PLC",1177712327,4,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"135",9,"Whitbread PLC",1177031935,3.5,3.5,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"136",9,"Whitbread PLC",1176585592,4.5,3.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"137",9,"Whitbread PLC",1176338278,4.5,4,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"138",9,"Whitbread PLC",1176015153,3.5,3.5,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"139",9,"Whitbread PLC",1175731993,3.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"140",9,"Whitbread PLC",1175717765,4.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"141",9,"Whitbread PLC",1174696806,3.5,4.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"142",9,"Whitbread PLC",1174495102,4,3.5,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"143",9,"Whitbread PLC",1174269149,4.5,4,4,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"144",9,"Whitbread PLC",1174187806,3.5,3,3,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"145",9,"Whitbread PLC",1173137506,4.5,4,3.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"146",9,"Whitbread PLC",1172800086,4,4,3.5,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"147",9,"Whitbread PLC",1172009646,4,3,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"148",9,"Whitbread PLC",1170291568,4,4,3.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"149",9,"Whitbread PLC",1171839746,5,4,4,"Milk / Sweet Stout",3,4.5,"Mackeson Triple XXX Stout",4.9,19
+"150",9,"Whitbread PLC",1171763050,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"151",9,"Whitbread PLC",1171429130,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"152",9,"Whitbread PLC",1171340953,4,5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"153",9,"Whitbread PLC",1171139326,4,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"154",9,"Whitbread PLC",1170380950,4,3.5,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"155",9,"Whitbread PLC",1180499802,4.5,4.5,4,"English Pale Ale",4.5,4,"Whitbread Pale Ale",5.7,1860
+"156",9,"Whitbread PLC",1170221176,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"157",9,"Whitbread PLC",1170044148,4.5,3.5,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"158",9,"Whitbread PLC",1170034081,4,3.5,4.5,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"159",9,"Whitbread PLC",1169863140,4,4.5,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"160",9,"Whitbread PLC",1169848848,3,4.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"161",9,"Whitbread PLC",1169779654,4.5,3,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"162",9,"Whitbread PLC",1169610420,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"163",9,"Whitbread PLC",1169421358,3.5,3.5,5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"164",9,"Whitbread PLC",1169262934,4,4,2.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"165",9,"Whitbread PLC",1169255142,3.5,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"166",9,"Whitbread PLC",1168461985,4,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"167",9,"Whitbread PLC",1168145133,4,3.5,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"168",9,"Whitbread PLC",1167974559,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"169",9,"Whitbread PLC",1167713676,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"170",9,"Whitbread PLC",1167173023,3.5,4,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"171",9,"Whitbread PLC",1166799049,2,3.5,4,"Milk / Sweet Stout",3,2,"Mackeson Triple XXX Stout",4.9,19
+"172",9,"Whitbread PLC",1166751421,3.5,4,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"173",9,"Whitbread PLC",1166634591,5,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"174",9,"Whitbread PLC",1166598604,3,4,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"175",9,"Whitbread PLC",1166473316,3.5,3.5,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"176",9,"Whitbread PLC",1165953985,4.5,4,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"177",9,"Whitbread PLC",1254428495,4,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"178",9,"Whitbread PLC",1164590785,5,4.5,4,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"179",9,"Whitbread PLC",1163871451,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"180",9,"Whitbread PLC",1163205069,4.5,4,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"181",9,"Whitbread PLC",1163079071,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"182",9,"Whitbread PLC",1162765712,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"183",9,"Whitbread PLC",1162610037,3,3.5,3.5,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"184",9,"Whitbread PLC",1162506682,4,4.5,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"185",9,"Whitbread PLC",1162343468,3,3.5,4,"Milk / Sweet Stout",3,2,"Mackeson Triple XXX Stout",4.9,19
+"186",9,"Whitbread PLC",1162331227,5,4,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"187",9,"Whitbread PLC",1161804661,4.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"188",9,"Whitbread PLC",1161570285,4.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"189",9,"Whitbread PLC",1161242636,4.5,3.5,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"190",9,"Whitbread PLC",1160789480,4.5,4.5,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"191",9,"Whitbread PLC",1160786766,4,3.5,3.5,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"192",9,"Whitbread PLC",1160428206,4,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"193",9,"Whitbread PLC",1160339872,3,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"194",9,"Whitbread PLC",1160092489,4.5,4.5,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"195",9,"Whitbread PLC",1160091989,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"196",9,"Whitbread PLC",1159746434,4,5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"197",9,"Whitbread PLC",1159315460,4.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"198",9,"Whitbread PLC",1158124606,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"199",9,"Whitbread PLC",1157854802,4,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"200",9,"Whitbread PLC",1157751017,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"201",9,"Whitbread PLC",1157509699,5,4.5,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"202",9,"Whitbread PLC",1157329125,4,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"203",9,"Whitbread PLC",1157066224,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"204",9,"Whitbread PLC",1156349499,3,4,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"205",9,"Whitbread PLC",1156297999,3.5,4,3,"Milk / Sweet Stout",5,4,"Mackeson Triple XXX Stout",4.9,19
+"206",9,"Whitbread PLC",1156218096,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"207",9,"Whitbread PLC",1155874347,4,4,4,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"208",9,"Whitbread PLC",1155435045,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"209",9,"Whitbread PLC",1155217333,5,5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"210",9,"Whitbread PLC",1155184385,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"211",9,"Whitbread PLC",1155171686,4,3.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"212",9,"Whitbread PLC",1155171613,4,4.5,5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"213",9,"Whitbread PLC",1154982339,4,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"214",9,"Whitbread PLC",1154931037,3.5,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"215",9,"Whitbread PLC",1154846566,4.5,4,3,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"216",9,"Whitbread PLC",1153599197,4,4,3.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"217",9,"Whitbread PLC",1152581558,4.5,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"218",9,"Whitbread PLC",1152322558,4.5,4,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"219",9,"Whitbread PLC",1152145570,3.5,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"220",9,"Whitbread PLC",1151728402,4,4,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"221",9,"Whitbread PLC",1149903328,4,2,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"222",9,"Whitbread PLC",1149813179,4,3.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"223",9,"Whitbread PLC",1149710920,4.5,4.5,4.5,"Milk / Sweet Stout",3,5,"Mackeson Triple XXX Stout",4.9,19
+"224",9,"Whitbread PLC",1149271898,3.5,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"225",9,"Whitbread PLC",1149140108,4,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"226",9,"Whitbread PLC",1148188278,4.5,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"227",9,"Whitbread PLC",1257198530,4.5,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"228",9,"Whitbread PLC",1255582046,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"229",9,"Whitbread PLC",1251844859,5,5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"230",9,"Whitbread PLC",1250478918,3.5,4,4,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"231",9,"Whitbread PLC",1249585996,4,5,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"232",9,"Whitbread PLC",1243723115,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"233",9,"Whitbread PLC",1243644230,4,4,4.5,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"234",9,"Whitbread PLC",1243298154,3.5,4,4,"Milk / Sweet Stout",4,3,"Mackeson Triple XXX Stout",4.9,19
+"235",9,"Whitbread PLC",1237594578,4,4.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"236",9,"Whitbread PLC",1147697549,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"237",9,"Whitbread PLC",1144901668,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"238",9,"Whitbread PLC",1096309106,3.5,3.5,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"239",9,"Whitbread PLC",1147379829,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"240",9,"Whitbread PLC",1146538224,5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"241",9,"Whitbread PLC",1146087953,4.5,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"242",9,"Whitbread PLC",1145679713,4.5,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"243",9,"Whitbread PLC",1145493985,4,3.5,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"244",9,"Whitbread PLC",1145148208,3.5,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"245",9,"Whitbread PLC",1144968934,5,4.5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"246",9,"Whitbread PLC",1144172731,4,4,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"247",9,"Whitbread PLC",1143881496,3.5,4,4,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"248",9,"Whitbread PLC",1143718075,3.5,3.5,4.5,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"249",9,"Whitbread PLC",1143586760,4.5,4.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"250",9,"Whitbread PLC",1143467198,5,4.5,5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"251",9,"Whitbread PLC",1143312211,4,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"252",9,"Whitbread PLC",1143024850,4,4,3.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"253",9,"Whitbread PLC",1142910698,4.5,4.5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"254",9,"Whitbread PLC",1142902507,3,3.5,3,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"255",9,"Whitbread PLC",1138925240,4.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"256",9,"Whitbread PLC",1142479779,4,4,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"257",9,"Whitbread PLC",1142051642,3.5,3.5,2.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"258",9,"Whitbread PLC",1141880820,3,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"259",9,"Whitbread PLC",1141707519,4.5,4,5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"260",9,"Whitbread PLC",1141685527,4,4,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"261",9,"Whitbread PLC",1141431056,4,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"262",9,"Whitbread PLC",1141353079,3,3.5,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"263",9,"Whitbread PLC",1141255136,3.5,4.5,4,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"264",9,"Whitbread PLC",1140967886,3,3,3,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"265",9,"Whitbread PLC",1140928555,4.5,3.5,4,"Milk / Sweet Stout",5,4,"Mackeson Triple XXX Stout",4.9,19
+"266",9,"Whitbread PLC",1140472767,4,2,4,"Milk / Sweet Stout",2.5,4,"Mackeson Triple XXX Stout",4.9,19
+"267",9,"Whitbread PLC",1140300755,4.5,3,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"268",9,"Whitbread PLC",1139720826,3.5,3.5,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"269",9,"Whitbread PLC",1139633550,2.5,4.5,4.5,"Milk / Sweet Stout",4,2.5,"Mackeson Triple XXX Stout",4.9,19
+"270",9,"Whitbread PLC",1139628983,3.5,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"271",9,"Whitbread PLC",1139442244,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"272",9,"Whitbread PLC",1139289353,4.5,3,5,"Milk / Sweet Stout",5,4,"Mackeson Triple XXX Stout",4.9,19
+"273",9,"Whitbread PLC",1138653265,4.5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"274",9,"Whitbread PLC",1138481693,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"275",9,"Whitbread PLC",1138467773,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"276",9,"Whitbread PLC",1138413988,4,4,3,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"277",9,"Whitbread PLC",1138133874,2.5,3,4,"Milk / Sweet Stout",2.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"278",9,"Whitbread PLC",1138063506,3.5,3,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"279",9,"Whitbread PLC",1138002724,4.5,5,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"280",9,"Whitbread PLC",1130540122,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"281",9,"Whitbread PLC",1137805916,3,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"282",9,"Whitbread PLC",1137468607,5,4,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"283",9,"Whitbread PLC",1137356481,4,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"284",9,"Whitbread PLC",1137043719,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"285",9,"Whitbread PLC",1136829309,5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"286",9,"Whitbread PLC",1136684126,4.5,5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"287",9,"Whitbread PLC",1136426630,3.5,4,4.5,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"288",9,"Whitbread PLC",1135353403,3,4,4,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"289",9,"Whitbread PLC",1135211644,4.5,5,4,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"290",9,"Whitbread PLC",1134683995,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"291",9,"Whitbread PLC",1134447045,4,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"292",9,"Whitbread PLC",1133400806,4,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"293",9,"Whitbread PLC",1133395471,4,4.5,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"294",9,"Whitbread PLC",1132790588,4,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"295",9,"Whitbread PLC",1132521355,5,4.5,5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"296",9,"Whitbread PLC",1132115768,4,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"297",9,"Whitbread PLC",1131931856,3.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"298",9,"Whitbread PLC",1131764467,4,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"299",9,"Whitbread PLC",1131670121,4.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"300",9,"Whitbread PLC",1131327113,3.5,4,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"301",9,"Whitbread PLC",1128716900,4,4,4,"Milk / Sweet Stout",2.5,3,"Mackeson Triple XXX Stout",4.9,19
+"302",9,"Whitbread PLC",1128652994,4,3.5,3.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"303",9,"Whitbread PLC",1128642227,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"304",9,"Whitbread PLC",1128565176,3,4,4.5,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"305",9,"Whitbread PLC",1128094816,4.5,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"306",9,"Whitbread PLC",1127940924,4,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"307",9,"Whitbread PLC",1127840268,4.5,4,2.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"308",9,"Whitbread PLC",1127715544,3.5,4,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"309",9,"Whitbread PLC",1127598103,3.5,3.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"310",9,"Whitbread PLC",1127557005,4,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"311",9,"Whitbread PLC",1126935469,3.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"312",9,"Whitbread PLC",1126470879,4,3,3,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"313",9,"Whitbread PLC",1125497703,4,3,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"314",9,"Whitbread PLC",1125361186,3.5,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"315",9,"Whitbread PLC",1124940801,4,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"316",9,"Whitbread PLC",1124763065,4,4.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"317",9,"Whitbread PLC",1124610288,4.5,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"318",9,"Whitbread PLC",1124589520,4,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"319",9,"Whitbread PLC",1124381400,4,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"320",9,"Whitbread PLC",1124167954,4,4,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"321",9,"Whitbread PLC",1123902262,5,4,3.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"322",9,"Whitbread PLC",1120377427,4,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"323",9,"Whitbread PLC",1120175030,4.5,4,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"324",9,"Whitbread PLC",1119940104,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"325",9,"Whitbread PLC",1119813127,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"326",9,"Whitbread PLC",1119654183,3.5,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"327",9,"Whitbread PLC",1118986845,4.5,4,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"328",9,"Whitbread PLC",1117822344,3.5,3,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"329",9,"Whitbread PLC",1117352118,4,3.5,4.5,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"330",9,"Whitbread PLC",1117127610,4,4,5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"331",9,"Whitbread PLC",1116760683,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"332",9,"Whitbread PLC",1115083846,3.5,3,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"333",9,"Whitbread PLC",1114750872,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"334",9,"Whitbread PLC",1114735622,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"335",9,"Whitbread PLC",1114724464,5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"336",9,"Whitbread PLC",1237584767,4.5,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"337",9,"Whitbread PLC",1236319382,4,3.5,3,"Milk / Sweet Stout",3,4.5,"Mackeson Triple XXX Stout",4.9,19
+"338",9,"Whitbread PLC",1234060891,4.5,3,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"339",9,"Whitbread PLC",1233723352,4.5,4.5,3,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"340",9,"Whitbread PLC",1232995837,3.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"341",9,"Whitbread PLC",1232605107,5,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"342",9,"Whitbread PLC",1231890047,4.5,4,3.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"343",9,"Whitbread PLC",1230181761,4.5,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"344",9,"Whitbread PLC",1229791010,3.5,4.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"345",9,"Whitbread PLC",1114480763,3,4.5,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"346",9,"Whitbread PLC",1113775909,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"347",9,"Whitbread PLC",1113444037,4,4,4,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"348",9,"Whitbread PLC",1113026704,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"349",9,"Whitbread PLC",1112463748,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"350",9,"Whitbread PLC",1112144298,4,4.5,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"351",9,"Whitbread PLC",1111111477,3,4,4,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"352",9,"Whitbread PLC",1110601034,5,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"353",9,"Whitbread PLC",1110080599,4.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"354",9,"Whitbread PLC",1109454916,3.5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"355",9,"Whitbread PLC",1108318591,3.5,3.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"356",9,"Whitbread PLC",1107747739,3.5,4.5,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"357",9,"Whitbread PLC",1107399039,4.5,4.5,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"358",9,"Whitbread PLC",1107315990,3.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"359",9,"Whitbread PLC",1107224907,4.5,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"360",9,"Whitbread PLC",1106413687,5,4.5,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"361",9,"Whitbread PLC",1106352290,4,3.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"362",9,"Whitbread PLC",1105930138,4.5,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"363",9,"Whitbread PLC",1105676222,4.5,4.5,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"364",9,"Whitbread PLC",1105507464,4.5,5,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"365",9,"Whitbread PLC",1105320912,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"366",9,"Whitbread PLC",1105298681,4,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"367",9,"Whitbread PLC",1104108776,4,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"368",9,"Whitbread PLC",1103669859,3,4.5,4,"Milk / Sweet Stout",3,2.5,"Mackeson Triple XXX Stout",4.9,19
+"369",9,"Whitbread PLC",1103412373,3.5,4,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"370",9,"Whitbread PLC",1103036756,3.5,2.5,3,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"371",9,"Whitbread PLC",1101333333,4,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"372",9,"Whitbread PLC",1100578188,4.5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"373",9,"Whitbread PLC",1099703159,3.5,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"374",9,"Whitbread PLC",1099201265,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"375",9,"Whitbread PLC",1098852874,3.5,4,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"376",9,"Whitbread PLC",1098728840,2,3,4,"Milk / Sweet Stout",3,1,"Mackeson Triple XXX Stout",4.9,19
+"377",9,"Whitbread PLC",1098409769,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"378",9,"Whitbread PLC",1097532085,4.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"379",9,"Whitbread PLC",1097515915,3.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"380",9,"Whitbread PLC",1097055765,3.5,3,3.5,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"381",9,"Whitbread PLC",1096938685,3,4.5,3,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"382",9,"Whitbread PLC",1096564844,4,3,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"383",9,"Whitbread PLC",1096255273,3.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"384",9,"Whitbread PLC",1096079375,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"385",9,"Whitbread PLC",1095643184,4,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"386",9,"Whitbread PLC",1094354570,4,4,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"387",9,"Whitbread PLC",1094316387,4.5,4.5,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"388",9,"Whitbread PLC",1094008532,3,3.5,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"389",9,"Whitbread PLC",1093329616,5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"390",9,"Whitbread PLC",1093288405,5,5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"391",9,"Whitbread PLC",1092749780,4.5,4,5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"392",9,"Whitbread PLC",1092199015,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"393",9,"Whitbread PLC",1092195656,4,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"394",9,"Whitbread PLC",1091756237,4.5,4,5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"395",9,"Whitbread PLC",1091590981,4,4,3.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"396",9,"Whitbread PLC",1091565935,3,4.5,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"397",9,"Whitbread PLC",1090984532,4,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"398",9,"Whitbread PLC",1090789876,4.5,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"399",9,"Whitbread PLC",1090304172,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"400",9,"Whitbread PLC",1089949307,4,4,5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"401",9,"Whitbread PLC",1088702839,5,4.5,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"402",9,"Whitbread PLC",1088110473,4.5,5,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"403",9,"Whitbread PLC",1087964474,3,3,4,"Milk / Sweet Stout",3.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"404",9,"Whitbread PLC",1087011940,4,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"405",9,"Whitbread PLC",1086557441,4,4.5,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"406",9,"Whitbread PLC",1086289253,3.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"407",9,"Whitbread PLC",1085414613,4,4,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"408",9,"Whitbread PLC",1085127383,4,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"409",9,"Whitbread PLC",1085018567,4,4,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"410",9,"Whitbread PLC",1084878544,4,4.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"411",9,"Whitbread PLC",1084496558,4.5,4,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"412",9,"Whitbread PLC",1083941999,4.5,4.5,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"413",9,"Whitbread PLC",1083271576,4,4.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"414",9,"Whitbread PLC",1082594968,4,4.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"415",9,"Whitbread PLC",1082428158,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"416",9,"Whitbread PLC",1082053871,4.5,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"417",9,"Whitbread PLC",1061235824,3,3.5,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"418",9,"Whitbread PLC",1081717639,4.5,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"419",9,"Whitbread PLC",1081038518,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"420",9,"Whitbread PLC",1080616280,4,3.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"421",9,"Whitbread PLC",1080446286,4.5,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"422",9,"Whitbread PLC",1079782237,3.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"423",9,"Whitbread PLC",1079646550,3.5,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"424",9,"Whitbread PLC",1079070451,5,5,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"425",9,"Whitbread PLC",1078701160,5,4.5,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"426",9,"Whitbread PLC",1078529166,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"427",9,"Whitbread PLC",1074490947,2.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"428",9,"Whitbread PLC",1077422851,3,4,4,"Milk / Sweet Stout",2.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"429",9,"Whitbread PLC",1077174720,3.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"430",9,"Whitbread PLC",1076690447,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"431",9,"Whitbread PLC",1075915634,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"432",9,"Whitbread PLC",1075745199,2.5,3.5,3.5,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"433",9,"Whitbread PLC",1075701637,5,4,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"434",9,"Whitbread PLC",1075591459,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"435",9,"Whitbread PLC",1075590746,4.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"436",9,"Whitbread PLC",1074816555,4.5,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"437",9,"Whitbread PLC",1074136153,4,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"438",9,"Whitbread PLC",1073785063,4.5,4,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"439",9,"Whitbread PLC",1073513204,4.5,4,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"440",9,"Whitbread PLC",1072914672,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"441",9,"Whitbread PLC",1072797302,4.5,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"442",9,"Whitbread PLC",1071714473,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"443",9,"Whitbread PLC",1071671095,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"444",9,"Whitbread PLC",1071462586,3.5,4,3,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"445",9,"Whitbread PLC",1229409369,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"446",9,"Whitbread PLC",1229296205,4.5,4,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"447",9,"Whitbread PLC",1229025595,3,3,3.5,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"448",9,"Whitbread PLC",1063112537,2.5,3.5,4,"Milk / Sweet Stout",2.5,2.5,"Mackeson Triple XXX Stout",4.9,19
+"449",9,"Whitbread PLC",1228021892,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"450",9,"Whitbread PLC",1228011398,5,4,5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"451",9,"Whitbread PLC",1227493681,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"452",9,"Whitbread PLC",1226940208,3.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"453",9,"Whitbread PLC",1226642022,4,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"454",9,"Whitbread PLC",1225686578,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"455",9,"Whitbread PLC",1225479100,5,4.5,4,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"456",9,"Whitbread PLC",1070467515,4.5,4.5,4.5,"Milk / Sweet Stout",3.5,5,"Mackeson Triple XXX Stout",4.9,19
+"457",9,"Whitbread PLC",1070268538,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"458",9,"Whitbread PLC",1062763205,4.5,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"459",9,"Whitbread PLC",1069821705,4.5,4.5,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"460",9,"Whitbread PLC",1069721918,5,5,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"461",9,"Whitbread PLC",1069571226,4,4,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"462",9,"Whitbread PLC",1069472227,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"463",9,"Whitbread PLC",1068422154,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"464",9,"Whitbread PLC",1067980735,3.5,4.5,5,"Milk / Sweet Stout",5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"465",9,"Whitbread PLC",1067751600,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"466",9,"Whitbread PLC",1067360791,3.5,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"467",9,"Whitbread PLC",1067208910,4.5,4,3.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"468",9,"Whitbread PLC",1062548707,5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"469",9,"Whitbread PLC",1066931987,4,4,4.5,"Milk / Sweet Stout",3.5,5,"Mackeson Triple XXX Stout",4.9,19
+"470",9,"Whitbread PLC",1066882832,4.5,3.5,3.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"471",9,"Whitbread PLC",1066862917,3,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"472",9,"Whitbread PLC",1066089245,4.5,4,3.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"473",9,"Whitbread PLC",1065666048,4.5,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"474",9,"Whitbread PLC",1065499619,4,4,4.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"475",9,"Whitbread PLC",1065050859,4,3.5,4,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"476",9,"Whitbread PLC",1064001447,4,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"477",9,"Whitbread PLC",1063245245,4,4.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"478",9,"Whitbread PLC",1063241383,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"479",9,"Whitbread PLC",1058204478,4,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"480",9,"Whitbread PLC",1057728860,4.5,5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"481",9,"Whitbread PLC",1056917077,3.5,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"482",9,"Whitbread PLC",1055532792,2.5,4,4.5,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"483",9,"Whitbread PLC",1055099812,4,4,4.5,"Milk / Sweet Stout",3,4.5,"Mackeson Triple XXX Stout",4.9,19
+"484",9,"Whitbread PLC",1054889489,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"485",9,"Whitbread PLC",1054304284,4.5,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"486",9,"Whitbread PLC",1054120957,4.5,4,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"487",9,"Whitbread PLC",1052938257,4.5,4,5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"488",9,"Whitbread PLC",1052643372,3,3.5,4,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"489",9,"Whitbread PLC",1052344220,5,5,4,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"490",9,"Whitbread PLC",1051204122,4,3.5,3.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"491",9,"Whitbread PLC",1049985832,4,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"492",9,"Whitbread PLC",1049835629,5,5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"493",9,"Whitbread PLC",1049490408,5,5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"494",9,"Whitbread PLC",1049152070,4,4,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"495",9,"Whitbread PLC",1048791733,4.5,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"496",9,"Whitbread PLC",1048619975,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"497",9,"Whitbread PLC",1048590332,3,2.5,2.5,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"498",9,"Whitbread PLC",1048175398,4,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"499",9,"Whitbread PLC",1044648836,4.5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"500",9,"Whitbread PLC",1048158860,5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"501",9,"Whitbread PLC",1046806538,4.5,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"502",9,"Whitbread PLC",1046412436,3.5,3.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"503",9,"Whitbread PLC",1046206515,4,4,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"504",9,"Whitbread PLC",1045336311,4,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"505",9,"Whitbread PLC",1045328397,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"506",9,"Whitbread PLC",1045113654,4.5,4.5,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"507",9,"Whitbread PLC",1045073620,3.5,4,4.5,"Milk / Sweet Stout",4.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"508",9,"Whitbread PLC",1040158966,3.5,3,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"509",9,"Whitbread PLC",1044280857,3,3.5,4.5,"Milk / Sweet Stout",3.5,3,"Mackeson Triple XXX Stout",4.9,19
+"510",9,"Whitbread PLC",1044216758,3,4,3,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"511",9,"Whitbread PLC",1044101662,4.5,4,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"512",9,"Whitbread PLC",1043405770,3,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"513",9,"Whitbread PLC",1042701274,5,4.5,5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"514",9,"Whitbread PLC",1042052799,3.5,3.5,3.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"515",9,"Whitbread PLC",1041752348,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"516",9,"Whitbread PLC",1041426584,2,3,3,"Milk / Sweet Stout",2.5,3,"Mackeson Triple XXX Stout",4.9,19
+"517",9,"Whitbread PLC",1041282936,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"518",9,"Whitbread PLC",1040473672,4,4.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"519",9,"Whitbread PLC",1037612207,4.5,5,4,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"520",9,"Whitbread PLC",1035924071,4.5,4,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"521",9,"Whitbread PLC",1035454088,4,4,3.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"522",9,"Whitbread PLC",1033554273,3.5,3.5,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"523",9,"Whitbread PLC",1033541936,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"524",9,"Whitbread PLC",1031686062,4,4,4,"Milk / Sweet Stout",3,4,"Mackeson Triple XXX Stout",4.9,19
+"525",9,"Whitbread PLC",1030987228,4.5,4,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"526",9,"Whitbread PLC",1029281264,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"527",9,"Whitbread PLC",1028879120,4,4,4,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"528",9,"Whitbread PLC",1028125631,4.5,4.5,4.5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"529",9,"Whitbread PLC",1024163905,4,4,4.5,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"530",9,"Whitbread PLC",1023863142,4,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"531",9,"Whitbread PLC",1023543153,4,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"532",9,"Whitbread PLC",1022697682,3.5,4,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"533",9,"Whitbread PLC",1021887904,3,4,3,"Milk / Sweet Stout",5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"534",9,"Whitbread PLC",1021656153,4.5,4,4.5,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"535",9,"Whitbread PLC",1021576425,4.5,5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"536",9,"Whitbread PLC",1018894537,5,5,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"537",9,"Whitbread PLC",1018510607,4.5,4,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"538",9,"Whitbread PLC",1017175295,4,4.5,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"539",9,"Whitbread PLC",1015208204,4,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"540",9,"Whitbread PLC",1013680194,4.5,4,5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"541",9,"Whitbread PLC",1013590947,4.5,4.5,4.5,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"542",9,"Whitbread PLC",1009503353,5,4,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"543",9,"Whitbread PLC",1005914081,5,5,4.5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"544",9,"Whitbread PLC",1005562150,4,4,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"545",9,"Whitbread PLC",1005507635,5,4,5,"Milk / Sweet Stout",5,5,"Mackeson Triple XXX Stout",4.9,19
+"546",9,"Whitbread PLC",1004832499,5,4,5,"Milk / Sweet Stout",4,5,"Mackeson Triple XXX Stout",4.9,19
+"547",9,"Whitbread PLC",1003865723,3,3,4,"Milk / Sweet Stout",4,3,"Mackeson Triple XXX Stout",4.9,19
+"548",9,"Whitbread PLC",888883201,4,4.5,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"549",9,"Whitbread PLC",1225338680,4,4,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"550",9,"Whitbread PLC",1224802868,4.5,4,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"551",9,"Whitbread PLC",1224424237,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"552",9,"Whitbread PLC",1224389407,4,3.5,4,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"553",9,"Whitbread PLC",1223613515,2.5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"554",9,"Whitbread PLC",1223611570,5,4.5,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"555",9,"Whitbread PLC",1223177078,3,3.5,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"556",9,"Whitbread PLC",1223085986,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"557",9,"Whitbread PLC",1222906688,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"558",9,"Whitbread PLC",1221948629,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"559",9,"Whitbread PLC",1048073368,3.5,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"560",9,"Whitbread PLC",1221435091,4.5,4.5,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"561",9,"Whitbread PLC",1220711350,4,4.5,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"562",9,"Whitbread PLC",1220601839,3,3.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"563",9,"Whitbread PLC",1220318242,3,3.5,4,"Milk / Sweet Stout",3,3.5,"Mackeson Triple XXX Stout",4.9,19
+"564",9,"Whitbread PLC",1218757552,4,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"565",9,"Whitbread PLC",1218067277,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"566",9,"Whitbread PLC",1217884598,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"567",9,"Whitbread PLC",1217551927,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"568",9,"Whitbread PLC",1217359520,4,3,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"569",9,"Whitbread PLC",1185649300,3.5,3.5,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"570",9,"Whitbread PLC",1217304738,4,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"571",9,"Whitbread PLC",1217221645,4.5,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"572",9,"Whitbread PLC",1216406530,4,3.5,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"573",9,"Whitbread PLC",1215577677,4.5,4,4,"Milk / Sweet Stout",5,4,"Mackeson Triple XXX Stout",4.9,19
+"574",9,"Whitbread PLC",1215543957,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"575",9,"Whitbread PLC",1215330068,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"576",9,"Whitbread PLC",1213683005,4.5,5,5,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"577",9,"Whitbread PLC",1213059995,4.5,3.5,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"578",9,"Whitbread PLC",1212643263,4,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Triple XXX Stout",4.9,19
+"579",9,"Whitbread PLC",1212461518,4.5,4,4.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"580",9,"Whitbread PLC",1212142548,4,4.5,3.5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"581",9,"Whitbread PLC",1212037580,4,4,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"582",9,"Whitbread PLC",1211825194,4,3.5,3.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"583",9,"Whitbread PLC",1211150902,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"584",9,"Whitbread PLC",1210903591,3.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"585",9,"Whitbread PLC",1210462589,4,4.5,4.5,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"586",9,"Whitbread PLC",1210302966,3.5,4,4,"Milk / Sweet Stout",3.5,4,"Mackeson Triple XXX Stout",4.9,19
+"587",9,"Whitbread PLC",1209788984,4,4.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Triple XXX Stout",4.9,19
+"588",9,"Whitbread PLC",1209768233,4,4,4.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"589",9,"Whitbread PLC",1209614765,4,4.5,4,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"590",9,"Whitbread PLC",1209509241,4,5,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"591",9,"Whitbread PLC",1208492883,4.5,4.5,4,"Milk / Sweet Stout",5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"592",9,"Whitbread PLC",1207966319,3,4,5,"Milk / Sweet Stout",4,4.5,"Mackeson Triple XXX Stout",4.9,19
+"593",9,"Whitbread PLC",1207096882,4,4,5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"594",9,"Whitbread PLC",1207025797,3.5,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"595",9,"Whitbread PLC",1206926228,3.5,4,4,"Milk / Sweet Stout",3,3,"Mackeson Triple XXX Stout",4.9,19
+"596",9,"Whitbread PLC",1206922837,3.5,4,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Triple XXX Stout",4.9,19
+"597",9,"Whitbread PLC",1206761286,4.5,3.5,3.5,"Milk / Sweet Stout",3.5,4.5,"Mackeson Triple XXX Stout",4.9,19
+"598",9,"Whitbread PLC",1206716435,4,4,4.5,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"599",9,"Whitbread PLC",1206316839,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Triple XXX Stout",4.9,19
+"600",9,"Whitbread PLC",1206167575,4.5,4.5,3,"Milk / Sweet Stout",4.5,5,"Mackeson Triple XXX Stout",4.9,19
+"601",9,"Whitbread PLC",1312285093,2.5,2.5,3,"English Bitter",3,3,"Whitbread Best Bitter",NA,4086
+"602",9,"Whitbread PLC",1240166699,3.5,3,3.5,"English Bitter",3,2.5,"Whitbread Best Bitter",NA,4086
+"603",9,"Whitbread PLC",1023794419,2,2.5,3,"English Bitter",2.5,2.5,"Whitbread Best Bitter",NA,4086
+"604",9,"Whitbread PLC",1318198557,4.5,3.5,4,"Milk / Sweet Stout",3.5,4,"Mackeson Stout",3,17237
+"605",9,"Whitbread PLC",1310864941,4,3,4,"Milk / Sweet Stout",3.5,4,"Mackeson Stout",3,17237
+"606",9,"Whitbread PLC",1297264400,3.5,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"607",9,"Whitbread PLC",1267492361,4,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"608",9,"Whitbread PLC",1247938182,3,4,3.5,"Milk / Sweet Stout",3,3.5,"Mackeson Stout",3,17237
+"609",9,"Whitbread PLC",1235065573,3.5,2.5,5,"Milk / Sweet Stout",4,4,"Mackeson Stout",3,17237
+"610",9,"Whitbread PLC",1225566399,3.5,4,3.5,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"611",9,"Whitbread PLC",1218637316,3.5,4,2.5,"Milk / Sweet Stout",2.5,3.5,"Mackeson Stout",3,17237
+"612",9,"Whitbread PLC",1188937916,4,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"613",9,"Whitbread PLC",1182867246,3.5,3.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Stout",3,17237
+"614",9,"Whitbread PLC",1179451974,4,4,4,"Milk / Sweet Stout",3.5,4.5,"Mackeson Stout",3,17237
+"615",9,"Whitbread PLC",1175439115,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Mackeson Stout",3,17237
+"616",9,"Whitbread PLC",1171294686,2.5,3.5,4,"Milk / Sweet Stout",4,3.5,"Mackeson Stout",3,17237
+"617",9,"Whitbread PLC",1159447161,3.5,3.5,4.5,"Milk / Sweet Stout",4.5,3.5,"Mackeson Stout",3,17237
+"618",9,"Whitbread PLC",1157593557,4,3.5,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"619",9,"Whitbread PLC",1157039631,4,4,4,"Milk / Sweet Stout",4,4,"Mackeson Stout",3,17237
+"620",9,"Whitbread PLC",1155252484,2,4,3.5,"Milk / Sweet Stout",3,2.5,"Mackeson Stout",3,17237
+"621",9,"Whitbread PLC",1145439665,4,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Stout",3,17237
+"622",9,"Whitbread PLC",1143422170,5,4.5,3.5,"Milk / Sweet Stout",4,3.5,"Mackeson Stout",3,17237
+"623",9,"Whitbread PLC",1136297356,3.5,4,4.5,"Milk / Sweet Stout",4.5,4,"Mackeson Stout",3,17237
+"624",9,"Whitbread PLC",1133492561,3.5,3,4,"Milk / Sweet Stout",3.5,3.5,"Mackeson Stout",3,17237
+"625",9,"Whitbread PLC",1113509502,3.5,3.5,4,"Milk / Sweet Stout",4,4,"Mackeson Stout",3,17237
+"626",9,"Whitbread PLC",1095166949,2,3.5,4,"Milk / Sweet Stout",3,2.5,"Mackeson Stout",3,17237
+"627",9,"Whitbread PLC",1092051281,3,2.5,4,"Milk / Sweet Stout",4,3,"Mackeson Stout",3,17237
+"628",9,"Whitbread PLC",1082760197,3,3,3.5,"Milk / Sweet Stout",3.5,2.5,"Mackeson Stout",3,17237
+"629",9,"Whitbread PLC",1182880801,2.5,2,3.5,"English Pale Ale",2,2.5,"Whitbread Pale Ale",5.7,1860
+"630",9,"Whitbread PLC",1182609003,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"631",9,"Whitbread PLC",1180574184,4.5,4,4,"English Pale Ale",4.5,4,"Whitbread Pale Ale",5.7,1860
+"632",9,"Whitbread PLC",1180315817,4,3.5,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"633",9,"Whitbread PLC",1179520558,4,3,3.5,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"634",9,"Whitbread PLC",1179331465,3.5,3,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"635",9,"Whitbread PLC",1179299043,4.5,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"636",9,"Whitbread PLC",1178676810,1,2.5,2.5,"English Pale Ale",1,1,"Whitbread Pale Ale",5.7,1860
+"637",9,"Whitbread PLC",1175740985,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"638",9,"Whitbread PLC",1175638614,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"639",9,"Whitbread PLC",1175361341,3,2.5,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"640",9,"Whitbread PLC",1174960708,5,2.5,3,"English Pale Ale",5,4,"Whitbread Pale Ale",5.7,1860
+"641",9,"Whitbread PLC",1174857236,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"642",9,"Whitbread PLC",1166157255,2.5,3,3.5,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"643",9,"Whitbread PLC",1173239286,2,4,3.5,"English Pale Ale",2.5,1.5,"Whitbread Pale Ale",5.7,1860
+"644",9,"Whitbread PLC",1171345407,3,3.5,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"645",9,"Whitbread PLC",1170981159,2.5,2,3,"English Pale Ale",2.5,2,"Whitbread Pale Ale",5.7,1860
+"646",9,"Whitbread PLC",1170809457,1.5,2,3.5,"English Pale Ale",4,1.5,"Whitbread Pale Ale",5.7,1860
+"647",9,"Whitbread PLC",1169608631,3,2,3.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"648",9,"Whitbread PLC",1169437569,1,3,3.5,"English Pale Ale",2.5,1.5,"Whitbread Pale Ale",5.7,1860
+"649",9,"Whitbread PLC",1167284689,3,3,2.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"650",9,"Whitbread PLC",1166827642,4,3.5,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"651",9,"Whitbread PLC",1166436556,4,4,3.5,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"652",9,"Whitbread PLC",1166338363,2,3,3.5,"English Pale Ale",2.5,2,"Whitbread Pale Ale",5.7,1860
+"653",9,"Whitbread PLC",1166250352,4.5,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"654",9,"Whitbread PLC",1163915787,4,3.5,4,"English Pale Ale",4.5,4.5,"Whitbread Pale Ale",5.7,1860
+"655",9,"Whitbread PLC",1163536907,4,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"656",9,"Whitbread PLC",1163468336,3.5,3,4,"English Pale Ale",3,4,"Whitbread Pale Ale",5.7,1860
+"657",9,"Whitbread PLC",1163448978,3.5,3,3,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"658",9,"Whitbread PLC",1161920928,3,2.5,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"659",9,"Whitbread PLC",1160609993,4,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"660",9,"Whitbread PLC",1158622280,4.5,3.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"661",9,"Whitbread PLC",1158542063,3,3.5,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"662",9,"Whitbread PLC",1156810970,2.5,2.5,4.5,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"663",9,"Whitbread PLC",1156194064,3.5,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"664",9,"Whitbread PLC",1155870089,2.5,3.5,4,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"665",9,"Whitbread PLC",1185124803,3,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"666",9,"Whitbread PLC",1155353833,4,3,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"667",9,"Whitbread PLC",1154129376,3,3,3.5,"English Pale Ale",2.5,3.5,"Whitbread Pale Ale",5.7,1860
+"668",9,"Whitbread PLC",1151877380,3,3,3.5,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"669",9,"Whitbread PLC",1147823226,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"670",9,"Whitbread PLC",1147645625,4,3.5,3,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"671",9,"Whitbread PLC",1145464846,4,4,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"672",9,"Whitbread PLC",1145399555,2.5,2.5,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"673",9,"Whitbread PLC",1144864264,3,3.5,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"674",9,"Whitbread PLC",1143960291,3.5,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"675",9,"Whitbread PLC",1143314137,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"676",9,"Whitbread PLC",1142972693,4,2.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"677",9,"Whitbread PLC",1142552414,3.5,2.5,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"678",9,"Whitbread PLC",1142476936,3.5,4,4,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"679",9,"Whitbread PLC",1140745010,2,2,2.5,"English Pale Ale",3.5,2,"Whitbread Pale Ale",5.7,1860
+"680",9,"Whitbread PLC",1140413729,3.5,3,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"681",9,"Whitbread PLC",1139977352,3,4,3,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"682",9,"Whitbread PLC",1139023961,4,3,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"683",9,"Whitbread PLC",1138207591,4,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"684",9,"Whitbread PLC",1137456913,4,3.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"685",9,"Whitbread PLC",1135727416,4,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"686",9,"Whitbread PLC",1135116940,3.5,4.5,3.5,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"687",9,"Whitbread PLC",1112844869,1,2,3.5,"English Pale Ale",1,1,"Whitbread Pale Ale",5.7,1860
+"688",9,"Whitbread PLC",1133848206,1,2,2.5,"English Pale Ale",1.5,2,"Whitbread Pale Ale",5.7,1860
+"689",9,"Whitbread PLC",1133414534,3,2.5,3.5,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"690",9,"Whitbread PLC",1131581291,3,3,4.5,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"691",9,"Whitbread PLC",1130729286,3,3,4.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"692",9,"Whitbread PLC",1129503057,3,2,3,"English Pale Ale",2.5,3.5,"Whitbread Pale Ale",5.7,1860
+"693",9,"Whitbread PLC",1128900313,4.5,4.5,4,"English Pale Ale",4.5,4.5,"Whitbread Pale Ale",5.7,1860
+"694",9,"Whitbread PLC",1128642181,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"695",9,"Whitbread PLC",1128353250,4,3,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"696",9,"Whitbread PLC",1125613795,2.5,3,4,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"697",9,"Whitbread PLC",1125095526,3,3.5,5,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"698",9,"Whitbread PLC",1125026310,3,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"699",9,"Whitbread PLC",1123089749,3.5,4,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"700",9,"Whitbread PLC",1123034454,3.5,3.5,5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"701",9,"Whitbread PLC",1121486128,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"702",9,"Whitbread PLC",1116461723,3.5,3,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"703",9,"Whitbread PLC",1115959885,4,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"704",9,"Whitbread PLC",1113777830,3,3.5,3,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"705",9,"Whitbread PLC",1113186245,3.5,3,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"706",9,"Whitbread PLC",1110435527,3.5,4.5,3,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"707",9,"Whitbread PLC",1108953580,4,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"708",9,"Whitbread PLC",1106967652,3,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"709",9,"Whitbread PLC",1105324098,2,3,4.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"710",9,"Whitbread PLC",1105092100,2.5,2.5,3.5,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"711",9,"Whitbread PLC",1102210457,3,3.5,3.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"712",9,"Whitbread PLC",1100631965,3.5,3,4,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"713",9,"Whitbread PLC",1099433980,3.5,3,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"714",9,"Whitbread PLC",1099167455,4,4.5,4,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"715",9,"Whitbread PLC",1098342000,2.5,2,3,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"716",9,"Whitbread PLC",1097990250,4,3.5,4.5,"English Pale Ale",3.5,2.5,"Whitbread Pale Ale",5.7,1860
+"717",9,"Whitbread PLC",1097635411,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"718",9,"Whitbread PLC",1096017993,3,3,3.5,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"719",9,"Whitbread PLC",1092237355,3,3,3.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"720",9,"Whitbread PLC",1091253897,1.5,2.5,3.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"721",9,"Whitbread PLC",1091239460,4,4.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"722",9,"Whitbread PLC",1090984408,4,4,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"723",9,"Whitbread PLC",1089947711,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"724",9,"Whitbread PLC",1088127402,2.5,3,3,"English Pale Ale",3.5,2.5,"Whitbread Pale Ale",5.7,1860
+"725",9,"Whitbread PLC",1087796727,3.5,3,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"726",9,"Whitbread PLC",1087426376,3.5,4,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"727",9,"Whitbread PLC",1317764282,1.5,2.5,3,"English Pale Ale",1,1.5,"Whitbread Pale Ale",5.7,1860
+"728",9,"Whitbread PLC",1312437910,3,3,4.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"729",9,"Whitbread PLC",1302662274,4,4.5,4,"English Pale Ale",3,4.5,"Whitbread Pale Ale",5.7,1860
+"730",9,"Whitbread PLC",1261710579,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"731",9,"Whitbread PLC",1257375452,3,3.5,3,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"732",9,"Whitbread PLC",1255184185,3.5,1.5,5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"733",9,"Whitbread PLC",1246592254,4.5,4,3.5,"English Pale Ale",4,4.5,"Whitbread Pale Ale",5.7,1860
+"734",9,"Whitbread PLC",1245815941,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"735",9,"Whitbread PLC",1245287229,4,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"736",9,"Whitbread PLC",1244646155,2.5,3.5,4,"English Pale Ale",2,3,"Whitbread Pale Ale",5.7,1860
+"737",9,"Whitbread PLC",1086320060,4.5,4.5,4.5,"English Pale Ale",4.5,4,"Whitbread Pale Ale",5.7,1860
+"738",9,"Whitbread PLC",1085183636,3,3.5,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"739",9,"Whitbread PLC",1084909628,4,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"740",9,"Whitbread PLC",1084281654,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"741",9,"Whitbread PLC",1083695224,3.5,3.5,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"742",9,"Whitbread PLC",1080554316,3.5,4,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"743",9,"Whitbread PLC",1079894217,4,3,4.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"744",9,"Whitbread PLC",1078767679,3.5,3.5,3.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"745",9,"Whitbread PLC",1078624699,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"746",9,"Whitbread PLC",1076033995,4.5,3.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"747",9,"Whitbread PLC",1075676628,3.5,3.5,3.5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"748",9,"Whitbread PLC",1075178212,4,4.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"749",9,"Whitbread PLC",1074826642,4.5,3,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"750",9,"Whitbread PLC",1073779952,3.5,3,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"751",9,"Whitbread PLC",1069734252,3.5,3,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"752",9,"Whitbread PLC",1068389618,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"753",9,"Whitbread PLC",1068263705,4,3,4.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"754",9,"Whitbread PLC",1067965100,3.5,2.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"755",9,"Whitbread PLC",1065227828,3,3.5,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"756",9,"Whitbread PLC",1064129039,4,3.5,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"757",9,"Whitbread PLC",1063402291,3.5,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"758",9,"Whitbread PLC",1062350051,3.5,3,3,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"759",9,"Whitbread PLC",1062218425,3,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"760",9,"Whitbread PLC",1061915032,4,3,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"761",9,"Whitbread PLC",1061852096,2.5,3,3.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"762",9,"Whitbread PLC",1060048971,3,3,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"763",9,"Whitbread PLC",1058080549,3,2.5,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"764",9,"Whitbread PLC",1058030353,3.5,3.5,4.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"765",9,"Whitbread PLC",1057839488,3,3.5,3.5,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"766",9,"Whitbread PLC",1056961344,2.5,2,4,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"767",9,"Whitbread PLC",1055449237,3.5,3,2.5,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"768",9,"Whitbread PLC",1055367009,3.5,3.5,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"769",9,"Whitbread PLC",1053929343,1.5,1.5,3,"English Pale Ale",1.5,1.5,"Whitbread Pale Ale",5.7,1860
+"770",9,"Whitbread PLC",1052406785,3,4.5,4.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"771",9,"Whitbread PLC",1050499703,4,3.5,4,"English Pale Ale",4.5,4,"Whitbread Pale Ale",5.7,1860
+"772",9,"Whitbread PLC",1050433228,3.5,4,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"773",9,"Whitbread PLC",1049017493,4,3.5,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"774",9,"Whitbread PLC",1048711035,4,4,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"775",9,"Whitbread PLC",1046289317,3,3.5,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"776",9,"Whitbread PLC",1044808258,4,2.5,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"777",9,"Whitbread PLC",1043870421,3.5,3,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"778",9,"Whitbread PLC",1041790267,3,3,3.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"779",9,"Whitbread PLC",1041769167,3.5,4,3.5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"780",9,"Whitbread PLC",1039221584,3,4,2.5,"English Pale Ale",2.5,3.5,"Whitbread Pale Ale",5.7,1860
+"781",9,"Whitbread PLC",1038230901,4,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"782",9,"Whitbread PLC",1037857383,3.5,3.5,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"783",9,"Whitbread PLC",1035828410,2.5,3.5,4,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"784",9,"Whitbread PLC",1034724419,3.5,3,3,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"785",9,"Whitbread PLC",1034004486,3,3,4,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"786",9,"Whitbread PLC",1033735831,3.5,4,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"787",9,"Whitbread PLC",1031503324,3.5,4,4,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"788",9,"Whitbread PLC",1029951041,3,2.5,4,"English Pale Ale",2,2.5,"Whitbread Pale Ale",5.7,1860
+"789",9,"Whitbread PLC",1025783491,2.5,3,3,"English Pale Ale",2,3.5,"Whitbread Pale Ale",5.7,1860
+"790",9,"Whitbread PLC",1022484696,3,3.5,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"791",9,"Whitbread PLC",1022067108,3.5,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"792",9,"Whitbread PLC",1020846070,3.5,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"793",9,"Whitbread PLC",1018331446,4,4,4.5,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"794",9,"Whitbread PLC",1016379749,3,4,4,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"795",9,"Whitbread PLC",1013801813,3.5,4,4,"English Pale Ale",4,4.5,"Whitbread Pale Ale",5.7,1860
+"796",9,"Whitbread PLC",1012175895,3,2.5,3,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"797",9,"Whitbread PLC",1004016193,4,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"798",9,"Whitbread PLC",1243446435,3,3.5,3,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"799",9,"Whitbread PLC",1241673968,3.5,4,3.5,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"800",9,"Whitbread PLC",1241468866,4,1.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"801",9,"Whitbread PLC",1241214443,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"802",9,"Whitbread PLC",1240698528,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"803",9,"Whitbread PLC",1240520723,3,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"804",9,"Whitbread PLC",1238884648,4,2,4,"English Pale Ale",3.5,2.5,"Whitbread Pale Ale",5.7,1860
+"805",9,"Whitbread PLC",1238631943,3.5,3,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"806",9,"Whitbread PLC",1238397637,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"807",9,"Whitbread PLC",1237060284,4,3.5,4,"English Pale Ale",4,3,"Whitbread Pale Ale",5.7,1860
+"808",9,"Whitbread PLC",1236536496,3.5,4,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"809",9,"Whitbread PLC",1236039245,4,3.5,3.5,"English Pale Ale",3,4,"Whitbread Pale Ale",5.7,1860
+"810",9,"Whitbread PLC",1234663549,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"811",9,"Whitbread PLC",1233361842,4,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"812",9,"Whitbread PLC",1233039690,3.5,3,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"813",9,"Whitbread PLC",1231893480,4.5,4,4.5,"English Pale Ale",4,5,"Whitbread Pale Ale",5.7,1860
+"814",9,"Whitbread PLC",1231704785,4,4,2.5,"English Pale Ale",3,4,"Whitbread Pale Ale",5.7,1860
+"815",9,"Whitbread PLC",1230693497,4,3.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"816",9,"Whitbread PLC",1230008062,3.5,4,3,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"817",9,"Whitbread PLC",1229797665,3.5,4.5,4.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"818",9,"Whitbread PLC",1229025349,3,3,3,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"819",9,"Whitbread PLC",1228935942,4,3.5,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"820",9,"Whitbread PLC",1227477900,2.5,2.5,3,"English Pale Ale",3,2.5,"Whitbread Pale Ale",5.7,1860
+"821",9,"Whitbread PLC",1226210305,3.5,2.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"822",9,"Whitbread PLC",1225577509,4.5,3.5,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"823",9,"Whitbread PLC",1224802113,4,3.5,3.5,"English Pale Ale",4,4.5,"Whitbread Pale Ale",5.7,1860
+"824",9,"Whitbread PLC",1224378668,4.5,4,4,"English Pale Ale",4.5,4.5,"Whitbread Pale Ale",5.7,1860
+"825",9,"Whitbread PLC",1224192823,3.5,4,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"826",9,"Whitbread PLC",1221600792,3.5,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"827",9,"Whitbread PLC",1220473791,4.5,4.5,4,"English Pale Ale",4.5,4.5,"Whitbread Pale Ale",5.7,1860
+"828",9,"Whitbread PLC",1220297957,4,4,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"829",9,"Whitbread PLC",1220061091,4,4,4.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"830",9,"Whitbread PLC",1219118686,4,4,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"831",9,"Whitbread PLC",1218830977,3.5,4.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"832",9,"Whitbread PLC",1217555421,4.5,4.5,4,"English Pale Ale",4,5,"Whitbread Pale Ale",5.7,1860
+"833",9,"Whitbread PLC",1217288724,2.5,3,3.5,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"834",9,"Whitbread PLC",1216247627,3,3.5,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"835",9,"Whitbread PLC",1214632686,4.5,4,4.5,"English Pale Ale",5,5,"Whitbread Pale Ale",5.7,1860
+"836",9,"Whitbread PLC",1214293087,4,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"837",9,"Whitbread PLC",1213660437,5,4,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"838",9,"Whitbread PLC",1213469082,3.5,3.5,3.5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"839",9,"Whitbread PLC",1212644887,4.5,4,4,"English Pale Ale",4,4.5,"Whitbread Pale Ale",5.7,1860
+"840",9,"Whitbread PLC",1211790258,3,4,4.5,"English Pale Ale",2.5,3,"Whitbread Pale Ale",5.7,1860
+"841",9,"Whitbread PLC",1209520935,4,4.5,4,"English Pale Ale",4,4.5,"Whitbread Pale Ale",5.7,1860
+"842",9,"Whitbread PLC",1209082865,3,3.5,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"843",9,"Whitbread PLC",1208712619,3.5,2.5,3,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"844",9,"Whitbread PLC",1208557084,3,3.5,3.5,"English Pale Ale",2.5,3.5,"Whitbread Pale Ale",5.7,1860
+"845",9,"Whitbread PLC",1208319885,2,3.5,3.5,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"846",9,"Whitbread PLC",1208129502,3.5,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"847",9,"Whitbread PLC",1207883993,3,3,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"848",9,"Whitbread PLC",1207622510,2.5,3,3.5,"English Pale Ale",2.5,2.5,"Whitbread Pale Ale",5.7,1860
+"849",9,"Whitbread PLC",1206224295,4,3,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"850",9,"Whitbread PLC",1205934419,4,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"851",9,"Whitbread PLC",1205907537,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"852",9,"Whitbread PLC",1205712841,4,3.5,3.5,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"853",9,"Whitbread PLC",1204524535,3,3.5,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"854",9,"Whitbread PLC",1204344028,5,3,4.5,"English Pale Ale",3.5,4.5,"Whitbread Pale Ale",5.7,1860
+"855",9,"Whitbread PLC",1203891073,3.5,3,4,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"856",9,"Whitbread PLC",1203800589,3.5,3.5,3.5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"857",9,"Whitbread PLC",1202938798,2,2,3,"English Pale Ale",3,2,"Whitbread Pale Ale",5.7,1860
+"858",9,"Whitbread PLC",1201577689,4.5,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"859",9,"Whitbread PLC",1201478428,4,4,4,"English Pale Ale",4.5,3.5,"Whitbread Pale Ale",5.7,1860
+"860",9,"Whitbread PLC",1200791411,3.5,3.5,3.5,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"861",9,"Whitbread PLC",1200288340,3,3.5,3,"English Pale Ale",3.5,3,"Whitbread Pale Ale",5.7,1860
+"862",9,"Whitbread PLC",1199758734,3,4,2.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"863",9,"Whitbread PLC",1199580075,2.5,3,4,"English Pale Ale",3,2,"Whitbread Pale Ale",5.7,1860
+"864",9,"Whitbread PLC",1197072936,4,3.5,3,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"865",9,"Whitbread PLC",1196608894,3,4,3.5,"English Pale Ale",3,4,"Whitbread Pale Ale",5.7,1860
+"866",9,"Whitbread PLC",1193428894,3,3,3.5,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"867",9,"Whitbread PLC",1193233289,4,3.5,4,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"868",9,"Whitbread PLC",1192761460,3,3.5,4,"English Pale Ale",3,3.5,"Whitbread Pale Ale",5.7,1860
+"869",9,"Whitbread PLC",1192338564,4.5,4,4,"English Pale Ale",4.5,4.5,"Whitbread Pale Ale",5.7,1860
+"870",9,"Whitbread PLC",1189217290,4,3,4,"English Pale Ale",4,4,"Whitbread Pale Ale",5.7,1860
+"871",9,"Whitbread PLC",1187740141,4.5,4.5,4,"English Pale Ale",3.5,4,"Whitbread Pale Ale",5.7,1860
+"872",9,"Whitbread PLC",1187049702,4,3.5,4,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"873",9,"Whitbread PLC",1186633623,3,3,4,"English Pale Ale",3,3,"Whitbread Pale Ale",5.7,1860
+"874",9,"Whitbread PLC",1183684219,4,3.5,3.5,"English Pale Ale",4,3.5,"Whitbread Pale Ale",5.7,1860
+"875",9,"Whitbread PLC",1183472776,4,2.5,3.5,"English Pale Ale",3.5,3.5,"Whitbread Pale Ale",5.7,1860
+"876",9,"Whitbread PLC",1199796716,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3,"Flower's IPA",3.6,21874
+"877",9,"Whitbread PLC",1182640800,4,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Flower's IPA",3.6,21874
+"878",9,"Whitbread PLC",1157099855,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Flower's IPA",3.6,21874
+"879",9,"Whitbread PLC",1108014532,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Flower's IPA",3.6,21874
+"880",9,"Whitbread PLC",1293466893,2.5,3.5,3.5,"Scotch Ale / Wee Heavy",2,2.5,"Campbell's Scotch Ale",7.7,31354
+"881",9,"Whitbread PLC",1248799504,3,2.5,3,"Scotch Ale / Wee Heavy",3,3.5,"Campbell's Scotch Ale",7.7,31354
+"882",9,"Whitbread PLC",1206137756,3,3.5,4,"Scotch Ale / Wee Heavy",3.5,3,"Campbell's Scotch Ale",7.7,31354
+"883",9,"Whitbread PLC",1200066391,3.5,4,3.5,"Scotch Ale / Wee Heavy",3.5,4,"Campbell's Scotch Ale",7.7,31354
+"884",9,"Whitbread PLC",1197342818,4,4,4.5,"Scotch Ale / Wee Heavy",3.5,4,"Campbell's Scotch Ale",7.7,31354
+"885",9,"Whitbread PLC",1151354167,2,2,4,"Scotch Ale / Wee Heavy",2,2,"Campbell's Scotch Ale",7.7,31354
+"886",9,"Whitbread PLC",1197038646,2.5,2.5,3.5,"Extra Special / Strong Bitter (ESB)",3,3,"Whitbread English Ale Stock Bitter",5.4,39942
+"887",9,"Whitbread PLC",1271009488,4,4.5,4.5,"Old Ale",3,3,"Silver Jubilee Ale",NA,57480
+"888",9,"Whitbread PLC",1247692910,2.5,4,3,"English Barleywine",3.5,3.5,"Whitbread Gold Label",10,12652
+"889",9,"Whitbread PLC",1238535013,4.5,4,4,"English Barleywine",4,4,"Whitbread Gold Label",10,12652
+"890",9,"Whitbread PLC",1169677604,3.5,4,2.5,"English Barleywine",3.5,3.5,"Whitbread Gold Label",10,12652
+"891",9,"Whitbread PLC",1152916394,4,3.5,3.5,"English Barleywine",4,4,"Whitbread Gold Label",10,12652
+"892",9,"Whitbread PLC",1141270862,2.5,3,3.5,"English Barleywine",2.5,2.5,"Whitbread Gold Label",10,12652
+"893",9,"Whitbread PLC",1130739797,4,3,3.5,"English Barleywine",3.5,3.5,"Whitbread Gold Label",10,12652
+"894",9,"Whitbread PLC",1119644750,2.5,3,3,"English Barleywine",2.5,2.5,"Whitbread Gold Label",10,12652
+"895",9,"Whitbread PLC",1111881257,4,4.5,4,"English Barleywine",4,4,"Whitbread Gold Label",10,12652
+"896",9,"Whitbread PLC",1086122285,3,3,3,"English Barleywine",3,3,"Whitbread Gold Label",10,12652
+"897",9,"Whitbread PLC",1063154996,1,1,3,"English Barleywine",1,1.5,"Whitbread Gold Label",10,12652

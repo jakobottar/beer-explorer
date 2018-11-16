@@ -1,0 +1,664 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",161,"Florida Beer Company",1315790653,2,3,3.5,"Vienna Lager",2,2.5,"Ybor Gold Amber Lager",4.6,18290
+"2",161,"Florida Beer Company",1252501187,4,3.5,3.5,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"3",161,"Florida Beer Company",1241497644,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"4",161,"Florida Beer Company",1225290386,4.5,3,3.5,"American Amber / Red Ale",3.5,4,"Key West Sunset Ale",4.8,2350
+"5",161,"Florida Beer Company",1219946701,3.5,2.5,3,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"6",161,"Florida Beer Company",1155338770,3,3.5,3,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"7",161,"Florida Beer Company",1154918230,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"8",161,"Florida Beer Company",1152829141,2.5,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"9",161,"Florida Beer Company",1151817755,3,3,3,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"10",161,"Florida Beer Company",1136915811,1.5,2,2.5,"American Amber / Red Ale",2,2,"Key West Sunset Ale",4.8,2350
+"11",161,"Florida Beer Company",1148512573,3.5,4.5,4,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"12",161,"Florida Beer Company",1264990833,3,2.5,2,"Light Lager",2.5,2.5,"Beachside Sunlight",NA,29662
+"13",161,"Florida Beer Company",1154750830,3,1.5,1,"Light Lager",1.5,2,"Beachside Sunlight",NA,29662
+"14",161,"Florida Beer Company",1201729382,3,3,3,"Kölsch",3,3.5,"Indian River Shoal Draft",5,5373
+"15",161,"Florida Beer Company",1142556149,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"16",161,"Florida Beer Company",1141995486,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"17",161,"Florida Beer Company",1140220730,3,3,3.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"18",161,"Florida Beer Company",1070041024,4.5,4,4,"American Pale Ale (APA)",4,4,"Hurricane Reef Pale Ale",5.1,1560
+"19",161,"Florida Beer Company",1060706260,4,3.5,4,"American Pale Ale (APA)",4,4,"Hurricane Reef Pale Ale",5.1,1560
+"20",161,"Florida Beer Company",1037460538,4.5,4,4.5,"American Pale Ale (APA)",4.5,5,"Hurricane Reef Pale Ale",5.1,1560
+"21",161,"Florida Beer Company",1032422295,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"22",161,"Florida Beer Company",1257139013,3,3,3.5,"Fruit / Vegetable Beer",3,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"23",161,"Florida Beer Company",1088130008,3.5,3.5,3.5,"Kölsch",3,3.5,"Indian River Shoal Draft",5,5373
+"24",161,"Florida Beer Company",1304555634,2,2,2,"American Amber / Red Ale",2,2,"Key West Sunset Ale",4.8,2350
+"25",161,"Florida Beer Company",1300809384,4,4,4,"American Amber / Red Ale",3.5,4,"Key West Sunset Ale",4.8,2350
+"26",161,"Florida Beer Company",1287780673,4,3.5,4,"Witbier",3.5,3,"Key West Southernmost Wheat",NA,42311
+"27",161,"Florida Beer Company",1209569959,3,2.5,2.5,"Light Lager",3,3,"Ybor Gold Light",NA,18288
+"28",161,"Florida Beer Company",1200875768,3.5,3,3,"Light Lager",3,3.5,"Ybor Gold Light",NA,18288
+"29",161,"Florida Beer Company",1200864052,2.5,2,2,"Light Lager",4,3.5,"Ybor Gold Light",NA,18288
+"30",161,"Florida Beer Company",1184886587,3,2.5,3.5,"Light Lager",2.5,2.5,"Ybor Gold Light",NA,18288
+"31",161,"Florida Beer Company",1211683403,2.5,2.5,3,"Light Lager",2.5,2.5,"Mentirosa Light",NA,42677
+"32",161,"Florida Beer Company",1210809697,3,2.5,2.5,"Light Lager",3,2.5,"Mentirosa Light",NA,42677
+"33",161,"Florida Beer Company",1195089823,3,3,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"34",161,"Florida Beer Company",1323204996,3.5,4,4,"Scottish Ale",2.5,3.5,"Hog's Head Brew (Harry Potter)",NA,65437
+"35",161,"Florida Beer Company",1319939831,4,4,4,"Scottish Ale",3.5,3.5,"Hog's Head Brew (Harry Potter)",NA,65437
+"36",161,"Florida Beer Company",1235272684,2,2,2.5,"Altbier",2,2.5,"Indian River Amberjack Alt",5,5374
+"37",161,"Florida Beer Company",1208807046,2.5,2.5,3,"Altbier",2.5,2,"Indian River Amberjack Alt",5,5374
+"38",161,"Florida Beer Company",1208700277,4,2.5,3,"Altbier",4,4,"Indian River Amberjack Alt",5,5374
+"39",161,"Florida Beer Company",1184885803,3,3,3.5,"American Pale Lager",3,3.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"40",161,"Florida Beer Company",1091062103,3.5,3,3,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"41",161,"Florida Beer Company",1032897349,3,3,3,"Vienna Lager",3.5,2.5,"Ybor Gold Amber Lager",4.6,18290
+"42",161,"Florida Beer Company",1172194592,3.5,2.5,3,"American Pale Lager",3.5,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"43",161,"Florida Beer Company",1200863893,3,2.5,4,"English Porter",4,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"44",161,"Florida Beer Company",1176510158,3,2.5,4,"English Porter",3,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"45",161,"Florida Beer Company",1110639439,1.5,2,2,"Fruit / Vegetable Beer",1.5,1.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"46",161,"Florida Beer Company",1053279432,4,3.5,4,"American Pale Lager",3.5,3.5,"Hurricane Reef Lager",NA,1561
+"47",161,"Florida Beer Company",1046447354,3.5,2.5,3,"American Pale Lager",3,3.5,"Hurricane Reef Lager",NA,1561
+"48",161,"Florida Beer Company",1298785265,3,3,3.5,"American Double / Imperial IPA",3,3.5,"Swamp Ape IPA",10,61613
+"49",161,"Florida Beer Company",1308710330,3.5,3,3,"American Pale Ale (APA)",2.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"50",161,"Florida Beer Company",1315752922,3,3,2.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"51",161,"Florida Beer Company",1315164079,3,3,3.5,"American Pale Ale (APA)",4.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"52",161,"Florida Beer Company",1310487631,3,3,4,"American Pale Ale (APA)",4,3,"Hurricane Reef Pale Ale",5.1,1560
+"53",161,"Florida Beer Company",1298841079,3,2,3,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"54",161,"Florida Beer Company",1282968841,3,2.5,4,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"55",161,"Florida Beer Company",1279906648,2.5,2,2.5,"American Pale Ale (APA)",2,2,"Hurricane Reef Pale Ale",5.1,1560
+"56",161,"Florida Beer Company",1277875641,3,2.5,3,"American Pale Ale (APA)",2.5,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"57",161,"Florida Beer Company",1272765858,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"58",161,"Florida Beer Company",1269567794,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"59",161,"Florida Beer Company",1269046255,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"60",161,"Florida Beer Company",1262907236,3,3.5,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"61",161,"Florida Beer Company",1261790016,2.5,2,3,"American Pale Ale (APA)",2,2,"Hurricane Reef Pale Ale",5.1,1560
+"62",161,"Florida Beer Company",1258929826,3,3,3,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"63",161,"Florida Beer Company",1257654578,2,3,3.5,"American Pale Ale (APA)",3,2,"Hurricane Reef Pale Ale",5.1,1560
+"64",161,"Florida Beer Company",1255054251,3.5,3,3,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"65",161,"Florida Beer Company",1254439367,3,3.5,4.5,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"66",161,"Florida Beer Company",1253048491,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"67",161,"Florida Beer Company",1252724106,2.5,3,3.5,"American Pale Ale (APA)",3,2,"Hurricane Reef Pale Ale",5.1,1560
+"68",161,"Florida Beer Company",1252361284,3,2.5,3,"American Pale Ale (APA)",2.5,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"69",161,"Florida Beer Company",1252199535,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"70",161,"Florida Beer Company",1252189391,2.5,3.5,3.5,"American Pale Ale (APA)",2.5,2,"Hurricane Reef Pale Ale",5.1,1560
+"71",161,"Florida Beer Company",1251989696,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"72",161,"Florida Beer Company",1251683937,3.5,4,4,"American Pale Ale (APA)",3,4,"Hurricane Reef Pale Ale",5.1,1560
+"73",161,"Florida Beer Company",1251568293,3,3,4,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"74",161,"Florida Beer Company",1250964047,3,4,4,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"75",161,"Florida Beer Company",1250912459,3.5,2.5,2.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"76",161,"Florida Beer Company",1250816917,4,3,4,"American Pale Ale (APA)",4,4,"Hurricane Reef Pale Ale",5.1,1560
+"77",161,"Florida Beer Company",1204511341,3,3,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"78",161,"Florida Beer Company",1250734471,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"79",161,"Florida Beer Company",1249083192,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"80",161,"Florida Beer Company",1248345623,3,3.5,4,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"81",161,"Florida Beer Company",1235271922,2,3.5,3.5,"American Pale Ale (APA)",2,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"82",161,"Florida Beer Company",1232254181,4,3.5,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"83",161,"Florida Beer Company",1231292317,2,2,1.5,"American Pale Ale (APA)",2.5,2,"Hurricane Reef Pale Ale",5.1,1560
+"84",161,"Florida Beer Company",1228354392,3,2.5,3.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"85",161,"Florida Beer Company",1227242047,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"86",161,"Florida Beer Company",1223797478,3,3.5,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"87",161,"Florida Beer Company",1221071833,3.5,2.5,3,"American Pale Ale (APA)",4,2,"Hurricane Reef Pale Ale",5.1,1560
+"88",161,"Florida Beer Company",1214960291,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"89",161,"Florida Beer Company",1207619012,3.5,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"90",161,"Florida Beer Company",1203472505,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"91",161,"Florida Beer Company",1195344023,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"92",161,"Florida Beer Company",1189386241,3.5,3,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"93",161,"Florida Beer Company",1187666724,2.5,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"94",161,"Florida Beer Company",1186614884,3.5,2,3.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"95",161,"Florida Beer Company",1183312440,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"96",161,"Florida Beer Company",1175214086,2.5,3.5,2.5,"American Pale Ale (APA)",2.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"97",161,"Florida Beer Company",1172021283,4,4,4.5,"American Pale Ale (APA)",4,4,"Hurricane Reef Pale Ale",5.1,1560
+"98",161,"Florida Beer Company",1171513495,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"99",161,"Florida Beer Company",1159836105,4,3,3,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"100",161,"Florida Beer Company",1159212431,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"101",161,"Florida Beer Company",1138764389,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"102",161,"Florida Beer Company",1137555873,3,3,3.5,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"103",161,"Florida Beer Company",1099632681,3,2.5,3,"American Pale Ale (APA)",2,2.5,"Hurricane Reef Pale Ale",5.1,1560
+"104",161,"Florida Beer Company",1096301840,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"105",161,"Florida Beer Company",1090690574,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"106",161,"Florida Beer Company",1088565628,3,3.5,4.5,"American Pale Ale (APA)",2.5,3,"Hurricane Reef Pale Ale",5.1,1560
+"107",161,"Florida Beer Company",1080681326,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"108",161,"Florida Beer Company",1080184516,3.5,3,3,"American Pale Ale (APA)",3,3,"Hurricane Reef Pale Ale",5.1,1560
+"109",161,"Florida Beer Company",1079235609,4.5,4,3.5,"American Pale Ale (APA)",3,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"110",161,"Florida Beer Company",1076446540,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Hurricane Reef Pale Ale",5.1,1560
+"111",161,"Florida Beer Company",1029865881,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Hurricane Reef Pale Ale",5.1,1560
+"112",161,"Florida Beer Company",1017446868,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Hurricane Reef Pale Ale",5.1,1560
+"113",161,"Florida Beer Company",1267872374,3.5,3,3.5,"American Pale Wheat Ale",3,3,"Ybor Gold Wheat Ale",3.9,275
+"114",161,"Florida Beer Company",1209571644,2.5,2.5,3,"American Pale Wheat Ale",3,3,"Ybor Gold Wheat Ale",3.9,275
+"115",161,"Florida Beer Company",1200870118,3,3,3,"American Pale Wheat Ale",3,3,"Ybor Gold Wheat Ale",3.9,275
+"116",161,"Florida Beer Company",1176423232,2.5,1.5,2,"American Pale Wheat Ale",1.5,2.5,"Ybor Gold Wheat Ale",3.9,275
+"117",161,"Florida Beer Company",1176418161,3,2.5,4,"American Pale Wheat Ale",3,2.5,"Ybor Gold Wheat Ale",3.9,275
+"118",161,"Florida Beer Company",1170298355,2,2.5,2.5,"American Pale Wheat Ale",2.5,1.5,"Ybor Gold Wheat Ale",3.9,275
+"119",161,"Florida Beer Company",1168825767,3,2.5,2,"American Pale Wheat Ale",3,3,"Ybor Gold Wheat Ale",3.9,275
+"120",161,"Florida Beer Company",1153187813,3,2.5,2.5,"American Pale Wheat Ale",2.5,2.5,"Ybor Gold Wheat Ale",3.9,275
+"121",161,"Florida Beer Company",1145136057,3.5,3,3,"American Pale Wheat Ale",2.5,3,"Ybor Gold Wheat Ale",3.9,275
+"122",161,"Florida Beer Company",1144723168,3.5,3,3.5,"American Pale Wheat Ale",3.5,2.5,"Ybor Gold Wheat Ale",3.9,275
+"123",161,"Florida Beer Company",1252994473,2,2.5,2.5,"Fruit / Vegetable Beer",2.5,2.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"124",161,"Florida Beer Company",1088789111,3.5,3,3,"American Pale Wheat Ale",3,3.5,"Ybor Gold Wheat Ale",3.9,275
+"125",161,"Florida Beer Company",1086302135,4,3,4,"American Pale Wheat Ale",4,3.5,"Ybor Gold Wheat Ale",3.9,275
+"126",161,"Florida Beer Company",1058091736,2.5,3,3,"American Pale Wheat Ale",3,2.5,"Ybor Gold Wheat Ale",3.9,275
+"127",161,"Florida Beer Company",1015193713,4,3,4,"American Pale Wheat Ale",3.5,3,"Ybor Gold Wheat Ale",3.9,275
+"128",161,"Florida Beer Company",1320458649,3,3,3,"Fruit / Vegetable Beer",3.5,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"129",161,"Florida Beer Company",1320120496,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Hurricane Reef Raspberry Wheat",NA,1562
+"130",161,"Florida Beer Company",1272425075,3.5,3.5,3.5,"Fruit / Vegetable Beer",4,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"131",161,"Florida Beer Company",1259001012,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"132",161,"Florida Beer Company",1252291935,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"133",161,"Florida Beer Company",1231293188,1,1.5,1.5,"Fruit / Vegetable Beer",1.5,1.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"134",161,"Florida Beer Company",1219946755,2,3,3,"Fruit / Vegetable Beer",3,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"135",161,"Florida Beer Company",1207375557,2,2.5,2.5,"Fruit / Vegetable Beer",1.5,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"136",161,"Florida Beer Company",1200903688,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"137",161,"Florida Beer Company",1195350059,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"138",161,"Florida Beer Company",1177795565,4,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"139",161,"Florida Beer Company",1171071640,3.5,3.5,3.5,"Fruit / Vegetable Beer",3,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"140",161,"Florida Beer Company",1159577544,3,2.5,4,"Fruit / Vegetable Beer",3,2.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"141",161,"Florida Beer Company",1140501914,3.5,4,3.5,"Fruit / Vegetable Beer",3,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"142",161,"Florida Beer Company",1140220863,2.5,3,4,"Fruit / Vegetable Beer",2.5,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"143",161,"Florida Beer Company",1138841575,3.5,3.5,3,"Fruit / Vegetable Beer",3.5,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"144",161,"Florida Beer Company",1124939356,4,2.5,3,"Fruit / Vegetable Beer",4,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"145",161,"Florida Beer Company",1102885297,3,3,3,"Fruit / Vegetable Beer",3,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"146",161,"Florida Beer Company",1076990164,3,3.5,3,"Fruit / Vegetable Beer",2.5,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"147",161,"Florida Beer Company",1072022406,4.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"148",161,"Florida Beer Company",1058869984,2.5,2.5,3,"Fruit / Vegetable Beer",2.5,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"149",161,"Florida Beer Company",1057856195,4,3.5,3,"Fruit / Vegetable Beer",3,3,"Hurricane Reef Raspberry Wheat",NA,1562
+"150",161,"Florida Beer Company",1051012578,3,3.5,3,"Fruit / Vegetable Beer",2,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"151",161,"Florida Beer Company",1047157959,2,2,3,"Fruit / Vegetable Beer",3,2,"Hurricane Reef Raspberry Wheat",NA,1562
+"152",161,"Florida Beer Company",1047135046,2,3,3,"Fruit / Vegetable Beer",2.5,2.5,"Hurricane Reef Raspberry Wheat",NA,1562
+"153",161,"Florida Beer Company",1023117052,1,3,3,"Fruit / Vegetable Beer",1,1,"Hurricane Reef Raspberry Wheat",NA,1562
+"154",161,"Florida Beer Company",1156866570,3.5,4,4.5,"American Pale Lager",3,4,"Hurricane Reef Lager",NA,1561
+"155",161,"Florida Beer Company",1120692130,4,3.5,4,"American Pale Lager",4,3.5,"Hurricane Reef Lager",NA,1561
+"156",161,"Florida Beer Company",1085495827,4.5,3.5,4,"American Pale Lager",3.5,4,"Hurricane Reef Lager",NA,1561
+"157",161,"Florida Beer Company",1306176943,2.5,3,3.5,"American Pale Lager",3.5,2.5,"Evander Beer",4.7,69389
+"158",161,"Florida Beer Company",1324593193,2.5,2.5,3,"American Double / Imperial IPA",3,2,"Swamp Ape IPA",10,61613
+"159",161,"Florida Beer Company",1323745432,3.5,3.5,3,"American Double / Imperial IPA",3.5,4,"Swamp Ape IPA",10,61613
+"160",161,"Florida Beer Company",1322970055,2,2,3.5,"American Double / Imperial IPA",1.5,1.5,"Swamp Ape IPA",10,61613
+"161",161,"Florida Beer Company",1322622588,3,4,3.5,"American Double / Imperial IPA",4,2.5,"Swamp Ape IPA",10,61613
+"162",161,"Florida Beer Company",1322329547,1.5,3,4,"American Double / Imperial IPA",2,1,"Swamp Ape IPA",10,61613
+"163",161,"Florida Beer Company",1321930920,2.5,3.5,3.5,"American Double / Imperial IPA",3.5,2.5,"Swamp Ape IPA",10,61613
+"164",161,"Florida Beer Company",1321433421,1,1,2,"American Double / Imperial IPA",1,1.5,"Swamp Ape IPA",10,61613
+"165",161,"Florida Beer Company",1320981874,3,2.5,3,"American Double / Imperial IPA",3,2.5,"Swamp Ape IPA",10,61613
+"166",161,"Florida Beer Company",1320873025,2.5,2.5,3,"American Double / Imperial IPA",3,3,"Swamp Ape IPA",10,61613
+"167",161,"Florida Beer Company",1320021486,2.5,3.5,3,"American Double / Imperial IPA",2,2.5,"Swamp Ape IPA",10,61613
+"168",161,"Florida Beer Company",1319862000,2,2,2,"American Double / Imperial IPA",2.5,2.5,"Swamp Ape IPA",10,61613
+"169",161,"Florida Beer Company",1318885338,2.5,2.5,2.5,"American Double / Imperial IPA",3,2,"Swamp Ape IPA",10,61613
+"170",161,"Florida Beer Company",1318195155,2,2,2.5,"American Double / Imperial IPA",2.5,2,"Swamp Ape IPA",10,61613
+"171",161,"Florida Beer Company",1318034092,1.5,2,3,"American Double / Imperial IPA",2,1,"Swamp Ape IPA",10,61613
+"172",161,"Florida Beer Company",1316055625,2.5,3.5,4,"American Double / Imperial IPA",4,2.5,"Swamp Ape IPA",10,61613
+"173",161,"Florida Beer Company",1315954832,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Swamp Ape IPA",10,61613
+"174",161,"Florida Beer Company",1314581864,4,3,3,"American Double / Imperial IPA",4,4,"Swamp Ape IPA",10,61613
+"175",161,"Florida Beer Company",1312578205,3,3.5,4,"American Double / Imperial IPA",2.5,2.5,"Swamp Ape IPA",10,61613
+"176",161,"Florida Beer Company",1311810420,1.5,2,3.5,"American Double / Imperial IPA",1.5,1,"Swamp Ape IPA",10,61613
+"177",161,"Florida Beer Company",1311480292,3.5,3.5,3,"American Double / Imperial IPA",3,3.5,"Swamp Ape IPA",10,61613
+"178",161,"Florida Beer Company",1311316581,2.5,3.5,3,"American Double / Imperial IPA",3,2,"Swamp Ape IPA",10,61613
+"179",161,"Florida Beer Company",1310833224,1,1.5,3,"American Double / Imperial IPA",2.5,1,"Swamp Ape IPA",10,61613
+"180",161,"Florida Beer Company",1310429894,3.5,4,4,"American Double / Imperial IPA",2.5,4,"Swamp Ape IPA",10,61613
+"181",161,"Florida Beer Company",1309999057,2.5,3,3.5,"American Double / Imperial IPA",2.5,2.5,"Swamp Ape IPA",10,61613
+"182",161,"Florida Beer Company",1309466921,1,2,3,"American Double / Imperial IPA",3,1,"Swamp Ape IPA",10,61613
+"183",161,"Florida Beer Company",1308188852,2.5,2.5,3,"American Double / Imperial IPA",2.5,3,"Swamp Ape IPA",10,61613
+"184",161,"Florida Beer Company",1307839003,2,2,3,"American Double / Imperial IPA",3,2,"Swamp Ape IPA",10,61613
+"185",161,"Florida Beer Company",1307674387,2.5,4,3.5,"American Double / Imperial IPA",3,1.5,"Swamp Ape IPA",10,61613
+"186",161,"Florida Beer Company",1307314229,1,2,3.5,"American Double / Imperial IPA",2.5,2,"Swamp Ape IPA",10,61613
+"187",161,"Florida Beer Company",1306995825,2.5,3,4,"American Double / Imperial IPA",3.5,2,"Swamp Ape IPA",10,61613
+"188",161,"Florida Beer Company",1306974080,3,3,3,"American Double / Imperial IPA",3.5,3.5,"Swamp Ape IPA",10,61613
+"189",161,"Florida Beer Company",1306293277,4,4,4,"American Double / Imperial IPA",3,4,"Swamp Ape IPA",10,61613
+"190",161,"Florida Beer Company",1306030140,3,3,3.5,"American Double / Imperial IPA",3,2.5,"Swamp Ape IPA",10,61613
+"191",161,"Florida Beer Company",1305931286,3,3,4,"American Double / Imperial IPA",2.5,2.5,"Swamp Ape IPA",10,61613
+"192",161,"Florida Beer Company",1305699004,3.5,4,4,"American Double / Imperial IPA",4,3.5,"Swamp Ape IPA",10,61613
+"193",161,"Florida Beer Company",1303861289,2.5,2.5,4,"American Double / Imperial IPA",3.5,3,"Swamp Ape IPA",10,61613
+"194",161,"Florida Beer Company",1303072304,2.5,2,4,"American Double / Imperial IPA",3.5,2.5,"Swamp Ape IPA",10,61613
+"195",161,"Florida Beer Company",1302836637,2.5,3,4,"American Double / Imperial IPA",2.5,2.5,"Swamp Ape IPA",10,61613
+"196",161,"Florida Beer Company",1302503908,2,2.5,4,"American Double / Imperial IPA",3.5,2.5,"Swamp Ape IPA",10,61613
+"197",161,"Florida Beer Company",1302217670,2.5,3.5,4.5,"American Double / Imperial IPA",4,3,"Swamp Ape IPA",10,61613
+"198",161,"Florida Beer Company",1301624327,2,3.5,4,"American Double / Imperial IPA",3,1.5,"Swamp Ape IPA",10,61613
+"199",161,"Florida Beer Company",1300245541,3.5,3.5,3.5,"American Double / Imperial IPA",4,4,"Swamp Ape IPA",10,61613
+"200",161,"Florida Beer Company",1299997601,1.5,2,2.5,"American Double / Imperial IPA",3,1.5,"Swamp Ape IPA",10,61613
+"201",161,"Florida Beer Company",1299271696,3,3,3.5,"American Double / Imperial IPA",4,2.5,"Swamp Ape IPA",10,61613
+"202",161,"Florida Beer Company",1298869819,1,3,4,"American Double / Imperial IPA",1.5,1,"Swamp Ape IPA",10,61613
+"203",161,"Florida Beer Company",1297305232,4.5,4,3,"American Double / Imperial IPA",3.5,4,"Swamp Ape IPA",10,61613
+"204",161,"Florida Beer Company",1296785745,2.5,3,4,"American Double / Imperial IPA",3,3,"Swamp Ape IPA",10,61613
+"205",161,"Florida Beer Company",1296591532,3,3,3.5,"American Double / Imperial IPA",3,3,"Swamp Ape IPA",10,61613
+"206",161,"Florida Beer Company",1296148268,3,2.5,3,"American Double / Imperial IPA",3.5,2.5,"Swamp Ape IPA",10,61613
+"207",161,"Florida Beer Company",1290297391,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Swamp Ape IPA",10,61613
+"208",161,"Florida Beer Company",1283700335,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Swamp Ape IPA",10,61613
+"209",161,"Florida Beer Company",1119067017,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"210",161,"Florida Beer Company",1102793987,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"211",161,"Florida Beer Company",1100519733,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"212",161,"Florida Beer Company",1099336539,2,2,3.5,"American Amber / Red Ale",2.5,3,"Key West Sunset Ale",4.8,2350
+"213",161,"Florida Beer Company",1097809527,3.5,4,3,"American Amber / Red Ale",3.5,4,"Key West Sunset Ale",4.8,2350
+"214",161,"Florida Beer Company",1093823228,4,3,3.5,"American Amber / Red Ale",4,3,"Key West Sunset Ale",4.8,2350
+"215",161,"Florida Beer Company",1090438728,4,3.5,3,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"216",161,"Florida Beer Company",1085439553,4,3,2,"American Amber / Red Ale",4,3,"Key West Sunset Ale",4.8,2350
+"217",161,"Florida Beer Company",1076437309,2.5,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"218",161,"Florida Beer Company",1073659978,4,3,3,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"219",161,"Florida Beer Company",1066496827,3,2.5,3,"American Amber / Red Ale",2.5,3,"Key West Sunset Ale",4.8,2350
+"220",161,"Florida Beer Company",1057867029,3.5,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"221",161,"Florida Beer Company",1028729879,3.5,3,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"222",161,"Florida Beer Company",1009100119,2,2,3,"American Amber / Red Ale",3,2,"Key West Sunset Ale",4.8,2350
+"223",161,"Florida Beer Company",1325560212,2.5,3.5,3.5,"American Amber / Red Ale",3,2.5,"Key West Sunset Ale",4.8,2350
+"224",161,"Florida Beer Company",1325214350,2.5,2,4,"American Amber / Red Ale",3.5,2,"Key West Sunset Ale",4.8,2350
+"225",161,"Florida Beer Company",1321997325,3,2,3,"American Amber / Red Ale",3.5,2.5,"Key West Sunset Ale",4.8,2350
+"226",161,"Florida Beer Company",1318171177,2.5,2.5,2.5,"American Amber / Red Ale",3.5,2,"Key West Sunset Ale",4.8,2350
+"227",161,"Florida Beer Company",1317663721,3,3,4,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"228",161,"Florida Beer Company",1317248555,3,4,3.5,"American Amber / Red Ale",3.5,2,"Key West Sunset Ale",4.8,2350
+"229",161,"Florida Beer Company",1315605669,1.5,4,2.5,"American Amber / Red Ale",3,1.5,"Key West Sunset Ale",4.8,2350
+"230",161,"Florida Beer Company",1315479258,3.5,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"231",161,"Florida Beer Company",1310683131,4,2.5,3.5,"American Amber / Red Ale",4,3,"Key West Sunset Ale",4.8,2350
+"232",161,"Florida Beer Company",1306722064,3,3,3.5,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"233",161,"Florida Beer Company",1305811233,2.5,2.5,3,"American Amber / Red Ale",2,2.5,"Key West Sunset Ale",4.8,2350
+"234",161,"Florida Beer Company",1299987499,4,2.5,4.5,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"235",161,"Florida Beer Company",1296959127,3,2.5,3,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"236",161,"Florida Beer Company",1296781175,1,2,2,"American Amber / Red Ale",1,1,"Key West Sunset Ale",4.8,2350
+"237",161,"Florida Beer Company",1295031734,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"238",161,"Florida Beer Company",1294609945,1,1.5,4,"American Amber / Red Ale",1.5,2,"Key West Sunset Ale",4.8,2350
+"239",161,"Florida Beer Company",1292036624,3,3,3,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"240",161,"Florida Beer Company",1290540894,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"241",161,"Florida Beer Company",1288966257,3.5,3,3,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"242",161,"Florida Beer Company",1287426629,2,3,4,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"243",161,"Florida Beer Company",1286625098,3,2.5,3.5,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"244",161,"Florida Beer Company",1228075444,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"245",161,"Florida Beer Company",1283548922,3,3,4,"American Amber / Red Ale",4,2,"Key West Sunset Ale",4.8,2350
+"246",161,"Florida Beer Company",1281413540,2,3,3,"American Amber / Red Ale",3,2,"Key West Sunset Ale",4.8,2350
+"247",161,"Florida Beer Company",1278553340,4,2.5,2.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"248",161,"Florida Beer Company",1276574410,5,3.5,3.5,"American Amber / Red Ale",4,4,"Key West Sunset Ale",4.8,2350
+"249",161,"Florida Beer Company",1273792420,3.5,3,4,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"250",161,"Florida Beer Company",1269383770,3,3,3.5,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"251",161,"Florida Beer Company",1266794783,3.5,3,3,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"252",161,"Florida Beer Company",1266615332,3,3,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"253",161,"Florida Beer Company",1266420740,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"254",161,"Florida Beer Company",1225857333,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"255",161,"Florida Beer Company",1264603589,4,4,3.5,"American Amber / Red Ale",4,4,"Key West Sunset Ale",4.8,2350
+"256",161,"Florida Beer Company",1264013305,4,4,4,"American Amber / Red Ale",4,4,"Key West Sunset Ale",4.8,2350
+"257",161,"Florida Beer Company",1261170905,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"258",161,"Florida Beer Company",1254438402,1.5,4,4,"American Amber / Red Ale",2,1.5,"Key West Sunset Ale",4.8,2350
+"259",161,"Florida Beer Company",1253156717,3.5,3,3.5,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"260",161,"Florida Beer Company",1251091908,3.5,2,2.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"261",161,"Florida Beer Company",1243126840,3.5,3.5,4,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"262",161,"Florida Beer Company",1240364466,4,3,3,"American Amber / Red Ale",4,4,"Key West Sunset Ale",4.8,2350
+"263",161,"Florida Beer Company",1237074926,3,3.5,4,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"264",161,"Florida Beer Company",1236923063,2.5,3,3.5,"American Amber / Red Ale",4,2.5,"Key West Sunset Ale",4.8,2350
+"265",161,"Florida Beer Company",1236385383,3,3,3,"American Amber / Red Ale",2.5,3.5,"Key West Sunset Ale",4.8,2350
+"266",161,"Florida Beer Company",1235271631,2,3,3,"American Amber / Red Ale",2,2.5,"Key West Sunset Ale",4.8,2350
+"267",161,"Florida Beer Company",1211342891,4,2,3.5,"American Amber / Red Ale",3,2.5,"Key West Sunset Ale",4.8,2350
+"268",161,"Florida Beer Company",1208385828,2,2,4,"American Amber / Red Ale",3,1.5,"Key West Sunset Ale",4.8,2350
+"269",161,"Florida Beer Company",1202688069,3.5,2.5,3,"American Amber / Red Ale",4,3,"Key West Sunset Ale",4.8,2350
+"270",161,"Florida Beer Company",1202687854,4,3,3.5,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"271",161,"Florida Beer Company",1200679883,2.5,2.5,2.5,"American Amber / Red Ale",2.5,2.5,"Key West Sunset Ale",4.8,2350
+"272",161,"Florida Beer Company",1197776680,4.5,3.5,3,"American Amber / Red Ale",4,3.5,"Key West Sunset Ale",4.8,2350
+"273",161,"Florida Beer Company",1195442382,3.5,2.5,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"274",161,"Florida Beer Company",1195177935,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"275",161,"Florida Beer Company",1189385540,3,2,2.5,"American Amber / Red Ale",3,2,"Key West Sunset Ale",4.8,2350
+"276",161,"Florida Beer Company",1188108033,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"277",161,"Florida Beer Company",1184533861,3.5,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"278",161,"Florida Beer Company",1183508233,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"279",161,"Florida Beer Company",1181324639,3.5,3,3,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"280",161,"Florida Beer Company",1177274039,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"281",161,"Florida Beer Company",1173663081,3,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"282",161,"Florida Beer Company",1173401877,3.5,4,4.5,"American Amber / Red Ale",3,4,"Key West Sunset Ale",4.8,2350
+"283",161,"Florida Beer Company",1169781295,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"284",161,"Florida Beer Company",1163155286,3.5,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"285",161,"Florida Beer Company",1158281732,4,4,4,"American Amber / Red Ale",4,4.5,"Key West Sunset Ale",4.8,2350
+"286",161,"Florida Beer Company",1157747253,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"287",161,"Florida Beer Company",1157035608,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Key West Sunset Ale",4.8,2350
+"288",161,"Florida Beer Company",1156376046,2.5,3,3,"American Amber / Red Ale",3,2.5,"Key West Sunset Ale",4.8,2350
+"289",161,"Florida Beer Company",1145502107,3.5,2.5,3,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"290",161,"Florida Beer Company",1145060142,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"291",161,"Florida Beer Company",1143407543,2.5,2.5,3,"American Amber / Red Ale",3,2.5,"Key West Sunset Ale",4.8,2350
+"292",161,"Florida Beer Company",1143241746,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"293",161,"Florida Beer Company",1142045191,4.5,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"294",161,"Florida Beer Company",1141779542,4,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"295",161,"Florida Beer Company",1141750471,4,3,4,"American Amber / Red Ale",3.5,3,"Key West Sunset Ale",4.8,2350
+"296",161,"Florida Beer Company",1141593620,3,3,3,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"297",161,"Florida Beer Company",1138593677,3,3,4,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"298",161,"Florida Beer Company",1138158221,3.5,3,3,"American Amber / Red Ale",3,3.5,"Key West Sunset Ale",4.8,2350
+"299",161,"Florida Beer Company",1137000984,4,3.5,3,"American Amber / Red Ale",3.5,3.5,"Key West Sunset Ale",4.8,2350
+"300",161,"Florida Beer Company",1126579129,3.5,3,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"301",161,"Florida Beer Company",1125901706,5,4,3.5,"American Amber / Red Ale",3,4,"Key West Sunset Ale",4.8,2350
+"302",161,"Florida Beer Company",1123105935,3.5,3,2,"American Amber / Red Ale",4.5,3.5,"Key West Sunset Ale",4.8,2350
+"303",161,"Florida Beer Company",1120194739,3.5,2.5,3.5,"American Amber / Red Ale",3,3,"Key West Sunset Ale",4.8,2350
+"304",161,"Florida Beer Company",1281021598,3,3,3.5,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"305",161,"Florida Beer Company",1267871814,4,3,3.5,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"306",161,"Florida Beer Company",1243206896,3.5,3.5,3.5,"English Brown Ale",2.5,2.5,"Ybor Gold Brown Ale",4.4,278
+"307",161,"Florida Beer Company",1230425440,3.5,3.5,4,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"308",161,"Florida Beer Company",1228184040,4,4,3.5,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"309",161,"Florida Beer Company",1209570709,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"310",161,"Florida Beer Company",1204579646,4,4,4,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"311",161,"Florida Beer Company",1200867231,2.5,3,3,"English Brown Ale",2.5,2.5,"Ybor Gold Brown Ale",4.4,278
+"312",161,"Florida Beer Company",1200864331,3,2.5,3,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"313",161,"Florida Beer Company",1176419542,3.5,3,4,"English Brown Ale",4,3.5,"Ybor Gold Brown Ale",4.4,278
+"314",161,"Florida Beer Company",1169405308,3.5,3.5,3,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"315",161,"Florida Beer Company",1169329518,2.5,2.5,2.5,"English Brown Ale",2.5,2.5,"Ybor Gold Brown Ale",4.4,278
+"316",161,"Florida Beer Company",1158620247,3,3.5,3.5,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"317",161,"Florida Beer Company",1153190873,4,3,3,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"318",161,"Florida Beer Company",1152391232,3.5,3,3.5,"English Brown Ale",4,3.5,"Ybor Gold Brown Ale",4.4,278
+"319",161,"Florida Beer Company",1151785867,3,3,3,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"320",161,"Florida Beer Company",1151194438,4,3.5,4,"English Brown Ale",3,4,"Ybor Gold Brown Ale",4.4,278
+"321",161,"Florida Beer Company",1149901817,4,3.5,3.5,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"322",161,"Florida Beer Company",1148873772,3,3,3,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"323",161,"Florida Beer Company",1146763628,3,3.5,3.5,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"324",161,"Florida Beer Company",1146197987,3,3,3.5,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"325",161,"Florida Beer Company",1140222557,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"326",161,"Florida Beer Company",1137646059,4,3,3,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"327",161,"Florida Beer Company",1126236039,3.5,3.5,4,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"328",161,"Florida Beer Company",1121036860,3,3,3.5,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"329",161,"Florida Beer Company",1103419521,4,2.5,4,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"330",161,"Florida Beer Company",1103070594,4.5,3.5,4,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"331",161,"Florida Beer Company",1100552957,5,4.5,4,"English Brown Ale",4,4.5,"Ybor Gold Brown Ale",4.4,278
+"332",161,"Florida Beer Company",1099006805,3,2.5,3,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"333",161,"Florida Beer Company",1098316977,4,3.5,4,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"334",161,"Florida Beer Company",1091061424,4,3.5,3,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"335",161,"Florida Beer Company",1086221261,4,3.5,3.5,"English Brown Ale",3.5,4,"Ybor Gold Brown Ale",4.4,278
+"336",161,"Florida Beer Company",1081481165,4,4,4,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"337",161,"Florida Beer Company",1071072428,3.5,3.5,3.5,"English Brown Ale",3.5,3,"Ybor Gold Brown Ale",4.4,278
+"338",161,"Florida Beer Company",1059975822,3,3,4,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"339",161,"Florida Beer Company",1058092382,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Ybor Gold Brown Ale",4.4,278
+"340",161,"Florida Beer Company",1052521868,4,3.5,4,"English Brown Ale",3,3.5,"Ybor Gold Brown Ale",4.4,278
+"341",161,"Florida Beer Company",1051993223,4,3,4,"English Brown Ale",4,3.5,"Ybor Gold Brown Ale",4.4,278
+"342",161,"Florida Beer Company",1051203201,3,3,3.5,"English Brown Ale",2,3,"Ybor Gold Brown Ale",4.4,278
+"343",161,"Florida Beer Company",1026032460,3,3,4,"English Brown Ale",3,3,"Ybor Gold Brown Ale",4.4,278
+"344",161,"Florida Beer Company",1019075910,4,3.5,3.5,"English Brown Ale",4,4,"Ybor Gold Brown Ale",4.4,278
+"345",161,"Florida Beer Company",1148602968,3,3,2.5,"Light Lager",3,2.5,"Beachside Sunlight",NA,29662
+"346",161,"Florida Beer Company",1144622173,3,2,2,"Light Lager",3,2,"Beachside Sunlight",NA,29662
+"347",161,"Florida Beer Company",1144264816,5,3,1.5,"Light Lager",3.5,2,"Beachside Sunlight",NA,29662
+"348",161,"Florida Beer Company",1227740944,3,2.5,3,"Kölsch",3,2,"Indian River Shoal Draft",5,5373
+"349",161,"Florida Beer Company",1217923234,2.5,2.5,3,"Kölsch",3,2.5,"Indian River Shoal Draft",5,5373
+"350",161,"Florida Beer Company",1216341825,3.5,3,3.5,"Kölsch",4.5,3,"Indian River Shoal Draft",5,5373
+"351",161,"Florida Beer Company",1214351387,1.5,2,3,"Kölsch",2.5,2.5,"Indian River Shoal Draft",5,5373
+"352",161,"Florida Beer Company",1213674103,4,4,3.5,"Kölsch",4.5,4,"Indian River Shoal Draft",5,5373
+"353",161,"Florida Beer Company",1212024811,2.5,2,2.5,"Kölsch",3,2.5,"Indian River Shoal Draft",5,5373
+"354",161,"Florida Beer Company",1212017260,2.5,2,2,"Kölsch",2,2.5,"Indian River Shoal Draft",5,5373
+"355",161,"Florida Beer Company",1211514008,3,3.5,3,"Kölsch",3,3,"Indian River Shoal Draft",5,5373
+"356",161,"Florida Beer Company",1211132911,3,2.5,3,"Kölsch",3.5,3,"Indian River Shoal Draft",5,5373
+"357",161,"Florida Beer Company",1211075242,1.5,1.5,3,"Kölsch",3,1.5,"Indian River Shoal Draft",5,5373
+"358",161,"Florida Beer Company",1210301381,3,3,3.5,"Kölsch",3,4,"Indian River Shoal Draft",5,5373
+"359",161,"Florida Beer Company",1209779409,1,1,3,"Kölsch",1,1,"Indian River Shoal Draft",5,5373
+"360",161,"Florida Beer Company",1209777246,3,2.5,3.5,"Kölsch",3,2.5,"Indian River Shoal Draft",5,5373
+"361",161,"Florida Beer Company",1209522623,3,3.5,4,"Kölsch",3.5,3,"Indian River Shoal Draft",5,5373
+"362",161,"Florida Beer Company",1209443036,2,3.5,4,"Kölsch",3,2,"Indian River Shoal Draft",5,5373
+"363",161,"Florida Beer Company",1209324239,2,1,3.5,"Kölsch",4,2.5,"Indian River Shoal Draft",5,5373
+"364",161,"Florida Beer Company",1209081195,3,3,3,"Kölsch",3,3,"Indian River Shoal Draft",5,5373
+"365",161,"Florida Beer Company",1208713997,1.5,1,2,"Kölsch",1.5,1,"Indian River Shoal Draft",5,5373
+"366",161,"Florida Beer Company",1208702120,3,3,3,"Kölsch",3,3,"Indian River Shoal Draft",5,5373
+"367",161,"Florida Beer Company",1047670249,3.5,2.5,3.5,"Kölsch",3,3.5,"Indian River Shoal Draft",5,5373
+"368",161,"Florida Beer Company",1045519413,2.5,3,3.5,"Kölsch",2,3,"Indian River Shoal Draft",5,5373
+"369",161,"Florida Beer Company",1042569054,2.5,2.5,2.5,"Kölsch",2,2.5,"Indian River Shoal Draft",5,5373
+"370",161,"Florida Beer Company",1035312930,2.5,3.5,3.5,"Kölsch",2,2.5,"Indian River Shoal Draft",5,5373
+"371",161,"Florida Beer Company",1028902053,4,3.5,4,"Kölsch",4,4,"Indian River Shoal Draft",5,5373
+"372",161,"Florida Beer Company",1316055847,4.5,4.5,4.5,"Märzen / Oktoberfest",4,4.5,"Octoberfest",5.6,73142
+"373",161,"Florida Beer Company",1219189377,3.5,4,4.5,"American Amber / Red Ale",4,4.5,"Big River Red Ale",5.3,44423
+"374",161,"Florida Beer Company",1298870776,1,1,3,"German Pilsener",1,1,"Key West Pilsner Light",NA,3258
+"375",161,"Florida Beer Company",1224121444,1,1,2,"German Pilsener",2,1.5,"Key West Pilsner Light",NA,3258
+"376",161,"Florida Beer Company",1213496027,2,2,3.5,"German Pilsener",3,2,"Key West Pilsner Light",NA,3258
+"377",161,"Florida Beer Company",1207280699,3.5,2,2,"German Pilsener",2.5,2,"Key West Pilsner Light",NA,3258
+"378",161,"Florida Beer Company",1176250406,2.5,1.5,2,"German Pilsener",3,2.5,"Key West Pilsner Light",NA,3258
+"379",161,"Florida Beer Company",1137001377,3,2.5,3,"German Pilsener",3.5,3,"Key West Pilsner Light",NA,3258
+"380",161,"Florida Beer Company",1135020256,1.5,2,2,"German Pilsener",2.5,1.5,"Key West Pilsner Light",NA,3258
+"381",161,"Florida Beer Company",1092100168,4,2.5,3,"German Pilsener",3.5,2,"Key West Pilsner Light",NA,3258
+"382",161,"Florida Beer Company",1042568673,2,2,2,"German Pilsener",2,2,"Key West Pilsner Light",NA,3258
+"383",161,"Florida Beer Company",1041446863,3.5,2.5,2.5,"German Pilsener",2.5,2.5,"Key West Pilsner Light",NA,3258
+"384",161,"Florida Beer Company",1279338101,3,3,3,"American Pale Ale (APA)",2,3,"Fudpucker Fish Bone Beer",NA,53248
+"385",161,"Florida Beer Company",1255047252,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Fudpucker Fish Bone Beer",NA,53248
+"386",161,"Florida Beer Company",1298785783,4,4,4,"American Stout",3.5,3.5,"Florida Beer Company Chocolate Stout",NA,66713
+"387",161,"Florida Beer Company",1294882111,3.5,4,4,"Vienna Lager",4,3.5,"Hog's Breath Beer",NA,65264
+"388",161,"Florida Beer Company",1204154099,2.5,2,3,"Light Lager",2,2,"Ybor Gold Light",NA,18288
+"389",161,"Florida Beer Company",1273338139,4,3,4.5,"American Pale Ale (APA)",4,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"390",161,"Florida Beer Company",1262468315,4,4,4,"American Pale Ale (APA)",4,4,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"391",161,"Florida Beer Company",1260249045,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"392",161,"Florida Beer Company",1256937882,2.5,3,3.5,"American Pale Ale (APA)",4.5,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"393",161,"Florida Beer Company",1231912832,3,3,4,"American Pale Ale (APA)",3.5,3,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"394",161,"Florida Beer Company",1230756682,4,3.5,4,"American Pale Ale (APA)",4.5,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"395",161,"Florida Beer Company",1223173086,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"396",161,"Florida Beer Company",1220909952,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"397",161,"Florida Beer Company",1218156056,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"398",161,"Florida Beer Company",1217703792,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Lukaya Beer Two Tail Pale Ale",NA,44095
+"399",161,"Florida Beer Company",1321928357,3,2.5,3.5,"Märzen / Oktoberfest",2.5,3.5,"Conchtoberfest",NA,73561
+"400",161,"Florida Beer Company",1321322085,4,4,3,"Märzen / Oktoberfest",4,4,"Conchtoberfest",NA,73561
+"401",161,"Florida Beer Company",1318988021,4,4.5,4,"Märzen / Oktoberfest",3.5,4,"Conchtoberfest",NA,73561
+"402",161,"Florida Beer Company",1317958212,3.5,3,3.5,"Märzen / Oktoberfest",4,3.5,"Conchtoberfest",NA,73561
+"403",161,"Florida Beer Company",1317233554,4.5,4,3.5,"Märzen / Oktoberfest",4,4,"Conchtoberfest",NA,73561
+"404",161,"Florida Beer Company",1235992243,2.5,2.5,3,"American Adjunct Lager",3,3,"Beachside American Lager",NA,28537
+"405",161,"Florida Beer Company",1226285266,3,3,2.5,"American Adjunct Lager",3,3,"Beachside American Lager",NA,28537
+"406",161,"Florida Beer Company",1158014687,3,2.5,4,"American Adjunct Lager",4,2,"Beachside American Lager",NA,28537
+"407",161,"Florida Beer Company",1140631562,4,2,2,"American Adjunct Lager",3,4,"Beachside American Lager",NA,28537
+"408",161,"Florida Beer Company",1321321629,3.5,3,3,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"409",161,"Florida Beer Company",1316836711,2.5,3.5,2,"Witbier",2,2.5,"Key West Southernmost Wheat",NA,42311
+"410",161,"Florida Beer Company",1316127854,4,4,3.5,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"411",161,"Florida Beer Company",1316035724,4,4,3.5,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"412",161,"Florida Beer Company",1315869960,3,3.5,2,"Witbier",3,3.5,"Key West Southernmost Wheat",NA,42311
+"413",161,"Florida Beer Company",1315449529,3.5,4,3,"Witbier",3.5,3.5,"Key West Southernmost Wheat",NA,42311
+"414",161,"Florida Beer Company",1315427634,3.5,3,3,"Witbier",3,3.5,"Key West Southernmost Wheat",NA,42311
+"415",161,"Florida Beer Company",1315173571,3,3,3,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"416",161,"Florida Beer Company",1311972816,4.5,3.5,4,"Witbier",4.5,4.5,"Key West Southernmost Wheat",NA,42311
+"417",161,"Florida Beer Company",1311303184,3.5,3.5,3,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"418",161,"Florida Beer Company",1311122873,4,4,4,"Witbier",4,4.5,"Key West Southernmost Wheat",NA,42311
+"419",161,"Florida Beer Company",1308285387,3.5,4,3.5,"Witbier",4,3,"Key West Southernmost Wheat",NA,42311
+"420",161,"Florida Beer Company",1307133551,3.5,3.5,3,"Witbier",4,3,"Key West Southernmost Wheat",NA,42311
+"421",161,"Florida Beer Company",1300840787,4,3,2,"Witbier",3.5,3.5,"Key West Southernmost Wheat",NA,42311
+"422",161,"Florida Beer Company",1299788672,4,4,3,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"423",161,"Florida Beer Company",1298840131,3.5,3.5,3.5,"Witbier",3.5,3,"Key West Southernmost Wheat",NA,42311
+"424",161,"Florida Beer Company",1296787018,4,3.5,3,"Witbier",3.5,3,"Key West Southernmost Wheat",NA,42311
+"425",161,"Florida Beer Company",1294463558,4.5,3.5,3.5,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"426",161,"Florida Beer Company",1290382504,4,3.5,3.5,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"427",161,"Florida Beer Company",1288907909,3,3.5,3,"Witbier",3.5,3,"Key West Southernmost Wheat",NA,42311
+"428",161,"Florida Beer Company",1288734817,4,4,3.5,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"429",161,"Florida Beer Company",1285002694,4,4,4,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"430",161,"Florida Beer Company",1279906542,2,2.5,2.5,"Witbier",2.5,2,"Key West Southernmost Wheat",NA,42311
+"431",161,"Florida Beer Company",1274144165,4,3.5,4,"Witbier",4,3.5,"Key West Southernmost Wheat",NA,42311
+"432",161,"Florida Beer Company",1274056897,3.5,3,3.5,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"433",161,"Florida Beer Company",1272665774,3,3.5,3.5,"Witbier",4,3.5,"Key West Southernmost Wheat",NA,42311
+"434",161,"Florida Beer Company",1272322403,3.5,4.5,4,"Witbier",4,3,"Key West Southernmost Wheat",NA,42311
+"435",161,"Florida Beer Company",1270441772,3.5,4,3,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"436",161,"Florida Beer Company",1270357491,2.5,2,3,"Witbier",2.5,2,"Key West Southernmost Wheat",NA,42311
+"437",161,"Florida Beer Company",1264752428,2,2,3,"Witbier",2.5,2.5,"Key West Southernmost Wheat",NA,42311
+"438",161,"Florida Beer Company",1261887813,3,3.5,3.5,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"439",161,"Florida Beer Company",1260320642,3,3,3.5,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"440",161,"Florida Beer Company",1254368034,3,3.5,4,"Witbier",3,2.5,"Key West Southernmost Wheat",NA,42311
+"441",161,"Florida Beer Company",1253485572,4,3.5,4,"Witbier",3.5,3,"Key West Southernmost Wheat",NA,42311
+"442",161,"Florida Beer Company",1252290533,3,3.5,3.5,"Witbier",3.5,3.5,"Key West Southernmost Wheat",NA,42311
+"443",161,"Florida Beer Company",1251058567,3.5,3.5,3.5,"Witbier",3,4,"Key West Southernmost Wheat",NA,42311
+"444",161,"Florida Beer Company",1249572520,3.5,3.5,3.5,"Witbier",3,3.5,"Key West Southernmost Wheat",NA,42311
+"445",161,"Florida Beer Company",1242169943,4.5,4,4,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"446",161,"Florida Beer Company",1238033045,3.5,3.5,2.5,"Witbier",2.5,4,"Key West Southernmost Wheat",NA,42311
+"447",161,"Florida Beer Company",1237075081,3,4,4,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"448",161,"Florida Beer Company",1235271313,2,2,2.5,"Witbier",2,2.5,"Key West Southernmost Wheat",NA,42311
+"449",161,"Florida Beer Company",1234837962,4,4,4,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"450",161,"Florida Beer Company",1230866392,4,3,2,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"451",161,"Florida Beer Company",1230407776,3.5,3,4,"Witbier",3,3.5,"Key West Southernmost Wheat",NA,42311
+"452",161,"Florida Beer Company",1228958199,4,3,3,"Witbier",2.5,3,"Key West Southernmost Wheat",NA,42311
+"453",161,"Florida Beer Company",1225508095,3.5,3.5,3,"Witbier",3.5,3.5,"Key West Southernmost Wheat",NA,42311
+"454",161,"Florida Beer Company",1221868600,3.5,3.5,3.5,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"455",161,"Florida Beer Company",1221332858,2,2,1.5,"Witbier",2.5,2,"Key West Southernmost Wheat",NA,42311
+"456",161,"Florida Beer Company",1221090349,4,3,3,"Witbier",3,3,"Key West Southernmost Wheat",NA,42311
+"457",161,"Florida Beer Company",1220676236,4.5,4,4,"Witbier",4,4.5,"Key West Southernmost Wheat",NA,42311
+"458",161,"Florida Beer Company",1219865820,4,4,4,"Witbier",4,4,"Key West Southernmost Wheat",NA,42311
+"459",161,"Florida Beer Company",1218307755,4,3.5,3.5,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"460",161,"Florida Beer Company",1213654652,3.5,4,3.5,"Witbier",3.5,4,"Key West Southernmost Wheat",NA,42311
+"461",161,"Florida Beer Company",1209066526,4,3.5,4,"Witbier",4,3.5,"Key West Southernmost Wheat",NA,42311
+"462",161,"Florida Beer Company",1294609451,4,4,4,"American Porter",4,4,"Beachside Porter",NA,28824
+"463",161,"Florida Beer Company",1235992298,2.5,4,3,"American Porter",3,3,"Beachside Porter",NA,28824
+"464",161,"Florida Beer Company",1235880362,3,3.5,4,"American Porter",3,3.5,"Beachside Porter",NA,28824
+"465",161,"Florida Beer Company",1235272406,2.5,2.5,3,"American Porter",2,3,"Beachside Porter",NA,28824
+"466",161,"Florida Beer Company",1224649892,3.5,4,4,"American Porter",3.5,3.5,"Beachside Porter",NA,28824
+"467",161,"Florida Beer Company",1214014757,4,3.5,4,"American Porter",3.5,4,"Beachside Porter",NA,28824
+"468",161,"Florida Beer Company",1207530491,3.5,3.5,3.5,"American Porter",3,4,"Beachside Porter",NA,28824
+"469",161,"Florida Beer Company",1156827154,4,4,4,"American Porter",4,4,"Beachside Porter",NA,28824
+"470",161,"Florida Beer Company",1142303352,3.5,3.5,4,"American Porter",3,3.5,"Beachside Porter",NA,28824
+"471",161,"Florida Beer Company",1141752123,3,3.5,3,"American Porter",3,3.5,"Beachside Porter",NA,28824
+"472",161,"Florida Beer Company",1213539473,2.5,2,3,"Light Lager",2,2,"Ybor Gold Light",NA,18288
+"473",161,"Florida Beer Company",1176422245,5,2,3,"Light Lager",4,3,"Ybor Gold Light",NA,18288
+"474",161,"Florida Beer Company",1176340109,3,2.5,2.5,"Light Lager",3,2.5,"Ybor Gold Light",NA,18288
+"475",161,"Florida Beer Company",1169404483,3,2.5,3,"Light Lager",2.5,2.5,"Ybor Gold Light",NA,18288
+"476",161,"Florida Beer Company",1153268256,3.5,2,2,"Light Lager",2.5,2.5,"Ybor Gold Light",NA,18288
+"477",161,"Florida Beer Company",1145227369,3.5,3.5,3,"Light Lager",3,3,"Ybor Gold Light",NA,18288
+"478",161,"Florida Beer Company",1131328624,2.5,3,4,"Light Lager",3,3,"Ybor Gold Light",NA,18288
+"479",161,"Florida Beer Company",1091062511,2,2,2,"Light Lager",2,2,"Ybor Gold Light",NA,18288
+"480",161,"Florida Beer Company",1087767583,2.5,3,3.5,"Light Lager",2,2.5,"Ybor Gold Light",NA,18288
+"481",161,"Florida Beer Company",1079570273,1.5,1.5,2,"Light Lager",1,2.5,"Ybor Gold Light",NA,18288
+"482",161,"Florida Beer Company",1233457056,2.5,3,3.5,"Vienna Lager",2,2.5,"Mentirosa",NA,42586
+"483",161,"Florida Beer Company",1210465259,2.5,2.5,3.5,"Vienna Lager",3,3,"Mentirosa",NA,42586
+"484",161,"Florida Beer Company",1239496805,3,3.5,4,"American Amber / Red Ale",3.5,3.5,"Beachside High Tide",8.5,49088
+"485",161,"Florida Beer Company",1313989806,3,3,3.5,"American Adjunct Lager",3,2.5,"Key West Golden Lager",5,29976
+"486",161,"Florida Beer Company",1306705657,2,2,2.5,"American Adjunct Lager",2.5,2.5,"Key West Golden Lager",5,29976
+"487",161,"Florida Beer Company",1264225766,2.5,1.5,3.5,"American Adjunct Lager",3.5,2.5,"Key West Golden Lager",5,29976
+"488",161,"Florida Beer Company",1254871498,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Key West Golden Lager",5,29976
+"489",161,"Florida Beer Company",1254869931,3.5,3,3.5,"American Adjunct Lager",2.5,2.5,"Key West Golden Lager",5,29976
+"490",161,"Florida Beer Company",1254082776,4,3,4,"American Adjunct Lager",3,4,"Key West Golden Lager",5,29976
+"491",161,"Florida Beer Company",1253409048,3.5,2,3,"American Adjunct Lager",3.5,3,"Key West Golden Lager",5,29976
+"492",161,"Florida Beer Company",1253401109,4,2.5,3,"American Adjunct Lager",3,2.5,"Key West Golden Lager",5,29976
+"493",161,"Florida Beer Company",1252369033,3,3,3.5,"American Adjunct Lager",3.5,3,"Key West Golden Lager",5,29976
+"494",161,"Florida Beer Company",1252176856,3,3.5,3.5,"American Adjunct Lager",3,1.5,"Key West Golden Lager",5,29976
+"495",161,"Florida Beer Company",1252114755,3.5,2.5,3,"American Adjunct Lager",3,3,"Key West Golden Lager",5,29976
+"496",161,"Florida Beer Company",1252030689,4,3,3,"American Adjunct Lager",4,3,"Key West Golden Lager",5,29976
+"497",161,"Florida Beer Company",1251915106,3,3,3,"American Adjunct Lager",3.5,3,"Key West Golden Lager",5,29976
+"498",161,"Florida Beer Company",1251421179,3.5,3,3.5,"American Adjunct Lager",4,3.5,"Key West Golden Lager",5,29976
+"499",161,"Florida Beer Company",1251152401,2.5,2.5,3.5,"American Adjunct Lager",2,2.5,"Key West Golden Lager",5,29976
+"500",161,"Florida Beer Company",1145282544,2.5,2.5,3,"American Adjunct Lager",2,2.5,"Key West Golden Lager",5,29976
+"501",161,"Florida Beer Company",1219107867,4.5,3.5,3.5,"Czech Pilsener",4,4,"Big River Pilsner",5.2,44403
+"502",161,"Florida Beer Company",1210043559,1.5,2,2.5,"American Adjunct Lager",2.5,2,"Yes I",NA,37462
+"503",161,"Florida Beer Company",1187589514,2,2.5,2.5,"American Adjunct Lager",2.5,2,"Yes I",NA,37462
+"504",161,"Florida Beer Company",1183076391,3,2,3,"American Adjunct Lager",3,2.5,"Yes I",NA,37462
+"505",161,"Florida Beer Company",1183075800,3,2.5,2.5,"American Adjunct Lager",2.5,2,"Yes I",NA,37462
+"506",161,"Florida Beer Company",1318029233,3.5,3,3.5,"Scottish Ale",3.5,3.5,"Hog's Head Brew (Harry Potter)",NA,65437
+"507",161,"Florida Beer Company",1310529388,4,3.5,3.5,"Scottish Ale",3.5,4,"Hog's Head Brew (Harry Potter)",NA,65437
+"508",161,"Florida Beer Company",1295464673,4,3,3,"Scottish Ale",4,3.5,"Hog's Head Brew (Harry Potter)",NA,65437
+"509",161,"Florida Beer Company",1291779367,2,2.5,4.5,"Czech Pilsener",3,2,"Sarveza",5.14,63308
+"510",161,"Florida Beer Company",1291690739,4.5,3.5,3.5,"Czech Pilsener",4,4,"Sarveza",5.14,63308
+"511",161,"Florida Beer Company",1289256188,4,3.5,4.5,"Czech Pilsener",3.5,3.5,"Sarveza",5.14,63308
+"512",161,"Florida Beer Company",1270070391,1,1,1,"Altbier",1,1,"Indian River Amberjack Alt",5,5374
+"513",161,"Florida Beer Company",1249856020,1,4,4,"Altbier",2,1,"Indian River Amberjack Alt",5,5374
+"514",161,"Florida Beer Company",1227454749,2.5,2.5,2.5,"Altbier",3,2,"Indian River Amberjack Alt",5,5374
+"515",161,"Florida Beer Company",1215889996,1,1,2.5,"Altbier",2,1,"Indian River Amberjack Alt",5,5374
+"516",161,"Florida Beer Company",1214866659,3.5,3.5,3.5,"Altbier",3.5,3.5,"Indian River Amberjack Alt",5,5374
+"517",161,"Florida Beer Company",1214182862,3,3,3,"Altbier",4,2.5,"Indian River Amberjack Alt",5,5374
+"518",161,"Florida Beer Company",1212024010,3,3,3.5,"Altbier",2.5,3,"Indian River Amberjack Alt",5,5374
+"519",161,"Florida Beer Company",1211933369,2.5,3.5,3,"Altbier",3,2.5,"Indian River Amberjack Alt",5,5374
+"520",161,"Florida Beer Company",1211410674,3,3,3.5,"Altbier",3,2,"Indian River Amberjack Alt",5,5374
+"521",161,"Florida Beer Company",1210456553,3,3,3.5,"Altbier",3.5,3,"Indian River Amberjack Alt",5,5374
+"522",161,"Florida Beer Company",1210017902,3.5,3.5,4,"Altbier",3.5,2.5,"Indian River Amberjack Alt",5,5374
+"523",161,"Florida Beer Company",1209779813,2,1.5,3,"Altbier",1.5,1.5,"Indian River Amberjack Alt",5,5374
+"524",161,"Florida Beer Company",1209519163,1,1,3,"Altbier",1.5,1,"Indian River Amberjack Alt",5,5374
+"525",161,"Florida Beer Company",1209442516,4,3.5,3.5,"Altbier",3.5,3.5,"Indian River Amberjack Alt",5,5374
+"526",161,"Florida Beer Company",1208697442,1,1,3,"Altbier",3.5,1,"Indian River Amberjack Alt",5,5374
+"527",161,"Florida Beer Company",1201729558,3,3,3,"Altbier",3,3,"Indian River Amberjack Alt",5,5374
+"528",161,"Florida Beer Company",1088128439,2.5,3,3.5,"Altbier",3,3,"Indian River Amberjack Alt",5,5374
+"529",161,"Florida Beer Company",1047670576,3.5,3.5,4,"Altbier",3,3.5,"Indian River Amberjack Alt",5,5374
+"530",161,"Florida Beer Company",1045430985,3.5,3.5,3.5,"Altbier",3,3.5,"Indian River Amberjack Alt",5,5374
+"531",161,"Florida Beer Company",1042569311,3,3,3,"Altbier",2.5,2.5,"Indian River Amberjack Alt",5,5374
+"532",161,"Florida Beer Company",1031945666,3,3.5,3.5,"Altbier",3.5,3,"Indian River Amberjack Alt",5,5374
+"533",161,"Florida Beer Company",1028902620,4,4,4,"Altbier",4,4.5,"Indian River Amberjack Alt",5,5374
+"534",161,"Florida Beer Company",1308773352,3.5,3.5,3.5,"American Pale Lager",3.5,4,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"535",161,"Florida Beer Company",1303169698,3.5,2,3,"American Pale Lager",3.5,3.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"536",161,"Florida Beer Company",1289675715,3,3,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"537",161,"Florida Beer Company",1196274515,3,3,4,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"538",161,"Florida Beer Company",1283386019,2,2.5,3.5,"American Pale Lager",2.5,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"539",161,"Florida Beer Company",1283209802,2,1,3.5,"American Pale Lager",3.5,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"540",161,"Florida Beer Company",1256022099,2.5,2,2,"American Pale Lager",2.5,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"541",161,"Florida Beer Company",1252991820,4,3,3,"American Pale Lager",3.5,4,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"542",161,"Florida Beer Company",1248546036,2,3,3.5,"American Pale Lager",2.5,1.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"543",161,"Florida Beer Company",1247351448,3.5,3.5,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"544",161,"Florida Beer Company",1246062489,3,2,3,"American Pale Lager",3.5,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"545",161,"Florida Beer Company",1237523750,2,3,3.5,"American Pale Lager",2.5,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"546",161,"Florida Beer Company",1234757845,3,2.5,2.5,"American Pale Lager",3.5,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"547",161,"Florida Beer Company",1219778752,3,2.5,2.5,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"548",161,"Florida Beer Company",1207373477,3.5,2,3.5,"American Pale Lager",3,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"549",161,"Florida Beer Company",1170985268,2.5,2,2.5,"American Pale Lager",2.5,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"550",161,"Florida Beer Company",1166312167,3.5,3,2.5,"American Pale Lager",3,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"551",161,"Florida Beer Company",1159835272,2.5,2,3,"American Pale Lager",3,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"552",161,"Florida Beer Company",1141995834,3,3,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"553",161,"Florida Beer Company",1129694441,1,2,2,"American Pale Lager",3,1.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"554",161,"Florida Beer Company",1110639119,3,2,3.5,"American Pale Lager",2.5,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"555",161,"Florida Beer Company",1087229013,2.5,3,3.5,"American Pale Lager",3,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"556",161,"Florida Beer Company",1085593263,3.5,2.5,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"557",161,"Florida Beer Company",1085442047,3.5,3,3.5,"American Pale Lager",3.5,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"558",161,"Florida Beer Company",1155342862,3,2.5,2.5,"American Pale Ale (APA)",3,2.5,"Alligator Drool",NA,32211
+"559",161,"Florida Beer Company",1080540552,2.5,2.5,3,"American Pale Lager",2.5,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"560",161,"Florida Beer Company",1062102057,3,2.5,3,"American Pale Lager",3,3,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"561",161,"Florida Beer Company",1051013243,1.5,1,1.5,"American Pale Lager",1,1.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"562",161,"Florida Beer Company",1050090800,3,2,2.5,"American Pale Lager",2,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"563",161,"Florida Beer Company",1045958741,2.5,2.5,2.5,"American Pale Lager",2.5,2.5,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"564",161,"Florida Beer Company",1034261494,2,2,4,"American Pale Lager",2,2,"Hurricane Reef Caribbean Pilsner",4.7,1559
+"565",161,"Florida Beer Company",1299369614,3.5,3.5,3.5,"English Porter",3,3,"Ybor Gold Gaspars Porter",5.2,16604
+"566",161,"Florida Beer Company",1278465791,3,2.5,3,"English Porter",3,2.5,"Ybor Gold Gaspars Porter",5.2,16604
+"567",161,"Florida Beer Company",1269219373,3,4,3.5,"English Porter",4,2.5,"Ybor Gold Gaspars Porter",5.2,16604
+"568",161,"Florida Beer Company",1209571303,3.5,4,4,"English Porter",4,4,"Ybor Gold Gaspars Porter",5.2,16604
+"569",161,"Florida Beer Company",1207163191,4.5,4,4,"English Porter",4,4,"Ybor Gold Gaspars Porter",5.2,16604
+"570",161,"Florida Beer Company",1201178797,3,3,3.5,"English Porter",3,3,"Ybor Gold Gaspars Porter",5.2,16604
+"571",161,"Florida Beer Company",1168897423,3,2.5,3.5,"English Porter",3,2.5,"Ybor Gold Gaspars Porter",5.2,16604
+"572",161,"Florida Beer Company",1168825612,3.5,3.5,3,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"573",161,"Florida Beer Company",1153206667,3.5,4,3.5,"English Porter",4,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"574",161,"Florida Beer Company",1152934163,3.5,3,4,"English Porter",3,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"575",161,"Florida Beer Company",1152662318,4.5,3.5,3,"English Porter",4,4,"Ybor Gold Gaspars Porter",5.2,16604
+"576",161,"Florida Beer Company",1151981533,4,4,4,"English Porter",4,3,"Ybor Gold Gaspars Porter",5.2,16604
+"577",161,"Florida Beer Company",1151101413,3.5,3,4,"English Porter",3,3,"Ybor Gold Gaspars Porter",5.2,16604
+"578",161,"Florida Beer Company",1150508572,3.5,3.5,3.5,"English Porter",3,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"579",161,"Florida Beer Company",1148876766,3.5,3.5,3.5,"English Porter",3.5,4,"Ybor Gold Gaspars Porter",5.2,16604
+"580",161,"Florida Beer Company",1147269629,3.5,3.5,4,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"581",161,"Florida Beer Company",1315855273,3,3,3.5,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"582",161,"Florida Beer Company",1146362724,3.5,2.5,3.5,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"583",161,"Florida Beer Company",1146338576,3.5,3.5,3.5,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"584",161,"Florida Beer Company",1146190236,3,3.5,4,"English Porter",3.5,3,"Ybor Gold Gaspars Porter",5.2,16604
+"585",161,"Florida Beer Company",1145908151,3.5,3,3.5,"English Porter",2.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"586",161,"Florida Beer Company",1145234900,2.5,2.5,3,"English Porter",3,2,"Ybor Gold Gaspars Porter",5.2,16604
+"587",161,"Florida Beer Company",1142793450,2.5,3.5,3,"English Porter",3,3,"Ybor Gold Gaspars Porter",5.2,16604
+"588",161,"Florida Beer Company",1140221925,3.5,2,3,"English Porter",3.5,4,"Ybor Gold Gaspars Porter",5.2,16604
+"589",161,"Florida Beer Company",1098236585,3.5,3.5,3.5,"English Porter",2.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"590",161,"Florida Beer Company",1091063346,3.5,3.5,4,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"591",161,"Florida Beer Company",1240351527,2.5,2.5,3,"American Pale Ale (APA)",2.5,3,"Alligator Drool",NA,32211
+"592",161,"Florida Beer Company",1086219974,4.5,3.5,4,"English Porter",3.5,4,"Ybor Gold Gaspars Porter",5.2,16604
+"593",161,"Florida Beer Company",1082563581,3.5,3.5,4.5,"English Porter",4,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"594",161,"Florida Beer Company",1081480827,3,3.5,4,"English Porter",4,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"595",161,"Florida Beer Company",1080755423,4,3,3.5,"English Porter",3.5,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"596",161,"Florida Beer Company",1079570178,3.5,3.5,4,"English Porter",3,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"597",161,"Florida Beer Company",1076218672,3,3.5,4,"English Porter",3,3.5,"Ybor Gold Gaspars Porter",5.2,16604
+"598",161,"Florida Beer Company",1070435742,4,3.5,3.5,"English Porter",4,4,"Ybor Gold Gaspars Porter",5.2,16604
+"599",161,"Florida Beer Company",1049286119,3,3.5,4,"English Porter",3,4,"Ybor Gold Gaspars Porter",5.2,16604
+"600",161,"Florida Beer Company",1045385956,3.5,4,4,"English Porter",3.5,4,"Ybor Gold Gaspars Porter",5.2,16604
+"601",161,"Florida Beer Company",1044931382,4,3.5,4,"English Porter",4,4.5,"Ybor Gold Gaspars Porter",5.2,16604
+"602",161,"Florida Beer Company",1315147054,3,3,3,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"603",161,"Florida Beer Company",1314548098,3,3,4,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"604",161,"Florida Beer Company",1310239626,4.5,3,3.5,"Vienna Lager",4,4.5,"Ybor Gold Amber Lager",4.6,18290
+"605",161,"Florida Beer Company",1305583657,3,2.5,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"606",161,"Florida Beer Company",1294960046,3,2.5,3.5,"Vienna Lager",3,2.5,"Ybor Gold Amber Lager",4.6,18290
+"607",161,"Florida Beer Company",1290384352,3.5,3,3,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"608",161,"Florida Beer Company",1279599175,3.5,3,2,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"609",161,"Florida Beer Company",1278465752,3,3,2.5,"Vienna Lager",3,2.5,"Ybor Gold Amber Lager",4.6,18290
+"610",161,"Florida Beer Company",1269810439,4,4,3,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"611",161,"Florida Beer Company",1269568045,3,3,4,"Vienna Lager",2.5,3,"Ybor Gold Amber Lager",4.6,18290
+"612",161,"Florida Beer Company",1258086341,3.5,3.5,3.5,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"613",161,"Florida Beer Company",1241140027,4,3,3,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"614",161,"Florida Beer Company",1233189127,4,3,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"615",161,"Florida Beer Company",1230216703,3,2.5,3.5,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"616",161,"Florida Beer Company",1229774083,4,3,3.5,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"617",161,"Florida Beer Company",1228881472,4.5,3.5,3.5,"Vienna Lager",4,3.5,"Ybor Gold Amber Lager",4.6,18290
+"618",161,"Florida Beer Company",1215540904,2.5,2.5,3,"Vienna Lager",3,2.5,"Ybor Gold Amber Lager",4.6,18290
+"619",161,"Florida Beer Company",1210991057,3.5,3,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"620",161,"Florida Beer Company",1209570419,4,4,3.5,"Vienna Lager",3.5,4,"Ybor Gold Amber Lager",4.6,18290
+"621",161,"Florida Beer Company",1203544199,3.5,3,3.5,"Vienna Lager",4,3.5,"Ybor Gold Amber Lager",4.6,18290
+"622",161,"Florida Beer Company",1200509088,4,3.5,4,"Vienna Lager",4,4.5,"Ybor Gold Amber Lager",4.6,18290
+"623",161,"Florida Beer Company",1195361927,4,3,3.5,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"624",161,"Florida Beer Company",1187666793,3.5,2.5,2.5,"Vienna Lager",3.5,4,"Ybor Gold Amber Lager",4.6,18290
+"625",161,"Florida Beer Company",1184886265,4,4,4,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"626",161,"Florida Beer Company",1181533510,3.5,3,2.5,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"627",161,"Florida Beer Company",1179620791,3,2.5,3.5,"Vienna Lager",4,2.5,"Ybor Gold Amber Lager",4.6,18290
+"628",161,"Florida Beer Company",1176340988,2.5,3,3.5,"Vienna Lager",3,2.5,"Ybor Gold Amber Lager",4.6,18290
+"629",161,"Florida Beer Company",1176256680,3.5,2.5,3,"Vienna Lager",3.5,4,"Ybor Gold Amber Lager",4.6,18290
+"630",161,"Florida Beer Company",1173250664,4,3.5,3.5,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"631",161,"Florida Beer Company",1169404772,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"632",161,"Florida Beer Company",1168146968,3,3,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"633",161,"Florida Beer Company",1155320202,3.5,3,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"634",161,"Florida Beer Company",1153175770,4,3.5,3,"Vienna Lager",2.5,3,"Ybor Gold Amber Lager",4.6,18290
+"635",161,"Florida Beer Company",1145416364,4.5,4,3,"Vienna Lager",3,4,"Ybor Gold Amber Lager",4.6,18290
+"636",161,"Florida Beer Company",1143608449,3,2.5,2.5,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"637",161,"Florida Beer Company",1141106131,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"638",161,"Florida Beer Company",1138420069,3.5,4.5,3.5,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"639",161,"Florida Beer Company",1126498923,3,3.5,4,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"640",161,"Florida Beer Company",1126234120,3,3,3,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"641",161,"Florida Beer Company",1125581464,3,3.5,3,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"642",161,"Florida Beer Company",1118295482,3.5,3.5,3.5,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"643",161,"Florida Beer Company",1107564611,4,3,3,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"644",161,"Florida Beer Company",1104985444,3.5,3.5,3,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"645",161,"Florida Beer Company",1097809308,3.5,3,3.5,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"646",161,"Florida Beer Company",1096301402,3.5,3,3,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"647",161,"Florida Beer Company",1086968774,3.5,3.5,4,"Vienna Lager",3,3.5,"Ybor Gold Amber Lager",4.6,18290
+"648",161,"Florida Beer Company",1082003578,4,3.5,3.5,"Vienna Lager",4,4,"Ybor Gold Amber Lager",4.6,18290
+"649",161,"Florida Beer Company",1079533939,3.5,2.5,3.5,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"650",161,"Florida Beer Company",1077847917,2,3,2,"Vienna Lager",2.5,2.5,"Ybor Gold Amber Lager",4.6,18290
+"651",161,"Florida Beer Company",1072797797,3.5,2.5,3.5,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"652",161,"Florida Beer Company",1065412126,3,3,3,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"653",161,"Florida Beer Company",1058092012,2.5,3,3,"Vienna Lager",2,3,"Ybor Gold Amber Lager",4.6,18290
+"654",161,"Florida Beer Company",1057148662,3.5,3.5,3,"Vienna Lager",3.5,3,"Ybor Gold Amber Lager",4.6,18290
+"655",161,"Florida Beer Company",1043916412,4,3,3,"Vienna Lager",3,4,"Ybor Gold Amber Lager",4.6,18290
+"656",161,"Florida Beer Company",1041015758,2.5,2.5,2,"Vienna Lager",2.5,2.5,"Ybor Gold Amber Lager",4.6,18290
+"657",161,"Florida Beer Company",1034407596,3,3,3,"Vienna Lager",3,2.5,"Ybor Gold Amber Lager",4.6,18290
+"658",161,"Florida Beer Company",1034347624,2.5,3,3.5,"Vienna Lager",2.5,2.5,"Ybor Gold Amber Lager",4.6,18290
+"659",161,"Florida Beer Company",1034097449,4.5,3.5,3.5,"Vienna Lager",3,3,"Ybor Gold Amber Lager",4.6,18290
+"660",161,"Florida Beer Company",1033149271,4,3,3.5,"Vienna Lager",3.5,3.5,"Ybor Gold Amber Lager",4.6,18290
+"661",161,"Florida Beer Company",1015193523,4,3.5,3.5,"Vienna Lager",4,3.5,"Ybor Gold Amber Lager",4.6,18290
+"662",161,"Florida Beer Company",1004102629,4,4,3,"Vienna Lager",3,4,"Ybor Gold Amber Lager",4.6,18290
+"663",161,"Florida Beer Company",993251702,4,4,4,"Vienna Lager",3,4,"Ybor Gold Amber Lager",4.6,18290

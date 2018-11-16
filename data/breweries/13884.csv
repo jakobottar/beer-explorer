@@ -1,0 +1,948 @@
+"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+"1",13884,"Peak Organic Brewing Company",1321912634,3.5,3.5,4,"American Pale Ale (APA)",3.5,3,"Local Series ME",6.8,75021
+"2",13884,"Peak Organic Brewing Company",1163823315,3.5,3.5,4,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"3",13884,"Peak Organic Brewing Company",1321402465,3.5,3.5,3.5,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"4",13884,"Peak Organic Brewing Company",1324235736,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Local Series MA",6.8,75305
+"5",13884,"Peak Organic Brewing Company",1321553884,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Local Series ME",6.8,75021
+"6",13884,"Peak Organic Brewing Company",1303852621,3,3,3,"American Amber / Red Ale",3,3,"King Crimson",9,55115
+"7",13884,"Peak Organic Brewing Company",1248543872,4,4,3,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"8",13884,"Peak Organic Brewing Company",1225324851,4.5,4,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"9",13884,"Peak Organic Brewing Company",1219195076,3.5,3,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"10",13884,"Peak Organic Brewing Company",1262211167,4,4,4,"American Pale Wheat Ale",4,4,"Peak Pomegranate Wheat Ale",6,47945
+"11",13884,"Peak Organic Brewing Company",1326042155,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Peak Pomegranate Wheat Ale",6,47945
+"12",13884,"Peak Organic Brewing Company",1323484914,3,3.5,3,"American Pale Wheat Ale",3,2.5,"Peak Pomegranate Wheat Ale",6,47945
+"13",13884,"Peak Organic Brewing Company",1322081750,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"14",13884,"Peak Organic Brewing Company",1321121964,3.5,3,4,"American Pale Wheat Ale",4,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"15",13884,"Peak Organic Brewing Company",1303050703,3,3.5,3,"American Pale Wheat Ale",3,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"16",13884,"Peak Organic Brewing Company",1240020283,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Peak Pomegranate Wheat Ale",6,47945
+"17",13884,"Peak Organic Brewing Company",1300576267,4,3.5,4,"American Pale Wheat Ale",4,4,"Peak Pomegranate Wheat Ale",6,47945
+"18",13884,"Peak Organic Brewing Company",1298762828,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"19",13884,"Peak Organic Brewing Company",1298616946,4,3,3.5,"American Pale Wheat Ale",3,4,"Peak Pomegranate Wheat Ale",6,47945
+"20",13884,"Peak Organic Brewing Company",1297746303,4,3,3.5,"American Pale Wheat Ale",3,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"21",13884,"Peak Organic Brewing Company",1292390157,3,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"22",13884,"Peak Organic Brewing Company",1286847753,1,1,4,"American Pale Wheat Ale",2.5,1,"Peak Pomegranate Wheat Ale",6,47945
+"23",13884,"Peak Organic Brewing Company",1284589891,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"24",13884,"Peak Organic Brewing Company",1281585238,4,3.5,3,"American Pale Wheat Ale",3.5,4,"Peak Pomegranate Wheat Ale",6,47945
+"25",13884,"Peak Organic Brewing Company",1271722814,4,3.5,4,"American Pale Wheat Ale",3.5,4,"Peak Pomegranate Wheat Ale",6,47945
+"26",13884,"Peak Organic Brewing Company",1267759494,3.5,2,3.5,"American Pale Wheat Ale",2.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"27",13884,"Peak Organic Brewing Company",1267198442,3,3.5,3.5,"American Pale Wheat Ale",3.5,3,"Peak Pomegranate Wheat Ale",6,47945
+"28",13884,"Peak Organic Brewing Company",1260981025,2.5,4,4,"American Pale Wheat Ale",4,3,"Peak Pomegranate Wheat Ale",6,47945
+"29",13884,"Peak Organic Brewing Company",1260372638,1.5,2.5,3,"American Pale Wheat Ale",2,2,"Peak Pomegranate Wheat Ale",6,47945
+"30",13884,"Peak Organic Brewing Company",1257029038,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"31",13884,"Peak Organic Brewing Company",1256487017,2,2.5,3,"American Pale Wheat Ale",3,1.5,"Peak Pomegranate Wheat Ale",6,47945
+"32",13884,"Peak Organic Brewing Company",1254961648,2.5,2.5,3.5,"American Pale Wheat Ale",3,2,"Peak Pomegranate Wheat Ale",6,47945
+"33",13884,"Peak Organic Brewing Company",1254930827,2.5,3,3.5,"American Pale Wheat Ale",2,3,"Peak Pomegranate Wheat Ale",6,47945
+"34",13884,"Peak Organic Brewing Company",1253152445,3,4,2.5,"American Pale Wheat Ale",4,3,"Peak Pomegranate Wheat Ale",6,47945
+"35",13884,"Peak Organic Brewing Company",1252974225,5,3.5,4,"American Pale Wheat Ale",4.5,5,"Peak Pomegranate Wheat Ale",6,47945
+"36",13884,"Peak Organic Brewing Company",1252115468,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"37",13884,"Peak Organic Brewing Company",1251525871,2.5,2,4.5,"American Pale Wheat Ale",3.5,2,"Peak Pomegranate Wheat Ale",6,47945
+"38",13884,"Peak Organic Brewing Company",1251518206,3,3.5,3.5,"American Pale Wheat Ale",3,3,"Peak Pomegranate Wheat Ale",6,47945
+"39",13884,"Peak Organic Brewing Company",1250695906,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"40",13884,"Peak Organic Brewing Company",1250519729,3.5,3.5,3,"American Pale Wheat Ale",3.5,3,"Peak Pomegranate Wheat Ale",6,47945
+"41",13884,"Peak Organic Brewing Company",1250087671,3,3.5,3.5,"American Pale Wheat Ale",3.5,3,"Peak Pomegranate Wheat Ale",6,47945
+"42",13884,"Peak Organic Brewing Company",1246286971,1.5,3.5,4,"American Pale Wheat Ale",1,2,"Peak Pomegranate Wheat Ale",6,47945
+"43",13884,"Peak Organic Brewing Company",1245911291,2,2.5,2.5,"American Pale Wheat Ale",1.5,2.5,"Peak Pomegranate Wheat Ale",6,47945
+"44",13884,"Peak Organic Brewing Company",1241835547,3,2.5,3,"American Pale Wheat Ale",2,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"45",13884,"Peak Organic Brewing Company",1239338237,2.5,3,3,"American Pale Wheat Ale",3,3,"Peak Pomegranate Wheat Ale",6,47945
+"46",13884,"Peak Organic Brewing Company",1234636905,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Peak Pomegranate Wheat Ale",6,47945
+"47",13884,"Peak Organic Brewing Company",1325973137,4,4.5,4.5,"American Double / Imperial Stout",4,3.5,"Peak Organic French Oak Mocha Stout",8.5,68938
+"48",13884,"Peak Organic Brewing Company",1161052928,3.5,4,3.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"49",13884,"Peak Organic Brewing Company",1157927685,4,4,4,"American Pale Ale (APA)",4.5,4,"Peak Organic Pale Ale",5.05,29098
+"50",13884,"Peak Organic Brewing Company",1155577964,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"51",13884,"Peak Organic Brewing Company",1155047888,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"52",13884,"Peak Organic Brewing Company",1153265513,4,3.5,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"53",13884,"Peak Organic Brewing Company",1151289436,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Pale Ale",5.05,29098
+"54",13884,"Peak Organic Brewing Company",1150493826,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Peak Organic Pale Ale",5.05,29098
+"55",13884,"Peak Organic Brewing Company",1142724531,3,2,4,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"56",13884,"Peak Organic Brewing Company",1325979122,4,4,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"57",13884,"Peak Organic Brewing Company",1325032216,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"58",13884,"Peak Organic Brewing Company",1324527757,2.5,3,3.5,"American Pale Ale (APA)",3,2.5,"Peak Organic Pale Ale",5.05,29098
+"59",13884,"Peak Organic Brewing Company",1321056570,4,4,3.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"60",13884,"Peak Organic Brewing Company",1319336192,3,4,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"61",13884,"Peak Organic Brewing Company",1316389356,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"62",13884,"Peak Organic Brewing Company",1313622218,3,3.5,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"63",13884,"Peak Organic Brewing Company",1312732748,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"64",13884,"Peak Organic Brewing Company",1310246767,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"65",13884,"Peak Organic Brewing Company",1308364736,4,3,3,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"66",13884,"Peak Organic Brewing Company",1305496882,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"67",13884,"Peak Organic Brewing Company",1302370835,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"68",13884,"Peak Organic Brewing Company",1302227398,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"69",13884,"Peak Organic Brewing Company",1302056060,3,3,3,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"70",13884,"Peak Organic Brewing Company",1301793109,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"71",13884,"Peak Organic Brewing Company",1300064692,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"72",13884,"Peak Organic Brewing Company",1298611208,2.5,3,4,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"73",13884,"Peak Organic Brewing Company",1296053076,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"74",13884,"Peak Organic Brewing Company",1293669934,4,4.5,4,"American Pale Ale (APA)",3,4,"Peak Organic Pale Ale",5.05,29098
+"75",13884,"Peak Organic Brewing Company",1290230832,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"76",13884,"Peak Organic Brewing Company",1290217158,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"77",13884,"Peak Organic Brewing Company",1284075530,2.5,2.5,3.5,"American Pale Ale (APA)",3,2.5,"Peak Organic Pale Ale",5.05,29098
+"78",13884,"Peak Organic Brewing Company",1281836939,3.5,3,2.5,"American Pale Ale (APA)",4,3,"Peak Organic Pale Ale",5.05,29098
+"79",13884,"Peak Organic Brewing Company",1281315757,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"80",13884,"Peak Organic Brewing Company",1280699336,3.5,2.5,4,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"81",13884,"Peak Organic Brewing Company",1279066308,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"82",13884,"Peak Organic Brewing Company",1277266948,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"83",13884,"Peak Organic Brewing Company",1270672662,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"84",13884,"Peak Organic Brewing Company",1309117355,3.5,3,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"85",13884,"Peak Organic Brewing Company",1263433002,4,3,4,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"86",13884,"Peak Organic Brewing Company",1260914778,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"87",13884,"Peak Organic Brewing Company",1259802934,4,4,4.5,"American Pale Ale (APA)",4.5,4,"Peak Organic Pale Ale",5.05,29098
+"88",13884,"Peak Organic Brewing Company",1258313753,4,3,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"89",13884,"Peak Organic Brewing Company",1257986738,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"90",13884,"Peak Organic Brewing Company",1256334730,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Pale Ale",5.05,29098
+"91",13884,"Peak Organic Brewing Company",1255471253,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"92",13884,"Peak Organic Brewing Company",1253153135,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Peak Organic Pale Ale",5.05,29098
+"93",13884,"Peak Organic Brewing Company",1253069817,3,3,4,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"94",13884,"Peak Organic Brewing Company",1252287733,3,3,2.5,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"95",13884,"Peak Organic Brewing Company",1250714417,4,3,3,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"96",13884,"Peak Organic Brewing Company",1249766807,3.5,3,4.5,"American Pale Ale (APA)",2.5,3,"Peak Organic Pale Ale",5.05,29098
+"97",13884,"Peak Organic Brewing Company",1247365827,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"98",13884,"Peak Organic Brewing Company",1246240329,3,3,4,"American Pale Ale (APA)",4,3,"Peak Organic Pale Ale",5.05,29098
+"99",13884,"Peak Organic Brewing Company",1242950371,3,3,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"100",13884,"Peak Organic Brewing Company",1239338133,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"101",13884,"Peak Organic Brewing Company",1239150930,3,3.5,4,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"102",13884,"Peak Organic Brewing Company",1236521968,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"103",13884,"Peak Organic Brewing Company",1235889913,3,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"104",13884,"Peak Organic Brewing Company",1235635383,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"105",13884,"Peak Organic Brewing Company",1233857199,3.5,3.5,3.5,"American Pale Ale (APA)",4,4.5,"Peak Organic Pale Ale",5.05,29098
+"106",13884,"Peak Organic Brewing Company",1230586508,3.5,3,3,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"107",13884,"Peak Organic Brewing Company",1229456414,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"108",13884,"Peak Organic Brewing Company",1228969042,4.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"109",13884,"Peak Organic Brewing Company",1225473290,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"110",13884,"Peak Organic Brewing Company",1224212975,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,5,"Peak Organic Pale Ale",5.05,29098
+"111",13884,"Peak Organic Brewing Company",1223310905,3,3,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"112",13884,"Peak Organic Brewing Company",1218398724,3,3,3.5,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"113",13884,"Peak Organic Brewing Company",1217502509,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"114",13884,"Peak Organic Brewing Company",1215870720,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"115",13884,"Peak Organic Brewing Company",1215634743,2.5,2.5,4,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"116",13884,"Peak Organic Brewing Company",1215104638,3.5,4,5,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"117",13884,"Peak Organic Brewing Company",1214571805,3,2.5,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"118",13884,"Peak Organic Brewing Company",1213472925,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"119",13884,"Peak Organic Brewing Company",1210560316,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Peak Organic Pale Ale",5.05,29098
+"120",13884,"Peak Organic Brewing Company",1208469658,5,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"121",13884,"Peak Organic Brewing Company",1208307384,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Peak Organic Pale Ale",5.05,29098
+"122",13884,"Peak Organic Brewing Company",1207267413,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"123",13884,"Peak Organic Brewing Company",1206747910,4,3,3,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"124",13884,"Peak Organic Brewing Company",1196306141,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"125",13884,"Peak Organic Brewing Company",1204381529,3,3,4,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"126",13884,"Peak Organic Brewing Company",1204068341,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Peak Organic Pale Ale",5.05,29098
+"127",13884,"Peak Organic Brewing Company",1200724892,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"128",13884,"Peak Organic Brewing Company",1199152715,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"129",13884,"Peak Organic Brewing Company",1198785382,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"130",13884,"Peak Organic Brewing Company",1198466733,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"131",13884,"Peak Organic Brewing Company",1197952316,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"132",13884,"Peak Organic Brewing Company",1196917270,2.5,2,4,"American Pale Ale (APA)",3,2.5,"Peak Organic Pale Ale",5.05,29098
+"133",13884,"Peak Organic Brewing Company",1310875348,3.5,4,4,"American Black Ale",3.5,3.5,"Hop Noir",8.2,66426
+"134",13884,"Peak Organic Brewing Company",1196107749,3,3,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"135",13884,"Peak Organic Brewing Company",1194480957,4,3,4.5,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"136",13884,"Peak Organic Brewing Company",1192577495,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"137",13884,"Peak Organic Brewing Company",1192323224,4,4,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Pale Ale",5.05,29098
+"138",13884,"Peak Organic Brewing Company",1189736003,4,4,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Pale Ale",5.05,29098
+"139",13884,"Peak Organic Brewing Company",1187486730,4,4,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Pale Ale",5.05,29098
+"140",13884,"Peak Organic Brewing Company",1182559573,3,2,3.5,"American Pale Ale (APA)",3.5,2.5,"Peak Organic Pale Ale",5.05,29098
+"141",13884,"Peak Organic Brewing Company",1181091898,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Peak Organic Pale Ale",5.05,29098
+"142",13884,"Peak Organic Brewing Company",1179164286,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Peak Organic Pale Ale",5.05,29098
+"143",13884,"Peak Organic Brewing Company",1306008658,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"144",13884,"Peak Organic Brewing Company",1175898076,3,2,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"145",13884,"Peak Organic Brewing Company",1175138552,4,4,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Pale Ale",5.05,29098
+"146",13884,"Peak Organic Brewing Company",1167369575,4,4,3,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Pale Ale",5.05,29098
+"147",13884,"Peak Organic Brewing Company",1166323354,3,3.5,3,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"148",13884,"Peak Organic Brewing Company",1164944607,3,4,3.5,"American Pale Ale (APA)",3,3,"Peak Organic Pale Ale",5.05,29098
+"149",13884,"Peak Organic Brewing Company",1292029426,3.5,4,4,"American Amber / Red Ale",4,4,"Mt. Washington Organic Amber Ale",NA,64287
+"150",13884,"Peak Organic Brewing Company",1325552040,4,4,4.5,"American Pale Ale (APA)",4,3.5,"Local Series: New York",6.8,75056
+"151",13884,"Peak Organic Brewing Company",1325372871,3.5,4,4,"American Pale Ale (APA)",4,4,"Local Series: New York",6.8,75056
+"152",13884,"Peak Organic Brewing Company",1324687496,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Local Series: New York",6.8,75056
+"153",13884,"Peak Organic Brewing Company",1324420387,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Local Series: New York",6.8,75056
+"154",13884,"Peak Organic Brewing Company",1322339301,4,4,4,"American Pale Ale (APA)",4,4,"Local Series: New York",6.8,75056
+"155",13884,"Peak Organic Brewing Company",1321554167,4,4,4.5,"American Pale Ale (APA)",3.5,4.5,"Local Series: New York",6.8,75056
+"156",13884,"Peak Organic Brewing Company",1320807491,3.5,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Local Series: New York",6.8,75056
+"157",13884,"Peak Organic Brewing Company",1306514727,3.5,4,2.5,"Russian Imperial Stout",3.5,3.5,"Peak Organic Taza Chocolate Imperial Stout",NA,69482
+"158",13884,"Peak Organic Brewing Company",1326138422,3,3.5,3.5,"American Amber / Red Ale",3.5,2.5,"The Maple Collaboration",6.7,74440
+"159",13884,"Peak Organic Brewing Company",1325299078,3.5,4,3.5,"American Amber / Red Ale",4,4,"The Maple Collaboration",6.7,74440
+"160",13884,"Peak Organic Brewing Company",1324774871,4,3.5,3.5,"American Amber / Red Ale",4,4,"The Maple Collaboration",6.7,74440
+"161",13884,"Peak Organic Brewing Company",1324692525,3,3,4,"American Amber / Red Ale",3,3,"The Maple Collaboration",6.7,74440
+"162",13884,"Peak Organic Brewing Company",1324426482,4,3.5,4,"American Amber / Red Ale",3,3.5,"The Maple Collaboration",6.7,74440
+"163",13884,"Peak Organic Brewing Company",1324175990,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"The Maple Collaboration",6.7,74440
+"164",13884,"Peak Organic Brewing Company",1323381946,2.5,2.5,3.5,"American Amber / Red Ale",2.5,3,"The Maple Collaboration",6.7,74440
+"165",13884,"Peak Organic Brewing Company",1323345156,4,3.5,3.5,"American Amber / Red Ale",4,4,"The Maple Collaboration",6.7,74440
+"166",13884,"Peak Organic Brewing Company",1323118179,4,4,4,"American Amber / Red Ale",4.5,4,"The Maple Collaboration",6.7,74440
+"167",13884,"Peak Organic Brewing Company",1322951860,4.5,4,4.5,"American Amber / Red Ale",5,4.5,"The Maple Collaboration",6.7,74440
+"168",13884,"Peak Organic Brewing Company",1321939824,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"The Maple Collaboration",6.7,74440
+"169",13884,"Peak Organic Brewing Company",1321543341,3.5,3,4,"American Amber / Red Ale",2.5,3,"The Maple Collaboration",6.7,74440
+"170",13884,"Peak Organic Brewing Company",1321351429,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"The Maple Collaboration",6.7,74440
+"171",13884,"Peak Organic Brewing Company",1321225977,4,4,4,"American Amber / Red Ale",4,4,"The Maple Collaboration",6.7,74440
+"172",13884,"Peak Organic Brewing Company",1319927364,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"The Maple Collaboration",6.7,74440
+"173",13884,"Peak Organic Brewing Company",1319402553,4,4,4.5,"American Amber / Red Ale",4,4,"The Maple Collaboration",6.7,74440
+"174",13884,"Peak Organic Brewing Company",1324238527,3.5,3.5,3.5,"American Pale Ale (APA)",3,4,"Local Series VT",6.9,76475
+"175",13884,"Peak Organic Brewing Company",1326058496,1.5,2,4,"American Black Ale",3.5,1.5,"Hop Noir",8.2,66426
+"176",13884,"Peak Organic Brewing Company",1321082914,3.5,3.5,4.5,"American Black Ale",4,3,"Hop Noir",8.2,66426
+"177",13884,"Peak Organic Brewing Company",1320965149,4,4,3,"American Black Ale",3,4.5,"Hop Noir",8.2,66426
+"178",13884,"Peak Organic Brewing Company",1318125048,4,3.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"179",13884,"Peak Organic Brewing Company",1318115736,4.5,4.5,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"180",13884,"Peak Organic Brewing Company",1316030841,4,4,4.5,"American Black Ale",4,3.5,"Hop Noir",8.2,66426
+"181",13884,"Peak Organic Brewing Company",1315427911,4,4.5,5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"182",13884,"Peak Organic Brewing Company",1314139384,3,3,4,"American Black Ale",2.5,3,"Hop Noir",8.2,66426
+"183",13884,"Peak Organic Brewing Company",1313890009,4.5,4.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"184",13884,"Peak Organic Brewing Company",1222733646,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"185",13884,"Peak Organic Brewing Company",1313360199,4,3.5,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"186",13884,"Peak Organic Brewing Company",1313303082,4.5,4,4.5,"American Black Ale",4.5,4.5,"Hop Noir",8.2,66426
+"187",13884,"Peak Organic Brewing Company",1313008291,3.5,4,4,"American Black Ale",3,3.5,"Hop Noir",8.2,66426
+"188",13884,"Peak Organic Brewing Company",1312821324,4,4,4,"American Black Ale",3.5,4,"Hop Noir",8.2,66426
+"189",13884,"Peak Organic Brewing Company",1312666823,4,4,4,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"190",13884,"Peak Organic Brewing Company",1312409357,2,2.5,4,"American Black Ale",4.5,2,"Hop Noir",8.2,66426
+"191",13884,"Peak Organic Brewing Company",1311882629,4.5,4.5,4,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"192",13884,"Peak Organic Brewing Company",1310231010,4,3.5,3.5,"American Black Ale",3.5,3.5,"Hop Noir",8.2,66426
+"193",13884,"Peak Organic Brewing Company",1311778147,3,2.5,4,"American Black Ale",4,3,"Hop Noir",8.2,66426
+"194",13884,"Peak Organic Brewing Company",1311458575,3,4,4,"American Black Ale",3.5,3,"Hop Noir",8.2,66426
+"195",13884,"Peak Organic Brewing Company",1311381726,2.5,2,3,"American Black Ale",3,2,"Hop Noir",8.2,66426
+"196",13884,"Peak Organic Brewing Company",1311211257,4,5,4,"American Black Ale",3.5,4,"Hop Noir",8.2,66426
+"197",13884,"Peak Organic Brewing Company",1311208156,4,4,4,"American Black Ale",4.5,4.5,"Hop Noir",8.2,66426
+"198",13884,"Peak Organic Brewing Company",1311203600,4,4,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"199",13884,"Peak Organic Brewing Company",1311036826,3.5,4,4,"American Black Ale",4,3.5,"Hop Noir",8.2,66426
+"200",13884,"Peak Organic Brewing Company",1311001895,3.5,4,3.5,"American Black Ale",3.5,3,"Hop Noir",8.2,66426
+"201",13884,"Peak Organic Brewing Company",1309967747,3,3,3.5,"American Black Ale",3,3.5,"Hop Noir",8.2,66426
+"202",13884,"Peak Organic Brewing Company",1309927814,2.5,3,4,"American Black Ale",3,2.5,"Hop Noir",8.2,66426
+"203",13884,"Peak Organic Brewing Company",1309919923,3,4,4,"American Black Ale",3.5,2.5,"Hop Noir",8.2,66426
+"204",13884,"Peak Organic Brewing Company",1309911030,3,3,4,"American Black Ale",3.5,2.5,"Hop Noir",8.2,66426
+"205",13884,"Peak Organic Brewing Company",1309401444,4,3.5,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"206",13884,"Peak Organic Brewing Company",1309319480,3,4,3.5,"American Black Ale",3,3,"Hop Noir",8.2,66426
+"207",13884,"Peak Organic Brewing Company",1309227315,4.5,4,4.5,"American Black Ale",4.5,4,"Hop Noir",8.2,66426
+"208",13884,"Peak Organic Brewing Company",1309182169,4,3.5,3.5,"American Black Ale",3.5,3.5,"Hop Noir",8.2,66426
+"209",13884,"Peak Organic Brewing Company",1309033253,4,4.5,5,"American Black Ale",3.5,4,"Hop Noir",8.2,66426
+"210",13884,"Peak Organic Brewing Company",1308620282,4.5,4.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"211",13884,"Peak Organic Brewing Company",1308529574,4.5,4.5,5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"212",13884,"Peak Organic Brewing Company",1308285980,4,3.5,5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"213",13884,"Peak Organic Brewing Company",1307731403,4.5,4.5,4,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"214",13884,"Peak Organic Brewing Company",1307399297,3.5,3,4,"American Black Ale",3.5,3,"Hop Noir",8.2,66426
+"215",13884,"Peak Organic Brewing Company",1307303913,4,4,4,"American Black Ale",4,3.5,"Hop Noir",8.2,66426
+"216",13884,"Peak Organic Brewing Company",1307226203,4.5,4.5,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"217",13884,"Peak Organic Brewing Company",1306547574,4,4,4.5,"American Black Ale",4.5,4.5,"Hop Noir",8.2,66426
+"218",13884,"Peak Organic Brewing Company",1306203251,4,4,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"219",13884,"Peak Organic Brewing Company",1305944479,4,3.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"220",13884,"Peak Organic Brewing Company",1305780111,3,3.5,3.5,"American Black Ale",3,3.5,"Hop Noir",8.2,66426
+"221",13884,"Peak Organic Brewing Company",1219541649,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"222",13884,"Peak Organic Brewing Company",1305499988,4,3.5,4,"American Black Ale",4.5,4.5,"Hop Noir",8.2,66426
+"223",13884,"Peak Organic Brewing Company",1305412603,4.5,4,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"224",13884,"Peak Organic Brewing Company",1305166425,4.5,4.5,5,"American Black Ale",3.5,4,"Hop Noir",8.2,66426
+"225",13884,"Peak Organic Brewing Company",1304551510,4,4,4,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"226",13884,"Peak Organic Brewing Company",1304209356,4,4.5,4,"American Black Ale",4.5,4,"Hop Noir",8.2,66426
+"227",13884,"Peak Organic Brewing Company",1304133734,3.5,4,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"228",13884,"Peak Organic Brewing Company",1304125771,4,4,4.5,"American Black Ale",3.5,4.5,"Hop Noir",8.2,66426
+"229",13884,"Peak Organic Brewing Company",1303264950,4.5,4,5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"230",13884,"Peak Organic Brewing Company",1302664910,4,4,4.5,"American Black Ale",3.5,4.5,"Hop Noir",8.2,66426
+"231",13884,"Peak Organic Brewing Company",1303261438,4,4,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"232",13884,"Peak Organic Brewing Company",1303189977,4,3.5,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"233",13884,"Peak Organic Brewing Company",1303166738,3,3.5,3.5,"American Black Ale",3,3,"Hop Noir",8.2,66426
+"234",13884,"Peak Organic Brewing Company",1303001091,4,4,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"235",13884,"Peak Organic Brewing Company",1302993648,4,4.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"236",13884,"Peak Organic Brewing Company",1302922201,4,4,4.5,"American Black Ale",3.5,4,"Hop Noir",8.2,66426
+"237",13884,"Peak Organic Brewing Company",1302833323,4.5,4,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"238",13884,"Peak Organic Brewing Company",1302827129,4,4,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"239",13884,"Peak Organic Brewing Company",1302817022,4.5,4.5,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"240",13884,"Peak Organic Brewing Company",1302697435,3,3,4,"American Black Ale",4,3,"Hop Noir",8.2,66426
+"241",13884,"Peak Organic Brewing Company",1302578975,4,4.5,4,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"242",13884,"Peak Organic Brewing Company",1302399893,4,3.5,4.5,"American Black Ale",4,3.5,"Hop Noir",8.2,66426
+"243",13884,"Peak Organic Brewing Company",1302374706,4,4.5,4.5,"American Black Ale",4,4,"Hop Noir",8.2,66426
+"244",13884,"Peak Organic Brewing Company",1302320577,4.5,4.5,4.5,"American Black Ale",5,5,"Hop Noir",8.2,66426
+"245",13884,"Peak Organic Brewing Company",1302311344,4,4,4.5,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"246",13884,"Peak Organic Brewing Company",1301977952,4.5,4,4,"American Black Ale",4,4.5,"Hop Noir",8.2,66426
+"247",13884,"Peak Organic Brewing Company",1318470955,3.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"248",13884,"Peak Organic Brewing Company",1317166027,4,4,4,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"249",13884,"Peak Organic Brewing Company",1314694281,3.5,3.5,3,"American Pale Wheat Ale",3,3.5,"Peak Organic Summer Session Ale",5,58999
+"250",13884,"Peak Organic Brewing Company",1314501911,3.5,3,3.5,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"251",13884,"Peak Organic Brewing Company",1277762174,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"252",13884,"Peak Organic Brewing Company",1314024519,4,4,4,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"253",13884,"Peak Organic Brewing Company",1313345123,4,4,4,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"254",13884,"Peak Organic Brewing Company",1312825767,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"255",13884,"Peak Organic Brewing Company",1312154561,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"256",13884,"Peak Organic Brewing Company",1311987157,4,4,4,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"257",13884,"Peak Organic Brewing Company",1310757847,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"258",13884,"Peak Organic Brewing Company",1309724936,3,3,3.5,"American Pale Wheat Ale",2.5,3.5,"Peak Organic Summer Session Ale",5,58999
+"259",13884,"Peak Organic Brewing Company",1309313263,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"260",13884,"Peak Organic Brewing Company",1309150590,4.5,4.5,4,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"261",13884,"Peak Organic Brewing Company",1308859107,3.5,3.5,3.5,"American Pale Wheat Ale",3,3,"Peak Organic Summer Session Ale",5,58999
+"262",13884,"Peak Organic Brewing Company",1308608164,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"263",13884,"Peak Organic Brewing Company",1308243746,4,4,4,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"264",13884,"Peak Organic Brewing Company",1306899277,4.5,4,3.5,"American Pale Wheat Ale",5,4.5,"Peak Organic Summer Session Ale",5,58999
+"265",13884,"Peak Organic Brewing Company",1306775076,4.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"266",13884,"Peak Organic Brewing Company",1306715844,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"267",13884,"Peak Organic Brewing Company",1306411092,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Peak Organic Summer Session Ale",5,58999
+"268",13884,"Peak Organic Brewing Company",1306023733,4,3.5,4,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"269",13884,"Peak Organic Brewing Company",1304904603,4,4,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"270",13884,"Peak Organic Brewing Company",1303858948,3,4,3,"American Pale Wheat Ale",4,2.5,"Peak Organic Summer Session Ale",5,58999
+"271",13884,"Peak Organic Brewing Company",1281998951,4,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Peak Organic Summer Session Ale",5,58999
+"272",13884,"Peak Organic Brewing Company",1281395685,4,4,4,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"273",13884,"Peak Organic Brewing Company",1280270282,3.5,3,4,"American Pale Wheat Ale",3.5,3,"Peak Organic Summer Session Ale",5,58999
+"274",13884,"Peak Organic Brewing Company",1279860285,5,3.5,4,"American Pale Wheat Ale",4,4.5,"Peak Organic Summer Session Ale",5,58999
+"275",13884,"Peak Organic Brewing Company",1279622908,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Peak Organic Summer Session Ale",5,58999
+"276",13884,"Peak Organic Brewing Company",1279590992,3.5,4,4,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"277",13884,"Peak Organic Brewing Company",1279371278,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Peak Organic Summer Session Ale",5,58999
+"278",13884,"Peak Organic Brewing Company",1279244253,4.5,4,4,"American Pale Wheat Ale",4,4.5,"Peak Organic Summer Session Ale",5,58999
+"279",13884,"Peak Organic Brewing Company",1279119952,4,4,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"280",13884,"Peak Organic Brewing Company",1278285564,4,3,3.5,"American Pale Wheat Ale",3.5,4,"Peak Organic Summer Session Ale",5,58999
+"281",13884,"Peak Organic Brewing Company",1277604513,4.5,3.5,3.5,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"282",13884,"Peak Organic Brewing Company",1277430232,4,4,4,"American Pale Wheat Ale",4.5,4.5,"Peak Organic Summer Session Ale",5,58999
+"283",13884,"Peak Organic Brewing Company",1276559300,4.5,3.5,4.5,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"284",13884,"Peak Organic Brewing Company",1276099414,4.5,4,4,"American Pale Wheat Ale",4.5,4,"Peak Organic Summer Session Ale",5,58999
+"285",13884,"Peak Organic Brewing Company",1275958733,4.5,4.5,3.5,"American Pale Wheat Ale",4,4,"Peak Organic Summer Session Ale",5,58999
+"286",13884,"Peak Organic Brewing Company",1325946999,3,3.5,3.5,"American Dark Wheat Ale",3.5,3,"Winter Session Ale",5,63180
+"287",13884,"Peak Organic Brewing Company",1324837264,2.5,2.5,2.5,"American Dark Wheat Ale",2.5,2.5,"Winter Session Ale",5,63180
+"288",13884,"Peak Organic Brewing Company",1324698961,4.5,4,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"289",13884,"Peak Organic Brewing Company",1324514037,4,4,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"290",13884,"Peak Organic Brewing Company",1324418434,4,4,4.5,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"291",13884,"Peak Organic Brewing Company",1324350791,3,2.5,3,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"292",13884,"Peak Organic Brewing Company",1294989638,3,3.5,4,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"293",13884,"Peak Organic Brewing Company",1324252913,4,4,4,"American Dark Wheat Ale",4.5,4,"Winter Session Ale",5,63180
+"294",13884,"Peak Organic Brewing Company",1323906061,4,4,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"295",13884,"Peak Organic Brewing Company",1323890934,3,2.5,3.5,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"296",13884,"Peak Organic Brewing Company",1322794119,3.5,3.5,4,"American Dark Wheat Ale",4,3.5,"Winter Session Ale",5,63180
+"297",13884,"Peak Organic Brewing Company",1322462108,4,4,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"298",13884,"Peak Organic Brewing Company",1322446224,4,4.5,4,"American Dark Wheat Ale",4,4.5,"Winter Session Ale",5,63180
+"299",13884,"Peak Organic Brewing Company",1321752515,2.5,5,3.5,"American Dark Wheat Ale",3,3.5,"Winter Session Ale",5,63180
+"300",13884,"Peak Organic Brewing Company",1315530963,3.5,3.5,3.5,"American Dark Wheat Ale",3,4,"Winter Session Ale",5,63180
+"301",13884,"Peak Organic Brewing Company",1307989328,4,3.5,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"302",13884,"Peak Organic Brewing Company",1305496296,3,4,4,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"303",13884,"Peak Organic Brewing Company",1257953673,3,3.5,4,"American Amber / Red Ale",3.5,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"304",13884,"Peak Organic Brewing Company",1301950086,3.5,4.5,3.5,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"305",13884,"Peak Organic Brewing Company",1301948695,4,4,3.5,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"306",13884,"Peak Organic Brewing Company",1299805377,2.5,4,3,"American Dark Wheat Ale",2,2,"Winter Session Ale",5,63180
+"307",13884,"Peak Organic Brewing Company",1299281678,3.5,3,4.5,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"308",13884,"Peak Organic Brewing Company",1298253309,3.5,3.5,4,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"309",13884,"Peak Organic Brewing Company",1298247658,4,4,3.5,"American Dark Wheat Ale",4,4.5,"Winter Session Ale",5,63180
+"310",13884,"Peak Organic Brewing Company",1298083633,3,4,3.5,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"311",13884,"Peak Organic Brewing Company",1297804628,4.5,4,3.5,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"312",13884,"Peak Organic Brewing Company",1297022107,4.5,4,3.5,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"313",13884,"Peak Organic Brewing Company",1296611503,4,4.5,4,"American Dark Wheat Ale",4,3.5,"Winter Session Ale",5,63180
+"314",13884,"Peak Organic Brewing Company",1294971198,4.5,4,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"315",13884,"Peak Organic Brewing Company",1296441233,2.5,4,4,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"316",13884,"Peak Organic Brewing Company",1296090479,4,3.5,3.5,"American Dark Wheat Ale",4,3.5,"Winter Session Ale",5,63180
+"317",13884,"Peak Organic Brewing Company",1296072032,3,3,4,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"318",13884,"Peak Organic Brewing Company",1295828783,3.5,3.5,4.5,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"319",13884,"Peak Organic Brewing Company",1295813005,4,3.5,3.5,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"320",13884,"Peak Organic Brewing Company",1295393068,3.5,4,4,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"321",13884,"Peak Organic Brewing Company",1295056519,4,4,4,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"322",13884,"Peak Organic Brewing Company",1294291493,3.5,3,4,"American Dark Wheat Ale",3,3,"Winter Session Ale",5,63180
+"323",13884,"Peak Organic Brewing Company",1294111164,3,3.5,3,"American Dark Wheat Ale",2,2.5,"Winter Session Ale",5,63180
+"324",13884,"Peak Organic Brewing Company",1294015004,3.5,3.5,3.5,"American Dark Wheat Ale",4,3.5,"Winter Session Ale",5,63180
+"325",13884,"Peak Organic Brewing Company",1293594851,2.5,2.5,4,"American Dark Wheat Ale",3.5,2.5,"Winter Session Ale",5,63180
+"326",13884,"Peak Organic Brewing Company",1292802698,4,4.5,4,"American Dark Wheat Ale",4,4,"Winter Session Ale",5,63180
+"327",13884,"Peak Organic Brewing Company",1291943707,3.5,3.5,3.5,"American Dark Wheat Ale",3.5,4,"Winter Session Ale",5,63180
+"328",13884,"Peak Organic Brewing Company",1291036738,3,3.5,3.5,"American Dark Wheat Ale",3.5,3.5,"Winter Session Ale",5,63180
+"329",13884,"Peak Organic Brewing Company",1290576517,4.5,4.5,4.5,"American Dark Wheat Ale",4.5,2.5,"Winter Session Ale",5,63180
+"330",13884,"Peak Organic Brewing Company",1288972791,4.5,4.5,4,"American Dark Wheat Ale",4,4.5,"Winter Session Ale",5,63180
+"331",13884,"Peak Organic Brewing Company",1324246271,4,4,4.5,"American Pale Ale (APA)",4,4,"Local Series MA",6.8,75305
+"332",13884,"Peak Organic Brewing Company",1323568920,3.5,3,3.5,"American Pale Ale (APA)",3,3.5,"Local Series MA",6.8,75305
+"333",13884,"Peak Organic Brewing Company",1322780085,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Local Series MA",6.8,75305
+"334",13884,"Peak Organic Brewing Company",1321705766,4.5,4,4,"American Pale Ale (APA)",4,4,"Local Series MA",6.8,75305
+"335",13884,"Peak Organic Brewing Company",1321333198,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Local Series MA",6.8,75305
+"336",13884,"Peak Organic Brewing Company",1251748986,4.5,4.5,4,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"337",13884,"Peak Organic Brewing Company",1251567870,4,4,4.5,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"338",13884,"Peak Organic Brewing Company",1250713811,4,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"339",13884,"Peak Organic Brewing Company",1250686448,4,4,3.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"340",13884,"Peak Organic Brewing Company",1242444634,4,3.5,2.5,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"341",13884,"Peak Organic Brewing Company",1249683978,4,4,3.5,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"342",13884,"Peak Organic Brewing Company",1249669985,4,4,4,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"343",13884,"Peak Organic Brewing Company",1248130259,4,5,3.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"344",13884,"Peak Organic Brewing Company",1246340717,3.5,4,4,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"345",13884,"Peak Organic Brewing Company",1246153921,4,3.5,3.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"346",13884,"Peak Organic Brewing Company",1245972187,4,5,4.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"347",13884,"Peak Organic Brewing Company",1245356504,4,5,5,"American IPA",4,5,"Peak Organic IPA",7.2,49215
+"348",13884,"Peak Organic Brewing Company",1244402119,3.5,3.5,4.5,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"349",13884,"Peak Organic Brewing Company",1242781450,3,3,3,"American IPA",3,3,"Peak Organic IPA",7.2,49215
+"350",13884,"Peak Organic Brewing Company",1240188864,3,4,3.5,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"351",13884,"Peak Organic Brewing Company",1240004075,4,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"352",13884,"Peak Organic Brewing Company",1326075071,3.5,3,3.5,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"353",13884,"Peak Organic Brewing Company",1325620894,3.5,3,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"354",13884,"Peak Organic Brewing Company",1324607959,3.5,3,3.5,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"355",13884,"Peak Organic Brewing Company",1324182286,4,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"356",13884,"Peak Organic Brewing Company",1318700599,3.5,4,4,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"357",13884,"Peak Organic Brewing Company",1318298686,4,3.5,4,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"358",13884,"Peak Organic Brewing Company",1317670032,4,4.5,4,"American IPA",4.5,4.5,"Peak Organic IPA",7.2,49215
+"359",13884,"Peak Organic Brewing Company",1316927405,4,3.5,4,"American IPA",3,4,"Peak Organic IPA",7.2,49215
+"360",13884,"Peak Organic Brewing Company",1315775144,4,4,4.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"361",13884,"Peak Organic Brewing Company",1315269272,4,4.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"362",13884,"Peak Organic Brewing Company",1313098761,3.5,2.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"363",13884,"Peak Organic Brewing Company",1312732663,4,3.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"364",13884,"Peak Organic Brewing Company",1312403451,3.5,3,4,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"365",13884,"Peak Organic Brewing Company",1311137085,3.5,3,4.5,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"366",13884,"Peak Organic Brewing Company",1310919962,4,3.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"367",13884,"Peak Organic Brewing Company",1310772146,4.5,4.5,4,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"368",13884,"Peak Organic Brewing Company",1309920159,3,3.5,3,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"369",13884,"Peak Organic Brewing Company",1257396002,3,2.5,3,"American Amber / Red Ale",2,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"370",13884,"Peak Organic Brewing Company",1309023506,4,3,4.5,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"371",13884,"Peak Organic Brewing Company",1308667743,4,5,3,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"372",13884,"Peak Organic Brewing Company",1307759301,4,3,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"373",13884,"Peak Organic Brewing Company",1307561270,4,4.5,4,"American IPA",4.5,4,"Peak Organic IPA",7.2,49215
+"374",13884,"Peak Organic Brewing Company",1306429176,3,3.5,4.5,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"375",13884,"Peak Organic Brewing Company",1305701370,4,3.5,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"376",13884,"Peak Organic Brewing Company",1305330658,4,3.5,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"377",13884,"Peak Organic Brewing Company",1300566330,2.5,3.5,4,"American IPA",2.5,3,"Peak Organic IPA",7.2,49215
+"378",13884,"Peak Organic Brewing Company",1305323893,2.5,2.5,4,"American IPA",3,2.5,"Peak Organic IPA",7.2,49215
+"379",13884,"Peak Organic Brewing Company",1303009422,3,3.5,4,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"380",13884,"Peak Organic Brewing Company",1302813403,3.5,3.5,3.5,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"381",13884,"Peak Organic Brewing Company",1301717490,3.5,3,3.5,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"382",13884,"Peak Organic Brewing Company",1301266709,4,3,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"383",13884,"Peak Organic Brewing Company",1301097835,4,4.5,3.5,"American IPA",4.5,4,"Peak Organic IPA",7.2,49215
+"384",13884,"Peak Organic Brewing Company",1300920219,3.5,3.5,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"385",13884,"Peak Organic Brewing Company",1284503395,2.5,3,4,"American IPA",3,3,"Peak Organic IPA",7.2,49215
+"386",13884,"Peak Organic Brewing Company",1300565549,3.5,3,3.5,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"387",13884,"Peak Organic Brewing Company",1299464675,3,3,4,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"388",13884,"Peak Organic Brewing Company",1299125804,4,4,4,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"389",13884,"Peak Organic Brewing Company",1299103879,2.5,3,4,"American IPA",2.5,2,"Peak Organic IPA",7.2,49215
+"390",13884,"Peak Organic Brewing Company",1298656087,1.5,2,4,"American IPA",2,2,"Peak Organic IPA",7.2,49215
+"391",13884,"Peak Organic Brewing Company",1297906958,4,3.5,3.5,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"392",13884,"Peak Organic Brewing Company",1297650117,3.5,4,4.5,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"393",13884,"Peak Organic Brewing Company",1297568647,3.5,3.5,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"394",13884,"Peak Organic Brewing Company",1297562683,3.5,3,4,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"395",13884,"Peak Organic Brewing Company",1297385354,4,3.5,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"396",13884,"Peak Organic Brewing Company",1297139047,4.5,4,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"397",13884,"Peak Organic Brewing Company",1296835286,3,3,3.5,"American IPA",3,3,"Peak Organic IPA",7.2,49215
+"398",13884,"Peak Organic Brewing Company",1296089163,4,3.5,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"399",13884,"Peak Organic Brewing Company",1295828717,4.5,3.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"400",13884,"Peak Organic Brewing Company",1294033811,4,4,4,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"401",13884,"Peak Organic Brewing Company",1292993218,4.5,4.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"402",13884,"Peak Organic Brewing Company",1292552502,4,4,4,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"403",13884,"Peak Organic Brewing Company",1287523515,3,2,3.5,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"404",13884,"Peak Organic Brewing Company",1282358959,3.5,3.5,4,"American IPA",3,4,"Peak Organic IPA",7.2,49215
+"405",13884,"Peak Organic Brewing Company",1281774194,4.5,4,4,"American IPA",4.5,4,"Peak Organic IPA",7.2,49215
+"406",13884,"Peak Organic Brewing Company",1281486824,4,4,4.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"407",13884,"Peak Organic Brewing Company",1280968613,3.5,3.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"408",13884,"Peak Organic Brewing Company",1279064954,4.5,3,4,"American IPA",4.5,4.5,"Peak Organic IPA",7.2,49215
+"409",13884,"Peak Organic Brewing Company",1278460891,4.5,4.5,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"410",13884,"Peak Organic Brewing Company",1277601067,3.5,3,4,"American IPA",3,3,"Peak Organic IPA",7.2,49215
+"411",13884,"Peak Organic Brewing Company",1277351672,4,4,4,"American IPA",4,3.5,"Peak Organic IPA",7.2,49215
+"412",13884,"Peak Organic Brewing Company",1270436086,3.5,4,3.5,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"413",13884,"Peak Organic Brewing Company",1276548653,3.5,4,3,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"414",13884,"Peak Organic Brewing Company",1275082808,4.5,2.5,3,"American IPA",3,4,"Peak Organic IPA",7.2,49215
+"415",13884,"Peak Organic Brewing Company",1274833677,4,3.5,4,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"416",13884,"Peak Organic Brewing Company",1273799465,4,3.5,3.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"417",13884,"Peak Organic Brewing Company",1273633635,3.5,3,3.5,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"418",13884,"Peak Organic Brewing Company",1272838785,3,3.5,4,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"419",13884,"Peak Organic Brewing Company",1272424964,3.5,4,4,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"420",13884,"Peak Organic Brewing Company",1271895204,3.5,3.5,3.5,"American IPA",3,3.5,"Peak Organic IPA",7.2,49215
+"421",13884,"Peak Organic Brewing Company",1271299568,4,4,4,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"422",13884,"Peak Organic Brewing Company",1269552271,3,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"423",13884,"Peak Organic Brewing Company",1269546912,3.5,3,4,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"424",13884,"Peak Organic Brewing Company",1267060987,4,3,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"425",13884,"Peak Organic Brewing Company",1266622985,4,3.5,3.5,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"426",13884,"Peak Organic Brewing Company",1265071395,4.5,4,4,"American IPA",3.5,3.5,"Peak Organic IPA",7.2,49215
+"427",13884,"Peak Organic Brewing Company",1263861702,3.5,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"428",13884,"Peak Organic Brewing Company",1263094837,3,3,4,"American IPA",4,3,"Peak Organic IPA",7.2,49215
+"429",13884,"Peak Organic Brewing Company",1261372448,3.5,3,4.5,"American IPA",3,2.5,"Peak Organic IPA",7.2,49215
+"430",13884,"Peak Organic Brewing Company",1261185828,3.5,3,4,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"431",13884,"Peak Organic Brewing Company",1257734121,3.5,3.5,3,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"432",13884,"Peak Organic Brewing Company",1255827762,3.5,3.5,3.5,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"433",13884,"Peak Organic Brewing Company",1255126103,4,4,3,"American IPA",3,4,"Peak Organic IPA",7.2,49215
+"434",13884,"Peak Organic Brewing Company",1254058672,4.5,4,4.5,"American IPA",4,4.5,"Peak Organic IPA",7.2,49215
+"435",13884,"Peak Organic Brewing Company",1253938866,4,4,3,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"436",13884,"Peak Organic Brewing Company",1253405230,4,4,4,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"437",13884,"Peak Organic Brewing Company",1253152964,3,3,3.5,"American IPA",3.5,3,"Peak Organic IPA",7.2,49215
+"438",13884,"Peak Organic Brewing Company",1252974327,3.5,3.5,3.5,"American IPA",3,3,"Peak Organic IPA",7.2,49215
+"439",13884,"Peak Organic Brewing Company",1252958703,3,3.5,4,"American IPA",4,2.5,"Peak Organic IPA",7.2,49215
+"440",13884,"Peak Organic Brewing Company",1252292773,4,4,3.5,"American IPA",4,4,"Peak Organic IPA",7.2,49215
+"441",13884,"Peak Organic Brewing Company",1252188758,4,3.5,4.5,"American IPA",3.5,4,"Peak Organic IPA",7.2,49215
+"442",13884,"Peak Organic Brewing Company",1252112658,3,3,4,"American IPA",3,4,"Peak Organic IPA",7.2,49215
+"443",13884,"Peak Organic Brewing Company",1320877210,4,3,3,"American Amber / Red Ale",4.5,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"444",13884,"Peak Organic Brewing Company",1318791139,4,3,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"445",13884,"Peak Organic Brewing Company",1310686986,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"446",13884,"Peak Organic Brewing Company",1309139411,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"447",13884,"Peak Organic Brewing Company",1308139884,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"448",13884,"Peak Organic Brewing Company",1306195396,4,4,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"449",13884,"Peak Organic Brewing Company",1305685876,4,4,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"450",13884,"Peak Organic Brewing Company",1305161033,4.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"451",13884,"Peak Organic Brewing Company",1304704431,3.5,3.5,3,"American Amber / Red Ale",3,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"452",13884,"Peak Organic Brewing Company",1287712812,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Fall Summit",5.6,61750
+"453",13884,"Peak Organic Brewing Company",1304138943,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"454",13884,"Peak Organic Brewing Company",1303872407,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"455",13884,"Peak Organic Brewing Company",1303254486,4,3,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"456",13884,"Peak Organic Brewing Company",1301538545,4,4,3.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"457",13884,"Peak Organic Brewing Company",1299378590,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"458",13884,"Peak Organic Brewing Company",1298664343,1,4,1,"American Amber / Red Ale",1,1,"Peak Organic Espresso Amber Ale",6.8,45629
+"459",13884,"Peak Organic Brewing Company",1298593437,3,4,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"460",13884,"Peak Organic Brewing Company",1298427120,1.5,4,4.5,"American Amber / Red Ale",2,1.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"461",13884,"Peak Organic Brewing Company",1273372301,3,4,3.5,"American Amber / Red Ale",3,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"462",13884,"Peak Organic Brewing Company",1297474848,4,4,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"463",13884,"Peak Organic Brewing Company",1297202784,3.5,4,4,"American Amber / Red Ale",4,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"464",13884,"Peak Organic Brewing Company",1293545614,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"465",13884,"Peak Organic Brewing Company",1289688773,4,4.5,4.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"466",13884,"Peak Organic Brewing Company",1286893742,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"467",13884,"Peak Organic Brewing Company",1285908560,3,3.5,4,"American Amber / Red Ale",3,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"468",13884,"Peak Organic Brewing Company",1285353389,4,3.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"469",13884,"Peak Organic Brewing Company",1285279430,4,4,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"470",13884,"Peak Organic Brewing Company",1284681925,4.5,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"471",13884,"Peak Organic Brewing Company",1301362492,4,4.5,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"472",13884,"Peak Organic Brewing Company",1283871584,4.5,4.5,4.5,"American Amber / Red Ale",4.5,5,"Peak Organic Espresso Amber Ale",6.8,45629
+"473",13884,"Peak Organic Brewing Company",1283132967,4,4.5,4,"American Amber / Red Ale",4.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"474",13884,"Peak Organic Brewing Company",1282752380,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"475",13884,"Peak Organic Brewing Company",1280457106,3,2,2.5,"American Amber / Red Ale",3,1.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"476",13884,"Peak Organic Brewing Company",1278810509,4,4,3.5,"American Amber / Red Ale",3.5,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"477",13884,"Peak Organic Brewing Company",1277855923,2.5,4,3.5,"American Amber / Red Ale",3,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"478",13884,"Peak Organic Brewing Company",1277033248,2.5,4,3.5,"American Amber / Red Ale",4,2.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"479",13884,"Peak Organic Brewing Company",1276995960,5,5,4,"American Amber / Red Ale",4.5,5,"Peak Organic Espresso Amber Ale",6.8,45629
+"480",13884,"Peak Organic Brewing Company",1276705213,3.5,3.5,3.5,"American Amber / Red Ale",4,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"481",13884,"Peak Organic Brewing Company",1275521984,4,3.5,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"482",13884,"Peak Organic Brewing Company",1273210145,4,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"483",13884,"Peak Organic Brewing Company",1272395706,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"484",13884,"Peak Organic Brewing Company",1271469503,3,3,3.5,"American Amber / Red Ale",3,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"485",13884,"Peak Organic Brewing Company",1270846562,4,3.5,4,"American Amber / Red Ale",4.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"486",13884,"Peak Organic Brewing Company",1269655542,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"487",13884,"Peak Organic Brewing Company",1268542356,4,4.5,3.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"488",13884,"Peak Organic Brewing Company",1268274744,3.5,3.5,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"489",13884,"Peak Organic Brewing Company",1268176623,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"490",13884,"Peak Organic Brewing Company",1259797105,4,4.5,3,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"491",13884,"Peak Organic Brewing Company",1268003696,4.5,4,4,"American Amber / Red Ale",4.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"492",13884,"Peak Organic Brewing Company",1265585100,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"493",13884,"Peak Organic Brewing Company",1265577543,4,3.5,3,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"494",13884,"Peak Organic Brewing Company",1263398764,3.5,4.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"495",13884,"Peak Organic Brewing Company",1263094786,4,4,3.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"496",13884,"Peak Organic Brewing Company",1262647649,3.5,4.5,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"497",13884,"Peak Organic Brewing Company",1261770269,3.5,3.5,4.5,"American Amber / Red Ale",3,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"498",13884,"Peak Organic Brewing Company",1259960729,4,4.5,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"499",13884,"Peak Organic Brewing Company",1287712430,3,3.5,4,"American Amber / Red Ale",3,3,"Fall Summit",5.6,61750
+"500",13884,"Peak Organic Brewing Company",1256064522,3,4.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"501",13884,"Peak Organic Brewing Company",1255036482,5,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"502",13884,"Peak Organic Brewing Company",1251203225,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"503",13884,"Peak Organic Brewing Company",1249660105,3.5,4,3.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"504",13884,"Peak Organic Brewing Company",1244673466,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"505",13884,"Peak Organic Brewing Company",1241387166,3,3.5,3,"American Amber / Red Ale",2.5,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"506",13884,"Peak Organic Brewing Company",1238450070,3,4.5,4.5,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"507",13884,"Peak Organic Brewing Company",1233818157,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"508",13884,"Peak Organic Brewing Company",1233816553,4.5,4,3,"American Amber / Red Ale",4,5,"Peak Organic Espresso Amber Ale",6.8,45629
+"509",13884,"Peak Organic Brewing Company",1237670957,4,4,4.5,"American Amber / Red Ale",4.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"510",13884,"Peak Organic Brewing Company",1237425666,4,4.5,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"511",13884,"Peak Organic Brewing Company",1237126697,4,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"512",13884,"Peak Organic Brewing Company",1237074010,4,4.5,3.5,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"513",13884,"Peak Organic Brewing Company",1235188329,4,5,4,"American Amber / Red Ale",4,5,"Peak Organic Espresso Amber Ale",6.8,45629
+"514",13884,"Peak Organic Brewing Company",1234562014,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"515",13884,"Peak Organic Brewing Company",1234442101,4,3.5,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"516",13884,"Peak Organic Brewing Company",1234321516,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"517",13884,"Peak Organic Brewing Company",1234311429,3,4,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"518",13884,"Peak Organic Brewing Company",1233763917,3,4,3.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"519",13884,"Peak Organic Brewing Company",1233103736,4.5,4,4,"American Amber / Red Ale",4,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"520",13884,"Peak Organic Brewing Company",1232838839,4,4,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"521",13884,"Peak Organic Brewing Company",1232309177,3.5,4,4,"American Amber / Red Ale",3.5,3,"Peak Organic Espresso Amber Ale",6.8,45629
+"522",13884,"Peak Organic Brewing Company",1232075668,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"523",13884,"Peak Organic Brewing Company",1231028924,4,5,4,"American Amber / Red Ale",3,5,"Peak Organic Espresso Amber Ale",6.8,45629
+"524",13884,"Peak Organic Brewing Company",1230934425,2.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"525",13884,"Peak Organic Brewing Company",1230346113,4,5,4.5,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"526",13884,"Peak Organic Brewing Company",1229389561,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"527",13884,"Peak Organic Brewing Company",1229386195,4.5,4,4.5,"American Amber / Red Ale",4.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"528",13884,"Peak Organic Brewing Company",1228425787,1.5,3,4,"American Amber / Red Ale",3.5,1.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"529",13884,"Peak Organic Brewing Company",1227371821,4,4.5,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"530",13884,"Peak Organic Brewing Company",1227281045,4.5,4,4,"American Amber / Red Ale",4,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"531",13884,"Peak Organic Brewing Company",1226862549,4.5,5,4.5,"American Amber / Red Ale",4.5,4.5,"Peak Organic Espresso Amber Ale",6.8,45629
+"532",13884,"Peak Organic Brewing Company",1225766816,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"533",13884,"Peak Organic Brewing Company",1225309988,3.5,4,4,"American Amber / Red Ale",3.5,4,"Peak Organic Espresso Amber Ale",6.8,45629
+"534",13884,"Peak Organic Brewing Company",1320730844,2.5,2.5,3.5,"American Pale Ale (APA)",3,2,"Local Series ME",6.8,75021
+"535",13884,"Peak Organic Brewing Company",1318128772,4,3.5,4,"American Amber / Red Ale",3.5,4,"King Crimson",9,55115
+"536",13884,"Peak Organic Brewing Company",1317769788,4,4,4.5,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"537",13884,"Peak Organic Brewing Company",1316641404,4,4,4,"American Amber / Red Ale",4,4.5,"King Crimson",9,55115
+"538",13884,"Peak Organic Brewing Company",1310695092,3,3.5,4,"American Amber / Red Ale",3,3,"King Crimson",9,55115
+"539",13884,"Peak Organic Brewing Company",1310480531,4,4,4.5,"American Amber / Red Ale",4.5,4,"King Crimson",9,55115
+"540",13884,"Peak Organic Brewing Company",1309791116,3.5,4,3.5,"American Amber / Red Ale",3,3.5,"King Crimson",9,55115
+"541",13884,"Peak Organic Brewing Company",1308623048,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"King Crimson",9,55115
+"542",13884,"Peak Organic Brewing Company",1306207403,3.5,4,3.5,"American Amber / Red Ale",3,4,"King Crimson",9,55115
+"543",13884,"Peak Organic Brewing Company",1301229659,4,4,5,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"544",13884,"Peak Organic Brewing Company",1306068665,4.5,5,4.5,"American Amber / Red Ale",4.5,4.5,"King Crimson",9,55115
+"545",13884,"Peak Organic Brewing Company",1306026555,4,4.5,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"546",13884,"Peak Organic Brewing Company",1305330642,4,4,4,"American Amber / Red Ale",3.5,4,"King Crimson",9,55115
+"547",13884,"Peak Organic Brewing Company",1305323242,4,3.5,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"548",13884,"Peak Organic Brewing Company",1304883800,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"King Crimson",9,55115
+"549",13884,"Peak Organic Brewing Company",1304633977,4,4,4.5,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"550",13884,"Peak Organic Brewing Company",1304378010,4,3.5,4,"American Amber / Red Ale",4,4.5,"King Crimson",9,55115
+"551",13884,"Peak Organic Brewing Company",1303948668,4.5,5,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"552",13884,"Peak Organic Brewing Company",1303873301,3.5,3,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"553",13884,"Peak Organic Brewing Company",1303422921,4,4,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"554",13884,"Peak Organic Brewing Company",1302738092,4,4,4.5,"American Amber / Red Ale",4.5,4.5,"King Crimson",9,55115
+"555",13884,"Peak Organic Brewing Company",1302558409,4.5,4.5,4,"American Amber / Red Ale",3.5,4,"King Crimson",9,55115
+"556",13884,"Peak Organic Brewing Company",1302310301,3.5,3,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"557",13884,"Peak Organic Brewing Company",1302227153,3.5,4,3.5,"American Amber / Red Ale",3.5,3,"King Crimson",9,55115
+"558",13884,"Peak Organic Brewing Company",1301692923,4.5,4,4.5,"American Amber / Red Ale",4.5,5,"King Crimson",9,55115
+"559",13884,"Peak Organic Brewing Company",1301524489,4.5,4,4.5,"American Amber / Red Ale",4,4.5,"King Crimson",9,55115
+"560",13884,"Peak Organic Brewing Company",1301368632,4,4,4,"American Amber / Red Ale",4.5,4,"King Crimson",9,55115
+"561",13884,"Peak Organic Brewing Company",1301005068,4,4,4.5,"American Amber / Red Ale",5,4,"King Crimson",9,55115
+"562",13884,"Peak Organic Brewing Company",1300912611,4,4,4,"American Amber / Red Ale",4.5,4,"King Crimson",9,55115
+"563",13884,"Peak Organic Brewing Company",1300510947,4,4,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"564",13884,"Peak Organic Brewing Company",1300495063,4,4.5,4,"American Amber / Red Ale",3.5,3.5,"King Crimson",9,55115
+"565",13884,"Peak Organic Brewing Company",1283871281,4,4,4,"American Amber / Red Ale",4,4.5,"King Crimson",9,55115
+"566",13884,"Peak Organic Brewing Company",1276370309,3.5,4,4,"American Amber / Red Ale",3,3.5,"King Crimson",9,55115
+"567",13884,"Peak Organic Brewing Company",1272680588,4.5,4.5,4,"American Amber / Red Ale",4,4.5,"King Crimson",9,55115
+"568",13884,"Peak Organic Brewing Company",1267472953,3.5,4,4.5,"American Amber / Red Ale",4.5,3.5,"King Crimson",9,55115
+"569",13884,"Peak Organic Brewing Company",1265322645,4,3.5,4,"American Amber / Red Ale",3.5,4,"King Crimson",9,55115
+"570",13884,"Peak Organic Brewing Company",1265156534,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"King Crimson",9,55115
+"571",13884,"Peak Organic Brewing Company",1196995620,4.5,3,4.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"572",13884,"Peak Organic Brewing Company",1263167687,4,5,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"573",13884,"Peak Organic Brewing Company",1262796609,3.5,4,4.5,"American Amber / Red Ale",3,3.5,"King Crimson",9,55115
+"574",13884,"Peak Organic Brewing Company",1262716822,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"King Crimson",9,55115
+"575",13884,"Peak Organic Brewing Company",1262272666,4,4,4,"American Amber / Red Ale",4,4,"King Crimson",9,55115
+"576",13884,"Peak Organic Brewing Company",1199479205,3.5,3.5,4,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"577",13884,"Peak Organic Brewing Company",1199156782,4.5,3.5,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"578",13884,"Peak Organic Brewing Company",1198979015,4,4,4,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"579",13884,"Peak Organic Brewing Company",1198364130,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"580",13884,"Peak Organic Brewing Company",1197827229,3.5,3,3,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"581",13884,"Peak Organic Brewing Company",1196651916,4.5,3,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"582",13884,"Peak Organic Brewing Company",1196389891,4,4.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"583",13884,"Peak Organic Brewing Company",1195349620,3.5,4,3.5,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"584",13884,"Peak Organic Brewing Company",1194536453,4,3.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"585",13884,"Peak Organic Brewing Company",1192976234,3.5,3,3,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"586",13884,"Peak Organic Brewing Company",1192490477,3.5,3.5,4,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"587",13884,"Peak Organic Brewing Company",1191710308,4,3.5,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"588",13884,"Peak Organic Brewing Company",1189969630,3.5,3,3.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"589",13884,"Peak Organic Brewing Company",1187488431,4,3.5,4.5,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"590",13884,"Peak Organic Brewing Company",1186015736,4,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"591",13884,"Peak Organic Brewing Company",1185322052,3,3,3.5,"English Brown Ale",2,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"592",13884,"Peak Organic Brewing Company",1184985429,3.5,4,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"593",13884,"Peak Organic Brewing Company",1170134005,5,4.5,4.5,"English Brown Ale",4.5,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"594",13884,"Peak Organic Brewing Company",1184963129,4.5,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"595",13884,"Peak Organic Brewing Company",1184598458,4,4,3.5,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"596",13884,"Peak Organic Brewing Company",1184026637,4.5,4.5,5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"597",13884,"Peak Organic Brewing Company",1183771845,3.5,4,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"598",13884,"Peak Organic Brewing Company",1183667366,4,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"599",13884,"Peak Organic Brewing Company",1183602307,4,4,4,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"600",13884,"Peak Organic Brewing Company",1182268768,2,3,4,"English Brown Ale",2,2,"Peak Organic Nut Brown Ale",4.8,30546
+"601",13884,"Peak Organic Brewing Company",1181094055,2.5,3,3,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"602",13884,"Peak Organic Brewing Company",1176426357,3.5,4,3.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"603",13884,"Peak Organic Brewing Company",1175124480,4,4.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"604",13884,"Peak Organic Brewing Company",1171750228,4.5,4,4.5,"English Brown Ale",4.5,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"605",13884,"Peak Organic Brewing Company",1170460501,3,3,3.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"606",13884,"Peak Organic Brewing Company",1159066935,4,3.5,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"607",13884,"Peak Organic Brewing Company",1155761025,4.5,4,4,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"608",13884,"Peak Organic Brewing Company",1153272844,4,4,4,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"609",13884,"Peak Organic Brewing Company",1152318263,4,3.5,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"610",13884,"Peak Organic Brewing Company",1152154045,4,4.5,4.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"611",13884,"Peak Organic Brewing Company",1152140477,4.5,4,4,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"612",13884,"Peak Organic Brewing Company",1325644084,4,3.5,3.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"613",13884,"Peak Organic Brewing Company",1325118733,2.5,3,3,"English Brown Ale",2.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"614",13884,"Peak Organic Brewing Company",1324432387,4,4.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"615",13884,"Peak Organic Brewing Company",1322936531,4,4,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"616",13884,"Peak Organic Brewing Company",1321494876,4.5,5,4.5,"English Brown Ale",4.5,5,"Peak Organic Nut Brown Ale",4.8,30546
+"617",13884,"Peak Organic Brewing Company",1319515047,3.5,3.5,4.5,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"618",13884,"Peak Organic Brewing Company",1318291227,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"619",13884,"Peak Organic Brewing Company",1317301619,2.5,3.5,3,"English Brown Ale",2.5,2,"Peak Organic Nut Brown Ale",4.8,30546
+"620",13884,"Peak Organic Brewing Company",1316928355,3.5,3.5,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"621",13884,"Peak Organic Brewing Company",1316390741,4,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"622",13884,"Peak Organic Brewing Company",1313122768,2.5,3.5,3.5,"English Brown Ale",2.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"623",13884,"Peak Organic Brewing Company",1312768103,3.5,3,4.5,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"624",13884,"Peak Organic Brewing Company",1312255945,3.5,4,2.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"625",13884,"Peak Organic Brewing Company",1309139203,4,3.5,3.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"626",13884,"Peak Organic Brewing Company",1306521207,3.5,3.5,3,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"627",13884,"Peak Organic Brewing Company",1305693946,4.5,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"628",13884,"Peak Organic Brewing Company",1304649254,4,4,4,"English Brown Ale",4.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"629",13884,"Peak Organic Brewing Company",1302354710,4,3.5,3,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"630",13884,"Peak Organic Brewing Company",1301882905,3,3,3,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"631",13884,"Peak Organic Brewing Company",1300845362,3,3.5,3.5,"English Brown Ale",3,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"632",13884,"Peak Organic Brewing Company",1299905473,3,3,3,"English Brown Ale",2.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"633",13884,"Peak Organic Brewing Company",1298655366,2,3.5,4.5,"English Brown Ale",3,2,"Peak Organic Nut Brown Ale",4.8,30546
+"634",13884,"Peak Organic Brewing Company",1297830763,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"635",13884,"Peak Organic Brewing Company",1297741920,4,4.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"636",13884,"Peak Organic Brewing Company",1297649416,4,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"637",13884,"Peak Organic Brewing Company",1297045981,3.5,3,4,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"638",13884,"Peak Organic Brewing Company",1295388759,4,4,3,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"639",13884,"Peak Organic Brewing Company",1294004137,4,2.5,3,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"640",13884,"Peak Organic Brewing Company",1292388924,3,3,4,"English Brown Ale",2.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"641",13884,"Peak Organic Brewing Company",1287790044,3.5,4,4,"English Brown Ale",2,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"642",13884,"Peak Organic Brewing Company",1284864669,3.5,3.5,3.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"643",13884,"Peak Organic Brewing Company",1284396539,4,3,3,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"644",13884,"Peak Organic Brewing Company",1284075455,3,3,3,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"645",13884,"Peak Organic Brewing Company",1281397376,4,3.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"646",13884,"Peak Organic Brewing Company",1280968671,3.5,4,4,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"647",13884,"Peak Organic Brewing Company",1279668738,3.5,3.5,3.5,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"648",13884,"Peak Organic Brewing Company",1278557378,3.5,4,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"649",13884,"Peak Organic Brewing Company",1273891575,4,3,3,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"650",13884,"Peak Organic Brewing Company",1273532577,3.5,3,3,"English Brown Ale",3.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"651",13884,"Peak Organic Brewing Company",1270672502,3.5,3,3.5,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"652",13884,"Peak Organic Brewing Company",1268268559,3,3.5,4,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"653",13884,"Peak Organic Brewing Company",1265838720,4,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"654",13884,"Peak Organic Brewing Company",1265048150,4.5,3.5,3.5,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"655",13884,"Peak Organic Brewing Company",1264892684,4,3.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"656",13884,"Peak Organic Brewing Company",1263227347,1.5,3.5,3.5,"English Brown Ale",3,2,"Peak Organic Nut Brown Ale",4.8,30546
+"657",13884,"Peak Organic Brewing Company",1261868018,3,3,3.5,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"658",13884,"Peak Organic Brewing Company",1257984008,4.5,4.5,4.5,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"659",13884,"Peak Organic Brewing Company",1257724513,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"660",13884,"Peak Organic Brewing Company",1257687760,4.5,4,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"661",13884,"Peak Organic Brewing Company",1255566439,4,3,3,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"662",13884,"Peak Organic Brewing Company",1253978298,4,3,3.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"663",13884,"Peak Organic Brewing Company",1253124100,4,3.5,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"664",13884,"Peak Organic Brewing Company",1251948880,4,3,4,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"665",13884,"Peak Organic Brewing Company",1251118213,3.5,4,3,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"666",13884,"Peak Organic Brewing Company",1248978990,3,2,3,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"667",13884,"Peak Organic Brewing Company",1248633401,3.5,3,4,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"668",13884,"Peak Organic Brewing Company",1245457011,3,3.5,4,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"669",13884,"Peak Organic Brewing Company",1244855297,4.5,4,4,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"670",13884,"Peak Organic Brewing Company",1244424548,3.5,3,4,"English Brown Ale",2.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"671",13884,"Peak Organic Brewing Company",1243802292,3,3,3.5,"English Brown Ale",3.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"672",13884,"Peak Organic Brewing Company",1243118384,3,3.5,4,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"673",13884,"Peak Organic Brewing Company",1239337888,2,3,3,"English Brown Ale",3,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"674",13884,"Peak Organic Brewing Company",1237991764,3.5,4,4,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"675",13884,"Peak Organic Brewing Company",1230586297,2.5,3,3,"English Brown Ale",3,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"676",13884,"Peak Organic Brewing Company",1230555232,4,3.5,4,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"677",13884,"Peak Organic Brewing Company",1230514326,3.5,3.5,3.5,"English Brown Ale",4,3,"Peak Organic Nut Brown Ale",4.8,30546
+"678",13884,"Peak Organic Brewing Company",1229055496,3,4,4.5,"English Brown Ale",4,3,"Peak Organic Nut Brown Ale",4.8,30546
+"679",13884,"Peak Organic Brewing Company",1228408586,4,3.5,3.5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"680",13884,"Peak Organic Brewing Company",1218755650,3,4.5,5,"English Brown Ale",2.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"681",13884,"Peak Organic Brewing Company",1218043975,3.5,3.5,3.5,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"682",13884,"Peak Organic Brewing Company",1215141505,3,3.5,3,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"683",13884,"Peak Organic Brewing Company",1214514671,4,4,3.5,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"684",13884,"Peak Organic Brewing Company",1213832321,3.5,2.5,3,"English Brown Ale",2.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"685",13884,"Peak Organic Brewing Company",1210470853,5,4,5,"English Brown Ale",4,4,"Peak Organic Nut Brown Ale",4.8,30546
+"686",13884,"Peak Organic Brewing Company",1208827254,2.5,2.5,3,"English Brown Ale",2,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"687",13884,"Peak Organic Brewing Company",1208019795,4,3,4,"English Brown Ale",4,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"688",13884,"Peak Organic Brewing Company",1207756376,4,3,3.5,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"689",13884,"Peak Organic Brewing Company",1207422525,3,3.5,4,"English Brown Ale",2.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"690",13884,"Peak Organic Brewing Company",1207267166,4.5,4,4,"English Brown Ale",4,4.5,"Peak Organic Nut Brown Ale",4.8,30546
+"691",13884,"Peak Organic Brewing Company",1206936504,3,4,4,"English Brown Ale",3,3,"Peak Organic Nut Brown Ale",4.8,30546
+"692",13884,"Peak Organic Brewing Company",1206063567,3.5,3.5,3,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"693",13884,"Peak Organic Brewing Company",1204570017,3,2,3,"English Brown Ale",3,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"694",13884,"Peak Organic Brewing Company",1204329879,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Peak Organic Nut Brown Ale",4.8,30546
+"695",13884,"Peak Organic Brewing Company",1204155491,4,4,3.5,"English Brown Ale",3.5,4,"Peak Organic Nut Brown Ale",4.8,30546
+"696",13884,"Peak Organic Brewing Company",1203953162,3,2,4,"English Brown Ale",3.5,2.5,"Peak Organic Nut Brown Ale",4.8,30546
+"697",13884,"Peak Organic Brewing Company",1200780090,3,3,3.5,"English Brown Ale",3.5,3,"Peak Organic Nut Brown Ale",4.8,30546
+"698",13884,"Peak Organic Brewing Company",1317517595,3.5,3,3,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"699",13884,"Peak Organic Brewing Company",1312769064,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"700",13884,"Peak Organic Brewing Company",1309139553,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"701",13884,"Peak Organic Brewing Company",1304657626,4,3,3,"American Amber / Red Ale",5,4,"Peak Organic Amber Ale",5,32916
+"702",13884,"Peak Organic Brewing Company",1302570026,4,3,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"703",13884,"Peak Organic Brewing Company",1284075374,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3,"Peak Organic Amber Ale",5,32916
+"704",13884,"Peak Organic Brewing Company",1270672299,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"705",13884,"Peak Organic Brewing Company",1266887313,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"706",13884,"Peak Organic Brewing Company",1266202202,4,3,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"707",13884,"Peak Organic Brewing Company",1265936704,4,3.5,3.5,"American Amber / Red Ale",3,4,"Peak Organic Amber Ale",5,32916
+"708",13884,"Peak Organic Brewing Company",1264547135,4.5,2.5,3.5,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"709",13884,"Peak Organic Brewing Company",1259099694,4,4,4,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"710",13884,"Peak Organic Brewing Company",1255479962,4,3,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"711",13884,"Peak Organic Brewing Company",1250718613,4,3,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"712",13884,"Peak Organic Brewing Company",1246884794,4,3.5,3,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"713",13884,"Peak Organic Brewing Company",1244693954,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3,"Peak Organic Amber Ale",5,32916
+"714",13884,"Peak Organic Brewing Company",1242779225,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"715",13884,"Peak Organic Brewing Company",1239991235,4,3.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"716",13884,"Peak Organic Brewing Company",1239338071,3,3,3,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"717",13884,"Peak Organic Brewing Company",1239006603,4,3.5,4,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"718",13884,"Peak Organic Brewing Company",1238624573,4,3.5,4,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"719",13884,"Peak Organic Brewing Company",1230586153,3,3,3,"American Amber / Red Ale",3,2.5,"Peak Organic Amber Ale",5,32916
+"720",13884,"Peak Organic Brewing Company",1229718892,3,3,4,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"721",13884,"Peak Organic Brewing Company",1229652104,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"722",13884,"Peak Organic Brewing Company",1224888260,4,4.5,4.5,"American Amber / Red Ale",4,4.5,"Peak Organic Amber Ale",5,32916
+"723",13884,"Peak Organic Brewing Company",1219105656,4,4.5,4.5,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"724",13884,"Peak Organic Brewing Company",1215390564,4,3.5,4,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"725",13884,"Peak Organic Brewing Company",1215141792,2.5,3,3.5,"American Amber / Red Ale",2.5,2,"Peak Organic Amber Ale",5,32916
+"726",13884,"Peak Organic Brewing Company",1208181369,2,3,4,"American Amber / Red Ale",1.5,1.5,"Peak Organic Amber Ale",5,32916
+"727",13884,"Peak Organic Brewing Company",1207528851,3,3,3,"American Amber / Red Ale",2.5,2.5,"Peak Organic Amber Ale",5,32916
+"728",13884,"Peak Organic Brewing Company",1207267283,4.5,4,4,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"729",13884,"Peak Organic Brewing Company",1206979997,4,3.5,3.5,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"730",13884,"Peak Organic Brewing Company",1204162382,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"731",13884,"Peak Organic Brewing Company",1198720307,3.5,3.5,4,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"732",13884,"Peak Organic Brewing Company",1197826831,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"733",13884,"Peak Organic Brewing Company",1196637748,3.5,4.5,4,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"734",13884,"Peak Organic Brewing Company",1195681746,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"735",13884,"Peak Organic Brewing Company",1195527692,3,3.5,4.5,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"736",13884,"Peak Organic Brewing Company",1194716816,3.5,3.5,4.5,"American Amber / Red Ale",3,3.5,"Peak Organic Amber Ale",5,32916
+"737",13884,"Peak Organic Brewing Company",1193334451,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"738",13884,"Peak Organic Brewing Company",1192489576,3,3,2,"American Amber / Red Ale",3.5,3,"Peak Organic Amber Ale",5,32916
+"739",13884,"Peak Organic Brewing Company",1192381494,4,3.5,4,"American Amber / Red Ale",4,4,"Peak Organic Amber Ale",5,32916
+"740",13884,"Peak Organic Brewing Company",1192054108,4,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"741",13884,"Peak Organic Brewing Company",1190255973,4,3,4,"American Amber / Red Ale",3.5,4,"Peak Organic Amber Ale",5,32916
+"742",13884,"Peak Organic Brewing Company",1186439565,3,3,4,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"743",13884,"Peak Organic Brewing Company",1183765579,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Peak Organic Amber Ale",5,32916
+"744",13884,"Peak Organic Brewing Company",1182714082,3,3.5,4,"American Amber / Red Ale",3,4,"Peak Organic Amber Ale",5,32916
+"745",13884,"Peak Organic Brewing Company",1180208122,4,3.5,4,"American Amber / Red Ale",4.5,4.5,"Peak Organic Amber Ale",5,32916
+"746",13884,"Peak Organic Brewing Company",1179240951,4.5,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Peak Organic Amber Ale",5,32916
+"747",13884,"Peak Organic Brewing Company",1175386148,3,2,4,"American Amber / Red Ale",3,3,"Peak Organic Amber Ale",5,32916
+"748",13884,"Peak Organic Brewing Company",1174943489,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"749",13884,"Peak Organic Brewing Company",1166667786,4,3,4,"American Amber / Red Ale",3.5,3.5,"Peak Organic Amber Ale",5,32916
+"750",13884,"Peak Organic Brewing Company",1321573733,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Fall Summit",5.6,61750
+"751",13884,"Peak Organic Brewing Company",1320894981,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"752",13884,"Peak Organic Brewing Company",1320538028,3,3,3,"American Amber / Red Ale",3,3,"Fall Summit",5.6,61750
+"753",13884,"Peak Organic Brewing Company",1319371232,3.5,3,3.5,"American Amber / Red Ale",3.5,3.5,"Fall Summit",5.6,61750
+"754",13884,"Peak Organic Brewing Company",1287361826,3,3,4,"American Amber / Red Ale",3,3,"Fall Summit",5.6,61750
+"755",13884,"Peak Organic Brewing Company",1318800647,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"756",13884,"Peak Organic Brewing Company",1318077588,4,4,4,"American Amber / Red Ale",3.5,4,"Fall Summit",5.6,61750
+"757",13884,"Peak Organic Brewing Company",1317598627,4,4,4,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"758",13884,"Peak Organic Brewing Company",1317486208,3,2,3.5,"American Amber / Red Ale",2.5,3,"Fall Summit",5.6,61750
+"759",13884,"Peak Organic Brewing Company",1317434569,4,3.5,3.5,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"760",13884,"Peak Organic Brewing Company",1317349216,4,3.5,4,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"761",13884,"Peak Organic Brewing Company",1316824714,3,3,4,"American Amber / Red Ale",4,3,"Fall Summit",5.6,61750
+"762",13884,"Peak Organic Brewing Company",1316803169,4,4,3.5,"American Amber / Red Ale",3.5,4,"Fall Summit",5.6,61750
+"763",13884,"Peak Organic Brewing Company",1315692841,3.5,3,5,"American Amber / Red Ale",3.5,3.5,"Fall Summit",5.6,61750
+"764",13884,"Peak Organic Brewing Company",1315532609,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Fall Summit",5.6,61750
+"765",13884,"Peak Organic Brewing Company",1315083000,4,4.5,3.5,"American Amber / Red Ale",4,4.5,"Fall Summit",5.6,61750
+"766",13884,"Peak Organic Brewing Company",1314382958,4,3.5,4,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"767",13884,"Peak Organic Brewing Company",1301181782,4,4,4.5,"American Amber / Red Ale",3.5,4,"Fall Summit",5.6,61750
+"768",13884,"Peak Organic Brewing Company",1297374782,3,3,3,"American Amber / Red Ale",3,3,"Fall Summit",5.6,61750
+"769",13884,"Peak Organic Brewing Company",1289615773,4,4,4,"American Amber / Red Ale",4.5,4,"Fall Summit",5.6,61750
+"770",13884,"Peak Organic Brewing Company",1289601893,4,3.5,4,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"771",13884,"Peak Organic Brewing Company",1289551997,2,2.5,2.5,"American Amber / Red Ale",3,2,"Fall Summit",5.6,61750
+"772",13884,"Peak Organic Brewing Company",1289137959,4,4,4,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"773",13884,"Peak Organic Brewing Company",1288650591,4.5,3.5,4,"American Amber / Red Ale",4.5,4,"Fall Summit",5.6,61750
+"774",13884,"Peak Organic Brewing Company",1288570519,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"775",13884,"Peak Organic Brewing Company",1288052405,4.5,5,4,"American Amber / Red Ale",3.5,4,"Fall Summit",5.6,61750
+"776",13884,"Peak Organic Brewing Company",1287175733,4.5,3.5,4,"American Amber / Red Ale",4.5,4.5,"Fall Summit",5.6,61750
+"777",13884,"Peak Organic Brewing Company",1286892720,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"778",13884,"Peak Organic Brewing Company",1286842611,4,3,3.5,"American Amber / Red Ale",4,3.5,"Fall Summit",5.6,61750
+"779",13884,"Peak Organic Brewing Company",1286332102,4,3.5,4,"American Amber / Red Ale",4,3,"Fall Summit",5.6,61750
+"780",13884,"Peak Organic Brewing Company",1286328929,4.5,3.5,5,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"781",13884,"Peak Organic Brewing Company",1285543228,4.5,4,4.5,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"782",13884,"Peak Organic Brewing Company",1285015235,5,4.5,4,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"783",13884,"Peak Organic Brewing Company",1284318037,3.5,4,4.5,"American Amber / Red Ale",3.5,4,"Fall Summit",5.6,61750
+"784",13884,"Peak Organic Brewing Company",1284260876,4,4,4,"American Amber / Red Ale",3,3.5,"Fall Summit",5.6,61750
+"785",13884,"Peak Organic Brewing Company",1284089280,4,4,3.5,"American Amber / Red Ale",4,4,"Fall Summit",5.6,61750
+"786",13884,"Peak Organic Brewing Company",1316779046,3,3,4.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Simcoe Spring",5.4,66165
+"787",13884,"Peak Organic Brewing Company",1312662146,3.5,4,3.5,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"788",13884,"Peak Organic Brewing Company",1306281279,1,2,2,"American Pale Ale (APA)",1,1,"Peak Organic Simcoe Spring",5.4,66165
+"789",13884,"Peak Organic Brewing Company",1306037245,4,4,4,"American Pale Ale (APA)",5,4,"Peak Organic Simcoe Spring",5.4,66165
+"790",13884,"Peak Organic Brewing Company",1305131386,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Peak Organic Simcoe Spring",5.4,66165
+"791",13884,"Peak Organic Brewing Company",1305083708,3,4,4,"American Pale Ale (APA)",3,3,"Peak Organic Simcoe Spring",5.4,66165
+"792",13884,"Peak Organic Brewing Company",1304307908,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Simcoe Spring",5.4,66165
+"793",13884,"Peak Organic Brewing Company",1304201757,3.5,4,3,"American Pale Ale (APA)",3.5,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"794",13884,"Peak Organic Brewing Company",1304141956,3,3,3,"American Pale Ale (APA)",3,3,"Peak Organic Simcoe Spring",5.4,66165
+"795",13884,"Peak Organic Brewing Company",1303859575,4,4.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"796",13884,"Peak Organic Brewing Company",1303438044,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"797",13884,"Peak Organic Brewing Company",1303403300,4,4.5,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"798",13884,"Peak Organic Brewing Company",1303283605,3.5,4,3.5,"American Pale Ale (APA)",3,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"799",13884,"Peak Organic Brewing Company",1302971051,3,4.5,3.5,"American Pale Ale (APA)",3,3,"Peak Organic Simcoe Spring",5.4,66165
+"800",13884,"Peak Organic Brewing Company",1302751994,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"801",13884,"Peak Organic Brewing Company",1302202673,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"802",13884,"Peak Organic Brewing Company",1302199429,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Peak Organic Simcoe Spring",5.4,66165
+"803",13884,"Peak Organic Brewing Company",1302141685,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"804",13884,"Peak Organic Brewing Company",1302107126,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"805",13884,"Peak Organic Brewing Company",1302049881,4,4.5,4,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"806",13884,"Peak Organic Brewing Company",1301536962,4,4,4.5,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"807",13884,"Peak Organic Brewing Company",1301359145,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"808",13884,"Peak Organic Brewing Company",1301271405,4,4,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"809",13884,"Peak Organic Brewing Company",1301194081,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"810",13884,"Peak Organic Brewing Company",1301085095,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"811",13884,"Peak Organic Brewing Company",1301004581,3.5,3.5,3.5,"American Pale Ale (APA)",3,4,"Peak Organic Simcoe Spring",5.4,66165
+"812",13884,"Peak Organic Brewing Company",1300925455,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"813",13884,"Peak Organic Brewing Company",1300861782,3,3,4,"American Pale Ale (APA)",3.5,3,"Peak Organic Simcoe Spring",5.4,66165
+"814",13884,"Peak Organic Brewing Company",1300842736,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"815",13884,"Peak Organic Brewing Company",1300750575,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"816",13884,"Peak Organic Brewing Company",1316928015,3.5,4,3.5,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"817",13884,"Peak Organic Brewing Company",1300722629,4,4,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"818",13884,"Peak Organic Brewing Company",1300323070,5,3.5,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"819",13884,"Peak Organic Brewing Company",1300318975,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"820",13884,"Peak Organic Brewing Company",1300306871,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"821",13884,"Peak Organic Brewing Company",1300051275,4,4,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"822",13884,"Peak Organic Brewing Company",1299957862,2.5,3.5,4,"American Pale Ale (APA)",3,2,"Peak Organic Simcoe Spring",5.4,66165
+"823",13884,"Peak Organic Brewing Company",1299648742,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"824",13884,"Peak Organic Brewing Company",1299641660,4,4,4,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"825",13884,"Peak Organic Brewing Company",1299463205,4,4,3.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"826",13884,"Peak Organic Brewing Company",1299280516,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"827",13884,"Peak Organic Brewing Company",1299118085,4,4.5,4.5,"American Pale Ale (APA)",4,4,"Peak Organic Simcoe Spring",5.4,66165
+"828",13884,"Peak Organic Brewing Company",1298939668,4,4,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"829",13884,"Peak Organic Brewing Company",1298854291,4,4.5,4,"American Pale Ale (APA)",3,4,"Peak Organic Simcoe Spring",5.4,66165
+"830",13884,"Peak Organic Brewing Company",1298852017,5,4,3.5,"American Pale Ale (APA)",3.5,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"831",13884,"Peak Organic Brewing Company",1298839345,4,4.5,4.5,"American Pale Ale (APA)",3,4,"Peak Organic Simcoe Spring",5.4,66165
+"832",13884,"Peak Organic Brewing Company",1298692257,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"833",13884,"Peak Organic Brewing Company",1298613380,3,4,4,"American Pale Ale (APA)",3,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"834",13884,"Peak Organic Brewing Company",1298603187,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"835",13884,"Peak Organic Brewing Company",1298344027,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"836",13884,"Peak Organic Brewing Company",1297906056,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Peak Organic Simcoe Spring",5.4,66165
+"837",13884,"Peak Organic Brewing Company",1297739039,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Peak Organic Simcoe Spring",5.4,66165
+"838",13884,"Peak Organic Brewing Company",1297510202,4.5,4.5,4,"American Pale Ale (APA)",4,4.5,"Peak Organic Simcoe Spring",5.4,66165
+"839",13884,"Peak Organic Brewing Company",1326042537,4,4.5,3.5,"Weizenbock",2.5,3.5,"Peak Organic Weiss Principal",8.6,68937
+"840",13884,"Peak Organic Brewing Company",1323348402,5,5,5,"Weizenbock",5,5,"Peak Organic Weiss Principal",8.6,68937
+"841",13884,"Peak Organic Brewing Company",1321498223,3.5,3,3.5,"Weizenbock",3,3.5,"Peak Organic Weiss Principal",8.6,68937
+"842",13884,"Peak Organic Brewing Company",1319406010,4.5,4,4.5,"Weizenbock",4.5,4.5,"Peak Organic Weiss Principal",8.6,68937
+"843",13884,"Peak Organic Brewing Company",1318644929,4,4.5,5,"Weizenbock",4,4,"Peak Organic Weiss Principal",8.6,68937
+"844",13884,"Peak Organic Brewing Company",1317257656,4,2,4.5,"Weizenbock",2.5,4,"Peak Organic Weiss Principal",8.6,68937
+"845",13884,"Peak Organic Brewing Company",1314838594,2,3,4,"Weizenbock",2.5,1.5,"Peak Organic Weiss Principal",8.6,68937
+"846",13884,"Peak Organic Brewing Company",1314486798,4,4,3.5,"Weizenbock",4,4,"Peak Organic Weiss Principal",8.6,68937
+"847",13884,"Peak Organic Brewing Company",1314244206,3.5,4,4,"Weizenbock",3.5,3,"Peak Organic Weiss Principal",8.6,68937
+"848",13884,"Peak Organic Brewing Company",1313878551,4,4.5,4.5,"Weizenbock",3.5,3.5,"Peak Organic Weiss Principal",8.6,68937
+"849",13884,"Peak Organic Brewing Company",1313811707,3.5,3.5,4,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"850",13884,"Peak Organic Brewing Company",1313473651,3.5,4,4,"Weizenbock",3.5,3.5,"Peak Organic Weiss Principal",8.6,68937
+"851",13884,"Peak Organic Brewing Company",1313258338,4,3.5,4,"Weizenbock",4,4,"Peak Organic Weiss Principal",8.6,68937
+"852",13884,"Peak Organic Brewing Company",1313014909,4,4,3.5,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"853",13884,"Peak Organic Brewing Company",1288194364,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"854",13884,"Peak Organic Brewing Company",1312776682,3.5,3.5,4.5,"Weizenbock",3.5,3.5,"Peak Organic Weiss Principal",8.6,68937
+"855",13884,"Peak Organic Brewing Company",1312639681,3.5,3.5,3.5,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"856",13884,"Peak Organic Brewing Company",1312405851,4,4,4.5,"Weizenbock",4,4,"Peak Organic Weiss Principal",8.6,68937
+"857",13884,"Peak Organic Brewing Company",1312322862,3,3.5,4,"Weizenbock",4,3,"Peak Organic Weiss Principal",8.6,68937
+"858",13884,"Peak Organic Brewing Company",1311896409,4,4,4.5,"Weizenbock",2.5,3.5,"Peak Organic Weiss Principal",8.6,68937
+"859",13884,"Peak Organic Brewing Company",1311222204,3.5,4.5,4.5,"Weizenbock",3.5,3,"Peak Organic Weiss Principal",8.6,68937
+"860",13884,"Peak Organic Brewing Company",1310936625,3.5,3.5,3.5,"Weizenbock",3.5,3,"Peak Organic Weiss Principal",8.6,68937
+"861",13884,"Peak Organic Brewing Company",1310796781,3.5,4,4.5,"Weizenbock",3,2.5,"Peak Organic Weiss Principal",8.6,68937
+"862",13884,"Peak Organic Brewing Company",1286584954,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"863",13884,"Peak Organic Brewing Company",1310361422,2,1.5,4,"Weizenbock",3,2,"Peak Organic Weiss Principal",8.6,68937
+"864",13884,"Peak Organic Brewing Company",1310049378,4.5,4,3,"Weizenbock",4.5,4.5,"Peak Organic Weiss Principal",8.6,68937
+"865",13884,"Peak Organic Brewing Company",1309975787,3.5,4,4,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"866",13884,"Peak Organic Brewing Company",1309926534,4,4,4,"Weizenbock",4.5,4,"Peak Organic Weiss Principal",8.6,68937
+"867",13884,"Peak Organic Brewing Company",1309911374,3.5,3,4,"Weizenbock",3.5,3,"Peak Organic Weiss Principal",8.6,68937
+"868",13884,"Peak Organic Brewing Company",1309782352,3.5,4,3,"Weizenbock",4,3,"Peak Organic Weiss Principal",8.6,68937
+"869",13884,"Peak Organic Brewing Company",1309678284,4.5,3.5,4,"Weizenbock",4,4.5,"Peak Organic Weiss Principal",8.6,68937
+"870",13884,"Peak Organic Brewing Company",1309629638,3.5,3.5,4,"Weizenbock",3,3,"Peak Organic Weiss Principal",8.6,68937
+"871",13884,"Peak Organic Brewing Company",1309498018,3.5,4,4.5,"Weizenbock",4,3,"Peak Organic Weiss Principal",8.6,68937
+"872",13884,"Peak Organic Brewing Company",1309396332,3.5,4,3.5,"Weizenbock",4,3.5,"Peak Organic Weiss Principal",8.6,68937
+"873",13884,"Peak Organic Brewing Company",1309125260,3,3.5,4.5,"Weizenbock",3,3.5,"Peak Organic Weiss Principal",8.6,68937
+"874",13884,"Peak Organic Brewing Company",1308608630,2.5,3,4,"Weizenbock",2.5,2,"Peak Organic Weiss Principal",8.6,68937
+"875",13884,"Peak Organic Brewing Company",1308522215,3,3,3,"Weizenbock",3,3.5,"Peak Organic Weiss Principal",8.6,68937
+"876",13884,"Peak Organic Brewing Company",1308190821,1.5,4,4,"Weizenbock",1.5,1.5,"Peak Organic Weiss Principal",8.6,68937
+"877",13884,"Peak Organic Brewing Company",1308050079,4,4,4.5,"Weizenbock",4,4,"Peak Organic Weiss Principal",8.6,68937
+"878",13884,"Peak Organic Brewing Company",1307829040,4.5,4,4.5,"Weizenbock",4.5,4.5,"Peak Organic Weiss Principal",8.6,68937
+"879",13884,"Peak Organic Brewing Company",1223431139,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Maple Oat Ale",5.2,41604
+"880",13884,"Peak Organic Brewing Company",1307747510,1.5,2,3.5,"Weizenbock",2,1.5,"Peak Organic Weiss Principal",8.6,68937
+"881",13884,"Peak Organic Brewing Company",1307745348,2,3.5,4,"Weizenbock",3,2,"Peak Organic Weiss Principal",8.6,68937
+"882",13884,"Peak Organic Brewing Company",1325725073,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"883",13884,"Peak Organic Brewing Company",1323347521,4.5,4.5,4.5,"American Pale Ale (APA)",4.5,4,"Maple Oat Ale",5.2,41604
+"884",13884,"Peak Organic Brewing Company",1319769430,3,3,4,"American Pale Ale (APA)",3.5,3,"Maple Oat Ale",5.2,41604
+"885",13884,"Peak Organic Brewing Company",1315873717,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Maple Oat Ale",5.2,41604
+"886",13884,"Peak Organic Brewing Company",1312769020,3,3,3.5,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"887",13884,"Peak Organic Brewing Company",1312655432,3,3,3.5,"American Pale Ale (APA)",2.5,2.5,"Maple Oat Ale",5.2,41604
+"888",13884,"Peak Organic Brewing Company",1301877636,3,3,4.5,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"889",13884,"Peak Organic Brewing Company",1301751886,3,3.5,4,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"890",13884,"Peak Organic Brewing Company",1301467905,3.5,4.5,4,"American Pale Ale (APA)",2.5,3.5,"Maple Oat Ale",5.2,41604
+"891",13884,"Peak Organic Brewing Company",1298245046,4,3,3.5,"American Pale Ale (APA)",4,4.5,"Maple Oat Ale",5.2,41604
+"892",13884,"Peak Organic Brewing Company",1295493842,2.5,4,3,"American Pale Ale (APA)",2,2,"Maple Oat Ale",5.2,41604
+"893",13884,"Peak Organic Brewing Company",1294109166,1.5,2,2,"American Pale Ale (APA)",2,2,"Maple Oat Ale",5.2,41604
+"894",13884,"Peak Organic Brewing Company",1293899778,2.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"895",13884,"Peak Organic Brewing Company",1293855507,3.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Maple Oat Ale",5.2,41604
+"896",13884,"Peak Organic Brewing Company",1293388650,3.5,3.5,3,"American Pale Ale (APA)",2.5,3.5,"Maple Oat Ale",5.2,41604
+"897",13884,"Peak Organic Brewing Company",1293146202,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"898",13884,"Peak Organic Brewing Company",1292468971,4,2.5,4.5,"American Pale Ale (APA)",4.5,4,"Maple Oat Ale",5.2,41604
+"899",13884,"Peak Organic Brewing Company",1291948392,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Maple Oat Ale",5.2,41604
+"900",13884,"Peak Organic Brewing Company",1222734087,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"901",13884,"Peak Organic Brewing Company",1281478423,4,4,4,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"902",13884,"Peak Organic Brewing Company",1279638091,3,4,4,"American Pale Ale (APA)",3,2,"Maple Oat Ale",5.2,41604
+"903",13884,"Peak Organic Brewing Company",1276826192,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"904",13884,"Peak Organic Brewing Company",1275591381,4,4,4,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"905",13884,"Peak Organic Brewing Company",1274216136,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"906",13884,"Peak Organic Brewing Company",1274144274,3.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Maple Oat Ale",5.2,41604
+"907",13884,"Peak Organic Brewing Company",1273876479,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"908",13884,"Peak Organic Brewing Company",1271781021,4,3,4,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"909",13884,"Peak Organic Brewing Company",1217822932,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Maple Oat Ale",5.2,41604
+"910",13884,"Peak Organic Brewing Company",1271727341,5,3.5,4,"American Pale Ale (APA)",4,3.5,"Maple Oat Ale",5.2,41604
+"911",13884,"Peak Organic Brewing Company",1270426341,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"912",13884,"Peak Organic Brewing Company",1269040755,4,4,4,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"913",13884,"Peak Organic Brewing Company",1268191566,3.5,3.5,3.5,"American Pale Ale (APA)",4.5,4.5,"Maple Oat Ale",5.2,41604
+"914",13884,"Peak Organic Brewing Company",1267673924,3,3.5,4,"American Pale Ale (APA)",4,2.5,"Maple Oat Ale",5.2,41604
+"915",13884,"Peak Organic Brewing Company",1267325947,3,3.5,4,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"916",13884,"Peak Organic Brewing Company",1265996110,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"917",13884,"Peak Organic Brewing Company",1263860753,2.5,3,3,"American Pale Ale (APA)",4.5,4,"Maple Oat Ale",5.2,41604
+"918",13884,"Peak Organic Brewing Company",1262390144,4,4,4.5,"American Pale Ale (APA)",4.5,4,"Maple Oat Ale",5.2,41604
+"919",13884,"Peak Organic Brewing Company",1262194215,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"920",13884,"Peak Organic Brewing Company",1257029615,2.5,3.5,4,"American Pale Ale (APA)",3,3.5,"Maple Oat Ale",5.2,41604
+"921",13884,"Peak Organic Brewing Company",1252635252,4,3,4,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"922",13884,"Peak Organic Brewing Company",1252374130,4.5,3.5,4,"American Pale Ale (APA)",4.5,3.5,"Maple Oat Ale",5.2,41604
+"923",13884,"Peak Organic Brewing Company",1238035077,2,3.5,4,"American Pale Ale (APA)",2.5,2.5,"Maple Oat Ale",5.2,41604
+"924",13884,"Peak Organic Brewing Company",1236596104,4,4,4,"American Pale Ale (APA)",4,4.5,"Maple Oat Ale",5.2,41604
+"925",13884,"Peak Organic Brewing Company",1234673793,4,3,3.5,"American Pale Ale (APA)",3,3.5,"Maple Oat Ale",5.2,41604
+"926",13884,"Peak Organic Brewing Company",1229802127,3.5,3.5,4,"American Pale Ale (APA)",3,4,"Maple Oat Ale",5.2,41604
+"927",13884,"Peak Organic Brewing Company",1225493687,3.5,3,3,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"928",13884,"Peak Organic Brewing Company",1224717781,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"929",13884,"Peak Organic Brewing Company",1216731619,3,3,4,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"930",13884,"Peak Organic Brewing Company",1216650078,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Maple Oat Ale",5.2,41604
+"931",13884,"Peak Organic Brewing Company",1214367649,5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Maple Oat Ale",5.2,41604
+"932",13884,"Peak Organic Brewing Company",1213503776,4,3.5,3,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"933",13884,"Peak Organic Brewing Company",1213065672,4,4,3,"American Pale Ale (APA)",3,3.5,"Maple Oat Ale",5.2,41604
+"934",13884,"Peak Organic Brewing Company",1212450886,3.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"935",13884,"Peak Organic Brewing Company",1212442188,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"936",13884,"Peak Organic Brewing Company",1211578671,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"937",13884,"Peak Organic Brewing Company",1210807469,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Maple Oat Ale",5.2,41604
+"938",13884,"Peak Organic Brewing Company",1209299538,3,3,3,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"939",13884,"Peak Organic Brewing Company",1209265450,3,3,3.5,"American Pale Ale (APA)",3,3,"Maple Oat Ale",5.2,41604
+"940",13884,"Peak Organic Brewing Company",1209132058,4,4,4,"American Pale Ale (APA)",4,4,"Maple Oat Ale",5.2,41604
+"941",13884,"Peak Organic Brewing Company",1208791498,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Maple Oat Ale",5.2,41604
+"942",13884,"Peak Organic Brewing Company",1208557521,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Maple Oat Ale",5.2,41604
+"943",13884,"Peak Organic Brewing Company",1208483329,4,3.5,3.5,"American Pale Ale (APA)",3,4,"Maple Oat Ale",5.2,41604
+"944",13884,"Peak Organic Brewing Company",1208310175,3.5,4,3.5,"American Pale Ale (APA)",2.5,3.5,"Maple Oat Ale",5.2,41604
+"945",13884,"Peak Organic Brewing Company",1208026038,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Maple Oat Ale",5.2,41604
+"946",13884,"Peak Organic Brewing Company",1206153024,3,3.5,3,"American Pale Ale (APA)",2.5,3,"Maple Oat Ale",5.2,41604
+"947",13884,"Peak Organic Brewing Company",1205694549,3,3,3.5,"American Pale Ale (APA)",3.5,3,"Maple Oat Ale",5.2,41604
