@@ -2,9 +2,8 @@
 title: "BeerAdvocate Data Exploration"
 author: "Jakob Johnson"
 date: "10/10/2018"
-output: 
-html_document:
-css: styles.css
+output: md_document
+# css: styles.css
 ---
 
 ```{r setup, include=FALSE}
@@ -143,7 +142,7 @@ After grouping reviews from beers at the same brewery, and removing breweries wi
 
 In this we will split the original `ba` dataset by brewery and write each to a csv. This will allow for easier and faster loading on the webpage. 
 
-```{r csv_split, cache = TRUE}
+```{r csv_split, eval = FALSE}
 ba %>% group_by(brewery_name) %>%
   do(write.csv(., sprintf("data/breweries/%s.csv", .$brewery_id[1])))
 ```
