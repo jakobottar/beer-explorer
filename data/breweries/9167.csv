@@ -1,28 +1,28 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",9167,"23rd Street Brewery",1241310615,4,3.5,4,"American Porter",3.5,4.5,"Porter",NA,46014
-"2",9167,"23rd Street Brewery",1227122608,4.5,3.5,4,"American Porter",4,4,"Porter",NA,46014
-"3",9167,"23rd Street Brewery",1285798336,3.5,3.5,4,"American IPA",4,3.5,"Bitter Professor IPA",7.2,44313
-"4",9167,"23rd Street Brewery",1224701307,3,4,3.5,"Pumpkin Ale",3.5,2.5,"Pumpkin Ale",NA,45520
-"5",9167,"23rd Street Brewery",1285798862,3,3,3.5,"American Pale Wheat Ale",3.5,2.5,"Wave The Wheat Ale",5.2,45252
-"6",9167,"23rd Street Brewery",1275090889,5,2,3,"American Pale Wheat Ale",3.5,3,"Wave The Wheat Ale",5.2,45252
-"7",9167,"23rd Street Brewery",1265986007,4,3,3,"American Pale Wheat Ale",3.5,3,"Wave The Wheat Ale",5.2,45252
-"8",9167,"23rd Street Brewery",1236092315,4,3,3,"American Pale Wheat Ale",4,3.5,"Wave The Wheat Ale",5.2,45252
-"9",9167,"23rd Street Brewery",1223492574,3.5,2.5,3.5,"American Pale Wheat Ale",3,2.5,"Wave The Wheat Ale",5.2,45252
-"10",9167,"23rd Street Brewery",1236046390,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"ESB",NA,44398
-"11",9167,"23rd Street Brewery",1219096547,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"ESB",NA,44398
-"12",9167,"23rd Street Brewery",1281750975,4.5,4.5,4.5,"American IPA",4.5,4.5,"Bitter Professor IPA",7.2,44313
-"13",9167,"23rd Street Brewery",1275088728,5,4,4,"American IPA",4,4.5,"Bitter Professor IPA",7.2,44313
-"14",9167,"23rd Street Brewery",1241356774,3.5,4,4,"American IPA",3.5,4,"Bitter Professor IPA",7.2,44313
-"15",9167,"23rd Street Brewery",1236045587,4.5,4,3.5,"American IPA",4,4,"Bitter Professor IPA",7.2,44313
-"16",9167,"23rd Street Brewery",1218769750,3.5,4,4,"American IPA",4,4.5,"Bitter Professor IPA",7.2,44313
-"17",9167,"23rd Street Brewery",1218653480,4,3.5,4,"American IPA",4,3.5,"Bitter Professor IPA",7.2,44313
-"18",9167,"23rd Street Brewery",1285798530,4,3.5,3.5,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
-"19",9167,"23rd Street Brewery",1241356352,4,3,4,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
-"20",9167,"23rd Street Brewery",1220471982,4,3,3,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
-"21",9167,"23rd Street Brewery",1219096297,4,3,3.5,"Witbier",4,3.5,"Belgian Wit",NA,44396
-"22",9167,"23rd Street Brewery",1179445641,4,3.5,4,"American IPA",4,3.5,"Good Hope IPA",6.2,33640
-"23",9167,"23rd Street Brewery",1163118255,3.5,3.5,4,"American IPA",3,3.5,"Good Hope IPA",6.2,33640
-"24",9167,"23rd Street Brewery",1285798753,3,3,2.5,"American Pale Wheat Ale",3.5,3,"Raspberry Wheat",NA,44452
-"25",9167,"23rd Street Brewery",1275090234,5,3,3,"American Pale Wheat Ale",3,2.5,"Raspberry Wheat",NA,44452
-"26",9167,"23rd Street Brewery",1226954544,3.5,2.5,3,"American Pale Wheat Ale",3.5,3.5,"Raspberry Wheat",NA,44452
-"27",9167,"23rd Street Brewery",1219271656,3.5,3,3.5,"American Pale Wheat Ale",4,3.5,"Raspberry Wheat",NA,44452
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+9167,"23rd Street Brewery",1241310615,4,3.5,4,"American Porter",3.5,4.5,"Porter",NA,46014
+9167,"23rd Street Brewery",1227122608,4.5,3.5,4,"American Porter",4,4,"Porter",NA,46014
+9167,"23rd Street Brewery",1285798336,3.5,3.5,4,"American IPA",4,3.5,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1224701307,3,4,3.5,"Pumpkin Ale",3.5,2.5,"Pumpkin Ale",NA,45520
+9167,"23rd Street Brewery",1285798862,3,3,3.5,"American Pale Wheat Ale",3.5,2.5,"Wave The Wheat Ale",5.2,45252
+9167,"23rd Street Brewery",1275090889,5,2,3,"American Pale Wheat Ale",3.5,3,"Wave The Wheat Ale",5.2,45252
+9167,"23rd Street Brewery",1265986007,4,3,3,"American Pale Wheat Ale",3.5,3,"Wave The Wheat Ale",5.2,45252
+9167,"23rd Street Brewery",1236092315,4,3,3,"American Pale Wheat Ale",4,3.5,"Wave The Wheat Ale",5.2,45252
+9167,"23rd Street Brewery",1223492574,3.5,2.5,3.5,"American Pale Wheat Ale",3,2.5,"Wave The Wheat Ale",5.2,45252
+9167,"23rd Street Brewery",1236046390,4.5,3.5,4,"Extra Special / Strong Bitter (ESB)",4,3.5,"ESB",NA,44398
+9167,"23rd Street Brewery",1219096547,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"ESB",NA,44398
+9167,"23rd Street Brewery",1281750975,4.5,4.5,4.5,"American IPA",4.5,4.5,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1275088728,5,4,4,"American IPA",4,4.5,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1241356774,3.5,4,4,"American IPA",3.5,4,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1236045587,4.5,4,3.5,"American IPA",4,4,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1218769750,3.5,4,4,"American IPA",4,4.5,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1218653480,4,3.5,4,"American IPA",4,3.5,"Bitter Professor IPA",7.2,44313
+9167,"23rd Street Brewery",1285798530,4,3.5,3.5,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
+9167,"23rd Street Brewery",1241356352,4,3,4,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
+9167,"23rd Street Brewery",1220471982,4,3,3,"California Common / Steam Beer",4,3.5,"California Common",NA,44717
+9167,"23rd Street Brewery",1219096297,4,3,3.5,"Witbier",4,3.5,"Belgian Wit",NA,44396
+9167,"23rd Street Brewery",1179445641,4,3.5,4,"American IPA",4,3.5,"Good Hope IPA",6.2,33640
+9167,"23rd Street Brewery",1163118255,3.5,3.5,4,"American IPA",3,3.5,"Good Hope IPA",6.2,33640
+9167,"23rd Street Brewery",1285798753,3,3,2.5,"American Pale Wheat Ale",3.5,3,"Raspberry Wheat",NA,44452
+9167,"23rd Street Brewery",1275090234,5,3,3,"American Pale Wheat Ale",3,2.5,"Raspberry Wheat",NA,44452
+9167,"23rd Street Brewery",1226954544,3.5,2.5,3,"American Pale Wheat Ale",3.5,3.5,"Raspberry Wheat",NA,44452
+9167,"23rd Street Brewery",1219271656,3.5,3,3.5,"American Pale Wheat Ale",4,3.5,"Raspberry Wheat",NA,44452

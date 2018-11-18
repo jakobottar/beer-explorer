@@ -1,648 +1,648 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1548,"John Harvard's Brewery & Ale House",1194040522,3,3,2,"Märzen / Oktoberfest",3,3,"Oktoberfest",5,6328
-"2",1548,"John Harvard's Brewery & Ale House",1078760189,3.5,3.5,4,"American Porter",2.5,3,"Robust Porter",4.9,15178
-"3",1548,"John Harvard's Brewery & Ale House",1085422580,4.5,4,4,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
-"4",1548,"John Harvard's Brewery & Ale House",1072949643,4,4,4.5,"American Porter",4,4,"Robust Porter",4.9,15178
-"5",1548,"John Harvard's Brewery & Ale House",1157060058,3.5,3.5,4,"Altbier",3,3.5,"Altbier",NA,18513
-"6",1548,"John Harvard's Brewery & Ale House",1236702404,3,3.5,4,"Doppelbock",3,3,"Double Trouble Bock",NA,16433
-"7",1548,"John Harvard's Brewery & Ale House",1227800564,4,3.5,4,"Irish Dry Stout",4,4,"Dry Irish Stout",NA,32561
-"8",1548,"John Harvard's Brewery & Ale House",1157059632,4,3.5,4,"Scottish Ale",4,4,"Loch Lanier Scottish Ale",5.3,2754
-"9",1548,"John Harvard's Brewery & Ale House",1088963166,3.5,3.5,4,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
-"10",1548,"John Harvard's Brewery & Ale House",1300988009,4,4,4,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
-"11",1548,"John Harvard's Brewery & Ale House",1229803145,4,3.5,4,"American IPA",4,4,"Unlucky IPA",NA,33452
-"12",1548,"John Harvard's Brewery & Ale House",1172436948,4,3.5,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"13",1548,"John Harvard's Brewery & Ale House",1049632347,4,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
-"14",1548,"John Harvard's Brewery & Ale House",1215125628,4.5,4.5,4,"American IPA",4.5,5,"Pacific Coast IPA",NA,2759
-"15",1548,"John Harvard's Brewery & Ale House",1094650596,4.5,3,3.5,"American IPA",4,4,"Pacific Coast IPA",NA,2759
-"16",1548,"John Harvard's Brewery & Ale House",1078889196,3.5,4,4,"American IPA",4,3.5,"Pacific Coast IPA",NA,2759
-"17",1548,"John Harvard's Brewery & Ale House",1068082543,4,3.5,4,"American IPA",3.5,3.5,"Pacific Coast IPA",NA,2759
-"18",1548,"John Harvard's Brewery & Ale House",1019844709,4.5,1,4,"American IPA",4,4,"Pacific Coast IPA",NA,2759
-"19",1548,"John Harvard's Brewery & Ale House",1013505137,4,4,4,"American IPA",4,4,"Pacific Coast IPA",NA,2759
-"20",1548,"John Harvard's Brewery & Ale House",1230061022,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Oatmeal Amber",5,12219
-"21",1548,"John Harvard's Brewery & Ale House",1178159529,2.5,2,2,"American Amber / Red Ale",3,3,"Oatmeal Amber",5,12219
-"22",1548,"John Harvard's Brewery & Ale House",1176755284,3,3,3.5,"American Amber / Red Ale",3.5,2.5,"Oatmeal Amber",5,12219
-"23",1548,"John Harvard's Brewery & Ale House",1157298461,4,3.5,3.5,"American Amber / Red Ale",4.5,4.5,"Oatmeal Amber",5,12219
-"24",1548,"John Harvard's Brewery & Ale House",1151193773,3.5,3,3,"American Amber / Red Ale",3.5,4,"Oatmeal Amber",5,12219
-"25",1548,"John Harvard's Brewery & Ale House",1145765450,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Oatmeal Amber",5,12219
-"26",1548,"John Harvard's Brewery & Ale House",1061544563,3,2.5,2.5,"American Amber / Red Ale",2,3.5,"Oatmeal Amber",5,12219
-"27",1548,"John Harvard's Brewery & Ale House",1122225840,4,3,3,"American Amber / Red Ale",4,3.5,"Red Devil",5,24946
-"28",1548,"John Harvard's Brewery & Ale House",1154186579,4,3.5,4.5,"Russian Imperial Stout",3.5,3,"Imperial Stout",NA,790
-"29",1548,"John Harvard's Brewery & Ale House",1135456322,4,4.5,5,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
-"30",1548,"John Harvard's Brewery & Ale House",1106067330,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Imperial Stout",NA,790
-"31",1548,"John Harvard's Brewery & Ale House",1081027961,4,4,2,"Russian Imperial Stout",4.5,4,"Imperial Stout",NA,790
-"32",1548,"John Harvard's Brewery & Ale House",1071379030,4,4,4,"Russian Imperial Stout",4,4,"Imperial Stout",NA,790
-"33",1548,"John Harvard's Brewery & Ale House",1068831722,4.5,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
-"34",1548,"John Harvard's Brewery & Ale House",1055872246,4.5,4.5,5,"Russian Imperial Stout",4.5,4.5,"Imperial Stout",NA,790
-"35",1548,"John Harvard's Brewery & Ale House",982886401,4,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
-"36",1548,"John Harvard's Brewery & Ale House",1063329941,4,4,4,"Witbier",3.5,4,"Wit",NA,3945
-"37",1548,"John Harvard's Brewery & Ale House",1062687541,4,3,3.5,"Witbier",4,3,"Wit",NA,3945
-"38",1548,"John Harvard's Brewery & Ale House",1059916903,4,3.5,3.5,"Witbier",3.5,4,"Wit",NA,3945
-"39",1548,"John Harvard's Brewery & Ale House",1022879982,4,3.5,3.5,"Witbier",4,3.5,"Wit",NA,3945
-"40",1548,"John Harvard's Brewery & Ale House",1152494342,4.5,3.5,4,"American Amber / Red Ale",4,4,"Fire Engine Red",5.8,15287
-"41",1548,"John Harvard's Brewery & Ale House",1150636720,4,4,3.5,"American Amber / Red Ale",3.5,4,"Fire Engine Red",5.8,15287
-"42",1548,"John Harvard's Brewery & Ale House",1059874615,4,3.5,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.5,485
-"43",1548,"John Harvard's Brewery & Ale House",1116892117,4,3.5,4,"American Amber / Red Ale",3.5,4,"Fire Engine Red",5.8,15287
-"44",1548,"John Harvard's Brewery & Ale House",1073458617,4.5,4,5,"American Amber / Red Ale",4,4,"Fire Engine Red",5.8,15287
-"45",1548,"John Harvard's Brewery & Ale House",1151459962,3,3,3,"Maibock / Helles Bock",3.5,3.5,"Maibock",NA,30658
-"46",1548,"John Harvard's Brewery & Ale House",1151081567,4,4,3.5,"Maibock / Helles Bock",4,4,"Maibock",NA,30658
-"47",1548,"John Harvard's Brewery & Ale House",1148254493,3,3,4,"Maibock / Helles Bock",3.5,2.5,"Maibock",NA,30658
-"48",1548,"John Harvard's Brewery & Ale House",1148247736,2.5,4,4,"Maibock / Helles Bock",3.5,2,"Maibock",NA,30658
-"49",1548,"John Harvard's Brewery & Ale House",1300990131,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"50",1548,"John Harvard's Brewery & Ale House",1057864445,4,4,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
-"51",1548,"John Harvard's Brewery & Ale House",1048755031,3.5,3,4.5,"English Brown Ale",3,3,"Nut Brown Ale",5.5,485
-"52",1548,"John Harvard's Brewery & Ale House",1291565545,4,3.5,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
-"53",1548,"John Harvard's Brewery & Ale House",1227048956,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"54",1548,"John Harvard's Brewery & Ale House",1167925236,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"55",1548,"John Harvard's Brewery & Ale House",1116893636,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"56",1548,"John Harvard's Brewery & Ale House",1109622217,3.5,3,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.5,485
-"57",1548,"John Harvard's Brewery & Ale House",1106482504,3,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.5,485
-"58",1548,"John Harvard's Brewery & Ale House",1089331228,4.5,4,4.5,"English Brown Ale",4,4.5,"Nut Brown Ale",5.5,485
-"59",1548,"John Harvard's Brewery & Ale House",1081030667,4,3,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"60",1548,"John Harvard's Brewery & Ale House",1076514657,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"61",1548,"John Harvard's Brewery & Ale House",1072949912,3,3,4,"English Brown Ale",2.5,3,"Nut Brown Ale",5.5,485
-"62",1548,"John Harvard's Brewery & Ale House",1069461695,3.5,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
-"63",1548,"John Harvard's Brewery & Ale House",1061543625,5,4.5,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.5,485
-"64",1548,"John Harvard's Brewery & Ale House",1040648953,3.5,3,4,"English Brown Ale",2,3.5,"Nut Brown Ale",5.5,485
-"65",1548,"John Harvard's Brewery & Ale House",913593601,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
-"66",1548,"John Harvard's Brewery & Ale House",1320209166,3,3.5,3,"Baltic Porter",2.5,2.5,"Baltic Porter",NA,65700
-"67",1548,"John Harvard's Brewery & Ale House",1296223960,3,4,4,"Baltic Porter",4.5,4,"Baltic Porter",NA,65700
-"68",1548,"John Harvard's Brewery & Ale House",1178147208,3,3,3.5,"Belgian Dark Ale",3,3,"Farmhouse Ale",NA,36635
-"69",1548,"John Harvard's Brewery & Ale House",1230313204,3.5,3,4,"Märzen / Oktoberfest",3,3.5,"Oktoberfest",5,6328
-"70",1548,"John Harvard's Brewery & Ale House",1194841117,4,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,6328
-"71",1548,"John Harvard's Brewery & Ale House",1193443439,4.5,3.5,3.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5,6328
-"72",1548,"John Harvard's Brewery & Ale House",1164578599,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
-"73",1548,"John Harvard's Brewery & Ale House",1159061707,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
-"74",1548,"John Harvard's Brewery & Ale House",1132093005,4,3.5,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
-"75",1548,"John Harvard's Brewery & Ale House",1130522505,4,4,3.5,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
-"76",1548,"John Harvard's Brewery & Ale House",1094937322,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
-"77",1548,"John Harvard's Brewery & Ale House",1068060153,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
-"78",1548,"John Harvard's Brewery & Ale House",1066204843,3,4,3.5,"Märzen / Oktoberfest",3,4,"Oktoberfest",5,6328
-"79",1548,"John Harvard's Brewery & Ale House",1064776589,3.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
-"80",1548,"John Harvard's Brewery & Ale House",1157060110,3.5,4,3.5,"American IPA",3,3.5,"India Pale Ale (IPA)",NA,488
-"81",1548,"John Harvard's Brewery & Ale House",1062655043,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
-"82",1548,"John Harvard's Brewery & Ale House",1035992809,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,6328
-"83",1548,"John Harvard's Brewery & Ale House",1033358244,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
-"84",1548,"John Harvard's Brewery & Ale House",1033302021,4,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
-"85",1548,"John Harvard's Brewery & Ale House",1172262583,4.5,4,4,"Foreign / Export Stout",4.5,4,"Export Stout",NA,35392
-"86",1548,"John Harvard's Brewery & Ale House",1313713474,4,4,4,"American Stout",3.5,4,"Espresso Stout",NA,6178
-"87",1548,"John Harvard's Brewery & Ale House",1274143402,4,4,4,"American Stout",3.5,4,"Espresso Stout",NA,6178
-"88",1548,"John Harvard's Brewery & Ale House",1263836040,3.5,3,3.5,"American Stout",4,3.5,"Espresso Stout",NA,6178
-"89",1548,"John Harvard's Brewery & Ale House",1242833351,4,4.5,4,"American Stout",4,4.5,"Espresso Stout",NA,6178
-"90",1548,"John Harvard's Brewery & Ale House",1198376633,4,3,5,"American Stout",3.5,3.5,"Espresso Stout",NA,6178
-"91",1548,"John Harvard's Brewery & Ale House",1197747725,4.5,3.5,4.5,"American Stout",4.5,4.5,"Espresso Stout",NA,6178
-"92",1548,"John Harvard's Brewery & Ale House",1096931130,4.5,4,4,"American Stout",4.5,4,"Espresso Stout",NA,6178
-"93",1548,"John Harvard's Brewery & Ale House",1088347318,4,4.5,4,"American Stout",4,4,"Espresso Stout",NA,6178
-"94",1548,"John Harvard's Brewery & Ale House",1061215184,4,4,4.5,"American Stout",3.5,4,"Espresso Stout",NA,6178
-"95",1548,"John Harvard's Brewery & Ale House",1034812329,3.5,5,5,"American Stout",3,3.5,"Espresso Stout",NA,6178
-"96",1548,"John Harvard's Brewery & Ale House",1034748223,4.5,4.5,4.5,"American Stout",4,4.5,"Espresso Stout",NA,6178
-"97",1548,"John Harvard's Brewery & Ale House",1032723214,4,3.5,3.5,"American Stout",3.5,4,"Espresso Stout",NA,6178
-"98",1548,"John Harvard's Brewery & Ale House",1032716097,4,4,4,"American Stout",4,4,"Espresso Stout",NA,6178
-"99",1548,"John Harvard's Brewery & Ale House",1230415282,3,3.5,4,"Irish Red Ale",3,4,"Irish Red Ale",NA,46865
-"100",1548,"John Harvard's Brewery & Ale House",1135983147,4,4.5,4,"Belgian Pale Ale",4,4.5,"Belgian Pale Ale",NA,27595
-"101",1548,"John Harvard's Brewery & Ale House",1307845567,3,3,4,"American Porter",3,2.5,"Pinstripe Porter",NA,35807
-"102",1548,"John Harvard's Brewery & Ale House",1270687801,4,4,3.5,"American Porter",4,4.5,"Pinstripe Porter",NA,35807
-"103",1548,"John Harvard's Brewery & Ale House",1241552403,4,4,4,"American Porter",4,4,"Pinstripe Porter",NA,35807
-"104",1548,"John Harvard's Brewery & Ale House",1239829199,3.5,3.5,4,"American Porter",3.5,3.5,"Pinstripe Porter",NA,35807
-"105",1548,"John Harvard's Brewery & Ale House",1178160299,3.5,3.5,4,"American Porter",3.5,4,"Pinstripe Porter",NA,35807
-"106",1548,"John Harvard's Brewery & Ale House",1173793199,4,4,4.5,"American Porter",3.5,3.5,"Pinstripe Porter",NA,35807
-"107",1548,"John Harvard's Brewery & Ale House",1173715471,4.5,4.5,4,"American Porter",5,4,"Pinstripe Porter",NA,35807
-"108",1548,"John Harvard's Brewery & Ale House",1062167461,3.5,3,3.5,"Kölsch",3.5,4,"Colonial Kölsch",NA,481
-"109",1548,"John Harvard's Brewery & Ale House",1144515673,4,4.5,4,"Witbier",4,4,"Belgian White",NA,29716
-"110",1548,"John Harvard's Brewery & Ale House",1052634495,5,3.5,4,"Kölsch",4,4,"Colonial Kölsch",NA,481
-"111",1548,"John Harvard's Brewery & Ale House",1230042922,2.5,2.5,3,"American Blonde Ale",2.5,2.5,"Summer Blonde",5.4,5030
-"112",1548,"John Harvard's Brewery & Ale House",1151186276,3,3,3,"American Blonde Ale",3,3,"Summer Blonde",5.4,5030
-"113",1548,"John Harvard's Brewery & Ale House",1032717747,3.5,3,3,"Kölsch",3.5,3.5,"Colonial Kölsch",NA,481
-"114",1548,"John Harvard's Brewery & Ale House",1150658988,4,4,4.5,"American Blonde Ale",3,4,"Summer Blonde",5.4,5030
-"115",1548,"John Harvard's Brewery & Ale House",1149133523,4,3,4,"American Blonde Ale",4,4,"Summer Blonde",5.4,5030
-"116",1548,"John Harvard's Brewery & Ale House",1124149293,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Summer Blonde",5.4,5030
-"117",1548,"John Harvard's Brewery & Ale House",1116894368,3.5,3.5,4,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
-"118",1548,"John Harvard's Brewery & Ale House",1089330573,3.5,3.5,4,"American Blonde Ale",3,3.5,"Summer Blonde",5.4,5030
-"119",1548,"John Harvard's Brewery & Ale House",1060612384,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Summer Blonde",5.4,5030
-"120",1548,"John Harvard's Brewery & Ale House",1059874360,4,4,3.5,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
-"121",1548,"John Harvard's Brewery & Ale House",1059138850,4,3,4,"American Blonde Ale",3,3.5,"Summer Blonde",5.4,5030
-"122",1548,"John Harvard's Brewery & Ale House",1058887949,4.5,3,4,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
-"123",1548,"John Harvard's Brewery & Ale House",1030969277,4.5,4,4,"American Blonde Ale",4,4,"Summer Blonde",5.4,5030
-"124",1548,"John Harvard's Brewery & Ale House",1027278416,3.5,4,3.5,"American Blonde Ale",4,3,"Summer Blonde",5.4,5030
-"125",1548,"John Harvard's Brewery & Ale House",1246835782,4,3.5,4,"Hefeweizen",4,4,"Bavarian Hefeweizen",NA,24286
-"126",1548,"John Harvard's Brewery & Ale House",1148874026,4,4,4,"Hefeweizen",3.5,3.5,"Bavarian Hefeweizen",NA,24286
-"127",1548,"John Harvard's Brewery & Ale House",1148870142,4,3.5,3.5,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
-"128",1548,"John Harvard's Brewery & Ale House",1148744461,2.5,2.5,2.5,"Hefeweizen",2.5,3,"Bavarian Hefeweizen",NA,24286
-"129",1548,"John Harvard's Brewery & Ale House",1120275177,4,3.5,3.5,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
-"130",1548,"John Harvard's Brewery & Ale House",1118955508,4.5,3.5,3,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
-"131",1548,"John Harvard's Brewery & Ale House",1126454109,4.5,3,3.5,"Kölsch",4,3.5,"Colonial Kölsch",NA,481
-"132",1548,"John Harvard's Brewery & Ale House",1115237823,4.5,3.5,3.5,"Kölsch",4,3.5,"Colonial Kölsch",NA,481
-"133",1548,"John Harvard's Brewery & Ale House",1092262906,4,4,4,"Kölsch",4,4,"Colonial Kölsch",NA,481
-"134",1548,"John Harvard's Brewery & Ale House",1088963553,3,4,3,"Kölsch",3,3,"Colonial Kölsch",NA,481
-"135",1548,"John Harvard's Brewery & Ale House",1087979866,4.5,4,3.5,"Kölsch",4,4.5,"Colonial Kölsch",NA,481
-"136",1548,"John Harvard's Brewery & Ale House",1071379263,1,1.5,3,"Kölsch",2,1,"Colonial Kölsch",NA,481
-"137",1548,"John Harvard's Brewery & Ale House",1062687319,3,2,2.5,"Kölsch",2.5,2.5,"Colonial Kölsch",NA,481
-"138",1548,"John Harvard's Brewery & Ale House",1032443434,4.5,3.5,4,"Kölsch",4,4.5,"Colonial Kölsch",NA,481
-"139",1548,"John Harvard's Brewery & Ale House",1027754283,4,3,3.5,"Kölsch",3.5,3,"Colonial Kölsch",NA,481
-"140",1548,"John Harvard's Brewery & Ale House",1013504804,3.5,3.5,3,"Kölsch",3.5,3.5,"Colonial Kölsch",NA,481
-"141",1548,"John Harvard's Brewery & Ale House",926380801,3.5,3,3,"Kölsch",3,3,"Colonial Kölsch",NA,481
-"142",1548,"John Harvard's Brewery & Ale House",1230042781,4,3.5,4,"Dunkelweizen",3.5,3.5,"Dunkel Weizen",NA,37458
-"143",1548,"John Harvard's Brewery & Ale House",1184683327,4,3.5,4,"Dunkelweizen",3,4,"Dunkel Weizen",NA,37458
-"144",1548,"John Harvard's Brewery & Ale House",1183068157,4,4,4,"Dunkelweizen",4,4,"Dunkel Weizen",NA,37458
-"145",1548,"John Harvard's Brewery & Ale House",1230054926,3,3,3,"Weizenbock",3.5,2.5,"Weizenbock",NA,31581
-"146",1548,"John Harvard's Brewery & Ale House",1158294982,4.5,4.5,4.5,"Doppelbock",4,5,"Bourbon Sue",NA,28488
-"147",1548,"John Harvard's Brewery & Ale House",1077083881,4.5,4,3.5,"Vienna Lager",4,4,"Vienna Gold",NA,3867
-"148",1548,"John Harvard's Brewery & Ale House",1152298759,4.5,4,4,"Weizenbock",4,4,"Weizenbock",NA,31581
-"149",1548,"John Harvard's Brewery & Ale House",1158358278,4.5,4,5,"Doppelbock",4,4,"Bourbon Sue",NA,28488
-"150",1548,"John Harvard's Brewery & Ale House",1153696849,4,4.5,4,"Doppelbock",4.5,4.5,"Bourbon Sue",NA,28488
-"151",1548,"John Harvard's Brewery & Ale House",1149130110,4,4,4.5,"Doppelbock",4,4.5,"Bourbon Sue",NA,28488
-"152",1548,"John Harvard's Brewery & Ale House",1140475058,4.5,4.5,4,"Doppelbock",4.5,4.5,"Bourbon Sue",NA,28488
-"153",1548,"John Harvard's Brewery & Ale House",1238465543,3,3,4,"Altbier",3,3,"Altbier",NA,18513
-"154",1548,"John Harvard's Brewery & Ale House",1207098948,3.5,4,3.5,"Altbier",3.5,4,"Altbier",NA,18513
-"155",1548,"John Harvard's Brewery & Ale House",1194470240,4,4,3.5,"Altbier",4,4,"Altbier",NA,18513
-"156",1548,"John Harvard's Brewery & Ale House",1164292568,4,3.5,4.5,"Altbier",3.5,4,"Altbier",NA,18513
-"157",1548,"John Harvard's Brewery & Ale House",1133772706,4.5,4,4,"Altbier",5,4,"Altbier",NA,18513
-"158",1548,"John Harvard's Brewery & Ale House",1130510049,4.5,4.5,4.5,"Altbier",4.5,4.5,"Altbier",NA,18513
-"159",1548,"John Harvard's Brewery & Ale House",1082957813,2.5,2.5,2,"Altbier",3.5,3,"Altbier",NA,18513
-"160",1548,"John Harvard's Brewery & Ale House",1073256697,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Chocolate Milk Stout",NA,15228
-"161",1548,"John Harvard's Brewery & Ale House",1061346875,3.5,3,3.5,"Vienna Lager",3.5,3,"Vienna Gold",NA,3867
-"162",1548,"John Harvard's Brewery & Ale House",1114807004,4,3.5,3.5,"English Brown Ale",4,3.5,"Newtowne Nutbrown Ale",NA,2555
-"163",1548,"John Harvard's Brewery & Ale House",1114364780,4,4,4.5,"English Brown Ale",4,3.5,"Newtowne Nutbrown Ale",NA,2555
-"164",1548,"John Harvard's Brewery & Ale House",1092262660,3.5,3.5,3,"English Brown Ale",3.5,4,"Newtowne Nutbrown Ale",NA,2555
-"165",1548,"John Harvard's Brewery & Ale House",1091373088,4,3,3.5,"English Brown Ale",4.5,4,"Newtowne Nutbrown Ale",NA,2555
-"166",1548,"John Harvard's Brewery & Ale House",1086223895,4.5,4,3.5,"English Brown Ale",4.5,4.5,"Newtowne Nutbrown Ale",NA,2555
-"167",1548,"John Harvard's Brewery & Ale House",1048981160,4,3.5,4,"English Brown Ale",4,4,"Newtowne Nutbrown Ale",NA,2555
-"168",1548,"John Harvard's Brewery & Ale House",1032722772,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
-"169",1548,"John Harvard's Brewery & Ale House",1032721848,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
-"170",1548,"John Harvard's Brewery & Ale House",1025374309,3,3,4,"English Brown Ale",3,3,"Newtowne Nutbrown Ale",NA,2555
-"171",1548,"John Harvard's Brewery & Ale House",1013504064,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
-"172",1548,"John Harvard's Brewery & Ale House",1011045233,2.5,2.5,3,"English Brown Ale",2.5,3,"Newtowne Nutbrown Ale",NA,2555
-"173",1548,"John Harvard's Brewery & Ale House",1075601813,4,4.5,4,"American Barleywine",4,4.5,"Barley Wine",NA,14858
-"174",1548,"John Harvard's Brewery & Ale House",1142910966,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Wee Heavy Scotch Ale",9.5,3509
-"175",1548,"John Harvard's Brewery & Ale House",1020043079,3,4,4,"Scotch Ale / Wee Heavy",2,3.5,"Wee Heavy Scotch Ale",9.5,3509
-"176",1548,"John Harvard's Brewery & Ale House",1020018716,5,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Wee Heavy Scotch Ale",9.5,3509
-"177",1548,"John Harvard's Brewery & Ale House",1255370472,4,3,4.5,"American Porter",4,4,"Pumpkin Porter",NA,53329
-"178",1548,"John Harvard's Brewery & Ale House",1191904041,4.5,4,4,"Doppelbock",4.5,4.5,"Double Trouble Bock",NA,16433
-"179",1548,"John Harvard's Brewery & Ale House",1159736687,4.5,4,3,"Doppelbock",4.5,4,"Double Trouble Bock",NA,16433
-"180",1548,"John Harvard's Brewery & Ale House",1159060281,4,4,4,"Doppelbock",4,4.5,"Double Trouble Bock",NA,16433
-"181",1548,"John Harvard's Brewery & Ale House",1078890020,4,4,4,"Doppelbock",4,4,"Double Trouble Bock",NA,16433
-"182",1548,"John Harvard's Brewery & Ale House",1203259908,3.5,2,3.5,"Fruit / Vegetable Beer",3.5,4,"Blackberry Wheat",NA,41054
-"183",1548,"John Harvard's Brewery & Ale House",1289534254,4,3.5,4,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
-"184",1548,"John Harvard's Brewery & Ale House",1237607771,3.5,3,4,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
-"185",1548,"John Harvard's Brewery & Ale House",1203261590,4,4,3.5,"American IPA",3.5,4,"India Pale Ale (IPA)",NA,488
-"186",1548,"John Harvard's Brewery & Ale House",1198597307,2.5,3.5,4,"American IPA",3.5,2,"India Pale Ale (IPA)",NA,488
-"187",1548,"John Harvard's Brewery & Ale House",1177167707,4.5,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
-"188",1548,"John Harvard's Brewery & Ale House",1153198121,4,4.5,3.5,"American IPA",3,4.5,"India Pale Ale (IPA)",NA,488
-"189",1548,"John Harvard's Brewery & Ale House",1148873666,4.5,4.5,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
-"190",1548,"John Harvard's Brewery & Ale House",1148869423,4,4,3.5,"American IPA",3.5,4,"India Pale Ale (IPA)",NA,488
-"191",1548,"John Harvard's Brewery & Ale House",1142604711,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"192",1548,"John Harvard's Brewery & Ale House",1140978519,4,3.5,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"193",1548,"John Harvard's Brewery & Ale House",1109878774,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"194",1548,"John Harvard's Brewery & Ale House",1083456360,4,4,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"195",1548,"John Harvard's Brewery & Ale House",1081028753,4,2,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"196",1548,"John Harvard's Brewery & Ale House",1078890523,4,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
-"197",1548,"John Harvard's Brewery & Ale House",1064776809,4.5,4.5,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"198",1548,"John Harvard's Brewery & Ale House",1052634665,4.5,4.5,4.5,"American IPA",4.5,4.5,"India Pale Ale (IPA)",NA,488
-"199",1548,"John Harvard's Brewery & Ale House",1071378566,4,4.5,4.5,"American Barleywine",4.5,4.5,"Barley Wine",NA,14858
-"200",1548,"John Harvard's Brewery & Ale House",1046714623,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"201",1548,"John Harvard's Brewery & Ale House",1044035970,3.5,4.5,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
-"202",1548,"John Harvard's Brewery & Ale House",1030968823,4.5,4,4.5,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
-"203",1548,"John Harvard's Brewery & Ale House",895276801,4,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
-"204",1548,"John Harvard's Brewery & Ale House",1144126208,4.5,3.5,3,"Light Lager",3,3.5,"Light",5,29638
-"205",1548,"John Harvard's Brewery & Ale House",1276719072,2.5,3,3.5,"American Brown Ale",3.5,3,"Honey Brown",4.8,59283
-"206",1548,"John Harvard's Brewery & Ale House",1168098124,3.5,3.5,3,"Roggenbier",3.5,3.5,"Roggen Bier",NA,34621
-"207",1548,"John Harvard's Brewery & Ale House",1219803494,4.5,4,4,"Schwarzbier",4,4.5,"Black Widow Lager",NA,12154
-"208",1548,"John Harvard's Brewery & Ale House",1146964606,5,4,4,"Schwarzbier",4.5,5,"Black Widow Lager",NA,12154
-"209",1548,"John Harvard's Brewery & Ale House",1144125778,3.5,3.5,4.5,"Schwarzbier",3.5,4.5,"Black Widow Lager",NA,12154
-"210",1548,"John Harvard's Brewery & Ale House",1130971079,4.5,4,4,"Schwarzbier",4.5,4,"Black Widow Lager",NA,12154
-"211",1548,"John Harvard's Brewery & Ale House",1104769401,3.5,3.5,4,"Schwarzbier",4,4,"Black Widow Lager",NA,12154
-"212",1548,"John Harvard's Brewery & Ale House",1065309736,4,3.5,4.5,"Schwarzbier",4,3.5,"Black Widow Lager",NA,12154
-"213",1548,"John Harvard's Brewery & Ale House",1061278878,4.5,3,3.5,"Schwarzbier",3.5,4,"Black Widow Lager",NA,12154
-"214",1548,"John Harvard's Brewery & Ale House",1297905403,2.5,4.5,3.5,"American IPA",3.5,4,"Left Coast IPA",6.4,66353
-"215",1548,"John Harvard's Brewery & Ale House",1120275976,4,4.5,4,"Doppelbock",4.5,4.5,"Double Bock",NA,24301
-"216",1548,"John Harvard's Brewery & Ale House",1120275647,4,4,3.5,"Doppelbock",4,4.5,"Double Bock",NA,24301
-"217",1548,"John Harvard's Brewery & Ale House",1119096399,4.5,4,4,"Doppelbock",4.5,4.5,"Double Bock",NA,24301
-"218",1548,"John Harvard's Brewery & Ale House",1183002903,4.5,4.5,4,"English Bitter",3.5,4,"Bitter",4.7,3868
-"219",1548,"John Harvard's Brewery & Ale House",1147277770,4,3.5,4,"English Bitter",4,4,"Bitter",4.7,3868
-"220",1548,"John Harvard's Brewery & Ale House",1116342637,4.5,3,3.5,"English Bitter",4.5,4,"Bitter",4.7,3868
-"221",1548,"John Harvard's Brewery & Ale House",1111538102,5,4,4.5,"English Bitter",4.5,4.5,"Bitter",4.7,3868
-"222",1548,"John Harvard's Brewery & Ale House",1089057529,4.5,4,4.5,"English Bitter",4,4,"Bitter",4.7,3868
-"223",1548,"John Harvard's Brewery & Ale House",1084285764,4.5,4,4,"English Bitter",4.5,4,"Bitter",4.7,3868
-"224",1548,"John Harvard's Brewery & Ale House",1240107368,4.5,4.5,4,"American IPA",4,4.5,"Unlucky IPA",NA,33452
-"225",1548,"John Harvard's Brewery & Ale House",1077241473,4.5,3,4,"English Bitter",3.5,3.5,"Bitter",4.7,3868
-"226",1548,"John Harvard's Brewery & Ale House",1059207228,4,3,3.5,"English Bitter",4,4,"Bitter",4.7,3868
-"227",1548,"John Harvard's Brewery & Ale House",1053455928,4,4,4,"English Bitter",4,4,"Bitter",4.7,3868
-"228",1548,"John Harvard's Brewery & Ale House",1022532287,4.5,3.5,3.5,"English Bitter",4,3.5,"Bitter",4.7,3868
-"229",1548,"John Harvard's Brewery & Ale House",1022531440,4,3,3.5,"English Bitter",3.5,3.5,"Bitter",4.7,3868
-"230",1548,"John Harvard's Brewery & Ale House",1230576087,3.5,3.5,3.5,"Belgian Dark Ale",3.5,4,"Holiday Red",6.5,7064
-"231",1548,"John Harvard's Brewery & Ale House",1169434871,3.5,3,3.5,"Belgian Dark Ale",3,3.5,"Holiday Red",6.5,7064
-"232",1548,"John Harvard's Brewery & Ale House",1166200072,3.5,3.5,4,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
-"233",1548,"John Harvard's Brewery & Ale House",1238194937,3.5,3.5,4,"American IPA",4,3.5,"Unlucky IPA",NA,33452
-"234",1548,"John Harvard's Brewery & Ale House",1165245642,3.5,3.5,3.5,"Belgian Dark Ale",3.5,4,"Holiday Red",6.5,7064
-"235",1548,"John Harvard's Brewery & Ale House",1072950099,4,3.5,4.5,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
-"236",1548,"John Harvard's Brewery & Ale House",1071439872,4,4,3,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
-"237",1548,"John Harvard's Brewery & Ale House",1070237886,4,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Holiday Red",6.5,7064
-"238",1548,"John Harvard's Brewery & Ale House",1304094495,3.5,3.5,4,"American IPA",4,3.5,"Unlucky IPA",NA,33452
-"239",1548,"John Harvard's Brewery & Ale House",1162953731,3.5,4,3.5,"American IPA",3.5,4,"Unlucky IPA",NA,33452
-"240",1548,"John Harvard's Brewery & Ale House",1162061352,3.5,4,3.5,"American IPA",3.5,4,"Unlucky IPA",NA,33452
-"241",1548,"John Harvard's Brewery & Ale House",1324687218,4,4,4.5,"Pumpkin Ale",4,4,"Pumpkin Spice Ale",4.8,32910
-"242",1548,"John Harvard's Brewery & Ale House",1290301250,3.5,4,3,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
-"243",1548,"John Harvard's Brewery & Ale House",1044637793,4,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Blueberry Lager",NA,8398
-"244",1548,"John Harvard's Brewery & Ale House",1254435196,3,3,3,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
-"245",1548,"John Harvard's Brewery & Ale House",1227800819,4,3.5,4,"Pumpkin Ale",4,4,"Pumpkin Spice Ale",4.8,32910
-"246",1548,"John Harvard's Brewery & Ale House",1163686564,3.5,4,4,"Pumpkin Ale",3,3.5,"Pumpkin Spice Ale",4.8,32910
-"247",1548,"John Harvard's Brewery & Ale House",1160945288,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Spice Ale",4.8,32910
-"248",1548,"John Harvard's Brewery & Ale House",1159737933,3,3,4,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
-"249",1548,"John Harvard's Brewery & Ale House",1159059341,3.5,3,4,"Pumpkin Ale",3,3.5,"Pumpkin Spice Ale",4.8,32910
-"250",1548,"John Harvard's Brewery & Ale House",1174308596,3.5,3,4,"Irish Dry Stout",2.5,3.5,"Black Watch Stout",4,22810
-"251",1548,"John Harvard's Brewery & Ale House",1152422395,4.5,4,4.5,"Irish Dry Stout",3.5,4,"Black Watch Stout",4,22810
-"252",1548,"John Harvard's Brewery & Ale House",1141873943,3,3.5,3,"Irish Dry Stout",3,3.5,"Black Watch Stout",4,22810
-"253",1548,"John Harvard's Brewery & Ale House",1126830920,3,3,3.5,"Irish Dry Stout",2.5,3,"Black Watch Stout",4,22810
-"254",1548,"John Harvard's Brewery & Ale House",1113659920,3,2.5,2.5,"Irish Dry Stout",2.5,4,"Black Watch Stout",4,22810
-"255",1548,"John Harvard's Brewery & Ale House",1111932069,4.5,4,4,"Irish Dry Stout",3.5,3.5,"Black Watch Stout",4,22810
-"256",1548,"John Harvard's Brewery & Ale House",1152421750,4,3.5,4.5,"English Porter",3.5,3.5,"Three Threads Porter",NA,31611
-"257",1548,"John Harvard's Brewery & Ale House",1122226187,3,3,3,"Czech Pilsener",3,3,"Pilsner",4.6,24947
-"258",1548,"John Harvard's Brewery & Ale House",1264742978,3,2.5,3.5,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
-"259",1548,"John Harvard's Brewery & Ale House",1157059876,3.5,3.5,3.5,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
-"260",1548,"John Harvard's Brewery & Ale House",1118452726,3,3.5,3,"Hefeweizen",3.5,3.5,"Hefe-Weizen",NA,5105
-"261",1548,"John Harvard's Brewery & Ale House",1056126146,2,2,3,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
-"262",1548,"John Harvard's Brewery & Ale House",1029794744,4.5,4,3.5,"Hefeweizen",4,4,"Hefe-Weizen",NA,5105
-"263",1548,"John Harvard's Brewery & Ale House",1152758176,4,4.5,3.5,"Belgian IPA",2.5,4.5,"Belgian IPA",NA,29889
-"264",1548,"John Harvard's Brewery & Ale House",1151190266,4,3,3.5,"Belgian IPA",4,4.5,"Belgian IPA",NA,29889
-"265",1548,"John Harvard's Brewery & Ale House",1145039883,4,4,3.5,"Belgian IPA",4,4,"Belgian IPA",NA,29889
-"266",1548,"John Harvard's Brewery & Ale House",1236470637,4,4,3.5,"Witbier",4,4,"Belgian Witbier",NA,13744
-"267",1548,"John Harvard's Brewery & Ale House",1066971862,3,3,2,"Witbier",2.5,3.5,"Belgian Witbier",NA,13744
-"268",1548,"John Harvard's Brewery & Ale House",1095647496,4,3.5,3.5,"Hefeweizen",4,4,"Weissbier",4.7,18514
-"269",1548,"John Harvard's Brewery & Ale House",1089056228,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Weissbier",4.7,18514
-"270",1548,"John Harvard's Brewery & Ale House",1088613101,3.5,3,3.5,"Irish Red Ale",3.5,4,"Brimstone Red",NA,11717
-"271",1548,"John Harvard's Brewery & Ale House",1081092239,4,4,4,"Irish Red Ale",3.5,4,"Brimstone Red",NA,11717
-"272",1548,"John Harvard's Brewery & Ale House",1081091845,4.5,4.5,5,"Irish Red Ale",4.5,5,"Brimstone Red",NA,11717
-"273",1548,"John Harvard's Brewery & Ale House",1062687710,4,4.5,4,"Irish Red Ale",4.5,3.5,"Brimstone Red",NA,11717
-"274",1548,"John Harvard's Brewery & Ale House",1059205637,4,4,3.5,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
-"275",1548,"John Harvard's Brewery & Ale House",1059089872,4,4,4,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
-"276",1548,"John Harvard's Brewery & Ale House",1059060585,4,3,4,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
-"277",1548,"John Harvard's Brewery & Ale House",1303532891,3.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Marzen",NA,36931
-"278",1548,"John Harvard's Brewery & Ale House",1302922312,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
-"279",1548,"John Harvard's Brewery & Ale House",1240107751,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3,"Marzen",NA,36931
-"280",1548,"John Harvard's Brewery & Ale House",1239829637,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
-"281",1548,"John Harvard's Brewery & Ale House",1179708986,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
-"282",1548,"John Harvard's Brewery & Ale House",1104011126,4,3,3.5,"Märzen / Oktoberfest",4,4,"Marzen",NA,36931
-"283",1548,"John Harvard's Brewery & Ale House",1300893252,3,3,4,"Oatmeal Stout",2.5,2.5,"Oatmeal Stout",NA,10085
-"284",1548,"John Harvard's Brewery & Ale House",1252780739,4,3.5,4.5,"Oatmeal Stout",5,4,"Oatmeal Stout",NA,10085
-"285",1548,"John Harvard's Brewery & Ale House",1180572460,4.5,3.5,4.5,"Oatmeal Stout",4.5,4,"Oatmeal Stout",NA,10085
-"286",1548,"John Harvard's Brewery & Ale House",1163950870,4,3.5,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
-"287",1548,"John Harvard's Brewery & Ale House",1160281759,4,3.5,4.5,"Oatmeal Stout",4,3.5,"Oatmeal Stout",NA,10085
-"288",1548,"John Harvard's Brewery & Ale House",1144641807,4,4,4.5,"Oatmeal Stout",3.5,3,"Oatmeal Stout",NA,10085
-"289",1548,"John Harvard's Brewery & Ale House",1144335947,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Oatmeal Stout",NA,10085
-"290",1548,"John Harvard's Brewery & Ale House",1142604015,4,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
-"291",1548,"John Harvard's Brewery & Ale House",1124668455,4.5,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
-"292",1548,"John Harvard's Brewery & Ale House",1118002856,4,3.5,3.5,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
-"293",1548,"John Harvard's Brewery & Ale House",1105485481,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
-"294",1548,"John Harvard's Brewery & Ale House",1092263093,4.5,4,4.5,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
-"295",1548,"John Harvard's Brewery & Ale House",1068832856,4.5,4,5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
-"296",1548,"John Harvard's Brewery & Ale House",1063402312,4.5,4.5,4.5,"Oatmeal Stout",5,4.5,"Oatmeal Stout",NA,10085
-"297",1548,"John Harvard's Brewery & Ale House",1060488935,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
-"298",1548,"John Harvard's Brewery & Ale House",1057477674,4,4,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
-"299",1548,"John Harvard's Brewery & Ale House",1054269770,4,4.5,4,"Oatmeal Stout",3.5,4,"Oatmeal Stout",NA,10085
-"300",1548,"John Harvard's Brewery & Ale House",1252779896,5,4.5,4.5,"American IPA",4.5,5,"West Coast IPA",NA,37464
-"301",1548,"John Harvard's Brewery & Ale House",1183079251,4,4.5,4,"American IPA",4,4,"West Coast IPA",NA,37464
-"302",1548,"John Harvard's Brewery & Ale House",1199031907,2,2.5,4,"Winter Warmer",3,2.5,"Winter Warmer",7,40299
-"303",1548,"John Harvard's Brewery & Ale House",1294617100,3.5,3.5,3.5,"Old Ale",4,4,"Old Man Winter",7.7,40414
-"304",1548,"John Harvard's Brewery & Ale House",1234313631,3.5,3.5,3,"Old Ale",3,3.5,"Old Man Winter",7.7,40414
-"305",1548,"John Harvard's Brewery & Ale House",1199501051,3,3,3.5,"Old Ale",3.5,3.5,"Old Man Winter",7.7,40414
-"306",1548,"John Harvard's Brewery & Ale House",1289533594,4,3.5,4,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
-"307",1548,"John Harvard's Brewery & Ale House",1238466989,3.5,3.5,4,"Irish Red Ale",3.5,3.5,"Celtic Irish Red",4.9,3186
-"308",1548,"John Harvard's Brewery & Ale House",1207701408,4,3,4,"Irish Red Ale",4,4.5,"Celtic Irish Red",4.9,3186
-"309",1548,"John Harvard's Brewery & Ale House",1205027820,4.5,4,3.5,"Irish Red Ale",4.5,4,"Celtic Irish Red",4.9,3186
-"310",1548,"John Harvard's Brewery & Ale House",1144151802,4.5,3.5,3.5,"Irish Red Ale",4.5,4.5,"Celtic Irish Red",4.9,3186
-"311",1548,"John Harvard's Brewery & Ale House",1106520892,4,3.5,4.5,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
-"312",1548,"John Harvard's Brewery & Ale House",1079964842,3.5,3,3.5,"Irish Red Ale",3.5,3.5,"Celtic Irish Red",4.9,3186
-"313",1548,"John Harvard's Brewery & Ale House",1079326765,4,3.5,4,"Irish Red Ale",4.5,4.5,"Celtic Irish Red",4.9,3186
-"314",1548,"John Harvard's Brewery & Ale House",1078632799,4,3.5,5,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
-"315",1548,"John Harvard's Brewery & Ale House",1048980828,4,3.5,4,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
-"316",1548,"John Harvard's Brewery & Ale House",1045912634,4.5,3,3.5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
-"317",1548,"John Harvard's Brewery & Ale House",1032722287,3,2.5,3.5,"Irish Red Ale",3,2.5,"Celtic Irish Red",4.9,3186
-"318",1548,"John Harvard's Brewery & Ale House",1017503963,4.5,3.5,4.5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
-"319",1548,"John Harvard's Brewery & Ale House",1017478812,5,3,5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
-"320",1548,"John Harvard's Brewery & Ale House",1022419060,3.5,3,3,"Fruit / Vegetable Beer",3.5,3.5,"Cranberry Ale",NA,456
-"321",1548,"John Harvard's Brewery & Ale House",1230492175,3,3,4,"Vienna Lager",3,3.5,"Vienna Gold",NA,3867
-"322",1548,"John Harvard's Brewery & Ale House",1209072271,4,3,3.5,"Vienna Lager",3.5,4,"Vienna Gold",NA,3867
-"323",1548,"John Harvard's Brewery & Ale House",1194479284,4,4,3.5,"Vienna Lager",3.5,4,"Vienna Gold",NA,3867
-"324",1548,"John Harvard's Brewery & Ale House",1165245979,3.5,3.5,3,"Vienna Lager",4,3.5,"Vienna Gold",NA,3867
-"325",1548,"John Harvard's Brewery & Ale House",1095566510,4.5,3.5,4,"Vienna Lager",4.5,4,"Vienna Gold",NA,3867
-"326",1548,"John Harvard's Brewery & Ale House",1022531174,4,3.5,3.5,"Vienna Lager",4,4,"Vienna Gold",NA,3867
-"327",1548,"John Harvard's Brewery & Ale House",1077409324,4,4,4,"American Double / Imperial IPA",4.5,4,"Imperial IPA",NA,16059
-"328",1548,"John Harvard's Brewery & Ale House",1140474525,3.5,4,4,"American Porter",3.5,4,"Smokey The Beer",NA,28487
-"329",1548,"John Harvard's Brewery & Ale House",1320210652,3.5,3,4,"Märzen / Oktoberfest",3.5,3,"The Big O",NA,74786
-"330",1548,"John Harvard's Brewery & Ale House",1270003364,3.5,3.5,3.5,"Munich Dunkel Lager",3,4,"Frostbite Lager",NA,2554
-"331",1548,"John Harvard's Brewery & Ale House",1234313776,2,2.5,2.5,"Munich Dunkel Lager",2,2,"Frostbite Lager",NA,2554
-"332",1548,"John Harvard's Brewery & Ale House",1207701820,3.5,3,3,"Munich Dunkel Lager",3.5,3.5,"Frostbite Lager",NA,2554
-"333",1548,"John Harvard's Brewery & Ale House",1011044877,3.5,3,3.5,"Munich Dunkel Lager",3,4,"Frostbite Lager",NA,2554
-"334",1548,"John Harvard's Brewery & Ale House",1167421493,3.5,3.5,3,"American Pale Wheat Ale",3,3,"Cherry Wheat",NA,34489
-"335",1548,"John Harvard's Brewery & Ale House",930614401,4,3,3,"Fruit / Vegetable Beer",3.5,4,"Blueberry Wheat",NA,479
-"336",1548,"John Harvard's Brewery & Ale House",1074903246,4.5,5,5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
-"337",1548,"John Harvard's Brewery & Ale House",1059651464,4.5,5,5,"American Double / Imperial Stout",4.5,5,"Whiskey Barrel Imperial Stout",NA,7190
-"338",1548,"John Harvard's Brewery & Ale House",1058006393,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
-"339",1548,"John Harvard's Brewery & Ale House",1057761250,4,5,4,"American Double / Imperial Stout",4,4.5,"Whiskey Barrel Imperial Stout",NA,7190
-"340",1548,"John Harvard's Brewery & Ale House",1057673311,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
-"341",1548,"John Harvard's Brewery & Ale House",1054011532,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
-"342",1548,"John Harvard's Brewery & Ale House",1053812004,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Whiskey Barrel Imperial Stout",NA,7190
-"343",1548,"John Harvard's Brewery & Ale House",1037660251,4,5,4,"American Double / Imperial Stout",4,5,"Whiskey Barrel Imperial Stout",NA,7190
-"344",1548,"John Harvard's Brewery & Ale House",1165346375,5,4,4,"Bock",4.5,4.5,"Big Billy's Bock",6.9,27027
-"345",1548,"John Harvard's Brewery & Ale House",1164250742,3,4,3.5,"Bock",4,4,"Big Billy's Bock",6.9,27027
-"346",1548,"John Harvard's Brewery & Ale House",1133703467,4,4,4,"Bock",3.5,3.5,"Big Billy's Bock",6.9,27027
-"347",1548,"John Harvard's Brewery & Ale House",1132938570,4,3.5,4,"Bock",4,4,"Big Billy's Bock",6.9,27027
-"348",1548,"John Harvard's Brewery & Ale House",1132759240,4.5,3.5,4.5,"Bock",4,4,"Big Billy's Bock",6.9,27027
-"349",1548,"John Harvard's Brewery & Ale House",1062655684,4,4.5,4,"Bock",4,4,"Big Billy's Bock",6.9,27027
-"350",1548,"John Harvard's Brewery & Ale House",1272827465,4.5,4.5,4,"Wheatwine",4.5,4.5,"Wheat Wine",10.5,57978
-"351",1548,"John Harvard's Brewery & Ale House",1227049220,4,3.5,4,"American Double / Imperial IPA",4,3.5,"HOPpopotamus",NA,32080
-"352",1548,"John Harvard's Brewery & Ale House",1212708564,3.5,4,4.5,"American Double / Imperial IPA",3.5,4,"HOPpopotamus",NA,32080
-"353",1548,"John Harvard's Brewery & Ale House",1179709428,3.5,4,3.5,"American Double / Imperial IPA",4,4,"HOPpopotamus",NA,32080
-"354",1548,"John Harvard's Brewery & Ale House",1167508151,4.5,3.5,4.5,"American Double / Imperial IPA",4,4,"HOPpopotamus",NA,32080
-"355",1548,"John Harvard's Brewery & Ale House",1154900765,4.5,4,4,"American Double / Imperial IPA",4.5,5,"HOPpopotamus",NA,32080
-"356",1548,"John Harvard's Brewery & Ale House",1109878356,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Blueberry Lager",NA,8398
-"357",1548,"John Harvard's Brewery & Ale House",1231213496,3.5,3.5,4.5,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
-"358",1548,"John Harvard's Brewery & Ale House",1162570892,4,4,4,"American Double / Imperial IPA",3.5,4,"Demon DPA",8,14488
-"359",1548,"John Harvard's Brewery & Ale House",1156278009,4,4,4,"American Double / Imperial IPA",4,5,"Demon DPA",8,14488
-"360",1548,"John Harvard's Brewery & Ale House",1152420751,4,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Demon DPA",8,14488
-"361",1548,"John Harvard's Brewery & Ale House",1152209692,3.5,3.5,3,"American Double / Imperial IPA",3.5,3.5,"Demon DPA",8,14488
-"362",1548,"John Harvard's Brewery & Ale House",1150932971,4,3.5,4,"American Double / Imperial IPA",4.5,4,"Demon DPA",8,14488
-"363",1548,"John Harvard's Brewery & Ale House",1088110894,3.5,4,3.5,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
-"364",1548,"John Harvard's Brewery & Ale House",1147394597,3.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Demon DPA",8,14488
-"365",1548,"John Harvard's Brewery & Ale House",1146868287,5,4.5,5,"American Double / Imperial IPA",5,4.5,"Demon DPA",8,14488
-"366",1548,"John Harvard's Brewery & Ale House",1144208445,4,3.5,5,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
-"367",1548,"John Harvard's Brewery & Ale House",1140915425,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
-"368",1548,"John Harvard's Brewery & Ale House",1111825334,5,4,4,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
-"369",1548,"John Harvard's Brewery & Ale House",1110503333,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Demon DPA",8,14488
-"370",1548,"John Harvard's Brewery & Ale House",1105741316,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Demon DPA",8,14488
-"371",1548,"John Harvard's Brewery & Ale House",1071005357,4,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Demon DPA",8,14488
-"372",1548,"John Harvard's Brewery & Ale House",1070238275,4,4,4,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
-"373",1548,"John Harvard's Brewery & Ale House",1267120667,4,4,4,"Vienna Lager",4,4,"Vienna Lager",NA,56430
-"374",1548,"John Harvard's Brewery & Ale House",1147991633,4,3.5,4,"Bock",4,3.5,"Bock",NA,18489
-"375",1548,"John Harvard's Brewery & Ale House",1092262477,3.5,3.5,4,"Bock",3.5,4,"Bock",NA,18489
-"376",1548,"John Harvard's Brewery & Ale House",1089159610,3,3.5,3.5,"Bock",3.5,3,"Bock",NA,18489
-"377",1548,"John Harvard's Brewery & Ale House",1089055807,3.5,3.5,3.5,"Bock",4,3.5,"Bock",NA,18489
-"378",1548,"John Harvard's Brewery & Ale House",1088962999,3.5,3.5,3.5,"Bock",3.5,3.5,"Bock",NA,18489
-"379",1548,"John Harvard's Brewery & Ale House",1051837295,3.5,3,4,"American Dark Wheat Ale",3.5,3.5,"Amber Weizen",NA,9655
-"380",1548,"John Harvard's Brewery & Ale House",1086657206,4,4,4.5,"Fruit / Vegetable Beer",5,4,"Raspberry Imperial Stout",NA,17848
-"381",1548,"John Harvard's Brewery & Ale House",1234915939,4,4,4,"American Brown Ale",4,4,"Provision Ale",5,20142
-"382",1548,"John Harvard's Brewery & Ale House",1219542713,3.5,4,3.5,"American Brown Ale",4,4,"Provision Ale",5,20142
-"383",1548,"John Harvard's Brewery & Ale House",1204816402,5,4,4,"American Brown Ale",5,5,"Provision Ale",5,20142
-"384",1548,"John Harvard's Brewery & Ale House",1198822633,4,3.5,3.5,"American Brown Ale",4,4,"Provision Ale",5,20142
-"385",1548,"John Harvard's Brewery & Ale House",1171524528,3.5,3,4,"American Brown Ale",4,3.5,"Provision Ale",5,20142
-"386",1548,"John Harvard's Brewery & Ale House",1166108710,4,3,3.5,"American Brown Ale",3.5,4,"Provision Ale",5,20142
-"387",1548,"John Harvard's Brewery & Ale House",1155210651,4,3.5,4,"American Brown Ale",4,4,"Provision Ale",5,20142
-"388",1548,"John Harvard's Brewery & Ale House",1149013376,4,3.5,4.5,"American Brown Ale",4,4,"Provision Ale",5,20142
-"389",1548,"John Harvard's Brewery & Ale House",1096726974,4,3,3.5,"American Brown Ale",3.5,3.5,"Provision Ale",5,20142
-"390",1548,"John Harvard's Brewery & Ale House",1234314038,3,3,2.5,"Irish Dry Stout",3,2.5,"Dry Irish Stout",NA,32561
-"391",1548,"John Harvard's Brewery & Ale House",1157060210,4,3.5,4,"Irish Dry Stout",4,4,"Dry Irish Stout",NA,32561
-"392",1548,"John Harvard's Brewery & Ale House",1211846399,4,4,4,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
-"393",1548,"John Harvard's Brewery & Ale House",1201451488,4,4,4,"English Barleywine",4,4.5,"Fire Drake Barleywine",10.5,15166
-"394",1548,"John Harvard's Brewery & Ale House",1201273373,4,4.5,4,"English Barleywine",5,4.5,"Fire Drake Barleywine",10.5,15166
-"395",1548,"John Harvard's Brewery & Ale House",1200611595,3.5,3.5,4,"English Barleywine",4.5,3.5,"Fire Drake Barleywine",10.5,15166
-"396",1548,"John Harvard's Brewery & Ale House",1198170799,3,3.5,3.5,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
-"397",1548,"John Harvard's Brewery & Ale House",1099784584,4.5,4,4.5,"English Barleywine",4.5,4.5,"Fire Drake Barleywine",10.5,15166
-"398",1548,"John Harvard's Brewery & Ale House",1075768196,5,4.5,4.5,"English Barleywine",4.5,5,"Fire Drake Barleywine",10.5,15166
-"399",1548,"John Harvard's Brewery & Ale House",1075693727,4.5,4,4,"English Barleywine",4,4.5,"Fire Drake Barleywine",10.5,15166
-"400",1548,"John Harvard's Brewery & Ale House",1075123520,4.5,4.5,4,"English Barleywine",4.5,5,"Fire Drake Barleywine",10.5,15166
-"401",1548,"John Harvard's Brewery & Ale House",1075053765,4.5,4.5,5,"English Barleywine",5,5,"Fire Drake Barleywine",10.5,15166
-"402",1548,"John Harvard's Brewery & Ale House",1073524003,4,4,5,"English Barleywine",5,4.5,"Fire Drake Barleywine",10.5,15166
-"403",1548,"John Harvard's Brewery & Ale House",1073238309,4.5,4.5,4,"English Barleywine",4.5,4.5,"Fire Drake Barleywine",10.5,15166
-"404",1548,"John Harvard's Brewery & Ale House",1073172640,4,4,4.5,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
-"405",1548,"John Harvard's Brewery & Ale House",1109878179,3,3,3,"American Adjunct Lager",3,3,"Light Lager",3.2,15184
-"406",1548,"John Harvard's Brewery & Ale House",1072950867,4.5,4,4.5,"American Adjunct Lager",3.5,4,"Light Lager",3.2,15184
-"407",1548,"John Harvard's Brewery & Ale House",1088611948,3.5,3,3.5,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
-"408",1548,"John Harvard's Brewery & Ale House",1087636548,4,3,3.5,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
-"409",1548,"John Harvard's Brewery & Ale House",1087522931,5,3.5,4.5,"Scottish Ale",5,3.5,"Loch Lanier Scottish Ale",5.3,2754
-"410",1548,"John Harvard's Brewery & Ale House",1076773016,3,2,3,"Scottish Ale",2.5,3,"Loch Lanier Scottish Ale",5.3,2754
-"411",1548,"John Harvard's Brewery & Ale House",1071379822,4,4,4,"Scottish Ale",4,4.5,"Loch Lanier Scottish Ale",5.3,2754
-"412",1548,"John Harvard's Brewery & Ale House",1060750489,4.5,4,4,"Scottish Ale",4.5,4,"Loch Lanier Scottish Ale",5.3,2754
-"413",1548,"John Harvard's Brewery & Ale House",1051290168,4.5,3.5,4,"Scottish Ale",4.5,4,"Loch Lanier Scottish Ale",5.3,2754
-"414",1548,"John Harvard's Brewery & Ale House",1013471013,4,3,3.5,"Scottish Ale",3.5,4,"Loch Lanier Scottish Ale",5.3,2754
-"415",1548,"John Harvard's Brewery & Ale House",1078759913,3.5,4,3.5,"Belgian Dark Ale",4,4,"Grand Cru",NA,12347
-"416",1548,"John Harvard's Brewery & Ale House",1076773418,4.5,3.5,4,"Belgian Dark Ale",3.5,4,"Grand Cru",NA,12347
-"417",1548,"John Harvard's Brewery & Ale House",1066446435,3.5,3.5,4,"Belgian Dark Ale",3.5,3.5,"Grand Cru",NA,12347
-"418",1548,"John Harvard's Brewery & Ale House",1062166971,3.5,3,3.5,"Belgian Dark Ale",3.5,3,"Grand Cru",NA,12347
-"419",1548,"John Harvard's Brewery & Ale House",1207098405,4,3.5,3,"Tripel",4,4,"Belgian Tripel",10,21628
-"420",1548,"John Harvard's Brewery & Ale House",1189912658,2.5,3.5,3,"Tripel",3,3,"Belgian Tripel",10,21628
-"421",1548,"John Harvard's Brewery & Ale House",1171442234,3,4,4,"Tripel",4,3.5,"Belgian Tripel",10,21628
-"422",1548,"John Harvard's Brewery & Ale House",1169434352,4,3.5,4,"Tripel",3.5,4,"Belgian Tripel",10,21628
-"423",1548,"John Harvard's Brewery & Ale House",1167925663,4,4,3.5,"Tripel",4,3.5,"Belgian Tripel",10,21628
-"424",1548,"John Harvard's Brewery & Ale House",1140476005,4,4,3.5,"Tripel",4,4,"Belgian Tripel",10,21628
-"425",1548,"John Harvard's Brewery & Ale House",1106069662,4.5,4.5,4.5,"Tripel",4.5,4.5,"Belgian Tripel",10,21628
-"426",1548,"John Harvard's Brewery & Ale House",1179231592,3.5,3.5,4,"Rye Beer",3.5,3.5,"Rye Pale Ale",5.9,35360
-"427",1548,"John Harvard's Brewery & Ale House",1171943828,3,4,3.5,"Rye Beer",3.5,4,"Rye Pale Ale",5.9,35360
-"428",1548,"John Harvard's Brewery & Ale House",1022880157,4,4,4,"American Amber / Red Lager",4,4,"Amber Lager",4.8,3947
-"429",1548,"John Harvard's Brewery & Ale House",1303533520,3,1,4,"Kölsch",4,4,"Kölsch",NA,18516
-"430",1548,"John Harvard's Brewery & Ale House",1233450641,3,3.5,4,"Kölsch",3,3.5,"Kölsch",NA,18516
-"431",1548,"John Harvard's Brewery & Ale House",1212707574,3.5,3.5,3.5,"Kölsch",3.5,3.5,"Kölsch",NA,18516
-"432",1548,"John Harvard's Brewery & Ale House",1178047451,4,3.5,3,"Kölsch",4,3.5,"Kölsch",NA,18516
-"433",1548,"John Harvard's Brewery & Ale House",1154901708,2,2.5,3,"Kölsch",2,2,"Kölsch",NA,18516
-"434",1548,"John Harvard's Brewery & Ale House",1089057239,4,3,4,"Kölsch",4,3.5,"Kölsch",NA,18516
-"435",1548,"John Harvard's Brewery & Ale House",1251336158,3.5,3,4,"American Amber / Red Ale",3.5,3.5,"Red",NA,52148
-"436",1548,"John Harvard's Brewery & Ale House",1285934685,4,3,3.5,"Scottish Ale",2,3,"Scottish Ale",NA,16396
-"437",1548,"John Harvard's Brewery & Ale House",1241551707,3,3.5,4,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
-"438",1548,"John Harvard's Brewery & Ale House",1230576177,3.5,3,4,"Scottish Ale",3.5,3.5,"Scottish Ale",NA,16396
-"439",1548,"John Harvard's Brewery & Ale House",1188231074,3.5,3,3.5,"Scottish Ale",3,3.5,"Scottish Ale",NA,16396
-"440",1548,"John Harvard's Brewery & Ale House",1180128496,3.5,3.5,3.5,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
-"441",1548,"John Harvard's Brewery & Ale House",1172435660,3,2.5,3.5,"Scottish Ale",4,3.5,"Scottish Ale",NA,16396
-"442",1548,"John Harvard's Brewery & Ale House",1166200283,3,3.5,4,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
-"443",1548,"John Harvard's Brewery & Ale House",1078759722,4,4,3.5,"Scottish Ale",3.5,3.5,"Scottish Ale",NA,16396
-"444",1548,"John Harvard's Brewery & Ale House",1073173065,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Scottish Ale",NA,16396
-"445",1548,"John Harvard's Brewery & Ale House",1068060483,3,3,3,"Scottish Ale",3,3,"Scottish Ale",NA,16396
-"446",1548,"John Harvard's Brewery & Ale House",1051593213,4,3.5,3.5,"Scottish Ale",4,4,"Scottish Ale",NA,16396
-"447",1548,"John Harvard's Brewery & Ale House",1120089806,5,4.5,4,"Fruit / Vegetable Beer",4.5,4.5,"Blackberry Ale",NA,24421
-"448",1548,"John Harvard's Brewery & Ale House",1078759259,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Wheat",4.3,15179
-"449",1548,"John Harvard's Brewery & Ale House",1072949795,4,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Raspberry Wheat",4.3,15179
-"450",1548,"John Harvard's Brewery & Ale House",1302920901,3.5,3.5,3,"Schwarzbier",3.5,4,"Schwarzbier",NA,33120
-"451",1548,"John Harvard's Brewery & Ale House",1288208781,3,3,3,"Schwarzbier",3,3,"Schwarzbier",NA,33120
-"452",1548,"John Harvard's Brewery & Ale House",1230313283,3.5,3.5,4,"Schwarzbier",3.5,3.5,"Schwarzbier",NA,33120
-"453",1548,"John Harvard's Brewery & Ale House",1161453689,4,4,4.5,"Schwarzbier",4,4.5,"Schwarzbier",NA,33120
-"454",1548,"John Harvard's Brewery & Ale House",1160498438,4,4,4,"Schwarzbier",4,4,"Schwarzbier",NA,33120
-"455",1548,"John Harvard's Brewery & Ale House",1160282227,4.5,4,4.5,"Schwarzbier",4,4,"Schwarzbier",NA,33120
-"456",1548,"John Harvard's Brewery & Ale House",1159737295,4,4,3.5,"Schwarzbier",4.5,4.5,"Schwarzbier",NA,33120
-"457",1548,"John Harvard's Brewery & Ale House",1125946580,4.5,4,4.5,"Schwarzbier",4,4.5,"Schwarzbier",NA,33120
-"458",1548,"John Harvard's Brewery & Ale House",1109878977,4,4,4,"Schwarzbier",3.5,4.5,"Schwarzbier",NA,33120
-"459",1548,"John Harvard's Brewery & Ale House",1062554872,4.5,4,4,"Schwarzbier",4.5,4.5,"Schwarzbier",NA,33120
-"460",1548,"John Harvard's Brewery & Ale House",1044638136,4.5,3.5,4,"Schwarzbier",4,4,"Schwarzbier",NA,33120
-"461",1548,"John Harvard's Brewery & Ale House",913593601,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Christmas Ale",NA,486
-"462",1548,"John Harvard's Brewery & Ale House",1202017304,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Mid Winter Imperial Stout",NA,21915
-"463",1548,"John Harvard's Brewery & Ale House",1195668857,4,4,4,"Russian Imperial Stout",4,4,"Mid Winter Imperial Stout",NA,21915
-"464",1548,"John Harvard's Brewery & Ale House",1193094712,4,4,4.5,"Russian Imperial Stout",3.5,4.5,"Mid Winter Imperial Stout",NA,21915
-"465",1548,"John Harvard's Brewery & Ale House",1171001578,4.5,4,4,"Russian Imperial Stout",4.5,4,"Mid Winter Imperial Stout",NA,21915
-"466",1548,"John Harvard's Brewery & Ale House",1170013078,4.5,5,5,"Russian Imperial Stout",5,4.5,"Mid Winter Imperial Stout",NA,21915
-"467",1548,"John Harvard's Brewery & Ale House",1089331823,4,3.5,4,"American IPA",3.5,4,"Kirley Q's IPA",4.9,12218
-"468",1548,"John Harvard's Brewery & Ale House",1168720235,4.5,4,4.5,"Russian Imperial Stout",3.5,4,"Mid Winter Imperial Stout",NA,21915
-"469",1548,"John Harvard's Brewery & Ale House",1108356993,4,4,4,"Russian Imperial Stout",4.5,4.5,"Mid Winter Imperial Stout",NA,21915
-"470",1548,"John Harvard's Brewery & Ale House",1108329214,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Mid Winter Imperial Stout",NA,21915
-"471",1548,"John Harvard's Brewery & Ale House",1276467975,3.5,3.5,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
-"472",1548,"John Harvard's Brewery & Ale House",1215635819,4.5,4,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
-"473",1548,"John Harvard's Brewery & Ale House",1193442353,4.5,3.5,4,"American IPA",4.5,4,"Kirley Q's IPA",4.9,12218
-"474",1548,"John Harvard's Brewery & Ale House",1143259874,5,4,4,"American IPA",4.5,5,"Kirley Q's IPA",4.9,12218
-"475",1548,"John Harvard's Brewery & Ale House",1099783528,4,3,4,"American IPA",4,3.5,"Kirley Q's IPA",4.9,12218
-"476",1548,"John Harvard's Brewery & Ale House",1075054858,4.5,4,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
-"477",1548,"John Harvard's Brewery & Ale House",1061544286,4.5,3.5,4,"American IPA",5,4.5,"Kirley Q's IPA",4.9,12218
-"478",1548,"John Harvard's Brewery & Ale House",1230418845,4,3.5,4,"Tripel",3.5,4,"Tripel",NA,33191
-"479",1548,"John Harvard's Brewery & Ale House",1160615495,3,3,2.5,"Tripel",3,2.5,"Tripel",NA,33191
-"480",1548,"John Harvard's Brewery & Ale House",1109622742,4,3.5,3,"Czech Pilsener",4,3.5,"Czech Pils",NA,22283
-"481",1548,"John Harvard's Brewery & Ale House",1300068085,4,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"482",1548,"John Harvard's Brewery & Ale House",1294596984,4,2,4.5,"English Pale Ale",4,2.5,"Pale Ale",5.1,476
-"483",1548,"John Harvard's Brewery & Ale House",1289533476,4,4,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
-"484",1548,"John Harvard's Brewery & Ale House",1266796437,3,3.5,4,"English Pale Ale",3.5,3,"Pale Ale",5.1,476
-"485",1548,"John Harvard's Brewery & Ale House",1264742651,3.5,3,4,"English Pale Ale",4,3,"Pale Ale",5.1,476
-"486",1548,"John Harvard's Brewery & Ale House",1241534405,4,3.5,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
-"487",1548,"John Harvard's Brewery & Ale House",1241210745,4,4,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"488",1548,"John Harvard's Brewery & Ale House",1234313171,4,4,4.5,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
-"489",1548,"John Harvard's Brewery & Ale House",1229802767,4,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"490",1548,"John Harvard's Brewery & Ale House",1220466251,4.5,3,3.5,"English Pale Ale",2.5,4,"Pale Ale",5.1,476
-"491",1548,"John Harvard's Brewery & Ale House",1219840123,2.5,3,3,"English Pale Ale",2,3.5,"Pale Ale",5.1,476
-"492",1548,"John Harvard's Brewery & Ale House",1212707921,3,3.5,3.5,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
-"493",1548,"John Harvard's Brewery & Ale House",1203261311,4,4.5,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"494",1548,"John Harvard's Brewery & Ale House",1193422010,4,3.5,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"495",1548,"John Harvard's Brewery & Ale House",1178160018,4,3.5,3.5,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
-"496",1548,"John Harvard's Brewery & Ale House",1174272678,4.5,3.5,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"497",1548,"John Harvard's Brewery & Ale House",1165418885,4,4,3,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"498",1548,"John Harvard's Brewery & Ale House",1156724775,4,3.5,4,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"499",1548,"John Harvard's Brewery & Ale House",1151192914,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"500",1548,"John Harvard's Brewery & Ale House",1144855964,4.5,3,4,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
-"501",1548,"John Harvard's Brewery & Ale House",1142911558,4,3.5,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"502",1548,"John Harvard's Brewery & Ale House",1130639064,4.5,4,4.5,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
-"503",1548,"John Harvard's Brewery & Ale House",1116892885,4.5,4,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"504",1548,"John Harvard's Brewery & Ale House",1115238004,4,4,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"505",1548,"John Harvard's Brewery & Ale House",1109878659,3.5,3.5,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"506",1548,"John Harvard's Brewery & Ale House",1109378913,4,4,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
-"507",1548,"John Harvard's Brewery & Ale House",1104768567,3.5,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"508",1548,"John Harvard's Brewery & Ale House",1083456679,4,3,4.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"509",1548,"John Harvard's Brewery & Ale House",1082773705,3,4,3,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"510",1548,"John Harvard's Brewery & Ale House",1078759424,4,3.5,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
-"511",1548,"John Harvard's Brewery & Ale House",1077519574,4,4,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"512",1548,"John Harvard's Brewery & Ale House",1075602569,4,3.5,4.5,"English Pale Ale",4.5,4.5,"Pale Ale",5.1,476
-"513",1548,"John Harvard's Brewery & Ale House",1073257294,4,3.5,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"514",1548,"John Harvard's Brewery & Ale House",1072950614,4.5,3.5,4.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
-"515",1548,"John Harvard's Brewery & Ale House",1068060871,4,4,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
-"516",1548,"John Harvard's Brewery & Ale House",1062687956,4,3.5,4,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
-"517",1548,"John Harvard's Brewery & Ale House",1060663154,3,4,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
-"518",1548,"John Harvard's Brewery & Ale House",1059874978,4.5,3.5,3,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
-"519",1548,"John Harvard's Brewery & Ale House",1058829108,4.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
-"520",1548,"John Harvard's Brewery & Ale House",1057862867,3,4,4,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
-"521",1548,"John Harvard's Brewery & Ale House",1052048995,4.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
-"522",1548,"John Harvard's Brewery & Ale House",1051593471,3.5,3.5,3.5,"English Pale Ale",3,4,"Pale Ale",5.1,476
-"523",1548,"John Harvard's Brewery & Ale House",1048980250,4.5,3.5,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
-"524",1548,"John Harvard's Brewery & Ale House",1044034654,3.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
-"525",1548,"John Harvard's Brewery & Ale House",1068083443,4,4,4.5,"Irish Dry Stout",3.5,3.5,"Irish Stout",3.7,18595
-"526",1548,"John Harvard's Brewery & Ale House",1040649332,3.5,4,3,"English Pale Ale",3,3,"Pale Ale",5.1,476
-"527",1548,"John Harvard's Brewery & Ale House",1032721421,3,2,3,"English Pale Ale",3,3,"Pale Ale",5.1,476
-"528",1548,"John Harvard's Brewery & Ale House",1027610743,4,4,4.5,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
-"529",1548,"John Harvard's Brewery & Ale House",1022418873,4.5,4,4,"English Pale Ale",4.5,4.5,"Pale Ale",5.1,476
-"530",1548,"John Harvard's Brewery & Ale House",1103204033,3,3,3,"Tripel",3,2.5,"Trippel Lindy",8.1,20723
-"531",1548,"John Harvard's Brewery & Ale House",1101072331,3,4,3,"Tripel",3.5,3.5,"Trippel Lindy",8.1,20723
-"532",1548,"John Harvard's Brewery & Ale House",1100221444,4,4,4,"Tripel",4.5,4,"Trippel Lindy",8.1,20723
-"533",1548,"John Harvard's Brewery & Ale House",1302922833,4,3,4,"Milk / Sweet Stout",4,3.5,"Espresso Cream Stout",NA,31290
-"534",1548,"John Harvard's Brewery & Ale House",1264914661,4,4,4,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
-"535",1548,"John Harvard's Brewery & Ale House",1233450801,4,4,4,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
-"536",1548,"John Harvard's Brewery & Ale House",1167251647,4,4,3.5,"Milk / Sweet Stout",3,4,"Espresso Cream Stout",NA,31290
-"537",1548,"John Harvard's Brewery & Ale House",1151184836,4,4,3.5,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
-"538",1548,"John Harvard's Brewery & Ale House",1285163704,4.5,3,3,"Milk / Sweet Stout",3,3,"Belgian Black",NA,44446
-"539",1548,"John Harvard's Brewery & Ale House",1249336027,4,3.5,4,"Milk / Sweet Stout",4,4,"Belgian Black",NA,44446
-"540",1548,"John Harvard's Brewery & Ale House",1230571498,4,3.5,4,"Milk / Sweet Stout",3.5,4,"Belgian Black",NA,44446
-"541",1548,"John Harvard's Brewery & Ale House",1230043008,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Belgian Black",NA,44446
-"542",1548,"John Harvard's Brewery & Ale House",1219256923,4.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Belgian Black",NA,44446
-"543",1548,"John Harvard's Brewery & Ale House",1151193339,3.5,3.5,3,"American Brown Ale",3,3.5,"American Brown",NA,31299
-"544",1548,"John Harvard's Brewery & Ale House",1264461497,4,3.5,4,"Dubbel",3.5,3.5,"Abbey Dubbel",NA,30570
-"545",1548,"John Harvard's Brewery & Ale House",1230060939,3.5,3.5,4,"Dubbel",3,3.5,"Abbey Dubbel",NA,30570
-"546",1548,"John Harvard's Brewery & Ale House",1148744157,4.5,4,4.5,"Dubbel",4.5,4.5,"Abbey Dubbel",NA,30570
-"547",1548,"John Harvard's Brewery & Ale House",1148248091,3,3,4,"Dubbel",4,3,"Abbey Dubbel",NA,30570
-"548",1548,"John Harvard's Brewery & Ale House",1148247278,3.5,3,4,"Dubbel",3.5,3,"Abbey Dubbel",NA,30570
-"549",1548,"John Harvard's Brewery & Ale House",1147979097,4,4,4,"Dubbel",4.5,4.5,"Abbey Dubbel",NA,30570
-"550",1548,"John Harvard's Brewery & Ale House",1221785424,4,3,4.5,"Irish Dry Stout",4,4,"Irish Stout",3.7,18595
-"551",1548,"John Harvard's Brewery & Ale House",1196994651,4.5,4,4,"Irish Dry Stout",4.5,3.5,"Irish Stout",3.7,18595
-"552",1548,"John Harvard's Brewery & Ale House",1173792622,3.5,3.5,3.5,"Irish Dry Stout",3,3.5,"Irish Stout",3.7,18595
-"553",1548,"John Harvard's Brewery & Ale House",1163685801,3,3,4,"Irish Dry Stout",4,3,"Irish Stout",3.7,18595
-"554",1548,"John Harvard's Brewery & Ale House",1114379576,4.5,4,4.5,"Irish Dry Stout",4.5,4.5,"Irish Stout",3.7,18595
-"555",1548,"John Harvard's Brewery & Ale House",1089331550,4.5,4,4.5,"Irish Dry Stout",4,4,"Irish Stout",3.7,18595
-"556",1548,"John Harvard's Brewery & Ale House",1029571947,5,4,4.5,"Irish Dry Stout",5,4.5,"Irish Stout",3.7,18595
-"557",1548,"John Harvard's Brewery & Ale House",1073173265,3,4,3.5,"Fruit / Vegetable Beer",3,3,"Apricot Cream Ale",NA,9595
-"558",1548,"John Harvard's Brewery & Ale House",1051594052,3,2.5,3,"Fruit / Vegetable Beer",2.5,3,"Apricot Cream Ale",NA,9595
-"559",1548,"John Harvard's Brewery & Ale House",1293036449,3,2,4.5,"Irish Dry Stout",3,2.5,"Irish Dry Stout",3.9,477
-"560",1548,"John Harvard's Brewery & Ale House",1259188758,4,3,4,"Irish Dry Stout",3.5,3,"Irish Dry Stout",3.9,477
-"561",1548,"John Harvard's Brewery & Ale House",1230415701,3.5,3.5,4,"Irish Dry Stout",3.5,3.5,"Irish Dry Stout",3.9,477
-"562",1548,"John Harvard's Brewery & Ale House",1143350295,4,3.5,4,"Irish Dry Stout",3.5,4.5,"Irish Dry Stout",3.9,477
-"563",1548,"John Harvard's Brewery & Ale House",1109879128,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
-"564",1548,"John Harvard's Brewery & Ale House",1081122397,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
-"565",1548,"John Harvard's Brewery & Ale House",1081029989,4,3.5,4,"Irish Dry Stout",3,4,"Irish Dry Stout",3.9,477
-"566",1548,"John Harvard's Brewery & Ale House",1068059753,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
-"567",1548,"John Harvard's Brewery & Ale House",1066161476,5,4,4.5,"Irish Dry Stout",4.5,4.5,"Irish Dry Stout",3.9,477
-"568",1548,"John Harvard's Brewery & Ale House",1059873662,3.5,3.5,4,"Irish Dry Stout",3.5,3.5,"Irish Dry Stout",3.9,477
-"569",1548,"John Harvard's Brewery & Ale House",1058827642,4,4.5,4.5,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
-"570",1548,"John Harvard's Brewery & Ale House",1048981906,4.5,4,4.5,"Irish Dry Stout",4.5,4,"Irish Dry Stout",3.9,477
-"571",1548,"John Harvard's Brewery & Ale House",1032722665,3,3.5,3.5,"Irish Dry Stout",3,3,"Irish Dry Stout",3.9,477
-"572",1548,"John Harvard's Brewery & Ale House",1032715742,5,4.5,4.5,"Irish Dry Stout",4.5,5,"Irish Dry Stout",3.9,477
-"573",1548,"John Harvard's Brewery & Ale House",1017479124,5,4,5,"Irish Dry Stout",5,5,"Irish Dry Stout",3.9,477
-"574",1548,"John Harvard's Brewery & Ale House",1082774302,2,2,2,"American Pale Lager",2.5,2.5,"All American Lager",NA,16721
-"575",1548,"John Harvard's Brewery & Ale House",1079964452,3.5,3,3,"American Pale Lager",3,3.5,"All American Lager",NA,16721
-"576",1548,"John Harvard's Brewery & Ale House",1173042016,4,3,4,"American Double / Imperial IPA",3.5,4,"Imperial Pale Ale",8,35715
-"577",1548,"John Harvard's Brewery & Ale House",1293587019,3.5,3.5,4,"Milk / Sweet Stout",3.5,4,"Milk Stout",NA,483
-"578",1548,"John Harvard's Brewery & Ale House",1276468322,4.5,3.5,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,483
-"579",1548,"John Harvard's Brewery & Ale House",1120274860,4,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Milk Stout",NA,483
-"580",1548,"John Harvard's Brewery & Ale House",1100487157,4,4,4,"Milk / Sweet Stout",3.5,4.5,"Milk Stout",NA,483
-"581",1548,"John Harvard's Brewery & Ale House",1096429112,4,2.5,4,"Milk / Sweet Stout",4,3.5,"Milk Stout",NA,483
-"582",1548,"John Harvard's Brewery & Ale House",1070404975,4.5,3,3,"Milk / Sweet Stout",4.5,3.5,"Milk Stout",NA,483
-"583",1548,"John Harvard's Brewery & Ale House",1060039869,4,4.5,4,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
-"584",1548,"John Harvard's Brewery & Ale House",1051592637,4.5,4,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,483
-"585",1548,"John Harvard's Brewery & Ale House",1045912297,4,3.5,5,"Milk / Sweet Stout",4.5,3.5,"Milk Stout",NA,483
-"586",1548,"John Harvard's Brewery & Ale House",1044035291,4,4,5,"Milk / Sweet Stout",5,4,"Milk Stout",NA,483
-"587",1548,"John Harvard's Brewery & Ale House",1027277660,4.5,4,4,"Milk / Sweet Stout",5,4.5,"Milk Stout",NA,483
-"588",1548,"John Harvard's Brewery & Ale House",1022418674,4.5,4,4.5,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
-"589",1548,"John Harvard's Brewery & Ale House",1022418490,4.5,4.5,4,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
-"590",1548,"John Harvard's Brewery & Ale House",1249240562,4.5,3.5,4,"American Porter",4,4,"Pilgrim's Porter",6,3461
-"591",1548,"John Harvard's Brewery & Ale House",1231887055,4.5,4.5,4.5,"American Porter",4.5,5,"Pilgrim's Porter",6,3461
-"592",1548,"John Harvard's Brewery & Ale House",1230649544,4,4.5,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
-"593",1548,"John Harvard's Brewery & Ale House",1198001550,4,4,4,"American Porter",3.5,4,"Pilgrim's Porter",6,3461
-"594",1548,"John Harvard's Brewery & Ale House",1193444595,4,4.5,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
-"595",1548,"John Harvard's Brewery & Ale House",1166107758,3.5,3,4,"American Porter",3,3.5,"Pilgrim's Porter",6,3461
-"596",1548,"John Harvard's Brewery & Ale House",1139773750,4,3.5,3.5,"American Porter",4,4,"Pilgrim's Porter",6,3461
-"597",1548,"John Harvard's Brewery & Ale House",1111269123,4.5,3.5,4,"American Porter",4.5,4.5,"Pilgrim's Porter",6,3461
-"598",1548,"John Harvard's Brewery & Ale House",1102531090,4,3.5,3.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
-"599",1548,"John Harvard's Brewery & Ale House",1099784308,4.5,4,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
-"600",1548,"John Harvard's Brewery & Ale House",1084286061,3.5,4.5,3,"American Porter",3.5,4,"Pilgrim's Porter",6,3461
-"601",1548,"John Harvard's Brewery & Ale House",1069073576,4,3.5,4,"American Porter",3,4,"Pilgrim's Porter",6,3461
-"602",1548,"John Harvard's Brewery & Ale House",1067957289,4,3.5,4,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
-"603",1548,"John Harvard's Brewery & Ale House",1066971463,4.5,4,4,"American Porter",4,4.5,"Pilgrim's Porter",6,3461
-"604",1548,"John Harvard's Brewery & Ale House",1066204071,5,4.5,5,"American Porter",5,4.5,"Pilgrim's Porter",6,3461
-"605",1548,"John Harvard's Brewery & Ale House",1218090644,3,3.5,4,"American IPA",3.5,3,"Old Willy India Pale Ale",NA,16617
-"606",1548,"John Harvard's Brewery & Ale House",1057848932,3.5,3.5,4,"American Porter",4,4.5,"Pilgrim's Porter",6,3461
-"607",1548,"John Harvard's Brewery & Ale House",1035992469,4,3.5,3.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
-"608",1548,"John Harvard's Brewery & Ale House",1029093402,3.5,3,3,"American Porter",3.5,3.5,"Pilgrim's Porter",6,3461
-"609",1548,"John Harvard's Brewery & Ale House",1027754983,4.5,4,4.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
-"610",1548,"John Harvard's Brewery & Ale House",1020018089,5,3.5,4,"American Porter",4.5,4.5,"Pilgrim's Porter",6,3461
-"611",1548,"John Harvard's Brewery & Ale House",1019844568,3,2.5,3,"American Porter",2.5,3,"Pilgrim's Porter",6,3461
-"612",1548,"John Harvard's Brewery & Ale House",1019628693,3,3,3,"American Porter",3,3,"Pilgrim's Porter",6,3461
-"613",1548,"John Harvard's Brewery & Ale House",1068528926,3.5,4,3,"Fruit / Vegetable Beer",4,3.5,"Cherry Lager",NA,14079
-"614",1548,"John Harvard's Brewery & Ale House",1212604172,4.5,4,4,"American Stout",3,4,"Chocolate Stout",4.1,43050
-"615",1548,"John Harvard's Brewery & Ale House",1210717316,4,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"616",1548,"John Harvard's Brewery & Ale House",1204817539,4,4,4.5,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"617",1548,"John Harvard's Brewery & Ale House",1168123356,4,3.5,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
-"618",1548,"John Harvard's Brewery & Ale House",1166108151,4,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"619",1548,"John Harvard's Brewery & Ale House",1157400435,4.5,4,4.5,"American IPA",4,4.5,"Old Willy India Pale Ale",NA,16617
-"620",1548,"John Harvard's Brewery & Ale House",1155211187,4.5,3.5,3.5,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"621",1548,"John Harvard's Brewery & Ale House",1152917106,4,3.5,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"622",1548,"John Harvard's Brewery & Ale House",1151188368,3.5,3,4,"American IPA",3.5,4.5,"Old Willy India Pale Ale",NA,16617
-"623",1548,"John Harvard's Brewery & Ale House",1144855783,4,3,4,"American IPA",4,4.5,"Old Willy India Pale Ale",NA,16617
-"624",1548,"John Harvard's Brewery & Ale House",1135435469,4.5,4.5,4,"American IPA",4.5,4,"Old Willy India Pale Ale",NA,16617
-"625",1548,"John Harvard's Brewery & Ale House",1126821779,3.5,3.5,4,"American IPA",3.5,3.5,"Old Willy India Pale Ale",NA,16617
-"626",1548,"John Harvard's Brewery & Ale House",1073257824,4,4,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
-"627",1548,"John Harvard's Brewery & Ale House",1118849245,3,2.5,3,"American IPA",2.5,3,"Old Willy India Pale Ale",NA,16617
-"628",1548,"John Harvard's Brewery & Ale House",1117429653,4.5,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"629",1548,"John Harvard's Brewery & Ale House",1113669695,5,4,4,"American IPA",4.5,4.5,"Old Willy India Pale Ale",NA,16617
-"630",1548,"John Harvard's Brewery & Ale House",1113478145,3.5,3.5,4,"American IPA",3,3.5,"Old Willy India Pale Ale",NA,16617
-"631",1548,"John Harvard's Brewery & Ale House",1108328461,3.5,3.5,4,"American IPA",3,3.5,"Old Willy India Pale Ale",NA,16617
-"632",1548,"John Harvard's Brewery & Ale House",1091373941,3,4,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
-"633",1548,"John Harvard's Brewery & Ale House",1081091202,4,3,2.5,"American IPA",3,4.5,"Old Willy India Pale Ale",NA,16617
-"634",1548,"John Harvard's Brewery & Ale House",1073267228,4,3.5,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
-"635",1548,"John Harvard's Brewery & Ale House",1067956870,4,4,4,"American IPA",4,3.5,"Old Willy India Pale Ale",NA,16617
-"636",1548,"John Harvard's Brewery & Ale House",1051592892,4,4,3.5,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
-"637",1548,"John Harvard's Brewery & Ale House",1025625534,3,2.5,3,"American IPA",3,3,"Old Willy India Pale Ale",NA,16617
-"638",1548,"John Harvard's Brewery & Ale House",1025374793,2,3,4,"American IPA",2,2,"Old Willy India Pale Ale",NA,16617
-"639",1548,"John Harvard's Brewery & Ale House",1025372332,3.5,3.5,4,"American IPA",4,3.5,"Old Willy India Pale Ale",NA,16617
-"640",1548,"John Harvard's Brewery & Ale House",1012065682,4,3,4,"American IPA",4.5,4,"Old Willy India Pale Ale",NA,16617
-"641",1548,"John Harvard's Brewery & Ale House",1160281518,4,3.5,4,"Flanders Oud Bruin",3.5,4,"Belgian Brown Ale",NA,33118
-"642",1548,"John Harvard's Brewery & Ale House",1224817466,4,3.5,4.5,"Herbed / Spiced Beer",3.5,3.5,"Harvest Spice Ale",NA,472
-"643",1548,"John Harvard's Brewery & Ale House",1198372891,3.5,3.5,4,"Herbed / Spiced Beer",4,3.5,"Harvest Spice Ale",NA,472
-"644",1548,"John Harvard's Brewery & Ale House",1168124964,4,3.5,3.5,"Herbed / Spiced Beer",4,4,"Harvest Spice Ale",NA,472
-"645",1548,"John Harvard's Brewery & Ale House",1065140897,4.5,4.5,4,"Herbed / Spiced Beer",4,4.5,"Harvest Spice Ale",NA,472
-"646",1548,"John Harvard's Brewery & Ale House",1022418957,4,3.5,3,"Herbed / Spiced Beer",4,4,"Harvest Spice Ale",NA,472
-"647",1548,"John Harvard's Brewery & Ale House",1311196814,3,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Blue",NA,71233
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+1548,"John Harvard's Brewery & Ale House",1194040522,3,3,2,"Märzen / Oktoberfest",3,3,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1078760189,3.5,3.5,4,"American Porter",2.5,3,"Robust Porter",4.9,15178
+1548,"John Harvard's Brewery & Ale House",1085422580,4.5,4,4,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1072949643,4,4,4.5,"American Porter",4,4,"Robust Porter",4.9,15178
+1548,"John Harvard's Brewery & Ale House",1157060058,3.5,3.5,4,"Altbier",3,3.5,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1236702404,3,3.5,4,"Doppelbock",3,3,"Double Trouble Bock",NA,16433
+1548,"John Harvard's Brewery & Ale House",1227800564,4,3.5,4,"Irish Dry Stout",4,4,"Dry Irish Stout",NA,32561
+1548,"John Harvard's Brewery & Ale House",1157059632,4,3.5,4,"Scottish Ale",4,4,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1088963166,3.5,3.5,4,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1300988009,4,4,4,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1229803145,4,3.5,4,"American IPA",4,4,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1172436948,4,3.5,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1049632347,4,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1215125628,4.5,4.5,4,"American IPA",4.5,5,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1094650596,4.5,3,3.5,"American IPA",4,4,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1078889196,3.5,4,4,"American IPA",4,3.5,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1068082543,4,3.5,4,"American IPA",3.5,3.5,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1019844709,4.5,1,4,"American IPA",4,4,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1013505137,4,4,4,"American IPA",4,4,"Pacific Coast IPA",NA,2759
+1548,"John Harvard's Brewery & Ale House",1230061022,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1178159529,2.5,2,2,"American Amber / Red Ale",3,3,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1176755284,3,3,3.5,"American Amber / Red Ale",3.5,2.5,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1157298461,4,3.5,3.5,"American Amber / Red Ale",4.5,4.5,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1151193773,3.5,3,3,"American Amber / Red Ale",3.5,4,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1145765450,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1061544563,3,2.5,2.5,"American Amber / Red Ale",2,3.5,"Oatmeal Amber",5,12219
+1548,"John Harvard's Brewery & Ale House",1122225840,4,3,3,"American Amber / Red Ale",4,3.5,"Red Devil",5,24946
+1548,"John Harvard's Brewery & Ale House",1154186579,4,3.5,4.5,"Russian Imperial Stout",3.5,3,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1135456322,4,4.5,5,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1106067330,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1081027961,4,4,2,"Russian Imperial Stout",4.5,4,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1071379030,4,4,4,"Russian Imperial Stout",4,4,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1068831722,4.5,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1055872246,4.5,4.5,5,"Russian Imperial Stout",4.5,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",982886401,4,4,4,"Russian Imperial Stout",4,4.5,"Imperial Stout",NA,790
+1548,"John Harvard's Brewery & Ale House",1063329941,4,4,4,"Witbier",3.5,4,"Wit",NA,3945
+1548,"John Harvard's Brewery & Ale House",1062687541,4,3,3.5,"Witbier",4,3,"Wit",NA,3945
+1548,"John Harvard's Brewery & Ale House",1059916903,4,3.5,3.5,"Witbier",3.5,4,"Wit",NA,3945
+1548,"John Harvard's Brewery & Ale House",1022879982,4,3.5,3.5,"Witbier",4,3.5,"Wit",NA,3945
+1548,"John Harvard's Brewery & Ale House",1152494342,4.5,3.5,4,"American Amber / Red Ale",4,4,"Fire Engine Red",5.8,15287
+1548,"John Harvard's Brewery & Ale House",1150636720,4,4,3.5,"American Amber / Red Ale",3.5,4,"Fire Engine Red",5.8,15287
+1548,"John Harvard's Brewery & Ale House",1059874615,4,3.5,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1116892117,4,3.5,4,"American Amber / Red Ale",3.5,4,"Fire Engine Red",5.8,15287
+1548,"John Harvard's Brewery & Ale House",1073458617,4.5,4,5,"American Amber / Red Ale",4,4,"Fire Engine Red",5.8,15287
+1548,"John Harvard's Brewery & Ale House",1151459962,3,3,3,"Maibock / Helles Bock",3.5,3.5,"Maibock",NA,30658
+1548,"John Harvard's Brewery & Ale House",1151081567,4,4,3.5,"Maibock / Helles Bock",4,4,"Maibock",NA,30658
+1548,"John Harvard's Brewery & Ale House",1148254493,3,3,4,"Maibock / Helles Bock",3.5,2.5,"Maibock",NA,30658
+1548,"John Harvard's Brewery & Ale House",1148247736,2.5,4,4,"Maibock / Helles Bock",3.5,2,"Maibock",NA,30658
+1548,"John Harvard's Brewery & Ale House",1300990131,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1057864445,4,4,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1048755031,3.5,3,4.5,"English Brown Ale",3,3,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1291565545,4,3.5,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1227048956,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1167925236,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1116893636,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1109622217,3.5,3,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1106482504,3,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1089331228,4.5,4,4.5,"English Brown Ale",4,4.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1081030667,4,3,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1076514657,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1072949912,3,3,4,"English Brown Ale",2.5,3,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1069461695,3.5,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1061543625,5,4.5,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1040648953,3.5,3,4,"English Brown Ale",2,3.5,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",913593601,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.5,485
+1548,"John Harvard's Brewery & Ale House",1320209166,3,3.5,3,"Baltic Porter",2.5,2.5,"Baltic Porter",NA,65700
+1548,"John Harvard's Brewery & Ale House",1296223960,3,4,4,"Baltic Porter",4.5,4,"Baltic Porter",NA,65700
+1548,"John Harvard's Brewery & Ale House",1178147208,3,3,3.5,"Belgian Dark Ale",3,3,"Farmhouse Ale",NA,36635
+1548,"John Harvard's Brewery & Ale House",1230313204,3.5,3,4,"Märzen / Oktoberfest",3,3.5,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1194841117,4,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1193443439,4.5,3.5,3.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1164578599,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1159061707,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1132093005,4,3.5,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1130522505,4,4,3.5,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1094937322,4,3,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1068060153,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1066204843,3,4,3.5,"Märzen / Oktoberfest",3,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1064776589,3.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1157060110,3.5,4,3.5,"American IPA",3,3.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1062655043,4.5,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1035992809,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1033358244,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1033302021,4,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,6328
+1548,"John Harvard's Brewery & Ale House",1172262583,4.5,4,4,"Foreign / Export Stout",4.5,4,"Export Stout",NA,35392
+1548,"John Harvard's Brewery & Ale House",1313713474,4,4,4,"American Stout",3.5,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1274143402,4,4,4,"American Stout",3.5,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1263836040,3.5,3,3.5,"American Stout",4,3.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1242833351,4,4.5,4,"American Stout",4,4.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1198376633,4,3,5,"American Stout",3.5,3.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1197747725,4.5,3.5,4.5,"American Stout",4.5,4.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1096931130,4.5,4,4,"American Stout",4.5,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1088347318,4,4.5,4,"American Stout",4,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1061215184,4,4,4.5,"American Stout",3.5,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1034812329,3.5,5,5,"American Stout",3,3.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1034748223,4.5,4.5,4.5,"American Stout",4,4.5,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1032723214,4,3.5,3.5,"American Stout",3.5,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1032716097,4,4,4,"American Stout",4,4,"Espresso Stout",NA,6178
+1548,"John Harvard's Brewery & Ale House",1230415282,3,3.5,4,"Irish Red Ale",3,4,"Irish Red Ale",NA,46865
+1548,"John Harvard's Brewery & Ale House",1135983147,4,4.5,4,"Belgian Pale Ale",4,4.5,"Belgian Pale Ale",NA,27595
+1548,"John Harvard's Brewery & Ale House",1307845567,3,3,4,"American Porter",3,2.5,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1270687801,4,4,3.5,"American Porter",4,4.5,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1241552403,4,4,4,"American Porter",4,4,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1239829199,3.5,3.5,4,"American Porter",3.5,3.5,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1178160299,3.5,3.5,4,"American Porter",3.5,4,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1173793199,4,4,4.5,"American Porter",3.5,3.5,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1173715471,4.5,4.5,4,"American Porter",5,4,"Pinstripe Porter",NA,35807
+1548,"John Harvard's Brewery & Ale House",1062167461,3.5,3,3.5,"Kölsch",3.5,4,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1144515673,4,4.5,4,"Witbier",4,4,"Belgian White",NA,29716
+1548,"John Harvard's Brewery & Ale House",1052634495,5,3.5,4,"Kölsch",4,4,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1230042922,2.5,2.5,3,"American Blonde Ale",2.5,2.5,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1151186276,3,3,3,"American Blonde Ale",3,3,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1032717747,3.5,3,3,"Kölsch",3.5,3.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1150658988,4,4,4.5,"American Blonde Ale",3,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1149133523,4,3,4,"American Blonde Ale",4,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1124149293,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1116894368,3.5,3.5,4,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1089330573,3.5,3.5,4,"American Blonde Ale",3,3.5,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1060612384,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1059874360,4,4,3.5,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1059138850,4,3,4,"American Blonde Ale",3,3.5,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1058887949,4.5,3,4,"American Blonde Ale",3.5,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1030969277,4.5,4,4,"American Blonde Ale",4,4,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1027278416,3.5,4,3.5,"American Blonde Ale",4,3,"Summer Blonde",5.4,5030
+1548,"John Harvard's Brewery & Ale House",1246835782,4,3.5,4,"Hefeweizen",4,4,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1148874026,4,4,4,"Hefeweizen",3.5,3.5,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1148870142,4,3.5,3.5,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1148744461,2.5,2.5,2.5,"Hefeweizen",2.5,3,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1120275177,4,3.5,3.5,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1118955508,4.5,3.5,3,"Hefeweizen",3.5,4,"Bavarian Hefeweizen",NA,24286
+1548,"John Harvard's Brewery & Ale House",1126454109,4.5,3,3.5,"Kölsch",4,3.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1115237823,4.5,3.5,3.5,"Kölsch",4,3.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1092262906,4,4,4,"Kölsch",4,4,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1088963553,3,4,3,"Kölsch",3,3,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1087979866,4.5,4,3.5,"Kölsch",4,4.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1071379263,1,1.5,3,"Kölsch",2,1,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1062687319,3,2,2.5,"Kölsch",2.5,2.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1032443434,4.5,3.5,4,"Kölsch",4,4.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1027754283,4,3,3.5,"Kölsch",3.5,3,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1013504804,3.5,3.5,3,"Kölsch",3.5,3.5,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",926380801,3.5,3,3,"Kölsch",3,3,"Colonial Kölsch",NA,481
+1548,"John Harvard's Brewery & Ale House",1230042781,4,3.5,4,"Dunkelweizen",3.5,3.5,"Dunkel Weizen",NA,37458
+1548,"John Harvard's Brewery & Ale House",1184683327,4,3.5,4,"Dunkelweizen",3,4,"Dunkel Weizen",NA,37458
+1548,"John Harvard's Brewery & Ale House",1183068157,4,4,4,"Dunkelweizen",4,4,"Dunkel Weizen",NA,37458
+1548,"John Harvard's Brewery & Ale House",1230054926,3,3,3,"Weizenbock",3.5,2.5,"Weizenbock",NA,31581
+1548,"John Harvard's Brewery & Ale House",1158294982,4.5,4.5,4.5,"Doppelbock",4,5,"Bourbon Sue",NA,28488
+1548,"John Harvard's Brewery & Ale House",1077083881,4.5,4,3.5,"Vienna Lager",4,4,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1152298759,4.5,4,4,"Weizenbock",4,4,"Weizenbock",NA,31581
+1548,"John Harvard's Brewery & Ale House",1158358278,4.5,4,5,"Doppelbock",4,4,"Bourbon Sue",NA,28488
+1548,"John Harvard's Brewery & Ale House",1153696849,4,4.5,4,"Doppelbock",4.5,4.5,"Bourbon Sue",NA,28488
+1548,"John Harvard's Brewery & Ale House",1149130110,4,4,4.5,"Doppelbock",4,4.5,"Bourbon Sue",NA,28488
+1548,"John Harvard's Brewery & Ale House",1140475058,4.5,4.5,4,"Doppelbock",4.5,4.5,"Bourbon Sue",NA,28488
+1548,"John Harvard's Brewery & Ale House",1238465543,3,3,4,"Altbier",3,3,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1207098948,3.5,4,3.5,"Altbier",3.5,4,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1194470240,4,4,3.5,"Altbier",4,4,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1164292568,4,3.5,4.5,"Altbier",3.5,4,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1133772706,4.5,4,4,"Altbier",5,4,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1130510049,4.5,4.5,4.5,"Altbier",4.5,4.5,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1082957813,2.5,2.5,2,"Altbier",3.5,3,"Altbier",NA,18513
+1548,"John Harvard's Brewery & Ale House",1073256697,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Chocolate Milk Stout",NA,15228
+1548,"John Harvard's Brewery & Ale House",1061346875,3.5,3,3.5,"Vienna Lager",3.5,3,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1114807004,4,3.5,3.5,"English Brown Ale",4,3.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1114364780,4,4,4.5,"English Brown Ale",4,3.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1092262660,3.5,3.5,3,"English Brown Ale",3.5,4,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1091373088,4,3,3.5,"English Brown Ale",4.5,4,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1086223895,4.5,4,3.5,"English Brown Ale",4.5,4.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1048981160,4,3.5,4,"English Brown Ale",4,4,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1032722772,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1032721848,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1025374309,3,3,4,"English Brown Ale",3,3,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1013504064,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1011045233,2.5,2.5,3,"English Brown Ale",2.5,3,"Newtowne Nutbrown Ale",NA,2555
+1548,"John Harvard's Brewery & Ale House",1075601813,4,4.5,4,"American Barleywine",4,4.5,"Barley Wine",NA,14858
+1548,"John Harvard's Brewery & Ale House",1142910966,4,4,4.5,"Scotch Ale / Wee Heavy",4,4,"Wee Heavy Scotch Ale",9.5,3509
+1548,"John Harvard's Brewery & Ale House",1020043079,3,4,4,"Scotch Ale / Wee Heavy",2,3.5,"Wee Heavy Scotch Ale",9.5,3509
+1548,"John Harvard's Brewery & Ale House",1020018716,5,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Wee Heavy Scotch Ale",9.5,3509
+1548,"John Harvard's Brewery & Ale House",1255370472,4,3,4.5,"American Porter",4,4,"Pumpkin Porter",NA,53329
+1548,"John Harvard's Brewery & Ale House",1191904041,4.5,4,4,"Doppelbock",4.5,4.5,"Double Trouble Bock",NA,16433
+1548,"John Harvard's Brewery & Ale House",1159736687,4.5,4,3,"Doppelbock",4.5,4,"Double Trouble Bock",NA,16433
+1548,"John Harvard's Brewery & Ale House",1159060281,4,4,4,"Doppelbock",4,4.5,"Double Trouble Bock",NA,16433
+1548,"John Harvard's Brewery & Ale House",1078890020,4,4,4,"Doppelbock",4,4,"Double Trouble Bock",NA,16433
+1548,"John Harvard's Brewery & Ale House",1203259908,3.5,2,3.5,"Fruit / Vegetable Beer",3.5,4,"Blackberry Wheat",NA,41054
+1548,"John Harvard's Brewery & Ale House",1289534254,4,3.5,4,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1237607771,3.5,3,4,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1203261590,4,4,3.5,"American IPA",3.5,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1198597307,2.5,3.5,4,"American IPA",3.5,2,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1177167707,4.5,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1153198121,4,4.5,3.5,"American IPA",3,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1148873666,4.5,4.5,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1148869423,4,4,3.5,"American IPA",3.5,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1142604711,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1140978519,4,3.5,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1109878774,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1083456360,4,4,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1081028753,4,2,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1078890523,4,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1064776809,4.5,4.5,4.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1052634665,4.5,4.5,4.5,"American IPA",4.5,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1071378566,4,4.5,4.5,"American Barleywine",4.5,4.5,"Barley Wine",NA,14858
+1548,"John Harvard's Brewery & Ale House",1046714623,4,4,4,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1044035970,3.5,4.5,3.5,"American IPA",4,4,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1030968823,4.5,4,4.5,"American IPA",4,3.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",895276801,4,4,4,"American IPA",4,4.5,"India Pale Ale (IPA)",NA,488
+1548,"John Harvard's Brewery & Ale House",1144126208,4.5,3.5,3,"Light Lager",3,3.5,"Light",5,29638
+1548,"John Harvard's Brewery & Ale House",1276719072,2.5,3,3.5,"American Brown Ale",3.5,3,"Honey Brown",4.8,59283
+1548,"John Harvard's Brewery & Ale House",1168098124,3.5,3.5,3,"Roggenbier",3.5,3.5,"Roggen Bier",NA,34621
+1548,"John Harvard's Brewery & Ale House",1219803494,4.5,4,4,"Schwarzbier",4,4.5,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1146964606,5,4,4,"Schwarzbier",4.5,5,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1144125778,3.5,3.5,4.5,"Schwarzbier",3.5,4.5,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1130971079,4.5,4,4,"Schwarzbier",4.5,4,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1104769401,3.5,3.5,4,"Schwarzbier",4,4,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1065309736,4,3.5,4.5,"Schwarzbier",4,3.5,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1061278878,4.5,3,3.5,"Schwarzbier",3.5,4,"Black Widow Lager",NA,12154
+1548,"John Harvard's Brewery & Ale House",1297905403,2.5,4.5,3.5,"American IPA",3.5,4,"Left Coast IPA",6.4,66353
+1548,"John Harvard's Brewery & Ale House",1120275976,4,4.5,4,"Doppelbock",4.5,4.5,"Double Bock",NA,24301
+1548,"John Harvard's Brewery & Ale House",1120275647,4,4,3.5,"Doppelbock",4,4.5,"Double Bock",NA,24301
+1548,"John Harvard's Brewery & Ale House",1119096399,4.5,4,4,"Doppelbock",4.5,4.5,"Double Bock",NA,24301
+1548,"John Harvard's Brewery & Ale House",1183002903,4.5,4.5,4,"English Bitter",3.5,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1147277770,4,3.5,4,"English Bitter",4,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1116342637,4.5,3,3.5,"English Bitter",4.5,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1111538102,5,4,4.5,"English Bitter",4.5,4.5,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1089057529,4.5,4,4.5,"English Bitter",4,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1084285764,4.5,4,4,"English Bitter",4.5,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1240107368,4.5,4.5,4,"American IPA",4,4.5,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1077241473,4.5,3,4,"English Bitter",3.5,3.5,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1059207228,4,3,3.5,"English Bitter",4,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1053455928,4,4,4,"English Bitter",4,4,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1022532287,4.5,3.5,3.5,"English Bitter",4,3.5,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1022531440,4,3,3.5,"English Bitter",3.5,3.5,"Bitter",4.7,3868
+1548,"John Harvard's Brewery & Ale House",1230576087,3.5,3.5,3.5,"Belgian Dark Ale",3.5,4,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1169434871,3.5,3,3.5,"Belgian Dark Ale",3,3.5,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1166200072,3.5,3.5,4,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1238194937,3.5,3.5,4,"American IPA",4,3.5,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1165245642,3.5,3.5,3.5,"Belgian Dark Ale",3.5,4,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1072950099,4,3.5,4.5,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1071439872,4,4,3,"Belgian Dark Ale",4,4,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1070237886,4,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Holiday Red",6.5,7064
+1548,"John Harvard's Brewery & Ale House",1304094495,3.5,3.5,4,"American IPA",4,3.5,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1162953731,3.5,4,3.5,"American IPA",3.5,4,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1162061352,3.5,4,3.5,"American IPA",3.5,4,"Unlucky IPA",NA,33452
+1548,"John Harvard's Brewery & Ale House",1324687218,4,4,4.5,"Pumpkin Ale",4,4,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1290301250,3.5,4,3,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1044637793,4,4,3.5,"Fruit / Vegetable Beer",4,3.5,"Blueberry Lager",NA,8398
+1548,"John Harvard's Brewery & Ale House",1254435196,3,3,3,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1227800819,4,3.5,4,"Pumpkin Ale",4,4,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1163686564,3.5,4,4,"Pumpkin Ale",3,3.5,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1160945288,4.5,4.5,4,"Pumpkin Ale",4,4.5,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1159737933,3,3,4,"Pumpkin Ale",3,3,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1159059341,3.5,3,4,"Pumpkin Ale",3,3.5,"Pumpkin Spice Ale",4.8,32910
+1548,"John Harvard's Brewery & Ale House",1174308596,3.5,3,4,"Irish Dry Stout",2.5,3.5,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1152422395,4.5,4,4.5,"Irish Dry Stout",3.5,4,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1141873943,3,3.5,3,"Irish Dry Stout",3,3.5,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1126830920,3,3,3.5,"Irish Dry Stout",2.5,3,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1113659920,3,2.5,2.5,"Irish Dry Stout",2.5,4,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1111932069,4.5,4,4,"Irish Dry Stout",3.5,3.5,"Black Watch Stout",4,22810
+1548,"John Harvard's Brewery & Ale House",1152421750,4,3.5,4.5,"English Porter",3.5,3.5,"Three Threads Porter",NA,31611
+1548,"John Harvard's Brewery & Ale House",1122226187,3,3,3,"Czech Pilsener",3,3,"Pilsner",4.6,24947
+1548,"John Harvard's Brewery & Ale House",1264742978,3,2.5,3.5,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
+1548,"John Harvard's Brewery & Ale House",1157059876,3.5,3.5,3.5,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
+1548,"John Harvard's Brewery & Ale House",1118452726,3,3.5,3,"Hefeweizen",3.5,3.5,"Hefe-Weizen",NA,5105
+1548,"John Harvard's Brewery & Ale House",1056126146,2,2,3,"Hefeweizen",3.5,3,"Hefe-Weizen",NA,5105
+1548,"John Harvard's Brewery & Ale House",1029794744,4.5,4,3.5,"Hefeweizen",4,4,"Hefe-Weizen",NA,5105
+1548,"John Harvard's Brewery & Ale House",1152758176,4,4.5,3.5,"Belgian IPA",2.5,4.5,"Belgian IPA",NA,29889
+1548,"John Harvard's Brewery & Ale House",1151190266,4,3,3.5,"Belgian IPA",4,4.5,"Belgian IPA",NA,29889
+1548,"John Harvard's Brewery & Ale House",1145039883,4,4,3.5,"Belgian IPA",4,4,"Belgian IPA",NA,29889
+1548,"John Harvard's Brewery & Ale House",1236470637,4,4,3.5,"Witbier",4,4,"Belgian Witbier",NA,13744
+1548,"John Harvard's Brewery & Ale House",1066971862,3,3,2,"Witbier",2.5,3.5,"Belgian Witbier",NA,13744
+1548,"John Harvard's Brewery & Ale House",1095647496,4,3.5,3.5,"Hefeweizen",4,4,"Weissbier",4.7,18514
+1548,"John Harvard's Brewery & Ale House",1089056228,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Weissbier",4.7,18514
+1548,"John Harvard's Brewery & Ale House",1088613101,3.5,3,3.5,"Irish Red Ale",3.5,4,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1081092239,4,4,4,"Irish Red Ale",3.5,4,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1081091845,4.5,4.5,5,"Irish Red Ale",4.5,5,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1062687710,4,4.5,4,"Irish Red Ale",4.5,3.5,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1059205637,4,4,3.5,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1059089872,4,4,4,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1059060585,4,3,4,"Irish Red Ale",4,4,"Brimstone Red",NA,11717
+1548,"John Harvard's Brewery & Ale House",1303532891,3.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1302922312,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1240107751,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1239829637,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1179708986,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1104011126,4,3,3.5,"Märzen / Oktoberfest",4,4,"Marzen",NA,36931
+1548,"John Harvard's Brewery & Ale House",1300893252,3,3,4,"Oatmeal Stout",2.5,2.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1252780739,4,3.5,4.5,"Oatmeal Stout",5,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1180572460,4.5,3.5,4.5,"Oatmeal Stout",4.5,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1163950870,4,3.5,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1160281759,4,3.5,4.5,"Oatmeal Stout",4,3.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1144641807,4,4,4.5,"Oatmeal Stout",3.5,3,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1144335947,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1142604015,4,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1124668455,4.5,4,4,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1118002856,4,3.5,3.5,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1105485481,4.5,4,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1092263093,4.5,4,4.5,"Oatmeal Stout",4,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1068832856,4.5,4,5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1063402312,4.5,4.5,4.5,"Oatmeal Stout",5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1060488935,4.5,4.5,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1057477674,4,4,4.5,"Oatmeal Stout",4.5,4.5,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1054269770,4,4.5,4,"Oatmeal Stout",3.5,4,"Oatmeal Stout",NA,10085
+1548,"John Harvard's Brewery & Ale House",1252779896,5,4.5,4.5,"American IPA",4.5,5,"West Coast IPA",NA,37464
+1548,"John Harvard's Brewery & Ale House",1183079251,4,4.5,4,"American IPA",4,4,"West Coast IPA",NA,37464
+1548,"John Harvard's Brewery & Ale House",1199031907,2,2.5,4,"Winter Warmer",3,2.5,"Winter Warmer",7,40299
+1548,"John Harvard's Brewery & Ale House",1294617100,3.5,3.5,3.5,"Old Ale",4,4,"Old Man Winter",7.7,40414
+1548,"John Harvard's Brewery & Ale House",1234313631,3.5,3.5,3,"Old Ale",3,3.5,"Old Man Winter",7.7,40414
+1548,"John Harvard's Brewery & Ale House",1199501051,3,3,3.5,"Old Ale",3.5,3.5,"Old Man Winter",7.7,40414
+1548,"John Harvard's Brewery & Ale House",1289533594,4,3.5,4,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1238466989,3.5,3.5,4,"Irish Red Ale",3.5,3.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1207701408,4,3,4,"Irish Red Ale",4,4.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1205027820,4.5,4,3.5,"Irish Red Ale",4.5,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1144151802,4.5,3.5,3.5,"Irish Red Ale",4.5,4.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1106520892,4,3.5,4.5,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1079964842,3.5,3,3.5,"Irish Red Ale",3.5,3.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1079326765,4,3.5,4,"Irish Red Ale",4.5,4.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1078632799,4,3.5,5,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1048980828,4,3.5,4,"Irish Red Ale",4,3.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1045912634,4.5,3,3.5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1032722287,3,2.5,3.5,"Irish Red Ale",3,2.5,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1017503963,4.5,3.5,4.5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1017478812,5,3,5,"Irish Red Ale",4,4,"Celtic Irish Red",4.9,3186
+1548,"John Harvard's Brewery & Ale House",1022419060,3.5,3,3,"Fruit / Vegetable Beer",3.5,3.5,"Cranberry Ale",NA,456
+1548,"John Harvard's Brewery & Ale House",1230492175,3,3,4,"Vienna Lager",3,3.5,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1209072271,4,3,3.5,"Vienna Lager",3.5,4,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1194479284,4,4,3.5,"Vienna Lager",3.5,4,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1165245979,3.5,3.5,3,"Vienna Lager",4,3.5,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1095566510,4.5,3.5,4,"Vienna Lager",4.5,4,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1022531174,4,3.5,3.5,"Vienna Lager",4,4,"Vienna Gold",NA,3867
+1548,"John Harvard's Brewery & Ale House",1077409324,4,4,4,"American Double / Imperial IPA",4.5,4,"Imperial IPA",NA,16059
+1548,"John Harvard's Brewery & Ale House",1140474525,3.5,4,4,"American Porter",3.5,4,"Smokey The Beer",NA,28487
+1548,"John Harvard's Brewery & Ale House",1320210652,3.5,3,4,"Märzen / Oktoberfest",3.5,3,"The Big O",NA,74786
+1548,"John Harvard's Brewery & Ale House",1270003364,3.5,3.5,3.5,"Munich Dunkel Lager",3,4,"Frostbite Lager",NA,2554
+1548,"John Harvard's Brewery & Ale House",1234313776,2,2.5,2.5,"Munich Dunkel Lager",2,2,"Frostbite Lager",NA,2554
+1548,"John Harvard's Brewery & Ale House",1207701820,3.5,3,3,"Munich Dunkel Lager",3.5,3.5,"Frostbite Lager",NA,2554
+1548,"John Harvard's Brewery & Ale House",1011044877,3.5,3,3.5,"Munich Dunkel Lager",3,4,"Frostbite Lager",NA,2554
+1548,"John Harvard's Brewery & Ale House",1167421493,3.5,3.5,3,"American Pale Wheat Ale",3,3,"Cherry Wheat",NA,34489
+1548,"John Harvard's Brewery & Ale House",930614401,4,3,3,"Fruit / Vegetable Beer",3.5,4,"Blueberry Wheat",NA,479
+1548,"John Harvard's Brewery & Ale House",1074903246,4.5,5,5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1059651464,4.5,5,5,"American Double / Imperial Stout",4.5,5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1058006393,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1057761250,4,5,4,"American Double / Imperial Stout",4,4.5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1057673311,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1054011532,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1053812004,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1037660251,4,5,4,"American Double / Imperial Stout",4,5,"Whiskey Barrel Imperial Stout",NA,7190
+1548,"John Harvard's Brewery & Ale House",1165346375,5,4,4,"Bock",4.5,4.5,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1164250742,3,4,3.5,"Bock",4,4,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1133703467,4,4,4,"Bock",3.5,3.5,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1132938570,4,3.5,4,"Bock",4,4,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1132759240,4.5,3.5,4.5,"Bock",4,4,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1062655684,4,4.5,4,"Bock",4,4,"Big Billy's Bock",6.9,27027
+1548,"John Harvard's Brewery & Ale House",1272827465,4.5,4.5,4,"Wheatwine",4.5,4.5,"Wheat Wine",10.5,57978
+1548,"John Harvard's Brewery & Ale House",1227049220,4,3.5,4,"American Double / Imperial IPA",4,3.5,"HOPpopotamus",NA,32080
+1548,"John Harvard's Brewery & Ale House",1212708564,3.5,4,4.5,"American Double / Imperial IPA",3.5,4,"HOPpopotamus",NA,32080
+1548,"John Harvard's Brewery & Ale House",1179709428,3.5,4,3.5,"American Double / Imperial IPA",4,4,"HOPpopotamus",NA,32080
+1548,"John Harvard's Brewery & Ale House",1167508151,4.5,3.5,4.5,"American Double / Imperial IPA",4,4,"HOPpopotamus",NA,32080
+1548,"John Harvard's Brewery & Ale House",1154900765,4.5,4,4,"American Double / Imperial IPA",4.5,5,"HOPpopotamus",NA,32080
+1548,"John Harvard's Brewery & Ale House",1109878356,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Blueberry Lager",NA,8398
+1548,"John Harvard's Brewery & Ale House",1231213496,3.5,3.5,4.5,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1162570892,4,4,4,"American Double / Imperial IPA",3.5,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1156278009,4,4,4,"American Double / Imperial IPA",4,5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1152420751,4,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1152209692,3.5,3.5,3,"American Double / Imperial IPA",3.5,3.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1150932971,4,3.5,4,"American Double / Imperial IPA",4.5,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1088110894,3.5,4,3.5,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1147394597,3.5,5,4,"American Double / Imperial IPA",4.5,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1146868287,5,4.5,5,"American Double / Imperial IPA",5,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1144208445,4,3.5,5,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1140915425,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1111825334,5,4,4,"American Double / Imperial IPA",4,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1110503333,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1105741316,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1071005357,4,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1070238275,4,4,4,"American Double / Imperial IPA",4,4,"Demon DPA",8,14488
+1548,"John Harvard's Brewery & Ale House",1267120667,4,4,4,"Vienna Lager",4,4,"Vienna Lager",NA,56430
+1548,"John Harvard's Brewery & Ale House",1147991633,4,3.5,4,"Bock",4,3.5,"Bock",NA,18489
+1548,"John Harvard's Brewery & Ale House",1092262477,3.5,3.5,4,"Bock",3.5,4,"Bock",NA,18489
+1548,"John Harvard's Brewery & Ale House",1089159610,3,3.5,3.5,"Bock",3.5,3,"Bock",NA,18489
+1548,"John Harvard's Brewery & Ale House",1089055807,3.5,3.5,3.5,"Bock",4,3.5,"Bock",NA,18489
+1548,"John Harvard's Brewery & Ale House",1088962999,3.5,3.5,3.5,"Bock",3.5,3.5,"Bock",NA,18489
+1548,"John Harvard's Brewery & Ale House",1051837295,3.5,3,4,"American Dark Wheat Ale",3.5,3.5,"Amber Weizen",NA,9655
+1548,"John Harvard's Brewery & Ale House",1086657206,4,4,4.5,"Fruit / Vegetable Beer",5,4,"Raspberry Imperial Stout",NA,17848
+1548,"John Harvard's Brewery & Ale House",1234915939,4,4,4,"American Brown Ale",4,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1219542713,3.5,4,3.5,"American Brown Ale",4,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1204816402,5,4,4,"American Brown Ale",5,5,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1198822633,4,3.5,3.5,"American Brown Ale",4,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1171524528,3.5,3,4,"American Brown Ale",4,3.5,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1166108710,4,3,3.5,"American Brown Ale",3.5,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1155210651,4,3.5,4,"American Brown Ale",4,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1149013376,4,3.5,4.5,"American Brown Ale",4,4,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1096726974,4,3,3.5,"American Brown Ale",3.5,3.5,"Provision Ale",5,20142
+1548,"John Harvard's Brewery & Ale House",1234314038,3,3,2.5,"Irish Dry Stout",3,2.5,"Dry Irish Stout",NA,32561
+1548,"John Harvard's Brewery & Ale House",1157060210,4,3.5,4,"Irish Dry Stout",4,4,"Dry Irish Stout",NA,32561
+1548,"John Harvard's Brewery & Ale House",1211846399,4,4,4,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1201451488,4,4,4,"English Barleywine",4,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1201273373,4,4.5,4,"English Barleywine",5,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1200611595,3.5,3.5,4,"English Barleywine",4.5,3.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1198170799,3,3.5,3.5,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1099784584,4.5,4,4.5,"English Barleywine",4.5,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1075768196,5,4.5,4.5,"English Barleywine",4.5,5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1075693727,4.5,4,4,"English Barleywine",4,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1075123520,4.5,4.5,4,"English Barleywine",4.5,5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1075053765,4.5,4.5,5,"English Barleywine",5,5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1073524003,4,4,5,"English Barleywine",5,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1073238309,4.5,4.5,4,"English Barleywine",4.5,4.5,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1073172640,4,4,4.5,"English Barleywine",4,4,"Fire Drake Barleywine",10.5,15166
+1548,"John Harvard's Brewery & Ale House",1109878179,3,3,3,"American Adjunct Lager",3,3,"Light Lager",3.2,15184
+1548,"John Harvard's Brewery & Ale House",1072950867,4.5,4,4.5,"American Adjunct Lager",3.5,4,"Light Lager",3.2,15184
+1548,"John Harvard's Brewery & Ale House",1088611948,3.5,3,3.5,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1087636548,4,3,3.5,"Scottish Ale",3.5,3.5,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1087522931,5,3.5,4.5,"Scottish Ale",5,3.5,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1076773016,3,2,3,"Scottish Ale",2.5,3,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1071379822,4,4,4,"Scottish Ale",4,4.5,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1060750489,4.5,4,4,"Scottish Ale",4.5,4,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1051290168,4.5,3.5,4,"Scottish Ale",4.5,4,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1013471013,4,3,3.5,"Scottish Ale",3.5,4,"Loch Lanier Scottish Ale",5.3,2754
+1548,"John Harvard's Brewery & Ale House",1078759913,3.5,4,3.5,"Belgian Dark Ale",4,4,"Grand Cru",NA,12347
+1548,"John Harvard's Brewery & Ale House",1076773418,4.5,3.5,4,"Belgian Dark Ale",3.5,4,"Grand Cru",NA,12347
+1548,"John Harvard's Brewery & Ale House",1066446435,3.5,3.5,4,"Belgian Dark Ale",3.5,3.5,"Grand Cru",NA,12347
+1548,"John Harvard's Brewery & Ale House",1062166971,3.5,3,3.5,"Belgian Dark Ale",3.5,3,"Grand Cru",NA,12347
+1548,"John Harvard's Brewery & Ale House",1207098405,4,3.5,3,"Tripel",4,4,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1189912658,2.5,3.5,3,"Tripel",3,3,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1171442234,3,4,4,"Tripel",4,3.5,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1169434352,4,3.5,4,"Tripel",3.5,4,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1167925663,4,4,3.5,"Tripel",4,3.5,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1140476005,4,4,3.5,"Tripel",4,4,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1106069662,4.5,4.5,4.5,"Tripel",4.5,4.5,"Belgian Tripel",10,21628
+1548,"John Harvard's Brewery & Ale House",1179231592,3.5,3.5,4,"Rye Beer",3.5,3.5,"Rye Pale Ale",5.9,35360
+1548,"John Harvard's Brewery & Ale House",1171943828,3,4,3.5,"Rye Beer",3.5,4,"Rye Pale Ale",5.9,35360
+1548,"John Harvard's Brewery & Ale House",1022880157,4,4,4,"American Amber / Red Lager",4,4,"Amber Lager",4.8,3947
+1548,"John Harvard's Brewery & Ale House",1303533520,3,1,4,"Kölsch",4,4,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1233450641,3,3.5,4,"Kölsch",3,3.5,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1212707574,3.5,3.5,3.5,"Kölsch",3.5,3.5,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1178047451,4,3.5,3,"Kölsch",4,3.5,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1154901708,2,2.5,3,"Kölsch",2,2,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1089057239,4,3,4,"Kölsch",4,3.5,"Kölsch",NA,18516
+1548,"John Harvard's Brewery & Ale House",1251336158,3.5,3,4,"American Amber / Red Ale",3.5,3.5,"Red",NA,52148
+1548,"John Harvard's Brewery & Ale House",1285934685,4,3,3.5,"Scottish Ale",2,3,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1241551707,3,3.5,4,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1230576177,3.5,3,4,"Scottish Ale",3.5,3.5,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1188231074,3.5,3,3.5,"Scottish Ale",3,3.5,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1180128496,3.5,3.5,3.5,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1172435660,3,2.5,3.5,"Scottish Ale",4,3.5,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1166200283,3,3.5,4,"Scottish Ale",3.5,3,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1078759722,4,4,3.5,"Scottish Ale",3.5,3.5,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1073173065,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1068060483,3,3,3,"Scottish Ale",3,3,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1051593213,4,3.5,3.5,"Scottish Ale",4,4,"Scottish Ale",NA,16396
+1548,"John Harvard's Brewery & Ale House",1120089806,5,4.5,4,"Fruit / Vegetable Beer",4.5,4.5,"Blackberry Ale",NA,24421
+1548,"John Harvard's Brewery & Ale House",1078759259,4,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Raspberry Wheat",4.3,15179
+1548,"John Harvard's Brewery & Ale House",1072949795,4,3.5,3.5,"Fruit / Vegetable Beer",3,3.5,"Raspberry Wheat",4.3,15179
+1548,"John Harvard's Brewery & Ale House",1302920901,3.5,3.5,3,"Schwarzbier",3.5,4,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1288208781,3,3,3,"Schwarzbier",3,3,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1230313283,3.5,3.5,4,"Schwarzbier",3.5,3.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1161453689,4,4,4.5,"Schwarzbier",4,4.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1160498438,4,4,4,"Schwarzbier",4,4,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1160282227,4.5,4,4.5,"Schwarzbier",4,4,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1159737295,4,4,3.5,"Schwarzbier",4.5,4.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1125946580,4.5,4,4.5,"Schwarzbier",4,4.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1109878977,4,4,4,"Schwarzbier",3.5,4.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1062554872,4.5,4,4,"Schwarzbier",4.5,4.5,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",1044638136,4.5,3.5,4,"Schwarzbier",4,4,"Schwarzbier",NA,33120
+1548,"John Harvard's Brewery & Ale House",913593601,4,4,3.5,"Extra Special / Strong Bitter (ESB)",4,4,"Christmas Ale",NA,486
+1548,"John Harvard's Brewery & Ale House",1202017304,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1195668857,4,4,4,"Russian Imperial Stout",4,4,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1193094712,4,4,4.5,"Russian Imperial Stout",3.5,4.5,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1171001578,4.5,4,4,"Russian Imperial Stout",4.5,4,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1170013078,4.5,5,5,"Russian Imperial Stout",5,4.5,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1089331823,4,3.5,4,"American IPA",3.5,4,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1168720235,4.5,4,4.5,"Russian Imperial Stout",3.5,4,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1108356993,4,4,4,"Russian Imperial Stout",4.5,4.5,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1108329214,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Mid Winter Imperial Stout",NA,21915
+1548,"John Harvard's Brewery & Ale House",1276467975,3.5,3.5,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1215635819,4.5,4,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1193442353,4.5,3.5,4,"American IPA",4.5,4,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1143259874,5,4,4,"American IPA",4.5,5,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1099783528,4,3,4,"American IPA",4,3.5,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1075054858,4.5,4,4,"American IPA",4,4,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1061544286,4.5,3.5,4,"American IPA",5,4.5,"Kirley Q's IPA",4.9,12218
+1548,"John Harvard's Brewery & Ale House",1230418845,4,3.5,4,"Tripel",3.5,4,"Tripel",NA,33191
+1548,"John Harvard's Brewery & Ale House",1160615495,3,3,2.5,"Tripel",3,2.5,"Tripel",NA,33191
+1548,"John Harvard's Brewery & Ale House",1109622742,4,3.5,3,"Czech Pilsener",4,3.5,"Czech Pils",NA,22283
+1548,"John Harvard's Brewery & Ale House",1300068085,4,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1294596984,4,2,4.5,"English Pale Ale",4,2.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1289533476,4,4,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1266796437,3,3.5,4,"English Pale Ale",3.5,3,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1264742651,3.5,3,4,"English Pale Ale",4,3,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1241534405,4,3.5,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1241210745,4,4,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1234313171,4,4,4.5,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1229802767,4,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1220466251,4.5,3,3.5,"English Pale Ale",2.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1219840123,2.5,3,3,"English Pale Ale",2,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1212707921,3,3.5,3.5,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1203261311,4,4.5,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1193422010,4,3.5,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1178160018,4,3.5,3.5,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1174272678,4.5,3.5,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1165418885,4,4,3,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1156724775,4,3.5,4,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1151192914,3.5,3.5,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1144855964,4.5,3,4,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1142911558,4,3.5,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1130639064,4.5,4,4.5,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1116892885,4.5,4,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1115238004,4,4,3.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1109878659,3.5,3.5,4,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1109378913,4,4,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1104768567,3.5,3.5,4,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1083456679,4,3,4.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1082773705,3,4,3,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1078759424,4,3.5,4,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1077519574,4,4,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1075602569,4,3.5,4.5,"English Pale Ale",4.5,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1073257294,4,3.5,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1072950614,4.5,3.5,4.5,"English Pale Ale",4,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1068060871,4,4,3.5,"English Pale Ale",3.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1062687956,4,3.5,4,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1060663154,3,4,3.5,"English Pale Ale",3.5,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1059874978,4.5,3.5,3,"English Pale Ale",4,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1058829108,4.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1057862867,3,4,4,"English Pale Ale",3,3.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1052048995,4.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1051593471,3.5,3.5,3.5,"English Pale Ale",3,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1048980250,4.5,3.5,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1044034654,3.5,4,4,"English Pale Ale",4.5,4,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1068083443,4,4,4.5,"Irish Dry Stout",3.5,3.5,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1040649332,3.5,4,3,"English Pale Ale",3,3,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1032721421,3,2,3,"English Pale Ale",3,3,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1027610743,4,4,4.5,"English Pale Ale",4,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1022418873,4.5,4,4,"English Pale Ale",4.5,4.5,"Pale Ale",5.1,476
+1548,"John Harvard's Brewery & Ale House",1103204033,3,3,3,"Tripel",3,2.5,"Trippel Lindy",8.1,20723
+1548,"John Harvard's Brewery & Ale House",1101072331,3,4,3,"Tripel",3.5,3.5,"Trippel Lindy",8.1,20723
+1548,"John Harvard's Brewery & Ale House",1100221444,4,4,4,"Tripel",4.5,4,"Trippel Lindy",8.1,20723
+1548,"John Harvard's Brewery & Ale House",1302922833,4,3,4,"Milk / Sweet Stout",4,3.5,"Espresso Cream Stout",NA,31290
+1548,"John Harvard's Brewery & Ale House",1264914661,4,4,4,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
+1548,"John Harvard's Brewery & Ale House",1233450801,4,4,4,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
+1548,"John Harvard's Brewery & Ale House",1167251647,4,4,3.5,"Milk / Sweet Stout",3,4,"Espresso Cream Stout",NA,31290
+1548,"John Harvard's Brewery & Ale House",1151184836,4,4,3.5,"Milk / Sweet Stout",4,4,"Espresso Cream Stout",NA,31290
+1548,"John Harvard's Brewery & Ale House",1285163704,4.5,3,3,"Milk / Sweet Stout",3,3,"Belgian Black",NA,44446
+1548,"John Harvard's Brewery & Ale House",1249336027,4,3.5,4,"Milk / Sweet Stout",4,4,"Belgian Black",NA,44446
+1548,"John Harvard's Brewery & Ale House",1230571498,4,3.5,4,"Milk / Sweet Stout",3.5,4,"Belgian Black",NA,44446
+1548,"John Harvard's Brewery & Ale House",1230043008,3.5,3.5,4,"Milk / Sweet Stout",3,3.5,"Belgian Black",NA,44446
+1548,"John Harvard's Brewery & Ale House",1219256923,4.5,4.5,4,"Milk / Sweet Stout",4.5,4.5,"Belgian Black",NA,44446
+1548,"John Harvard's Brewery & Ale House",1151193339,3.5,3.5,3,"American Brown Ale",3,3.5,"American Brown",NA,31299
+1548,"John Harvard's Brewery & Ale House",1264461497,4,3.5,4,"Dubbel",3.5,3.5,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1230060939,3.5,3.5,4,"Dubbel",3,3.5,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1148744157,4.5,4,4.5,"Dubbel",4.5,4.5,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1148248091,3,3,4,"Dubbel",4,3,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1148247278,3.5,3,4,"Dubbel",3.5,3,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1147979097,4,4,4,"Dubbel",4.5,4.5,"Abbey Dubbel",NA,30570
+1548,"John Harvard's Brewery & Ale House",1221785424,4,3,4.5,"Irish Dry Stout",4,4,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1196994651,4.5,4,4,"Irish Dry Stout",4.5,3.5,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1173792622,3.5,3.5,3.5,"Irish Dry Stout",3,3.5,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1163685801,3,3,4,"Irish Dry Stout",4,3,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1114379576,4.5,4,4.5,"Irish Dry Stout",4.5,4.5,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1089331550,4.5,4,4.5,"Irish Dry Stout",4,4,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1029571947,5,4,4.5,"Irish Dry Stout",5,4.5,"Irish Stout",3.7,18595
+1548,"John Harvard's Brewery & Ale House",1073173265,3,4,3.5,"Fruit / Vegetable Beer",3,3,"Apricot Cream Ale",NA,9595
+1548,"John Harvard's Brewery & Ale House",1051594052,3,2.5,3,"Fruit / Vegetable Beer",2.5,3,"Apricot Cream Ale",NA,9595
+1548,"John Harvard's Brewery & Ale House",1293036449,3,2,4.5,"Irish Dry Stout",3,2.5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1259188758,4,3,4,"Irish Dry Stout",3.5,3,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1230415701,3.5,3.5,4,"Irish Dry Stout",3.5,3.5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1143350295,4,3.5,4,"Irish Dry Stout",3.5,4.5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1109879128,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1081122397,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1081029989,4,3.5,4,"Irish Dry Stout",3,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1068059753,4,4,4,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1066161476,5,4,4.5,"Irish Dry Stout",4.5,4.5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1059873662,3.5,3.5,4,"Irish Dry Stout",3.5,3.5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1058827642,4,4.5,4.5,"Irish Dry Stout",4,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1048981906,4.5,4,4.5,"Irish Dry Stout",4.5,4,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1032722665,3,3.5,3.5,"Irish Dry Stout",3,3,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1032715742,5,4.5,4.5,"Irish Dry Stout",4.5,5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1017479124,5,4,5,"Irish Dry Stout",5,5,"Irish Dry Stout",3.9,477
+1548,"John Harvard's Brewery & Ale House",1082774302,2,2,2,"American Pale Lager",2.5,2.5,"All American Lager",NA,16721
+1548,"John Harvard's Brewery & Ale House",1079964452,3.5,3,3,"American Pale Lager",3,3.5,"All American Lager",NA,16721
+1548,"John Harvard's Brewery & Ale House",1173042016,4,3,4,"American Double / Imperial IPA",3.5,4,"Imperial Pale Ale",8,35715
+1548,"John Harvard's Brewery & Ale House",1293587019,3.5,3.5,4,"Milk / Sweet Stout",3.5,4,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1276468322,4.5,3.5,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1120274860,4,3.5,3.5,"Milk / Sweet Stout",3.5,3.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1100487157,4,4,4,"Milk / Sweet Stout",3.5,4.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1096429112,4,2.5,4,"Milk / Sweet Stout",4,3.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1070404975,4.5,3,3,"Milk / Sweet Stout",4.5,3.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1060039869,4,4.5,4,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1051592637,4.5,4,4,"Milk / Sweet Stout",4,4,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1045912297,4,3.5,5,"Milk / Sweet Stout",4.5,3.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1044035291,4,4,5,"Milk / Sweet Stout",5,4,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1027277660,4.5,4,4,"Milk / Sweet Stout",5,4.5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1022418674,4.5,4,4.5,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1022418490,4.5,4.5,4,"Milk / Sweet Stout",4.5,5,"Milk Stout",NA,483
+1548,"John Harvard's Brewery & Ale House",1249240562,4.5,3.5,4,"American Porter",4,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1231887055,4.5,4.5,4.5,"American Porter",4.5,5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1230649544,4,4.5,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1198001550,4,4,4,"American Porter",3.5,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1193444595,4,4.5,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1166107758,3.5,3,4,"American Porter",3,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1139773750,4,3.5,3.5,"American Porter",4,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1111269123,4.5,3.5,4,"American Porter",4.5,4.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1102531090,4,3.5,3.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1099784308,4.5,4,4,"American Porter",4.5,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1084286061,3.5,4.5,3,"American Porter",3.5,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1069073576,4,3.5,4,"American Porter",3,4,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1067957289,4,3.5,4,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1066971463,4.5,4,4,"American Porter",4,4.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1066204071,5,4.5,5,"American Porter",5,4.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1218090644,3,3.5,4,"American IPA",3.5,3,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1057848932,3.5,3.5,4,"American Porter",4,4.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1035992469,4,3.5,3.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1029093402,3.5,3,3,"American Porter",3.5,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1027754983,4.5,4,4.5,"American Porter",4,3.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1020018089,5,3.5,4,"American Porter",4.5,4.5,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1019844568,3,2.5,3,"American Porter",2.5,3,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1019628693,3,3,3,"American Porter",3,3,"Pilgrim's Porter",6,3461
+1548,"John Harvard's Brewery & Ale House",1068528926,3.5,4,3,"Fruit / Vegetable Beer",4,3.5,"Cherry Lager",NA,14079
+1548,"John Harvard's Brewery & Ale House",1212604172,4.5,4,4,"American Stout",3,4,"Chocolate Stout",4.1,43050
+1548,"John Harvard's Brewery & Ale House",1210717316,4,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1204817539,4,4,4.5,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1168123356,4,3.5,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1166108151,4,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1157400435,4.5,4,4.5,"American IPA",4,4.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1155211187,4.5,3.5,3.5,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1152917106,4,3.5,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1151188368,3.5,3,4,"American IPA",3.5,4.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1144855783,4,3,4,"American IPA",4,4.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1135435469,4.5,4.5,4,"American IPA",4.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1126821779,3.5,3.5,4,"American IPA",3.5,3.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1073257824,4,4,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1118849245,3,2.5,3,"American IPA",2.5,3,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1117429653,4.5,4,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1113669695,5,4,4,"American IPA",4.5,4.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1113478145,3.5,3.5,4,"American IPA",3,3.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1108328461,3.5,3.5,4,"American IPA",3,3.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1091373941,3,4,4,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1081091202,4,3,2.5,"American IPA",3,4.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1073267228,4,3.5,4,"American IPA",4,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1067956870,4,4,4,"American IPA",4,3.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1051592892,4,4,3.5,"American IPA",3.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1025625534,3,2.5,3,"American IPA",3,3,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1025374793,2,3,4,"American IPA",2,2,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1025372332,3.5,3.5,4,"American IPA",4,3.5,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1012065682,4,3,4,"American IPA",4.5,4,"Old Willy India Pale Ale",NA,16617
+1548,"John Harvard's Brewery & Ale House",1160281518,4,3.5,4,"Flanders Oud Bruin",3.5,4,"Belgian Brown Ale",NA,33118
+1548,"John Harvard's Brewery & Ale House",1224817466,4,3.5,4.5,"Herbed / Spiced Beer",3.5,3.5,"Harvest Spice Ale",NA,472
+1548,"John Harvard's Brewery & Ale House",1198372891,3.5,3.5,4,"Herbed / Spiced Beer",4,3.5,"Harvest Spice Ale",NA,472
+1548,"John Harvard's Brewery & Ale House",1168124964,4,3.5,3.5,"Herbed / Spiced Beer",4,4,"Harvest Spice Ale",NA,472
+1548,"John Harvard's Brewery & Ale House",1065140897,4.5,4.5,4,"Herbed / Spiced Beer",4,4.5,"Harvest Spice Ale",NA,472
+1548,"John Harvard's Brewery & Ale House",1022418957,4,3.5,3,"Herbed / Spiced Beer",4,4,"Harvest Spice Ale",NA,472
+1548,"John Harvard's Brewery & Ale House",1311196814,3,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Blue",NA,71233

@@ -143,7 +143,7 @@ makeTags <- function(style){
 
 by_beer <- mutate(by_beer, beer_tag = makeTags(beer_style))
 
-write.csv(by_beer, "data/byBeer.csv")
+# write.csv(by_beer, "data/byBeer.csv")
 
 ggplot(by_beer) +
   stat_count(aes(x = beer_tag, fill = beer_tag)) +
@@ -174,13 +174,21 @@ by_brewery <- ba %>%
             n_reviews = length(brewery_name)) %>%
   filter(n_beers >= 5)
 
-write.csv(by_brewery, "data/byBrewery-noLocations.csv")
+write.csv(by_brewery, "data/byBrewery-noLocations.csv", row.names = FALSE)
 
 included_breweries <- by_brewery$brewery_id
 
 ba <- ba %>% filter(brewery_id %in% included_breweries)
 
 knitr::kable(sample_n(by_brewery, 5))
+```
+
+Remove beers from breweries we removed
+
+```{r beer_remove}
+by_beer <- by_beer %>% filter(brewery_id %in% included_breweries)
+
+write.csv(by_beer, "data/byBeer.csv", row.names = FALSE)
 ```
 
 After grouping reviews from beers at the same brewery, and removing breweries with <5 beers, we are now down to `r nrow(by_brewery)` observations and `r ncol(by_brewery)` variables. 
@@ -191,5 +199,5 @@ In this we will split the original `ba` dataset by brewery and write each to a c
 
 ```{r csv_split, eval = FALSE}
 ba %>% group_by(brewery_name) %>%
-  do(write.csv(., sprintf("data/breweries/%s.csv", .$brewery_id[1])))
+  do(write.csv(., sprintf("data/breweries/%s.csv", .$brewery_id[1]), row.names = FALSE))
 ```

@@ -1,834 +1,834 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",347,"Bar Harbor Brewing Company",1282785262,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"2",347,"Bar Harbor Brewing Company",1211326900,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"3",347,"Bar Harbor Brewing Company",1278976232,4,3,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"4",347,"Bar Harbor Brewing Company",1212876022,4.5,2.5,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"5",347,"Bar Harbor Brewing Company",1127258945,3.5,3.5,4,"English Brown Ale",2.5,3,"Thunder Hole Ale",4.8,3339
-"6",347,"Bar Harbor Brewing Company",1126720833,3.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"7",347,"Bar Harbor Brewing Company",1111376723,4,4.5,4,"Herbed / Spiced Beer",4,4,"Ginger Mild Brew",NA,7677
-"8",347,"Bar Harbor Brewing Company",1216762566,3,3,3.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
-"9",347,"Bar Harbor Brewing Company",1194693557,3.5,3,3,"Herbed / Spiced Beer",2,3,"Ginger Mild Brew",NA,7677
-"10",347,"Bar Harbor Brewing Company",1172699424,3,3.5,3.5,"Herbed / Spiced Beer",2.5,3.5,"Ginger Mild Brew",NA,7677
-"11",347,"Bar Harbor Brewing Company",1138681621,3,4,4,"Herbed / Spiced Beer",3,2.5,"Ginger Mild Brew",NA,7677
-"12",347,"Bar Harbor Brewing Company",1131918728,3.5,4,4.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
-"13",347,"Bar Harbor Brewing Company",1127329465,3.5,4,5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
-"14",347,"Bar Harbor Brewing Company",1121807198,4.5,3.5,4.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
-"15",347,"Bar Harbor Brewing Company",1121639155,4,3,3,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
-"16",347,"Bar Harbor Brewing Company",1108779988,4,4,3.5,"Herbed / Spiced Beer",4,4,"Ginger Mild Brew",NA,7677
-"17",347,"Bar Harbor Brewing Company",1060021274,2,2,4,"Herbed / Spiced Beer",3.5,2,"Ginger Mild Brew",NA,7677
-"18",347,"Bar Harbor Brewing Company",1040901033,3.5,4,4,"Herbed / Spiced Beer",4,3.5,"Ginger Mild Brew",NA,7677
-"19",347,"Bar Harbor Brewing Company",1297910868,3.5,4.5,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"20",347,"Bar Harbor Brewing Company",1297484999,4,3.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"21",347,"Bar Harbor Brewing Company",1297185566,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"22",347,"Bar Harbor Brewing Company",1297183527,5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"23",347,"Bar Harbor Brewing Company",1296184370,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"24",347,"Bar Harbor Brewing Company",1296088872,4,5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"25",347,"Bar Harbor Brewing Company",1295748201,4,3,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"26",347,"Bar Harbor Brewing Company",1295300210,3,3.5,3,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"27",347,"Bar Harbor Brewing Company",1295192633,5,5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"28",347,"Bar Harbor Brewing Company",1294980804,3.5,4,4,"American Stout",2,3,"Cadillac Mountain Stout",6.7,3338
-"29",347,"Bar Harbor Brewing Company",1294469240,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"30",347,"Bar Harbor Brewing Company",1294457421,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"31",347,"Bar Harbor Brewing Company",1294293042,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"32",347,"Bar Harbor Brewing Company",1294291967,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"33",347,"Bar Harbor Brewing Company",1294276777,4,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"34",347,"Bar Harbor Brewing Company",1294255202,3.5,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"35",347,"Bar Harbor Brewing Company",1294114426,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"36",347,"Bar Harbor Brewing Company",1294114107,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"37",347,"Bar Harbor Brewing Company",1294013567,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"38",347,"Bar Harbor Brewing Company",1293680761,4,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"39",347,"Bar Harbor Brewing Company",1293541490,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"40",347,"Bar Harbor Brewing Company",1293328790,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"41",347,"Bar Harbor Brewing Company",1293287003,3.5,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"42",347,"Bar Harbor Brewing Company",1293242816,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"43",347,"Bar Harbor Brewing Company",1292901383,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"44",347,"Bar Harbor Brewing Company",1292711834,2.5,3,4,"American Stout",2,3.5,"Cadillac Mountain Stout",6.7,3338
-"45",347,"Bar Harbor Brewing Company",1292710341,3,3.5,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"46",347,"Bar Harbor Brewing Company",1292504295,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"47",347,"Bar Harbor Brewing Company",1289708942,3,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"48",347,"Bar Harbor Brewing Company",1292479401,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"49",347,"Bar Harbor Brewing Company",1292045853,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"50",347,"Bar Harbor Brewing Company",1292028260,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"51",347,"Bar Harbor Brewing Company",1291607122,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"52",347,"Bar Harbor Brewing Company",1291470981,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"53",347,"Bar Harbor Brewing Company",1291288742,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"54",347,"Bar Harbor Brewing Company",1290713243,4.5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"55",347,"Bar Harbor Brewing Company",1290474438,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"56",347,"Bar Harbor Brewing Company",1290466333,4.5,4.5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"57",347,"Bar Harbor Brewing Company",1289617344,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"58",347,"Bar Harbor Brewing Company",1289608890,4,4,3,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"59",347,"Bar Harbor Brewing Company",1289222777,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"60",347,"Bar Harbor Brewing Company",1288396025,4,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"61",347,"Bar Harbor Brewing Company",1287898034,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"62",347,"Bar Harbor Brewing Company",1287869716,4.5,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"63",347,"Bar Harbor Brewing Company",1287270246,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"64",347,"Bar Harbor Brewing Company",1285806664,3.5,3,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"65",347,"Bar Harbor Brewing Company",1287159450,3.5,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"66",347,"Bar Harbor Brewing Company",1287100640,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"67",347,"Bar Harbor Brewing Company",1286839674,4.5,4.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"68",347,"Bar Harbor Brewing Company",1286765129,3.5,4,4.5,"American Stout",4.5,3,"Cadillac Mountain Stout",6.7,3338
-"69",347,"Bar Harbor Brewing Company",1286595613,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"70",347,"Bar Harbor Brewing Company",1286410130,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"71",347,"Bar Harbor Brewing Company",1286153596,5,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"72",347,"Bar Harbor Brewing Company",1285981099,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"73",347,"Bar Harbor Brewing Company",1285725567,3,4,4,"American Stout",2.5,2.5,"Cadillac Mountain Stout",6.7,3338
-"74",347,"Bar Harbor Brewing Company",1285287525,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"75",347,"Bar Harbor Brewing Company",1285202653,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"76",347,"Bar Harbor Brewing Company",1285122263,3.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"77",347,"Bar Harbor Brewing Company",1284882694,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"78",347,"Bar Harbor Brewing Company",1284601903,4.5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"79",347,"Bar Harbor Brewing Company",1284345704,4,2.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"80",347,"Bar Harbor Brewing Company",1284339816,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"81",347,"Bar Harbor Brewing Company",1284137393,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"82",347,"Bar Harbor Brewing Company",1284093615,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"83",347,"Bar Harbor Brewing Company",1283556959,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"84",347,"Bar Harbor Brewing Company",1283418739,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"85",347,"Bar Harbor Brewing Company",1283393886,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"86",347,"Bar Harbor Brewing Company",1283193354,4.5,3.5,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"87",347,"Bar Harbor Brewing Company",1283123372,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"88",347,"Bar Harbor Brewing Company",1282875308,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"89",347,"Bar Harbor Brewing Company",1282786521,4.5,3.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"90",347,"Bar Harbor Brewing Company",1282776809,5,3.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"91",347,"Bar Harbor Brewing Company",1282436589,5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"92",347,"Bar Harbor Brewing Company",1280973388,5,3.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"93",347,"Bar Harbor Brewing Company",1280718132,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"94",347,"Bar Harbor Brewing Company",1280522275,5,3.5,3.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"95",347,"Bar Harbor Brewing Company",1280441229,3,3.5,4.5,"American Stout",2.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"96",347,"Bar Harbor Brewing Company",1279912411,4.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"97",347,"Bar Harbor Brewing Company",1279859401,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"98",347,"Bar Harbor Brewing Company",1279841654,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"99",347,"Bar Harbor Brewing Company",1279598754,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"100",347,"Bar Harbor Brewing Company",1275002275,3.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"101",347,"Bar Harbor Brewing Company",1279591450,4.5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"102",347,"Bar Harbor Brewing Company",1279498954,5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"103",347,"Bar Harbor Brewing Company",1279076380,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"104",347,"Bar Harbor Brewing Company",1278959649,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"105",347,"Bar Harbor Brewing Company",1278901212,5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"106",347,"Bar Harbor Brewing Company",1278893726,4,4.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"107",347,"Bar Harbor Brewing Company",1278731112,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"108",347,"Bar Harbor Brewing Company",1278345051,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"109",347,"Bar Harbor Brewing Company",1274490744,4,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"110",347,"Bar Harbor Brewing Company",1278290818,4,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"111",347,"Bar Harbor Brewing Company",1277859843,3,3.5,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
-"112",347,"Bar Harbor Brewing Company",1276754407,3,4,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"113",347,"Bar Harbor Brewing Company",1276658985,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"114",347,"Bar Harbor Brewing Company",1276391182,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"115",347,"Bar Harbor Brewing Company",1276289066,4.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"116",347,"Bar Harbor Brewing Company",1276272702,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"117",347,"Bar Harbor Brewing Company",1275361311,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"118",347,"Bar Harbor Brewing Company",1326171062,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"119",347,"Bar Harbor Brewing Company",1326159585,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"120",347,"Bar Harbor Brewing Company",1325639051,4,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"121",347,"Bar Harbor Brewing Company",1325059389,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"122",347,"Bar Harbor Brewing Company",1324679442,3.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"123",347,"Bar Harbor Brewing Company",1324307841,3.5,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"124",347,"Bar Harbor Brewing Company",1323576077,5,4.5,3.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"125",347,"Bar Harbor Brewing Company",1323219281,3.5,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"126",347,"Bar Harbor Brewing Company",1322951281,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"127",347,"Bar Harbor Brewing Company",1322871015,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"128",347,"Bar Harbor Brewing Company",1274163950,5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"129",347,"Bar Harbor Brewing Company",1274163304,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"130",347,"Bar Harbor Brewing Company",1274127679,5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"131",347,"Bar Harbor Brewing Company",1274021293,4,4,3.5,"American Stout",2.5,4,"Cadillac Mountain Stout",6.7,3338
-"132",347,"Bar Harbor Brewing Company",1273963716,3.5,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"133",347,"Bar Harbor Brewing Company",1273444678,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"134",347,"Bar Harbor Brewing Company",1273182527,4,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"135",347,"Bar Harbor Brewing Company",1273088886,2.5,4,4,"American Stout",3,2.5,"Cadillac Mountain Stout",6.7,3338
-"136",347,"Bar Harbor Brewing Company",1272846688,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"137",347,"Bar Harbor Brewing Company",1272499494,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"138",347,"Bar Harbor Brewing Company",1272248906,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"139",347,"Bar Harbor Brewing Company",1271914536,5,4,3.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"140",347,"Bar Harbor Brewing Company",1271900874,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"141",347,"Bar Harbor Brewing Company",1271646818,4.5,4,4,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"142",347,"Bar Harbor Brewing Company",1268742337,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"143",347,"Bar Harbor Brewing Company",1271618201,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"144",347,"Bar Harbor Brewing Company",1270868902,4.5,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"145",347,"Bar Harbor Brewing Company",1270577046,4.5,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"146",347,"Bar Harbor Brewing Company",1269909366,4.5,4.5,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"147",347,"Bar Harbor Brewing Company",1269751059,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"148",347,"Bar Harbor Brewing Company",1269297216,4.5,3.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"149",347,"Bar Harbor Brewing Company",1269129946,3.5,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"150",347,"Bar Harbor Brewing Company",1268847512,3.5,3,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"151",347,"Bar Harbor Brewing Company",1268791190,3,4,3,"American Stout",2.5,2,"Cadillac Mountain Stout",6.7,3338
-"152",347,"Bar Harbor Brewing Company",1268704253,4.5,3.5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"153",347,"Bar Harbor Brewing Company",1268473467,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"154",347,"Bar Harbor Brewing Company",1268347201,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"155",347,"Bar Harbor Brewing Company",1268278128,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"156",347,"Bar Harbor Brewing Company",1267667987,4.5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"157",347,"Bar Harbor Brewing Company",1267543076,4.5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"158",347,"Bar Harbor Brewing Company",1267318780,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"159",347,"Bar Harbor Brewing Company",1266976624,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"160",347,"Bar Harbor Brewing Company",1265610077,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"161",347,"Bar Harbor Brewing Company",1265518428,4.5,1.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"162",347,"Bar Harbor Brewing Company",1265171487,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"163",347,"Bar Harbor Brewing Company",1264913855,5,4.5,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"164",347,"Bar Harbor Brewing Company",1264813272,3,4.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"165",347,"Bar Harbor Brewing Company",1264383085,4,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"166",347,"Bar Harbor Brewing Company",1264363402,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"167",347,"Bar Harbor Brewing Company",1263506643,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"168",347,"Bar Harbor Brewing Company",1263483859,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"169",347,"Bar Harbor Brewing Company",1263250856,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"170",347,"Bar Harbor Brewing Company",1262175551,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"171",347,"Bar Harbor Brewing Company",1261023016,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"172",347,"Bar Harbor Brewing Company",1260883252,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"173",347,"Bar Harbor Brewing Company",1260314241,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"174",347,"Bar Harbor Brewing Company",1259628561,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"175",347,"Bar Harbor Brewing Company",1258912353,4,3.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"176",347,"Bar Harbor Brewing Company",1258164892,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"177",347,"Bar Harbor Brewing Company",1257701321,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"178",347,"Bar Harbor Brewing Company",1254147080,3.5,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"179",347,"Bar Harbor Brewing Company",1257289903,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"180",347,"Bar Harbor Brewing Company",1257049868,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"181",347,"Bar Harbor Brewing Company",1256956144,4.5,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"182",347,"Bar Harbor Brewing Company",1256922923,4,4,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"183",347,"Bar Harbor Brewing Company",1255692397,5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"184",347,"Bar Harbor Brewing Company",1254997465,4,3.5,3,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"185",347,"Bar Harbor Brewing Company",1254844211,4.5,4,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"186",347,"Bar Harbor Brewing Company",1254533389,4,4,4,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
-"187",347,"Bar Harbor Brewing Company",1254192821,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"188",347,"Bar Harbor Brewing Company",1253841994,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"189",347,"Bar Harbor Brewing Company",1253641584,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"190",347,"Bar Harbor Brewing Company",1253019541,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"191",347,"Bar Harbor Brewing Company",1252770906,3.5,3.5,4.5,"American Stout",4,3,"Cadillac Mountain Stout",6.7,3338
-"192",347,"Bar Harbor Brewing Company",1252551711,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"193",347,"Bar Harbor Brewing Company",1251948542,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"194",347,"Bar Harbor Brewing Company",1251933883,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"195",347,"Bar Harbor Brewing Company",1251930174,4,5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"196",347,"Bar Harbor Brewing Company",1251840367,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"197",347,"Bar Harbor Brewing Company",1251731324,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"198",347,"Bar Harbor Brewing Company",1251589433,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"199",347,"Bar Harbor Brewing Company",1251430784,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"200",347,"Bar Harbor Brewing Company",1251411002,4.5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"201",347,"Bar Harbor Brewing Company",1251261289,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"202",347,"Bar Harbor Brewing Company",1251258859,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"203",347,"Bar Harbor Brewing Company",1251158978,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"204",347,"Bar Harbor Brewing Company",1313200778,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"205",347,"Bar Harbor Brewing Company",1251052255,4,4.5,4,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
-"206",347,"Bar Harbor Brewing Company",1250870750,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"207",347,"Bar Harbor Brewing Company",1250303439,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"208",347,"Bar Harbor Brewing Company",1250172408,4,3.5,3.5,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"209",347,"Bar Harbor Brewing Company",1250142460,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"210",347,"Bar Harbor Brewing Company",1249953405,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"211",347,"Bar Harbor Brewing Company",1249443658,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"212",347,"Bar Harbor Brewing Company",1249352786,4,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"213",347,"Bar Harbor Brewing Company",1249278629,4.5,3.5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"214",347,"Bar Harbor Brewing Company",1102219783,4,4,4.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
-"215",347,"Bar Harbor Brewing Company",1249006260,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"216",347,"Bar Harbor Brewing Company",1248924554,5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"217",347,"Bar Harbor Brewing Company",1248752799,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"218",347,"Bar Harbor Brewing Company",1248747738,4.5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"219",347,"Bar Harbor Brewing Company",1248570760,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"220",347,"Bar Harbor Brewing Company",1248476332,4,3.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"221",347,"Bar Harbor Brewing Company",1248119031,4,3,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"222",347,"Bar Harbor Brewing Company",1247533093,5,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"223",347,"Bar Harbor Brewing Company",1246945275,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"224",347,"Bar Harbor Brewing Company",1241495284,3.5,3,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"225",347,"Bar Harbor Brewing Company",1246945218,5,4,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"226",347,"Bar Harbor Brewing Company",1246240779,4.5,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"227",347,"Bar Harbor Brewing Company",1245397772,4,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"228",347,"Bar Harbor Brewing Company",1245121789,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"229",347,"Bar Harbor Brewing Company",1243352612,5,4,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"230",347,"Bar Harbor Brewing Company",1241841215,4,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"231",347,"Bar Harbor Brewing Company",1322852075,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"232",347,"Bar Harbor Brewing Company",1322594474,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"233",347,"Bar Harbor Brewing Company",1322087615,4,3.5,3,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"234",347,"Bar Harbor Brewing Company",1322028083,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"235",347,"Bar Harbor Brewing Company",1321163556,4.5,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"236",347,"Bar Harbor Brewing Company",1320709456,3,3,4.5,"American Stout",3,2.5,"Cadillac Mountain Stout",6.7,3338
-"237",347,"Bar Harbor Brewing Company",1320155150,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"238",347,"Bar Harbor Brewing Company",1319501879,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"239",347,"Bar Harbor Brewing Company",1318682261,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"240",347,"Bar Harbor Brewing Company",1318474284,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"241",347,"Bar Harbor Brewing Company",1241652656,4.5,4.5,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"242",347,"Bar Harbor Brewing Company",1241105808,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"243",347,"Bar Harbor Brewing Company",1240972264,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"244",347,"Bar Harbor Brewing Company",1240352054,4.5,4,3,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"245",347,"Bar Harbor Brewing Company",1239933313,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"246",347,"Bar Harbor Brewing Company",1239663091,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"247",347,"Bar Harbor Brewing Company",1239239158,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"248",347,"Bar Harbor Brewing Company",1238335873,4,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"249",347,"Bar Harbor Brewing Company",1238078906,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"250",347,"Bar Harbor Brewing Company",1234528903,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"251",347,"Bar Harbor Brewing Company",1237748680,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"252",347,"Bar Harbor Brewing Company",1237691811,4,4,4.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"253",347,"Bar Harbor Brewing Company",1237295928,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"254",347,"Bar Harbor Brewing Company",1237184234,4,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"255",347,"Bar Harbor Brewing Company",1237178528,4,3,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"256",347,"Bar Harbor Brewing Company",1236807244,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"257",347,"Bar Harbor Brewing Company",1236395009,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"258",347,"Bar Harbor Brewing Company",1236053082,5,4.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"259",347,"Bar Harbor Brewing Company",1233903823,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"260",347,"Bar Harbor Brewing Company",1233696603,4.5,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"261",347,"Bar Harbor Brewing Company",1233462655,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"262",347,"Bar Harbor Brewing Company",1233355294,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"263",347,"Bar Harbor Brewing Company",1232325390,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"264",347,"Bar Harbor Brewing Company",1232163362,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"265",347,"Bar Harbor Brewing Company",1232066499,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"266",347,"Bar Harbor Brewing Company",1231333065,4.5,5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"267",347,"Bar Harbor Brewing Company",1226618823,4,4,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"268",347,"Bar Harbor Brewing Company",1231123892,4,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"269",347,"Bar Harbor Brewing Company",1231091777,3.5,4,3.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"270",347,"Bar Harbor Brewing Company",1230729520,4,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"271",347,"Bar Harbor Brewing Company",1230603177,5,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"272",347,"Bar Harbor Brewing Company",1230504800,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"273",347,"Bar Harbor Brewing Company",1229984744,4.5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"274",347,"Bar Harbor Brewing Company",1229907075,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"275",347,"Bar Harbor Brewing Company",1229654790,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"276",347,"Bar Harbor Brewing Company",1228932314,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"277",347,"Bar Harbor Brewing Company",1223099055,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"278",347,"Bar Harbor Brewing Company",1228786974,5,3.5,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"279",347,"Bar Harbor Brewing Company",1228612036,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"280",347,"Bar Harbor Brewing Company",1228339881,4.5,5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"281",347,"Bar Harbor Brewing Company",1227901640,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"282",347,"Bar Harbor Brewing Company",1227637719,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"283",347,"Bar Harbor Brewing Company",1227324470,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"284",347,"Bar Harbor Brewing Company",1227320117,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"285",347,"Bar Harbor Brewing Company",1227230426,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"286",347,"Bar Harbor Brewing Company",1226026647,4.5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"287",347,"Bar Harbor Brewing Company",1225678915,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"288",347,"Bar Harbor Brewing Company",1225170829,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"289",347,"Bar Harbor Brewing Company",1225143321,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"290",347,"Bar Harbor Brewing Company",1224835970,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"291",347,"Bar Harbor Brewing Company",1224773592,4.5,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"292",347,"Bar Harbor Brewing Company",1100553398,4.5,4.5,4.5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
-"293",347,"Bar Harbor Brewing Company",1224531410,4.5,3,5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"294",347,"Bar Harbor Brewing Company",1224442972,4.5,4,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"295",347,"Bar Harbor Brewing Company",1224441258,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"296",347,"Bar Harbor Brewing Company",1224386753,4,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"297",347,"Bar Harbor Brewing Company",1224173112,3.5,3.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"298",347,"Bar Harbor Brewing Company",1224130608,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"299",347,"Bar Harbor Brewing Company",1223852264,3.5,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"300",347,"Bar Harbor Brewing Company",1222627086,3.5,5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"301",347,"Bar Harbor Brewing Company",1222395701,4,4.5,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"302",347,"Bar Harbor Brewing Company",1222062083,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"303",347,"Bar Harbor Brewing Company",1221656015,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"304",347,"Bar Harbor Brewing Company",1221511284,4.5,5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"305",347,"Bar Harbor Brewing Company",1220585153,5,4,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"306",347,"Bar Harbor Brewing Company",1220398314,4.5,4,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"307",347,"Bar Harbor Brewing Company",1219799047,4,4,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"308",347,"Bar Harbor Brewing Company",1219005475,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"309",347,"Bar Harbor Brewing Company",1218506290,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"310",347,"Bar Harbor Brewing Company",1218419239,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"311",347,"Bar Harbor Brewing Company",1217983531,4.5,5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"312",347,"Bar Harbor Brewing Company",1217641777,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"313",347,"Bar Harbor Brewing Company",1217513070,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"314",347,"Bar Harbor Brewing Company",1217509640,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"315",347,"Bar Harbor Brewing Company",1217372358,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"316",347,"Bar Harbor Brewing Company",1217131604,4,4,3,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"317",347,"Bar Harbor Brewing Company",1211770693,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"318",347,"Bar Harbor Brewing Company",1216739709,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"319",347,"Bar Harbor Brewing Company",1216692423,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"320",347,"Bar Harbor Brewing Company",1216623148,4,4.5,3.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"321",347,"Bar Harbor Brewing Company",1216428542,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"322",347,"Bar Harbor Brewing Company",1216224542,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"323",347,"Bar Harbor Brewing Company",1215974308,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"324",347,"Bar Harbor Brewing Company",1214581274,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"325",347,"Bar Harbor Brewing Company",1214313768,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"326",347,"Bar Harbor Brewing Company",1214179252,5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"327",347,"Bar Harbor Brewing Company",1214164081,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"328",347,"Bar Harbor Brewing Company",1213893348,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"329",347,"Bar Harbor Brewing Company",1213749521,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"330",347,"Bar Harbor Brewing Company",1213575859,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"331",347,"Bar Harbor Brewing Company",1213241667,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"332",347,"Bar Harbor Brewing Company",1213051749,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"333",347,"Bar Harbor Brewing Company",1212544652,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"334",347,"Bar Harbor Brewing Company",1210957349,5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"335",347,"Bar Harbor Brewing Company",1210725457,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"336",347,"Bar Harbor Brewing Company",1210205320,4,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"337",347,"Bar Harbor Brewing Company",1208656862,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"338",347,"Bar Harbor Brewing Company",1208276404,5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"339",347,"Bar Harbor Brewing Company",1208223835,5,3.5,3.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"340",347,"Bar Harbor Brewing Company",1317778592,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"341",347,"Bar Harbor Brewing Company",1317606492,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"342",347,"Bar Harbor Brewing Company",1317258619,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"343",347,"Bar Harbor Brewing Company",1316304034,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"344",347,"Bar Harbor Brewing Company",1316136160,4.5,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"345",347,"Bar Harbor Brewing Company",1315886628,3.5,3,3.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"346",347,"Bar Harbor Brewing Company",1315871537,4,4.5,4.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"347",347,"Bar Harbor Brewing Company",1315619517,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"348",347,"Bar Harbor Brewing Company",1195669521,5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"349",347,"Bar Harbor Brewing Company",1315351904,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"350",347,"Bar Harbor Brewing Company",1314846238,3.5,4,3,"American Stout",2,4,"Cadillac Mountain Stout",6.7,3338
-"351",347,"Bar Harbor Brewing Company",1208114810,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"352",347,"Bar Harbor Brewing Company",1208021754,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"353",347,"Bar Harbor Brewing Company",1207789311,4.5,3.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"354",347,"Bar Harbor Brewing Company",1207442219,4,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"355",347,"Bar Harbor Brewing Company",1206554158,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"356",347,"Bar Harbor Brewing Company",1206464888,3.5,3.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"357",347,"Bar Harbor Brewing Company",1205811634,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"358",347,"Bar Harbor Brewing Company",1205646026,5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"359",347,"Bar Harbor Brewing Company",1205424506,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"360",347,"Bar Harbor Brewing Company",1205171279,4,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"361",347,"Bar Harbor Brewing Company",1205021853,5,4,5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"362",347,"Bar Harbor Brewing Company",1204823819,3.5,4,3.5,"American Stout",2,3.5,"Cadillac Mountain Stout",6.7,3338
-"363",347,"Bar Harbor Brewing Company",1204523801,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"364",347,"Bar Harbor Brewing Company",1203940076,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"365",347,"Bar Harbor Brewing Company",1203649385,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"366",347,"Bar Harbor Brewing Company",1202428630,5,4,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"367",347,"Bar Harbor Brewing Company",1202084267,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"368",347,"Bar Harbor Brewing Company",1202077786,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"369",347,"Bar Harbor Brewing Company",1199996373,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"370",347,"Bar Harbor Brewing Company",1199152868,3.5,3,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
-"371",347,"Bar Harbor Brewing Company",1198875539,4.5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"372",347,"Bar Harbor Brewing Company",1198559461,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"373",347,"Bar Harbor Brewing Company",1198446044,5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"374",347,"Bar Harbor Brewing Company",1197602462,4,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"375",347,"Bar Harbor Brewing Company",1197277827,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"376",347,"Bar Harbor Brewing Company",1197229282,4.5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"377",347,"Bar Harbor Brewing Company",1197173555,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"378",347,"Bar Harbor Brewing Company",1196545304,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"379",347,"Bar Harbor Brewing Company",1196477062,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"380",347,"Bar Harbor Brewing Company",1196281724,4.5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"381",347,"Bar Harbor Brewing Company",1196221965,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"382",347,"Bar Harbor Brewing Company",1196210657,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"383",347,"Bar Harbor Brewing Company",1195658898,4.5,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"384",347,"Bar Harbor Brewing Company",1195622671,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"385",347,"Bar Harbor Brewing Company",1192711803,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"386",347,"Bar Harbor Brewing Company",1192294890,4.5,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"387",347,"Bar Harbor Brewing Company",1192070209,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"388",347,"Bar Harbor Brewing Company",1191962492,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"389",347,"Bar Harbor Brewing Company",1191870331,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"390",347,"Bar Harbor Brewing Company",1191649101,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"391",347,"Bar Harbor Brewing Company",1184720931,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"392",347,"Bar Harbor Brewing Company",1191364893,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"393",347,"Bar Harbor Brewing Company",1190150131,4.5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"394",347,"Bar Harbor Brewing Company",1189805466,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"395",347,"Bar Harbor Brewing Company",1189479351,3.5,3,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"396",347,"Bar Harbor Brewing Company",1189125566,3,3.5,3,"American Stout",2,2.5,"Cadillac Mountain Stout",6.7,3338
-"397",347,"Bar Harbor Brewing Company",1188263883,4,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"398",347,"Bar Harbor Brewing Company",1188170849,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"399",347,"Bar Harbor Brewing Company",1186276226,4,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"400",347,"Bar Harbor Brewing Company",1313900746,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"401",347,"Bar Harbor Brewing Company",1184283501,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"402",347,"Bar Harbor Brewing Company",1183852270,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"403",347,"Bar Harbor Brewing Company",1183838749,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"404",347,"Bar Harbor Brewing Company",1183478737,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"405",347,"Bar Harbor Brewing Company",1183427028,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"406",347,"Bar Harbor Brewing Company",1183318906,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"407",347,"Bar Harbor Brewing Company",1181960619,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"408",347,"Bar Harbor Brewing Company",1181662572,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"409",347,"Bar Harbor Brewing Company",1179785657,3.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"410",347,"Bar Harbor Brewing Company",1179203280,3.5,3.5,4.5,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"411",347,"Bar Harbor Brewing Company",1179182692,4,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"412",347,"Bar Harbor Brewing Company",1177623769,5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
-"413",347,"Bar Harbor Brewing Company",1177109830,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"414",347,"Bar Harbor Brewing Company",1176952287,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"415",347,"Bar Harbor Brewing Company",1175747669,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"416",347,"Bar Harbor Brewing Company",1175123108,2.5,3.5,3.5,"American Stout",3,2,"Cadillac Mountain Stout",6.7,3338
-"417",347,"Bar Harbor Brewing Company",1174943602,5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"418",347,"Bar Harbor Brewing Company",1172111346,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"419",347,"Bar Harbor Brewing Company",1171497744,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"420",347,"Bar Harbor Brewing Company",1313459802,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"421",347,"Bar Harbor Brewing Company",1171333494,5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"422",347,"Bar Harbor Brewing Company",1171050046,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"423",347,"Bar Harbor Brewing Company",1170992266,3,4,4.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"424",347,"Bar Harbor Brewing Company",1170697395,4,5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"425",347,"Bar Harbor Brewing Company",1170488990,3.5,3,4,"American Stout",4,3,"Cadillac Mountain Stout",6.7,3338
-"426",347,"Bar Harbor Brewing Company",1170455839,5,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"427",347,"Bar Harbor Brewing Company",1170382065,5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"428",347,"Bar Harbor Brewing Company",1169831785,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"429",347,"Bar Harbor Brewing Company",1169191063,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"430",347,"Bar Harbor Brewing Company",1168911041,5,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"431",347,"Bar Harbor Brewing Company",1168904210,5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"432",347,"Bar Harbor Brewing Company",1166989379,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"433",347,"Bar Harbor Brewing Company",1166317349,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"434",347,"Bar Harbor Brewing Company",1164643458,4,3.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"435",347,"Bar Harbor Brewing Company",1164125544,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"436",347,"Bar Harbor Brewing Company",1164036741,4,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"437",347,"Bar Harbor Brewing Company",1163741028,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"438",347,"Bar Harbor Brewing Company",1163639036,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"439",347,"Bar Harbor Brewing Company",1161309969,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"440",347,"Bar Harbor Brewing Company",1161223091,5,4,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"441",347,"Bar Harbor Brewing Company",1160440812,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"442",347,"Bar Harbor Brewing Company",1159839759,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"443",347,"Bar Harbor Brewing Company",1159839176,4.5,4,3.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"444",347,"Bar Harbor Brewing Company",1158936479,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"445",347,"Bar Harbor Brewing Company",1158698300,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"446",347,"Bar Harbor Brewing Company",1158243478,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"447",347,"Bar Harbor Brewing Company",1157833839,3.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"448",347,"Bar Harbor Brewing Company",1156977897,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"449",347,"Bar Harbor Brewing Company",1313206529,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"450",347,"Bar Harbor Brewing Company",1156950282,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"451",347,"Bar Harbor Brewing Company",1155769097,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"452",347,"Bar Harbor Brewing Company",1155087123,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"453",347,"Bar Harbor Brewing Company",1314548803,4,3,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"454",347,"Bar Harbor Brewing Company",1314497009,4,2.5,3.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"455",347,"Bar Harbor Brewing Company",1314317950,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"456",347,"Bar Harbor Brewing Company",1314146716,3.5,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"457",347,"Bar Harbor Brewing Company",1313959103,3,4,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"458",347,"Bar Harbor Brewing Company",1313954316,3.5,3,3,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"459",347,"Bar Harbor Brewing Company",1153988488,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"460",347,"Bar Harbor Brewing Company",1153882691,4.5,4.5,4.5,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
-"461",347,"Bar Harbor Brewing Company",1153872362,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"462",347,"Bar Harbor Brewing Company",1149559577,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"463",347,"Bar Harbor Brewing Company",1148160252,4,3,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"464",347,"Bar Harbor Brewing Company",1147035983,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"465",347,"Bar Harbor Brewing Company",1144725777,4.5,4.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"466",347,"Bar Harbor Brewing Company",1144714676,4.5,4.5,4.5,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
-"467",347,"Bar Harbor Brewing Company",1144366097,5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"468",347,"Bar Harbor Brewing Company",1137026185,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"469",347,"Bar Harbor Brewing Company",1143597062,5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"470",347,"Bar Harbor Brewing Company",1142525121,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"471",347,"Bar Harbor Brewing Company",1142294484,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"472",347,"Bar Harbor Brewing Company",1141172907,5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"473",347,"Bar Harbor Brewing Company",1141078038,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"474",347,"Bar Harbor Brewing Company",1140901922,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"475",347,"Bar Harbor Brewing Company",1140034160,4,4.5,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"476",347,"Bar Harbor Brewing Company",1139882540,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"477",347,"Bar Harbor Brewing Company",1139717609,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"478",347,"Bar Harbor Brewing Company",1137618148,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"479",347,"Bar Harbor Brewing Company",1135625484,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"480",347,"Bar Harbor Brewing Company",1134007213,5,5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"481",347,"Bar Harbor Brewing Company",1133741960,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"482",347,"Bar Harbor Brewing Company",1133483894,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"483",347,"Bar Harbor Brewing Company",1133245030,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"484",347,"Bar Harbor Brewing Company",1133244058,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"485",347,"Bar Harbor Brewing Company",1132785073,5,4,3,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"486",347,"Bar Harbor Brewing Company",1132068388,3.5,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"487",347,"Bar Harbor Brewing Company",1131593221,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"488",347,"Bar Harbor Brewing Company",1131369675,4,3.5,3,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"489",347,"Bar Harbor Brewing Company",1130713539,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"490",347,"Bar Harbor Brewing Company",1129432395,4,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"491",347,"Bar Harbor Brewing Company",1128371854,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"492",347,"Bar Harbor Brewing Company",1127849264,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"493",347,"Bar Harbor Brewing Company",1127781222,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"494",347,"Bar Harbor Brewing Company",1127686721,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"495",347,"Bar Harbor Brewing Company",1127179654,4.5,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"496",347,"Bar Harbor Brewing Company",1126487683,4.5,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"497",347,"Bar Harbor Brewing Company",1123515693,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"498",347,"Bar Harbor Brewing Company",1123113124,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"499",347,"Bar Harbor Brewing Company",1122170441,4.5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"500",347,"Bar Harbor Brewing Company",1120523599,5,4,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"501",347,"Bar Harbor Brewing Company",1120270507,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"502",347,"Bar Harbor Brewing Company",1120136605,4,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"503",347,"Bar Harbor Brewing Company",1118887003,4.5,4,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"504",347,"Bar Harbor Brewing Company",1118601148,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"505",347,"Bar Harbor Brewing Company",1116456809,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"506",347,"Bar Harbor Brewing Company",1110824474,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"507",347,"Bar Harbor Brewing Company",1110746072,5,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"508",347,"Bar Harbor Brewing Company",1109543126,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"509",347,"Bar Harbor Brewing Company",1108762649,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"510",347,"Bar Harbor Brewing Company",1108220924,5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"511",347,"Bar Harbor Brewing Company",1108004181,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"512",347,"Bar Harbor Brewing Company",1105321549,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"513",347,"Bar Harbor Brewing Company",1104728377,5,5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"514",347,"Bar Harbor Brewing Company",1101783800,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"515",347,"Bar Harbor Brewing Company",1101747684,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"516",347,"Bar Harbor Brewing Company",1101448643,5,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"517",347,"Bar Harbor Brewing Company",1100556350,4.5,4,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"518",347,"Bar Harbor Brewing Company",1100503916,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"519",347,"Bar Harbor Brewing Company",1099933009,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"520",347,"Bar Harbor Brewing Company",1099557724,5,4.5,5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"521",347,"Bar Harbor Brewing Company",1099452249,5,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"522",347,"Bar Harbor Brewing Company",1098740422,4,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"523",347,"Bar Harbor Brewing Company",1098186887,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"524",347,"Bar Harbor Brewing Company",1096118227,4.5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"525",347,"Bar Harbor Brewing Company",1094817248,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"526",347,"Bar Harbor Brewing Company",1093656883,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"527",347,"Bar Harbor Brewing Company",1091335502,5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"528",347,"Bar Harbor Brewing Company",1090890517,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"529",347,"Bar Harbor Brewing Company",1090860583,5,4.5,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"530",347,"Bar Harbor Brewing Company",1090358196,4.5,5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"531",347,"Bar Harbor Brewing Company",1088575026,3,4.5,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"532",347,"Bar Harbor Brewing Company",1088390272,5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"533",347,"Bar Harbor Brewing Company",1087620573,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"534",347,"Bar Harbor Brewing Company",1085106099,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"535",347,"Bar Harbor Brewing Company",1083800802,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"536",347,"Bar Harbor Brewing Company",1083408564,4.5,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"537",347,"Bar Harbor Brewing Company",1083373090,5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"538",347,"Bar Harbor Brewing Company",1082248341,4.5,3.5,5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"539",347,"Bar Harbor Brewing Company",1081889359,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"540",347,"Bar Harbor Brewing Company",1080355231,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"541",347,"Bar Harbor Brewing Company",1080338654,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"542",347,"Bar Harbor Brewing Company",1080094789,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"543",347,"Bar Harbor Brewing Company",1078593518,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"544",347,"Bar Harbor Brewing Company",1077377553,5,5,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"545",347,"Bar Harbor Brewing Company",1077229514,5,5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"546",347,"Bar Harbor Brewing Company",1076730598,4,3.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"547",347,"Bar Harbor Brewing Company",1075687292,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"548",347,"Bar Harbor Brewing Company",1074926090,3,3.5,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
-"549",347,"Bar Harbor Brewing Company",1072138485,5,4.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"550",347,"Bar Harbor Brewing Company",1071801921,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"551",347,"Bar Harbor Brewing Company",1071589449,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"552",347,"Bar Harbor Brewing Company",1068075448,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"553",347,"Bar Harbor Brewing Company",1067207601,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"554",347,"Bar Harbor Brewing Company",1066048394,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"555",347,"Bar Harbor Brewing Company",1064531629,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"556",347,"Bar Harbor Brewing Company",1064256387,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"557",347,"Bar Harbor Brewing Company",1298754349,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"558",347,"Bar Harbor Brewing Company",1064006721,5,4.5,3,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"559",347,"Bar Harbor Brewing Company",1063248692,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"560",347,"Bar Harbor Brewing Company",1312248206,4,4,3,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"561",347,"Bar Harbor Brewing Company",1311881909,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"562",347,"Bar Harbor Brewing Company",1311121094,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"563",347,"Bar Harbor Brewing Company",1311095368,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"564",347,"Bar Harbor Brewing Company",1309832327,4,3.5,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"565",347,"Bar Harbor Brewing Company",1309752908,4.5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"566",347,"Bar Harbor Brewing Company",1309224510,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"567",347,"Bar Harbor Brewing Company",1309028749,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"568",347,"Bar Harbor Brewing Company",1308842959,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
-"569",347,"Bar Harbor Brewing Company",1308806469,4,3.5,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"570",347,"Bar Harbor Brewing Company",1062982300,5,5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"571",347,"Bar Harbor Brewing Company",1062210405,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"572",347,"Bar Harbor Brewing Company",1061688624,5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"573",347,"Bar Harbor Brewing Company",1060441993,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"574",347,"Bar Harbor Brewing Company",1059774385,3.5,4.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"575",347,"Bar Harbor Brewing Company",1054627235,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"576",347,"Bar Harbor Brewing Company",1054338362,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"577",347,"Bar Harbor Brewing Company",1050246935,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"578",347,"Bar Harbor Brewing Company",1046302477,4,4,5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
-"579",347,"Bar Harbor Brewing Company",1046028936,4.5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
-"580",347,"Bar Harbor Brewing Company",1045595936,5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"581",347,"Bar Harbor Brewing Company",1039507733,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"582",347,"Bar Harbor Brewing Company",1034194593,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"583",347,"Bar Harbor Brewing Company",1033398565,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"584",347,"Bar Harbor Brewing Company",1033324003,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"585",347,"Bar Harbor Brewing Company",1033317953,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"586",347,"Bar Harbor Brewing Company",1028196750,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"587",347,"Bar Harbor Brewing Company",1018466251,4.5,4.5,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
-"588",347,"Bar Harbor Brewing Company",1308717627,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"589",347,"Bar Harbor Brewing Company",1308617438,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"590",347,"Bar Harbor Brewing Company",1307926180,4,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"591",347,"Bar Harbor Brewing Company",1307846255,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"592",347,"Bar Harbor Brewing Company",1307834352,5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
-"593",347,"Bar Harbor Brewing Company",1307746424,3,4.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"594",347,"Bar Harbor Brewing Company",1298859002,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"595",347,"Bar Harbor Brewing Company",1307338450,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"596",347,"Bar Harbor Brewing Company",1307330223,3.5,3.5,3,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
-"597",347,"Bar Harbor Brewing Company",1306092645,5,4.5,5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"598",347,"Bar Harbor Brewing Company",1305438818,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"599",347,"Bar Harbor Brewing Company",1305430570,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"600",347,"Bar Harbor Brewing Company",1305430298,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"601",347,"Bar Harbor Brewing Company",1305269455,3,4,3.5,"American Stout",2,3,"Cadillac Mountain Stout",6.7,3338
-"602",347,"Bar Harbor Brewing Company",1305164411,3.5,3.5,3,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
-"603",347,"Bar Harbor Brewing Company",1304649702,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
-"604",347,"Bar Harbor Brewing Company",1304647307,3.5,4.5,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
-"605",347,"Bar Harbor Brewing Company",1303425262,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"606",347,"Bar Harbor Brewing Company",1303374668,4,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"607",347,"Bar Harbor Brewing Company",1303194548,4.5,4,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"608",347,"Bar Harbor Brewing Company",1302640556,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"609",347,"Bar Harbor Brewing Company",1302492455,4,3.5,3.5,"American Stout",2.5,4,"Cadillac Mountain Stout",6.7,3338
-"610",347,"Bar Harbor Brewing Company",1302380558,4,3.5,3.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"611",347,"Bar Harbor Brewing Company",1302314058,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"612",347,"Bar Harbor Brewing Company",1301699760,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"613",347,"Bar Harbor Brewing Company",1300847824,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"614",347,"Bar Harbor Brewing Company",1298872494,3.5,5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"615",347,"Bar Harbor Brewing Company",1300315826,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"616",347,"Bar Harbor Brewing Company",1300145479,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
-"617",347,"Bar Harbor Brewing Company",1299545036,4,4,3.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
-"618",347,"Bar Harbor Brewing Company",1299386771,3,4,2.5,"American Stout",2.5,3,"Cadillac Mountain Stout",6.7,3338
-"619",347,"Bar Harbor Brewing Company",1299306866,4.5,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"620",347,"Bar Harbor Brewing Company",1299033413,4,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
-"621",347,"Bar Harbor Brewing Company",1298998786,3.5,2,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"622",347,"Bar Harbor Brewing Company",1221311903,4,3.5,4.5,"American Pale Ale (APA)",4,4.5,"Acadia Pale Ale",NA,43996
-"623",347,"Bar Harbor Brewing Company",1298507599,4,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"624",347,"Bar Harbor Brewing Company",1298460280,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"625",347,"Bar Harbor Brewing Company",1297999342,4.5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
-"626",347,"Bar Harbor Brewing Company",1297994742,4,3.5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"627",347,"Bar Harbor Brewing Company",1297924831,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
-"628",347,"Bar Harbor Brewing Company",1240210093,5,3.5,4,"American Pale Ale (APA)",4,4,"Acadia Pale Ale",NA,43996
-"629",347,"Bar Harbor Brewing Company",1238367216,4,3,4,"American Pale Ale (APA)",4,3.5,"Acadia Pale Ale",NA,43996
-"630",347,"Bar Harbor Brewing Company",1238365320,4,4,3,"American Pale Ale (APA)",3.5,5,"Acadia Pale Ale",NA,43996
-"631",347,"Bar Harbor Brewing Company",1222211310,4,4,4,"American Pale Ale (APA)",4,4,"Acadia Pale Ale",NA,43996
-"632",347,"Bar Harbor Brewing Company",1217185910,4.5,3.5,3.5,"American Pale Ale (APA)",4.5,4,"Acadia Pale Ale",NA,43996
-"633",347,"Bar Harbor Brewing Company",1316802226,3.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"634",347,"Bar Harbor Brewing Company",1311819170,4,4,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"635",347,"Bar Harbor Brewing Company",1311004877,4,3.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"636",347,"Bar Harbor Brewing Company",1310437585,3,2.5,3,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
-"637",347,"Bar Harbor Brewing Company",1309038656,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"638",347,"Bar Harbor Brewing Company",1291350269,4,3.5,3.5,"English Dark Mild Ale",4,3,"Harbor Lighthouse Ale",3.2,3340
-"639",347,"Bar Harbor Brewing Company",1290472712,4,3,3.5,"English Dark Mild Ale",4,2.5,"Harbor Lighthouse Ale",3.2,3340
-"640",347,"Bar Harbor Brewing Company",1287795965,3,3,3,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
-"641",347,"Bar Harbor Brewing Company",1287449317,4,4,4,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"642",347,"Bar Harbor Brewing Company",1284499787,4,3.5,3,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"643",347,"Bar Harbor Brewing Company",1282149815,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"644",347,"Bar Harbor Brewing Company",1254063730,4.5,3.5,4,"English Dark Mild Ale",4,4.5,"Harbor Lighthouse Ale",3.2,3340
-"645",347,"Bar Harbor Brewing Company",1253998679,3.5,3.5,3,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"646",347,"Bar Harbor Brewing Company",1253073303,4.5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"647",347,"Bar Harbor Brewing Company",1251415075,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"648",347,"Bar Harbor Brewing Company",1250471818,4,4,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"649",347,"Bar Harbor Brewing Company",1250470883,4,4,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"650",347,"Bar Harbor Brewing Company",1247764771,3.5,3.5,4.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"651",347,"Bar Harbor Brewing Company",1245859490,5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"652",347,"Bar Harbor Brewing Company",1239751911,3.5,4,3.5,"English Dark Mild Ale",3.5,3,"Harbor Lighthouse Ale",3.2,3340
-"653",347,"Bar Harbor Brewing Company",1236509428,4.5,3.5,3.5,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
-"654",347,"Bar Harbor Brewing Company",1226182786,4.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"655",347,"Bar Harbor Brewing Company",1221916280,3,4,4,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
-"656",347,"Bar Harbor Brewing Company",1220494247,3,3,3.5,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
-"657",347,"Bar Harbor Brewing Company",1220198479,2,2,3.5,"English Dark Mild Ale",2,1.5,"Harbor Lighthouse Ale",3.2,3340
-"658",347,"Bar Harbor Brewing Company",1219276853,3,2.5,3,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
-"659",347,"Bar Harbor Brewing Company",1218940759,4.5,3,3,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"660",347,"Bar Harbor Brewing Company",1218687634,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"661",347,"Bar Harbor Brewing Company",1188263291,4,3,3.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"662",347,"Bar Harbor Brewing Company",1218672265,4,3.5,4.5,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"663",347,"Bar Harbor Brewing Company",1217375215,4.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"664",347,"Bar Harbor Brewing Company",1212625246,4.5,2.5,4,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
-"665",347,"Bar Harbor Brewing Company",1212022402,4.5,3,3.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"666",347,"Bar Harbor Brewing Company",1200429277,3,3,4,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
-"667",347,"Bar Harbor Brewing Company",1195168598,5,3,3.5,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"668",347,"Bar Harbor Brewing Company",1194728059,3.5,3,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"669",347,"Bar Harbor Brewing Company",1192668397,4.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"670",347,"Bar Harbor Brewing Company",1183964727,4,3.5,4.5,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
-"671",347,"Bar Harbor Brewing Company",1180317565,4.5,4.5,4.5,"English Dark Mild Ale",5,5,"Harbor Lighthouse Ale",3.2,3340
-"672",347,"Bar Harbor Brewing Company",1160093531,3.5,3.5,3.5,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
-"673",347,"Bar Harbor Brewing Company",1159875922,3.5,3.5,4,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
-"674",347,"Bar Harbor Brewing Company",1141781974,3,3,3,"English Dark Mild Ale",2.5,3,"Harbor Lighthouse Ale",3.2,3340
-"675",347,"Bar Harbor Brewing Company",1128981243,4.5,3.5,5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"676",347,"Bar Harbor Brewing Company",1128972345,4.5,3.5,4.5,"English Dark Mild Ale",3,4.5,"Harbor Lighthouse Ale",3.2,3340
-"677",347,"Bar Harbor Brewing Company",1127691378,3,3.5,4,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
-"678",347,"Bar Harbor Brewing Company",1126056202,4.5,3.5,4.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"679",347,"Bar Harbor Brewing Company",1115241761,5,4,4.5,"English Dark Mild Ale",5,4.5,"Harbor Lighthouse Ale",3.2,3340
-"680",347,"Bar Harbor Brewing Company",1113087008,4,4,4.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"681",347,"Bar Harbor Brewing Company",1093660820,4.5,3.5,4,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
-"682",347,"Bar Harbor Brewing Company",1087594721,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
-"683",347,"Bar Harbor Brewing Company",1073453995,4,4,4.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"684",347,"Bar Harbor Brewing Company",1066048917,4,4.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"685",347,"Bar Harbor Brewing Company",1064886451,4,3.5,4,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"686",347,"Bar Harbor Brewing Company",1059340600,4.5,3.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
-"687",347,"Bar Harbor Brewing Company",1054626339,4.5,4.5,4.5,"English Dark Mild Ale",4.5,4.5,"Harbor Lighthouse Ale",3.2,3340
-"688",347,"Bar Harbor Brewing Company",1033306414,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
-"689",347,"Bar Harbor Brewing Company",1018470039,5,4.5,4.5,"English Dark Mild Ale",4.5,5,"Harbor Lighthouse Ale",3.2,3340
-"690",347,"Bar Harbor Brewing Company",1251929963,4,4,3,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
-"691",347,"Bar Harbor Brewing Company",1241463694,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Peach Ale",NA,7501
-"692",347,"Bar Harbor Brewing Company",1205811902,4,3.5,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
-"693",347,"Bar Harbor Brewing Company",1188263635,3.5,4.5,2.5,"Fruit / Vegetable Beer",2.5,3,"Peach Ale",NA,7501
-"694",347,"Bar Harbor Brewing Company",1163205501,3.5,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Peach Ale",NA,7501
-"695",347,"Bar Harbor Brewing Company",1159653900,4,3,4.5,"Fruit / Vegetable Beer",4,4,"Peach Ale",NA,7501
-"696",347,"Bar Harbor Brewing Company",1152578980,3.5,4,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
-"697",347,"Bar Harbor Brewing Company",1133471790,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
-"698",347,"Bar Harbor Brewing Company",1125866071,3.5,3.5,4,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
-"699",347,"Bar Harbor Brewing Company",1112484758,3.5,4,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
-"700",347,"Bar Harbor Brewing Company",1097234981,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Peach Ale",NA,7501
-"701",347,"Bar Harbor Brewing Company",1039507286,4,4,4.5,"Fruit / Vegetable Beer",3.5,4,"Peach Ale",NA,7501
-"702",347,"Bar Harbor Brewing Company",1316792132,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"703",347,"Bar Harbor Brewing Company",1312855240,3,3,4,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"704",347,"Bar Harbor Brewing Company",1311004786,3,3.5,3.5,"Fruit / Vegetable Beer",3,3,"\""True Blue\"" Blueberry Ale",NA,30518
-"705",347,"Bar Harbor Brewing Company",1310333399,4,4,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
-"706",347,"Bar Harbor Brewing Company",1293060764,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"707",347,"Bar Harbor Brewing Company",1283804852,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"708",347,"Bar Harbor Brewing Company",1273279466,4,4.5,4,"Fruit / Vegetable Beer",4,4.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"709",347,"Bar Harbor Brewing Company",1254064204,4,4.5,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
-"710",347,"Bar Harbor Brewing Company",1252618176,4,4,3,"Fruit / Vegetable Beer",3.5,3,"\""True Blue\"" Blueberry Ale",NA,30518
-"711",347,"Bar Harbor Brewing Company",1249963608,4,4.5,4,"Fruit / Vegetable Beer",4,4.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"712",347,"Bar Harbor Brewing Company",1239292061,4,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"713",347,"Bar Harbor Brewing Company",1218147326,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3,"\""True Blue\"" Blueberry Ale",NA,30518
-"714",347,"Bar Harbor Brewing Company",1217375832,3.5,4,3.5,"Fruit / Vegetable Beer",3,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"715",347,"Bar Harbor Brewing Company",1210823315,3,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"716",347,"Bar Harbor Brewing Company",1206470091,5,5,4.5,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
-"717",347,"Bar Harbor Brewing Company",1202006827,4.5,3,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
-"718",347,"Bar Harbor Brewing Company",1192570124,3.5,4,4,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"719",347,"Bar Harbor Brewing Company",1191684432,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
-"720",347,"Bar Harbor Brewing Company",1162660634,3.5,4.5,4.5,"Fruit / Vegetable Beer",4,3,"\""True Blue\"" Blueberry Ale",NA,30518
-"721",347,"Bar Harbor Brewing Company",1110975155,5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"722",347,"Bar Harbor Brewing Company",1093659430,4.5,3,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"723",347,"Bar Harbor Brewing Company",1081988598,3,3,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"724",347,"Bar Harbor Brewing Company",1077159382,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"725",347,"Bar Harbor Brewing Company",1075482184,4,3.5,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"726",347,"Bar Harbor Brewing Company",1071584999,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"727",347,"Bar Harbor Brewing Company",1070942351,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"728",347,"Bar Harbor Brewing Company",1064106427,4.5,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"729",347,"Bar Harbor Brewing Company",1064054538,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"730",347,"Bar Harbor Brewing Company",1062640204,4,3,4.5,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"731",347,"Bar Harbor Brewing Company",1314677903,4.5,3.5,5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"732",347,"Bar Harbor Brewing Company",1062037521,3.5,3.5,4.5,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
-"733",347,"Bar Harbor Brewing Company",1054626634,4.5,4,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
-"734",347,"Bar Harbor Brewing Company",1054039487,3.5,3.5,3.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
-"735",347,"Bar Harbor Brewing Company",1045672711,4,4,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"736",347,"Bar Harbor Brewing Company",1035111747,4.5,4.5,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
-"737",347,"Bar Harbor Brewing Company",1018466628,4.5,4,4,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
-"738",347,"Bar Harbor Brewing Company",1324082805,2.5,3,3.5,"English Brown Ale",4,3,"Thunder Hole Ale",4.8,3339
-"739",347,"Bar Harbor Brewing Company",1321039606,4,4,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"740",347,"Bar Harbor Brewing Company",1320977904,4.5,4,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"741",347,"Bar Harbor Brewing Company",1318790644,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"742",347,"Bar Harbor Brewing Company",1318641366,3.5,4,3.5,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
-"743",347,"Bar Harbor Brewing Company",1313951295,4,4,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"744",347,"Bar Harbor Brewing Company",1313867357,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"745",347,"Bar Harbor Brewing Company",1311875057,4,3.5,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"746",347,"Bar Harbor Brewing Company",1311005077,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"747",347,"Bar Harbor Brewing Company",1302661093,4,4,4.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"748",347,"Bar Harbor Brewing Company",1302579278,3.5,3,3.5,"English Brown Ale",3.5,2.5,"Thunder Hole Ale",4.8,3339
-"749",347,"Bar Harbor Brewing Company",1299281121,3.5,4,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"750",347,"Bar Harbor Brewing Company",1299114717,3.5,3.5,3.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
-"751",347,"Bar Harbor Brewing Company",1298684109,4,3,4,"English Brown Ale",3,2.5,"Thunder Hole Ale",4.8,3339
-"752",347,"Bar Harbor Brewing Company",1298152142,4,4,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"753",347,"Bar Harbor Brewing Company",1295315532,4.5,4.5,4.5,"English Brown Ale",3.5,5,"Thunder Hole Ale",4.8,3339
-"754",347,"Bar Harbor Brewing Company",1289332081,4.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"755",347,"Bar Harbor Brewing Company",1288477498,4,3,4,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
-"756",347,"Bar Harbor Brewing Company",1287898301,4,3.5,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"757",347,"Bar Harbor Brewing Company",1287887284,3.5,3.5,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"758",347,"Bar Harbor Brewing Company",1286682060,3.5,3.5,4,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
-"759",347,"Bar Harbor Brewing Company",1285083581,4.5,3,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"760",347,"Bar Harbor Brewing Company",1284677185,4,3,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"761",347,"Bar Harbor Brewing Company",1281403623,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"762",347,"Bar Harbor Brewing Company",1280290160,3.5,4,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"763",347,"Bar Harbor Brewing Company",1279502685,3.5,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"764",347,"Bar Harbor Brewing Company",1278540000,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"765",347,"Bar Harbor Brewing Company",1276915879,2.5,1,4,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"766",347,"Bar Harbor Brewing Company",1274398274,4.5,3.5,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"767",347,"Bar Harbor Brewing Company",1274041750,4.5,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"768",347,"Bar Harbor Brewing Company",1269552914,4,4,4,"English Brown Ale",4.5,3.5,"Thunder Hole Ale",4.8,3339
-"769",347,"Bar Harbor Brewing Company",1269209487,4,4.5,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"770",347,"Bar Harbor Brewing Company",1258686907,4.5,3.5,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"771",347,"Bar Harbor Brewing Company",1253992739,2.5,3.5,1.5,"English Brown Ale",2.5,3,"Thunder Hole Ale",4.8,3339
-"772",347,"Bar Harbor Brewing Company",1253640555,4,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"773",347,"Bar Harbor Brewing Company",1252883864,3.5,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"774",347,"Bar Harbor Brewing Company",1252472254,4,4,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"775",347,"Bar Harbor Brewing Company",1251933416,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"776",347,"Bar Harbor Brewing Company",1251408988,3.5,3.5,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"777",347,"Bar Harbor Brewing Company",1250287260,4,3,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"778",347,"Bar Harbor Brewing Company",1247851321,3.5,3.5,3.5,"English Brown Ale",4,3,"Thunder Hole Ale",4.8,3339
-"779",347,"Bar Harbor Brewing Company",1246285057,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"780",347,"Bar Harbor Brewing Company",1244239040,4.5,3.5,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"781",347,"Bar Harbor Brewing Company",1238335942,3,3,3,"English Brown Ale",2,2.5,"Thunder Hole Ale",4.8,3339
-"782",347,"Bar Harbor Brewing Company",1236308652,3.5,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"783",347,"Bar Harbor Brewing Company",1235176947,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"784",347,"Bar Harbor Brewing Company",1235093602,4,3.5,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"785",347,"Bar Harbor Brewing Company",1235013623,4,4,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"786",347,"Bar Harbor Brewing Company",1227406574,3.5,3.5,5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"787",347,"Bar Harbor Brewing Company",1224679761,4,4,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"788",347,"Bar Harbor Brewing Company",1221185377,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"789",347,"Bar Harbor Brewing Company",1219002987,3.5,3,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"790",347,"Bar Harbor Brewing Company",1218588958,4.5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"791",347,"Bar Harbor Brewing Company",1218509312,4.5,3.5,3.5,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"792",347,"Bar Harbor Brewing Company",1217454886,4,4,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"793",347,"Bar Harbor Brewing Company",1208186829,3,3.5,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"794",347,"Bar Harbor Brewing Company",1206752251,4.5,4,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"795",347,"Bar Harbor Brewing Company",1205448416,4,3,3,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
-"796",347,"Bar Harbor Brewing Company",1203891783,4,3,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"797",347,"Bar Harbor Brewing Company",1198466272,3,4,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"798",347,"Bar Harbor Brewing Company",1197396005,4.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"799",347,"Bar Harbor Brewing Company",1192712156,4,3.5,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"800",347,"Bar Harbor Brewing Company",1190341733,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
-"801",347,"Bar Harbor Brewing Company",1192676519,4.5,4,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
-"802",347,"Bar Harbor Brewing Company",1191444039,4.5,4,4.5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
-"803",347,"Bar Harbor Brewing Company",1189448675,3,3.5,3.5,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"804",347,"Bar Harbor Brewing Company",1188263429,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"805",347,"Bar Harbor Brewing Company",1183081852,3,3.5,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"806",347,"Bar Harbor Brewing Company",1181354605,4,4.5,5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"807",347,"Bar Harbor Brewing Company",1179796467,4,4,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"808",347,"Bar Harbor Brewing Company",1171906965,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"809",347,"Bar Harbor Brewing Company",1152737580,4,4,4,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
-"810",347,"Bar Harbor Brewing Company",1152583426,4.5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
-"811",347,"Bar Harbor Brewing Company",1152576701,5,3.5,5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
-"812",347,"Bar Harbor Brewing Company",1151559386,4,3.5,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
-"813",347,"Bar Harbor Brewing Company",1149163072,3.5,3.5,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"814",347,"Bar Harbor Brewing Company",1148781218,4.5,3.5,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
-"815",347,"Bar Harbor Brewing Company",1143067529,4,4.5,2.5,"English Brown Ale",2,4.5,"Thunder Hole Ale",4.8,3339
-"816",347,"Bar Harbor Brewing Company",1136348598,2,3.5,3.5,"English Brown Ale",3,2.5,"Thunder Hole Ale",4.8,3339
-"817",347,"Bar Harbor Brewing Company",1134068776,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"818",347,"Bar Harbor Brewing Company",1132669910,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
-"819",347,"Bar Harbor Brewing Company",1129501206,3,3,4,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
-"820",347,"Bar Harbor Brewing Company",1128511613,4,3.5,3,"English Brown Ale",4.5,3.5,"Thunder Hole Ale",4.8,3339
-"821",347,"Bar Harbor Brewing Company",1123192169,4,3.5,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
-"822",347,"Bar Harbor Brewing Company",1113877500,3.5,3,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
-"823",347,"Bar Harbor Brewing Company",1113603947,5,4,4.5,"English Brown Ale",5,4.5,"Thunder Hole Ale",4.8,3339
-"824",347,"Bar Harbor Brewing Company",1245647500,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
-"825",347,"Bar Harbor Brewing Company",1242138951,4,3.5,4,"American Amber / Red Ale",4,4,"Special Amber Ale - 2007",7.4,38009
-"826",347,"Bar Harbor Brewing Company",1227292524,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Special Amber Ale - 2007",7.4,38009
-"827",347,"Bar Harbor Brewing Company",1225587395,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Special Amber Ale - 2007",7.4,38009
-"828",347,"Bar Harbor Brewing Company",1219540194,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
-"829",347,"Bar Harbor Brewing Company",1205074893,4.5,4,4,"American Amber / Red Ale",4,4,"Special Amber Ale - 2007",7.4,38009
-"830",347,"Bar Harbor Brewing Company",1199587107,4,4.5,4,"American Amber / Red Ale",4.5,4,"Special Amber Ale - 2007",7.4,38009
-"831",347,"Bar Harbor Brewing Company",1189820399,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Special Amber Ale - 2007",7.4,38009
-"832",347,"Bar Harbor Brewing Company",1186666841,4.5,4,4,"American Amber / Red Ale",5,4,"Special Amber Ale - 2007",7.4,38009
-"833",347,"Bar Harbor Brewing Company",1186184385,4,3.5,4,"American Amber / Red Ale",4,4.5,"Special Amber Ale - 2007",7.4,38009
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+347,"Bar Harbor Brewing Company",1282785262,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1211326900,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278976232,4,3,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1212876022,4.5,2.5,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1127258945,3.5,3.5,4,"English Brown Ale",2.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1126720833,3.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1111376723,4,4.5,4,"Herbed / Spiced Beer",4,4,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1216762566,3,3,3.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1194693557,3.5,3,3,"Herbed / Spiced Beer",2,3,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1172699424,3,3.5,3.5,"Herbed / Spiced Beer",2.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1138681621,3,4,4,"Herbed / Spiced Beer",3,2.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1131918728,3.5,4,4.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1127329465,3.5,4,5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1121807198,4.5,3.5,4.5,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1121639155,4,3,3,"Herbed / Spiced Beer",3.5,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1108779988,4,4,3.5,"Herbed / Spiced Beer",4,4,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1060021274,2,2,4,"Herbed / Spiced Beer",3.5,2,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1040901033,3.5,4,4,"Herbed / Spiced Beer",4,3.5,"Ginger Mild Brew",NA,7677
+347,"Bar Harbor Brewing Company",1297910868,3.5,4.5,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297484999,4,3.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297185566,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297183527,5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1296184370,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1296088872,4,5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1295748201,4,3,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1295300210,3,3.5,3,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1295192633,5,5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294980804,3.5,4,4,"American Stout",2,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294469240,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294457421,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294293042,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294291967,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294276777,4,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294255202,3.5,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294114426,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294114107,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1294013567,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1293680761,4,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1293541490,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1293328790,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1293287003,3.5,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1293242816,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292901383,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292711834,2.5,3,4,"American Stout",2,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292710341,3,3.5,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292504295,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1289708942,3,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292479401,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292045853,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1292028260,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1291607122,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1291470981,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1291288742,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1290713243,4.5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1290474438,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1290466333,4.5,4.5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1289617344,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1289608890,4,4,3,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1289222777,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1288396025,4,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1287898034,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1287869716,4.5,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1287270246,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285806664,3.5,3,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1287159450,3.5,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1287100640,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1286839674,4.5,4.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1286765129,3.5,4,4.5,"American Stout",4.5,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1286595613,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1286410130,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1286153596,5,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285981099,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285725567,3,4,4,"American Stout",2.5,2.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285287525,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285202653,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1285122263,3.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284882694,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284601903,4.5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284345704,4,2.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284339816,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284137393,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1284093615,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1283556959,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1283418739,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1283393886,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1283193354,4.5,3.5,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1283123372,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1282875308,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1282786521,4.5,3.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1282776809,5,3.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1282436589,5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1280973388,5,3.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1280718132,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1280522275,5,3.5,3.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1280441229,3,3.5,4.5,"American Stout",2.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279912411,4.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279859401,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279841654,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279598754,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1275002275,3.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279591450,4.5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279498954,5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1279076380,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278959649,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278901212,5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278893726,4,4.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278731112,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278345051,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1274490744,4,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1278290818,4,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1277859843,3,3.5,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1276754407,3,4,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1276658985,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1276391182,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1276289066,4.5,4,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1276272702,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1275361311,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1326171062,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1326159585,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1325639051,4,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1325059389,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1324679442,3.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1324307841,3.5,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1323576077,5,4.5,3.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1323219281,3.5,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322951281,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322871015,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1274163950,5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1274163304,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1274127679,5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1274021293,4,4,3.5,"American Stout",2.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1273963716,3.5,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1273444678,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1273182527,4,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1273088886,2.5,4,4,"American Stout",3,2.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1272846688,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1272499494,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1272248906,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1271914536,5,4,3.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1271900874,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1271646818,4.5,4,4,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268742337,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1271618201,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1270868902,4.5,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1270577046,4.5,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1269909366,4.5,4.5,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1269751059,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1269297216,4.5,3.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1269129946,3.5,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268847512,3.5,3,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268791190,3,4,3,"American Stout",2.5,2,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268704253,4.5,3.5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268473467,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268347201,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1268278128,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1267667987,4.5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1267543076,4.5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1267318780,4,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1266976624,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1265610077,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1265518428,4.5,1.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1265171487,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1264913855,5,4.5,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1264813272,3,4.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1264383085,4,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1264363402,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1263506643,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1263483859,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1263250856,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1262175551,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1261023016,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1260883252,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1260314241,4,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1259628561,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1258912353,4,3.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1258164892,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1257701321,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1254147080,3.5,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1257289903,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1257049868,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1256956144,4.5,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1256922923,4,4,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1255692397,5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1254997465,4,3.5,3,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1254844211,4.5,4,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1254533389,4,4,4,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1254192821,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1253841994,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1253641584,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1253019541,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1252770906,3.5,3.5,4.5,"American Stout",4,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1252551711,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251948542,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251933883,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251930174,4,5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251840367,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251731324,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251589433,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251430784,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251411002,4.5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251261289,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251258859,4.5,4,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251158978,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313200778,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1251052255,4,4.5,4,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1250870750,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1250303439,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1250172408,4,3.5,3.5,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1250142460,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1249953405,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1249443658,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1249352786,4,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1249278629,4.5,3.5,4.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1102219783,4,4,4.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1249006260,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248924554,5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248752799,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248747738,4.5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248570760,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248476332,4,3.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1248119031,4,3,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1247533093,5,4,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1246945275,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1241495284,3.5,3,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1246945218,5,4,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1246240779,4.5,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1245397772,4,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1245121789,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1243352612,5,4,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1241841215,4,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322852075,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322594474,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322087615,4,3.5,3,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1322028083,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1321163556,4.5,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1320709456,3,3,4.5,"American Stout",3,2.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1320155150,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1319501879,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1318682261,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1318474284,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1241652656,4.5,4.5,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1241105808,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1240972264,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1240352054,4.5,4,3,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1239933313,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1239663091,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1239239158,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1238335873,4,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1238078906,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1234528903,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1237748680,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1237691811,4,4,4.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1237295928,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1237184234,4,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1237178528,4,3,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1236807244,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1236395009,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1236053082,5,4.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1233903823,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1233696603,4.5,3,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1233462655,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1233355294,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1232325390,4,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1232163362,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1232066499,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1231333065,4.5,5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1226618823,4,4,4.5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1231123892,4,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1231091777,3.5,4,3.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1230729520,4,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1230603177,5,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1230504800,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1229984744,4.5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1229907075,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1229654790,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1228932314,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1223099055,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1228786974,5,3.5,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1228612036,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1228339881,4.5,5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1227901640,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1227637719,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1227324470,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1227320117,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1227230426,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1226026647,4.5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1225678915,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1225170829,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1225143321,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224835970,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224773592,4.5,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1100553398,4.5,4.5,4.5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1224531410,4.5,3,5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224442972,4.5,4,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224441258,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224386753,4,4,4.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224173112,3.5,3.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1224130608,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1223852264,3.5,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1222627086,3.5,5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1222395701,4,4.5,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1222062083,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1221656015,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1221511284,4.5,5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1220585153,5,4,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1220398314,4.5,4,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1219799047,4,4,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1219005475,4.5,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1218506290,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1218419239,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217983531,4.5,5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217641777,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217513070,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217509640,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217372358,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1217131604,4,4,3,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1211770693,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1216739709,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1216692423,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1216623148,4,4.5,3.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1216428542,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1216224542,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1215974308,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1214581274,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1214313768,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1214179252,5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1214164081,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1213893348,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1213749521,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1213575859,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1213241667,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1213051749,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1212544652,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1210957349,5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1210725457,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1210205320,4,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1208656862,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1208276404,5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1208223835,5,3.5,3.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1317778592,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1317606492,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1317258619,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1316304034,4,4,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1316136160,4.5,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1315886628,3.5,3,3.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1315871537,4,4.5,4.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1315619517,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1195669521,5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1315351904,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1314846238,3.5,4,3,"American Stout",2,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1208114810,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1208021754,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1207789311,4.5,3.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1207442219,4,3.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1206554158,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1206464888,3.5,3.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1205811634,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1205646026,5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1205424506,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1205171279,4,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1205021853,5,4,5,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1204823819,3.5,4,3.5,"American Stout",2,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1204523801,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1203940076,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1203649385,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1202428630,5,4,4.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1202084267,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1202077786,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1199996373,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1199152868,3.5,3,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1198875539,4.5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1198559461,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1198446044,5,4.5,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1197602462,4,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1197277827,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1197229282,4.5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1197173555,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1196545304,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1196477062,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1196281724,4.5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1196221965,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1196210657,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1195658898,4.5,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1195622671,5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1192711803,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1192294890,4.5,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1192070209,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1191962492,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1191870331,4,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1191649101,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1184720931,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1191364893,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1190150131,4.5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1189805466,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1189479351,3.5,3,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1189125566,3,3.5,3,"American Stout",2,2.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1188263883,4,3.5,3.5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1188170849,5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1186276226,4,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313900746,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1184283501,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1183852270,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1183838749,4,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1183478737,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1183427028,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1183318906,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1181960619,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1181662572,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1179785657,3.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1179203280,3.5,3.5,4.5,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1179182692,4,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1177623769,5,4,4,"American Stout",5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1177109830,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1176952287,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1175747669,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1175123108,2.5,3.5,3.5,"American Stout",3,2,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1174943602,5,5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1172111346,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1171497744,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313459802,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1171333494,5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1171050046,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1170992266,3,4,4.5,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1170697395,4,5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1170488990,3.5,3,4,"American Stout",4,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1170455839,5,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1170382065,5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1169831785,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1169191063,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1168911041,5,4.5,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1168904210,5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1166989379,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1166317349,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1164643458,4,3.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1164125544,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1164036741,4,4,4,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1163741028,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1163639036,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1161309969,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1161223091,5,4,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1160440812,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1159839759,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1159839176,4.5,4,3.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1158936479,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1158698300,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1158243478,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1157833839,3.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1156977897,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313206529,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1156950282,4,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1155769097,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1155087123,4.5,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1314548803,4,3,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1314497009,4,2.5,3.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1314317950,4,3.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1314146716,3.5,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313959103,3,4,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1313954316,3.5,3,3,"American Stout",4.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1153988488,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1153882691,4.5,4.5,4.5,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1153872362,4,4,3.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1149559577,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1148160252,4,3,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1147035983,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1144725777,4.5,4.5,4,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1144714676,4.5,4.5,4.5,"American Stout",3,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1144366097,5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1137026185,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1143597062,5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1142525121,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1142294484,4.5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1141172907,5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1141078038,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1140901922,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1140034160,4,4.5,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1139882540,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1139717609,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1137618148,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1135625484,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1134007213,5,5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1133741960,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1133483894,5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1133245030,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1133244058,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1132785073,5,4,3,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1132068388,3.5,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1131593221,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1131369675,4,3.5,3,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1130713539,4,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1129432395,4,4,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1128371854,4.5,5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1127849264,4.5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1127781222,4.5,4.5,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1127686721,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1127179654,4.5,4.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1126487683,4.5,3.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1123515693,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1123113124,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1122170441,4.5,5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1120523599,5,4,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1120270507,4.5,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1120136605,4,4.5,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1118887003,4.5,4,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1118601148,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1116456809,5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1110824474,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1110746072,5,4.5,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1109543126,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1108762649,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1108220924,5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1108004181,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1105321549,4,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1104728377,5,5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1101783800,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1101747684,4.5,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1101448643,5,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1100556350,4.5,4,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1100503916,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1099933009,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1099557724,5,4.5,5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1099452249,5,4,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1098740422,4,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1098186887,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1096118227,4.5,4.5,5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1094817248,5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1093656883,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1091335502,5,4.5,4.5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1090890517,4.5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1090860583,5,4.5,5,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1090358196,4.5,5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1088575026,3,4.5,4,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1088390272,5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1087620573,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1085106099,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1083800802,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1083408564,4.5,3.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1083373090,5,4.5,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1082248341,4.5,3.5,5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1081889359,5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1080355231,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1080338654,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1080094789,5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1078593518,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1077377553,5,5,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1077229514,5,5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1076730598,4,3.5,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1075687292,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1074926090,3,3.5,3.5,"American Stout",3,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1072138485,5,4.5,5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1071801921,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1071589449,4.5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1068075448,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1067207601,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1066048394,4.5,4,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1064531629,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1064256387,4,4.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1298754349,5,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1064006721,5,4.5,3,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1063248692,5,4.5,4,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1312248206,4,4,3,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1311881909,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1311121094,4,4,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1311095368,4,4.5,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1309832327,4,3.5,4,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1309752908,4.5,4,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1309224510,4.5,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1309028749,4.5,4.5,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1308842959,4.5,4.5,4.5,"American Stout",4.5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1308806469,4,3.5,3.5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1062982300,5,5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1062210405,4.5,4,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1061688624,5,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1060441993,4.5,4.5,5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1059774385,3.5,4.5,4,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1054627235,4.5,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1054338362,5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1050246935,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1046302477,4,4,5,"American Stout",3.5,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1046028936,4.5,4,4,"American Stout",4,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1045595936,5,4,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1039507733,4.5,4.5,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1034194593,5,4.5,4.5,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1033398565,4.5,4.5,4.5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1033324003,4,4.5,4.5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1033317953,4.5,4,5,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1028196750,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1018466251,4.5,4.5,4,"American Stout",5,5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1308717627,4.5,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1308617438,4,4,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307926180,4,4.5,4,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307846255,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307834352,5,4,4,"American Stout",5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307746424,3,4.5,4,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1298859002,4.5,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307338450,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1307330223,3.5,3.5,3,"American Stout",3,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1306092645,5,4.5,5,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1305438818,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1305430570,4,4,4,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1305430298,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1305269455,3,4,3.5,"American Stout",2,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1305164411,3.5,3.5,3,"American Stout",3,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1304649702,4,4,4.5,"American Stout",4,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1304647307,3.5,4.5,4,"American Stout",3.5,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1303425262,4,4,3,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1303374668,4,4.5,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1303194548,4.5,4,5,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1302640556,4,3.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1302492455,4,3.5,3.5,"American Stout",2.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1302380558,4,3.5,3.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1302314058,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1301699760,4,4,4,"American Stout",3.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1300847824,4,4.5,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1298872494,3.5,5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1300315826,4,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1300145479,4,4,4.5,"American Stout",4.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1299545036,4,4,3.5,"American Stout",4,3.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1299386771,3,4,2.5,"American Stout",2.5,3,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1299306866,4.5,4,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1299033413,4,3.5,3.5,"American Stout",3.5,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1298998786,3.5,2,3.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1221311903,4,3.5,4.5,"American Pale Ale (APA)",4,4.5,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1298507599,4,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1298460280,4,4,4,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297999342,4.5,3.5,4,"American Stout",4.5,4.5,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297994742,4,3.5,5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1297924831,4.5,4,4.5,"American Stout",4,4,"Cadillac Mountain Stout",6.7,3338
+347,"Bar Harbor Brewing Company",1240210093,5,3.5,4,"American Pale Ale (APA)",4,4,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1238367216,4,3,4,"American Pale Ale (APA)",4,3.5,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1238365320,4,4,3,"American Pale Ale (APA)",3.5,5,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1222211310,4,4,4,"American Pale Ale (APA)",4,4,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1217185910,4.5,3.5,3.5,"American Pale Ale (APA)",4.5,4,"Acadia Pale Ale",NA,43996
+347,"Bar Harbor Brewing Company",1316802226,3.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1311819170,4,4,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1311004877,4,3.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1310437585,3,2.5,3,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1309038656,3.5,3.5,4,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1291350269,4,3.5,3.5,"English Dark Mild Ale",4,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1290472712,4,3,3.5,"English Dark Mild Ale",4,2.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1287795965,3,3,3,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1287449317,4,4,4,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1284499787,4,3.5,3,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1282149815,3.5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1254063730,4.5,3.5,4,"English Dark Mild Ale",4,4.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1253998679,3.5,3.5,3,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1253073303,4.5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1251415075,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1250471818,4,4,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1250470883,4,4,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1247764771,3.5,3.5,4.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1245859490,5,3.5,3.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1239751911,3.5,4,3.5,"English Dark Mild Ale",3.5,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1236509428,4.5,3.5,3.5,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1226182786,4.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1221916280,3,4,4,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1220494247,3,3,3.5,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1220198479,2,2,3.5,"English Dark Mild Ale",2,1.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1219276853,3,2.5,3,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1218940759,4.5,3,3,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1218687634,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1188263291,4,3,3.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1218672265,4,3.5,4.5,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1217375215,4.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1212625246,4.5,2.5,4,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1212022402,4.5,3,3.5,"English Dark Mild Ale",3.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1200429277,3,3,4,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1195168598,5,3,3.5,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1194728059,3.5,3,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1192668397,4.5,3.5,3.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1183964727,4,3.5,4.5,"English Dark Mild Ale",2.5,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1180317565,4.5,4.5,4.5,"English Dark Mild Ale",5,5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1160093531,3.5,3.5,3.5,"English Dark Mild Ale",3,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1159875922,3.5,3.5,4,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1141781974,3,3,3,"English Dark Mild Ale",2.5,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1128981243,4.5,3.5,5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1128972345,4.5,3.5,4.5,"English Dark Mild Ale",3,4.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1127691378,3,3.5,4,"English Dark Mild Ale",3,3,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1126056202,4.5,3.5,4.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1115241761,5,4,4.5,"English Dark Mild Ale",5,4.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1113087008,4,4,4.5,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1093660820,4.5,3.5,4,"English Dark Mild Ale",4.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1087594721,3.5,3.5,4,"English Dark Mild Ale",4,3.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1073453995,4,4,4.5,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1066048917,4,4.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1064886451,4,3.5,4,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1059340600,4.5,3.5,4,"English Dark Mild Ale",4,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1054626339,4.5,4.5,4.5,"English Dark Mild Ale",4.5,4.5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1033306414,4.5,3.5,4,"English Dark Mild Ale",3.5,4,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1018470039,5,4.5,4.5,"English Dark Mild Ale",4.5,5,"Harbor Lighthouse Ale",3.2,3340
+347,"Bar Harbor Brewing Company",1251929963,4,4,3,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1241463694,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1205811902,4,3.5,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1188263635,3.5,4.5,2.5,"Fruit / Vegetable Beer",2.5,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1163205501,3.5,3.5,4,"Fruit / Vegetable Beer",3,3.5,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1159653900,4,3,4.5,"Fruit / Vegetable Beer",4,4,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1152578980,3.5,4,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1133471790,3,3,3.5,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1125866071,3.5,3.5,4,"Fruit / Vegetable Beer",3,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1112484758,3.5,4,4,"Fruit / Vegetable Beer",3.5,3,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1097234981,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1039507286,4,4,4.5,"Fruit / Vegetable Beer",3.5,4,"Peach Ale",NA,7501
+347,"Bar Harbor Brewing Company",1316792132,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1312855240,3,3,4,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1311004786,3,3.5,3.5,"Fruit / Vegetable Beer",3,3,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1310333399,4,4,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1293060764,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1283804852,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1273279466,4,4.5,4,"Fruit / Vegetable Beer",4,4.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1254064204,4,4.5,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1252618176,4,4,3,"Fruit / Vegetable Beer",3.5,3,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1249963608,4,4.5,4,"Fruit / Vegetable Beer",4,4.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1239292061,4,3.5,3.5,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1218147326,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1217375832,3.5,4,3.5,"Fruit / Vegetable Beer",3,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1210823315,3,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1206470091,5,5,4.5,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1202006827,4.5,3,4,"Fruit / Vegetable Beer",4,4,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1192570124,3.5,4,4,"Fruit / Vegetable Beer",4,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1191684432,4,4,4,"Fruit / Vegetable Beer",3.5,3.5,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1162660634,3.5,4.5,4.5,"Fruit / Vegetable Beer",4,3,"\""True Blue\"" Blueberry Ale",NA,30518
+347,"Bar Harbor Brewing Company",1110975155,5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1093659430,4.5,3,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1081988598,3,3,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1077159382,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1075482184,4,3.5,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1071584999,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1070942351,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1064106427,4.5,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1064054538,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1062640204,4,3,4.5,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1314677903,4.5,3.5,5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1062037521,3.5,3.5,4.5,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1054626634,4.5,4,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1054039487,3.5,3.5,3.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1045672711,4,4,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1035111747,4.5,4.5,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1018466628,4.5,4,4,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1324082805,2.5,3,3.5,"English Brown Ale",4,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1321039606,4,4,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1320977904,4.5,4,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1318790644,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1318641366,3.5,4,3.5,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1313951295,4,4,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1313867357,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1311875057,4,3.5,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1311005077,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1302661093,4,4,4.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1302579278,3.5,3,3.5,"English Brown Ale",3.5,2.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1299281121,3.5,4,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1299114717,3.5,3.5,3.5,"English Brown Ale",3,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1298684109,4,3,4,"English Brown Ale",3,2.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1298152142,4,4,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1295315532,4.5,4.5,4.5,"English Brown Ale",3.5,5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1289332081,4.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1288477498,4,3,4,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1287898301,4,3.5,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1287887284,3.5,3.5,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1286682060,3.5,3.5,4,"English Brown Ale",3.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1285083581,4.5,3,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1284677185,4,3,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1281403623,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1280290160,3.5,4,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1279502685,3.5,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1278540000,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1276915879,2.5,1,4,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1274398274,4.5,3.5,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1274041750,4.5,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1269552914,4,4,4,"English Brown Ale",4.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1269209487,4,4.5,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1258686907,4.5,3.5,3,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1253992739,2.5,3.5,1.5,"English Brown Ale",2.5,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1253640555,4,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1252883864,3.5,3,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1252472254,4,4,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1251933416,4,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1251408988,3.5,3.5,4,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1250287260,4,3,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1247851321,3.5,3.5,3.5,"English Brown Ale",4,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1246285057,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1244239040,4.5,3.5,3.5,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1238335942,3,3,3,"English Brown Ale",2,2.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1236308652,3.5,3.5,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1235176947,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1235093602,4,3.5,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1235013623,4,4,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1227406574,3.5,3.5,5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1224679761,4,4,3.5,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1221185377,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1219002987,3.5,3,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1218588958,4.5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1218509312,4.5,3.5,3.5,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1217454886,4,4,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1208186829,3,3.5,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1206752251,4.5,4,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1205448416,4,3,3,"English Brown Ale",4,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1203891783,4,3,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1198466272,3,4,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1197396005,4.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1192712156,4,3.5,4,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1190341733,4,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1192676519,4.5,4,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1191444039,4.5,4,4.5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1189448675,3,3.5,3.5,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1188263429,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1183081852,3,3.5,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1181354605,4,4.5,5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1179796467,4,4,3.5,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1171906965,4,3.5,4,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1152737580,4,4,4,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1152583426,4.5,4,4,"English Brown Ale",4.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1152576701,5,3.5,5,"English Brown Ale",4.5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1151559386,4,3.5,4,"English Brown Ale",4,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1149163072,3.5,3.5,3,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1148781218,4.5,3.5,3.5,"English Brown Ale",4,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1143067529,4,4.5,2.5,"English Brown Ale",2,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1136348598,2,3.5,3.5,"English Brown Ale",3,2.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1134068776,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1132669910,4.5,4,4,"English Brown Ale",3.5,4,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1129501206,3,3,4,"English Brown Ale",3,3,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1128511613,4,3.5,3,"English Brown Ale",4.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1123192169,4,3.5,4.5,"English Brown Ale",3.5,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1113877500,3.5,3,4,"English Brown Ale",3,3.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1113603947,5,4,4.5,"English Brown Ale",5,4.5,"Thunder Hole Ale",4.8,3339
+347,"Bar Harbor Brewing Company",1245647500,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1242138951,4,3.5,4,"American Amber / Red Ale",4,4,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1227292524,3.5,3.5,3.5,"American Amber / Red Ale",3.5,4,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1225587395,3.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1219540194,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1205074893,4.5,4,4,"American Amber / Red Ale",4,4,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1199587107,4,4.5,4,"American Amber / Red Ale",4.5,4,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1189820399,3.5,3.5,4,"American Amber / Red Ale",4.5,3.5,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1186666841,4.5,4,4,"American Amber / Red Ale",5,4,"Special Amber Ale - 2007",7.4,38009
+347,"Bar Harbor Brewing Company",1186184385,4,3.5,4,"American Amber / Red Ale",4,4.5,"Special Amber Ale - 2007",7.4,38009

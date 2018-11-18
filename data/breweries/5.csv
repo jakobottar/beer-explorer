@@ -1,722 +1,722 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",5,"Yakima Brewing Co. / Bert Grant's Ales",1121374270,3.5,3.5,5,"Russian Imperial Stout",3,3.5,"Bert Grant's Imperial Stout",6,12
-"2",5,"Yakima Brewing Co. / Bert Grant's Ales",1130075801,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
-"3",5,"Yakima Brewing Co. / Bert Grant's Ales",1121365559,3.5,4,3.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"4",5,"Yakima Brewing Co. / Bert Grant's Ales",1106669694,4,3.5,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"5",5,"Yakima Brewing Co. / Bert Grant's Ales",1139357801,4,3.5,4,"American Amber / Red Ale",4,3.5,"Anvil Head",NA,16014
-"6",5,"Yakima Brewing Co. / Bert Grant's Ales",1123372833,4,3.5,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
-"7",5,"Yakima Brewing Co. / Bert Grant's Ales",1121990675,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
-"8",5,"Yakima Brewing Co. / Bert Grant's Ales",1110159261,3,4,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
-"9",5,"Yakima Brewing Co. / Bert Grant's Ales",1095733825,3.5,3.5,3.5,"American Amber / Red Ale",4,3,"Anvil Head",NA,16014
-"10",5,"Yakima Brewing Co. / Bert Grant's Ales",1094788117,4,4,4,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
-"11",5,"Yakima Brewing Co. / Bert Grant's Ales",1087253810,4,3,3.5,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
-"12",5,"Yakima Brewing Co. / Bert Grant's Ales",1086363103,3.5,3,3,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
-"13",5,"Yakima Brewing Co. / Bert Grant's Ales",1083206659,4,4,3.5,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
-"14",5,"Yakima Brewing Co. / Bert Grant's Ales",1083189803,3,3,2.5,"American Amber / Red Ale",3.5,2.5,"Anvil Head",NA,16014
-"15",5,"Yakima Brewing Co. / Bert Grant's Ales",1083070469,4.5,4,4,"American Amber / Red Ale",4.5,4,"Anvil Head",NA,16014
-"16",5,"Yakima Brewing Co. / Bert Grant's Ales",1082081123,4,4,4,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
-"17",5,"Yakima Brewing Co. / Bert Grant's Ales",1081417098,4,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
-"18",5,"Yakima Brewing Co. / Bert Grant's Ales",1078751468,4.5,4,3.5,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
-"19",5,"Yakima Brewing Co. / Bert Grant's Ales",1077942173,4,4,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
-"20",5,"Yakima Brewing Co. / Bert Grant's Ales",1077149694,3.5,4,3.5,"American Amber / Red Ale",4,3.5,"Anvil Head",NA,16014
-"21",5,"Yakima Brewing Co. / Bert Grant's Ales",1136856904,1,1,1,"English India Pale Ale (IPA)",1,1,"Bert Grant's IPA",4.2,13
-"22",5,"Yakima Brewing Co. / Bert Grant's Ales",1134529217,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"23",5,"Yakima Brewing Co. / Bert Grant's Ales",1131939884,3.5,2.5,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"24",5,"Yakima Brewing Co. / Bert Grant's Ales",1130640785,3,2.5,2,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
-"25",5,"Yakima Brewing Co. / Bert Grant's Ales",1129254997,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"26",5,"Yakima Brewing Co. / Bert Grant's Ales",1071154842,4,4,4.5,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"27",5,"Yakima Brewing Co. / Bert Grant's Ales",1125326506,3.5,3,2.5,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
-"28",5,"Yakima Brewing Co. / Bert Grant's Ales",1122858803,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"29",5,"Yakima Brewing Co. / Bert Grant's Ales",1118196288,3,2.5,2.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
-"30",5,"Yakima Brewing Co. / Bert Grant's Ales",1113696985,3.5,4,3,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
-"31",5,"Yakima Brewing Co. / Bert Grant's Ales",1112302242,3.5,3,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"32",5,"Yakima Brewing Co. / Bert Grant's Ales",1110591297,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"33",5,"Yakima Brewing Co. / Bert Grant's Ales",1110572230,5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Bert Grant's IPA",4.2,13
-"34",5,"Yakima Brewing Co. / Bert Grant's Ales",1105746150,2.5,2,2,"English India Pale Ale (IPA)",2,1.5,"Bert Grant's IPA",4.2,13
-"35",5,"Yakima Brewing Co. / Bert Grant's Ales",1091470942,2.5,1.5,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"36",5,"Yakima Brewing Co. / Bert Grant's Ales",1102885704,3.5,2.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"37",5,"Yakima Brewing Co. / Bert Grant's Ales",1101850095,2.5,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"38",5,"Yakima Brewing Co. / Bert Grant's Ales",1101491660,3,3,4,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"39",5,"Yakima Brewing Co. / Bert Grant's Ales",1101292019,3.5,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"40",5,"Yakima Brewing Co. / Bert Grant's Ales",1100184623,4,4,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"41",5,"Yakima Brewing Co. / Bert Grant's Ales",1100063872,3.5,2.5,3.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
-"42",5,"Yakima Brewing Co. / Bert Grant's Ales",1098751350,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"43",5,"Yakima Brewing Co. / Bert Grant's Ales",1095738639,4,3,3.5,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
-"44",5,"Yakima Brewing Co. / Bert Grant's Ales",1095733381,3.5,2.5,2.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
-"45",5,"Yakima Brewing Co. / Bert Grant's Ales",1092365367,3,2.5,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"46",5,"Yakima Brewing Co. / Bert Grant's Ales",1090553950,1.5,2.5,1.5,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
-"47",5,"Yakima Brewing Co. / Bert Grant's Ales",1090180532,4,3.5,2.5,"English India Pale Ale (IPA)",3,4,"Bert Grant's IPA",4.2,13
-"48",5,"Yakima Brewing Co. / Bert Grant's Ales",1089526453,2.5,3,3,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"49",5,"Yakima Brewing Co. / Bert Grant's Ales",1088950870,3,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"50",5,"Yakima Brewing Co. / Bert Grant's Ales",1087123104,3,3,3.5,"English India Pale Ale (IPA)",2,3,"Bert Grant's IPA",4.2,13
-"51",5,"Yakima Brewing Co. / Bert Grant's Ales",1086551655,3,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"52",5,"Yakima Brewing Co. / Bert Grant's Ales",1084940272,3,3,2,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"53",5,"Yakima Brewing Co. / Bert Grant's Ales",1082513315,1.5,2.5,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
-"54",5,"Yakima Brewing Co. / Bert Grant's Ales",1082335024,3.5,3.5,3.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
-"55",5,"Yakima Brewing Co. / Bert Grant's Ales",1081830744,3,2.5,2.5,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
-"56",5,"Yakima Brewing Co. / Bert Grant's Ales",1079965948,3,3,3,"English India Pale Ale (IPA)",3.5,2.5,"Bert Grant's IPA",4.2,13
-"57",5,"Yakima Brewing Co. / Bert Grant's Ales",1079664539,3,3,2,"English India Pale Ale (IPA)",3,2,"Bert Grant's IPA",4.2,13
-"58",5,"Yakima Brewing Co. / Bert Grant's Ales",1078188612,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"59",5,"Yakima Brewing Co. / Bert Grant's Ales",1078028067,3.5,1.5,2,"English India Pale Ale (IPA)",2.5,3.5,"Bert Grant's IPA",4.2,13
-"60",5,"Yakima Brewing Co. / Bert Grant's Ales",1076982147,1.5,2.5,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
-"61",5,"Yakima Brewing Co. / Bert Grant's Ales",1076864696,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"62",5,"Yakima Brewing Co. / Bert Grant's Ales",1076116066,3,3,2.5,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"63",5,"Yakima Brewing Co. / Bert Grant's Ales",1074735004,3,2.5,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"64",5,"Yakima Brewing Co. / Bert Grant's Ales",1074403347,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
-"65",5,"Yakima Brewing Co. / Bert Grant's Ales",1052586537,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,2.5,"Bert Grant's IPA",4.2,13
-"66",5,"Yakima Brewing Co. / Bert Grant's Ales",1074383797,2.5,3,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"67",5,"Yakima Brewing Co. / Bert Grant's Ales",1074279464,3,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"68",5,"Yakima Brewing Co. / Bert Grant's Ales",1072399417,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
-"69",5,"Yakima Brewing Co. / Bert Grant's Ales",1070680670,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
-"70",5,"Yakima Brewing Co. / Bert Grant's Ales",1069807013,3.5,4,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"71",5,"Yakima Brewing Co. / Bert Grant's Ales",1068948204,2.5,3.5,4,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
-"72",5,"Yakima Brewing Co. / Bert Grant's Ales",1068517491,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"73",5,"Yakima Brewing Co. / Bert Grant's Ales",1068262951,3.5,4,4,"English India Pale Ale (IPA)",4,4,"Bert Grant's IPA",4.2,13
-"74",5,"Yakima Brewing Co. / Bert Grant's Ales",1068230931,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
-"75",5,"Yakima Brewing Co. / Bert Grant's Ales",1067800119,4,3,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"76",5,"Yakima Brewing Co. / Bert Grant's Ales",1064645709,4,2.5,3,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
-"77",5,"Yakima Brewing Co. / Bert Grant's Ales",1063856417,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
-"78",5,"Yakima Brewing Co. / Bert Grant's Ales",1025365772,3.5,3.5,3,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
-"79",5,"Yakima Brewing Co. / Bert Grant's Ales",1063238205,4,3.5,3.5,"English India Pale Ale (IPA)",3,4,"Bert Grant's IPA",4.2,13
-"80",5,"Yakima Brewing Co. / Bert Grant's Ales",1062555512,2,1.5,2.5,"English India Pale Ale (IPA)",2,1.5,"Bert Grant's IPA",4.2,13
-"81",5,"Yakima Brewing Co. / Bert Grant's Ales",1061917445,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
-"82",5,"Yakima Brewing Co. / Bert Grant's Ales",1061858775,4.5,4,3,"English India Pale Ale (IPA)",4.5,4.5,"Bert Grant's IPA",4.2,13
-"83",5,"Yakima Brewing Co. / Bert Grant's Ales",1061772166,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
-"84",5,"Yakima Brewing Co. / Bert Grant's Ales",1060275142,2.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,2,"Bert Grant's IPA",4.2,13
-"85",5,"Yakima Brewing Co. / Bert Grant's Ales",1060148253,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"86",5,"Yakima Brewing Co. / Bert Grant's Ales",1059527994,4,4,3.5,"English India Pale Ale (IPA)",4,4.5,"Bert Grant's IPA",4.2,13
-"87",5,"Yakima Brewing Co. / Bert Grant's Ales",1057601603,3,3,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"88",5,"Yakima Brewing Co. / Bert Grant's Ales",1055171831,3,4,4,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
-"89",5,"Yakima Brewing Co. / Bert Grant's Ales",1055122781,2.5,2,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
-"90",5,"Yakima Brewing Co. / Bert Grant's Ales",1054105743,3,3,3,"English India Pale Ale (IPA)",3,2,"Bert Grant's IPA",4.2,13
-"91",5,"Yakima Brewing Co. / Bert Grant's Ales",1051686234,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"92",5,"Yakima Brewing Co. / Bert Grant's Ales",1049817439,3,3.5,3.5,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"93",5,"Yakima Brewing Co. / Bert Grant's Ales",1047230553,2.5,2,4.5,"English India Pale Ale (IPA)",2,2.5,"Bert Grant's IPA",4.2,13
-"94",5,"Yakima Brewing Co. / Bert Grant's Ales",1046644440,2.5,2.5,4,"English India Pale Ale (IPA)",2,2.5,"Bert Grant's IPA",4.2,13
-"95",5,"Yakima Brewing Co. / Bert Grant's Ales",1044646159,4,3.5,3,"English India Pale Ale (IPA)",4,4,"Bert Grant's IPA",4.2,13
-"96",5,"Yakima Brewing Co. / Bert Grant's Ales",1044124790,4,3,2.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
-"97",5,"Yakima Brewing Co. / Bert Grant's Ales",1040240734,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"98",5,"Yakima Brewing Co. / Bert Grant's Ales",1034797487,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"99",5,"Yakima Brewing Co. / Bert Grant's Ales",1033904844,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
-"100",5,"Yakima Brewing Co. / Bert Grant's Ales",1032546751,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"101",5,"Yakima Brewing Co. / Bert Grant's Ales",1032185855,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"102",5,"Yakima Brewing Co. / Bert Grant's Ales",1025626735,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
-"103",5,"Yakima Brewing Co. / Bert Grant's Ales",1015795014,3.5,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
-"104",5,"Yakima Brewing Co. / Bert Grant's Ales",1015063294,4,3,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
-"105",5,"Yakima Brewing Co. / Bert Grant's Ales",905040001,3,3,2.5,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
-"106",5,"Yakima Brewing Co. / Bert Grant's Ales",1134100019,3,3,3,"Scottish Ale",2.5,3,"Bert Grant's Scottish Ale",4.7,11
-"107",5,"Yakima Brewing Co. / Bert Grant's Ales",1133743352,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"108",5,"Yakima Brewing Co. / Bert Grant's Ales",1131392704,4,3,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
-"109",5,"Yakima Brewing Co. / Bert Grant's Ales",1129527089,3.5,3.5,3,"Scottish Ale",2.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"110",5,"Yakima Brewing Co. / Bert Grant's Ales",1128565953,4.5,4,4,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
-"111",5,"Yakima Brewing Co. / Bert Grant's Ales",1128392456,2,3.5,3,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
-"112",5,"Yakima Brewing Co. / Bert Grant's Ales",1125495638,3,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
-"113",5,"Yakima Brewing Co. / Bert Grant's Ales",1106707028,3.5,3.5,4,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"114",5,"Yakima Brewing Co. / Bert Grant's Ales",1125261741,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"115",5,"Yakima Brewing Co. / Bert Grant's Ales",1124058344,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"116",5,"Yakima Brewing Co. / Bert Grant's Ales",1123032802,3,3,3.5,"Scottish Ale",2.5,2.5,"Bert Grant's Scottish Ale",4.7,11
-"117",5,"Yakima Brewing Co. / Bert Grant's Ales",1116192966,4,4,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"118",5,"Yakima Brewing Co. / Bert Grant's Ales",1111620463,3,3.5,3.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
-"119",5,"Yakima Brewing Co. / Bert Grant's Ales",1111205885,3,3.5,3.5,"Scottish Ale",3,4.5,"Bert Grant's Scottish Ale",4.7,11
-"120",5,"Yakima Brewing Co. / Bert Grant's Ales",1111061304,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"121",5,"Yakima Brewing Co. / Bert Grant's Ales",1110597698,3.5,3.5,3,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"122",5,"Yakima Brewing Co. / Bert Grant's Ales",1110238033,3,4,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"123",5,"Yakima Brewing Co. / Bert Grant's Ales",1109166753,3,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
-"124",5,"Yakima Brewing Co. / Bert Grant's Ales",1107656959,3,3,3,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"125",5,"Yakima Brewing Co. / Bert Grant's Ales",1106075358,4,3,4,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
-"126",5,"Yakima Brewing Co. / Bert Grant's Ales",1103078459,3,3.5,4.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"127",5,"Yakima Brewing Co. / Bert Grant's Ales",1101355428,3,4,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"128",5,"Yakima Brewing Co. / Bert Grant's Ales",1101068273,3.5,3.5,3.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"129",5,"Yakima Brewing Co. / Bert Grant's Ales",1100907623,3.5,2.5,2.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"130",5,"Yakima Brewing Co. / Bert Grant's Ales",1100815366,3.5,4,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
-"131",5,"Yakima Brewing Co. / Bert Grant's Ales",1100195276,3,3.5,3,"Scottish Ale",2,3,"Bert Grant's Scottish Ale",4.7,11
-"132",5,"Yakima Brewing Co. / Bert Grant's Ales",1099524289,3.5,3,3.5,"Scottish Ale",2.5,2.5,"Bert Grant's Scottish Ale",4.7,11
-"133",5,"Yakima Brewing Co. / Bert Grant's Ales",1093508533,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"134",5,"Yakima Brewing Co. / Bert Grant's Ales",1093293427,4,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"135",5,"Yakima Brewing Co. / Bert Grant's Ales",1092518271,4,4,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
-"136",5,"Yakima Brewing Co. / Bert Grant's Ales",1091673475,4,3.5,3.5,"Scottish Ale",2.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"137",5,"Yakima Brewing Co. / Bert Grant's Ales",1087932885,4,4,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"138",5,"Yakima Brewing Co. / Bert Grant's Ales",1087138750,4,3.5,3.5,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
-"139",5,"Yakima Brewing Co. / Bert Grant's Ales",1083451930,4,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"140",5,"Yakima Brewing Co. / Bert Grant's Ales",1082941069,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"141",5,"Yakima Brewing Co. / Bert Grant's Ales",1080399222,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"142",5,"Yakima Brewing Co. / Bert Grant's Ales",1079903767,4,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"143",5,"Yakima Brewing Co. / Bert Grant's Ales",1078516892,3,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"144",5,"Yakima Brewing Co. / Bert Grant's Ales",1078103437,3.5,3,3,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"145",5,"Yakima Brewing Co. / Bert Grant's Ales",1076255888,3.5,4,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"146",5,"Yakima Brewing Co. / Bert Grant's Ales",1074738109,2.5,3,4,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
-"147",5,"Yakima Brewing Co. / Bert Grant's Ales",1073972709,4.5,3.5,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
-"148",5,"Yakima Brewing Co. / Bert Grant's Ales",1073334354,3.5,3.5,3.5,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"149",5,"Yakima Brewing Co. / Bert Grant's Ales",1072918487,3,3.5,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
-"150",5,"Yakima Brewing Co. / Bert Grant's Ales",1072568650,3.5,3.5,4,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"151",5,"Yakima Brewing Co. / Bert Grant's Ales",1071944456,3,3,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"152",5,"Yakima Brewing Co. / Bert Grant's Ales",1068243103,4,4,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"153",5,"Yakima Brewing Co. / Bert Grant's Ales",1066082646,3,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"154",5,"Yakima Brewing Co. / Bert Grant's Ales",1065322068,3.5,3.5,4,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"155",5,"Yakima Brewing Co. / Bert Grant's Ales",1062324679,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"156",5,"Yakima Brewing Co. / Bert Grant's Ales",1062019616,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"157",5,"Yakima Brewing Co. / Bert Grant's Ales",1061917505,4,3.5,4,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
-"158",5,"Yakima Brewing Co. / Bert Grant's Ales",1061910255,3,4,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"159",5,"Yakima Brewing Co. / Bert Grant's Ales",1061470023,3.5,4,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
-"160",5,"Yakima Brewing Co. / Bert Grant's Ales",1060808176,4,3.5,3,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"161",5,"Yakima Brewing Co. / Bert Grant's Ales",1056734775,4,3,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
-"162",5,"Yakima Brewing Co. / Bert Grant's Ales",1056138764,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"163",5,"Yakima Brewing Co. / Bert Grant's Ales",1056127756,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"164",5,"Yakima Brewing Co. / Bert Grant's Ales",1055192950,3.5,3.5,3.5,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
-"165",5,"Yakima Brewing Co. / Bert Grant's Ales",1052583122,3.5,3,3.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
-"166",5,"Yakima Brewing Co. / Bert Grant's Ales",1050943104,4,4,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"167",5,"Yakima Brewing Co. / Bert Grant's Ales",1050920449,4.5,4.5,4,"Scottish Ale",4,4.5,"Bert Grant's Scottish Ale",4.7,11
-"168",5,"Yakima Brewing Co. / Bert Grant's Ales",1047755077,4.5,4.5,4.5,"Scottish Ale",4.5,5,"Bert Grant's Scottish Ale",4.7,11
-"169",5,"Yakima Brewing Co. / Bert Grant's Ales",1045087331,4.5,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"170",5,"Yakima Brewing Co. / Bert Grant's Ales",1047157307,3,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"171",5,"Yakima Brewing Co. / Bert Grant's Ales",1045317563,3.5,3.5,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
-"172",5,"Yakima Brewing Co. / Bert Grant's Ales",1043243723,3,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"173",5,"Yakima Brewing Co. / Bert Grant's Ales",1042894778,1.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"174",5,"Yakima Brewing Co. / Bert Grant's Ales",1041445835,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"175",5,"Yakima Brewing Co. / Bert Grant's Ales",1037853465,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"176",5,"Yakima Brewing Co. / Bert Grant's Ales",1037726218,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"177",5,"Yakima Brewing Co. / Bert Grant's Ales",1037305403,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"178",5,"Yakima Brewing Co. / Bert Grant's Ales",1035913355,3,3.5,3.5,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
-"179",5,"Yakima Brewing Co. / Bert Grant's Ales",1034784562,1.5,2.5,3,"Scottish Ale",1.5,1,"Bert Grant's Scottish Ale",4.7,11
-"180",5,"Yakima Brewing Co. / Bert Grant's Ales",1043584424,3,3,3,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"181",5,"Yakima Brewing Co. / Bert Grant's Ales",1032547472,4,4,4.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"182",5,"Yakima Brewing Co. / Bert Grant's Ales",1032103879,3.5,3,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"183",5,"Yakima Brewing Co. / Bert Grant's Ales",1031917173,3.5,3.5,4,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
-"184",5,"Yakima Brewing Co. / Bert Grant's Ales",1031326323,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"185",5,"Yakima Brewing Co. / Bert Grant's Ales",1031147536,4,3.5,3,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
-"186",5,"Yakima Brewing Co. / Bert Grant's Ales",1031082481,3,2.5,2.5,"Scottish Ale",3.5,2.5,"Bert Grant's Scottish Ale",4.7,11
-"187",5,"Yakima Brewing Co. / Bert Grant's Ales",1029236505,3.5,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
-"188",5,"Yakima Brewing Co. / Bert Grant's Ales",1027633591,3,3.5,4,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
-"189",5,"Yakima Brewing Co. / Bert Grant's Ales",1027428903,3,2.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
-"190",5,"Yakima Brewing Co. / Bert Grant's Ales",1024290120,2,2,3,"Scottish Ale",3,2,"Bert Grant's Scottish Ale",4.7,11
-"191",5,"Yakima Brewing Co. / Bert Grant's Ales",908236801,3.5,3.5,3,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
-"192",5,"Yakima Brewing Co. / Bert Grant's Ales",1104108196,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
-"193",5,"Yakima Brewing Co. / Bert Grant's Ales",1053433634,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"194",5,"Yakima Brewing Co. / Bert Grant's Ales",1089451634,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
-"195",5,"Yakima Brewing Co. / Bert Grant's Ales",1058205875,4,4.5,4.5,"American Pale Ale (APA)",4.5,4,"Grants Summer Ale",NA,5816
-"196",5,"Yakima Brewing Co. / Bert Grant's Ales",1048922656,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Grants Summer Ale",NA,5816
-"197",5,"Yakima Brewing Co. / Bert Grant's Ales",1044687549,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
-"198",5,"Yakima Brewing Co. / Bert Grant's Ales",1035998227,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
-"199",5,"Yakima Brewing Co. / Bert Grant's Ales",1034670659,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
-"200",5,"Yakima Brewing Co. / Bert Grant's Ales",1031146866,4.5,3.5,3,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
-"201",5,"Yakima Brewing Co. / Bert Grant's Ales",1030971584,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Grants Summer Ale",NA,5816
-"202",5,"Yakima Brewing Co. / Bert Grant's Ales",1120186421,3,4,3.5,"Winter Warmer",3,2.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"203",5,"Yakima Brewing Co. / Bert Grant's Ales",1120022300,4,4.5,4.5,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"204",5,"Yakima Brewing Co. / Bert Grant's Ales",1113532053,3.5,3.5,3.5,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"205",5,"Yakima Brewing Co. / Bert Grant's Ales",1107215079,3.5,3.5,3.5,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"206",5,"Yakima Brewing Co. / Bert Grant's Ales",1099255654,4,4,4,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"207",5,"Yakima Brewing Co. / Bert Grant's Ales",1106794760,3,3.5,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"208",5,"Yakima Brewing Co. / Bert Grant's Ales",1106752557,4,5,3,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"209",5,"Yakima Brewing Co. / Bert Grant's Ales",1106509446,4,3.5,3.5,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"210",5,"Yakima Brewing Co. / Bert Grant's Ales",1106447032,3.5,3.5,4,"Winter Warmer",5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"211",5,"Yakima Brewing Co. / Bert Grant's Ales",1106359990,3,4.5,4.5,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"212",5,"Yakima Brewing Co. / Bert Grant's Ales",1106016447,4,4,4,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"213",5,"Yakima Brewing Co. / Bert Grant's Ales",1105399935,4,3.5,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"214",5,"Yakima Brewing Co. / Bert Grant's Ales",1103389485,4.5,4.5,3.5,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"215",5,"Yakima Brewing Co. / Bert Grant's Ales",1096509117,4,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"216",5,"Yakima Brewing Co. / Bert Grant's Ales",1093491615,3,3.5,4,"Winter Warmer",3.5,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"217",5,"Yakima Brewing Co. / Bert Grant's Ales",1088267744,4.5,4,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"218",5,"Yakima Brewing Co. / Bert Grant's Ales",1081322942,3,2.5,3.5,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"219",5,"Yakima Brewing Co. / Bert Grant's Ales",1081258263,3,3,3,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"220",5,"Yakima Brewing Co. / Bert Grant's Ales",1074913073,3.5,3.5,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"221",5,"Yakima Brewing Co. / Bert Grant's Ales",1074624007,3,3,4,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"222",5,"Yakima Brewing Co. / Bert Grant's Ales",1073967441,3,4,3.5,"Winter Warmer",2.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"223",5,"Yakima Brewing Co. / Bert Grant's Ales",1073700179,4,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"224",5,"Yakima Brewing Co. / Bert Grant's Ales",1073149140,4,2.5,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"225",5,"Yakima Brewing Co. / Bert Grant's Ales",1071626885,4,4,4,"Winter Warmer",4.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"226",5,"Yakima Brewing Co. / Bert Grant's Ales",1070398783,3,3.5,3.5,"Winter Warmer",2.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"227",5,"Yakima Brewing Co. / Bert Grant's Ales",1070223623,4,4,3.5,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"228",5,"Yakima Brewing Co. / Bert Grant's Ales",1069877992,4,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"229",5,"Yakima Brewing Co. / Bert Grant's Ales",1063039949,5,3.5,3.5,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"230",5,"Yakima Brewing Co. / Bert Grant's Ales",1059766264,4.5,3.5,4,"Winter Warmer",4.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"231",5,"Yakima Brewing Co. / Bert Grant's Ales",1057694060,3.5,3,4,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"232",5,"Yakima Brewing Co. / Bert Grant's Ales",1048595119,4,3.5,3,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"233",5,"Yakima Brewing Co. / Bert Grant's Ales",1047211361,3.5,3,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"234",5,"Yakima Brewing Co. / Bert Grant's Ales",1046294592,4.5,5,4,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"235",5,"Yakima Brewing Co. / Bert Grant's Ales",1042479982,3.5,3.5,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"236",5,"Yakima Brewing Co. / Bert Grant's Ales",1041969977,5,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"237",5,"Yakima Brewing Co. / Bert Grant's Ales",1040417249,3.5,4,4,"Winter Warmer",4,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"238",5,"Yakima Brewing Co. / Bert Grant's Ales",1039820055,3.5,3.5,4,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"239",5,"Yakima Brewing Co. / Bert Grant's Ales",1039682299,3.5,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"240",5,"Yakima Brewing Co. / Bert Grant's Ales",1038723615,3.5,3,3,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"241",5,"Yakima Brewing Co. / Bert Grant's Ales",1037679889,4.5,4,4,"Winter Warmer",4,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"242",5,"Yakima Brewing Co. / Bert Grant's Ales",1034882667,5,4,4,"Winter Warmer",4,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"243",5,"Yakima Brewing Co. / Bert Grant's Ales",1007772029,5,4,4,"Winter Warmer",4,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"244",5,"Yakima Brewing Co. / Bert Grant's Ales",1007220010,4,5,4,"Winter Warmer",5,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
-"245",5,"Yakima Brewing Co. / Bert Grant's Ales",1052405846,3.5,3.5,3,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"246",5,"Yakima Brewing Co. / Bert Grant's Ales",1051399330,3.5,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"247",5,"Yakima Brewing Co. / Bert Grant's Ales",1050947001,4.5,4,3.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"248",5,"Yakima Brewing Co. / Bert Grant's Ales",1050625971,4.5,4.5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"249",5,"Yakima Brewing Co. / Bert Grant's Ales",1049014817,4.5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"250",5,"Yakima Brewing Co. / Bert Grant's Ales",1048929235,2,4,2.5,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
-"251",5,"Yakima Brewing Co. / Bert Grant's Ales",1048499636,3.5,3.5,3.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"252",5,"Yakima Brewing Co. / Bert Grant's Ales",1047655221,4,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"253",5,"Yakima Brewing Co. / Bert Grant's Ales",1047649464,2,3,4,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
-"254",5,"Yakima Brewing Co. / Bert Grant's Ales",1045333307,4.5,4.5,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"255",5,"Yakima Brewing Co. / Bert Grant's Ales",1045087573,5,4.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"256",5,"Yakima Brewing Co. / Bert Grant's Ales",1045061063,4.5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"257",5,"Yakima Brewing Co. / Bert Grant's Ales",1044969278,3.5,4.5,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"258",5,"Yakima Brewing Co. / Bert Grant's Ales",1043503932,5,4.5,4,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
-"259",5,"Yakima Brewing Co. / Bert Grant's Ales",1040497086,4,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"260",5,"Yakima Brewing Co. / Bert Grant's Ales",1040421256,4,4,4,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"261",5,"Yakima Brewing Co. / Bert Grant's Ales",1039697573,4.5,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"262",5,"Yakima Brewing Co. / Bert Grant's Ales",1037558367,4,4,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"263",5,"Yakima Brewing Co. / Bert Grant's Ales",1037538717,4,4.5,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"264",5,"Yakima Brewing Co. / Bert Grant's Ales",1036244268,4,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"265",5,"Yakima Brewing Co. / Bert Grant's Ales",1035911898,4.5,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"266",5,"Yakima Brewing Co. / Bert Grant's Ales",1033897638,4,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"267",5,"Yakima Brewing Co. / Bert Grant's Ales",1032368442,4.5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"268",5,"Yakima Brewing Co. / Bert Grant's Ales",1032183706,4,3.5,4.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"269",5,"Yakima Brewing Co. / Bert Grant's Ales",1029237019,3.5,3,3,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"270",5,"Yakima Brewing Co. / Bert Grant's Ales",1027541306,4,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"271",5,"Yakima Brewing Co. / Bert Grant's Ales",1023801328,5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"272",5,"Yakima Brewing Co. / Bert Grant's Ales",1020752588,5,5,5,"English Porter",5,5,"Bert Grant's Perfect Porter",4,1460
-"273",5,"Yakima Brewing Co. / Bert Grant's Ales",1016756193,4.5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"274",5,"Yakima Brewing Co. / Bert Grant's Ales",1011962590,4,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"275",5,"Yakima Brewing Co. / Bert Grant's Ales",1139270836,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"276",5,"Yakima Brewing Co. / Bert Grant's Ales",1137778484,4,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"277",5,"Yakima Brewing Co. / Bert Grant's Ales",1137186772,4.5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"278",5,"Yakima Brewing Co. / Bert Grant's Ales",1133479653,4.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"279",5,"Yakima Brewing Co. / Bert Grant's Ales",1132613568,3.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"280",5,"Yakima Brewing Co. / Bert Grant's Ales",1131495162,4.5,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"281",5,"Yakima Brewing Co. / Bert Grant's Ales",1130617011,4,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"282",5,"Yakima Brewing Co. / Bert Grant's Ales",1128480676,2,3,3.5,"English Porter",2,2,"Bert Grant's Perfect Porter",4,1460
-"283",5,"Yakima Brewing Co. / Bert Grant's Ales",1127535198,3.5,3.5,3,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
-"284",5,"Yakima Brewing Co. / Bert Grant's Ales",1125629638,4,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"285",5,"Yakima Brewing Co. / Bert Grant's Ales",1125602917,4.5,3.5,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"286",5,"Yakima Brewing Co. / Bert Grant's Ales",1123905286,4.5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"287",5,"Yakima Brewing Co. / Bert Grant's Ales",1122232725,3.5,4,3,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"288",5,"Yakima Brewing Co. / Bert Grant's Ales",1121978807,3.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"289",5,"Yakima Brewing Co. / Bert Grant's Ales",1119319977,4,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"290",5,"Yakima Brewing Co. / Bert Grant's Ales",1118843010,4.5,3.5,3.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"291",5,"Yakima Brewing Co. / Bert Grant's Ales",1118105097,4,4.5,4,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"292",5,"Yakima Brewing Co. / Bert Grant's Ales",1117572130,5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"293",5,"Yakima Brewing Co. / Bert Grant's Ales",1114639245,3.5,4,3.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"294",5,"Yakima Brewing Co. / Bert Grant's Ales",1114178161,3.5,4,3.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"295",5,"Yakima Brewing Co. / Bert Grant's Ales",1113598965,5,4,5,"English Porter",4,5,"Bert Grant's Perfect Porter",4,1460
-"296",5,"Yakima Brewing Co. / Bert Grant's Ales",1112666608,5,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"297",5,"Yakima Brewing Co. / Bert Grant's Ales",1111807397,4.5,4.5,5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"298",5,"Yakima Brewing Co. / Bert Grant's Ales",1111027076,4.5,3.5,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"299",5,"Yakima Brewing Co. / Bert Grant's Ales",1111003750,3,3,2.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"300",5,"Yakima Brewing Co. / Bert Grant's Ales",1110158981,4,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"301",5,"Yakima Brewing Co. / Bert Grant's Ales",1110060817,4,3.5,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"302",5,"Yakima Brewing Co. / Bert Grant's Ales",1110044988,3.5,4,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"303",5,"Yakima Brewing Co. / Bert Grant's Ales",1108949238,4,4,3,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"304",5,"Yakima Brewing Co. / Bert Grant's Ales",1107640527,4.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"305",5,"Yakima Brewing Co. / Bert Grant's Ales",1104269412,4,5,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"306",5,"Yakima Brewing Co. / Bert Grant's Ales",1103597291,3.5,3.5,4,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
-"307",5,"Yakima Brewing Co. / Bert Grant's Ales",1103319214,3,3.5,3,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"308",5,"Yakima Brewing Co. / Bert Grant's Ales",1102456982,4.5,3.5,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"309",5,"Yakima Brewing Co. / Bert Grant's Ales",1102393136,4,3.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"310",5,"Yakima Brewing Co. / Bert Grant's Ales",1102062929,4.5,4.5,4.5,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"311",5,"Yakima Brewing Co. / Bert Grant's Ales",1101291774,4.5,4,3.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"312",5,"Yakima Brewing Co. / Bert Grant's Ales",1101087193,3.5,4.5,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"313",5,"Yakima Brewing Co. / Bert Grant's Ales",1100365925,4,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"314",5,"Yakima Brewing Co. / Bert Grant's Ales",1098833958,5,4,4,"English Porter",5,5,"Bert Grant's Perfect Porter",4,1460
-"315",5,"Yakima Brewing Co. / Bert Grant's Ales",1098382681,3.5,4,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"316",5,"Yakima Brewing Co. / Bert Grant's Ales",1098375163,4,3.5,3,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"317",5,"Yakima Brewing Co. / Bert Grant's Ales",1097626740,4.5,4,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"318",5,"Yakima Brewing Co. / Bert Grant's Ales",1097459060,4.5,3.5,4,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
-"319",5,"Yakima Brewing Co. / Bert Grant's Ales",1096064669,4.5,4.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"320",5,"Yakima Brewing Co. / Bert Grant's Ales",1094625450,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"321",5,"Yakima Brewing Co. / Bert Grant's Ales",1094270262,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"322",5,"Yakima Brewing Co. / Bert Grant's Ales",1093510072,4,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"323",5,"Yakima Brewing Co. / Bert Grant's Ales",1092600172,4.5,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"324",5,"Yakima Brewing Co. / Bert Grant's Ales",1089595254,5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"325",5,"Yakima Brewing Co. / Bert Grant's Ales",1088652060,4.5,4.5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
-"326",5,"Yakima Brewing Co. / Bert Grant's Ales",1088435559,4,3.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"327",5,"Yakima Brewing Co. / Bert Grant's Ales",1087270929,3.5,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"328",5,"Yakima Brewing Co. / Bert Grant's Ales",1085969353,4.5,4,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"329",5,"Yakima Brewing Co. / Bert Grant's Ales",1084562035,4,4.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"330",5,"Yakima Brewing Co. / Bert Grant's Ales",1084239579,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"331",5,"Yakima Brewing Co. / Bert Grant's Ales",1054735221,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"332",5,"Yakima Brewing Co. / Bert Grant's Ales",1082336394,4.5,4,3.5,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"333",5,"Yakima Brewing Co. / Bert Grant's Ales",1079918387,2.5,2,3.5,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
-"334",5,"Yakima Brewing Co. / Bert Grant's Ales",1079820306,4.5,4,3.5,"English Porter",2.5,4,"Bert Grant's Perfect Porter",4,1460
-"335",5,"Yakima Brewing Co. / Bert Grant's Ales",1078021619,4.5,3.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"336",5,"Yakima Brewing Co. / Bert Grant's Ales",1077853059,3.5,3.5,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"337",5,"Yakima Brewing Co. / Bert Grant's Ales",1077220009,4,3.5,4.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"338",5,"Yakima Brewing Co. / Bert Grant's Ales",1076126953,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"339",5,"Yakima Brewing Co. / Bert Grant's Ales",1074837368,4,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"340",5,"Yakima Brewing Co. / Bert Grant's Ales",1074789387,4,4,4,"English Porter",3,4.5,"Bert Grant's Perfect Porter",4,1460
-"341",5,"Yakima Brewing Co. / Bert Grant's Ales",1074738727,3.5,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"342",5,"Yakima Brewing Co. / Bert Grant's Ales",1074563339,3,2.5,3,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
-"343",5,"Yakima Brewing Co. / Bert Grant's Ales",1074131556,4.5,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"344",5,"Yakima Brewing Co. / Bert Grant's Ales",1074045445,4,4.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"345",5,"Yakima Brewing Co. / Bert Grant's Ales",1073580598,4,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"346",5,"Yakima Brewing Co. / Bert Grant's Ales",1072332150,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"347",5,"Yakima Brewing Co. / Bert Grant's Ales",1070680326,3.5,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
-"348",5,"Yakima Brewing Co. / Bert Grant's Ales",1069813876,4.5,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"349",5,"Yakima Brewing Co. / Bert Grant's Ales",1069586386,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
-"350",5,"Yakima Brewing Co. / Bert Grant's Ales",1067725678,3.5,4,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"351",5,"Yakima Brewing Co. / Bert Grant's Ales",1066739929,4,4.5,5,"English Porter",5,3,"Bert Grant's Perfect Porter",4,1460
-"352",5,"Yakima Brewing Co. / Bert Grant's Ales",1065064188,4,4.5,3.5,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
-"353",5,"Yakima Brewing Co. / Bert Grant's Ales",1064331761,4,4,4.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"354",5,"Yakima Brewing Co. / Bert Grant's Ales",1063526417,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"355",5,"Yakima Brewing Co. / Bert Grant's Ales",1063151192,4,4,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
-"356",5,"Yakima Brewing Co. / Bert Grant's Ales",1061140157,4.5,4,3,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
-"357",5,"Yakima Brewing Co. / Bert Grant's Ales",1060463236,5,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
-"358",5,"Yakima Brewing Co. / Bert Grant's Ales",1060146630,5,4.5,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"359",5,"Yakima Brewing Co. / Bert Grant's Ales",1058020344,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"360",5,"Yakima Brewing Co. / Bert Grant's Ales",1056734515,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"361",5,"Yakima Brewing Co. / Bert Grant's Ales",1056721575,4.5,4,4,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
-"362",5,"Yakima Brewing Co. / Bert Grant's Ales",1056576382,3.5,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
-"363",5,"Yakima Brewing Co. / Bert Grant's Ales",1053512114,4,3,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
-"364",5,"Yakima Brewing Co. / Bert Grant's Ales",1125670041,3,2.5,2,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
-"365",5,"Yakima Brewing Co. / Bert Grant's Ales",1124144064,2.5,3,3,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
-"366",5,"Yakima Brewing Co. / Bert Grant's Ales",1123453210,3,4,3,"Hefeweizen",2.5,3,"Mandarin Hefeweizen",NA,11500
-"367",5,"Yakima Brewing Co. / Bert Grant's Ales",1123113888,3,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"368",5,"Yakima Brewing Co. / Bert Grant's Ales",1122233445,4,4,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"369",5,"Yakima Brewing Co. / Bert Grant's Ales",1121828337,4,4,3.5,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
-"370",5,"Yakima Brewing Co. / Bert Grant's Ales",1121595025,4,3.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"371",5,"Yakima Brewing Co. / Bert Grant's Ales",1121520389,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"372",5,"Yakima Brewing Co. / Bert Grant's Ales",1117851263,3,2.5,2,"Hefeweizen",3,2,"Mandarin Hefeweizen",NA,11500
-"373",5,"Yakima Brewing Co. / Bert Grant's Ales",1116220911,3,2.5,3.5,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
-"374",5,"Yakima Brewing Co. / Bert Grant's Ales",1115502259,3,4,3.5,"Hefeweizen",2.5,3,"Mandarin Hefeweizen",NA,11500
-"375",5,"Yakima Brewing Co. / Bert Grant's Ales",1114212569,4,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"376",5,"Yakima Brewing Co. / Bert Grant's Ales",1113368897,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"377",5,"Yakima Brewing Co. / Bert Grant's Ales",1112140010,3,3,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
-"378",5,"Yakima Brewing Co. / Bert Grant's Ales",1110236635,2,3.5,4,"Hefeweizen",3.5,2,"Mandarin Hefeweizen",NA,11500
-"379",5,"Yakima Brewing Co. / Bert Grant's Ales",1109041729,2,3.5,3,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
-"380",5,"Yakima Brewing Co. / Bert Grant's Ales",1106973603,3.5,2.5,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
-"381",5,"Yakima Brewing Co. / Bert Grant's Ales",1106865776,3,2.5,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"382",5,"Yakima Brewing Co. / Bert Grant's Ales",1106761232,5,4,4.5,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
-"383",5,"Yakima Brewing Co. / Bert Grant's Ales",1106758924,3,4,3,"Hefeweizen",4,3,"Mandarin Hefeweizen",NA,11500
-"384",5,"Yakima Brewing Co. / Bert Grant's Ales",1106358526,3,3,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"385",5,"Yakima Brewing Co. / Bert Grant's Ales",1104869217,3,2,3,"Hefeweizen",3,2,"Mandarin Hefeweizen",NA,11500
-"386",5,"Yakima Brewing Co. / Bert Grant's Ales",1104362332,2.5,2.5,2.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"387",5,"Yakima Brewing Co. / Bert Grant's Ales",1104344093,3.5,3.5,3.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
-"388",5,"Yakima Brewing Co. / Bert Grant's Ales",1102279678,1,1,3,"Hefeweizen",2,1,"Mandarin Hefeweizen",NA,11500
-"389",5,"Yakima Brewing Co. / Bert Grant's Ales",1101369258,3,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"390",5,"Yakima Brewing Co. / Bert Grant's Ales",1101347490,3,3,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
-"391",5,"Yakima Brewing Co. / Bert Grant's Ales",1101337751,2,1.5,2.5,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
-"392",5,"Yakima Brewing Co. / Bert Grant's Ales",1101329829,3,4,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"393",5,"Yakima Brewing Co. / Bert Grant's Ales",1101291376,4,3.5,3.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
-"394",5,"Yakima Brewing Co. / Bert Grant's Ales",1099522782,4,3.5,4,"Hefeweizen",4.5,3.5,"Mandarin Hefeweizen",NA,11500
-"395",5,"Yakima Brewing Co. / Bert Grant's Ales",1099455349,3.5,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"396",5,"Yakima Brewing Co. / Bert Grant's Ales",1099346237,4,4,3.5,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
-"397",5,"Yakima Brewing Co. / Bert Grant's Ales",1099170393,4,4.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"398",5,"Yakima Brewing Co. / Bert Grant's Ales",1098633800,2.5,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"399",5,"Yakima Brewing Co. / Bert Grant's Ales",1098070373,4,3,3,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"400",5,"Yakima Brewing Co. / Bert Grant's Ales",1094228614,4,4,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"401",5,"Yakima Brewing Co. / Bert Grant's Ales",1093892493,3,3.5,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"402",5,"Yakima Brewing Co. / Bert Grant's Ales",1093562955,4,3.5,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"403",5,"Yakima Brewing Co. / Bert Grant's Ales",1084408113,4,4,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"404",5,"Yakima Brewing Co. / Bert Grant's Ales",1092587520,3.5,3.5,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"405",5,"Yakima Brewing Co. / Bert Grant's Ales",1090173041,4,3.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"406",5,"Yakima Brewing Co. / Bert Grant's Ales",1089924287,4.5,4.5,4,"Hefeweizen",4,4.5,"Mandarin Hefeweizen",NA,11500
-"407",5,"Yakima Brewing Co. / Bert Grant's Ales",1089778519,2.5,3.5,3,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
-"408",5,"Yakima Brewing Co. / Bert Grant's Ales",1089352537,3.5,3.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"409",5,"Yakima Brewing Co. / Bert Grant's Ales",1088543411,4.5,4,4,"Hefeweizen",3.5,4.5,"Mandarin Hefeweizen",NA,11500
-"410",5,"Yakima Brewing Co. / Bert Grant's Ales",1087253890,3.5,3,3,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"411",5,"Yakima Brewing Co. / Bert Grant's Ales",1085540846,3.5,3.5,4,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
-"412",5,"Yakima Brewing Co. / Bert Grant's Ales",1085491017,3.5,3,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"413",5,"Yakima Brewing Co. / Bert Grant's Ales",1084353587,4,3.5,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"414",5,"Yakima Brewing Co. / Bert Grant's Ales",1083720934,4,2,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"415",5,"Yakima Brewing Co. / Bert Grant's Ales",1083716326,3.5,3.5,2.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
-"416",5,"Yakima Brewing Co. / Bert Grant's Ales",1083382467,4,2.5,3,"Hefeweizen",4,2,"Mandarin Hefeweizen",NA,11500
-"417",5,"Yakima Brewing Co. / Bert Grant's Ales",1075810274,4.5,4,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"418",5,"Yakima Brewing Co. / Bert Grant's Ales",1075079521,2,3,3,"Hefeweizen",2,2.5,"Mandarin Hefeweizen",NA,11500
-"419",5,"Yakima Brewing Co. / Bert Grant's Ales",1075009284,4,4,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
-"420",5,"Yakima Brewing Co. / Bert Grant's Ales",1074279516,3,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"421",5,"Yakima Brewing Co. / Bert Grant's Ales",1074044329,3,3.5,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
-"422",5,"Yakima Brewing Co. / Bert Grant's Ales",1073814647,3.5,4.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"423",5,"Yakima Brewing Co. / Bert Grant's Ales",1070265220,4,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"424",5,"Yakima Brewing Co. / Bert Grant's Ales",1070240053,3.5,3.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"425",5,"Yakima Brewing Co. / Bert Grant's Ales",1069684262,4,4,4,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
-"426",5,"Yakima Brewing Co. / Bert Grant's Ales",1069456076,2.5,4,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
-"427",5,"Yakima Brewing Co. / Bert Grant's Ales",1068664400,5,4.5,4,"Hefeweizen",3.5,4.5,"Mandarin Hefeweizen",NA,11500
-"428",5,"Yakima Brewing Co. / Bert Grant's Ales",1068329055,4,4,3.5,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
-"429",5,"Yakima Brewing Co. / Bert Grant's Ales",1068056858,3,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"430",5,"Yakima Brewing Co. / Bert Grant's Ales",1065502765,4,3.5,4,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
-"431",5,"Yakima Brewing Co. / Bert Grant's Ales",1065244774,4,3,3,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"432",5,"Yakima Brewing Co. / Bert Grant's Ales",1064348866,4,4,4,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
-"433",5,"Yakima Brewing Co. / Bert Grant's Ales",1062815768,4,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"434",5,"Yakima Brewing Co. / Bert Grant's Ales",1062000072,3,4.5,4,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
-"435",5,"Yakima Brewing Co. / Bert Grant's Ales",1129957040,3,4,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"436",5,"Yakima Brewing Co. / Bert Grant's Ales",1061163465,3.5,3,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
-"437",5,"Yakima Brewing Co. / Bert Grant's Ales",1060487400,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
-"438",5,"Yakima Brewing Co. / Bert Grant's Ales",1058595902,4.5,4,3.5,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
-"439",5,"Yakima Brewing Co. / Bert Grant's Ales",1055685804,4,4,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
-"440",5,"Yakima Brewing Co. / Bert Grant's Ales",1108936030,3,3,4,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"441",5,"Yakima Brewing Co. / Bert Grant's Ales",1108770120,3,3,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"442",5,"Yakima Brewing Co. / Bert Grant's Ales",1103339541,3,3,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"443",5,"Yakima Brewing Co. / Bert Grant's Ales",1099780621,3,2.5,3,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"444",5,"Yakima Brewing Co. / Bert Grant's Ales",1091590519,2.5,3,3.5,"Hefeweizen",3.5,3,"Bert Grant's Hefeweizen",NA,7131
-"445",5,"Yakima Brewing Co. / Bert Grant's Ales",1089684046,4,3,4,"Hefeweizen",2.5,3,"Bert Grant's Hefeweizen",NA,7131
-"446",5,"Yakima Brewing Co. / Bert Grant's Ales",1098456598,3,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"447",5,"Yakima Brewing Co. / Bert Grant's Ales",1088022713,3,3.5,4,"Hefeweizen",3,3.5,"Bert Grant's Hefeweizen",NA,7131
-"448",5,"Yakima Brewing Co. / Bert Grant's Ales",1080785619,3,3.5,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"449",5,"Yakima Brewing Co. / Bert Grant's Ales",1076981177,3,3,3,"Hefeweizen",2.5,3.5,"Bert Grant's Hefeweizen",NA,7131
-"450",5,"Yakima Brewing Co. / Bert Grant's Ales",1076855838,3,2.5,3,"Hefeweizen",3,2,"Bert Grant's Hefeweizen",NA,7131
-"451",5,"Yakima Brewing Co. / Bert Grant's Ales",1074624593,3.5,2.5,3,"Hefeweizen",3.5,3.5,"Bert Grant's Hefeweizen",NA,7131
-"452",5,"Yakima Brewing Co. / Bert Grant's Ales",1071246664,4.5,4.5,4,"Hefeweizen",4.5,4.5,"Bert Grant's Hefeweizen",NA,7131
-"453",5,"Yakima Brewing Co. / Bert Grant's Ales",1069139754,2.5,2.5,4,"Hefeweizen",2.5,2.5,"Bert Grant's Hefeweizen",NA,7131
-"454",5,"Yakima Brewing Co. / Bert Grant's Ales",1067896938,3.5,2,3,"Hefeweizen",3,2,"Bert Grant's Hefeweizen",NA,7131
-"455",5,"Yakima Brewing Co. / Bert Grant's Ales",1063154515,3,3,3,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"456",5,"Yakima Brewing Co. / Bert Grant's Ales",1058921066,3,3,4,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"457",5,"Yakima Brewing Co. / Bert Grant's Ales",1054048325,3.5,2,3,"Hefeweizen",3,2.5,"Bert Grant's Hefeweizen",NA,7131
-"458",5,"Yakima Brewing Co. / Bert Grant's Ales",1049016239,3,2.5,2,"Hefeweizen",2.5,3,"Bert Grant's Hefeweizen",NA,7131
-"459",5,"Yakima Brewing Co. / Bert Grant's Ales",1046715827,4,3,3.5,"Hefeweizen",3.5,3.5,"Bert Grant's Hefeweizen",NA,7131
-"460",5,"Yakima Brewing Co. / Bert Grant's Ales",1043589070,3,2.5,2.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
-"461",5,"Yakima Brewing Co. / Bert Grant's Ales",1037304280,4,4,3.5,"Hefeweizen",3.5,4,"Bert Grant's Hefeweizen",NA,7131
-"462",5,"Yakima Brewing Co. / Bert Grant's Ales",1139121016,3.5,3.5,3,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"463",5,"Yakima Brewing Co. / Bert Grant's Ales",1138924069,3,3,3,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"464",5,"Yakima Brewing Co. / Bert Grant's Ales",1137946447,4,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"465",5,"Yakima Brewing Co. / Bert Grant's Ales",1133292425,3.5,4.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"466",5,"Yakima Brewing Co. / Bert Grant's Ales",1132598517,2.5,2.5,2.5,"American IPA",2.5,2.5,"Bert Grant's Hopzilla IPA",5,15690
-"467",5,"Yakima Brewing Co. / Bert Grant's Ales",1129774360,3.5,5,3.5,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"468",5,"Yakima Brewing Co. / Bert Grant's Ales",1129333848,3,4,4,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"469",5,"Yakima Brewing Co. / Bert Grant's Ales",1128750002,4,3.5,4,"American IPA",3.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"470",5,"Yakima Brewing Co. / Bert Grant's Ales",1127260840,3.5,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"471",5,"Yakima Brewing Co. / Bert Grant's Ales",1125789322,3,4.5,4,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"472",5,"Yakima Brewing Co. / Bert Grant's Ales",1125523877,4.5,3.5,4.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"473",5,"Yakima Brewing Co. / Bert Grant's Ales",1125024128,2,4,4,"American IPA",3.5,2.5,"Bert Grant's Hopzilla IPA",5,15690
-"474",5,"Yakima Brewing Co. / Bert Grant's Ales",1122952411,3.5,4,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"475",5,"Yakima Brewing Co. / Bert Grant's Ales",1122308336,4.5,4,4,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"476",5,"Yakima Brewing Co. / Bert Grant's Ales",1121192335,4.5,4.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"477",5,"Yakima Brewing Co. / Bert Grant's Ales",1120188131,3,3,3,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"478",5,"Yakima Brewing Co. / Bert Grant's Ales",1120179742,3.5,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"479",5,"Yakima Brewing Co. / Bert Grant's Ales",1119912347,3.5,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"480",5,"Yakima Brewing Co. / Bert Grant's Ales",1119771910,3.5,3.5,4.5,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"481",5,"Yakima Brewing Co. / Bert Grant's Ales",1118107342,3.5,3.5,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"482",5,"Yakima Brewing Co. / Bert Grant's Ales",1117396982,4,3.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"483",5,"Yakima Brewing Co. / Bert Grant's Ales",1116304002,3.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"484",5,"Yakima Brewing Co. / Bert Grant's Ales",1115938585,4.5,3.5,4.5,"American IPA",5,4,"Bert Grant's Hopzilla IPA",5,15690
-"485",5,"Yakima Brewing Co. / Bert Grant's Ales",1115362869,4.5,4,4.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"486",5,"Yakima Brewing Co. / Bert Grant's Ales",1115307672,4.5,4,4.5,"American IPA",4.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"487",5,"Yakima Brewing Co. / Bert Grant's Ales",1114313700,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"488",5,"Yakima Brewing Co. / Bert Grant's Ales",1113836411,3,3.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"489",5,"Yakima Brewing Co. / Bert Grant's Ales",1113172416,3,4,4,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"490",5,"Yakima Brewing Co. / Bert Grant's Ales",1112147279,3.5,3,3.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"491",5,"Yakima Brewing Co. / Bert Grant's Ales",1111887680,3.5,3,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"492",5,"Yakima Brewing Co. / Bert Grant's Ales",1111626262,3,4,3,"American IPA",2.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"493",5,"Yakima Brewing Co. / Bert Grant's Ales",1111374470,4.5,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"494",5,"Yakima Brewing Co. / Bert Grant's Ales",1111233826,3.5,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"495",5,"Yakima Brewing Co. / Bert Grant's Ales",1110665670,5,4.5,4.5,"American IPA",4.5,5,"Bert Grant's Hopzilla IPA",5,15690
-"496",5,"Yakima Brewing Co. / Bert Grant's Ales",1110248839,3,3,3,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"497",5,"Yakima Brewing Co. / Bert Grant's Ales",1110060450,3.5,4,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"498",5,"Yakima Brewing Co. / Bert Grant's Ales",1109532866,2.5,4,2.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"499",5,"Yakima Brewing Co. / Bert Grant's Ales",1109039906,4,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"500",5,"Yakima Brewing Co. / Bert Grant's Ales",1108950836,3,3,3.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"501",5,"Yakima Brewing Co. / Bert Grant's Ales",1108916255,4.5,3.5,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"502",5,"Yakima Brewing Co. / Bert Grant's Ales",1108335442,4.5,3.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"503",5,"Yakima Brewing Co. / Bert Grant's Ales",1108182440,4,4.5,4,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"504",5,"Yakima Brewing Co. / Bert Grant's Ales",1108179538,3.5,4,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"505",5,"Yakima Brewing Co. / Bert Grant's Ales",1058410687,2.5,3,5,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
-"506",5,"Yakima Brewing Co. / Bert Grant's Ales",1107442319,3.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"507",5,"Yakima Brewing Co. / Bert Grant's Ales",1106716018,4.5,3,2.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"508",5,"Yakima Brewing Co. / Bert Grant's Ales",1106164678,4,3.5,4,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"509",5,"Yakima Brewing Co. / Bert Grant's Ales",1106011286,4,4,4.5,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"510",5,"Yakima Brewing Co. / Bert Grant's Ales",1105683741,4,4.5,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"511",5,"Yakima Brewing Co. / Bert Grant's Ales",1105329331,3,3.5,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"512",5,"Yakima Brewing Co. / Bert Grant's Ales",1105156981,3.5,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"513",5,"Yakima Brewing Co. / Bert Grant's Ales",1104967942,3.5,3,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"514",5,"Yakima Brewing Co. / Bert Grant's Ales",1104510591,4,4,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"515",5,"Yakima Brewing Co. / Bert Grant's Ales",1104452267,4.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"516",5,"Yakima Brewing Co. / Bert Grant's Ales",1103769078,3,4,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"517",5,"Yakima Brewing Co. / Bert Grant's Ales",1103660464,3.5,4.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"518",5,"Yakima Brewing Co. / Bert Grant's Ales",1102833251,4,3.5,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"519",5,"Yakima Brewing Co. / Bert Grant's Ales",1102702402,4,4.5,4,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"520",5,"Yakima Brewing Co. / Bert Grant's Ales",1102646659,4,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"521",5,"Yakima Brewing Co. / Bert Grant's Ales",1102340716,3.5,3.5,4.5,"American IPA",3,2,"Bert Grant's Hopzilla IPA",5,15690
-"522",5,"Yakima Brewing Co. / Bert Grant's Ales",1102180534,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"523",5,"Yakima Brewing Co. / Bert Grant's Ales",1101788304,3,3.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"524",5,"Yakima Brewing Co. / Bert Grant's Ales",1101221849,3,4,4,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"525",5,"Yakima Brewing Co. / Bert Grant's Ales",1100947728,4,3.5,3.5,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"526",5,"Yakima Brewing Co. / Bert Grant's Ales",1100932277,4.5,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"527",5,"Yakima Brewing Co. / Bert Grant's Ales",1100750566,4,3,3.5,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"528",5,"Yakima Brewing Co. / Bert Grant's Ales",1100577437,4.5,3.5,4,"American IPA",4.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"529",5,"Yakima Brewing Co. / Bert Grant's Ales",1100297699,3.5,3.5,4,"American IPA",3.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
-"530",5,"Yakima Brewing Co. / Bert Grant's Ales",1077065888,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"531",5,"Yakima Brewing Co. / Bert Grant's Ales",1100295584,3.5,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
-"532",5,"Yakima Brewing Co. / Bert Grant's Ales",1100191571,4,4.5,3,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
-"533",5,"Yakima Brewing Co. / Bert Grant's Ales",1099677759,1,4,4,"American IPA",3,2,"Bert Grant's Hopzilla IPA",5,15690
-"534",5,"Yakima Brewing Co. / Bert Grant's Ales",1099385623,3.5,3,3,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"535",5,"Yakima Brewing Co. / Bert Grant's Ales",1099092258,4,3.5,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"536",5,"Yakima Brewing Co. / Bert Grant's Ales",1098058694,4,4.5,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"537",5,"Yakima Brewing Co. / Bert Grant's Ales",1096289579,4,4.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"538",5,"Yakima Brewing Co. / Bert Grant's Ales",1095713354,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"539",5,"Yakima Brewing Co. / Bert Grant's Ales",1095208357,4,4,3.5,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"540",5,"Yakima Brewing Co. / Bert Grant's Ales",1093891771,4,3.5,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
-"541",5,"Yakima Brewing Co. / Bert Grant's Ales",1093881956,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"542",5,"Yakima Brewing Co. / Bert Grant's Ales",1093743548,5,4,2.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"543",5,"Yakima Brewing Co. / Bert Grant's Ales",1088125475,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"544",5,"Yakima Brewing Co. / Bert Grant's Ales",1077506066,4,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"545",5,"Yakima Brewing Co. / Bert Grant's Ales",1077500598,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
-"546",5,"Yakima Brewing Co. / Bert Grant's Ales",1075671607,4,4,3,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
-"547",5,"Yakima Brewing Co. / Bert Grant's Ales",1128230876,4,4,3,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"548",5,"Yakima Brewing Co. / Bert Grant's Ales",1121594879,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"549",5,"Yakima Brewing Co. / Bert Grant's Ales",1116380664,3,3,3,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"550",5,"Yakima Brewing Co. / Bert Grant's Ales",1114480998,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"551",5,"Yakima Brewing Co. / Bert Grant's Ales",1113247397,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"552",5,"Yakima Brewing Co. / Bert Grant's Ales",1112144221,3.5,4,4.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"553",5,"Yakima Brewing Co. / Bert Grant's Ales",1110657399,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"554",5,"Yakima Brewing Co. / Bert Grant's Ales",1110160207,3.5,4.5,4,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"555",5,"Yakima Brewing Co. / Bert Grant's Ales",1108474901,3,2.5,2.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"556",5,"Yakima Brewing Co. / Bert Grant's Ales",1108469406,3,4,3.5,"American Pale Ale (APA)",4,2.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"557",5,"Yakima Brewing Co. / Bert Grant's Ales",1106511409,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"558",5,"Yakima Brewing Co. / Bert Grant's Ales",1106440613,5,4.5,3.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"559",5,"Yakima Brewing Co. / Bert Grant's Ales",1106011475,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"560",5,"Yakima Brewing Co. / Bert Grant's Ales",1104936815,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"561",5,"Yakima Brewing Co. / Bert Grant's Ales",1104653271,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"562",5,"Yakima Brewing Co. / Bert Grant's Ales",1104365925,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"563",5,"Yakima Brewing Co. / Bert Grant's Ales",1103663556,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"564",5,"Yakima Brewing Co. / Bert Grant's Ales",1102698819,3,2.5,3,"American Pale Ale (APA)",2,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"565",5,"Yakima Brewing Co. / Bert Grant's Ales",1102387902,4,3,4.5,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"566",5,"Yakima Brewing Co. / Bert Grant's Ales",1101701552,3.5,3,3.5,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"567",5,"Yakima Brewing Co. / Bert Grant's Ales",1101093817,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"568",5,"Yakima Brewing Co. / Bert Grant's Ales",1100831215,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"569",5,"Yakima Brewing Co. / Bert Grant's Ales",1100824062,4,4,4.5,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"570",5,"Yakima Brewing Co. / Bert Grant's Ales",1100749442,4,3.5,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"571",5,"Yakima Brewing Co. / Bert Grant's Ales",1099402254,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"572",5,"Yakima Brewing Co. / Bert Grant's Ales",1098914130,4,4,4,"American Pale Ale (APA)",3,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"573",5,"Yakima Brewing Co. / Bert Grant's Ales",1098504401,2.5,3,4,"American Pale Ale (APA)",2,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"574",5,"Yakima Brewing Co. / Bert Grant's Ales",1098309647,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"575",5,"Yakima Brewing Co. / Bert Grant's Ales",1098171542,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"576",5,"Yakima Brewing Co. / Bert Grant's Ales",1098163354,4.5,3.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"577",5,"Yakima Brewing Co. / Bert Grant's Ales",1097017331,3,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"578",5,"Yakima Brewing Co. / Bert Grant's Ales",1096935638,4,4,3,"American Pale Ale (APA)",4.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"579",5,"Yakima Brewing Co. / Bert Grant's Ales",1096765657,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"580",5,"Yakima Brewing Co. / Bert Grant's Ales",1091931191,3,3,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"581",5,"Yakima Brewing Co. / Bert Grant's Ales",1079443890,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"582",5,"Yakima Brewing Co. / Bert Grant's Ales",1078102422,4,3.5,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"583",5,"Yakima Brewing Co. / Bert Grant's Ales",1093630582,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"584",5,"Yakima Brewing Co. / Bert Grant's Ales",1076254439,4,4,3.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"585",5,"Yakima Brewing Co. / Bert Grant's Ales",1074736808,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"586",5,"Yakima Brewing Co. / Bert Grant's Ales",1074731012,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"587",5,"Yakima Brewing Co. / Bert Grant's Ales",1070231543,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"588",5,"Yakima Brewing Co. / Bert Grant's Ales",1069101197,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"589",5,"Yakima Brewing Co. / Bert Grant's Ales",1068783842,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"590",5,"Yakima Brewing Co. / Bert Grant's Ales",1065823175,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"591",5,"Yakima Brewing Co. / Bert Grant's Ales",1064348930,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"592",5,"Yakima Brewing Co. / Bert Grant's Ales",1061909891,3,3.5,3.5,"American Pale Ale (APA)",2.5,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"593",5,"Yakima Brewing Co. / Bert Grant's Ales",1061692785,3.5,4,4,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"594",5,"Yakima Brewing Co. / Bert Grant's Ales",1056734085,4,4,5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"595",5,"Yakima Brewing Co. / Bert Grant's Ales",1050334824,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"596",5,"Yakima Brewing Co. / Bert Grant's Ales",1042738356,4,4.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"597",5,"Yakima Brewing Co. / Bert Grant's Ales",1040664647,3,3,4,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
-"598",5,"Yakima Brewing Co. / Bert Grant's Ales",1039683770,5,4.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"599",5,"Yakima Brewing Co. / Bert Grant's Ales",1039380141,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"600",5,"Yakima Brewing Co. / Bert Grant's Ales",1039363967,3,3.5,4,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"601",5,"Yakima Brewing Co. / Bert Grant's Ales",1039013621,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"602",5,"Yakima Brewing Co. / Bert Grant's Ales",1038588155,4,4,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"603",5,"Yakima Brewing Co. / Bert Grant's Ales",1036438643,4,4,4,"American Pale Ale (APA)",4.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
-"604",5,"Yakima Brewing Co. / Bert Grant's Ales",1033578857,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
-"605",5,"Yakima Brewing Co. / Bert Grant's Ales",1134460957,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"606",5,"Yakima Brewing Co. / Bert Grant's Ales",1128123920,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"607",5,"Yakima Brewing Co. / Bert Grant's Ales",1125277908,3,2,3.5,"American Pale Ale (APA)",3,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"608",5,"Yakima Brewing Co. / Bert Grant's Ales",1123650889,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"609",5,"Yakima Brewing Co. / Bert Grant's Ales",1122863417,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"610",5,"Yakima Brewing Co. / Bert Grant's Ales",1122619916,3,3,4,"American Pale Ale (APA)",4,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"611",5,"Yakima Brewing Co. / Bert Grant's Ales",1121221926,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"612",5,"Yakima Brewing Co. / Bert Grant's Ales",1109691619,3,3,4,"American Pale Ale (APA)",2.5,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"613",5,"Yakima Brewing Co. / Bert Grant's Ales",1095819291,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"614",5,"Yakima Brewing Co. / Bert Grant's Ales",1095732532,4,3,4,"American Pale Ale (APA)",4.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"615",5,"Yakima Brewing Co. / Bert Grant's Ales",1094957473,4,2.5,3,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"616",5,"Yakima Brewing Co. / Bert Grant's Ales",1091724340,4,3.5,4,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"617",5,"Yakima Brewing Co. / Bert Grant's Ales",1089267772,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"618",5,"Yakima Brewing Co. / Bert Grant's Ales",1088555717,3,3,3,"American Pale Ale (APA)",4,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"619",5,"Yakima Brewing Co. / Bert Grant's Ales",1088062350,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"620",5,"Yakima Brewing Co. / Bert Grant's Ales",1087013250,2.5,2,4,"American Pale Ale (APA)",2,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"621",5,"Yakima Brewing Co. / Bert Grant's Ales",1086408091,3.5,3,4,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"622",5,"Yakima Brewing Co. / Bert Grant's Ales",1083633565,3,3,4,"American Pale Ale (APA)",3,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"623",5,"Yakima Brewing Co. / Bert Grant's Ales",1082934718,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"624",5,"Yakima Brewing Co. / Bert Grant's Ales",1079301090,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"625",5,"Yakima Brewing Co. / Bert Grant's Ales",1135309309,4,4,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"626",5,"Yakima Brewing Co. / Bert Grant's Ales",1078546662,4.5,4,3.5,"American Pale Ale (APA)",3.5,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"627",5,"Yakima Brewing Co. / Bert Grant's Ales",1070157626,2.5,3,2,"American Pale Ale (APA)",2.5,2,"Bert Grants Lazy Days Pale Ale",5,9506
-"628",5,"Yakima Brewing Co. / Bert Grant's Ales",1063886110,4,4,4,"American Pale Ale (APA)",5,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"629",5,"Yakima Brewing Co. / Bert Grant's Ales",1061576627,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"630",5,"Yakima Brewing Co. / Bert Grant's Ales",1060744379,4,4,4,"American Pale Ale (APA)",2.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
-"631",5,"Yakima Brewing Co. / Bert Grant's Ales",1058800238,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"632",5,"Yakima Brewing Co. / Bert Grant's Ales",1057694324,3,3.5,3.5,"American Pale Ale (APA)",2,2,"Bert Grants Lazy Days Pale Ale",5,9506
-"633",5,"Yakima Brewing Co. / Bert Grant's Ales",1056734448,3.5,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"634",5,"Yakima Brewing Co. / Bert Grant's Ales",1056408625,4.5,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"635",5,"Yakima Brewing Co. / Bert Grant's Ales",1054909338,4,4,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"636",5,"Yakima Brewing Co. / Bert Grant's Ales",1053738498,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"637",5,"Yakima Brewing Co. / Bert Grant's Ales",1053627031,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
-"638",5,"Yakima Brewing Co. / Bert Grant's Ales",1050777872,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
-"639",5,"Yakima Brewing Co. / Bert Grant's Ales",1139774715,4,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"640",5,"Yakima Brewing Co. / Bert Grant's Ales",1139772803,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
-"641",5,"Yakima Brewing Co. / Bert Grant's Ales",1138941926,4.5,4,3,"Russian Imperial Stout",5,4,"Bert Grant's Imperial Stout",6,12
-"642",5,"Yakima Brewing Co. / Bert Grant's Ales",1136512442,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
-"643",5,"Yakima Brewing Co. / Bert Grant's Ales",1136181327,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"644",5,"Yakima Brewing Co. / Bert Grant's Ales",1135862101,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"645",5,"Yakima Brewing Co. / Bert Grant's Ales",1131056273,3.5,3.5,3.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
-"646",5,"Yakima Brewing Co. / Bert Grant's Ales",1130174578,2.5,4,4,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
-"647",5,"Yakima Brewing Co. / Bert Grant's Ales",1129081168,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"648",5,"Yakima Brewing Co. / Bert Grant's Ales",1128840657,3.5,4,4,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
-"649",5,"Yakima Brewing Co. / Bert Grant's Ales",1126661123,3.5,4,5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"650",5,"Yakima Brewing Co. / Bert Grant's Ales",1126423136,2,3.5,2,"Russian Imperial Stout",2,3.5,"Bert Grant's Imperial Stout",6,12
-"651",5,"Yakima Brewing Co. / Bert Grant's Ales",1125715102,3,3,2.5,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
-"652",5,"Yakima Brewing Co. / Bert Grant's Ales",1124587235,4.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"653",5,"Yakima Brewing Co. / Bert Grant's Ales",1121497326,3.5,3.5,4.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"654",5,"Yakima Brewing Co. / Bert Grant's Ales",1121485280,4,4.5,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"655",5,"Yakima Brewing Co. / Bert Grant's Ales",1120241155,4,4,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"656",5,"Yakima Brewing Co. / Bert Grant's Ales",1118368922,3.5,4,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"657",5,"Yakima Brewing Co. / Bert Grant's Ales",1114117913,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"658",5,"Yakima Brewing Co. / Bert Grant's Ales",1113792434,4.5,4,4,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
-"659",5,"Yakima Brewing Co. / Bert Grant's Ales",1113248012,4,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"660",5,"Yakima Brewing Co. / Bert Grant's Ales",1112446369,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"661",5,"Yakima Brewing Co. / Bert Grant's Ales",1110237379,3,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"662",5,"Yakima Brewing Co. / Bert Grant's Ales",1109088854,2,3.5,3.5,"Russian Imperial Stout",1.5,3.5,"Bert Grant's Imperial Stout",6,12
-"663",5,"Yakima Brewing Co. / Bert Grant's Ales",1108947801,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"664",5,"Yakima Brewing Co. / Bert Grant's Ales",1107494054,3.5,3.5,3.5,"Russian Imperial Stout",2.5,3,"Bert Grant's Imperial Stout",6,12
-"665",5,"Yakima Brewing Co. / Bert Grant's Ales",1107157997,4,4,4,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
-"666",5,"Yakima Brewing Co. / Bert Grant's Ales",1106118957,3.5,4,4.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
-"667",5,"Yakima Brewing Co. / Bert Grant's Ales",1105832820,5,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"668",5,"Yakima Brewing Co. / Bert Grant's Ales",1105827540,3,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"669",5,"Yakima Brewing Co. / Bert Grant's Ales",1105664986,4.5,4.5,4,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
-"670",5,"Yakima Brewing Co. / Bert Grant's Ales",1105383618,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"671",5,"Yakima Brewing Co. / Bert Grant's Ales",1105078350,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
-"672",5,"Yakima Brewing Co. / Bert Grant's Ales",1104781067,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"673",5,"Yakima Brewing Co. / Bert Grant's Ales",1102891423,4,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"674",5,"Yakima Brewing Co. / Bert Grant's Ales",1102634353,3.5,4,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"675",5,"Yakima Brewing Co. / Bert Grant's Ales",1100667077,4.5,4,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"676",5,"Yakima Brewing Co. / Bert Grant's Ales",1100309991,4,4.5,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"677",5,"Yakima Brewing Co. / Bert Grant's Ales",1100103171,3.5,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
-"678",5,"Yakima Brewing Co. / Bert Grant's Ales",1099123618,5,3.5,4.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"679",5,"Yakima Brewing Co. / Bert Grant's Ales",1096338757,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
-"680",5,"Yakima Brewing Co. / Bert Grant's Ales",1096311711,3,3.5,4,"Russian Imperial Stout",3.5,3,"Bert Grant's Imperial Stout",6,12
-"681",5,"Yakima Brewing Co. / Bert Grant's Ales",1095894903,4,4,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"682",5,"Yakima Brewing Co. / Bert Grant's Ales",1056908150,4,4,4,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
-"683",5,"Yakima Brewing Co. / Bert Grant's Ales",1095080459,4,4,4.5,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
-"684",5,"Yakima Brewing Co. / Bert Grant's Ales",1093047244,4,4,4,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
-"685",5,"Yakima Brewing Co. / Bert Grant's Ales",1092520833,3.5,4,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"686",5,"Yakima Brewing Co. / Bert Grant's Ales",1091785523,4,4.5,4.5,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
-"687",5,"Yakima Brewing Co. / Bert Grant's Ales",1091420368,4,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
-"688",5,"Yakima Brewing Co. / Bert Grant's Ales",1090357607,3,3.5,3.5,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
-"689",5,"Yakima Brewing Co. / Bert Grant's Ales",1090289577,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"690",5,"Yakima Brewing Co. / Bert Grant's Ales",1089395442,4,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"691",5,"Yakima Brewing Co. / Bert Grant's Ales",1085603291,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"692",5,"Yakima Brewing Co. / Bert Grant's Ales",1084227281,4,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"693",5,"Yakima Brewing Co. / Bert Grant's Ales",1083061437,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"694",5,"Yakima Brewing Co. / Bert Grant's Ales",1081393361,2,3,3.5,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
-"695",5,"Yakima Brewing Co. / Bert Grant's Ales",1079580802,4,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"696",5,"Yakima Brewing Co. / Bert Grant's Ales",1077942482,4,4,4.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
-"697",5,"Yakima Brewing Co. / Bert Grant's Ales",1077715701,4.5,3.5,3.5,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
-"698",5,"Yakima Brewing Co. / Bert Grant's Ales",1075435528,3.5,4,5,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
-"699",5,"Yakima Brewing Co. / Bert Grant's Ales",1075231153,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"700",5,"Yakima Brewing Co. / Bert Grant's Ales",1073318898,4.5,4,4.5,"Russian Imperial Stout",4.5,5,"Bert Grant's Imperial Stout",6,12
-"701",5,"Yakima Brewing Co. / Bert Grant's Ales",1071793239,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
-"702",5,"Yakima Brewing Co. / Bert Grant's Ales",1070995692,3,2.5,4.5,"Russian Imperial Stout",2.5,3.5,"Bert Grant's Imperial Stout",6,12
-"703",5,"Yakima Brewing Co. / Bert Grant's Ales",1070680059,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"704",5,"Yakima Brewing Co. / Bert Grant's Ales",1070064190,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"705",5,"Yakima Brewing Co. / Bert Grant's Ales",1069287540,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
-"706",5,"Yakima Brewing Co. / Bert Grant's Ales",1068785011,4.5,4,5,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
-"707",5,"Yakima Brewing Co. / Bert Grant's Ales",1068256046,4,3.5,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"708",5,"Yakima Brewing Co. / Bert Grant's Ales",1062212299,2.5,4,3.5,"Russian Imperial Stout",2,3,"Bert Grant's Imperial Stout",6,12
-"709",5,"Yakima Brewing Co. / Bert Grant's Ales",1058675061,3,3,4,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
-"710",5,"Yakima Brewing Co. / Bert Grant's Ales",1055366204,2,3,4,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
-"711",5,"Yakima Brewing Co. / Bert Grant's Ales",1053950970,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"712",5,"Yakima Brewing Co. / Bert Grant's Ales",1053332463,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"713",5,"Yakima Brewing Co. / Bert Grant's Ales",1052530176,3,2.5,3,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
-"714",5,"Yakima Brewing Co. / Bert Grant's Ales",1052132172,3,3.5,5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"715",5,"Yakima Brewing Co. / Bert Grant's Ales",1051577476,3,3.5,4.5,"Russian Imperial Stout",3,3.5,"Bert Grant's Imperial Stout",6,12
-"716",5,"Yakima Brewing Co. / Bert Grant's Ales",1049912599,4.5,4,4,"Russian Imperial Stout",3,4.5,"Bert Grant's Imperial Stout",6,12
-"717",5,"Yakima Brewing Co. / Bert Grant's Ales",1049910598,4,4,5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"718",5,"Yakima Brewing Co. / Bert Grant's Ales",1048610518,4,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"719",5,"Yakima Brewing Co. / Bert Grant's Ales",1045767315,4.5,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
-"720",5,"Yakima Brewing Co. / Bert Grant's Ales",1015576117,3.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
-"721",5,"Yakima Brewing Co. / Bert Grant's Ales",907200001,4,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121374270,3.5,3.5,5,"Russian Imperial Stout",3,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1130075801,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121365559,3.5,4,3.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106669694,4,3.5,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1139357801,4,3.5,4,"American Amber / Red Ale",4,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123372833,4,3.5,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121990675,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110159261,3,4,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095733825,3.5,3.5,3.5,"American Amber / Red Ale",4,3,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1094788117,4,4,4,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087253810,4,3,3.5,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1086363103,3.5,3,3,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083206659,4,4,3.5,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083189803,3,3,2.5,"American Amber / Red Ale",3.5,2.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083070469,4.5,4,4,"American Amber / Red Ale",4.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082081123,4,4,4,"American Amber / Red Ale",4,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1081417098,4,3.5,4,"American Amber / Red Ale",3,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078751468,4.5,4,3.5,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077942173,4,4,4,"American Amber / Red Ale",3.5,4,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077149694,3.5,4,3.5,"American Amber / Red Ale",4,3.5,"Anvil Head",NA,16014
+5,"Yakima Brewing Co. / Bert Grant's Ales",1136856904,1,1,1,"English India Pale Ale (IPA)",1,1,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1134529217,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1131939884,3.5,2.5,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1130640785,3,2.5,2,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129254997,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1071154842,4,4,4.5,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125326506,3.5,3,2.5,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122858803,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1118196288,3,2.5,2.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113696985,3.5,4,3,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112302242,3.5,3,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110591297,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110572230,5,4.5,4.5,"English India Pale Ale (IPA)",4.5,4.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105746150,2.5,2,2,"English India Pale Ale (IPA)",2,1.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091470942,2.5,1.5,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102885704,3.5,2.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101850095,2.5,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101491660,3,3,4,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101292019,3.5,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100184623,4,4,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100063872,3.5,2.5,3.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098751350,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095738639,4,3,3.5,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095733381,3.5,2.5,2.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1092365367,3,2.5,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1090553950,1.5,2.5,1.5,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1090180532,4,3.5,2.5,"English India Pale Ale (IPA)",3,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089526453,2.5,3,3,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088950870,3,3.5,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087123104,3,3,3.5,"English India Pale Ale (IPA)",2,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1086551655,3,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084940272,3,3,2,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082513315,1.5,2.5,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082335024,3.5,3.5,3.5,"English India Pale Ale (IPA)",2.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1081830744,3,2.5,2.5,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079965948,3,3,3,"English India Pale Ale (IPA)",3.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079664539,3,3,2,"English India Pale Ale (IPA)",3,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078188612,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078028067,3.5,1.5,2,"English India Pale Ale (IPA)",2.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076982147,1.5,2.5,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076864696,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076116066,3,3,2.5,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074735004,3,2.5,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074403347,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1052586537,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074383797,2.5,3,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074279464,3,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1072399417,4,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070680670,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069807013,3.5,4,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068948204,2.5,3.5,4,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068517491,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068262951,3.5,4,4,"English India Pale Ale (IPA)",4,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068230931,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1067800119,4,3,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1064645709,4,2.5,3,"English India Pale Ale (IPA)",4,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063856417,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1025365772,3.5,3.5,3,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063238205,4,3.5,3.5,"English India Pale Ale (IPA)",3,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062555512,2,1.5,2.5,"English India Pale Ale (IPA)",2,1.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061917445,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061858775,4.5,4,3,"English India Pale Ale (IPA)",4.5,4.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061772166,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060275142,2.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060148253,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1059527994,4,4,3.5,"English India Pale Ale (IPA)",4,4.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1057601603,3,3,2.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1055171831,3,4,4,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1055122781,2.5,2,3,"English India Pale Ale (IPA)",2,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1054105743,3,3,3,"English India Pale Ale (IPA)",3,2,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1051686234,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1049817439,3,3.5,3.5,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047230553,2.5,2,4.5,"English India Pale Ale (IPA)",2,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1046644440,2.5,2.5,4,"English India Pale Ale (IPA)",2,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1044646159,4,3.5,3,"English India Pale Ale (IPA)",4,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1044124790,4,3,2.5,"English India Pale Ale (IPA)",4,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1040240734,3.5,3.5,3,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1034797487,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1033904844,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032546751,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032185855,3,3,3,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1025626735,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1015795014,3.5,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1015063294,4,3,3.5,"English India Pale Ale (IPA)",3,3,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",905040001,3,3,2.5,"English India Pale Ale (IPA)",3,2.5,"Bert Grant's IPA",4.2,13
+5,"Yakima Brewing Co. / Bert Grant's Ales",1134100019,3,3,3,"Scottish Ale",2.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1133743352,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1131392704,4,3,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129527089,3.5,3.5,3,"Scottish Ale",2.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128565953,4.5,4,4,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128392456,2,3.5,3,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125495638,3,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106707028,3.5,3.5,4,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125261741,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1124058344,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123032802,3,3,3.5,"Scottish Ale",2.5,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1116192966,4,4,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111620463,3,3.5,3.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111205885,3,3.5,3.5,"Scottish Ale",3,4.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111061304,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110597698,3.5,3.5,3,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110238033,3,4,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109166753,3,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107656959,3,3,3,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106075358,4,3,4,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103078459,3,3.5,4.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101355428,3,4,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101068273,3.5,3.5,3.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100907623,3.5,2.5,2.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100815366,3.5,4,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100195276,3,3.5,3,"Scottish Ale",2,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099524289,3.5,3,3.5,"Scottish Ale",2.5,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093508533,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093293427,4,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1092518271,4,4,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091673475,4,3.5,3.5,"Scottish Ale",2.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087932885,4,4,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087138750,4,3.5,3.5,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083451930,4,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082941069,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1080399222,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079903767,4,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078516892,3,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078103437,3.5,3,3,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076255888,3.5,4,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074738109,2.5,3,4,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073972709,4.5,3.5,3.5,"Scottish Ale",3.5,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073334354,3.5,3.5,3.5,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1072918487,3,3.5,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1072568650,3.5,3.5,4,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1071944456,3,3,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068243103,4,4,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1066082646,3,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1065322068,3.5,3.5,4,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062324679,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062019616,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061917505,4,3.5,4,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061910255,3,4,4,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061470023,3.5,4,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060808176,4,3.5,3,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056734775,4,3,4,"Scottish Ale",4,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056138764,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056127756,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1055192950,3.5,3.5,3.5,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1052583122,3.5,3,3.5,"Scottish Ale",3.5,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050943104,4,4,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050920449,4.5,4.5,4,"Scottish Ale",4,4.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047755077,4.5,4.5,4.5,"Scottish Ale",4.5,5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045087331,4.5,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047157307,3,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045317563,3.5,3.5,4,"Scottish Ale",4,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1043243723,3,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1042894778,1.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1041445835,3.5,3.5,3.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037853465,3,3,3,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037726218,3.5,3.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037305403,3.5,3.5,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1035913355,3,3.5,3.5,"Scottish Ale",2,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1034784562,1.5,2.5,3,"Scottish Ale",1.5,1,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1043584424,3,3,3,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032547472,4,4,4.5,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032103879,3.5,3,3.5,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1031917173,3.5,3.5,4,"Scottish Ale",3,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1031326323,3,3,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1031147536,4,3.5,3,"Scottish Ale",4,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1031082481,3,2.5,2.5,"Scottish Ale",3.5,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1029236505,3.5,2.5,2.5,"Scottish Ale",3,2.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1027633591,3,3.5,4,"Scottish Ale",3.5,3.5,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1027428903,3,2.5,3.5,"Scottish Ale",3,3,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1024290120,2,2,3,"Scottish Ale",3,2,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",908236801,3.5,3.5,3,"Scottish Ale",3,4,"Bert Grant's Scottish Ale",4.7,11
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104108196,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053433634,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089451634,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058205875,4,4.5,4.5,"American Pale Ale (APA)",4.5,4,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1048922656,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1044687549,4.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1035998227,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1034670659,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1031146866,4.5,3.5,3,"American Pale Ale (APA)",4,4,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1030971584,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Grants Summer Ale",NA,5816
+5,"Yakima Brewing Co. / Bert Grant's Ales",1120186421,3,4,3.5,"Winter Warmer",3,2.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1120022300,4,4.5,4.5,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113532053,3.5,3.5,3.5,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107215079,3.5,3.5,3.5,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099255654,4,4,4,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106794760,3,3.5,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106752557,4,5,3,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106509446,4,3.5,3.5,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106447032,3.5,3.5,4,"Winter Warmer",5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106359990,3,4.5,4.5,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106016447,4,4,4,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105399935,4,3.5,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103389485,4.5,4.5,3.5,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096509117,4,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093491615,3,3.5,4,"Winter Warmer",3.5,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088267744,4.5,4,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1081322942,3,2.5,3.5,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1081258263,3,3,3,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074913073,3.5,3.5,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074624007,3,3,4,"Winter Warmer",3,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073967441,3,4,3.5,"Winter Warmer",2.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073700179,4,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073149140,4,2.5,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1071626885,4,4,4,"Winter Warmer",4.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070398783,3,3.5,3.5,"Winter Warmer",2.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070223623,4,4,3.5,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069877992,4,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063039949,5,3.5,3.5,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1059766264,4.5,3.5,4,"Winter Warmer",4.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1057694060,3.5,3,4,"Winter Warmer",3.5,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1048595119,4,3.5,3,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047211361,3.5,3,4,"Winter Warmer",4,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1046294592,4.5,5,4,"Winter Warmer",4.5,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1042479982,3.5,3.5,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1041969977,5,4,4,"Winter Warmer",4,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1040417249,3.5,4,4,"Winter Warmer",4,3,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039820055,3.5,3.5,4,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039682299,3.5,4,4,"Winter Warmer",3.5,4,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1038723615,3.5,3,3,"Winter Warmer",3,3.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037679889,4.5,4,4,"Winter Warmer",4,4.5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1034882667,5,4,4,"Winter Warmer",4,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1007772029,5,4,4,"Winter Warmer",4,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1007220010,4,5,4,"Winter Warmer",5,5,"Bert Grant's Deep Powder Winter Ale",NA,11870
+5,"Yakima Brewing Co. / Bert Grant's Ales",1052405846,3.5,3.5,3,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1051399330,3.5,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050947001,4.5,4,3.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050625971,4.5,4.5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1049014817,4.5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1048929235,2,4,2.5,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1048499636,3.5,3.5,3.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047655221,4,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1047649464,2,3,4,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045333307,4.5,4.5,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045087573,5,4.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045061063,4.5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1044969278,3.5,4.5,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1043503932,5,4.5,4,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1040497086,4,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1040421256,4,4,4,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039697573,4.5,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037558367,4,4,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037538717,4,4.5,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1036244268,4,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1035911898,4.5,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1033897638,4,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032368442,4.5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1032183706,4,3.5,4.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1029237019,3.5,3,3,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1027541306,4,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1023801328,5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1020752588,5,5,5,"English Porter",5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1016756193,4.5,4.5,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1011962590,4,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1139270836,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1137778484,4,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1137186772,4.5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1133479653,4.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1132613568,3.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1131495162,4.5,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1130617011,4,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128480676,2,3,3.5,"English Porter",2,2,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1127535198,3.5,3.5,3,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125629638,4,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125602917,4.5,3.5,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123905286,4.5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122232725,3.5,4,3,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121978807,3.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1119319977,4,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1118843010,4.5,3.5,3.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1118105097,4,4.5,4,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1117572130,5,5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114639245,3.5,4,3.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114178161,3.5,4,3.5,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113598965,5,4,5,"English Porter",4,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112666608,5,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111807397,4.5,4.5,5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111027076,4.5,3.5,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111003750,3,3,2.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110158981,4,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110060817,4,3.5,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110044988,3.5,4,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108949238,4,4,3,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107640527,4.5,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104269412,4,5,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103597291,3.5,3.5,4,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103319214,3,3.5,3,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102456982,4.5,3.5,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102393136,4,3.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102062929,4.5,4.5,4.5,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101291774,4.5,4,3.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101087193,3.5,4.5,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100365925,4,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098833958,5,4,4,"English Porter",5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098382681,3.5,4,3.5,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098375163,4,3.5,3,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1097626740,4.5,4,4.5,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1097459060,4.5,3.5,4,"English Porter",3,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096064669,4.5,4.5,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1094625450,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1094270262,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093510072,4,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1092600172,4.5,4.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089595254,5,4,4,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088652060,4.5,4.5,4.5,"English Porter",4.5,5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088435559,4,3.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087270929,3.5,4,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1085969353,4.5,4,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084562035,4,4.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084239579,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1054735221,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082336394,4.5,4,3.5,"English Porter",3.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079918387,2.5,2,3.5,"English Porter",2,2.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079820306,4.5,4,3.5,"English Porter",2.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078021619,4.5,3.5,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077853059,3.5,3.5,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077220009,4,3.5,4.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076126953,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074837368,4,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074789387,4,4,4,"English Porter",3,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074738727,3.5,4,4,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074563339,3,2.5,3,"English Porter",3,3,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074131556,4.5,4,4,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074045445,4,4.5,4,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073580598,4,4,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1072332150,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070680326,3.5,4,3.5,"English Porter",3.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069813876,4.5,4,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069586386,4,3.5,4,"English Porter",4,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1067725678,3.5,4,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1066739929,4,4.5,5,"English Porter",5,3,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1065064188,4,4.5,3.5,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1064331761,4,4,4.5,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063526417,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063151192,4,4,4.5,"English Porter",3,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061140157,4.5,4,3,"English Porter",4.5,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060463236,5,4,4.5,"English Porter",4,4.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060146630,5,4.5,4.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058020344,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056734515,4,4,4,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056721575,4.5,4,4,"English Porter",4.5,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056576382,3.5,4,3.5,"English Porter",4,4,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053512114,4,3,4,"English Porter",3.5,3.5,"Bert Grant's Perfect Porter",4,1460
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125670041,3,2.5,2,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1124144064,2.5,3,3,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123453210,3,4,3,"Hefeweizen",2.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123113888,3,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122233445,4,4,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121828337,4,4,3.5,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121595025,4,3.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121520389,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1117851263,3,2.5,2,"Hefeweizen",3,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1116220911,3,2.5,3.5,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1115502259,3,4,3.5,"Hefeweizen",2.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114212569,4,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113368897,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112140010,3,3,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110236635,2,3.5,4,"Hefeweizen",3.5,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109041729,2,3.5,3,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106973603,3.5,2.5,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106865776,3,2.5,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106761232,5,4,4.5,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106758924,3,4,3,"Hefeweizen",4,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106358526,3,3,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104869217,3,2,3,"Hefeweizen",3,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104362332,2.5,2.5,2.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104344093,3.5,3.5,3.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102279678,1,1,3,"Hefeweizen",2,1,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101369258,3,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101347490,3,3,3,"Hefeweizen",2.5,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101337751,2,1.5,2.5,"Hefeweizen",2,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101329829,3,4,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101291376,4,3.5,3.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099522782,4,3.5,4,"Hefeweizen",4.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099455349,3.5,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099346237,4,4,3.5,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099170393,4,4.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098633800,2.5,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098070373,4,3,3,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1094228614,4,4,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093892493,3,3.5,3,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093562955,4,3.5,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084408113,4,4,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1092587520,3.5,3.5,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1090173041,4,3.5,3.5,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089924287,4.5,4.5,4,"Hefeweizen",4,4.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089778519,2.5,3.5,3,"Hefeweizen",3,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089352537,3.5,3.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088543411,4.5,4,4,"Hefeweizen",3.5,4.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087253890,3.5,3,3,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1085540846,3.5,3.5,4,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1085491017,3.5,3,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084353587,4,3.5,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083720934,4,2,3.5,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083716326,3.5,3.5,2.5,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083382467,4,2.5,3,"Hefeweizen",4,2,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075810274,4.5,4,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075079521,2,3,3,"Hefeweizen",2,2.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075009284,4,4,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074279516,3,3,3,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074044329,3,3.5,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073814647,3.5,4.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070265220,4,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070240053,3.5,3.5,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069684262,4,4,4,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069456076,2.5,4,4,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068664400,5,4.5,4,"Hefeweizen",3.5,4.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068329055,4,4,3.5,"Hefeweizen",4,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068056858,3,3.5,3.5,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1065502765,4,3.5,4,"Hefeweizen",3,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1065244774,4,3,3,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1064348866,4,4,4,"Hefeweizen",3,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062815768,4,3.5,4,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062000072,3,4.5,4,"Hefeweizen",3.5,3,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129957040,3,4,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061163465,3.5,3,4,"Hefeweizen",3,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060487400,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058595902,4.5,4,3.5,"Hefeweizen",4,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1055685804,4,4,4,"Hefeweizen",3.5,4,"Mandarin Hefeweizen",NA,11500
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108936030,3,3,4,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108770120,3,3,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103339541,3,3,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099780621,3,2.5,3,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091590519,2.5,3,3.5,"Hefeweizen",3.5,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089684046,4,3,4,"Hefeweizen",2.5,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098456598,3,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088022713,3,3.5,4,"Hefeweizen",3,3.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1080785619,3,3.5,3.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076981177,3,3,3,"Hefeweizen",2.5,3.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076855838,3,2.5,3,"Hefeweizen",3,2,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074624593,3.5,2.5,3,"Hefeweizen",3.5,3.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1071246664,4.5,4.5,4,"Hefeweizen",4.5,4.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069139754,2.5,2.5,4,"Hefeweizen",2.5,2.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1067896938,3.5,2,3,"Hefeweizen",3,2,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063154515,3,3,3,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058921066,3,3,4,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1054048325,3.5,2,3,"Hefeweizen",3,2.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1049016239,3,2.5,2,"Hefeweizen",2.5,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1046715827,4,3,3.5,"Hefeweizen",3.5,3.5,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1043589070,3,2.5,2.5,"Hefeweizen",3,3,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1037304280,4,4,3.5,"Hefeweizen",3.5,4,"Bert Grant's Hefeweizen",NA,7131
+5,"Yakima Brewing Co. / Bert Grant's Ales",1139121016,3.5,3.5,3,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1138924069,3,3,3,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1137946447,4,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1133292425,3.5,4.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1132598517,2.5,2.5,2.5,"American IPA",2.5,2.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129774360,3.5,5,3.5,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129333848,3,4,4,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128750002,4,3.5,4,"American IPA",3.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1127260840,3.5,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125789322,3,4.5,4,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125523877,4.5,3.5,4.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125024128,2,4,4,"American IPA",3.5,2.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122952411,3.5,4,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122308336,4.5,4,4,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121192335,4.5,4.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1120188131,3,3,3,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1120179742,3.5,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1119912347,3.5,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1119771910,3.5,3.5,4.5,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1118107342,3.5,3.5,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1117396982,4,3.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1116304002,3.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1115938585,4.5,3.5,4.5,"American IPA",5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1115362869,4.5,4,4.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1115307672,4.5,4,4.5,"American IPA",4.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114313700,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113836411,3,3.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113172416,3,4,4,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112147279,3.5,3,3.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111887680,3.5,3,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111626262,3,4,3,"American IPA",2.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111374470,4.5,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1111233826,3.5,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110665670,5,4.5,4.5,"American IPA",4.5,5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110248839,3,3,3,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110060450,3.5,4,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109532866,2.5,4,2.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109039906,4,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108950836,3,3,3.5,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108916255,4.5,3.5,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108335442,4.5,3.5,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108182440,4,4.5,4,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108179538,3.5,4,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058410687,2.5,3,5,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107442319,3.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106716018,4.5,3,2.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106164678,4,3.5,4,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106011286,4,4,4.5,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105683741,4,4.5,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105329331,3,3.5,4,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105156981,3.5,3.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104967942,3.5,3,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104510591,4,4,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104452267,4.5,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103769078,3,4,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103660464,3.5,4.5,4,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102833251,4,3.5,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102702402,4,4.5,4,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102646659,4,4,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102340716,3.5,3.5,4.5,"American IPA",3,2,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102180534,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101788304,3,3.5,4,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101221849,3,4,4,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100947728,4,3.5,3.5,"American IPA",4.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100932277,4.5,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100750566,4,3,3.5,"American IPA",4,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100577437,4.5,3.5,4,"American IPA",4.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100297699,3.5,3.5,4,"American IPA",3.5,4.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077065888,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100295584,3.5,3,3.5,"American IPA",3.5,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100191571,4,4.5,3,"American IPA",3,3,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099677759,1,4,4,"American IPA",3,2,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099385623,3.5,3,3,"American IPA",3,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099092258,4,3.5,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098058694,4,4.5,4,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096289579,4,4.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095713354,4,4,4,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095208357,4,4,3.5,"American IPA",3.5,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093891771,4,3.5,3.5,"American IPA",4,3.5,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093881956,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093743548,5,4,2.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088125475,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077506066,4,3.5,3.5,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077500598,4,4,3.5,"American IPA",4,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075671607,4,4,3,"American IPA",3.5,4,"Bert Grant's Hopzilla IPA",5,15690
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128230876,4,4,3,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121594879,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1116380664,3,3,3,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114480998,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113247397,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112144221,3.5,4,4.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110657399,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110160207,3.5,4.5,4,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108474901,3,2.5,2.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108469406,3,4,3.5,"American Pale Ale (APA)",4,2.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106511409,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106440613,5,4.5,3.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106011475,4.5,4,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104936815,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104653271,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104365925,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1103663556,4,4.5,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102698819,3,2.5,3,"American Pale Ale (APA)",2,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102387902,4,3,4.5,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101701552,3.5,3,3.5,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1101093817,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100831215,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100824062,4,4,4.5,"American Pale Ale (APA)",3,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100749442,4,3.5,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099402254,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098914130,4,4,4,"American Pale Ale (APA)",3,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098504401,2.5,3,4,"American Pale Ale (APA)",2,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098309647,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098171542,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1098163354,4.5,3.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1097017331,3,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096935638,4,4,3,"American Pale Ale (APA)",4.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096765657,4,3,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091931191,3,3,3,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079443890,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078102422,4,3.5,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093630582,3,3,3.5,"American Pale Ale (APA)",2.5,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1076254439,4,4,3.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074736808,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1074731012,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070231543,4,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069101197,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068783842,4.5,4,4,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1065823175,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1064348930,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061909891,3,3.5,3.5,"American Pale Ale (APA)",2.5,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061692785,3.5,4,4,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056734085,4,4,5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050334824,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1042738356,4,4.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1040664647,3,3,4,"American Pale Ale (APA)",3,3,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039683770,5,4.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039380141,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039363967,3,3.5,4,"American Pale Ale (APA)",3,3.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1039013621,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1038588155,4,4,4.5,"American Pale Ale (APA)",4,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1036438643,4,4,4,"American Pale Ale (APA)",4.5,4,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1033578857,4.5,4,4.5,"American Pale Ale (APA)",4,4.5,"Bert Grant's Fresh Hop Ale",5.2,6394
+5,"Yakima Brewing Co. / Bert Grant's Ales",1134460957,3.5,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128123920,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125277908,3,2,3.5,"American Pale Ale (APA)",3,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1123650889,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122863417,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1122619916,3,3,4,"American Pale Ale (APA)",4,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121221926,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109691619,3,3,4,"American Pale Ale (APA)",2.5,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095819291,4,4,3.5,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095732532,4,3,4,"American Pale Ale (APA)",4.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1094957473,4,2.5,3,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091724340,4,3.5,4,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089267772,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088555717,3,3,3,"American Pale Ale (APA)",4,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1088062350,3,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1087013250,2.5,2,4,"American Pale Ale (APA)",2,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1086408091,3.5,3,4,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083633565,3,3,4,"American Pale Ale (APA)",3,2.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1082934718,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079301090,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1135309309,4,4,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1078546662,4.5,4,3.5,"American Pale Ale (APA)",3.5,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070157626,2.5,3,2,"American Pale Ale (APA)",2.5,2,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1063886110,4,4,4,"American Pale Ale (APA)",5,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1061576627,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1060744379,4,4,4,"American Pale Ale (APA)",2.5,4,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058800238,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1057694324,3,3.5,3.5,"American Pale Ale (APA)",2,2,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056734448,3.5,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056408625,4.5,3,3.5,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1054909338,4,4,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053738498,4.5,3.5,4,"American Pale Ale (APA)",4,4.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053627031,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1050777872,3,3,3,"American Pale Ale (APA)",3,3,"Bert Grants Lazy Days Pale Ale",5,9506
+5,"Yakima Brewing Co. / Bert Grant's Ales",1139774715,4,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1139772803,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1138941926,4.5,4,3,"Russian Imperial Stout",5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1136512442,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1136181327,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1135862101,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1131056273,3.5,3.5,3.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1130174578,2.5,4,4,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1129081168,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1128840657,3.5,4,4,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1126661123,3.5,4,5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1126423136,2,3.5,2,"Russian Imperial Stout",2,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1125715102,3,3,2.5,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1124587235,4.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121497326,3.5,3.5,4.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1121485280,4,4.5,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1120241155,4,4,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1118368922,3.5,4,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1114117913,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113792434,4.5,4,4,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1113248012,4,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1112446369,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1110237379,3,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1109088854,2,3.5,3.5,"Russian Imperial Stout",1.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1108947801,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107494054,3.5,3.5,3.5,"Russian Imperial Stout",2.5,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1107157997,4,4,4,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1106118957,3.5,4,4.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105832820,5,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105827540,3,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105664986,4.5,4.5,4,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105383618,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1105078350,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1104781067,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102891423,4,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1102634353,3.5,4,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100667077,4.5,4,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100309991,4,4.5,4,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1100103171,3.5,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1099123618,5,3.5,4.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096338757,3.5,4,4.5,"Russian Imperial Stout",3.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1096311711,3,3.5,4,"Russian Imperial Stout",3.5,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095894903,4,4,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1056908150,4,4,4,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1095080459,4,4,4.5,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1093047244,4,4,4,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1092520833,3.5,4,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091785523,4,4.5,4.5,"Russian Imperial Stout",3.5,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1091420368,4,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1090357607,3,3.5,3.5,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1090289577,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1089395442,4,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1085603291,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1084227281,4,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1083061437,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1081393361,2,3,3.5,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1079580802,4,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077942482,4,4,4.5,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1077715701,4.5,3.5,3.5,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075435528,3.5,4,5,"Russian Imperial Stout",3,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1075231153,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1073318898,4.5,4,4.5,"Russian Imperial Stout",4.5,5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1071793239,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070995692,3,2.5,4.5,"Russian Imperial Stout",2.5,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070680059,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1070064190,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1069287540,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068785011,4.5,4,5,"Russian Imperial Stout",4.5,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1068256046,4,3.5,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1062212299,2.5,4,3.5,"Russian Imperial Stout",2,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1058675061,3,3,4,"Russian Imperial Stout",3,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1055366204,2,3,4,"Russian Imperial Stout",3,3,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053950970,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1053332463,4,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1052530176,3,2.5,3,"Russian Imperial Stout",2.5,2.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1052132172,3,3.5,5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1051577476,3,3.5,4.5,"Russian Imperial Stout",3,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1049912599,4.5,4,4,"Russian Imperial Stout",3,4.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1049910598,4,4,5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1048610518,4,3.5,4,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1045767315,4.5,4,4.5,"Russian Imperial Stout",4,4,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",1015576117,3.5,3.5,4.5,"Russian Imperial Stout",4,3.5,"Bert Grant's Imperial Stout",6,12
+5,"Yakima Brewing Co. / Bert Grant's Ales",907200001,4,4,4,"Russian Imperial Stout",4,4.5,"Bert Grant's Imperial Stout",6,12

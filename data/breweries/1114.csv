@@ -1,920 +1,920 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1114,"Bullfrog Brewery",1231790750,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
-"2",1114,"Bullfrog Brewery",1250562087,2,2,2,"Scottish Ale",2,2,"Wolfsblood Scotch",7.5,36716
-"3",1114,"Bullfrog Brewery",1231795022,3,3,4,"Scottish Ale",3.5,3.5,"Wolfsblood Scotch",7.5,36716
-"4",1114,"Bullfrog Brewery",1230497085,2,3,3.5,"Scottish Ale",2.5,2.5,"Wolfsblood Scotch",7.5,36716
-"5",1114,"Bullfrog Brewery",1079537068,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",4.8,16592
-"6",1114,"Bullfrog Brewery",1250283528,4.5,5,4,"American Wild Ale",4,4.5,"El Rojo Diablo",8,49525
-"7",1114,"Bullfrog Brewery",1291920262,4,4,4.5,"Pumpkin Ale",4,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"8",1114,"Bullfrog Brewery",1291394802,4,4,3,"Pumpkin Ale",3,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"9",1114,"Bullfrog Brewery",1288804019,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"10",1114,"Bullfrog Brewery",1288552649,4.5,3.5,4.5,"Pumpkin Ale",4,3.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"11",1114,"Bullfrog Brewery",1288507765,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"12",1114,"Bullfrog Brewery",1288483464,4.5,4,4,"Pumpkin Ale",5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"13",1114,"Bullfrog Brewery",1288477605,4.5,4,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
-"14",1114,"Bullfrog Brewery",1244319785,4,3,4,"American Stout",3.5,3.5,"Bullfrog Susquehanna Stout",4.2,7680
-"15",1114,"Bullfrog Brewery",1231791706,3.5,3,4,"American Stout",3,3,"Bullfrog Susquehanna Stout",4.2,7680
-"16",1114,"Bullfrog Brewery",1208751058,3.5,4,4,"American Stout",3,3,"Bullfrog Susquehanna Stout",4.2,7680
-"17",1114,"Bullfrog Brewery",1120577560,4.5,4,3.5,"American Stout",4,4,"Bullfrog Susquehanna Stout",4.2,7680
-"18",1114,"Bullfrog Brewery",1079535618,4.5,4,4,"American Stout",4,3.5,"Bullfrog Susquehanna Stout",4.2,7680
-"19",1114,"Bullfrog Brewery",1040903405,4,4,4,"American Stout",4,4,"Bullfrog Susquehanna Stout",4.2,7680
-"20",1114,"Bullfrog Brewery",1321411657,4,4.5,4,"Rye Beer",3.5,4.5,"Rye Not?",5,71572
-"21",1114,"Bullfrog Brewery",1312815570,4,4,4,"Rye Beer",3.5,4,"Rye Not?",5,71572
-"22",1114,"Bullfrog Brewery",1312201699,4,4.5,4,"Rye Beer",4,4,"Rye Not?",5,71572
-"23",1114,"Bullfrog Brewery",1178554474,4,3,3,"Bière de Garde",4,4,"Biere De Mars",NA,36714
-"24",1114,"Bullfrog Brewery",1178510594,2.5,3.5,3,"Bière de Garde",2.5,3,"Biere De Mars",NA,36714
-"25",1114,"Bullfrog Brewery",1255897982,5,4.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Hop Harvest 2009",6,53127
-"26",1114,"Bullfrog Brewery",1255875017,5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
-"27",1114,"Bullfrog Brewery",1255462381,5,4.5,5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
-"28",1114,"Bullfrog Brewery",1254846772,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
-"29",1114,"Bullfrog Brewery",1254832690,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
-"30",1114,"Bullfrog Brewery",1254791722,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
-"31",1114,"Bullfrog Brewery",1254777986,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
-"32",1114,"Bullfrog Brewery",1244331957,3,3.5,3.5,"Belgian Pale Ale",4,3,"Unique Wild",5.5,34929
-"33",1114,"Bullfrog Brewery",1232405789,4,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
-"34",1114,"Bullfrog Brewery",1231791762,4,4.5,4.5,"Belgian Pale Ale",4.5,4,"Unique Wild",5.5,34929
-"35",1114,"Bullfrog Brewery",1224383146,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4,"Unique Wild",5.5,34929
-"36",1114,"Bullfrog Brewery",1219629190,5,4,4.5,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
-"37",1114,"Bullfrog Brewery",1213397576,4,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
-"38",1114,"Bullfrog Brewery",1206470033,4.5,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
-"39",1114,"Bullfrog Brewery",1202821768,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Unique Wild",5.5,34929
-"40",1114,"Bullfrog Brewery",1250110473,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Water Of Life",3.8,50872
-"41",1114,"Bullfrog Brewery",1322803704,3.5,3.5,4,"American Wild Ale",4,3.5,"Blue Cheer",NA,43000
-"42",1114,"Bullfrog Brewery",1315969048,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Blue Cheer",NA,43000
-"43",1114,"Bullfrog Brewery",1312210684,4,3.5,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"44",1114,"Bullfrog Brewery",1312072920,3.5,3.5,4,"American Wild Ale",4,3.5,"Blue Cheer",NA,43000
-"45",1114,"Bullfrog Brewery",1307382695,4.5,4.5,4.5,"American Wild Ale",3.5,4,"Blue Cheer",NA,43000
-"46",1114,"Bullfrog Brewery",1307280016,4,3,3,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"47",1114,"Bullfrog Brewery",1301949303,4,4.5,4,"American Wild Ale",4.5,4,"Blue Cheer",NA,43000
-"48",1114,"Bullfrog Brewery",1293155809,4,4,5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"49",1114,"Bullfrog Brewery",1269911982,4.5,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
-"50",1114,"Bullfrog Brewery",1269879081,4,4,4,"American Wild Ale",3.5,4,"Blue Cheer",NA,43000
-"51",1114,"Bullfrog Brewery",1269792608,4.5,4,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"52",1114,"Bullfrog Brewery",1269791676,4.5,4,5,"American Wild Ale",4.5,4,"Blue Cheer",NA,43000
-"53",1114,"Bullfrog Brewery",1265049271,3.5,3,4,"American Wild Ale",3.5,3.5,"Blue Cheer",NA,43000
-"54",1114,"Bullfrog Brewery",1263608062,3,4,4,"American Wild Ale",3,3.5,"Blue Cheer",NA,43000
-"55",1114,"Bullfrog Brewery",1263093092,4,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
-"56",1114,"Bullfrog Brewery",1240243940,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Blue Cheer",NA,43000
-"57",1114,"Bullfrog Brewery",1239390448,4,4.5,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"58",1114,"Bullfrog Brewery",1238362667,4,4.5,4,"American Wild Ale",4,4,"Blue Cheer",NA,43000
-"59",1114,"Bullfrog Brewery",1223254257,3.5,4.5,4,"American Wild Ale",4.5,4.5,"Blue Cheer",NA,43000
-"60",1114,"Bullfrog Brewery",1279232055,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Fran-tastique Saison",7.5,59384
-"61",1114,"Bullfrog Brewery",1215659065,4,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
-"62",1114,"Bullfrog Brewery",1213640605,4.5,4,4.5,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
-"63",1114,"Bullfrog Brewery",1242666794,4.5,3.5,4,"Witbier",4,3.5,"Wits End",5.4,48777
-"64",1114,"Bullfrog Brewery",1241138863,4.5,3.5,4,"Witbier",4,4,"Wits End",5.4,48777
-"65",1114,"Bullfrog Brewery",1240879287,3.5,3.5,3,"Witbier",3.5,4,"Wits End",5.4,48777
-"66",1114,"Bullfrog Brewery",1238205914,3,3.5,3.5,"Witbier",3,2.5,"Wits End",5.4,48777
-"67",1114,"Bullfrog Brewery",1198256538,3.5,4,3.5,"American Strong Ale",4,4,"Winter Warmer",6.2,40168
-"68",1114,"Bullfrog Brewery",1312158736,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Fran-tastique Saison",7.5,59384
-"69",1114,"Bullfrog Brewery",1284859525,5,4,4,"Saison / Farmhouse Ale",5,4.5,"Fran-tastique Saison",7.5,59384
-"70",1114,"Bullfrog Brewery",1281142243,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"71",1114,"Bullfrog Brewery",1281029191,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Fran-tastique Saison",7.5,59384
-"72",1114,"Bullfrog Brewery",1279940273,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"73",1114,"Bullfrog Brewery",1279593307,3.5,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"74",1114,"Bullfrog Brewery",1279070047,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Fran-tastique Saison",7.5,59384
-"75",1114,"Bullfrog Brewery",1278855821,2.5,4,3,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"76",1114,"Bullfrog Brewery",1278789707,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"77",1114,"Bullfrog Brewery",1277926444,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Fran-tastique Saison",7.5,59384
-"78",1114,"Bullfrog Brewery",1277632877,5,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Fran-tastique Saison",7.5,59384
-"79",1114,"Bullfrog Brewery",1277603866,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Fran-tastique Saison",7.5,59384
-"80",1114,"Bullfrog Brewery",1276993797,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
-"81",1114,"Bullfrog Brewery",1302222874,3,3,3,"Kölsch",3,3,"Billtown Blonde",4.9,16595
-"82",1114,"Bullfrog Brewery",1299518532,4,3.5,3.5,"Kölsch",4,4,"Billtown Blonde",4.9,16595
-"83",1114,"Bullfrog Brewery",1292366825,4.5,3,4,"Kölsch",4.5,4,"Billtown Blonde",4.9,16595
-"84",1114,"Bullfrog Brewery",1265909236,4.5,4,4,"Kölsch",4,4,"Billtown Blonde",4.9,16595
-"85",1114,"Bullfrog Brewery",1258380219,3.5,3,3.5,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
-"86",1114,"Bullfrog Brewery",1233694412,3.5,3,4,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
-"87",1114,"Bullfrog Brewery",1231532251,3,3,3,"Kölsch",2.5,3,"Billtown Blonde",4.9,16595
-"88",1114,"Bullfrog Brewery",1230496374,3.5,3.5,3,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
-"89",1114,"Bullfrog Brewery",1140329427,3.5,3,2.5,"Kölsch",2.5,3,"Billtown Blonde",4.9,16595
-"90",1114,"Bullfrog Brewery",1079542864,4,4,4,"Kölsch",3.5,4,"Billtown Blonde",4.9,16595
-"91",1114,"Bullfrog Brewery",1312160075,4.5,4.5,4,"American Amber / Red Ale",4.5,4,"Dread Double Red Ale",7.8,47991
-"92",1114,"Bullfrog Brewery",1283887689,4,4,4,"American Amber / Red Ale",3.5,4.5,"Dread Double Red Ale",7.8,47991
-"93",1114,"Bullfrog Brewery",1278114454,4.5,4.5,4,"American Amber / Red Ale",4,4,"Dread Double Red Ale",7.8,47991
-"94",1114,"Bullfrog Brewery",1277683506,4,4,4,"American Amber / Red Ale",4,4,"Dread Double Red Ale",7.8,47991
-"95",1114,"Bullfrog Brewery",1261408298,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Dread Double Red Ale",7.8,47991
-"96",1114,"Bullfrog Brewery",1237152852,4.5,4.5,4.5,"American Amber / Red Ale",4,5,"Dread Double Red Ale",7.8,47991
-"97",1114,"Bullfrog Brewery",1234825602,4,4,4,"American Amber / Red Ale",4.5,4,"Dread Double Red Ale",7.8,47991
-"98",1114,"Bullfrog Brewery",1321595392,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
-"99",1114,"Bullfrog Brewery",1293991587,5,4,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
-"100",1114,"Bullfrog Brewery",1293917964,5,4,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
-"101",1114,"Bullfrog Brewery",1292793889,4,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
-"102",1114,"Bullfrog Brewery",1292466513,5,4,4,"American Pale Wheat Ale",4.5,4,"Amarillo-ville",5,64005
-"103",1114,"Bullfrog Brewery",1292380121,4,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
-"104",1114,"Bullfrog Brewery",1291919599,4.5,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
-"105",1114,"Bullfrog Brewery",1291416698,5,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
-"106",1114,"Bullfrog Brewery",1291148301,5,4.5,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
-"107",1114,"Bullfrog Brewery",1320455886,4,4,3,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"108",1114,"Bullfrog Brewery",1312413951,4,4,3.5,"American Wild Ale",3.5,4,"El Rojo Diablo",8,49525
-"109",1114,"Bullfrog Brewery",1299030581,4.5,4,4.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"110",1114,"Bullfrog Brewery",1278570589,2,2.5,3.5,"American Wild Ale",3,2,"El Rojo Diablo",8,49525
-"111",1114,"Bullfrog Brewery",1273166842,3,3.5,3.5,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
-"112",1114,"Bullfrog Brewery",1273126364,1,2,2,"American Wild Ale",1.5,2,"El Rojo Diablo",8,49525
-"113",1114,"Bullfrog Brewery",1268956968,4,4,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"114",1114,"Bullfrog Brewery",1267119037,3,4,3.5,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
-"115",1114,"Bullfrog Brewery",1259084803,3.5,4,3.5,"American Wild Ale",3.5,4,"El Rojo Diablo",8,49525
-"116",1114,"Bullfrog Brewery",1253812906,4,4.5,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"117",1114,"Bullfrog Brewery",1251763920,4,4,3.5,"American Wild Ale",3.5,3.5,"El Rojo Diablo",8,49525
-"118",1114,"Bullfrog Brewery",1251159884,3.5,4,3.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"119",1114,"Bullfrog Brewery",1251154609,3,2.5,4,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
-"120",1114,"Bullfrog Brewery",1251071118,3,3.5,4,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
-"121",1114,"Bullfrog Brewery",1250668265,4,4.5,4,"American Wild Ale",4.5,4.5,"El Rojo Diablo",8,49525
-"122",1114,"Bullfrog Brewery",1250106233,4,4,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"123",1114,"Bullfrog Brewery",1248925687,3,3.5,3,"American Wild Ale",2.5,2.5,"El Rojo Diablo",8,49525
-"124",1114,"Bullfrog Brewery",1248721321,2,3,4,"American Wild Ale",3,2.5,"El Rojo Diablo",8,49525
-"125",1114,"Bullfrog Brewery",1244646932,2,2.5,2.5,"American Wild Ale",3,3,"El Rojo Diablo",8,49525
-"126",1114,"Bullfrog Brewery",1243785808,3,3.5,4,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
-"127",1114,"Bullfrog Brewery",1243425628,3.5,4,4,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
-"128",1114,"Bullfrog Brewery",1243295007,4.5,4.5,4,"American Wild Ale",4.5,4.5,"El Rojo Diablo",8,49525
-"129",1114,"Bullfrog Brewery",1242498010,3,3.5,4.5,"American Wild Ale",4,2.5,"El Rojo Diablo",8,49525
-"130",1114,"Bullfrog Brewery",1242077106,4,4,4,"American Wild Ale",4.5,4,"El Rojo Diablo",8,49525
-"131",1114,"Bullfrog Brewery",1241222595,3,4.5,4.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
-"132",1114,"Bullfrog Brewery",1241221345,4,3,4.5,"American Wild Ale",4,3,"El Rojo Diablo",8,49525
-"133",1114,"Bullfrog Brewery",1310406587,5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
-"134",1114,"Bullfrog Brewery",1309647926,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
-"135",1114,"Bullfrog Brewery",1303148394,4.5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
-"136",1114,"Bullfrog Brewery",1303098966,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
-"137",1114,"Bullfrog Brewery",1263704907,4.5,4.5,4,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
-"138",1114,"Bullfrog Brewery",1298342902,4.5,4,4.5,"American Wild Ale",5,5,"Black Cherry Bomb",NA,44934
-"139",1114,"Bullfrog Brewery",1292137261,4.5,4.5,4,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
-"140",1114,"Bullfrog Brewery",1289139491,4.5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
-"141",1114,"Bullfrog Brewery",1286123458,5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
-"142",1114,"Bullfrog Brewery",1278525387,5,5,3.5,"American Wild Ale",4,5,"Black Cherry Bomb",NA,44934
-"143",1114,"Bullfrog Brewery",1276460993,4,4.5,4,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
-"144",1114,"Bullfrog Brewery",1265049820,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
-"145",1114,"Bullfrog Brewery",1294757062,4,3.5,4.5,"American IPA",4,4,"Undead Ed",NA,52805
-"146",1114,"Bullfrog Brewery",1263094461,4,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
-"147",1114,"Bullfrog Brewery",1251321111,4.5,4,3.5,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
-"148",1114,"Bullfrog Brewery",1248696083,4,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
-"149",1114,"Bullfrog Brewery",1240254947,5,4.5,4.5,"American Wild Ale",4.5,5,"Black Cherry Bomb",NA,44934
-"150",1114,"Bullfrog Brewery",1231651268,5,4.5,4.5,"American Wild Ale",5,5,"Black Cherry Bomb",NA,44934
-"151",1114,"Bullfrog Brewery",1226021993,4.5,4.5,4.5,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
-"152",1114,"Bullfrog Brewery",1285082189,4,4,4,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
-"153",1114,"Bullfrog Brewery",1221959915,4,4.5,4,"American Wild Ale",4,4,"Black Cherry Bomb",NA,44934
-"154",1114,"Bullfrog Brewery",1298907310,4,4,4,"American IPA",4.5,3.5,"Undead Ed",NA,52805
-"155",1114,"Bullfrog Brewery",1297774905,3.5,3.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
-"156",1114,"Bullfrog Brewery",1297650272,3.5,3.5,4,"American IPA",3.5,3,"Undead Ed",NA,52805
-"157",1114,"Bullfrog Brewery",1292802465,3.5,4,4,"American IPA",3,4,"Undead Ed",NA,52805
-"158",1114,"Bullfrog Brewery",1292557701,2.5,2.5,2.5,"American IPA",3,2.5,"Undead Ed",NA,52805
-"159",1114,"Bullfrog Brewery",1289878525,3.5,3.5,4,"American IPA",4,3.5,"Undead Ed",NA,52805
-"160",1114,"Bullfrog Brewery",1288394937,2,3,3.5,"American IPA",3,2.5,"Undead Ed",NA,52805
-"161",1114,"Bullfrog Brewery",1288079430,1.5,3.5,3.5,"American IPA",1.5,2,"Undead Ed",NA,52805
-"162",1114,"Bullfrog Brewery",1287571825,4,4.5,4.5,"American IPA",4.5,4,"Undead Ed",NA,52805
-"163",1114,"Bullfrog Brewery",1285615596,4.5,4.5,4,"American IPA",4,4,"Undead Ed",NA,52805
-"164",1114,"Bullfrog Brewery",1284429373,4,4,3.5,"American IPA",4,4,"Undead Ed",NA,52805
-"165",1114,"Bullfrog Brewery",1283035321,3.5,4.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
-"166",1114,"Bullfrog Brewery",1256609710,4,3.5,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"167",1114,"Bullfrog Brewery",1283033723,4,4.5,4.5,"American IPA",4,4,"Undead Ed",NA,52805
-"168",1114,"Bullfrog Brewery",1274049585,4,4,4.5,"American IPA",4,3,"Undead Ed",NA,52805
-"169",1114,"Bullfrog Brewery",1271403000,2,3.5,3,"American IPA",1.5,2.5,"Undead Ed",NA,52805
-"170",1114,"Bullfrog Brewery",1271016163,3.5,4,4.5,"American IPA",4,4,"Undead Ed",NA,52805
-"171",1114,"Bullfrog Brewery",1269208726,4.5,4,4,"American IPA",3.5,4,"Undead Ed",NA,52805
-"172",1114,"Bullfrog Brewery",1268400568,4,4,4,"American IPA",4,4,"Undead Ed",NA,52805
-"173",1114,"Bullfrog Brewery",1267918366,4,4.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
-"174",1114,"Bullfrog Brewery",1258708866,4.5,4,3.5,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
-"175",1114,"Bullfrog Brewery",1267063585,4.5,4.5,4.5,"American IPA",4,4.5,"Undead Ed",NA,52805
-"176",1114,"Bullfrog Brewery",1265512458,5,4,3,"American IPA",5,4.5,"Undead Ed",NA,52805
-"177",1114,"Bullfrog Brewery",1263514580,4.5,4.5,4,"American IPA",4,4.5,"Undead Ed",NA,52805
-"178",1114,"Bullfrog Brewery",1263083523,4,2.5,4,"American IPA",4,4,"Undead Ed",NA,52805
-"179",1114,"Bullfrog Brewery",1262730780,4,4,3.5,"American IPA",4,4,"Undead Ed",NA,52805
-"180",1114,"Bullfrog Brewery",1261002229,4,4,4,"American IPA",4.5,4,"Undead Ed",NA,52805
-"181",1114,"Bullfrog Brewery",1258815037,4,4.5,4,"American IPA",4,4.5,"Undead Ed",NA,52805
-"182",1114,"Bullfrog Brewery",1257179756,4,4,3.5,"American IPA",3,4,"Undead Ed",NA,52805
-"183",1114,"Bullfrog Brewery",1256818077,3.5,4,3.5,"American IPA",3.5,4.5,"Undead Ed",NA,52805
-"184",1114,"Bullfrog Brewery",1256230501,3,3.5,3.5,"American IPA",3.5,3,"Undead Ed",NA,52805
-"185",1114,"Bullfrog Brewery",1254803816,3.5,4,3.5,"American IPA",3.5,4,"Undead Ed",NA,52805
-"186",1114,"Bullfrog Brewery",1253722865,4,4.5,3.5,"American IPA",3.5,4,"Undead Ed",NA,52805
-"187",1114,"Bullfrog Brewery",1256232563,4,4,3.5,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
-"188",1114,"Bullfrog Brewery",1253494236,4,4,4,"American IPA",4,3.5,"Undead Ed",NA,52805
-"189",1114,"Bullfrog Brewery",1315969524,4,4,5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
-"190",1114,"Bullfrog Brewery",1297215949,4,4.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"191",1114,"Bullfrog Brewery",1294650298,3.5,4,3,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
-"192",1114,"Bullfrog Brewery",1287616178,3.5,3.5,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"193",1114,"Bullfrog Brewery",1287579717,4,3.5,4,"American Wild Ale",4,3.5,"Liquid Sunshine Reserva",6,50934
-"194",1114,"Bullfrog Brewery",1285897828,4.5,4,4.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"195",1114,"Bullfrog Brewery",1275875250,4.5,4,4,"American Wild Ale",4.5,4.5,"Liquid Sunshine Reserva",6,50934
-"196",1114,"Bullfrog Brewery",1275869659,5,4,4,"American Wild Ale",4,4.5,"Liquid Sunshine Reserva",6,50934
-"197",1114,"Bullfrog Brewery",1273526698,4,4,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"198",1114,"Bullfrog Brewery",1273287375,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Liquid Sunshine Reserva",6,50934
-"199",1114,"Bullfrog Brewery",1264707113,4,4,3.5,"American Wild Ale",4,4.5,"Liquid Sunshine Reserva",6,50934
-"200",1114,"Bullfrog Brewery",1258766577,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"201",1114,"Bullfrog Brewery",1257915606,4,3,4,"American Wild Ale",4.5,3.5,"Liquid Sunshine Reserva",6,50934
-"202",1114,"Bullfrog Brewery",1278164946,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Chocolate Chili Christmas Thing",10,54920
-"203",1114,"Bullfrog Brewery",1254532318,4,4,3.5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
-"204",1114,"Bullfrog Brewery",1253849877,4,3.5,3.5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
-"205",1114,"Bullfrog Brewery",1253477950,4,3.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"206",1114,"Bullfrog Brewery",1253381573,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"207",1114,"Bullfrog Brewery",1252258110,3.5,3.5,3,"American Wild Ale",4,3.5,"Liquid Sunshine Reserva",6,50934
-"208",1114,"Bullfrog Brewery",1251670809,4,4,4,"American Wild Ale",3.5,3.5,"Liquid Sunshine Reserva",6,50934
-"209",1114,"Bullfrog Brewery",1264989215,3,4,4,"Belgian Strong Dark Ale",4,4,"Chocolate Chili Christmas Thing",10,54920
-"210",1114,"Bullfrog Brewery",1263834157,4,4.5,4.5,"Belgian Strong Dark Ale",4.5,5,"Chocolate Chili Christmas Thing",10,54920
-"211",1114,"Bullfrog Brewery",1251178326,4,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"212",1114,"Bullfrog Brewery",1251073026,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"213",1114,"Bullfrog Brewery",1248939468,4,4.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
-"214",1114,"Bullfrog Brewery",1246995629,4,4,3.5,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
-"215",1114,"Bullfrog Brewery",1288872332,3.5,5,4,"Belgian Strong Dark Ale",4,4,"Chocolate Chili Christmas Thing",10,54920
-"216",1114,"Bullfrog Brewery",1280328937,4.5,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Chocolate Chili Christmas Thing",10,54920
-"217",1114,"Bullfrog Brewery",1263789110,3,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Chocolate Chili Christmas Thing",10,54920
-"218",1114,"Bullfrog Brewery",1263246916,4.5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Chocolate Chili Christmas Thing",10,54920
-"219",1114,"Bullfrog Brewery",1261407720,4.5,4,4,"Belgian Strong Dark Ale",4,4.5,"Chocolate Chili Christmas Thing",10,54920
-"220",1114,"Bullfrog Brewery",1238987325,4.5,4.5,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
-"221",1114,"Bullfrog Brewery",1115246354,3.5,4,4,"Flanders Oud Bruin",4,4.5,"Oud Bruin",6.8,16610
-"222",1114,"Bullfrog Brewery",1079571396,3.5,4.5,4.5,"Flanders Oud Bruin",3.5,4,"Oud Bruin",6.8,16610
-"223",1114,"Bullfrog Brewery",1325858153,5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
-"224",1114,"Bullfrog Brewery",1322416332,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
-"225",1114,"Bullfrog Brewery",1319772584,3.5,2.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Magic Beans",8,48985
-"226",1114,"Bullfrog Brewery",1308278634,4,3.5,4.5,"Saison / Farmhouse Ale",3.5,4,"Magic Beans",8,48985
-"227",1114,"Bullfrog Brewery",1241913717,4,4.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
-"228",1114,"Bullfrog Brewery",1297030570,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
-"229",1114,"Bullfrog Brewery",1279604778,1,2,3.5,"Saison / Farmhouse Ale",3.5,1.5,"Magic Beans",8,48985
-"230",1114,"Bullfrog Brewery",1278992446,2,3,4,"Saison / Farmhouse Ale",2,1,"Magic Beans",8,48985
-"231",1114,"Bullfrog Brewery",1274795059,4.5,4.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
-"232",1114,"Bullfrog Brewery",1272242002,4,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
-"233",1114,"Bullfrog Brewery",1263172105,4,4,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
-"234",1114,"Bullfrog Brewery",1253585426,4,4,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
-"235",1114,"Bullfrog Brewery",1241533985,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
-"236",1114,"Bullfrog Brewery",1252892360,4,4,4.5,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
-"237",1114,"Bullfrog Brewery",1251169816,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
-"238",1114,"Bullfrog Brewery",1251076768,3.5,4,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
-"239",1114,"Bullfrog Brewery",1250478546,2.5,1.5,3.5,"Saison / Farmhouse Ale",2,3,"Magic Beans",8,48985
-"240",1114,"Bullfrog Brewery",1249869481,1.5,2,3,"Saison / Farmhouse Ale",2,2,"Magic Beans",8,48985
-"241",1114,"Bullfrog Brewery",1248748629,4.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
-"242",1114,"Bullfrog Brewery",1248403626,4,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
-"243",1114,"Bullfrog Brewery",1248384727,2.5,1.5,4,"Saison / Farmhouse Ale",3.5,2,"Magic Beans",8,48985
-"244",1114,"Bullfrog Brewery",1245853424,3.5,4.5,4,"Saison / Farmhouse Ale",3.5,4,"Magic Beans",8,48985
-"245",1114,"Bullfrog Brewery",1245606385,2,2.5,3,"Saison / Farmhouse Ale",3,2.5,"Magic Beans",8,48985
-"246",1114,"Bullfrog Brewery",1243786514,4,3.5,4,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
-"247",1114,"Bullfrog Brewery",1243039312,3,3,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
-"248",1114,"Bullfrog Brewery",1243007438,4,3,4,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
-"249",1114,"Bullfrog Brewery",1241442316,4,4,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
-"250",1114,"Bullfrog Brewery",1241247112,2,2,3,"Saison / Farmhouse Ale",4,2,"Magic Beans",8,48985
-"251",1114,"Bullfrog Brewery",1241050810,4.5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
-"252",1114,"Bullfrog Brewery",1240878117,4.5,5,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
-"253",1114,"Bullfrog Brewery",1240856176,5,4.5,4,"Saison / Farmhouse Ale",5,5,"Magic Beans",8,48985
-"254",1114,"Bullfrog Brewery",1239827633,5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
-"255",1114,"Bullfrog Brewery",1239332091,5,5,4.5,"Saison / Farmhouse Ale",4.5,5,"Magic Beans",8,48985
-"256",1114,"Bullfrog Brewery",1239160931,5,5,4,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
-"257",1114,"Bullfrog Brewery",1306203678,4,4,4,"American Porter",4,4.5,"Smoked Porter",6,34930
-"258",1114,"Bullfrog Brewery",1315969323,4,4.5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"259",1114,"Bullfrog Brewery",1308138964,4,3.5,5,"Scotch Ale / Wee Heavy",4,3.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"260",1114,"Bullfrog Brewery",1247711360,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"261",1114,"Bullfrog Brewery",1245019065,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"262",1114,"Bullfrog Brewery",1242449324,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"263",1114,"Bullfrog Brewery",1238891924,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"264",1114,"Bullfrog Brewery",1236716789,5,4,4,"Scotch Ale / Wee Heavy",5,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"265",1114,"Bullfrog Brewery",1236059124,4.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
-"266",1114,"Bullfrog Brewery",1269555482,4.5,4.5,4.5,"American Porter",4.5,4.5,"Smoked Porter",6,34930
-"267",1114,"Bullfrog Brewery",1266418242,4,4.5,4,"American Porter",4.5,4,"Smoked Porter",6,34930
-"268",1114,"Bullfrog Brewery",1264533873,4.5,4,3,"American Porter",4,4.5,"Smoked Porter",6,34930
-"269",1114,"Bullfrog Brewery",1262116111,4,4,3.5,"American Porter",3.5,4,"Smoked Porter",6,34930
-"270",1114,"Bullfrog Brewery",1236457970,3,4,4,"American Porter",3.5,3.5,"Smoked Porter",6,34930
-"271",1114,"Bullfrog Brewery",1234827743,4,4.5,4,"American Porter",4.5,4,"Smoked Porter",6,34930
-"272",1114,"Bullfrog Brewery",1205668202,5,4,4,"American Porter",4,4.5,"Smoked Porter",6,34930
-"273",1114,"Bullfrog Brewery",1289707203,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Hop-Gasm",9.2,62058
-"274",1114,"Bullfrog Brewery",1249263417,4.5,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Water Of Life",3.8,50872
-"275",1114,"Bullfrog Brewery",1249092292,4.5,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Water Of Life",3.8,50872
-"276",1114,"Bullfrog Brewery",1248996133,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
-"277",1114,"Bullfrog Brewery",1248976412,4,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Water Of Life",3.8,50872
-"278",1114,"Bullfrog Brewery",1246839920,4.5,4,3.5,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
-"279",1114,"Bullfrog Brewery",1246651790,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Water Of Life",3.8,50872
-"280",1114,"Bullfrog Brewery",1310284042,4,3.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"281",1114,"Bullfrog Brewery",1315968462,4,4.5,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
-"282",1114,"Bullfrog Brewery",1311648917,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"El Diablo",7.4,55790
-"283",1114,"Bullfrog Brewery",1287709834,4,4,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
-"284",1114,"Bullfrog Brewery",1285791701,3,4,4,"Belgian Strong Pale Ale",3.5,4,"El Diablo",7.4,55790
-"285",1114,"Bullfrog Brewery",1285708913,4,4,4,"Belgian Strong Pale Ale",3.5,4,"El Diablo",7.4,55790
-"286",1114,"Bullfrog Brewery",1285645332,4,3.5,3.5,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
-"287",1114,"Bullfrog Brewery",1284506934,4.5,4.5,4.5,"Belgian Strong Pale Ale",4,4.5,"El Diablo",7.4,55790
-"288",1114,"Bullfrog Brewery",1283648111,4,4.5,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
-"289",1114,"Bullfrog Brewery",1265642358,5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"El Diablo",7.4,55790
-"290",1114,"Bullfrog Brewery",1271863159,4,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Saison Noire",7.5,45106
-"291",1114,"Bullfrog Brewery",1264977843,4.5,4.5,4.5,"Belgian Strong Pale Ale",4.5,4.5,"El Diablo",7.4,55790
-"292",1114,"Bullfrog Brewery",1308277420,4.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"BeeSting",8,31812
-"293",1114,"Bullfrog Brewery",1325273948,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"294",1114,"Bullfrog Brewery",1301953131,3.5,3.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"295",1114,"Bullfrog Brewery",1292120706,5,4.5,5,"Saison / Farmhouse Ale",4.5,5,"BeeSting",8,31812
-"296",1114,"Bullfrog Brewery",1273462116,4,4,4,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
-"297",1114,"Bullfrog Brewery",1270158380,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"298",1114,"Bullfrog Brewery",1263942027,4.5,3.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
-"299",1114,"Bullfrog Brewery",1258438512,2.5,2,3.5,"Saison / Farmhouse Ale",3,2,"BeeSting",8,31812
-"300",1114,"Bullfrog Brewery",1257285323,4,4,4.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"301",1114,"Bullfrog Brewery",1255066638,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"302",1114,"Bullfrog Brewery",1270158477,4,4,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
-"303",1114,"Bullfrog Brewery",1247711826,4.5,4,4.5,"Saison / Farmhouse Ale",4,3.5,"BeeSting",8,31812
-"304",1114,"Bullfrog Brewery",1244658479,3,3.5,4,"Saison / Farmhouse Ale",4,3,"BeeSting",8,31812
-"305",1114,"Bullfrog Brewery",1244329265,4,4.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"306",1114,"Bullfrog Brewery",1244319002,4,4.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"307",1114,"Bullfrog Brewery",1244259612,4,4.5,4,"Saison / Farmhouse Ale",3.5,4.5,"BeeSting",8,31812
-"308",1114,"Bullfrog Brewery",1243214944,4,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
-"309",1114,"Bullfrog Brewery",1243166528,5,4.5,4.5,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
-"310",1114,"Bullfrog Brewery",1305296170,4,4,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"311",1114,"Bullfrog Brewery",1238473115,3.5,4.5,4,"Saison / Farmhouse Ale",4,3.5,"BeeSting",8,31812
-"312",1114,"Bullfrog Brewery",1238442347,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
-"313",1114,"Bullfrog Brewery",1236921147,5,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"314",1114,"Bullfrog Brewery",1232019447,4.5,4,3.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"315",1114,"Bullfrog Brewery",1231442408,3.5,4,3.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"316",1114,"Bullfrog Brewery",1217809531,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
-"317",1114,"Bullfrog Brewery",1217196781,4.5,3.5,4,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
-"318",1114,"Bullfrog Brewery",1153515505,3,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"BeeSting",8,31812
-"319",1114,"Bullfrog Brewery",1321986706,4,3.5,4,"American Wild Ale",4,3.5,"Tim And Kathy's Strawberry Fields",6,58107
-"320",1114,"Bullfrog Brewery",1254493005,4,4.5,4,"American IPA",3.5,4.5,"Edgar IPA",8,21328
-"321",1114,"Bullfrog Brewery",1312210278,4,3.5,4,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
-"322",1114,"Bullfrog Brewery",1312071985,4,4,3.5,"American Wild Ale",4,3.5,"Tim And Kathy's Strawberry Fields",6,58107
-"323",1114,"Bullfrog Brewery",1279653905,4,4.5,4,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
-"324",1114,"Bullfrog Brewery",1277925947,4.5,4.5,4,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
-"325",1114,"Bullfrog Brewery",1274362140,4.5,4,4,"American Wild Ale",4,3,"Tim And Kathy's Strawberry Fields",6,58107
-"326",1114,"Bullfrog Brewery",1273527913,4,4,4.5,"American Wild Ale",4.5,4,"Tim And Kathy's Strawberry Fields",6,58107
-"327",1114,"Bullfrog Brewery",1230496686,3,3.5,3.5,"American IPA",3,3.5,"Edgar IPA",8,21328
-"328",1114,"Bullfrog Brewery",1273447640,4,4.5,3.5,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
-"329",1114,"Bullfrog Brewery",1273292637,4.5,5,4,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
-"330",1114,"Bullfrog Brewery",1273281522,2,3.5,4,"American Wild Ale",3,2.5,"Tim And Kathy's Strawberry Fields",6,58107
-"331",1114,"Bullfrog Brewery",1273247051,5,4,4.5,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
-"332",1114,"Bullfrog Brewery",1324595021,4,4,3.5,"American IPA",4.5,4,"Edgar IPA",8,21328
-"333",1114,"Bullfrog Brewery",1319466577,4,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
-"334",1114,"Bullfrog Brewery",1309230300,4.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
-"335",1114,"Bullfrog Brewery",1309133979,4.5,4,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
-"336",1114,"Bullfrog Brewery",1303175250,4,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
-"337",1114,"Bullfrog Brewery",1303062894,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"338",1114,"Bullfrog Brewery",1296400302,4,4.5,3,"American IPA",4,4,"Edgar IPA",8,21328
-"339",1114,"Bullfrog Brewery",1295918141,4,4,3.5,"American IPA",3.5,4,"Edgar IPA",8,21328
-"340",1114,"Bullfrog Brewery",1295487289,4,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"341",1114,"Bullfrog Brewery",1289610039,4.5,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
-"342",1114,"Bullfrog Brewery",1289275225,3.5,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
-"343",1114,"Bullfrog Brewery",1279732733,4,3.5,3.5,"American IPA",3.5,4.5,"Edgar IPA",8,21328
-"344",1114,"Bullfrog Brewery",1279591543,4,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"345",1114,"Bullfrog Brewery",1278895620,3.5,4,4,"American IPA",3.5,3.5,"Edgar IPA",8,21328
-"346",1114,"Bullfrog Brewery",1278871103,4,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
-"347",1114,"Bullfrog Brewery",1278181996,4,3.5,4,"American IPA",4,4,"Edgar IPA",8,21328
-"348",1114,"Bullfrog Brewery",1271021009,4,4.5,4,"American IPA",4,4,"Edgar IPA",8,21328
-"349",1114,"Bullfrog Brewery",1269868596,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"350",1114,"Bullfrog Brewery",1266417848,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"351",1114,"Bullfrog Brewery",1261970165,3.5,3,4,"American IPA",4,4,"Edgar IPA",8,21328
-"352",1114,"Bullfrog Brewery",1260000933,3,3.5,4.5,"American IPA",3.5,3,"Edgar IPA",8,21328
-"353",1114,"Bullfrog Brewery",1259935870,4,4.5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"354",1114,"Bullfrog Brewery",1258153654,3.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
-"355",1114,"Bullfrog Brewery",1257472968,3.5,4,4,"American IPA",4,3.5,"Edgar IPA",8,21328
-"356",1114,"Bullfrog Brewery",1256842187,4,4.5,4.5,"American IPA",4,4,"Edgar IPA",8,21328
-"357",1114,"Bullfrog Brewery",1255724301,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"358",1114,"Bullfrog Brewery",1254968046,4,3.5,4,"American IPA",3.5,3.5,"Edgar IPA",8,21328
-"359",1114,"Bullfrog Brewery",1254873007,4.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
-"360",1114,"Bullfrog Brewery",1254761592,4,4.5,4,"American IPA",4,4,"Edgar IPA",8,21328
-"361",1114,"Bullfrog Brewery",1260057299,4.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
-"362",1114,"Bullfrog Brewery",1253660385,4,4.5,4.5,"American IPA",4,4,"Edgar IPA",8,21328
-"363",1114,"Bullfrog Brewery",1252977832,4.5,4,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"364",1114,"Bullfrog Brewery",1252208035,3.5,4,4,"American IPA",3.5,4,"Edgar IPA",8,21328
-"365",1114,"Bullfrog Brewery",1251671291,2.5,3,4.5,"American IPA",2.5,2,"Edgar IPA",8,21328
-"366",1114,"Bullfrog Brewery",1251510242,3.5,3.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
-"367",1114,"Bullfrog Brewery",1251235319,4,4,4.5,"American IPA",4.5,4,"Edgar IPA",8,21328
-"368",1114,"Bullfrog Brewery",1250723019,4,4,4.5,"American IPA",4,4,"Edgar IPA",8,21328
-"369",1114,"Bullfrog Brewery",1249929621,4.5,3.5,3.5,"American IPA",4.5,3.5,"Edgar IPA",8,21328
-"370",1114,"Bullfrog Brewery",1249773139,3,3.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
-"371",1114,"Bullfrog Brewery",1249692361,4,3.5,4,"American IPA",4.5,3.5,"Edgar IPA",8,21328
-"372",1114,"Bullfrog Brewery",1249597283,4,3,4,"American IPA",4,4,"Edgar IPA",8,21328
-"373",1114,"Bullfrog Brewery",1248819638,3.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"374",1114,"Bullfrog Brewery",1248475575,2.5,3,4,"American IPA",4,3,"Edgar IPA",8,21328
-"375",1114,"Bullfrog Brewery",1149422215,4.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"376",1114,"Bullfrog Brewery",1248458663,3,4,4,"American IPA",4,3.5,"Edgar IPA",8,21328
-"377",1114,"Bullfrog Brewery",1247528468,4,4,4,"American IPA",3.5,4,"Edgar IPA",8,21328
-"378",1114,"Bullfrog Brewery",1245547174,4.5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"379",1114,"Bullfrog Brewery",1244320358,4.5,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
-"380",1114,"Bullfrog Brewery",1241587947,5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"381",1114,"Bullfrog Brewery",1237293172,4,5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"382",1114,"Bullfrog Brewery",1233693573,4.5,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"383",1114,"Bullfrog Brewery",1232226794,4.5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"384",1114,"Bullfrog Brewery",1232158755,4.5,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"385",1114,"Bullfrog Brewery",1231790864,4,3.5,4,"American IPA",4,4,"Edgar IPA",8,21328
-"386",1114,"Bullfrog Brewery",1230571900,4.5,4,4,"American IPA",4.5,4,"Edgar IPA",8,21328
-"387",1114,"Bullfrog Brewery",1219025691,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"388",1114,"Bullfrog Brewery",1212892974,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"389",1114,"Bullfrog Brewery",1212773318,4,4,4.5,"American IPA",4.5,4,"Edgar IPA",8,21328
-"390",1114,"Bullfrog Brewery",1204165864,3.5,4.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
-"391",1114,"Bullfrog Brewery",1202990791,5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"392",1114,"Bullfrog Brewery",1190318337,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
-"393",1114,"Bullfrog Brewery",1178512355,4,4,3.5,"American IPA",3.5,3.5,"Edgar IPA",8,21328
-"394",1114,"Bullfrog Brewery",1171937280,4,3.5,4.5,"American IPA",4,5,"Edgar IPA",8,21328
-"395",1114,"Bullfrog Brewery",1158617659,4,4,3.5,"American IPA",4,3.5,"Edgar IPA",8,21328
-"396",1114,"Bullfrog Brewery",1148619852,4.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
-"397",1114,"Bullfrog Brewery",1129659042,4,3.5,4,"American IPA",3.5,4,"Edgar IPA",8,21328
-"398",1114,"Bullfrog Brewery",1121733574,4.5,5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"399",1114,"Bullfrog Brewery",1120568451,4.5,4.5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
-"400",1114,"Bullfrog Brewery",1115647650,4,4.5,4,"American IPA",3,4.5,"Edgar IPA",8,21328
-"401",1114,"Bullfrog Brewery",1104336890,4,5,3,"American IPA",4,4.5,"Edgar IPA",8,21328
-"402",1114,"Bullfrog Brewery",1079536203,3.5,4,4,"Altbier",4,4,"Sticke Alt",6.2,16591
-"403",1114,"Bullfrog Brewery",1240658477,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
-"404",1114,"Bullfrog Brewery",1310802381,4,3.5,3,"Belgian Strong Pale Ale",4,3.5,"Diabolique",7.75,33208
-"405",1114,"Bullfrog Brewery",1308278375,4.5,4.5,4.5,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
-"406",1114,"Bullfrog Brewery",1270389551,4.5,4,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
-"407",1114,"Bullfrog Brewery",1267109696,3,3.5,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Diabolique",7.75,33208
-"408",1114,"Bullfrog Brewery",1266417716,4.5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Diabolique",7.75,33208
-"409",1114,"Bullfrog Brewery",1261186862,4,4,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
-"410",1114,"Bullfrog Brewery",1257025142,4,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
-"411",1114,"Bullfrog Brewery",1241588094,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
-"412",1114,"Bullfrog Brewery",1217896292,4.5,4,5,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
-"413",1114,"Bullfrog Brewery",1160757923,3.5,4,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Diabolique",7.75,33208
-"414",1114,"Bullfrog Brewery",1314493953,3.5,4,4,"Flanders Red Ale",3.5,3.5,"The Jaspers",6,58108
-"415",1114,"Bullfrog Brewery",1313727206,3.5,3.5,4,"Flanders Red Ale",4,3.5,"The Jaspers",6,58108
-"416",1114,"Bullfrog Brewery",1304570416,4,4,3.5,"Flanders Red Ale",3.5,4,"The Jaspers",6,58108
-"417",1114,"Bullfrog Brewery",1304570081,4,4,3.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"418",1114,"Bullfrog Brewery",1302222013,3,3.5,3,"Flanders Red Ale",3,3,"The Jaspers",6,58108
-"419",1114,"Bullfrog Brewery",1297628337,4,4.5,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
-"420",1114,"Bullfrog Brewery",1296596623,4.5,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"421",1114,"Bullfrog Brewery",1294898394,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"422",1114,"Bullfrog Brewery",1294090536,4,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"423",1114,"Bullfrog Brewery",1294015925,4.5,4,4.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"424",1114,"Bullfrog Brewery",1288575209,4.5,5,4.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"425",1114,"Bullfrog Brewery",1286302660,4,4,4.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"426",1114,"Bullfrog Brewery",1286032379,4.5,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"427",1114,"Bullfrog Brewery",1285594321,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"428",1114,"Bullfrog Brewery",1284340181,5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"429",1114,"Bullfrog Brewery",1283827633,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"430",1114,"Bullfrog Brewery",1283453452,3.5,4,3.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"431",1114,"Bullfrog Brewery",1283318868,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"432",1114,"Bullfrog Brewery",1283126460,4.5,4.5,3.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"433",1114,"Bullfrog Brewery",1282575864,4,3.5,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"434",1114,"Bullfrog Brewery",1282441534,4.5,4.5,4,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"435",1114,"Bullfrog Brewery",1282420019,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"436",1114,"Bullfrog Brewery",1274653182,4,4.5,4,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"437",1114,"Bullfrog Brewery",1281768964,4.5,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"438",1114,"Bullfrog Brewery",1280900186,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"439",1114,"Bullfrog Brewery",1280347565,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"440",1114,"Bullfrog Brewery",1279610475,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"441",1114,"Bullfrog Brewery",1279603939,4,3.5,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"442",1114,"Bullfrog Brewery",1279526215,3.5,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
-"443",1114,"Bullfrog Brewery",1278672465,4,4.5,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
-"444",1114,"Bullfrog Brewery",1277610926,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"445",1114,"Bullfrog Brewery",1276618756,4,4,3.5,"Flanders Red Ale",3,4,"The Jaspers",6,58108
-"446",1114,"Bullfrog Brewery",1274495077,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"447",1114,"Bullfrog Brewery",1274399749,4.5,4,4.5,"Flanders Red Ale",2.5,4.5,"The Jaspers",6,58108
-"448",1114,"Bullfrog Brewery",1274377517,4.5,3.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"449",1114,"Bullfrog Brewery",1274245575,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"450",1114,"Bullfrog Brewery",1274232543,3.5,3.5,4,"Flanders Red Ale",2.5,3.5,"The Jaspers",6,58108
-"451",1114,"Bullfrog Brewery",1274122351,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
-"452",1114,"Bullfrog Brewery",1301950942,4,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
-"453",1114,"Bullfrog Brewery",1273841045,4.5,4,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
-"454",1114,"Bullfrog Brewery",1273709106,4.5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"455",1114,"Bullfrog Brewery",1273383061,4.5,4.5,4.5,"Flanders Red Ale",4.5,5,"The Jaspers",6,58108
-"456",1114,"Bullfrog Brewery",1273249014,4.5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
-"457",1114,"Bullfrog Brewery",1301445758,4,4,4.5,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
-"458",1114,"Bullfrog Brewery",1258836883,4,4,4.5,"Saison / Farmhouse Ale",4,3,"Saison Noire",7.5,45106
-"459",1114,"Bullfrog Brewery",1256075165,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Saison Noire",7.5,45106
-"460",1114,"Bullfrog Brewery",1253493420,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
-"461",1114,"Bullfrog Brewery",1250477817,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
-"462",1114,"Bullfrog Brewery",1245639370,3.5,4,4.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
-"463",1114,"Bullfrog Brewery",1245605244,3.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
-"464",1114,"Bullfrog Brewery",1236948898,4,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
-"465",1114,"Bullfrog Brewery",1293155883,5,4,4,"English Dark Mild Ale",4,4,"Darkling",3.4,54847
-"466",1114,"Bullfrog Brewery",1232019281,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
-"467",1114,"Bullfrog Brewery",1222707415,3.5,4,4,"Saison / Farmhouse Ale",3.5,4,"Saison Noire",7.5,45106
-"468",1114,"Bullfrog Brewery",1324535166,4,3.5,4,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
-"469",1114,"Bullfrog Brewery",1322446400,4,4,4,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
-"470",1114,"Bullfrog Brewery",1305768355,4,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
-"471",1114,"Bullfrog Brewery",1274832965,4,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
-"472",1114,"Bullfrog Brewery",1265910619,4.5,4,4,"English Dark Mild Ale",4,4,"Darkling",3.4,54847
-"473",1114,"Bullfrog Brewery",1234838282,3.5,4.5,4,"American Barleywine",3.5,4.5,"Old Toad Barleywine",11,24511
-"474",1114,"Bullfrog Brewery",1153515908,3.5,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
-"475",1114,"Bullfrog Brewery",1120652841,4,4.5,3.5,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
-"476",1114,"Bullfrog Brewery",1309228334,4,4,4,"American Pale Wheat Ale",4,4,"Citra-delic Summer Wheat",5,60878
-"477",1114,"Bullfrog Brewery",1299854221,4,4.5,4,"American Pale Wheat Ale",4,4,"Citra-delic Summer Wheat",5,60878
-"478",1114,"Bullfrog Brewery",1297362676,4.5,4,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"479",1114,"Bullfrog Brewery",1285703801,4.5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"480",1114,"Bullfrog Brewery",1284371700,5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"481",1114,"Bullfrog Brewery",1284253709,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"482",1114,"Bullfrog Brewery",1283649580,5,4.5,4,"American Pale Wheat Ale",5,5,"Citra-delic Summer Wheat",5,60878
-"483",1114,"Bullfrog Brewery",1282570327,5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"484",1114,"Bullfrog Brewery",1282511181,4.5,5,4,"American Pale Wheat Ale",4,4.5,"Citra-delic Summer Wheat",5,60878
-"485",1114,"Bullfrog Brewery",1281745489,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
-"486",1114,"Bullfrog Brewery",1281307718,5,4.5,4,"American Pale Wheat Ale",4.5,5,"Citra-delic Summer Wheat",5,60878
-"487",1114,"Bullfrog Brewery",1264965218,4.5,4,4,"English Dark Mild Ale",4.5,4,"Darkling",3.4,54847
-"488",1114,"Bullfrog Brewery",1261569694,5,3.5,4,"English Dark Mild Ale",4,4.5,"Darkling",3.4,54847
-"489",1114,"Bullfrog Brewery",1261166164,4,3.5,4.5,"English Dark Mild Ale",4.5,4,"Darkling",3.4,54847
-"490",1114,"Bullfrog Brewery",1308965679,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Saison Nouveau",6.5,70368
-"491",1114,"Bullfrog Brewery",1281144734,4,4.5,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
-"492",1114,"Bullfrog Brewery",1281029958,3,3,4,"Belgian IPA",4,2.5,"Thai P.A.",7.2,59383
-"493",1114,"Bullfrog Brewery",1087416288,4.5,4,4,"English Brown Ale",4,4.5,"Nut Brown Ale",4.8,16592
-"494",1114,"Bullfrog Brewery",1278972589,4.5,4.5,4.5,"Belgian IPA",4,4.5,"Thai P.A.",7.2,59383
-"495",1114,"Bullfrog Brewery",1278276726,4,4.5,4,"Belgian IPA",4.5,4,"Thai P.A.",7.2,59383
-"496",1114,"Bullfrog Brewery",1278164554,4,5,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
-"497",1114,"Bullfrog Brewery",1278113842,4,4,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
-"498",1114,"Bullfrog Brewery",1277734674,4,4,4.5,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
-"499",1114,"Bullfrog Brewery",1276991739,4,4.5,4,"Belgian IPA",4.5,4,"Thai P.A.",7.2,59383
-"500",1114,"Bullfrog Brewery",1318045204,4,4,4.5,"Belgian Pale Ale",4,4.5,"Unique Singel",NA,48206
-"501",1114,"Bullfrog Brewery",1277926889,4,3.5,3.5,"Belgian Pale Ale",4,4,"Unique Singel",NA,48206
-"502",1114,"Bullfrog Brewery",1247326483,4,4,4,"Belgian Pale Ale",4,4,"Unique Singel",NA,48206
-"503",1114,"Bullfrog Brewery",1244232548,3.5,4,4.5,"Belgian Pale Ale",4,3.5,"Unique Singel",NA,48206
-"504",1114,"Bullfrog Brewery",1242486897,5,4,4,"Belgian Pale Ale",3.5,4,"Unique Singel",NA,48206
-"505",1114,"Bullfrog Brewery",1241707924,4.5,4,4.5,"Belgian Pale Ale",4.5,4,"Unique Singel",NA,48206
-"506",1114,"Bullfrog Brewery",1236717143,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Unique Singel",NA,48206
-"507",1114,"Bullfrog Brewery",1235888928,3.5,4.5,4.5,"Belgian Pale Ale",4.5,3.5,"Unique Singel",NA,48206
-"508",1114,"Bullfrog Brewery",1292366982,4,4,4,"American Amber / Red Ale",4.5,4,"Sunrise Red",4.5,57503
-"509",1114,"Bullfrog Brewery",1291921230,4,3.5,3.5,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
-"510",1114,"Bullfrog Brewery",1287571649,4.5,4,4,"American Amber / Red Ale",4.5,4,"Sunrise Red",4.5,57503
-"511",1114,"Bullfrog Brewery",1275229413,4.5,4,4,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
-"512",1114,"Bullfrog Brewery",1274569683,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Sunrise Red",4.5,57503
-"513",1114,"Bullfrog Brewery",1273282544,4.5,3.5,4,"American Amber / Red Ale",3.5,4,"Sunrise Red",4.5,57503
-"514",1114,"Bullfrog Brewery",1271663002,4.5,4,4,"American Amber / Red Ale",4,4.5,"Sunrise Red",4.5,57503
-"515",1114,"Bullfrog Brewery",1271042489,4.5,4,4,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
-"516",1114,"Bullfrog Brewery",1259151714,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",4.8,16592
-"517",1114,"Bullfrog Brewery",1258382247,4,3.5,3.5,"English Brown Ale",4,4,"Nut Brown Ale",4.8,16592
-"518",1114,"Bullfrog Brewery",1233692622,4,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",4.8,16592
-"519",1114,"Bullfrog Brewery",1169696432,3,4,3.5,"English Brown Ale",3,3,"Nut Brown Ale",4.8,16592
-"520",1114,"Bullfrog Brewery",1299527625,3.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
-"521",1114,"Bullfrog Brewery",1296422610,5,4.5,5,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
-"522",1114,"Bullfrog Brewery",1296400889,3.5,3,3,"Saison / Farmhouse Ale",4,3.5,"Nightowl Saison",11.5,64665
-"523",1114,"Bullfrog Brewery",1295922616,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
-"524",1114,"Bullfrog Brewery",1295395397,4,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
-"525",1114,"Bullfrog Brewery",1322785480,3.5,4,3.5,"American Wild Ale",3,3,"Frambozen",6,50299
-"526",1114,"Bullfrog Brewery",1295141299,4,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Nightowl Saison",11.5,64665
-"527",1114,"Bullfrog Brewery",1294061157,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
-"528",1114,"Bullfrog Brewery",1293090848,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
-"529",1114,"Bullfrog Brewery",1296400511,4,2,3,"Märzen / Oktoberfest",2,2.5,"Festivus",5.1,62864
-"530",1114,"Bullfrog Brewery",1287952545,4.5,4,4,"Märzen / Oktoberfest",4.5,4,"Festivus",5.1,62864
-"531",1114,"Bullfrog Brewery",1323638366,4.5,4.5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
-"532",1114,"Bullfrog Brewery",1292033245,5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
-"533",1114,"Bullfrog Brewery",1319944000,4,4.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"534",1114,"Bullfrog Brewery",1319390194,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"535",1114,"Bullfrog Brewery",1315630982,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"536",1114,"Bullfrog Brewery",1299782222,4.5,4.5,5,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"537",1114,"Bullfrog Brewery",1294897860,4,4.5,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
-"538",1114,"Bullfrog Brewery",1294555486,4.5,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"539",1114,"Bullfrog Brewery",1293409300,4.5,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"540",1114,"Bullfrog Brewery",1276698667,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"541",1114,"Bullfrog Brewery",1292632444,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"542",1114,"Bullfrog Brewery",1291856791,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
-"543",1114,"Bullfrog Brewery",1287570941,4.5,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"544",1114,"Bullfrog Brewery",1287235771,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"545",1114,"Bullfrog Brewery",1280027470,4.5,4.5,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"546",1114,"Bullfrog Brewery",1277585414,4,5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
-"547",1114,"Bullfrog Brewery",1276783408,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"548",1114,"Bullfrog Brewery",1287215928,4.5,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"549",1114,"Bullfrog Brewery",1275585898,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"550",1114,"Bullfrog Brewery",1275099543,4.5,3,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"551",1114,"Bullfrog Brewery",1273109589,3.5,3,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
-"552",1114,"Bullfrog Brewery",1272926180,4.5,4.5,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"553",1114,"Bullfrog Brewery",1271216178,3.5,3,3.5,"American Wild Ale",4,3.5,"Frambozen",6,50299
-"554",1114,"Bullfrog Brewery",1269874129,4.5,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"555",1114,"Bullfrog Brewery",1269206702,3.5,4.5,3.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"556",1114,"Bullfrog Brewery",1265778816,3.5,3.5,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
-"557",1114,"Bullfrog Brewery",1263254465,4,3.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"558",1114,"Bullfrog Brewery",1263173602,4,3.5,4,"American Wild Ale",3.5,3.5,"Frambozen",6,50299
-"559",1114,"Bullfrog Brewery",1262228904,2.5,3.5,3.5,"American Wild Ale",3,3,"Frambozen",6,50299
-"560",1114,"Bullfrog Brewery",1260641462,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"561",1114,"Bullfrog Brewery",1258850064,4,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"562",1114,"Bullfrog Brewery",1258780682,5,5,5,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
-"563",1114,"Bullfrog Brewery",1255225874,3.5,5,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"564",1114,"Bullfrog Brewery",1254893841,3.5,4.5,3.5,"American Wild Ale",2,3.5,"Frambozen",6,50299
-"565",1114,"Bullfrog Brewery",1254855588,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"566",1114,"Bullfrog Brewery",1254784412,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"567",1114,"Bullfrog Brewery",1254370282,3.5,4.5,4,"American Wild Ale",3.5,3,"Frambozen",6,50299
-"568",1114,"Bullfrog Brewery",1253813492,4,4.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"569",1114,"Bullfrog Brewery",1252899545,4,3.5,3.5,"American Wild Ale",3,3.5,"Frambozen",6,50299
-"570",1114,"Bullfrog Brewery",1251648722,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"571",1114,"Bullfrog Brewery",1251159115,4,4,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"572",1114,"Bullfrog Brewery",1251153008,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"573",1114,"Bullfrog Brewery",1251068679,4.5,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"574",1114,"Bullfrog Brewery",1250559478,3.5,4,4.5,"American Wild Ale",3.5,3,"Frambozen",6,50299
-"575",1114,"Bullfrog Brewery",1250283885,4,4,3,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"576",1114,"Bullfrog Brewery",1248053857,4.5,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
-"577",1114,"Bullfrog Brewery",1247553192,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
-"578",1114,"Bullfrog Brewery",1247549201,4,4,3.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"579",1114,"Bullfrog Brewery",1247548297,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
-"580",1114,"Bullfrog Brewery",1247001238,5,4.5,3.5,"American Wild Ale",4,5,"Frambozen",6,50299
-"581",1114,"Bullfrog Brewery",1246666541,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"582",1114,"Bullfrog Brewery",1246650112,3.5,3.5,3,"American Wild Ale",4,4,"Frambozen",6,50299
-"583",1114,"Bullfrog Brewery",1246520889,4,4,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
-"584",1114,"Bullfrog Brewery",1246115215,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
-"585",1114,"Bullfrog Brewery",1245982403,4,4,3.5,"American Wild Ale",4,4.5,"Frambozen",6,50299
-"586",1114,"Bullfrog Brewery",1245041685,3.5,4,4.5,"American Wild Ale",3.5,2.5,"Frambozen",6,50299
-"587",1114,"Bullfrog Brewery",1244669620,4.5,5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
-"588",1114,"Bullfrog Brewery",1244516689,3.5,4,4,"American Wild Ale",3,3.5,"Frambozen",6,50299
-"589",1114,"Bullfrog Brewery",1244506835,4,4.5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
-"590",1114,"Bullfrog Brewery",1244414796,3.5,4.5,3.5,"American Wild Ale",4,3,"Frambozen",6,50299
-"591",1114,"Bullfrog Brewery",1244401441,3,4,3,"American Wild Ale",3,2,"Frambozen",6,50299
-"592",1114,"Bullfrog Brewery",1244399509,4.5,4.5,4.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
-"593",1114,"Bullfrog Brewery",1244261584,4.5,5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
-"594",1114,"Bullfrog Brewery",1244261414,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
-"595",1114,"Bullfrog Brewery",1285480900,5,3.5,4,"Saison / Farmhouse Ale",5,4,"Busted Lawnmower",6.2,44798
-"596",1114,"Bullfrog Brewery",1287570485,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Deuane",10,56901
-"597",1114,"Bullfrog Brewery",1273506108,4.5,4.5,3.5,"American Double / Imperial IPA",3.5,4.5,"Deuane",10,56901
-"598",1114,"Bullfrog Brewery",1272640804,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
-"599",1114,"Bullfrog Brewery",1272601737,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Deuane",10,56901
-"600",1114,"Bullfrog Brewery",1272067169,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
-"601",1114,"Bullfrog Brewery",1271995945,4,4,4,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
-"602",1114,"Bullfrog Brewery",1271892404,3.5,5,4,"American Double / Imperial IPA",3.5,3.5,"Deuane",10,56901
-"603",1114,"Bullfrog Brewery",1271808966,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Deuane",10,56901
-"604",1114,"Bullfrog Brewery",1271729063,4,4,3.5,"American Double / Imperial IPA",4,4,"Deuane",10,56901
-"605",1114,"Bullfrog Brewery",1271708479,4.5,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
-"606",1114,"Bullfrog Brewery",1271626636,4.5,4,4,"American Double / Imperial IPA",4,4,"Deuane",10,56901
-"607",1114,"Bullfrog Brewery",1271101870,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
-"608",1114,"Bullfrog Brewery",1285383907,5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
-"609",1114,"Bullfrog Brewery",1270493307,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
-"610",1114,"Bullfrog Brewery",1270412280,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
-"611",1114,"Bullfrog Brewery",1269869644,4,3.5,4,"American Double / Imperial IPA",5,3.5,"Deuane",10,56901
-"612",1114,"Bullfrog Brewery",1269729054,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
-"613",1114,"Bullfrog Brewery",1269660025,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
-"614",1114,"Bullfrog Brewery",1228579204,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"615",1114,"Bullfrog Brewery",1269401680,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
-"616",1114,"Bullfrog Brewery",1269349730,5,4.5,4,"American Double / Imperial IPA",4,5,"Deuane",10,56901
-"617",1114,"Bullfrog Brewery",1269284842,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
-"618",1114,"Bullfrog Brewery",1269229288,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
-"619",1114,"Bullfrog Brewery",1269039166,5,4.5,5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
-"620",1114,"Bullfrog Brewery",1269037259,5,4,4.5,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
-"621",1114,"Bullfrog Brewery",1308278488,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"622",1114,"Bullfrog Brewery",1301014245,3.5,3.5,4,"Saison / Farmhouse Ale",4,3,"Busted Lawnmower",6.2,44798
-"623",1114,"Bullfrog Brewery",1285361759,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"624",1114,"Bullfrog Brewery",1284411759,4.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"625",1114,"Bullfrog Brewery",1274049893,4,4.5,5,"Saison / Farmhouse Ale",5,4,"Busted Lawnmower",6.2,44798
-"626",1114,"Bullfrog Brewery",1263685696,4,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
-"627",1114,"Bullfrog Brewery",1258381122,5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
-"628",1114,"Bullfrog Brewery",1257050976,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"629",1114,"Bullfrog Brewery",1256609062,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"630",1114,"Bullfrog Brewery",1256228049,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
-"631",1114,"Bullfrog Brewery",1262150128,5,4.5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"632",1114,"Bullfrog Brewery",1254848890,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"633",1114,"Bullfrog Brewery",1254521816,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Busted Lawnmower",6.2,44798
-"634",1114,"Bullfrog Brewery",1254141551,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
-"635",1114,"Bullfrog Brewery",1254086258,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"636",1114,"Bullfrog Brewery",1249014761,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Busted Lawnmower",6.2,44798
-"637",1114,"Bullfrog Brewery",1244733044,3.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"638",1114,"Bullfrog Brewery",1240825350,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
-"639",1114,"Bullfrog Brewery",1237000474,3.5,4,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
-"640",1114,"Bullfrog Brewery",1231532353,4,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
-"641",1114,"Bullfrog Brewery",1220957047,4.5,4.5,3.5,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
-"642",1114,"Bullfrog Brewery",1211608720,5,4.5,4,"Bock",4.5,4.5,"Chocolate Bock",6.8,42845
-"643",1114,"Bullfrog Brewery",1295143171,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
-"644",1114,"Bullfrog Brewery",1275400716,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
-"645",1114,"Bullfrog Brewery",1265908992,4,4,3.5,"Fruit / Vegetable Beer",4,4,"Apricot Wheat",5,54149
-"646",1114,"Bullfrog Brewery",1258379633,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
-"647",1114,"Bullfrog Brewery",1321728297,3.5,3.5,3.5,"Belgian Pale Ale",3,3.5,"Farmhouse Pale Ale",6,52488
-"648",1114,"Bullfrog Brewery",1280774321,4,4.5,4,"Belgian Pale Ale",4,4.5,"Farmhouse Pale Ale",6,52488
-"649",1114,"Bullfrog Brewery",1252687041,4,4,4,"Belgian Pale Ale",4,4,"Farmhouse Pale Ale",6,52488
-"650",1114,"Bullfrog Brewery",1252516633,4.5,4,3.5,"Belgian Pale Ale",4,4.5,"Farmhouse Pale Ale",6,52488
-"651",1114,"Bullfrog Brewery",1311647560,3.5,4,3.5,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"652",1114,"Bullfrog Brewery",1305216599,3.5,3.5,3.5,"American Stout",3.5,3.5,"Double Coffee Stout",7.3,53478
-"653",1114,"Bullfrog Brewery",1304555561,3.5,4,4.5,"American Stout",3,4,"Double Coffee Stout",7.3,53478
-"654",1114,"Bullfrog Brewery",1300647113,4.5,4.5,5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"655",1114,"Bullfrog Brewery",1300590814,4,4.5,4,"American Stout",4,4,"Double Coffee Stout",7.3,53478
-"656",1114,"Bullfrog Brewery",1300590601,3,3,4.5,"American Stout",3.5,3,"Double Coffee Stout",7.3,53478
-"657",1114,"Bullfrog Brewery",1299850916,4,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"658",1114,"Bullfrog Brewery",1297627883,4.5,4.5,3.5,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
-"659",1114,"Bullfrog Brewery",1297481274,4,4,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
-"660",1114,"Bullfrog Brewery",1296247234,4,4,4,"American Stout",4,4,"Double Coffee Stout",7.3,53478
-"661",1114,"Bullfrog Brewery",1295632821,4.5,4.5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"662",1114,"Bullfrog Brewery",1291949327,4,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"663",1114,"Bullfrog Brewery",1285430244,5,5,4.5,"American Stout",4.5,5,"Double Coffee Stout",7.3,53478
-"664",1114,"Bullfrog Brewery",1283819161,4.5,4.5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"665",1114,"Bullfrog Brewery",1283392533,4,4.5,4.5,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"666",1114,"Bullfrog Brewery",1278643835,4.5,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"667",1114,"Bullfrog Brewery",1275355344,4,4,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
-"668",1114,"Bullfrog Brewery",1275143963,4,5,4,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
-"669",1114,"Bullfrog Brewery",1274917132,4.5,5,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
-"670",1114,"Bullfrog Brewery",1274809230,3,3.5,4,"American Stout",3,3,"Double Coffee Stout",7.3,53478
-"671",1114,"Bullfrog Brewery",1274026363,4.5,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"672",1114,"Bullfrog Brewery",1273966889,4,4,4,"American Stout",3.5,3.5,"Double Coffee Stout",7.3,53478
-"673",1114,"Bullfrog Brewery",1273800844,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"674",1114,"Bullfrog Brewery",1272744589,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"675",1114,"Bullfrog Brewery",1272744330,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"676",1114,"Bullfrog Brewery",1272639947,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"677",1114,"Bullfrog Brewery",1272602256,4,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"678",1114,"Bullfrog Brewery",1271887096,3.5,3.5,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"679",1114,"Bullfrog Brewery",1271664010,4,5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"680",1114,"Bullfrog Brewery",1270484274,4.5,4,4.5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
-"681",1114,"Bullfrog Brewery",1268761490,4,4,3.5,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"682",1114,"Bullfrog Brewery",1268694474,4.5,4,4.5,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"683",1114,"Bullfrog Brewery",1267144840,4.5,4.5,5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
-"684",1114,"Bullfrog Brewery",1265769550,5,4.5,5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
-"685",1114,"Bullfrog Brewery",1265574406,5,5,5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"686",1114,"Bullfrog Brewery",1264967982,4.5,4.5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
-"687",1114,"Bullfrog Brewery",1262100963,4.5,4,4,"American Stout",3.5,4.5,"Double Coffee Stout",7.3,53478
-"688",1114,"Bullfrog Brewery",1261618889,4,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"689",1114,"Bullfrog Brewery",1259515667,4,5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"690",1114,"Bullfrog Brewery",1258262554,3.5,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
-"691",1114,"Bullfrog Brewery",1257195137,4.5,5,4.5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
-"692",1114,"Bullfrog Brewery",1256901623,4.5,4.5,4,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
-"693",1114,"Bullfrog Brewery",1256864186,5,4,4,"American Stout",5,5,"Double Coffee Stout",7.3,53478
-"694",1114,"Bullfrog Brewery",1255878534,4.5,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
-"695",1114,"Bullfrog Brewery",1324595768,4,4,3.5,"Saison / Farmhouse Ale",3,3.5,"Somnus Viduata",NA,70171
-"696",1114,"Bullfrog Brewery",1319899522,3,3,3.5,"Saison / Farmhouse Ale",3,2.5,"Somnus Viduata",NA,70171
-"697",1114,"Bullfrog Brewery",1317670330,4,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
-"698",1114,"Bullfrog Brewery",1317059785,3.5,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
-"699",1114,"Bullfrog Brewery",1312816773,4,4.5,4,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
-"700",1114,"Bullfrog Brewery",1312664069,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Somnus Viduata",NA,70171
-"701",1114,"Bullfrog Brewery",1311951676,3.5,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
-"702",1114,"Bullfrog Brewery",1308607705,4,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
-"703",1114,"Bullfrog Brewery",1308543060,4,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Somnus Viduata",NA,70171
-"704",1114,"Bullfrog Brewery",1308509508,4,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
-"705",1114,"Bullfrog Brewery",1310761636,4,4,4,"American Pale Wheat Ale",4.5,4,"Crystal-ized American Wheat",5,63013
-"706",1114,"Bullfrog Brewery",1292693916,4.5,4.5,4,"American Pale Wheat Ale",3.5,4,"Crystal-ized American Wheat",5,63013
-"707",1114,"Bullfrog Brewery",1291602528,5,4.5,3.5,"American Pale Wheat Ale",4,4.5,"Crystal-ized American Wheat",5,63013
-"708",1114,"Bullfrog Brewery",1291215522,4.5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
-"709",1114,"Bullfrog Brewery",1289829626,4.5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
-"710",1114,"Bullfrog Brewery",1288477802,4.5,4,4,"American Pale Wheat Ale",4.5,4,"Crystal-ized American Wheat",5,63013
-"711",1114,"Bullfrog Brewery",1323057181,4,4,3.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
-"712",1114,"Bullfrog Brewery",1321208189,3.5,3.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"713",1114,"Bullfrog Brewery",1319116771,2.5,3,3.5,"American Wild Ale",3,2,"El Diablo Deluxe",NA,59763
-"714",1114,"Bullfrog Brewery",1316069450,3,2.5,3.5,"American Wild Ale",4,2.5,"El Diablo Deluxe",NA,59763
-"715",1114,"Bullfrog Brewery",1315956980,4,4,4.5,"American Wild Ale",2.5,4,"El Diablo Deluxe",NA,59763
-"716",1114,"Bullfrog Brewery",1315424710,4,4,4,"American Wild Ale",3.5,4,"El Diablo Deluxe",NA,59763
-"717",1114,"Bullfrog Brewery",1315352051,4,4.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"718",1114,"Bullfrog Brewery",1311646393,3,3,4,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
-"719",1114,"Bullfrog Brewery",1295897084,3.5,4.5,4,"American Wild Ale",3.5,4,"El Diablo Deluxe",NA,59763
-"720",1114,"Bullfrog Brewery",1311570643,3,4,3.5,"American Wild Ale",3.5,2.5,"El Diablo Deluxe",NA,59763
-"721",1114,"Bullfrog Brewery",1309147372,3,4,4.5,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
-"722",1114,"Bullfrog Brewery",1309045999,3.5,3.5,4,"American Wild Ale",3,3,"El Diablo Deluxe",NA,59763
-"723",1114,"Bullfrog Brewery",1300665687,4,4,4,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
-"724",1114,"Bullfrog Brewery",1299202114,4,4,4,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"725",1114,"Bullfrog Brewery",1296334559,4,4,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
-"726",1114,"Bullfrog Brewery",1295923127,3,3.5,4,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
-"727",1114,"Bullfrog Brewery",1280900368,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"728",1114,"Bullfrog Brewery",1295836990,4,3.5,4,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"729",1114,"Bullfrog Brewery",1294109462,4.5,4,4.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
-"730",1114,"Bullfrog Brewery",1289175168,4,4,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
-"731",1114,"Bullfrog Brewery",1287616512,2,3.5,4,"American Wild Ale",2,2.5,"El Diablo Deluxe",NA,59763
-"732",1114,"Bullfrog Brewery",1287579099,4,3,4,"American Wild Ale",4,3,"El Diablo Deluxe",NA,59763
-"733",1114,"Bullfrog Brewery",1287571188,4,4.5,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
-"734",1114,"Bullfrog Brewery",1286657404,3.5,3.5,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"735",1114,"Bullfrog Brewery",1221885856,4,4,3.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"736",1114,"Bullfrog Brewery",1285140055,3,4,4.5,"American Wild Ale",3,2.5,"El Diablo Deluxe",NA,59763
-"737",1114,"Bullfrog Brewery",1284925079,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"738",1114,"Bullfrog Brewery",1284518727,4,3.5,4,"American Wild Ale",3,3.5,"El Diablo Deluxe",NA,59763
-"739",1114,"Bullfrog Brewery",1282152441,3.5,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"740",1114,"Bullfrog Brewery",1282093297,4.5,4,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"741",1114,"Bullfrog Brewery",1281635605,4,4,3.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"742",1114,"Bullfrog Brewery",1281561122,4,4,4.5,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
-"743",1114,"Bullfrog Brewery",1281465957,3.5,4,4,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
-"744",1114,"Bullfrog Brewery",1280894433,3.5,4,4,"American Wild Ale",2.5,4,"El Diablo Deluxe",NA,59763
-"745",1114,"Bullfrog Brewery",1280348062,4.5,4,4,"American Wild Ale",3.5,4.5,"El Diablo Deluxe",NA,59763
-"746",1114,"Bullfrog Brewery",1280253689,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"747",1114,"Bullfrog Brewery",1280114802,3.5,3.5,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"748",1114,"Bullfrog Brewery",1280084291,4,4,4.5,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
-"749",1114,"Bullfrog Brewery",1279903545,4,4,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
-"750",1114,"Bullfrog Brewery",1279801579,4.5,4.5,4,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
-"751",1114,"Bullfrog Brewery",1279604457,3.5,4.5,3.5,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
-"752",1114,"Bullfrog Brewery",1279332879,4.5,4.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"753",1114,"Bullfrog Brewery",1278987637,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"754",1114,"Bullfrog Brewery",1278470874,4,4.5,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
-"755",1114,"Bullfrog Brewery",1278341440,3.5,4,5,"American Wild Ale",4.5,3.5,"El Diablo Deluxe",NA,59763
-"756",1114,"Bullfrog Brewery",1278111960,4,5,4.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
-"757",1114,"Bullfrog Brewery",1233693398,4,4.5,4,"American Stout",4,4,"Coffee Cream Stout",5.8,42844
-"758",1114,"Bullfrog Brewery",1231110720,5,4.5,4.5,"American Stout",5,5,"Coffee Cream Stout",5.8,42844
-"759",1114,"Bullfrog Brewery",1220711309,4.5,4.5,5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"760",1114,"Bullfrog Brewery",1230519856,4,3.5,4,"American Stout",4.5,4,"Coffee Cream Stout",5.8,42844
-"761",1114,"Bullfrog Brewery",1211608225,5,3.5,4,"American Stout",4.5,4.5,"Coffee Cream Stout",5.8,42844
-"762",1114,"Bullfrog Brewery",1311649275,3.5,3.5,3.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
-"763",1114,"Bullfrog Brewery",1293249278,3.5,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"764",1114,"Bullfrog Brewery",1291615449,1.5,2,3,"Bière de Garde",2,2,"French Kiss",7.2,50233
-"765",1114,"Bullfrog Brewery",1289275788,4,4,4,"Bière de Garde",3.5,4,"French Kiss",7.2,50233
-"766",1114,"Bullfrog Brewery",1276998524,4,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"767",1114,"Bullfrog Brewery",1274364047,3.5,4.5,4,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
-"768",1114,"Bullfrog Brewery",1262291195,4,4.5,4.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"769",1114,"Bullfrog Brewery",1270842102,4.5,4,4.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"770",1114,"Bullfrog Brewery",1269572789,4,4,4,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"771",1114,"Bullfrog Brewery",1269291235,4,4,4,"Bière de Garde",3.5,4,"French Kiss",7.2,50233
-"772",1114,"Bullfrog Brewery",1268953422,4.5,3.5,4,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"773",1114,"Bullfrog Brewery",1266803827,4.5,4.5,5,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"774",1114,"Bullfrog Brewery",1263976375,4.5,4,4,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
-"775",1114,"Bullfrog Brewery",1262808282,4,4,4.5,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
-"776",1114,"Bullfrog Brewery",1262293432,3,4.5,3,"Bière de Garde",3,3,"French Kiss",7.2,50233
-"777",1114,"Bullfrog Brewery",1258815866,4,4,5,"Bière de Garde",4.5,3.5,"French Kiss",7.2,50233
-"778",1114,"Bullfrog Brewery",1258247444,4,3.5,4,"Bière de Garde",3.5,4.5,"French Kiss",7.2,50233
-"779",1114,"Bullfrog Brewery",1257121445,3.5,3.5,4,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"780",1114,"Bullfrog Brewery",1254887616,3.5,3.5,3.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
-"781",1114,"Bullfrog Brewery",1254868794,3.5,4,4.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"782",1114,"Bullfrog Brewery",1252518784,4,4,3.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"783",1114,"Bullfrog Brewery",1246150393,4,3.5,4,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
-"784",1114,"Bullfrog Brewery",1245809997,4,3.5,4.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
-"785",1114,"Bullfrog Brewery",1245269976,4,4,4,"Bière de Garde",4,4,"French Kiss",7.2,50233
-"786",1114,"Bullfrog Brewery",1245180793,3.5,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
-"787",1114,"Bullfrog Brewery",1244352449,2.5,5,3,"Bière de Garde",2.5,2.5,"French Kiss",7.2,50233
-"788",1114,"Bullfrog Brewery",1243902139,4,3.5,3.5,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
-"789",1114,"Bullfrog Brewery",1283129222,4,4.5,4,"Russian Imperial Stout",4,4,"Lights Out Stout",NA,43001
-"790",1114,"Bullfrog Brewery",1215363533,5,4.5,5,"Russian Imperial Stout",5,5,"Lights Out Stout",NA,43001
-"791",1114,"Bullfrog Brewery",1266694814,3.5,4,4.5,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"792",1114,"Bullfrog Brewery",1317787311,5,4.5,4,"American Wild Ale",4,5,"Beekeeper",8.5,42999
-"793",1114,"Bullfrog Brewery",1315969110,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"794",1114,"Bullfrog Brewery",1303149198,4.5,4,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"795",1114,"Bullfrog Brewery",1293156110,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"796",1114,"Bullfrog Brewery",1265048646,3.5,4.5,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"797",1114,"Bullfrog Brewery",1263601014,4,4,4,"American Wild Ale",3.5,4.5,"Beekeeper",8.5,42999
-"798",1114,"Bullfrog Brewery",1263091047,4,4.5,5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"799",1114,"Bullfrog Brewery",1251161305,4.5,4.5,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"800",1114,"Bullfrog Brewery",1251148902,4.5,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
-"801",1114,"Bullfrog Brewery",1251065492,4.5,4.5,4.5,"American Wild Ale",5,4,"Beekeeper",8.5,42999
-"802",1114,"Bullfrog Brewery",1250104163,5,5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
-"803",1114,"Bullfrog Brewery",1266373741,4,4.5,4,"Belgian IPA",3.5,4,"Houblonium P38",8,46891
-"804",1114,"Bullfrog Brewery",1250043451,4.5,5,4.5,"American Wild Ale",5,5,"Beekeeper",8.5,42999
-"805",1114,"Bullfrog Brewery",1245957713,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"806",1114,"Bullfrog Brewery",1241475776,5,4.5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
-"807",1114,"Bullfrog Brewery",1241469325,5,5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"808",1114,"Bullfrog Brewery",1238764471,4.5,5,5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
-"809",1114,"Bullfrog Brewery",1238481053,4.5,4.5,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"810",1114,"Bullfrog Brewery",1238473652,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
-"811",1114,"Bullfrog Brewery",1238442827,4,4.5,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"812",1114,"Bullfrog Brewery",1232405746,4,4,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"813",1114,"Bullfrog Brewery",1229978051,5,4,4,"American Wild Ale",4,5,"Beekeeper",8.5,42999
-"814",1114,"Bullfrog Brewery",1229912715,4,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
-"815",1114,"Bullfrog Brewery",1228194405,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"816",1114,"Bullfrog Brewery",1222547705,4,4.5,3.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"817",1114,"Bullfrog Brewery",1222057473,5,4,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
-"818",1114,"Bullfrog Brewery",1216170775,4,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
-"819",1114,"Bullfrog Brewery",1212772630,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
-"820",1114,"Bullfrog Brewery",1311651907,3.5,3.5,3.5,"Roggenbier",3,3.5,"Roggen Roll",5.5,49973
-"821",1114,"Bullfrog Brewery",1286668186,4.5,4,4,"Roggenbier",4,4,"Roggen Roll",5.5,49973
-"822",1114,"Bullfrog Brewery",1285263914,3.5,4,4,"Roggenbier",3.5,3,"Roggen Roll",5.5,49973
-"823",1114,"Bullfrog Brewery",1281369158,4,4.5,3,"Roggenbier",3,4,"Roggen Roll",5.5,49973
-"824",1114,"Bullfrog Brewery",1280775667,4,3.5,4,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
-"825",1114,"Bullfrog Brewery",1245698890,4.5,4.5,4.5,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
-"826",1114,"Bullfrog Brewery",1245179364,4,4,4.5,"Roggenbier",3.5,4.5,"Roggen Roll",5.5,49973
-"827",1114,"Bullfrog Brewery",1244680037,4.5,4.5,4,"Roggenbier",4,4.5,"Roggen Roll",5.5,49973
-"828",1114,"Bullfrog Brewery",1244389221,4.5,4,4,"Roggenbier",3.5,4.5,"Roggen Roll",5.5,49973
-"829",1114,"Bullfrog Brewery",1289709277,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Hop-Gasm",9.2,62058
-"830",1114,"Bullfrog Brewery",1244354090,5,4,3.5,"Roggenbier",5,4.5,"Roggen Roll",5.5,49973
-"831",1114,"Bullfrog Brewery",1244247959,4.5,4,4.5,"Roggenbier",4,4.5,"Roggen Roll",5.5,49973
-"832",1114,"Bullfrog Brewery",1243106121,5,4,4.5,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
-"833",1114,"Bullfrog Brewery",1289778359,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
-"834",1114,"Bullfrog Brewery",1289149249,4,5,4.5,"American Double / Imperial IPA",4,4,"Hop-Gasm",9.2,62058
-"835",1114,"Bullfrog Brewery",1288971909,5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
-"836",1114,"Bullfrog Brewery",1288821790,4,4.5,4,"American Double / Imperial IPA",4.5,4,"Hop-Gasm",9.2,62058
-"837",1114,"Bullfrog Brewery",1288219899,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
-"838",1114,"Bullfrog Brewery",1288038606,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
-"839",1114,"Bullfrog Brewery",1288027059,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Hop-Gasm",9.2,62058
-"840",1114,"Bullfrog Brewery",1287514977,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hop-Gasm",9.2,62058
-"841",1114,"Bullfrog Brewery",1286856893,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
-"842",1114,"Bullfrog Brewery",1286841589,5,5,4,"American Double / Imperial IPA",5,5,"Hop-Gasm",9.2,62058
-"843",1114,"Bullfrog Brewery",1286197703,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hop-Gasm",9.2,62058
-"844",1114,"Bullfrog Brewery",1286116812,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
-"845",1114,"Bullfrog Brewery",1285447604,3.5,4.5,4,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
-"846",1114,"Bullfrog Brewery",1266112430,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"847",1114,"Bullfrog Brewery",1285360720,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
-"848",1114,"Bullfrog Brewery",1315968527,4,4,4,"Belgian IPA",4,3.5,"Houblonium P38",8,46891
-"849",1114,"Bullfrog Brewery",1303064650,3,3,3.5,"Belgian IPA",3,3,"Houblonium P38",8,46891
-"850",1114,"Bullfrog Brewery",1301952353,4,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"851",1114,"Bullfrog Brewery",1300222955,4.5,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"852",1114,"Bullfrog Brewery",1299852833,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"853",1114,"Bullfrog Brewery",1299520371,4,4,4,"Belgian IPA",4.5,4,"Houblonium P38",8,46891
-"854",1114,"Bullfrog Brewery",1268832411,5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"855",1114,"Bullfrog Brewery",1264450071,4,3.5,4,"Belgian IPA",4,3.5,"Houblonium P38",8,46891
-"856",1114,"Bullfrog Brewery",1254276862,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"857",1114,"Bullfrog Brewery",1252935872,4.5,4.5,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"858",1114,"Bullfrog Brewery",1248973444,3.5,3,4,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
-"859",1114,"Bullfrog Brewery",1244404385,4,4,4,"Belgian IPA",4.5,4.5,"Houblonium P38",8,46891
-"860",1114,"Bullfrog Brewery",1244233081,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"861",1114,"Bullfrog Brewery",1243658693,4,4,4.5,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"862",1114,"Bullfrog Brewery",1243366628,3.5,3.5,4.5,"Belgian IPA",3,4,"Houblonium P38",8,46891
-"863",1114,"Bullfrog Brewery",1267039696,2.5,3,3.5,"Scottish Ale",3.5,3,"Wolfsblood Scotch",7.5,36716
-"864",1114,"Bullfrog Brewery",1243154825,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"865",1114,"Bullfrog Brewery",1242396663,4,4,4.5,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"866",1114,"Bullfrog Brewery",1242132538,3.5,4.5,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"867",1114,"Bullfrog Brewery",1241588344,5,4,4,"Belgian IPA",4.5,4.5,"Houblonium P38",8,46891
-"868",1114,"Bullfrog Brewery",1240826744,4,4.5,4.5,"Belgian IPA",4.5,4,"Houblonium P38",8,46891
-"869",1114,"Bullfrog Brewery",1239428910,5,4.5,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"870",1114,"Bullfrog Brewery",1238631182,3.5,3,3.5,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
-"871",1114,"Bullfrog Brewery",1232019682,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
-"872",1114,"Bullfrog Brewery",1231790969,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
-"873",1114,"Bullfrog Brewery",1230496896,3.5,3.5,4,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
-"874",1114,"Bullfrog Brewery",1296093556,4,4,5,"American Strong Ale",4.5,4,"Old Treehugger Ale",7.2,45827
-"875",1114,"Bullfrog Brewery",1243947617,4,4.5,4,"American Strong Ale",4,4,"Old Treehugger Ale",7.2,45827
-"876",1114,"Bullfrog Brewery",1230496741,5,4.5,5,"American Strong Ale",5,4.5,"Old Treehugger Ale",7.2,45827
-"877",1114,"Bullfrog Brewery",1227758255,2.5,3,5,"American Strong Ale",2.5,3,"Old Treehugger Ale",7.2,45827
-"878",1114,"Bullfrog Brewery",1226262924,3.5,4,4.5,"American Strong Ale",4,4,"Old Treehugger Ale",7.2,45827
-"879",1114,"Bullfrog Brewery",1261569796,3.5,4,4,"Scottish Ale",4,4,"Wolfsblood Scotch",7.5,36716
-"880",1114,"Bullfrog Brewery",1281033504,4.5,4.5,4.5,"Hefeweizen",4.5,4.5,"El Hefe",5.6,44002
-"881",1114,"Bullfrog Brewery",1279591946,4,4,4,"Hefeweizen",4,4.5,"El Hefe",5.6,44002
-"882",1114,"Bullfrog Brewery",1248995934,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"El Hefe",5.6,44002
-"883",1114,"Bullfrog Brewery",1217196248,3.5,3.5,4,"Hefeweizen",3.5,4,"El Hefe",5.6,44002
-"884",1114,"Bullfrog Brewery",1315968959,4,4.5,4,"Scottish Ale",4,4,"Wolfsblood Scotch",7.5,36716
-"885",1114,"Bullfrog Brewery",1274066690,2,2,2.5,"Scottish Ale",2.5,2.5,"Wolfsblood Scotch",7.5,36716
-"886",1114,"Bullfrog Brewery",1197506864,3,3,4,"Scottish Ale",4,3.5,"Wolfsblood Scotch",7.5,36716
-"887",1114,"Bullfrog Brewery",1178511253,3,3,3.5,"Scottish Ale",3,3,"Wolfsblood Scotch",7.5,36716
-"888",1114,"Bullfrog Brewery",1269350288,4,4,3.5,"Belgian Strong Dark Ale",4,4.5,"Old Ale",11,57011
-"889",1114,"Bullfrog Brewery",1308139131,4,4,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"890",1114,"Bullfrog Brewery",1303097193,3.5,4,3.5,"American Barleywine",4.5,3.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"891",1114,"Bullfrog Brewery",1297632730,4,4.5,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"892",1114,"Bullfrog Brewery",1297312098,4.5,4,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"893",1114,"Bullfrog Brewery",1292267663,5,4.5,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"894",1114,"Bullfrog Brewery",1290905181,4,4.5,4,"American Barleywine",5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"895",1114,"Bullfrog Brewery",1290887155,4.5,4,4.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"896",1114,"Bullfrog Brewery",1290870944,4,4.5,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"897",1114,"Bullfrog Brewery",1290863786,4,4.5,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"898",1114,"Bullfrog Brewery",1290795274,4.5,4.5,4,"American Barleywine",5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"899",1114,"Bullfrog Brewery",1288684531,4,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"900",1114,"Bullfrog Brewery",1282852592,3.5,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"901",1114,"Bullfrog Brewery",1279678562,4,4.5,4.5,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"902",1114,"Bullfrog Brewery",1278254931,3.5,4,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"903",1114,"Bullfrog Brewery",1263860471,5,4.5,4.5,"American Barleywine",4.5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"904",1114,"Bullfrog Brewery",1259005605,3.5,4,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"905",1114,"Bullfrog Brewery",1258309484,3.5,4,3.5,"American Barleywine",3.5,3.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"906",1114,"Bullfrog Brewery",1257476601,4.5,4.5,4,"American Barleywine",4.5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"907",1114,"Bullfrog Brewery",1252718324,4,4,3.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"908",1114,"Bullfrog Brewery",1240290312,4,4.5,4.5,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"909",1114,"Bullfrog Brewery",1239053689,4,4,3.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"910",1114,"Bullfrog Brewery",1237333606,4,4.5,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"911",1114,"Bullfrog Brewery",1237083136,4,4,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"912",1114,"Bullfrog Brewery",1236983874,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"913",1114,"Bullfrog Brewery",1236738510,4,4,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
-"914",1114,"Bullfrog Brewery",1233073211,4.5,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
-"915",1114,"Bullfrog Brewery",1281938479,4.5,4,3.5,"American Stout",4,4,"Extra Stout",5.8,52973
-"916",1114,"Bullfrog Brewery",1280228078,4,4,3.5,"American Stout",4,4,"Extra Stout",5.8,52973
-"917",1114,"Bullfrog Brewery",1279930838,3.5,4,4,"American Stout",3.5,4,"Extra Stout",5.8,52973
-"918",1114,"Bullfrog Brewery",1279593861,3.5,3,4,"American Stout",3,4,"Extra Stout",5.8,52973
-"919",1114,"Bullfrog Brewery",1254144921,4,4,4,"American Stout",4,4,"Extra Stout",5.8,52973
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+1114,"Bullfrog Brewery",1231790750,4,3.5,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1250562087,2,2,2,"Scottish Ale",2,2,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1231795022,3,3,4,"Scottish Ale",3.5,3.5,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1230497085,2,3,3.5,"Scottish Ale",2.5,2.5,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1079537068,3.5,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1250283528,4.5,5,4,"American Wild Ale",4,4.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1291920262,4,4,4.5,"Pumpkin Ale",4,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1291394802,4,4,3,"Pumpkin Ale",3,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1288804019,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1288552649,4.5,3.5,4.5,"Pumpkin Ale",4,3.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1288507765,4.5,4.5,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1288483464,4.5,4,4,"Pumpkin Ale",5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1288477605,4.5,4,4,"Pumpkin Ale",4.5,4.5,"Kristen Fields Chocolate Pumpkin Stout",5,63012
+1114,"Bullfrog Brewery",1244319785,4,3,4,"American Stout",3.5,3.5,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1231791706,3.5,3,4,"American Stout",3,3,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1208751058,3.5,4,4,"American Stout",3,3,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1120577560,4.5,4,3.5,"American Stout",4,4,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1079535618,4.5,4,4,"American Stout",4,3.5,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1040903405,4,4,4,"American Stout",4,4,"Bullfrog Susquehanna Stout",4.2,7680
+1114,"Bullfrog Brewery",1321411657,4,4.5,4,"Rye Beer",3.5,4.5,"Rye Not?",5,71572
+1114,"Bullfrog Brewery",1312815570,4,4,4,"Rye Beer",3.5,4,"Rye Not?",5,71572
+1114,"Bullfrog Brewery",1312201699,4,4.5,4,"Rye Beer",4,4,"Rye Not?",5,71572
+1114,"Bullfrog Brewery",1178554474,4,3,3,"Bière de Garde",4,4,"Biere De Mars",NA,36714
+1114,"Bullfrog Brewery",1178510594,2.5,3.5,3,"Bière de Garde",2.5,3,"Biere De Mars",NA,36714
+1114,"Bullfrog Brewery",1255897982,5,4.5,4,"Extra Special / Strong Bitter (ESB)",3.5,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1255875017,5,4.5,4.5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1255462381,5,4.5,5,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1254846772,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1254832690,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4.5,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1254791722,4,4,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1254777986,4.5,4.5,4,"Extra Special / Strong Bitter (ESB)",4,4.5,"Hop Harvest 2009",6,53127
+1114,"Bullfrog Brewery",1244331957,3,3.5,3.5,"Belgian Pale Ale",4,3,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1232405789,4,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1231791762,4,4.5,4.5,"Belgian Pale Ale",4.5,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1224383146,4.5,4.5,4.5,"Belgian Pale Ale",4.5,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1219629190,5,4,4.5,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1213397576,4,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1206470033,4.5,4,4,"Belgian Pale Ale",4,4,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1202821768,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Unique Wild",5.5,34929
+1114,"Bullfrog Brewery",1250110473,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1322803704,3.5,3.5,4,"American Wild Ale",4,3.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1315969048,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1312210684,4,3.5,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1312072920,3.5,3.5,4,"American Wild Ale",4,3.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1307382695,4.5,4.5,4.5,"American Wild Ale",3.5,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1307280016,4,3,3,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1301949303,4,4.5,4,"American Wild Ale",4.5,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1293155809,4,4,5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1269911982,4.5,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1269879081,4,4,4,"American Wild Ale",3.5,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1269792608,4.5,4,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1269791676,4.5,4,5,"American Wild Ale",4.5,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1265049271,3.5,3,4,"American Wild Ale",3.5,3.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1263608062,3,4,4,"American Wild Ale",3,3.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1263093092,4,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1240243940,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1239390448,4,4.5,4.5,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1238362667,4,4.5,4,"American Wild Ale",4,4,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1223254257,3.5,4.5,4,"American Wild Ale",4.5,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1279232055,4,3.5,4,"Saison / Farmhouse Ale",3.5,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1215659065,4,4,4,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1213640605,4.5,4,4.5,"American Wild Ale",4,4.5,"Blue Cheer",NA,43000
+1114,"Bullfrog Brewery",1242666794,4.5,3.5,4,"Witbier",4,3.5,"Wits End",5.4,48777
+1114,"Bullfrog Brewery",1241138863,4.5,3.5,4,"Witbier",4,4,"Wits End",5.4,48777
+1114,"Bullfrog Brewery",1240879287,3.5,3.5,3,"Witbier",3.5,4,"Wits End",5.4,48777
+1114,"Bullfrog Brewery",1238205914,3,3.5,3.5,"Witbier",3,2.5,"Wits End",5.4,48777
+1114,"Bullfrog Brewery",1198256538,3.5,4,3.5,"American Strong Ale",4,4,"Winter Warmer",6.2,40168
+1114,"Bullfrog Brewery",1312158736,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1284859525,5,4,4,"Saison / Farmhouse Ale",5,4.5,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1281142243,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1281029191,3.5,3.5,3.5,"Saison / Farmhouse Ale",3.5,3.5,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1279940273,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1279593307,3.5,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1279070047,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1278855821,2.5,4,3,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1278789707,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1277926444,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1277632877,5,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1277603866,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1276993797,4,4,4,"Saison / Farmhouse Ale",4,4,"Fran-tastique Saison",7.5,59384
+1114,"Bullfrog Brewery",1302222874,3,3,3,"Kölsch",3,3,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1299518532,4,3.5,3.5,"Kölsch",4,4,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1292366825,4.5,3,4,"Kölsch",4.5,4,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1265909236,4.5,4,4,"Kölsch",4,4,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1258380219,3.5,3,3.5,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1233694412,3.5,3,4,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1231532251,3,3,3,"Kölsch",2.5,3,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1230496374,3.5,3.5,3,"Kölsch",3.5,3.5,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1140329427,3.5,3,2.5,"Kölsch",2.5,3,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1079542864,4,4,4,"Kölsch",3.5,4,"Billtown Blonde",4.9,16595
+1114,"Bullfrog Brewery",1312160075,4.5,4.5,4,"American Amber / Red Ale",4.5,4,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1283887689,4,4,4,"American Amber / Red Ale",3.5,4.5,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1278114454,4.5,4.5,4,"American Amber / Red Ale",4,4,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1277683506,4,4,4,"American Amber / Red Ale",4,4,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1261408298,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1237152852,4.5,4.5,4.5,"American Amber / Red Ale",4,5,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1234825602,4,4,4,"American Amber / Red Ale",4.5,4,"Dread Double Red Ale",7.8,47991
+1114,"Bullfrog Brewery",1321595392,4.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1293991587,5,4,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1293917964,5,4,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1292793889,4,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1292466513,5,4,4,"American Pale Wheat Ale",4.5,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1292380121,4,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1291919599,4.5,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1291416698,5,4.5,4,"American Pale Wheat Ale",4,4,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1291148301,5,4.5,4,"American Pale Wheat Ale",4,4.5,"Amarillo-ville",5,64005
+1114,"Bullfrog Brewery",1320455886,4,4,3,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1312413951,4,4,3.5,"American Wild Ale",3.5,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1299030581,4.5,4,4.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1278570589,2,2.5,3.5,"American Wild Ale",3,2,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1273166842,3,3.5,3.5,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1273126364,1,2,2,"American Wild Ale",1.5,2,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1268956968,4,4,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1267119037,3,4,3.5,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1259084803,3.5,4,3.5,"American Wild Ale",3.5,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1253812906,4,4.5,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1251763920,4,4,3.5,"American Wild Ale",3.5,3.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1251159884,3.5,4,3.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1251154609,3,2.5,4,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1251071118,3,3.5,4,"American Wild Ale",3.5,3,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1250668265,4,4.5,4,"American Wild Ale",4.5,4.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1250106233,4,4,4,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1248925687,3,3.5,3,"American Wild Ale",2.5,2.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1248721321,2,3,4,"American Wild Ale",3,2.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1244646932,2,2.5,2.5,"American Wild Ale",3,3,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1243785808,3,3.5,4,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1243425628,3.5,4,4,"American Wild Ale",4,3.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1243295007,4.5,4.5,4,"American Wild Ale",4.5,4.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1242498010,3,3.5,4.5,"American Wild Ale",4,2.5,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1242077106,4,4,4,"American Wild Ale",4.5,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1241222595,3,4.5,4.5,"American Wild Ale",4,4,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1241221345,4,3,4.5,"American Wild Ale",4,3,"El Rojo Diablo",8,49525
+1114,"Bullfrog Brewery",1310406587,5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1309647926,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1303148394,4.5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1303098966,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1263704907,4.5,4.5,4,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1298342902,4.5,4,4.5,"American Wild Ale",5,5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1292137261,4.5,4.5,4,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1289139491,4.5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1286123458,5,4.5,4.5,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1278525387,5,5,3.5,"American Wild Ale",4,5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1276460993,4,4.5,4,"American Wild Ale",5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1265049820,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1294757062,4,3.5,4.5,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1263094461,4,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1251321111,4.5,4,3.5,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1248696083,4,4.5,4.5,"American Wild Ale",4.5,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1240254947,5,4.5,4.5,"American Wild Ale",4.5,5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1231651268,5,4.5,4.5,"American Wild Ale",5,5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1226021993,4.5,4.5,4.5,"American Wild Ale",4,4.5,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1285082189,4,4,4,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1221959915,4,4.5,4,"American Wild Ale",4,4,"Black Cherry Bomb",NA,44934
+1114,"Bullfrog Brewery",1298907310,4,4,4,"American IPA",4.5,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1297774905,3.5,3.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1297650272,3.5,3.5,4,"American IPA",3.5,3,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1292802465,3.5,4,4,"American IPA",3,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1292557701,2.5,2.5,2.5,"American IPA",3,2.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1289878525,3.5,3.5,4,"American IPA",4,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1288394937,2,3,3.5,"American IPA",3,2.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1288079430,1.5,3.5,3.5,"American IPA",1.5,2,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1287571825,4,4.5,4.5,"American IPA",4.5,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1285615596,4.5,4.5,4,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1284429373,4,4,3.5,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1283035321,3.5,4.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1256609710,4,3.5,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1283033723,4,4.5,4.5,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1274049585,4,4,4.5,"American IPA",4,3,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1271403000,2,3.5,3,"American IPA",1.5,2.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1271016163,3.5,4,4.5,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1269208726,4.5,4,4,"American IPA",3.5,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1268400568,4,4,4,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1267918366,4,4.5,4,"American IPA",3.5,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1258708866,4.5,4,3.5,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1267063585,4.5,4.5,4.5,"American IPA",4,4.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1265512458,5,4,3,"American IPA",5,4.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1263514580,4.5,4.5,4,"American IPA",4,4.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1263083523,4,2.5,4,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1262730780,4,4,3.5,"American IPA",4,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1261002229,4,4,4,"American IPA",4.5,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1258815037,4,4.5,4,"American IPA",4,4.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1257179756,4,4,3.5,"American IPA",3,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1256818077,3.5,4,3.5,"American IPA",3.5,4.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1256230501,3,3.5,3.5,"American IPA",3.5,3,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1254803816,3.5,4,3.5,"American IPA",3.5,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1253722865,4,4.5,3.5,"American IPA",3.5,4,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1256232563,4,4,3.5,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1253494236,4,4,4,"American IPA",4,3.5,"Undead Ed",NA,52805
+1114,"Bullfrog Brewery",1315969524,4,4,5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1297215949,4,4.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1294650298,3.5,4,3,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1287616178,3.5,3.5,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1287579717,4,3.5,4,"American Wild Ale",4,3.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1285897828,4.5,4,4.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1275875250,4.5,4,4,"American Wild Ale",4.5,4.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1275869659,5,4,4,"American Wild Ale",4,4.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1273526698,4,4,3.5,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1273287375,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1264707113,4,4,3.5,"American Wild Ale",4,4.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1258766577,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1257915606,4,3,4,"American Wild Ale",4.5,3.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1278164946,4,4,4,"Belgian Strong Dark Ale",4.5,4,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1254532318,4,4,3.5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1253849877,4,3.5,3.5,"American Wild Ale",4.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1253477950,4,3.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1253381573,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1252258110,3.5,3.5,3,"American Wild Ale",4,3.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1251670809,4,4,4,"American Wild Ale",3.5,3.5,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1264989215,3,4,4,"Belgian Strong Dark Ale",4,4,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1263834157,4,4.5,4.5,"Belgian Strong Dark Ale",4.5,5,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1251178326,4,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1251073026,4.5,4,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1248939468,4,4.5,4,"American Wild Ale",4,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1246995629,4,4,3.5,"American Wild Ale",3.5,4,"Liquid Sunshine Reserva",6,50934
+1114,"Bullfrog Brewery",1288872332,3.5,5,4,"Belgian Strong Dark Ale",4,4,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1280328937,4.5,4,4.5,"Belgian Strong Dark Ale",4,4.5,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1263789110,3,3.5,3.5,"Belgian Strong Dark Ale",3.5,3.5,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1263246916,4.5,4,4,"Belgian Strong Dark Ale",4.5,4.5,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1261407720,4.5,4,4,"Belgian Strong Dark Ale",4,4.5,"Chocolate Chili Christmas Thing",10,54920
+1114,"Bullfrog Brewery",1238987325,4.5,4.5,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1115246354,3.5,4,4,"Flanders Oud Bruin",4,4.5,"Oud Bruin",6.8,16610
+1114,"Bullfrog Brewery",1079571396,3.5,4.5,4.5,"Flanders Oud Bruin",3.5,4,"Oud Bruin",6.8,16610
+1114,"Bullfrog Brewery",1325858153,5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1322416332,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1319772584,3.5,2.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1308278634,4,3.5,4.5,"Saison / Farmhouse Ale",3.5,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1241913717,4,4.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1297030570,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1279604778,1,2,3.5,"Saison / Farmhouse Ale",3.5,1.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1278992446,2,3,4,"Saison / Farmhouse Ale",2,1,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1274795059,4.5,4.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1272242002,4,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1263172105,4,4,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1253585426,4,4,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1241533985,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1252892360,4,4,4.5,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1251169816,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1251076768,3.5,4,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1250478546,2.5,1.5,3.5,"Saison / Farmhouse Ale",2,3,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1249869481,1.5,2,3,"Saison / Farmhouse Ale",2,2,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1248748629,4.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1248403626,4,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1248384727,2.5,1.5,4,"Saison / Farmhouse Ale",3.5,2,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1245853424,3.5,4.5,4,"Saison / Farmhouse Ale",3.5,4,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1245606385,2,2.5,3,"Saison / Farmhouse Ale",3,2.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1243786514,4,3.5,4,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1243039312,3,3,4,"Saison / Farmhouse Ale",4,3.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1243007438,4,3,4,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1241442316,4,4,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1241247112,2,2,3,"Saison / Farmhouse Ale",4,2,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1241050810,4.5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1240878117,4.5,5,4.5,"Saison / Farmhouse Ale",4,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1240856176,5,4.5,4,"Saison / Farmhouse Ale",5,5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1239827633,5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1239332091,5,5,4.5,"Saison / Farmhouse Ale",4.5,5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1239160931,5,5,4,"Saison / Farmhouse Ale",4.5,4.5,"Magic Beans",8,48985
+1114,"Bullfrog Brewery",1306203678,4,4,4,"American Porter",4,4.5,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1315969323,4,4.5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1308138964,4,3.5,5,"Scotch Ale / Wee Heavy",4,3.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1247711360,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1245019065,3.5,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1242449324,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1238891924,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1236716789,5,4,4,"Scotch Ale / Wee Heavy",5,4.5,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1236059124,4.5,4,4,"Scotch Ale / Wee Heavy",4,4,"Wolfsblood Scotch Ale (Barrel Aged)",8,48249
+1114,"Bullfrog Brewery",1269555482,4.5,4.5,4.5,"American Porter",4.5,4.5,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1266418242,4,4.5,4,"American Porter",4.5,4,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1264533873,4.5,4,3,"American Porter",4,4.5,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1262116111,4,4,3.5,"American Porter",3.5,4,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1236457970,3,4,4,"American Porter",3.5,3.5,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1234827743,4,4.5,4,"American Porter",4.5,4,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1205668202,5,4,4,"American Porter",4,4.5,"Smoked Porter",6,34930
+1114,"Bullfrog Brewery",1289707203,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1249263417,4.5,4,4,"Saison / Farmhouse Ale",4.5,4.5,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1249092292,4.5,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1248996133,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1248976412,4,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1246839920,4.5,4,3.5,"Saison / Farmhouse Ale",4,4.5,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1246651790,4.5,4,4,"Saison / Farmhouse Ale",4.5,4,"Water Of Life",3.8,50872
+1114,"Bullfrog Brewery",1310284042,4,3.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1315968462,4,4.5,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1311648917,4,3.5,4,"Belgian Strong Pale Ale",4,3.5,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1287709834,4,4,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1285791701,3,4,4,"Belgian Strong Pale Ale",3.5,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1285708913,4,4,4,"Belgian Strong Pale Ale",3.5,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1285645332,4,3.5,3.5,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1284506934,4.5,4.5,4.5,"Belgian Strong Pale Ale",4,4.5,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1283648111,4,4.5,4,"Belgian Strong Pale Ale",4,4,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1265642358,5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1271863159,4,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1264977843,4.5,4.5,4.5,"Belgian Strong Pale Ale",4.5,4.5,"El Diablo",7.4,55790
+1114,"Bullfrog Brewery",1308277420,4.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1325273948,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1301953131,3.5,3.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1292120706,5,4.5,5,"Saison / Farmhouse Ale",4.5,5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1273462116,4,4,4,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1270158380,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1263942027,4.5,3.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1258438512,2.5,2,3.5,"Saison / Farmhouse Ale",3,2,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1257285323,4,4,4.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1255066638,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1270158477,4,4,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1247711826,4.5,4,4.5,"Saison / Farmhouse Ale",4,3.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1244658479,3,3.5,4,"Saison / Farmhouse Ale",4,3,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1244329265,4,4.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1244319002,4,4.5,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1244259612,4,4.5,4,"Saison / Farmhouse Ale",3.5,4.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1243214944,4,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1243166528,5,4.5,4.5,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1305296170,4,4,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1238473115,3.5,4.5,4,"Saison / Farmhouse Ale",4,3.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1238442347,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1236921147,5,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1232019447,4.5,4,3.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1231442408,3.5,4,3.5,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1217809531,4,4,4,"Saison / Farmhouse Ale",4,4,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1217196781,4.5,3.5,4,"Saison / Farmhouse Ale",4,4.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1153515505,3,4,3.5,"Saison / Farmhouse Ale",3.5,3.5,"BeeSting",8,31812
+1114,"Bullfrog Brewery",1321986706,4,3.5,4,"American Wild Ale",4,3.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1254493005,4,4.5,4,"American IPA",3.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1312210278,4,3.5,4,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1312071985,4,4,3.5,"American Wild Ale",4,3.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1279653905,4,4.5,4,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1277925947,4.5,4.5,4,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1274362140,4.5,4,4,"American Wild Ale",4,3,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1273527913,4,4,4.5,"American Wild Ale",4.5,4,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1230496686,3,3.5,3.5,"American IPA",3,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1273447640,4,4.5,3.5,"American Wild Ale",4,4,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1273292637,4.5,5,4,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1273281522,2,3.5,4,"American Wild Ale",3,2.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1273247051,5,4,4.5,"American Wild Ale",4,4.5,"Tim And Kathy's Strawberry Fields",6,58107
+1114,"Bullfrog Brewery",1324595021,4,4,3.5,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1319466577,4,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1309230300,4.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1309133979,4.5,4,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1303175250,4,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1303062894,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1296400302,4,4.5,3,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1295918141,4,4,3.5,"American IPA",3.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1295487289,4,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1289610039,4.5,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1289275225,3.5,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1279732733,4,3.5,3.5,"American IPA",3.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1279591543,4,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1278895620,3.5,4,4,"American IPA",3.5,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1278871103,4,4,3.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1278181996,4,3.5,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1271021009,4,4.5,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1269868596,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1266417848,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1261970165,3.5,3,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1260000933,3,3.5,4.5,"American IPA",3.5,3,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1259935870,4,4.5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1258153654,3.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1257472968,3.5,4,4,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1256842187,4,4.5,4.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1255724301,4.5,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1254968046,4,3.5,4,"American IPA",3.5,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1254873007,4.5,4.5,4.5,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1254761592,4,4.5,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1260057299,4.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1253660385,4,4.5,4.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1252977832,4.5,4,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1252208035,3.5,4,4,"American IPA",3.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1251671291,2.5,3,4.5,"American IPA",2.5,2,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1251510242,3.5,3.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1251235319,4,4,4.5,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1250723019,4,4,4.5,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1249929621,4.5,3.5,3.5,"American IPA",4.5,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1249773139,3,3.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1249692361,4,3.5,4,"American IPA",4.5,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1249597283,4,3,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1248819638,3.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1248475575,2.5,3,4,"American IPA",4,3,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1149422215,4.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1248458663,3,4,4,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1247528468,4,4,4,"American IPA",3.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1245547174,4.5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1244320358,4.5,4.5,4,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1241587947,5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1237293172,4,5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1233693573,4.5,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1232226794,4.5,4.5,4.5,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1232158755,4.5,4.5,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1231790864,4,3.5,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1230571900,4.5,4,4,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1219025691,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1212892974,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1212773318,4,4,4.5,"American IPA",4.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1204165864,3.5,4.5,4,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1202990791,5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1190318337,4,4,4,"American IPA",4,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1178512355,4,4,3.5,"American IPA",3.5,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1171937280,4,3.5,4.5,"American IPA",4,5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1158617659,4,4,3.5,"American IPA",4,3.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1148619852,4.5,4,4,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1129659042,4,3.5,4,"American IPA",3.5,4,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1121733574,4.5,5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1120568451,4.5,4.5,4,"American IPA",4.5,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1115647650,4,4.5,4,"American IPA",3,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1104336890,4,5,3,"American IPA",4,4.5,"Edgar IPA",8,21328
+1114,"Bullfrog Brewery",1079536203,3.5,4,4,"Altbier",4,4,"Sticke Alt",6.2,16591
+1114,"Bullfrog Brewery",1240658477,4,4,4,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1310802381,4,3.5,3,"Belgian Strong Pale Ale",4,3.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1308278375,4.5,4.5,4.5,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1270389551,4.5,4,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1267109696,3,3.5,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1266417716,4.5,4,4,"Belgian Strong Pale Ale",4.5,4.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1261186862,4,4,4,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1257025142,4,3.5,3.5,"Belgian Strong Pale Ale",4,4,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1241588094,4.5,4,4,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1217896292,4.5,4,5,"Belgian Strong Pale Ale",4,4.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1160757923,3.5,4,4.5,"Belgian Strong Pale Ale",3.5,3.5,"Diabolique",7.75,33208
+1114,"Bullfrog Brewery",1314493953,3.5,4,4,"Flanders Red Ale",3.5,3.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1313727206,3.5,3.5,4,"Flanders Red Ale",4,3.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1304570416,4,4,3.5,"Flanders Red Ale",3.5,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1304570081,4,4,3.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1302222013,3,3.5,3,"Flanders Red Ale",3,3,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1297628337,4,4.5,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1296596623,4.5,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1294898394,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1294090536,4,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1294015925,4.5,4,4.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1288575209,4.5,5,4.5,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1286302660,4,4,4.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1286032379,4.5,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1285594321,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1284340181,5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1283827633,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1283453452,3.5,4,3.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1283318868,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1283126460,4.5,4.5,3.5,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1282575864,4,3.5,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1282441534,4.5,4.5,4,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1282420019,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274653182,4,4.5,4,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1281768964,4.5,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1280900186,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1280347565,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1279610475,4,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1279603939,4,3.5,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1279526215,3.5,4,4,"Flanders Red Ale",4,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1278672465,4,4.5,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1277610926,4,4,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1276618756,4,4,3.5,"Flanders Red Ale",3,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274495077,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274399749,4.5,4,4.5,"Flanders Red Ale",2.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274377517,4.5,3.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274245575,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274232543,3.5,3.5,4,"Flanders Red Ale",2.5,3.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1274122351,4.5,4.5,4,"Flanders Red Ale",4,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1301950942,4,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1273841045,4.5,4,4,"Flanders Red Ale",4.5,4,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1273709106,4.5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1273383061,4.5,4.5,4.5,"Flanders Red Ale",4.5,5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1273249014,4.5,4.5,4.5,"Flanders Red Ale",4.5,4.5,"The Jaspers",6,58108
+1114,"Bullfrog Brewery",1301445758,4,4,4.5,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1258836883,4,4,4.5,"Saison / Farmhouse Ale",4,3,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1256075165,4.5,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1253493420,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1250477817,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1245639370,3.5,4,4.5,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1245605244,3.5,4,4,"Saison / Farmhouse Ale",3.5,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1236948898,4,4,4,"Saison / Farmhouse Ale",4,3.5,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1293155883,5,4,4,"English Dark Mild Ale",4,4,"Darkling",3.4,54847
+1114,"Bullfrog Brewery",1232019281,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1222707415,3.5,4,4,"Saison / Farmhouse Ale",3.5,4,"Saison Noire",7.5,45106
+1114,"Bullfrog Brewery",1324535166,4,3.5,4,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1322446400,4,4,4,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1305768355,4,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1274832965,4,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1265910619,4.5,4,4,"English Dark Mild Ale",4,4,"Darkling",3.4,54847
+1114,"Bullfrog Brewery",1234838282,3.5,4.5,4,"American Barleywine",3.5,4.5,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1153515908,3.5,4.5,4,"American Barleywine",4,4,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1120652841,4,4.5,3.5,"American Barleywine",4.5,4.5,"Old Toad Barleywine",11,24511
+1114,"Bullfrog Brewery",1309228334,4,4,4,"American Pale Wheat Ale",4,4,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1299854221,4,4.5,4,"American Pale Wheat Ale",4,4,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1297362676,4.5,4,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1285703801,4.5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1284371700,5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1284253709,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1283649580,5,4.5,4,"American Pale Wheat Ale",5,5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1282570327,5,4.5,4.5,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1282511181,4.5,5,4,"American Pale Wheat Ale",4,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1281745489,4.5,4.5,4,"American Pale Wheat Ale",4.5,4.5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1281307718,5,4.5,4,"American Pale Wheat Ale",4.5,5,"Citra-delic Summer Wheat",5,60878
+1114,"Bullfrog Brewery",1264965218,4.5,4,4,"English Dark Mild Ale",4.5,4,"Darkling",3.4,54847
+1114,"Bullfrog Brewery",1261569694,5,3.5,4,"English Dark Mild Ale",4,4.5,"Darkling",3.4,54847
+1114,"Bullfrog Brewery",1261166164,4,3.5,4.5,"English Dark Mild Ale",4.5,4,"Darkling",3.4,54847
+1114,"Bullfrog Brewery",1308965679,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Saison Nouveau",6.5,70368
+1114,"Bullfrog Brewery",1281144734,4,4.5,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1281029958,3,3,4,"Belgian IPA",4,2.5,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1087416288,4.5,4,4,"English Brown Ale",4,4.5,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1278972589,4.5,4.5,4.5,"Belgian IPA",4,4.5,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1278276726,4,4.5,4,"Belgian IPA",4.5,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1278164554,4,5,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1278113842,4,4,4,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1277734674,4,4,4.5,"Belgian IPA",4,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1276991739,4,4.5,4,"Belgian IPA",4.5,4,"Thai P.A.",7.2,59383
+1114,"Bullfrog Brewery",1318045204,4,4,4.5,"Belgian Pale Ale",4,4.5,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1277926889,4,3.5,3.5,"Belgian Pale Ale",4,4,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1247326483,4,4,4,"Belgian Pale Ale",4,4,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1244232548,3.5,4,4.5,"Belgian Pale Ale",4,3.5,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1242486897,5,4,4,"Belgian Pale Ale",3.5,4,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1241707924,4.5,4,4.5,"Belgian Pale Ale",4.5,4,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1236717143,4.5,4.5,4,"Belgian Pale Ale",4,4.5,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1235888928,3.5,4.5,4.5,"Belgian Pale Ale",4.5,3.5,"Unique Singel",NA,48206
+1114,"Bullfrog Brewery",1292366982,4,4,4,"American Amber / Red Ale",4.5,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1291921230,4,3.5,3.5,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1287571649,4.5,4,4,"American Amber / Red Ale",4.5,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1275229413,4.5,4,4,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1274569683,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1273282544,4.5,3.5,4,"American Amber / Red Ale",3.5,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1271663002,4.5,4,4,"American Amber / Red Ale",4,4.5,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1271042489,4.5,4,4,"American Amber / Red Ale",4,4,"Sunrise Red",4.5,57503
+1114,"Bullfrog Brewery",1259151714,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1258382247,4,3.5,3.5,"English Brown Ale",4,4,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1233692622,4,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1169696432,3,4,3.5,"English Brown Ale",3,3,"Nut Brown Ale",4.8,16592
+1114,"Bullfrog Brewery",1299527625,3.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1296422610,5,4.5,5,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1296400889,3.5,3,3,"Saison / Farmhouse Ale",4,3.5,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1295922616,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1295395397,4,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1322785480,3.5,4,3.5,"American Wild Ale",3,3,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1295141299,4,4.5,4,"Saison / Farmhouse Ale",4.5,4,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1294061157,4.5,4,4,"Saison / Farmhouse Ale",4,4,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1293090848,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Nightowl Saison",11.5,64665
+1114,"Bullfrog Brewery",1296400511,4,2,3,"Märzen / Oktoberfest",2,2.5,"Festivus",5.1,62864
+1114,"Bullfrog Brewery",1287952545,4.5,4,4,"Märzen / Oktoberfest",4.5,4,"Festivus",5.1,62864
+1114,"Bullfrog Brewery",1323638366,4.5,4.5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1292033245,5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1319944000,4,4.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1319390194,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1315630982,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1299782222,4.5,4.5,5,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1294897860,4,4.5,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1294555486,4.5,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1293409300,4.5,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1276698667,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1292632444,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1291856791,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1287570941,4.5,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1287235771,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1280027470,4.5,4.5,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1277585414,4,5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1276783408,4.5,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1287215928,4.5,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1275585898,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1275099543,4.5,3,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1273109589,3.5,3,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1272926180,4.5,4.5,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1271216178,3.5,3,3.5,"American Wild Ale",4,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1269874129,4.5,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1269206702,3.5,4.5,3.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1265778816,3.5,3.5,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1263254465,4,3.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1263173602,4,3.5,4,"American Wild Ale",3.5,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1262228904,2.5,3.5,3.5,"American Wild Ale",3,3,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1260641462,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1258850064,4,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1258780682,5,5,5,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1255225874,3.5,5,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1254893841,3.5,4.5,3.5,"American Wild Ale",2,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1254855588,4,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1254784412,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1254370282,3.5,4.5,4,"American Wild Ale",3.5,3,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1253813492,4,4.5,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1252899545,4,3.5,3.5,"American Wild Ale",3,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1251648722,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1251159115,4,4,4,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1251153008,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1251068679,4.5,4,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1250559478,3.5,4,4.5,"American Wild Ale",3.5,3,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1250283885,4,4,3,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1248053857,4.5,4.5,4,"American Wild Ale",4.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1247553192,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1247549201,4,4,3.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1247548297,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1247001238,5,4.5,3.5,"American Wild Ale",4,5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1246666541,4,4,4,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1246650112,3.5,3.5,3,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1246520889,4,4,4,"American Wild Ale",4,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1246115215,4,4,4,"American Wild Ale",4,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1245982403,4,4,3.5,"American Wild Ale",4,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1245041685,3.5,4,4.5,"American Wild Ale",3.5,2.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244669620,4.5,5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244516689,3.5,4,4,"American Wild Ale",3,3.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244506835,4,4.5,4,"American Wild Ale",3.5,4.5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244414796,3.5,4.5,3.5,"American Wild Ale",4,3,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244401441,3,4,3,"American Wild Ale",3,2,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244399509,4.5,4.5,4.5,"American Wild Ale",3.5,4,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244261584,4.5,5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1244261414,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Frambozen",6,50299
+1114,"Bullfrog Brewery",1285480900,5,3.5,4,"Saison / Farmhouse Ale",5,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1287570485,5,4.5,4,"American Double / Imperial IPA",5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1273506108,4.5,4.5,3.5,"American Double / Imperial IPA",3.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1272640804,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1272601737,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1272067169,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271995945,4,4,4,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271892404,3.5,5,4,"American Double / Imperial IPA",3.5,3.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271808966,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271729063,4,4,3.5,"American Double / Imperial IPA",4,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271708479,4.5,3.5,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271626636,4.5,4,4,"American Double / Imperial IPA",4,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1271101870,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1285383907,5,5,4.5,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1270493307,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1270412280,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269869644,4,3.5,4,"American Double / Imperial IPA",5,3.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269729054,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269660025,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1228579204,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1269401680,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269349730,5,4.5,4,"American Double / Imperial IPA",4,5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269284842,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269229288,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269039166,5,4.5,5,"American Double / Imperial IPA",4.5,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1269037259,5,4,4.5,"American Double / Imperial IPA",4,4.5,"Deuane",10,56901
+1114,"Bullfrog Brewery",1308278488,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1301014245,3.5,3.5,4,"Saison / Farmhouse Ale",4,3,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1285361759,4,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1284411759,4.5,3.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1274049893,4,4.5,5,"Saison / Farmhouse Ale",5,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1263685696,4,4,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1258381122,5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1257050976,4,4.5,4.5,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1256609062,4,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1256228049,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1262150128,5,4.5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1254848890,4.5,4.5,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1254521816,4,3.5,4,"Saison / Farmhouse Ale",4,3.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1254141551,4.5,4.5,4,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1254086258,4.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1249014761,3.5,3.5,4,"Saison / Farmhouse Ale",3.5,3.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1244733044,3.5,4,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1240825350,4.5,4.5,4.5,"Saison / Farmhouse Ale",4.5,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1237000474,3.5,4,4,"Saison / Farmhouse Ale",4,4,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1231532353,4,4.5,4,"Saison / Farmhouse Ale",4,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1220957047,4.5,4.5,3.5,"Saison / Farmhouse Ale",4.5,4.5,"Busted Lawnmower",6.2,44798
+1114,"Bullfrog Brewery",1211608720,5,4.5,4,"Bock",4.5,4.5,"Chocolate Bock",6.8,42845
+1114,"Bullfrog Brewery",1295143171,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
+1114,"Bullfrog Brewery",1275400716,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
+1114,"Bullfrog Brewery",1265908992,4,4,3.5,"Fruit / Vegetable Beer",4,4,"Apricot Wheat",5,54149
+1114,"Bullfrog Brewery",1258379633,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Apricot Wheat",5,54149
+1114,"Bullfrog Brewery",1321728297,3.5,3.5,3.5,"Belgian Pale Ale",3,3.5,"Farmhouse Pale Ale",6,52488
+1114,"Bullfrog Brewery",1280774321,4,4.5,4,"Belgian Pale Ale",4,4.5,"Farmhouse Pale Ale",6,52488
+1114,"Bullfrog Brewery",1252687041,4,4,4,"Belgian Pale Ale",4,4,"Farmhouse Pale Ale",6,52488
+1114,"Bullfrog Brewery",1252516633,4.5,4,3.5,"Belgian Pale Ale",4,4.5,"Farmhouse Pale Ale",6,52488
+1114,"Bullfrog Brewery",1311647560,3.5,4,3.5,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1305216599,3.5,3.5,3.5,"American Stout",3.5,3.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1304555561,3.5,4,4.5,"American Stout",3,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1300647113,4.5,4.5,5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1300590814,4,4.5,4,"American Stout",4,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1300590601,3,3,4.5,"American Stout",3.5,3,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1299850916,4,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1297627883,4.5,4.5,3.5,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1297481274,4,4,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1296247234,4,4,4,"American Stout",4,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1295632821,4.5,4.5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1291949327,4,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1285430244,5,5,4.5,"American Stout",4.5,5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1283819161,4.5,4.5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1283392533,4,4.5,4.5,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1278643835,4.5,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1275355344,4,4,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1275143963,4,5,4,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1274917132,4.5,5,4,"American Stout",4,3.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1274809230,3,3.5,4,"American Stout",3,3,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1274026363,4.5,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1273966889,4,4,4,"American Stout",3.5,3.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1273800844,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1272744589,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1272744330,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1272639947,4.5,4.5,4,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1272602256,4,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1271887096,3.5,3.5,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1271664010,4,5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1270484274,4.5,4,4.5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1268761490,4,4,3.5,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1268694474,4.5,4,4.5,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1267144840,4.5,4.5,5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1265769550,5,4.5,5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1265574406,5,5,5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1264967982,4.5,4.5,4.5,"American Stout",4.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1262100963,4.5,4,4,"American Stout",3.5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1261618889,4,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1259515667,4,5,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1258262554,3.5,4,4,"American Stout",3.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1257195137,4.5,5,4.5,"American Stout",5,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1256901623,4.5,4.5,4,"American Stout",4.5,4,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1256864186,5,4,4,"American Stout",5,5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1255878534,4.5,4,4,"American Stout",4,4.5,"Double Coffee Stout",7.3,53478
+1114,"Bullfrog Brewery",1324595768,4,4,3.5,"Saison / Farmhouse Ale",3,3.5,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1319899522,3,3,3.5,"Saison / Farmhouse Ale",3,2.5,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1317670330,4,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1317059785,3.5,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1312816773,4,4.5,4,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1312664069,4,4,3.5,"Saison / Farmhouse Ale",4,4,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1311951676,3.5,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1308607705,4,4,3.5,"Saison / Farmhouse Ale",4,3.5,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1308543060,4,3.5,3.5,"Saison / Farmhouse Ale",4,4,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1308509508,4,4,3.5,"Saison / Farmhouse Ale",3.5,4,"Somnus Viduata",NA,70171
+1114,"Bullfrog Brewery",1310761636,4,4,4,"American Pale Wheat Ale",4.5,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1292693916,4.5,4.5,4,"American Pale Wheat Ale",3.5,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1291602528,5,4.5,3.5,"American Pale Wheat Ale",4,4.5,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1291215522,4.5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1289829626,4.5,4,4,"American Pale Wheat Ale",4,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1288477802,4.5,4,4,"American Pale Wheat Ale",4.5,4,"Crystal-ized American Wheat",5,63013
+1114,"Bullfrog Brewery",1323057181,4,4,3.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1321208189,3.5,3.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1319116771,2.5,3,3.5,"American Wild Ale",3,2,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1316069450,3,2.5,3.5,"American Wild Ale",4,2.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1315956980,4,4,4.5,"American Wild Ale",2.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1315424710,4,4,4,"American Wild Ale",3.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1315352051,4,4.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1311646393,3,3,4,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1295897084,3.5,4.5,4,"American Wild Ale",3.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1311570643,3,4,3.5,"American Wild Ale",3.5,2.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1309147372,3,4,4.5,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1309045999,3.5,3.5,4,"American Wild Ale",3,3,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1300665687,4,4,4,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1299202114,4,4,4,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1296334559,4,4,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1295923127,3,3.5,4,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280900368,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1295836990,4,3.5,4,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1294109462,4.5,4,4.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1289175168,4,4,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1287616512,2,3.5,4,"American Wild Ale",2,2.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1287579099,4,3,4,"American Wild Ale",4,3,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1287571188,4,4.5,4,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1286657404,3.5,3.5,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1221885856,4,4,3.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1285140055,3,4,4.5,"American Wild Ale",3,2.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1284925079,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1284518727,4,3.5,4,"American Wild Ale",3,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1282152441,3.5,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1282093297,4.5,4,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1281635605,4,4,3.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1281561122,4,4,4.5,"American Wild Ale",4.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1281465957,3.5,4,4,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280894433,3.5,4,4,"American Wild Ale",2.5,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280348062,4.5,4,4,"American Wild Ale",3.5,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280253689,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280114802,3.5,3.5,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1280084291,4,4,4.5,"American Wild Ale",3.5,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1279903545,4,4,4.5,"American Wild Ale",4,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1279801579,4.5,4.5,4,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1279604457,3.5,4.5,3.5,"American Wild Ale",2.5,3,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1279332879,4.5,4.5,4.5,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1278987637,4,4,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1278470874,4,4.5,4,"American Wild Ale",4,4,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1278341440,3.5,4,5,"American Wild Ale",4.5,3.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1278111960,4,5,4.5,"American Wild Ale",4,4.5,"El Diablo Deluxe",NA,59763
+1114,"Bullfrog Brewery",1233693398,4,4.5,4,"American Stout",4,4,"Coffee Cream Stout",5.8,42844
+1114,"Bullfrog Brewery",1231110720,5,4.5,4.5,"American Stout",5,5,"Coffee Cream Stout",5.8,42844
+1114,"Bullfrog Brewery",1220711309,4.5,4.5,5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1230519856,4,3.5,4,"American Stout",4.5,4,"Coffee Cream Stout",5.8,42844
+1114,"Bullfrog Brewery",1211608225,5,3.5,4,"American Stout",4.5,4.5,"Coffee Cream Stout",5.8,42844
+1114,"Bullfrog Brewery",1311649275,3.5,3.5,3.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1293249278,3.5,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1291615449,1.5,2,3,"Bière de Garde",2,2,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1289275788,4,4,4,"Bière de Garde",3.5,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1276998524,4,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1274364047,3.5,4.5,4,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1262291195,4,4.5,4.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1270842102,4.5,4,4.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1269572789,4,4,4,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1269291235,4,4,4,"Bière de Garde",3.5,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1268953422,4.5,3.5,4,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1266803827,4.5,4.5,5,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1263976375,4.5,4,4,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1262808282,4,4,4.5,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1262293432,3,4.5,3,"Bière de Garde",3,3,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1258815866,4,4,5,"Bière de Garde",4.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1258247444,4,3.5,4,"Bière de Garde",3.5,4.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1257121445,3.5,3.5,4,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1254887616,3.5,3.5,3.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1254868794,3.5,4,4.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1252518784,4,4,3.5,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1246150393,4,3.5,4,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1245809997,4,3.5,4.5,"Bière de Garde",3.5,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1245269976,4,4,4,"Bière de Garde",4,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1245180793,3.5,4,3.5,"Bière de Garde",4,3.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1244352449,2.5,5,3,"Bière de Garde",2.5,2.5,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1243902139,4,3.5,3.5,"Bière de Garde",4.5,4,"French Kiss",7.2,50233
+1114,"Bullfrog Brewery",1283129222,4,4.5,4,"Russian Imperial Stout",4,4,"Lights Out Stout",NA,43001
+1114,"Bullfrog Brewery",1215363533,5,4.5,5,"Russian Imperial Stout",5,5,"Lights Out Stout",NA,43001
+1114,"Bullfrog Brewery",1266694814,3.5,4,4.5,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1317787311,5,4.5,4,"American Wild Ale",4,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1315969110,4.5,4.5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1303149198,4.5,4,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1293156110,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1265048646,3.5,4.5,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1263601014,4,4,4,"American Wild Ale",3.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1263091047,4,4.5,5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1251161305,4.5,4.5,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1251148902,4.5,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1251065492,4.5,4.5,4.5,"American Wild Ale",5,4,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1250104163,5,5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1266373741,4,4.5,4,"Belgian IPA",3.5,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1250043451,4.5,5,4.5,"American Wild Ale",5,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1245957713,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1241475776,5,4.5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1241469325,5,5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1238764471,4.5,5,5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1238481053,4.5,4.5,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1238473652,4.5,4.5,4.5,"American Wild Ale",4.5,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1238442827,4,4.5,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1232405746,4,4,4,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1229978051,5,4,4,"American Wild Ale",4,5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1229912715,4,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1228194405,4.5,4.5,4,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1222547705,4,4.5,3.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1222057473,5,4,4.5,"American Wild Ale",4,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1216170775,4,4.5,4,"American Wild Ale",4,4,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1212772630,5,4.5,4.5,"American Wild Ale",4.5,4.5,"Beekeeper",8.5,42999
+1114,"Bullfrog Brewery",1311651907,3.5,3.5,3.5,"Roggenbier",3,3.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1286668186,4.5,4,4,"Roggenbier",4,4,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1285263914,3.5,4,4,"Roggenbier",3.5,3,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1281369158,4,4.5,3,"Roggenbier",3,4,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1280775667,4,3.5,4,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1245698890,4.5,4.5,4.5,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1245179364,4,4,4.5,"Roggenbier",3.5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1244680037,4.5,4.5,4,"Roggenbier",4,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1244389221,4.5,4,4,"Roggenbier",3.5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1289709277,4.5,4.5,4,"American Double / Imperial IPA",3.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1244354090,5,4,3.5,"Roggenbier",5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1244247959,4.5,4,4.5,"Roggenbier",4,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1243106121,5,4,4.5,"Roggenbier",4.5,4.5,"Roggen Roll",5.5,49973
+1114,"Bullfrog Brewery",1289778359,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1289149249,4,5,4.5,"American Double / Imperial IPA",4,4,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1288971909,5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1288821790,4,4.5,4,"American Double / Imperial IPA",4.5,4,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1288219899,5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1288038606,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1288027059,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1287514977,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1286856893,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1286841589,5,5,4,"American Double / Imperial IPA",5,5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1286197703,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1286116812,4.5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1285447604,3.5,4.5,4,"American Double / Imperial IPA",4.5,5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1266112430,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1285360720,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hop-Gasm",9.2,62058
+1114,"Bullfrog Brewery",1315968527,4,4,4,"Belgian IPA",4,3.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1303064650,3,3,3.5,"Belgian IPA",3,3,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1301952353,4,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1300222955,4.5,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1299852833,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1299520371,4,4,4,"Belgian IPA",4.5,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1268832411,5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1264450071,4,3.5,4,"Belgian IPA",4,3.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1254276862,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1252935872,4.5,4.5,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1248973444,3.5,3,4,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1244404385,4,4,4,"Belgian IPA",4.5,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1244233081,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1243658693,4,4,4.5,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1243366628,3.5,3.5,4.5,"Belgian IPA",3,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1267039696,2.5,3,3.5,"Scottish Ale",3.5,3,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1243154825,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1242396663,4,4,4.5,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1242132538,3.5,4.5,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1241588344,5,4,4,"Belgian IPA",4.5,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1240826744,4,4.5,4.5,"Belgian IPA",4.5,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1239428910,5,4.5,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1238631182,3.5,3,3.5,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1232019682,4.5,4,4,"Belgian IPA",4,4.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1231790969,4,4,4,"Belgian IPA",4,4,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1230496896,3.5,3.5,4,"Belgian IPA",3.5,3.5,"Houblonium P38",8,46891
+1114,"Bullfrog Brewery",1296093556,4,4,5,"American Strong Ale",4.5,4,"Old Treehugger Ale",7.2,45827
+1114,"Bullfrog Brewery",1243947617,4,4.5,4,"American Strong Ale",4,4,"Old Treehugger Ale",7.2,45827
+1114,"Bullfrog Brewery",1230496741,5,4.5,5,"American Strong Ale",5,4.5,"Old Treehugger Ale",7.2,45827
+1114,"Bullfrog Brewery",1227758255,2.5,3,5,"American Strong Ale",2.5,3,"Old Treehugger Ale",7.2,45827
+1114,"Bullfrog Brewery",1226262924,3.5,4,4.5,"American Strong Ale",4,4,"Old Treehugger Ale",7.2,45827
+1114,"Bullfrog Brewery",1261569796,3.5,4,4,"Scottish Ale",4,4,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1281033504,4.5,4.5,4.5,"Hefeweizen",4.5,4.5,"El Hefe",5.6,44002
+1114,"Bullfrog Brewery",1279591946,4,4,4,"Hefeweizen",4,4.5,"El Hefe",5.6,44002
+1114,"Bullfrog Brewery",1248995934,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"El Hefe",5.6,44002
+1114,"Bullfrog Brewery",1217196248,3.5,3.5,4,"Hefeweizen",3.5,4,"El Hefe",5.6,44002
+1114,"Bullfrog Brewery",1315968959,4,4.5,4,"Scottish Ale",4,4,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1274066690,2,2,2.5,"Scottish Ale",2.5,2.5,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1197506864,3,3,4,"Scottish Ale",4,3.5,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1178511253,3,3,3.5,"Scottish Ale",3,3,"Wolfsblood Scotch",7.5,36716
+1114,"Bullfrog Brewery",1269350288,4,4,3.5,"Belgian Strong Dark Ale",4,4.5,"Old Ale",11,57011
+1114,"Bullfrog Brewery",1308139131,4,4,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1303097193,3.5,4,3.5,"American Barleywine",4.5,3.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1297632730,4,4.5,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1297312098,4.5,4,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1292267663,5,4.5,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1290905181,4,4.5,4,"American Barleywine",5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1290887155,4.5,4,4.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1290870944,4,4.5,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1290863786,4,4.5,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1290795274,4.5,4.5,4,"American Barleywine",5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1288684531,4,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1282852592,3.5,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1279678562,4,4.5,4.5,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1278254931,3.5,4,4.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1263860471,5,4.5,4.5,"American Barleywine",4.5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1259005605,3.5,4,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1258309484,3.5,4,3.5,"American Barleywine",3.5,3.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1257476601,4.5,4.5,4,"American Barleywine",4.5,5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1252718324,4,4,3.5,"American Barleywine",4.5,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1240290312,4,4.5,4.5,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1239053689,4,4,3.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1237333606,4,4.5,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1237083136,4,4,4,"American Barleywine",4,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1236983874,4.5,4.5,4.5,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1236738510,4,4,4,"American Barleywine",4.5,4.5,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1233073211,4.5,4,4,"American Barleywine",4,4,"Barrel Aged Old Toad Barleywine",11.5,47550
+1114,"Bullfrog Brewery",1281938479,4.5,4,3.5,"American Stout",4,4,"Extra Stout",5.8,52973
+1114,"Bullfrog Brewery",1280228078,4,4,3.5,"American Stout",4,4,"Extra Stout",5.8,52973
+1114,"Bullfrog Brewery",1279930838,3.5,4,4,"American Stout",3.5,4,"Extra Stout",5.8,52973
+1114,"Bullfrog Brewery",1279593861,3.5,3,4,"American Stout",3,4,"Extra Stout",5.8,52973
+1114,"Bullfrog Brewery",1254144921,4,4,4,"American Stout",4,4,"Extra Stout",5.8,52973

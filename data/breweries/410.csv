@@ -1,544 +1,544 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",410,"Pittsburgh Brewing Co.",1241470320,4,3.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"2",410,"Pittsburgh Brewing Co.",1176085070,4,3.5,3.5,"Vienna Lager",3.5,4,"Augustiner Lager",4.8,3416
-"3",410,"Pittsburgh Brewing Co.",1174251791,3.5,3,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"4",410,"Pittsburgh Brewing Co.",1158375117,4.5,2.5,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"5",410,"Pittsburgh Brewing Co.",1140574100,2,2,2,"American Adjunct Lager",2,3,"American",NA,2712
-"6",410,"Pittsburgh Brewing Co.",1078890514,1.5,1,2,"Light Lager",1,1.5,"I.C. Light",4.15,1633
-"7",410,"Pittsburgh Brewing Co.",1233360659,3,2.5,3.5,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
-"8",410,"Pittsburgh Brewing Co.",1108081200,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"9",410,"Pittsburgh Brewing Co.",1161026153,3,3,2,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
-"10",410,"Pittsburgh Brewing Co.",1157229020,1.5,2,2,"American Adjunct Lager",1.5,1.5,"Falls City",NA,1210
-"11",410,"Pittsburgh Brewing Co.",1125271447,3.5,2.5,3,"Low Alcohol Beer",3,2.5,"Penn's Best N.A.",NA,21911
-"12",410,"Pittsburgh Brewing Co.",1066329742,2,2,2,"Light Lager",2,2,"I.C. Light",4.15,1633
-"13",410,"Pittsburgh Brewing Co.",1232308646,3,2.5,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"14",410,"Pittsburgh Brewing Co.",1296961538,4,3,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"15",410,"Pittsburgh Brewing Co.",1252962355,3,2.5,4,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
-"16",410,"Pittsburgh Brewing Co.",1060774986,1.5,1,1,"Light Lager",1,1,"I.C. Light",4.15,1633
-"17",410,"Pittsburgh Brewing Co.",1243266141,2,2,2,"Vienna Lager",2,2.5,"Augustiner Lager",4.8,3416
-"18",410,"Pittsburgh Brewing Co.",1306683456,3,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"19",410,"Pittsburgh Brewing Co.",1302311007,3,2.5,3,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"20",410,"Pittsburgh Brewing Co.",1300221607,3.5,2,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"21",410,"Pittsburgh Brewing Co.",1297818517,4,3.5,3.5,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"22",410,"Pittsburgh Brewing Co.",1295078163,3.5,3.5,4.5,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"23",410,"Pittsburgh Brewing Co.",1283733700,4,3,3.5,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"24",410,"Pittsburgh Brewing Co.",1282097916,5,3.5,4,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"25",410,"Pittsburgh Brewing Co.",1263102292,2.5,2,2,"Vienna Lager",2,2,"Augustiner Lager",4.8,3416
-"26",410,"Pittsburgh Brewing Co.",1258864149,3,3,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"27",410,"Pittsburgh Brewing Co.",1256596721,3,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"28",410,"Pittsburgh Brewing Co.",1254967222,3,3,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"29",410,"Pittsburgh Brewing Co.",1225417548,3,3.5,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"30",410,"Pittsburgh Brewing Co.",1217532880,3,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"31",410,"Pittsburgh Brewing Co.",1216730223,3,2.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"32",410,"Pittsburgh Brewing Co.",1215630026,2.5,3,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"33",410,"Pittsburgh Brewing Co.",1214495640,4,4.5,4,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"34",410,"Pittsburgh Brewing Co.",1209792245,2.5,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"35",410,"Pittsburgh Brewing Co.",1201958964,3.5,3,4,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"36",410,"Pittsburgh Brewing Co.",1198988332,2.5,3,3,"Vienna Lager",3,2.5,"Augustiner Lager",4.8,3416
-"37",410,"Pittsburgh Brewing Co.",1194347039,3,4,3,"Vienna Lager",2,3,"Augustiner Lager",4.8,3416
-"38",410,"Pittsburgh Brewing Co.",1176421965,3,2.5,2.5,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
-"39",410,"Pittsburgh Brewing Co.",1158124997,3.5,3,4,"Vienna Lager",2.5,4,"Augustiner Lager",4.8,3416
-"40",410,"Pittsburgh Brewing Co.",1157232738,2.5,3,3,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
-"41",410,"Pittsburgh Brewing Co.",1146184116,3,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"42",410,"Pittsburgh Brewing Co.",1145571608,3.5,3.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"43",410,"Pittsburgh Brewing Co.",1139199343,4,3,3,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
-"44",410,"Pittsburgh Brewing Co.",1137479497,4,2.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"45",410,"Pittsburgh Brewing Co.",1127001446,4,3.5,4,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
-"46",410,"Pittsburgh Brewing Co.",1119053456,2.5,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"47",410,"Pittsburgh Brewing Co.",1111700742,4,3.5,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"48",410,"Pittsburgh Brewing Co.",1104808219,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
-"49",410,"Pittsburgh Brewing Co.",1104788191,3.5,3.5,3.5,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"50",410,"Pittsburgh Brewing Co.",1101691062,2.5,3,3.5,"Vienna Lager",4,3,"Augustiner Lager",4.8,3416
-"51",410,"Pittsburgh Brewing Co.",1096053517,3.5,2.5,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"52",410,"Pittsburgh Brewing Co.",1095130329,3.5,2,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
-"53",410,"Pittsburgh Brewing Co.",1088704127,3.5,3,3,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
-"54",410,"Pittsburgh Brewing Co.",1085183945,3,3,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"55",410,"Pittsburgh Brewing Co.",1081722472,3,2,3,"Vienna Lager",2.5,2,"Augustiner Lager",4.8,3416
-"56",410,"Pittsburgh Brewing Co.",1074289967,4,4,4,"Vienna Lager",3.5,4,"Augustiner Lager",4.8,3416
-"57",410,"Pittsburgh Brewing Co.",1063328066,3.5,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
-"58",410,"Pittsburgh Brewing Co.",1060745214,1,1,1,"Vienna Lager",1,1,"Augustiner Lager",4.8,3416
-"59",410,"Pittsburgh Brewing Co.",1060314593,4,2.5,3,"Vienna Lager",3,4,"Augustiner Lager",4.8,3416
-"60",410,"Pittsburgh Brewing Co.",1100320362,4,4,3.5,"American Brown Ale",3.5,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"61",410,"Pittsburgh Brewing Co.",1057964222,3,2.5,3.5,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
-"62",410,"Pittsburgh Brewing Co.",1054303960,2,3,4.5,"Vienna Lager",2,2,"Augustiner Lager",4.8,3416
-"63",410,"Pittsburgh Brewing Co.",1050441737,2,2.5,4,"Vienna Lager",2.5,2,"Augustiner Lager",4.8,3416
-"64",410,"Pittsburgh Brewing Co.",1048783754,3.5,3,3,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
-"65",410,"Pittsburgh Brewing Co.",1043953272,3.5,3.5,3.5,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
-"66",410,"Pittsburgh Brewing Co.",1042217243,2.5,2.5,2.5,"Vienna Lager",3,2.5,"Augustiner Lager",4.8,3416
-"67",410,"Pittsburgh Brewing Co.",1019154365,3.5,3.5,4,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
-"68",410,"Pittsburgh Brewing Co.",1304748940,3,3,3,"American Adjunct Lager",3,3,"American",NA,2712
-"69",410,"Pittsburgh Brewing Co.",1154054202,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"70",410,"Pittsburgh Brewing Co.",1262648780,2.5,3,3,"American Adjunct Lager",2,2,"American",NA,2712
-"71",410,"Pittsburgh Brewing Co.",1259420006,1.5,1,1,"American Adjunct Lager",1.5,1,"American",NA,2712
-"72",410,"Pittsburgh Brewing Co.",1247442975,2,2.5,3,"American Adjunct Lager",1.5,1.5,"American",NA,2712
-"73",410,"Pittsburgh Brewing Co.",1246900355,1,1.5,4,"American Adjunct Lager",2,1.5,"American",NA,2712
-"74",410,"Pittsburgh Brewing Co.",1228413648,3.5,2,3,"American Adjunct Lager",2,2,"American",NA,2712
-"75",410,"Pittsburgh Brewing Co.",1221768268,2,1.5,3,"American Adjunct Lager",2.5,2,"American",NA,2712
-"76",410,"Pittsburgh Brewing Co.",1202489131,2.5,2,2,"American Adjunct Lager",2.5,1.5,"American",NA,2712
-"77",410,"Pittsburgh Brewing Co.",1173122893,2.5,2,2,"American Adjunct Lager",2,1.5,"American",NA,2712
-"78",410,"Pittsburgh Brewing Co.",1167887533,3,3,3.5,"American Adjunct Lager",3,3,"American",NA,2712
-"79",410,"Pittsburgh Brewing Co.",1145063266,2,1,2,"American Adjunct Lager",2,1,"American",NA,2712
-"80",410,"Pittsburgh Brewing Co.",1135046850,3,2,3,"American Adjunct Lager",2,2.5,"American",NA,2712
-"81",410,"Pittsburgh Brewing Co.",1070685977,2.5,2.5,2,"American Adjunct Lager",3,2.5,"American",NA,2712
-"82",410,"Pittsburgh Brewing Co.",1022831849,1,1.5,1.5,"American Adjunct Lager",1.5,1,"American",NA,2712
-"83",410,"Pittsburgh Brewing Co.",1013073435,2,1,2,"American Adjunct Lager",1.5,1,"American",NA,2712
-"84",410,"Pittsburgh Brewing Co.",1312073505,2,1,3,"Light Lager",2,2,"American Light",NA,9210
-"85",410,"Pittsburgh Brewing Co.",1307805518,2.5,3,2,"Light Lager",3,2,"American Light",NA,9210
-"86",410,"Pittsburgh Brewing Co.",1208141115,3,2,2,"Light Lager",3,3,"American Light",NA,9210
-"87",410,"Pittsburgh Brewing Co.",1171253071,5,2,3,"Light Lager",3,4,"American Light",NA,9210
-"88",410,"Pittsburgh Brewing Co.",1108660234,2,1.5,1.5,"Light Lager",2,2,"American Light",NA,9210
-"89",410,"Pittsburgh Brewing Co.",1085344179,3,2.5,3.5,"Light Lager",3,2.5,"American Light",NA,9210
-"90",410,"Pittsburgh Brewing Co.",1077327012,1.5,1.5,2,"Light Lager",1.5,1.5,"American Light",NA,9210
-"91",410,"Pittsburgh Brewing Co.",1076096117,1.5,1.5,1,"Light Lager",1.5,1.5,"American Light",NA,9210
-"92",410,"Pittsburgh Brewing Co.",1055454561,4,2,3,"Light Lager",2,2,"American Light",NA,9210
-"93",410,"Pittsburgh Brewing Co.",1054117668,1,1,1.5,"Light Lager",1.5,1,"American Light",NA,9210
-"94",410,"Pittsburgh Brewing Co.",1052401011,1.5,1,1.5,"Light Lager",1.5,1,"American Light",NA,9210
-"95",410,"Pittsburgh Brewing Co.",1049410044,2.5,1.5,2,"Light Lager",1.5,1.5,"American Light",NA,9210
-"96",410,"Pittsburgh Brewing Co.",1251406163,3,3,3,"American Adjunct Lager",2,3,"Falls City",NA,1210
-"97",410,"Pittsburgh Brewing Co.",1189727311,1.5,1.5,1,"American Adjunct Lager",1.5,1,"Falls City",NA,1210
-"98",410,"Pittsburgh Brewing Co.",1170902657,3,3,2.5,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
-"99",410,"Pittsburgh Brewing Co.",1169698713,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Falls City",NA,1210
-"100",410,"Pittsburgh Brewing Co.",1161734589,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Falls City",NA,1210
-"101",410,"Pittsburgh Brewing Co.",1154453767,2.5,2.5,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
-"102",410,"Pittsburgh Brewing Co.",1149881701,1.5,3,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
-"103",410,"Pittsburgh Brewing Co.",1148083101,4,2,2.5,"American Adjunct Lager",3,3,"Falls City",NA,1210
-"104",410,"Pittsburgh Brewing Co.",1134772680,3,2.5,3,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
-"105",410,"Pittsburgh Brewing Co.",1110571418,4,3,2.5,"American Adjunct Lager",2,2.5,"Falls City",NA,1210
-"106",410,"Pittsburgh Brewing Co.",1099089007,3.5,3,3.5,"American Adjunct Lager",3,3,"Falls City",NA,1210
-"107",410,"Pittsburgh Brewing Co.",1095999369,3,3,3,"American Adjunct Lager",3,3.5,"Falls City",NA,1210
-"108",410,"Pittsburgh Brewing Co.",1012557269,1.5,2,2.5,"American Adjunct Lager",2,2,"Falls City",NA,1210
-"109",410,"Pittsburgh Brewing Co.",997899680,2,2,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
-"110",410,"Pittsburgh Brewing Co.",1162919783,4.5,3.5,4,"Munich Dunkel Lager",4,3.5,"Augustiner Dark",NA,6823
-"111",410,"Pittsburgh Brewing Co.",1152644106,3.5,3.5,3.5,"Munich Dunkel Lager",3.5,4,"Augustiner Dark",NA,6823
-"112",410,"Pittsburgh Brewing Co.",1147980166,4,3.5,3.5,"Munich Dunkel Lager",3.5,3.5,"Augustiner Dark",NA,6823
-"113",410,"Pittsburgh Brewing Co.",1127003342,3,3,3.5,"Munich Dunkel Lager",3,3,"Augustiner Dark",NA,6823
-"114",410,"Pittsburgh Brewing Co.",1118211252,2.5,1.5,3.5,"Munich Dunkel Lager",1,2,"Augustiner Dark",NA,6823
-"115",410,"Pittsburgh Brewing Co.",1112415445,4,3,3.5,"Munich Dunkel Lager",4,3.5,"Augustiner Dark",NA,6823
-"116",410,"Pittsburgh Brewing Co.",1099529557,3.5,3,3.5,"Munich Dunkel Lager",3.5,3,"Augustiner Dark",NA,6823
-"117",410,"Pittsburgh Brewing Co.",1060315011,3,2.5,4,"Munich Dunkel Lager",3,3,"Augustiner Dark",NA,6823
-"118",410,"Pittsburgh Brewing Co.",1057603257,3,3,2.5,"Munich Dunkel Lager",2,2.5,"Augustiner Dark",NA,6823
-"119",410,"Pittsburgh Brewing Co.",1053450827,3,3,3.5,"Munich Dunkel Lager",2.5,2.5,"Augustiner Dark",NA,6823
-"120",410,"Pittsburgh Brewing Co.",1035439894,2,3,4,"Munich Dunkel Lager",2,2,"Augustiner Dark",NA,6823
-"121",410,"Pittsburgh Brewing Co.",1108319490,2.5,1.5,2,"Low Alcohol Beer",1.5,2,"Penn's Best N.A.",NA,21911
-"122",410,"Pittsburgh Brewing Co.",1283014610,1,2,3,"Low Alcohol Beer",3.5,1,"Penn's Best N.A.",NA,21911
-"123",410,"Pittsburgh Brewing Co.",1275166713,3,3,3,"Low Alcohol Beer",3,3,"Penn's Best N.A.",NA,21911
-"124",410,"Pittsburgh Brewing Co.",1271613698,3.5,2.5,3,"Low Alcohol Beer",2,2,"Penn's Best N.A.",NA,21911
-"125",410,"Pittsburgh Brewing Co.",1250143511,3,2,3,"Low Alcohol Beer",2.5,2.5,"Penn's Best N.A.",NA,21911
-"126",410,"Pittsburgh Brewing Co.",1229029873,4,1.5,3.5,"Low Alcohol Beer",3,2,"Penn's Best N.A.",NA,21911
-"127",410,"Pittsburgh Brewing Co.",1214757005,1.5,2.5,3,"Low Alcohol Beer",1.5,1.5,"Penn's Best N.A.",NA,21911
-"128",410,"Pittsburgh Brewing Co.",1130556914,4,3,3.5,"Low Alcohol Beer",2.5,3,"Penn's Best N.A.",NA,21911
-"129",410,"Pittsburgh Brewing Co.",1125273284,2.5,2,1.5,"Low Alcohol Beer",1.5,3,"Penn's Best N.A.",NA,21911
-"130",410,"Pittsburgh Brewing Co.",1280080802,4,3,3.5,"Munich Dunkel Lager",3.5,4,"Gerst",NA,8387
-"131",410,"Pittsburgh Brewing Co.",1266859338,5,4,4,"Munich Dunkel Lager",4,4,"Gerst",NA,8387
-"132",410,"Pittsburgh Brewing Co.",1200945342,2.5,3,4,"Munich Dunkel Lager",3,2.5,"Gerst",NA,8387
-"133",410,"Pittsburgh Brewing Co.",1158292626,4.5,2.5,4,"Munich Dunkel Lager",3.5,4,"Gerst",NA,8387
-"134",410,"Pittsburgh Brewing Co.",1144677378,3,3,3,"Munich Dunkel Lager",3,3,"Gerst",NA,8387
-"135",410,"Pittsburgh Brewing Co.",1056431510,3,3.5,3.5,"Munich Dunkel Lager",3,3,"Gerst",NA,8387
-"136",410,"Pittsburgh Brewing Co.",1044558920,4.5,3.5,3.5,"Munich Dunkel Lager",3,4,"Gerst",NA,8387
-"137",410,"Pittsburgh Brewing Co.",1317504963,3.5,3.5,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
-"138",410,"Pittsburgh Brewing Co.",1313933622,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"139",410,"Pittsburgh Brewing Co.",1311135669,3,3,3,"Light Lager",3,3,"I.C. Light",4.15,1633
-"140",410,"Pittsburgh Brewing Co.",1303087497,3,2,4,"Light Lager",3,3,"I.C. Light",4.15,1633
-"141",410,"Pittsburgh Brewing Co.",1300635732,2,1.5,2,"Light Lager",1.5,1,"I.C. Light",4.15,1633
-"142",410,"Pittsburgh Brewing Co.",1300221709,3,2,2,"Light Lager",2,2.5,"I.C. Light",4.15,1633
-"143",410,"Pittsburgh Brewing Co.",1294254562,2.5,2.5,1,"Light Lager",2,2.5,"I.C. Light",4.15,1633
-"144",410,"Pittsburgh Brewing Co.",1287512658,3.5,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
-"145",410,"Pittsburgh Brewing Co.",1280534733,3,3,2.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
-"146",410,"Pittsburgh Brewing Co.",1269444293,3,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
-"147",410,"Pittsburgh Brewing Co.",1263100218,2.5,3,3,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"148",410,"Pittsburgh Brewing Co.",1262388467,1.5,1.5,1,"Light Lager",1,1,"I.C. Light",4.15,1633
-"149",410,"Pittsburgh Brewing Co.",1257567937,4,3,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"150",410,"Pittsburgh Brewing Co.",1257022681,2,2,2,"Light Lager",2,2.5,"I.C. Light",4.15,1633
-"151",410,"Pittsburgh Brewing Co.",1256859128,2,2,3,"Light Lager",2,1.5,"I.C. Light",4.15,1633
-"152",410,"Pittsburgh Brewing Co.",1251856705,3.5,3,3,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
-"153",410,"Pittsburgh Brewing Co.",1249232499,3,3,3,"Light Lager",3,3,"I.C. Light",4.15,1633
-"154",410,"Pittsburgh Brewing Co.",1244231651,4,3.5,2.5,"Light Lager",3.5,2.5,"I.C. Light",4.15,1633
-"155",410,"Pittsburgh Brewing Co.",1243266029,4.5,2.5,2.5,"Light Lager",3,4,"I.C. Light",4.15,1633
-"156",410,"Pittsburgh Brewing Co.",1241488318,3.5,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"157",410,"Pittsburgh Brewing Co.",1240887968,2.5,2,4,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"158",410,"Pittsburgh Brewing Co.",1240282931,3.5,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
-"159",410,"Pittsburgh Brewing Co.",1238101346,4.5,3.5,3.5,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
-"160",410,"Pittsburgh Brewing Co.",1237450682,4.5,3,3,"Light Lager",3,4,"I.C. Light",4.15,1633
-"161",410,"Pittsburgh Brewing Co.",1235536953,3,2.5,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"162",410,"Pittsburgh Brewing Co.",1233798007,4,3,3,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"163",410,"Pittsburgh Brewing Co.",1233586770,3.5,2.5,3.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"164",410,"Pittsburgh Brewing Co.",1230768396,2,2,1.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"165",410,"Pittsburgh Brewing Co.",1229883387,3,2.5,3,"Light Lager",2.5,3,"I.C. Light",4.15,1633
-"166",410,"Pittsburgh Brewing Co.",1228637965,3,3,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"167",410,"Pittsburgh Brewing Co.",1226250444,3.5,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"168",410,"Pittsburgh Brewing Co.",1217094075,4.5,3,3,"Light Lager",4,4,"I.C. Light",4.15,1633
-"169",410,"Pittsburgh Brewing Co.",1214275727,3.5,2.5,3.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
-"170",410,"Pittsburgh Brewing Co.",1213202661,2.5,2.5,2.5,"Light Lager",4,2,"I.C. Light",4.15,1633
-"171",410,"Pittsburgh Brewing Co.",1213074623,3,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"172",410,"Pittsburgh Brewing Co.",1213063433,3,3.5,3,"Light Lager",2.5,3,"I.C. Light",4.15,1633
-"173",410,"Pittsburgh Brewing Co.",1208957316,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"174",410,"Pittsburgh Brewing Co.",1208376350,2,2,2,"Light Lager",2.5,2,"I.C. Light",4.15,1633
-"175",410,"Pittsburgh Brewing Co.",1207099846,4,3,2.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
-"176",410,"Pittsburgh Brewing Co.",1190775959,5,3.5,2.5,"Light Lager",4,4,"I.C. Light",4.15,1633
-"177",410,"Pittsburgh Brewing Co.",1187938962,2,1.5,2.5,"Light Lager",1.5,1.5,"I.C. Light",4.15,1633
-"178",410,"Pittsburgh Brewing Co.",1187652742,5,4.5,3.5,"Light Lager",4.5,5,"I.C. Light",4.15,1633
-"179",410,"Pittsburgh Brewing Co.",1185639419,4.5,4.5,4,"Light Lager",4,5,"I.C. Light",4.15,1633
-"180",410,"Pittsburgh Brewing Co.",1181519159,3,2.5,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
-"181",410,"Pittsburgh Brewing Co.",1176922251,4.5,2.5,1,"Light Lager",2,3,"I.C. Light",4.15,1633
-"182",410,"Pittsburgh Brewing Co.",1170752276,5,2,1,"Light Lager",2,2,"I.C. Light",4.15,1633
-"183",410,"Pittsburgh Brewing Co.",1168784290,3,2.5,3,"Light Lager",2,2.5,"I.C. Light",4.15,1633
-"184",410,"Pittsburgh Brewing Co.",1164328406,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"185",410,"Pittsburgh Brewing Co.",1161627680,4,3.5,3.5,"Light Lager",3.5,4,"I.C. Light",4.15,1633
-"186",410,"Pittsburgh Brewing Co.",1159142027,2,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"187",410,"Pittsburgh Brewing Co.",1158579378,2.5,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"188",410,"Pittsburgh Brewing Co.",1158108155,3.5,3,3,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
-"189",410,"Pittsburgh Brewing Co.",1151985865,2.5,2,2,"Light Lager",2,2,"I.C. Light",4.15,1633
-"190",410,"Pittsburgh Brewing Co.",1149698587,2.5,3,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"191",410,"Pittsburgh Brewing Co.",1145058729,2.5,2,3,"Light Lager",2,2,"I.C. Light",4.15,1633
-"192",410,"Pittsburgh Brewing Co.",1143067681,3,2,2,"Light Lager",1.5,2.5,"I.C. Light",4.15,1633
-"193",410,"Pittsburgh Brewing Co.",1141882174,3.5,3.5,4,"Light Lager",2.5,3,"I.C. Light",4.15,1633
-"194",410,"Pittsburgh Brewing Co.",1139254028,2.5,2.5,2.5,"Light Lager",2.5,3,"I.C. Light",4.15,1633
-"195",410,"Pittsburgh Brewing Co.",1131232183,3.5,2.5,3.5,"Light Lager",2,3,"I.C. Light",4.15,1633
-"196",410,"Pittsburgh Brewing Co.",1126479227,2.5,2.5,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"197",410,"Pittsburgh Brewing Co.",1126450198,2,2,3,"Light Lager",2.5,2,"I.C. Light",4.15,1633
-"198",410,"Pittsburgh Brewing Co.",1124939069,3,2,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
-"199",410,"Pittsburgh Brewing Co.",1057709488,2.5,1.5,2,"Light Lager",2,2,"I.C. Light",4.15,1633
-"200",410,"Pittsburgh Brewing Co.",1124607094,3,2.5,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
-"201",410,"Pittsburgh Brewing Co.",1123775184,3,2.5,2,"Light Lager",3,3,"I.C. Light",4.15,1633
-"202",410,"Pittsburgh Brewing Co.",1123551667,3,2.5,3,"Light Lager",3,3,"I.C. Light",4.15,1633
-"203",410,"Pittsburgh Brewing Co.",1122667706,2,2,1.5,"Light Lager",2,2,"I.C. Light",4.15,1633
-"204",410,"Pittsburgh Brewing Co.",1119315399,2.5,3,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
-"205",410,"Pittsburgh Brewing Co.",1110429142,2.5,3,3,"Light Lager",2,2,"I.C. Light",4.15,1633
-"206",410,"Pittsburgh Brewing Co.",1103037309,2,2,2.5,"Light Lager",2,2,"I.C. Light",4.15,1633
-"207",410,"Pittsburgh Brewing Co.",1096584223,1,1.5,2,"Light Lager",1,2,"I.C. Light",4.15,1633
-"208",410,"Pittsburgh Brewing Co.",1086829492,3,2,1.5,"Light Lager",2.5,2,"I.C. Light",4.15,1633
-"209",410,"Pittsburgh Brewing Co.",1048931096,3.5,2,4,"Light Lager",2.5,3,"I.C. Light",4.15,1633
-"210",410,"Pittsburgh Brewing Co.",1048873003,2.5,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"211",410,"Pittsburgh Brewing Co.",1044607184,1.5,1.5,1.5,"Light Lager",2,2,"I.C. Light",4.15,1633
-"212",410,"Pittsburgh Brewing Co.",1037687816,2.5,2,2,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
-"213",410,"Pittsburgh Brewing Co.",1024256564,4,2,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
-"214",410,"Pittsburgh Brewing Co.",1022832059,2,1.5,2,"Light Lager",1,1,"I.C. Light",4.15,1633
-"215",410,"Pittsburgh Brewing Co.",1180322515,5,3,4,"American Adjunct Lager",3.5,4.5,"Sterling",NA,7649
-"216",410,"Pittsburgh Brewing Co.",1172508952,2.5,2,2,"American Adjunct Lager",2,2,"Sterling",NA,7649
-"217",410,"Pittsburgh Brewing Co.",1136862984,2.5,2.5,3,"American Adjunct Lager",2,3.5,"Sterling",NA,7649
-"218",410,"Pittsburgh Brewing Co.",1114662430,2.5,2.5,3,"American Adjunct Lager",3,3,"Sterling",NA,7649
-"219",410,"Pittsburgh Brewing Co.",1049410158,2,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Sterling",NA,7649
-"220",410,"Pittsburgh Brewing Co.",1040590253,1.5,2,2.5,"American Adjunct Lager",2,1.5,"Sterling",NA,7649
-"221",410,"Pittsburgh Brewing Co.",1282417546,2.5,1,1,"American Adjunct Lager",1,1,"Wiedemann",NA,11336
-"222",410,"Pittsburgh Brewing Co.",1251246809,2,2,2,"American Adjunct Lager",2,2,"Wiedemann",NA,11336
-"223",410,"Pittsburgh Brewing Co.",1172290871,4.5,3,3.5,"American Adjunct Lager",3.5,4,"Wiedemann",NA,11336
-"224",410,"Pittsburgh Brewing Co.",1165266768,4,3,2.5,"American Adjunct Lager",3,3,"Wiedemann",NA,11336
-"225",410,"Pittsburgh Brewing Co.",1161877470,3,3,3,"American Adjunct Lager",3,3,"Wiedemann",NA,11336
-"226",410,"Pittsburgh Brewing Co.",1159966971,4,4,4,"American Adjunct Lager",4,4,"Wiedemann",NA,11336
-"227",410,"Pittsburgh Brewing Co.",1158239004,4.5,3,3,"American Adjunct Lager",4,4,"Wiedemann",NA,11336
-"228",410,"Pittsburgh Brewing Co.",1150129166,2,2,2.5,"American Adjunct Lager",3,2,"Wiedemann",NA,11336
-"229",410,"Pittsburgh Brewing Co.",1114785578,3.5,2.5,2,"American Adjunct Lager",3,3.5,"Wiedemann",NA,11336
-"230",410,"Pittsburgh Brewing Co.",1110570553,4,2.5,2,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
-"231",410,"Pittsburgh Brewing Co.",1100622181,4,2.5,3,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
-"232",410,"Pittsburgh Brewing Co.",1099271639,2.5,1.5,1.5,"American Adjunct Lager",1.5,2,"Wiedemann",NA,11336
-"233",410,"Pittsburgh Brewing Co.",1057776706,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
-"234",410,"Pittsburgh Brewing Co.",1282417789,1,2.5,3,"American Brown Ale",1,1,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"235",410,"Pittsburgh Brewing Co.",1243477900,1.5,1,1,"American Brown Ale",1,1,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"236",410,"Pittsburgh Brewing Co.",1171478289,3,3,3,"American Brown Ale",2.5,2.5,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"237",410,"Pittsburgh Brewing Co.",1155937820,4,3,3,"American Brown Ale",3,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"238",410,"Pittsburgh Brewing Co.",1146799313,5,3,3,"American Brown Ale",4,4,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"239",410,"Pittsburgh Brewing Co.",1115240020,4,2.5,3,"American Brown Ale",2.5,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"240",410,"Pittsburgh Brewing Co.",1089512498,3.5,2,3,"American Brown Ale",3,3.5,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
-"241",410,"Pittsburgh Brewing Co.",1316008357,1.5,2,2.5,"Light Lager",1.5,2,"I.C. Light Mango",NA,70642
-"242",410,"Pittsburgh Brewing Co.",1312756208,1.5,1.5,1.5,"Light Lager",3,1.5,"I.C. Light Mango",NA,70642
-"243",410,"Pittsburgh Brewing Co.",1312032364,2.5,2,2.5,"Light Lager",3,2,"I.C. Light Mango",NA,70642
-"244",410,"Pittsburgh Brewing Co.",1311204521,1,1.5,3.5,"Light Lager",1,1,"I.C. Light Mango",NA,70642
-"245",410,"Pittsburgh Brewing Co.",1310929559,3.5,4,1.5,"Light Lager",4,2.5,"I.C. Light Mango",NA,70642
-"246",410,"Pittsburgh Brewing Co.",1309625844,1.5,2,2,"Light Lager",2,1,"I.C. Light Mango",NA,70642
-"247",410,"Pittsburgh Brewing Co.",1212741981,3,2,3,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"248",410,"Pittsburgh Brewing Co.",1208375620,4,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"249",410,"Pittsburgh Brewing Co.",1206498301,3.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"250",410,"Pittsburgh Brewing Co.",1205762989,4,3,3,"American Adjunct Lager",4,3.5,"Iron City Beer",4.5,2680
-"251",410,"Pittsburgh Brewing Co.",1205663662,4.5,3,3,"American Adjunct Lager",4,4.5,"Iron City Beer",4.5,2680
-"252",410,"Pittsburgh Brewing Co.",1204564768,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"253",410,"Pittsburgh Brewing Co.",1198888749,3,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"254",410,"Pittsburgh Brewing Co.",1196218828,2,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"255",410,"Pittsburgh Brewing Co.",1194897151,2.5,2,4,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"256",410,"Pittsburgh Brewing Co.",1194394195,4,2.5,3,"American Adjunct Lager",2.5,4,"Iron City Beer",4.5,2680
-"257",410,"Pittsburgh Brewing Co.",1193554744,3.5,2,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"258",410,"Pittsburgh Brewing Co.",1188272434,2.5,1.5,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"259",410,"Pittsburgh Brewing Co.",1187373559,2,1.5,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"260",410,"Pittsburgh Brewing Co.",1186918403,2,2,3,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"261",410,"Pittsburgh Brewing Co.",1185328023,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"262",410,"Pittsburgh Brewing Co.",1184112034,4.5,3.5,3.5,"American Adjunct Lager",4,5,"Iron City Beer",4.5,2680
-"263",410,"Pittsburgh Brewing Co.",1183553548,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"264",410,"Pittsburgh Brewing Co.",1182649894,3,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"265",410,"Pittsburgh Brewing Co.",1181019940,2.5,3.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"266",410,"Pittsburgh Brewing Co.",1180150491,2.5,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"267",410,"Pittsburgh Brewing Co.",1180134777,2,1.5,1.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"268",410,"Pittsburgh Brewing Co.",1178785071,3.5,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"269",410,"Pittsburgh Brewing Co.",1176247018,1,1.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"270",410,"Pittsburgh Brewing Co.",1176074006,2.5,2,2,"American Adjunct Lager",3.5,2,"Iron City Beer",4.5,2680
-"271",410,"Pittsburgh Brewing Co.",1174786058,2,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"272",410,"Pittsburgh Brewing Co.",1174608363,2,1.5,1.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"273",410,"Pittsburgh Brewing Co.",1153972579,3,2.5,2,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"274",410,"Pittsburgh Brewing Co.",1153614040,3,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"275",410,"Pittsburgh Brewing Co.",1172471983,2.5,2.5,2,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"276",410,"Pittsburgh Brewing Co.",1172201197,2,3,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"277",410,"Pittsburgh Brewing Co.",1170638881,3,3,3.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"278",410,"Pittsburgh Brewing Co.",1170200013,4,2.5,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"279",410,"Pittsburgh Brewing Co.",1169950424,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"280",410,"Pittsburgh Brewing Co.",1168984988,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"281",410,"Pittsburgh Brewing Co.",1168764445,3,3.5,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"282",410,"Pittsburgh Brewing Co.",1166396539,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Iron City Beer",4.5,2680
-"283",410,"Pittsburgh Brewing Co.",1166138995,2,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"284",410,"Pittsburgh Brewing Co.",1152829599,1.5,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"285",410,"Pittsburgh Brewing Co.",1165796267,2,2,1,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
-"286",410,"Pittsburgh Brewing Co.",1165634522,3,1.5,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"287",410,"Pittsburgh Brewing Co.",1163708219,4,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"288",410,"Pittsburgh Brewing Co.",1163273798,2.5,3,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"289",410,"Pittsburgh Brewing Co.",1161919710,4,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"290",410,"Pittsburgh Brewing Co.",1160714315,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"291",410,"Pittsburgh Brewing Co.",1158536404,2,2.5,2,"American Adjunct Lager",1.5,3,"Iron City Beer",4.5,2680
-"292",410,"Pittsburgh Brewing Co.",1158268642,3,2,1.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"293",410,"Pittsburgh Brewing Co.",1156699384,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"294",410,"Pittsburgh Brewing Co.",1155938078,3.5,2.5,2,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"295",410,"Pittsburgh Brewing Co.",1155331969,2.5,2,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"296",410,"Pittsburgh Brewing Co.",1155178983,3.5,3,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"297",410,"Pittsburgh Brewing Co.",1155046704,3,2.5,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"298",410,"Pittsburgh Brewing Co.",1152217518,2,1.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"299",410,"Pittsburgh Brewing Co.",1151986072,2,2,2,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
-"300",410,"Pittsburgh Brewing Co.",1151708735,3,1.5,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"301",410,"Pittsburgh Brewing Co.",1149981701,3,2.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"302",410,"Pittsburgh Brewing Co.",1149698956,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"303",410,"Pittsburgh Brewing Co.",1148131957,3,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"304",410,"Pittsburgh Brewing Co.",1147638901,4,2,2.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"305",410,"Pittsburgh Brewing Co.",1145058565,3.5,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"306",410,"Pittsburgh Brewing Co.",1143857601,1,1.5,1.5,"American Adjunct Lager",1,1.5,"Iron City Beer",4.5,2680
-"307",410,"Pittsburgh Brewing Co.",1137514794,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"308",410,"Pittsburgh Brewing Co.",1143124896,3,1.5,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"309",410,"Pittsburgh Brewing Co.",1142034924,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"310",410,"Pittsburgh Brewing Co.",1141696749,1,1.5,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
-"311",410,"Pittsburgh Brewing Co.",1141627048,2,2,1.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"312",410,"Pittsburgh Brewing Co.",1141519807,1.5,2.5,1.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"313",410,"Pittsburgh Brewing Co.",1140901777,3.5,3,4,"American Adjunct Lager",2.5,4,"Iron City Beer",4.5,2680
-"314",410,"Pittsburgh Brewing Co.",1139179213,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"315",410,"Pittsburgh Brewing Co.",1138748454,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"316",410,"Pittsburgh Brewing Co.",1138029553,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"317",410,"Pittsburgh Brewing Co.",1137977503,4,3,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"318",410,"Pittsburgh Brewing Co.",1137611424,3,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"319",410,"Pittsburgh Brewing Co.",1136333077,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"320",410,"Pittsburgh Brewing Co.",1131414143,2,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"321",410,"Pittsburgh Brewing Co.",1131335448,2,2,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"322",410,"Pittsburgh Brewing Co.",1129040101,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"323",410,"Pittsburgh Brewing Co.",1128986810,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"324",410,"Pittsburgh Brewing Co.",1128459975,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"325",410,"Pittsburgh Brewing Co.",1128440828,2,2,3,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
-"326",410,"Pittsburgh Brewing Co.",1127686193,3.5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"327",410,"Pittsburgh Brewing Co.",1126999063,3,3,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"328",410,"Pittsburgh Brewing Co.",1126741469,3.5,3,3.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"329",410,"Pittsburgh Brewing Co.",1126149599,1.5,2,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"330",410,"Pittsburgh Brewing Co.",1125589304,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"331",410,"Pittsburgh Brewing Co.",1124512509,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"332",410,"Pittsburgh Brewing Co.",1124470897,3.5,2.5,2,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
-"333",410,"Pittsburgh Brewing Co.",1124246111,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"334",410,"Pittsburgh Brewing Co.",1124238802,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"335",410,"Pittsburgh Brewing Co.",1124218317,3,2.5,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"336",410,"Pittsburgh Brewing Co.",1124142109,2,2,2,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"337",410,"Pittsburgh Brewing Co.",1123904234,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"338",410,"Pittsburgh Brewing Co.",1123196521,4,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"339",410,"Pittsburgh Brewing Co.",1123014623,3.5,2.5,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"340",410,"Pittsburgh Brewing Co.",1122787702,3.5,2.5,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"341",410,"Pittsburgh Brewing Co.",1122741109,3,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"342",410,"Pittsburgh Brewing Co.",1122740872,3,3,2.5,"American Adjunct Lager",4,2.5,"Iron City Beer",4.5,2680
-"343",410,"Pittsburgh Brewing Co.",1122377689,1.5,2.5,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"344",410,"Pittsburgh Brewing Co.",1121136231,2.5,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"345",410,"Pittsburgh Brewing Co.",1121050457,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"346",410,"Pittsburgh Brewing Co.",1325614454,1.5,2,1.5,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
-"347",410,"Pittsburgh Brewing Co.",1325216204,2,3.5,3,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
-"348",410,"Pittsburgh Brewing Co.",1325197719,3,2,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"349",410,"Pittsburgh Brewing Co.",1317507563,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"350",410,"Pittsburgh Brewing Co.",1314544386,4,3.5,3.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"351",410,"Pittsburgh Brewing Co.",1314157875,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"352",410,"Pittsburgh Brewing Co.",1313932504,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"353",410,"Pittsburgh Brewing Co.",1108309638,3,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"354",410,"Pittsburgh Brewing Co.",1313775413,2.5,2.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"355",410,"Pittsburgh Brewing Co.",1313366163,2,1.5,2,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
-"356",410,"Pittsburgh Brewing Co.",1310952528,1.5,1.5,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"357",410,"Pittsburgh Brewing Co.",1121049551,4,2.5,2,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"358",410,"Pittsburgh Brewing Co.",1120061155,3,3.5,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"359",410,"Pittsburgh Brewing Co.",1119927922,2.5,2,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"360",410,"Pittsburgh Brewing Co.",1118218745,1.5,1.5,2.5,"American Adjunct Lager",1.5,1,"Iron City Beer",4.5,2680
-"361",410,"Pittsburgh Brewing Co.",1117663775,4,3.5,3.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"362",410,"Pittsburgh Brewing Co.",1116908872,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"363",410,"Pittsburgh Brewing Co.",1116904247,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"364",410,"Pittsburgh Brewing Co.",1108100109,2,1.5,2,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
-"365",410,"Pittsburgh Brewing Co.",1116201169,2,2,3,"American Adjunct Lager",4,2,"Iron City Beer",4.5,2680
-"366",410,"Pittsburgh Brewing Co.",1114390217,3.5,2,3.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"367",410,"Pittsburgh Brewing Co.",1114325146,3.5,3,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"368",410,"Pittsburgh Brewing Co.",1114224686,2.5,2,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"369",410,"Pittsburgh Brewing Co.",1113596505,1.5,1,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
-"370",410,"Pittsburgh Brewing Co.",1112488798,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"371",410,"Pittsburgh Brewing Co.",1112487075,3,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"372",410,"Pittsburgh Brewing Co.",1112130213,2.5,2.5,3,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
-"373",410,"Pittsburgh Brewing Co.",1111686918,2.5,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"374",410,"Pittsburgh Brewing Co.",1111186009,1,1.5,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
-"375",410,"Pittsburgh Brewing Co.",1110942882,3,2,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"376",410,"Pittsburgh Brewing Co.",1107194778,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"377",410,"Pittsburgh Brewing Co.",1106365821,3,2,2.5,"American Adjunct Lager",2.5,3.5,"Iron City Beer",4.5,2680
-"378",410,"Pittsburgh Brewing Co.",1106035165,2.5,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"379",410,"Pittsburgh Brewing Co.",1105759204,1,1.5,3.5,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
-"380",410,"Pittsburgh Brewing Co.",1105588888,1.5,2,2.5,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
-"381",410,"Pittsburgh Brewing Co.",1105186819,2,3,2,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
-"382",410,"Pittsburgh Brewing Co.",1105157657,2.5,1.5,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"383",410,"Pittsburgh Brewing Co.",1104992911,3.5,3.5,3.5,"American Adjunct Lager",2,3.5,"Iron City Beer",4.5,2680
-"384",410,"Pittsburgh Brewing Co.",1093976524,1.5,1.5,1,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"385",410,"Pittsburgh Brewing Co.",1014813462,2,2,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"386",410,"Pittsburgh Brewing Co.",1104162560,3,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"387",410,"Pittsburgh Brewing Co.",1103768697,3,3.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"388",410,"Pittsburgh Brewing Co.",1102884424,2,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"389",410,"Pittsburgh Brewing Co.",1102652048,2,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"390",410,"Pittsburgh Brewing Co.",1101324798,1.5,1.5,2,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
-"391",410,"Pittsburgh Brewing Co.",1100649192,2,2.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"392",410,"Pittsburgh Brewing Co.",1100406826,3,2,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"393",410,"Pittsburgh Brewing Co.",1100008896,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"394",410,"Pittsburgh Brewing Co.",1094325163,3,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"395",410,"Pittsburgh Brewing Co.",1012569131,1.5,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"396",410,"Pittsburgh Brewing Co.",1092496628,2.5,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"397",410,"Pittsburgh Brewing Co.",1090778926,4.5,3.5,3.5,"American Adjunct Lager",3.5,4,"Iron City Beer",4.5,2680
-"398",410,"Pittsburgh Brewing Co.",1085345712,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"399",410,"Pittsburgh Brewing Co.",1083538918,3,3,3,"American Adjunct Lager",2.5,3.5,"Iron City Beer",4.5,2680
-"400",410,"Pittsburgh Brewing Co.",1081722336,3.5,2.5,3,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"401",410,"Pittsburgh Brewing Co.",1072277733,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"402",410,"Pittsburgh Brewing Co.",1072277686,2,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"403",410,"Pittsburgh Brewing Co.",1069703597,3,1.5,2,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
-"404",410,"Pittsburgh Brewing Co.",1068646482,3,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"405",410,"Pittsburgh Brewing Co.",1066329545,3,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"406",410,"Pittsburgh Brewing Co.",1065145562,3,2,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"407",410,"Pittsburgh Brewing Co.",1060649577,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"408",410,"Pittsburgh Brewing Co.",1060449147,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"409",410,"Pittsburgh Brewing Co.",1058809954,2.5,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"410",410,"Pittsburgh Brewing Co.",1054365362,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"411",410,"Pittsburgh Brewing Co.",1052220291,1,2.5,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"412",410,"Pittsburgh Brewing Co.",1048961532,4,2,3.5,"American Adjunct Lager",2,3.5,"Iron City Beer",4.5,2680
-"413",410,"Pittsburgh Brewing Co.",1048934129,2.5,2,4,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
-"414",410,"Pittsburgh Brewing Co.",1046115981,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"415",410,"Pittsburgh Brewing Co.",1243265910,4,2,2.5,"American Adjunct Lager",3,4,"Iron City Beer",4.5,2680
-"416",410,"Pittsburgh Brewing Co.",1044572058,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"417",410,"Pittsburgh Brewing Co.",1042141402,4,3,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"418",410,"Pittsburgh Brewing Co.",1036775839,4,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"419",410,"Pittsburgh Brewing Co.",1032771570,2.5,2,2,"American Adjunct Lager",1.5,2,"Iron City Beer",4.5,2680
-"420",410,"Pittsburgh Brewing Co.",1026356301,3,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"421",410,"Pittsburgh Brewing Co.",1023826322,2,2.5,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"422",410,"Pittsburgh Brewing Co.",1022100688,2.5,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"423",410,"Pittsburgh Brewing Co.",1022071859,2,1.5,1.5,"American Adjunct Lager",1.5,1,"Iron City Beer",4.5,2680
-"424",410,"Pittsburgh Brewing Co.",1016108085,2,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"425",410,"Pittsburgh Brewing Co.",1015577260,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"426",410,"Pittsburgh Brewing Co.",1014824782,5,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"427",410,"Pittsburgh Brewing Co.",1012557700,3.5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"428",410,"Pittsburgh Brewing Co.",1309810313,2.5,2,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"429",410,"Pittsburgh Brewing Co.",1309133698,3,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"430",410,"Pittsburgh Brewing Co.",1308927227,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"431",410,"Pittsburgh Brewing Co.",1305677165,2,2.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"432",410,"Pittsburgh Brewing Co.",1305485355,2.5,2,3.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"433",410,"Pittsburgh Brewing Co.",1305261411,3,3,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"434",410,"Pittsburgh Brewing Co.",1301152230,2,1,2,"American Adjunct Lager",2,1,"Iron City Beer",4.5,2680
-"435",410,"Pittsburgh Brewing Co.",1299123827,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"436",410,"Pittsburgh Brewing Co.",1298693218,3.5,2,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"437",410,"Pittsburgh Brewing Co.",1298084409,2.5,2,3.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"438",410,"Pittsburgh Brewing Co.",1297134727,4,2.5,2.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"439",410,"Pittsburgh Brewing Co.",1296961193,3,2,3,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"440",410,"Pittsburgh Brewing Co.",1296834495,3.5,3,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"441",410,"Pittsburgh Brewing Co.",1296447338,3.5,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"442",410,"Pittsburgh Brewing Co.",1292791299,4,3,2,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
-"443",410,"Pittsburgh Brewing Co.",1292503349,2,2,2.5,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
-"444",410,"Pittsburgh Brewing Co.",1291599118,2,1.5,1.5,"American Adjunct Lager",3,1,"Iron City Beer",4.5,2680
-"445",410,"Pittsburgh Brewing Co.",1289948250,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"446",410,"Pittsburgh Brewing Co.",1289086288,2,1,1,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
-"447",410,"Pittsburgh Brewing Co.",1288462008,4,2,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"448",410,"Pittsburgh Brewing Co.",1286592876,2,2,3,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
-"449",410,"Pittsburgh Brewing Co.",1284651473,3,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"450",410,"Pittsburgh Brewing Co.",1283564528,3,3,4,"American Adjunct Lager",4,3.5,"Iron City Beer",4.5,2680
-"451",410,"Pittsburgh Brewing Co.",1282698983,2,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"452",410,"Pittsburgh Brewing Co.",1282087830,3,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"453",410,"Pittsburgh Brewing Co.",1281921214,3,2,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"454",410,"Pittsburgh Brewing Co.",1275872093,3,1,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"455",410,"Pittsburgh Brewing Co.",1274750898,3,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"456",410,"Pittsburgh Brewing Co.",1269660825,3.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"457",410,"Pittsburgh Brewing Co.",1269655485,3.5,2.5,2.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
-"458",410,"Pittsburgh Brewing Co.",1269449781,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"459",410,"Pittsburgh Brewing Co.",1269444045,4,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"460",410,"Pittsburgh Brewing Co.",1240695154,3,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"461",410,"Pittsburgh Brewing Co.",1268284707,1.5,2,3,"American Adjunct Lager",1.5,2,"Iron City Beer",4.5,2680
-"462",410,"Pittsburgh Brewing Co.",1263097929,3,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"463",410,"Pittsburgh Brewing Co.",1262555609,2,2,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"464",410,"Pittsburgh Brewing Co.",1262487753,5,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
-"465",410,"Pittsburgh Brewing Co.",1262399943,4,1.5,2.5,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
-"466",410,"Pittsburgh Brewing Co.",1260761348,1.5,1.5,3,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
-"467",410,"Pittsburgh Brewing Co.",1259979067,3,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"468",410,"Pittsburgh Brewing Co.",1258689597,2.5,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"469",410,"Pittsburgh Brewing Co.",1258072763,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"470",410,"Pittsburgh Brewing Co.",1256600926,2,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"471",410,"Pittsburgh Brewing Co.",1240941425,2.5,2,3.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"472",410,"Pittsburgh Brewing Co.",1255512979,2,2,4,"American Adjunct Lager",2,1,"Iron City Beer",4.5,2680
-"473",410,"Pittsburgh Brewing Co.",1252005051,4,2.5,3,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
-"474",410,"Pittsburgh Brewing Co.",1251246069,2,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"475",410,"Pittsburgh Brewing Co.",1250220853,4,3,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"476",410,"Pittsburgh Brewing Co.",1249698555,2.5,2,3,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"477",410,"Pittsburgh Brewing Co.",1248296125,2,1,2,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
-"478",410,"Pittsburgh Brewing Co.",1247873392,2,1.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"479",410,"Pittsburgh Brewing Co.",1247183238,2,2.5,3.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
-"480",410,"Pittsburgh Brewing Co.",1245894178,4.5,3,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
-"481",410,"Pittsburgh Brewing Co.",1243659111,3,2.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"482",410,"Pittsburgh Brewing Co.",1243656263,3.5,2,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"483",410,"Pittsburgh Brewing Co.",1237665986,3.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"484",410,"Pittsburgh Brewing Co.",1234329708,3,1.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"485",410,"Pittsburgh Brewing Co.",1233887162,2.5,2,3,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"486",410,"Pittsburgh Brewing Co.",1232743218,4,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"487",410,"Pittsburgh Brewing Co.",1232515383,2.5,2.5,2,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
-"488",410,"Pittsburgh Brewing Co.",1231020665,5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"489",410,"Pittsburgh Brewing Co.",1229882916,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"490",410,"Pittsburgh Brewing Co.",1228259234,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"491",410,"Pittsburgh Brewing Co.",1227735688,1.5,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
-"492",410,"Pittsburgh Brewing Co.",1226974945,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"493",410,"Pittsburgh Brewing Co.",1203836784,4.5,2,2,"American Adjunct Lager",4,3,"Old German",NA,6070
-"494",410,"Pittsburgh Brewing Co.",1226875082,4,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"495",410,"Pittsburgh Brewing Co.",1226525567,5,3,1,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
-"496",410,"Pittsburgh Brewing Co.",1225157757,1.5,1.5,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
-"497",410,"Pittsburgh Brewing Co.",1221534246,3.5,2.5,1.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
-"498",410,"Pittsburgh Brewing Co.",1218415356,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"499",410,"Pittsburgh Brewing Co.",1217182767,5,2.5,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"500",410,"Pittsburgh Brewing Co.",1216645874,3,2,2.5,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
-"501",410,"Pittsburgh Brewing Co.",1215540680,2.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"502",410,"Pittsburgh Brewing Co.",1215135770,3,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
-"503",410,"Pittsburgh Brewing Co.",1213936722,4,2,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
-"504",410,"Pittsburgh Brewing Co.",1213588501,4,2,4,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
-"505",410,"Pittsburgh Brewing Co.",1051278167,4,2,2,"American Adjunct Lager",4,3,"Old German",NA,6070
-"506",410,"Pittsburgh Brewing Co.",1213499019,3,3,3,"American Adjunct Lager",3,4,"Iron City Beer",4.5,2680
-"507",410,"Pittsburgh Brewing Co.",1213202838,2.5,2.5,2.5,"American Adjunct Lager",4,2.5,"Iron City Beer",4.5,2680
-"508",410,"Pittsburgh Brewing Co.",1213075127,2.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
-"509",410,"Pittsburgh Brewing Co.",1323972281,3.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Old German",NA,6070
-"510",410,"Pittsburgh Brewing Co.",1323149074,3,3,3,"American Adjunct Lager",3,2.5,"Old German",NA,6070
-"511",410,"Pittsburgh Brewing Co.",1322528209,4,4,4,"American Adjunct Lager",4,4,"Old German",NA,6070
-"512",410,"Pittsburgh Brewing Co.",1320723955,2,2,2.5,"American Adjunct Lager",1,2,"Old German",NA,6070
-"513",410,"Pittsburgh Brewing Co.",1313594341,3.5,2.5,3,"American Adjunct Lager",3.5,3,"Old German",NA,6070
-"514",410,"Pittsburgh Brewing Co.",1311367931,2,1,2,"American Adjunct Lager",1.5,2,"Old German",NA,6070
-"515",410,"Pittsburgh Brewing Co.",1274877207,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
-"516",410,"Pittsburgh Brewing Co.",1271213956,1.5,2,2,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
-"517",410,"Pittsburgh Brewing Co.",1264022377,2,2.5,3,"American Adjunct Lager",2,2.5,"Old German",NA,6070
-"518",410,"Pittsburgh Brewing Co.",1250818040,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Old German",NA,6070
-"519",410,"Pittsburgh Brewing Co.",1242429162,5,5,5,"American Adjunct Lager",5,5,"Old German",NA,6070
-"520",410,"Pittsburgh Brewing Co.",1239254850,3.5,3,3,"American Adjunct Lager",3,3,"Old German",NA,6070
-"521",410,"Pittsburgh Brewing Co.",1235019183,3.5,2,3.5,"American Adjunct Lager",2,1.5,"Old German",NA,6070
-"522",410,"Pittsburgh Brewing Co.",1234136968,2,1,3,"American Adjunct Lager",1,2,"Old German",NA,6070
-"523",410,"Pittsburgh Brewing Co.",1228962871,4,2,3,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
-"524",410,"Pittsburgh Brewing Co.",1202264803,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Old German",NA,6070
-"525",410,"Pittsburgh Brewing Co.",1186870682,5,4,4,"American Adjunct Lager",5,4.5,"Old German",NA,6070
-"526",410,"Pittsburgh Brewing Co.",1182373951,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
-"527",410,"Pittsburgh Brewing Co.",1168222359,3.5,2,1.5,"American Adjunct Lager",2.5,2,"Old German",NA,6070
-"528",410,"Pittsburgh Brewing Co.",1164901978,4,2.5,3,"American Adjunct Lager",3,3,"Old German",NA,6070
-"529",410,"Pittsburgh Brewing Co.",1161734959,1,1.5,1.5,"American Adjunct Lager",1.5,1,"Old German",NA,6070
-"530",410,"Pittsburgh Brewing Co.",1157966734,1.5,1,1.5,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
-"531",410,"Pittsburgh Brewing Co.",1155417834,2.5,2.5,2.5,"American Adjunct Lager",3,1.5,"Old German",NA,6070
-"532",410,"Pittsburgh Brewing Co.",1154673717,2,1.5,1.5,"American Adjunct Lager",2,2,"Old German",NA,6070
-"533",410,"Pittsburgh Brewing Co.",1040841551,3,2.5,3,"American Adjunct Lager",2.5,3,"Old German",NA,6070
-"534",410,"Pittsburgh Brewing Co.",1150172272,1.5,2,1,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
-"535",410,"Pittsburgh Brewing Co.",1146798861,2,1,2,"American Adjunct Lager",3,1,"Old German",NA,6070
-"536",410,"Pittsburgh Brewing Co.",1138001227,5,3,1.5,"American Adjunct Lager",3,4,"Old German",NA,6070
-"537",410,"Pittsburgh Brewing Co.",1113779378,1,2.5,1,"American Adjunct Lager",2,1,"Old German",NA,6070
-"538",410,"Pittsburgh Brewing Co.",1112070097,4,2,2.5,"American Adjunct Lager",2.5,3,"Old German",NA,6070
-"539",410,"Pittsburgh Brewing Co.",1108658006,2,1.5,1.5,"American Adjunct Lager",1.5,2,"Old German",NA,6070
-"540",410,"Pittsburgh Brewing Co.",1095557283,2.5,2,2,"American Adjunct Lager",3,2,"Old German",NA,6070
-"541",410,"Pittsburgh Brewing Co.",1090271716,2,2.5,3.5,"American Adjunct Lager",3,2,"Old German",NA,6070
-"542",410,"Pittsburgh Brewing Co.",1053449814,3,2.5,3,"American Adjunct Lager",3,2.5,"Old German",NA,6070
-"543",410,"Pittsburgh Brewing Co.",1108174449,3.5,2.5,2.5,"American Adjunct Lager",3.5,2.5,"Prime Time",NA,21893
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+410,"Pittsburgh Brewing Co.",1241470320,4,3.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1176085070,4,3.5,3.5,"Vienna Lager",3.5,4,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1174251791,3.5,3,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1158375117,4.5,2.5,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1140574100,2,2,2,"American Adjunct Lager",2,3,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1078890514,1.5,1,2,"Light Lager",1,1.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1233360659,3,2.5,3.5,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1108081200,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1161026153,3,3,2,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1157229020,1.5,2,2,"American Adjunct Lager",1.5,1.5,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1125271447,3.5,2.5,3,"Low Alcohol Beer",3,2.5,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1066329742,2,2,2,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1232308646,3,2.5,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1296961538,4,3,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1252962355,3,2.5,4,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1060774986,1.5,1,1,"Light Lager",1,1,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1243266141,2,2,2,"Vienna Lager",2,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1306683456,3,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1302311007,3,2.5,3,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1300221607,3.5,2,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1297818517,4,3.5,3.5,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1295078163,3.5,3.5,4.5,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1283733700,4,3,3.5,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1282097916,5,3.5,4,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1263102292,2.5,2,2,"Vienna Lager",2,2,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1258864149,3,3,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1256596721,3,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1254967222,3,3,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1225417548,3,3.5,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1217532880,3,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1216730223,3,2.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1215630026,2.5,3,4,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1214495640,4,4.5,4,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1209792245,2.5,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1201958964,3.5,3,4,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1198988332,2.5,3,3,"Vienna Lager",3,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1194347039,3,4,3,"Vienna Lager",2,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1176421965,3,2.5,2.5,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1158124997,3.5,3,4,"Vienna Lager",2.5,4,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1157232738,2.5,3,3,"Vienna Lager",2.5,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1146184116,3,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1145571608,3.5,3.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1139199343,4,3,3,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1137479497,4,2.5,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1127001446,4,3.5,4,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1119053456,2.5,2.5,3,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1111700742,4,3.5,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1104808219,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1104788191,3.5,3.5,3.5,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1101691062,2.5,3,3.5,"Vienna Lager",4,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1096053517,3.5,2.5,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1095130329,3.5,2,3,"Vienna Lager",3,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1088704127,3.5,3,3,"Vienna Lager",3.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1085183945,3,3,3,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1081722472,3,2,3,"Vienna Lager",2.5,2,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1074289967,4,4,4,"Vienna Lager",3.5,4,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1063328066,3.5,3,3.5,"Vienna Lager",3,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1060745214,1,1,1,"Vienna Lager",1,1,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1060314593,4,2.5,3,"Vienna Lager",3,4,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1100320362,4,4,3.5,"American Brown Ale",3.5,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1057964222,3,2.5,3.5,"Vienna Lager",2.5,3,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1054303960,2,3,4.5,"Vienna Lager",2,2,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1050441737,2,2.5,4,"Vienna Lager",2.5,2,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1048783754,3.5,3,3,"Vienna Lager",3.5,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1043953272,3.5,3.5,3.5,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1042217243,2.5,2.5,2.5,"Vienna Lager",3,2.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1019154365,3.5,3.5,4,"Vienna Lager",4,3.5,"Augustiner Lager",4.8,3416
+410,"Pittsburgh Brewing Co.",1304748940,3,3,3,"American Adjunct Lager",3,3,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1154054202,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1262648780,2.5,3,3,"American Adjunct Lager",2,2,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1259420006,1.5,1,1,"American Adjunct Lager",1.5,1,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1247442975,2,2.5,3,"American Adjunct Lager",1.5,1.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1246900355,1,1.5,4,"American Adjunct Lager",2,1.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1228413648,3.5,2,3,"American Adjunct Lager",2,2,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1221768268,2,1.5,3,"American Adjunct Lager",2.5,2,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1202489131,2.5,2,2,"American Adjunct Lager",2.5,1.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1173122893,2.5,2,2,"American Adjunct Lager",2,1.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1167887533,3,3,3.5,"American Adjunct Lager",3,3,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1145063266,2,1,2,"American Adjunct Lager",2,1,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1135046850,3,2,3,"American Adjunct Lager",2,2.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1070685977,2.5,2.5,2,"American Adjunct Lager",3,2.5,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1022831849,1,1.5,1.5,"American Adjunct Lager",1.5,1,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1013073435,2,1,2,"American Adjunct Lager",1.5,1,"American",NA,2712
+410,"Pittsburgh Brewing Co.",1312073505,2,1,3,"Light Lager",2,2,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1307805518,2.5,3,2,"Light Lager",3,2,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1208141115,3,2,2,"Light Lager",3,3,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1171253071,5,2,3,"Light Lager",3,4,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1108660234,2,1.5,1.5,"Light Lager",2,2,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1085344179,3,2.5,3.5,"Light Lager",3,2.5,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1077327012,1.5,1.5,2,"Light Lager",1.5,1.5,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1076096117,1.5,1.5,1,"Light Lager",1.5,1.5,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1055454561,4,2,3,"Light Lager",2,2,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1054117668,1,1,1.5,"Light Lager",1.5,1,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1052401011,1.5,1,1.5,"Light Lager",1.5,1,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1049410044,2.5,1.5,2,"Light Lager",1.5,1.5,"American Light",NA,9210
+410,"Pittsburgh Brewing Co.",1251406163,3,3,3,"American Adjunct Lager",2,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1189727311,1.5,1.5,1,"American Adjunct Lager",1.5,1,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1170902657,3,3,2.5,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1169698713,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1161734589,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1154453767,2.5,2.5,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1149881701,1.5,3,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1148083101,4,2,2.5,"American Adjunct Lager",3,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1134772680,3,2.5,3,"American Adjunct Lager",2.5,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1110571418,4,3,2.5,"American Adjunct Lager",2,2.5,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1099089007,3.5,3,3.5,"American Adjunct Lager",3,3,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1095999369,3,3,3,"American Adjunct Lager",3,3.5,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1012557269,1.5,2,2.5,"American Adjunct Lager",2,2,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",997899680,2,2,3,"American Adjunct Lager",2,2,"Falls City",NA,1210
+410,"Pittsburgh Brewing Co.",1162919783,4.5,3.5,4,"Munich Dunkel Lager",4,3.5,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1152644106,3.5,3.5,3.5,"Munich Dunkel Lager",3.5,4,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1147980166,4,3.5,3.5,"Munich Dunkel Lager",3.5,3.5,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1127003342,3,3,3.5,"Munich Dunkel Lager",3,3,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1118211252,2.5,1.5,3.5,"Munich Dunkel Lager",1,2,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1112415445,4,3,3.5,"Munich Dunkel Lager",4,3.5,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1099529557,3.5,3,3.5,"Munich Dunkel Lager",3.5,3,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1060315011,3,2.5,4,"Munich Dunkel Lager",3,3,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1057603257,3,3,2.5,"Munich Dunkel Lager",2,2.5,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1053450827,3,3,3.5,"Munich Dunkel Lager",2.5,2.5,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1035439894,2,3,4,"Munich Dunkel Lager",2,2,"Augustiner Dark",NA,6823
+410,"Pittsburgh Brewing Co.",1108319490,2.5,1.5,2,"Low Alcohol Beer",1.5,2,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1283014610,1,2,3,"Low Alcohol Beer",3.5,1,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1275166713,3,3,3,"Low Alcohol Beer",3,3,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1271613698,3.5,2.5,3,"Low Alcohol Beer",2,2,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1250143511,3,2,3,"Low Alcohol Beer",2.5,2.5,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1229029873,4,1.5,3.5,"Low Alcohol Beer",3,2,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1214757005,1.5,2.5,3,"Low Alcohol Beer",1.5,1.5,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1130556914,4,3,3.5,"Low Alcohol Beer",2.5,3,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1125273284,2.5,2,1.5,"Low Alcohol Beer",1.5,3,"Penn's Best N.A.",NA,21911
+410,"Pittsburgh Brewing Co.",1280080802,4,3,3.5,"Munich Dunkel Lager",3.5,4,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1266859338,5,4,4,"Munich Dunkel Lager",4,4,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1200945342,2.5,3,4,"Munich Dunkel Lager",3,2.5,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1158292626,4.5,2.5,4,"Munich Dunkel Lager",3.5,4,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1144677378,3,3,3,"Munich Dunkel Lager",3,3,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1056431510,3,3.5,3.5,"Munich Dunkel Lager",3,3,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1044558920,4.5,3.5,3.5,"Munich Dunkel Lager",3,4,"Gerst",NA,8387
+410,"Pittsburgh Brewing Co.",1317504963,3.5,3.5,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1313933622,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1311135669,3,3,3,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1303087497,3,2,4,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1300635732,2,1.5,2,"Light Lager",1.5,1,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1300221709,3,2,2,"Light Lager",2,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1294254562,2.5,2.5,1,"Light Lager",2,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1287512658,3.5,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1280534733,3,3,2.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1269444293,3,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1263100218,2.5,3,3,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1262388467,1.5,1.5,1,"Light Lager",1,1,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1257567937,4,3,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1257022681,2,2,2,"Light Lager",2,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1256859128,2,2,3,"Light Lager",2,1.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1251856705,3.5,3,3,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1249232499,3,3,3,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1244231651,4,3.5,2.5,"Light Lager",3.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1243266029,4.5,2.5,2.5,"Light Lager",3,4,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1241488318,3.5,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1240887968,2.5,2,4,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1240282931,3.5,3,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1238101346,4.5,3.5,3.5,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1237450682,4.5,3,3,"Light Lager",3,4,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1235536953,3,2.5,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1233798007,4,3,3,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1233586770,3.5,2.5,3.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1230768396,2,2,1.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1229883387,3,2.5,3,"Light Lager",2.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1228637965,3,3,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1226250444,3.5,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1217094075,4.5,3,3,"Light Lager",4,4,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1214275727,3.5,2.5,3.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1213202661,2.5,2.5,2.5,"Light Lager",4,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1213074623,3,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1213063433,3,3.5,3,"Light Lager",2.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1208957316,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1208376350,2,2,2,"Light Lager",2.5,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1207099846,4,3,2.5,"Light Lager",3.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1190775959,5,3.5,2.5,"Light Lager",4,4,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1187938962,2,1.5,2.5,"Light Lager",1.5,1.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1187652742,5,4.5,3.5,"Light Lager",4.5,5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1185639419,4.5,4.5,4,"Light Lager",4,5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1181519159,3,2.5,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1176922251,4.5,2.5,1,"Light Lager",2,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1170752276,5,2,1,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1168784290,3,2.5,3,"Light Lager",2,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1164328406,3,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1161627680,4,3.5,3.5,"Light Lager",3.5,4,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1159142027,2,2.5,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1158579378,2.5,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1158108155,3.5,3,3,"Light Lager",3.5,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1151985865,2.5,2,2,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1149698587,2.5,3,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1145058729,2.5,2,3,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1143067681,3,2,2,"Light Lager",1.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1141882174,3.5,3.5,4,"Light Lager",2.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1139254028,2.5,2.5,2.5,"Light Lager",2.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1131232183,3.5,2.5,3.5,"Light Lager",2,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1126479227,2.5,2.5,2.5,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1126450198,2,2,3,"Light Lager",2.5,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1124939069,3,2,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1057709488,2.5,1.5,2,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1124607094,3,2.5,3,"Light Lager",3,3.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1123775184,3,2.5,2,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1123551667,3,2.5,3,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1122667706,2,2,1.5,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1119315399,2.5,3,3,"Light Lager",3,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1110429142,2.5,3,3,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1103037309,2,2,2.5,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1096584223,1,1.5,2,"Light Lager",1,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1086829492,3,2,1.5,"Light Lager",2.5,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1048931096,3.5,2,4,"Light Lager",2.5,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1048873003,2.5,2.5,2.5,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1044607184,1.5,1.5,1.5,"Light Lager",2,2,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1037687816,2.5,2,2,"Light Lager",2.5,2.5,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1024256564,4,2,2.5,"Light Lager",3,3,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1022832059,2,1.5,2,"Light Lager",1,1,"I.C. Light",4.15,1633
+410,"Pittsburgh Brewing Co.",1180322515,5,3,4,"American Adjunct Lager",3.5,4.5,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1172508952,2.5,2,2,"American Adjunct Lager",2,2,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1136862984,2.5,2.5,3,"American Adjunct Lager",2,3.5,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1114662430,2.5,2.5,3,"American Adjunct Lager",3,3,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1049410158,2,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1040590253,1.5,2,2.5,"American Adjunct Lager",2,1.5,"Sterling",NA,7649
+410,"Pittsburgh Brewing Co.",1282417546,2.5,1,1,"American Adjunct Lager",1,1,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1251246809,2,2,2,"American Adjunct Lager",2,2,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1172290871,4.5,3,3.5,"American Adjunct Lager",3.5,4,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1165266768,4,3,2.5,"American Adjunct Lager",3,3,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1161877470,3,3,3,"American Adjunct Lager",3,3,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1159966971,4,4,4,"American Adjunct Lager",4,4,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1158239004,4.5,3,3,"American Adjunct Lager",4,4,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1150129166,2,2,2.5,"American Adjunct Lager",3,2,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1114785578,3.5,2.5,2,"American Adjunct Lager",3,3.5,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1110570553,4,2.5,2,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1100622181,4,2.5,3,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1099271639,2.5,1.5,1.5,"American Adjunct Lager",1.5,2,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1057776706,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Wiedemann",NA,11336
+410,"Pittsburgh Brewing Co.",1282417789,1,2.5,3,"American Brown Ale",1,1,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1243477900,1.5,1,1,"American Brown Ale",1,1,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1171478289,3,3,3,"American Brown Ale",2.5,2.5,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1155937820,4,3,3,"American Brown Ale",3,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1146799313,5,3,3,"American Brown Ale",4,4,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1115240020,4,2.5,3,"American Brown Ale",2.5,3,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1089512498,3.5,2,3,"American Brown Ale",3,3.5,"J.J. Wainwright's Evil Eye Honey Brown",NA,18645
+410,"Pittsburgh Brewing Co.",1316008357,1.5,2,2.5,"Light Lager",1.5,2,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1312756208,1.5,1.5,1.5,"Light Lager",3,1.5,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1312032364,2.5,2,2.5,"Light Lager",3,2,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1311204521,1,1.5,3.5,"Light Lager",1,1,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1310929559,3.5,4,1.5,"Light Lager",4,2.5,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1309625844,1.5,2,2,"Light Lager",2,1,"I.C. Light Mango",NA,70642
+410,"Pittsburgh Brewing Co.",1212741981,3,2,3,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1208375620,4,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1206498301,3.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1205762989,4,3,3,"American Adjunct Lager",4,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1205663662,4.5,3,3,"American Adjunct Lager",4,4.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1204564768,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1198888749,3,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1196218828,2,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1194897151,2.5,2,4,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1194394195,4,2.5,3,"American Adjunct Lager",2.5,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1193554744,3.5,2,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1188272434,2.5,1.5,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1187373559,2,1.5,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1186918403,2,2,3,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1185328023,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1184112034,4.5,3.5,3.5,"American Adjunct Lager",4,5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1183553548,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1182649894,3,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1181019940,2.5,3.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1180150491,2.5,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1180134777,2,1.5,1.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1178785071,3.5,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1176247018,1,1.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1176074006,2.5,2,2,"American Adjunct Lager",3.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1174786058,2,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1174608363,2,1.5,1.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1153972579,3,2.5,2,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1153614040,3,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1172471983,2.5,2.5,2,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1172201197,2,3,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1170638881,3,3,3.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1170200013,4,2.5,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1169950424,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1168984988,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1168764445,3,3.5,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1166396539,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1166138995,2,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1152829599,1.5,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1165796267,2,2,1,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1165634522,3,1.5,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1163708219,4,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1163273798,2.5,3,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1161919710,4,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1160714315,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1158536404,2,2.5,2,"American Adjunct Lager",1.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1158268642,3,2,1.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1156699384,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1155938078,3.5,2.5,2,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1155331969,2.5,2,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1155178983,3.5,3,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1155046704,3,2.5,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1152217518,2,1.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1151986072,2,2,2,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1151708735,3,1.5,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1149981701,3,2.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1149698956,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1148131957,3,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1147638901,4,2,2.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1145058565,3.5,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1143857601,1,1.5,1.5,"American Adjunct Lager",1,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1137514794,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1143124896,3,1.5,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1142034924,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1141696749,1,1.5,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1141627048,2,2,1.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1141519807,1.5,2.5,1.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1140901777,3.5,3,4,"American Adjunct Lager",2.5,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1139179213,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1138748454,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1138029553,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1137977503,4,3,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1137611424,3,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1136333077,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1131414143,2,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1131335448,2,2,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1129040101,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1128986810,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1128459975,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1128440828,2,2,3,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1127686193,3.5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1126999063,3,3,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1126741469,3.5,3,3.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1126149599,1.5,2,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1125589304,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124512509,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124470897,3.5,2.5,2,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124246111,4,3,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124238802,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124218317,3,2.5,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1124142109,2,2,2,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1123904234,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1123196521,4,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1123014623,3.5,2.5,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1122787702,3.5,2.5,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1122741109,3,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1122740872,3,3,2.5,"American Adjunct Lager",4,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1122377689,1.5,2.5,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1121136231,2.5,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1121050457,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1325614454,1.5,2,1.5,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1325216204,2,3.5,3,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1325197719,3,2,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1317507563,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1314544386,4,3.5,3.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1314157875,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1313932504,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1108309638,3,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1313775413,2.5,2.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1313366163,2,1.5,2,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1310952528,1.5,1.5,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1121049551,4,2.5,2,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1120061155,3,3.5,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1119927922,2.5,2,1.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1118218745,1.5,1.5,2.5,"American Adjunct Lager",1.5,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1117663775,4,3.5,3.5,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1116908872,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1116904247,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1108100109,2,1.5,2,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1116201169,2,2,3,"American Adjunct Lager",4,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1114390217,3.5,2,3.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1114325146,3.5,3,2.5,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1114224686,2.5,2,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1113596505,1.5,1,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1112488798,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1112487075,3,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1112130213,2.5,2.5,3,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1111686918,2.5,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1111186009,1,1.5,3,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1110942882,3,2,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1107194778,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1106365821,3,2,2.5,"American Adjunct Lager",2.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1106035165,2.5,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1105759204,1,1.5,3.5,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1105588888,1.5,2,2.5,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1105186819,2,3,2,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1105157657,2.5,1.5,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1104992911,3.5,3.5,3.5,"American Adjunct Lager",2,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1093976524,1.5,1.5,1,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1014813462,2,2,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1104162560,3,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1103768697,3,3.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1102884424,2,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1102652048,2,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1101324798,1.5,1.5,2,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1100649192,2,2.5,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1100406826,3,2,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1100008896,2.5,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1094325163,3,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1012569131,1.5,2,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1092496628,2.5,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1090778926,4.5,3.5,3.5,"American Adjunct Lager",3.5,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1085345712,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1083538918,3,3,3,"American Adjunct Lager",2.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1081722336,3.5,2.5,3,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1072277733,2,2,2.5,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1072277686,2,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1069703597,3,1.5,2,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1068646482,3,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1066329545,3,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1065145562,3,2,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1060649577,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1060449147,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1058809954,2.5,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1054365362,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1052220291,1,2.5,2.5,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1048961532,4,2,3.5,"American Adjunct Lager",2,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1048934129,2.5,2,4,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1046115981,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1243265910,4,2,2.5,"American Adjunct Lager",3,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1044572058,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1042141402,4,3,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1036775839,4,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1032771570,2.5,2,2,"American Adjunct Lager",1.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1026356301,3,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1023826322,2,2.5,2.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1022100688,2.5,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1022071859,2,1.5,1.5,"American Adjunct Lager",1.5,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1016108085,2,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1015577260,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1014824782,5,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1012557700,3.5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1309810313,2.5,2,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1309133698,3,3,3.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1308927227,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1305677165,2,2.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1305485355,2.5,2,3.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1305261411,3,3,2,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1301152230,2,1,2,"American Adjunct Lager",2,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1299123827,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1298693218,3.5,2,3,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1298084409,2.5,2,3.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1297134727,4,2.5,2.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1296961193,3,2,3,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1296834495,3.5,3,3,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1296447338,3.5,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1292791299,4,3,2,"American Adjunct Lager",3,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1292503349,2,2,2.5,"American Adjunct Lager",2.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1291599118,2,1.5,1.5,"American Adjunct Lager",3,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1289948250,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1289086288,2,1,1,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1288462008,4,2,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1286592876,2,2,3,"American Adjunct Lager",3,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1284651473,3,2,2,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1283564528,3,3,4,"American Adjunct Lager",4,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1282698983,2,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1282087830,3,2.5,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1281921214,3,2,2.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1275872093,3,1,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1274750898,3,2.5,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1269660825,3.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1269655485,3.5,2.5,2.5,"American Adjunct Lager",3.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1269449781,2.5,2,2,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1269444045,4,3,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1240695154,3,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1268284707,1.5,2,3,"American Adjunct Lager",1.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1263097929,3,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1262555609,2,2,2,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1262487753,5,3,3,"American Adjunct Lager",4,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1262399943,4,1.5,2.5,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1260761348,1.5,1.5,3,"American Adjunct Lager",1.5,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1259979067,3,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1258689597,2.5,3,2.5,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1258072763,3,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1256600926,2,2,3,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1240941425,2.5,2,3.5,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1255512979,2,2,4,"American Adjunct Lager",2,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1252005051,4,2.5,3,"American Adjunct Lager",3.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1251246069,2,2.5,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1250220853,4,3,2.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1249698555,2.5,2,3,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1248296125,2,1,2,"American Adjunct Lager",1,1,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1247873392,2,1.5,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1247183238,2,2.5,3.5,"American Adjunct Lager",3,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1245894178,4.5,3,3,"American Adjunct Lager",2.5,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1243659111,3,2.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1243656263,3.5,2,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1237665986,3.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1234329708,3,1.5,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1233887162,2.5,2,3,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1232743218,4,2,2,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1232515383,2.5,2.5,2,"American Adjunct Lager",1,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1231020665,5,3,3,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1229882916,3.5,3,3.5,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1228259234,2.5,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1227735688,1.5,2.5,3,"American Adjunct Lager",2,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1226974945,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1203836784,4.5,2,2,"American Adjunct Lager",4,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1226875082,4,2,2.5,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1226525567,5,3,1,"American Adjunct Lager",2,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1225157757,1.5,1.5,2,"American Adjunct Lager",2,1.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1221534246,3.5,2.5,1.5,"American Adjunct Lager",2.5,2,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1218415356,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1217182767,5,2.5,3,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1216645874,3,2,2.5,"American Adjunct Lager",2,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1215540680,2.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1215135770,3,3,3,"American Adjunct Lager",2.5,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1213936722,4,2,3.5,"American Adjunct Lager",3.5,3.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1213588501,4,2,4,"American Adjunct Lager",3,3,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1051278167,4,2,2,"American Adjunct Lager",4,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1213499019,3,3,3,"American Adjunct Lager",3,4,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1213202838,2.5,2.5,2.5,"American Adjunct Lager",4,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1213075127,2.5,2,3,"American Adjunct Lager",3,2.5,"Iron City Beer",4.5,2680
+410,"Pittsburgh Brewing Co.",1323972281,3.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1323149074,3,3,3,"American Adjunct Lager",3,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1322528209,4,4,4,"American Adjunct Lager",4,4,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1320723955,2,2,2.5,"American Adjunct Lager",1,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1313594341,3.5,2.5,3,"American Adjunct Lager",3.5,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1311367931,2,1,2,"American Adjunct Lager",1.5,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1274877207,3,2,2.5,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1271213956,1.5,2,2,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1264022377,2,2.5,3,"American Adjunct Lager",2,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1250818040,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1242429162,5,5,5,"American Adjunct Lager",5,5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1239254850,3.5,3,3,"American Adjunct Lager",3,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1235019183,3.5,2,3.5,"American Adjunct Lager",2,1.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1234136968,2,1,3,"American Adjunct Lager",1,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1228962871,4,2,3,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1202264803,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1186870682,5,4,4,"American Adjunct Lager",5,4.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1182373951,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1168222359,3.5,2,1.5,"American Adjunct Lager",2.5,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1164901978,4,2.5,3,"American Adjunct Lager",3,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1161734959,1,1.5,1.5,"American Adjunct Lager",1.5,1,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1157966734,1.5,1,1.5,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1155417834,2.5,2.5,2.5,"American Adjunct Lager",3,1.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1154673717,2,1.5,1.5,"American Adjunct Lager",2,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1040841551,3,2.5,3,"American Adjunct Lager",2.5,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1150172272,1.5,2,1,"American Adjunct Lager",1.5,1.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1146798861,2,1,2,"American Adjunct Lager",3,1,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1138001227,5,3,1.5,"American Adjunct Lager",3,4,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1113779378,1,2.5,1,"American Adjunct Lager",2,1,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1112070097,4,2,2.5,"American Adjunct Lager",2.5,3,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1108658006,2,1.5,1.5,"American Adjunct Lager",1.5,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1095557283,2.5,2,2,"American Adjunct Lager",3,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1090271716,2,2.5,3.5,"American Adjunct Lager",3,2,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1053449814,3,2.5,3,"American Adjunct Lager",3,2.5,"Old German",NA,6070
+410,"Pittsburgh Brewing Co.",1108174449,3.5,2.5,2.5,"American Adjunct Lager",3.5,2.5,"Prime Time",NA,21893

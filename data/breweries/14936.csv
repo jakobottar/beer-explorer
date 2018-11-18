@@ -1,623 +1,623 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",14936,"FiftyFifty Brewing Co.",1326251847,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"2",14936,"FiftyFifty Brewing Co.",1326215641,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"3",14936,"FiftyFifty Brewing Co.",1326071910,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"4",14936,"FiftyFifty Brewing Co.",1325388379,3.5,3.5,3.5,"American Double / Imperial Stout",2.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"5",14936,"FiftyFifty Brewing Co.",1325020899,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"6",14936,"FiftyFifty Brewing Co.",1324512971,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"7",14936,"FiftyFifty Brewing Co.",1323824694,4,4.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"8",14936,"FiftyFifty Brewing Co.",1323714785,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"9",14936,"FiftyFifty Brewing Co.",1309481936,4,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"10",14936,"FiftyFifty Brewing Co.",1323712735,3,4,2,"American Double / Imperial Stout",2,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
-"11",14936,"FiftyFifty Brewing Co.",1326078920,5,4,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"12",14936,"FiftyFifty Brewing Co.",1325956231,4,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"13",14936,"FiftyFifty Brewing Co.",1325707224,4.5,4,5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"14",14936,"FiftyFifty Brewing Co.",1325643019,4,4.5,3,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"15",14936,"FiftyFifty Brewing Co.",1325131792,4.5,4,3.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"16",14936,"FiftyFifty Brewing Co.",1324764144,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"17",14936,"FiftyFifty Brewing Co.",1324704999,4.5,5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"18",14936,"FiftyFifty Brewing Co.",1324266038,4,4.5,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"19",14936,"FiftyFifty Brewing Co.",1324183669,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"20",14936,"FiftyFifty Brewing Co.",1324172756,4.5,5,3,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"21",14936,"FiftyFifty Brewing Co.",1323966725,4,3.5,3,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"22",14936,"FiftyFifty Brewing Co.",1323714055,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"23",14936,"FiftyFifty Brewing Co.",1323056632,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"24",14936,"FiftyFifty Brewing Co.",1322977752,4.5,4,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"25",14936,"FiftyFifty Brewing Co.",1322964030,4.5,5,3.5,"American Double / Imperial Stout",3,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"26",14936,"FiftyFifty Brewing Co.",1322681908,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"27",14936,"FiftyFifty Brewing Co.",1321486239,4.5,4,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"28",14936,"FiftyFifty Brewing Co.",1320543715,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"29",14936,"FiftyFifty Brewing Co.",1311717838,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"30",14936,"FiftyFifty Brewing Co.",1311570953,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"31",14936,"FiftyFifty Brewing Co.",1310001969,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"32",14936,"FiftyFifty Brewing Co.",1308622643,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"33",14936,"FiftyFifty Brewing Co.",1306346844,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"34",14936,"FiftyFifty Brewing Co.",1305520349,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"35",14936,"FiftyFifty Brewing Co.",1305499253,4.5,3.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"36",14936,"FiftyFifty Brewing Co.",1305477894,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"37",14936,"FiftyFifty Brewing Co.",1305301657,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"38",14936,"FiftyFifty Brewing Co.",1304734940,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"39",14936,"FiftyFifty Brewing Co.",1304625732,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"40",14936,"FiftyFifty Brewing Co.",1269549536,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"41",14936,"FiftyFifty Brewing Co.",1304138583,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"42",14936,"FiftyFifty Brewing Co.",1303841579,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"43",14936,"FiftyFifty Brewing Co.",1302892195,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"44",14936,"FiftyFifty Brewing Co.",1302377372,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"45",14936,"FiftyFifty Brewing Co.",1301874829,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"46",14936,"FiftyFifty Brewing Co.",1301872610,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"47",14936,"FiftyFifty Brewing Co.",1301202931,4.5,5,5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"48",14936,"FiftyFifty Brewing Co.",1300593777,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"49",14936,"FiftyFifty Brewing Co.",1300593308,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"50",14936,"FiftyFifty Brewing Co.",1300593251,5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"51",14936,"FiftyFifty Brewing Co.",1300593062,5,5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"52",14936,"FiftyFifty Brewing Co.",1299117584,5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"53",14936,"FiftyFifty Brewing Co.",1298514306,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"54",14936,"FiftyFifty Brewing Co.",1298500683,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"55",14936,"FiftyFifty Brewing Co.",1294879454,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"56",14936,"FiftyFifty Brewing Co.",1294792491,4.5,3.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"57",14936,"FiftyFifty Brewing Co.",1294634443,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"58",14936,"FiftyFifty Brewing Co.",1294532605,4.5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"59",14936,"FiftyFifty Brewing Co.",1293564819,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"60",14936,"FiftyFifty Brewing Co.",1292776204,4,5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"61",14936,"FiftyFifty Brewing Co.",1292648062,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"62",14936,"FiftyFifty Brewing Co.",1291954819,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"63",14936,"FiftyFifty Brewing Co.",1291526119,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"64",14936,"FiftyFifty Brewing Co.",1265599947,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"65",14936,"FiftyFifty Brewing Co.",1290224661,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"66",14936,"FiftyFifty Brewing Co.",1289274525,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"67",14936,"FiftyFifty Brewing Co.",1287266623,4.5,4,3.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"68",14936,"FiftyFifty Brewing Co.",1286421720,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"69",14936,"FiftyFifty Brewing Co.",1286152804,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"70",14936,"FiftyFifty Brewing Co.",1285469037,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"71",14936,"FiftyFifty Brewing Co.",1284077361,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"72",14936,"FiftyFifty Brewing Co.",1278948654,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"73",14936,"FiftyFifty Brewing Co.",1277822759,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"74",14936,"FiftyFifty Brewing Co.",1273636792,4.5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"75",14936,"FiftyFifty Brewing Co.",1272676092,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"76",14936,"FiftyFifty Brewing Co.",1271476253,4,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"77",14936,"FiftyFifty Brewing Co.",1270619217,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"78",14936,"FiftyFifty Brewing Co.",1269320605,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"79",14936,"FiftyFifty Brewing Co.",1269136872,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"80",14936,"FiftyFifty Brewing Co.",1268536860,4.5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"81",14936,"FiftyFifty Brewing Co.",1267712614,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"82",14936,"FiftyFifty Brewing Co.",1266047182,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"83",14936,"FiftyFifty Brewing Co.",1265803903,4.5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"84",14936,"FiftyFifty Brewing Co.",1264482769,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"85",14936,"FiftyFifty Brewing Co.",1264446534,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"86",14936,"FiftyFifty Brewing Co.",1264405853,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"87",14936,"FiftyFifty Brewing Co.",1264405487,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"88",14936,"FiftyFifty Brewing Co.",1264365050,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"89",14936,"FiftyFifty Brewing Co.",1263578395,4.5,4.5,3.5,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"90",14936,"FiftyFifty Brewing Co.",1262760773,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"91",14936,"FiftyFifty Brewing Co.",1311983168,4.5,3.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Concentrated Evil",11,54194
-"92",14936,"FiftyFifty Brewing Co.",1262049386,4,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
-"93",14936,"FiftyFifty Brewing Co.",1324841531,4,3.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"94",14936,"FiftyFifty Brewing Co.",1314849775,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"95",14936,"FiftyFifty Brewing Co.",1311303801,3,3.5,4,"American Double / Imperial Stout",2.5,3,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"96",14936,"FiftyFifty Brewing Co.",1311098687,2,1.5,4,"American Double / Imperial Stout",3.5,2,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"97",14936,"FiftyFifty Brewing Co.",1302892905,2,2,4,"American Double / Imperial Stout",4,1.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"98",14936,"FiftyFifty Brewing Co.",1301874060,2,2,3.5,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"99",14936,"FiftyFifty Brewing Co.",1269549721,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"100",14936,"FiftyFifty Brewing Co.",1294282045,3,3,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"101",14936,"FiftyFifty Brewing Co.",1294219056,2,3,3.5,"American Double / Imperial Stout",3.5,2,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"102",14936,"FiftyFifty Brewing Co.",1287925538,1.5,3,3.5,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"103",14936,"FiftyFifty Brewing Co.",1286331336,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"104",14936,"FiftyFifty Brewing Co.",1285031627,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"105",14936,"FiftyFifty Brewing Co.",1272674877,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"106",14936,"FiftyFifty Brewing Co.",1264547141,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"107",14936,"FiftyFifty Brewing Co.",1264446278,3.5,4,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"108",14936,"FiftyFifty Brewing Co.",1264404927,3.5,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"109",14936,"FiftyFifty Brewing Co.",1262652781,4,3.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"110",14936,"FiftyFifty Brewing Co.",1258496846,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
-"111",14936,"FiftyFifty Brewing Co.",1324345354,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"112",14936,"FiftyFifty Brewing Co.",1324168121,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"113",14936,"FiftyFifty Brewing Co.",1323967629,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"114",14936,"FiftyFifty Brewing Co.",1323730631,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"115",14936,"FiftyFifty Brewing Co.",1321901256,3,3,3.5,"American Double / Imperial Stout",2,3,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"116",14936,"FiftyFifty Brewing Co.",1319585527,5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"117",14936,"FiftyFifty Brewing Co.",1309786462,5,4,2.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"118",14936,"FiftyFifty Brewing Co.",1305664382,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"119",14936,"FiftyFifty Brewing Co.",1293749597,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"120",14936,"FiftyFifty Brewing Co.",1305418828,5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"121",14936,"FiftyFifty Brewing Co.",1305412898,5,5,5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"122",14936,"FiftyFifty Brewing Co.",1304988690,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"123",14936,"FiftyFifty Brewing Co.",1304987121,5,5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"124",14936,"FiftyFifty Brewing Co.",1304643608,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"125",14936,"FiftyFifty Brewing Co.",1304188365,3.5,3.5,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"126",14936,"FiftyFifty Brewing Co.",1303003362,4.5,4.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"127",14936,"FiftyFifty Brewing Co.",1300722252,4.5,4.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"128",14936,"FiftyFifty Brewing Co.",1300402620,5,4.5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"129",14936,"FiftyFifty Brewing Co.",1298719577,5,5,4.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"130",14936,"FiftyFifty Brewing Co.",1294630370,5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"131",14936,"FiftyFifty Brewing Co.",1294192657,5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"132",14936,"FiftyFifty Brewing Co.",1294096078,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"133",14936,"FiftyFifty Brewing Co.",1294043244,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"134",14936,"FiftyFifty Brewing Co.",1293926171,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"135",14936,"FiftyFifty Brewing Co.",1293739629,4.5,5,3,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"136",14936,"FiftyFifty Brewing Co.",1293583660,4.5,5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"137",14936,"FiftyFifty Brewing Co.",1291876772,4.5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"138",14936,"FiftyFifty Brewing Co.",1290049833,4.5,5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"139",14936,"FiftyFifty Brewing Co.",1287926134,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"140",14936,"FiftyFifty Brewing Co.",1283051683,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"141",14936,"FiftyFifty Brewing Co.",1282018703,5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"142",14936,"FiftyFifty Brewing Co.",1280610785,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"143",14936,"FiftyFifty Brewing Co.",1279824593,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"144",14936,"FiftyFifty Brewing Co.",1274740805,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"145",14936,"FiftyFifty Brewing Co.",1262136057,4,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"146",14936,"FiftyFifty Brewing Co.",1324185410,3.5,3.5,3,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
-"147",14936,"FiftyFifty Brewing Co.",1261867344,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"148",14936,"FiftyFifty Brewing Co.",1260052101,4,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"149",14936,"FiftyFifty Brewing Co.",1258838487,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"150",14936,"FiftyFifty Brewing Co.",1258693500,4.5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"151",14936,"FiftyFifty Brewing Co.",1258496443,5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"152",14936,"FiftyFifty Brewing Co.",1258403447,5,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"153",14936,"FiftyFifty Brewing Co.",1258267549,5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"154",14936,"FiftyFifty Brewing Co.",1253293936,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"155",14936,"FiftyFifty Brewing Co.",1251635254,4,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"156",14936,"FiftyFifty Brewing Co.",1244088855,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"157",14936,"FiftyFifty Brewing Co.",1240014956,5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"158",14936,"FiftyFifty Brewing Co.",1237234372,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"159",14936,"FiftyFifty Brewing Co.",1236194691,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"160",14936,"FiftyFifty Brewing Co.",1233551434,4,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
-"161",14936,"FiftyFifty Brewing Co.",1266725655,3,3.5,2.5,"Tripel",4,3.5,"Trifecta Belgian Style Tripel",11,35579
-"162",14936,"FiftyFifty Brewing Co.",1265088698,4,2,3,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
-"163",14936,"FiftyFifty Brewing Co.",1264889896,3,3.5,3.5,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
-"164",14936,"FiftyFifty Brewing Co.",1264049084,4,4,3.5,"Tripel",4.5,4.5,"Trifecta Belgian Style Tripel",11,35579
-"165",14936,"FiftyFifty Brewing Co.",1258498701,3,3.5,4,"Tripel",4,3.5,"Trifecta Belgian Style Tripel",11,35579
-"166",14936,"FiftyFifty Brewing Co.",1212726914,4,4,4.5,"Tripel",4,4,"Trifecta Belgian Style Tripel",11,35579
-"167",14936,"FiftyFifty Brewing Co.",1182126533,5,3,4,"Tripel",4.5,4,"Trifecta Belgian Style Tripel",11,35579
-"168",14936,"FiftyFifty Brewing Co.",1326127664,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"169",14936,"FiftyFifty Brewing Co.",1325980507,4,3.5,4,"American Double / Imperial Stout",3,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"170",14936,"FiftyFifty Brewing Co.",1325970276,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"171",14936,"FiftyFifty Brewing Co.",1325970239,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"172",14936,"FiftyFifty Brewing Co.",1325650508,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"173",14936,"FiftyFifty Brewing Co.",1325551197,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"174",14936,"FiftyFifty Brewing Co.",1325546571,4.5,5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"175",14936,"FiftyFifty Brewing Co.",1276536978,4.5,4.5,4.5,"Rye Beer",4,4.5,"RyePA",NA,51745
-"176",14936,"FiftyFifty Brewing Co.",1325150443,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"177",14936,"FiftyFifty Brewing Co.",1324266908,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
-"178",14936,"FiftyFifty Brewing Co.",1323745887,3,3,4,"Rye Beer",3.5,3,"RyePA",NA,51745
-"179",14936,"FiftyFifty Brewing Co.",1323670103,4,4,3.5,"Rye Beer",4,4,"RyePA",NA,51745
-"180",14936,"FiftyFifty Brewing Co.",1299270967,4.5,4.5,4,"Rye Beer",5,4.5,"RyePA",NA,51745
-"181",14936,"FiftyFifty Brewing Co.",1298755467,3.5,3,4,"Rye Beer",3.5,3,"RyePA",NA,51745
-"182",14936,"FiftyFifty Brewing Co.",1298435243,4.5,4.5,4.5,"Rye Beer",4,4,"RyePA",NA,51745
-"183",14936,"FiftyFifty Brewing Co.",1298350366,4,3.5,4,"Rye Beer",4,3.5,"RyePA",NA,51745
-"184",14936,"FiftyFifty Brewing Co.",1298157139,4,4,4,"Rye Beer",3.5,4,"RyePA",NA,51745
-"185",14936,"FiftyFifty Brewing Co.",1281207974,4.5,4.5,4,"Rye Beer",4.5,4.5,"RyePA",NA,51745
-"186",14936,"FiftyFifty Brewing Co.",1280125263,5,5,4,"Rye Beer",4.5,4.5,"RyePA",NA,51745
-"187",14936,"FiftyFifty Brewing Co.",1275102329,4.5,4.5,3.5,"Rye Beer",4,4,"RyePA",NA,51745
-"188",14936,"FiftyFifty Brewing Co.",1268377891,4,4,4,"Rye Beer",4,4,"RyePA",NA,51745
-"189",14936,"FiftyFifty Brewing Co.",1266526370,4,3.5,4.5,"Rye Beer",4,3.5,"RyePA",NA,51745
-"190",14936,"FiftyFifty Brewing Co.",1265317982,3,3,3,"Rye Beer",4,3,"RyePA",NA,51745
-"191",14936,"FiftyFifty Brewing Co.",1264406690,4.5,4,4,"Rye Beer",4,4,"RyePA",NA,51745
-"192",14936,"FiftyFifty Brewing Co.",1258498617,4.5,3.5,4,"Rye Beer",5,4,"RyePA",NA,51745
-"193",14936,"FiftyFifty Brewing Co.",1254672845,4,4.5,4,"Rye Beer",4.5,4,"RyePA",NA,51745
-"194",14936,"FiftyFifty Brewing Co.",1251312636,4.5,4.5,4.5,"Rye Beer",4.5,4.5,"RyePA",NA,51745
-"195",14936,"FiftyFifty Brewing Co.",1249836566,4.5,4.5,5,"Rye Beer",4.5,4.5,"RyePA",NA,51745
-"196",14936,"FiftyFifty Brewing Co.",1323966418,3,3,3,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"197",14936,"FiftyFifty Brewing Co.",1322529525,4,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"198",14936,"FiftyFifty Brewing Co.",1314495833,4.5,5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"199",14936,"FiftyFifty Brewing Co.",1311551523,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"200",14936,"FiftyFifty Brewing Co.",1309753558,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"201",14936,"FiftyFifty Brewing Co.",1308720381,4.5,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"202",14936,"FiftyFifty Brewing Co.",1307825571,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"203",14936,"FiftyFifty Brewing Co.",1307585674,3.5,3.5,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"204",14936,"FiftyFifty Brewing Co.",1298426175,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"205",14936,"FiftyFifty Brewing Co.",1307245375,3.5,3,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"206",14936,"FiftyFifty Brewing Co.",1307233600,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"207",14936,"FiftyFifty Brewing Co.",1307125781,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"208",14936,"FiftyFifty Brewing Co.",1305501010,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"209",14936,"FiftyFifty Brewing Co.",1304992278,2.5,3,4,"American Double / Imperial Stout",3.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"210",14936,"FiftyFifty Brewing Co.",1303715402,2,2,2,"American Double / Imperial Stout",2.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"211",14936,"FiftyFifty Brewing Co.",1302977712,2,2,3.5,"American Double / Imperial Stout",4,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"212",14936,"FiftyFifty Brewing Co.",1301016986,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"213",14936,"FiftyFifty Brewing Co.",1298208944,4,3.5,3.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"214",14936,"FiftyFifty Brewing Co.",1294946233,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"215",14936,"FiftyFifty Brewing Co.",1294879770,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"216",14936,"FiftyFifty Brewing Co.",1294633010,2.5,2.5,4,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"217",14936,"FiftyFifty Brewing Co.",1294248499,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"218",14936,"FiftyFifty Brewing Co.",1293872098,4,5,2,"American Double / Imperial Stout",2.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"219",14936,"FiftyFifty Brewing Co.",1293758361,4,5,3.5,"American Double / Imperial Stout",2,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"220",14936,"FiftyFifty Brewing Co.",1293748275,4,5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"221",14936,"FiftyFifty Brewing Co.",1293587609,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"222",14936,"FiftyFifty Brewing Co.",1292638147,2,3.5,3,"American Double / Imperial Stout",2.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"223",14936,"FiftyFifty Brewing Co.",1292612044,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"224",14936,"FiftyFifty Brewing Co.",1292563394,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"225",14936,"FiftyFifty Brewing Co.",1292287920,4.5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"226",14936,"FiftyFifty Brewing Co.",1294704303,5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"227",14936,"FiftyFifty Brewing Co.",1291594246,4.5,5,3.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"228",14936,"FiftyFifty Brewing Co.",1291420178,4.5,4.5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"229",14936,"FiftyFifty Brewing Co.",1291401456,4.5,5,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"230",14936,"FiftyFifty Brewing Co.",1291312814,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
-"231",14936,"FiftyFifty Brewing Co.",1294857606,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"232",14936,"FiftyFifty Brewing Co.",1326063134,3.5,4.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"233",14936,"FiftyFifty Brewing Co.",1325886042,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"234",14936,"FiftyFifty Brewing Co.",1325546027,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"235",14936,"FiftyFifty Brewing Co.",1325544769,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"236",14936,"FiftyFifty Brewing Co.",1325372592,4,4.5,3.5,"American Double / Imperial Stout",2.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"237",14936,"FiftyFifty Brewing Co.",1325195964,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"238",14936,"FiftyFifty Brewing Co.",1294761630,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"239",14936,"FiftyFifty Brewing Co.",1325129363,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"240",14936,"FiftyFifty Brewing Co.",1324623336,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"241",14936,"FiftyFifty Brewing Co.",1324351931,5,4.5,5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"242",14936,"FiftyFifty Brewing Co.",1324279669,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"243",14936,"FiftyFifty Brewing Co.",1323847604,4.5,4,5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
-"244",14936,"FiftyFifty Brewing Co.",1296682045,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"245",14936,"FiftyFifty Brewing Co.",1296616677,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"246",14936,"FiftyFifty Brewing Co.",1296596503,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"247",14936,"FiftyFifty Brewing Co.",1296184387,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"248",14936,"FiftyFifty Brewing Co.",1296181094,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"249",14936,"FiftyFifty Brewing Co.",1296105583,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"250",14936,"FiftyFifty Brewing Co.",1295984719,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"251",14936,"FiftyFifty Brewing Co.",1295761274,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"252",14936,"FiftyFifty Brewing Co.",1294863429,3.5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"253",14936,"FiftyFifty Brewing Co.",1294704856,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"254",14936,"FiftyFifty Brewing Co.",1294633860,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"255",14936,"FiftyFifty Brewing Co.",1294541131,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"256",14936,"FiftyFifty Brewing Co.",1294519601,3,3.5,3,"American Double / Imperial Stout",2.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"257",14936,"FiftyFifty Brewing Co.",1294455123,4.5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"258",14936,"FiftyFifty Brewing Co.",1294377546,4.5,4,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"259",14936,"FiftyFifty Brewing Co.",1294210650,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"260",14936,"FiftyFifty Brewing Co.",1293983203,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"261",14936,"FiftyFifty Brewing Co.",1293918929,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"262",14936,"FiftyFifty Brewing Co.",1293670165,4,4.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"263",14936,"FiftyFifty Brewing Co.",1293495093,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"264",14936,"FiftyFifty Brewing Co.",1293234414,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"265",14936,"FiftyFifty Brewing Co.",1293232176,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"266",14936,"FiftyFifty Brewing Co.",1293225795,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"267",14936,"FiftyFifty Brewing Co.",1324524639,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"268",14936,"FiftyFifty Brewing Co.",1324357932,4,3.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"269",14936,"FiftyFifty Brewing Co.",1293080782,4.5,4.5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"270",14936,"FiftyFifty Brewing Co.",1292561946,3.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"271",14936,"FiftyFifty Brewing Co.",1291743638,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"272",14936,"FiftyFifty Brewing Co.",1291494687,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"273",14936,"FiftyFifty Brewing Co.",1291317695,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"274",14936,"FiftyFifty Brewing Co.",1325709161,4,4.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"275",14936,"FiftyFifty Brewing Co.",1325278018,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"276",14936,"FiftyFifty Brewing Co.",1325110382,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"277",14936,"FiftyFifty Brewing Co.",1324177120,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"278",14936,"FiftyFifty Brewing Co.",1323966087,3.5,3,3,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"279",14936,"FiftyFifty Brewing Co.",1323326618,4,4,4.5,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"280",14936,"FiftyFifty Brewing Co.",1322952611,4.5,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"281",14936,"FiftyFifty Brewing Co.",1322533212,4.5,4,2.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"282",14936,"FiftyFifty Brewing Co.",1322528021,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"283",14936,"FiftyFifty Brewing Co.",1321872462,4,4,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"284",14936,"FiftyFifty Brewing Co.",1321755969,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"285",14936,"FiftyFifty Brewing Co.",1320639379,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"286",14936,"FiftyFifty Brewing Co.",1320381594,4.5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"287",14936,"FiftyFifty Brewing Co.",1320088426,4,4,3,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"288",14936,"FiftyFifty Brewing Co.",1319864703,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"289",14936,"FiftyFifty Brewing Co.",1319686691,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"290",14936,"FiftyFifty Brewing Co.",1319521781,4,3.5,3,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"291",14936,"FiftyFifty Brewing Co.",1319168109,4.5,3.5,3.5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"292",14936,"FiftyFifty Brewing Co.",1318864717,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"293",14936,"FiftyFifty Brewing Co.",1318545060,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"294",14936,"FiftyFifty Brewing Co.",1318128911,4,3.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"295",14936,"FiftyFifty Brewing Co.",1317323345,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"296",14936,"FiftyFifty Brewing Co.",1317089653,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"297",14936,"FiftyFifty Brewing Co.",1317056334,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"298",14936,"FiftyFifty Brewing Co.",1316352164,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"299",14936,"FiftyFifty Brewing Co.",1324182934,4,3.5,3,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
-"300",14936,"FiftyFifty Brewing Co.",1314742814,3.5,3.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"301",14936,"FiftyFifty Brewing Co.",1314491445,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"302",14936,"FiftyFifty Brewing Co.",1313860348,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"303",14936,"FiftyFifty Brewing Co.",1312960512,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"304",14936,"FiftyFifty Brewing Co.",1312935552,4.5,4,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"305",14936,"FiftyFifty Brewing Co.",1312775203,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"306",14936,"FiftyFifty Brewing Co.",1311664067,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"307",14936,"FiftyFifty Brewing Co.",1310066726,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"308",14936,"FiftyFifty Brewing Co.",1309313384,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"309",14936,"FiftyFifty Brewing Co.",1309213154,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"310",14936,"FiftyFifty Brewing Co.",1309101831,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"311",14936,"FiftyFifty Brewing Co.",1308065967,4,4.5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"312",14936,"FiftyFifty Brewing Co.",1307752491,4,3.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"313",14936,"FiftyFifty Brewing Co.",1307472473,3.5,4,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"314",14936,"FiftyFifty Brewing Co.",1307335573,4,3.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"315",14936,"FiftyFifty Brewing Co.",1306306202,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"316",14936,"FiftyFifty Brewing Co.",1306215888,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"317",14936,"FiftyFifty Brewing Co.",1305933367,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"318",14936,"FiftyFifty Brewing Co.",1305837804,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"319",14936,"FiftyFifty Brewing Co.",1305500426,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"320",14936,"FiftyFifty Brewing Co.",1304992767,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"321",14936,"FiftyFifty Brewing Co.",1304990264,4.5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"322",14936,"FiftyFifty Brewing Co.",1304388343,4,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"323",14936,"FiftyFifty Brewing Co.",1303915017,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"324",14936,"FiftyFifty Brewing Co.",1303840772,4,4.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"325",14936,"FiftyFifty Brewing Co.",1303074347,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"326",14936,"FiftyFifty Brewing Co.",1303058402,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"327",14936,"FiftyFifty Brewing Co.",1302995986,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"328",14936,"FiftyFifty Brewing Co.",1302994912,5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"329",14936,"FiftyFifty Brewing Co.",1302976283,3,3.5,3,"American Double / Imperial Stout",2,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"330",14936,"FiftyFifty Brewing Co.",1302615006,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"331",14936,"FiftyFifty Brewing Co.",1301981540,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"332",14936,"FiftyFifty Brewing Co.",1301713154,4.5,4.5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"333",14936,"FiftyFifty Brewing Co.",1291496031,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
-"334",14936,"FiftyFifty Brewing Co.",1301698137,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"335",14936,"FiftyFifty Brewing Co.",1301616328,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"336",14936,"FiftyFifty Brewing Co.",1301587799,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"337",14936,"FiftyFifty Brewing Co.",1301583577,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"338",14936,"FiftyFifty Brewing Co.",1301208147,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"339",14936,"FiftyFifty Brewing Co.",1301191002,4.5,4,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"340",14936,"FiftyFifty Brewing Co.",1300847712,5,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"341",14936,"FiftyFifty Brewing Co.",1320448874,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"342",14936,"FiftyFifty Brewing Co.",1299981803,4,4,3,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"343",14936,"FiftyFifty Brewing Co.",1299563560,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"344",14936,"FiftyFifty Brewing Co.",1299476375,3.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"345",14936,"FiftyFifty Brewing Co.",1299179997,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"346",14936,"FiftyFifty Brewing Co.",1299085074,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"347",14936,"FiftyFifty Brewing Co.",1298879438,3.5,3.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"348",14936,"FiftyFifty Brewing Co.",1298856397,4,3.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"349",14936,"FiftyFifty Brewing Co.",1298841463,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"350",14936,"FiftyFifty Brewing Co.",1298841458,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"351",14936,"FiftyFifty Brewing Co.",1298765760,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"352",14936,"FiftyFifty Brewing Co.",1298520058,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"353",14936,"FiftyFifty Brewing Co.",1298356607,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"354",14936,"FiftyFifty Brewing Co.",1298308126,4,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"355",14936,"FiftyFifty Brewing Co.",1297571472,4,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"356",14936,"FiftyFifty Brewing Co.",1298185492,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"357",14936,"FiftyFifty Brewing Co.",1298171088,4,5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"358",14936,"FiftyFifty Brewing Co.",1298075030,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"359",14936,"FiftyFifty Brewing Co.",1297987097,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"360",14936,"FiftyFifty Brewing Co.",1297640354,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"361",14936,"FiftyFifty Brewing Co.",1297574352,4,5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"362",14936,"FiftyFifty Brewing Co.",1297277261,5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"363",14936,"FiftyFifty Brewing Co.",1297221336,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"364",14936,"FiftyFifty Brewing Co.",1297026077,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"365",14936,"FiftyFifty Brewing Co.",1296870742,5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
-"366",14936,"FiftyFifty Brewing Co.",1324857477,4,4.5,4,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
-"367",14936,"FiftyFifty Brewing Co.",1324266632,2.5,2.5,3.5,"American Double / Imperial Stout",3.5,2.5,"Totality Imperial Stout",10,53580
-"368",14936,"FiftyFifty Brewing Co.",1318484754,5,5,4,"American Double / Imperial Stout",4.5,5,"Totality Imperial Stout",10,53580
-"369",14936,"FiftyFifty Brewing Co.",1317163727,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
-"370",14936,"FiftyFifty Brewing Co.",1314297387,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Totality Imperial Stout",10,53580
-"371",14936,"FiftyFifty Brewing Co.",1313384478,2.5,2.5,3,"American Double / Imperial Stout",2.5,2,"Totality Imperial Stout",10,53580
-"372",14936,"FiftyFifty Brewing Co.",1311206658,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
-"373",14936,"FiftyFifty Brewing Co.",1311043982,3,2.5,2.5,"American Double / Imperial Stout",3.5,3.5,"Totality Imperial Stout",10,53580
-"374",14936,"FiftyFifty Brewing Co.",1304540928,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
-"375",14936,"FiftyFifty Brewing Co.",1291784953,4,4,5,"American Double / Imperial Stout",3.5,4,"Totality Imperial Stout",10,53580
-"376",14936,"FiftyFifty Brewing Co.",1289370234,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
-"377",14936,"FiftyFifty Brewing Co.",1276550938,4.5,4,5,"American Double / Imperial Stout",4,4.5,"Totality Imperial Stout",10,53580
-"378",14936,"FiftyFifty Brewing Co.",1275891072,4,4.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
-"379",14936,"FiftyFifty Brewing Co.",1272674102,4.5,4.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
-"380",14936,"FiftyFifty Brewing Co.",1269881744,4,3.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
-"381",14936,"FiftyFifty Brewing Co.",1258496976,4,4.5,4,"American Double / Imperial Stout",3,4,"Totality Imperial Stout",10,53580
-"382",14936,"FiftyFifty Brewing Co.",1256224614,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
-"383",14936,"FiftyFifty Brewing Co.",1324056491,3.5,4,3.5,"Baltic Porter",3.5,3.5,"Rouge Baril Baltique",6.8,68758
-"384",14936,"FiftyFifty Brewing Co.",1318911073,2,2,2.5,"Baltic Porter",2,2.5,"Rouge Baril Baltique",6.8,68758
-"385",14936,"FiftyFifty Brewing Co.",1313557644,3.5,3.5,3.5,"Baltic Porter",4,3.5,"Rouge Baril Baltique",6.8,68758
-"386",14936,"FiftyFifty Brewing Co.",1313368078,4.5,4,4,"Baltic Porter",3.5,4.5,"Rouge Baril Baltique",6.8,68758
-"387",14936,"FiftyFifty Brewing Co.",1313368000,4,4,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
-"388",14936,"FiftyFifty Brewing Co.",1313365408,4,4,4,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
-"389",14936,"FiftyFifty Brewing Co.",1310749549,3.5,4,3,"Baltic Porter",3,4,"Rouge Baril Baltique",6.8,68758
-"390",14936,"FiftyFifty Brewing Co.",1310522082,4,4,3.5,"Baltic Porter",3.5,4,"Rouge Baril Baltique",6.8,68758
-"391",14936,"FiftyFifty Brewing Co.",1309791458,3.5,3,3.5,"Baltic Porter",3,3.5,"Rouge Baril Baltique",6.8,68758
-"392",14936,"FiftyFifty Brewing Co.",1309227032,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Rouge Baril Baltique",6.8,68758
-"393",14936,"FiftyFifty Brewing Co.",1309181910,4,4,3.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
-"394",14936,"FiftyFifty Brewing Co.",1309026457,4,4,4,"Baltic Porter",4.5,4,"Rouge Baril Baltique",6.8,68758
-"395",14936,"FiftyFifty Brewing Co.",1308898683,4.5,4.5,4,"Baltic Porter",4.5,4,"Rouge Baril Baltique",6.8,68758
-"396",14936,"FiftyFifty Brewing Co.",1307984583,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Rouge Baril Baltique",6.8,68758
-"397",14936,"FiftyFifty Brewing Co.",1306651547,4.5,4.5,4.5,"Baltic Porter",4,5,"Rouge Baril Baltique",6.8,68758
-"398",14936,"FiftyFifty Brewing Co.",1306509338,4.5,4,4.5,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
-"399",14936,"FiftyFifty Brewing Co.",1306467885,4.5,4.5,4,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
-"400",14936,"FiftyFifty Brewing Co.",1305278352,4,5,4.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
-"401",14936,"FiftyFifty Brewing Co.",1304985648,4,4,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
-"402",14936,"FiftyFifty Brewing Co.",1304963440,4,4.5,4.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
-"403",14936,"FiftyFifty Brewing Co.",1304891555,4,4.5,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
-"404",14936,"FiftyFifty Brewing Co.",1304718710,4.5,4.5,3.5,"Baltic Porter",5,4,"Rouge Baril Baltique",6.8,68758
-"405",14936,"FiftyFifty Brewing Co.",1325396804,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"406",14936,"FiftyFifty Brewing Co.",1319924794,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"407",14936,"FiftyFifty Brewing Co.",1325345178,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"408",14936,"FiftyFifty Brewing Co.",1325196610,4,3.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"409",14936,"FiftyFifty Brewing Co.",1324531604,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"410",14936,"FiftyFifty Brewing Co.",1324268431,4,4.5,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"411",14936,"FiftyFifty Brewing Co.",1324184130,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"412",14936,"FiftyFifty Brewing Co.",1323965789,3,3.5,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"413",14936,"FiftyFifty Brewing Co.",1322102086,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"414",14936,"FiftyFifty Brewing Co.",1321738799,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"415",14936,"FiftyFifty Brewing Co.",1319853980,5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"416",14936,"FiftyFifty Brewing Co.",1319686817,4.5,4.5,3.5,"American Double / Imperial Stout",3,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"417",14936,"FiftyFifty Brewing Co.",1319155338,4.5,4,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"418",14936,"FiftyFifty Brewing Co.",1318545978,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"419",14936,"FiftyFifty Brewing Co.",1317340879,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"420",14936,"FiftyFifty Brewing Co.",1297653470,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"421",14936,"FiftyFifty Brewing Co.",1317056001,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"422",14936,"FiftyFifty Brewing Co.",1316014029,4.5,5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"423",14936,"FiftyFifty Brewing Co.",1315104124,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"424",14936,"FiftyFifty Brewing Co.",1314204441,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"425",14936,"FiftyFifty Brewing Co.",1311628962,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"426",14936,"FiftyFifty Brewing Co.",1309058893,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"427",14936,"FiftyFifty Brewing Co.",1308843757,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"428",14936,"FiftyFifty Brewing Co.",1308719490,4,4.5,4.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"429",14936,"FiftyFifty Brewing Co.",1308461022,4.5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"430",14936,"FiftyFifty Brewing Co.",1305681760,4.5,4,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"431",14936,"FiftyFifty Brewing Co.",1305421610,4.5,4.5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"432",14936,"FiftyFifty Brewing Co.",1304992459,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"433",14936,"FiftyFifty Brewing Co.",1303841629,4.5,3,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"434",14936,"FiftyFifty Brewing Co.",1303840850,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"435",14936,"FiftyFifty Brewing Co.",1303719582,3.5,4,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"436",14936,"FiftyFifty Brewing Co.",1236192385,4.5,5,4,"Belgian Strong Dark Ale",4.5,4,"Collaborative Evil",10,46468
-"437",14936,"FiftyFifty Brewing Co.",1302492105,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"438",14936,"FiftyFifty Brewing Co.",1300667693,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"439",14936,"FiftyFifty Brewing Co.",1300604199,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"440",14936,"FiftyFifty Brewing Co.",1300401888,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"441",14936,"FiftyFifty Brewing Co.",1299123182,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"442",14936,"FiftyFifty Brewing Co.",1298864434,4.5,4,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"443",14936,"FiftyFifty Brewing Co.",1298600618,4.5,4,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"444",14936,"FiftyFifty Brewing Co.",1298308571,4,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"445",14936,"FiftyFifty Brewing Co.",1298213798,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"446",14936,"FiftyFifty Brewing Co.",1298152195,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"447",14936,"FiftyFifty Brewing Co.",1297987198,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"448",14936,"FiftyFifty Brewing Co.",1297929817,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"449",14936,"FiftyFifty Brewing Co.",1297906614,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"450",14936,"FiftyFifty Brewing Co.",1297640690,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"451",14936,"FiftyFifty Brewing Co.",1297575412,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"452",14936,"FiftyFifty Brewing Co.",1296104808,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"453",14936,"FiftyFifty Brewing Co.",1294635274,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"454",14936,"FiftyFifty Brewing Co.",1294610822,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"455",14936,"FiftyFifty Brewing Co.",1294520059,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"456",14936,"FiftyFifty Brewing Co.",1294381053,4,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"457",14936,"FiftyFifty Brewing Co.",1294248925,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"458",14936,"FiftyFifty Brewing Co.",1294006948,4,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"459",14936,"FiftyFifty Brewing Co.",1293763313,4,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"460",14936,"FiftyFifty Brewing Co.",1293317757,5,4,3,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"461",14936,"FiftyFifty Brewing Co.",1292805963,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"462",14936,"FiftyFifty Brewing Co.",1292113221,5,4.5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"463",14936,"FiftyFifty Brewing Co.",1291612156,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"464",14936,"FiftyFifty Brewing Co.",1228796380,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Collaborative Evil",10,46468
-"465",14936,"FiftyFifty Brewing Co.",1291421991,4.5,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"466",14936,"FiftyFifty Brewing Co.",1290381783,4,4,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"467",14936,"FiftyFifty Brewing Co.",1289715368,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
-"468",14936,"FiftyFifty Brewing Co.",1292433305,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Collaborative Evil",10,46468
-"469",14936,"FiftyFifty Brewing Co.",1240191736,4.5,4.5,5,"Belgian Strong Dark Ale",4,5,"Collaborative Evil",10,46468
-"470",14936,"FiftyFifty Brewing Co.",1237319192,4,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Collaborative Evil",10,46468
-"471",14936,"FiftyFifty Brewing Co.",1324839617,3,3.5,2.5,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
-"472",14936,"FiftyFifty Brewing Co.",1320902279,3,3.5,4,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
-"473",14936,"FiftyFifty Brewing Co.",1317011186,2.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Concentrated Evil",11,54194
-"474",14936,"FiftyFifty Brewing Co.",1316472435,3.5,3.5,4,"Belgian Strong Dark Ale",3,3.5,"Concentrated Evil",11,54194
-"475",14936,"FiftyFifty Brewing Co.",1311953398,3.5,4,3,"Belgian Strong Dark Ale",3,4,"Concentrated Evil",11,54194
-"476",14936,"FiftyFifty Brewing Co.",1303881635,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"477",14936,"FiftyFifty Brewing Co.",1302501101,3,4,4,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
-"478",14936,"FiftyFifty Brewing Co.",1302327722,2.5,4,3,"Belgian Strong Dark Ale",2,2,"Concentrated Evil",11,54194
-"479",14936,"FiftyFifty Brewing Co.",1301713032,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"480",14936,"FiftyFifty Brewing Co.",1299566616,3.5,3,2.5,"Belgian Strong Dark Ale",2.5,3,"Concentrated Evil",11,54194
-"481",14936,"FiftyFifty Brewing Co.",1297905728,3,2,2.5,"Belgian Strong Dark Ale",3.5,2.5,"Concentrated Evil",11,54194
-"482",14936,"FiftyFifty Brewing Co.",1290408345,2.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"483",14936,"FiftyFifty Brewing Co.",1295403479,2,3,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"484",14936,"FiftyFifty Brewing Co.",1295312509,3.5,4,4,"Belgian Strong Dark Ale",4,4,"Concentrated Evil",11,54194
-"485",14936,"FiftyFifty Brewing Co.",1293603132,2,3.5,3,"Belgian Strong Dark Ale",2.5,2,"Concentrated Evil",11,54194
-"486",14936,"FiftyFifty Brewing Co.",1292204809,2,4.5,3.5,"Belgian Strong Dark Ale",4,3,"Concentrated Evil",11,54194
-"487",14936,"FiftyFifty Brewing Co.",1291151612,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Concentrated Evil",11,54194
-"488",14936,"FiftyFifty Brewing Co.",1290482714,4,4,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"489",14936,"FiftyFifty Brewing Co.",1290305925,3.5,3.5,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"490",14936,"FiftyFifty Brewing Co.",1287775267,4,4,3,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
-"491",14936,"FiftyFifty Brewing Co.",1273222220,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,2.5,"Concentrated Evil",11,54194
-"492",14936,"FiftyFifty Brewing Co.",1270089322,3,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
-"493",14936,"FiftyFifty Brewing Co.",1264406561,2.5,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Concentrated Evil",11,54194
-"494",14936,"FiftyFifty Brewing Co.",1258497838,2,3,4,"Belgian Strong Dark Ale",4,2.5,"Concentrated Evil",11,54194
-"495",14936,"FiftyFifty Brewing Co.",1326135400,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"496",14936,"FiftyFifty Brewing Co.",1326133454,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"497",14936,"FiftyFifty Brewing Co.",1325992871,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"498",14936,"FiftyFifty Brewing Co.",1325988499,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"499",14936,"FiftyFifty Brewing Co.",1325821866,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"500",14936,"FiftyFifty Brewing Co.",1325552319,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"501",14936,"FiftyFifty Brewing Co.",1325440070,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"502",14936,"FiftyFifty Brewing Co.",1325299107,4.5,4.5,5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"503",14936,"FiftyFifty Brewing Co.",1325217016,4,4.5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"504",14936,"FiftyFifty Brewing Co.",1325213879,4,4.5,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"505",14936,"FiftyFifty Brewing Co.",1325025963,2.5,3,4,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"506",14936,"FiftyFifty Brewing Co.",1324792128,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"507",14936,"FiftyFifty Brewing Co.",1324752118,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"508",14936,"FiftyFifty Brewing Co.",1324576394,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"509",14936,"FiftyFifty Brewing Co.",1324514470,4.5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"510",14936,"FiftyFifty Brewing Co.",1324361694,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"511",14936,"FiftyFifty Brewing Co.",1324325483,5,5,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"512",14936,"FiftyFifty Brewing Co.",1324266318,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"513",14936,"FiftyFifty Brewing Co.",1324183354,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"514",14936,"FiftyFifty Brewing Co.",1324172941,4,5,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"515",14936,"FiftyFifty Brewing Co.",1324131731,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"516",14936,"FiftyFifty Brewing Co.",1324103166,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"517",14936,"FiftyFifty Brewing Co.",1323672099,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"518",14936,"FiftyFifty Brewing Co.",1323671990,4.5,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"519",14936,"FiftyFifty Brewing Co.",1323467743,4.5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
-"520",14936,"FiftyFifty Brewing Co.",1321399730,4.5,4.5,4.5,"American Barleywine",4,4,"Old Conundrum",9.05,55651
-"521",14936,"FiftyFifty Brewing Co.",1274738449,4,4,4.5,"American Barleywine",4.5,5,"Old Conundrum",9.05,55651
-"522",14936,"FiftyFifty Brewing Co.",1272769551,4,4,3.5,"American Barleywine",3.5,4.5,"Old Conundrum",9.05,55651
-"523",14936,"FiftyFifty Brewing Co.",1266527150,4,3.5,4,"American Barleywine",3.5,3,"Old Conundrum",9.05,55651
-"524",14936,"FiftyFifty Brewing Co.",1264406457,4,4,4,"American Barleywine",3.5,4,"Old Conundrum",9.05,55651
-"525",14936,"FiftyFifty Brewing Co.",1323905983,3.5,3,4,"Saison / Farmhouse Ale",3.5,4,"Farmhouse Ale",5.8,76235
-"526",14936,"FiftyFifty Brewing Co.",1323746588,3.5,3,3.5,"Saison / Farmhouse Ale",4,3,"Farmhouse Ale",5.8,76235
-"527",14936,"FiftyFifty Brewing Co.",1323634027,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",5.8,76235
-"528",14936,"FiftyFifty Brewing Co.",1324535724,4,4,4,"American IPA",4,3.5,"Rockslide IPA",6.7,35577
-"529",14936,"FiftyFifty Brewing Co.",1324185161,3.5,4,3.5,"American IPA",3.5,4,"Rockslide IPA",6.7,35577
-"530",14936,"FiftyFifty Brewing Co.",1314298765,4,4,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
-"531",14936,"FiftyFifty Brewing Co.",1306160565,4.5,4.5,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
-"532",14936,"FiftyFifty Brewing Co.",1303782420,4,4.5,4,"American IPA",4,4.5,"Rockslide IPA",6.7,35577
-"533",14936,"FiftyFifty Brewing Co.",1298755525,3.5,4,3.5,"American IPA",3,4,"Rockslide IPA",6.7,35577
-"534",14936,"FiftyFifty Brewing Co.",1298160650,4,3.5,3.5,"American IPA",4,4,"Rockslide IPA",6.7,35577
-"535",14936,"FiftyFifty Brewing Co.",1297747390,4,3.5,3.5,"American IPA",3.5,3.5,"Rockslide IPA",6.7,35577
-"536",14936,"FiftyFifty Brewing Co.",1285995097,4,4.5,4,"American IPA",4.5,4.5,"Rockslide IPA",6.7,35577
-"537",14936,"FiftyFifty Brewing Co.",1281211798,4.5,3.5,3.5,"American IPA",4.5,4.5,"Rockslide IPA",6.7,35577
-"538",14936,"FiftyFifty Brewing Co.",1258498526,3,3.5,4,"American IPA",4,3,"Rockslide IPA",6.7,35577
-"539",14936,"FiftyFifty Brewing Co.",1324325207,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"540",14936,"FiftyFifty Brewing Co.",1249670896,4,4,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
-"541",14936,"FiftyFifty Brewing Co.",1231716243,4,4,3,"American IPA",3.5,4.5,"Rockslide IPA",6.7,35577
-"542",14936,"FiftyFifty Brewing Co.",1324184411,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"543",14936,"FiftyFifty Brewing Co.",1326073570,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"544",14936,"FiftyFifty Brewing Co.",1325991634,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"545",14936,"FiftyFifty Brewing Co.",1325129319,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"546",14936,"FiftyFifty Brewing Co.",1324962998,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"547",14936,"FiftyFifty Brewing Co.",1324841976,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"548",14936,"FiftyFifty Brewing Co.",1324702384,4,4,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"549",14936,"FiftyFifty Brewing Co.",1323745502,4.5,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"550",14936,"FiftyFifty Brewing Co.",1323490041,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"551",14936,"FiftyFifty Brewing Co.",1323058010,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"552",14936,"FiftyFifty Brewing Co.",1322366556,4.5,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"553",14936,"FiftyFifty Brewing Co.",1322279952,4,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"554",14936,"FiftyFifty Brewing Co.",1319686614,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"555",14936,"FiftyFifty Brewing Co.",1318547033,4,3.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"556",14936,"FiftyFifty Brewing Co.",1318272520,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"557",14936,"FiftyFifty Brewing Co.",1318254611,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"558",14936,"FiftyFifty Brewing Co.",1318216530,4.5,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"559",14936,"FiftyFifty Brewing Co.",1317669397,4.5,4,3,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"560",14936,"FiftyFifty Brewing Co.",1317055529,4,3.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"561",14936,"FiftyFifty Brewing Co.",1316629103,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"562",14936,"FiftyFifty Brewing Co.",1316187677,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"563",14936,"FiftyFifty Brewing Co.",1315459673,4.5,4.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"564",14936,"FiftyFifty Brewing Co.",1315108026,3.5,4,2.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"565",14936,"FiftyFifty Brewing Co.",1314649109,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"566",14936,"FiftyFifty Brewing Co.",1311709964,4,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"567",14936,"FiftyFifty Brewing Co.",1309753670,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"568",14936,"FiftyFifty Brewing Co.",1309186168,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"569",14936,"FiftyFifty Brewing Co.",1305419941,4,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"570",14936,"FiftyFifty Brewing Co.",1265600433,4,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"571",14936,"FiftyFifty Brewing Co.",1303777720,4,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"572",14936,"FiftyFifty Brewing Co.",1302892468,3,3.5,4,"American Double / Imperial Stout",4,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"573",14936,"FiftyFifty Brewing Co.",1302837678,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"574",14936,"FiftyFifty Brewing Co.",1301874333,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"575",14936,"FiftyFifty Brewing Co.",1301190379,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"576",14936,"FiftyFifty Brewing Co.",1300250072,4,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"577",14936,"FiftyFifty Brewing Co.",1299119206,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"578",14936,"FiftyFifty Brewing Co.",1296683668,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"579",14936,"FiftyFifty Brewing Co.",1295434626,2,3,3,"American Double / Imperial Stout",4,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"580",14936,"FiftyFifty Brewing Co.",1295398290,3.5,3.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"581",14936,"FiftyFifty Brewing Co.",1295131329,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"582",14936,"FiftyFifty Brewing Co.",1294864153,3.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"583",14936,"FiftyFifty Brewing Co.",1294762300,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"584",14936,"FiftyFifty Brewing Co.",1294719483,4.5,3,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"585",14936,"FiftyFifty Brewing Co.",1294635428,3,3.5,4,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"586",14936,"FiftyFifty Brewing Co.",1294556317,1,3.5,3,"American Double / Imperial Stout",4,2,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"587",14936,"FiftyFifty Brewing Co.",1293509086,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"588",14936,"FiftyFifty Brewing Co.",1293272445,2,3,4,"American Double / Imperial Stout",3.5,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"589",14936,"FiftyFifty Brewing Co.",1290040754,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"590",14936,"FiftyFifty Brewing Co.",1289706511,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"591",14936,"FiftyFifty Brewing Co.",1289359522,5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"592",14936,"FiftyFifty Brewing Co.",1289236801,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"593",14936,"FiftyFifty Brewing Co.",1287192964,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"594",14936,"FiftyFifty Brewing Co.",1283650041,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"595",14936,"FiftyFifty Brewing Co.",1283376529,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"596",14936,"FiftyFifty Brewing Co.",1283217560,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"597",14936,"FiftyFifty Brewing Co.",1282963676,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"598",14936,"FiftyFifty Brewing Co.",1282412908,4,4,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"599",14936,"FiftyFifty Brewing Co.",1282257905,4,4.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"600",14936,"FiftyFifty Brewing Co.",1282173545,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"601",14936,"FiftyFifty Brewing Co.",1279825122,5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"602",14936,"FiftyFifty Brewing Co.",1272675532,3.5,4,5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"603",14936,"FiftyFifty Brewing Co.",1269549447,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"604",14936,"FiftyFifty Brewing Co.",1269222051,4,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"605",14936,"FiftyFifty Brewing Co.",1267931271,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"606",14936,"FiftyFifty Brewing Co.",1266391968,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"607",14936,"FiftyFifty Brewing Co.",1265840689,4,4,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"608",14936,"FiftyFifty Brewing Co.",1264480934,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"609",14936,"FiftyFifty Brewing Co.",1264446907,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"610",14936,"FiftyFifty Brewing Co.",1264405125,4,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"611",14936,"FiftyFifty Brewing Co.",1264314211,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"612",14936,"FiftyFifty Brewing Co.",1264053948,5,4.5,3.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"613",14936,"FiftyFifty Brewing Co.",1263959716,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"614",14936,"FiftyFifty Brewing Co.",1263465159,4.5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"615",14936,"FiftyFifty Brewing Co.",1262050915,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
-"616",14936,"FiftyFifty Brewing Co.",1311044691,3.5,2.5,3.5,"American Strong Ale",4,4,"BART",9,46469
-"617",14936,"FiftyFifty Brewing Co.",1293238299,4.5,4.5,3.5,"American Strong Ale",4.5,5,"BART",9,46469
-"618",14936,"FiftyFifty Brewing Co.",1291528845,4.5,4.5,4,"American Strong Ale",3.5,4.5,"BART",9,46469
-"619",14936,"FiftyFifty Brewing Co.",1291496920,4.5,4.5,4,"American Strong Ale",4,4.5,"BART",9,46469
-"620",14936,"FiftyFifty Brewing Co.",1291496607,5,4.5,5,"American Strong Ale",4.5,5,"BART",9,46469
-"621",14936,"FiftyFifty Brewing Co.",1230004925,4,4.5,4,"American Strong Ale",4.5,4,"BART",9,46469
-"622",14936,"FiftyFifty Brewing Co.",1228796895,4,4,3.5,"American Strong Ale",4,4,"BART",9,46469
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+14936,"FiftyFifty Brewing Co.",1326251847,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1326215641,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1326071910,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1325388379,3.5,3.5,3.5,"American Double / Imperial Stout",2.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1325020899,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1324512971,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1323824694,4,4.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1323714785,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1309481936,4,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1323712735,3,4,2,"American Double / Imperial Stout",2,4,"Imperial Eclipse Stout - Buffalo Trace Barrel Blend",9.5,76102
+14936,"FiftyFifty Brewing Co.",1326078920,5,4,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1325956231,4,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1325707224,4.5,4,5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1325643019,4,4.5,3,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1325131792,4.5,4,3.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324764144,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324704999,4.5,5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324266038,4,4.5,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324183669,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324172756,4.5,5,3,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1323966725,4,3.5,3,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1323714055,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1323056632,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1322977752,4.5,4,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1322964030,4.5,5,3.5,"American Double / Imperial Stout",3,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1322681908,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1321486239,4.5,4,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1320543715,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1311717838,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1311570953,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1310001969,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1308622643,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1306346844,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1305520349,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1305499253,4.5,3.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1305477894,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1305301657,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1304734940,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1304625732,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1269549536,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1304138583,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1303841579,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1302892195,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1302377372,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1301874829,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1301872610,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1301202931,4.5,5,5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1300593777,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1300593308,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1300593251,5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1300593062,5,5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1299117584,5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1298514306,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1298500683,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1294879454,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1294792491,4.5,3.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1294634443,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1294532605,4.5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1293564819,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1292776204,4,5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1292648062,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1291954819,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1291526119,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1265599947,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1290224661,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1289274525,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1287266623,4.5,4,3.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1286421720,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1286152804,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1285469037,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1284077361,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1278948654,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1277822759,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1273636792,4.5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1272676092,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1271476253,4,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1270619217,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1269320605,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1269136872,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1268536860,4.5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1267712614,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1266047182,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1265803903,4.5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1264482769,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1264446534,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1264405853,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1264405487,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1264365050,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1263578395,4.5,4.5,3.5,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1262760773,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1311983168,4.5,3.5,4.5,"Belgian Strong Dark Ale",4,4.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1262049386,4,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (12 Year)",9.5,55063
+14936,"FiftyFifty Brewing Co.",1324841531,4,3.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1314849775,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1311303801,3,3.5,4,"American Double / Imperial Stout",2.5,3,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1311098687,2,1.5,4,"American Double / Imperial Stout",3.5,2,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1302892905,2,2,4,"American Double / Imperial Stout",4,1.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1301874060,2,2,3.5,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1269549721,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1294282045,3,3,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1294219056,2,3,3.5,"American Double / Imperial Stout",3.5,2,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1287925538,1.5,3,3.5,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1286331336,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1285031627,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1272674877,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1264547141,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1264446278,3.5,4,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1264404927,3.5,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1262652781,4,3.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1258496846,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Jack Daniels",10,54192
+14936,"FiftyFifty Brewing Co.",1324345354,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1324168121,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1323967629,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1323730631,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1321901256,3,3,3.5,"American Double / Imperial Stout",2,3,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1319585527,5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1309786462,5,4,2.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1305664382,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1293749597,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1305418828,5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1305412898,5,5,5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1304988690,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1304987121,5,5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1304643608,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1304188365,3.5,3.5,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1303003362,4.5,4.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1300722252,4.5,4.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1300402620,5,4.5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1298719577,5,5,4.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1294630370,5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1294192657,5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1294096078,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1294043244,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1293926171,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1293739629,4.5,5,3,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1293583660,4.5,5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1291876772,4.5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1290049833,4.5,5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1287926134,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1283051683,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1282018703,5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1280610785,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1279824593,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1274740805,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1262136057,4,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1324185410,3.5,3.5,3,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1261867344,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1260052101,4,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1258838487,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1258693500,4.5,4.5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1258496443,5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1258403447,5,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1258267549,5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1253293936,4.5,4.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1251635254,4,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1244088855,5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1240014956,5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1237234372,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1236194691,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1233551434,4,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Pappy Van Winkle",9.5,47668
+14936,"FiftyFifty Brewing Co.",1266725655,3,3.5,2.5,"Tripel",4,3.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1265088698,4,2,3,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1264889896,3,3.5,3.5,"Tripel",3,3.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1264049084,4,4,3.5,"Tripel",4.5,4.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1258498701,3,3.5,4,"Tripel",4,3.5,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1212726914,4,4,4.5,"Tripel",4,4,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1182126533,5,3,4,"Tripel",4.5,4,"Trifecta Belgian Style Tripel",11,35579
+14936,"FiftyFifty Brewing Co.",1326127664,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325980507,4,3.5,4,"American Double / Imperial Stout",3,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325970276,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325970239,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325650508,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325551197,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1325546571,4.5,5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1276536978,4.5,4.5,4.5,"Rye Beer",4,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1325150443,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1324266908,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brandy Barrel Blend",9.5,76100
+14936,"FiftyFifty Brewing Co.",1323745887,3,3,4,"Rye Beer",3.5,3,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1323670103,4,4,3.5,"Rye Beer",4,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1299270967,4.5,4.5,4,"Rye Beer",5,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1298755467,3.5,3,4,"Rye Beer",3.5,3,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1298435243,4.5,4.5,4.5,"Rye Beer",4,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1298350366,4,3.5,4,"Rye Beer",4,3.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1298157139,4,4,4,"Rye Beer",3.5,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1281207974,4.5,4.5,4,"Rye Beer",4.5,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1280125263,5,5,4,"Rye Beer",4.5,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1275102329,4.5,4.5,3.5,"Rye Beer",4,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1268377891,4,4,4,"Rye Beer",4,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1266526370,4,3.5,4.5,"Rye Beer",4,3.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1265317982,3,3,3,"Rye Beer",4,3,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1264406690,4.5,4,4,"Rye Beer",4,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1258498617,4.5,3.5,4,"Rye Beer",5,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1254672845,4,4.5,4,"Rye Beer",4.5,4,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1251312636,4.5,4.5,4.5,"Rye Beer",4.5,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1249836566,4.5,4.5,5,"Rye Beer",4.5,4.5,"RyePA",NA,51745
+14936,"FiftyFifty Brewing Co.",1323966418,3,3,3,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1322529525,4,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1314495833,4.5,5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1311551523,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1309753558,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1308720381,4.5,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1307825571,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1307585674,3.5,3.5,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1298426175,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1307245375,3.5,3,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1307233600,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1307125781,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1305501010,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1304992278,2.5,3,4,"American Double / Imperial Stout",3.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1303715402,2,2,2,"American Double / Imperial Stout",2.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1302977712,2,2,3.5,"American Double / Imperial Stout",4,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1301016986,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1298208944,4,3.5,3.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294946233,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294879770,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294633010,2.5,2.5,4,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294248499,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1293872098,4,5,2,"American Double / Imperial Stout",2.5,3.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1293758361,4,5,3.5,"American Double / Imperial Stout",2,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1293748275,4,5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1293587609,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1292638147,2,3.5,3,"American Double / Imperial Stout",2.5,2.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1292612044,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1292563394,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1292287920,4.5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294704303,5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1291594246,4.5,5,3.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1291420178,4.5,4.5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1291401456,4.5,5,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1291312814,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Christian Brothers Brandy",9.5,64053
+14936,"FiftyFifty Brewing Co.",1294857606,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1326063134,3.5,4.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1325886042,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1325546027,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1325544769,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1325372592,4,4.5,3.5,"American Double / Imperial Stout",2.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1325195964,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1294761630,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1325129363,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1324623336,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1324351931,5,4.5,5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1324279669,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1323847604,4.5,4,5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Brewmaster’s Grand Cru Blend",9.5,76103
+14936,"FiftyFifty Brewing Co.",1296682045,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296616677,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296596503,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296184387,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296181094,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296105583,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1295984719,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1295761274,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294863429,3.5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294704856,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294633860,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294541131,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294519601,3,3.5,3,"American Double / Imperial Stout",2.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294455123,4.5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294377546,4.5,4,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1294210650,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293983203,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293918929,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293670165,4,4.5,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293495093,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293234414,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293232176,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293225795,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1324524639,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1324357932,4,3.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1293080782,4.5,4.5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1292561946,3.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1291743638,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1291494687,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1291317695,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1325709161,4,4.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1325278018,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1325110382,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324177120,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1323966087,3.5,3,3,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1323326618,4,4,4.5,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1322952611,4.5,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1322533212,4.5,4,2.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1322528021,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1321872462,4,4,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1321755969,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1320639379,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1320381594,4.5,4.5,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1320088426,4,4,3,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1319864703,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1319686691,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1319521781,4,3.5,3,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1319168109,4.5,3.5,3.5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1318864717,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1318545060,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1318128911,4,3.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1317323345,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1317089653,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1317056334,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1316352164,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1324182934,4,3.5,3,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1314742814,3.5,3.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1314491445,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1313860348,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1312960512,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1312935552,4.5,4,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1312775203,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1311664067,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1310066726,4.5,4.5,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1309313384,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1309213154,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1309101831,5,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1308065967,4,4.5,4,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1307752491,4,3.5,4,"American Double / Imperial Stout",3,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1307472473,3.5,4,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1307335573,4,3.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1306306202,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1306215888,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1305933367,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1305837804,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1305500426,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1304992767,3.5,3.5,3.5,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1304990264,4.5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1304388343,4,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1303915017,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1303840772,4,4.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1303074347,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1303058402,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1302995986,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1302994912,5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1302976283,3,3.5,3,"American Double / Imperial Stout",2,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1302615006,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301981540,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301713154,4.5,4.5,4,"American Double / Imperial Stout",3.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1291496031,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1301698137,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301616328,5,5,5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301587799,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301583577,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301208147,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1301191002,4.5,4,3.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1300847712,5,5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1320448874,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1299981803,4,4,3,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1299563560,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1299476375,3.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1299179997,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1299085074,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298879438,3.5,3.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298856397,4,3.5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298841463,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298841458,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298765760,4,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298520058,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298356607,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298308126,4,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297571472,4,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298185492,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298171088,4,5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1298075030,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297987097,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297640354,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297574352,4,5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297277261,5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297221336,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1297026077,5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1296870742,5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Evan Williams Bourbon",9.5,64055
+14936,"FiftyFifty Brewing Co.",1324857477,4,4.5,4,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1324266632,2.5,2.5,3.5,"American Double / Imperial Stout",3.5,2.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1318484754,5,5,4,"American Double / Imperial Stout",4.5,5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1317163727,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1314297387,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1313384478,2.5,2.5,3,"American Double / Imperial Stout",2.5,2,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1311206658,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1311043982,3,2.5,2.5,"American Double / Imperial Stout",3.5,3.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1304540928,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1291784953,4,4,5,"American Double / Imperial Stout",3.5,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1289370234,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1276550938,4.5,4,5,"American Double / Imperial Stout",4,4.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1275891072,4,4.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1272674102,4.5,4.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1269881744,4,3.5,4.5,"American Double / Imperial Stout",4,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1258496976,4,4.5,4,"American Double / Imperial Stout",3,4,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1256224614,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Totality Imperial Stout",10,53580
+14936,"FiftyFifty Brewing Co.",1324056491,3.5,4,3.5,"Baltic Porter",3.5,3.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1318911073,2,2,2.5,"Baltic Porter",2,2.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1313557644,3.5,3.5,3.5,"Baltic Porter",4,3.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1313368078,4.5,4,4,"Baltic Porter",3.5,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1313368000,4,4,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1313365408,4,4,4,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1310749549,3.5,4,3,"Baltic Porter",3,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1310522082,4,4,3.5,"Baltic Porter",3.5,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1309791458,3.5,3,3.5,"Baltic Porter",3,3.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1309227032,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1309181910,4,4,3.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1309026457,4,4,4,"Baltic Porter",4.5,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1308898683,4.5,4.5,4,"Baltic Porter",4.5,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1307984583,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1306651547,4.5,4.5,4.5,"Baltic Porter",4,5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1306509338,4.5,4,4.5,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1306467885,4.5,4.5,4,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1305278352,4,5,4.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1304985648,4,4,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1304963440,4,4.5,4.5,"Baltic Porter",4,4.5,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1304891555,4,4.5,4,"Baltic Porter",4,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1304718710,4.5,4.5,3.5,"Baltic Porter",5,4,"Rouge Baril Baltique",6.8,68758
+14936,"FiftyFifty Brewing Co.",1325396804,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1319924794,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1325345178,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1325196610,4,3.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1324531604,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1324268431,4,4.5,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1324184130,4,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1323965789,3,3.5,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1322102086,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1321738799,4,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1319853980,5,5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1319686817,4.5,4.5,3.5,"American Double / Imperial Stout",3,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1319155338,4.5,4,4,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1318545978,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1317340879,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297653470,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1317056001,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1316014029,4.5,5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1315104124,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1314204441,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1311628962,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1309058893,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1308843757,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1308719490,4,4.5,4.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1308461022,4.5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1305681760,4.5,4,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1305421610,4.5,4.5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1304992459,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1303841629,4.5,3,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1303840850,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1303719582,3.5,4,3,"American Double / Imperial Stout",3,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1236192385,4.5,5,4,"Belgian Strong Dark Ale",4.5,4,"Collaborative Evil",10,46468
+14936,"FiftyFifty Brewing Co.",1302492105,4,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1300667693,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1300604199,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1300401888,4.5,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1299123182,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1298864434,4.5,4,4.5,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1298600618,4.5,4,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1298308571,4,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1298213798,4.5,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1298152195,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297987198,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297929817,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297906614,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297640690,4,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1297575412,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1296104808,4,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294635274,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294610822,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294520059,3.5,4,4,"American Double / Imperial Stout",3.5,3.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294381053,4,4.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294248925,4,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1294006948,4,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1293763313,4,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1293317757,5,4,3,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1292805963,5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1292113221,5,4.5,5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1291612156,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1228796380,4,4,4,"Belgian Strong Dark Ale",4,3.5,"Collaborative Evil",10,46468
+14936,"FiftyFifty Brewing Co.",1291421991,4.5,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1290381783,4,4,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1289715368,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Four Roses Bourbon",9.5,63511
+14936,"FiftyFifty Brewing Co.",1292433305,4,4,4,"Belgian Strong Dark Ale",3.5,4,"Collaborative Evil",10,46468
+14936,"FiftyFifty Brewing Co.",1240191736,4.5,4.5,5,"Belgian Strong Dark Ale",4,5,"Collaborative Evil",10,46468
+14936,"FiftyFifty Brewing Co.",1237319192,4,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Collaborative Evil",10,46468
+14936,"FiftyFifty Brewing Co.",1324839617,3,3.5,2.5,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1320902279,3,3.5,4,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1317011186,2.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1316472435,3.5,3.5,4,"Belgian Strong Dark Ale",3,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1311953398,3.5,4,3,"Belgian Strong Dark Ale",3,4,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1303881635,3.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1302501101,3,4,4,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1302327722,2.5,4,3,"Belgian Strong Dark Ale",2,2,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1301713032,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1299566616,3.5,3,2.5,"Belgian Strong Dark Ale",2.5,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1297905728,3,2,2.5,"Belgian Strong Dark Ale",3.5,2.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1290408345,2.5,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1295403479,2,3,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1295312509,3.5,4,4,"Belgian Strong Dark Ale",4,4,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1293603132,2,3.5,3,"Belgian Strong Dark Ale",2.5,2,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1292204809,2,4.5,3.5,"Belgian Strong Dark Ale",4,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1291151612,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1290482714,4,4,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1290305925,3.5,3.5,3,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1287775267,4,4,3,"Belgian Strong Dark Ale",3,3,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1273222220,3.5,3,3.5,"Belgian Strong Dark Ale",3.5,2.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1270089322,3,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1264406561,2.5,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1258497838,2,3,4,"Belgian Strong Dark Ale",4,2.5,"Concentrated Evil",11,54194
+14936,"FiftyFifty Brewing Co.",1326135400,4.5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1326133454,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325992871,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325988499,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325821866,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325552319,4.5,4.5,4,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325440070,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325299107,4.5,4.5,5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325217016,4,4.5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325213879,4,4.5,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1325025963,2.5,3,4,"American Double / Imperial Stout",3,2.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324792128,4.5,5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324752118,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324576394,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324514470,4.5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324361694,5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324325483,5,5,5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324266318,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324183354,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324172941,4,5,3,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324131731,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1324103166,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1323672099,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1323671990,4.5,5,4,"American Double / Imperial Stout",4,5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1323467743,4.5,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Elijah Craig (18 Year)",9.5,75623
+14936,"FiftyFifty Brewing Co.",1321399730,4.5,4.5,4.5,"American Barleywine",4,4,"Old Conundrum",9.05,55651
+14936,"FiftyFifty Brewing Co.",1274738449,4,4,4.5,"American Barleywine",4.5,5,"Old Conundrum",9.05,55651
+14936,"FiftyFifty Brewing Co.",1272769551,4,4,3.5,"American Barleywine",3.5,4.5,"Old Conundrum",9.05,55651
+14936,"FiftyFifty Brewing Co.",1266527150,4,3.5,4,"American Barleywine",3.5,3,"Old Conundrum",9.05,55651
+14936,"FiftyFifty Brewing Co.",1264406457,4,4,4,"American Barleywine",3.5,4,"Old Conundrum",9.05,55651
+14936,"FiftyFifty Brewing Co.",1323905983,3.5,3,4,"Saison / Farmhouse Ale",3.5,4,"Farmhouse Ale",5.8,76235
+14936,"FiftyFifty Brewing Co.",1323746588,3.5,3,3.5,"Saison / Farmhouse Ale",4,3,"Farmhouse Ale",5.8,76235
+14936,"FiftyFifty Brewing Co.",1323634027,4,3.5,4,"Saison / Farmhouse Ale",4,4,"Farmhouse Ale",5.8,76235
+14936,"FiftyFifty Brewing Co.",1324535724,4,4,4,"American IPA",4,3.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1324185161,3.5,4,3.5,"American IPA",3.5,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1314298765,4,4,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1306160565,4.5,4.5,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1303782420,4,4.5,4,"American IPA",4,4.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1298755525,3.5,4,3.5,"American IPA",3,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1298160650,4,3.5,3.5,"American IPA",4,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1297747390,4,3.5,3.5,"American IPA",3.5,3.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1285995097,4,4.5,4,"American IPA",4.5,4.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1281211798,4.5,3.5,3.5,"American IPA",4.5,4.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1258498526,3,3.5,4,"American IPA",4,3,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1324325207,4.5,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1249670896,4,4,4,"American IPA",4,4,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1231716243,4,4,3,"American IPA",3.5,4.5,"Rockslide IPA",6.7,35577
+14936,"FiftyFifty Brewing Co.",1324184411,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1326073570,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1325991634,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1325129319,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1324962998,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1324841976,4.5,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1324702384,4,4,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1323745502,4.5,4.5,5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1323490041,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1323058010,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1322366556,4.5,4,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1322279952,4,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1319686614,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1318547033,4,3.5,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1318272520,4.5,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1318254611,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1318216530,4.5,4.5,3.5,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1317669397,4.5,4,3,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1317055529,4,3.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1316629103,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1316187677,4.5,4.5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1315459673,4.5,4.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1315108026,3.5,4,2.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1314649109,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1311709964,4,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1309753670,4.5,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1309186168,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1305419941,4,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1265600433,4,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1303777720,4,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1302892468,3,3.5,4,"American Double / Imperial Stout",4,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1302837678,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1301874333,3.5,4,4,"American Double / Imperial Stout",4,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1301190379,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1300250072,4,4,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1299119206,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1296683668,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1295434626,2,3,3,"American Double / Imperial Stout",4,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1295398290,3.5,3.5,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1295131329,3.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1294864153,3.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1294762300,4.5,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1294719483,4.5,3,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1294635428,3,3.5,4,"American Double / Imperial Stout",3,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1294556317,1,3.5,3,"American Double / Imperial Stout",4,2,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1293509086,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1293272445,2,3,4,"American Double / Imperial Stout",3.5,3,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1290040754,4,4.5,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1289706511,4,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1289359522,5,5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1289236801,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1287192964,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1283650041,4.5,4.5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1283376529,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1283217560,5,4.5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1282963676,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1282412908,4,4,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1282257905,4,4.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1282173545,4,4,4,"American Double / Imperial Stout",4.5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1279825122,5,4,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1272675532,3.5,4,5,"American Double / Imperial Stout",5,4,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1269549447,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1269222051,4,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1267931271,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1266391968,4,5,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1265840689,4,4,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1264480934,4.5,5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1264446907,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1264405125,4,5,4,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1264314211,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1264053948,5,4.5,3.5,"American Double / Imperial Stout",3.5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1263959716,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1263465159,4.5,5,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1262050915,5,5,4.5,"American Double / Imperial Stout",5,5,"Imperial Eclipse Stout - Heaven Hill Rittenhouse Rye",9.5,55065
+14936,"FiftyFifty Brewing Co.",1311044691,3.5,2.5,3.5,"American Strong Ale",4,4,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1293238299,4.5,4.5,3.5,"American Strong Ale",4.5,5,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1291528845,4.5,4.5,4,"American Strong Ale",3.5,4.5,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1291496920,4.5,4.5,4,"American Strong Ale",4,4.5,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1291496607,5,4.5,5,"American Strong Ale",4.5,5,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1230004925,4,4.5,4,"American Strong Ale",4.5,4,"BART",9,46469
+14936,"FiftyFifty Brewing Co.",1228796895,4,4,3.5,"American Strong Ale",4,4,"BART",9,46469

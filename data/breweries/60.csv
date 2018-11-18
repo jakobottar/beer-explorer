@@ -1,629 +1,629 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",60,"Cooperstown Brewing Company",1093036966,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"2",60,"Cooperstown Brewing Company",1014331041,3.5,3.5,3.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"3",60,"Cooperstown Brewing Company",1003836659,5,4,5,"English Stout",4,5,"Strike Out Stout",4.6,178
-"4",60,"Cooperstown Brewing Company",1097717948,4.5,4,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"5",60,"Cooperstown Brewing Company",1048695889,3,3,4,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
-"6",60,"Cooperstown Brewing Company",1068728742,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"7",60,"Cooperstown Brewing Company",1067361157,4.5,3,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"8",60,"Cooperstown Brewing Company",1222229589,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"9",60,"Cooperstown Brewing Company",1020089280,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"10",60,"Cooperstown Brewing Company",1018670632,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"11",60,"Cooperstown Brewing Company",1001343421,4,4,4,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
-"12",60,"Cooperstown Brewing Company",1322801036,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"13",60,"Cooperstown Brewing Company",1317581093,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"14",60,"Cooperstown Brewing Company",1313004327,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"15",60,"Cooperstown Brewing Company",1168049158,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"16",60,"Cooperstown Brewing Company",1311381617,3,3.5,3.5,"American Pale Ale (APA)",4,3,"Old Slugger",5.5,1598
-"17",60,"Cooperstown Brewing Company",1311190741,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
-"18",60,"Cooperstown Brewing Company",1299241235,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3,"Old Slugger",5.5,1598
-"19",60,"Cooperstown Brewing Company",1298314473,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"20",60,"Cooperstown Brewing Company",1291759161,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
-"21",60,"Cooperstown Brewing Company",1283901572,3.5,3,3,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
-"22",60,"Cooperstown Brewing Company",1278340679,3.5,3,4,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
-"23",60,"Cooperstown Brewing Company",1275837416,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Old Slugger",5.5,1598
-"24",60,"Cooperstown Brewing Company",1259366244,4,4,3,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"25",60,"Cooperstown Brewing Company",1250565411,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"26",60,"Cooperstown Brewing Company",1246613919,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"27",60,"Cooperstown Brewing Company",1241486425,4,3,2.5,"American Pale Ale (APA)",4,2.5,"Old Slugger",5.5,1598
-"28",60,"Cooperstown Brewing Company",1241302006,4,3,3,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"29",60,"Cooperstown Brewing Company",1241043572,4,3.5,3,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"30",60,"Cooperstown Brewing Company",1239310344,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"31",60,"Cooperstown Brewing Company",1236388778,2.5,3,3,"American Pale Ale (APA)",2,2,"Old Slugger",5.5,1598
-"32",60,"Cooperstown Brewing Company",1233687003,3,3,3,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
-"33",60,"Cooperstown Brewing Company",1225224749,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"34",60,"Cooperstown Brewing Company",1224898385,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"35",60,"Cooperstown Brewing Company",1224793532,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"36",60,"Cooperstown Brewing Company",1214569421,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"37",60,"Cooperstown Brewing Company",1213972969,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"38",60,"Cooperstown Brewing Company",1209179093,2,2.5,2,"American Pale Ale (APA)",2.5,2,"Old Slugger",5.5,1598
-"39",60,"Cooperstown Brewing Company",1207708978,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"40",60,"Cooperstown Brewing Company",1206930658,3,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"41",60,"Cooperstown Brewing Company",1201289726,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"42",60,"Cooperstown Brewing Company",1199094362,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"43",60,"Cooperstown Brewing Company",1197745193,2,4,3.5,"American Pale Ale (APA)",4,1.5,"Old Slugger",5.5,1598
-"44",60,"Cooperstown Brewing Company",1196980024,3,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"45",60,"Cooperstown Brewing Company",1195470403,4,3.5,4,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
-"46",60,"Cooperstown Brewing Company",1191456181,4,4,4.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"47",60,"Cooperstown Brewing Company",1191175556,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"48",60,"Cooperstown Brewing Company",1163916825,4,3,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"49",60,"Cooperstown Brewing Company",1190112204,4,5,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"50",60,"Cooperstown Brewing Company",1180062138,4,4,4,"American Pale Ale (APA)",4.5,4,"Old Slugger",5.5,1598
-"51",60,"Cooperstown Brewing Company",1178026704,2,3,3.5,"American Pale Ale (APA)",3,2,"Old Slugger",5.5,1598
-"52",60,"Cooperstown Brewing Company",1175052804,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"53",60,"Cooperstown Brewing Company",1174076351,3,3,4,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
-"54",60,"Cooperstown Brewing Company",1173131806,4,4,4,"American Pale Ale (APA)",4,4.5,"Old Slugger",5.5,1598
-"55",60,"Cooperstown Brewing Company",1172537438,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"56",60,"Cooperstown Brewing Company",1170036947,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"57",60,"Cooperstown Brewing Company",1157831361,4,3,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"58",60,"Cooperstown Brewing Company",1155702541,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"59",60,"Cooperstown Brewing Company",1154136156,3.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"60",60,"Cooperstown Brewing Company",1154044090,4.5,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"61",60,"Cooperstown Brewing Company",1152849509,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"62",60,"Cooperstown Brewing Company",1147481411,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"63",60,"Cooperstown Brewing Company",1145328869,4,3,2.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"64",60,"Cooperstown Brewing Company",1137273088,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"65",60,"Cooperstown Brewing Company",1134264783,3,3.5,4,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
-"66",60,"Cooperstown Brewing Company",1127861006,3,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"67",60,"Cooperstown Brewing Company",1119057817,1.5,4,4.5,"American Pale Ale (APA)",3,1.5,"Old Slugger",5.5,1598
-"68",60,"Cooperstown Brewing Company",1114654850,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"69",60,"Cooperstown Brewing Company",1109452953,2.5,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"70",60,"Cooperstown Brewing Company",1100905415,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"71",60,"Cooperstown Brewing Company",1100904978,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"72",60,"Cooperstown Brewing Company",1100753946,2.5,3,2.5,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
-"73",60,"Cooperstown Brewing Company",1100214344,2,3,3,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
-"74",60,"Cooperstown Brewing Company",1098496309,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"75",60,"Cooperstown Brewing Company",1096406275,4,4,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"76",60,"Cooperstown Brewing Company",1094852408,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"77",60,"Cooperstown Brewing Company",1093356088,4,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"78",60,"Cooperstown Brewing Company",1092189078,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"79",60,"Cooperstown Brewing Company",1091068634,3,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"80",60,"Cooperstown Brewing Company",1085175587,4,3.5,3,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"81",60,"Cooperstown Brewing Company",1084225814,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"82",60,"Cooperstown Brewing Company",1083122717,3,3,4,"American Pale Ale (APA)",2.5,2.5,"Old Slugger",5.5,1598
-"83",60,"Cooperstown Brewing Company",1080676727,4,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"84",60,"Cooperstown Brewing Company",1079836482,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"85",60,"Cooperstown Brewing Company",1079830787,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"86",60,"Cooperstown Brewing Company",1079827679,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"87",60,"Cooperstown Brewing Company",1073507941,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
-"88",60,"Cooperstown Brewing Company",1072977985,3.5,4,4,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
-"89",60,"Cooperstown Brewing Company",1070829941,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
-"90",60,"Cooperstown Brewing Company",1064584857,2.5,2.5,4,"American Pale Ale (APA)",3,2,"Old Slugger",5.5,1598
-"91",60,"Cooperstown Brewing Company",1064354309,3.5,3,3,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
-"92",60,"Cooperstown Brewing Company",1063320466,4,4,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
-"93",60,"Cooperstown Brewing Company",1062617303,3.5,3,2,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
-"94",60,"Cooperstown Brewing Company",1057877849,3,3.5,4.5,"American Pale Ale (APA)",2,4,"Old Slugger",5.5,1598
-"95",60,"Cooperstown Brewing Company",1054557321,4,3,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
-"96",60,"Cooperstown Brewing Company",1050745880,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Old Slugger",5.5,1598
-"97",60,"Cooperstown Brewing Company",1047920030,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"98",60,"Cooperstown Brewing Company",1041323246,4,4,3.5,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
-"99",60,"Cooperstown Brewing Company",1029598164,4,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
-"100",60,"Cooperstown Brewing Company",1033273951,4.5,3.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"101",60,"Cooperstown Brewing Company",1032772721,4,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"102",60,"Cooperstown Brewing Company",1018003612,4.5,3.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
-"103",60,"Cooperstown Brewing Company",1017534845,4,3.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
-"104",60,"Cooperstown Brewing Company",1321044496,3,3,4,"English Stout",2,3,"Strike Out Stout",4.6,178
-"105",60,"Cooperstown Brewing Company",1320011886,3.5,3.5,3,"English Stout",2,3.5,"Strike Out Stout",4.6,178
-"106",60,"Cooperstown Brewing Company",1318638731,3,3.5,2.5,"English Stout",2.5,3.5,"Strike Out Stout",4.6,178
-"107",60,"Cooperstown Brewing Company",1313545967,2.5,2.5,3,"English Stout",2.5,2.5,"Strike Out Stout",4.6,178
-"108",60,"Cooperstown Brewing Company",1311269234,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"109",60,"Cooperstown Brewing Company",1304100974,3.5,3,3.5,"English Stout",3.5,3,"Strike Out Stout",4.6,178
-"110",60,"Cooperstown Brewing Company",1299808760,4,4,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"111",60,"Cooperstown Brewing Company",1298466249,4,3.5,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"112",60,"Cooperstown Brewing Company",1292990043,3.5,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"113",60,"Cooperstown Brewing Company",1292383811,2,2.5,3,"English Stout",2,2.5,"Strike Out Stout",4.6,178
-"114",60,"Cooperstown Brewing Company",1287545845,4.5,4,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"115",60,"Cooperstown Brewing Company",1287010746,3,4,4,"English Stout",2,3.5,"Strike Out Stout",4.6,178
-"116",60,"Cooperstown Brewing Company",1285552031,3,3,3.5,"English Stout",2,3,"Strike Out Stout",4.6,178
-"117",60,"Cooperstown Brewing Company",1278427495,3.5,3.5,4.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"118",60,"Cooperstown Brewing Company",1276227609,3.5,3.5,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"119",60,"Cooperstown Brewing Company",1264531937,4,3.5,3.5,"English Stout",4.5,3.5,"Strike Out Stout",4.6,178
-"120",60,"Cooperstown Brewing Company",1258129904,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"121",60,"Cooperstown Brewing Company",1255911838,4,4,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
-"122",60,"Cooperstown Brewing Company",1254869741,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"123",60,"Cooperstown Brewing Company",1247628931,3.5,4,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"124",60,"Cooperstown Brewing Company",1244073546,2.5,4.5,4,"English Stout",2,3.5,"Strike Out Stout",4.6,178
-"125",60,"Cooperstown Brewing Company",1243125368,4,3.5,3,"English Stout",4,3.5,"Strike Out Stout",4.6,178
-"126",60,"Cooperstown Brewing Company",1241403869,3,4,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"127",60,"Cooperstown Brewing Company",1231622076,3,3,4,"English Stout",3.5,2,"Strike Out Stout",4.6,178
-"128",60,"Cooperstown Brewing Company",1227575707,3,3,2.5,"English Stout",2.5,3,"Strike Out Stout",4.6,178
-"129",60,"Cooperstown Brewing Company",1224898637,3.5,4,4,"English Stout",4.5,4.5,"Strike Out Stout",4.6,178
-"130",60,"Cooperstown Brewing Company",1223946338,4,3.5,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
-"131",60,"Cooperstown Brewing Company",1217597262,4.5,4,3.5,"English Stout",3.5,4.5,"Strike Out Stout",4.6,178
-"132",60,"Cooperstown Brewing Company",1214569143,3.5,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"133",60,"Cooperstown Brewing Company",1214331831,4,4,3.5,"English Stout",4,3.5,"Strike Out Stout",4.6,178
-"134",60,"Cooperstown Brewing Company",1214319697,2.5,3,3,"English Stout",2,3,"Strike Out Stout",4.6,178
-"135",60,"Cooperstown Brewing Company",1211499482,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"136",60,"Cooperstown Brewing Company",1210629063,4,4.5,4,"English Stout",2.5,4,"Strike Out Stout",4.6,178
-"137",60,"Cooperstown Brewing Company",1209524918,2,3,2.5,"English Stout",1.5,2,"Strike Out Stout",4.6,178
-"138",60,"Cooperstown Brewing Company",1207703186,3.5,2.5,3,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"139",60,"Cooperstown Brewing Company",1207099340,1,2.5,2.5,"English Stout",1.5,2.5,"Strike Out Stout",4.6,178
-"140",60,"Cooperstown Brewing Company",1201800337,2,3,3.5,"English Stout",2.5,2.5,"Strike Out Stout",4.6,178
-"141",60,"Cooperstown Brewing Company",1201044498,3,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"142",60,"Cooperstown Brewing Company",1197865892,4,3,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
-"143",60,"Cooperstown Brewing Company",1196982504,3.5,3.5,3.5,"English Stout",3,3,"Strike Out Stout",4.6,178
-"144",60,"Cooperstown Brewing Company",1242095538,3.5,3.5,4,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
-"145",60,"Cooperstown Brewing Company",1194125259,3.5,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"146",60,"Cooperstown Brewing Company",1191349832,3.5,4,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"147",60,"Cooperstown Brewing Company",1190259976,4,3.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"148",60,"Cooperstown Brewing Company",1190255576,4,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"149",60,"Cooperstown Brewing Company",1186938992,3,3,4,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"150",60,"Cooperstown Brewing Company",1173153790,3.5,3,3,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"151",60,"Cooperstown Brewing Company",1170375773,4.5,4,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
-"152",60,"Cooperstown Brewing Company",1169687319,3,3,4,"English Stout",3,3,"Strike Out Stout",4.6,178
-"153",60,"Cooperstown Brewing Company",1164737563,1,3,3.5,"English Stout",2,1,"Strike Out Stout",4.6,178
-"154",60,"Cooperstown Brewing Company",1164554484,4,4.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"155",60,"Cooperstown Brewing Company",1136464312,3,3,4,"English Stout",3,3,"Strike Out Stout",4.6,178
-"156",60,"Cooperstown Brewing Company",1160261182,4,4.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
-"157",60,"Cooperstown Brewing Company",1157915053,3.5,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"158",60,"Cooperstown Brewing Company",1155176573,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"159",60,"Cooperstown Brewing Company",1153967246,3.5,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"160",60,"Cooperstown Brewing Company",1151626257,3,2.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"161",60,"Cooperstown Brewing Company",1149036640,3.5,4,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"162",60,"Cooperstown Brewing Company",1146614247,4,4,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"163",60,"Cooperstown Brewing Company",1145415439,4,3.5,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"164",60,"Cooperstown Brewing Company",1240626554,3,2,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"165",60,"Cooperstown Brewing Company",1133569356,3.5,3.5,4.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"166",60,"Cooperstown Brewing Company",1133322413,3.5,3.5,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"167",60,"Cooperstown Brewing Company",1133112963,3,3,4,"English Stout",2.5,3,"Strike Out Stout",4.6,178
-"168",60,"Cooperstown Brewing Company",1131669841,3.5,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"169",60,"Cooperstown Brewing Company",1122947570,4,3.5,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
-"170",60,"Cooperstown Brewing Company",1118983712,4.5,4,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"171",60,"Cooperstown Brewing Company",1109095891,3,3,3.5,"English Stout",3.5,3,"Strike Out Stout",4.6,178
-"172",60,"Cooperstown Brewing Company",1104964877,4,3,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"173",60,"Cooperstown Brewing Company",1099194732,3.5,3,3.5,"English Stout",3,3,"Strike Out Stout",4.6,178
-"174",60,"Cooperstown Brewing Company",1090204310,4,4,4,"English Stout",4.5,4,"Strike Out Stout",4.6,178
-"175",60,"Cooperstown Brewing Company",1089086963,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"176",60,"Cooperstown Brewing Company",1089054117,3,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
-"177",60,"Cooperstown Brewing Company",1086656128,1,2,2,"English Stout",1,1.5,"Strike Out Stout",4.6,178
-"178",60,"Cooperstown Brewing Company",1085605791,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"179",60,"Cooperstown Brewing Company",1083025168,4,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"180",60,"Cooperstown Brewing Company",1079980332,3.5,4,4.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"181",60,"Cooperstown Brewing Company",1079835122,3.5,3.5,4,"English Stout",3,4,"Strike Out Stout",4.6,178
-"182",60,"Cooperstown Brewing Company",1079666934,2.5,3.5,3.5,"English Stout",3,2.5,"Strike Out Stout",4.6,178
-"183",60,"Cooperstown Brewing Company",1079405204,3.5,3.5,4.5,"English Stout",3,3,"Strike Out Stout",4.6,178
-"184",60,"Cooperstown Brewing Company",1076270193,4.5,3.5,4,"English Stout",3.5,4.5,"Strike Out Stout",4.6,178
-"185",60,"Cooperstown Brewing Company",1074042775,1.5,2,2,"English Stout",2,2,"Strike Out Stout",4.6,178
-"186",60,"Cooperstown Brewing Company",1072978671,3.5,4,4,"English Stout",3,3,"Strike Out Stout",4.6,178
-"187",60,"Cooperstown Brewing Company",1070845066,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"188",60,"Cooperstown Brewing Company",1064254573,3,3,4,"English Stout",3,2.5,"Strike Out Stout",4.6,178
-"189",60,"Cooperstown Brewing Company",1064212763,2.5,3,4,"English Stout",2.5,3,"Strike Out Stout",4.6,178
-"190",60,"Cooperstown Brewing Company",1054666820,4,3,4,"English Stout",4,4,"Strike Out Stout",4.6,178
-"191",60,"Cooperstown Brewing Company",1048452084,4,3.5,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
-"192",60,"Cooperstown Brewing Company",1041325833,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
-"193",60,"Cooperstown Brewing Company",1039035934,1,2,3,"English Stout",1,1,"Strike Out Stout",4.6,178
-"194",60,"Cooperstown Brewing Company",1033542767,4,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
-"195",60,"Cooperstown Brewing Company",1085490353,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"196",60,"Cooperstown Brewing Company",1085267527,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"197",60,"Cooperstown Brewing Company",1078873870,4.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"198",60,"Cooperstown Brewing Company",1078702526,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"199",60,"Cooperstown Brewing Company",1072978492,2.5,3,2.5,"English India Pale Ale (IPA)",2.5,3,"Back Yard India Pale Ale",6.1,1599
-"200",60,"Cooperstown Brewing Company",1070830150,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"201",60,"Cooperstown Brewing Company",1070680358,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"202",60,"Cooperstown Brewing Company",1064975511,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"203",60,"Cooperstown Brewing Company",1064342654,3,3,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"204",60,"Cooperstown Brewing Company",1062619498,3.5,3,2.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"205",60,"Cooperstown Brewing Company",1058467285,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"206",60,"Cooperstown Brewing Company",1054653927,4,4,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"207",60,"Cooperstown Brewing Company",1052851359,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"208",60,"Cooperstown Brewing Company",1041322864,4,4,3.5,"English India Pale Ale (IPA)",3,4,"Back Yard India Pale Ale",6.1,1599
-"209",60,"Cooperstown Brewing Company",1039553332,1.5,3,3,"English India Pale Ale (IPA)",1.5,1.5,"Back Yard India Pale Ale",6.1,1599
-"210",60,"Cooperstown Brewing Company",1030749832,3,4,3,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"211",60,"Cooperstown Brewing Company",1023114372,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"212",60,"Cooperstown Brewing Company",1005434677,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"213",60,"Cooperstown Brewing Company",1001343533,4,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"214",60,"Cooperstown Brewing Company",1319996698,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"215",60,"Cooperstown Brewing Company",1314066658,3.5,4,3.5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"216",60,"Cooperstown Brewing Company",1313031925,2.5,3,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"217",60,"Cooperstown Brewing Company",1311196442,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"218",60,"Cooperstown Brewing Company",1304100283,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"219",60,"Cooperstown Brewing Company",1299210459,4,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Back Yard India Pale Ale",6.1,1599
-"220",60,"Cooperstown Brewing Company",1234408300,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"221",60,"Cooperstown Brewing Company",1298897539,4,3,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"222",60,"Cooperstown Brewing Company",1297801741,4,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"223",60,"Cooperstown Brewing Company",1275934174,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"224",60,"Cooperstown Brewing Company",1265589293,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"225",60,"Cooperstown Brewing Company",1261283526,4,4,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"226",60,"Cooperstown Brewing Company",1259370172,4,3,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"227",60,"Cooperstown Brewing Company",1258131263,4.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"228",60,"Cooperstown Brewing Company",1250349574,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"229",60,"Cooperstown Brewing Company",1246585567,2.5,3,3.5,"English India Pale Ale (IPA)",2,3.5,"Back Yard India Pale Ale",6.1,1599
-"230",60,"Cooperstown Brewing Company",1244235154,3,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"231",60,"Cooperstown Brewing Company",1232675566,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"232",60,"Cooperstown Brewing Company",1232236780,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"233",60,"Cooperstown Brewing Company",1226102356,4,3.5,4,"English India Pale Ale (IPA)",4,3,"Back Yard India Pale Ale",6.1,1599
-"234",60,"Cooperstown Brewing Company",1224897988,1.5,2.5,3,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
-"235",60,"Cooperstown Brewing Company",1223580234,4,4.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"236",60,"Cooperstown Brewing Company",1220027566,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"237",60,"Cooperstown Brewing Company",1219622194,2,2,3.5,"English India Pale Ale (IPA)",3.5,2,"Back Yard India Pale Ale",6.1,1599
-"238",60,"Cooperstown Brewing Company",1218574792,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"239",60,"Cooperstown Brewing Company",1213973248,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"240",60,"Cooperstown Brewing Company",1211676278,2,2,4,"English India Pale Ale (IPA)",2.5,2,"Back Yard India Pale Ale",6.1,1599
-"241",60,"Cooperstown Brewing Company",1209083852,4,4,4.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"242",60,"Cooperstown Brewing Company",1206845847,3,3.5,4,"English India Pale Ale (IPA)",2.5,3,"Back Yard India Pale Ale",6.1,1599
-"243",60,"Cooperstown Brewing Company",1204341691,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"244",60,"Cooperstown Brewing Company",1199826346,4,3,3,"English India Pale Ale (IPA)",4,2.5,"Back Yard India Pale Ale",6.1,1599
-"245",60,"Cooperstown Brewing Company",1196982046,2,3.5,4,"English India Pale Ale (IPA)",2.5,2,"Back Yard India Pale Ale",6.1,1599
-"246",60,"Cooperstown Brewing Company",1194725083,2,2,3,"English India Pale Ale (IPA)",2,2,"Back Yard India Pale Ale",6.1,1599
-"247",60,"Cooperstown Brewing Company",1194569308,3,2.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"248",60,"Cooperstown Brewing Company",1171221607,3,3,3.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"249",60,"Cooperstown Brewing Company",1192265468,4,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"250",60,"Cooperstown Brewing Company",1190681608,2.5,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Back Yard India Pale Ale",6.1,1599
-"251",60,"Cooperstown Brewing Company",1190112495,4,3.5,5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"252",60,"Cooperstown Brewing Company",1189049818,3.5,3.5,5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"253",60,"Cooperstown Brewing Company",1182120355,2.5,3,3,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
-"254",60,"Cooperstown Brewing Company",1176398063,4.5,4.5,4,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"255",60,"Cooperstown Brewing Company",1174534834,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"256",60,"Cooperstown Brewing Company",1174245510,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"257",60,"Cooperstown Brewing Company",1170774212,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"258",60,"Cooperstown Brewing Company",1170214995,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"259",60,"Cooperstown Brewing Company",1169818228,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"260",60,"Cooperstown Brewing Company",1168195240,3,3.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"261",60,"Cooperstown Brewing Company",1164744840,4,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"262",60,"Cooperstown Brewing Company",1163722608,2.5,2.5,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"263",60,"Cooperstown Brewing Company",1162417755,3,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
-"264",60,"Cooperstown Brewing Company",1161972872,2.5,3.5,3.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
-"265",60,"Cooperstown Brewing Company",1161635907,2.5,1.5,4.5,"English India Pale Ale (IPA)",2.5,1.5,"Back Yard India Pale Ale",6.1,1599
-"266",60,"Cooperstown Brewing Company",1158630988,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"267",60,"Cooperstown Brewing Company",1157832900,4,3,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"268",60,"Cooperstown Brewing Company",1155102200,3.5,2.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"269",60,"Cooperstown Brewing Company",1154663274,2,3.5,3.5,"English India Pale Ale (IPA)",3,2,"Back Yard India Pale Ale",6.1,1599
-"270",60,"Cooperstown Brewing Company",1154136824,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"271",60,"Cooperstown Brewing Company",1154116247,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"272",60,"Cooperstown Brewing Company",1153435307,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"273",60,"Cooperstown Brewing Company",1150585395,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"274",60,"Cooperstown Brewing Company",1149821327,1,2,3.5,"English India Pale Ale (IPA)",2,1,"Back Yard India Pale Ale",6.1,1599
-"275",60,"Cooperstown Brewing Company",1149038485,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"276",60,"Cooperstown Brewing Company",1119935723,3.5,3.5,4,"American Brown Ale",3,3.5,"Striker",NA,23111
-"277",60,"Cooperstown Brewing Company",1145332377,2.5,3,3.5,"English India Pale Ale (IPA)",4,2.5,"Back Yard India Pale Ale",6.1,1599
-"278",60,"Cooperstown Brewing Company",1144974452,3.5,3,3,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"279",60,"Cooperstown Brewing Company",1140917843,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"280",60,"Cooperstown Brewing Company",1134434798,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"281",60,"Cooperstown Brewing Company",1132946543,4.5,5,4.5,"English India Pale Ale (IPA)",4.5,5,"Back Yard India Pale Ale",6.1,1599
-"282",60,"Cooperstown Brewing Company",1132713751,3.5,4,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"283",60,"Cooperstown Brewing Company",1128747443,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"284",60,"Cooperstown Brewing Company",1126659659,3,3,3.5,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
-"285",60,"Cooperstown Brewing Company",1118753824,4,3.5,4,"American Brown Ale",4,3.5,"Striker",NA,23111
-"286",60,"Cooperstown Brewing Company",1124410262,3,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Back Yard India Pale Ale",6.1,1599
-"287",60,"Cooperstown Brewing Company",1123040350,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"288",60,"Cooperstown Brewing Company",1119234501,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"289",60,"Cooperstown Brewing Company",1115934677,3.5,3.5,3,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
-"290",60,"Cooperstown Brewing Company",1114824784,3.5,3,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"291",60,"Cooperstown Brewing Company",1113609376,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"292",60,"Cooperstown Brewing Company",1111017882,3.5,3,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"293",60,"Cooperstown Brewing Company",1109096165,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"294",60,"Cooperstown Brewing Company",1099879112,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
-"295",60,"Cooperstown Brewing Company",1098898314,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"296",60,"Cooperstown Brewing Company",1097187123,4,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"297",60,"Cooperstown Brewing Company",1094077866,3,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"298",60,"Cooperstown Brewing Company",1093563112,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
-"299",60,"Cooperstown Brewing Company",1092334635,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"300",60,"Cooperstown Brewing Company",1092117980,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
-"301",60,"Cooperstown Brewing Company",1089603269,4,3,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
-"302",60,"Cooperstown Brewing Company",1088716655,3.5,3.5,4,"English India Pale Ale (IPA)",4.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"303",60,"Cooperstown Brewing Company",1088644227,4.5,3,4.5,"English India Pale Ale (IPA)",2.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"304",60,"Cooperstown Brewing Company",1087765320,4,3.5,3.5,"English India Pale Ale (IPA)",4.5,3.5,"Back Yard India Pale Ale",6.1,1599
-"305",60,"Cooperstown Brewing Company",1259532401,3,3.5,3,"American Brown Ale",3.5,3,"Striker",NA,23111
-"306",60,"Cooperstown Brewing Company",1259202336,3.5,4,4,"American Brown Ale",3.5,3.5,"Striker",NA,23111
-"307",60,"Cooperstown Brewing Company",1117583271,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
-"308",60,"Cooperstown Brewing Company",1257815893,4,4.5,3.5,"American Brown Ale",4.5,3.5,"Striker",NA,23111
-"309",60,"Cooperstown Brewing Company",1255911459,4,3.5,3,"American Brown Ale",2.5,2.5,"Striker",NA,23111
-"310",60,"Cooperstown Brewing Company",1242952470,4,4.5,3.5,"American Brown Ale",4,4,"Striker",NA,23111
-"311",60,"Cooperstown Brewing Company",1225651673,2,2,4.5,"American Brown Ale",2,2,"Striker",NA,23111
-"312",60,"Cooperstown Brewing Company",1214318814,3.5,3.5,3,"American Brown Ale",3.5,3.5,"Striker",NA,23111
-"313",60,"Cooperstown Brewing Company",1213508439,4,3.5,4,"American Brown Ale",3,4.5,"Striker",NA,23111
-"314",60,"Cooperstown Brewing Company",1201208530,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
-"315",60,"Cooperstown Brewing Company",1180842302,4,3.5,3,"American Brown Ale",4,3,"Striker",NA,23111
-"316",60,"Cooperstown Brewing Company",1163740567,4,4,3.5,"American Brown Ale",4,4,"Striker",NA,23111
-"317",60,"Cooperstown Brewing Company",1153965395,4,3.5,3.5,"American Brown Ale",4,4,"Striker",NA,23111
-"318",60,"Cooperstown Brewing Company",1153275162,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
-"319",60,"Cooperstown Brewing Company",1113261313,3.5,4,4,"American Brown Ale",3.5,3.5,"Striker",NA,23111
-"320",60,"Cooperstown Brewing Company",1114478485,4,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"321",60,"Cooperstown Brewing Company",1112053935,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"322",60,"Cooperstown Brewing Company",1111719792,3.5,3.5,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"323",60,"Cooperstown Brewing Company",1110823933,3.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"324",60,"Cooperstown Brewing Company",1109079617,4,3.5,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"325",60,"Cooperstown Brewing Company",1099960465,3.5,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"326",60,"Cooperstown Brewing Company",1099708119,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"327",60,"Cooperstown Brewing Company",1095712898,3.5,3.5,4,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
-"328",60,"Cooperstown Brewing Company",1091764890,4.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"329",60,"Cooperstown Brewing Company",1070856886,4,4,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"330",60,"Cooperstown Brewing Company",1089176224,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"331",60,"Cooperstown Brewing Company",1086573936,4,4,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"332",60,"Cooperstown Brewing Company",1085605652,3.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"333",60,"Cooperstown Brewing Company",1085004105,4,3.5,4,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"334",60,"Cooperstown Brewing Company",1084409296,4.5,4,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"335",60,"Cooperstown Brewing Company",1080695989,3.5,4,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"336",60,"Cooperstown Brewing Company",1079812993,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"337",60,"Cooperstown Brewing Company",1074465136,4,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"338",60,"Cooperstown Brewing Company",1072978586,3.5,4,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
-"339",60,"Cooperstown Brewing Company",1072355988,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"340",60,"Cooperstown Brewing Company",1070845216,4,3,4,"English Porter",3,3,"Benchwarmer Porter",6.3,176
-"341",60,"Cooperstown Brewing Company",1067208172,3.5,3,5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
-"342",60,"Cooperstown Brewing Company",1064843871,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"343",60,"Cooperstown Brewing Company",1064342550,3.5,3,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"344",60,"Cooperstown Brewing Company",1064212429,4,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"345",60,"Cooperstown Brewing Company",1062001916,3,4,3.5,"English Porter",4,3,"Benchwarmer Porter",6.3,176
-"346",60,"Cooperstown Brewing Company",1054712450,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"347",60,"Cooperstown Brewing Company",1051643720,4,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"348",60,"Cooperstown Brewing Company",1049731979,4,4.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"349",60,"Cooperstown Brewing Company",1046377273,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"350",60,"Cooperstown Brewing Company",1041321428,4,4.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"351",60,"Cooperstown Brewing Company",1038950009,4,4,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"352",60,"Cooperstown Brewing Company",1034539435,4.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"353",60,"Cooperstown Brewing Company",1033294371,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"354",60,"Cooperstown Brewing Company",1032502727,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"355",60,"Cooperstown Brewing Company",1018670449,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"356",60,"Cooperstown Brewing Company",1014237711,3,3,3,"English Porter",3,4,"Benchwarmer Porter",6.3,176
-"357",60,"Cooperstown Brewing Company",1005606207,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"358",60,"Cooperstown Brewing Company",1001343745,4,4,5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"359",60,"Cooperstown Brewing Company",1324424245,4,4,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"360",60,"Cooperstown Brewing Company",1323312366,4,4,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"361",60,"Cooperstown Brewing Company",1320009200,4,3.5,4,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"362",60,"Cooperstown Brewing Company",1317983597,4,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"363",60,"Cooperstown Brewing Company",1317269744,4,4.5,4,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
-"364",60,"Cooperstown Brewing Company",1315890565,4.5,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"365",60,"Cooperstown Brewing Company",1313890385,4.5,4,4.5,"English Porter",4,5,"Benchwarmer Porter",6.3,176
-"366",60,"Cooperstown Brewing Company",1313457267,4,4,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
-"367",60,"Cooperstown Brewing Company",1312777312,4,4.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"368",60,"Cooperstown Brewing Company",1311273430,4,4,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"369",60,"Cooperstown Brewing Company",1307693176,3.5,5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"370",60,"Cooperstown Brewing Company",1304100482,4,3.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"371",60,"Cooperstown Brewing Company",1301841439,3.5,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"372",60,"Cooperstown Brewing Company",1301700641,4,3.5,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
-"373",60,"Cooperstown Brewing Company",1295486324,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"374",60,"Cooperstown Brewing Company",1290400841,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"375",60,"Cooperstown Brewing Company",1287457678,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"376",60,"Cooperstown Brewing Company",1275936128,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"377",60,"Cooperstown Brewing Company",1264545463,4,4,3.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"378",60,"Cooperstown Brewing Company",1259628893,3.5,3.5,3.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"379",60,"Cooperstown Brewing Company",1257550788,4.5,4,4,"English Porter",4.5,4.5,"Benchwarmer Porter",6.3,176
-"380",60,"Cooperstown Brewing Company",1250650676,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"381",60,"Cooperstown Brewing Company",1249244372,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"382",60,"Cooperstown Brewing Company",1240529739,3,4,4.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"383",60,"Cooperstown Brewing Company",1237505027,4,4,4,"English Porter",4,3,"Benchwarmer Porter",6.3,176
-"384",60,"Cooperstown Brewing Company",1230583985,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"385",60,"Cooperstown Brewing Company",1229987777,4.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"386",60,"Cooperstown Brewing Company",1227134380,3.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"387",60,"Cooperstown Brewing Company",1224898110,3.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"388",60,"Cooperstown Brewing Company",1224795953,3,3.5,4.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"389",60,"Cooperstown Brewing Company",1223942466,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"390",60,"Cooperstown Brewing Company",1220695378,1.5,3,3,"English Porter",1,2.5,"Benchwarmer Porter",6.3,176
-"391",60,"Cooperstown Brewing Company",1220027655,3.5,4,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"392",60,"Cooperstown Brewing Company",1214701342,2.5,3.5,2.5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
-"393",60,"Cooperstown Brewing Company",1214592609,4,3.5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"394",60,"Cooperstown Brewing Company",1214319270,3.5,3.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"395",60,"Cooperstown Brewing Company",1213378351,4,4,3.5,"English Porter",3,4.5,"Benchwarmer Porter",6.3,176
-"396",60,"Cooperstown Brewing Company",1212282905,3.5,3.5,4.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"397",60,"Cooperstown Brewing Company",1210643908,3,3.5,3,"English Porter",3,3,"Benchwarmer Porter",6.3,176
-"398",60,"Cooperstown Brewing Company",1209523261,4,3.5,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"399",60,"Cooperstown Brewing Company",1207103057,4.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"400",60,"Cooperstown Brewing Company",1202839561,4.5,3.5,3,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"401",60,"Cooperstown Brewing Company",1202425754,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"402",60,"Cooperstown Brewing Company",1201209614,4.5,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"403",60,"Cooperstown Brewing Company",1200366627,3.5,3.5,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"404",60,"Cooperstown Brewing Company",1199094245,4,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"405",60,"Cooperstown Brewing Company",1196981560,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"406",60,"Cooperstown Brewing Company",1196919808,4.5,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"407",60,"Cooperstown Brewing Company",1196458368,3.5,3,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"408",60,"Cooperstown Brewing Company",1195253201,3.5,4,3.5,"English Porter",3,4.5,"Benchwarmer Porter",6.3,176
-"409",60,"Cooperstown Brewing Company",1191188374,4,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"410",60,"Cooperstown Brewing Company",1190463451,4,4,4.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"411",60,"Cooperstown Brewing Company",1189474555,2.5,2,3.5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
-"412",60,"Cooperstown Brewing Company",1189129845,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"413",60,"Cooperstown Brewing Company",1148431475,4,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"414",60,"Cooperstown Brewing Company",1187751791,4,4,3,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"415",60,"Cooperstown Brewing Company",1186492044,3.5,4,4.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"416",60,"Cooperstown Brewing Company",1185467506,3.5,4,3.5,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
-"417",60,"Cooperstown Brewing Company",1182207477,4.5,2.5,3.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"418",60,"Cooperstown Brewing Company",1180182298,3.5,4,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"419",60,"Cooperstown Brewing Company",1177539478,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"420",60,"Cooperstown Brewing Company",1169174893,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"421",60,"Cooperstown Brewing Company",1168139476,4,3.5,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
-"422",60,"Cooperstown Brewing Company",1167245409,3,1.5,1.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"423",60,"Cooperstown Brewing Company",1148171359,4,4.5,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"424",60,"Cooperstown Brewing Company",1164414909,4.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"425",60,"Cooperstown Brewing Company",1160254550,4,4,4,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
-"426",60,"Cooperstown Brewing Company",1157834841,4,3.5,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"427",60,"Cooperstown Brewing Company",1154985125,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"428",60,"Cooperstown Brewing Company",1154138171,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"429",60,"Cooperstown Brewing Company",1153925247,3.5,3.5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
-"430",60,"Cooperstown Brewing Company",1152758941,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"431",60,"Cooperstown Brewing Company",1151883498,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"432",60,"Cooperstown Brewing Company",1151626642,3.5,3.5,3,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"433",60,"Cooperstown Brewing Company",1150935236,4.5,3.5,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
-"434",60,"Cooperstown Brewing Company",1048874235,3,4,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"435",60,"Cooperstown Brewing Company",1146778786,4,4.5,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
-"436",60,"Cooperstown Brewing Company",1146513552,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"437",60,"Cooperstown Brewing Company",1145334130,4,4.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"438",60,"Cooperstown Brewing Company",1142530025,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"439",60,"Cooperstown Brewing Company",1136464861,4,4,4.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
-"440",60,"Cooperstown Brewing Company",1133743007,4,4,2,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"441",60,"Cooperstown Brewing Company",1132968277,4.5,4.5,4.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
-"442",60,"Cooperstown Brewing Company",1125332512,4,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"443",60,"Cooperstown Brewing Company",1124853312,3,3,3.5,"English Porter",3,2.5,"Benchwarmer Porter",6.3,176
-"444",60,"Cooperstown Brewing Company",1304100834,4,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"445",60,"Cooperstown Brewing Company",1123598591,3.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"446",60,"Cooperstown Brewing Company",1120005530,4,4.5,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"447",60,"Cooperstown Brewing Company",1119162429,4,3.5,3.5,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
-"448",60,"Cooperstown Brewing Company",1116123013,3.5,4,4.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
-"449",60,"Cooperstown Brewing Company",1114989510,4,4,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
-"450",60,"Cooperstown Brewing Company",1081560539,4,4.5,3.5,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"451",60,"Cooperstown Brewing Company",1080789398,4,4.5,4.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"452",60,"Cooperstown Brewing Company",1080709341,3,2.5,3,"English Strong Ale",3,2.5,"Pride Of Milford Special Ale",7.7,1791
-"453",60,"Cooperstown Brewing Company",1072978081,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"454",60,"Cooperstown Brewing Company",1070844912,4,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"455",60,"Cooperstown Brewing Company",1069729195,3.5,4,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"456",60,"Cooperstown Brewing Company",1067189950,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"457",60,"Cooperstown Brewing Company",1066885817,4.5,4.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"458",60,"Cooperstown Brewing Company",1064342592,3.5,4,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"459",60,"Cooperstown Brewing Company",1063993526,4,3.5,4,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"460",60,"Cooperstown Brewing Company",1062788922,4,4,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"461",60,"Cooperstown Brewing Company",1061170915,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"462",60,"Cooperstown Brewing Company",1055781161,3.5,3,4,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
-"463",60,"Cooperstown Brewing Company",1054555452,3.5,4,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"464",60,"Cooperstown Brewing Company",1039034561,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"465",60,"Cooperstown Brewing Company",1020088421,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"466",60,"Cooperstown Brewing Company",1003505176,5,5,5,"English Strong Ale",5,5,"Pride Of Milford Special Ale",7.7,1791
-"467",60,"Cooperstown Brewing Company",1320803041,4,3.5,3.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"468",60,"Cooperstown Brewing Company",1320548631,3.5,3.5,3.5,"English Strong Ale",3,4,"Pride Of Milford Special Ale",7.7,1791
-"469",60,"Cooperstown Brewing Company",1320011373,4,4,3.5,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
-"470",60,"Cooperstown Brewing Company",1317588540,4,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"471",60,"Cooperstown Brewing Company",1314151519,3,4,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"472",60,"Cooperstown Brewing Company",1313453579,3.5,3.5,3.5,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
-"473",60,"Cooperstown Brewing Company",1312760323,2.5,3.5,3,"English Strong Ale",2.5,3,"Pride Of Milford Special Ale",7.7,1791
-"474",60,"Cooperstown Brewing Company",1306468658,2,3.5,4,"English Strong Ale",3,2,"Pride Of Milford Special Ale",7.7,1791
-"475",60,"Cooperstown Brewing Company",1303169357,3,3.5,3,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"476",60,"Cooperstown Brewing Company",1301696022,2.5,3,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"477",60,"Cooperstown Brewing Company",1300052543,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"478",60,"Cooperstown Brewing Company",1298695791,4.5,4,3.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"479",60,"Cooperstown Brewing Company",1298335629,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"480",60,"Cooperstown Brewing Company",1297739928,4,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"481",60,"Cooperstown Brewing Company",1285350999,4,4,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"482",60,"Cooperstown Brewing Company",1280011459,4,4.5,4.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"483",60,"Cooperstown Brewing Company",1279556787,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"484",60,"Cooperstown Brewing Company",1278551612,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"485",60,"Cooperstown Brewing Company",1277511161,3,3.5,4,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
-"486",60,"Cooperstown Brewing Company",1276790015,3.5,3,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"487",60,"Cooperstown Brewing Company",1267593639,3.5,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"488",60,"Cooperstown Brewing Company",1264910614,3,3,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"489",60,"Cooperstown Brewing Company",1253592665,4,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"490",60,"Cooperstown Brewing Company",1250392554,4.5,4.5,4,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
-"491",60,"Cooperstown Brewing Company",1245890058,4,3,3.5,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"492",60,"Cooperstown Brewing Company",1245528467,4.5,4.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"493",60,"Cooperstown Brewing Company",1244925567,4,3.5,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"494",60,"Cooperstown Brewing Company",1238735770,1.5,2.5,2.5,"English Strong Ale",2,2,"Pride Of Milford Special Ale",7.7,1791
-"495",60,"Cooperstown Brewing Company",1235607320,2,3,3,"English Strong Ale",2,2.5,"Pride Of Milford Special Ale",7.7,1791
-"496",60,"Cooperstown Brewing Company",1232677262,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"497",60,"Cooperstown Brewing Company",1227683299,3.5,3.5,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"498",60,"Cooperstown Brewing Company",1226887404,3.5,4.5,3.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
-"499",60,"Cooperstown Brewing Company",1225649999,4,4,3,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"500",60,"Cooperstown Brewing Company",1224898469,4.5,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"501",60,"Cooperstown Brewing Company",1215258463,4,4,2.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
-"502",60,"Cooperstown Brewing Company",1214319035,3.5,4,3.5,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
-"503",60,"Cooperstown Brewing Company",1213507824,3.5,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"504",60,"Cooperstown Brewing Company",1212777072,3.5,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"505",60,"Cooperstown Brewing Company",1212707018,4,3,3,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"506",60,"Cooperstown Brewing Company",1210384693,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"507",60,"Cooperstown Brewing Company",1196980775,3,3.5,4,"English Strong Ale",2.5,3,"Pride Of Milford Special Ale",7.7,1791
-"508",60,"Cooperstown Brewing Company",1194225426,3.5,3.5,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"509",60,"Cooperstown Brewing Company",1193270521,3,3,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
-"510",60,"Cooperstown Brewing Company",1192435768,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"511",60,"Cooperstown Brewing Company",1191725321,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"512",60,"Cooperstown Brewing Company",1189517193,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"513",60,"Cooperstown Brewing Company",1151321590,4.5,4,4.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"514",60,"Cooperstown Brewing Company",1189046934,4,3.5,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"515",60,"Cooperstown Brewing Company",1184016494,4,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"516",60,"Cooperstown Brewing Company",1182825138,2.5,2.5,5,"English Strong Ale",3.5,2.5,"Pride Of Milford Special Ale",7.7,1791
-"517",60,"Cooperstown Brewing Company",1180014220,4,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"518",60,"Cooperstown Brewing Company",1179701309,2.5,3,3.5,"English Strong Ale",2.5,2,"Pride Of Milford Special Ale",7.7,1791
-"519",60,"Cooperstown Brewing Company",1179547959,3.5,4.5,4.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"520",60,"Cooperstown Brewing Company",1178816286,1.5,3,3.5,"English Strong Ale",3,1.5,"Pride Of Milford Special Ale",7.7,1791
-"521",60,"Cooperstown Brewing Company",1173757204,4,4,4,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"522",60,"Cooperstown Brewing Company",1166833602,4.5,4,4,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
-"523",60,"Cooperstown Brewing Company",1166489252,4.5,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"524",60,"Cooperstown Brewing Company",1164943899,4.5,4,3.5,"English Strong Ale",5,4,"Pride Of Milford Special Ale",7.7,1791
-"525",60,"Cooperstown Brewing Company",1164232395,4,4,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"526",60,"Cooperstown Brewing Company",1160700423,4,3.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"527",60,"Cooperstown Brewing Company",1160699669,3,3,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"528",60,"Cooperstown Brewing Company",1160025264,3.5,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"529",60,"Cooperstown Brewing Company",1159329356,4,4,3,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"530",60,"Cooperstown Brewing Company",1155160068,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"531",60,"Cooperstown Brewing Company",1154092286,3,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"532",60,"Cooperstown Brewing Company",1152669615,4,4,4,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
-"533",60,"Cooperstown Brewing Company",1149123487,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"534",60,"Cooperstown Brewing Company",1148432065,4,4,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"535",60,"Cooperstown Brewing Company",1145330336,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"536",60,"Cooperstown Brewing Company",1141783415,4,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"537",60,"Cooperstown Brewing Company",1140993512,4,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"538",60,"Cooperstown Brewing Company",1132614164,4.5,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"539",60,"Cooperstown Brewing Company",1123809747,4,4.5,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"540",60,"Cooperstown Brewing Company",1119154531,4.5,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"541",60,"Cooperstown Brewing Company",1115426021,3.5,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
-"542",60,"Cooperstown Brewing Company",1115345706,3.5,5,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"543",60,"Cooperstown Brewing Company",1115169107,3.5,3.5,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"544",60,"Cooperstown Brewing Company",1108878200,3.5,3.5,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
-"545",60,"Cooperstown Brewing Company",1108664312,3,3.5,3.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
-"546",60,"Cooperstown Brewing Company",1104463005,4,4,4,"English Strong Ale",4,5,"Pride Of Milford Special Ale",7.7,1791
-"547",60,"Cooperstown Brewing Company",1101718046,4.5,4.5,4.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"548",60,"Cooperstown Brewing Company",1098663426,3,4,3,"English Strong Ale",3,4,"Pride Of Milford Special Ale",7.7,1791
-"549",60,"Cooperstown Brewing Company",1098056732,4.5,4,4.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"550",60,"Cooperstown Brewing Company",1096498448,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"551",60,"Cooperstown Brewing Company",1091929030,4,4.5,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"552",60,"Cooperstown Brewing Company",1088813443,4.5,3.5,3,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
-"553",60,"Cooperstown Brewing Company",1088361906,4,4,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"554",60,"Cooperstown Brewing Company",1086038696,3.5,3.5,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
-"555",60,"Cooperstown Brewing Company",1083523217,4,4.5,2.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
-"556",60,"Cooperstown Brewing Company",1320011084,4,3.5,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
-"557",60,"Cooperstown Brewing Company",1317512285,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"558",60,"Cooperstown Brewing Company",1313033192,3,3,3,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
-"559",60,"Cooperstown Brewing Company",1304100636,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"560",60,"Cooperstown Brewing Company",1297743285,4,3,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"561",60,"Cooperstown Brewing Company",1276790571,2.5,2.5,2.5,"American Blonde Ale",2.5,2.5,"Nine Man Ale Golden Ale",4.3,175
-"562",60,"Cooperstown Brewing Company",1259530579,3.5,4,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"563",60,"Cooperstown Brewing Company",1257888518,4.5,4,3,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"564",60,"Cooperstown Brewing Company",1207708047,4,4,4,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
-"565",60,"Cooperstown Brewing Company",1257880517,4,3.5,3,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"566",60,"Cooperstown Brewing Company",1250349877,4,3.5,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
-"567",60,"Cooperstown Brewing Company",1246575761,2.5,2.5,2,"American Blonde Ale",2,3,"Nine Man Ale Golden Ale",4.3,175
-"568",60,"Cooperstown Brewing Company",1239668276,3,3,2.5,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
-"569",60,"Cooperstown Brewing Company",1236892367,4,3.5,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"570",60,"Cooperstown Brewing Company",1225650380,2.5,2,2.5,"American Blonde Ale",2.5,2,"Nine Man Ale Golden Ale",4.3,175
-"571",60,"Cooperstown Brewing Company",1224898282,3.5,3.5,3.5,"American Blonde Ale",3,4,"Nine Man Ale Golden Ale",4.3,175
-"572",60,"Cooperstown Brewing Company",1214251116,5,3.5,4.5,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
-"573",60,"Cooperstown Brewing Company",1213493577,3,3,3.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
-"574",60,"Cooperstown Brewing Company",1206220021,3,4,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"575",60,"Cooperstown Brewing Company",1204249829,4,3.5,4.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"576",60,"Cooperstown Brewing Company",1198307573,4,4,3.5,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
-"577",60,"Cooperstown Brewing Company",1196981163,2.5,3.5,4,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
-"578",60,"Cooperstown Brewing Company",1194379484,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"579",60,"Cooperstown Brewing Company",1192992467,4,3.5,4.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"580",60,"Cooperstown Brewing Company",1191741953,4,3.5,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"581",60,"Cooperstown Brewing Company",1180394073,4,3,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
-"582",60,"Cooperstown Brewing Company",1179368551,4,3.5,4.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"583",60,"Cooperstown Brewing Company",1177538244,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"584",60,"Cooperstown Brewing Company",1173153334,4,3.5,3,"American Blonde Ale",2.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"585",60,"Cooperstown Brewing Company",1172192062,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"586",60,"Cooperstown Brewing Company",1168824461,4,3.5,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
-"587",60,"Cooperstown Brewing Company",1167239653,3,1.5,2.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
-"588",60,"Cooperstown Brewing Company",1165976207,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"589",60,"Cooperstown Brewing Company",1160089438,3,3.5,4,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"590",60,"Cooperstown Brewing Company",1157829707,3,3.5,3,"American Blonde Ale",2,3.5,"Nine Man Ale Golden Ale",4.3,175
-"591",60,"Cooperstown Brewing Company",1153964392,3.5,3.5,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"592",60,"Cooperstown Brewing Company",1153521464,3,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"593",60,"Cooperstown Brewing Company",1152915021,4,3.5,4,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
-"594",60,"Cooperstown Brewing Company",1151555617,2.5,3,3.5,"American Blonde Ale",2.5,2.5,"Nine Man Ale Golden Ale",4.3,175
-"595",60,"Cooperstown Brewing Company",1145414396,2,2,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
-"596",60,"Cooperstown Brewing Company",1140659681,2.5,3.5,3.5,"American Blonde Ale",2.5,2,"Nine Man Ale Golden Ale",4.3,175
-"597",60,"Cooperstown Brewing Company",1139836031,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"598",60,"Cooperstown Brewing Company",1138312675,3.5,4,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"599",60,"Cooperstown Brewing Company",1129285070,2,3,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
-"600",60,"Cooperstown Brewing Company",1114829676,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"601",60,"Cooperstown Brewing Company",1114653211,4,4,3,"American Blonde Ale",4,3,"Nine Man Ale Golden Ale",4.3,175
-"602",60,"Cooperstown Brewing Company",1111867458,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"603",60,"Cooperstown Brewing Company",1110946442,3.5,3,2.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"604",60,"Cooperstown Brewing Company",1107800122,4,3.5,3,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"605",60,"Cooperstown Brewing Company",1103074133,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"606",60,"Cooperstown Brewing Company",1100058129,3,3.5,3.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"607",60,"Cooperstown Brewing Company",1098645028,4,3,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
-"608",60,"Cooperstown Brewing Company",1064584988,2.5,2.5,4,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
-"609",60,"Cooperstown Brewing Company",1093482685,4,2.5,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"610",60,"Cooperstown Brewing Company",1092618123,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"611",60,"Cooperstown Brewing Company",1085521581,4,3,5,"American Blonde Ale",5,3,"Nine Man Ale Golden Ale",4.3,175
-"612",60,"Cooperstown Brewing Company",1085271069,4,3.5,4,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
-"613",60,"Cooperstown Brewing Company",1084227251,3,4,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"614",60,"Cooperstown Brewing Company",1083806221,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"615",60,"Cooperstown Brewing Company",1082758850,3,3,3.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
-"616",60,"Cooperstown Brewing Company",1079821131,4,3.5,4,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
-"617",60,"Cooperstown Brewing Company",1072977879,3.5,3,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
-"618",60,"Cooperstown Brewing Company",1070830293,3.5,3,3.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"619",60,"Cooperstown Brewing Company",1070595235,3,3,4,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
-"620",60,"Cooperstown Brewing Company",1064353981,3.5,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"621",60,"Cooperstown Brewing Company",1062539753,4,3.5,2,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
-"622",60,"Cooperstown Brewing Company",1059804594,2.5,3,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
-"623",60,"Cooperstown Brewing Company",1058720228,4.5,3.5,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
-"624",60,"Cooperstown Brewing Company",1054556065,4.5,4,3,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
-"625",60,"Cooperstown Brewing Company",1048000336,3,3.5,4,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"626",60,"Cooperstown Brewing Company",1029765131,2.5,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
-"627",60,"Cooperstown Brewing Company",1022009779,4.5,3.5,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
-"628",60,"Cooperstown Brewing Company",1018670522,3.5,4,4,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+60,"Cooperstown Brewing Company",1093036966,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1014331041,3.5,3.5,3.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1003836659,5,4,5,"English Stout",4,5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1097717948,4.5,4,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1048695889,3,3,4,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1068728742,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1067361157,4.5,3,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1222229589,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1020089280,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1018670632,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1001343421,4,4,4,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1322801036,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1317581093,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1313004327,3.5,3.5,3,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1168049158,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1311381617,3,3.5,3.5,"American Pale Ale (APA)",4,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1311190741,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1299241235,3.5,3.5,4.5,"American Pale Ale (APA)",3.5,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1298314473,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1291759161,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1283901572,3.5,3,3,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1278340679,3.5,3,4,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1275837416,3.5,3.5,3,"American Pale Ale (APA)",3.5,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1259366244,4,4,3,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1250565411,4,3.5,4.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1246613919,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1241486425,4,3,2.5,"American Pale Ale (APA)",4,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1241302006,4,3,3,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1241043572,4,3.5,3,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1239310344,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1236388778,2.5,3,3,"American Pale Ale (APA)",2,2,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1233687003,3,3,3,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1225224749,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1224898385,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1224793532,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1214569421,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1213972969,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1209179093,2,2.5,2,"American Pale Ale (APA)",2.5,2,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1207708978,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1206930658,3,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1201289726,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1199094362,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1197745193,2,4,3.5,"American Pale Ale (APA)",4,1.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1196980024,3,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1195470403,4,3.5,4,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1191456181,4,4,4.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1191175556,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1163916825,4,3,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1190112204,4,5,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1180062138,4,4,4,"American Pale Ale (APA)",4.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1178026704,2,3,3.5,"American Pale Ale (APA)",3,2,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1175052804,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1174076351,3,3,4,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1173131806,4,4,4,"American Pale Ale (APA)",4,4.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1172537438,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1170036947,4,3.5,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1157831361,4,3,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1155702541,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1154136156,3.5,3.5,3,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1154044090,4.5,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1152849509,3.5,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1147481411,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1145328869,4,3,2.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1137273088,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1134264783,3,3.5,4,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1127861006,3,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1119057817,1.5,4,4.5,"American Pale Ale (APA)",3,1.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1114654850,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1109452953,2.5,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1100905415,4,4,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1100904978,3.5,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1100753946,2.5,3,2.5,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1100214344,2,3,3,"American Pale Ale (APA)",3,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1098496309,3.5,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1096406275,4,4,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1094852408,3.5,3,3,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1093356088,4,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1092189078,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1091068634,3,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1085175587,4,3.5,3,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1084225814,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1083122717,3,3,4,"American Pale Ale (APA)",2.5,2.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1080676727,4,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1079836482,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1079830787,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1079827679,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1073507941,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1072977985,3.5,4,4,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1070829941,4,3.5,4,"American Pale Ale (APA)",3,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1064584857,2.5,2.5,4,"American Pale Ale (APA)",3,2,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1064354309,3.5,3,3,"American Pale Ale (APA)",3,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1063320466,4,4,4,"American Pale Ale (APA)",4,3.5,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1062617303,3.5,3,2,"American Pale Ale (APA)",2.5,3,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1057877849,3,3.5,4.5,"American Pale Ale (APA)",2,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1054557321,4,3,4,"American Pale Ale (APA)",4,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1050745880,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1047920030,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1041323246,4,4,3.5,"American Pale Ale (APA)",3,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1029598164,4,4,4,"American Pale Ale (APA)",3.5,4,"Old Slugger",5.5,1598
+60,"Cooperstown Brewing Company",1033273951,4.5,3.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1032772721,4,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1018003612,4.5,3.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1017534845,4,3.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1321044496,3,3,4,"English Stout",2,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1320011886,3.5,3.5,3,"English Stout",2,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1318638731,3,3.5,2.5,"English Stout",2.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1313545967,2.5,2.5,3,"English Stout",2.5,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1311269234,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1304100974,3.5,3,3.5,"English Stout",3.5,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1299808760,4,4,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1298466249,4,3.5,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1292990043,3.5,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1292383811,2,2.5,3,"English Stout",2,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1287545845,4.5,4,3.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1287010746,3,4,4,"English Stout",2,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1285552031,3,3,3.5,"English Stout",2,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1278427495,3.5,3.5,4.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1276227609,3.5,3.5,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1264531937,4,3.5,3.5,"English Stout",4.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1258129904,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1255911838,4,4,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1254869741,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1247628931,3.5,4,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1244073546,2.5,4.5,4,"English Stout",2,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1243125368,4,3.5,3,"English Stout",4,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1241403869,3,4,3.5,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1231622076,3,3,4,"English Stout",3.5,2,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1227575707,3,3,2.5,"English Stout",2.5,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1224898637,3.5,4,4,"English Stout",4.5,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1223946338,4,3.5,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1217597262,4.5,4,3.5,"English Stout",3.5,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1214569143,3.5,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1214331831,4,4,3.5,"English Stout",4,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1214319697,2.5,3,3,"English Stout",2,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1211499482,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1210629063,4,4.5,4,"English Stout",2.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1209524918,2,3,2.5,"English Stout",1.5,2,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1207703186,3.5,2.5,3,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1207099340,1,2.5,2.5,"English Stout",1.5,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1201800337,2,3,3.5,"English Stout",2.5,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1201044498,3,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1197865892,4,3,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1196982504,3.5,3.5,3.5,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1242095538,3.5,3.5,4,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1194125259,3.5,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1191349832,3.5,4,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1190259976,4,3.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1190255576,4,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1186938992,3,3,4,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1173153790,3.5,3,3,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1170375773,4.5,4,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1169687319,3,3,4,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1164737563,1,3,3.5,"English Stout",2,1,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1164554484,4,4.5,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1136464312,3,3,4,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1160261182,4,4.5,4,"English Stout",4,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1157915053,3.5,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1155176573,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1153967246,3.5,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1151626257,3,2.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1149036640,3.5,4,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1146614247,4,4,4,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1145415439,4,3.5,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1240626554,3,2,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1133569356,3.5,3.5,4.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1133322413,3.5,3.5,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1133112963,3,3,4,"English Stout",2.5,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1131669841,3.5,4,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1122947570,4,3.5,4.5,"English Stout",3.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1118983712,4.5,4,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1109095891,3,3,3.5,"English Stout",3.5,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1104964877,4,3,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1099194732,3.5,3,3.5,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1090204310,4,4,4,"English Stout",4.5,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1089086963,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1089054117,3,3.5,3,"English Stout",3,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1086656128,1,2,2,"English Stout",1,1.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1085605791,4,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1083025168,4,3.5,4,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1079980332,3.5,4,4.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1079835122,3.5,3.5,4,"English Stout",3,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1079666934,2.5,3.5,3.5,"English Stout",3,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1079405204,3.5,3.5,4.5,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1076270193,4.5,3.5,4,"English Stout",3.5,4.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1074042775,1.5,2,2,"English Stout",2,2,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1072978671,3.5,4,4,"English Stout",3,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1070845066,4.5,4,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1064254573,3,3,4,"English Stout",3,2.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1064212763,2.5,3,4,"English Stout",2.5,3,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1054666820,4,3,4,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1048452084,4,3.5,4,"English Stout",4,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1041325833,4,4,4.5,"English Stout",4,4,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1039035934,1,2,3,"English Stout",1,1,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1033542767,4,3.5,3.5,"English Stout",3.5,3.5,"Strike Out Stout",4.6,178
+60,"Cooperstown Brewing Company",1085490353,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1085267527,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1078873870,4.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1078702526,4,4,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1072978492,2.5,3,2.5,"English India Pale Ale (IPA)",2.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1070830150,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1070680358,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1064975511,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1064342654,3,3,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1062619498,3.5,3,2.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1058467285,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1054653927,4,4,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1052851359,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1041322864,4,4,3.5,"English India Pale Ale (IPA)",3,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1039553332,1.5,3,3,"English India Pale Ale (IPA)",1.5,1.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1030749832,3,4,3,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1023114372,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1005434677,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1001343533,4,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1319996698,3,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1314066658,3.5,4,3.5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1313031925,2.5,3,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1311196442,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1304100283,3.5,3.5,3.5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1299210459,4,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1234408300,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1298897539,4,3,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1297801741,4,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1275934174,3,3.5,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1265589293,3.5,4,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1261283526,4,4,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1259370172,4,3,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1258131263,4.5,3.5,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1250349574,3.5,3,3,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1246585567,2.5,3,3.5,"English India Pale Ale (IPA)",2,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1244235154,3,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1232675566,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1232236780,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1226102356,4,3.5,4,"English India Pale Ale (IPA)",4,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1224897988,1.5,2.5,3,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1223580234,4,4.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1220027566,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1219622194,2,2,3.5,"English India Pale Ale (IPA)",3.5,2,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1218574792,3.5,4,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1213973248,4,3.5,3.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1211676278,2,2,4,"English India Pale Ale (IPA)",2.5,2,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1209083852,4,4,4.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1206845847,3,3.5,4,"English India Pale Ale (IPA)",2.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1204341691,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1199826346,4,3,3,"English India Pale Ale (IPA)",4,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1196982046,2,3.5,4,"English India Pale Ale (IPA)",2.5,2,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1194725083,2,2,3,"English India Pale Ale (IPA)",2,2,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1194569308,3,2.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1171221607,3,3,3.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1192265468,4,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1190681608,2.5,3,4,"English India Pale Ale (IPA)",3.5,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1190112495,4,3.5,5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1189049818,3.5,3.5,5,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1182120355,2.5,3,3,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1176398063,4.5,4.5,4,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1174534834,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1174245510,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1170774212,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1170214995,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1169818228,4,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1168195240,3,3.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1164744840,4,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1163722608,2.5,2.5,4,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1162417755,3,3,4,"English India Pale Ale (IPA)",2.5,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1161972872,2.5,3.5,3.5,"English India Pale Ale (IPA)",3,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1161635907,2.5,1.5,4.5,"English India Pale Ale (IPA)",2.5,1.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1158630988,3.5,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1157832900,4,3,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1155102200,3.5,2.5,4,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1154663274,2,3.5,3.5,"English India Pale Ale (IPA)",3,2,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1154136824,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1154116247,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1153435307,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1150585395,4.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1149821327,1,2,3.5,"English India Pale Ale (IPA)",2,1,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1149038485,4,4,3.5,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1119935723,3.5,3.5,4,"American Brown Ale",3,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1145332377,2.5,3,3.5,"English India Pale Ale (IPA)",4,2.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1144974452,3.5,3,3,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1140917843,3.5,3.5,4.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1134434798,3.5,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1132946543,4.5,5,4.5,"English India Pale Ale (IPA)",4.5,5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1132713751,3.5,4,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1128747443,4.5,3.5,4.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1126659659,3,3,3.5,"English India Pale Ale (IPA)",3,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1118753824,4,3.5,4,"American Brown Ale",4,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1124410262,3,2.5,3.5,"English India Pale Ale (IPA)",3,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1123040350,4,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1119234501,4,4,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1115934677,3.5,3.5,3,"English India Pale Ale (IPA)",3,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1114824784,3.5,3,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1113609376,4.5,4,4,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1111017882,3.5,3,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1109096165,3.5,3.5,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1099879112,3.5,3.5,3.5,"English India Pale Ale (IPA)",4,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1098898314,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1097187123,4,3,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1094077866,3,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1093563112,3.5,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1092334635,3.5,3.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1092117980,4,3.5,4,"English India Pale Ale (IPA)",3.5,4,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1089603269,4,3,4,"English India Pale Ale (IPA)",4,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1088716655,3.5,3.5,4,"English India Pale Ale (IPA)",4.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1088644227,4.5,3,4.5,"English India Pale Ale (IPA)",2.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1087765320,4,3.5,3.5,"English India Pale Ale (IPA)",4.5,3.5,"Back Yard India Pale Ale",6.1,1599
+60,"Cooperstown Brewing Company",1259532401,3,3.5,3,"American Brown Ale",3.5,3,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1259202336,3.5,4,4,"American Brown Ale",3.5,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1117583271,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1257815893,4,4.5,3.5,"American Brown Ale",4.5,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1255911459,4,3.5,3,"American Brown Ale",2.5,2.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1242952470,4,4.5,3.5,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1225651673,2,2,4.5,"American Brown Ale",2,2,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1214318814,3.5,3.5,3,"American Brown Ale",3.5,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1213508439,4,3.5,4,"American Brown Ale",3,4.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1201208530,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1180842302,4,3.5,3,"American Brown Ale",4,3,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1163740567,4,4,3.5,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1153965395,4,3.5,3.5,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1153275162,4,4,4,"American Brown Ale",4,4,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1113261313,3.5,4,4,"American Brown Ale",3.5,3.5,"Striker",NA,23111
+60,"Cooperstown Brewing Company",1114478485,4,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1112053935,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1111719792,3.5,3.5,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1110823933,3.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1109079617,4,3.5,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1099960465,3.5,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1099708119,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1095712898,3.5,3.5,4,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1091764890,4.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1070856886,4,4,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1089176224,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1086573936,4,4,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1085605652,3.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1085004105,4,3.5,4,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1084409296,4.5,4,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1080695989,3.5,4,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1079812993,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1074465136,4,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1072978586,3.5,4,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1072355988,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1070845216,4,3,4,"English Porter",3,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1067208172,3.5,3,5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1064843871,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1064342550,3.5,3,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1064212429,4,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1062001916,3,4,3.5,"English Porter",4,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1054712450,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1051643720,4,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1049731979,4,4.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1046377273,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1041321428,4,4.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1038950009,4,4,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1034539435,4.5,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1033294371,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1032502727,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1018670449,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1014237711,3,3,3,"English Porter",3,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1005606207,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1001343745,4,4,5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1324424245,4,4,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1323312366,4,4,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1320009200,4,3.5,4,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1317983597,4,3.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1317269744,4,4.5,4,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1315890565,4.5,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1313890385,4.5,4,4.5,"English Porter",4,5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1313457267,4,4,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1312777312,4,4.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1311273430,4,4,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1307693176,3.5,5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1304100482,4,3.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1301841439,3.5,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1301700641,4,3.5,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1295486324,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1290400841,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1287457678,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1275936128,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1264545463,4,4,3.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1259628893,3.5,3.5,3.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1257550788,4.5,4,4,"English Porter",4.5,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1250650676,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1249244372,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1240529739,3,4,4.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1237505027,4,4,4,"English Porter",4,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1230583985,3.5,3,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1229987777,4.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1227134380,3.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1224898110,3.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1224795953,3,3.5,4.5,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1223942466,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1220695378,1.5,3,3,"English Porter",1,2.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1220027655,3.5,4,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1214701342,2.5,3.5,2.5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1214592609,4,3.5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1214319270,3.5,3.5,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1213378351,4,4,3.5,"English Porter",3,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1212282905,3.5,3.5,4.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1210643908,3,3.5,3,"English Porter",3,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1209523261,4,3.5,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1207103057,4.5,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1202839561,4.5,3.5,3,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1202425754,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1201209614,4.5,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1200366627,3.5,3.5,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1199094245,4,3.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1196981560,4,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1196919808,4.5,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1196458368,3.5,3,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1195253201,3.5,4,3.5,"English Porter",3,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1191188374,4,4,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1190463451,4,4,4.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1189474555,2.5,2,3.5,"English Porter",3.5,3,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1189129845,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1148431475,4,4.5,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1187751791,4,4,3,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1186492044,3.5,4,4.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1185467506,3.5,4,3.5,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1182207477,4.5,2.5,3.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1180182298,3.5,4,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1177539478,3.5,4,4,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1169174893,4,3.5,4,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1168139476,4,3.5,4,"English Porter",4,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1167245409,3,1.5,1.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1148171359,4,4.5,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1164414909,4.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1160254550,4,4,4,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1157834841,4,3.5,3.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1154985125,4.5,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1154138171,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1153925247,3.5,3.5,3.5,"English Porter",3.5,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1152758941,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1151883498,4,4,4.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1151626642,3.5,3.5,3,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1150935236,4.5,3.5,4.5,"English Porter",4.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1048874235,3,4,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1146778786,4,4.5,4,"English Porter",3,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1146513552,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1145334130,4,4.5,3.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1142530025,4,4,4,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1136464861,4,4,4.5,"English Porter",4,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1133743007,4,4,2,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1132968277,4.5,4.5,4.5,"English Porter",4,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1125332512,4,3.5,4,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1124853312,3,3,3.5,"English Porter",3,2.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1304100834,4,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1123598591,3.5,4,4,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1120005530,4,4.5,3.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1119162429,4,3.5,3.5,"English Porter",3.5,4.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1116123013,3.5,4,4.5,"English Porter",3,3.5,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1114989510,4,4,3.5,"English Porter",3.5,4,"Benchwarmer Porter",6.3,176
+60,"Cooperstown Brewing Company",1081560539,4,4.5,3.5,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1080789398,4,4.5,4.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1080709341,3,2.5,3,"English Strong Ale",3,2.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1072978081,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1070844912,4,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1069729195,3.5,4,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1067189950,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1066885817,4.5,4.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1064342592,3.5,4,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1063993526,4,3.5,4,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1062788922,4,4,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1061170915,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1055781161,3.5,3,4,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1054555452,3.5,4,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1039034561,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1020088421,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1003505176,5,5,5,"English Strong Ale",5,5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1320803041,4,3.5,3.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1320548631,3.5,3.5,3.5,"English Strong Ale",3,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1320011373,4,4,3.5,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1317588540,4,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1314151519,3,4,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1313453579,3.5,3.5,3.5,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1312760323,2.5,3.5,3,"English Strong Ale",2.5,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1306468658,2,3.5,4,"English Strong Ale",3,2,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1303169357,3,3.5,3,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1301696022,2.5,3,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1300052543,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1298695791,4.5,4,3.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1298335629,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1297739928,4,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1285350999,4,4,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1280011459,4,4.5,4.5,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1279556787,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1278551612,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1277511161,3,3.5,4,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1276790015,3.5,3,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1267593639,3.5,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1264910614,3,3,3.5,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1253592665,4,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1250392554,4.5,4.5,4,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1245890058,4,3,3.5,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1245528467,4.5,4.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1244925567,4,3.5,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1238735770,1.5,2.5,2.5,"English Strong Ale",2,2,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1235607320,2,3,3,"English Strong Ale",2,2.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1232677262,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1227683299,3.5,3.5,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1226887404,3.5,4.5,3.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1225649999,4,4,3,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1224898469,4.5,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1215258463,4,4,2.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1214319035,3.5,4,3.5,"English Strong Ale",3.5,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1213507824,3.5,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1212777072,3.5,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1212707018,4,3,3,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1210384693,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1196980775,3,3.5,4,"English Strong Ale",2.5,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1194225426,3.5,3.5,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1193270521,3,3,4,"English Strong Ale",3,3,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1192435768,4.5,4,3.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1191725321,4,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1189517193,4,4,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1151321590,4.5,4,4.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1189046934,4,3.5,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1184016494,4,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1182825138,2.5,2.5,5,"English Strong Ale",3.5,2.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1180014220,4,4,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1179701309,2.5,3,3.5,"English Strong Ale",2.5,2,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1179547959,3.5,4.5,4.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1178816286,1.5,3,3.5,"English Strong Ale",3,1.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1173757204,4,4,4,"English Strong Ale",3.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1166833602,4.5,4,4,"English Strong Ale",4.5,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1166489252,4.5,3.5,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1164943899,4.5,4,3.5,"English Strong Ale",5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1164232395,4,4,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1160700423,4,3.5,4.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1160699669,3,3,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1160025264,3.5,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1159329356,4,4,3,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1155160068,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1154092286,3,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1152669615,4,4,4,"English Strong Ale",4.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1149123487,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1148432065,4,4,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1145330336,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1141783415,4,3.5,4,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1140993512,4,4,3,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1132614164,4.5,4,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1123809747,4,4.5,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1119154531,4.5,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1115426021,3.5,3.5,4,"English Strong Ale",3.5,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1115345706,3.5,5,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1115169107,3.5,3.5,3.5,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1108878200,3.5,3.5,3.5,"English Strong Ale",3.5,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1108664312,3,3.5,3.5,"English Strong Ale",3,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1104463005,4,4,4,"English Strong Ale",4,5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1101718046,4.5,4.5,4.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1098663426,3,4,3,"English Strong Ale",3,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1098056732,4.5,4,4.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1096498448,4,4,4,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1091929030,4,4.5,4,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1088813443,4.5,3.5,3,"English Strong Ale",4,4,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1088361906,4,4,3.5,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1086038696,3.5,3.5,4,"English Strong Ale",4,3.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1083523217,4,4.5,2.5,"English Strong Ale",4,4.5,"Pride Of Milford Special Ale",7.7,1791
+60,"Cooperstown Brewing Company",1320011084,4,3.5,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1317512285,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1313033192,3,3,3,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1304100636,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1297743285,4,3,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1276790571,2.5,2.5,2.5,"American Blonde Ale",2.5,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1259530579,3.5,4,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1257888518,4.5,4,3,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1207708047,4,4,4,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1257880517,4,3.5,3,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1250349877,4,3.5,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1246575761,2.5,2.5,2,"American Blonde Ale",2,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1239668276,3,3,2.5,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1236892367,4,3.5,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1225650380,2.5,2,2.5,"American Blonde Ale",2.5,2,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1224898282,3.5,3.5,3.5,"American Blonde Ale",3,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1214251116,5,3.5,4.5,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1213493577,3,3,3.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1206220021,3,4,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1204249829,4,3.5,4.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1198307573,4,4,3.5,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1196981163,2.5,3.5,4,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1194379484,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1192992467,4,3.5,4.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1191741953,4,3.5,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1180394073,4,3,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1179368551,4,3.5,4.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1177538244,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1173153334,4,3.5,3,"American Blonde Ale",2.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1172192062,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1168824461,4,3.5,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1167239653,3,1.5,2.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1165976207,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1160089438,3,3.5,4,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1157829707,3,3.5,3,"American Blonde Ale",2,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1153964392,3.5,3.5,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1153521464,3,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1152915021,4,3.5,4,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1151555617,2.5,3,3.5,"American Blonde Ale",2.5,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1145414396,2,2,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1140659681,2.5,3.5,3.5,"American Blonde Ale",2.5,2,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1139836031,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1138312675,3.5,4,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1129285070,2,3,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1114829676,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1114653211,4,4,3,"American Blonde Ale",4,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1111867458,3,3,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1110946442,3.5,3,2.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1107800122,4,3.5,3,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1103074133,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1100058129,3,3.5,3.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1098645028,4,3,3.5,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1064584988,2.5,2.5,4,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1093482685,4,2.5,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1092618123,4,3.5,3.5,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1085521581,4,3,5,"American Blonde Ale",5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1085271069,4,3.5,4,"American Blonde Ale",4,4.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1084227251,3,4,3.5,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1083806221,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1082758850,3,3,3.5,"American Blonde Ale",3,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1079821131,4,3.5,4,"American Blonde Ale",3.5,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1072977879,3.5,3,4,"American Blonde Ale",3.5,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1070830293,3.5,3,3.5,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1070595235,3,3,4,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1064353981,3.5,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1062539753,4,3.5,2,"American Blonde Ale",2.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1059804594,2.5,3,3,"American Blonde Ale",3,2.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1058720228,4.5,3.5,4,"American Blonde Ale",3.5,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1054556065,4.5,4,3,"American Blonde Ale",4,4,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1048000336,3,3.5,4,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1029765131,2.5,3,3,"American Blonde Ale",3,3,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1022009779,4.5,3.5,3.5,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175
+60,"Cooperstown Brewing Company",1018670522,3.5,4,4,"American Blonde Ale",4,3.5,"Nine Man Ale Golden Ale",4.3,175

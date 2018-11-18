@@ -1,715 +1,715 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1924,"DuClaw Brewing Company",1059173231,4,2.5,3,"Belgian Strong Pale Ale",3,4,"Deception",16.4,11739
-"2",1924,"DuClaw Brewing Company",1238373151,4,4,4,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
-"3",1924,"DuClaw Brewing Company",1235309583,4,4,4,"American IPA",4,4,"HELLRAZER",6.2,41620
-"4",1924,"DuClaw Brewing Company",1289356961,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3,"Twisted Kilt",7.5,14128
-"5",1924,"DuClaw Brewing Company",1226500809,4,4.5,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"6",1924,"DuClaw Brewing Company",1289356098,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Mysterium",4.8,44369
-"7",1924,"DuClaw Brewing Company",1156207188,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
-"8",1924,"DuClaw Brewing Company",1326023825,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"9",1924,"DuClaw Brewing Company",1325901903,4.5,4,4,"American Pale Ale (APA)",5,4.5,"Venom",5.6,13871
-"10",1924,"DuClaw Brewing Company",1323667683,3,3,4.5,"American Pale Ale (APA)",4,3,"Venom",5.6,13871
-"11",1924,"DuClaw Brewing Company",1323571009,4,4.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"12",1924,"DuClaw Brewing Company",1321283338,4,4,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
-"13",1924,"DuClaw Brewing Company",1320979901,4,4,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
-"14",1924,"DuClaw Brewing Company",1318347147,4,3,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"15",1924,"DuClaw Brewing Company",1318008537,3.5,4,2.5,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
-"16",1924,"DuClaw Brewing Company",1313190089,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
-"17",1924,"DuClaw Brewing Company",1309221489,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
-"18",1924,"DuClaw Brewing Company",1308863317,4,4,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
-"19",1924,"DuClaw Brewing Company",1307191000,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
-"20",1924,"DuClaw Brewing Company",1306177197,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
-"21",1924,"DuClaw Brewing Company",1305756953,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"22",1924,"DuClaw Brewing Company",1304832138,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
-"23",1924,"DuClaw Brewing Company",1302738761,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
-"24",1924,"DuClaw Brewing Company",1300648810,4,4,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
-"25",1924,"DuClaw Brewing Company",1298472640,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
-"26",1924,"DuClaw Brewing Company",1294318943,5,4,5,"American Pale Ale (APA)",4.5,5,"Venom",5.6,13871
-"27",1924,"DuClaw Brewing Company",1289357109,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
-"28",1924,"DuClaw Brewing Company",1285049323,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
-"29",1924,"DuClaw Brewing Company",1264103431,4,4,4.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"30",1924,"DuClaw Brewing Company",1255463271,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"31",1924,"DuClaw Brewing Company",1242756725,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"32",1924,"DuClaw Brewing Company",1238947043,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
-"33",1924,"DuClaw Brewing Company",1166398012,5,4,3.5,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
-"34",1924,"DuClaw Brewing Company",1238860154,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
-"35",1924,"DuClaw Brewing Company",1208540595,5,4.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Venom",5.6,13871
-"36",1924,"DuClaw Brewing Company",1202943801,4,3.5,5,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
-"37",1924,"DuClaw Brewing Company",1201664663,3,1.5,4.5,"American Pale Ale (APA)",3,3,"Venom",5.6,13871
-"38",1924,"DuClaw Brewing Company",1198948039,4.5,4,3,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
-"39",1924,"DuClaw Brewing Company",1197485040,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
-"40",1924,"DuClaw Brewing Company",1197337140,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"41",1924,"DuClaw Brewing Company",1193667227,4,3,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"42",1924,"DuClaw Brewing Company",1192800289,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
-"43",1924,"DuClaw Brewing Company",1192800010,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
-"44",1924,"DuClaw Brewing Company",1181094011,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"45",1924,"DuClaw Brewing Company",1177953885,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
-"46",1924,"DuClaw Brewing Company",1151767975,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
-"47",1924,"DuClaw Brewing Company",1144290641,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
-"48",1924,"DuClaw Brewing Company",1143830385,4.5,4.5,5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"49",1924,"DuClaw Brewing Company",1140897882,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
-"50",1924,"DuClaw Brewing Company",1138505888,4,3.5,4,"American Pale Ale (APA)",2.5,3.5,"Venom",5.6,13871
-"51",1924,"DuClaw Brewing Company",1131914351,3,3,4,"American Pale Ale (APA)",3,3,"Venom",5.6,13871
-"52",1924,"DuClaw Brewing Company",1131853036,3,3.5,4,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
-"53",1924,"DuClaw Brewing Company",1125368812,4,4.5,4,"American Pale Ale (APA)",4.5,5,"Venom",5.6,13871
-"54",1924,"DuClaw Brewing Company",1123945471,4.5,4,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"55",1924,"DuClaw Brewing Company",1117637911,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
-"56",1924,"DuClaw Brewing Company",1278987938,3.5,3.5,4,"Altbier",4,3,"Pax Nemesis",11,58180
-"57",1924,"DuClaw Brewing Company",1105073880,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"58",1924,"DuClaw Brewing Company",1099756275,5,4.5,4.5,"American Pale Ale (APA)",5,5,"Venom",5.6,13871
-"59",1924,"DuClaw Brewing Company",1099594201,4,4,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
-"60",1924,"DuClaw Brewing Company",1088697302,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"61",1924,"DuClaw Brewing Company",1088458401,4,4,4.5,"American Pale Ale (APA)",4.5,3.5,"Venom",5.6,13871
-"62",1924,"DuClaw Brewing Company",1086662272,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"63",1924,"DuClaw Brewing Company",1084321665,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
-"64",1924,"DuClaw Brewing Company",1072919630,4.5,3,3,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
-"65",1924,"DuClaw Brewing Company",1276290324,3,3.5,3.5,"Altbier",4,3.5,"Pax Nemesis",11,58180
-"66",1924,"DuClaw Brewing Company",1067819825,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
-"67",1924,"DuClaw Brewing Company",1067815544,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
-"68",1924,"DuClaw Brewing Company",1310415761,2.5,2.5,3,"Altbier",3,2,"Pax Nemesis",11,58180
-"69",1924,"DuClaw Brewing Company",1298473240,3.5,3.5,3.5,"Altbier",3.5,3.5,"Pax Nemesis",11,58180
-"70",1924,"DuClaw Brewing Company",1296355516,2,3.5,3,"Altbier",3,2.5,"Pax Nemesis",11,58180
-"71",1924,"DuClaw Brewing Company",1296066502,2,2.5,4,"Altbier",3.5,2.5,"Pax Nemesis",11,58180
-"72",1924,"DuClaw Brewing Company",1296059913,2,3,3.5,"Altbier",3.5,2.5,"Pax Nemesis",11,58180
-"73",1924,"DuClaw Brewing Company",1286333003,4,4.5,4,"Altbier",4,4.5,"Pax Nemesis",11,58180
-"74",1924,"DuClaw Brewing Company",1285203020,3.5,3.5,4,"Altbier",4,4,"Pax Nemesis",11,58180
-"75",1924,"DuClaw Brewing Company",1279323389,4,3.5,4,"Altbier",3.5,4.5,"Pax Nemesis",11,58180
-"76",1924,"DuClaw Brewing Company",1276289307,3,3.5,3.5,"Altbier",3.5,3.5,"Pax Nemesis",11,58180
-"77",1924,"DuClaw Brewing Company",1274026263,3,2.5,2.5,"Altbier",2.5,3,"Pax Nemesis",11,58180
-"78",1924,"DuClaw Brewing Company",1273677213,4,4,3.5,"Altbier",4,4,"Pax Nemesis",11,58180
-"79",1924,"DuClaw Brewing Company",1273427890,4,4,4.5,"Altbier",4.5,4.5,"Pax Nemesis",11,58180
-"80",1924,"DuClaw Brewing Company",1324426503,4.5,4,3.5,"American Strong Ale",4.5,4.5,"Colossus",21.92,48881
-"81",1924,"DuClaw Brewing Company",1317726352,4,4,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
-"82",1924,"DuClaw Brewing Company",1317610318,4,4,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
-"83",1924,"DuClaw Brewing Company",1316978115,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
-"84",1924,"DuClaw Brewing Company",1314574794,3.5,3.5,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
-"85",1924,"DuClaw Brewing Company",1243815791,4,4,4.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"86",1924,"DuClaw Brewing Company",1314065501,3.5,3.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"87",1924,"DuClaw Brewing Company",1310800411,4.5,3,2.5,"American Strong Ale",4,3,"Colossus",21.92,48881
-"88",1924,"DuClaw Brewing Company",1310316204,4,3.5,4.5,"American Strong Ale",3.5,4,"Colossus",21.92,48881
-"89",1924,"DuClaw Brewing Company",1310255557,4,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"90",1924,"DuClaw Brewing Company",1310093847,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
-"91",1924,"DuClaw Brewing Company",1309375859,4.5,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"92",1924,"DuClaw Brewing Company",1309146656,4,4.5,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
-"93",1924,"DuClaw Brewing Company",1238947262,4,4,4,"American IPA",3.5,4,"HELLRAZER",6.2,41620
-"94",1924,"DuClaw Brewing Company",1308578295,4,4.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"95",1924,"DuClaw Brewing Company",1308363173,4.5,4.5,4.5,"American Strong Ale",4.5,4.5,"Colossus",21.92,48881
-"96",1924,"DuClaw Brewing Company",1302703551,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
-"97",1924,"DuClaw Brewing Company",1298473144,4,4,3.5,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
-"98",1924,"DuClaw Brewing Company",1297565443,3.5,4,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
-"99",1924,"DuClaw Brewing Company",1297492322,4.5,4.5,4,"American Strong Ale",4.5,5,"Colossus",21.92,48881
-"100",1924,"DuClaw Brewing Company",1296702657,4.5,4,4.5,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"101",1924,"DuClaw Brewing Company",1249842665,1,2.5,2,"American Strong Ale",2.5,3.5,"Colossus",21.92,48881
-"102",1924,"DuClaw Brewing Company",1293941479,3,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"103",1924,"DuClaw Brewing Company",1288027200,5,4,3.5,"American Strong Ale",3,5,"Colossus",21.92,48881
-"104",1924,"DuClaw Brewing Company",1285457749,1.5,2,4,"American Strong Ale",3,1,"Colossus",21.92,48881
-"105",1924,"DuClaw Brewing Company",1282172153,5,4.5,4,"American Strong Ale",4.5,5,"Colossus",21.92,48881
-"106",1924,"DuClaw Brewing Company",1276836418,3.5,4,3.5,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"107",1924,"DuClaw Brewing Company",1274920830,4.5,3.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"108",1924,"DuClaw Brewing Company",1274920812,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
-"109",1924,"DuClaw Brewing Company",1273677548,2.5,4.5,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
-"110",1924,"DuClaw Brewing Company",1273076265,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
-"111",1924,"DuClaw Brewing Company",1271030464,4,4,4,"American Strong Ale",5,4,"Colossus",21.92,48881
-"112",1924,"DuClaw Brewing Company",1269632971,4,4,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"113",1924,"DuClaw Brewing Company",1269609851,3.5,4,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
-"114",1924,"DuClaw Brewing Company",1269577348,3,4,4,"American Strong Ale",4,5,"Colossus",21.92,48881
-"115",1924,"DuClaw Brewing Company",1265957224,2.5,4,4,"American Strong Ale",4,3.5,"Colossus",21.92,48881
-"116",1924,"DuClaw Brewing Company",1243749469,3,3.5,4,"American Strong Ale",4,4,"Colossus",21.92,48881
-"117",1924,"DuClaw Brewing Company",1238893861,3.5,3.5,4,"American Strong Ale",4,4,"Colossus",21.92,48881
-"118",1924,"DuClaw Brewing Company",1238768944,4.5,4.5,4.5,"American Strong Ale",4.5,4,"Colossus",21.92,48881
-"119",1924,"DuClaw Brewing Company",1238680017,4,3.5,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
-"120",1924,"DuClaw Brewing Company",1325080245,4,4,3.5,"Munich Dunkel Lager",4,4.5,"31.0",5.1,39473
-"121",1924,"DuClaw Brewing Company",1320358362,3,3.5,3.5,"Munich Dunkel Lager",3,3,"31.0",5.1,39473
-"122",1924,"DuClaw Brewing Company",1318944652,4,4,3.5,"Munich Dunkel Lager",3.5,4,"31.0",5.1,39473
-"123",1924,"DuClaw Brewing Company",1294075582,3.5,3,4,"Munich Dunkel Lager",4,3.5,"31.0",5.1,39473
-"124",1924,"DuClaw Brewing Company",1234728513,3,3,3,"Munich Dunkel Lager",4,3,"31.0",5.1,39473
-"125",1924,"DuClaw Brewing Company",1234656892,3,3.5,3.5,"Munich Dunkel Lager",3.5,3.5,"31.0",5.1,39473
-"126",1924,"DuClaw Brewing Company",1194205778,3.5,3.5,3.5,"Munich Dunkel Lager",3.5,4,"31.0",5.1,39473
-"127",1924,"DuClaw Brewing Company",1298472732,3.5,3.5,3.5,"American Double / Imperial Pilsner",3.5,3.5,"Snake Oil",7,24807
-"128",1924,"DuClaw Brewing Company",1224712811,5,3,4,"American Double / Imperial Pilsner",4,4.5,"Snake Oil",7,24807
-"129",1924,"DuClaw Brewing Company",1217033303,4,4,4.5,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
-"130",1924,"DuClaw Brewing Company",1211244883,4.5,4,4,"American Double / Imperial Pilsner",3,4.5,"Snake Oil",7,24807
-"131",1924,"DuClaw Brewing Company",1147268557,4,3,4,"American Double / Imperial Pilsner",3,3.5,"Snake Oil",7,24807
-"132",1924,"DuClaw Brewing Company",1144453743,4,3.5,4,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
-"133",1924,"DuClaw Brewing Company",1144373802,3.5,3.5,3.5,"American Double / Imperial Pilsner",4,3.5,"Snake Oil",7,24807
-"134",1924,"DuClaw Brewing Company",1144290745,3.5,3,4,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
-"135",1924,"DuClaw Brewing Company",1127104290,4,3.5,3.5,"American Double / Imperial Pilsner",4.5,4.5,"Snake Oil",7,24807
-"136",1924,"DuClaw Brewing Company",1122680968,4.5,4,4.5,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
-"137",1924,"DuClaw Brewing Company",1121606639,4,3.5,4,"American Double / Imperial Pilsner",3.5,4,"Snake Oil",7,24807
-"138",1924,"DuClaw Brewing Company",1289355473,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Kangaroo Love",NA,12169
-"139",1924,"DuClaw Brewing Company",1251732568,3,3,3,"American Adjunct Lager",3,3,"Kangaroo Love",NA,12169
-"140",1924,"DuClaw Brewing Company",1242755092,4.5,3.5,3,"American Adjunct Lager",3.5,4,"Kangaroo Love",NA,12169
-"141",1924,"DuClaw Brewing Company",1238441766,4,3,3,"American Adjunct Lager",3.5,3.5,"Kangaroo Love",NA,12169
-"142",1924,"DuClaw Brewing Company",1224714258,4,3,3,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
-"143",1924,"DuClaw Brewing Company",1217032846,4,3.5,4,"American Adjunct Lager",4,3.5,"Kangaroo Love",NA,12169
-"144",1924,"DuClaw Brewing Company",1172622661,4,3,3,"American Adjunct Lager",4.5,3.5,"Kangaroo Love",NA,12169
-"145",1924,"DuClaw Brewing Company",1150509300,4,4,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
-"146",1924,"DuClaw Brewing Company",1118761257,4,3.5,4,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
-"147",1924,"DuClaw Brewing Company",1117662784,4,3.5,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
-"148",1924,"DuClaw Brewing Company",1113923930,4,3,4,"American Adjunct Lager",3.5,4,"Kangaroo Love",NA,12169
-"149",1924,"DuClaw Brewing Company",1098900104,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
-"150",1924,"DuClaw Brewing Company",1061352017,4.5,3.5,4,"American Adjunct Lager",4,3.5,"Kangaroo Love",NA,12169
-"151",1924,"DuClaw Brewing Company",1289355321,3.5,3.5,3.5,"American IPA",3.5,3,"HELLRAZER",6.2,41620
-"152",1924,"DuClaw Brewing Company",1255463089,4,3.5,4,"American IPA",4,3.5,"HELLRAZER",6.2,41620
-"153",1924,"DuClaw Brewing Company",1254022651,4,3.5,3.5,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
-"154",1924,"DuClaw Brewing Company",1249349962,3.5,3.5,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
-"155",1924,"DuClaw Brewing Company",1242756363,4,4,3.5,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
-"156",1924,"DuClaw Brewing Company",1234728814,4,3.5,4,"American IPA",4,4,"HELLRAZER",6.2,41620
-"157",1924,"DuClaw Brewing Company",1234656198,4,4,4,"American IPA",4,3.5,"HELLRAZER",6.2,41620
-"158",1924,"DuClaw Brewing Company",1224714525,4,4.5,4,"American IPA",4,4.5,"HELLRAZER",6.2,41620
-"159",1924,"DuClaw Brewing Company",1224546839,4.5,4,4.5,"American IPA",4,4.5,"HELLRAZER",6.2,41620
-"160",1924,"DuClaw Brewing Company",1217877777,4,4,4,"American IPA",3.5,4,"HELLRAZER",6.2,41620
-"161",1924,"DuClaw Brewing Company",1214676743,3.5,4,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
-"162",1924,"DuClaw Brewing Company",1214177870,4,3.5,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
-"163",1924,"DuClaw Brewing Company",1210547623,4,3.5,3.5,"American IPA",4,3.5,"HELLRAZER",6.2,41620
-"164",1924,"DuClaw Brewing Company",1205776692,4,3.5,3.5,"American IPA",4,4,"HELLRAZER",6.2,41620
-"165",1924,"DuClaw Brewing Company",1289355063,4,4,4,"American Brown Ale",4,4,"Consecration",5.5,43103
-"166",1924,"DuClaw Brewing Company",1252541085,4,4,4,"American Brown Ale",4,4.5,"Consecration",5.5,43103
-"167",1924,"DuClaw Brewing Company",1251731308,3.5,3.5,4,"American Brown Ale",3.5,3.5,"Consecration",5.5,43103
-"168",1924,"DuClaw Brewing Company",1224713386,3,3,4,"American Brown Ale",4,4,"Consecration",5.5,43103
-"169",1924,"DuClaw Brewing Company",1221348878,4,3.5,4,"American Brown Ale",4,3.5,"Consecration",5.5,43103
-"170",1924,"DuClaw Brewing Company",1219543931,4.5,4,4,"American Brown Ale",4,4.5,"Consecration",5.5,43103
-"171",1924,"DuClaw Brewing Company",1217877536,4,4,3,"American Brown Ale",3.5,3.5,"Consecration",5.5,43103
-"172",1924,"DuClaw Brewing Company",1213808152,3,3,3.5,"American Brown Ale",3,2,"Consecration",5.5,43103
-"173",1924,"DuClaw Brewing Company",1212850660,4.5,5,4.5,"American Brown Ale",4,4.5,"Consecration",5.5,43103
-"174",1924,"DuClaw Brewing Company",1325299658,3.5,4,4,"American Porter",2.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"175",1924,"DuClaw Brewing Company",1324690674,3.5,4,4,"American Porter",2.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"176",1924,"DuClaw Brewing Company",1324683870,4,4.5,4,"American Porter",3.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"177",1924,"DuClaw Brewing Company",1324610701,3,3.5,3,"American Porter",3,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"178",1924,"DuClaw Brewing Company",1323486658,3.5,3,4,"American Porter",3,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"179",1924,"DuClaw Brewing Company",1323312860,4.5,4,5,"American Porter",4.5,5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"180",1924,"DuClaw Brewing Company",1321321498,4.5,4.5,4,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"181",1924,"DuClaw Brewing Company",1321208627,4.5,3.5,4.5,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"182",1924,"DuClaw Brewing Company",1321131351,4.5,4.5,4,"American Porter",5,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"183",1924,"DuClaw Brewing Company",1319994158,4.5,4.5,4,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"184",1924,"DuClaw Brewing Company",1219544292,4.5,4,4.5,"Schwarzbier",4,4.5,"Blackout",5,42146
-"185",1924,"DuClaw Brewing Company",1319156719,4,4,4,"American Porter",4,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"186",1924,"DuClaw Brewing Company",1318983132,4,3.5,4,"American Porter",4,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"187",1924,"DuClaw Brewing Company",1318789840,4,4,4,"American Porter",3.5,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"188",1924,"DuClaw Brewing Company",1318478854,4,3.5,4,"American Porter",4,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"189",1924,"DuClaw Brewing Company",1318102803,3.5,4,4,"American Porter",3.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"190",1924,"DuClaw Brewing Company",1317784460,4,5,4.5,"American Porter",3.5,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"191",1924,"DuClaw Brewing Company",1315743069,4,3.5,3.5,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"192",1924,"DuClaw Brewing Company",1315692094,4,4,3.5,"American Porter",4,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
-"193",1924,"DuClaw Brewing Company",1217033755,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Blackout",5,42146
-"194",1924,"DuClaw Brewing Company",1209694836,4,3,4,"Schwarzbier",4,4,"Blackout",5,42146
-"195",1924,"DuClaw Brewing Company",1208101561,4,4,4,"Schwarzbier",3,3.5,"Blackout",5,42146
-"196",1924,"DuClaw Brewing Company",1134868940,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3,"Deception",16.4,11739
-"197",1924,"DuClaw Brewing Company",1104359294,5,5,5,"Belgian Strong Pale Ale",4.5,4.5,"Deception",16.4,11739
-"198",1924,"DuClaw Brewing Company",1091394791,3.5,4.5,4,"Belgian Strong Pale Ale",3.5,4,"Deception",16.4,11739
-"199",1924,"DuClaw Brewing Company",1091195030,4,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Deception",16.4,11739
-"200",1924,"DuClaw Brewing Company",1060733740,3.5,5,4,"Belgian Strong Pale Ale",4.5,4.5,"Deception",16.4,11739
-"201",1924,"DuClaw Brewing Company",1224712498,4,3.5,3,"Scotch Ale / Wee Heavy",3,4,"Twisted Kilt",7.5,14128
-"202",1924,"DuClaw Brewing Company",1224549060,4,4.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
-"203",1924,"DuClaw Brewing Company",1192802169,3,4,3.5,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
-"204",1924,"DuClaw Brewing Company",1191457574,3.5,3.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
-"205",1924,"DuClaw Brewing Company",1191264362,3.5,3.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Twisted Kilt",7.5,14128
-"206",1924,"DuClaw Brewing Company",1190481366,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Twisted Kilt",7.5,14128
-"207",1924,"DuClaw Brewing Company",1158618091,3,3,4,"Scotch Ale / Wee Heavy",3,3,"Twisted Kilt",7.5,14128
-"208",1924,"DuClaw Brewing Company",1158320745,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Twisted Kilt",7.5,14128
-"209",1924,"DuClaw Brewing Company",1154088820,2,2.5,4,"Scotch Ale / Wee Heavy",2,2.5,"Twisted Kilt",7.5,14128
-"210",1924,"DuClaw Brewing Company",1131853358,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Twisted Kilt",7.5,14128
-"211",1924,"DuClaw Brewing Company",1131209316,4,4.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Twisted Kilt",7.5,14128
-"212",1924,"DuClaw Brewing Company",1129842653,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Twisted Kilt",7.5,14128
-"213",1924,"DuClaw Brewing Company",1127049245,3.5,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Twisted Kilt",7.5,14128
-"214",1924,"DuClaw Brewing Company",1111437369,4.5,5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Twisted Kilt",7.5,14128
-"215",1924,"DuClaw Brewing Company",1099519412,4,3.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Twisted Kilt",7.5,14128
-"216",1924,"DuClaw Brewing Company",1096084147,4,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Twisted Kilt",7.5,14128
-"217",1924,"DuClaw Brewing Company",1072920128,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Twisted Kilt",7.5,14128
-"218",1924,"DuClaw Brewing Company",1068611993,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Twisted Kilt",7.5,14128
-"219",1924,"DuClaw Brewing Company",1325635018,4,4,4,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"220",1924,"DuClaw Brewing Company",1190481930,3,3.5,3,"Hefeweizen",3.5,3.5,"13 (Thirteen) Degrees",4.8,13872
-"221",1924,"DuClaw Brewing Company",1320860299,2.5,2.5,3,"Hefeweizen",2.5,3,"13 (Thirteen) Degrees",4.8,13872
-"222",1924,"DuClaw Brewing Company",1319306708,3,3.5,3.5,"Hefeweizen",3.5,3.5,"13 (Thirteen) Degrees",4.8,13872
-"223",1924,"DuClaw Brewing Company",1316569216,3.5,4,2.5,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
-"224",1924,"DuClaw Brewing Company",1311294926,4,3.5,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"225",1924,"DuClaw Brewing Company",1307370968,3.5,3.5,3.5,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
-"226",1924,"DuClaw Brewing Company",1282601008,3,2.5,2.5,"Hefeweizen",3,3,"13 (Thirteen) Degrees",4.8,13872
-"227",1924,"DuClaw Brewing Company",1278516391,4.5,3.5,3,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"228",1924,"DuClaw Brewing Company",1278119341,4,4.5,4,"Hefeweizen",4,4.5,"13 (Thirteen) Degrees",4.8,13872
-"229",1924,"DuClaw Brewing Company",1242757151,4,3.5,3,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
-"230",1924,"DuClaw Brewing Company",1184419989,3.5,3.5,3,"Hefeweizen",3,3.5,"13 (Thirteen) Degrees",4.8,13872
-"231",1924,"DuClaw Brewing Company",1120911413,4.5,4,3,"Hefeweizen",4.5,4,"13 (Thirteen) Degrees",4.8,13872
-"232",1924,"DuClaw Brewing Company",1119196333,4,3.5,4,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"233",1924,"DuClaw Brewing Company",1093303117,4.5,4,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"234",1924,"DuClaw Brewing Company",1089821290,4,3.5,3.5,"Hefeweizen",3.5,4,"13 (Thirteen) Degrees",4.8,13872
-"235",1924,"DuClaw Brewing Company",1089568104,4,3.5,4,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
-"236",1924,"DuClaw Brewing Company",1088694690,5,4.5,3.5,"Hefeweizen",4.5,4.5,"13 (Thirteen) Degrees",4.8,13872
-"237",1924,"DuClaw Brewing Company",1088681386,4,3,4,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
-"238",1924,"DuClaw Brewing Company",1067815926,4,4,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
-"239",1924,"DuClaw Brewing Company",1324946011,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Oak Aged Black Jack Stout",8.2,28036
-"240",1924,"DuClaw Brewing Company",1325874775,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Oak Aged Black Jack Stout",8.2,28036
-"241",1924,"DuClaw Brewing Company",1325467375,4.5,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
-"242",1924,"DuClaw Brewing Company",1324247105,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
-"243",1924,"DuClaw Brewing Company",1323836219,4.5,4,3,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
-"244",1924,"DuClaw Brewing Company",1322349319,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
-"245",1924,"DuClaw Brewing Company",1321926342,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
-"246",1924,"DuClaw Brewing Company",1321756468,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
-"247",1924,"DuClaw Brewing Company",1320365340,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Oak Aged Black Jack Stout",8.2,28036
-"248",1924,"DuClaw Brewing Company",1260627506,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
-"249",1924,"DuClaw Brewing Company",1155951290,3.5,4,4,"Russian Imperial Stout",4,3.5,"Oak Aged Black Jack Stout",8.2,28036
-"250",1924,"DuClaw Brewing Company",1323961401,3.5,3,3,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
-"251",1924,"DuClaw Brewing Company",1151969807,4.5,5,4,"Russian Imperial Stout",4.5,4.5,"Oak Aged Black Jack Stout",8.2,28036
-"252",1924,"DuClaw Brewing Company",1147967719,4.5,4.5,4,"Russian Imperial Stout",4.5,4,"Oak Aged Black Jack Stout",8.2,28036
-"253",1924,"DuClaw Brewing Company",1138414901,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
-"254",1924,"DuClaw Brewing Company",1117739856,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"IV",7,23579
-"255",1924,"DuClaw Brewing Company",1116136543,4,4,3.5,"Maibock / Helles Bock",4,4,"IV",7,23579
-"256",1924,"DuClaw Brewing Company",1115666639,4.5,4,4,"Maibock / Helles Bock",4,4,"IV",7,23579
-"257",1924,"DuClaw Brewing Company",1238441320,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
-"258",1924,"DuClaw Brewing Company",1208132502,4.5,4,4.5,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
-"259",1924,"DuClaw Brewing Company",1205947817,4,3.5,3.5,"Irish Dry Stout",3.5,4,"Celtic Fury",5.5,22648
-"260",1924,"DuClaw Brewing Company",1181094649,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
-"261",1924,"DuClaw Brewing Company",1177956511,3.5,3.5,4,"Irish Dry Stout",3,3.5,"Celtic Fury",5.5,22648
-"262",1924,"DuClaw Brewing Company",1175923326,2.5,3.5,4.5,"Irish Dry Stout",2.5,3.5,"Celtic Fury",5.5,22648
-"263",1924,"DuClaw Brewing Company",1174670252,5,4,4,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
-"264",1924,"DuClaw Brewing Company",1150508483,4,4,4,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
-"265",1924,"DuClaw Brewing Company",1142559622,4,4,4,"Irish Dry Stout",4,3.5,"Celtic Fury",5.5,22648
-"266",1924,"DuClaw Brewing Company",1111436307,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
-"267",1924,"DuClaw Brewing Company",1326012025,3.5,3.5,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
-"268",1924,"DuClaw Brewing Company",1325808513,2.5,3,2.5,"American Black Ale",3.5,2.5,"Black Lightning",6.5,67041
-"269",1924,"DuClaw Brewing Company",1323653158,4,3.5,4,"American Black Ale",4,4,"Black Lightning",6.5,67041
-"270",1924,"DuClaw Brewing Company",1321302694,4,3.5,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
-"271",1924,"DuClaw Brewing Company",1320601804,3.5,3.5,4,"American Black Ale",3.5,3,"Black Lightning",6.5,67041
-"272",1924,"DuClaw Brewing Company",1318347718,4,4,4,"American Black Ale",4.5,4.5,"Black Lightning",6.5,67041
-"273",1924,"DuClaw Brewing Company",1317696674,4,4.5,4,"American Black Ale",4.5,4.5,"Black Lightning",6.5,67041
-"274",1924,"DuClaw Brewing Company",1314925206,3.5,3.5,3.5,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
-"275",1924,"DuClaw Brewing Company",1309221278,3.5,3.5,4,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
-"276",1924,"DuClaw Brewing Company",1308875154,4.5,4.5,4.5,"American Black Ale",4,4.5,"Black Lightning",6.5,67041
-"277",1924,"DuClaw Brewing Company",1307190624,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
-"278",1924,"DuClaw Brewing Company",1306170184,2.5,2.5,4,"American Black Ale",3.5,2.5,"Black Lightning",6.5,67041
-"279",1924,"DuClaw Brewing Company",1305041345,3.5,4,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
-"280",1924,"DuClaw Brewing Company",1303844804,4,4,4.5,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
-"281",1924,"DuClaw Brewing Company",1303155288,4,3.5,4,"American Black Ale",3,4,"Black Lightning",6.5,67041
-"282",1924,"DuClaw Brewing Company",1302738531,4,4,4,"American Black Ale",4.5,4,"Black Lightning",6.5,67041
-"283",1924,"DuClaw Brewing Company",1300647519,4,3.5,4,"American Black Ale",4.5,4,"Black Lightning",6.5,67041
-"284",1924,"DuClaw Brewing Company",1300379222,3.5,3,4,"American Black Ale",3,4,"Black Lightning",6.5,67041
-"285",1924,"DuClaw Brewing Company",1299721202,3.5,4.5,3.5,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
-"286",1924,"DuClaw Brewing Company",1309146512,3.5,3.5,4,"American Blonde Ale",3,3.5,"Bare Ass Blonde Ale",5,13873
-"287",1924,"DuClaw Brewing Company",1289354967,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
-"288",1924,"DuClaw Brewing Company",1255462954,3.5,3,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
-"289",1924,"DuClaw Brewing Company",1254022405,2,3,3,"American Blonde Ale",2,2,"Bare Ass Blonde Ale",5,13873
-"290",1924,"DuClaw Brewing Company",1242755906,4,3.5,3.5,"American Blonde Ale",3.5,4,"Bare Ass Blonde Ale",5,13873
-"291",1924,"DuClaw Brewing Company",1238373843,4.5,4,4,"American Blonde Ale",4.5,4.5,"Bare Ass Blonde Ale",5,13873
-"292",1924,"DuClaw Brewing Company",1224711944,4,3,4,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
-"293",1924,"DuClaw Brewing Company",1181094274,3.5,2.5,3.5,"American Blonde Ale",3.5,4,"Bare Ass Blonde Ale",5,13873
-"294",1924,"DuClaw Brewing Company",1177952025,3.5,3.5,3.5,"American Blonde Ale",3,4,"Bare Ass Blonde Ale",5,13873
-"295",1924,"DuClaw Brewing Company",1172623146,4.5,3,4,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
-"296",1924,"DuClaw Brewing Company",1150508834,4,3.5,3.5,"American Blonde Ale",4,3.5,"Bare Ass Blonde Ale",5,13873
-"297",1924,"DuClaw Brewing Company",1146094021,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
-"298",1924,"DuClaw Brewing Company",1088695284,4.5,4,3.5,"American Blonde Ale",4,4.5,"Bare Ass Blonde Ale",5,13873
-"299",1924,"DuClaw Brewing Company",1067816166,4,3.5,3,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
-"300",1924,"DuClaw Brewing Company",1325532666,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
-"301",1924,"DuClaw Brewing Company",1324092824,3,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Mad Bishop",5.8,13870
-"302",1924,"DuClaw Brewing Company",1322256183,3.5,3,3,"Märzen / Oktoberfest",4,3,"Mad Bishop",5.8,13870
-"303",1924,"DuClaw Brewing Company",1321728564,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Mad Bishop",5.8,13870
-"304",1924,"DuClaw Brewing Company",1321051941,3.5,4,4.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
-"305",1924,"DuClaw Brewing Company",1319945342,2,2,2,"Märzen / Oktoberfest",2,2,"Mad Bishop",5.8,13870
-"306",1924,"DuClaw Brewing Company",1319243189,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Mad Bishop",5.8,13870
-"307",1924,"DuClaw Brewing Company",1318114744,2.5,3,4,"Märzen / Oktoberfest",3.5,2,"Mad Bishop",5.8,13870
-"308",1924,"DuClaw Brewing Company",1318006952,3,2.5,3,"Märzen / Oktoberfest",3,3,"Mad Bishop",5.8,13870
-"309",1924,"DuClaw Brewing Company",1317955540,3,3,3,"Märzen / Oktoberfest",3.5,3,"Mad Bishop",5.8,13870
-"310",1924,"DuClaw Brewing Company",1317433531,3.5,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Mad Bishop",5.8,13870
-"311",1924,"DuClaw Brewing Company",1317431112,2,2,3,"Märzen / Oktoberfest",2,1,"Mad Bishop",5.8,13870
-"312",1924,"DuClaw Brewing Company",1316960700,4,4,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
-"313",1924,"DuClaw Brewing Company",1298472923,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
-"314",1924,"DuClaw Brewing Company",1224711358,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Mad Bishop",5.8,13870
-"315",1924,"DuClaw Brewing Company",1224550233,3.5,4.5,4.5,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
-"316",1924,"DuClaw Brewing Company",1199816008,4,4,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
-"317",1924,"DuClaw Brewing Company",1194284826,4,3,4,"Märzen / Oktoberfest",4,3.5,"Mad Bishop",5.8,13870
-"318",1924,"DuClaw Brewing Company",1302641925,3,2.5,4,"American Barleywine",3,3,"Devil's Milk",10.6,13874
-"319",1924,"DuClaw Brewing Company",1193667645,3,3,3.5,"Märzen / Oktoberfest",3,3,"Mad Bishop",5.8,13870
-"320",1924,"DuClaw Brewing Company",1192801325,2,3,3.5,"Märzen / Oktoberfest",3,2.5,"Mad Bishop",5.8,13870
-"321",1924,"DuClaw Brewing Company",1147966193,4.5,4.5,4.5,"Märzen / Oktoberfest",4.5,4,"Mad Bishop",5.8,13870
-"322",1924,"DuClaw Brewing Company",1136155366,3.5,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
-"323",1924,"DuClaw Brewing Company",1135026171,4,4,4,"Märzen / Oktoberfest",4,4.5,"Mad Bishop",5.8,13870
-"324",1924,"DuClaw Brewing Company",1068611451,4.5,4,3.5,"Märzen / Oktoberfest",4,4.5,"Mad Bishop",5.8,13870
-"325",1924,"DuClaw Brewing Company",1067814285,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
-"326",1924,"DuClaw Brewing Company",1324007863,3,3,4,"American Barleywine",3,3,"Devil's Milk",10.6,13874
-"327",1924,"DuClaw Brewing Company",1322710362,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"328",1924,"DuClaw Brewing Company",1319515460,3.5,3.5,4.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"329",1924,"DuClaw Brewing Company",1316364054,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"330",1924,"DuClaw Brewing Company",1313858988,1.5,3,4,"American Barleywine",2,1,"Devil's Milk",10.6,13874
-"331",1924,"DuClaw Brewing Company",1311990445,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"332",1924,"DuClaw Brewing Company",1310867192,3.5,4.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"333",1924,"DuClaw Brewing Company",1310009575,4,3,3,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"334",1924,"DuClaw Brewing Company",1308347478,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"335",1924,"DuClaw Brewing Company",1306460166,4.5,4,4.5,"American Barleywine",4.5,5,"Devil's Milk",10.6,13874
-"336",1924,"DuClaw Brewing Company",1306369153,4,4,4.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"337",1924,"DuClaw Brewing Company",1301088714,4,4.5,5,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
-"338",1924,"DuClaw Brewing Company",1300839669,4,3.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"339",1924,"DuClaw Brewing Company",1300828845,3.5,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"340",1924,"DuClaw Brewing Company",1300234837,3.5,3.5,4,"American Barleywine",4,3,"Devil's Milk",10.6,13874
-"341",1924,"DuClaw Brewing Company",1299898732,4,4.5,4,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
-"342",1924,"DuClaw Brewing Company",1299116525,3.5,3,4,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"343",1924,"DuClaw Brewing Company",1298920960,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"344",1924,"DuClaw Brewing Company",1298697115,4,3.5,3.5,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
-"345",1924,"DuClaw Brewing Company",1298473777,3.5,4,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"346",1924,"DuClaw Brewing Company",1295410145,3,4,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"347",1924,"DuClaw Brewing Company",1288579644,4,4,4,"American Barleywine",4.5,3.5,"Devil's Milk",10.6,13874
-"348",1924,"DuClaw Brewing Company",1287889174,4,4.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"349",1924,"DuClaw Brewing Company",1287044113,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"350",1924,"DuClaw Brewing Company",1284070420,4,4.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"351",1924,"DuClaw Brewing Company",1281740241,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"352",1924,"DuClaw Brewing Company",1280141273,3,3,4,"American Barleywine",4,3,"Devil's Milk",10.6,13874
-"353",1924,"DuClaw Brewing Company",1276256019,4,4.5,3,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"354",1924,"DuClaw Brewing Company",1273690259,3.5,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"355",1924,"DuClaw Brewing Company",1273378523,3.5,3.5,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"356",1924,"DuClaw Brewing Company",1273277068,4,3.5,3.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"357",1924,"DuClaw Brewing Company",1273193295,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"358",1924,"DuClaw Brewing Company",1272856250,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"359",1924,"DuClaw Brewing Company",1272645803,4,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"360",1924,"DuClaw Brewing Company",1272237548,2.5,4.5,3.5,"American Barleywine",2.5,4,"Devil's Milk",10.6,13874
-"361",1924,"DuClaw Brewing Company",1272237414,4.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"362",1924,"DuClaw Brewing Company",1272148087,4,4,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"363",1924,"DuClaw Brewing Company",1270174395,3.5,4.5,3.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"364",1924,"DuClaw Brewing Company",1270173515,3.5,4.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"365",1924,"DuClaw Brewing Company",1268703670,4.5,4,4.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"366",1924,"DuClaw Brewing Company",1268184186,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"367",1924,"DuClaw Brewing Company",1267321506,4,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"368",1924,"DuClaw Brewing Company",1267200936,4.5,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"369",1924,"DuClaw Brewing Company",1266925625,4,4,3.5,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
-"370",1924,"DuClaw Brewing Company",1266722024,4,3,4,"American Barleywine",3.5,4.5,"Devil's Milk",10.6,13874
-"371",1924,"DuClaw Brewing Company",1261877829,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"372",1924,"DuClaw Brewing Company",1261768702,4,4,3.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"373",1924,"DuClaw Brewing Company",1260326885,4,4.5,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"374",1924,"DuClaw Brewing Company",1258725960,4,3.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"375",1924,"DuClaw Brewing Company",1243816212,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"376",1924,"DuClaw Brewing Company",1234718596,3.5,3.5,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
-"377",1924,"DuClaw Brewing Company",1234589794,4,4,4,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"378",1924,"DuClaw Brewing Company",1227166047,4.5,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"379",1924,"DuClaw Brewing Company",1227031587,4.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"380",1924,"DuClaw Brewing Company",1226943173,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"381",1924,"DuClaw Brewing Company",1226889306,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"382",1924,"DuClaw Brewing Company",1219800879,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"383",1924,"DuClaw Brewing Company",1200173624,4.5,3.5,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"384",1924,"DuClaw Brewing Company",1199320800,3.5,3.5,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
-"385",1924,"DuClaw Brewing Company",1196696301,4.5,3.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"386",1924,"DuClaw Brewing Company",1195810982,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
-"387",1924,"DuClaw Brewing Company",1195585655,5,4.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"388",1924,"DuClaw Brewing Company",1183959634,3.5,4,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"389",1924,"DuClaw Brewing Company",1166396964,3.5,3,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
-"390",1924,"DuClaw Brewing Company",1289355967,4,3.5,3.5,"American Amber / Red Ale",3.5,3,"Misfit Red",5.1,13081
-"391",1924,"DuClaw Brewing Company",1165627358,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"392",1924,"DuClaw Brewing Company",1163731338,3,3.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"393",1924,"DuClaw Brewing Company",1131916581,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
-"394",1924,"DuClaw Brewing Company",1131208837,3,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"395",1924,"DuClaw Brewing Company",1122641221,4,4.5,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"396",1924,"DuClaw Brewing Company",1116248854,3.5,4,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
-"397",1924,"DuClaw Brewing Company",1088455402,3.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
-"398",1924,"DuClaw Brewing Company",1081039323,3.5,4.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"399",1924,"DuClaw Brewing Company",1119186986,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
-"400",1924,"DuClaw Brewing Company",1072918866,4,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
-"401",1924,"DuClaw Brewing Company",1070593680,3.5,2.5,4,"American Barleywine",3.5,3,"Devil's Milk",10.6,13874
-"402",1924,"DuClaw Brewing Company",1067816370,4.5,4.5,4,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
-"403",1924,"DuClaw Brewing Company",1320801102,3.5,4.5,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
-"404",1924,"DuClaw Brewing Company",1309727445,3,3,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
-"405",1924,"DuClaw Brewing Company",1301351984,3.5,3.5,3.5,"English Brown Ale",3.5,4.5,"Euphoria",4.8,31653
-"406",1924,"DuClaw Brewing Company",1192802646,3,4.5,3.5,"English Brown Ale",3,3.5,"Euphoria",4.8,31653
-"407",1924,"DuClaw Brewing Company",1154196359,3.5,4,3,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
-"408",1924,"DuClaw Brewing Company",1153671627,4,4,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
-"409",1924,"DuClaw Brewing Company",1152835143,3.5,4.5,4,"English Brown Ale",4,4.5,"Euphoria",4.8,31653
-"410",1924,"DuClaw Brewing Company",1152584939,4,3.5,3.5,"English Brown Ale",4,3.5,"Euphoria",4.8,31653
-"411",1924,"DuClaw Brewing Company",1278798234,4,4,4,"Herbed / Spiced Beer",4,3.5,"Mysterium",4.8,44369
-"412",1924,"DuClaw Brewing Company",1278272519,3,3,3.5,"Herbed / Spiced Beer",3,3,"Mysterium",4.8,44369
-"413",1924,"DuClaw Brewing Company",1252540712,3.5,4,3,"Herbed / Spiced Beer",4,3.5,"Mysterium",4.8,44369
-"414",1924,"DuClaw Brewing Company",1218993438,4,4,4,"Herbed / Spiced Beer",4,4,"Mysterium",4.8,44369
-"415",1924,"DuClaw Brewing Company",1203121688,4,4,4,"American Pale Wheat Ale",3.5,4,"Funk",4.5,12160
-"416",1924,"DuClaw Brewing Company",1181093823,4.5,3,3.5,"American Pale Wheat Ale",4.5,4.5,"Funk",4.5,12160
-"417",1924,"DuClaw Brewing Company",1177953315,3,3,3.5,"American Pale Wheat Ale",3.5,3,"Funk",4.5,12160
-"418",1924,"DuClaw Brewing Company",1175404821,4.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Funk",4.5,12160
-"419",1924,"DuClaw Brewing Company",1172193852,5,4,4,"American Pale Wheat Ale",4.5,4.5,"Funk",4.5,12160
-"420",1924,"DuClaw Brewing Company",1094071558,2,2,2,"American Pale Wheat Ale",2.5,2,"Funk",4.5,12160
-"421",1924,"DuClaw Brewing Company",1304472287,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
-"422",1924,"DuClaw Brewing Company",1061332093,4.5,3.5,3.5,"American Pale Wheat Ale",4,4,"Funk",4.5,12160
-"423",1924,"DuClaw Brewing Company",1325105176,3.5,3.5,3,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
-"424",1924,"DuClaw Brewing Company",1325080801,4,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"425",1924,"DuClaw Brewing Company",1318897833,4.5,4,5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"426",1924,"DuClaw Brewing Company",1318884160,4,3.5,4,"Russian Imperial Stout",4.5,3.5,"Black Jack Imperial Stout",8,19045
-"427",1924,"DuClaw Brewing Company",1317521508,4,4,3.5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"428",1924,"DuClaw Brewing Company",1314938154,4.5,3.5,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
-"429",1924,"DuClaw Brewing Company",1313977073,3,3.5,3,"Russian Imperial Stout",3.5,3,"Black Jack Imperial Stout",8,19045
-"430",1924,"DuClaw Brewing Company",1181094800,2.5,4,4,"Fruit / Vegetable Beer",2.5,2,"Naked Fish",4.6,28938
-"431",1924,"DuClaw Brewing Company",1313859385,2,3,4,"Russian Imperial Stout",1.5,2,"Black Jack Imperial Stout",8,19045
-"432",1924,"DuClaw Brewing Company",1313715018,4,3.5,4,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"433",1924,"DuClaw Brewing Company",1312672953,4.5,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"434",1924,"DuClaw Brewing Company",1311737893,2.5,4,3,"Russian Imperial Stout",2.5,2.5,"Black Jack Imperial Stout",8,19045
-"435",1924,"DuClaw Brewing Company",1309226067,4,3.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"436",1924,"DuClaw Brewing Company",1306367260,4,4,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
-"437",1924,"DuClaw Brewing Company",1305597096,4.5,4.5,4.5,"Russian Imperial Stout",5,4.5,"Black Jack Imperial Stout",8,19045
-"438",1924,"DuClaw Brewing Company",1303917271,4.5,4,5,"Russian Imperial Stout",5,4,"Black Jack Imperial Stout",8,19045
-"439",1924,"DuClaw Brewing Company",1242755548,4,3.5,3.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"440",1924,"DuClaw Brewing Company",1302826391,4,3.5,4.5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"441",1924,"DuClaw Brewing Company",1299878568,3.5,4,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
-"442",1924,"DuClaw Brewing Company",1299548535,3,3,3.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"443",1924,"DuClaw Brewing Company",1298338401,3.5,2.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"444",1924,"DuClaw Brewing Company",1295328045,4,3.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"445",1924,"DuClaw Brewing Company",1294437708,5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"446",1924,"DuClaw Brewing Company",1293768773,3.5,3.5,4,"Russian Imperial Stout",3,3,"Black Jack Imperial Stout",8,19045
-"447",1924,"DuClaw Brewing Company",1292900725,4,4,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"448",1924,"DuClaw Brewing Company",1292736675,4,3.5,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
-"449",1924,"DuClaw Brewing Company",1288551280,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"450",1924,"DuClaw Brewing Company",1286746520,4,3.5,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"451",1924,"DuClaw Brewing Company",1281108168,4,3.5,4,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
-"452",1924,"DuClaw Brewing Company",1280076812,4.5,4.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"453",1924,"DuClaw Brewing Company",1279401453,4,4.5,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"454",1924,"DuClaw Brewing Company",1278107920,4,4,3.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"455",1924,"DuClaw Brewing Company",1276289478,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
-"456",1924,"DuClaw Brewing Company",1274698184,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Black Jack Imperial Stout",8,19045
-"457",1924,"DuClaw Brewing Company",1265206366,2.5,3,4,"Russian Imperial Stout",2.5,3,"Black Jack Imperial Stout",8,19045
-"458",1924,"DuClaw Brewing Company",1264445657,4,3.5,4,"Russian Imperial Stout",4,3,"Black Jack Imperial Stout",8,19045
-"459",1924,"DuClaw Brewing Company",1247327006,1.5,2.5,3,"Russian Imperial Stout",1.5,2,"Black Jack Imperial Stout",8,19045
-"460",1924,"DuClaw Brewing Company",1234590238,4.5,4.5,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"461",1924,"DuClaw Brewing Company",1229378405,4,4.5,4,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
-"462",1924,"DuClaw Brewing Company",1221343944,4.5,4,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"463",1924,"DuClaw Brewing Company",1202944221,5,4,5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"464",1924,"DuClaw Brewing Company",1202681635,4.5,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"465",1924,"DuClaw Brewing Company",1199997024,5,3.5,4,"Russian Imperial Stout",5,4.5,"Black Jack Imperial Stout",8,19045
-"466",1924,"DuClaw Brewing Company",1199815362,4,4,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"467",1924,"DuClaw Brewing Company",1309221646,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
-"468",1924,"DuClaw Brewing Company",1198948282,3,3,3,"Russian Imperial Stout",2.5,3,"Black Jack Imperial Stout",8,19045
-"469",1924,"DuClaw Brewing Company",1171317747,4.5,4,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
-"470",1924,"DuClaw Brewing Company",1166398509,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
-"471",1924,"DuClaw Brewing Company",1154087793,4.5,4.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
-"472",1924,"DuClaw Brewing Company",1136154565,4,4,4.5,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
-"473",1924,"DuClaw Brewing Company",1120910807,4,4,4.5,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
-"474",1924,"DuClaw Brewing Company",1105491444,4.5,5,5,"Russian Imperial Stout",4.5,5,"Black Jack Imperial Stout",8,19045
-"475",1924,"DuClaw Brewing Company",1103727970,4,3.5,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
-"476",1924,"DuClaw Brewing Company",1091394223,5,5,4.5,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
-"477",1924,"DuClaw Brewing Company",1089046999,3.5,3.5,5,"Russian Imperial Stout",5,4,"Black Jack Imperial Stout",8,19045
-"478",1924,"DuClaw Brewing Company",1310328807,4,4,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"479",1924,"DuClaw Brewing Company",1224714021,3.5,3,3,"American Amber / Red Ale",3,3.5,"Misfit Red",5.1,13081
-"480",1924,"DuClaw Brewing Company",1202944591,4,4,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"481",1924,"DuClaw Brewing Company",1199814684,4.5,3,4,"American Amber / Red Ale",3.5,4,"Misfit Red",5.1,13081
-"482",1924,"DuClaw Brewing Company",1197337469,4,3.5,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"483",1924,"DuClaw Brewing Company",1187573759,4.5,3.5,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"484",1924,"DuClaw Brewing Company",1181094474,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
-"485",1924,"DuClaw Brewing Company",1177959667,3,4,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
-"486",1924,"DuClaw Brewing Company",1158542244,4,3,3.5,"American Amber / Red Ale",3.5,4,"Misfit Red",5.1,13081
-"487",1924,"DuClaw Brewing Company",1150509033,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
-"488",1924,"DuClaw Brewing Company",1142906682,3,2.5,3,"American Amber / Red Ale",3,2.5,"Misfit Red",5.1,13081
-"489",1924,"DuClaw Brewing Company",1140614943,5,3.5,4,"American Amber / Red Ale",4,4.5,"Misfit Red",5.1,13081
-"490",1924,"DuClaw Brewing Company",1125368280,3.5,4,4.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"491",1924,"DuClaw Brewing Company",1118171463,4.5,4,4.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
-"492",1924,"DuClaw Brewing Company",1101278643,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
-"493",1924,"DuClaw Brewing Company",1099757317,4,3,5,"American Amber / Red Ale",4.5,4.5,"Misfit Red",5.1,13081
-"494",1924,"DuClaw Brewing Company",1088696825,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
-"495",1924,"DuClaw Brewing Company",1067915748,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
-"496",1924,"DuClaw Brewing Company",1064886502,3.5,2.5,3,"American Amber / Red Ale",3.5,3,"Misfit Red",5.1,13081
-"497",1924,"DuClaw Brewing Company",1324563832,3.5,3.5,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
-"498",1924,"DuClaw Brewing Company",1320888741,3.5,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
-"499",1924,"DuClaw Brewing Company",1317337888,4,4,4.5,"Witbier",3,4,"Sawtooth",5.5,17849
-"500",1924,"DuClaw Brewing Company",1315975446,3.5,3.5,4,"Witbier",4,3.5,"Sawtooth",5.5,17849
-"501",1924,"DuClaw Brewing Company",1315265701,3,3,3,"Witbier",3,3,"Sawtooth",5.5,17849
-"502",1924,"DuClaw Brewing Company",1314413387,3,3,3,"Witbier",2.5,3,"Sawtooth",5.5,17849
-"503",1924,"DuClaw Brewing Company",1311290862,4,4,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
-"504",1924,"DuClaw Brewing Company",1309374389,4,4,4,"Witbier",4,4,"Sawtooth",5.5,17849
-"505",1924,"DuClaw Brewing Company",1309220885,3.5,3.5,3.5,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
-"506",1924,"DuClaw Brewing Company",1306169871,3,3,3.5,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
-"507",1924,"DuClaw Brewing Company",1303742025,4,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
-"508",1924,"DuClaw Brewing Company",1303604629,3.5,3,4,"Witbier",3,3,"Sawtooth",5.5,17849
-"509",1924,"DuClaw Brewing Company",1289356659,4,4,4,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
-"510",1924,"DuClaw Brewing Company",1192801744,3.5,4.5,4,"Witbier",3,3,"Sawtooth",5.5,17849
-"511",1924,"DuClaw Brewing Company",1190480856,4.5,3.5,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
-"512",1924,"DuClaw Brewing Company",1176961005,5,4.5,4.5,"Witbier",4,5,"Sawtooth",5.5,17849
-"513",1924,"DuClaw Brewing Company",1153629416,3.5,3.5,2.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
-"514",1924,"DuClaw Brewing Company",1152065673,4,3.5,4,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
-"515",1924,"DuClaw Brewing Company",1151699591,4,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
-"516",1924,"DuClaw Brewing Company",1086661999,3,3.5,3.5,"Witbier",4,3,"Sawtooth",5.5,17849
-"517",1924,"DuClaw Brewing Company",1305065313,4,4,4.5,"Milk / Sweet Stout",4.5,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
-"518",1924,"DuClaw Brewing Company",1300833460,4,4,3.5,"Milk / Sweet Stout",4.5,4.5,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
-"519",1924,"DuClaw Brewing Company",1300228401,4,3.5,4,"Milk / Sweet Stout",3.5,3.5,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
-"520",1924,"DuClaw Brewing Company",1299721608,4,4,4.5,"Milk / Sweet Stout",4.5,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
-"521",1924,"DuClaw Brewing Company",1299272616,4,4,4,"Milk / Sweet Stout",4,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
-"522",1924,"DuClaw Brewing Company",1323399764,3,3,3,"Fruit / Vegetable Beer",3,3,"Naked Fish",4.6,28938
-"523",1924,"DuClaw Brewing Company",1322020410,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Naked Fish",4.6,28938
-"524",1924,"DuClaw Brewing Company",1317604084,4,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"525",1924,"DuClaw Brewing Company",1316999148,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"526",1924,"DuClaw Brewing Company",1316569574,3.5,4.5,4.5,"Fruit / Vegetable Beer",4,3,"Naked Fish",4.6,28938
-"527",1924,"DuClaw Brewing Company",1315693079,3.5,4,3.5,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
-"528",1924,"DuClaw Brewing Company",1313462747,3.5,4,3.5,"Fruit / Vegetable Beer",3,4,"Naked Fish",4.6,28938
-"529",1924,"DuClaw Brewing Company",1313008252,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"530",1924,"DuClaw Brewing Company",1312236882,4.5,4.5,4,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
-"531",1924,"DuClaw Brewing Company",1312074621,4,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
-"532",1924,"DuClaw Brewing Company",1310275799,4.5,4,4,"Fruit / Vegetable Beer",3,5,"Naked Fish",4.6,28938
-"533",1924,"DuClaw Brewing Company",1308767474,4,4,3.5,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
-"534",1924,"DuClaw Brewing Company",1308515363,3,3.5,3.5,"Fruit / Vegetable Beer",2.5,3,"Naked Fish",4.6,28938
-"535",1924,"DuClaw Brewing Company",1306550434,4,3.5,3.5,"Fruit / Vegetable Beer",4.5,3.5,"Naked Fish",4.6,28938
-"536",1924,"DuClaw Brewing Company",1305136099,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
-"537",1924,"DuClaw Brewing Company",1303427008,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
-"538",1924,"DuClaw Brewing Company",1303364263,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"539",1924,"DuClaw Brewing Company",1300232828,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"540",1924,"DuClaw Brewing Company",1298233642,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"541",1924,"DuClaw Brewing Company",1242757335,4,4,3.5,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
-"542",1924,"DuClaw Brewing Company",1241483502,5,4.5,4.5,"Fruit / Vegetable Beer",4,4.5,"Naked Fish",4.6,28938
-"543",1924,"DuClaw Brewing Company",1208897757,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Naked Fish",4.6,28938
-"544",1924,"DuClaw Brewing Company",1202682970,4.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"545",1924,"DuClaw Brewing Company",1202501027,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"546",1924,"DuClaw Brewing Company",1177957262,3,4.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
-"547",1924,"DuClaw Brewing Company",1173328821,4,3.5,4,"Fruit / Vegetable Beer",3,4.5,"Naked Fish",4.6,28938
-"548",1924,"DuClaw Brewing Company",1165714663,4.5,3.5,4,"Fruit / Vegetable Beer",5,4,"Naked Fish",4.6,28938
-"549",1924,"DuClaw Brewing Company",1158543088,3.5,4,3,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
-"550",1924,"DuClaw Brewing Company",1142207965,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"551",1924,"DuClaw Brewing Company",1142195832,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
-"552",1924,"DuClaw Brewing Company",1140613710,4.5,4,4.5,"Fruit / Vegetable Beer",4,4.5,"Naked Fish",4.6,28938
-"553",1924,"DuClaw Brewing Company",1139453470,4,2.5,4,"Fruit / Vegetable Beer",4,2.5,"Naked Fish",4.6,28938
-"554",1924,"DuClaw Brewing Company",1109105423,4,3.5,4,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
-"555",1924,"DuClaw Brewing Company",1192800894,3.5,3,3.5,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
-"556",1924,"DuClaw Brewing Company",1075863476,4.5,4,4,"Fruit / Vegetable Beer",4,4,"Naked Fish",4.6,28938
-"557",1924,"DuClaw Brewing Company",1075681520,4.5,4,3,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
-"558",1924,"DuClaw Brewing Company",1308364898,4,4,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"559",1924,"DuClaw Brewing Company",1304827138,4,3.5,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
-"560",1924,"DuClaw Brewing Company",1280793413,4,4,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"561",1924,"DuClaw Brewing Company",1217166983,4,4.5,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"562",1924,"DuClaw Brewing Company",1208105452,4,3.5,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"563",1924,"DuClaw Brewing Company",1202760080,5,5,5,"American Porter",4,5,"Bad Moon Porter",5.1,12167
-"564",1924,"DuClaw Brewing Company",1198948131,4,3.5,3,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
-"565",1924,"DuClaw Brewing Company",1187048015,4.5,4.5,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"566",1924,"DuClaw Brewing Company",1186254965,3,3,3,"American Porter",3,2.5,"Bad Moon Porter",5.1,12167
-"567",1924,"DuClaw Brewing Company",1181095164,3,3,4,"American Porter",3,3,"Bad Moon Porter",5.1,12167
-"568",1924,"DuClaw Brewing Company",1177955552,3.5,3.5,4,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"569",1924,"DuClaw Brewing Company",1175923009,3.5,3,3.5,"American Porter",4.5,3.5,"Bad Moon Porter",5.1,12167
-"570",1924,"DuClaw Brewing Company",1156417833,3.5,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"571",1924,"DuClaw Brewing Company",1154196517,4,4,3,"American Porter",4,3.5,"Bad Moon Porter",5.1,12167
-"572",1924,"DuClaw Brewing Company",1151767290,3.5,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"573",1924,"DuClaw Brewing Company",1150508258,4,4,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"574",1924,"DuClaw Brewing Company",1142906280,4,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"575",1924,"DuClaw Brewing Company",1142195198,4.5,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"576",1924,"DuClaw Brewing Company",1140614368,4.5,3.5,5,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"577",1924,"DuClaw Brewing Company",1139707912,4,4,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
-"578",1924,"DuClaw Brewing Company",1131852635,3.5,3.5,3.5,"American Porter",2.5,4,"Bad Moon Porter",5.1,12167
-"579",1924,"DuClaw Brewing Company",1122912691,4.5,4.5,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"580",1924,"DuClaw Brewing Company",1118753072,4.5,4.5,4.5,"American Porter",4,4,"Bad Moon Porter",5.1,12167
-"581",1924,"DuClaw Brewing Company",1117741640,4.5,4.5,4.5,"American Porter",4.5,4.5,"Bad Moon Porter",5.1,12167
-"582",1924,"DuClaw Brewing Company",1107825575,4,4,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
-"583",1924,"DuClaw Brewing Company",1099594405,3.5,4,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"584",1924,"DuClaw Brewing Company",1075041288,4,3.5,4,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
-"585",1924,"DuClaw Brewing Company",1062376215,4.5,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"586",1924,"DuClaw Brewing Company",1242756132,4.5,4,4,"Oatmeal Stout",5,4,"ALCHEMY",5.2,17388
-"587",1924,"DuClaw Brewing Company",1061349248,4,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
-"588",1924,"DuClaw Brewing Company",1298473893,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
-"589",1924,"DuClaw Brewing Company",1289354822,4,4,4,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
-"590",1924,"DuClaw Brewing Company",1278797828,4,4,4,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
-"591",1924,"DuClaw Brewing Company",1254022102,2,3,2.5,"Oatmeal Stout",2,2,"ALCHEMY",5.2,17388
-"592",1924,"DuClaw Brewing Company",1251728505,4,4,4,"Oatmeal Stout",4.5,4.5,"ALCHEMY",5.2,17388
-"593",1924,"DuClaw Brewing Company",1234533355,3.5,3,3.5,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
-"594",1924,"DuClaw Brewing Company",1231177296,4,4,4,"Oatmeal Stout",4.5,4.5,"ALCHEMY",5.2,17388
-"595",1924,"DuClaw Brewing Company",1227029741,4,3.5,3.5,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
-"596",1924,"DuClaw Brewing Company",1226895125,4,3.5,3.5,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
-"597",1924,"DuClaw Brewing Company",1224711675,2.5,4,3,"Oatmeal Stout",3,4,"ALCHEMY",5.2,17388
-"598",1924,"DuClaw Brewing Company",1217034237,3.5,4,3,"Oatmeal Stout",3,4,"ALCHEMY",5.2,17388
-"599",1924,"DuClaw Brewing Company",1214178359,4,4,4,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
-"600",1924,"DuClaw Brewing Company",1199813808,4.5,4.5,4.5,"Oatmeal Stout",4.5,5,"ALCHEMY",5.2,17388
-"601",1924,"DuClaw Brewing Company",1119659473,4,4,4.5,"Oatmeal Stout",4.5,4,"ALCHEMY",5.2,17388
-"602",1924,"DuClaw Brewing Company",1119211151,4,3.5,4.5,"Oatmeal Stout",3.5,4.5,"ALCHEMY",5.2,17388
-"603",1924,"DuClaw Brewing Company",1117742136,5,4.5,4.5,"Oatmeal Stout",4.5,5,"ALCHEMY",5.2,17388
-"604",1924,"DuClaw Brewing Company",1308103447,4.5,4,4,"Wheatwine",4,4,"Misery",10,20392
-"605",1924,"DuClaw Brewing Company",1117637528,4,3.5,4.5,"Oatmeal Stout",3.5,4,"ALCHEMY",5.2,17388
-"606",1924,"DuClaw Brewing Company",1084115306,4,3.5,4,"Oatmeal Stout",4.5,4,"ALCHEMY",5.2,17388
-"607",1924,"DuClaw Brewing Company",1083780277,3,3,3,"Oatmeal Stout",1.5,3,"ALCHEMY",5.2,17388
-"608",1924,"DuClaw Brewing Company",1295668920,4,4,4.5,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
-"609",1924,"DuClaw Brewing Company",1273525908,4,4,4,"American Strong Ale",4,3.5,"Old Flame",7.5,16861
-"610",1924,"DuClaw Brewing Company",1264376502,4,4,4,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
-"611",1924,"DuClaw Brewing Company",1148674996,3,3.5,4,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
-"612",1924,"DuClaw Brewing Company",1142266365,4,4,4,"American Strong Ale",4.5,4,"Old Flame",7.5,16861
-"613",1924,"DuClaw Brewing Company",1140897146,3,3,3.5,"American Strong Ale",4,3.5,"Old Flame",7.5,16861
-"614",1924,"DuClaw Brewing Company",1138488311,2.5,2.5,3,"American Strong Ale",4.5,3.5,"Old Flame",7.5,16861
-"615",1924,"DuClaw Brewing Company",1137035101,4,3.5,4,"American Strong Ale",4.5,4,"Old Flame",7.5,16861
-"616",1924,"DuClaw Brewing Company",1098134939,5,4,4,"American Strong Ale",3.5,4,"Old Flame",7.5,16861
-"617",1924,"DuClaw Brewing Company",1083780740,3,3,3,"American Strong Ale",2.5,2.5,"Old Flame",7.5,16861
-"618",1924,"DuClaw Brewing Company",1325535460,4,4.5,4,"American Double / Imperial Stout",5,4,"Retribution",10.5,74122
-"619",1924,"DuClaw Brewing Company",1324919745,4,4,3.5,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
-"620",1924,"DuClaw Brewing Company",1324911815,4,4,4,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
-"621",1924,"DuClaw Brewing Company",1324434224,4,4,4,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
-"622",1924,"DuClaw Brewing Company",1308886221,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"623",1924,"DuClaw Brewing Company",1323632907,3,4,3.5,"American Double / Imperial Stout",4,3,"Retribution",10.5,74122
-"624",1924,"DuClaw Brewing Company",1323407083,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
-"625",1924,"DuClaw Brewing Company",1323313523,4,5,5,"American Double / Imperial Stout",5,5,"Retribution",10.5,74122
-"626",1924,"DuClaw Brewing Company",1323049001,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Retribution",10.5,74122
-"627",1924,"DuClaw Brewing Company",1322716905,3,4,4,"American Double / Imperial Stout",3,3.5,"Retribution",10.5,74122
-"628",1924,"DuClaw Brewing Company",1321549751,3,3.5,4,"American Double / Imperial Stout",3.5,3.5,"Retribution",10.5,74122
-"629",1924,"DuClaw Brewing Company",1318968820,4,3.5,4.5,"American Double / Imperial Stout",4,3.5,"Retribution",10.5,74122
-"630",1924,"DuClaw Brewing Company",1318943917,4,4,4,"American Double / Imperial Stout",4.5,4,"Retribution",10.5,74122
-"631",1924,"DuClaw Brewing Company",1318885829,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
-"632",1924,"DuClaw Brewing Company",1318785884,2.5,4,4.5,"American Double / Imperial Stout",4,2,"Retribution",10.5,74122
-"633",1924,"DuClaw Brewing Company",1318615757,4,4,4,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
-"634",1924,"DuClaw Brewing Company",1318903877,4,3,4,"Wheatwine",3.5,4,"Misery",10,20392
-"635",1924,"DuClaw Brewing Company",1315007675,4,4,3.5,"Wheatwine",3.5,4,"Misery",10,20392
-"636",1924,"DuClaw Brewing Company",1314016315,3.5,4.5,4,"Wheatwine",4,3.5,"Misery",10,20392
-"637",1924,"DuClaw Brewing Company",1313976217,4,3.5,4,"Wheatwine",3.5,3.5,"Misery",10,20392
-"638",1924,"DuClaw Brewing Company",1312940155,4,4,4,"Wheatwine",4.5,4.5,"Misery",10,20392
-"639",1924,"DuClaw Brewing Company",1312460525,4,4,4,"Wheatwine",4,4,"Misery",10,20392
-"640",1924,"DuClaw Brewing Company",1311036698,4,4,3.5,"Wheatwine",4,4,"Misery",10,20392
-"641",1924,"DuClaw Brewing Company",1309653495,4,4,4,"Wheatwine",4,4,"Misery",10,20392
-"642",1924,"DuClaw Brewing Company",1309124828,3,3,3.5,"Wheatwine",3,3.5,"Misery",10,20392
-"643",1924,"DuClaw Brewing Company",1309114848,2.5,3,4,"Wheatwine",3,2.5,"Misery",10,20392
-"644",1924,"DuClaw Brewing Company",1306463228,3.5,4,3,"Wheatwine",4,3.5,"Misery",10,20392
-"645",1924,"DuClaw Brewing Company",1302304522,4.5,4,4,"Wheatwine",4.5,4.5,"Misery",10,20392
-"646",1924,"DuClaw Brewing Company",1301596597,4.5,4,3,"Wheatwine",4,5,"Misery",10,20392
-"647",1924,"DuClaw Brewing Company",1301281232,4.5,4,4.5,"Wheatwine",4.5,4,"Misery",10,20392
-"648",1924,"DuClaw Brewing Company",1299277242,3,4,3.5,"Wheatwine",3.5,4,"Misery",10,20392
-"649",1924,"DuClaw Brewing Company",1298911407,3.5,4,3.5,"Wheatwine",4,4.5,"Misery",10,20392
-"650",1924,"DuClaw Brewing Company",1298473313,4,4,3.5,"Wheatwine",3.5,3.5,"Misery",10,20392
-"651",1924,"DuClaw Brewing Company",1154086720,3.5,4,3.5,"Wheatwine",4,3.5,"Misery",10,20392
-"652",1924,"DuClaw Brewing Company",1116137383,4.5,4.5,4.5,"Wheatwine",4,4.5,"Misery",10,20392
-"653",1924,"DuClaw Brewing Company",1099134870,4,4.5,4,"Wheatwine",4.5,5,"Misery",10,20392
-"654",1924,"DuClaw Brewing Company",1098122293,4,5,4.5,"Wheatwine",4.5,4,"Misery",10,20392
-"655",1924,"DuClaw Brewing Company",1181094978,4,4,3.5,"Doppelbock",4,4.5,"Enigma",8,36518
-"656",1924,"DuClaw Brewing Company",1180673879,3,3,3,"Doppelbock",3,3,"Enigma",8,36518
-"657",1924,"DuClaw Brewing Company",1178332736,3.5,4,4,"Doppelbock",3.5,4,"Enigma",8,36518
-"658",1924,"DuClaw Brewing Company",1177958362,3.5,4,3.5,"Doppelbock",3,4,"Enigma",8,36518
-"659",1924,"DuClaw Brewing Company",1177553395,4,4,4.5,"Doppelbock",4,4.5,"Enigma",8,36518
-"660",1924,"DuClaw Brewing Company",1202500079,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"661",1924,"DuClaw Brewing Company",1325080585,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"662",1924,"DuClaw Brewing Company",1322360543,4,4.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"663",1924,"DuClaw Brewing Company",1315743301,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"664",1924,"DuClaw Brewing Company",1313620656,4,3,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"665",1924,"DuClaw Brewing Company",1310072744,2.5,3,3.5,"American Double / Imperial IPA",2,2,"Serum",9,15860
-"666",1924,"DuClaw Brewing Company",1309221023,4,4,4,"American Double / Imperial IPA",4.5,4,"Serum",9,15860
-"667",1924,"DuClaw Brewing Company",1308950233,3.5,3,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"668",1924,"DuClaw Brewing Company",1307335096,3,3.5,4,"American Double / Imperial IPA",3,3,"Serum",9,15860
-"669",1924,"DuClaw Brewing Company",1304827835,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Serum",9,15860
-"670",1924,"DuClaw Brewing Company",1304205329,4,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"671",1924,"DuClaw Brewing Company",1303603677,4.5,4,4,"American Double / Imperial IPA",4,5,"Serum",9,15860
-"672",1924,"DuClaw Brewing Company",1302727749,4,5,3,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
-"673",1924,"DuClaw Brewing Company",1301838337,2,3,3.5,"American Double / Imperial IPA",3,2.5,"Serum",9,15860
-"674",1924,"DuClaw Brewing Company",1301529683,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"675",1924,"DuClaw Brewing Company",1200863729,4.5,4,3.5,"American Double / Imperial IPA",4.5,4,"Serum",9,15860
-"676",1924,"DuClaw Brewing Company",1301019008,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
-"677",1924,"DuClaw Brewing Company",1300833859,3,3.5,3.5,"American Double / Imperial IPA",3,3.5,"Serum",9,15860
-"678",1924,"DuClaw Brewing Company",1300234204,3,3.5,3.5,"American Double / Imperial IPA",3,3.5,"Serum",9,15860
-"679",1924,"DuClaw Brewing Company",1299979257,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"680",1924,"DuClaw Brewing Company",1298773067,4,2,5,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"681",1924,"DuClaw Brewing Company",1298685341,3,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
-"682",1924,"DuClaw Brewing Company",1298472855,4,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"683",1924,"DuClaw Brewing Company",1297567346,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
-"684",1924,"DuClaw Brewing Company",1297279043,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"685",1924,"DuClaw Brewing Company",1294976366,4,3,2.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"686",1924,"DuClaw Brewing Company",1294320033,3.5,5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"687",1924,"DuClaw Brewing Company",1283043348,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
-"688",1924,"DuClaw Brewing Company",1282439312,3.5,3.5,3,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"689",1924,"DuClaw Brewing Company",1281128691,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
-"690",1924,"DuClaw Brewing Company",1279076368,4,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"691",1924,"DuClaw Brewing Company",1278651663,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Serum",9,15860
-"692",1924,"DuClaw Brewing Company",1278516079,3,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"693",1924,"DuClaw Brewing Company",1226500952,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"694",1924,"DuClaw Brewing Company",1200833836,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"695",1924,"DuClaw Brewing Company",1199814311,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
-"696",1924,"DuClaw Brewing Company",1172623721,4,3.5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"697",1924,"DuClaw Brewing Company",1170583568,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Serum",9,15860
-"698",1924,"DuClaw Brewing Company",1170299266,4.5,3.5,3.5,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
-"699",1924,"DuClaw Brewing Company",1151012647,3.5,4,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
-"700",1924,"DuClaw Brewing Company",1150936987,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"701",1924,"DuClaw Brewing Company",1148818314,2.5,3,3.5,"American Double / Imperial IPA",3,2.5,"Serum",9,15860
-"702",1924,"DuClaw Brewing Company",1148516731,3.5,3.5,4,"American Double / Imperial IPA",3.5,2.5,"Serum",9,15860
-"703",1924,"DuClaw Brewing Company",1094128782,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"704",1924,"DuClaw Brewing Company",1076555008,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
-"705",1924,"DuClaw Brewing Company",1322968821,3,3.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Repent",14.6,25612
-"706",1924,"DuClaw Brewing Company",1226500876,4,4,3.5,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
-"707",1924,"DuClaw Brewing Company",1173193541,2,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Repent",14.6,25612
-"708",1924,"DuClaw Brewing Company",1154089262,3,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
-"709",1924,"DuClaw Brewing Company",1142259233,2.5,3,3,"Belgian Strong Dark Ale",4,3.5,"Repent",14.6,25612
-"710",1924,"DuClaw Brewing Company",1137175140,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
-"711",1924,"DuClaw Brewing Company",1131413538,2.5,3.5,3,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
-"712",1924,"DuClaw Brewing Company",1125960305,4,4.5,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
-"713",1924,"DuClaw Brewing Company",1125709347,4,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
-"714",1924,"DuClaw Brewing Company",1125629654,4.5,5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+1924,"DuClaw Brewing Company",1059173231,4,2.5,3,"Belgian Strong Pale Ale",3,4,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1238373151,4,4,4,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1235309583,4,4,4,"American IPA",4,4,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1289356961,3.5,3.5,3.5,"Scotch Ale / Wee Heavy",3.5,3,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1226500809,4,4.5,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1289356098,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"Mysterium",4.8,44369
+1924,"DuClaw Brewing Company",1156207188,4.5,4,3.5,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1326023825,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1325901903,4.5,4,4,"American Pale Ale (APA)",5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1323667683,3,3,4.5,"American Pale Ale (APA)",4,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1323571009,4,4.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1321283338,4,4,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1320979901,4,4,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1318347147,4,3,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1318008537,3.5,4,2.5,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1313190089,3,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1309221489,3.5,4,4,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1308863317,4,4,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1307191000,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1306177197,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1305756953,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1304832138,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1302738761,4.5,4,4,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1300648810,4,4,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1298472640,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1294318943,5,4,5,"American Pale Ale (APA)",4.5,5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1289357109,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1285049323,4,3.5,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1264103431,4,4,4.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1255463271,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1242756725,4.5,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1238947043,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1166398012,5,4,3.5,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1238860154,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1208540595,5,4.5,3.5,"American Pale Ale (APA)",3.5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1202943801,4,3.5,5,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1201664663,3,1.5,4.5,"American Pale Ale (APA)",3,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1198948039,4.5,4,3,"American Pale Ale (APA)",3,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1197485040,4.5,4,4,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1197337140,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1193667227,4,3,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1192800289,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1192800010,4.5,4,4.5,"American Pale Ale (APA)",4.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1181094011,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1177953885,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1151767975,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1144290641,4,3.5,4,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1143830385,4.5,4.5,5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1140897882,4.5,4.5,4,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1138505888,4,3.5,4,"American Pale Ale (APA)",2.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1131914351,3,3,4,"American Pale Ale (APA)",3,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1131853036,3,3.5,4,"American Pale Ale (APA)",3.5,3,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1125368812,4,4.5,4,"American Pale Ale (APA)",4.5,5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1123945471,4.5,4,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1117637911,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1278987938,3.5,3.5,4,"Altbier",4,3,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1105073880,4.5,4.5,3.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1099756275,5,4.5,4.5,"American Pale Ale (APA)",5,5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1099594201,4,4,4,"American Pale Ale (APA)",4,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1088697302,4.5,4.5,4.5,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1088458401,4,4,4.5,"American Pale Ale (APA)",4.5,3.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1086662272,4,3.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1084321665,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1072919630,4.5,3,3,"American Pale Ale (APA)",4.5,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1276290324,3,3.5,3.5,"Altbier",4,3.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1067819825,4.5,4.5,4,"American Pale Ale (APA)",4,4,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1067815544,4,4.5,4,"American Pale Ale (APA)",4,4.5,"Venom",5.6,13871
+1924,"DuClaw Brewing Company",1310415761,2.5,2.5,3,"Altbier",3,2,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1298473240,3.5,3.5,3.5,"Altbier",3.5,3.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1296355516,2,3.5,3,"Altbier",3,2.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1296066502,2,2.5,4,"Altbier",3.5,2.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1296059913,2,3,3.5,"Altbier",3.5,2.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1286333003,4,4.5,4,"Altbier",4,4.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1285203020,3.5,3.5,4,"Altbier",4,4,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1279323389,4,3.5,4,"Altbier",3.5,4.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1276289307,3,3.5,3.5,"Altbier",3.5,3.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1274026263,3,2.5,2.5,"Altbier",2.5,3,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1273677213,4,4,3.5,"Altbier",4,4,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1273427890,4,4,4.5,"Altbier",4.5,4.5,"Pax Nemesis",11,58180
+1924,"DuClaw Brewing Company",1324426503,4.5,4,3.5,"American Strong Ale",4.5,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1317726352,4,4,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1317610318,4,4,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1316978115,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1314574794,3.5,3.5,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1243815791,4,4,4.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1314065501,3.5,3.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1310800411,4.5,3,2.5,"American Strong Ale",4,3,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1310316204,4,3.5,4.5,"American Strong Ale",3.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1310255557,4,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1310093847,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1309375859,4.5,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1309146656,4,4.5,4,"American Strong Ale",3.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1238947262,4,4,4,"American IPA",3.5,4,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1308578295,4,4.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1308363173,4.5,4.5,4.5,"American Strong Ale",4.5,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1302703551,4,4,4,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1298473144,4,4,3.5,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1297565443,3.5,4,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1297492322,4.5,4.5,4,"American Strong Ale",4.5,5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1296702657,4.5,4,4.5,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1249842665,1,2.5,2,"American Strong Ale",2.5,3.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1293941479,3,4,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1288027200,5,4,3.5,"American Strong Ale",3,5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1285457749,1.5,2,4,"American Strong Ale",3,1,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1282172153,5,4.5,4,"American Strong Ale",4.5,5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1276836418,3.5,4,3.5,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1274920830,4.5,3.5,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1274920812,3.5,3.5,3.5,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1273677548,2.5,4.5,4,"American Strong Ale",4,4.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1273076265,3.5,3.5,4,"American Strong Ale",3.5,3.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1271030464,4,4,4,"American Strong Ale",5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1269632971,4,4,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1269609851,3.5,4,3.5,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1269577348,3,4,4,"American Strong Ale",4,5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1265957224,2.5,4,4,"American Strong Ale",4,3.5,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1243749469,3,3.5,4,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1238893861,3.5,3.5,4,"American Strong Ale",4,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1238768944,4.5,4.5,4.5,"American Strong Ale",4.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1238680017,4,3.5,4,"American Strong Ale",4.5,4,"Colossus",21.92,48881
+1924,"DuClaw Brewing Company",1325080245,4,4,3.5,"Munich Dunkel Lager",4,4.5,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1320358362,3,3.5,3.5,"Munich Dunkel Lager",3,3,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1318944652,4,4,3.5,"Munich Dunkel Lager",3.5,4,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1294075582,3.5,3,4,"Munich Dunkel Lager",4,3.5,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1234728513,3,3,3,"Munich Dunkel Lager",4,3,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1234656892,3,3.5,3.5,"Munich Dunkel Lager",3.5,3.5,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1194205778,3.5,3.5,3.5,"Munich Dunkel Lager",3.5,4,"31.0",5.1,39473
+1924,"DuClaw Brewing Company",1298472732,3.5,3.5,3.5,"American Double / Imperial Pilsner",3.5,3.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1224712811,5,3,4,"American Double / Imperial Pilsner",4,4.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1217033303,4,4,4.5,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1211244883,4.5,4,4,"American Double / Imperial Pilsner",3,4.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1147268557,4,3,4,"American Double / Imperial Pilsner",3,3.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1144453743,4,3.5,4,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1144373802,3.5,3.5,3.5,"American Double / Imperial Pilsner",4,3.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1144290745,3.5,3,4,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1127104290,4,3.5,3.5,"American Double / Imperial Pilsner",4.5,4.5,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1122680968,4.5,4,4.5,"American Double / Imperial Pilsner",4,4,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1121606639,4,3.5,4,"American Double / Imperial Pilsner",3.5,4,"Snake Oil",7,24807
+1924,"DuClaw Brewing Company",1289355473,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1251732568,3,3,3,"American Adjunct Lager",3,3,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1242755092,4.5,3.5,3,"American Adjunct Lager",3.5,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1238441766,4,3,3,"American Adjunct Lager",3.5,3.5,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1224714258,4,3,3,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1217032846,4,3.5,4,"American Adjunct Lager",4,3.5,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1172622661,4,3,3,"American Adjunct Lager",4.5,3.5,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1150509300,4,4,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1118761257,4,3.5,4,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1117662784,4,3.5,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1113923930,4,3,4,"American Adjunct Lager",3.5,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1098900104,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1061352017,4.5,3.5,4,"American Adjunct Lager",4,3.5,"Kangaroo Love",NA,12169
+1924,"DuClaw Brewing Company",1289355321,3.5,3.5,3.5,"American IPA",3.5,3,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1255463089,4,3.5,4,"American IPA",4,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1254022651,4,3.5,3.5,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1249349962,3.5,3.5,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1242756363,4,4,3.5,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1234728814,4,3.5,4,"American IPA",4,4,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1234656198,4,4,4,"American IPA",4,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1224714525,4,4.5,4,"American IPA",4,4.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1224546839,4.5,4,4.5,"American IPA",4,4.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1217877777,4,4,4,"American IPA",3.5,4,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1214676743,3.5,4,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1214177870,4,3.5,4,"American IPA",3.5,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1210547623,4,3.5,3.5,"American IPA",4,3.5,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1205776692,4,3.5,3.5,"American IPA",4,4,"HELLRAZER",6.2,41620
+1924,"DuClaw Brewing Company",1289355063,4,4,4,"American Brown Ale",4,4,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1252541085,4,4,4,"American Brown Ale",4,4.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1251731308,3.5,3.5,4,"American Brown Ale",3.5,3.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1224713386,3,3,4,"American Brown Ale",4,4,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1221348878,4,3.5,4,"American Brown Ale",4,3.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1219543931,4.5,4,4,"American Brown Ale",4,4.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1217877536,4,4,3,"American Brown Ale",3.5,3.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1213808152,3,3,3.5,"American Brown Ale",3,2,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1212850660,4.5,5,4.5,"American Brown Ale",4,4.5,"Consecration",5.5,43103
+1924,"DuClaw Brewing Company",1325299658,3.5,4,4,"American Porter",2.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1324690674,3.5,4,4,"American Porter",2.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1324683870,4,4.5,4,"American Porter",3.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1324610701,3,3.5,3,"American Porter",3,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1323486658,3.5,3,4,"American Porter",3,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1323312860,4.5,4,5,"American Porter",4.5,5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1321321498,4.5,4.5,4,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1321208627,4.5,3.5,4.5,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1321131351,4.5,4.5,4,"American Porter",5,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1319994158,4.5,4.5,4,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1219544292,4.5,4,4.5,"Schwarzbier",4,4.5,"Blackout",5,42146
+1924,"DuClaw Brewing Company",1319156719,4,4,4,"American Porter",4,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1318983132,4,3.5,4,"American Porter",4,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1318789840,4,4,4,"American Porter",3.5,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1318478854,4,3.5,4,"American Porter",4,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1318102803,3.5,4,4,"American Porter",3.5,3.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1317784460,4,5,4.5,"American Porter",3.5,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1315743069,4,3.5,3.5,"American Porter",4,4.5,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1315692094,4,4,3.5,"American Porter",4,4,"H.E.R.O. (Chocolate Peanut Butter Porter)",6,73016
+1924,"DuClaw Brewing Company",1217033755,3.5,3.5,3.5,"Schwarzbier",3.5,3.5,"Blackout",5,42146
+1924,"DuClaw Brewing Company",1209694836,4,3,4,"Schwarzbier",4,4,"Blackout",5,42146
+1924,"DuClaw Brewing Company",1208101561,4,4,4,"Schwarzbier",3,3.5,"Blackout",5,42146
+1924,"DuClaw Brewing Company",1134868940,3.5,3.5,4,"Belgian Strong Pale Ale",3.5,3,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1104359294,5,5,5,"Belgian Strong Pale Ale",4.5,4.5,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1091394791,3.5,4.5,4,"Belgian Strong Pale Ale",3.5,4,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1091195030,4,3,4,"Belgian Strong Pale Ale",3.5,3.5,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1060733740,3.5,5,4,"Belgian Strong Pale Ale",4.5,4.5,"Deception",16.4,11739
+1924,"DuClaw Brewing Company",1224712498,4,3.5,3,"Scotch Ale / Wee Heavy",3,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1224549060,4,4.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1192802169,3,4,3.5,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1191457574,3.5,3.5,4,"Scotch Ale / Wee Heavy",3,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1191264362,3.5,3.5,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1190481366,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1158618091,3,3,4,"Scotch Ale / Wee Heavy",3,3,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1158320745,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1154088820,2,2.5,4,"Scotch Ale / Wee Heavy",2,2.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1131853358,3.5,4,4,"Scotch Ale / Wee Heavy",4,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1131209316,4,4.5,4,"Scotch Ale / Wee Heavy",3.5,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1129842653,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1127049245,3.5,4,4,"Scotch Ale / Wee Heavy",3.5,3.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1111437369,4.5,5,4.5,"Scotch Ale / Wee Heavy",4.5,4.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1099519412,4,3.5,4,"Scotch Ale / Wee Heavy",4.5,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1096084147,4,4,4,"Scotch Ale / Wee Heavy",3.5,4,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1072920128,4,4,4,"Scotch Ale / Wee Heavy",4,4.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1068611993,4.5,4.5,4,"Scotch Ale / Wee Heavy",4.5,4.5,"Twisted Kilt",7.5,14128
+1924,"DuClaw Brewing Company",1325635018,4,4,4,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1190481930,3,3.5,3,"Hefeweizen",3.5,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1320860299,2.5,2.5,3,"Hefeweizen",2.5,3,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1319306708,3,3.5,3.5,"Hefeweizen",3.5,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1316569216,3.5,4,2.5,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1311294926,4,3.5,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1307370968,3.5,3.5,3.5,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1282601008,3,2.5,2.5,"Hefeweizen",3,3,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1278516391,4.5,3.5,3,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1278119341,4,4.5,4,"Hefeweizen",4,4.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1242757151,4,3.5,3,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1184419989,3.5,3.5,3,"Hefeweizen",3,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1120911413,4.5,4,3,"Hefeweizen",4.5,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1119196333,4,3.5,4,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1093303117,4.5,4,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1089821290,4,3.5,3.5,"Hefeweizen",3.5,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1089568104,4,3.5,4,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1088694690,5,4.5,3.5,"Hefeweizen",4.5,4.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1088681386,4,3,4,"Hefeweizen",4,3.5,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1067815926,4,4,3.5,"Hefeweizen",4,4,"13 (Thirteen) Degrees",4.8,13872
+1924,"DuClaw Brewing Company",1324946011,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1325874775,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1325467375,4.5,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1324247105,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1323836219,4.5,4,3,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1322349319,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1321926342,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1321756468,4,4.5,4,"Russian Imperial Stout",4,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1320365340,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1260627506,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1155951290,3.5,4,4,"Russian Imperial Stout",4,3.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1323961401,3.5,3,3,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1151969807,4.5,5,4,"Russian Imperial Stout",4.5,4.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1147967719,4.5,4.5,4,"Russian Imperial Stout",4.5,4,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1138414901,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Oak Aged Black Jack Stout",8.2,28036
+1924,"DuClaw Brewing Company",1117739856,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"IV",7,23579
+1924,"DuClaw Brewing Company",1116136543,4,4,3.5,"Maibock / Helles Bock",4,4,"IV",7,23579
+1924,"DuClaw Brewing Company",1115666639,4.5,4,4,"Maibock / Helles Bock",4,4,"IV",7,23579
+1924,"DuClaw Brewing Company",1238441320,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1208132502,4.5,4,4.5,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1205947817,4,3.5,3.5,"Irish Dry Stout",3.5,4,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1181094649,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1177956511,3.5,3.5,4,"Irish Dry Stout",3,3.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1175923326,2.5,3.5,4.5,"Irish Dry Stout",2.5,3.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1174670252,5,4,4,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1150508483,4,4,4,"Irish Dry Stout",4,4.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1142559622,4,4,4,"Irish Dry Stout",4,3.5,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1111436307,4,4,4,"Irish Dry Stout",4,4,"Celtic Fury",5.5,22648
+1924,"DuClaw Brewing Company",1326012025,3.5,3.5,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1325808513,2.5,3,2.5,"American Black Ale",3.5,2.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1323653158,4,3.5,4,"American Black Ale",4,4,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1321302694,4,3.5,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1320601804,3.5,3.5,4,"American Black Ale",3.5,3,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1318347718,4,4,4,"American Black Ale",4.5,4.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1317696674,4,4.5,4,"American Black Ale",4.5,4.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1314925206,3.5,3.5,3.5,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1309221278,3.5,3.5,4,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1308875154,4.5,4.5,4.5,"American Black Ale",4,4.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1307190624,3.5,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1306170184,2.5,2.5,4,"American Black Ale",3.5,2.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1305041345,3.5,4,4,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1303844804,4,4,4.5,"American Black Ale",4,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1303155288,4,3.5,4,"American Black Ale",3,4,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1302738531,4,4,4,"American Black Ale",4.5,4,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1300647519,4,3.5,4,"American Black Ale",4.5,4,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1300379222,3.5,3,4,"American Black Ale",3,4,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1299721202,3.5,4.5,3.5,"American Black Ale",3.5,3.5,"Black Lightning",6.5,67041
+1924,"DuClaw Brewing Company",1309146512,3.5,3.5,4,"American Blonde Ale",3,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1289354967,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1255462954,3.5,3,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1254022405,2,3,3,"American Blonde Ale",2,2,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1242755906,4,3.5,3.5,"American Blonde Ale",3.5,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1238373843,4.5,4,4,"American Blonde Ale",4.5,4.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1224711944,4,3,4,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1181094274,3.5,2.5,3.5,"American Blonde Ale",3.5,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1177952025,3.5,3.5,3.5,"American Blonde Ale",3,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1172623146,4.5,3,4,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1150508834,4,3.5,3.5,"American Blonde Ale",4,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1146094021,4,3.5,3.5,"American Blonde Ale",3.5,3.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1088695284,4.5,4,3.5,"American Blonde Ale",4,4.5,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1067816166,4,3.5,3,"American Blonde Ale",4,4,"Bare Ass Blonde Ale",5,13873
+1924,"DuClaw Brewing Company",1325532666,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1324092824,3,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1322256183,3.5,3,3,"Märzen / Oktoberfest",4,3,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1321728564,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1321051941,3.5,4,4.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1319945342,2,2,2,"Märzen / Oktoberfest",2,2,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1319243189,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1318114744,2.5,3,4,"Märzen / Oktoberfest",3.5,2,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1318006952,3,2.5,3,"Märzen / Oktoberfest",3,3,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1317955540,3,3,3,"Märzen / Oktoberfest",3.5,3,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1317433531,3.5,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1317431112,2,2,3,"Märzen / Oktoberfest",2,1,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1316960700,4,4,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1298472923,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1224711358,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1224550233,3.5,4.5,4.5,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1199816008,4,4,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1194284826,4,3,4,"Märzen / Oktoberfest",4,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1302641925,3,2.5,4,"American Barleywine",3,3,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1193667645,3,3,3.5,"Märzen / Oktoberfest",3,3,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1192801325,2,3,3.5,"Märzen / Oktoberfest",3,2.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1147966193,4.5,4.5,4.5,"Märzen / Oktoberfest",4.5,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1136155366,3.5,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1135026171,4,4,4,"Märzen / Oktoberfest",4,4.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1068611451,4.5,4,3.5,"Märzen / Oktoberfest",4,4.5,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1067814285,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Mad Bishop",5.8,13870
+1924,"DuClaw Brewing Company",1324007863,3,3,4,"American Barleywine",3,3,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1322710362,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1319515460,3.5,3.5,4.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1316364054,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1313858988,1.5,3,4,"American Barleywine",2,1,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1311990445,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1310867192,3.5,4.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1310009575,4,3,3,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1308347478,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1306460166,4.5,4,4.5,"American Barleywine",4.5,5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1306369153,4,4,4.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1301088714,4,4.5,5,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1300839669,4,3.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1300828845,3.5,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1300234837,3.5,3.5,4,"American Barleywine",4,3,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1299898732,4,4.5,4,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1299116525,3.5,3,4,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1298920960,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1298697115,4,3.5,3.5,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1298473777,3.5,4,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1295410145,3,4,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1288579644,4,4,4,"American Barleywine",4.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1287889174,4,4.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1287044113,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1284070420,4,4.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1281740241,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1280141273,3,3,4,"American Barleywine",4,3,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1276256019,4,4.5,3,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1273690259,3.5,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1273378523,3.5,3.5,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1273277068,4,3.5,3.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1273193295,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1272856250,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1272645803,4,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1272237548,2.5,4.5,3.5,"American Barleywine",2.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1272237414,4.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1272148087,4,4,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1270174395,3.5,4.5,3.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1270173515,3.5,4.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1268703670,4.5,4,4.5,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1268184186,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1267321506,4,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1267200936,4.5,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1266925625,4,4,3.5,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1266722024,4,3,4,"American Barleywine",3.5,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1261877829,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1261768702,4,4,3.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1260326885,4,4.5,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1258725960,4,3.5,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1243816212,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1234718596,3.5,3.5,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1234589794,4,4,4,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1227166047,4.5,4,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1227031587,4.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1226943173,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1226889306,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1219800879,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1200173624,4.5,3.5,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1199320800,3.5,3.5,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1196696301,4.5,3.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1195810982,4,4,4,"American Barleywine",4,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1195585655,5,4.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1183959634,3.5,4,3,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1166396964,3.5,3,3.5,"American Barleywine",3.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1289355967,4,3.5,3.5,"American Amber / Red Ale",3.5,3,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1165627358,3.5,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1163731338,3,3.5,4.5,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1131916581,4,4,4,"American Barleywine",4,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1131208837,3,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1122641221,4,4.5,4,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1116248854,3.5,4,4,"American Barleywine",4,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1088455402,3.5,4,4.5,"American Barleywine",4.5,4,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1081039323,3.5,4.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1119186986,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1072918866,4,3.5,4,"American Barleywine",3.5,3.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1070593680,3.5,2.5,4,"American Barleywine",3.5,3,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1067816370,4.5,4.5,4,"American Barleywine",4.5,4.5,"Devil's Milk",10.6,13874
+1924,"DuClaw Brewing Company",1320801102,3.5,4.5,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1309727445,3,3,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1301351984,3.5,3.5,3.5,"English Brown Ale",3.5,4.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1192802646,3,4.5,3.5,"English Brown Ale",3,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1154196359,3.5,4,3,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1153671627,4,4,3.5,"English Brown Ale",3.5,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1152835143,3.5,4.5,4,"English Brown Ale",4,4.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1152584939,4,3.5,3.5,"English Brown Ale",4,3.5,"Euphoria",4.8,31653
+1924,"DuClaw Brewing Company",1278798234,4,4,4,"Herbed / Spiced Beer",4,3.5,"Mysterium",4.8,44369
+1924,"DuClaw Brewing Company",1278272519,3,3,3.5,"Herbed / Spiced Beer",3,3,"Mysterium",4.8,44369
+1924,"DuClaw Brewing Company",1252540712,3.5,4,3,"Herbed / Spiced Beer",4,3.5,"Mysterium",4.8,44369
+1924,"DuClaw Brewing Company",1218993438,4,4,4,"Herbed / Spiced Beer",4,4,"Mysterium",4.8,44369
+1924,"DuClaw Brewing Company",1203121688,4,4,4,"American Pale Wheat Ale",3.5,4,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1181093823,4.5,3,3.5,"American Pale Wheat Ale",4.5,4.5,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1177953315,3,3,3.5,"American Pale Wheat Ale",3.5,3,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1175404821,4.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1172193852,5,4,4,"American Pale Wheat Ale",4.5,4.5,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1094071558,2,2,2,"American Pale Wheat Ale",2.5,2,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1304472287,3.5,3.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1061332093,4.5,3.5,3.5,"American Pale Wheat Ale",4,4,"Funk",4.5,12160
+1924,"DuClaw Brewing Company",1325105176,3.5,3.5,3,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1325080801,4,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1318897833,4.5,4,5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1318884160,4,3.5,4,"Russian Imperial Stout",4.5,3.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1317521508,4,4,3.5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1314938154,4.5,3.5,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1313977073,3,3.5,3,"Russian Imperial Stout",3.5,3,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1181094800,2.5,4,4,"Fruit / Vegetable Beer",2.5,2,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1313859385,2,3,4,"Russian Imperial Stout",1.5,2,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1313715018,4,3.5,4,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1312672953,4.5,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1311737893,2.5,4,3,"Russian Imperial Stout",2.5,2.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1309226067,4,3.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1306367260,4,4,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1305597096,4.5,4.5,4.5,"Russian Imperial Stout",5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1303917271,4.5,4,5,"Russian Imperial Stout",5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1242755548,4,3.5,3.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1302826391,4,3.5,4.5,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1299878568,3.5,4,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1299548535,3,3,3.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1298338401,3.5,2.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1295328045,4,3.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1294437708,5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1293768773,3.5,3.5,4,"Russian Imperial Stout",3,3,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1292900725,4,4,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1292736675,4,3.5,4,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1288551280,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1286746520,4,3.5,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1281108168,4,3.5,4,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1280076812,4.5,4.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1279401453,4,4.5,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1278107920,4,4,3.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1276289478,3.5,3.5,3.5,"Russian Imperial Stout",4,3.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1274698184,3.5,3.5,3.5,"Russian Imperial Stout",3.5,3.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1265206366,2.5,3,4,"Russian Imperial Stout",2.5,3,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1264445657,4,3.5,4,"Russian Imperial Stout",4,3,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1247327006,1.5,2.5,3,"Russian Imperial Stout",1.5,2,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1234590238,4.5,4.5,4.5,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1229378405,4,4.5,4,"Russian Imperial Stout",3.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1221343944,4.5,4,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1202944221,5,4,5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1202681635,4.5,4,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1199997024,5,3.5,4,"Russian Imperial Stout",5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1199815362,4,4,4.5,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1309221646,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1198948282,3,3,3,"Russian Imperial Stout",2.5,3,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1171317747,4.5,4,4,"Russian Imperial Stout",4,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1166398509,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1154087793,4.5,4.5,4,"Russian Imperial Stout",4,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1136154565,4,4,4.5,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1120910807,4,4,4.5,"Russian Imperial Stout",4.5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1105491444,4.5,5,5,"Russian Imperial Stout",4.5,5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1103727970,4,3.5,4,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1091394223,5,5,4.5,"Russian Imperial Stout",4.5,4.5,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1089046999,3.5,3.5,5,"Russian Imperial Stout",5,4,"Black Jack Imperial Stout",8,19045
+1924,"DuClaw Brewing Company",1310328807,4,4,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1224714021,3.5,3,3,"American Amber / Red Ale",3,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1202944591,4,4,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1199814684,4.5,3,4,"American Amber / Red Ale",3.5,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1197337469,4,3.5,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1187573759,4.5,3.5,4,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1181094474,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1177959667,3,4,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1158542244,4,3,3.5,"American Amber / Red Ale",3.5,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1150509033,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1142906682,3,2.5,3,"American Amber / Red Ale",3,2.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1140614943,5,3.5,4,"American Amber / Red Ale",4,4.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1125368280,3.5,4,4.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1118171463,4.5,4,4.5,"American Amber / Red Ale",4,4,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1101278643,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1099757317,4,3,5,"American Amber / Red Ale",4.5,4.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1088696825,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1067915748,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1064886502,3.5,2.5,3,"American Amber / Red Ale",3.5,3,"Misfit Red",5.1,13081
+1924,"DuClaw Brewing Company",1324563832,3.5,3.5,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1320888741,3.5,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1317337888,4,4,4.5,"Witbier",3,4,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1315975446,3.5,3.5,4,"Witbier",4,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1315265701,3,3,3,"Witbier",3,3,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1314413387,3,3,3,"Witbier",2.5,3,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1311290862,4,4,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1309374389,4,4,4,"Witbier",4,4,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1309220885,3.5,3.5,3.5,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1306169871,3,3,3.5,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1303742025,4,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1303604629,3.5,3,4,"Witbier",3,3,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1289356659,4,4,4,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1192801744,3.5,4.5,4,"Witbier",3,3,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1190480856,4.5,3.5,3.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1176961005,5,4.5,4.5,"Witbier",4,5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1153629416,3.5,3.5,2.5,"Witbier",4,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1152065673,4,3.5,4,"Witbier",3.5,3.5,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1151699591,4,4,4,"Witbier",3.5,4,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1086661999,3,3.5,3.5,"Witbier",4,3,"Sawtooth",5.5,17849
+1924,"DuClaw Brewing Company",1305065313,4,4,4.5,"Milk / Sweet Stout",4.5,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
+1924,"DuClaw Brewing Company",1300833460,4,4,3.5,"Milk / Sweet Stout",4.5,4.5,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
+1924,"DuClaw Brewing Company",1300228401,4,3.5,4,"Milk / Sweet Stout",3.5,3.5,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
+1924,"DuClaw Brewing Company",1299721608,4,4,4.5,"Milk / Sweet Stout",4.5,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
+1924,"DuClaw Brewing Company",1299272616,4,4,4,"Milk / Sweet Stout",4,4,"DuClaw Exile 4 (macchiato Milk Stout)",6.5,66888
+1924,"DuClaw Brewing Company",1323399764,3,3,3,"Fruit / Vegetable Beer",3,3,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1322020410,3,3.5,3,"Fruit / Vegetable Beer",3,3,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1317604084,4,3.5,3,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1316999148,4,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1316569574,3.5,4.5,4.5,"Fruit / Vegetable Beer",4,3,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1315693079,3.5,4,3.5,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1313462747,3.5,4,3.5,"Fruit / Vegetable Beer",3,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1313008252,3.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1312236882,4.5,4.5,4,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1312074621,4,4,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1310275799,4.5,4,4,"Fruit / Vegetable Beer",3,5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1308767474,4,4,3.5,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1308515363,3,3.5,3.5,"Fruit / Vegetable Beer",2.5,3,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1306550434,4,3.5,3.5,"Fruit / Vegetable Beer",4.5,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1305136099,3.5,4,4,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1303427008,3,3.5,3,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1303364263,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1300232828,4,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1298233642,4,4.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1242757335,4,4,3.5,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1241483502,5,4.5,4.5,"Fruit / Vegetable Beer",4,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1208897757,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1202682970,4.5,4,3.5,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1202501027,4,4,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1177957262,3,4.5,3.5,"Fruit / Vegetable Beer",3.5,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1173328821,4,3.5,4,"Fruit / Vegetable Beer",3,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1165714663,4.5,3.5,4,"Fruit / Vegetable Beer",5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1158543088,3.5,4,3,"Fruit / Vegetable Beer",3,3.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1142207965,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1142195832,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1140613710,4.5,4,4.5,"Fruit / Vegetable Beer",4,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1139453470,4,2.5,4,"Fruit / Vegetable Beer",4,2.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1109105423,4,3.5,4,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1192800894,3.5,3,3.5,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1075863476,4.5,4,4,"Fruit / Vegetable Beer",4,4,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1075681520,4.5,4,3,"Fruit / Vegetable Beer",3.5,4.5,"Naked Fish",4.6,28938
+1924,"DuClaw Brewing Company",1308364898,4,4,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1304827138,4,3.5,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1280793413,4,4,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1217166983,4,4.5,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1208105452,4,3.5,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1202760080,5,5,5,"American Porter",4,5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1198948131,4,3.5,3,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1187048015,4.5,4.5,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1186254965,3,3,3,"American Porter",3,2.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1181095164,3,3,4,"American Porter",3,3,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1177955552,3.5,3.5,4,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1175923009,3.5,3,3.5,"American Porter",4.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1156417833,3.5,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1154196517,4,4,3,"American Porter",4,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1151767290,3.5,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1150508258,4,4,4,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1142906280,4,3.5,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1142195198,4.5,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1140614368,4.5,3.5,5,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1139707912,4,4,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1131852635,3.5,3.5,3.5,"American Porter",2.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1122912691,4.5,4.5,4,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1118753072,4.5,4.5,4.5,"American Porter",4,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1117741640,4.5,4.5,4.5,"American Porter",4.5,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1107825575,4,4,4,"American Porter",3.5,4,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1099594405,3.5,4,3.5,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1075041288,4,3.5,4,"American Porter",3.5,3.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1062376215,4.5,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1242756132,4.5,4,4,"Oatmeal Stout",5,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1061349248,4,4,4.5,"American Porter",4,4.5,"Bad Moon Porter",5.1,12167
+1924,"DuClaw Brewing Company",1298473893,3.5,3.5,3.5,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1289354822,4,4,4,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1278797828,4,4,4,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1254022102,2,3,2.5,"Oatmeal Stout",2,2,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1251728505,4,4,4,"Oatmeal Stout",4.5,4.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1234533355,3.5,3,3.5,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1231177296,4,4,4,"Oatmeal Stout",4.5,4.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1227029741,4,3.5,3.5,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1226895125,4,3.5,3.5,"Oatmeal Stout",4,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1224711675,2.5,4,3,"Oatmeal Stout",3,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1217034237,3.5,4,3,"Oatmeal Stout",3,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1214178359,4,4,4,"Oatmeal Stout",3.5,3.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1199813808,4.5,4.5,4.5,"Oatmeal Stout",4.5,5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1119659473,4,4,4.5,"Oatmeal Stout",4.5,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1119211151,4,3.5,4.5,"Oatmeal Stout",3.5,4.5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1117742136,5,4.5,4.5,"Oatmeal Stout",4.5,5,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1308103447,4.5,4,4,"Wheatwine",4,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1117637528,4,3.5,4.5,"Oatmeal Stout",3.5,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1084115306,4,3.5,4,"Oatmeal Stout",4.5,4,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1083780277,3,3,3,"Oatmeal Stout",1.5,3,"ALCHEMY",5.2,17388
+1924,"DuClaw Brewing Company",1295668920,4,4,4.5,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1273525908,4,4,4,"American Strong Ale",4,3.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1264376502,4,4,4,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1148674996,3,3.5,4,"American Strong Ale",4,4.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1142266365,4,4,4,"American Strong Ale",4.5,4,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1140897146,3,3,3.5,"American Strong Ale",4,3.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1138488311,2.5,2.5,3,"American Strong Ale",4.5,3.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1137035101,4,3.5,4,"American Strong Ale",4.5,4,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1098134939,5,4,4,"American Strong Ale",3.5,4,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1083780740,3,3,3,"American Strong Ale",2.5,2.5,"Old Flame",7.5,16861
+1924,"DuClaw Brewing Company",1325535460,4,4.5,4,"American Double / Imperial Stout",5,4,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1324919745,4,4,3.5,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1324911815,4,4,4,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1324434224,4,4,4,"American Double / Imperial Stout",4,4,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1308886221,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1323632907,3,4,3.5,"American Double / Imperial Stout",4,3,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1323407083,4.5,4.5,3.5,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1323313523,4,5,5,"American Double / Imperial Stout",5,5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1323049001,5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1322716905,3,4,4,"American Double / Imperial Stout",3,3.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1321549751,3,3.5,4,"American Double / Imperial Stout",3.5,3.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318968820,4,3.5,4.5,"American Double / Imperial Stout",4,3.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318943917,4,4,4,"American Double / Imperial Stout",4.5,4,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318885829,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318785884,2.5,4,4.5,"American Double / Imperial Stout",4,2,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318615757,4,4,4,"American Double / Imperial Stout",4,4.5,"Retribution",10.5,74122
+1924,"DuClaw Brewing Company",1318903877,4,3,4,"Wheatwine",3.5,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1315007675,4,4,3.5,"Wheatwine",3.5,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1314016315,3.5,4.5,4,"Wheatwine",4,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1313976217,4,3.5,4,"Wheatwine",3.5,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1312940155,4,4,4,"Wheatwine",4.5,4.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1312460525,4,4,4,"Wheatwine",4,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1311036698,4,4,3.5,"Wheatwine",4,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1309653495,4,4,4,"Wheatwine",4,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1309124828,3,3,3.5,"Wheatwine",3,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1309114848,2.5,3,4,"Wheatwine",3,2.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1306463228,3.5,4,3,"Wheatwine",4,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1302304522,4.5,4,4,"Wheatwine",4.5,4.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1301596597,4.5,4,3,"Wheatwine",4,5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1301281232,4.5,4,4.5,"Wheatwine",4.5,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1299277242,3,4,3.5,"Wheatwine",3.5,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1298911407,3.5,4,3.5,"Wheatwine",4,4.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1298473313,4,4,3.5,"Wheatwine",3.5,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1154086720,3.5,4,3.5,"Wheatwine",4,3.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1116137383,4.5,4.5,4.5,"Wheatwine",4,4.5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1099134870,4,4.5,4,"Wheatwine",4.5,5,"Misery",10,20392
+1924,"DuClaw Brewing Company",1098122293,4,5,4.5,"Wheatwine",4.5,4,"Misery",10,20392
+1924,"DuClaw Brewing Company",1181094978,4,4,3.5,"Doppelbock",4,4.5,"Enigma",8,36518
+1924,"DuClaw Brewing Company",1180673879,3,3,3,"Doppelbock",3,3,"Enigma",8,36518
+1924,"DuClaw Brewing Company",1178332736,3.5,4,4,"Doppelbock",3.5,4,"Enigma",8,36518
+1924,"DuClaw Brewing Company",1177958362,3.5,4,3.5,"Doppelbock",3,4,"Enigma",8,36518
+1924,"DuClaw Brewing Company",1177553395,4,4,4.5,"Doppelbock",4,4.5,"Enigma",8,36518
+1924,"DuClaw Brewing Company",1202500079,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1325080585,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1322360543,4,4.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1315743301,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1313620656,4,3,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1310072744,2.5,3,3.5,"American Double / Imperial IPA",2,2,"Serum",9,15860
+1924,"DuClaw Brewing Company",1309221023,4,4,4,"American Double / Imperial IPA",4.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1308950233,3.5,3,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1307335096,3,3.5,4,"American Double / Imperial IPA",3,3,"Serum",9,15860
+1924,"DuClaw Brewing Company",1304827835,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Serum",9,15860
+1924,"DuClaw Brewing Company",1304205329,4,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1303603677,4.5,4,4,"American Double / Imperial IPA",4,5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1302727749,4,5,3,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1301838337,2,3,3.5,"American Double / Imperial IPA",3,2.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1301529683,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1200863729,4.5,4,3.5,"American Double / Imperial IPA",4.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1301019008,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1300833859,3,3.5,3.5,"American Double / Imperial IPA",3,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1300234204,3,3.5,3.5,"American Double / Imperial IPA",3,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1299979257,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1298773067,4,2,5,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1298685341,3,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1298472855,4,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1297567346,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1297279043,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1294976366,4,3,2.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1294320033,3.5,5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1283043348,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1282439312,3.5,3.5,3,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1281128691,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1279076368,4,3.5,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1278651663,3,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Serum",9,15860
+1924,"DuClaw Brewing Company",1278516079,3,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1226500952,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1200833836,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1199814311,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1172623721,4,3.5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1170583568,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1170299266,4.5,3.5,3.5,"American Double / Imperial IPA",4,4.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1151012647,3.5,4,3.5,"American Double / Imperial IPA",3.5,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1150936987,4.5,4,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1148818314,2.5,3,3.5,"American Double / Imperial IPA",3,2.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1148516731,3.5,3.5,4,"American Double / Imperial IPA",3.5,2.5,"Serum",9,15860
+1924,"DuClaw Brewing Company",1094128782,4.5,4.5,4.5,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1076555008,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Serum",9,15860
+1924,"DuClaw Brewing Company",1322968821,3,3.5,3.5,"Belgian Strong Dark Ale",4,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1226500876,4,4,3.5,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1173193541,2,3.5,4,"Belgian Strong Dark Ale",3.5,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1154089262,3,3.5,3.5,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1142259233,2.5,3,3,"Belgian Strong Dark Ale",4,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1137175140,4.5,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1131413538,2.5,3.5,3,"Belgian Strong Dark Ale",3,3.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1125960305,4,4.5,4.5,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1125709347,4,4.5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612
+1924,"DuClaw Brewing Company",1125629654,4.5,5,4,"Belgian Strong Dark Ale",4.5,4.5,"Repent",14.6,25612

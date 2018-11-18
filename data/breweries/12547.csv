@@ -1,96 +1,96 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",12547,"The Livery",1155408313,4,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
-"2",12547,"The Livery",1304791741,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Paris-Roubaix Pale Ale",5.5,33371
-"3",12547,"The Livery",1280194285,3,2.5,3,"American Pale Ale (APA)",3,3,"Paris-Roubaix Pale Ale",5.5,33371
-"4",12547,"The Livery",1244225944,4.5,3.5,3,"American Pale Ale (APA)",3.5,4,"Paris-Roubaix Pale Ale",5.5,33371
-"5",12547,"The Livery",1213582386,4,4,4,"American Pale Ale (APA)",4,4,"Paris-Roubaix Pale Ale",5.5,33371
-"6",12547,"The Livery",1161554515,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Paris-Roubaix Pale Ale",5.5,33371
-"7",12547,"The Livery",1183475302,4,3,3.5,"German Pilsener",4,3.5,"Lawnmower Lager",4,35435
-"8",12547,"The Livery",1271064486,4,4,3.5,"Belgian Strong Dark Ale",4,4.5,"Verchuosity",14,44395
-"9",12547,"The Livery",1266814449,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Verchuosity",14,44395
-"10",12547,"The Livery",1261555326,3.5,4,4,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
-"11",12547,"The Livery",1248093274,4.5,3.5,4,"Belgian Strong Dark Ale",4,4.5,"Verchuosity",14,44395
-"12",12547,"The Livery",1240431763,4,4,4,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
-"13",12547,"The Livery",1235267080,4.5,4,4,"Belgian Strong Dark Ale",4.5,4,"Verchuosity",14,44395
-"14",12547,"The Livery",1219095678,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
-"15",12547,"The Livery",1323104186,4.5,5,4.5,"Dortmunder / Export Lager",4.5,4,"Bungtown Export Lager",5.25,33370
-"16",12547,"The Livery",1304644013,2.5,3,4,"Dortmunder / Export Lager",2.5,2.5,"Bungtown Export Lager",5.25,33370
-"17",12547,"The Livery",1293149850,3,2.5,3.5,"Dortmunder / Export Lager",3,2.5,"Bungtown Export Lager",5.25,33370
-"18",12547,"The Livery",1261788724,4.5,3,4,"Dortmunder / Export Lager",4,4,"Bungtown Export Lager",5.25,33370
-"19",12547,"The Livery",1161554337,4,3.5,4,"Dortmunder / Export Lager",4,4,"Bungtown Export Lager",5.25,33370
-"20",12547,"The Livery",1319760178,4,3.5,4,"Belgian IPA",4.5,4,"The 5th Dimension",9.5,49573
-"21",12547,"The Livery",1304893662,3,2,3.5,"Belgian IPA",3,2,"The 5th Dimension",9.5,49573
-"22",12547,"The Livery",1304792630,2,2,3.5,"Belgian IPA",1.5,1.5,"The 5th Dimension",9.5,49573
-"23",12547,"The Livery",1282081324,3.5,4,3.5,"Belgian IPA",3.5,3.5,"The 5th Dimension",9.5,49573
-"24",12547,"The Livery",1281309543,4,4.5,4,"Belgian IPA",4.5,4.5,"The 5th Dimension",9.5,49573
-"25",12547,"The Livery",1281231908,4,4,4,"Belgian IPA",4,3.5,"The 5th Dimension",9.5,49573
-"26",12547,"The Livery",1280278808,4,4,4,"Belgian IPA",4.5,3.5,"The 5th Dimension",9.5,49573
-"27",12547,"The Livery",1276650348,4,5,3.5,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
-"28",12547,"The Livery",1276009963,4,4.5,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
-"29",12547,"The Livery",1271081587,4.5,4,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
-"30",12547,"The Livery",1268142950,4.5,4.5,3.5,"Belgian IPA",4.5,5,"The 5th Dimension",9.5,49573
-"31",12547,"The Livery",1267149835,4.5,4,4.5,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
-"32",12547,"The Livery",1245255581,4.5,4.5,4.5,"Belgian IPA",3.5,4,"The 5th Dimension",9.5,49573
-"33",12547,"The Livery",1241392156,4.5,4,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
-"34",12547,"The Livery",1299458211,3.5,4,4,"Belgian IPA",3.5,4,"3rd Anniversary Ale",9,44399
-"35",12547,"The Livery",1219096854,4.5,4,4,"Belgian IPA",4.5,4.5,"3rd Anniversary Ale",9,44399
-"36",12547,"The Livery",1259096533,3.5,4,3.5,"American Brown Ale",4,4.5,"4th Anniversary Ale",9,54344
-"37",12547,"The Livery",1296921196,2,2.5,3,"American Double / Imperial IPA",3,2,"Double Paw (Imperial IPA)",7.75,36666
-"38",12547,"The Livery",1293149374,3.5,3,4,"American Double / Imperial IPA",3.5,3.5,"Double Paw (Imperial IPA)",7.75,36666
-"39",12547,"The Livery",1249786519,4,4,3.5,"American Double / Imperial IPA",3.5,4.5,"Double Paw (Imperial IPA)",7.75,36666
-"40",12547,"The Livery",1235850321,4.5,4,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
-"41",12547,"The Livery",1231030649,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Double Paw (Imperial IPA)",7.75,36666
-"42",12547,"The Livery",1222671913,4,4.5,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
-"43",12547,"The Livery",1215745261,4.5,4.5,3.5,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
-"44",12547,"The Livery",1209936325,5,4.5,4,"American Double / Imperial IPA",4.5,4,"Double Paw (Imperial IPA)",7.75,36666
-"45",12547,"The Livery",1209524842,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Double Paw (Imperial IPA)",7.75,36666
-"46",12547,"The Livery",1194739294,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
-"47",12547,"The Livery",1178322421,4,4,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
-"48",12547,"The Livery",1183470230,2,2.5,2,"Hefeweizen",2.5,3,"Hefe-Weizen",5,35439
-"49",12547,"The Livery",1314874364,4.5,5,4,"Weizenbock",5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"50",12547,"The Livery",1313529411,4.5,4.5,4.5,"Weizenbock",4.5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"51",12547,"The Livery",1261517710,4.5,4.5,4,"Weizenbock",4,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"52",12547,"The Livery",1235246714,4.5,4,4.5,"Weizenbock",4.5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"53",12547,"The Livery",1155263280,4,4,4,"German Pilsener",4,4,"German Pilsener",4.5,32195
-"54",12547,"The Livery",1219096058,5,4.5,5,"Weizenbock",5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"55",12547,"The Livery",1210341480,4.5,5,4,"Weizenbock",5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"56",12547,"The Livery",1198280495,4.5,4.5,4,"Weizenbock",4,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"57",12547,"The Livery",1160921306,4,5,4,"Weizenbock",4.5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
-"58",12547,"The Livery",1191597954,4,4,4.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest Lager",5.5,35436
-"59",12547,"The Livery",1235260141,4,4,4,"German Pilsener",4.5,4,"German Pilsener",4.5,32195
-"60",12547,"The Livery",1271041574,2,3,4,"Scotch Ale / Wee Heavy",2,2,"Kilt Tilter Scotch Ale",7.5,30902
-"61",12547,"The Livery",1311035456,3.5,4.5,4,"American IPA",3,3.5,"McGilligans IPA",7,30246
-"62",12547,"The Livery",1302225928,4,3.5,4,"American IPA",4,3.5,"McGilligans IPA",7,30246
-"63",12547,"The Livery",1244399892,4,4,3,"American IPA",4.5,4,"McGilligans IPA",7,30246
-"64",12547,"The Livery",1241392600,4,4,4,"American IPA",4,4,"McGilligans IPA",7,30246
-"65",12547,"The Livery",1237506387,4,4,3.5,"American IPA",4,4.5,"McGilligans IPA",7,30246
-"66",12547,"The Livery",1215884350,4,4,3.5,"American IPA",3.5,3.5,"McGilligans IPA",7,30246
-"67",12547,"The Livery",1183474389,4,4,4,"American IPA",4,4.5,"McGilligans IPA",7,30246
-"68",12547,"The Livery",1178323121,4,4.5,4,"American IPA",3.5,3.5,"McGilligans IPA",7,30246
-"69",12547,"The Livery",1146599242,4.5,4.5,4.5,"American IPA",4.5,4,"McGilligans IPA",7,30246
-"70",12547,"The Livery",1296842681,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
-"71",12547,"The Livery",1273539916,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
-"72",12547,"The Livery",1249929742,2,3,2,"Quadrupel (Quad)",3.5,2.5,"Barrel Aged Agent 99",11.99,41480
-"73",12547,"The Livery",1213025482,3.5,4.5,3.5,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
-"74",12547,"The Livery",1210342307,4.5,4.5,3,"Quadrupel (Quad)",4,4.5,"Barrel Aged Agent 99",11.99,41480
-"75",12547,"The Livery",1205089742,3.5,4,3.5,"Quadrupel (Quad)",3.5,4,"Barrel Aged Agent 99",11.99,41480
-"76",12547,"The Livery",1302976511,4.5,4.5,4.5,"Lambic - Fruit",4,4,"Black Adder",11.5,68170
-"77",12547,"The Livery",1304791600,4,4,3.5,"Irish Dry Stout",4,4.5,"Dixie O'Flynns Stout",6.5,42553
-"78",12547,"The Livery",1285270190,3,3,3.5,"Irish Dry Stout",4,3.5,"Dixie O'Flynns Stout",6.5,42553
-"79",12547,"The Livery",1282430643,4,3.5,4,"Irish Dry Stout",4,4,"Dixie O'Flynns Stout",6.5,42553
-"80",12547,"The Livery",1249787090,3.5,4,4,"Irish Dry Stout",4,3.5,"Dixie O'Flynns Stout",6.5,42553
-"81",12547,"The Livery",1242096427,3,4,4.5,"Irish Dry Stout",3,3.5,"Dixie O'Flynns Stout",6.5,42553
-"82",12547,"The Livery",1211842360,5,4,4.5,"Irish Dry Stout",5,4.5,"Dixie O'Flynns Stout",6.5,42553
-"83",12547,"The Livery",1210340559,3,3,4,"Irish Dry Stout",3,3,"Dixie O'Flynns Stout",6.5,42553
-"84",12547,"The Livery",1210265869,4.5,3.5,4,"Irish Dry Stout",4,4,"Dixie O'Flynns Stout",6.5,42553
-"85",12547,"The Livery",1205098320,3.5,3.5,3.5,"Dunkelweizen",3.5,3.5,"Dunkel Weizen",5.75,41482
-"86",12547,"The Livery",1248044903,3,4,4,"Wheatwine",4,3.5,"Wheat Wine",10.5,51291
-"87",12547,"The Livery",1286046955,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Kilt Tilter Scotch Ale",7.5,30902
-"88",12547,"The Livery",1282971591,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
-"89",12547,"The Livery",1149452399,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
-"90",12547,"The Livery",1304792425,3,3,3.5,"Doppelbock",2,3,"Cask Aged Hoppelbock",8,38920
-"91",12547,"The Livery",1248091384,3.5,3.5,3.5,"Doppelbock",4,3.5,"Cask Aged Hoppelbock",8,38920
-"92",12547,"The Livery",1239831059,4,4.5,4,"Doppelbock",4,4.5,"Cask Aged Hoppelbock",8,38920
-"93",12547,"The Livery",1222848539,4,4,3.5,"Doppelbock",4,4,"Cask Aged Hoppelbock",8,38920
-"94",12547,"The Livery",1214347672,3.5,4,4,"Doppelbock",4,4,"Cask Aged Hoppelbock",8,38920
-"95",12547,"The Livery",1191513996,3.5,3.5,4.5,"Doppelbock",4,3.5,"Cask Aged Hoppelbock",8,38920
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+12547,"The Livery",1155408313,4,4.5,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
+12547,"The Livery",1304791741,2,2.5,3.5,"American Pale Ale (APA)",2,2,"Paris-Roubaix Pale Ale",5.5,33371
+12547,"The Livery",1280194285,3,2.5,3,"American Pale Ale (APA)",3,3,"Paris-Roubaix Pale Ale",5.5,33371
+12547,"The Livery",1244225944,4.5,3.5,3,"American Pale Ale (APA)",3.5,4,"Paris-Roubaix Pale Ale",5.5,33371
+12547,"The Livery",1213582386,4,4,4,"American Pale Ale (APA)",4,4,"Paris-Roubaix Pale Ale",5.5,33371
+12547,"The Livery",1161554515,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Paris-Roubaix Pale Ale",5.5,33371
+12547,"The Livery",1183475302,4,3,3.5,"German Pilsener",4,3.5,"Lawnmower Lager",4,35435
+12547,"The Livery",1271064486,4,4,3.5,"Belgian Strong Dark Ale",4,4.5,"Verchuosity",14,44395
+12547,"The Livery",1266814449,3.5,4,4,"Belgian Strong Dark Ale",3.5,3.5,"Verchuosity",14,44395
+12547,"The Livery",1261555326,3.5,4,4,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
+12547,"The Livery",1248093274,4.5,3.5,4,"Belgian Strong Dark Ale",4,4.5,"Verchuosity",14,44395
+12547,"The Livery",1240431763,4,4,4,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
+12547,"The Livery",1235267080,4.5,4,4,"Belgian Strong Dark Ale",4.5,4,"Verchuosity",14,44395
+12547,"The Livery",1219095678,4,4,4.5,"Belgian Strong Dark Ale",4,4,"Verchuosity",14,44395
+12547,"The Livery",1323104186,4.5,5,4.5,"Dortmunder / Export Lager",4.5,4,"Bungtown Export Lager",5.25,33370
+12547,"The Livery",1304644013,2.5,3,4,"Dortmunder / Export Lager",2.5,2.5,"Bungtown Export Lager",5.25,33370
+12547,"The Livery",1293149850,3,2.5,3.5,"Dortmunder / Export Lager",3,2.5,"Bungtown Export Lager",5.25,33370
+12547,"The Livery",1261788724,4.5,3,4,"Dortmunder / Export Lager",4,4,"Bungtown Export Lager",5.25,33370
+12547,"The Livery",1161554337,4,3.5,4,"Dortmunder / Export Lager",4,4,"Bungtown Export Lager",5.25,33370
+12547,"The Livery",1319760178,4,3.5,4,"Belgian IPA",4.5,4,"The 5th Dimension",9.5,49573
+12547,"The Livery",1304893662,3,2,3.5,"Belgian IPA",3,2,"The 5th Dimension",9.5,49573
+12547,"The Livery",1304792630,2,2,3.5,"Belgian IPA",1.5,1.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1282081324,3.5,4,3.5,"Belgian IPA",3.5,3.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1281309543,4,4.5,4,"Belgian IPA",4.5,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1281231908,4,4,4,"Belgian IPA",4,3.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1280278808,4,4,4,"Belgian IPA",4.5,3.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1276650348,4,5,3.5,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1276009963,4,4.5,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1271081587,4.5,4,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1268142950,4.5,4.5,3.5,"Belgian IPA",4.5,5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1267149835,4.5,4,4.5,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1245255581,4.5,4.5,4.5,"Belgian IPA",3.5,4,"The 5th Dimension",9.5,49573
+12547,"The Livery",1241392156,4.5,4,4,"Belgian IPA",4,4.5,"The 5th Dimension",9.5,49573
+12547,"The Livery",1299458211,3.5,4,4,"Belgian IPA",3.5,4,"3rd Anniversary Ale",9,44399
+12547,"The Livery",1219096854,4.5,4,4,"Belgian IPA",4.5,4.5,"3rd Anniversary Ale",9,44399
+12547,"The Livery",1259096533,3.5,4,3.5,"American Brown Ale",4,4.5,"4th Anniversary Ale",9,54344
+12547,"The Livery",1296921196,2,2.5,3,"American Double / Imperial IPA",3,2,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1293149374,3.5,3,4,"American Double / Imperial IPA",3.5,3.5,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1249786519,4,4,3.5,"American Double / Imperial IPA",3.5,4.5,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1235850321,4.5,4,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1231030649,4.5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1222671913,4,4.5,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1215745261,4.5,4.5,3.5,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1209936325,5,4.5,4,"American Double / Imperial IPA",4.5,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1209524842,4.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1194739294,4,3.5,3.5,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1178322421,4,4,4,"American Double / Imperial IPA",4,4,"Double Paw (Imperial IPA)",7.75,36666
+12547,"The Livery",1183470230,2,2.5,2,"Hefeweizen",2.5,3,"Hefe-Weizen",5,35439
+12547,"The Livery",1314874364,4.5,5,4,"Weizenbock",5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1313529411,4.5,4.5,4.5,"Weizenbock",4.5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1261517710,4.5,4.5,4,"Weizenbock",4,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1235246714,4.5,4,4.5,"Weizenbock",4.5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1155263280,4,4,4,"German Pilsener",4,4,"German Pilsener",4.5,32195
+12547,"The Livery",1219096058,5,4.5,5,"Weizenbock",5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1210341480,4.5,5,4,"Weizenbock",5,5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1198280495,4.5,4.5,4,"Weizenbock",4,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1160921306,4,5,4,"Weizenbock",4.5,4.5,"Bourbon Cask Aged Wheat Trippelbock",16,33230
+12547,"The Livery",1191597954,4,4,4.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest Lager",5.5,35436
+12547,"The Livery",1235260141,4,4,4,"German Pilsener",4.5,4,"German Pilsener",4.5,32195
+12547,"The Livery",1271041574,2,3,4,"Scotch Ale / Wee Heavy",2,2,"Kilt Tilter Scotch Ale",7.5,30902
+12547,"The Livery",1311035456,3.5,4.5,4,"American IPA",3,3.5,"McGilligans IPA",7,30246
+12547,"The Livery",1302225928,4,3.5,4,"American IPA",4,3.5,"McGilligans IPA",7,30246
+12547,"The Livery",1244399892,4,4,3,"American IPA",4.5,4,"McGilligans IPA",7,30246
+12547,"The Livery",1241392600,4,4,4,"American IPA",4,4,"McGilligans IPA",7,30246
+12547,"The Livery",1237506387,4,4,3.5,"American IPA",4,4.5,"McGilligans IPA",7,30246
+12547,"The Livery",1215884350,4,4,3.5,"American IPA",3.5,3.5,"McGilligans IPA",7,30246
+12547,"The Livery",1183474389,4,4,4,"American IPA",4,4.5,"McGilligans IPA",7,30246
+12547,"The Livery",1178323121,4,4.5,4,"American IPA",3.5,3.5,"McGilligans IPA",7,30246
+12547,"The Livery",1146599242,4.5,4.5,4.5,"American IPA",4.5,4,"McGilligans IPA",7,30246
+12547,"The Livery",1296842681,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1273539916,4.5,4.5,4,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1249929742,2,3,2,"Quadrupel (Quad)",3.5,2.5,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1213025482,3.5,4.5,3.5,"Quadrupel (Quad)",4,4,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1210342307,4.5,4.5,3,"Quadrupel (Quad)",4,4.5,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1205089742,3.5,4,3.5,"Quadrupel (Quad)",3.5,4,"Barrel Aged Agent 99",11.99,41480
+12547,"The Livery",1302976511,4.5,4.5,4.5,"Lambic - Fruit",4,4,"Black Adder",11.5,68170
+12547,"The Livery",1304791600,4,4,3.5,"Irish Dry Stout",4,4.5,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1285270190,3,3,3.5,"Irish Dry Stout",4,3.5,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1282430643,4,3.5,4,"Irish Dry Stout",4,4,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1249787090,3.5,4,4,"Irish Dry Stout",4,3.5,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1242096427,3,4,4.5,"Irish Dry Stout",3,3.5,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1211842360,5,4,4.5,"Irish Dry Stout",5,4.5,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1210340559,3,3,4,"Irish Dry Stout",3,3,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1210265869,4.5,3.5,4,"Irish Dry Stout",4,4,"Dixie O'Flynns Stout",6.5,42553
+12547,"The Livery",1205098320,3.5,3.5,3.5,"Dunkelweizen",3.5,3.5,"Dunkel Weizen",5.75,41482
+12547,"The Livery",1248044903,3,4,4,"Wheatwine",4,3.5,"Wheat Wine",10.5,51291
+12547,"The Livery",1286046955,4,3.5,4,"Scotch Ale / Wee Heavy",4,3.5,"Kilt Tilter Scotch Ale",7.5,30902
+12547,"The Livery",1282971591,4,4,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
+12547,"The Livery",1149452399,4,3.5,4,"Scotch Ale / Wee Heavy",4,4,"Kilt Tilter Scotch Ale",7.5,30902
+12547,"The Livery",1304792425,3,3,3.5,"Doppelbock",2,3,"Cask Aged Hoppelbock",8,38920
+12547,"The Livery",1248091384,3.5,3.5,3.5,"Doppelbock",4,3.5,"Cask Aged Hoppelbock",8,38920
+12547,"The Livery",1239831059,4,4.5,4,"Doppelbock",4,4.5,"Cask Aged Hoppelbock",8,38920
+12547,"The Livery",1222848539,4,4,3.5,"Doppelbock",4,4,"Cask Aged Hoppelbock",8,38920
+12547,"The Livery",1214347672,3.5,4,4,"Doppelbock",4,4,"Cask Aged Hoppelbock",8,38920
+12547,"The Livery",1191513996,3.5,3.5,4.5,"Doppelbock",4,3.5,"Cask Aged Hoppelbock",8,38920

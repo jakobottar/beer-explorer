@@ -1,618 +1,618 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",281,"Tsingtao Brewery Co., Ltd.",1044981022,2.5,3,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"2",281,"Tsingtao Brewery Co., Ltd.",1270502949,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"3",281,"Tsingtao Brewery Co., Ltd.",1044398036,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"4",281,"Tsingtao Brewery Co., Ltd.",1303905485,3,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"5",281,"Tsingtao Brewery Co., Ltd.",1026226136,1.5,1,1.5,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
-"6",281,"Tsingtao Brewery Co., Ltd.",1254824470,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao Premium",4.5,16971
-"7",281,"Tsingtao Brewery Co., Ltd.",1318061806,3,3.5,3,"Foreign / Export Stout",2,2,"Tsingtao Stout",7.5,52200
-"8",281,"Tsingtao Brewery Co., Ltd.",1308230102,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Tsingtao Stout",7.5,52200
-"9",281,"Tsingtao Brewery Co., Ltd.",1296046662,2.5,2.5,3,"Foreign / Export Stout",2.5,3,"Tsingtao Stout",7.5,52200
-"10",281,"Tsingtao Brewery Co., Ltd.",1274760076,4.5,4.5,4,"Foreign / Export Stout",4,4.5,"Tsingtao Stout",7.5,52200
-"11",281,"Tsingtao Brewery Co., Ltd.",1266494180,5,4,4.5,"Foreign / Export Stout",4,4,"Tsingtao Stout",7.5,52200
-"12",281,"Tsingtao Brewery Co., Ltd.",1259850719,3,2,3.5,"Foreign / Export Stout",3,2.5,"Tsingtao Stout",7.5,52200
-"13",281,"Tsingtao Brewery Co., Ltd.",1251548548,4,3.5,3.5,"Foreign / Export Stout",3.5,4.5,"Tsingtao Stout",7.5,52200
-"14",281,"Tsingtao Brewery Co., Ltd.",1319387479,3.5,3,3,"American Adjunct Lager",4,4,"Tsingtao Premium",4.5,16971
-"15",281,"Tsingtao Brewery Co., Ltd.",1296907877,3,3.5,2.5,"American Adjunct Lager",3,2,"Tsingtao Premium",4.5,16971
-"16",281,"Tsingtao Brewery Co., Ltd.",1253679903,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"17",281,"Tsingtao Brewery Co., Ltd.",1251547446,4,3.5,3.5,"American Adjunct Lager",3.5,4,"Tsingtao Premium",4.5,16971
-"18",281,"Tsingtao Brewery Co., Ltd.",1229148790,3.5,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao Premium",4.5,16971
-"19",281,"Tsingtao Brewery Co., Ltd.",1214000821,3.5,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao Premium",4.5,16971
-"20",281,"Tsingtao Brewery Co., Ltd.",1213216895,3.5,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao Premium",4.5,16971
-"21",281,"Tsingtao Brewery Co., Ltd.",1194764873,1,2,2,"American Adjunct Lager",1,1,"Tsingtao Premium",4.5,16971
-"22",281,"Tsingtao Brewery Co., Ltd.",1170296571,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"23",281,"Tsingtao Brewery Co., Ltd.",1164157130,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"24",281,"Tsingtao Brewery Co., Ltd.",1159683442,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao Premium",4.5,16971
-"25",281,"Tsingtao Brewery Co., Ltd.",1154846140,5,5,5,"American Adjunct Lager",5,5,"Tsingtao Premium",4.5,16971
-"26",281,"Tsingtao Brewery Co., Ltd.",1140841911,3.5,2,2.5,"American Adjunct Lager",3.5,3,"Tsingtao Premium",4.5,16971
-"27",281,"Tsingtao Brewery Co., Ltd.",1136872819,3.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"28",281,"Tsingtao Brewery Co., Ltd.",1135165515,4,3,3.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
-"29",281,"Tsingtao Brewery Co., Ltd.",1081195690,4,2,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao Premium",4.5,16971
-"30",281,"Tsingtao Brewery Co., Ltd.",1278435676,3.5,2,2.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"31",281,"Tsingtao Brewery Co., Ltd.",1277571755,3.5,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"32",281,"Tsingtao Brewery Co., Ltd.",1277050358,5,3.5,3,"American Adjunct Lager",4,5,"Tsingtao",4.8,767
-"33",281,"Tsingtao Brewery Co., Ltd.",1277026896,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"34",281,"Tsingtao Brewery Co., Ltd.",1276289756,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"35",281,"Tsingtao Brewery Co., Ltd.",1275869361,3.5,3.5,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"36",281,"Tsingtao Brewery Co., Ltd.",1275695083,3,2,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"37",281,"Tsingtao Brewery Co., Ltd.",1275199721,4.5,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"38",281,"Tsingtao Brewery Co., Ltd.",1273412680,2,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"39",281,"Tsingtao Brewery Co., Ltd.",1273268708,4,3.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"40",281,"Tsingtao Brewery Co., Ltd.",1273257555,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"41",281,"Tsingtao Brewery Co., Ltd.",1271981374,4.5,2,3,"American Adjunct Lager",4.5,3,"Tsingtao",4.8,767
-"42",281,"Tsingtao Brewery Co., Ltd.",1270859356,3.5,3.5,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"43",281,"Tsingtao Brewery Co., Ltd.",1270440766,3.5,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"44",281,"Tsingtao Brewery Co., Ltd.",1270047279,4,3,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"45",281,"Tsingtao Brewery Co., Ltd.",1269830722,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"46",281,"Tsingtao Brewery Co., Ltd.",1269294711,4.5,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"47",281,"Tsingtao Brewery Co., Ltd.",1268214130,4,4,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"48",281,"Tsingtao Brewery Co., Ltd.",1267305710,1.5,1.5,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"49",281,"Tsingtao Brewery Co., Ltd.",1266969557,2.5,3,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"50",281,"Tsingtao Brewery Co., Ltd.",1266948619,4,2.5,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"51",281,"Tsingtao Brewery Co., Ltd.",1266558789,3,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"52",281,"Tsingtao Brewery Co., Ltd.",1265931852,4,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"53",281,"Tsingtao Brewery Co., Ltd.",1265848910,3,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"54",281,"Tsingtao Brewery Co., Ltd.",1265747467,2,3,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"55",281,"Tsingtao Brewery Co., Ltd.",1265259611,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"56",281,"Tsingtao Brewery Co., Ltd.",1265079032,2.5,3,3.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"57",281,"Tsingtao Brewery Co., Ltd.",1262991986,3.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"58",281,"Tsingtao Brewery Co., Ltd.",1262228376,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"59",281,"Tsingtao Brewery Co., Ltd.",1262056046,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"60",281,"Tsingtao Brewery Co., Ltd.",1254963164,3.5,3.5,2.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"61",281,"Tsingtao Brewery Co., Ltd.",1261993804,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"62",281,"Tsingtao Brewery Co., Ltd.",1261536544,4.5,2.5,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"63",281,"Tsingtao Brewery Co., Ltd.",1261418763,3,2.5,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"64",281,"Tsingtao Brewery Co., Ltd.",1261375996,3,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"65",281,"Tsingtao Brewery Co., Ltd.",1261196621,4,2.5,4,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"66",281,"Tsingtao Brewery Co., Ltd.",1260729642,3.5,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"67",281,"Tsingtao Brewery Co., Ltd.",1260356459,3,4,3.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"68",281,"Tsingtao Brewery Co., Ltd.",1260330225,4.5,3.5,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"69",281,"Tsingtao Brewery Co., Ltd.",1260220010,3.5,2.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
-"70",281,"Tsingtao Brewery Co., Ltd.",1258945806,4,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"71",281,"Tsingtao Brewery Co., Ltd.",1258437052,4,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"72",281,"Tsingtao Brewery Co., Ltd.",1234313020,4,2.5,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"73",281,"Tsingtao Brewery Co., Ltd.",1256595208,2,1.5,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"74",281,"Tsingtao Brewery Co., Ltd.",1256308065,4,3,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"75",281,"Tsingtao Brewery Co., Ltd.",1256223213,2,2.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"76",281,"Tsingtao Brewery Co., Ltd.",1256129119,3,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"77",281,"Tsingtao Brewery Co., Ltd.",1256124522,2.5,1,1,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
-"78",281,"Tsingtao Brewery Co., Ltd.",1256054832,3,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"79",281,"Tsingtao Brewery Co., Ltd.",1255539256,2,2,1,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"80",281,"Tsingtao Brewery Co., Ltd.",1255385635,4,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"81",281,"Tsingtao Brewery Co., Ltd.",1254064773,4.5,2.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"82",281,"Tsingtao Brewery Co., Ltd.",1252681803,2.5,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"83",281,"Tsingtao Brewery Co., Ltd.",1252250988,2.5,3.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"84",281,"Tsingtao Brewery Co., Ltd.",1251902795,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"85",281,"Tsingtao Brewery Co., Ltd.",1251403624,3,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"86",281,"Tsingtao Brewery Co., Ltd.",1251316852,2,3.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"87",281,"Tsingtao Brewery Co., Ltd.",1250524040,2.5,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"88",281,"Tsingtao Brewery Co., Ltd.",1250136329,4,2,4,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
-"89",281,"Tsingtao Brewery Co., Ltd.",1248836398,4.5,2,4,"American Adjunct Lager",4.5,3.5,"Tsingtao",4.8,767
-"90",281,"Tsingtao Brewery Co., Ltd.",1248807583,4,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"91",281,"Tsingtao Brewery Co., Ltd.",1247436645,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"92",281,"Tsingtao Brewery Co., Ltd.",1247282128,4.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"93",281,"Tsingtao Brewery Co., Ltd.",1246929575,3.5,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"94",281,"Tsingtao Brewery Co., Ltd.",1246834763,5,4.5,4,"American Adjunct Lager",3,5,"Tsingtao",4.8,767
-"95",281,"Tsingtao Brewery Co., Ltd.",1245985163,2.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"96",281,"Tsingtao Brewery Co., Ltd.",1245639024,4.5,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"97",281,"Tsingtao Brewery Co., Ltd.",1245504301,4.5,2,2.5,"American Adjunct Lager",2.5,4,"Tsingtao",4.8,767
-"98",281,"Tsingtao Brewery Co., Ltd.",1245119139,4,3,1.5,"American Adjunct Lager",4.5,2.5,"Tsingtao",4.8,767
-"99",281,"Tsingtao Brewery Co., Ltd.",1245001535,2.5,3,3,"American Adjunct Lager",2.5,4,"Tsingtao",4.8,767
-"100",281,"Tsingtao Brewery Co., Ltd.",1244759475,4,3,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"101",281,"Tsingtao Brewery Co., Ltd.",1244085154,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"102",281,"Tsingtao Brewery Co., Ltd.",1243744227,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"103",281,"Tsingtao Brewery Co., Ltd.",1219023748,3,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"104",281,"Tsingtao Brewery Co., Ltd.",1243708098,3,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"105",281,"Tsingtao Brewery Co., Ltd.",1243392275,4,2.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"106",281,"Tsingtao Brewery Co., Ltd.",1243165734,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"107",281,"Tsingtao Brewery Co., Ltd.",1242498296,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"108",281,"Tsingtao Brewery Co., Ltd.",1242164672,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"109",281,"Tsingtao Brewery Co., Ltd.",1241445539,2.5,2,4,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"110",281,"Tsingtao Brewery Co., Ltd.",1239886444,3.5,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"111",281,"Tsingtao Brewery Co., Ltd.",1239289084,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"112",281,"Tsingtao Brewery Co., Ltd.",1238824364,3,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"113",281,"Tsingtao Brewery Co., Ltd.",1238523032,2,1.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"114",281,"Tsingtao Brewery Co., Ltd.",1238193682,4,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"115",281,"Tsingtao Brewery Co., Ltd.",1238023791,2,2.5,3,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
-"116",281,"Tsingtao Brewery Co., Ltd.",1237701354,3.5,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"117",281,"Tsingtao Brewery Co., Ltd.",1237536383,4,2.5,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"118",281,"Tsingtao Brewery Co., Ltd.",1237444199,2.5,2,3.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"119",281,"Tsingtao Brewery Co., Ltd.",1237436182,3,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"120",281,"Tsingtao Brewery Co., Ltd.",1237348203,1.5,1.5,1,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"121",281,"Tsingtao Brewery Co., Ltd.",1236832970,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"122",281,"Tsingtao Brewery Co., Ltd.",1235393645,3,2.5,3,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"123",281,"Tsingtao Brewery Co., Ltd.",1234861509,4,3,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"124",281,"Tsingtao Brewery Co., Ltd.",1234827238,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"125",281,"Tsingtao Brewery Co., Ltd.",1218520829,2,1,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"126",281,"Tsingtao Brewery Co., Ltd.",1234135343,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"127",281,"Tsingtao Brewery Co., Ltd.",1233858783,3,2,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"128",281,"Tsingtao Brewery Co., Ltd.",1233808424,4,4,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"129",281,"Tsingtao Brewery Co., Ltd.",1232213577,3,3,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"130",281,"Tsingtao Brewery Co., Ltd.",1231739778,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"131",281,"Tsingtao Brewery Co., Ltd.",1231685832,3.5,3.5,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"132",281,"Tsingtao Brewery Co., Ltd.",1325824861,3.5,2.5,2,"American Adjunct Lager",4.5,4,"Tsingtao",4.8,767
-"133",281,"Tsingtao Brewery Co., Ltd.",1325641789,2.5,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"134",281,"Tsingtao Brewery Co., Ltd.",1325452645,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"135",281,"Tsingtao Brewery Co., Ltd.",1323655616,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"136",281,"Tsingtao Brewery Co., Ltd.",1218496415,2,2.5,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"137",281,"Tsingtao Brewery Co., Ltd.",1323053368,2.5,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"138",281,"Tsingtao Brewery Co., Ltd.",1321662509,3,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"139",281,"Tsingtao Brewery Co., Ltd.",1320784285,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"140",281,"Tsingtao Brewery Co., Ltd.",1320454451,2.5,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"141",281,"Tsingtao Brewery Co., Ltd.",1319138123,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"142",281,"Tsingtao Brewery Co., Ltd.",1318630272,2.5,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"143",281,"Tsingtao Brewery Co., Ltd.",1231485785,4,3.5,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"144",281,"Tsingtao Brewery Co., Ltd.",1231478377,3,1.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"145",281,"Tsingtao Brewery Co., Ltd.",1231025660,2,3,3.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"146",281,"Tsingtao Brewery Co., Ltd.",1231014795,5,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"147",281,"Tsingtao Brewery Co., Ltd.",1230838399,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"148",281,"Tsingtao Brewery Co., Ltd.",1229499852,3,3,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"149",281,"Tsingtao Brewery Co., Ltd.",1229431343,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Tsingtao",4.8,767
-"150",281,"Tsingtao Brewery Co., Ltd.",1228261837,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"151",281,"Tsingtao Brewery Co., Ltd.",1227737317,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"152",281,"Tsingtao Brewery Co., Ltd.",1227574662,2.5,2.5,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"153",281,"Tsingtao Brewery Co., Ltd.",1226871923,2.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"154",281,"Tsingtao Brewery Co., Ltd.",1226681040,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"155",281,"Tsingtao Brewery Co., Ltd.",1226447925,2,2.5,2,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"156",281,"Tsingtao Brewery Co., Ltd.",1225239895,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"157",281,"Tsingtao Brewery Co., Ltd.",1225223175,5,4,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"158",281,"Tsingtao Brewery Co., Ltd.",1097527040,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"159",281,"Tsingtao Brewery Co., Ltd.",1224118391,5,2,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"160",281,"Tsingtao Brewery Co., Ltd.",1223133203,2,2.5,3,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
-"161",281,"Tsingtao Brewery Co., Ltd.",1223096057,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"162",281,"Tsingtao Brewery Co., Ltd.",1223033439,5,2.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"163",281,"Tsingtao Brewery Co., Ltd.",1222956418,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"164",281,"Tsingtao Brewery Co., Ltd.",1222918908,2.5,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"165",281,"Tsingtao Brewery Co., Ltd.",1221872321,3,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"166",281,"Tsingtao Brewery Co., Ltd.",1221173940,2,2,2.5,"American Adjunct Lager",1.5,2.5,"Tsingtao",4.8,767
-"167",281,"Tsingtao Brewery Co., Ltd.",1220132820,4,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"168",281,"Tsingtao Brewery Co., Ltd.",1219512996,2,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"169",281,"Tsingtao Brewery Co., Ltd.",1218495684,4,3,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"170",281,"Tsingtao Brewery Co., Ltd.",1218095272,3.5,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"171",281,"Tsingtao Brewery Co., Ltd.",1216853479,4,3,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"172",281,"Tsingtao Brewery Co., Ltd.",1216698173,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"173",281,"Tsingtao Brewery Co., Ltd.",1216487070,4,4,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"174",281,"Tsingtao Brewery Co., Ltd.",1216415217,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"175",281,"Tsingtao Brewery Co., Ltd.",1216393983,4,2,2,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"176",281,"Tsingtao Brewery Co., Ltd.",1215828007,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"177",281,"Tsingtao Brewery Co., Ltd.",1214875569,3,3.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"178",281,"Tsingtao Brewery Co., Ltd.",1214865492,4,3.5,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"179",281,"Tsingtao Brewery Co., Ltd.",1214696358,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"180",281,"Tsingtao Brewery Co., Ltd.",1212210583,4,2,1.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"181",281,"Tsingtao Brewery Co., Ltd.",1211850349,4,4,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"182",281,"Tsingtao Brewery Co., Ltd.",1211279896,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"183",281,"Tsingtao Brewery Co., Ltd.",1210816377,3.5,3,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"184",281,"Tsingtao Brewery Co., Ltd.",1210044148,3,3.5,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"185",281,"Tsingtao Brewery Co., Ltd.",1209517162,3.5,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"186",281,"Tsingtao Brewery Co., Ltd.",1208817075,4,2.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"187",281,"Tsingtao Brewery Co., Ltd.",1208211763,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"188",281,"Tsingtao Brewery Co., Ltd.",1208031481,4,3,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"189",281,"Tsingtao Brewery Co., Ltd.",1207879072,1,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"190",281,"Tsingtao Brewery Co., Ltd.",1207362451,3,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"191",281,"Tsingtao Brewery Co., Ltd.",1207182168,3.5,3,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"192",281,"Tsingtao Brewery Co., Ltd.",1206842712,3.5,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"193",281,"Tsingtao Brewery Co., Ltd.",1206324715,2.5,2,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"194",281,"Tsingtao Brewery Co., Ltd.",1205843696,1.5,1,1,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
-"195",281,"Tsingtao Brewery Co., Ltd.",1205500147,2.5,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"196",281,"Tsingtao Brewery Co., Ltd.",1202874626,3,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"197",281,"Tsingtao Brewery Co., Ltd.",1201655231,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"198",281,"Tsingtao Brewery Co., Ltd.",1201582653,2,2.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"199",281,"Tsingtao Brewery Co., Ltd.",1200880417,3,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"200",281,"Tsingtao Brewery Co., Ltd.",1200704343,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"201",281,"Tsingtao Brewery Co., Ltd.",1200279763,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"202",281,"Tsingtao Brewery Co., Ltd.",1193357769,2.5,2.5,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"203",281,"Tsingtao Brewery Co., Ltd.",1198943818,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"204",281,"Tsingtao Brewery Co., Ltd.",1198791359,3.5,3,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"205",281,"Tsingtao Brewery Co., Ltd.",1198494593,4,3,4,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
-"206",281,"Tsingtao Brewery Co., Ltd.",1197904406,3,3,3,"American Adjunct Lager",4.5,3,"Tsingtao",4.8,767
-"207",281,"Tsingtao Brewery Co., Ltd.",1197852638,5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"208",281,"Tsingtao Brewery Co., Ltd.",1197304425,4,4,3.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"209",281,"Tsingtao Brewery Co., Ltd.",1197278463,2.5,1.5,1.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"210",281,"Tsingtao Brewery Co., Ltd.",1195948488,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"211",281,"Tsingtao Brewery Co., Ltd.",1195698272,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"212",281,"Tsingtao Brewery Co., Ltd.",1194142122,2.5,2.5,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"213",281,"Tsingtao Brewery Co., Ltd.",1193869745,3,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"214",281,"Tsingtao Brewery Co., Ltd.",1193804187,2.5,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"215",281,"Tsingtao Brewery Co., Ltd.",1192766861,5,4,3,"American Adjunct Lager",4,4.5,"Tsingtao",4.8,767
-"216",281,"Tsingtao Brewery Co., Ltd.",1192246764,1.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"217",281,"Tsingtao Brewery Co., Ltd.",1191725055,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"218",281,"Tsingtao Brewery Co., Ltd.",1191260738,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"219",281,"Tsingtao Brewery Co., Ltd.",1190591431,3,2,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"220",281,"Tsingtao Brewery Co., Ltd.",1190084601,4.5,3,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"221",281,"Tsingtao Brewery Co., Ltd.",1189618864,3,2.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"222",281,"Tsingtao Brewery Co., Ltd.",1187285328,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"223",281,"Tsingtao Brewery Co., Ltd.",1186968492,2.5,1.5,2,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"224",281,"Tsingtao Brewery Co., Ltd.",1186624166,2,1,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"225",281,"Tsingtao Brewery Co., Ltd.",1314637789,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"226",281,"Tsingtao Brewery Co., Ltd.",1185718576,2.5,2.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"227",281,"Tsingtao Brewery Co., Ltd.",1183522540,4,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"228",281,"Tsingtao Brewery Co., Ltd.",1183496004,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"229",281,"Tsingtao Brewery Co., Ltd.",1183436145,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"230",281,"Tsingtao Brewery Co., Ltd.",1183172239,4,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"231",281,"Tsingtao Brewery Co., Ltd.",1183081629,2.5,2,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"232",281,"Tsingtao Brewery Co., Ltd.",1182011182,4.5,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"233",281,"Tsingtao Brewery Co., Ltd.",1181875757,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"234",281,"Tsingtao Brewery Co., Ltd.",1181619109,2.5,2,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"235",281,"Tsingtao Brewery Co., Ltd.",1181404629,3,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"236",281,"Tsingtao Brewery Co., Ltd.",1180386898,1.5,1.5,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"237",281,"Tsingtao Brewery Co., Ltd.",1179529060,2,2.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"238",281,"Tsingtao Brewery Co., Ltd.",1176475384,2.5,1,2.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"239",281,"Tsingtao Brewery Co., Ltd.",1176009534,3,2,3,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"240",281,"Tsingtao Brewery Co., Ltd.",1174098404,1,1,1,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
-"241",281,"Tsingtao Brewery Co., Ltd.",1172452950,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"242",281,"Tsingtao Brewery Co., Ltd.",1316967678,3.5,3.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
-"243",281,"Tsingtao Brewery Co., Ltd.",1315444546,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"244",281,"Tsingtao Brewery Co., Ltd.",1315264648,1.5,1.5,2,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
-"245",281,"Tsingtao Brewery Co., Ltd.",1315024311,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"246",281,"Tsingtao Brewery Co., Ltd.",1314705977,3,3,3,"American Adjunct Lager",4,2.5,"Tsingtao",4.8,767
-"247",281,"Tsingtao Brewery Co., Ltd.",1313697833,2,2.5,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"248",281,"Tsingtao Brewery Co., Ltd.",1313349670,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"249",281,"Tsingtao Brewery Co., Ltd.",1312858758,4,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"250",281,"Tsingtao Brewery Co., Ltd.",1312759307,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"251",281,"Tsingtao Brewery Co., Ltd.",1172242783,3.5,3,3.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"252",281,"Tsingtao Brewery Co., Ltd.",1171750105,3.5,3.5,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"253",281,"Tsingtao Brewery Co., Ltd.",1171657547,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"254",281,"Tsingtao Brewery Co., Ltd.",1171438798,3,3.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"255",281,"Tsingtao Brewery Co., Ltd.",1171007915,2.5,2.5,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"256",281,"Tsingtao Brewery Co., Ltd.",1161747025,4,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"257",281,"Tsingtao Brewery Co., Ltd.",1168982508,2,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"258",281,"Tsingtao Brewery Co., Ltd.",1168060428,3,2,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"259",281,"Tsingtao Brewery Co., Ltd.",1167807312,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"260",281,"Tsingtao Brewery Co., Ltd.",1167704951,4,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"261",281,"Tsingtao Brewery Co., Ltd.",1167254742,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"262",281,"Tsingtao Brewery Co., Ltd.",1167176638,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"263",281,"Tsingtao Brewery Co., Ltd.",1166420437,3,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"264",281,"Tsingtao Brewery Co., Ltd.",1166004126,1.5,1.5,2.5,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
-"265",281,"Tsingtao Brewery Co., Ltd.",1165359879,3.5,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"266",281,"Tsingtao Brewery Co., Ltd.",1164765970,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"267",281,"Tsingtao Brewery Co., Ltd.",1162965891,3,3.5,4,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"268",281,"Tsingtao Brewery Co., Ltd.",1162438715,3,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"269",281,"Tsingtao Brewery Co., Ltd.",1153013686,2.5,2,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"270",281,"Tsingtao Brewery Co., Ltd.",1161726029,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"271",281,"Tsingtao Brewery Co., Ltd.",1161467546,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"272",281,"Tsingtao Brewery Co., Ltd.",1160786455,2.5,2,1,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"273",281,"Tsingtao Brewery Co., Ltd.",1160337367,2,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"274",281,"Tsingtao Brewery Co., Ltd.",1160152005,2.5,3,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"275",281,"Tsingtao Brewery Co., Ltd.",1159750978,2.5,2.5,3,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
-"276",281,"Tsingtao Brewery Co., Ltd.",1159683526,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"277",281,"Tsingtao Brewery Co., Ltd.",1158484633,2.5,1,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"278",281,"Tsingtao Brewery Co., Ltd.",1158383033,4,2.5,1.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"279",281,"Tsingtao Brewery Co., Ltd.",1128295174,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"280",281,"Tsingtao Brewery Co., Ltd.",1158112669,1,1,1.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"281",281,"Tsingtao Brewery Co., Ltd.",1156479386,3.5,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"282",281,"Tsingtao Brewery Co., Ltd.",1156130462,3.5,2.5,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"283",281,"Tsingtao Brewery Co., Ltd.",1156011000,4,3.5,2.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"284",281,"Tsingtao Brewery Co., Ltd.",1155953046,4,3.5,2.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"285",281,"Tsingtao Brewery Co., Ltd.",1155047495,4,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"286",281,"Tsingtao Brewery Co., Ltd.",1154668051,2.5,2,3.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"287",281,"Tsingtao Brewery Co., Ltd.",1154661019,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"288",281,"Tsingtao Brewery Co., Ltd.",1154487543,2.5,2,1.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"289",281,"Tsingtao Brewery Co., Ltd.",1153416568,1,1.5,3.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"290",281,"Tsingtao Brewery Co., Ltd.",1153029243,3,3.5,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"291",281,"Tsingtao Brewery Co., Ltd.",1151984612,2.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"292",281,"Tsingtao Brewery Co., Ltd.",1151008358,2,3,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"293",281,"Tsingtao Brewery Co., Ltd.",1150417693,2,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"294",281,"Tsingtao Brewery Co., Ltd.",1149824707,4,3.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"295",281,"Tsingtao Brewery Co., Ltd.",1149690652,3.5,2.5,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"296",281,"Tsingtao Brewery Co., Ltd.",1149650571,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"297",281,"Tsingtao Brewery Co., Ltd.",1149223454,3.5,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"298",281,"Tsingtao Brewery Co., Ltd.",1147895312,4,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"299",281,"Tsingtao Brewery Co., Ltd.",1147893550,5,4.5,3.5,"American Adjunct Lager",4,5,"Tsingtao",4.8,767
-"300",281,"Tsingtao Brewery Co., Ltd.",1147524537,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"301",281,"Tsingtao Brewery Co., Ltd.",1140701576,2.5,2.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"302",281,"Tsingtao Brewery Co., Ltd.",1146535159,3,2.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"303",281,"Tsingtao Brewery Co., Ltd.",1146272033,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"304",281,"Tsingtao Brewery Co., Ltd.",1144378688,3.5,3,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"305",281,"Tsingtao Brewery Co., Ltd.",1143765821,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"306",281,"Tsingtao Brewery Co., Ltd.",1142657444,3.5,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"307",281,"Tsingtao Brewery Co., Ltd.",1142542395,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"308",281,"Tsingtao Brewery Co., Ltd.",1142202869,2.5,1.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"309",281,"Tsingtao Brewery Co., Ltd.",1141612515,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"310",281,"Tsingtao Brewery Co., Ltd.",1140988507,4,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"311",281,"Tsingtao Brewery Co., Ltd.",1140389197,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"312",281,"Tsingtao Brewery Co., Ltd.",1139514250,2,1,1.5,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
-"313",281,"Tsingtao Brewery Co., Ltd.",1139101268,3,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"314",281,"Tsingtao Brewery Co., Ltd.",1138672541,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"315",281,"Tsingtao Brewery Co., Ltd.",1138473897,3.5,1.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"316",281,"Tsingtao Brewery Co., Ltd.",1138035268,2.5,2.5,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"317",281,"Tsingtao Brewery Co., Ltd.",1137817469,3,1,2,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"318",281,"Tsingtao Brewery Co., Ltd.",1137781648,2,1.5,1.5,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
-"319",281,"Tsingtao Brewery Co., Ltd.",1137285723,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"320",281,"Tsingtao Brewery Co., Ltd.",1137192517,2.5,2.5,3.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
-"321",281,"Tsingtao Brewery Co., Ltd.",1136203701,2,1.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"322",281,"Tsingtao Brewery Co., Ltd.",1132652711,2.5,2.5,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"323",281,"Tsingtao Brewery Co., Ltd.",1135631564,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"324",281,"Tsingtao Brewery Co., Ltd.",1134722778,3,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"325",281,"Tsingtao Brewery Co., Ltd.",1134443691,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"326",281,"Tsingtao Brewery Co., Ltd.",1134442232,2,1,1.5,"American Adjunct Lager",2,1,"Tsingtao",4.8,767
-"327",281,"Tsingtao Brewery Co., Ltd.",1134334280,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"328",281,"Tsingtao Brewery Co., Ltd.",1133836578,1,2,2.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"329",281,"Tsingtao Brewery Co., Ltd.",1133649409,4.5,4,4,"American Adjunct Lager",4.5,4,"Tsingtao",4.8,767
-"330",281,"Tsingtao Brewery Co., Ltd.",1133568636,4,3.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"331",281,"Tsingtao Brewery Co., Ltd.",1133035763,3.5,3,1.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"332",281,"Tsingtao Brewery Co., Ltd.",1132107647,4.5,4,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"333",281,"Tsingtao Brewery Co., Ltd.",1131794601,4,2,1.5,"American Adjunct Lager",2,3.5,"Tsingtao",4.8,767
-"334",281,"Tsingtao Brewery Co., Ltd.",1131113090,3.5,3.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"335",281,"Tsingtao Brewery Co., Ltd.",1130955740,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"336",281,"Tsingtao Brewery Co., Ltd.",1130769061,4.5,2.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"337",281,"Tsingtao Brewery Co., Ltd.",1130199161,2,1.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"338",281,"Tsingtao Brewery Co., Ltd.",1129358220,2,1.5,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"339",281,"Tsingtao Brewery Co., Ltd.",1129235750,2,2,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"340",281,"Tsingtao Brewery Co., Ltd.",1128375165,4,2.5,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"341",281,"Tsingtao Brewery Co., Ltd.",1312646654,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"342",281,"Tsingtao Brewery Co., Ltd.",1127922338,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"343",281,"Tsingtao Brewery Co., Ltd.",1127534866,2,2.5,2,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
-"344",281,"Tsingtao Brewery Co., Ltd.",1126821108,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"345",281,"Tsingtao Brewery Co., Ltd.",1126406950,3.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"346",281,"Tsingtao Brewery Co., Ltd.",1121692744,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
-"347",281,"Tsingtao Brewery Co., Ltd.",1121103902,4,3.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"348",281,"Tsingtao Brewery Co., Ltd.",1120256264,3,3,2.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"349",281,"Tsingtao Brewery Co., Ltd.",1119434323,2.5,3.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"350",281,"Tsingtao Brewery Co., Ltd.",1118518006,3.5,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"351",281,"Tsingtao Brewery Co., Ltd.",1118015357,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"352",281,"Tsingtao Brewery Co., Ltd.",1312669294,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"353",281,"Tsingtao Brewery Co., Ltd.",1312495772,2,2,1.5,"American Adjunct Lager",1.5,2.5,"Tsingtao",4.8,767
-"354",281,"Tsingtao Brewery Co., Ltd.",1310975470,3,2.5,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"355",281,"Tsingtao Brewery Co., Ltd.",1310671810,3.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"356",281,"Tsingtao Brewery Co., Ltd.",1310591601,1.5,1,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"357",281,"Tsingtao Brewery Co., Ltd.",1310507499,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"358",281,"Tsingtao Brewery Co., Ltd.",1310010853,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"359",281,"Tsingtao Brewery Co., Ltd.",1309450981,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
-"360",281,"Tsingtao Brewery Co., Ltd.",1308826837,2,2.5,1,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"361",281,"Tsingtao Brewery Co., Ltd.",1115822707,1.5,2,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"362",281,"Tsingtao Brewery Co., Ltd.",1115344962,4.5,4,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"363",281,"Tsingtao Brewery Co., Ltd.",1113949327,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"364",281,"Tsingtao Brewery Co., Ltd.",1112846228,2,2,1,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"365",281,"Tsingtao Brewery Co., Ltd.",1110079829,4,3,4,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"366",281,"Tsingtao Brewery Co., Ltd.",1109902250,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"367",281,"Tsingtao Brewery Co., Ltd.",1109208053,3.5,3.5,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"368",281,"Tsingtao Brewery Co., Ltd.",1109086605,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"369",281,"Tsingtao Brewery Co., Ltd.",1108928623,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"370",281,"Tsingtao Brewery Co., Ltd.",1108347921,3.5,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"371",281,"Tsingtao Brewery Co., Ltd.",1107651311,2.5,1.5,1.5,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
-"372",281,"Tsingtao Brewery Co., Ltd.",1107373999,4,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"373",281,"Tsingtao Brewery Co., Ltd.",1107317752,4,3.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"374",281,"Tsingtao Brewery Co., Ltd.",1107191215,3,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"375",281,"Tsingtao Brewery Co., Ltd.",1106733896,3,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"376",281,"Tsingtao Brewery Co., Ltd.",1105307900,3.5,2,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"377",281,"Tsingtao Brewery Co., Ltd.",1104359798,1.5,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"378",281,"Tsingtao Brewery Co., Ltd.",1103837722,3.5,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"379",281,"Tsingtao Brewery Co., Ltd.",1102720031,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"380",281,"Tsingtao Brewery Co., Ltd.",1101934964,1.5,3,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"381",281,"Tsingtao Brewery Co., Ltd.",1099663820,2.5,2,2.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"382",281,"Tsingtao Brewery Co., Ltd.",1099561752,5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"383",281,"Tsingtao Brewery Co., Ltd.",1099374668,2.5,2,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"384",281,"Tsingtao Brewery Co., Ltd.",1097902833,2.5,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"385",281,"Tsingtao Brewery Co., Ltd.",1095441693,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"386",281,"Tsingtao Brewery Co., Ltd.",1093965732,3,3,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"387",281,"Tsingtao Brewery Co., Ltd.",1093654455,4,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"388",281,"Tsingtao Brewery Co., Ltd.",1093479677,2,3,4,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"389",281,"Tsingtao Brewery Co., Ltd.",1093352543,3,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"390",281,"Tsingtao Brewery Co., Ltd.",1093102039,2,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"391",281,"Tsingtao Brewery Co., Ltd.",1090368868,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"392",281,"Tsingtao Brewery Co., Ltd.",1090289717,4.5,3.5,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"393",281,"Tsingtao Brewery Co., Ltd.",1086202009,4,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"394",281,"Tsingtao Brewery Co., Ltd.",1084669665,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"395",281,"Tsingtao Brewery Co., Ltd.",1084123373,2,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"396",281,"Tsingtao Brewery Co., Ltd.",1082934684,2,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"397",281,"Tsingtao Brewery Co., Ltd.",1081464850,2,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"398",281,"Tsingtao Brewery Co., Ltd.",1080438863,3.5,2,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"399",281,"Tsingtao Brewery Co., Ltd.",1080424058,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"400",281,"Tsingtao Brewery Co., Ltd.",1080039229,3,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"401",281,"Tsingtao Brewery Co., Ltd.",1079934494,2,2,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"402",281,"Tsingtao Brewery Co., Ltd.",1079670396,4.5,4,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"403",281,"Tsingtao Brewery Co., Ltd.",1079142556,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"404",281,"Tsingtao Brewery Co., Ltd.",1078807506,2.5,3,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"405",281,"Tsingtao Brewery Co., Ltd.",1078786265,3,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"406",281,"Tsingtao Brewery Co., Ltd.",1078361786,2.5,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"407",281,"Tsingtao Brewery Co., Ltd.",1077721234,3,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"408",281,"Tsingtao Brewery Co., Ltd.",1076282635,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"409",281,"Tsingtao Brewery Co., Ltd.",1076189501,2,2,3,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
-"410",281,"Tsingtao Brewery Co., Ltd.",1076122592,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"411",281,"Tsingtao Brewery Co., Ltd.",1076078123,2,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"412",281,"Tsingtao Brewery Co., Ltd.",1075081366,3,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"413",281,"Tsingtao Brewery Co., Ltd.",1074454108,4,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
-"414",281,"Tsingtao Brewery Co., Ltd.",1074377543,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"415",281,"Tsingtao Brewery Co., Ltd.",1073838918,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"416",281,"Tsingtao Brewery Co., Ltd.",1073259573,3,2,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"417",281,"Tsingtao Brewery Co., Ltd.",1044743671,3,4,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"418",281,"Tsingtao Brewery Co., Ltd.",1072201482,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"419",281,"Tsingtao Brewery Co., Ltd.",1071864566,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"420",281,"Tsingtao Brewery Co., Ltd.",1071851093,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"421",281,"Tsingtao Brewery Co., Ltd.",1070563347,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"422",281,"Tsingtao Brewery Co., Ltd.",1069985886,4.5,3,2.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"423",281,"Tsingtao Brewery Co., Ltd.",1069854077,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"424",281,"Tsingtao Brewery Co., Ltd.",1069633660,1,1,1,"American Adjunct Lager",3,1,"Tsingtao",4.8,767
-"425",281,"Tsingtao Brewery Co., Ltd.",1069240286,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"426",281,"Tsingtao Brewery Co., Ltd.",1069174642,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"427",281,"Tsingtao Brewery Co., Ltd.",1068747150,3,2,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"428",281,"Tsingtao Brewery Co., Ltd.",1068322485,2,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"429",281,"Tsingtao Brewery Co., Ltd.",1068028496,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"430",281,"Tsingtao Brewery Co., Ltd.",1067042178,1.5,1,3.5,"American Adjunct Lager",3.5,1,"Tsingtao",4.8,767
-"431",281,"Tsingtao Brewery Co., Ltd.",1066275697,2.5,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"432",281,"Tsingtao Brewery Co., Ltd.",1066253868,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"433",281,"Tsingtao Brewery Co., Ltd.",1064793836,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"434",281,"Tsingtao Brewery Co., Ltd.",1064501867,2,2.5,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"435",281,"Tsingtao Brewery Co., Ltd.",1064335898,2,2,1.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"436",281,"Tsingtao Brewery Co., Ltd.",1063735771,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"437",281,"Tsingtao Brewery Co., Ltd.",1063466420,1.5,1.5,2,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
-"438",281,"Tsingtao Brewery Co., Ltd.",1063142456,1.5,1.5,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"439",281,"Tsingtao Brewery Co., Ltd.",1045591754,3,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"440",281,"Tsingtao Brewery Co., Ltd.",1062533999,3,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
-"441",281,"Tsingtao Brewery Co., Ltd.",1060656349,2,2,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"442",281,"Tsingtao Brewery Co., Ltd.",1060482242,4,3,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"443",281,"Tsingtao Brewery Co., Ltd.",1057387483,1.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"444",281,"Tsingtao Brewery Co., Ltd.",1054197847,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"445",281,"Tsingtao Brewery Co., Ltd.",1053969083,3.5,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"446",281,"Tsingtao Brewery Co., Ltd.",1049973742,3.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"447",281,"Tsingtao Brewery Co., Ltd.",1049485578,2.5,1,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"448",281,"Tsingtao Brewery Co., Ltd.",1049294420,2,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"449",281,"Tsingtao Brewery Co., Ltd.",1048228092,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"450",281,"Tsingtao Brewery Co., Ltd.",1046119591,2.5,2,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"451",281,"Tsingtao Brewery Co., Ltd.",1044226688,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"452",281,"Tsingtao Brewery Co., Ltd.",1044222755,4,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"453",281,"Tsingtao Brewery Co., Ltd.",1043513480,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"454",281,"Tsingtao Brewery Co., Ltd.",1043131520,4,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"455",281,"Tsingtao Brewery Co., Ltd.",1042240503,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"456",281,"Tsingtao Brewery Co., Ltd.",1042127808,4,2,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"457",281,"Tsingtao Brewery Co., Ltd.",1040749817,3.5,3.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"458",281,"Tsingtao Brewery Co., Ltd.",1308215652,3.5,2,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"459",281,"Tsingtao Brewery Co., Ltd.",1308047656,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"460",281,"Tsingtao Brewery Co., Ltd.",1307961207,2,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"461",281,"Tsingtao Brewery Co., Ltd.",1307156956,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"462",281,"Tsingtao Brewery Co., Ltd.",1307121412,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"463",281,"Tsingtao Brewery Co., Ltd.",1306887909,3,3.5,3.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"464",281,"Tsingtao Brewery Co., Ltd.",1305938731,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"465",281,"Tsingtao Brewery Co., Ltd.",1303576688,2.5,1.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"466",281,"Tsingtao Brewery Co., Ltd.",1301702368,3,2,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"467",281,"Tsingtao Brewery Co., Ltd.",1040196753,2.5,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"468",281,"Tsingtao Brewery Co., Ltd.",1038935752,4,3,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
-"469",281,"Tsingtao Brewery Co., Ltd.",1038225187,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"470",281,"Tsingtao Brewery Co., Ltd.",1038222786,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"471",281,"Tsingtao Brewery Co., Ltd.",1036694866,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"472",281,"Tsingtao Brewery Co., Ltd.",1036178261,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"473",281,"Tsingtao Brewery Co., Ltd.",1034597650,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"474",281,"Tsingtao Brewery Co., Ltd.",1032447326,3,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"475",281,"Tsingtao Brewery Co., Ltd.",1030889956,4,3,4,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"476",281,"Tsingtao Brewery Co., Ltd.",1029941686,4,3.5,3.5,"American Adjunct Lager",4.5,3.5,"Tsingtao",4.8,767
-"477",281,"Tsingtao Brewery Co., Ltd.",1029832203,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"478",281,"Tsingtao Brewery Co., Ltd.",1028916836,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"479",281,"Tsingtao Brewery Co., Ltd.",1027937855,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"480",281,"Tsingtao Brewery Co., Ltd.",1026615395,2.5,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"481",281,"Tsingtao Brewery Co., Ltd.",1025463377,3,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"482",281,"Tsingtao Brewery Co., Ltd.",1025050449,2.5,3,5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"483",281,"Tsingtao Brewery Co., Ltd.",1025038925,3,1,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"484",281,"Tsingtao Brewery Co., Ltd.",1023942261,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"485",281,"Tsingtao Brewery Co., Ltd.",1022956980,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"486",281,"Tsingtao Brewery Co., Ltd.",1022615231,1.5,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"487",281,"Tsingtao Brewery Co., Ltd.",1022408301,3,3.5,4,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"488",281,"Tsingtao Brewery Co., Ltd.",1021125545,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"489",281,"Tsingtao Brewery Co., Ltd.",1020144304,2,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"490",281,"Tsingtao Brewery Co., Ltd.",1015769230,4,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"491",281,"Tsingtao Brewery Co., Ltd.",1009504410,4,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"492",281,"Tsingtao Brewery Co., Ltd.",1002014073,3,3,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"493",281,"Tsingtao Brewery Co., Ltd.",1000330148,4,4,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
-"494",281,"Tsingtao Brewery Co., Ltd.",994877065,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
-"495",281,"Tsingtao Brewery Co., Ltd.",1297633329,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"496",281,"Tsingtao Brewery Co., Ltd.",982708947,4,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"497",281,"Tsingtao Brewery Co., Ltd.",1301461502,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"498",281,"Tsingtao Brewery Co., Ltd.",1301454525,3,2.5,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"499",281,"Tsingtao Brewery Co., Ltd.",1301242983,2.5,3,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"500",281,"Tsingtao Brewery Co., Ltd.",1301132535,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"501",281,"Tsingtao Brewery Co., Ltd.",1301022533,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"502",281,"Tsingtao Brewery Co., Ltd.",1300944939,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"503",281,"Tsingtao Brewery Co., Ltd.",1300117226,3.5,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"504",281,"Tsingtao Brewery Co., Ltd.",1299190420,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"505",281,"Tsingtao Brewery Co., Ltd.",1298304406,2,2.5,3.5,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
-"506",281,"Tsingtao Brewery Co., Ltd.",1297227336,3.5,3.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"507",281,"Tsingtao Brewery Co., Ltd.",1296862783,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"508",281,"Tsingtao Brewery Co., Ltd.",1296837434,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"509",281,"Tsingtao Brewery Co., Ltd.",1296823029,3,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"510",281,"Tsingtao Brewery Co., Ltd.",1296504223,3.5,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"511",281,"Tsingtao Brewery Co., Ltd.",1295569161,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"512",281,"Tsingtao Brewery Co., Ltd.",1294979773,2.5,2,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"513",281,"Tsingtao Brewery Co., Ltd.",1294017517,4,2.5,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
-"514",281,"Tsingtao Brewery Co., Ltd.",1293957670,5,1.5,1,"American Adjunct Lager",1.5,3,"Tsingtao",4.8,767
-"515",281,"Tsingtao Brewery Co., Ltd.",1293413532,2.5,3,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
-"516",281,"Tsingtao Brewery Co., Ltd.",1292803318,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"517",281,"Tsingtao Brewery Co., Ltd.",1292301285,2.5,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"518",281,"Tsingtao Brewery Co., Ltd.",1291427159,3,3.5,2.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
-"519",281,"Tsingtao Brewery Co., Ltd.",1289967782,4.5,3.5,2,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
-"520",281,"Tsingtao Brewery Co., Ltd.",1289067164,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"521",281,"Tsingtao Brewery Co., Ltd.",1288921007,3,2,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
-"522",281,"Tsingtao Brewery Co., Ltd.",1287932206,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"523",281,"Tsingtao Brewery Co., Ltd.",1287921568,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"524",281,"Tsingtao Brewery Co., Ltd.",1287708887,3,3,2,"American Adjunct Lager",4,2.5,"Tsingtao",4.8,767
-"525",281,"Tsingtao Brewery Co., Ltd.",1287669351,3.5,2,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"526",281,"Tsingtao Brewery Co., Ltd.",1287512177,3,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"527",281,"Tsingtao Brewery Co., Ltd.",1287509456,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
-"528",281,"Tsingtao Brewery Co., Ltd.",1287420873,3,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"529",281,"Tsingtao Brewery Co., Ltd.",1287339316,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"530",281,"Tsingtao Brewery Co., Ltd.",1286567215,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
-"531",281,"Tsingtao Brewery Co., Ltd.",1285471317,4,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"532",281,"Tsingtao Brewery Co., Ltd.",1285428936,2,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
-"533",281,"Tsingtao Brewery Co., Ltd.",1284773658,4,4,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"534",281,"Tsingtao Brewery Co., Ltd.",1283356110,3,3.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
-"535",281,"Tsingtao Brewery Co., Ltd.",1283200605,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"536",281,"Tsingtao Brewery Co., Ltd.",1282786178,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"537",281,"Tsingtao Brewery Co., Ltd.",1282773347,3,1.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
-"538",281,"Tsingtao Brewery Co., Ltd.",1282620935,3.5,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"539",281,"Tsingtao Brewery Co., Ltd.",1282408967,2.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"540",281,"Tsingtao Brewery Co., Ltd.",1282012908,4,3,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
-"541",281,"Tsingtao Brewery Co., Ltd.",1281812236,3,3,2.5,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
-"542",281,"Tsingtao Brewery Co., Ltd.",1281283702,3,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
-"543",281,"Tsingtao Brewery Co., Ltd.",1281064081,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
-"544",281,"Tsingtao Brewery Co., Ltd.",1279670259,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
-"545",281,"Tsingtao Brewery Co., Ltd.",1279510728,2.5,3,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
-"546",281,"Tsingtao Brewery Co., Ltd.",1208628406,3,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Red Dragon Xtreme",NA,11830
-"547",281,"Tsingtao Brewery Co., Ltd.",1158026632,1.5,3.5,2,"Munich Helles Lager",3.5,2,"Red Dragon Xtreme",NA,11830
-"548",281,"Tsingtao Brewery Co., Ltd.",1157231743,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Red Dragon Xtreme",NA,11830
-"549",281,"Tsingtao Brewery Co., Ltd.",1073869502,3,3,3,"Munich Helles Lager",3.5,3,"Red Dragon Xtreme",NA,11830
-"550",281,"Tsingtao Brewery Co., Ltd.",1059522182,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Red Dragon Xtreme",NA,11830
-"551",281,"Tsingtao Brewery Co., Ltd.",1252977600,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
-"552",281,"Tsingtao Brewery Co., Ltd.",1322710884,2,2,2,"Light Lager",1.5,2,"Tsingtao Draft Beer",4.3,27342
-"553",281,"Tsingtao Brewery Co., Ltd.",1314056853,3,2.5,1.5,"Light Lager",3,2.5,"Tsingtao Draft Beer",4.3,27342
-"554",281,"Tsingtao Brewery Co., Ltd.",1309752627,3.5,3,3,"Light Lager",3.5,3.5,"Tsingtao Draft Beer",4.3,27342
-"555",281,"Tsingtao Brewery Co., Ltd.",1296650787,3.5,1.5,2,"Light Lager",3,2.5,"Tsingtao Draft Beer",4.3,27342
-"556",281,"Tsingtao Brewery Co., Ltd.",1271026613,4,3,3,"Light Lager",3.5,3.5,"Tsingtao Draft Beer",4.3,27342
-"557",281,"Tsingtao Brewery Co., Ltd.",1268612880,4,4,3.5,"Light Lager",4,4,"Tsingtao Draft Beer",4.3,27342
-"558",281,"Tsingtao Brewery Co., Ltd.",1264369515,2,2.5,2,"Light Lager",3,1.5,"Tsingtao Draft Beer",4.3,27342
-"559",281,"Tsingtao Brewery Co., Ltd.",1208813679,2.5,2.5,3,"Light Lager",2.5,3,"Tsingtao Draft Beer",4.3,27342
-"560",281,"Tsingtao Brewery Co., Ltd.",1207617335,3,3,3,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
-"561",281,"Tsingtao Brewery Co., Ltd.",1181580638,4,3.5,3,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
-"562",281,"Tsingtao Brewery Co., Ltd.",1159683286,4,3,3.5,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
-"563",281,"Tsingtao Brewery Co., Ltd.",1155747509,2,2.5,3,"Light Lager",2,2,"Tsingtao Draft Beer",4.3,27342
-"564",281,"Tsingtao Brewery Co., Ltd.",1155007211,2.5,1.5,2.5,"Light Lager",2.5,2,"Tsingtao Draft Beer",4.3,27342
-"565",281,"Tsingtao Brewery Co., Ltd.",1134520088,5,2,2,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
-"566",281,"Tsingtao Brewery Co., Ltd.",1211609727,4,2.5,4.5,"Euro Dark Lager",3,3.5,"Tsingtao Dark Beer",5.2,8204
-"567",281,"Tsingtao Brewery Co., Ltd.",1192420972,3.5,3.5,4,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
-"568",281,"Tsingtao Brewery Co., Ltd.",1168775897,4,3,4.5,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
-"569",281,"Tsingtao Brewery Co., Ltd.",1118357679,3,3,4,"Euro Dark Lager",2.5,3,"Tsingtao Dark Beer",5.2,8204
-"570",281,"Tsingtao Brewery Co., Ltd.",1083249753,2,2,2,"Euro Dark Lager",2,2,"Tsingtao Dark Beer",5.2,8204
-"571",281,"Tsingtao Brewery Co., Ltd.",1082987562,2.5,4,3.5,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
-"572",281,"Tsingtao Brewery Co., Ltd.",1082920161,4,4,4,"Euro Dark Lager",3.5,4,"Tsingtao Dark Beer",5.2,8204
-"573",281,"Tsingtao Brewery Co., Ltd.",1081199257,3.5,3.5,3.5,"Euro Dark Lager",3.5,4,"Tsingtao Dark Beer",5.2,8204
-"574",281,"Tsingtao Brewery Co., Ltd.",1043339649,2,3,3,"Euro Dark Lager",1,2,"Tsingtao Dark Beer",5.2,8204
-"575",281,"Tsingtao Brewery Co., Ltd.",1321204940,2.5,1.5,3,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
-"576",281,"Tsingtao Brewery Co., Ltd.",1320188387,3.5,3,4,"American Adjunct Lager",4,3,"Tsingtao Pure Draft",4.8,29793
-"577",281,"Tsingtao Brewery Co., Ltd.",1318801902,2.5,2,3,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"578",281,"Tsingtao Brewery Co., Ltd.",1311823220,2,2,3,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
-"579",281,"Tsingtao Brewery Co., Ltd.",1293585798,2,2,2,"American Adjunct Lager",2,1.5,"Tsingtao Pure Draft",4.8,29793
-"580",281,"Tsingtao Brewery Co., Ltd.",1287198940,1,1,1.5,"American Adjunct Lager",1,1,"Tsingtao Pure Draft",4.8,29793
-"581",281,"Tsingtao Brewery Co., Ltd.",1275867645,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"582",281,"Tsingtao Brewery Co., Ltd.",1275106144,4.5,3,2.5,"American Adjunct Lager",3,4,"Tsingtao Pure Draft",4.8,29793
-"583",281,"Tsingtao Brewery Co., Ltd.",1273892921,4,3,2.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
-"584",281,"Tsingtao Brewery Co., Ltd.",1267484706,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao Pure Draft",4.8,29793
-"585",281,"Tsingtao Brewery Co., Ltd.",1259457279,2.5,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
-"586",281,"Tsingtao Brewery Co., Ltd.",1258697978,3,3,2.5,"American Adjunct Lager",2,2.5,"Tsingtao Pure Draft",4.8,29793
-"587",281,"Tsingtao Brewery Co., Ltd.",1256701911,2.5,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Tsingtao Pure Draft",4.8,29793
-"588",281,"Tsingtao Brewery Co., Ltd.",1249607793,2,3,3,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"589",281,"Tsingtao Brewery Co., Ltd.",1246218721,2.5,3,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao Pure Draft",4.8,29793
-"590",281,"Tsingtao Brewery Co., Ltd.",1246049669,3,2,2,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"591",281,"Tsingtao Brewery Co., Ltd.",1245345049,2.5,2,1.5,"American Adjunct Lager",1.5,2,"Tsingtao Pure Draft",4.8,29793
-"592",281,"Tsingtao Brewery Co., Ltd.",1239659019,1.5,2.5,2,"American Adjunct Lager",2.5,1.5,"Tsingtao Pure Draft",4.8,29793
-"593",281,"Tsingtao Brewery Co., Ltd.",1235444817,2.5,2,2.5,"American Adjunct Lager",3,2,"Tsingtao Pure Draft",4.8,29793
-"594",281,"Tsingtao Brewery Co., Ltd.",1234996611,3,2,1.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
-"595",281,"Tsingtao Brewery Co., Ltd.",1233292299,3,2,2,"American Adjunct Lager",3,2,"Tsingtao Pure Draft",4.8,29793
-"596",281,"Tsingtao Brewery Co., Ltd.",1227986114,3,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
-"597",281,"Tsingtao Brewery Co., Ltd.",1223145880,2.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
-"598",281,"Tsingtao Brewery Co., Ltd.",1220941100,3,3,2,"American Adjunct Lager",2,3,"Tsingtao Pure Draft",4.8,29793
-"599",281,"Tsingtao Brewery Co., Ltd.",1214696685,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
-"600",281,"Tsingtao Brewery Co., Ltd.",1204492407,2,1.5,1.5,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"601",281,"Tsingtao Brewery Co., Ltd.",1194096813,1.5,1.5,1,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
-"602",281,"Tsingtao Brewery Co., Ltd.",1193000645,3,3,3,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
-"603",281,"Tsingtao Brewery Co., Ltd.",1192502448,2.5,3,1,"American Adjunct Lager",2,3,"Tsingtao Pure Draft",4.8,29793
-"604",281,"Tsingtao Brewery Co., Ltd.",1188349715,2.5,3.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
-"605",281,"Tsingtao Brewery Co., Ltd.",1185085082,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
-"606",281,"Tsingtao Brewery Co., Ltd.",1182519915,3,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao Pure Draft",4.8,29793
-"607",281,"Tsingtao Brewery Co., Ltd.",1180294180,1,1,2,"American Adjunct Lager",2,1,"Tsingtao Pure Draft",4.8,29793
-"608",281,"Tsingtao Brewery Co., Ltd.",1173224520,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao Pure Draft",4.8,29793
-"609",281,"Tsingtao Brewery Co., Ltd.",1172377581,3,2,2.5,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
-"610",281,"Tsingtao Brewery Co., Ltd.",1162169193,2,2.5,3,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
-"611",281,"Tsingtao Brewery Co., Ltd.",1159683379,4,3,3,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
-"612",281,"Tsingtao Brewery Co., Ltd.",1159580167,2.5,3.5,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao Pure Draft",4.8,29793
-"613",281,"Tsingtao Brewery Co., Ltd.",1311829388,2.5,2,2,"Light Lager",2.5,2.5,"Laoshan Beer",2.5,23410
-"614",281,"Tsingtao Brewery Co., Ltd.",1302438786,2,1.5,1,"Light Lager",2,2,"Laoshan Beer",2.5,23410
-"615",281,"Tsingtao Brewery Co., Ltd.",1200598925,4,2,2,"Light Lager",2.5,2,"Laoshan Beer",2.5,23410
-"616",281,"Tsingtao Brewery Co., Ltd.",1159684002,2.5,2,2,"Light Lager",2,1.5,"Laoshan Beer",2.5,23410
-"617",281,"Tsingtao Brewery Co., Ltd.",1114886595,2.5,2.5,2.5,"Light Lager",3,3,"Laoshan Beer",2.5,23410
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+281,"Tsingtao Brewery Co., Ltd.",1044981022,2.5,3,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1270502949,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1044398036,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1303905485,3,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1026226136,1.5,1,1.5,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1254824470,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1318061806,3,3.5,3,"Foreign / Export Stout",2,2,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1308230102,3.5,3,4,"Foreign / Export Stout",3.5,3.5,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1296046662,2.5,2.5,3,"Foreign / Export Stout",2.5,3,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1274760076,4.5,4.5,4,"Foreign / Export Stout",4,4.5,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1266494180,5,4,4.5,"Foreign / Export Stout",4,4,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1259850719,3,2,3.5,"Foreign / Export Stout",3,2.5,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1251548548,4,3.5,3.5,"Foreign / Export Stout",3.5,4.5,"Tsingtao Stout",7.5,52200
+281,"Tsingtao Brewery Co., Ltd.",1319387479,3.5,3,3,"American Adjunct Lager",4,4,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1296907877,3,3.5,2.5,"American Adjunct Lager",3,2,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1253679903,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1251547446,4,3.5,3.5,"American Adjunct Lager",3.5,4,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1229148790,3.5,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1214000821,3.5,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1213216895,3.5,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1194764873,1,2,2,"American Adjunct Lager",1,1,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1170296571,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1164157130,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1159683442,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1154846140,5,5,5,"American Adjunct Lager",5,5,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1140841911,3.5,2,2.5,"American Adjunct Lager",3.5,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1136872819,3.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1135165515,4,3,3.5,"American Adjunct Lager",3,3,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1081195690,4,2,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao Premium",4.5,16971
+281,"Tsingtao Brewery Co., Ltd.",1278435676,3.5,2,2.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1277571755,3.5,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1277050358,5,3.5,3,"American Adjunct Lager",4,5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1277026896,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1276289756,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1275869361,3.5,3.5,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1275695083,3,2,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1275199721,4.5,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1273412680,2,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1273268708,4,3.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1273257555,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1271981374,4.5,2,3,"American Adjunct Lager",4.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1270859356,3.5,3.5,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1270440766,3.5,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1270047279,4,3,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1269830722,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1269294711,4.5,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1268214130,4,4,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1267305710,1.5,1.5,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1266969557,2.5,3,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1266948619,4,2.5,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1266558789,3,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1265931852,4,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1265848910,3,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1265747467,2,3,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1265259611,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1265079032,2.5,3,3.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1262991986,3.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1262228376,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1262056046,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1254963164,3.5,3.5,2.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1261993804,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1261536544,4.5,2.5,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1261418763,3,2.5,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1261375996,3,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1261196621,4,2.5,4,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1260729642,3.5,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1260356459,3,4,3.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1260330225,4.5,3.5,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1260220010,3.5,2.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1258945806,4,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1258437052,4,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1234313020,4,2.5,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256595208,2,1.5,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256308065,4,3,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256223213,2,2.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256129119,3,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256124522,2.5,1,1,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1256054832,3,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1255539256,2,2,1,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1255385635,4,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1254064773,4.5,2.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1252681803,2.5,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1252250988,2.5,3.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1251902795,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1251403624,3,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1251316852,2,3.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1250524040,2.5,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1250136329,4,2,4,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1248836398,4.5,2,4,"American Adjunct Lager",4.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1248807583,4,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1247436645,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1247282128,4.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1246929575,3.5,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1246834763,5,4.5,4,"American Adjunct Lager",3,5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1245985163,2.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1245639024,4.5,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1245504301,4.5,2,2.5,"American Adjunct Lager",2.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1245119139,4,3,1.5,"American Adjunct Lager",4.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1245001535,2.5,3,3,"American Adjunct Lager",2.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1244759475,4,3,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1244085154,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1243744227,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1219023748,3,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1243708098,3,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1243392275,4,2.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1243165734,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1242498296,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1242164672,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1241445539,2.5,2,4,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1239886444,3.5,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1239289084,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1238824364,3,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1238523032,2,1.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1238193682,4,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1238023791,2,2.5,3,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1237701354,3.5,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1237536383,4,2.5,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1237444199,2.5,2,3.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1237436182,3,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1237348203,1.5,1.5,1,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1236832970,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1235393645,3,2.5,3,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1234861509,4,3,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1234827238,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1218520829,2,1,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1234135343,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1233858783,3,2,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1233808424,4,4,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1232213577,3,3,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231739778,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231685832,3.5,3.5,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1325824861,3.5,2.5,2,"American Adjunct Lager",4.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1325641789,2.5,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1325452645,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1323655616,4,3.5,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1218496415,2,2.5,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1323053368,2.5,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1321662509,3,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1320784285,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1320454451,2.5,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1319138123,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1318630272,2.5,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231485785,4,3.5,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231478377,3,1.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231025660,2,3,3.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1231014795,5,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1230838399,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1229499852,3,3,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1229431343,4.5,4,4,"American Adjunct Lager",4.5,4.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1228261837,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1227737317,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1227574662,2.5,2.5,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1226871923,2.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1226681040,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1226447925,2,2.5,2,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1225239895,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1225223175,5,4,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1097527040,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1224118391,5,2,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1223133203,2,2.5,3,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1223096057,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1223033439,5,2.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1222956418,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1222918908,2.5,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1221872321,3,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1221173940,2,2,2.5,"American Adjunct Lager",1.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1220132820,4,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1219512996,2,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1218495684,4,3,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1218095272,3.5,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1216853479,4,3,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1216698173,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1216487070,4,4,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1216415217,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1216393983,4,2,2,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1215828007,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1214875569,3,3.5,3.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1214865492,4,3.5,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1214696358,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1212210583,4,2,1.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1211850349,4,4,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1211279896,4.5,3.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1210816377,3.5,3,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1210044148,3,3.5,2.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1209517162,3.5,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1208817075,4,2.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1208211763,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1208031481,4,3,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1207879072,1,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1207362451,3,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1207182168,3.5,3,2.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1206842712,3.5,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1206324715,2.5,2,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1205843696,1.5,1,1,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1205500147,2.5,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1202874626,3,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1201655231,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1201582653,2,2.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1200880417,3,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1200704343,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1200279763,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1193357769,2.5,2.5,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1198943818,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1198791359,3.5,3,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1198494593,4,3,4,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1197904406,3,3,3,"American Adjunct Lager",4.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1197852638,5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1197304425,4,4,3.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1197278463,2.5,1.5,1.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1195948488,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1195698272,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1194142122,2.5,2.5,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1193869745,3,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1193804187,2.5,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1192766861,5,4,3,"American Adjunct Lager",4,4.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1192246764,1.5,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1191725055,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1191260738,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1190591431,3,2,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1190084601,4.5,3,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1189618864,3,2.5,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1187285328,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1186968492,2.5,1.5,2,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1186624166,2,1,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1314637789,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1185718576,2.5,2.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1183522540,4,2,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1183496004,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1183436145,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1183172239,4,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1183081629,2.5,2,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1182011182,4.5,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1181875757,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1181619109,2.5,2,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1181404629,3,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1180386898,1.5,1.5,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1179529060,2,2.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1176475384,2.5,1,2.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1176009534,3,2,3,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1174098404,1,1,1,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1172452950,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1316967678,3.5,3.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1315444546,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1315264648,1.5,1.5,2,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1315024311,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1314705977,3,3,3,"American Adjunct Lager",4,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1313697833,2,2.5,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1313349670,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1312858758,4,4,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1312759307,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1172242783,3.5,3,3.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1171750105,3.5,3.5,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1171657547,3.5,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1171438798,3,3.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1171007915,2.5,2.5,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1161747025,4,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1168982508,2,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1168060428,3,2,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1167807312,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1167704951,4,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1167254742,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1167176638,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1166420437,3,3,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1166004126,1.5,1.5,2.5,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1165359879,3.5,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1164765970,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1162965891,3,3.5,4,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1162438715,3,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1153013686,2.5,2,2,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1161726029,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1161467546,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1160786455,2.5,2,1,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1160337367,2,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1160152005,2.5,3,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1159750978,2.5,2.5,3,"American Adjunct Lager",3.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1159683526,3.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1158484633,2.5,1,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1158383033,4,2.5,1.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1128295174,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1158112669,1,1,1.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1156479386,3.5,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1156130462,3.5,2.5,2.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1156011000,4,3.5,2.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1155953046,4,3.5,2.5,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1155047495,4,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1154668051,2.5,2,3.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1154661019,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1154487543,2.5,2,1.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1153416568,1,1.5,3.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1153029243,3,3.5,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1151984612,2.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1151008358,2,3,3,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1150417693,2,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1149824707,4,3.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1149690652,3.5,2.5,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1149650571,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1149223454,3.5,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1147895312,4,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1147893550,5,4.5,3.5,"American Adjunct Lager",4,5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1147524537,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1140701576,2.5,2.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1146535159,3,2.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1146272033,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1144378688,3.5,3,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1143765821,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1142657444,3.5,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1142542395,3,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1142202869,2.5,1.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1141612515,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1140988507,4,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1140389197,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1139514250,2,1,1.5,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1139101268,3,2.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1138672541,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1138473897,3.5,1.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1138035268,2.5,2.5,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1137817469,3,1,2,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1137781648,2,1.5,1.5,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1137285723,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1137192517,2.5,2.5,3.5,"American Adjunct Lager",3.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1136203701,2,1.5,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1132652711,2.5,2.5,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1135631564,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1134722778,3,2,2,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1134443691,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1134442232,2,1,1.5,"American Adjunct Lager",2,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1134334280,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1133836578,1,2,2.5,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1133649409,4.5,4,4,"American Adjunct Lager",4.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1133568636,4,3.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1133035763,3.5,3,1.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1132107647,4.5,4,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1131794601,4,2,1.5,"American Adjunct Lager",2,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1131113090,3.5,3.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1130955740,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1130769061,4.5,2.5,3,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1130199161,2,1.5,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1129358220,2,1.5,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1129235750,2,2,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1128375165,4,2.5,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1312646654,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1127922338,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1127534866,2,2.5,2,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1126821108,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1126406950,3.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1121692744,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1121103902,4,3.5,3.5,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1120256264,3,3,2.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1119434323,2.5,3.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1118518006,3.5,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1118015357,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1312669294,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1312495772,2,2,1.5,"American Adjunct Lager",1.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1310975470,3,2.5,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1310671810,3.5,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1310591601,1.5,1,1.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1310507499,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1310010853,2.5,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1309450981,1.5,1,1.5,"American Adjunct Lager",1.5,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1308826837,2,2.5,1,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1115822707,1.5,2,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1115344962,4.5,4,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1113949327,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1112846228,2,2,1,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1110079829,4,3,4,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1109902250,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1109208053,3.5,3.5,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1109086605,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1108928623,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1108347921,3.5,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1107651311,2.5,1.5,1.5,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1107373999,4,3.5,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1107317752,4,3.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1107191215,3,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1106733896,3,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1105307900,3.5,2,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1104359798,1.5,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1103837722,3.5,3.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1102720031,3.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1101934964,1.5,3,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1099663820,2.5,2,2.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1099561752,5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1099374668,2.5,2,2,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1097902833,2.5,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1095441693,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1093965732,3,3,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1093654455,4,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1093479677,2,3,4,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1093352543,3,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1093102039,2,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1090368868,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1090289717,4.5,3.5,4,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1086202009,4,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1084669665,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1084123373,2,2.5,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1082934684,2,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1081464850,2,2,3,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1080438863,3.5,2,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1080424058,3.5,3,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1080039229,3,3.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1079934494,2,2,1.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1079670396,4.5,4,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1079142556,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1078807506,2.5,3,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1078786265,3,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1078361786,2.5,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1077721234,3,3,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1076282635,3.5,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1076189501,2,2,3,"American Adjunct Lager",1,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1076122592,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1076078123,2,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1075081366,3,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1074454108,4,3,3,"American Adjunct Lager",3.5,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1074377543,3.5,3,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1073838918,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1073259573,3,2,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1044743671,3,4,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1072201482,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1071864566,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1071851093,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1070563347,3.5,3,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1069985886,4.5,3,2.5,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1069854077,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1069633660,1,1,1,"American Adjunct Lager",3,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1069240286,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1069174642,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1068747150,3,2,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1068322485,2,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1068028496,3,2.5,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1067042178,1.5,1,3.5,"American Adjunct Lager",3.5,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1066275697,2.5,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1066253868,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1064793836,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1064501867,2,2.5,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1064335898,2,2,1.5,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1063735771,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1063466420,1.5,1.5,2,"American Adjunct Lager",1.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1063142456,1.5,1.5,2.5,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1045591754,3,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1062533999,3,2,3,"American Adjunct Lager",2,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1060656349,2,2,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1060482242,4,3,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1057387483,1.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1054197847,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1053969083,3.5,2.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1049973742,3.5,3.5,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1049485578,2.5,1,2.5,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1049294420,2,1.5,2,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1048228092,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1046119591,2.5,2,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1044226688,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1044222755,4,3.5,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1043513480,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1043131520,4,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1042240503,4,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1042127808,4,2,2,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1040749817,3.5,3.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1308215652,3.5,2,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1308047656,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1307961207,2,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1307156956,3,3,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1307121412,2.5,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1306887909,3,3.5,3.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1305938731,3,3,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1303576688,2.5,1.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301702368,3,2,3,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1040196753,2.5,2,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1038935752,4,3,3.5,"American Adjunct Lager",4,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1038225187,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1038222786,2.5,2,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1036694866,2.5,2.5,3,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1036178261,2.5,2,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1034597650,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1032447326,3,2,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1030889956,4,3,4,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1029941686,4,3.5,3.5,"American Adjunct Lager",4.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1029832203,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1028916836,3,2.5,3,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1027937855,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1026615395,2.5,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1025463377,3,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1025050449,2.5,3,5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1025038925,3,1,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1023942261,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1022956980,2,2,2,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1022615231,1.5,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1022408301,3,3.5,4,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1021125545,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1020144304,2,1.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1015769230,4,2.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1009504410,4,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1002014073,3,3,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1000330148,4,4,3,"American Adjunct Lager",3,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",994877065,1,1,1,"American Adjunct Lager",1,1,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1297633329,3.5,3,3.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",982708947,4,3,3,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301461502,2.5,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301454525,3,2.5,2,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301242983,2.5,3,2,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301132535,3,3,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1301022533,3,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1300944939,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1300117226,3.5,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1299190420,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1298304406,2,2.5,3.5,"American Adjunct Lager",2.5,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1297227336,3.5,3.5,3,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1296862783,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1296837434,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1296823029,3,2,2,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1296504223,3.5,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1295569161,3,2.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1294979773,2.5,2,4,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1294017517,4,2.5,2.5,"American Adjunct Lager",4,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1293957670,5,1.5,1,"American Adjunct Lager",1.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1293413532,2.5,3,2.5,"American Adjunct Lager",2,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1292803318,3.5,3,3.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1292301285,2.5,2.5,2,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1291427159,3,3.5,2.5,"American Adjunct Lager",3.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1289967782,4.5,3.5,2,"American Adjunct Lager",4,4,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1289067164,3,2.5,3,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1288921007,3,2,2.5,"American Adjunct Lager",2,1.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287932206,3,3,3.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287921568,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287708887,3,3,2,"American Adjunct Lager",4,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287669351,3.5,2,2.5,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287512177,3,2,2,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287509456,3,2.5,2.5,"American Adjunct Lager",2.5,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287420873,3,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1287339316,3,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1286567215,2.5,2,3,"American Adjunct Lager",2.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1285471317,4,2,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1285428936,2,1.5,3,"American Adjunct Lager",2,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1284773658,4,4,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1283356110,3,3.5,3,"American Adjunct Lager",2.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1283200605,4,3,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1282786178,3,2,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1282773347,3,1.5,2.5,"American Adjunct Lager",3,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1282620935,3.5,2,3,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1282408967,2.5,2.5,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1282012908,4,3,4,"American Adjunct Lager",3.5,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1281812236,3,3,2.5,"American Adjunct Lager",1.5,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1281283702,3,3,3,"American Adjunct Lager",3,3.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1281064081,2.5,2.5,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1279670259,3,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1279510728,2.5,3,3,"American Adjunct Lager",3,2,"Tsingtao",4.8,767
+281,"Tsingtao Brewery Co., Ltd.",1208628406,3,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Red Dragon Xtreme",NA,11830
+281,"Tsingtao Brewery Co., Ltd.",1158026632,1.5,3.5,2,"Munich Helles Lager",3.5,2,"Red Dragon Xtreme",NA,11830
+281,"Tsingtao Brewery Co., Ltd.",1157231743,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Red Dragon Xtreme",NA,11830
+281,"Tsingtao Brewery Co., Ltd.",1073869502,3,3,3,"Munich Helles Lager",3.5,3,"Red Dragon Xtreme",NA,11830
+281,"Tsingtao Brewery Co., Ltd.",1059522182,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Red Dragon Xtreme",NA,11830
+281,"Tsingtao Brewery Co., Ltd.",1252977600,3,3,3,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1322710884,2,2,2,"Light Lager",1.5,2,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1314056853,3,2.5,1.5,"Light Lager",3,2.5,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1309752627,3.5,3,3,"Light Lager",3.5,3.5,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1296650787,3.5,1.5,2,"Light Lager",3,2.5,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1271026613,4,3,3,"Light Lager",3.5,3.5,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1268612880,4,4,3.5,"Light Lager",4,4,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1264369515,2,2.5,2,"Light Lager",3,1.5,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1208813679,2.5,2.5,3,"Light Lager",2.5,3,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1207617335,3,3,3,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1181580638,4,3.5,3,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1159683286,4,3,3.5,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1155747509,2,2.5,3,"Light Lager",2,2,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1155007211,2.5,1.5,2.5,"Light Lager",2.5,2,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1134520088,5,2,2,"Light Lager",3,3,"Tsingtao Draft Beer",4.3,27342
+281,"Tsingtao Brewery Co., Ltd.",1211609727,4,2.5,4.5,"Euro Dark Lager",3,3.5,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1192420972,3.5,3.5,4,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1168775897,4,3,4.5,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1118357679,3,3,4,"Euro Dark Lager",2.5,3,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1083249753,2,2,2,"Euro Dark Lager",2,2,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1082987562,2.5,4,3.5,"Euro Dark Lager",3.5,3.5,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1082920161,4,4,4,"Euro Dark Lager",3.5,4,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1081199257,3.5,3.5,3.5,"Euro Dark Lager",3.5,4,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1043339649,2,3,3,"Euro Dark Lager",1,2,"Tsingtao Dark Beer",5.2,8204
+281,"Tsingtao Brewery Co., Ltd.",1321204940,2.5,1.5,3,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1320188387,3.5,3,4,"American Adjunct Lager",4,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1318801902,2.5,2,3,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1311823220,2,2,3,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1293585798,2,2,2,"American Adjunct Lager",2,1.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1287198940,1,1,1.5,"American Adjunct Lager",1,1,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1275867645,2.5,2,2.5,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1275106144,4.5,3,2.5,"American Adjunct Lager",3,4,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1273892921,4,3,2.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1267484706,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1259457279,2.5,2,2.5,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1258697978,3,3,2.5,"American Adjunct Lager",2,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1256701911,2.5,1.5,1.5,"American Adjunct Lager",1.5,1.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1249607793,2,3,3,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1246218721,2.5,3,2.5,"American Adjunct Lager",2.5,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1246049669,3,2,2,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1245345049,2.5,2,1.5,"American Adjunct Lager",1.5,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1239659019,1.5,2.5,2,"American Adjunct Lager",2.5,1.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1235444817,2.5,2,2.5,"American Adjunct Lager",3,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1234996611,3,2,1.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1233292299,3,2,2,"American Adjunct Lager",3,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1227986114,3,2.5,2,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1223145880,2.5,2.5,2.5,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1220941100,3,3,2,"American Adjunct Lager",2,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1214696685,3.5,3,3,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1204492407,2,1.5,1.5,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1194096813,1.5,1.5,1,"American Adjunct Lager",2,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1193000645,3,3,3,"American Adjunct Lager",3,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1192502448,2.5,3,1,"American Adjunct Lager",2,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1188349715,2.5,3.5,3.5,"American Adjunct Lager",3,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1185085082,3,3,3,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1182519915,3,3,3.5,"American Adjunct Lager",3.5,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1180294180,1,1,2,"American Adjunct Lager",2,1,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1173224520,4,3.5,3.5,"American Adjunct Lager",3.5,3.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1172377581,3,2,2.5,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1162169193,2,2.5,3,"American Adjunct Lager",2.5,2,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1159683379,4,3,3,"American Adjunct Lager",2.5,3,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1159580167,2.5,3.5,3.5,"American Adjunct Lager",2.5,2.5,"Tsingtao Pure Draft",4.8,29793
+281,"Tsingtao Brewery Co., Ltd.",1311829388,2.5,2,2,"Light Lager",2.5,2.5,"Laoshan Beer",2.5,23410
+281,"Tsingtao Brewery Co., Ltd.",1302438786,2,1.5,1,"Light Lager",2,2,"Laoshan Beer",2.5,23410
+281,"Tsingtao Brewery Co., Ltd.",1200598925,4,2,2,"Light Lager",2.5,2,"Laoshan Beer",2.5,23410
+281,"Tsingtao Brewery Co., Ltd.",1159684002,2.5,2,2,"Light Lager",2,1.5,"Laoshan Beer",2.5,23410
+281,"Tsingtao Brewery Co., Ltd.",1114886595,2.5,2.5,2.5,"Light Lager",3,3,"Laoshan Beer",2.5,23410

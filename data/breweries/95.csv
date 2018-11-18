@@ -1,565 +1,565 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",95,"Löwenbräu AG",1219598220,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"2",95,"Löwenbräu AG",1214366904,3,2.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"3",95,"Löwenbräu AG",1214328984,3,3,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"4",95,"Löwenbräu AG",1050357054,5,4,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
-"5",95,"Löwenbräu AG",1049891303,4,4,4,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
-"6",95,"Löwenbräu AG",1038200306,3.5,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"7",95,"Löwenbräu AG",1036599063,3.5,3,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"8",95,"Löwenbräu AG",1264794874,3.5,3.5,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"9",95,"Löwenbräu AG",1263997210,4.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"10",95,"Löwenbräu AG",1263825034,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"11",95,"Löwenbräu AG",1324587978,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"12",95,"Löwenbräu AG",1320278675,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"13",95,"Löwenbräu AG",1318868378,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"14",95,"Löwenbräu AG",1317230130,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"15",95,"Löwenbräu AG",1099593887,4,3.5,3.5,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
-"16",95,"Löwenbräu AG",1088024025,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"17",95,"Löwenbräu AG",1065346078,5,3.5,3.5,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
-"18",95,"Löwenbräu AG",1062298189,3,2.5,3,"Munich Dunkel Lager",3,3,"Löwenbräu Premium Dark",5.5,281
-"19",95,"Löwenbräu AG",1226373425,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"20",95,"Löwenbräu AG",1316653913,3,3.5,2,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"21",95,"Löwenbräu AG",1316653316,3.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"22",95,"Löwenbräu AG",1180376653,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"23",95,"Löwenbräu AG",1179346539,2,1.5,2.5,"Munich Helles Lager",2.5,1.5,"Löwenbräu Original",5.2,280
-"24",95,"Löwenbräu AG",1126920089,3,2.5,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"25",95,"Löwenbräu AG",1125782986,3,2.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"26",95,"Löwenbräu AG",1251586292,4,3.5,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"27",95,"Löwenbräu AG",1248716518,4,4,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"28",95,"Löwenbräu AG",1301607249,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
-"29",95,"Löwenbräu AG",1299365724,4.5,4,3.5,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
-"30",95,"Löwenbräu AG",1298131531,4,3.5,4,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
-"31",95,"Löwenbräu AG",1295656439,4,4.5,4,"Doppelbock",3.5,4,"Löwenbräu Triumphator",7.6,6584
-"32",95,"Löwenbräu AG",1246961422,3.5,3,3.5,"Doppelbock",3,4,"Löwenbräu Triumphator",7.6,6584
-"33",95,"Löwenbräu AG",1240129865,4,3.5,5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"34",95,"Löwenbräu AG",1237300488,4,4,4,"Doppelbock",3,4.5,"Löwenbräu Triumphator",7.6,6584
-"35",95,"Löwenbräu AG",1234659429,4,4,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"36",95,"Löwenbräu AG",1210292081,4,4,4,"Doppelbock",4.5,4.5,"Löwenbräu Triumphator",7.6,6584
-"37",95,"Löwenbräu AG",1208930133,4,3,4.5,"Doppelbock",4,3.5,"Löwenbräu Triumphator",7.6,6584
-"38",95,"Löwenbräu AG",1186276172,4,4,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"39",95,"Löwenbräu AG",1181980266,4,4.5,4,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
-"40",95,"Löwenbräu AG",1180393606,4,4,4.5,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
-"41",95,"Löwenbräu AG",1172723589,4.5,5,4.5,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
-"42",95,"Löwenbräu AG",1314470013,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
-"43",95,"Löwenbräu AG",1168570928,4,3,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"44",95,"Löwenbräu AG",1161754241,4.5,4.5,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"45",95,"Löwenbräu AG",1144016517,4.5,4,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
-"46",95,"Löwenbräu AG",1120839192,4.5,4.5,3.5,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
-"47",95,"Löwenbräu AG",1066312049,3,3,3.5,"Doppelbock",3,3,"Löwenbräu Triumphator",7.6,6584
-"48",95,"Löwenbräu AG",1049890675,4.5,4,4.5,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
-"49",95,"Löwenbräu AG",1034429592,4,4,4,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
-"50",95,"Löwenbräu AG",1318698294,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
-"51",95,"Löwenbräu AG",1318170950,3,2.5,3.5,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
-"52",95,"Löwenbräu AG",1096888681,4.5,4,4,"Munich Dunkel Lager",4,4.5,"Löwenbräu Premium Dark",5.5,281
-"53",95,"Löwenbräu AG",1310401109,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
-"54",95,"Löwenbräu AG",1308232187,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
-"55",95,"Löwenbräu AG",1304521538,3.5,3,4,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
-"56",95,"Löwenbräu AG",1299935583,4.5,4.5,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
-"57",95,"Löwenbräu AG",1278496047,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
-"58",95,"Löwenbräu AG",1228676812,4,4,4,"Hefeweizen",4.5,4,"Löwen Weisse",5.2,9860
-"59",95,"Löwenbräu AG",1210291671,3.5,3.5,4,"Hefeweizen",3.5,4,"Löwen Weisse",5.2,9860
-"60",95,"Löwenbräu AG",1209272369,4,4,4,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
-"61",95,"Löwenbräu AG",1206104675,4.5,3.5,4,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
-"62",95,"Löwenbräu AG",1202074304,4,3.5,4,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
-"63",95,"Löwenbräu AG",1066312162,2.5,2.5,3,"Munich Dunkel Lager",3,2.5,"Löwenbräu Premium Dark",5.5,281
-"64",95,"Löwenbräu AG",1188841847,4,4,5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
-"65",95,"Löwenbräu AG",1188473020,3.5,4,4.5,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
-"66",95,"Löwenbräu AG",1183743622,4,4.5,4,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
-"67",95,"Löwenbräu AG",1160683760,4.5,4,4.5,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
-"68",95,"Löwenbräu AG",1159975807,4,4,4.5,"Hefeweizen",3.5,4,"Löwen Weisse",5.2,9860
-"69",95,"Löwenbräu AG",1146245062,4.5,4.5,4.5,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
-"70",95,"Löwenbräu AG",1140041412,4,3.5,3.5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
-"71",95,"Löwenbräu AG",1129313369,4,3.5,2,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
-"72",95,"Löwenbräu AG",1122400961,4,4,3.5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
-"73",95,"Löwenbräu AG",1119999953,3,3,3.5,"Hefeweizen",2.5,3,"Löwen Weisse",5.2,9860
-"74",95,"Löwenbräu AG",1086774722,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
-"75",95,"Löwenbräu AG",1052805676,3.5,3,4,"Hefeweizen",3,3.5,"Löwen Weisse",5.2,9860
-"76",95,"Löwenbräu AG",1310978004,2.5,2,3,"Low Alcohol Beer",3,4,"Löwenbräu Alkoholfrei",0.5,14246
-"77",95,"Löwenbräu AG",1261709508,4,3.5,3,"Low Alcohol Beer",2.5,4,"Löwenbräu Alkoholfrei",0.5,14246
-"78",95,"Löwenbräu AG",1238691779,3,3,3,"Low Alcohol Beer",2.5,3,"Löwenbräu Alkoholfrei",0.5,14246
-"79",95,"Löwenbräu AG",1204996089,4.5,4,3.5,"Low Alcohol Beer",4.5,3.5,"Löwenbräu Alkoholfrei",0.5,14246
-"80",95,"Löwenbräu AG",1166667440,5,4,3,"Low Alcohol Beer",4.5,4.5,"Löwenbräu Alkoholfrei",0.5,14246
-"81",95,"Löwenbräu AG",1068987050,1.5,2,1.5,"Low Alcohol Beer",2,2,"Löwenbräu Alkoholfrei",0.5,14246
-"82",95,"Löwenbräu AG",1281903390,5,2.5,4,"German Pilsener",4,4,"Löwenbräu Premium Pils",5.2,28584
-"83",95,"Löwenbräu AG",1281494362,3,2,4,"German Pilsener",3,2,"Löwenbräu Premium Pils",5.2,28584
-"84",95,"Löwenbräu AG",1246609183,4,4,4.5,"German Pilsener",4,3.5,"Löwenbräu Premium Pils",5.2,28584
-"85",95,"Löwenbräu AG",1173221254,4,3.5,3,"German Pilsener",3.5,3.5,"Löwenbräu Premium Pils",5.2,28584
-"86",95,"Löwenbräu AG",1150006595,3,3.5,3,"German Pilsener",3.5,4,"Löwenbräu Premium Pils",5.2,28584
-"87",95,"Löwenbräu AG",1122683871,2.5,3,3.5,"German Pilsener",2.5,4,"Löwenbräu Premium Pils",5.2,28584
-"88",95,"Löwenbräu AG",1307280684,3,3,3.5,"Munich Dunkel Lager",3,3.5,"Löwenbräu Premium Dark",5.5,281
-"89",95,"Löwenbräu AG",1263409008,4,3,4,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
-"90",95,"Löwenbräu AG",1248714229,5,3.5,4.5,"Munich Dunkel Lager",4.5,4.5,"Löwenbräu Premium Dark",5.5,281
-"91",95,"Löwenbräu AG",1242773846,4,3,3,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
-"92",95,"Löwenbräu AG",1227288648,4,3,3.5,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
-"93",95,"Löwenbräu AG",1226373006,3,2.5,3,"Munich Dunkel Lager",3.5,3,"Löwenbräu Premium Dark",5.5,281
-"94",95,"Löwenbräu AG",1210638731,5,4,4,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
-"95",95,"Löwenbräu AG",1128824817,4,3,3,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
-"96",95,"Löwenbräu AG",1050770662,4,4,3,"Munich Dunkel Lager",3,4,"Löwenbräu Premium Dark",5.5,281
-"97",95,"Löwenbräu AG",1048359030,4,4,3,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
-"98",95,"Löwenbräu AG",1041499304,4,3.5,4,"Munich Dunkel Lager",4,3.5,"Löwenbräu Premium Dark",5.5,281
-"99",95,"Löwenbräu AG",1035712565,4.5,3.5,4,"Munich Dunkel Lager",4.5,4,"Löwenbräu Premium Dark",5.5,281
-"100",95,"Löwenbräu AG",1032769341,3,2.5,3,"Munich Dunkel Lager",3,3,"Löwenbräu Premium Dark",5.5,281
-"101",95,"Löwenbräu AG",1027092691,4,2,3.5,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
-"102",95,"Löwenbräu AG",1022148167,4,3.5,4,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
-"103",95,"Löwenbräu AG",1238344162,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"104",95,"Löwenbräu AG",1237693357,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"105",95,"Löwenbräu AG",1237423460,4,3,2,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"106",95,"Löwenbräu AG",1236395496,4.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"107",95,"Löwenbräu AG",1236387961,2.5,2,2.5,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
-"108",95,"Löwenbräu AG",1235940810,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"109",95,"Löwenbräu AG",1234852048,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"110",95,"Löwenbräu AG",1234341220,3.5,2,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"111",95,"Löwenbräu AG",1234304955,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"112",95,"Löwenbräu AG",1234222460,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"113",95,"Löwenbräu AG",1233871353,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"114",95,"Löwenbräu AG",1233728294,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"115",95,"Löwenbräu AG",1233714107,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"116",95,"Löwenbräu AG",1233519298,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"117",95,"Löwenbräu AG",1226325461,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
-"118",95,"Löwenbräu AG",1233369118,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"119",95,"Löwenbräu AG",1233204613,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"120",95,"Löwenbräu AG",1232987596,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"121",95,"Löwenbräu AG",1231882152,3.5,2.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"122",95,"Löwenbräu AG",1231461537,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"123",95,"Löwenbräu AG",1231390055,4.5,3,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"124",95,"Löwenbräu AG",1231265413,4,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"125",95,"Löwenbräu AG",1230502446,3,2.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"126",95,"Löwenbräu AG",1230233183,3.5,4,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"127",95,"Löwenbräu AG",1230168163,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"128",95,"Löwenbräu AG",1229735848,5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"129",95,"Löwenbräu AG",1229546212,5,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"130",95,"Löwenbräu AG",1229193841,4,3.5,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"131",95,"Löwenbräu AG",1229048161,3.5,4,3,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
-"132",95,"Löwenbräu AG",1228933473,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"133",95,"Löwenbräu AG",1228685416,4,2.5,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"134",95,"Löwenbräu AG",1227729114,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"135",95,"Löwenbräu AG",1227596999,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"136",95,"Löwenbräu AG",1227374555,4,2.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"137",95,"Löwenbräu AG",1226602817,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"138",95,"Löwenbräu AG",1226593768,2.5,2,2,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
-"139",95,"Löwenbräu AG",1226172212,4.5,3.5,4.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"140",95,"Löwenbräu AG",1225613316,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"141",95,"Löwenbräu AG",1225075995,4,2,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"142",95,"Löwenbräu AG",1225066628,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"143",95,"Löwenbräu AG",1224367172,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"144",95,"Löwenbräu AG",1223932468,4,4,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"145",95,"Löwenbräu AG",1223769164,4.5,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"146",95,"Löwenbräu AG",1222988410,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"147",95,"Löwenbräu AG",1221969028,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"148",95,"Löwenbräu AG",1221401687,3,3,2,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"149",95,"Löwenbräu AG",1220939373,4,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"150",95,"Löwenbräu AG",1220390473,3,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"151",95,"Löwenbräu AG",1219525946,2.5,1.5,3.5,"Munich Helles Lager",4,2.5,"Löwenbräu Original",5.2,280
-"152",95,"Löwenbräu AG",1219257702,4.5,2,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"153",95,"Löwenbräu AG",1218925775,3.5,3.5,3.5,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"154",95,"Löwenbräu AG",1218868231,4.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"155",95,"Löwenbräu AG",1217369739,4,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"156",95,"Löwenbräu AG",1217298074,3.5,3.5,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"157",95,"Löwenbräu AG",1216864913,4,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"158",95,"Löwenbräu AG",1216862552,5,4,4,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
-"159",95,"Löwenbräu AG",1216351438,2.5,3.5,3.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"160",95,"Löwenbräu AG",1216259766,1.5,2,3,"Munich Helles Lager",1.5,1,"Löwenbräu Original",5.2,280
-"161",95,"Löwenbräu AG",1215480398,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"162",95,"Löwenbräu AG",1214164066,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"163",95,"Löwenbräu AG",1213488230,4.5,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"164",95,"Löwenbräu AG",1210899562,3,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"165",95,"Löwenbräu AG",1210814660,4.5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"166",95,"Löwenbräu AG",1210637344,5,4,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"167",95,"Löwenbräu AG",1210629833,4.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"168",95,"Löwenbräu AG",1210352606,4.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"169",95,"Löwenbräu AG",1210308787,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"170",95,"Löwenbräu AG",1209565682,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"171",95,"Löwenbräu AG",1199475333,3.5,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"172",95,"Löwenbräu AG",1208330898,4.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"173",95,"Löwenbräu AG",1206544907,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"174",95,"Löwenbräu AG",1204693732,4,2,2,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"175",95,"Löwenbräu AG",1204178110,4,3.5,2.5,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"176",95,"Löwenbräu AG",1204098363,4,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"177",95,"Löwenbräu AG",1202259523,1,1.5,3,"Munich Helles Lager",3,1,"Löwenbräu Original",5.2,280
-"178",95,"Löwenbräu AG",1201988353,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"179",95,"Löwenbräu AG",1201861506,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"180",95,"Löwenbräu AG",1201744685,4,3,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"181",95,"Löwenbräu AG",1201494801,3,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"182",95,"Löwenbräu AG",1199373916,3.5,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"183",95,"Löwenbräu AG",1199140788,3.5,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"184",95,"Löwenbräu AG",1198723320,1.5,1,2,"Munich Helles Lager",3.5,1.5,"Löwenbräu Original",5.2,280
-"185",95,"Löwenbräu AG",1198234471,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"186",95,"Löwenbräu AG",1196833592,4,2.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"187",95,"Löwenbräu AG",1196356611,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"188",95,"Löwenbräu AG",1196214715,3,2.5,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"189",95,"Löwenbräu AG",1195939860,4,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"190",95,"Löwenbräu AG",1195610452,4,3,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"191",95,"Löwenbräu AG",1195547319,3,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"192",95,"Löwenbräu AG",1193591179,3.5,4,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"193",95,"Löwenbräu AG",1193344008,2.5,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"194",95,"Löwenbräu AG",1192651863,4,3,3,"Munich Helles Lager",2.5,4,"Löwenbräu Original",5.2,280
-"195",95,"Löwenbräu AG",1190628262,2.5,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"196",95,"Löwenbräu AG",1190085747,3.5,3,2.5,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
-"197",95,"Löwenbräu AG",1189727534,4,3,2,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"198",95,"Löwenbräu AG",1189226799,3,3,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"199",95,"Löwenbräu AG",1325057413,2.5,2,2,"Munich Helles Lager",4.5,3,"Löwenbräu Original",5.2,280
-"200",95,"Löwenbräu AG",1324265007,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"201",95,"Löwenbräu AG",1323622324,3.5,2.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"202",95,"Löwenbräu AG",1312805064,4,3,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"203",95,"Löwenbräu AG",1312766250,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"204",95,"Löwenbräu AG",1187181328,3,3.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"205",95,"Löwenbräu AG",1186495698,3,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"206",95,"Löwenbräu AG",1185978338,4,2.5,3,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
-"207",95,"Löwenbräu AG",1185844126,3,3,2,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"208",95,"Löwenbräu AG",1184034240,4,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"209",95,"Löwenbräu AG",1183166535,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"210",95,"Löwenbräu AG",1182650987,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"211",95,"Löwenbräu AG",1182154371,4,2.5,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"212",95,"Löwenbräu AG",1181154800,3.5,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"213",95,"Löwenbräu AG",1181006274,4.5,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"214",95,"Löwenbräu AG",1176613841,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"215",95,"Löwenbräu AG",1174842557,3,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"216",95,"Löwenbräu AG",1174581343,4.5,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"217",95,"Löwenbräu AG",1174460960,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"218",95,"Löwenbräu AG",1174415672,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"219",95,"Löwenbräu AG",1173481046,3,3,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"220",95,"Löwenbräu AG",1172001225,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"221",95,"Löwenbräu AG",1171949890,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"222",95,"Löwenbräu AG",1170982661,3,3,2.5,"Munich Helles Lager",2,3.5,"Löwenbräu Original",5.2,280
-"223",95,"Löwenbräu AG",1169874484,5,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"224",95,"Löwenbräu AG",1169136023,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"225",95,"Löwenbräu AG",1167347641,4,3.5,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"226",95,"Löwenbräu AG",1166470484,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"227",95,"Löwenbräu AG",1164342225,4,3,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"228",95,"Löwenbräu AG",1164163814,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"229",95,"Löwenbräu AG",1164063275,4.5,4,4,"Munich Helles Lager",4.5,5,"Löwenbräu Original",5.2,280
-"230",95,"Löwenbräu AG",1163812432,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"231",95,"Löwenbräu AG",1161655800,3.5,2.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"232",95,"Löwenbräu AG",1160583111,3,2.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"233",95,"Löwenbräu AG",1160374871,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"234",95,"Löwenbräu AG",1159226979,3.5,3.5,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"235",95,"Löwenbräu AG",1158959104,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"236",95,"Löwenbräu AG",1157878904,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"237",95,"Löwenbräu AG",1157644057,4.5,2.5,4,"Munich Helles Lager",5,4,"Löwenbräu Original",5.2,280
-"238",95,"Löwenbräu AG",1156949510,2.5,3,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"239",95,"Löwenbräu AG",1156788885,3,2,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"240",95,"Löwenbräu AG",1156212251,3.5,3.5,2,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"241",95,"Löwenbräu AG",1155163277,5,4,5,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
-"242",95,"Löwenbräu AG",1154722830,5,4.5,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
-"243",95,"Löwenbräu AG",1153699960,3.5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"244",95,"Löwenbräu AG",1152320424,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"245",95,"Löwenbräu AG",1152247945,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"246",95,"Löwenbräu AG",1151990613,2,2,2,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
-"247",95,"Löwenbräu AG",1151803002,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"248",95,"Löwenbräu AG",1149208928,3.5,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"249",95,"Löwenbräu AG",1149038761,4.5,3.5,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"250",95,"Löwenbräu AG",1148737148,4,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"251",95,"Löwenbräu AG",1147488954,4.5,2.5,3,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
-"252",95,"Löwenbräu AG",1146130570,4,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"253",95,"Löwenbräu AG",1146096471,3,3,3.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"254",95,"Löwenbräu AG",1144813861,5,5,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
-"255",95,"Löwenbräu AG",1143439977,3,3,2.5,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
-"256",95,"Löwenbräu AG",1125592369,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"257",95,"Löwenbräu AG",1143214236,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"258",95,"Löwenbräu AG",1142662857,3,1.5,2.5,"Munich Helles Lager",2,3,"Löwenbräu Original",5.2,280
-"259",95,"Löwenbräu AG",1142228194,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"260",95,"Löwenbräu AG",1140671837,3.5,3,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"261",95,"Löwenbräu AG",1138036278,2.5,2.5,2.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"262",95,"Löwenbräu AG",1137528904,1.5,1.5,1.5,"Munich Helles Lager",3.5,1.5,"Löwenbräu Original",5.2,280
-"263",95,"Löwenbräu AG",1137030944,1.5,1,2.5,"Munich Helles Lager",1.5,1.5,"Löwenbräu Original",5.2,280
-"264",95,"Löwenbräu AG",1136940481,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"265",95,"Löwenbräu AG",1125171616,4,2.5,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"266",95,"Löwenbräu AG",1087784490,3,3,2.5,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"267",95,"Löwenbräu AG",1136360845,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"268",95,"Löwenbräu AG",1135794115,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"269",95,"Löwenbräu AG",1135475602,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
-"270",95,"Löwenbräu AG",1135140446,4,2.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"271",95,"Löwenbräu AG",1133598675,4,4,4.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"272",95,"Löwenbräu AG",1132657194,2.5,2.5,3,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"273",95,"Löwenbräu AG",1130532817,4.5,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"274",95,"Löwenbräu AG",1130025535,4.5,4,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"275",95,"Löwenbräu AG",1128824348,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"276",95,"Löwenbräu AG",1127752883,4.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"277",95,"Löwenbräu AG",1124369923,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"278",95,"Löwenbräu AG",1124236650,3,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"279",95,"Löwenbräu AG",1124078704,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"280",95,"Löwenbräu AG",1120003977,5,5,5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
-"281",95,"Löwenbräu AG",1119899023,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"282",95,"Löwenbräu AG",1119318183,4,1.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"283",95,"Löwenbräu AG",1118100404,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"284",95,"Löwenbräu AG",1115096849,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"285",95,"Löwenbräu AG",1114749085,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"286",95,"Löwenbräu AG",1114354533,4,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"287",95,"Löwenbräu AG",1099851756,3.5,3,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"288",95,"Löwenbräu AG",1113191871,4.5,4,4,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
-"289",95,"Löwenbräu AG",1110252220,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"290",95,"Löwenbräu AG",1110065583,4.5,2,3.5,"Munich Helles Lager",3,4.5,"Löwenbräu Original",5.2,280
-"291",95,"Löwenbräu AG",1110046112,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"292",95,"Löwenbräu AG",1108005561,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"293",95,"Löwenbräu AG",1107477930,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"294",95,"Löwenbräu AG",1104733215,3,3,2.5,"Munich Helles Lager",2,2.5,"Löwenbräu Original",5.2,280
-"295",95,"Löwenbräu AG",1104281295,4,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"296",95,"Löwenbräu AG",1103182042,4,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"297",95,"Löwenbräu AG",1102690724,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"298",95,"Löwenbräu AG",1101593212,3,3,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"299",95,"Löwenbräu AG",1096920981,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"300",95,"Löwenbräu AG",1311960315,3.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"301",95,"Löwenbräu AG",1309643287,3.5,3.5,2.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"302",95,"Löwenbräu AG",1309029979,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"303",95,"Löwenbräu AG",1307997891,3.5,2.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"304",95,"Löwenbräu AG",1307500149,2.5,2.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"305",95,"Löwenbräu AG",1307278368,3.5,4,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"306",95,"Löwenbräu AG",1307162693,3,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"307",95,"Löwenbräu AG",1305681638,4.5,4,3.5,"Munich Helles Lager",3.5,4.5,"Löwenbräu Original",5.2,280
-"308",95,"Löwenbräu AG",1087225801,2,2,2,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
-"309",95,"Löwenbräu AG",1305447898,3,3.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"310",95,"Löwenbräu AG",1300472622,3,3.5,3,"Munich Helles Lager",3.5,2.5,"Löwenbräu Original",5.2,280
-"311",95,"Löwenbräu AG",1096510107,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"312",95,"Löwenbräu AG",1095553026,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"313",95,"Löwenbräu AG",1094781070,3.5,3.5,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"314",95,"Löwenbräu AG",1093097715,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"315",95,"Löwenbräu AG",1091126261,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"316",95,"Löwenbräu AG",1089777736,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"317",95,"Löwenbräu AG",1089044833,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"318",95,"Löwenbräu AG",1088900135,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"319",95,"Löwenbräu AG",1088415227,4.5,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"320",95,"Löwenbräu AG",1088410024,3,3,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
-"321",95,"Löwenbräu AG",1086399011,4.5,4,4,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
-"322",95,"Löwenbräu AG",1083189390,4,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"323",95,"Löwenbräu AG",1082847037,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"324",95,"Löwenbräu AG",1081819507,4.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"325",95,"Löwenbräu AG",1080953297,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"326",95,"Löwenbräu AG",1080941187,4,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"327",95,"Löwenbräu AG",1079833324,3.5,3.5,4.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"328",95,"Löwenbräu AG",1078084517,4.5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"329",95,"Löwenbräu AG",1077831444,3.5,2.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"330",95,"Löwenbräu AG",1077390195,4.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"331",95,"Löwenbräu AG",1074998040,2.5,3,3,"Munich Helles Lager",3.5,2.5,"Löwenbräu Original",5.2,280
-"332",95,"Löwenbräu AG",1074996552,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"333",95,"Löwenbräu AG",1074825911,4,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"334",95,"Löwenbräu AG",1074557928,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"335",95,"Löwenbräu AG",1074291414,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
-"336",95,"Löwenbräu AG",1073012417,3,3,2.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"337",95,"Löwenbräu AG",1070760512,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"338",95,"Löwenbräu AG",1070588856,2,2.5,3,"Munich Helles Lager",3,2,"Löwenbräu Original",5.2,280
-"339",95,"Löwenbräu AG",1070410466,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"340",95,"Löwenbräu AG",1070159110,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"341",95,"Löwenbräu AG",1064188400,3.5,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"342",95,"Löwenbräu AG",1069849028,4,3,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"343",95,"Löwenbräu AG",1069637837,4.5,3,3.5,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
-"344",95,"Löwenbräu AG",1068771356,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"345",95,"Löwenbräu AG",1068559400,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"346",95,"Löwenbräu AG",1068473898,3,3.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"347",95,"Löwenbräu AG",1066797581,3.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"348",95,"Löwenbräu AG",1065204964,2,2,3.5,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
-"349",95,"Löwenbräu AG",1050397903,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"350",95,"Löwenbräu AG",1063737244,4,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"351",95,"Löwenbräu AG",1062298242,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"352",95,"Löwenbräu AG",1061250565,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"353",95,"Löwenbräu AG",1059855183,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"354",95,"Löwenbräu AG",1059704751,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"355",95,"Löwenbräu AG",1057327878,3.5,3,3,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"356",95,"Löwenbräu AG",1056548748,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"357",95,"Löwenbräu AG",1055532549,4.5,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"358",95,"Löwenbräu AG",1055023609,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"359",95,"Löwenbräu AG",1053674364,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"360",95,"Löwenbräu AG",1052457858,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"361",95,"Löwenbräu AG",1051776672,2,2.5,2.5,"Munich Helles Lager",2,3,"Löwenbräu Original",5.2,280
-"362",95,"Löwenbräu AG",1050559648,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"363",95,"Löwenbräu AG",1048934087,3,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"364",95,"Löwenbräu AG",1048356211,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"365",95,"Löwenbräu AG",1048262847,4,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"366",95,"Löwenbräu AG",1047129798,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"367",95,"Löwenbräu AG",1046885291,5,4.5,5,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
-"368",95,"Löwenbräu AG",1045591672,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"369",95,"Löwenbräu AG",1044710014,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"370",95,"Löwenbräu AG",1044363641,4,4,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"371",95,"Löwenbräu AG",1043440779,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"372",95,"Löwenbräu AG",1041610916,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"373",95,"Löwenbräu AG",1040968660,3.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"374",95,"Löwenbräu AG",1040275383,4,3.5,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"375",95,"Löwenbräu AG",1036513014,4.5,2,3.5,"Munich Helles Lager",4.5,3.5,"Löwenbräu Original",5.2,280
-"376",95,"Löwenbräu AG",1033892910,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"377",95,"Löwenbräu AG",1033716237,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"378",95,"Löwenbräu AG",1033149896,4,3,2.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"379",95,"Löwenbräu AG",1032674053,3,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"380",95,"Löwenbräu AG",1025537823,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"381",95,"Löwenbräu AG",1024406328,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"382",95,"Löwenbräu AG",1023654409,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"383",95,"Löwenbräu AG",1022758632,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"384",95,"Löwenbräu AG",1022148092,3.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"385",95,"Löwenbräu AG",1022011314,2.5,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"386",95,"Löwenbräu AG",1021435063,5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"387",95,"Löwenbräu AG",1020590736,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"388",95,"Löwenbräu AG",1300309782,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"389",95,"Löwenbräu AG",1300018301,4,3.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"390",95,"Löwenbräu AG",1299376193,4.5,2,4,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
-"391",95,"Löwenbräu AG",1299146343,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"392",95,"Löwenbräu AG",1298878117,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"393",95,"Löwenbräu AG",1295580084,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"394",95,"Löwenbräu AG",1294886111,4,2.5,4,"Munich Helles Lager",4.5,3,"Löwenbräu Original",5.2,280
-"395",95,"Löwenbräu AG",1294072392,3,1.5,3,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
-"396",95,"Löwenbräu AG",1293255505,2.5,1.5,2,"Munich Helles Lager",2.5,1.5,"Löwenbräu Original",5.2,280
-"397",95,"Löwenbräu AG",1289458921,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"398",95,"Löwenbräu AG",1288992683,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"399",95,"Löwenbräu AG",1287852309,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"400",95,"Löwenbräu AG",1287795926,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"401",95,"Löwenbräu AG",1285438297,3,3,2.5,"Munich Helles Lager",2,2.5,"Löwenbräu Original",5.2,280
-"402",95,"Löwenbräu AG",1282602431,4,3.5,4,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
-"403",95,"Löwenbräu AG",1282237147,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"404",95,"Löwenbräu AG",1280534011,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"405",95,"Löwenbräu AG",1279166411,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"406",95,"Löwenbräu AG",1279150118,3.5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"407",95,"Löwenbräu AG",1277879074,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"408",95,"Löwenbräu AG",1276959098,4.5,3,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"409",95,"Löwenbräu AG",1274811163,3,2.5,1.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"410",95,"Löwenbräu AG",1274491683,2.5,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"411",95,"Löwenbräu AG",1272775980,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"412",95,"Löwenbräu AG",1271893537,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"413",95,"Löwenbräu AG",1270829042,4,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"414",95,"Löwenbräu AG",1270598980,3,3,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"415",95,"Löwenbräu AG",1270496649,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"416",95,"Löwenbräu AG",1269783957,4,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"417",95,"Löwenbräu AG",1268597599,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"418",95,"Löwenbräu AG",1267577972,3.5,2.5,3,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"419",95,"Löwenbräu AG",1266708374,4,3,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"420",95,"Löwenbräu AG",1266321355,3.5,3.5,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"421",95,"Löwenbräu AG",1265590155,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"422",95,"Löwenbräu AG",1265259928,3.5,3.5,4,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"423",95,"Löwenbräu AG",1263165955,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"424",95,"Löwenbräu AG",1262932840,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"425",95,"Löwenbräu AG",1262316238,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"426",95,"Löwenbräu AG",1260828111,3.5,4,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"427",95,"Löwenbräu AG",1259973357,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
-"428",95,"Löwenbräu AG",1259207572,4.5,3.5,4,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
-"429",95,"Löwenbräu AG",1258766652,4.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"430",95,"Löwenbräu AG",1255921255,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"431",95,"Löwenbräu AG",1255809352,2.5,3.5,3,"Munich Helles Lager",3,2,"Löwenbräu Original",5.2,280
-"432",95,"Löwenbräu AG",1255392073,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"433",95,"Löwenbräu AG",1255381229,4,2.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"434",95,"Löwenbräu AG",1252877431,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"435",95,"Löwenbräu AG",1252639451,3,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
-"436",95,"Löwenbräu AG",1252366404,4,4,4,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
-"437",95,"Löwenbräu AG",1250912496,3.5,2.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"438",95,"Löwenbräu AG",1250633993,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"439",95,"Löwenbräu AG",1249175702,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"440",95,"Löwenbräu AG",1248979302,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"441",95,"Löwenbräu AG",1248047844,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"442",95,"Löwenbräu AG",1247445624,3.5,3,3,"Munich Helles Lager",4,2.5,"Löwenbräu Original",5.2,280
-"443",95,"Löwenbräu AG",1247273457,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
-"444",95,"Löwenbräu AG",1244786290,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
-"445",95,"Löwenbräu AG",1244476339,3.5,3.5,5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
-"446",95,"Löwenbräu AG",1223299948,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"447",95,"Löwenbräu AG",1244159945,4,2.5,2.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"448",95,"Löwenbräu AG",1243881769,4.5,2,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
-"449",95,"Löwenbräu AG",1243468108,3,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"450",95,"Löwenbräu AG",1241273262,4.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"451",95,"Löwenbräu AG",1240941413,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"452",95,"Löwenbräu AG",1238886799,4,4,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"453",95,"Löwenbräu AG",1238714589,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
-"454",95,"Löwenbräu AG",1238610003,3.5,4,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
-"455",95,"Löwenbräu AG",1238602726,3.5,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
-"456",95,"Löwenbräu AG",1307642564,2,2.5,4,"Munich Helles Lager",4,1.5,"Löwenbräu Urtyp",5.4,33038
-"457",95,"Löwenbräu AG",1286922464,4,3,4,"Munich Helles Lager",3,3,"Löwenbräu Urtyp",5.4,33038
-"458",95,"Löwenbräu AG",1282497937,5,3.5,3.5,"Munich Helles Lager",4,4.5,"Löwenbräu Urtyp",5.4,33038
-"459",95,"Löwenbräu AG",1267928942,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"460",95,"Löwenbräu AG",1260557115,3.5,3.5,4,"Munich Helles Lager",3.5,3,"Löwenbräu Urtyp",5.4,33038
-"461",95,"Löwenbräu AG",1257106630,4,4,3,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"462",95,"Löwenbräu AG",1256159996,5,4.5,4.5,"Munich Helles Lager",4,5,"Löwenbräu Urtyp",5.4,33038
-"463",95,"Löwenbräu AG",1253834401,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"464",95,"Löwenbräu AG",1252578439,4,4,4,"Munich Helles Lager",4,4.5,"Löwenbräu Urtyp",5.4,33038
-"465",95,"Löwenbräu AG",1248699069,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"466",95,"Löwenbräu AG",1208561440,3.5,4,4.5,"Munich Helles Lager",3,3.5,"Löwenbräu Urtyp",5.4,33038
-"467",95,"Löwenbräu AG",1208280115,4,4,5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Urtyp",5.4,33038
-"468",95,"Löwenbräu AG",1186227878,1,1.5,3,"Munich Helles Lager",1.5,1.5,"Löwenbräu Urtyp",5.4,33038
-"469",95,"Löwenbräu AG",1183438707,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
-"470",95,"Löwenbräu AG",1159828361,4,4,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Urtyp",5.4,33038
-"471",95,"Löwenbräu AG",1034327669,3.5,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"472",95,"Löwenbräu AG",1033932140,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"473",95,"Löwenbräu AG",1033890014,4,3.5,4,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"474",95,"Löwenbräu AG",1033249073,4.5,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"475",95,"Löwenbräu AG",1032880802,4.5,4,4.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"476",95,"Löwenbräu AG",1319286412,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"477",95,"Löwenbräu AG",1317047353,3.5,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"478",95,"Löwenbräu AG",1095897733,3.5,3.5,3,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"479",95,"Löwenbräu AG",1315649880,2,2,2.5,"Märzen / Oktoberfest",2,1.5,"Löwenbräu Oktoberfestbier",6,6222
-"480",95,"Löwenbräu AG",1313763764,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
-"481",95,"Löwenbräu AG",1303014012,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"482",95,"Löwenbräu AG",1288952960,4.5,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"483",95,"Löwenbräu AG",1286138327,4,3,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"484",95,"Löwenbräu AG",1283798192,3.5,3,3.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"485",95,"Löwenbräu AG",1283445471,3.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"486",95,"Löwenbräu AG",1280950266,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"487",95,"Löwenbräu AG",1255029230,4,3.5,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"488",95,"Löwenbräu AG",1252093544,4.5,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"489",95,"Löwenbräu AG",1229447546,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"490",95,"Löwenbräu AG",1222359302,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"491",95,"Löwenbräu AG",1221231886,4.5,3,3,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"492",95,"Löwenbräu AG",1220901280,4,3,3,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"493",95,"Löwenbräu AG",1202508157,4.5,3.5,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"494",95,"Löwenbräu AG",1200429624,3,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"495",95,"Löwenbräu AG",1199206794,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"496",95,"Löwenbräu AG",1192449554,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"497",95,"Löwenbräu AG",1192304928,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"498",95,"Löwenbräu AG",1190538192,4,2.5,3.5,"Märzen / Oktoberfest",4,3,"Löwenbräu Oktoberfestbier",6,6222
-"499",95,"Löwenbräu AG",1181351357,3,2,2.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"500",95,"Löwenbräu AG",1177141095,4,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"501",95,"Löwenbräu AG",1175216967,2.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"502",95,"Löwenbräu AG",1169857143,3,2,3,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
-"503",95,"Löwenbräu AG",1166804571,3.5,3,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"504",95,"Löwenbräu AG",1161917068,4,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"505",95,"Löwenbräu AG",1160350994,2.5,2.5,2.5,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"506",95,"Löwenbräu AG",1159728135,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"507",95,"Löwenbräu AG",1159614114,4.5,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"508",95,"Löwenbräu AG",1159328786,4,3,3,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"509",95,"Löwenbräu AG",1158294245,5,5,5,"Märzen / Oktoberfest",5,5,"Löwenbräu Oktoberfestbier",6,6222
-"510",95,"Löwenbräu AG",1158129508,4,3.5,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"511",95,"Löwenbräu AG",1157916648,4,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"512",95,"Löwenbräu AG",1146688163,4,3,3,"Märzen / Oktoberfest",3.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"513",95,"Löwenbräu AG",1140220173,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"514",95,"Löwenbräu AG",1138840252,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"515",95,"Löwenbräu AG",1138409199,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"516",95,"Löwenbräu AG",1129396402,5,3,3.5,"Märzen / Oktoberfest",3.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"517",95,"Löwenbräu AG",1129098054,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"518",95,"Löwenbräu AG",1128912770,3,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"519",95,"Löwenbräu AG",1127507495,3,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"520",95,"Löwenbräu AG",1126820442,2.5,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"521",95,"Löwenbräu AG",1125878747,3.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"522",95,"Löwenbräu AG",1125237634,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"523",95,"Löwenbräu AG",1124126494,4,2.5,3,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"524",95,"Löwenbräu AG",1118019384,4,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"525",95,"Löwenbräu AG",1109208635,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"526",95,"Löwenbräu AG",1106776480,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"527",95,"Löwenbräu AG",1105559484,3.5,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"528",95,"Löwenbräu AG",1104365079,3,3,3,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"529",95,"Löwenbräu AG",1103885592,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"530",95,"Löwenbräu AG",1038549229,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"531",95,"Löwenbräu AG",1101875181,2,3,2,"Märzen / Oktoberfest",2.5,3,"Löwenbräu Oktoberfestbier",6,6222
-"532",95,"Löwenbräu AG",1101703331,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"533",95,"Löwenbräu AG",1101593582,2.5,2.5,2,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"534",95,"Löwenbräu AG",1098845834,3.5,3,2.5,"Märzen / Oktoberfest",3.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"535",95,"Löwenbräu AG",1098314524,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
-"536",95,"Löwenbräu AG",1097375233,4,2.5,3,"Märzen / Oktoberfest",3,4,"Löwenbräu Oktoberfestbier",6,6222
-"537",95,"Löwenbräu AG",1097275437,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"538",95,"Löwenbräu AG",1096846906,4.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"539",95,"Löwenbräu AG",1096218632,4.5,3,3.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"540",95,"Löwenbräu AG",1096037381,4.5,4,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"541",95,"Löwenbräu AG",1095548607,4,3,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"542",95,"Löwenbräu AG",1095470360,4,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"543",95,"Löwenbräu AG",1093967898,3,3,2.5,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
-"544",95,"Löwenbräu AG",1085117781,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"545",95,"Löwenbräu AG",1076804663,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"546",95,"Löwenbräu AG",1073708054,5,3,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"547",95,"Löwenbräu AG",1070157892,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"548",95,"Löwenbräu AG",1068357973,4.5,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"549",95,"Löwenbräu AG",1068044896,4,3.5,3.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"550",95,"Löwenbräu AG",1067456273,3.5,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"551",95,"Löwenbräu AG",1066105605,4,4,3.5,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"552",95,"Löwenbräu AG",1066023505,4.5,4,4.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
-"553",95,"Löwenbräu AG",1065833255,5,4,4.5,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"554",95,"Löwenbräu AG",1065669396,3,2,2.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"555",95,"Löwenbräu AG",1065345815,5,4.5,4,"Märzen / Oktoberfest",4.5,5,"Löwenbräu Oktoberfestbier",6,6222
-"556",95,"Löwenbräu AG",1064593109,5,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"557",95,"Löwenbräu AG",1064452320,3,2.5,4,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
-"558",95,"Löwenbräu AG",1063589591,4.5,3,5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"559",95,"Löwenbräu AG",1063287972,4,3,2,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"560",95,"Löwenbräu AG",1043670506,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"561",95,"Löwenbräu AG",1036775472,4.5,3.5,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
-"562",95,"Löwenbräu AG",1036409795,4,4,4,"Märzen / Oktoberfest",4.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
-"563",95,"Löwenbräu AG",1034783328,4,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
-"564",95,"Löwenbräu AG",1034589238,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+95,"Löwenbräu AG",1219598220,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1214366904,3,2.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1214328984,3,3,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1050357054,5,4,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1049891303,4,4,4,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1038200306,3.5,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1036599063,3.5,3,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1264794874,3.5,3.5,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1263997210,4.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1263825034,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1324587978,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1320278675,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1318868378,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1317230130,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1099593887,4,3.5,3.5,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1088024025,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1065346078,5,3.5,3.5,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1062298189,3,2.5,3,"Munich Dunkel Lager",3,3,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1226373425,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1316653913,3,3.5,2,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1316653316,3.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1180376653,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1179346539,2,1.5,2.5,"Munich Helles Lager",2.5,1.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1126920089,3,2.5,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1125782986,3,2.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1251586292,4,3.5,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1248716518,4,4,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1301607249,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1299365724,4.5,4,3.5,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1298131531,4,3.5,4,"Doppelbock",3.5,3.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1295656439,4,4.5,4,"Doppelbock",3.5,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1246961422,3.5,3,3.5,"Doppelbock",3,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1240129865,4,3.5,5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1237300488,4,4,4,"Doppelbock",3,4.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1234659429,4,4,3.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1210292081,4,4,4,"Doppelbock",4.5,4.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1208930133,4,3,4.5,"Doppelbock",4,3.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1186276172,4,4,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1181980266,4,4.5,4,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1180393606,4,4,4.5,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1172723589,4.5,5,4.5,"Doppelbock",4,4.5,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1314470013,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1168570928,4,3,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1161754241,4.5,4.5,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1144016517,4.5,4,4.5,"Doppelbock",4,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1120839192,4.5,4.5,3.5,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1066312049,3,3,3.5,"Doppelbock",3,3,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1049890675,4.5,4,4.5,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1034429592,4,4,4,"Doppelbock",4.5,4,"Löwenbräu Triumphator",7.6,6584
+95,"Löwenbräu AG",1318698294,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1318170950,3,2.5,3.5,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1096888681,4.5,4,4,"Munich Dunkel Lager",4,4.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1310401109,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1308232187,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1304521538,3.5,3,4,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1299935583,4.5,4.5,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1278496047,4,4,4,"Hefeweizen",4,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1228676812,4,4,4,"Hefeweizen",4.5,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1210291671,3.5,3.5,4,"Hefeweizen",3.5,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1209272369,4,4,4,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1206104675,4.5,3.5,4,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1202074304,4,3.5,4,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1066312162,2.5,2.5,3,"Munich Dunkel Lager",3,2.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1188841847,4,4,5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1188473020,3.5,4,4.5,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1183743622,4,4.5,4,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1160683760,4.5,4,4.5,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1159975807,4,4,4.5,"Hefeweizen",3.5,4,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1146245062,4.5,4.5,4.5,"Hefeweizen",4.5,4.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1140041412,4,3.5,3.5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1129313369,4,3.5,2,"Hefeweizen",3,3,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1122400961,4,4,3.5,"Hefeweizen",4,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1119999953,3,3,3.5,"Hefeweizen",2.5,3,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1086774722,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1052805676,3.5,3,4,"Hefeweizen",3,3.5,"Löwen Weisse",5.2,9860
+95,"Löwenbräu AG",1310978004,2.5,2,3,"Low Alcohol Beer",3,4,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1261709508,4,3.5,3,"Low Alcohol Beer",2.5,4,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1238691779,3,3,3,"Low Alcohol Beer",2.5,3,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1204996089,4.5,4,3.5,"Low Alcohol Beer",4.5,3.5,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1166667440,5,4,3,"Low Alcohol Beer",4.5,4.5,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1068987050,1.5,2,1.5,"Low Alcohol Beer",2,2,"Löwenbräu Alkoholfrei",0.5,14246
+95,"Löwenbräu AG",1281903390,5,2.5,4,"German Pilsener",4,4,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1281494362,3,2,4,"German Pilsener",3,2,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1246609183,4,4,4.5,"German Pilsener",4,3.5,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1173221254,4,3.5,3,"German Pilsener",3.5,3.5,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1150006595,3,3.5,3,"German Pilsener",3.5,4,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1122683871,2.5,3,3.5,"German Pilsener",2.5,4,"Löwenbräu Premium Pils",5.2,28584
+95,"Löwenbräu AG",1307280684,3,3,3.5,"Munich Dunkel Lager",3,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1263409008,4,3,4,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1248714229,5,3.5,4.5,"Munich Dunkel Lager",4.5,4.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1242773846,4,3,3,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1227288648,4,3,3.5,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1226373006,3,2.5,3,"Munich Dunkel Lager",3.5,3,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1210638731,5,4,4,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1128824817,4,3,3,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1050770662,4,4,3,"Munich Dunkel Lager",3,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1048359030,4,4,3,"Munich Dunkel Lager",3.5,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1041499304,4,3.5,4,"Munich Dunkel Lager",4,3.5,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1035712565,4.5,3.5,4,"Munich Dunkel Lager",4.5,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1032769341,3,2.5,3,"Munich Dunkel Lager",3,3,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1027092691,4,2,3.5,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1022148167,4,3.5,4,"Munich Dunkel Lager",4,4,"Löwenbräu Premium Dark",5.5,281
+95,"Löwenbräu AG",1238344162,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1237693357,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1237423460,4,3,2,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1236395496,4.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1236387961,2.5,2,2.5,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1235940810,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1234852048,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1234341220,3.5,2,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1234304955,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1234222460,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233871353,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233728294,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233714107,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233519298,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1226325461,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233369118,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1233204613,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1232987596,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1231882152,3.5,2.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1231461537,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1231390055,4.5,3,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1231265413,4,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1230502446,3,2.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1230233183,3.5,4,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1230168163,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1229735848,5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1229546212,5,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1229193841,4,3.5,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1229048161,3.5,4,3,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1228933473,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1228685416,4,2.5,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1227729114,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1227596999,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1227374555,4,2.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1226602817,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1226593768,2.5,2,2,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1226172212,4.5,3.5,4.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1225613316,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1225075995,4,2,3,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1225066628,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1224367172,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1223932468,4,4,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1223769164,4.5,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1222988410,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1221969028,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1221401687,3,3,2,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1220939373,4,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1220390473,3,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1219525946,2.5,1.5,3.5,"Munich Helles Lager",4,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1219257702,4.5,2,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1218925775,3.5,3.5,3.5,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1218868231,4.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1217369739,4,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1217298074,3.5,3.5,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1216864913,4,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1216862552,5,4,4,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1216351438,2.5,3.5,3.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1216259766,1.5,2,3,"Munich Helles Lager",1.5,1,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1215480398,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1214164066,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1213488230,4.5,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210899562,3,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210814660,4.5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210637344,5,4,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210629833,4.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210352606,4.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1210308787,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1209565682,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1199475333,3.5,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1208330898,4.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1206544907,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1204693732,4,2,2,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1204178110,4,3.5,2.5,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1204098363,4,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1202259523,1,1.5,3,"Munich Helles Lager",3,1,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1201988353,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1201861506,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1201744685,4,3,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1201494801,3,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1199373916,3.5,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1199140788,3.5,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1198723320,1.5,1,2,"Munich Helles Lager",3.5,1.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1198234471,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1196833592,4,2.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1196356611,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1196214715,3,2.5,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1195939860,4,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1195610452,4,3,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1195547319,3,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1193591179,3.5,4,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1193344008,2.5,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1192651863,4,3,3,"Munich Helles Lager",2.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1190628262,2.5,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1190085747,3.5,3,2.5,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1189727534,4,3,2,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1189226799,3,3,3.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1325057413,2.5,2,2,"Munich Helles Lager",4.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1324265007,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1323622324,3.5,2.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1312805064,4,3,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1312766250,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1187181328,3,3.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1186495698,3,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1185978338,4,2.5,3,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1185844126,3,3,2,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1184034240,4,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1183166535,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1182650987,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1182154371,4,2.5,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1181154800,3.5,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1181006274,4.5,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1176613841,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1174842557,3,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1174581343,4.5,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1174460960,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1174415672,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1173481046,3,3,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1172001225,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1171949890,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1170982661,3,3,2.5,"Munich Helles Lager",2,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1169874484,5,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1169136023,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1167347641,4,3.5,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1166470484,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1164342225,4,3,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1164163814,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1164063275,4.5,4,4,"Munich Helles Lager",4.5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1163812432,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1161655800,3.5,2.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1160583111,3,2.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1160374871,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1159226979,3.5,3.5,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1158959104,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1157878904,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1157644057,4.5,2.5,4,"Munich Helles Lager",5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1156949510,2.5,3,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1156788885,3,2,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1156212251,3.5,3.5,2,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1155163277,5,4,5,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1154722830,5,4.5,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1153699960,3.5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1152320424,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1152247945,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1151990613,2,2,2,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1151803002,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1149208928,3.5,4,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1149038761,4.5,3.5,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1148737148,4,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1147488954,4.5,2.5,3,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1146130570,4,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1146096471,3,3,3.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1144813861,5,5,4.5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1143439977,3,3,2.5,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1125592369,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1143214236,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1142662857,3,1.5,2.5,"Munich Helles Lager",2,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1142228194,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1140671837,3.5,3,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1138036278,2.5,2.5,2.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1137528904,1.5,1.5,1.5,"Munich Helles Lager",3.5,1.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1137030944,1.5,1,2.5,"Munich Helles Lager",1.5,1.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1136940481,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1125171616,4,2.5,3,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1087784490,3,3,2.5,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1136360845,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1135794115,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1135475602,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1135140446,4,2.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1133598675,4,4,4.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1132657194,2.5,2.5,3,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1130532817,4.5,3.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1130025535,4.5,4,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1128824348,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1127752883,4.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1124369923,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1124236650,3,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1124078704,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1120003977,5,5,5,"Munich Helles Lager",5,5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1119899023,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1119318183,4,1.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1118100404,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1115096849,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1114749085,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1114354533,4,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1099851756,3.5,3,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1113191871,4.5,4,4,"Munich Helles Lager",4.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1110252220,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1110065583,4.5,2,3.5,"Munich Helles Lager",3,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1110046112,3.5,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1108005561,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1107477930,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1104733215,3,3,2.5,"Munich Helles Lager",2,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1104281295,4,3.5,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1103182042,4,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1102690724,3.5,3.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1101593212,3,3,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1096920981,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1311960315,3.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1309643287,3.5,3.5,2.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1309029979,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1307997891,3.5,2.5,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1307500149,2.5,2.5,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1307278368,3.5,4,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1307162693,3,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1305681638,4.5,4,3.5,"Munich Helles Lager",3.5,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1087225801,2,2,2,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1305447898,3,3.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1300472622,3,3.5,3,"Munich Helles Lager",3.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1096510107,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1095553026,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1094781070,3.5,3.5,4,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1093097715,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1091126261,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1089777736,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1089044833,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1088900135,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1088415227,4.5,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1088410024,3,3,3,"Munich Helles Lager",3,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1086399011,4.5,4,4,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1083189390,4,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1082847037,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1081819507,4.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1080953297,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1080941187,4,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1079833324,3.5,3.5,4.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1078084517,4.5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1077831444,3.5,2.5,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1077390195,4.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1074998040,2.5,3,3,"Munich Helles Lager",3.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1074996552,3.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1074825911,4,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1074557928,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1074291414,2,2,3,"Munich Helles Lager",2.5,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1073012417,3,3,2.5,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1070760512,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1070588856,2,2.5,3,"Munich Helles Lager",3,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1070410466,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1070159110,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1064188400,3.5,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1069849028,4,3,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1069637837,4.5,3,3.5,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1068771356,4,3.5,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1068559400,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1068473898,3,3.5,2.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1066797581,3.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1065204964,2,2,3.5,"Munich Helles Lager",2,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1050397903,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1063737244,4,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1062298242,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1061250565,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1059855183,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1059704751,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1057327878,3.5,3,3,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1056548748,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1055532549,4.5,3,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1055023609,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1053674364,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1052457858,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1051776672,2,2.5,2.5,"Munich Helles Lager",2,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1050559648,4,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1048934087,3,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1048356211,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1048262847,4,2.5,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1047129798,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1046885291,5,4.5,5,"Munich Helles Lager",4.5,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1045591672,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1044710014,4,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1044363641,4,4,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1043440779,3.5,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1041610916,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1040968660,3.5,3,4,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1040275383,4,3.5,4,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1036513014,4.5,2,3.5,"Munich Helles Lager",4.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1033892910,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1033716237,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1033149896,4,3,2.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1032674053,3,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1025537823,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1024406328,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1023654409,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1022758632,3,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1022148092,3.5,3,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1022011314,2.5,2.5,2.5,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1021435063,5,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1020590736,3,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1300309782,3,3,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1300018301,4,3.5,2.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1299376193,4.5,2,4,"Munich Helles Lager",3,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1299146343,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1298878117,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1295580084,4,3.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1294886111,4,2.5,4,"Munich Helles Lager",4.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1294072392,3,1.5,3,"Munich Helles Lager",2.5,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1293255505,2.5,1.5,2,"Munich Helles Lager",2.5,1.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1289458921,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1288992683,4,3.5,3.5,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1287852309,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1287795926,3.5,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1285438297,3,3,2.5,"Munich Helles Lager",2,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1282602431,4,3.5,4,"Munich Helles Lager",2.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1282237147,3,2.5,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1280534011,3.5,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1279166411,4,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1279150118,3.5,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1277879074,4,3.5,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1276959098,4.5,3,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1274811163,3,2.5,1.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1274491683,2.5,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1272775980,3.5,3.5,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1271893537,4,3.5,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1270829042,4,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1270598980,3,3,2.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1270496649,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1269783957,4,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1268597599,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1267577972,3.5,2.5,3,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1266708374,4,3,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1266321355,3.5,3.5,3.5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1265590155,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1265259928,3.5,3.5,4,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1263165955,3.5,3,3.5,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1262932840,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1262316238,4,4,4,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1260828111,3.5,4,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1259973357,3.5,3,3,"Munich Helles Lager",3.5,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1259207572,4.5,3.5,4,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1258766652,4.5,3,4,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1255921255,4,4,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1255809352,2.5,3.5,3,"Munich Helles Lager",3,2,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1255392073,3,3,3,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1255381229,4,2.5,3.5,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1252877431,3.5,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1252639451,3,3,3,"Munich Helles Lager",2.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1252366404,4,4,4,"Munich Helles Lager",4,4.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1250912496,3.5,2.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1250633993,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1249175702,4,3,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1248979302,4,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1248047844,3.5,3.5,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1247445624,3.5,3,3,"Munich Helles Lager",4,2.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1247273457,3.5,3,3,"Munich Helles Lager",3,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1244786290,3.5,3,3.5,"Munich Helles Lager",3,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1244476339,3.5,3.5,5,"Munich Helles Lager",4,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1223299948,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1244159945,4,2.5,2.5,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1243881769,4.5,2,3,"Munich Helles Lager",4,4,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1243468108,3,3,3.5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1241273262,4.5,3,4,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1240941413,4,3.5,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1238886799,4,4,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1238714589,4,3,3,"Munich Helles Lager",3.5,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1238610003,3.5,4,3.5,"Munich Helles Lager",3.5,3,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1238602726,3.5,3,3,"Munich Helles Lager",4,3.5,"Löwenbräu Original",5.2,280
+95,"Löwenbräu AG",1307642564,2,2.5,4,"Munich Helles Lager",4,1.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1286922464,4,3,4,"Munich Helles Lager",3,3,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1282497937,5,3.5,3.5,"Munich Helles Lager",4,4.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1267928942,4,3.5,4,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1260557115,3.5,3.5,4,"Munich Helles Lager",3.5,3,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1257106630,4,4,3,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1256159996,5,4.5,4.5,"Munich Helles Lager",4,5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1253834401,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1252578439,4,4,4,"Munich Helles Lager",4,4.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1248699069,4.5,3.5,4.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1208561440,3.5,4,4.5,"Munich Helles Lager",3,3.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1208280115,4,4,5,"Munich Helles Lager",3.5,3.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1186227878,1,1.5,3,"Munich Helles Lager",1.5,1.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1183438707,4,4,3.5,"Munich Helles Lager",4,4,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1159828361,4,4,3.5,"Munich Helles Lager",4,3.5,"Löwenbräu Urtyp",5.4,33038
+95,"Löwenbräu AG",1034327669,3.5,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1033932140,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1033890014,4,3.5,4,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1033249073,4.5,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1032880802,4.5,4,4.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1319286412,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1317047353,3.5,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1095897733,3.5,3.5,3,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1315649880,2,2,2.5,"Märzen / Oktoberfest",2,1.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1313763764,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1303014012,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1288952960,4.5,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1286138327,4,3,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1283798192,3.5,3,3.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1283445471,3.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1280950266,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1255029230,4,3.5,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1252093544,4.5,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1229447546,4.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1222359302,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1221231886,4.5,3,3,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1220901280,4,3,3,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1202508157,4.5,3.5,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1200429624,3,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1199206794,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1192449554,4,3.5,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1192304928,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1190538192,4,2.5,3.5,"Märzen / Oktoberfest",4,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1181351357,3,2,2.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1177141095,4,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1175216967,2.5,2.5,3,"Märzen / Oktoberfest",3,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1169857143,3,2,3,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1166804571,3.5,3,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1161917068,4,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1160350994,2.5,2.5,2.5,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1159728135,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1159614114,4.5,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1159328786,4,3,3,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1158294245,5,5,5,"Märzen / Oktoberfest",5,5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1158129508,4,3.5,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1157916648,4,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1146688163,4,3,3,"Märzen / Oktoberfest",3.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1140220173,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1138840252,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1138409199,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1129396402,5,3,3.5,"Märzen / Oktoberfest",3.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1129098054,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1128912770,3,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1127507495,3,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1126820442,2.5,2.5,3,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1125878747,3.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1125237634,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1124126494,4,2.5,3,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1118019384,4,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1109208635,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1106776480,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1105559484,3.5,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1104365079,3,3,3,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1103885592,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1038549229,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1101875181,2,3,2,"Märzen / Oktoberfest",2.5,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1101703331,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1101593582,2.5,2.5,2,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1098845834,3.5,3,2.5,"Märzen / Oktoberfest",3.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1098314524,2.5,3,3,"Märzen / Oktoberfest",2.5,2.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1097375233,4,2.5,3,"Märzen / Oktoberfest",3,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1097275437,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1096846906,4.5,3.5,3.5,"Märzen / Oktoberfest",3.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1096218632,4.5,3,3.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1096037381,4.5,4,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1095548607,4,3,3,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1095470360,4,3,3,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1093967898,3,3,2.5,"Märzen / Oktoberfest",3.5,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1085117781,4,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1076804663,4,4,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1073708054,5,3,4,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1070157892,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1068357973,4.5,4,3.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1068044896,4,3.5,3.5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1067456273,3.5,3,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1066105605,4,4,3.5,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1066023505,4.5,4,4.5,"Märzen / Oktoberfest",4,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1065833255,5,4,4.5,"Märzen / Oktoberfest",4,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1065669396,3,2,2.5,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1065345815,5,4.5,4,"Märzen / Oktoberfest",4.5,5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1064593109,5,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1064452320,3,2.5,4,"Märzen / Oktoberfest",3,3,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1063589591,4.5,3,5,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1063287972,4,3,2,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1043670506,4.5,4,4.5,"Märzen / Oktoberfest",4.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1036775472,4.5,3.5,4,"Märzen / Oktoberfest",4,3.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1036409795,4,4,4,"Märzen / Oktoberfest",4.5,4.5,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1034783328,4,4,4,"Märzen / Oktoberfest",4.5,4,"Löwenbräu Oktoberfestbier",6,6222
+95,"Löwenbräu AG",1034589238,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Löwenbräu Oktoberfestbier",6,6222

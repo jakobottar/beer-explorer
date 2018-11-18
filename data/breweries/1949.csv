@@ -1,77 +1,77 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1949,"Bohemian Brewery",1321132486,3,4,4,"Vienna Lager",4,3,"Viennese Lager",4,5290
-"2",1949,"Bohemian Brewery",1308694421,3.5,4,4.5,"Vienna Lager",3.5,3.5,"Viennese Lager",4,5290
-"3",1949,"Bohemian Brewery",1307640501,2.5,3,3.5,"Vienna Lager",2.5,2.5,"Viennese Lager",4,5290
-"4",1949,"Bohemian Brewery",1297172992,4.5,3.5,3,"Vienna Lager",4,4,"Viennese Lager",4,5290
-"5",1949,"Bohemian Brewery",1294509404,4,3.5,3.5,"Vienna Lager",4,4,"Viennese Lager",4,5290
-"6",1949,"Bohemian Brewery",1293668307,4.5,4,4,"Vienna Lager",4.5,4,"Viennese Lager",4,5290
-"7",1949,"Bohemian Brewery",1289913480,3.5,3.5,4,"Vienna Lager",4,3.5,"Viennese Lager",4,5290
-"8",1949,"Bohemian Brewery",1283713624,5,4.5,4.5,"Vienna Lager",3.5,5,"Viennese Lager",4,5290
-"9",1949,"Bohemian Brewery",1282791865,4,4,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
-"10",1949,"Bohemian Brewery",1254367933,4,4,4,"Vienna Lager",4,3.5,"Viennese Lager",4,5290
-"11",1949,"Bohemian Brewery",1200456085,4.5,4.5,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
-"12",1949,"Bohemian Brewery",1188588680,4,3.5,4,"Vienna Lager",3,4,"Viennese Lager",4,5290
-"13",1949,"Bohemian Brewery",1187495563,4,4,4.5,"Vienna Lager",3.5,4,"Viennese Lager",4,5290
-"14",1949,"Bohemian Brewery",1144681828,5,4,5,"Vienna Lager",5,4,"Viennese Lager",4,5290
-"15",1949,"Bohemian Brewery",1142122047,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Viennese Lager",4,5290
-"16",1949,"Bohemian Brewery",1082158223,4.5,3,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
-"17",1949,"Bohemian Brewery",1312068886,3.5,3.5,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
-"18",1949,"Bohemian Brewery",1311127496,3,2.5,3.5,"Czech Pilsener",2.5,3,"Czech Pilsner",5,5289
-"19",1949,"Bohemian Brewery",1300246031,4.5,4,4.5,"Czech Pilsener",4.5,4.5,"Czech Pilsner",5,5289
-"20",1949,"Bohemian Brewery",1298645944,4.5,4,4.5,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
-"21",1949,"Bohemian Brewery",1291751735,3,3.5,3.5,"Czech Pilsener",2.5,3,"Czech Pilsner",5,5289
-"22",1949,"Bohemian Brewery",1291657048,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
-"23",1949,"Bohemian Brewery",1289740018,4,4,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
-"24",1949,"Bohemian Brewery",1283737725,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
-"25",1949,"Bohemian Brewery",1283488494,4,3.5,4.5,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
-"26",1949,"Bohemian Brewery",1281398674,4.5,4,4,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
-"27",1949,"Bohemian Brewery",1275713518,4,3,4,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
-"28",1949,"Bohemian Brewery",1264455780,5,4.5,5,"Czech Pilsener",4.5,4.5,"Czech Pilsner",5,5289
-"29",1949,"Bohemian Brewery",1259114193,4,2.5,3.5,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
-"30",1949,"Bohemian Brewery",1254103139,4.5,4,4,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
-"31",1949,"Bohemian Brewery",1251766716,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
-"32",1949,"Bohemian Brewery",1238687480,3.5,3.5,3.5,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
-"33",1949,"Bohemian Brewery",1235459329,5,3,4,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
-"34",1949,"Bohemian Brewery",1216226566,4,3.5,4,"Czech Pilsener",3.5,3.5,"Czech Pilsner",5,5289
-"35",1949,"Bohemian Brewery",1200456379,5,4.5,4.5,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
-"36",1949,"Bohemian Brewery",1188587860,4,3.5,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
-"37",1949,"Bohemian Brewery",1173383141,4.5,4,4.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
-"38",1949,"Bohemian Brewery",1164097517,4,4,3.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
-"39",1949,"Bohemian Brewery",1142122366,3.5,3.5,3,"Czech Pilsener",3,3.5,"Czech Pilsner",5,5289
-"40",1949,"Bohemian Brewery",1129445714,4.5,4,4.5,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
-"41",1949,"Bohemian Brewery",1100983102,5,5,5,"Czech Pilsener",5,5,"Czech Pilsner",5,5289
-"42",1949,"Bohemian Brewery",1082157732,4,4,4.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
-"43",1949,"Bohemian Brewery",1311127435,3,3.5,4,"American Pale Wheat Ale",3.5,3,"Bavarian Weiss",5,5291
-"44",1949,"Bohemian Brewery",1254367547,3.5,3,4,"American Pale Wheat Ale",3.5,4,"Bavarian Weiss",5,5291
-"45",1949,"Bohemian Brewery",1188588248,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Bavarian Weiss",5,5291
-"46",1949,"Bohemian Brewery",1171922364,2,4,2.5,"American Pale Wheat Ale",2.5,3.5,"Bavarian Weiss",5,5291
-"47",1949,"Bohemian Brewery",1142122683,2.5,2.5,2.5,"American Pale Wheat Ale",2.5,2.5,"Bavarian Weiss",5,5291
-"48",1949,"Bohemian Brewery",1129446130,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Bavarian Weiss",5,5291
-"49",1949,"Bohemian Brewery",1100982183,5,4,5,"American Pale Wheat Ale",4.5,4.5,"Bavarian Weiss",5,5291
-"50",1949,"Bohemian Brewery",1088385170,3,3,4,"American Pale Wheat Ale",3,2,"Bavarian Weiss",5,5291
-"51",1949,"Bohemian Brewery",1082158097,3,3,3.5,"American Pale Wheat Ale",2,3,"Bavarian Weiss",5,5291
-"52",1949,"Bohemian Brewery",1165713086,3.5,3,3,"Bière de Garde",3.5,3.5,"Biere De Garde",4,34227
-"53",1949,"Bohemian Brewery",1321131208,3,4,4.5,"Schwarzbier",3,2.5,"Cherny Bock",4,5292
-"54",1949,"Bohemian Brewery",1309835855,4,4,4,"Schwarzbier",4,4.5,"Cherny Bock",4,5292
-"55",1949,"Bohemian Brewery",1308694214,4,3.5,3.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
-"56",1949,"Bohemian Brewery",1307401995,3,3,4,"Schwarzbier",3,3,"Cherny Bock",4,5292
-"57",1949,"Bohemian Brewery",1306612164,4,4,4,"Schwarzbier",4,4.5,"Cherny Bock",4,5292
-"58",1949,"Bohemian Brewery",1306011909,4,3,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"59",1949,"Bohemian Brewery",1305943585,4,3.5,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
-"60",1949,"Bohemian Brewery",1305685645,4,3.5,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"61",1949,"Bohemian Brewery",1305158105,3,3,4,"Schwarzbier",3,3.5,"Cherny Bock",4,5292
-"62",1949,"Bohemian Brewery",1304735742,3,4,4.5,"Schwarzbier",2.5,3.5,"Cherny Bock",4,5292
-"63",1949,"Bohemian Brewery",1303869273,4.5,4.5,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"64",1949,"Bohemian Brewery",1302134871,4.5,4,4,"Schwarzbier",4.5,4,"Cherny Bock",4,5292
-"65",1949,"Bohemian Brewery",1298833228,4.5,4,3.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
-"66",1949,"Bohemian Brewery",1298644973,4.5,3.5,4.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
-"67",1949,"Bohemian Brewery",1298337493,4.5,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"68",1949,"Bohemian Brewery",1292354782,5,4,4,"Schwarzbier",4.5,5,"Cherny Bock",4,5292
-"69",1949,"Bohemian Brewery",1290172115,4,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"70",1949,"Bohemian Brewery",1276573650,2.5,3.5,3.5,"Schwarzbier",2.5,4,"Cherny Bock",4,5292
-"71",1949,"Bohemian Brewery",1254367708,4,4.5,4,"Schwarzbier",4.5,4,"Cherny Bock",4,5292
-"72",1949,"Bohemian Brewery",1216228203,4.5,3.5,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
-"73",1949,"Bohemian Brewery",1171923000,4.5,4,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
-"74",1949,"Bohemian Brewery",1139537462,4,4,3.5,"Schwarzbier",3,4,"Cherny Bock",4,5292
-"75",1949,"Bohemian Brewery",1127631871,4,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
-"76",1949,"Bohemian Brewery",1082158679,3.5,3.5,3.5,"Schwarzbier",3,3.5,"Cherny Bock",4,5292
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+1949,"Bohemian Brewery",1321132486,3,4,4,"Vienna Lager",4,3,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1308694421,3.5,4,4.5,"Vienna Lager",3.5,3.5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1307640501,2.5,3,3.5,"Vienna Lager",2.5,2.5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1297172992,4.5,3.5,3,"Vienna Lager",4,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1294509404,4,3.5,3.5,"Vienna Lager",4,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1293668307,4.5,4,4,"Vienna Lager",4.5,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1289913480,3.5,3.5,4,"Vienna Lager",4,3.5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1283713624,5,4.5,4.5,"Vienna Lager",3.5,5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1282791865,4,4,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1254367933,4,4,4,"Vienna Lager",4,3.5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1200456085,4.5,4.5,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1188588680,4,3.5,4,"Vienna Lager",3,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1187495563,4,4,4.5,"Vienna Lager",3.5,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1144681828,5,4,5,"Vienna Lager",5,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1142122047,3.5,3.5,3.5,"Vienna Lager",3.5,3.5,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1082158223,4.5,3,4,"Vienna Lager",4,4,"Viennese Lager",4,5290
+1949,"Bohemian Brewery",1312068886,3.5,3.5,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1311127496,3,2.5,3.5,"Czech Pilsener",2.5,3,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1300246031,4.5,4,4.5,"Czech Pilsener",4.5,4.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1298645944,4.5,4,4.5,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1291751735,3,3.5,3.5,"Czech Pilsener",2.5,3,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1291657048,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1289740018,4,4,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1283737725,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1283488494,4,3.5,4.5,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1281398674,4.5,4,4,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1275713518,4,3,4,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1264455780,5,4.5,5,"Czech Pilsener",4.5,4.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1259114193,4,2.5,3.5,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1254103139,4.5,4,4,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1251766716,5,4,4,"Czech Pilsener",4.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1238687480,3.5,3.5,3.5,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1235459329,5,3,4,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1216226566,4,3.5,4,"Czech Pilsener",3.5,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1200456379,5,4.5,4.5,"Czech Pilsener",4,4.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1188587860,4,3.5,4,"Czech Pilsener",4,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1173383141,4.5,4,4.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1164097517,4,4,3.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1142122366,3.5,3.5,3,"Czech Pilsener",3,3.5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1129445714,4.5,4,4.5,"Czech Pilsener",4,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1100983102,5,5,5,"Czech Pilsener",5,5,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1082157732,4,4,4.5,"Czech Pilsener",3.5,4,"Czech Pilsner",5,5289
+1949,"Bohemian Brewery",1311127435,3,3.5,4,"American Pale Wheat Ale",3.5,3,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1254367547,3.5,3,4,"American Pale Wheat Ale",3.5,4,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1188588248,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1171922364,2,4,2.5,"American Pale Wheat Ale",2.5,3.5,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1142122683,2.5,2.5,2.5,"American Pale Wheat Ale",2.5,2.5,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1129446130,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1100982183,5,4,5,"American Pale Wheat Ale",4.5,4.5,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1088385170,3,3,4,"American Pale Wheat Ale",3,2,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1082158097,3,3,3.5,"American Pale Wheat Ale",2,3,"Bavarian Weiss",5,5291
+1949,"Bohemian Brewery",1165713086,3.5,3,3,"Bière de Garde",3.5,3.5,"Biere De Garde",4,34227
+1949,"Bohemian Brewery",1321131208,3,4,4.5,"Schwarzbier",3,2.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1309835855,4,4,4,"Schwarzbier",4,4.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1308694214,4,3.5,3.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1307401995,3,3,4,"Schwarzbier",3,3,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1306612164,4,4,4,"Schwarzbier",4,4.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1306011909,4,3,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1305943585,4,3.5,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1305685645,4,3.5,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1305158105,3,3,4,"Schwarzbier",3,3.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1304735742,3,4,4.5,"Schwarzbier",2.5,3.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1303869273,4.5,4.5,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1302134871,4.5,4,4,"Schwarzbier",4.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1298833228,4.5,4,3.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1298644973,4.5,3.5,4.5,"Schwarzbier",4,3.5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1298337493,4.5,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1292354782,5,4,4,"Schwarzbier",4.5,5,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1290172115,4,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1276573650,2.5,3.5,3.5,"Schwarzbier",2.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1254367708,4,4.5,4,"Schwarzbier",4.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1216228203,4.5,3.5,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1171923000,4.5,4,4,"Schwarzbier",3.5,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1139537462,4,4,3.5,"Schwarzbier",3,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1127631871,4,4,4,"Schwarzbier",4,4,"Cherny Bock",4,5292
+1949,"Bohemian Brewery",1082158679,3.5,3.5,3.5,"Schwarzbier",3,3.5,"Cherny Bock",4,5292

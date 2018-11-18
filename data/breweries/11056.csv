@@ -1,603 +1,603 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",11056,"Les Trois Mousquetaires",1202170648,3.5,3.5,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"2",11056,"Les Trois Mousquetaires",1250266732,4,3,3.5,"Maibock / Helles Bock",4,3.5,"Cardinal De Richelieu",8,38956
-"3",11056,"Les Trois Mousquetaires",1267135223,4.5,3,3.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
-"4",11056,"Les Trois Mousquetaires",1249440829,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"5",11056,"Les Trois Mousquetaires",1189311249,4,4,3,"American Amber / Red Lager",4,4,"Aramis",5,24314
-"6",11056,"Les Trois Mousquetaires",1197137975,2.5,2.5,4,"American Amber / Red Lager",3,2.5,"Aramis",5,24314
-"7",11056,"Les Trois Mousquetaires",1199837261,3,3,3.5,"American Amber / Red Lager",3,3,"Aramis",5,24314
-"8",11056,"Les Trois Mousquetaires",1188695053,3.5,3.5,2,"American Amber / Red Lager",4,3.5,"Aramis",5,24314
-"9",11056,"Les Trois Mousquetaires",1177530725,4.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Aramis",5,24314
-"10",11056,"Les Trois Mousquetaires",1171079183,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Aramis",5,24314
-"11",11056,"Les Trois Mousquetaires",1161015125,3,3,3,"American Amber / Red Lager",3,3.5,"Aramis",5,24314
-"12",11056,"Les Trois Mousquetaires",1134691386,3.5,3,3.5,"American Amber / Red Lager",3.5,4,"Aramis",5,24314
-"13",11056,"Les Trois Mousquetaires",1132956186,3.5,3.5,3,"American Amber / Red Lager",3,3,"Aramis",5,24314
-"14",11056,"Les Trois Mousquetaires",1119230566,4,4,4,"American Amber / Red Lager",5,3.5,"Aramis",5,24314
-"15",11056,"Les Trois Mousquetaires",1225468793,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,22640
-"16",11056,"Les Trois Mousquetaires",1186194267,3.5,3,4,"Märzen / Oktoberfest",3,3,"Oktoberfest",5,22640
-"17",11056,"Les Trois Mousquetaires",1152637572,3.5,3.5,3.5,"Kristalweizen",3,3.5,"Milady",5,24112
-"18",11056,"Les Trois Mousquetaires",1157338102,3.5,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5,22640
-"19",11056,"Les Trois Mousquetaires",1156984685,2.5,2,3,"Märzen / Oktoberfest",2.5,2.5,"Oktoberfest",5,22640
-"20",11056,"Les Trois Mousquetaires",1117641843,3.5,4.5,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,22640
-"21",11056,"Les Trois Mousquetaires",1111387527,3.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,22640
-"22",11056,"Les Trois Mousquetaires",1196721545,3.5,3.5,3,"Kristalweizen",3,3.5,"Milady",5,24112
-"23",11056,"Les Trois Mousquetaires",1187748044,3.5,3.5,3.5,"Kristalweizen",3,3,"Milady",5,24112
-"24",11056,"Les Trois Mousquetaires",1177001516,3.5,3,2.5,"Kristalweizen",3,2.5,"Milady",5,24112
-"25",11056,"Les Trois Mousquetaires",1158169387,3.5,4,3.5,"Kristalweizen",3.5,4,"Milady",5,24112
-"26",11056,"Les Trois Mousquetaires",1158024777,4,3.5,4,"Kristalweizen",3.5,3.5,"Milady",5,24112
-"27",11056,"Les Trois Mousquetaires",1155825450,3.5,3,4,"Kristalweizen",3,3.5,"Milady",5,24112
-"28",11056,"Les Trois Mousquetaires",1118791197,4,4.5,3.5,"Kristalweizen",3.5,4,"Milady",5,24112
-"29",11056,"Les Trois Mousquetaires",1118008237,4,3.5,3,"Kristalweizen",3,4,"Milady",5,24112
-"30",11056,"Les Trois Mousquetaires",1220808065,3,3,3,"Altbier",3.5,3,"Alt Secrete",7.2,38350
-"31",11056,"Les Trois Mousquetaires",1219003719,4,3.5,4,"Altbier",4.5,4,"Alt Secrete",7.2,38350
-"32",11056,"Les Trois Mousquetaires",1218767215,3.5,3.5,3,"Altbier",3,3.5,"Alt Secrete",7.2,38350
-"33",11056,"Les Trois Mousquetaires",1208121745,3.5,4.5,2.5,"Altbier",3.5,4,"Alt Secrete",7.2,38350
-"34",11056,"Les Trois Mousquetaires",1194655255,4.5,4,4.5,"Altbier",4,4.5,"Alt Secrete",7.2,38350
-"35",11056,"Les Trois Mousquetaires",1193238404,3.5,3.5,3.5,"Altbier",3.5,3.5,"Alt Secrete",7.2,38350
-"36",11056,"Les Trois Mousquetaires",1187917245,3,2.5,3.5,"Altbier",3.5,3,"Alt Secrete",7.2,38350
-"37",11056,"Les Trois Mousquetaires",1322266784,3.5,3.5,4.5,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
-"38",11056,"Les Trois Mousquetaires",1319300307,3.5,3.5,3.5,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
-"39",11056,"Les Trois Mousquetaires",1307675507,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
-"40",11056,"Les Trois Mousquetaires",1301679214,3,3,3.5,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
-"41",11056,"Les Trois Mousquetaires",1295108892,3,3.5,3.5,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
-"42",11056,"Les Trois Mousquetaires",1294525065,3,4,3,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
-"43",11056,"Les Trois Mousquetaires",1291864546,3.5,4,4,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
-"44",11056,"Les Trois Mousquetaires",1289702617,3.5,4,3,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
-"45",11056,"Les Trois Mousquetaires",1288929759,4,4.5,4,"Maibock / Helles Bock",4.5,4,"Serie Signature Maibock",8,52044
-"46",11056,"Les Trois Mousquetaires",1287232615,3,3,4,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
-"47",11056,"Les Trois Mousquetaires",1285838875,4,4,4.5,"Maibock / Helles Bock",4,4,"Serie Signature Maibock",8,52044
-"48",11056,"Les Trois Mousquetaires",1281533452,4.5,4,4,"Maibock / Helles Bock",4,4.5,"Serie Signature Maibock",8,52044
-"49",11056,"Les Trois Mousquetaires",1278375478,4,4,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
-"50",11056,"Les Trois Mousquetaires",1276917289,2,3.5,3.5,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
-"51",11056,"Les Trois Mousquetaires",1276019077,3,3.5,3.5,"Maibock / Helles Bock",3,3.5,"Serie Signature Maibock",8,52044
-"52",11056,"Les Trois Mousquetaires",1250904612,3,4,4,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
-"53",11056,"Les Trois Mousquetaires",1271644621,2.5,3,2,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
-"54",11056,"Les Trois Mousquetaires",1269571763,4,3.5,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
-"55",11056,"Les Trois Mousquetaires",1269571146,4,3.5,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
-"56",11056,"Les Trois Mousquetaires",1268535844,3,4,4.5,"Maibock / Helles Bock",3,3,"Serie Signature Maibock",8,52044
-"57",11056,"Les Trois Mousquetaires",1265078511,2.5,3.5,3,"Maibock / Helles Bock",4,3,"Serie Signature Maibock",8,52044
-"58",11056,"Les Trois Mousquetaires",1262494660,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3,"Serie Signature Maibock",8,52044
-"59",11056,"Les Trois Mousquetaires",1261444133,3,3,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
-"60",11056,"Les Trois Mousquetaires",1259635479,4,4,3.5,"Maibock / Helles Bock",4,4,"Serie Signature Maibock",8,52044
-"61",11056,"Les Trois Mousquetaires",1311024647,4,4,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
-"62",11056,"Les Trois Mousquetaires",1301277695,3.5,4,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
-"63",11056,"Les Trois Mousquetaires",1301274927,4,4,4,"Herbed / Spiced Beer",4,4,"Série Signature Festbier",6,63969
-"64",11056,"Les Trois Mousquetaires",1299985963,4,5,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
-"65",11056,"Les Trois Mousquetaires",1298730815,4,3.5,3,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
-"66",11056,"Les Trois Mousquetaires",1297398694,2,4.5,2.5,"Herbed / Spiced Beer",3,3,"Série Signature Festbier",6,63969
-"67",11056,"Les Trois Mousquetaires",1265602437,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Serie Signature - Americaine Pale Ale",5,54537
-"68",11056,"Les Trois Mousquetaires",1295893419,4,4,4,"Herbed / Spiced Beer",4,4,"Série Signature Festbier",6,63969
-"69",11056,"Les Trois Mousquetaires",1294024822,4,4,3.5,"Herbed / Spiced Beer",4,4.5,"Série Signature Festbier",6,63969
-"70",11056,"Les Trois Mousquetaires",1291256261,3,4,4.5,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
-"71",11056,"Les Trois Mousquetaires",1290989177,4,4,3,"Herbed / Spiced Beer",3,3,"Série Signature Festbier",6,63969
-"72",11056,"Les Trois Mousquetaires",1326136324,5,4.5,5,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"73",11056,"Les Trois Mousquetaires",1324851243,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"74",11056,"Les Trois Mousquetaires",1322420379,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"75",11056,"Les Trois Mousquetaires",1322357692,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"76",11056,"Les Trois Mousquetaires",1321763424,4.5,4.5,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"77",11056,"Les Trois Mousquetaires",1321143447,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"78",11056,"Les Trois Mousquetaires",1321059757,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"79",11056,"Les Trois Mousquetaires",1320896283,4,4,3.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"80",11056,"Les Trois Mousquetaires",1320683707,4,3.5,3.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"81",11056,"Les Trois Mousquetaires",1320512249,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"82",11056,"Les Trois Mousquetaires",1320462519,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"83",11056,"Les Trois Mousquetaires",1320365595,4.5,4.5,4,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"84",11056,"Les Trois Mousquetaires",1320026382,4.5,4,3.5,"Baltic Porter",3.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"85",11056,"Les Trois Mousquetaires",1319919112,4,4.5,4,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"86",11056,"Les Trois Mousquetaires",1319245383,4.5,4.5,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"87",11056,"Les Trois Mousquetaires",1316398773,3,4.5,3.5,"Baltic Porter",2.5,3,"Les Trois Mousquetaires Porter Baltique",10,46644
-"88",11056,"Les Trois Mousquetaires",1314905573,3.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"89",11056,"Les Trois Mousquetaires",1308813279,5,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"90",11056,"Les Trois Mousquetaires",1308808119,5,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"91",11056,"Les Trois Mousquetaires",1301624999,4,4.5,4.5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"92",11056,"Les Trois Mousquetaires",1301270054,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"93",11056,"Les Trois Mousquetaires",1301180179,5,4,4,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"94",11056,"Les Trois Mousquetaires",1300321641,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"95",11056,"Les Trois Mousquetaires",1299897249,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"96",11056,"Les Trois Mousquetaires",1299576784,4,4,4.5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"97",11056,"Les Trois Mousquetaires",1298241424,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"98",11056,"Les Trois Mousquetaires",1298033863,3.5,3.5,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"99",11056,"Les Trois Mousquetaires",1297753578,3.5,4.5,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"100",11056,"Les Trois Mousquetaires",1297611499,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"101",11056,"Les Trois Mousquetaires",1295917596,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"102",11056,"Les Trois Mousquetaires",1293408749,5,4.5,4.5,"Baltic Porter",4,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"103",11056,"Les Trois Mousquetaires",1293226942,4.5,4,3.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"104",11056,"Les Trois Mousquetaires",1291357879,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"105",11056,"Les Trois Mousquetaires",1290908673,4.5,4.5,4,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"106",11056,"Les Trois Mousquetaires",1289955768,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"107",11056,"Les Trois Mousquetaires",1288750778,4.5,4,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"108",11056,"Les Trois Mousquetaires",1288566451,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"109",11056,"Les Trois Mousquetaires",1288246361,4.5,4,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"110",11056,"Les Trois Mousquetaires",1286141510,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"111",11056,"Les Trois Mousquetaires",1271680582,4.5,5,4.5,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"112",11056,"Les Trois Mousquetaires",1283525487,4.5,4.5,4,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"113",11056,"Les Trois Mousquetaires",1282527429,4,4,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"114",11056,"Les Trois Mousquetaires",1281793951,2.5,3.5,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"115",11056,"Les Trois Mousquetaires",1281793078,3.5,4,4,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"116",11056,"Les Trois Mousquetaires",1281300289,4.5,5,5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"117",11056,"Les Trois Mousquetaires",1276492327,2,4,4,"Baltic Porter",3.5,3,"Les Trois Mousquetaires Porter Baltique",10,46644
-"118",11056,"Les Trois Mousquetaires",1276017861,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"119",11056,"Les Trois Mousquetaires",1272144281,4,3.5,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"120",11056,"Les Trois Mousquetaires",1271903688,4,3,5,"Baltic Porter",3.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"121",11056,"Les Trois Mousquetaires",1268546382,4,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"122",11056,"Les Trois Mousquetaires",1267848217,4,4,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"123",11056,"Les Trois Mousquetaires",1267404880,4.5,4.5,4,"Baltic Porter",4,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"124",11056,"Les Trois Mousquetaires",1266724815,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"125",11056,"Les Trois Mousquetaires",1266098016,3,3,4,"Baltic Porter",3,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"126",11056,"Les Trois Mousquetaires",1264636986,4.5,4.5,4.5,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"127",11056,"Les Trois Mousquetaires",1262827810,4,4,4.5,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"128",11056,"Les Trois Mousquetaires",1260573471,4.5,5,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"129",11056,"Les Trois Mousquetaires",1260462002,4,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"130",11056,"Les Trois Mousquetaires",1260460697,4,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"131",11056,"Les Trois Mousquetaires",1259895443,4.5,4,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"132",11056,"Les Trois Mousquetaires",1259789854,5,4.5,4,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"133",11056,"Les Trois Mousquetaires",1258940420,5,4.5,4,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"134",11056,"Les Trois Mousquetaires",1257028311,4,4.5,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"135",11056,"Les Trois Mousquetaires",1242539255,4,3.5,4,"Baltic Porter",4,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"136",11056,"Les Trois Mousquetaires",1238190086,4,4.5,4,"Baltic Porter",3,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"137",11056,"Les Trois Mousquetaires",1235256793,4,4,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"138",11056,"Les Trois Mousquetaires",1229488177,5,5,4.5,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"139",11056,"Les Trois Mousquetaires",1228373554,4,4,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"140",11056,"Les Trois Mousquetaires",1227295278,4,3.5,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
-"141",11056,"Les Trois Mousquetaires",1197479628,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"142",11056,"Les Trois Mousquetaires",1197158200,3.5,4,4,"Baltic Porter",3.5,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
-"143",11056,"Les Trois Mousquetaires",1313201359,3.5,3.5,4,"Rauchbier",4.5,4,"Série Signature Rauchbier",6,47226
-"144",11056,"Les Trois Mousquetaires",1312671002,3.5,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"145",11056,"Les Trois Mousquetaires",1311202943,4,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"146",11056,"Les Trois Mousquetaires",1306677903,4,4.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"147",11056,"Les Trois Mousquetaires",1293121642,3.5,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"148",11056,"Les Trois Mousquetaires",1292375181,4,4.5,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"149",11056,"Les Trois Mousquetaires",1302829758,5,4.5,5,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
-"150",11056,"Les Trois Mousquetaires",1302807284,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"151",11056,"Les Trois Mousquetaires",1301069429,4,4,5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"152",11056,"Les Trois Mousquetaires",1294514799,4,4.5,3.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"153",11056,"Les Trois Mousquetaires",1294372065,4,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"154",11056,"Les Trois Mousquetaires",1293498617,3.5,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"155",11056,"Les Trois Mousquetaires",1293427893,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"156",11056,"Les Trois Mousquetaires",1292250206,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"157",11056,"Les Trois Mousquetaires",1290739652,3.5,4,3.5,"Rauchbier",3,4.5,"Série Signature Rauchbier",6,47226
-"158",11056,"Les Trois Mousquetaires",1289450038,4,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"159",11056,"Les Trois Mousquetaires",1285508024,4.5,4,3.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"160",11056,"Les Trois Mousquetaires",1285028256,4,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"161",11056,"Les Trois Mousquetaires",1284938175,4,4,3.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"162",11056,"Les Trois Mousquetaires",1283994075,4,4.5,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"163",11056,"Les Trois Mousquetaires",1277866479,4.5,4.5,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
-"164",11056,"Les Trois Mousquetaires",1283682137,4,4,4.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"165",11056,"Les Trois Mousquetaires",1281909395,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"166",11056,"Les Trois Mousquetaires",1280982247,4,4,3.5,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"167",11056,"Les Trois Mousquetaires",1280725465,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"168",11056,"Les Trois Mousquetaires",1280530883,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"169",11056,"Les Trois Mousquetaires",1280497123,4.5,4.5,3.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"170",11056,"Les Trois Mousquetaires",1280020317,4,4.5,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"171",11056,"Les Trois Mousquetaires",1277523645,4,3.5,3.5,"Rauchbier",4,3.5,"Série Signature Rauchbier",6,47226
-"172",11056,"Les Trois Mousquetaires",1277084999,4.5,4,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
-"173",11056,"Les Trois Mousquetaires",1276828574,4,4.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"174",11056,"Les Trois Mousquetaires",1276486039,3.5,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"175",11056,"Les Trois Mousquetaires",1276020092,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"176",11056,"Les Trois Mousquetaires",1275696504,4.5,4.5,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
-"177",11056,"Les Trois Mousquetaires",1274659224,5,4.5,4,"Rauchbier",5,5,"Série Signature Rauchbier",6,47226
-"178",11056,"Les Trois Mousquetaires",1271470689,4,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"179",11056,"Les Trois Mousquetaires",1267798796,4,4.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"180",11056,"Les Trois Mousquetaires",1267141894,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"181",11056,"Les Trois Mousquetaires",1249959763,3,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"182",11056,"Les Trois Mousquetaires",1267065076,3.5,3.5,4.5,"Rauchbier",4,3,"Série Signature Rauchbier",6,47226
-"183",11056,"Les Trois Mousquetaires",1266633926,4,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"184",11056,"Les Trois Mousquetaires",1266633223,4,4,4,"Rauchbier",3.5,4.5,"Série Signature Rauchbier",6,47226
-"185",11056,"Les Trois Mousquetaires",1266036348,4.5,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"186",11056,"Les Trois Mousquetaires",1264486209,4,3.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"187",11056,"Les Trois Mousquetaires",1263609119,4,3.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"188",11056,"Les Trois Mousquetaires",1262109060,4,4,4.5,"Rauchbier",4.5,4,"Série Signature Rauchbier",6,47226
-"189",11056,"Les Trois Mousquetaires",1259283486,3.5,3.5,3.5,"Rauchbier",4,3.5,"Série Signature Rauchbier",6,47226
-"190",11056,"Les Trois Mousquetaires",1256264624,4.5,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"191",11056,"Les Trois Mousquetaires",1250979208,4,4.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"192",11056,"Les Trois Mousquetaires",1248706676,4.5,4,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
-"193",11056,"Les Trois Mousquetaires",1248587468,2,3,3,"Rauchbier",3.5,1,"Série Signature Rauchbier",6,47226
-"194",11056,"Les Trois Mousquetaires",1248565921,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
-"195",11056,"Les Trois Mousquetaires",1247107818,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
-"196",11056,"Les Trois Mousquetaires",1245393169,4,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
-"197",11056,"Les Trois Mousquetaires",1242519429,5,4,4,"Rauchbier",5,5,"Série Signature Rauchbier",6,47226
-"198",11056,"Les Trois Mousquetaires",1231732275,3.5,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
-"199",11056,"Les Trois Mousquetaires",1326206740,2.5,3,4,"Keller Bier / Zwickel Bier",4,2.5,"Série Signature Kellerbier",5.5,51541
-"200",11056,"Les Trois Mousquetaires",1293433459,4,4,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
-"201",11056,"Les Trois Mousquetaires",1324680764,4.5,4.5,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"202",11056,"Les Trois Mousquetaires",1304959686,4,4,4,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
-"203",11056,"Les Trois Mousquetaires",1303862894,4.5,4.5,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"204",11056,"Les Trois Mousquetaires",1302649296,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"205",11056,"Les Trois Mousquetaires",1302501779,3.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,3.5,"Série Signature Kellerbier",5.5,51541
-"206",11056,"Les Trois Mousquetaires",1302209730,3.5,2.5,4,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
-"207",11056,"Les Trois Mousquetaires",1297479401,3.5,3.5,4,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
-"208",11056,"Les Trois Mousquetaires",1294602695,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"209",11056,"Les Trois Mousquetaires",1291697610,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"210",11056,"Les Trois Mousquetaires",1291329557,4.5,3.5,4,"Keller Bier / Zwickel Bier",4.5,4,"Série Signature Kellerbier",5.5,51541
-"211",11056,"Les Trois Mousquetaires",1291140658,4,4,3.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"212",11056,"Les Trois Mousquetaires",1289114838,4,3.5,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"213",11056,"Les Trois Mousquetaires",1286774498,5,3.5,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"214",11056,"Les Trois Mousquetaires",1284329900,4,4.5,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
-"215",11056,"Les Trois Mousquetaires",1284164243,4,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"216",11056,"Les Trois Mousquetaires",1283916807,4,4,3,"Keller Bier / Zwickel Bier",3,3.5,"Série Signature Kellerbier",5.5,51541
-"217",11056,"Les Trois Mousquetaires",1283663755,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"218",11056,"Les Trois Mousquetaires",1283422509,4,4.5,4,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
-"219",11056,"Les Trois Mousquetaires",1282956399,3.5,4.5,4.5,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
-"220",11056,"Les Trois Mousquetaires",1282884938,4.5,4,4.5,"Keller Bier / Zwickel Bier",3.5,4.5,"Série Signature Kellerbier",5.5,51541
-"221",11056,"Les Trois Mousquetaires",1282272197,3.5,3,3,"Keller Bier / Zwickel Bier",3.5,3,"Série Signature Kellerbier",5.5,51541
-"222",11056,"Les Trois Mousquetaires",1282091990,5,4.5,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"223",11056,"Les Trois Mousquetaires",1281917681,5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"224",11056,"Les Trois Mousquetaires",1281628463,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"225",11056,"Les Trois Mousquetaires",1279506375,3.5,4,4,"Keller Bier / Zwickel Bier",4.5,3.5,"Série Signature Kellerbier",5.5,51541
-"226",11056,"Les Trois Mousquetaires",1279246904,4.5,4.5,4,"Keller Bier / Zwickel Bier",4.5,4,"Série Signature Kellerbier",5.5,51541
-"227",11056,"Les Trois Mousquetaires",1256928316,4,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"228",11056,"Les Trois Mousquetaires",1278633610,3,2.5,4.5,"Keller Bier / Zwickel Bier",2.5,3,"Série Signature Kellerbier",5.5,51541
-"229",11056,"Les Trois Mousquetaires",1278085759,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"230",11056,"Les Trois Mousquetaires",1277771430,5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"231",11056,"Les Trois Mousquetaires",1276825008,4.5,4,3,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"232",11056,"Les Trois Mousquetaires",1276554368,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"233",11056,"Les Trois Mousquetaires",1276481083,4.5,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"234",11056,"Les Trois Mousquetaires",1276054747,4.5,4.5,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"235",11056,"Les Trois Mousquetaires",1253498911,4.5,3.5,3.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
-"236",11056,"Les Trois Mousquetaires",1276016845,4,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"237",11056,"Les Trois Mousquetaires",1274578464,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"238",11056,"Les Trois Mousquetaires",1273446343,4.5,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
-"239",11056,"Les Trois Mousquetaires",1272832330,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"240",11056,"Les Trois Mousquetaires",1268009789,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"241",11056,"Les Trois Mousquetaires",1266091843,3,4,4.5,"Keller Bier / Zwickel Bier",3,3,"Série Signature Kellerbier",5.5,51541
-"242",11056,"Les Trois Mousquetaires",1265861121,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"243",11056,"Les Trois Mousquetaires",1261196247,3.5,3,4,"Keller Bier / Zwickel Bier",3.5,3,"Série Signature Kellerbier",5.5,51541
-"244",11056,"Les Trois Mousquetaires",1257782264,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"245",11056,"Les Trois Mousquetaires",1257781081,4,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"246",11056,"Les Trois Mousquetaires",1252720709,4,4,5,"Keller Bier / Zwickel Bier",3.5,4.5,"Série Signature Kellerbier",5.5,51541
-"247",11056,"Les Trois Mousquetaires",1250388890,3,3,3.5,"Keller Bier / Zwickel Bier",3.5,3.5,"Série Signature Kellerbier",5.5,51541
-"248",11056,"Les Trois Mousquetaires",1249273581,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
-"249",11056,"Les Trois Mousquetaires",1249089290,4.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
-"250",11056,"Les Trois Mousquetaires",1324071149,3.5,4,5,"Weizenbock",3,3.5,"Weizenbock Grande Cuvée",11,44939
-"251",11056,"Les Trois Mousquetaires",1323653979,3,3,3.5,"Weizenbock",4,3,"Weizenbock Grande Cuvée",11,44939
-"252",11056,"Les Trois Mousquetaires",1322012654,4.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
-"253",11056,"Les Trois Mousquetaires",1321967317,4,4,3.5,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
-"254",11056,"Les Trois Mousquetaires",1313920516,4,4,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
-"255",11056,"Les Trois Mousquetaires",1309796540,3.5,4,4,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
-"256",11056,"Les Trois Mousquetaires",1300759900,3,3.5,4.5,"Weizenbock",4,3,"Weizenbock Grande Cuvée",11,44939
-"257",11056,"Les Trois Mousquetaires",1295156986,4,3.5,4,"Weizenbock",4.5,4.5,"Weizenbock Grande Cuvée",11,44939
-"258",11056,"Les Trois Mousquetaires",1291004114,4,4,3.5,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
-"259",11056,"Les Trois Mousquetaires",1288324347,4,4,3.5,"Weizenbock",4,4.5,"Weizenbock Grande Cuvée",11,44939
-"260",11056,"Les Trois Mousquetaires",1282110960,3.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
-"261",11056,"Les Trois Mousquetaires",1281321265,2.5,4,4.5,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
-"262",11056,"Les Trois Mousquetaires",1278516681,3.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
-"263",11056,"Les Trois Mousquetaires",1277165639,3.5,4,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
-"264",11056,"Les Trois Mousquetaires",1276018614,4,4,4,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
-"265",11056,"Les Trois Mousquetaires",1273028447,2.5,4.5,4.5,"Weizenbock",5,4.5,"Weizenbock Grande Cuvée",11,44939
-"266",11056,"Les Trois Mousquetaires",1252972704,4.5,3.5,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
-"267",11056,"Les Trois Mousquetaires",1249869937,4,4.5,4,"Weizenbock",4.5,4.5,"Weizenbock Grande Cuvée",11,44939
-"268",11056,"Les Trois Mousquetaires",1248833518,3,4,3.5,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
-"269",11056,"Les Trois Mousquetaires",1243551688,4,4,3.5,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
-"270",11056,"Les Trois Mousquetaires",1241382333,4,2,4,"Weizenbock",4.5,3.5,"Weizenbock Grande Cuvée",11,44939
-"271",11056,"Les Trois Mousquetaires",1227721943,3.5,4,3.5,"Weizenbock",3.5,3.5,"Weizenbock Grande Cuvée",11,44939
-"272",11056,"Les Trois Mousquetaires",1221963845,4,3.5,4,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
-"273",11056,"Les Trois Mousquetaires",1266191528,3.5,3.5,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"274",11056,"Les Trois Mousquetaires",1252461156,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"275",11056,"Les Trois Mousquetaires",1219025830,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"276",11056,"Les Trois Mousquetaires",1212369706,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"277",11056,"Les Trois Mousquetaires",1196613886,3,3.5,3.5,"Rauchbier",3.5,3,"Marché Joannette Rauchweizen",5,38939
-"278",11056,"Les Trois Mousquetaires",1194920271,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"279",11056,"Les Trois Mousquetaires",1194747017,4.5,4,4,"Rauchbier",3.5,4,"Marché Joannette Rauchweizen",5,38939
-"280",11056,"Les Trois Mousquetaires",1191633308,4,4,4.5,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
-"281",11056,"Les Trois Mousquetaires",1321058976,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
-"282",11056,"Les Trois Mousquetaires",1318869908,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"283",11056,"Les Trois Mousquetaires",1315870984,4,4,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"284",11056,"Les Trois Mousquetaires",1311488394,4.5,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"285",11056,"Les Trois Mousquetaires",1303698867,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"286",11056,"Les Trois Mousquetaires",1300572219,3,4,4.5,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
-"287",11056,"Les Trois Mousquetaires",1295359282,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen Grande Cuvée",10,52336
-"288",11056,"Les Trois Mousquetaires",1293123346,3,2.5,3,"American Pale Wheat Ale",3,2,"Impériale Weizen Grande Cuvée",10,52336
-"289",11056,"Les Trois Mousquetaires",1289761042,3.5,4.5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"290",11056,"Les Trois Mousquetaires",1289146020,3.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"291",11056,"Les Trois Mousquetaires",1288650467,4,4,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"292",11056,"Les Trois Mousquetaires",1285819913,3.5,4,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"293",11056,"Les Trois Mousquetaires",1284098186,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"294",11056,"Les Trois Mousquetaires",1283801246,4.5,4,4,"American Pale Wheat Ale",4,5,"Impériale Weizen Grande Cuvée",10,52336
-"295",11056,"Les Trois Mousquetaires",1283055979,4,4.5,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"296",11056,"Les Trois Mousquetaires",1282535007,3.5,4,4,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"297",11056,"Les Trois Mousquetaires",1281918497,3.5,4,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"298",11056,"Les Trois Mousquetaires",1281472086,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"299",11056,"Les Trois Mousquetaires",1280810507,4,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"300",11056,"Les Trois Mousquetaires",1277860971,3.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"301",11056,"Les Trois Mousquetaires",1277523630,4,4.5,3.5,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"302",11056,"Les Trois Mousquetaires",1276492095,4,3.5,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"303",11056,"Les Trois Mousquetaires",1276018787,4,4,4.5,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"304",11056,"Les Trois Mousquetaires",1276018401,4.5,4.5,3.5,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"305",11056,"Les Trois Mousquetaires",1274053641,4.5,4,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
-"306",11056,"Les Trois Mousquetaires",1271543359,4,4,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"307",11056,"Les Trois Mousquetaires",1264828534,4,5,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"308",11056,"Les Trois Mousquetaires",1263166922,3,4.5,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"309",11056,"Les Trois Mousquetaires",1273961914,3.5,4,4,"Hefeweizen",4,3.5,"Blanche",5,44287
-"310",11056,"Les Trois Mousquetaires",1262577395,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"311",11056,"Les Trois Mousquetaires",1261880919,4,5,4,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
-"312",11056,"Les Trois Mousquetaires",1258059271,4,4.5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"313",11056,"Les Trois Mousquetaires",1258005766,4,4,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
-"314",11056,"Les Trois Mousquetaires",1252359083,3,3.5,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"315",11056,"Les Trois Mousquetaires",1252266481,4,5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"316",11056,"Les Trois Mousquetaires",1252029658,4,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
-"317",11056,"Les Trois Mousquetaires",1242430444,4,4,4,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"318",11056,"Les Trois Mousquetaires",1242092429,3.5,4.5,4.5,"Märzen / Oktoberfest",3.5,4,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"319",11056,"Les Trois Mousquetaires",1241213971,3,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"320",11056,"Les Trois Mousquetaires",1236037312,3.5,4.5,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"321",11056,"Les Trois Mousquetaires",1231533238,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"322",11056,"Les Trois Mousquetaires",1229385163,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
-"323",11056,"Les Trois Mousquetaires",1311905224,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Blanche",5,44287
-"324",11056,"Les Trois Mousquetaires",1293752746,3,4,3,"Hefeweizen",3,3,"Blanche",5,44287
-"325",11056,"Les Trois Mousquetaires",1293079831,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
-"326",11056,"Les Trois Mousquetaires",1292542632,3.5,3,3.5,"Hefeweizen",3.5,3.5,"Blanche",5,44287
-"327",11056,"Les Trois Mousquetaires",1282873020,3,3.5,3.5,"Hefeweizen",3.5,3,"Blanche",5,44287
-"328",11056,"Les Trois Mousquetaires",1276978383,3.5,2.5,4.5,"Hefeweizen",3.5,2,"Blanche",5,44287
-"329",11056,"Les Trois Mousquetaires",1276297766,4,3.5,3.5,"Hefeweizen",4,4,"Blanche",5,44287
-"330",11056,"Les Trois Mousquetaires",1272921880,3,3.5,4,"Hefeweizen",3.5,2.5,"Blanche",5,44287
-"331",11056,"Les Trois Mousquetaires",1266195689,3.5,3.5,4,"Hefeweizen",4,3.5,"Blanche",5,44287
-"332",11056,"Les Trois Mousquetaires",1261626816,3.5,3,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
-"333",11056,"Les Trois Mousquetaires",1261468611,4,4,3.5,"Hefeweizen",4,4,"Blanche",5,44287
-"334",11056,"Les Trois Mousquetaires",1253856681,3.5,4,4,"Hefeweizen",4,3.5,"Blanche",5,44287
-"335",11056,"Les Trois Mousquetaires",1243903308,4.5,3.5,4,"Hefeweizen",4,3.5,"Blanche",5,44287
-"336",11056,"Les Trois Mousquetaires",1243898440,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
-"337",11056,"Les Trois Mousquetaires",1238106933,2.5,3,2.5,"Hefeweizen",3,3,"Blanche",5,44287
-"338",11056,"Les Trois Mousquetaires",1225130934,3.5,3,3.5,"Hefeweizen",3,3.5,"Blanche",5,44287
-"339",11056,"Les Trois Mousquetaires",1218545450,4,4.5,3,"Hefeweizen",4,3.5,"Blanche",5,44287
-"340",11056,"Les Trois Mousquetaires",1273615389,3,3,4,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
-"341",11056,"Les Trois Mousquetaires",1320431301,4,4,4.5,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
-"342",11056,"Les Trois Mousquetaires",1309667850,3.5,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"343",11056,"Les Trois Mousquetaires",1307765921,3.5,3.5,4.5,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
-"344",11056,"Les Trois Mousquetaires",1300732210,4,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"345",11056,"Les Trois Mousquetaires",1295374956,4,4,4,"Altbier",4.5,4.5,"Série Signature Sticke Alt",6,56209
-"346",11056,"Les Trois Mousquetaires",1293494495,5,4,5,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
-"347",11056,"Les Trois Mousquetaires",1292125726,3,3.5,5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"348",11056,"Les Trois Mousquetaires",1291049737,3.5,3.5,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
-"349",11056,"Les Trois Mousquetaires",1286779726,3,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"350",11056,"Les Trois Mousquetaires",1285911395,4.5,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"351",11056,"Les Trois Mousquetaires",1285406456,4,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"352",11056,"Les Trois Mousquetaires",1285235521,4,3.5,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"353",11056,"Les Trois Mousquetaires",1283644118,4,4,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
-"354",11056,"Les Trois Mousquetaires",1283000286,3.5,4,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
-"355",11056,"Les Trois Mousquetaires",1279500813,3.5,4,4.5,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
-"356",11056,"Les Trois Mousquetaires",1278291540,3.5,4,4,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
-"357",11056,"Les Trois Mousquetaires",1276019347,4.5,4.5,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
-"358",11056,"Les Trois Mousquetaires",1273507479,4.5,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
-"359",11056,"Les Trois Mousquetaires",1273436194,5,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"360",11056,"Les Trois Mousquetaires",1272952875,2.5,3.5,4,"Altbier",4,3,"Série Signature Sticke Alt",6,56209
-"361",11056,"Les Trois Mousquetaires",1272417392,4,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"362",11056,"Les Trois Mousquetaires",1269753512,4,4,4,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
-"363",11056,"Les Trois Mousquetaires",1269275692,4,4.5,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"364",11056,"Les Trois Mousquetaires",1268706477,4.5,4,4,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
-"365",11056,"Les Trois Mousquetaires",1268700072,4.5,4.5,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"366",11056,"Les Trois Mousquetaires",1268116254,4.5,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
-"367",11056,"Les Trois Mousquetaires",1268098011,4,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
-"368",11056,"Les Trois Mousquetaires",1267663595,2.5,3.5,3.5,"Altbier",3,3,"Série Signature Sticke Alt",6,56209
-"369",11056,"Les Trois Mousquetaires",1266550979,4,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
-"370",11056,"Les Trois Mousquetaires",1249342332,3.5,3.5,4,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
-"371",11056,"Les Trois Mousquetaires",1221531167,3,3.5,4.5,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
-"372",11056,"Les Trois Mousquetaires",1219548332,4.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Cardinal De Richelieu",8,38956
-"373",11056,"Les Trois Mousquetaires",1202183866,2.5,4,4,"Maibock / Helles Bock",2.5,3,"Cardinal De Richelieu",8,38956
-"374",11056,"Les Trois Mousquetaires",1199305234,2.5,2.5,4,"Maibock / Helles Bock",2.5,2.5,"Cardinal De Richelieu",8,38956
-"375",11056,"Les Trois Mousquetaires",1196377493,2.5,3,3.5,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
-"376",11056,"Les Trois Mousquetaires",1191712173,2.5,3.5,3.5,"Maibock / Helles Bock",2.5,3,"Cardinal De Richelieu",8,38956
-"377",11056,"Les Trois Mousquetaires",1315326877,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
-"378",11056,"Les Trois Mousquetaires",1302494248,4,3,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
-"379",11056,"Les Trois Mousquetaires",1295818926,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Série Signature Oktoberfest",4.1,54254
-"380",11056,"Les Trois Mousquetaires",1288317976,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
-"381",11056,"Les Trois Mousquetaires",1266292200,3,3.5,3.5,"American Amber / Red Lager",3,3,"Rousse",5,44502
-"382",11056,"Les Trois Mousquetaires",1288255193,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Série Signature Oktoberfest",4.1,54254
-"383",11056,"Les Trois Mousquetaires",1285034640,4,4.5,4,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
-"384",11056,"Les Trois Mousquetaires",1277946894,4.5,4.5,4,"Märzen / Oktoberfest",4.5,4.5,"Série Signature Oktoberfest",4.1,54254
-"385",11056,"Les Trois Mousquetaires",1277604549,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Série Signature Oktoberfest",4.1,54254
-"386",11056,"Les Trois Mousquetaires",1277264170,4,4,4.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
-"387",11056,"Les Trois Mousquetaires",1276019485,4,4,4,"Märzen / Oktoberfest",3.5,4.5,"Série Signature Oktoberfest",4.1,54254
-"388",11056,"Les Trois Mousquetaires",1274413313,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
-"389",11056,"Les Trois Mousquetaires",1264022741,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Série Signature Oktoberfest",4.1,54254
-"390",11056,"Les Trois Mousquetaires",1265328755,4,4,4,"American Amber / Red Lager",4,4,"Rousse",5,44502
-"391",11056,"Les Trois Mousquetaires",1259479156,3.5,4,3,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
-"392",11056,"Les Trois Mousquetaires",1258765289,3,4.5,4,"Märzen / Oktoberfest",3,4,"Série Signature Oktoberfest",4.1,54254
-"393",11056,"Les Trois Mousquetaires",1315875430,4,4,4,"Schwarzbier",3.5,4,"Noire",5,44160
-"394",11056,"Les Trois Mousquetaires",1310778655,4,3.5,3.5,"Schwarzbier",3.5,4,"Noire",5,44160
-"395",11056,"Les Trois Mousquetaires",1306811745,3.5,3.5,4,"Schwarzbier",4,3.5,"Noire",5,44160
-"396",11056,"Les Trois Mousquetaires",1292035801,4,3.5,4,"Schwarzbier",4.5,4.5,"Noire",5,44160
-"397",11056,"Les Trois Mousquetaires",1288482799,3.5,3,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
-"398",11056,"Les Trois Mousquetaires",1288150676,4.5,4,4,"Schwarzbier",4,4.5,"Noire",5,44160
-"399",11056,"Les Trois Mousquetaires",1282146207,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
-"400",11056,"Les Trois Mousquetaires",1281739608,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
-"401",11056,"Les Trois Mousquetaires",1280206551,4,4,4.5,"Schwarzbier",4,4,"Noire",5,44160
-"402",11056,"Les Trois Mousquetaires",1280012716,4,4,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
-"403",11056,"Les Trois Mousquetaires",1278377402,3.5,4,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
-"404",11056,"Les Trois Mousquetaires",1273991146,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
-"405",11056,"Les Trois Mousquetaires",1272944120,4,3.5,4.5,"Schwarzbier",3.5,4,"Noire",5,44160
-"406",11056,"Les Trois Mousquetaires",1270602794,4,3,3.5,"Schwarzbier",4,4,"Noire",5,44160
-"407",11056,"Les Trois Mousquetaires",1266901431,4,4,4,"Schwarzbier",4,3.5,"Noire",5,44160
-"408",11056,"Les Trois Mousquetaires",1265682670,4,4,4,"Schwarzbier",3.5,4,"Noire",5,44160
-"409",11056,"Les Trois Mousquetaires",1265336022,4,4,3.5,"Schwarzbier",3.5,4,"Noire",5,44160
-"410",11056,"Les Trois Mousquetaires",1261872381,4,3.5,4,"Schwarzbier",3,3,"Noire",5,44160
-"411",11056,"Les Trois Mousquetaires",1261470030,4.5,4,3.5,"Schwarzbier",4,4.5,"Noire",5,44160
-"412",11056,"Les Trois Mousquetaires",1258772994,4,4.5,4,"Schwarzbier",3.5,4,"Noire",5,44160
-"413",11056,"Les Trois Mousquetaires",1255496223,4.5,4,4,"Schwarzbier",3.5,4.5,"Noire",5,44160
-"414",11056,"Les Trois Mousquetaires",1253862224,3,4,4.5,"Schwarzbier",3,3,"Noire",5,44160
-"415",11056,"Les Trois Mousquetaires",1248977932,3.5,4.5,3.5,"Schwarzbier",3.5,3.5,"Noire",5,44160
-"416",11056,"Les Trois Mousquetaires",1243383062,4.5,4,4,"Schwarzbier",3.5,4.5,"Noire",5,44160
-"417",11056,"Les Trois Mousquetaires",1238254549,4,4.5,3.5,"Schwarzbier",4,4.5,"Noire",5,44160
-"418",11056,"Les Trois Mousquetaires",1233324564,3.5,3,4,"Schwarzbier",3,3,"Noire",5,44160
-"419",11056,"Les Trois Mousquetaires",1221884787,4,4,4,"Schwarzbier",4,4.5,"Noire",5,44160
-"420",11056,"Les Trois Mousquetaires",1221680143,4,3.5,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
-"421",11056,"Les Trois Mousquetaires",1217945919,3.5,3,4,"Schwarzbier",4,3,"Noire",5,44160
-"422",11056,"Les Trois Mousquetaires",1186453408,4,3.5,4,"Weizenbock",4,4,"Weizen Bock",10,34715
-"423",11056,"Les Trois Mousquetaires",1179711471,4,4,3.5,"Weizenbock",4,4.5,"Weizen Bock",10,34715
-"424",11056,"Les Trois Mousquetaires",1175286539,3,3.5,4,"Weizenbock",3.5,4,"Weizen Bock",10,34715
-"425",11056,"Les Trois Mousquetaires",1175185849,2,2.5,3.5,"Weizenbock",4,2,"Weizen Bock",10,34715
-"426",11056,"Les Trois Mousquetaires",1172866828,3.5,3.5,4.5,"Weizenbock",3.5,3.5,"Weizen Bock",10,34715
-"427",11056,"Les Trois Mousquetaires",1168651431,4,4,4,"Weizenbock",4,4.5,"Weizen Bock",10,34715
-"428",11056,"Les Trois Mousquetaires",1283558849,3,2.5,3,"American Amber / Red Lager",3,3.5,"Rousse",5,44502
-"429",11056,"Les Trois Mousquetaires",1277816812,4,4,4,"American Amber / Red Lager",4,4,"Rousse",5,44502
-"430",11056,"Les Trois Mousquetaires",1276018825,4,3.5,3,"American Amber / Red Lager",3,3.5,"Rousse",5,44502
-"431",11056,"Les Trois Mousquetaires",1275774263,4,3,3.5,"American Amber / Red Lager",4,4,"Rousse",5,44502
-"432",11056,"Les Trois Mousquetaires",1273006638,4,3.5,4.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
-"433",11056,"Les Trois Mousquetaires",1261473096,4,4.5,3.5,"American Amber / Red Lager",4,4,"Rousse",5,44502
-"434",11056,"Les Trois Mousquetaires",1253858943,3,3.5,4,"American Amber / Red Lager",3.5,3,"Rousse",5,44502
-"435",11056,"Les Trois Mousquetaires",1243647341,4.5,4.5,4.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
-"436",11056,"Les Trois Mousquetaires",1219516382,3.5,4.5,4,"American Amber / Red Lager",3.5,3,"Rousse",5,44502
-"437",11056,"Les Trois Mousquetaires",1214363229,3,3.5,3,"Herbed / Spiced Beer",3,3,"La Folle Du Roi",5,25964
-"438",11056,"Les Trois Mousquetaires",1211304794,4,3.5,3,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
-"439",11056,"Les Trois Mousquetaires",1204673893,3,2.5,4.5,"Herbed / Spiced Beer",4,2.5,"La Folle Du Roi",5,25964
-"440",11056,"Les Trois Mousquetaires",1194144630,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"La Folle Du Roi",5,25964
-"441",11056,"Les Trois Mousquetaires",1191998481,4,4.5,4,"Herbed / Spiced Beer",3.5,4,"La Folle Du Roi",5,25964
-"442",11056,"Les Trois Mousquetaires",1265665737,4.5,3,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"443",11056,"Les Trois Mousquetaires",1188754424,3,3,3.5,"Herbed / Spiced Beer",3.5,2.5,"La Folle Du Roi",5,25964
-"444",11056,"Les Trois Mousquetaires",1171042807,4.5,3.5,4,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
-"445",11056,"Les Trois Mousquetaires",1148951582,4,4,3.5,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
-"446",11056,"Les Trois Mousquetaires",1134694549,4,4,3.5,"Herbed / Spiced Beer",3.5,4,"La Folle Du Roi",5,25964
-"447",11056,"Les Trois Mousquetaires",1127397414,2.5,2.5,2.5,"Herbed / Spiced Beer",2.5,2.5,"La Folle Du Roi",5,25964
-"448",11056,"Les Trois Mousquetaires",1293070654,4,3.5,3.5,"Czech Pilsener",3.5,4,"Blonde",5,44371
-"449",11056,"Les Trois Mousquetaires",1289508281,4,3.5,4.5,"Czech Pilsener",3,3.5,"Blonde",5,44371
-"450",11056,"Les Trois Mousquetaires",1282956478,3,3,3,"Czech Pilsener",3,3,"Blonde",5,44371
-"451",11056,"Les Trois Mousquetaires",1276017627,3.5,4,3.5,"Czech Pilsener",3.5,3.5,"Blonde",5,44371
-"452",11056,"Les Trois Mousquetaires",1273881482,3.5,3.5,4,"Czech Pilsener",3,3,"Blonde",5,44371
-"453",11056,"Les Trois Mousquetaires",1273526022,3,3.5,3.5,"Czech Pilsener",4,3,"Blonde",5,44371
-"454",11056,"Les Trois Mousquetaires",1266290398,3.5,3,4,"Czech Pilsener",4,3.5,"Blonde",5,44371
-"455",11056,"Les Trois Mousquetaires",1266171548,4.5,4,4,"Czech Pilsener",4,4.5,"Blonde",5,44371
-"456",11056,"Les Trois Mousquetaires",1261471288,3.5,3.5,4,"Czech Pilsener",3.5,3.5,"Blonde",5,44371
-"457",11056,"Les Trois Mousquetaires",1258845370,4,3.5,3.5,"Czech Pilsener",4,4,"Blonde",5,44371
-"458",11056,"Les Trois Mousquetaires",1253854891,3.5,3.5,3.5,"Czech Pilsener",4,3.5,"Blonde",5,44371
-"459",11056,"Les Trois Mousquetaires",1244502705,3,3,3.5,"Czech Pilsener",3,3,"Blonde",5,44371
-"460",11056,"Les Trois Mousquetaires",1243647617,4.5,3.5,4.5,"Czech Pilsener",3.5,4,"Blonde",5,44371
-"461",11056,"Les Trois Mousquetaires",1218999684,4.5,4,4,"Czech Pilsener",4,3.5,"Blonde",5,44371
-"462",11056,"Les Trois Mousquetaires",1320370566,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"463",11056,"Les Trois Mousquetaires",1311557971,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"464",11056,"Les Trois Mousquetaires",1311316050,3,3.5,3,"American Pale Ale (APA)",3,2.5,"Serie Signature - Americaine Pale Ale",5,54537
-"465",11056,"Les Trois Mousquetaires",1309045883,4,4.5,4,"American Pale Ale (APA)",4,4,"Serie Signature - Americaine Pale Ale",5,54537
-"466",11056,"Les Trois Mousquetaires",1298030534,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"467",11056,"Les Trois Mousquetaires",1297555001,4,2.5,3.5,"American Pale Ale (APA)",4,3,"Serie Signature - Americaine Pale Ale",5,54537
-"468",11056,"Les Trois Mousquetaires",1289611750,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"469",11056,"Les Trois Mousquetaires",1284430140,3,3.5,4,"American Pale Ale (APA)",3.5,4,"Serie Signature - Americaine Pale Ale",5,54537
-"470",11056,"Les Trois Mousquetaires",1281908421,4,3,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"471",11056,"Les Trois Mousquetaires",1278888023,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"472",11056,"Les Trois Mousquetaires",1278692161,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"473",11056,"Les Trois Mousquetaires",1276294968,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"474",11056,"Les Trois Mousquetaires",1276019237,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"475",11056,"Les Trois Mousquetaires",1271546507,4.5,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"476",11056,"Les Trois Mousquetaires",1266674091,4.5,4,4,"American Pale Ale (APA)",4.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"477",11056,"Les Trois Mousquetaires",1266191621,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
-"478",11056,"Les Trois Mousquetaires",1259991397,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Serie Signature - Americaine Pale Ale",5,54537
-"479",11056,"Les Trois Mousquetaires",1259915675,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Serie Signature - Americaine Pale Ale",5,54537
-"480",11056,"Les Trois Mousquetaires",1324688855,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"481",11056,"Les Trois Mousquetaires",1323739416,4,3.5,4,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"482",11056,"Les Trois Mousquetaires",1321406774,4,4,4.5,"Doppelbock",5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"483",11056,"Les Trois Mousquetaires",1321317343,4.5,4.5,4.5,"Doppelbock",4.5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"484",11056,"Les Trois Mousquetaires",1319246642,4,4,4,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"485",11056,"Les Trois Mousquetaires",1316187702,4.5,4,4,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"486",11056,"Les Trois Mousquetaires",1314614529,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"487",11056,"Les Trois Mousquetaires",1313259897,4,4.5,4.5,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"488",11056,"Les Trois Mousquetaires",1312738676,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"489",11056,"Les Trois Mousquetaires",1310339529,3.5,3.5,4,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"490",11056,"Les Trois Mousquetaires",1309314764,4,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"491",11056,"Les Trois Mousquetaires",1303798246,5,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"492",11056,"Les Trois Mousquetaires",1301404706,4.5,5,4.5,"Doppelbock",5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"493",11056,"Les Trois Mousquetaires",1300250379,4.5,4.5,4.5,"Doppelbock",4.5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"494",11056,"Les Trois Mousquetaires",1294988094,4,4,4.5,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"495",11056,"Les Trois Mousquetaires",1294770198,4.5,4.5,4.5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"496",11056,"Les Trois Mousquetaires",1294509038,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"497",11056,"Les Trois Mousquetaires",1292344938,3.5,3.5,4,"Doppelbock",3.5,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"498",11056,"Les Trois Mousquetaires",1291607834,4,4.5,3,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"499",11056,"Les Trois Mousquetaires",1289027086,4,4,4.5,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"500",11056,"Les Trois Mousquetaires",1286034068,3.5,3.5,3.5,"Doppelbock",3,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"501",11056,"Les Trois Mousquetaires",1285593736,3,3.5,3,"Doppelbock",4,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"502",11056,"Les Trois Mousquetaires",1283873657,4,4,4,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"503",11056,"Les Trois Mousquetaires",1283739586,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"504",11056,"Les Trois Mousquetaires",1282793491,4.5,4,4.5,"Doppelbock",4,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"505",11056,"Les Trois Mousquetaires",1282593038,4.5,4.5,5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"506",11056,"Les Trois Mousquetaires",1282367086,3.5,4,4.5,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"507",11056,"Les Trois Mousquetaires",1282276418,3,4,4.5,"Doppelbock",4,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"508",11056,"Les Trois Mousquetaires",1281918139,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"509",11056,"Les Trois Mousquetaires",1281293290,4.5,4.5,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"510",11056,"Les Trois Mousquetaires",1280940654,4.5,5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"511",11056,"Les Trois Mousquetaires",1280496878,4,4,4.5,"Doppelbock",5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"512",11056,"Les Trois Mousquetaires",1279770629,4.5,4,4,"Doppelbock",4,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"513",11056,"Les Trois Mousquetaires",1278899484,4,4.5,4,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"514",11056,"Les Trois Mousquetaires",1276565390,4.5,3.5,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"515",11056,"Les Trois Mousquetaires",1276018111,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"516",11056,"Les Trois Mousquetaires",1275973711,3.5,4,3,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"517",11056,"Les Trois Mousquetaires",1275598691,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"518",11056,"Les Trois Mousquetaires",1275574195,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"519",11056,"Les Trois Mousquetaires",1275186995,4,4,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"520",11056,"Les Trois Mousquetaires",1274747075,3.5,4.5,4.5,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"521",11056,"Les Trois Mousquetaires",1274674585,4.5,4,4.5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"522",11056,"Les Trois Mousquetaires",1274047088,3.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"523",11056,"Les Trois Mousquetaires",1270345134,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"524",11056,"Les Trois Mousquetaires",1268703193,4.5,3.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"525",11056,"Les Trois Mousquetaires",1268456683,4,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"526",11056,"Les Trois Mousquetaires",1267318913,4,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"527",11056,"Les Trois Mousquetaires",1263360862,4.5,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"528",11056,"Les Trois Mousquetaires",1263265805,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"529",11056,"Les Trois Mousquetaires",1260330221,4.5,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"530",11056,"Les Trois Mousquetaires",1257988059,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"531",11056,"Les Trois Mousquetaires",1257127719,2.5,4,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"532",11056,"Les Trois Mousquetaires",1256061106,3.5,4.5,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"533",11056,"Les Trois Mousquetaires",1255838463,4.5,4,4,"Doppelbock",5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"534",11056,"Les Trois Mousquetaires",1255053417,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"535",11056,"Les Trois Mousquetaires",1253847425,3.5,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"536",11056,"Les Trois Mousquetaires",1252539142,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"537",11056,"Les Trois Mousquetaires",1251432973,3.5,4,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"538",11056,"Les Trois Mousquetaires",1251051220,4,2.5,3,"Doppelbock",4,2.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"539",11056,"Les Trois Mousquetaires",1250479764,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"540",11056,"Les Trois Mousquetaires",1245486831,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"541",11056,"Les Trois Mousquetaires",1245373271,4,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"542",11056,"Les Trois Mousquetaires",1244769585,3.5,3,3.5,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"543",11056,"Les Trois Mousquetaires",1227058000,3,3,3,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
-"544",11056,"Les Trois Mousquetaires",1244516422,4,4,4.5,"Doppelbock",5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"545",11056,"Les Trois Mousquetaires",1243298918,3.5,4.5,3.5,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
-"546",11056,"Les Trois Mousquetaires",1242354423,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5,40233
-"547",11056,"Les Trois Mousquetaires",1203821939,3.5,3.5,3.5,"American Pale Ale (APA)",2.5,3.5,"American Pale Ale",5,40233
-"548",11056,"Les Trois Mousquetaires",1289251188,3.5,4,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"549",11056,"Les Trois Mousquetaires",1267573495,3.5,3,3,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"550",11056,"Les Trois Mousquetaires",1266706610,2.5,3.5,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"551",11056,"Les Trois Mousquetaires",1258068530,1.5,2,3.5,"American Pale Wheat Ale",1.5,1,"Impériale Weizen",8,32440
-"552",11056,"Les Trois Mousquetaires",1221956968,4,4,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"553",11056,"Les Trois Mousquetaires",1253163358,2.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
-"554",11056,"Les Trois Mousquetaires",1250311534,3.5,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"555",11056,"Les Trois Mousquetaires",1248220230,3,4,3,"American Pale Wheat Ale",3,4.5,"Impériale Weizen",8,32440
-"556",11056,"Les Trois Mousquetaires",1241994465,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"557",11056,"Les Trois Mousquetaires",1236896778,3.5,3.5,4.5,"American Pale Wheat Ale",4.5,4,"Impériale Weizen",8,32440
-"558",11056,"Les Trois Mousquetaires",1235539290,3,3,3,"American Pale Wheat Ale",3,3,"Impériale Weizen",8,32440
-"559",11056,"Les Trois Mousquetaires",1233534002,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"560",11056,"Les Trois Mousquetaires",1231804227,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen",8,32440
-"561",11056,"Les Trois Mousquetaires",1228354408,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"562",11056,"Les Trois Mousquetaires",1221270602,3.5,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"563",11056,"Les Trois Mousquetaires",1219806090,3,3.5,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"564",11056,"Les Trois Mousquetaires",1219178282,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"565",11056,"Les Trois Mousquetaires",1218498120,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"566",11056,"Les Trois Mousquetaires",1217898261,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
-"567",11056,"Les Trois Mousquetaires",1214063411,2.5,3,3,"American Pale Wheat Ale",3,3,"Impériale Weizen",8,32440
-"568",11056,"Les Trois Mousquetaires",1213999760,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"569",11056,"Les Trois Mousquetaires",1211503967,3,3.5,4,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
-"570",11056,"Les Trois Mousquetaires",1211244755,2.5,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"571",11056,"Les Trois Mousquetaires",1202682861,3.5,4,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
-"572",11056,"Les Trois Mousquetaires",1202517849,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"573",11056,"Les Trois Mousquetaires",1199656575,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
-"574",11056,"Les Trois Mousquetaires",1198366036,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"575",11056,"Les Trois Mousquetaires",1193711353,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
-"576",11056,"Les Trois Mousquetaires",1193609415,3,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
-"577",11056,"Les Trois Mousquetaires",1192513944,4.5,3.5,4,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
-"578",11056,"Les Trois Mousquetaires",1188944770,4,4,4,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen",8,32440
-"579",11056,"Les Trois Mousquetaires",1188438912,3,3,3,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"580",11056,"Les Trois Mousquetaires",1185506000,3.5,4,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"581",11056,"Les Trois Mousquetaires",1175051501,3.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen",8,32440
-"582",11056,"Les Trois Mousquetaires",1170084194,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
-"583",11056,"Les Trois Mousquetaires",1167348695,4,4,3.5,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen",8,32440
-"584",11056,"Les Trois Mousquetaires",1163371387,3.5,3.5,3,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
-"585",11056,"Les Trois Mousquetaires",1158637767,3.5,3,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
-"586",11056,"Les Trois Mousquetaires",1158353859,4,4.5,4,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen",8,32440
-"587",11056,"Les Trois Mousquetaires",1157055232,3.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
-"588",11056,"Les Trois Mousquetaires",1156374693,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
-"589",11056,"Les Trois Mousquetaires",1212197367,3,3.5,2,"Czech Pilsener",3,2.5,"D'Artangnan",5,27298
-"590",11056,"Les Trois Mousquetaires",1204242046,4,2.5,3.5,"Czech Pilsener",4,3.5,"D'Artangnan",5,27298
-"591",11056,"Les Trois Mousquetaires",1188692872,3.5,3,4,"Czech Pilsener",3.5,3,"D'Artangnan",5,27298
-"592",11056,"Les Trois Mousquetaires",1171158421,3.5,2.5,2.5,"Czech Pilsener",4,3,"D'Artangnan",5,27298
-"593",11056,"Les Trois Mousquetaires",1155585213,2,2,2,"Czech Pilsener",2,2.5,"D'Artangnan",5,27298
-"594",11056,"Les Trois Mousquetaires",1134340302,4,3.5,3.5,"Czech Pilsener",3,3.5,"D'Artangnan",5,27298
-"595",11056,"Les Trois Mousquetaires",1246161212,3.5,3.5,4,"Doppelbock",3.5,3.5,"Série Siganture - Porthos",8.3,39835
-"596",11056,"Les Trois Mousquetaires",1229828383,3.5,4.5,4,"Doppelbock",3.5,4,"Série Siganture - Porthos",8.3,39835
-"597",11056,"Les Trois Mousquetaires",1228164532,4,3.5,4,"Doppelbock",4,4,"Série Siganture - Porthos",8.3,39835
-"598",11056,"Les Trois Mousquetaires",1219632722,4.5,4.5,4.5,"Doppelbock",4.5,4.5,"Série Siganture - Porthos",8.3,39835
-"599",11056,"Les Trois Mousquetaires",1206397839,4,4.5,4,"Doppelbock",4,4.5,"Série Siganture - Porthos",8.3,39835
-"600",11056,"Les Trois Mousquetaires",1201985215,4,4,4,"Doppelbock",4.5,4,"Série Siganture - Porthos",8.3,39835
-"601",11056,"Les Trois Mousquetaires",1201032965,4,4,4,"Doppelbock",4,4,"Série Siganture - Porthos",8.3,39835
-"602",11056,"Les Trois Mousquetaires",1196302190,4,3.5,3.5,"Doppelbock",3.5,4,"Série Siganture - Porthos",8.3,39835
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+11056,"Les Trois Mousquetaires",1202170648,3.5,3.5,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1250266732,4,3,3.5,"Maibock / Helles Bock",4,3.5,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1267135223,4.5,3,3.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1249440829,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1189311249,4,4,3,"American Amber / Red Lager",4,4,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1197137975,2.5,2.5,4,"American Amber / Red Lager",3,2.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1199837261,3,3,3.5,"American Amber / Red Lager",3,3,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1188695053,3.5,3.5,2,"American Amber / Red Lager",4,3.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1177530725,4.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1171079183,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1161015125,3,3,3,"American Amber / Red Lager",3,3.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1134691386,3.5,3,3.5,"American Amber / Red Lager",3.5,4,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1132956186,3.5,3.5,3,"American Amber / Red Lager",3,3,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1119230566,4,4,4,"American Amber / Red Lager",5,3.5,"Aramis",5,24314
+11056,"Les Trois Mousquetaires",1225468793,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1186194267,3.5,3,4,"Märzen / Oktoberfest",3,3,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1152637572,3.5,3.5,3.5,"Kristalweizen",3,3.5,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1157338102,3.5,3.5,4.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1156984685,2.5,2,3,"Märzen / Oktoberfest",2.5,2.5,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1117641843,3.5,4.5,3.5,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1111387527,3.5,3.5,4,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",5,22640
+11056,"Les Trois Mousquetaires",1196721545,3.5,3.5,3,"Kristalweizen",3,3.5,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1187748044,3.5,3.5,3.5,"Kristalweizen",3,3,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1177001516,3.5,3,2.5,"Kristalweizen",3,2.5,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1158169387,3.5,4,3.5,"Kristalweizen",3.5,4,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1158024777,4,3.5,4,"Kristalweizen",3.5,3.5,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1155825450,3.5,3,4,"Kristalweizen",3,3.5,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1118791197,4,4.5,3.5,"Kristalweizen",3.5,4,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1118008237,4,3.5,3,"Kristalweizen",3,4,"Milady",5,24112
+11056,"Les Trois Mousquetaires",1220808065,3,3,3,"Altbier",3.5,3,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1219003719,4,3.5,4,"Altbier",4.5,4,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1218767215,3.5,3.5,3,"Altbier",3,3.5,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1208121745,3.5,4.5,2.5,"Altbier",3.5,4,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1194655255,4.5,4,4.5,"Altbier",4,4.5,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1193238404,3.5,3.5,3.5,"Altbier",3.5,3.5,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1187917245,3,2.5,3.5,"Altbier",3.5,3,"Alt Secrete",7.2,38350
+11056,"Les Trois Mousquetaires",1322266784,3.5,3.5,4.5,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1319300307,3.5,3.5,3.5,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1307675507,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1301679214,3,3,3.5,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1295108892,3,3.5,3.5,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1294525065,3,4,3,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1291864546,3.5,4,4,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1289702617,3.5,4,3,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1288929759,4,4.5,4,"Maibock / Helles Bock",4.5,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1287232615,3,3,4,"Maibock / Helles Bock",3.5,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1285838875,4,4,4.5,"Maibock / Helles Bock",4,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1281533452,4.5,4,4,"Maibock / Helles Bock",4,4.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1278375478,4,4,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1276917289,2,3.5,3.5,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1276019077,3,3.5,3.5,"Maibock / Helles Bock",3,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1250904612,3,4,4,"Maibock / Helles Bock",3.5,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1271644621,2.5,3,2,"Maibock / Helles Bock",2.5,2.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1269571763,4,3.5,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1269571146,4,3.5,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1268535844,3,4,4.5,"Maibock / Helles Bock",3,3,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1265078511,2.5,3.5,3,"Maibock / Helles Bock",4,3,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1262494660,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,3,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1261444133,3,3,4,"Maibock / Helles Bock",4,3.5,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1259635479,4,4,3.5,"Maibock / Helles Bock",4,4,"Serie Signature Maibock",8,52044
+11056,"Les Trois Mousquetaires",1311024647,4,4,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1301277695,3.5,4,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1301274927,4,4,4,"Herbed / Spiced Beer",4,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1299985963,4,5,4,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1298730815,4,3.5,3,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1297398694,2,4.5,2.5,"Herbed / Spiced Beer",3,3,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1265602437,4,4,4.5,"American Pale Ale (APA)",4,4.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1295893419,4,4,4,"Herbed / Spiced Beer",4,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1294024822,4,4,3.5,"Herbed / Spiced Beer",4,4.5,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1291256261,3,4,4.5,"Herbed / Spiced Beer",3.5,4,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1290989177,4,4,3,"Herbed / Spiced Beer",3,3,"Série Signature Festbier",6,63969
+11056,"Les Trois Mousquetaires",1326136324,5,4.5,5,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1324851243,4.5,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1322420379,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1322357692,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1321763424,4.5,4.5,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1321143447,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1321059757,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320896283,4,4,3.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320683707,4,3.5,3.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320512249,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320462519,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320365595,4.5,4.5,4,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1320026382,4.5,4,3.5,"Baltic Porter",3.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1319919112,4,4.5,4,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1319245383,4.5,4.5,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1316398773,3,4.5,3.5,"Baltic Porter",2.5,3,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1314905573,3.5,4.5,3.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1308813279,5,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1308808119,5,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1301624999,4,4.5,4.5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1301270054,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1301180179,5,4,4,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1300321641,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1299897249,4.5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1299576784,4,4,4.5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1298241424,4,4,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1298033863,3.5,3.5,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1297753578,3.5,4.5,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1297611499,4.5,4,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1295917596,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1293408749,5,4.5,4.5,"Baltic Porter",4,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1293226942,4.5,4,3.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1291357879,4,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1290908673,4.5,4.5,4,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1289955768,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1288750778,4.5,4,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1288566451,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1288246361,4.5,4,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1286141510,5,4.5,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1271680582,4.5,5,4.5,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1283525487,4.5,4.5,4,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1282527429,4,4,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1281793951,2.5,3.5,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1281793078,3.5,4,4,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1281300289,4.5,5,5,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1276492327,2,4,4,"Baltic Porter",3.5,3,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1276017861,4,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1272144281,4,3.5,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1271903688,4,3,5,"Baltic Porter",3.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1268546382,4,4.5,4,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1267848217,4,4,4.5,"Baltic Porter",4.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1267404880,4.5,4.5,4,"Baltic Porter",4,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1266724815,4.5,4.5,4,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1266098016,3,3,4,"Baltic Porter",3,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1264636986,4.5,4.5,4.5,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1262827810,4,4,4.5,"Baltic Porter",5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1260573471,4.5,5,5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1260462002,4,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1260460697,4,4,4.5,"Baltic Porter",4.5,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1259895443,4.5,4,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1259789854,5,4.5,4,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1258940420,5,4.5,4,"Baltic Porter",4.5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1257028311,4,4.5,4.5,"Baltic Porter",4,4.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1242539255,4,3.5,4,"Baltic Porter",4,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1238190086,4,4.5,4,"Baltic Porter",3,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1235256793,4,4,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1229488177,5,5,4.5,"Baltic Porter",5,5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1228373554,4,4,4,"Baltic Porter",4,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1227295278,4,3.5,4.5,"Baltic Porter",3.5,4,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1197479628,3.5,3.5,3.5,"Baltic Porter",3.5,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1197158200,3.5,4,4,"Baltic Porter",3.5,3.5,"Les Trois Mousquetaires Porter Baltique",10,46644
+11056,"Les Trois Mousquetaires",1313201359,3.5,3.5,4,"Rauchbier",4.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1312671002,3.5,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1311202943,4,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1306677903,4,4.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1293121642,3.5,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1292375181,4,4.5,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1302829758,5,4.5,5,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1302807284,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1301069429,4,4,5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1294514799,4,4.5,3.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1294372065,4,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1293498617,3.5,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1293427893,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1292250206,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1290739652,3.5,4,3.5,"Rauchbier",3,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1289450038,4,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1285508024,4.5,4,3.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1285028256,4,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1284938175,4,4,3.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1283994075,4,4.5,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1277866479,4.5,4.5,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1283682137,4,4,4.5,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1281909395,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1280982247,4,4,3.5,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1280725465,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1280530883,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1280497123,4.5,4.5,3.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1280020317,4,4.5,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1277523645,4,3.5,3.5,"Rauchbier",4,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1277084999,4.5,4,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1276828574,4,4.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1276486039,3.5,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1276020092,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1275696504,4.5,4.5,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1274659224,5,4.5,4,"Rauchbier",5,5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1271470689,4,4,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1267798796,4,4.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1267141894,4,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1249959763,3,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1267065076,3.5,3.5,4.5,"Rauchbier",4,3,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1266633926,4,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1266633223,4,4,4,"Rauchbier",3.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1266036348,4.5,4,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1264486209,4,3.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1263609119,4,3.5,4,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1262109060,4,4,4.5,"Rauchbier",4.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1259283486,3.5,3.5,3.5,"Rauchbier",4,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1256264624,4.5,4,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1250979208,4,4.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1248706676,4.5,4,4,"Rauchbier",4.5,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1248587468,2,3,3,"Rauchbier",3.5,1,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1248565921,4,3.5,4.5,"Rauchbier",4,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1247107818,4.5,4,4,"Rauchbier",4,4.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1245393169,4,4,4,"Rauchbier",3.5,4,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1242519429,5,4,4,"Rauchbier",5,5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1231732275,3.5,3.5,4,"Rauchbier",3.5,3.5,"Série Signature Rauchbier",6,47226
+11056,"Les Trois Mousquetaires",1326206740,2.5,3,4,"Keller Bier / Zwickel Bier",4,2.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1293433459,4,4,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1324680764,4.5,4.5,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1304959686,4,4,4,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1303862894,4.5,4.5,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1302649296,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1302501779,3.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1302209730,3.5,2.5,4,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1297479401,3.5,3.5,4,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1294602695,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1291697610,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1291329557,4.5,3.5,4,"Keller Bier / Zwickel Bier",4.5,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1291140658,4,4,3.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1289114838,4,3.5,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1286774498,5,3.5,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1284329900,4,4.5,4.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1284164243,4,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1283916807,4,4,3,"Keller Bier / Zwickel Bier",3,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1283663755,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1283422509,4,4.5,4,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1282956399,3.5,4.5,4.5,"Keller Bier / Zwickel Bier",3.5,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1282884938,4.5,4,4.5,"Keller Bier / Zwickel Bier",3.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1282272197,3.5,3,3,"Keller Bier / Zwickel Bier",3.5,3,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1282091990,5,4.5,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1281917681,5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1281628463,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1279506375,3.5,4,4,"Keller Bier / Zwickel Bier",4.5,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1279246904,4.5,4.5,4,"Keller Bier / Zwickel Bier",4.5,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1256928316,4,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1278633610,3,2.5,4.5,"Keller Bier / Zwickel Bier",2.5,3,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1278085759,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1277771430,5,4,4.5,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1276825008,4.5,4,3,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1276554368,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1276481083,4.5,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1276054747,4.5,4.5,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1253498911,4.5,3.5,3.5,"Keller Bier / Zwickel Bier",4,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1276016845,4,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1274578464,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1273446343,4.5,4,4,"Keller Bier / Zwickel Bier",4,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1272832330,4.5,4,4.5,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1268009789,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1266091843,3,4,4.5,"Keller Bier / Zwickel Bier",3,3,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1265861121,4.5,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1261196247,3.5,3,4,"Keller Bier / Zwickel Bier",3.5,3,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1257782264,4.5,4,4,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1257781081,4,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1252720709,4,4,5,"Keller Bier / Zwickel Bier",3.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1250388890,3,3,3.5,"Keller Bier / Zwickel Bier",3.5,3.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1249273581,4,4,4,"Keller Bier / Zwickel Bier",4,4,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1249089290,4.5,4,4.5,"Keller Bier / Zwickel Bier",4.5,4.5,"Série Signature Kellerbier",5.5,51541
+11056,"Les Trois Mousquetaires",1324071149,3.5,4,5,"Weizenbock",3,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1323653979,3,3,3.5,"Weizenbock",4,3,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1322012654,4.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1321967317,4,4,3.5,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1313920516,4,4,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1309796540,3.5,4,4,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1300759900,3,3.5,4.5,"Weizenbock",4,3,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1295156986,4,3.5,4,"Weizenbock",4.5,4.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1291004114,4,4,3.5,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1288324347,4,4,3.5,"Weizenbock",4,4.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1282110960,3.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1281321265,2.5,4,4.5,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1278516681,3.5,4,4,"Weizenbock",4.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1277165639,3.5,4,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1276018614,4,4,4,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1273028447,2.5,4.5,4.5,"Weizenbock",5,4.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1252972704,4.5,3.5,4,"Weizenbock",4,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1249869937,4,4.5,4,"Weizenbock",4.5,4.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1248833518,3,4,3.5,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1243551688,4,4,3.5,"Weizenbock",3.5,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1241382333,4,2,4,"Weizenbock",4.5,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1227721943,3.5,4,3.5,"Weizenbock",3.5,3.5,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1221963845,4,3.5,4,"Weizenbock",4,4,"Weizenbock Grande Cuvée",11,44939
+11056,"Les Trois Mousquetaires",1266191528,3.5,3.5,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1252461156,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1219025830,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1212369706,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1196613886,3,3.5,3.5,"Rauchbier",3.5,3,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1194920271,4,4,4,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1194747017,4.5,4,4,"Rauchbier",3.5,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1191633308,4,4,4.5,"Rauchbier",4,4,"Marché Joannette Rauchweizen",5,38939
+11056,"Les Trois Mousquetaires",1321058976,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1318869908,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1315870984,4,4,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1311488394,4.5,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1303698867,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1300572219,3,4,4.5,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1295359282,3.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1293123346,3,2.5,3,"American Pale Wheat Ale",3,2,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1289761042,3.5,4.5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1289146020,3.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1288650467,4,4,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1285819913,3.5,4,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1284098186,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1283801246,4.5,4,4,"American Pale Wheat Ale",4,5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1283055979,4,4.5,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1282535007,3.5,4,4,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1281918497,3.5,4,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1281472086,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1280810507,4,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1277860971,3.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1277523630,4,4.5,3.5,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1276492095,4,3.5,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1276018787,4,4,4.5,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1276018401,4.5,4.5,3.5,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1274053641,4.5,4,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1271543359,4,4,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1264828534,4,5,4.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1263166922,3,4.5,4,"American Pale Wheat Ale",4.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1273961914,3.5,4,4,"Hefeweizen",4,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1262577395,4.5,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1261880919,4,5,4,"American Pale Wheat Ale",3.5,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1258059271,4,4.5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1258005766,4,4,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1252359083,3,3.5,4,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1252266481,4,5,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1252029658,4,4,4.5,"American Pale Wheat Ale",4,4,"Impériale Weizen Grande Cuvée",10,52336
+11056,"Les Trois Mousquetaires",1242430444,4,4,4,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1242092429,3.5,4.5,4.5,"Märzen / Oktoberfest",3.5,4,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1241213971,3,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1236037312,3.5,4.5,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1231533238,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1229385163,4.5,4.5,4,"Märzen / Oktoberfest",4,4.5,"Série Signature Oktoberfest Rousse 2008",5.5,46623
+11056,"Les Trois Mousquetaires",1311905224,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1293752746,3,4,3,"Hefeweizen",3,3,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1293079831,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1292542632,3.5,3,3.5,"Hefeweizen",3.5,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1282873020,3,3.5,3.5,"Hefeweizen",3.5,3,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1276978383,3.5,2.5,4.5,"Hefeweizen",3.5,2,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1276297766,4,3.5,3.5,"Hefeweizen",4,4,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1272921880,3,3.5,4,"Hefeweizen",3.5,2.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1266195689,3.5,3.5,4,"Hefeweizen",4,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1261626816,3.5,3,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1261468611,4,4,3.5,"Hefeweizen",4,4,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1253856681,3.5,4,4,"Hefeweizen",4,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1243903308,4.5,3.5,4,"Hefeweizen",4,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1243898440,3.5,3.5,4,"Hefeweizen",3.5,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1238106933,2.5,3,2.5,"Hefeweizen",3,3,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1225130934,3.5,3,3.5,"Hefeweizen",3,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1218545450,4,4.5,3,"Hefeweizen",4,3.5,"Blanche",5,44287
+11056,"Les Trois Mousquetaires",1273615389,3,3,4,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1320431301,4,4,4.5,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1309667850,3.5,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1307765921,3.5,3.5,4.5,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1300732210,4,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1295374956,4,4,4,"Altbier",4.5,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1293494495,5,4,5,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1292125726,3,3.5,5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1291049737,3.5,3.5,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1286779726,3,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1285911395,4.5,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1285406456,4,4,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1285235521,4,3.5,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1283644118,4,4,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1283000286,3.5,4,4.5,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1279500813,3.5,4,4.5,"Altbier",3.5,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1278291540,3.5,4,4,"Altbier",4,3.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1276019347,4.5,4.5,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1273507479,4.5,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1273436194,5,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1272952875,2.5,3.5,4,"Altbier",4,3,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1272417392,4,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1269753512,4,4,4,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1269275692,4,4.5,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1268706477,4.5,4,4,"Altbier",4.5,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1268700072,4.5,4.5,4,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1268116254,4.5,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1268098011,4,4,4,"Altbier",4,4.5,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1267663595,2.5,3.5,3.5,"Altbier",3,3,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1266550979,4,4,4.5,"Altbier",4,4,"Série Signature Sticke Alt",6,56209
+11056,"Les Trois Mousquetaires",1249342332,3.5,3.5,4,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1221531167,3,3.5,4.5,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1219548332,4.5,3.5,3.5,"Maibock / Helles Bock",3.5,3.5,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1202183866,2.5,4,4,"Maibock / Helles Bock",2.5,3,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1199305234,2.5,2.5,4,"Maibock / Helles Bock",2.5,2.5,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1196377493,2.5,3,3.5,"Maibock / Helles Bock",3,3,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1191712173,2.5,3.5,3.5,"Maibock / Helles Bock",2.5,3,"Cardinal De Richelieu",8,38956
+11056,"Les Trois Mousquetaires",1315326877,4.5,3.5,4,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1302494248,4,3,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1295818926,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1288317976,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1266292200,3,3.5,3.5,"American Amber / Red Lager",3,3,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1288255193,4,4,3.5,"Märzen / Oktoberfest",4.5,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1285034640,4,4.5,4,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1277946894,4.5,4.5,4,"Märzen / Oktoberfest",4.5,4.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1277604549,4.5,4,4,"Märzen / Oktoberfest",4,4.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1277264170,4,4,4.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1276019485,4,4,4,"Märzen / Oktoberfest",3.5,4.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1274413313,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1264022741,4.5,4,4,"Märzen / Oktoberfest",4.5,4.5,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1265328755,4,4,4,"American Amber / Red Lager",4,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1259479156,3.5,4,3,"Märzen / Oktoberfest",4,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1258765289,3,4.5,4,"Märzen / Oktoberfest",3,4,"Série Signature Oktoberfest",4.1,54254
+11056,"Les Trois Mousquetaires",1315875430,4,4,4,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1310778655,4,3.5,3.5,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1306811745,3.5,3.5,4,"Schwarzbier",4,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1292035801,4,3.5,4,"Schwarzbier",4.5,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1288482799,3.5,3,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1288150676,4.5,4,4,"Schwarzbier",4,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1282146207,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1281739608,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1280206551,4,4,4.5,"Schwarzbier",4,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1280012716,4,4,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1278377402,3.5,4,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1273991146,4,4,4,"Schwarzbier",4,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1272944120,4,3.5,4.5,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1270602794,4,3,3.5,"Schwarzbier",4,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1266901431,4,4,4,"Schwarzbier",4,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1265682670,4,4,4,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1265336022,4,4,3.5,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1261872381,4,3.5,4,"Schwarzbier",3,3,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1261470030,4.5,4,3.5,"Schwarzbier",4,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1258772994,4,4.5,4,"Schwarzbier",3.5,4,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1255496223,4.5,4,4,"Schwarzbier",3.5,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1253862224,3,4,4.5,"Schwarzbier",3,3,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1248977932,3.5,4.5,3.5,"Schwarzbier",3.5,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1243383062,4.5,4,4,"Schwarzbier",3.5,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1238254549,4,4.5,3.5,"Schwarzbier",4,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1233324564,3.5,3,4,"Schwarzbier",3,3,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1221884787,4,4,4,"Schwarzbier",4,4.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1221680143,4,3.5,4,"Schwarzbier",3.5,3.5,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1217945919,3.5,3,4,"Schwarzbier",4,3,"Noire",5,44160
+11056,"Les Trois Mousquetaires",1186453408,4,3.5,4,"Weizenbock",4,4,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1179711471,4,4,3.5,"Weizenbock",4,4.5,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1175286539,3,3.5,4,"Weizenbock",3.5,4,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1175185849,2,2.5,3.5,"Weizenbock",4,2,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1172866828,3.5,3.5,4.5,"Weizenbock",3.5,3.5,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1168651431,4,4,4,"Weizenbock",4,4.5,"Weizen Bock",10,34715
+11056,"Les Trois Mousquetaires",1283558849,3,2.5,3,"American Amber / Red Lager",3,3.5,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1277816812,4,4,4,"American Amber / Red Lager",4,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1276018825,4,3.5,3,"American Amber / Red Lager",3,3.5,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1275774263,4,3,3.5,"American Amber / Red Lager",4,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1273006638,4,3.5,4.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1261473096,4,4.5,3.5,"American Amber / Red Lager",4,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1253858943,3,3.5,4,"American Amber / Red Lager",3.5,3,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1243647341,4.5,4.5,4.5,"American Amber / Red Lager",3.5,4,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1219516382,3.5,4.5,4,"American Amber / Red Lager",3.5,3,"Rousse",5,44502
+11056,"Les Trois Mousquetaires",1214363229,3,3.5,3,"Herbed / Spiced Beer",3,3,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1211304794,4,3.5,3,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1204673893,3,2.5,4.5,"Herbed / Spiced Beer",4,2.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1194144630,3.5,3.5,3.5,"Herbed / Spiced Beer",3.5,3.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1191998481,4,4.5,4,"Herbed / Spiced Beer",3.5,4,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1265665737,4.5,3,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1188754424,3,3,3.5,"Herbed / Spiced Beer",3.5,2.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1171042807,4.5,3.5,4,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1148951582,4,4,3.5,"Herbed / Spiced Beer",4,3.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1134694549,4,4,3.5,"Herbed / Spiced Beer",3.5,4,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1127397414,2.5,2.5,2.5,"Herbed / Spiced Beer",2.5,2.5,"La Folle Du Roi",5,25964
+11056,"Les Trois Mousquetaires",1293070654,4,3.5,3.5,"Czech Pilsener",3.5,4,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1289508281,4,3.5,4.5,"Czech Pilsener",3,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1282956478,3,3,3,"Czech Pilsener",3,3,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1276017627,3.5,4,3.5,"Czech Pilsener",3.5,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1273881482,3.5,3.5,4,"Czech Pilsener",3,3,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1273526022,3,3.5,3.5,"Czech Pilsener",4,3,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1266290398,3.5,3,4,"Czech Pilsener",4,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1266171548,4.5,4,4,"Czech Pilsener",4,4.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1261471288,3.5,3.5,4,"Czech Pilsener",3.5,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1258845370,4,3.5,3.5,"Czech Pilsener",4,4,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1253854891,3.5,3.5,3.5,"Czech Pilsener",4,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1244502705,3,3,3.5,"Czech Pilsener",3,3,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1243647617,4.5,3.5,4.5,"Czech Pilsener",3.5,4,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1218999684,4.5,4,4,"Czech Pilsener",4,3.5,"Blonde",5,44371
+11056,"Les Trois Mousquetaires",1320370566,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1311557971,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1311316050,3,3.5,3,"American Pale Ale (APA)",3,2.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1309045883,4,4.5,4,"American Pale Ale (APA)",4,4,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1298030534,3.5,4,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1297555001,4,2.5,3.5,"American Pale Ale (APA)",4,3,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1289611750,3.5,4,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1284430140,3,3.5,4,"American Pale Ale (APA)",3.5,4,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1281908421,4,3,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1278888023,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1278692161,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1276294968,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1276019237,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1271546507,4.5,4,4.5,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1266674091,4.5,4,4,"American Pale Ale (APA)",4.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1266191621,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1259991397,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1259915675,4.5,4,4.5,"American Pale Ale (APA)",4.5,4.5,"Serie Signature - Americaine Pale Ale",5,54537
+11056,"Les Trois Mousquetaires",1324688855,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1323739416,4,3.5,4,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1321406774,4,4,4.5,"Doppelbock",5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1321317343,4.5,4.5,4.5,"Doppelbock",4.5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1319246642,4,4,4,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1316187702,4.5,4,4,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1314614529,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1313259897,4,4.5,4.5,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1312738676,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1310339529,3.5,3.5,4,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1309314764,4,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1303798246,5,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1301404706,4.5,5,4.5,"Doppelbock",5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1300250379,4.5,4.5,4.5,"Doppelbock",4.5,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1294988094,4,4,4.5,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1294770198,4.5,4.5,4.5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1294509038,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1292344938,3.5,3.5,4,"Doppelbock",3.5,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1291607834,4,4.5,3,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1289027086,4,4,4.5,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1286034068,3.5,3.5,3.5,"Doppelbock",3,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1285593736,3,3.5,3,"Doppelbock",4,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1283873657,4,4,4,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1283739586,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1282793491,4.5,4,4.5,"Doppelbock",4,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1282593038,4.5,4.5,5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1282367086,3.5,4,4.5,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1282276418,3,4,4.5,"Doppelbock",4,3,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1281918139,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1281293290,4.5,4.5,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1280940654,4.5,5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1280496878,4,4,4.5,"Doppelbock",5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1279770629,4.5,4,4,"Doppelbock",4,5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1278899484,4,4.5,4,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1276565390,4.5,3.5,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1276018111,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1275973711,3.5,4,3,"Doppelbock",3.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1275598691,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1275574195,4.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1275186995,4,4,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1274747075,3.5,4.5,4.5,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1274674585,4.5,4,4.5,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1274047088,3.5,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1270345134,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1268703193,4.5,3.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1268456683,4,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1267318913,4,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1263360862,4.5,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1263265805,4.5,4,4,"Doppelbock",4.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1260330221,4.5,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1257988059,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1257127719,2.5,4,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1256061106,3.5,4.5,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1255838463,4.5,4,4,"Doppelbock",5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1255053417,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1253847425,3.5,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1252539142,4,4,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1251432973,3.5,4,4,"Doppelbock",3.5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1251051220,4,2.5,3,"Doppelbock",4,2.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1250479764,4.5,4.5,4,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1245486831,4,4,4,"Doppelbock",4,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1245373271,4,4.5,4.5,"Doppelbock",4,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1244769585,3.5,3,3.5,"Doppelbock",4,3.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1227058000,3,3,3,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1244516422,4,4,4.5,"Doppelbock",5,4.5,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1243298918,3.5,4.5,3.5,"Doppelbock",4.5,4,"Doppelbock Grande Cuvée Printemps",8.7,50044
+11056,"Les Trois Mousquetaires",1242354423,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"American Pale Ale",5,40233
+11056,"Les Trois Mousquetaires",1203821939,3.5,3.5,3.5,"American Pale Ale (APA)",2.5,3.5,"American Pale Ale",5,40233
+11056,"Les Trois Mousquetaires",1289251188,3.5,4,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1267573495,3.5,3,3,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1266706610,2.5,3.5,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1258068530,1.5,2,3.5,"American Pale Wheat Ale",1.5,1,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1221956968,4,4,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1253163358,2.5,3.5,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1250311534,3.5,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1248220230,3,4,3,"American Pale Wheat Ale",3,4.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1241994465,3.5,3,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1236896778,3.5,3.5,4.5,"American Pale Wheat Ale",4.5,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1235539290,3,3,3,"American Pale Wheat Ale",3,3,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1233534002,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1231804227,4.5,4,4,"American Pale Wheat Ale",4.5,4.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1228354408,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1221270602,3.5,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1219806090,3,3.5,3.5,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1219178282,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1218498120,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1217898261,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1214063411,2.5,3,3,"American Pale Wheat Ale",3,3,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1213999760,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1211503967,3,3.5,4,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1211244755,2.5,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1202682861,3.5,4,4,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1202517849,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1199656575,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1198366036,4,4,4,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1193711353,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1193609415,3,3.5,4,"American Pale Wheat Ale",3,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1192513944,4.5,3.5,4,"American Pale Wheat Ale",4,3,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1188944770,4,4,4,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1188438912,3,3,3,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1185506000,3.5,4,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1175051501,3.5,4.5,4,"American Pale Wheat Ale",4,4.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1170084194,3.5,3.5,4,"American Pale Wheat Ale",3.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1167348695,4,4,3.5,"American Pale Wheat Ale",4.5,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1163371387,3.5,3.5,3,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1158637767,3.5,3,3.5,"American Pale Wheat Ale",4,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1158353859,4,4.5,4,"American Pale Wheat Ale",3.5,4.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1157055232,3.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1156374693,3.5,4,3.5,"American Pale Wheat Ale",4,3.5,"Impériale Weizen",8,32440
+11056,"Les Trois Mousquetaires",1212197367,3,3.5,2,"Czech Pilsener",3,2.5,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1204242046,4,2.5,3.5,"Czech Pilsener",4,3.5,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1188692872,3.5,3,4,"Czech Pilsener",3.5,3,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1171158421,3.5,2.5,2.5,"Czech Pilsener",4,3,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1155585213,2,2,2,"Czech Pilsener",2,2.5,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1134340302,4,3.5,3.5,"Czech Pilsener",3,3.5,"D'Artangnan",5,27298
+11056,"Les Trois Mousquetaires",1246161212,3.5,3.5,4,"Doppelbock",3.5,3.5,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1229828383,3.5,4.5,4,"Doppelbock",3.5,4,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1228164532,4,3.5,4,"Doppelbock",4,4,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1219632722,4.5,4.5,4.5,"Doppelbock",4.5,4.5,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1206397839,4,4.5,4,"Doppelbock",4,4.5,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1201985215,4,4,4,"Doppelbock",4.5,4,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1201032965,4,4,4,"Doppelbock",4,4,"Série Siganture - Porthos",8.3,39835
+11056,"Les Trois Mousquetaires",1196302190,4,3.5,3.5,"Doppelbock",3.5,4,"Série Siganture - Porthos",8.3,39835

@@ -1,632 +1,632 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",7773,"Legacy Brewing Co.",1229789094,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"2",7773,"Legacy Brewing Co.",1223433055,3.5,3,3.5,"Tripel",3.5,3.5,"Euphoria",9,16906
-"3",7773,"Legacy Brewing Co.",1223167707,3.5,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
-"4",7773,"Legacy Brewing Co.",1216356767,4,4.5,3.5,"Tripel",4,4,"Euphoria",9,16906
-"5",7773,"Legacy Brewing Co.",1201054163,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"6",7773,"Legacy Brewing Co.",1166983228,4,4,4,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"7",7773,"Legacy Brewing Co.",1161528401,3.5,3,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"8",7773,"Legacy Brewing Co.",1253513953,4.5,3.5,3.5,"American Amber / Red Lager",3.5,4,"Fat Boy",5.2,43787
-"9",7773,"Legacy Brewing Co.",1252548350,3.5,3.5,3.5,"American Amber / Red Lager",3,4,"Fat Boy",5.2,43787
-"10",7773,"Legacy Brewing Co.",1248479636,3.5,3,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
-"11",7773,"Legacy Brewing Co.",1246632456,3.5,3.5,3,"American Amber / Red Lager",3.5,3,"Fat Boy",5.2,43787
-"12",7773,"Legacy Brewing Co.",1244510847,2,2.5,2.5,"American Amber / Red Lager",2.5,2.5,"Fat Boy",5.2,43787
-"13",7773,"Legacy Brewing Co.",1207782235,4,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
-"14",7773,"Legacy Brewing Co.",1080915521,4.5,4.5,4,"Tripel",4.5,4.5,"Euphoria",9,16906
-"15",7773,"Legacy Brewing Co.",1175397535,4,4,3,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"16",7773,"Legacy Brewing Co.",1142239180,4,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"17",7773,"Legacy Brewing Co.",1142033867,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"18",7773,"Legacy Brewing Co.",1141185797,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"19",7773,"Legacy Brewing Co.",1140138860,4,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"20",7773,"Legacy Brewing Co.",1244164291,1.5,3,4,"Oatmeal Stout",1.5,2,"Nor Easter",7.2,15439
-"21",7773,"Legacy Brewing Co.",1243730929,4,4.5,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"22",7773,"Legacy Brewing Co.",1268453219,3.5,4,4.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"23",7773,"Legacy Brewing Co.",1266097492,3.5,3.5,4.5,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
-"24",7773,"Legacy Brewing Co.",1264976526,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"25",7773,"Legacy Brewing Co.",1264385097,3,3.5,4,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
-"26",7773,"Legacy Brewing Co.",1260412457,3.5,4,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
-"27",7773,"Legacy Brewing Co.",1260268816,4,4,4,"Oatmeal Stout",5,4,"Nor Easter",7.2,15439
-"28",7773,"Legacy Brewing Co.",1260060190,4,4,4.5,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
-"29",7773,"Legacy Brewing Co.",1245384366,3,3.5,2,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
-"30",7773,"Legacy Brewing Co.",1243729108,3.5,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"31",7773,"Legacy Brewing Co.",1238713479,3,3.5,3.5,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
-"32",7773,"Legacy Brewing Co.",1238710344,3.5,3.5,4,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
-"33",7773,"Legacy Brewing Co.",1237756451,4,4,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"34",7773,"Legacy Brewing Co.",1237083827,3.5,4,4.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"35",7773,"Legacy Brewing Co.",1233533460,4,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"36",7773,"Legacy Brewing Co.",1231024446,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Nor Easter",7.2,15439
-"37",7773,"Legacy Brewing Co.",1230903398,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"38",7773,"Legacy Brewing Co.",1230134438,3.5,4,3.5,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
-"39",7773,"Legacy Brewing Co.",1227907925,3.5,3.5,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
-"40",7773,"Legacy Brewing Co.",1225501437,3.5,3.5,4,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
-"41",7773,"Legacy Brewing Co.",1223486453,3.5,4,4,"Oatmeal Stout",4,3.5,"Nor Easter",7.2,15439
-"42",7773,"Legacy Brewing Co.",1222039395,4,4,4,"Oatmeal Stout",2,4,"Nor Easter",7.2,15439
-"43",7773,"Legacy Brewing Co.",1217197321,3.5,4,4,"Oatmeal Stout",3.5,3,"Nor Easter",7.2,15439
-"44",7773,"Legacy Brewing Co.",1216594196,4.5,4,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"45",7773,"Legacy Brewing Co.",1215642949,4,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"46",7773,"Legacy Brewing Co.",1212638065,3.5,4,3,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
-"47",7773,"Legacy Brewing Co.",1212600769,3,3,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
-"48",7773,"Legacy Brewing Co.",1209051358,3.5,3.5,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"49",7773,"Legacy Brewing Co.",1205170007,3.5,4,5,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
-"50",7773,"Legacy Brewing Co.",1202868712,4.5,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"51",7773,"Legacy Brewing Co.",1201291760,4,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"52",7773,"Legacy Brewing Co.",1173786514,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"53",7773,"Legacy Brewing Co.",1169265833,3.5,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"54",7773,"Legacy Brewing Co.",1169113278,4.5,3.5,4,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
-"55",7773,"Legacy Brewing Co.",1166892745,3.5,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"56",7773,"Legacy Brewing Co.",1164467088,4,4,4.5,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
-"57",7773,"Legacy Brewing Co.",1163964508,3.5,3.5,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"58",7773,"Legacy Brewing Co.",1138821305,4,3.5,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"59",7773,"Legacy Brewing Co.",1136827333,4,4,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"60",7773,"Legacy Brewing Co.",1075473899,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
-"61",7773,"Legacy Brewing Co.",1074378421,4,3.5,4,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
-"62",7773,"Legacy Brewing Co.",1194189426,1.5,1.5,2,"Lambic - Fruit",1.5,1,"Kriek",NA,39466
-"63",7773,"Legacy Brewing Co.",1256573165,1.5,3,3.5,"Dubbel",2,1.5,"Dear Abbey Dubbel",7.5,43859
-"64",7773,"Legacy Brewing Co.",1253116119,3,3.5,3.5,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
-"65",7773,"Legacy Brewing Co.",1252714024,2.5,3,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
-"66",7773,"Legacy Brewing Co.",1250032273,3.5,3,3.5,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
-"67",7773,"Legacy Brewing Co.",1249157284,4,4,3.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
-"68",7773,"Legacy Brewing Co.",1244226216,3,3,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
-"69",7773,"Legacy Brewing Co.",1243211350,4,3.5,3.5,"Dubbel",3.5,4,"Dear Abbey Dubbel",7.5,43859
-"70",7773,"Legacy Brewing Co.",1242321741,2,3.5,3.5,"Dubbel",3.5,2,"Dear Abbey Dubbel",7.5,43859
-"71",7773,"Legacy Brewing Co.",1241372425,4,4,4.5,"Dubbel",3.5,4.5,"Dear Abbey Dubbel",7.5,43859
-"72",7773,"Legacy Brewing Co.",1239058547,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
-"73",7773,"Legacy Brewing Co.",1235844707,3,3.5,4,"Dubbel",3,2.5,"Dear Abbey Dubbel",7.5,43859
-"74",7773,"Legacy Brewing Co.",1235262526,4,3.5,4,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
-"75",7773,"Legacy Brewing Co.",1233795272,3,4,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
-"76",7773,"Legacy Brewing Co.",1233265866,4,4,4.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
-"77",7773,"Legacy Brewing Co.",1229626128,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Dear Abbey Dubbel",7.5,43859
-"78",7773,"Legacy Brewing Co.",1227147073,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
-"79",7773,"Legacy Brewing Co.",1223773100,4,4.5,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
-"80",7773,"Legacy Brewing Co.",1222060293,4,4,3.5,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
-"81",7773,"Legacy Brewing Co.",1221434730,3.5,3.5,4,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
-"82",7773,"Legacy Brewing Co.",1220709499,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
-"83",7773,"Legacy Brewing Co.",1216597111,4,4,3.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
-"84",7773,"Legacy Brewing Co.",1205440570,5,5,5,"German Pilsener",4,4,"Reading Pils",4.9,23987
-"85",7773,"Legacy Brewing Co.",1180987134,5,4,4,"German Pilsener",4,4.5,"Reading Pils",4.9,23987
-"86",7773,"Legacy Brewing Co.",1172050793,4,3.5,4,"German Pilsener",3,3.5,"Reading Pils",4.9,23987
-"87",7773,"Legacy Brewing Co.",1134307621,4.5,4,4.5,"German Pilsener",4,4,"Reading Pils",4.9,23987
-"88",7773,"Legacy Brewing Co.",1117377714,4.5,4.5,4,"German Pilsener",4,4.5,"Reading Pils",4.9,23987
-"89",7773,"Legacy Brewing Co.",1178425292,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"90",7773,"Legacy Brewing Co.",1177632444,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"91",7773,"Legacy Brewing Co.",1176776869,4,4,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"92",7773,"Legacy Brewing Co.",1176730762,3,3,3.5,"American Amber / Red Ale",4,3,"Hedonism Ale",7.1,22502
-"93",7773,"Legacy Brewing Co.",1176504247,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"94",7773,"Legacy Brewing Co.",1176145269,3.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"95",7773,"Legacy Brewing Co.",1175896470,2.5,3.5,3.5,"American Amber / Red Ale",2,2,"Hedonism Ale",7.1,22502
-"96",7773,"Legacy Brewing Co.",1174944926,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"97",7773,"Legacy Brewing Co.",1174773843,4,4,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"98",7773,"Legacy Brewing Co.",1174527447,3.5,3,4,"American Amber / Red Ale",2,3.5,"Hedonism Ale",7.1,22502
-"99",7773,"Legacy Brewing Co.",1174168613,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"100",7773,"Legacy Brewing Co.",1174106760,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"101",7773,"Legacy Brewing Co.",1172008100,3.5,4.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"102",7773,"Legacy Brewing Co.",1171497616,3,3,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
-"103",7773,"Legacy Brewing Co.",1169523540,4,3,3,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"104",7773,"Legacy Brewing Co.",1169129674,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"105",7773,"Legacy Brewing Co.",1168786939,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"106",7773,"Legacy Brewing Co.",1168352379,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"107",7773,"Legacy Brewing Co.",1168193028,4.5,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"108",7773,"Legacy Brewing Co.",1168142905,3.5,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"109",7773,"Legacy Brewing Co.",1167791001,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"110",7773,"Legacy Brewing Co.",1166892177,4,3.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"111",7773,"Legacy Brewing Co.",1166577842,4.5,3.5,4,"American Amber / Red Ale",3.5,4.5,"Hedonism Ale",7.1,22502
-"112",7773,"Legacy Brewing Co.",1166436177,4,4.5,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"113",7773,"Legacy Brewing Co.",1216011586,4,4.5,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"114",7773,"Legacy Brewing Co.",1165198796,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"115",7773,"Legacy Brewing Co.",1164902718,4,3.5,3,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"116",7773,"Legacy Brewing Co.",1163964347,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"117",7773,"Legacy Brewing Co.",1161477216,4,4,2.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"118",7773,"Legacy Brewing Co.",1160959289,3.5,3,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"119",7773,"Legacy Brewing Co.",1160787874,5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"120",7773,"Legacy Brewing Co.",1160692722,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"121",7773,"Legacy Brewing Co.",1159487175,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"122",7773,"Legacy Brewing Co.",1158089719,2.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
-"123",7773,"Legacy Brewing Co.",1156911032,3.5,4,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"124",7773,"Legacy Brewing Co.",1156626694,3.5,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"125",7773,"Legacy Brewing Co.",1152579776,4,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
-"126",7773,"Legacy Brewing Co.",1151996750,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"127",7773,"Legacy Brewing Co.",1151346487,3.5,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"128",7773,"Legacy Brewing Co.",1150959373,4,4,2.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"129",7773,"Legacy Brewing Co.",1150127771,3,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"130",7773,"Legacy Brewing Co.",1149910474,3,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"131",7773,"Legacy Brewing Co.",1148387560,3,3,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"132",7773,"Legacy Brewing Co.",1188776328,4,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"133",7773,"Legacy Brewing Co.",1148146816,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"134",7773,"Legacy Brewing Co.",1148135755,3.5,4.5,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"135",7773,"Legacy Brewing Co.",1147989994,2.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"136",7773,"Legacy Brewing Co.",1147919075,4,4,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"137",7773,"Legacy Brewing Co.",1144000726,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"138",7773,"Legacy Brewing Co.",1142823485,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"139",7773,"Legacy Brewing Co.",1142813751,4,3.5,3,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"140",7773,"Legacy Brewing Co.",1188359750,3.5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"141",7773,"Legacy Brewing Co.",1139799522,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"142",7773,"Legacy Brewing Co.",1139128061,3.5,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"143",7773,"Legacy Brewing Co.",1138045044,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"144",7773,"Legacy Brewing Co.",1137216983,3,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"145",7773,"Legacy Brewing Co.",1135216986,4,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"146",7773,"Legacy Brewing Co.",1134900768,4.5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"147",7773,"Legacy Brewing Co.",1134850307,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
-"148",7773,"Legacy Brewing Co.",1134671232,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
-"149",7773,"Legacy Brewing Co.",1267140992,3,3.5,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
-"150",7773,"Legacy Brewing Co.",1134093200,4.5,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"151",7773,"Legacy Brewing Co.",1129420724,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"152",7773,"Legacy Brewing Co.",1125404311,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"153",7773,"Legacy Brewing Co.",1120509163,4,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"154",7773,"Legacy Brewing Co.",1118938723,5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"155",7773,"Legacy Brewing Co.",1110734308,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
-"156",7773,"Legacy Brewing Co.",1284409882,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"157",7773,"Legacy Brewing Co.",1261969243,3.5,4,3.5,"American Amber / Red Ale",3,4,"Hedonism Ale",7.1,22502
-"158",7773,"Legacy Brewing Co.",1261772464,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"159",7773,"Legacy Brewing Co.",1261199537,1.5,3.5,4.5,"American Amber / Red Ale",1,1,"Hedonism Ale",7.1,22502
-"160",7773,"Legacy Brewing Co.",1257724345,3.5,3,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"161",7773,"Legacy Brewing Co.",1252789501,4,3,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"162",7773,"Legacy Brewing Co.",1251951563,3.5,3.5,3.5,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"163",7773,"Legacy Brewing Co.",1251675541,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"164",7773,"Legacy Brewing Co.",1251604991,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"165",7773,"Legacy Brewing Co.",1250293693,3.5,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"166",7773,"Legacy Brewing Co.",1248055680,4,3.5,4,"American Amber / Red Ale",4.5,5,"Hedonism Ale",7.1,22502
-"167",7773,"Legacy Brewing Co.",1242224447,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"168",7773,"Legacy Brewing Co.",1241310846,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"169",7773,"Legacy Brewing Co.",1240842082,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"170",7773,"Legacy Brewing Co.",1240009690,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"171",7773,"Legacy Brewing Co.",1238463336,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"172",7773,"Legacy Brewing Co.",1237501793,4,4,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
-"173",7773,"Legacy Brewing Co.",1237342875,3.5,3,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"174",7773,"Legacy Brewing Co.",1235709979,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"175",7773,"Legacy Brewing Co.",1235347631,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"176",7773,"Legacy Brewing Co.",1234425842,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"177",7773,"Legacy Brewing Co.",1222302684,4.5,4,3.5,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"178",7773,"Legacy Brewing Co.",1231120945,3.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"179",7773,"Legacy Brewing Co.",1230738190,4,3.5,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"180",7773,"Legacy Brewing Co.",1229972572,3,4,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"181",7773,"Legacy Brewing Co.",1229714091,4,4,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"182",7773,"Legacy Brewing Co.",1229314636,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"183",7773,"Legacy Brewing Co.",1228830563,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"184",7773,"Legacy Brewing Co.",1227992584,3,3,3.5,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"185",7773,"Legacy Brewing Co.",1227215685,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"186",7773,"Legacy Brewing Co.",1226544404,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"187",7773,"Legacy Brewing Co.",1221350918,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"188",7773,"Legacy Brewing Co.",1226461116,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"189",7773,"Legacy Brewing Co.",1226279215,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"190",7773,"Legacy Brewing Co.",1225584803,3,3,3,"American Amber / Red Ale",2.5,3,"Hedonism Ale",7.1,22502
-"191",7773,"Legacy Brewing Co.",1224813073,4,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"192",7773,"Legacy Brewing Co.",1224555489,2,4,4,"American Amber / Red Ale",3,2,"Hedonism Ale",7.1,22502
-"193",7773,"Legacy Brewing Co.",1224091889,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"194",7773,"Legacy Brewing Co.",1223603673,3.5,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"195",7773,"Legacy Brewing Co.",1223012669,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"196",7773,"Legacy Brewing Co.",1222972246,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"197",7773,"Legacy Brewing Co.",1222551660,4,3.5,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"198",7773,"Legacy Brewing Co.",1222533762,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"199",7773,"Legacy Brewing Co.",1221014682,2.5,3,2.5,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
-"200",7773,"Legacy Brewing Co.",1220914690,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"201",7773,"Legacy Brewing Co.",1220136595,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"202",7773,"Legacy Brewing Co.",1219530866,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"203",7773,"Legacy Brewing Co.",1216594329,4.5,3,3.5,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
-"204",7773,"Legacy Brewing Co.",1215993676,4,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"205",7773,"Legacy Brewing Co.",1214112167,3,3,3,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
-"206",7773,"Legacy Brewing Co.",1213296658,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
-"207",7773,"Legacy Brewing Co.",1212431448,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"208",7773,"Legacy Brewing Co.",1211669203,4.5,4,3.5,"American Amber / Red Ale",3,4,"Hedonism Ale",7.1,22502
-"209",7773,"Legacy Brewing Co.",1210899608,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"210",7773,"Legacy Brewing Co.",1209228774,3,3.5,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
-"211",7773,"Legacy Brewing Co.",1197770415,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"212",7773,"Legacy Brewing Co.",1208216696,3.5,3.5,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"213",7773,"Legacy Brewing Co.",1207784434,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"214",7773,"Legacy Brewing Co.",1206306243,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"215",7773,"Legacy Brewing Co.",1205630534,4,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"216",7773,"Legacy Brewing Co.",1205622591,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"217",7773,"Legacy Brewing Co.",1202447200,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"218",7773,"Legacy Brewing Co.",1201392052,4.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"219",7773,"Legacy Brewing Co.",1200363715,4.5,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"220",7773,"Legacy Brewing Co.",1200269139,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"221",7773,"Legacy Brewing Co.",1199931291,3.5,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"222",7773,"Legacy Brewing Co.",1196739205,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"223",7773,"Legacy Brewing Co.",1196635110,2.5,3,3,"American Amber / Red Ale",3,2.5,"Hedonism Ale",7.1,22502
-"224",7773,"Legacy Brewing Co.",1194816251,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"225",7773,"Legacy Brewing Co.",1194569961,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"226",7773,"Legacy Brewing Co.",1193359371,3,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"227",7773,"Legacy Brewing Co.",1192903483,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
-"228",7773,"Legacy Brewing Co.",1192398822,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"229",7773,"Legacy Brewing Co.",1191885735,4,4,5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"230",7773,"Legacy Brewing Co.",1191477395,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
-"231",7773,"Legacy Brewing Co.",1189277340,2,2.5,3,"American Amber / Red Ale",2,2.5,"Hedonism Ale",7.1,22502
-"232",7773,"Legacy Brewing Co.",1209076920,3.5,3,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"233",7773,"Legacy Brewing Co.",1186977881,3,4.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"234",7773,"Legacy Brewing Co.",1186806894,4,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
-"235",7773,"Legacy Brewing Co.",1186465154,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"236",7773,"Legacy Brewing Co.",1183289548,4,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
-"237",7773,"Legacy Brewing Co.",1182630956,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"238",7773,"Legacy Brewing Co.",1182124472,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"239",7773,"Legacy Brewing Co.",1181065955,4,3.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"240",7773,"Legacy Brewing Co.",1180898916,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
-"241",7773,"Legacy Brewing Co.",1180670480,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
-"242",7773,"Legacy Brewing Co.",1180484769,4,3,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
-"243",7773,"Legacy Brewing Co.",1179368238,1.5,2.5,3,"American Amber / Red Ale",2,2.5,"Hedonism Ale",7.1,22502
-"244",7773,"Legacy Brewing Co.",1182659162,3.5,3,3.5,"American IPA",3.5,3.5,"Heavy Handed Hops",NA,22407
-"245",7773,"Legacy Brewing Co.",1177036025,3,3.5,4,"American IPA",3,3.5,"Heavy Handed Hops",NA,22407
-"246",7773,"Legacy Brewing Co.",1153770187,4,3.5,3.5,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
-"247",7773,"Legacy Brewing Co.",1121889750,4,3,4,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
-"248",7773,"Legacy Brewing Co.",1115657951,4,3.5,4,"American IPA",4,4,"Heavy Handed Hops",NA,22407
-"249",7773,"Legacy Brewing Co.",1110128104,4,4,4,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
-"250",7773,"Legacy Brewing Co.",1258224261,2.5,3,4,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"251",7773,"Legacy Brewing Co.",1256609137,2.5,4,4,"Witbier",3,2,"Midnight Wit",4.9,29016
-"252",7773,"Legacy Brewing Co.",1249442900,3.5,3.5,3.5,"Witbier",4,3.5,"Midnight Wit",4.9,29016
-"253",7773,"Legacy Brewing Co.",1248584036,4,3.5,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"254",7773,"Legacy Brewing Co.",1244650452,3.5,3,2.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"255",7773,"Legacy Brewing Co.",1241060403,4,3.5,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"256",7773,"Legacy Brewing Co.",1239396493,4,4.5,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
-"257",7773,"Legacy Brewing Co.",1233969996,3.5,4,3.5,"Witbier",3,4,"Midnight Wit",4.9,29016
-"258",7773,"Legacy Brewing Co.",1229628941,3.5,3,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"259",7773,"Legacy Brewing Co.",1226279569,4,3,3,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"260",7773,"Legacy Brewing Co.",1226202597,3.5,4,3,"Witbier",4,3.5,"Midnight Wit",4.9,29016
-"261",7773,"Legacy Brewing Co.",1216594440,4,4,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"262",7773,"Legacy Brewing Co.",1213322087,4,4,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"263",7773,"Legacy Brewing Co.",1213153630,3.5,3,3,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"264",7773,"Legacy Brewing Co.",1212632597,3,2.5,3,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"265",7773,"Legacy Brewing Co.",1212107985,3,3,4,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"266",7773,"Legacy Brewing Co.",1211589736,3,3,3,"Witbier",3,3,"Midnight Wit",4.9,29016
-"267",7773,"Legacy Brewing Co.",1208209786,4.5,3.5,3,"Witbier",3,2.5,"Midnight Wit",4.9,29016
-"268",7773,"Legacy Brewing Co.",1207021937,4,3,3.5,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"269",7773,"Legacy Brewing Co.",1207011867,4,3.5,4,"Witbier",4,4.5,"Midnight Wit",4.9,29016
-"270",7773,"Legacy Brewing Co.",1206934609,4,3.5,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"271",7773,"Legacy Brewing Co.",1205699663,3.5,4.5,3,"Witbier",4,3.5,"Midnight Wit",4.9,29016
-"272",7773,"Legacy Brewing Co.",1203223756,4,3.5,3,"Witbier",3,4,"Midnight Wit",4.9,29016
-"273",7773,"Legacy Brewing Co.",1202625351,3,3,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"274",7773,"Legacy Brewing Co.",1198541532,2.5,3,2.5,"Witbier",2.5,2,"Midnight Wit",4.9,29016
-"275",7773,"Legacy Brewing Co.",1194547546,3.5,4,4.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"276",7773,"Legacy Brewing Co.",1192848718,4,4,4,"Witbier",4,4,"Midnight Wit",4.9,29016
-"277",7773,"Legacy Brewing Co.",1189561904,4,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"278",7773,"Legacy Brewing Co.",1215915412,4,4,3.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
-"279",7773,"Legacy Brewing Co.",1189027072,3,3.5,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"280",7773,"Legacy Brewing Co.",1188012918,4,4,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"281",7773,"Legacy Brewing Co.",1186541605,3,3.5,4,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"282",7773,"Legacy Brewing Co.",1186154426,5,5,4.5,"Witbier",4.5,5,"Midnight Wit",4.9,29016
-"283",7773,"Legacy Brewing Co.",1184019053,3.5,2.5,3.5,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"284",7773,"Legacy Brewing Co.",1181179197,4,3,2.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"285",7773,"Legacy Brewing Co.",1179598394,3.5,3.5,3,"Witbier",4,4,"Midnight Wit",4.9,29016
-"286",7773,"Legacy Brewing Co.",1178071785,4.5,4,3,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"287",7773,"Legacy Brewing Co.",1176647957,3,3,3.5,"Witbier",3,3,"Midnight Wit",4.9,29016
-"288",7773,"Legacy Brewing Co.",1176503475,3.5,3.5,3.5,"Witbier",3,3,"Midnight Wit",4.9,29016
-"289",7773,"Legacy Brewing Co.",1176398450,4.5,3.5,4,"Witbier",3,3.5,"Midnight Wit",4.9,29016
-"290",7773,"Legacy Brewing Co.",1175787604,5,4,3.5,"Witbier",4.5,4.5,"Midnight Wit",4.9,29016
-"291",7773,"Legacy Brewing Co.",1175660136,4,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"292",7773,"Legacy Brewing Co.",1175487119,4.5,4,4.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"293",7773,"Legacy Brewing Co.",1175452464,4,3,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"294",7773,"Legacy Brewing Co.",1174432553,4,4,4,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"295",7773,"Legacy Brewing Co.",1174105365,3.5,3.5,4,"Witbier",4,3.5,"Midnight Wit",4.9,29016
-"296",7773,"Legacy Brewing Co.",1173376196,3.5,3.5,3,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"297",7773,"Legacy Brewing Co.",1172200667,4.5,3.5,3.5,"Witbier",4.5,3.5,"Midnight Wit",4.9,29016
-"298",7773,"Legacy Brewing Co.",1171163002,3.5,3.5,2.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
-"299",7773,"Legacy Brewing Co.",1170548419,4,3,4,"Witbier",4,3.5,"Midnight Wit",4.9,29016
-"300",7773,"Legacy Brewing Co.",1170547557,3,3.5,3,"Witbier",3,3,"Midnight Wit",4.9,29016
-"301",7773,"Legacy Brewing Co.",1167099551,3.5,3.5,4,"Witbier",3.5,4,"Midnight Wit",4.9,29016
-"302",7773,"Legacy Brewing Co.",1156011056,4.5,3,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
-"303",7773,"Legacy Brewing Co.",1154300236,4.5,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
-"304",7773,"Legacy Brewing Co.",1153756479,4,4,4,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"305",7773,"Legacy Brewing Co.",1152496268,5,3.5,4.5,"Witbier",5,4.5,"Midnight Wit",4.9,29016
-"306",7773,"Legacy Brewing Co.",1150682995,4,4,4,"Witbier",4,4.5,"Midnight Wit",4.9,29016
-"307",7773,"Legacy Brewing Co.",1150132551,4.5,4,4,"Witbier",4.5,4.5,"Midnight Wit",4.9,29016
-"308",7773,"Legacy Brewing Co.",1150002225,4.5,4,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
-"309",7773,"Legacy Brewing Co.",1149123502,3,4,4,"Witbier",3,3,"Midnight Wit",4.9,29016
-"310",7773,"Legacy Brewing Co.",1147987399,4,3.5,3.5,"Witbier",4,3,"Midnight Wit",4.9,29016
-"311",7773,"Legacy Brewing Co.",1142543924,3.5,3.5,2.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
-"312",7773,"Legacy Brewing Co.",1256768245,3.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
-"313",7773,"Legacy Brewing Co.",1241706908,2,3,4,"American Amber / Red Lager",2.5,2,"Fat Boy",5.2,43787
-"314",7773,"Legacy Brewing Co.",1239840542,2.5,3.5,2,"American Amber / Red Lager",2,2.5,"Fat Boy",5.2,43787
-"315",7773,"Legacy Brewing Co.",1218944502,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
-"316",7773,"Legacy Brewing Co.",1218845349,4,3.5,4,"American Amber / Red Lager",3.5,4,"Fat Boy",5.2,43787
-"317",7773,"Legacy Brewing Co.",1216343058,3.5,3.5,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
-"318",7773,"Legacy Brewing Co.",1216273498,3,3,3,"American Amber / Red Lager",3,3,"Fat Boy",5.2,43787
-"319",7773,"Legacy Brewing Co.",1229564465,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"320",7773,"Legacy Brewing Co.",1229401534,4,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"321",7773,"Legacy Brewing Co.",1229350780,4.5,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
-"322",7773,"Legacy Brewing Co.",1216348516,4,5,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"323",7773,"Legacy Brewing Co.",1229317869,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"324",7773,"Legacy Brewing Co.",1229280040,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"325",7773,"Legacy Brewing Co.",1228951435,3,4,4,"American Double / Imperial IPA",2,2,"Hoptimus Prime",9,31941
-"326",7773,"Legacy Brewing Co.",1228692574,2,4.5,3,"American Double / Imperial IPA",2,3,"Hoptimus Prime",9,31941
-"327",7773,"Legacy Brewing Co.",1228665660,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"328",7773,"Legacy Brewing Co.",1228046941,4.5,3.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"329",7773,"Legacy Brewing Co.",1227498692,4,3.5,4.5,"American Double / Imperial IPA",3,4,"Hoptimus Prime",9,31941
-"330",7773,"Legacy Brewing Co.",1227157288,4.5,3,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"331",7773,"Legacy Brewing Co.",1226534027,4.5,4,5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"332",7773,"Legacy Brewing Co.",1215863620,4,3,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"333",7773,"Legacy Brewing Co.",1226393345,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"334",7773,"Legacy Brewing Co.",1226371402,3.5,3,3,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"335",7773,"Legacy Brewing Co.",1226286776,4,3,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"336",7773,"Legacy Brewing Co.",1224818242,4.5,4,5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"337",7773,"Legacy Brewing Co.",1224601569,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"338",7773,"Legacy Brewing Co.",1224541836,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"339",7773,"Legacy Brewing Co.",1224498996,3.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"340",7773,"Legacy Brewing Co.",1224290451,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
-"341",7773,"Legacy Brewing Co.",1215742023,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Hoptimus Prime",9,31941
-"342",7773,"Legacy Brewing Co.",1224009181,3.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"343",7773,"Legacy Brewing Co.",1223746698,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"344",7773,"Legacy Brewing Co.",1223520560,5,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"345",7773,"Legacy Brewing Co.",1223429932,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"346",7773,"Legacy Brewing Co.",1223405299,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"347",7773,"Legacy Brewing Co.",1223350545,3.5,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"348",7773,"Legacy Brewing Co.",1223347924,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"349",7773,"Legacy Brewing Co.",1223272433,4.5,5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"350",7773,"Legacy Brewing Co.",1223132236,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"351",7773,"Legacy Brewing Co.",1222986852,5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"352",7773,"Legacy Brewing Co.",1222971479,4.5,3.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"353",7773,"Legacy Brewing Co.",1222966602,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"354",7773,"Legacy Brewing Co.",1222799664,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"355",7773,"Legacy Brewing Co.",1222748486,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"356",7773,"Legacy Brewing Co.",1222497701,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"357",7773,"Legacy Brewing Co.",1222384888,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"358",7773,"Legacy Brewing Co.",1222225966,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"359",7773,"Legacy Brewing Co.",1216313129,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"360",7773,"Legacy Brewing Co.",1222204278,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"361",7773,"Legacy Brewing Co.",1221475427,3,3,3.5,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
-"362",7773,"Legacy Brewing Co.",1221361011,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"363",7773,"Legacy Brewing Co.",1221348097,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"364",7773,"Legacy Brewing Co.",1221237336,3.5,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"365",7773,"Legacy Brewing Co.",1221158404,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"366",7773,"Legacy Brewing Co.",1221056295,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"367",7773,"Legacy Brewing Co.",1216242639,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"368",7773,"Legacy Brewing Co.",1220834088,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"369",7773,"Legacy Brewing Co.",1220807034,4,3.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"370",7773,"Legacy Brewing Co.",1220669066,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"371",7773,"Legacy Brewing Co.",1220477250,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"372",7773,"Legacy Brewing Co.",1220469559,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"373",7773,"Legacy Brewing Co.",1220450445,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"374",7773,"Legacy Brewing Co.",1220283502,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"375",7773,"Legacy Brewing Co.",1220048630,4.5,4,4,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
-"376",7773,"Legacy Brewing Co.",1219673476,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"377",7773,"Legacy Brewing Co.",1219602618,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"378",7773,"Legacy Brewing Co.",1219546296,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"379",7773,"Legacy Brewing Co.",1219540598,5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"380",7773,"Legacy Brewing Co.",1218999460,4,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"381",7773,"Legacy Brewing Co.",1218755094,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"382",7773,"Legacy Brewing Co.",1218666140,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"383",7773,"Legacy Brewing Co.",1218057571,4.5,3,3,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"384",7773,"Legacy Brewing Co.",1217816445,4,3.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"385",7773,"Legacy Brewing Co.",1217728488,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"386",7773,"Legacy Brewing Co.",1217299529,4,4,3,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"387",7773,"Legacy Brewing Co.",1217196556,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"388",7773,"Legacy Brewing Co.",1217108900,4,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"389",7773,"Legacy Brewing Co.",1216865031,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"390",7773,"Legacy Brewing Co.",1216679134,2.5,3,4,"American Double / Imperial IPA",4,2.5,"Hoptimus Prime",9,31941
-"391",7773,"Legacy Brewing Co.",1216594654,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"392",7773,"Legacy Brewing Co.",1216397064,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"393",7773,"Legacy Brewing Co.",1215736434,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"394",7773,"Legacy Brewing Co.",1215306166,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"395",7773,"Legacy Brewing Co.",1215050459,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"396",7773,"Legacy Brewing Co.",1214872664,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"397",7773,"Legacy Brewing Co.",1214869663,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"398",7773,"Legacy Brewing Co.",1214598200,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"399",7773,"Legacy Brewing Co.",1214592001,4,4.5,4,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
-"400",7773,"Legacy Brewing Co.",1214525543,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"401",7773,"Legacy Brewing Co.",1214260582,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"402",7773,"Legacy Brewing Co.",1214192324,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
-"403",7773,"Legacy Brewing Co.",1214153533,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"404",7773,"Legacy Brewing Co.",1213874195,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"405",7773,"Legacy Brewing Co.",1212621469,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"406",7773,"Legacy Brewing Co.",1212292029,3,3,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"407",7773,"Legacy Brewing Co.",1212261848,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"408",7773,"Legacy Brewing Co.",1211845220,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"409",7773,"Legacy Brewing Co.",1211820640,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"410",7773,"Legacy Brewing Co.",1211781536,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"411",7773,"Legacy Brewing Co.",1211398897,4.5,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"412",7773,"Legacy Brewing Co.",1161527724,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"413",7773,"Legacy Brewing Co.",1211249029,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"414",7773,"Legacy Brewing Co.",1211157437,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"415",7773,"Legacy Brewing Co.",1210830249,4.5,4,5,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
-"416",7773,"Legacy Brewing Co.",1210814292,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"417",7773,"Legacy Brewing Co.",1210724453,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"418",7773,"Legacy Brewing Co.",1266977719,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"419",7773,"Legacy Brewing Co.",1266631764,4,5,4,"American Double / Imperial IPA",4,5,"Hoptimus Prime",9,31941
-"420",7773,"Legacy Brewing Co.",1266278458,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"421",7773,"Legacy Brewing Co.",1159016499,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"422",7773,"Legacy Brewing Co.",1265428582,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"423",7773,"Legacy Brewing Co.",1264815651,5,3.5,2.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
-"424",7773,"Legacy Brewing Co.",1264522085,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"425",7773,"Legacy Brewing Co.",1264305402,4,3.5,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"426",7773,"Legacy Brewing Co.",1263678721,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"427",7773,"Legacy Brewing Co.",1263670772,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"428",7773,"Legacy Brewing Co.",1262800528,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"429",7773,"Legacy Brewing Co.",1210713489,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"430",7773,"Legacy Brewing Co.",1210639794,2.5,3.5,4.5,"American Double / Imperial IPA",2.5,3,"Hoptimus Prime",9,31941
-"431",7773,"Legacy Brewing Co.",1210604613,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"432",7773,"Legacy Brewing Co.",1210352196,4,4,3.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"433",7773,"Legacy Brewing Co.",1210187603,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"434",7773,"Legacy Brewing Co.",1209834956,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Hoptimus Prime",9,31941
-"435",7773,"Legacy Brewing Co.",1209655430,3.5,4.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"436",7773,"Legacy Brewing Co.",1207607596,4.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"437",7773,"Legacy Brewing Co.",1209423303,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"438",7773,"Legacy Brewing Co.",1209331048,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"439",7773,"Legacy Brewing Co.",1209330995,4,4.5,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"440",7773,"Legacy Brewing Co.",1209176606,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"441",7773,"Legacy Brewing Co.",1208037951,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"442",7773,"Legacy Brewing Co.",1207701715,3.5,3,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"443",7773,"Legacy Brewing Co.",1207668844,4.5,4.5,4,"American Double / Imperial IPA",5,4,"Hoptimus Prime",9,31941
-"444",7773,"Legacy Brewing Co.",1207621332,4,4,5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"445",7773,"Legacy Brewing Co.",1195088856,3.5,4,4,"American Double / Imperial IPA",3,3.5,"Hoptimus Prime",9,31941
-"446",7773,"Legacy Brewing Co.",1207439745,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"447",7773,"Legacy Brewing Co.",1207190059,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"448",7773,"Legacy Brewing Co.",1207170252,3,3,3,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"449",7773,"Legacy Brewing Co.",1207098809,3.5,3.5,5,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
-"450",7773,"Legacy Brewing Co.",1206514143,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"451",7773,"Legacy Brewing Co.",1206488963,5,4,5,"American Double / Imperial IPA",4,5,"Hoptimus Prime",9,31941
-"452",7773,"Legacy Brewing Co.",1206393523,4.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"453",7773,"Legacy Brewing Co.",1206102347,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"454",7773,"Legacy Brewing Co.",1205822304,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"455",7773,"Legacy Brewing Co.",1205815307,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"456",7773,"Legacy Brewing Co.",1205034051,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"457",7773,"Legacy Brewing Co.",1205029041,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"458",7773,"Legacy Brewing Co.",1204430463,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"459",7773,"Legacy Brewing Co.",1203895872,3,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"460",7773,"Legacy Brewing Co.",1203344306,4,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"461",7773,"Legacy Brewing Co.",1203125608,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
-"462",7773,"Legacy Brewing Co.",1201068064,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"463",7773,"Legacy Brewing Co.",1187050652,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"464",7773,"Legacy Brewing Co.",1186968248,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"465",7773,"Legacy Brewing Co.",1185635632,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"466",7773,"Legacy Brewing Co.",1178752147,3.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"467",7773,"Legacy Brewing Co.",1176693365,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"468",7773,"Legacy Brewing Co.",1174510471,3.5,3.5,3.5,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"469",7773,"Legacy Brewing Co.",1172214369,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"470",7773,"Legacy Brewing Co.",1163744573,3,3.5,3,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"471",7773,"Legacy Brewing Co.",1154142679,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"472",7773,"Legacy Brewing Co.",1262480532,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"473",7773,"Legacy Brewing Co.",1261938408,4,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"474",7773,"Legacy Brewing Co.",1261880928,4,4.5,4,"American Double / Imperial IPA",3,4,"Hoptimus Prime",9,31941
-"475",7773,"Legacy Brewing Co.",1261318155,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"476",7773,"Legacy Brewing Co.",1261080270,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"477",7773,"Legacy Brewing Co.",1260924755,4.5,4.5,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"478",7773,"Legacy Brewing Co.",1260304677,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"479",7773,"Legacy Brewing Co.",1260140457,4,2.5,4,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
-"480",7773,"Legacy Brewing Co.",1259292909,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"481",7773,"Legacy Brewing Co.",1258165153,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"482",7773,"Legacy Brewing Co.",1258151303,4,3,4,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"483",7773,"Legacy Brewing Co.",1258139187,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"484",7773,"Legacy Brewing Co.",1258081138,5,3,4,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
-"485",7773,"Legacy Brewing Co.",1257529698,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"486",7773,"Legacy Brewing Co.",1257385493,4.5,4,5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"487",7773,"Legacy Brewing Co.",1257303368,5,2.5,4,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"488",7773,"Legacy Brewing Co.",1257135993,4.5,4.5,3.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"489",7773,"Legacy Brewing Co.",1256595884,3.5,3,4,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"490",7773,"Legacy Brewing Co.",1255757830,4,3,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"491",7773,"Legacy Brewing Co.",1255558213,2.5,2.5,2.5,"American Double / Imperial IPA",2.5,2.5,"Hoptimus Prime",9,31941
-"492",7773,"Legacy Brewing Co.",1255393995,4,4,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"493",7773,"Legacy Brewing Co.",1254454041,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"494",7773,"Legacy Brewing Co.",1254349562,4.5,3,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"495",7773,"Legacy Brewing Co.",1254178669,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"496",7773,"Legacy Brewing Co.",1254092172,4.5,4,4,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
-"497",7773,"Legacy Brewing Co.",1253480512,4,3,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"498",7773,"Legacy Brewing Co.",1251871873,4,4,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"499",7773,"Legacy Brewing Co.",1251493027,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"500",7773,"Legacy Brewing Co.",1251070349,4,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"501",7773,"Legacy Brewing Co.",1249445194,4,3,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"502",7773,"Legacy Brewing Co.",1248823897,3,3.5,4,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"503",7773,"Legacy Brewing Co.",1248389902,3,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"504",7773,"Legacy Brewing Co.",1247343789,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
-"505",7773,"Legacy Brewing Co.",1247272270,4,2.5,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"506",7773,"Legacy Brewing Co.",1247018644,3.5,3.5,4.5,"American Double / Imperial IPA",2.5,3,"Hoptimus Prime",9,31941
-"507",7773,"Legacy Brewing Co.",1246667505,4,3,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"508",7773,"Legacy Brewing Co.",1246489974,4,3.5,4,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
-"509",7773,"Legacy Brewing Co.",1246316605,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"510",7773,"Legacy Brewing Co.",1246126723,4,4,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"511",7773,"Legacy Brewing Co.",1245979046,3.5,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"512",7773,"Legacy Brewing Co.",1244934411,4.5,2.5,4,"American Double / Imperial IPA",2.5,4,"Hoptimus Prime",9,31941
-"513",7773,"Legacy Brewing Co.",1243393375,3,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"514",7773,"Legacy Brewing Co.",1243379831,4.5,5,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"515",7773,"Legacy Brewing Co.",1243134817,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"516",7773,"Legacy Brewing Co.",1242845768,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"517",7773,"Legacy Brewing Co.",1242696455,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"518",7773,"Legacy Brewing Co.",1242684978,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"519",7773,"Legacy Brewing Co.",1242604052,4.5,3.5,4,"American Double / Imperial IPA",3,3.5,"Hoptimus Prime",9,31941
-"520",7773,"Legacy Brewing Co.",1242253247,4.5,2,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"521",7773,"Legacy Brewing Co.",1241465151,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"522",7773,"Legacy Brewing Co.",1241380750,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"523",7773,"Legacy Brewing Co.",1240882686,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"524",7773,"Legacy Brewing Co.",1240191777,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"525",7773,"Legacy Brewing Co.",1238626135,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"526",7773,"Legacy Brewing Co.",1237342988,4.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"527",7773,"Legacy Brewing Co.",1237259772,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"528",7773,"Legacy Brewing Co.",1236738079,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"529",7773,"Legacy Brewing Co.",1236440433,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"530",7773,"Legacy Brewing Co.",1236388171,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"531",7773,"Legacy Brewing Co.",1236032686,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"532",7773,"Legacy Brewing Co.",1235273422,4,4.5,5,"American Double / Imperial IPA",3,4.5,"Hoptimus Prime",9,31941
-"533",7773,"Legacy Brewing Co.",1231048484,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
-"534",7773,"Legacy Brewing Co.",1234540033,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"535",7773,"Legacy Brewing Co.",1234151181,4,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
-"536",7773,"Legacy Brewing Co.",1234069362,3.5,4,3.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
-"537",7773,"Legacy Brewing Co.",1233807731,4,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"538",7773,"Legacy Brewing Co.",1233712549,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"539",7773,"Legacy Brewing Co.",1233630322,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"540",7773,"Legacy Brewing Co.",1233475704,4.5,5,5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
-"541",7773,"Legacy Brewing Co.",1230070243,3,4.5,3.5,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
-"542",7773,"Legacy Brewing Co.",1233275595,4,3.5,3.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"543",7773,"Legacy Brewing Co.",1233135980,3.5,4,4,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
-"544",7773,"Legacy Brewing Co.",1233020383,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"545",7773,"Legacy Brewing Co.",1232681645,4.5,2,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"546",7773,"Legacy Brewing Co.",1232320619,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"547",7773,"Legacy Brewing Co.",1232071238,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
-"548",7773,"Legacy Brewing Co.",1232065421,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
-"549",7773,"Legacy Brewing Co.",1232038463,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
-"550",7773,"Legacy Brewing Co.",1229640268,5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
-"551",7773,"Legacy Brewing Co.",1200862849,2.5,2.5,3.5,"American Pale Ale (APA)",3,3,"Legacy Pale Ale",5.8,16654
-"552",7773,"Legacy Brewing Co.",1195245766,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Legacy Pale Ale",5.8,16654
-"553",7773,"Legacy Brewing Co.",1195043345,4,4,3.5,"American Pale Ale (APA)",3,4,"Legacy Pale Ale",5.8,16654
-"554",7773,"Legacy Brewing Co.",1086622831,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Legacy Pale Ale",5.8,16654
-"555",7773,"Legacy Brewing Co.",1079790974,3,3.5,4,"American Pale Ale (APA)",2.5,3,"Legacy Pale Ale",5.8,16654
-"556",7773,"Legacy Brewing Co.",1237237048,4,3.5,3.5,"Altbier",4,4.5,"Brown Aled Girl",NA,32815
-"557",7773,"Legacy Brewing Co.",1234734384,4,3.5,4,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
-"558",7773,"Legacy Brewing Co.",1202602434,3,3.5,3.5,"Altbier",3,3,"Brown Aled Girl",NA,32815
-"559",7773,"Legacy Brewing Co.",1192976453,3.5,3,3.5,"Altbier",3,3,"Brown Aled Girl",NA,32815
-"560",7773,"Legacy Brewing Co.",1225328548,3,4,3,"Tripel",3,3,"Euphoria",9,16906
-"561",7773,"Legacy Brewing Co.",1182011653,4,3.5,4,"Altbier",4,3.5,"Brown Aled Girl",NA,32815
-"562",7773,"Legacy Brewing Co.",1173758469,3.5,4,4,"Altbier",4,3,"Brown Aled Girl",NA,32815
-"563",7773,"Legacy Brewing Co.",1172051875,4.5,3.5,4,"Altbier",4,4,"Brown Aled Girl",NA,32815
-"564",7773,"Legacy Brewing Co.",1171151612,4,3.5,4.5,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
-"565",7773,"Legacy Brewing Co.",1158617727,4,3.5,3.5,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
-"566",7773,"Legacy Brewing Co.",1208109486,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
-"567",7773,"Legacy Brewing Co.",1190919832,4.5,4,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
-"568",7773,"Legacy Brewing Co.",1174943941,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Fantasy",9.5,34924
-"569",7773,"Legacy Brewing Co.",1172052977,4.5,3,4,"Belgian Strong Pale Ale",3.5,4,"Fantasy",9.5,34924
-"570",7773,"Legacy Brewing Co.",1171343576,5,4.5,5,"Belgian Strong Pale Ale",4.5,4.5,"Fantasy",9.5,34924
-"571",7773,"Legacy Brewing Co.",1171216862,4,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Fantasy",9.5,34924
-"572",7773,"Legacy Brewing Co.",1170035484,4,4,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
-"573",7773,"Legacy Brewing Co.",1265405141,3,3.5,4,"Tripel",4,3.5,"Euphoria",9,16906
-"574",7773,"Legacy Brewing Co.",1256958581,4,3.5,4,"Tripel",4.5,3.5,"Euphoria",9,16906
-"575",7773,"Legacy Brewing Co.",1255665378,4,3.5,4,"Tripel",4,4,"Euphoria",9,16906
-"576",7773,"Legacy Brewing Co.",1248632683,5,4.5,4.5,"Tripel",4.5,4.5,"Euphoria",9,16906
-"577",7773,"Legacy Brewing Co.",1247715011,3.5,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
-"578",7773,"Legacy Brewing Co.",1241545278,3,3.5,3,"Tripel",3,3,"Euphoria",9,16906
-"579",7773,"Legacy Brewing Co.",1237851995,3.5,2.5,2,"Tripel",4,3,"Euphoria",9,16906
-"580",7773,"Legacy Brewing Co.",1234127272,4,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
-"581",7773,"Legacy Brewing Co.",1224183769,3.5,4.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
-"582",7773,"Legacy Brewing Co.",1223684465,3.5,3.5,3,"Tripel",3.5,3.5,"Euphoria",9,16906
-"583",7773,"Legacy Brewing Co.",1234126531,4,3.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
-"584",7773,"Legacy Brewing Co.",1233438167,4,4.5,4,"Tripel",3.5,4,"Euphoria",9,16906
-"585",7773,"Legacy Brewing Co.",1232057279,2.5,2.5,3,"Tripel",3,2,"Euphoria",9,16906
-"586",7773,"Legacy Brewing Co.",1230407794,3.5,3.5,4,"Tripel",4,3.5,"Euphoria",9,16906
-"587",7773,"Legacy Brewing Co.",1229694234,3.5,3.5,4,"Tripel",2.5,3.5,"Euphoria",9,16906
-"588",7773,"Legacy Brewing Co.",1229631069,4,3.5,4,"Tripel",4,4,"Euphoria",9,16906
-"589",7773,"Legacy Brewing Co.",1229045228,3.5,2.5,2.5,"Tripel",2.5,2,"Euphoria",9,16906
-"590",7773,"Legacy Brewing Co.",1226973167,3,4,3,"Tripel",3,2.5,"Euphoria",9,16906
-"591",7773,"Legacy Brewing Co.",1226258663,2.5,3,2.5,"Tripel",2.5,2.5,"Euphoria",9,16906
-"592",7773,"Legacy Brewing Co.",1226183443,4,4,4,"Tripel",4,4,"Euphoria",9,16906
-"593",7773,"Legacy Brewing Co.",1220993539,4,3.5,2.5,"Tripel",3,4,"Euphoria",9,16906
-"594",7773,"Legacy Brewing Co.",1220709849,3,3,3.5,"Tripel",4,2.5,"Euphoria",9,16906
-"595",7773,"Legacy Brewing Co.",1220668591,4,3.5,4,"Tripel",3.5,4,"Euphoria",9,16906
-"596",7773,"Legacy Brewing Co.",1219010864,4,4,3,"Tripel",4,4,"Euphoria",9,16906
-"597",7773,"Legacy Brewing Co.",1218908620,4,4,4,"Tripel",4,4,"Euphoria",9,16906
-"598",7773,"Legacy Brewing Co.",1218150613,4,4,3.5,"Tripel",3.5,4,"Euphoria",9,16906
-"599",7773,"Legacy Brewing Co.",1217726545,3.5,2.5,3.5,"Tripel",4,3,"Euphoria",9,16906
-"600",7773,"Legacy Brewing Co.",1217122379,4.5,4,4.5,"Tripel",4,4,"Euphoria",9,16906
-"601",7773,"Legacy Brewing Co.",1216619568,4,4,4,"Tripel",3.5,4,"Euphoria",9,16906
-"602",7773,"Legacy Brewing Co.",1216594553,3.5,3.5,4,"Tripel",4,4,"Euphoria",9,16906
-"603",7773,"Legacy Brewing Co.",1215016555,4,4.5,3,"Tripel",3,4,"Euphoria",9,16906
-"604",7773,"Legacy Brewing Co.",1214696853,3.5,4,3.5,"Tripel",3.5,3.5,"Euphoria",9,16906
-"605",7773,"Legacy Brewing Co.",1214695331,4,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
-"606",7773,"Legacy Brewing Co.",1214269410,4,4.5,3.5,"Tripel",4,4.5,"Euphoria",9,16906
-"607",7773,"Legacy Brewing Co.",1214172848,3.5,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
-"608",7773,"Legacy Brewing Co.",1213508611,3,4,4,"Tripel",4,3,"Euphoria",9,16906
-"609",7773,"Legacy Brewing Co.",1212010112,3.5,3.5,4,"Tripel",3,4,"Euphoria",9,16906
-"610",7773,"Legacy Brewing Co.",1209768298,3,3.5,3,"Tripel",3.5,3,"Euphoria",9,16906
-"611",7773,"Legacy Brewing Co.",1209069202,4.5,4,3.5,"Tripel",4,4,"Euphoria",9,16906
-"612",7773,"Legacy Brewing Co.",1208145616,4,3,3.5,"Tripel",4,4,"Euphoria",9,16906
-"613",7773,"Legacy Brewing Co.",1207011630,4,4,3.5,"Tripel",4.5,4,"Euphoria",9,16906
-"614",7773,"Legacy Brewing Co.",1206842126,4,4.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
-"615",7773,"Legacy Brewing Co.",1205106846,4,3.5,4,"Tripel",3.5,4,"Euphoria",9,16906
-"616",7773,"Legacy Brewing Co.",1176359416,4.5,4,4,"Tripel",4,4,"Euphoria",9,16906
-"617",7773,"Legacy Brewing Co.",1175998912,4.5,5,4.5,"Tripel",5,5,"Euphoria",9,16906
-"618",7773,"Legacy Brewing Co.",1171805914,3,3,3,"Tripel",3,2.5,"Euphoria",9,16906
-"619",7773,"Legacy Brewing Co.",1163523863,4,3,3.5,"Tripel",4.5,4,"Euphoria",9,16906
-"620",7773,"Legacy Brewing Co.",1159563832,4,4,4.5,"Tripel",4,4,"Euphoria",9,16906
-"621",7773,"Legacy Brewing Co.",1158791646,4.5,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
-"622",7773,"Legacy Brewing Co.",1154102392,4,4,4,"Tripel",4.5,4,"Euphoria",9,16906
-"623",7773,"Legacy Brewing Co.",1153772341,4,4,4,"Tripel",4.5,4,"Euphoria",9,16906
-"624",7773,"Legacy Brewing Co.",1148662310,4.5,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
-"625",7773,"Legacy Brewing Co.",1140926139,4.5,4,4,"Tripel",4,4.5,"Euphoria",9,16906
-"626",7773,"Legacy Brewing Co.",1133638380,4,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
-"627",7773,"Legacy Brewing Co.",1129421487,4,4.5,4.5,"Tripel",4,4,"Euphoria",9,16906
-"628",7773,"Legacy Brewing Co.",1125503203,2,3,4.5,"Tripel",4,2.5,"Euphoria",9,16906
-"629",7773,"Legacy Brewing Co.",1105372471,4,4,4,"Tripel",4,4,"Euphoria",9,16906
-"630",7773,"Legacy Brewing Co.",1104176550,4,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
-"631",7773,"Legacy Brewing Co.",1081397122,3.5,4,3,"Tripel",3.5,3.5,"Euphoria",9,16906
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+7773,"Legacy Brewing Co.",1229789094,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223433055,3.5,3,3.5,"Tripel",3.5,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1223167707,3.5,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1216356767,4,4.5,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1201054163,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1166983228,4,4,4,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1161528401,3.5,3,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1253513953,4.5,3.5,3.5,"American Amber / Red Lager",3.5,4,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1252548350,3.5,3.5,3.5,"American Amber / Red Lager",3,4,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1248479636,3.5,3,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1246632456,3.5,3.5,3,"American Amber / Red Lager",3.5,3,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1244510847,2,2.5,2.5,"American Amber / Red Lager",2.5,2.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1207782235,4,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1080915521,4.5,4.5,4,"Tripel",4.5,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1175397535,4,4,3,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1142239180,4,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1142033867,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1141185797,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1140138860,4,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1244164291,1.5,3,4,"Oatmeal Stout",1.5,2,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1243730929,4,4.5,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1268453219,3.5,4,4.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1266097492,3.5,3.5,4.5,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1264976526,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1264385097,3,3.5,4,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1260412457,3.5,4,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1260268816,4,4,4,"Oatmeal Stout",5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1260060190,4,4,4.5,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1245384366,3,3.5,2,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1243729108,3.5,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1238713479,3,3.5,3.5,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1238710344,3.5,3.5,4,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1237756451,4,4,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1237083827,3.5,4,4.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1233533460,4,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1231024446,3.5,3.5,4,"Oatmeal Stout",4,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1230903398,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1230134438,3.5,4,3.5,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1227907925,3.5,3.5,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1225501437,3.5,3.5,4,"Oatmeal Stout",3,3,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1223486453,3.5,4,4,"Oatmeal Stout",4,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1222039395,4,4,4,"Oatmeal Stout",2,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1217197321,3.5,4,4,"Oatmeal Stout",3.5,3,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1216594196,4.5,4,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1215642949,4,4,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1212638065,3.5,4,3,"Oatmeal Stout",3,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1212600769,3,3,4,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1209051358,3.5,3.5,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1205170007,3.5,4,5,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1202868712,4.5,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1201291760,4,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1173786514,4,3.5,3.5,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1169265833,3.5,4,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1169113278,4.5,3.5,4,"Oatmeal Stout",4.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1166892745,3.5,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1164467088,4,4,4.5,"Oatmeal Stout",3.5,3.5,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1163964508,3.5,3.5,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1138821305,4,3.5,4.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1136827333,4,4,3.5,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1075473899,4,3.5,4,"Oatmeal Stout",4,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1074378421,4,3.5,4,"Oatmeal Stout",3.5,4,"Nor Easter",7.2,15439
+7773,"Legacy Brewing Co.",1194189426,1.5,1.5,2,"Lambic - Fruit",1.5,1,"Kriek",NA,39466
+7773,"Legacy Brewing Co.",1256573165,1.5,3,3.5,"Dubbel",2,1.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1253116119,3,3.5,3.5,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1252714024,2.5,3,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1250032273,3.5,3,3.5,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1249157284,4,4,3.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1244226216,3,3,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1243211350,4,3.5,3.5,"Dubbel",3.5,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1242321741,2,3.5,3.5,"Dubbel",3.5,2,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1241372425,4,4,4.5,"Dubbel",3.5,4.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1239058547,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1235844707,3,3.5,4,"Dubbel",3,2.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1235262526,4,3.5,4,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1233795272,3,4,3,"Dubbel",3,3,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1233265866,4,4,4.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1229626128,3.5,3.5,3.5,"Dubbel",3.5,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1227147073,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1223773100,4,4.5,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1222060293,4,4,3.5,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1221434730,3.5,3.5,4,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1220709499,4,4,4,"Dubbel",4,4,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1216597111,4,4,3.5,"Dubbel",4,3.5,"Dear Abbey Dubbel",7.5,43859
+7773,"Legacy Brewing Co.",1205440570,5,5,5,"German Pilsener",4,4,"Reading Pils",4.9,23987
+7773,"Legacy Brewing Co.",1180987134,5,4,4,"German Pilsener",4,4.5,"Reading Pils",4.9,23987
+7773,"Legacy Brewing Co.",1172050793,4,3.5,4,"German Pilsener",3,3.5,"Reading Pils",4.9,23987
+7773,"Legacy Brewing Co.",1134307621,4.5,4,4.5,"German Pilsener",4,4,"Reading Pils",4.9,23987
+7773,"Legacy Brewing Co.",1117377714,4.5,4.5,4,"German Pilsener",4,4.5,"Reading Pils",4.9,23987
+7773,"Legacy Brewing Co.",1178425292,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1177632444,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1176776869,4,4,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1176730762,3,3,3.5,"American Amber / Red Ale",4,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1176504247,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1176145269,3.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1175896470,2.5,3.5,3.5,"American Amber / Red Ale",2,2,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1174944926,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1174773843,4,4,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1174527447,3.5,3,4,"American Amber / Red Ale",2,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1174168613,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1174106760,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1172008100,3.5,4.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1171497616,3,3,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1169523540,4,3,3,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1169129674,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1168786939,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1168352379,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1168193028,4.5,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1168142905,3.5,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1167791001,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1166892177,4,3.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1166577842,4.5,3.5,4,"American Amber / Red Ale",3.5,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1166436177,4,4.5,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1216011586,4,4.5,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1165198796,3.5,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1164902718,4,3.5,3,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1163964347,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1161477216,4,4,2.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1160959289,3.5,3,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1160787874,5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1160692722,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1159487175,4,3.5,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1158089719,2.5,3.5,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1156911032,3.5,4,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1156626694,3.5,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1152579776,4,4.5,4.5,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1151996750,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1151346487,3.5,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1150959373,4,4,2.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1150127771,3,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1149910474,3,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1148387560,3,3,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1188776328,4,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1148146816,3.5,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1148135755,3.5,4.5,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1147989994,2.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1147919075,4,4,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1144000726,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1142823485,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1142813751,4,3.5,3,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1188359750,3.5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1139799522,3.5,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1139128061,3.5,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1138045044,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1137216983,3,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1135216986,4,4,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1134900768,4.5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1134850307,4,3.5,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1134671232,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1267140992,3,3.5,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1134093200,4.5,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1129420724,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1125404311,4.5,4,3.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1120509163,4,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1118938723,5,4.5,4.5,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1110734308,4.5,4.5,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1284409882,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1261969243,3.5,4,3.5,"American Amber / Red Ale",3,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1261772464,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1261199537,1.5,3.5,4.5,"American Amber / Red Ale",1,1,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1257724345,3.5,3,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1252789501,4,3,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1251951563,3.5,3.5,3.5,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1251675541,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1251604991,4,3.5,3.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1250293693,3.5,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1248055680,4,3.5,4,"American Amber / Red Ale",4.5,5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1242224447,4,4,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1241310846,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1240842082,3.5,3.5,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1240009690,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1238463336,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1237501793,4,4,4,"American Amber / Red Ale",4.5,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1237342875,3.5,3,4.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1235709979,3.5,3.5,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1235347631,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1234425842,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1222302684,4.5,4,3.5,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1231120945,3.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1230738190,4,3.5,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1229972572,3,4,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1229714091,4,4,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1229314636,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1228830563,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1227992584,3,3,3.5,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1227215685,4,3.5,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1226544404,3.5,4,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1221350918,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1226461116,4,4,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1226279215,3.5,4,3.5,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1225584803,3,3,3,"American Amber / Red Ale",2.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1224813073,4,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1224555489,2,4,4,"American Amber / Red Ale",3,2,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1224091889,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1223603673,3.5,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1223012669,4.5,3.5,3.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1222972246,3.5,3.5,4,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1222551660,4,3.5,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1222533762,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1221014682,2.5,3,2.5,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1220914690,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1220136595,3.5,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1219530866,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1216594329,4.5,3,3.5,"American Amber / Red Ale",3.5,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1215993676,4,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1214112167,3,3,3,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1213296658,4.5,4,4,"American Amber / Red Ale",4.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1212431448,4,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1211669203,4.5,4,3.5,"American Amber / Red Ale",3,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1210899608,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1209228774,3,3.5,4,"American Amber / Red Ale",3,3,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1197770415,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1208216696,3.5,3.5,4.5,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1207784434,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1206306243,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1205630534,4,3.5,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1205622591,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1202447200,4,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1201392052,4.5,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1200363715,4.5,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1200269139,3.5,3.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1199931291,3.5,3.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1196739205,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1196635110,2.5,3,3,"American Amber / Red Ale",3,2.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1194816251,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1194569961,4,4.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1193359371,3,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1192903483,4,4,4,"American Amber / Red Ale",4,4.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1192398822,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1191885735,4,4,5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1191477395,3.5,3.5,4,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1189277340,2,2.5,3,"American Amber / Red Ale",2,2.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1209076920,3.5,3,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1186977881,3,4.5,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1186806894,4,4,4,"American Amber / Red Ale",3.5,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1186465154,3.5,3.5,3.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1183289548,4,4,4,"American Amber / Red Ale",3.5,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1182630956,4,4.5,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1182124472,3.5,4,4.5,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1181065955,4,3.5,4.5,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1180898916,4,4,4,"American Amber / Red Ale",4,4,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1180670480,3.5,3,3.5,"American Amber / Red Ale",3,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1180484769,4,3,4,"American Amber / Red Ale",4,3.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1179368238,1.5,2.5,3,"American Amber / Red Ale",2,2.5,"Hedonism Ale",7.1,22502
+7773,"Legacy Brewing Co.",1182659162,3.5,3,3.5,"American IPA",3.5,3.5,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1177036025,3,3.5,4,"American IPA",3,3.5,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1153770187,4,3.5,3.5,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1121889750,4,3,4,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1115657951,4,3.5,4,"American IPA",4,4,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1110128104,4,4,4,"American IPA",3.5,4,"Heavy Handed Hops",NA,22407
+7773,"Legacy Brewing Co.",1258224261,2.5,3,4,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1256609137,2.5,4,4,"Witbier",3,2,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1249442900,3.5,3.5,3.5,"Witbier",4,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1248584036,4,3.5,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1244650452,3.5,3,2.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1241060403,4,3.5,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1239396493,4,4.5,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1233969996,3.5,4,3.5,"Witbier",3,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1229628941,3.5,3,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1226279569,4,3,3,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1226202597,3.5,4,3,"Witbier",4,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1216594440,4,4,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1213322087,4,4,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1213153630,3.5,3,3,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1212632597,3,2.5,3,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1212107985,3,3,4,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1211589736,3,3,3,"Witbier",3,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1208209786,4.5,3.5,3,"Witbier",3,2.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1207021937,4,3,3.5,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1207011867,4,3.5,4,"Witbier",4,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1206934609,4,3.5,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1205699663,3.5,4.5,3,"Witbier",4,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1203223756,4,3.5,3,"Witbier",3,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1202625351,3,3,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1198541532,2.5,3,2.5,"Witbier",2.5,2,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1194547546,3.5,4,4.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1192848718,4,4,4,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1189561904,4,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1215915412,4,4,3.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1189027072,3,3.5,3.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1188012918,4,4,3.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1186541605,3,3.5,4,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1186154426,5,5,4.5,"Witbier",4.5,5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1184019053,3.5,2.5,3.5,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1181179197,4,3,2.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1179598394,3.5,3.5,3,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1178071785,4.5,4,3,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1176647957,3,3,3.5,"Witbier",3,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1176503475,3.5,3.5,3.5,"Witbier",3,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1176398450,4.5,3.5,4,"Witbier",3,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1175787604,5,4,3.5,"Witbier",4.5,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1175660136,4,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1175487119,4.5,4,4.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1175452464,4,3,3.5,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1174432553,4,4,4,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1174105365,3.5,3.5,4,"Witbier",4,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1173376196,3.5,3.5,3,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1172200667,4.5,3.5,3.5,"Witbier",4.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1171163002,3.5,3.5,2.5,"Witbier",3.5,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1170548419,4,3,4,"Witbier",4,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1170547557,3,3.5,3,"Witbier",3,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1167099551,3.5,3.5,4,"Witbier",3.5,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1156011056,4.5,3,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1154300236,4.5,4,3.5,"Witbier",4,4,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1153756479,4,4,4,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1152496268,5,3.5,4.5,"Witbier",5,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1150682995,4,4,4,"Witbier",4,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1150132551,4.5,4,4,"Witbier",4.5,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1150002225,4.5,4,3.5,"Witbier",4,4.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1149123502,3,4,4,"Witbier",3,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1147987399,4,3.5,3.5,"Witbier",4,3,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1142543924,3.5,3.5,2.5,"Witbier",3.5,3.5,"Midnight Wit",4.9,29016
+7773,"Legacy Brewing Co.",1256768245,3.5,3.5,3.5,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1241706908,2,3,4,"American Amber / Red Lager",2.5,2,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1239840542,2.5,3.5,2,"American Amber / Red Lager",2,2.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1218944502,4,3.5,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1218845349,4,3.5,4,"American Amber / Red Lager",3.5,4,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1216343058,3.5,3.5,4,"American Amber / Red Lager",3.5,3.5,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1216273498,3,3,3,"American Amber / Red Lager",3,3,"Fat Boy",5.2,43787
+7773,"Legacy Brewing Co.",1229564465,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1229401534,4,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1229350780,4.5,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216348516,4,5,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1229317869,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1229280040,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1228951435,3,4,4,"American Double / Imperial IPA",2,2,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1228692574,2,4.5,3,"American Double / Imperial IPA",2,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1228665660,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1228046941,4.5,3.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1227498692,4,3.5,4.5,"American Double / Imperial IPA",3,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1227157288,4.5,3,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1226534027,4.5,4,5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1215863620,4,3,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1226393345,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1226371402,3.5,3,3,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1226286776,4,3,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224818242,4.5,4,5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224601569,5,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224541836,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224498996,3.5,4.5,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224290451,5,5,4.5,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1215742023,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1224009181,3.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223746698,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223520560,5,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223429932,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223405299,3.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223350545,3.5,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223347924,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223272433,4.5,5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1223132236,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222986852,5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222971479,4.5,3.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222966602,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222799664,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222748486,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222497701,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222384888,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222225966,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216313129,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1222204278,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221475427,3,3,3.5,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221361011,4,4.5,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221348097,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221237336,3.5,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221158404,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1221056295,3.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216242639,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220834088,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220807034,4,3.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220669066,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220477250,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220469559,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220450445,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220283502,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1220048630,4.5,4,4,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1219673476,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1219602618,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1219546296,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1219540598,5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1218999460,4,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1218755094,3.5,3.5,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1218666140,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1218057571,4.5,3,3,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1217816445,4,3.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1217728488,4,3.5,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1217299529,4,4,3,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1217196556,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1217108900,4,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216865031,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216679134,2.5,3,4,"American Double / Imperial IPA",4,2.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216594654,3.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1216397064,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1215736434,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1215306166,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1215050459,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214872664,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214869663,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214598200,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214592001,4,4.5,4,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214525543,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214260582,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214192324,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1214153533,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1213874195,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1212621469,4,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1212292029,3,3,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1212261848,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211845220,5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211820640,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211781536,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211398897,4.5,4,4.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1161527724,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211249029,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1211157437,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210830249,4.5,4,5,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210814292,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210724453,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1266977719,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1266631764,4,5,4,"American Double / Imperial IPA",4,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1266278458,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1159016499,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1265428582,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1264815651,5,3.5,2.5,"American Double / Imperial IPA",5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1264522085,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1264305402,4,3.5,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1263678721,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1263670772,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1262800528,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210713489,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210639794,2.5,3.5,4.5,"American Double / Imperial IPA",2.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210604613,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210352196,4,4,3.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1210187603,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209834956,5,4.5,4.5,"American Double / Imperial IPA",5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209655430,3.5,4.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207607596,4.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209423303,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209331048,4.5,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209330995,4,4.5,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1209176606,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1208037951,4.5,4,4.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207701715,3.5,3,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207668844,4.5,4.5,4,"American Double / Imperial IPA",5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207621332,4,4,5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1195088856,3.5,4,4,"American Double / Imperial IPA",3,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207439745,4.5,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207190059,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207170252,3,3,3,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1207098809,3.5,3.5,5,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1206514143,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1206488963,5,4,5,"American Double / Imperial IPA",4,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1206393523,4.5,4,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1206102347,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1205822304,4,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1205815307,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1205034051,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1205029041,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1204430463,3.5,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1203895872,3,4,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1203344306,4,4,4.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1203125608,4.5,5,4,"American Double / Imperial IPA",4.5,5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1201068064,4.5,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1187050652,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1186968248,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1185635632,4,4.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1178752147,3.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1176693365,3.5,3.5,4.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1174510471,3.5,3.5,3.5,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1172214369,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1163744573,3,3.5,3,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1154142679,4,4.5,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1262480532,4.5,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1261938408,4,4,3.5,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1261880928,4,4.5,4,"American Double / Imperial IPA",3,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1261318155,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1261080270,4.5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1260924755,4.5,4.5,3.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1260304677,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1260140457,4,2.5,4,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1259292909,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1258165153,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1258151303,4,3,4,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1258139187,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1258081138,5,3,4,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1257529698,4,3.5,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1257385493,4.5,4,5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1257303368,5,2.5,4,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1257135993,4.5,4.5,3.5,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1256595884,3.5,3,4,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1255757830,4,3,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1255558213,2.5,2.5,2.5,"American Double / Imperial IPA",2.5,2.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1255393995,4,4,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1254454041,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1254349562,4.5,3,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1254178669,4,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1254092172,4.5,4,4,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1253480512,4,3,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1251871873,4,4,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1251493027,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1251070349,4,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1249445194,4,3,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1248823897,3,3.5,4,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1248389902,3,4,3.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1247343789,3.5,4,4,"American Double / Imperial IPA",3.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1247272270,4,2.5,4.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1247018644,3.5,3.5,4.5,"American Double / Imperial IPA",2.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1246667505,4,3,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1246489974,4,3.5,4,"American Double / Imperial IPA",4,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1246316605,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1246126723,4,4,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1245979046,3.5,3.5,3.5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1244934411,4.5,2.5,4,"American Double / Imperial IPA",2.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1243393375,3,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1243379831,4.5,5,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1243134817,4.5,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1242845768,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1242696455,4.5,4,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1242684978,4,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1242604052,4.5,3.5,4,"American Double / Imperial IPA",3,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1242253247,4.5,2,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1241465151,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1241380750,3.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1240882686,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1240191777,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1238626135,4,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1237342988,4.5,3.5,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1237259772,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1236738079,3.5,3.5,4,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1236440433,4,4.5,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1236388171,4,4,4,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1236032686,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1235273422,4,4.5,5,"American Double / Imperial IPA",3,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1231048484,4.5,4,4,"American Double / Imperial IPA",4.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1234540033,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1234151181,4,4,4.5,"American Double / Imperial IPA",3.5,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1234069362,3.5,4,3.5,"American Double / Imperial IPA",3.5,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233807731,4,4,4.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233712549,4.5,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233630322,4.5,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233475704,4.5,5,5,"American Double / Imperial IPA",4,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1230070243,3,4.5,3.5,"American Double / Imperial IPA",3,3,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233275595,4,3.5,3.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233135980,3.5,4,4,"American Double / Imperial IPA",4.5,3.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1233020383,4,4,4,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1232681645,4.5,2,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1232320619,4.5,4,4,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1232071238,4,4,3.5,"American Double / Imperial IPA",3.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1232065421,4,4,4.5,"American Double / Imperial IPA",4,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1232038463,4,4,4.5,"American Double / Imperial IPA",4.5,4,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1229640268,5,4,4,"American Double / Imperial IPA",4,4.5,"Hoptimus Prime",9,31941
+7773,"Legacy Brewing Co.",1200862849,2.5,2.5,3.5,"American Pale Ale (APA)",3,3,"Legacy Pale Ale",5.8,16654
+7773,"Legacy Brewing Co.",1195245766,4.5,4,3.5,"American Pale Ale (APA)",4,4,"Legacy Pale Ale",5.8,16654
+7773,"Legacy Brewing Co.",1195043345,4,4,3.5,"American Pale Ale (APA)",3,4,"Legacy Pale Ale",5.8,16654
+7773,"Legacy Brewing Co.",1086622831,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Legacy Pale Ale",5.8,16654
+7773,"Legacy Brewing Co.",1079790974,3,3.5,4,"American Pale Ale (APA)",2.5,3,"Legacy Pale Ale",5.8,16654
+7773,"Legacy Brewing Co.",1237237048,4,3.5,3.5,"Altbier",4,4.5,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1234734384,4,3.5,4,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1202602434,3,3.5,3.5,"Altbier",3,3,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1192976453,3.5,3,3.5,"Altbier",3,3,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1225328548,3,4,3,"Tripel",3,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1182011653,4,3.5,4,"Altbier",4,3.5,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1173758469,3.5,4,4,"Altbier",4,3,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1172051875,4.5,3.5,4,"Altbier",4,4,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1171151612,4,3.5,4.5,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1158617727,4,3.5,3.5,"Altbier",3.5,3.5,"Brown Aled Girl",NA,32815
+7773,"Legacy Brewing Co.",1208109486,4,4.5,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1190919832,4.5,4,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1174943941,3.5,3.5,3.5,"Belgian Strong Pale Ale",3,3.5,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1172052977,4.5,3,4,"Belgian Strong Pale Ale",3.5,4,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1171343576,5,4.5,5,"Belgian Strong Pale Ale",4.5,4.5,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1171216862,4,3.5,3,"Belgian Strong Pale Ale",3.5,3.5,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1170035484,4,4,4,"Belgian Strong Pale Ale",4,4,"Fantasy",9.5,34924
+7773,"Legacy Brewing Co.",1265405141,3,3.5,4,"Tripel",4,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1256958581,4,3.5,4,"Tripel",4.5,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1255665378,4,3.5,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1248632683,5,4.5,4.5,"Tripel",4.5,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1247715011,3.5,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1241545278,3,3.5,3,"Tripel",3,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1237851995,3.5,2.5,2,"Tripel",4,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1234127272,4,3.5,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1224183769,3.5,4.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1223684465,3.5,3.5,3,"Tripel",3.5,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1234126531,4,3.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1233438167,4,4.5,4,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1232057279,2.5,2.5,3,"Tripel",3,2,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1230407794,3.5,3.5,4,"Tripel",4,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1229694234,3.5,3.5,4,"Tripel",2.5,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1229631069,4,3.5,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1229045228,3.5,2.5,2.5,"Tripel",2.5,2,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1226973167,3,4,3,"Tripel",3,2.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1226258663,2.5,3,2.5,"Tripel",2.5,2.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1226183443,4,4,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1220993539,4,3.5,2.5,"Tripel",3,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1220709849,3,3,3.5,"Tripel",4,2.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1220668591,4,3.5,4,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1219010864,4,4,3,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1218908620,4,4,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1218150613,4,4,3.5,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1217726545,3.5,2.5,3.5,"Tripel",4,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1217122379,4.5,4,4.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1216619568,4,4,4,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1216594553,3.5,3.5,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1215016555,4,4.5,3,"Tripel",3,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1214696853,3.5,4,3.5,"Tripel",3.5,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1214695331,4,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1214269410,4,4.5,3.5,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1214172848,3.5,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1213508611,3,4,4,"Tripel",4,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1212010112,3.5,3.5,4,"Tripel",3,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1209768298,3,3.5,3,"Tripel",3.5,3,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1209069202,4.5,4,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1208145616,4,3,3.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1207011630,4,4,3.5,"Tripel",4.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1206842126,4,4.5,3.5,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1205106846,4,3.5,4,"Tripel",3.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1176359416,4.5,4,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1175998912,4.5,5,4.5,"Tripel",5,5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1171805914,3,3,3,"Tripel",3,2.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1163523863,4,3,3.5,"Tripel",4.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1159563832,4,4,4.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1158791646,4.5,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1154102392,4,4,4,"Tripel",4.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1153772341,4,4,4,"Tripel",4.5,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1148662310,4.5,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1140926139,4.5,4,4,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1133638380,4,4.5,4,"Tripel",4,4.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1129421487,4,4.5,4.5,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1125503203,2,3,4.5,"Tripel",4,2.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1105372471,4,4,4,"Tripel",4,4,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1104176550,4,3.5,3.5,"Tripel",4,3.5,"Euphoria",9,16906
+7773,"Legacy Brewing Co.",1081397122,3.5,4,3,"Tripel",3.5,3.5,"Euphoria",9,16906

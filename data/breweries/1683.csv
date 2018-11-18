@@ -1,784 +1,784 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",1683,"Santa Fe Brewing Company",1299891497,3.5,2.5,3.5,"American Wild Ale",2.5,3,"Wild Ale #3",NA,59483
-"2",1683,"Santa Fe Brewing Company",1309841542,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"3",1683,"Santa Fe Brewing Company",1159115758,4.5,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"4",1683,"Santa Fe Brewing Company",1158215730,2,3.5,2.5,"English Brown Ale",2,2.5,"Nut Brown Ale",5.2,4792
-"5",1683,"Santa Fe Brewing Company",1155870500,3.5,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"6",1683,"Santa Fe Brewing Company",1309822222,2.5,2.5,4,"English Brown Ale",3.5,2.5,"Nut Brown Ale",5.2,4792
-"7",1683,"Santa Fe Brewing Company",1151371368,3,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"8",1683,"Santa Fe Brewing Company",1147863582,3,4,4,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
-"9",1683,"Santa Fe Brewing Company",1052826561,3,3,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"10",1683,"Santa Fe Brewing Company",1324700371,3.5,3,3.5,"English Brown Ale",4,3,"Nut Brown Ale",5.2,4792
-"11",1683,"Santa Fe Brewing Company",1322450313,2,4,4,"English Brown Ale",2,4,"Nut Brown Ale",5.2,4792
-"12",1683,"Santa Fe Brewing Company",1320717315,3.5,3.5,3.5,"English Brown Ale",2.5,3.5,"Nut Brown Ale",5.2,4792
-"13",1683,"Santa Fe Brewing Company",1319257258,3,3,4,"English Brown Ale",4,3,"Nut Brown Ale",5.2,4792
-"14",1683,"Santa Fe Brewing Company",1319074285,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"15",1683,"Santa Fe Brewing Company",1317692782,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"16",1683,"Santa Fe Brewing Company",1315706545,3.5,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"17",1683,"Santa Fe Brewing Company",1312520431,3.5,3.5,4.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"18",1683,"Santa Fe Brewing Company",1304900895,4,3,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"19",1683,"Santa Fe Brewing Company",1292301961,4,4,4.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"20",1683,"Santa Fe Brewing Company",1289695732,4,3.5,4,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
-"21",1683,"Santa Fe Brewing Company",1286225491,4.5,3.5,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
-"22",1683,"Santa Fe Brewing Company",1282654245,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"23",1683,"Santa Fe Brewing Company",1280532413,3.5,4,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"24",1683,"Santa Fe Brewing Company",1280021577,4,2,4,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
-"25",1683,"Santa Fe Brewing Company",1279471013,3.5,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"26",1683,"Santa Fe Brewing Company",1274381238,3,3,3.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
-"27",1683,"Santa Fe Brewing Company",1270571860,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"28",1683,"Santa Fe Brewing Company",1270075987,3,2.5,4,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"29",1683,"Santa Fe Brewing Company",1269553660,2.5,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"30",1683,"Santa Fe Brewing Company",1204933418,3,4,4,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"31",1683,"Santa Fe Brewing Company",1269551512,3,2,3.5,"English Brown Ale",2.5,2,"Nut Brown Ale",5.2,4792
-"32",1683,"Santa Fe Brewing Company",1263605848,4,3.5,3,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
-"33",1683,"Santa Fe Brewing Company",1253250279,3.5,3.5,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
-"34",1683,"Santa Fe Brewing Company",1249836610,3.5,3,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"35",1683,"Santa Fe Brewing Company",1243305569,4.5,3,4.5,"English Brown Ale",4.5,3.5,"Nut Brown Ale",5.2,4792
-"36",1683,"Santa Fe Brewing Company",1238637179,2.5,3,2.5,"English Brown Ale",2,2.5,"Nut Brown Ale",5.2,4792
-"37",1683,"Santa Fe Brewing Company",1238261740,2,1.5,3,"English Brown Ale",3,2,"Nut Brown Ale",5.2,4792
-"38",1683,"Santa Fe Brewing Company",1236904272,3,3,3.5,"English Brown Ale",2,2,"Nut Brown Ale",5.2,4792
-"39",1683,"Santa Fe Brewing Company",1236744195,3,3,4,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
-"40",1683,"Santa Fe Brewing Company",1235699919,3,2,4,"English Brown Ale",2,2,"Nut Brown Ale",5.2,4792
-"41",1683,"Santa Fe Brewing Company",1234498884,2.5,2,2.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"42",1683,"Santa Fe Brewing Company",1233522060,4.5,3,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"43",1683,"Santa Fe Brewing Company",1232917770,3.5,4,3.5,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
-"44",1683,"Santa Fe Brewing Company",1232558865,2.5,2.5,4,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"45",1683,"Santa Fe Brewing Company",1232424857,3,3,3,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
-"46",1683,"Santa Fe Brewing Company",1232310723,3,3.5,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"47",1683,"Santa Fe Brewing Company",1231705219,3,3,3.5,"English Brown Ale",2.5,3,"Nut Brown Ale",5.2,4792
-"48",1683,"Santa Fe Brewing Company",1231388853,3,2,2.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
-"49",1683,"Santa Fe Brewing Company",1231252982,3.5,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"50",1683,"Santa Fe Brewing Company",1228507806,4,4,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"51",1683,"Santa Fe Brewing Company",1226541313,3.5,4.5,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"52",1683,"Santa Fe Brewing Company",1225568199,5,4,4.5,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
-"53",1683,"Santa Fe Brewing Company",1225051327,2.5,4.5,3,"English Brown Ale",2,3,"Nut Brown Ale",5.2,4792
-"54",1683,"Santa Fe Brewing Company",1222915221,3.5,3.5,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"55",1683,"Santa Fe Brewing Company",1222328590,4,4,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"56",1683,"Santa Fe Brewing Company",1221268507,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"57",1683,"Santa Fe Brewing Company",1221158958,3,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"58",1683,"Santa Fe Brewing Company",1220211000,4,3.5,4,"English Brown Ale",4.5,5,"Nut Brown Ale",5.2,4792
-"59",1683,"Santa Fe Brewing Company",1216418819,3.5,3,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
-"60",1683,"Santa Fe Brewing Company",1216401060,4,4,4,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"61",1683,"Santa Fe Brewing Company",1216295595,3.5,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"62",1683,"Santa Fe Brewing Company",1216089526,3,4,3,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"63",1683,"Santa Fe Brewing Company",1215840611,3,2.5,3.5,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"64",1683,"Santa Fe Brewing Company",1213044304,3,4,3.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
-"65",1683,"Santa Fe Brewing Company",1211233543,2,3,4,"English Brown Ale",2.5,3,"Nut Brown Ale",5.2,4792
-"66",1683,"Santa Fe Brewing Company",1210106396,3,4,4.5,"English Brown Ale",3,2,"Nut Brown Ale",5.2,4792
-"67",1683,"Santa Fe Brewing Company",1209492257,4.5,3.5,3.5,"English Brown Ale",3,4.5,"Nut Brown Ale",5.2,4792
-"68",1683,"Santa Fe Brewing Company",1208808710,3,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"69",1683,"Santa Fe Brewing Company",1208387547,3,3,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"70",1683,"Santa Fe Brewing Company",1206495768,4.5,3,3,"English Brown Ale",4.5,3,"Nut Brown Ale",5.2,4792
-"71",1683,"Santa Fe Brewing Company",1206326384,4.5,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"72",1683,"Santa Fe Brewing Company",1206298584,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"73",1683,"Santa Fe Brewing Company",1206150265,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"74",1683,"Santa Fe Brewing Company",1205250682,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"75",1683,"Santa Fe Brewing Company",1204959053,3.5,3.5,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"76",1683,"Santa Fe Brewing Company",1204863151,3.5,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"77",1683,"Santa Fe Brewing Company",1204427702,4,4,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"78",1683,"Santa Fe Brewing Company",1203908187,3.5,3,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"79",1683,"Santa Fe Brewing Company",1203783944,4,4,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
-"80",1683,"Santa Fe Brewing Company",1203037199,4,2,3,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"81",1683,"Santa Fe Brewing Company",1201805685,4,3.5,3,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"82",1683,"Santa Fe Brewing Company",1200799697,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
-"83",1683,"Santa Fe Brewing Company",1199231470,4.5,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"84",1683,"Santa Fe Brewing Company",1195847804,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"85",1683,"Santa Fe Brewing Company",1190961039,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"86",1683,"Santa Fe Brewing Company",1189297783,3.5,3.5,4,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
-"87",1683,"Santa Fe Brewing Company",1182478516,3.5,4,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"88",1683,"Santa Fe Brewing Company",1181747191,3,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"89",1683,"Santa Fe Brewing Company",1180299016,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"90",1683,"Santa Fe Brewing Company",1179528817,3.5,3,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"91",1683,"Santa Fe Brewing Company",1178150641,5,4,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
-"92",1683,"Santa Fe Brewing Company",1175139007,4,4,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
-"93",1683,"Santa Fe Brewing Company",1170128431,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"94",1683,"Santa Fe Brewing Company",1169701899,3,3,3.5,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"95",1683,"Santa Fe Brewing Company",1166153258,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
-"96",1683,"Santa Fe Brewing Company",1160972629,4.5,4,4.5,"English Brown Ale",4,5,"Nut Brown Ale",5.2,4792
-"97",1683,"Santa Fe Brewing Company",1160451398,3,2.5,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
-"98",1683,"Santa Fe Brewing Company",1325956095,4,3.5,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"99",1683,"Santa Fe Brewing Company",1325917897,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"100",1683,"Santa Fe Brewing Company",1325724629,4,3.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
-"101",1683,"Santa Fe Brewing Company",1325564648,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
-"102",1683,"Santa Fe Brewing Company",1325123476,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Java Stout",8,36164
-"103",1683,"Santa Fe Brewing Company",1324616357,3,3.5,2.5,"American Double / Imperial Stout",3,3,"Imperial Java Stout",8,36164
-"104",1683,"Santa Fe Brewing Company",1324249636,3.5,4.5,3,"American Double / Imperial Stout",2.5,3.5,"Imperial Java Stout",8,36164
-"105",1683,"Santa Fe Brewing Company",1255217072,3,3.5,3,"American Pale Wheat Ale",3.5,3,"Santa Fe Wheat",5.25,25015
-"106",1683,"Santa Fe Brewing Company",1319074514,4,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"107",1683,"Santa Fe Brewing Company",1318622273,4,3.5,4.5,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
-"108",1683,"Santa Fe Brewing Company",1317275342,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"109",1683,"Santa Fe Brewing Company",1316046437,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"110",1683,"Santa Fe Brewing Company",1313368334,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Java Stout",8,36164
-"111",1683,"Santa Fe Brewing Company",1312946497,4,3.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Java Stout",8,36164
-"112",1683,"Santa Fe Brewing Company",1311073134,3,3.5,3.5,"American Double / Imperial Stout",2.5,3.5,"Imperial Java Stout",8,36164
-"113",1683,"Santa Fe Brewing Company",1307454042,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
-"114",1683,"Santa Fe Brewing Company",1307452439,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"115",1683,"Santa Fe Brewing Company",1307383776,4.5,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"116",1683,"Santa Fe Brewing Company",1306993785,3.5,3.5,3.5,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
-"117",1683,"Santa Fe Brewing Company",1306604865,3,4,4,"American Double / Imperial Stout",4,3,"Imperial Java Stout",8,36164
-"118",1683,"Santa Fe Brewing Company",1306112248,4,4,4,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
-"119",1683,"Santa Fe Brewing Company",1305736911,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"120",1683,"Santa Fe Brewing Company",1305352059,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"121",1683,"Santa Fe Brewing Company",1305157000,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"122",1683,"Santa Fe Brewing Company",1304998135,3.5,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"123",1683,"Santa Fe Brewing Company",1304988102,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
-"124",1683,"Santa Fe Brewing Company",1304665674,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"125",1683,"Santa Fe Brewing Company",1302619491,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
-"126",1683,"Santa Fe Brewing Company",1302392078,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
-"127",1683,"Santa Fe Brewing Company",1302044483,4,3,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
-"128",1683,"Santa Fe Brewing Company",1301111488,4.5,4.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
-"129",1683,"Santa Fe Brewing Company",1300838521,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"130",1683,"Santa Fe Brewing Company",1319074444,3.5,4,4.5,"American IPA",3,4,"Happy Camper IPA",6.6,61149
-"131",1683,"Santa Fe Brewing Company",1300587247,4.5,3,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Java Stout",8,36164
-"132",1683,"Santa Fe Brewing Company",1299563407,3.5,4,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"133",1683,"Santa Fe Brewing Company",1299249638,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"134",1683,"Santa Fe Brewing Company",1299174552,3.5,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"135",1683,"Santa Fe Brewing Company",1299119141,4.5,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"136",1683,"Santa Fe Brewing Company",1298660930,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"137",1683,"Santa Fe Brewing Company",1298526981,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
-"138",1683,"Santa Fe Brewing Company",1298346188,4,5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
-"139",1683,"Santa Fe Brewing Company",1266980045,5,4,5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"140",1683,"Santa Fe Brewing Company",1297007335,4,3,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"141",1683,"Santa Fe Brewing Company",1295311291,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"142",1683,"Santa Fe Brewing Company",1295136778,4.5,3,3.5,"American Double / Imperial Stout",4,3.5,"Imperial Java Stout",8,36164
-"143",1683,"Santa Fe Brewing Company",1295054325,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
-"144",1683,"Santa Fe Brewing Company",1294374300,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
-"145",1683,"Santa Fe Brewing Company",1292634209,3.5,5,5,"American Double / Imperial Stout",5,4,"Imperial Java Stout",8,36164
-"146",1683,"Santa Fe Brewing Company",1256755026,4,4,4,"American Porter",4.5,4.5,"State Pen Imperial Porter",10,42336
-"147",1683,"Santa Fe Brewing Company",1292388476,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Java Stout",8,36164
-"148",1683,"Santa Fe Brewing Company",1243181539,3.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"149",1683,"Santa Fe Brewing Company",1204431066,4,4,3,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
-"150",1683,"Santa Fe Brewing Company",1175372062,2,2,1.5,"American Double / Imperial Stout",2,2,"Imperial Java Stout",8,36164
-"151",1683,"Santa Fe Brewing Company",1293811811,4.5,4.5,4,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"152",1683,"Santa Fe Brewing Company",1292380667,5,5,4.5,"American Porter",4.5,5,"State Pen Imperial Porter",10,42336
-"153",1683,"Santa Fe Brewing Company",1289541113,4.5,5,4.5,"American Porter",4,5,"State Pen Imperial Porter",10,42336
-"154",1683,"Santa Fe Brewing Company",1287955583,4.5,4.5,4.5,"American Porter",4.5,5,"State Pen Imperial Porter",10,42336
-"155",1683,"Santa Fe Brewing Company",1284125598,4,4,4,"American Porter",4,4,"State Pen Imperial Porter",10,42336
-"156",1683,"Santa Fe Brewing Company",1277665454,2,3.5,4.5,"American Porter",3,2.5,"State Pen Imperial Porter",10,42336
-"157",1683,"Santa Fe Brewing Company",1272052006,4.5,4,4.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"158",1683,"Santa Fe Brewing Company",1270644640,4.5,4.5,4,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"159",1683,"Santa Fe Brewing Company",1268120484,4.5,4,4.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"160",1683,"Santa Fe Brewing Company",1250377958,4,4.5,4.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"161",1683,"Santa Fe Brewing Company",1240099598,4,4,3.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"162",1683,"Santa Fe Brewing Company",1233625278,4,4,3.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
-"163",1683,"Santa Fe Brewing Company",1233447999,4,3.5,3.5,"American Porter",4,3.5,"State Pen Imperial Porter",10,42336
-"164",1683,"Santa Fe Brewing Company",1232907832,3.5,4,3.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"165",1683,"Santa Fe Brewing Company",1231108000,3.5,3,4.5,"American Porter",4.5,3.5,"State Pen Imperial Porter",10,42336
-"166",1683,"Santa Fe Brewing Company",1229398181,4.5,3.5,4.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"167",1683,"Santa Fe Brewing Company",1228072872,3.5,3.5,4,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"168",1683,"Santa Fe Brewing Company",1227931065,4,4,4,"American Porter",4,4,"State Pen Imperial Porter",10,42336
-"169",1683,"Santa Fe Brewing Company",1227406304,4,3,4.5,"American Porter",4,4,"State Pen Imperial Porter",10,42336
-"170",1683,"Santa Fe Brewing Company",1225590464,3.5,4,4,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"171",1683,"Santa Fe Brewing Company",1319293936,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"172",1683,"Santa Fe Brewing Company",1222823947,4.5,4,3.5,"American Porter",4,4,"State Pen Imperial Porter",10,42336
-"173",1683,"Santa Fe Brewing Company",1216261122,3,3.5,4.5,"American Porter",4,3,"State Pen Imperial Porter",10,42336
-"174",1683,"Santa Fe Brewing Company",1213896733,4.5,3.5,5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
-"175",1683,"Santa Fe Brewing Company",1210129761,4.5,4.5,4.5,"American Porter",4.5,4,"State Pen Imperial Porter",10,42336
-"176",1683,"Santa Fe Brewing Company",1209184520,4.5,4.5,4.5,"American Porter",4.5,4.5,"State Pen Imperial Porter",10,42336
-"177",1683,"Santa Fe Brewing Company",1325915302,3.5,3.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"178",1683,"Santa Fe Brewing Company",1324350034,3.5,3.5,4.5,"American IPA",3,3.5,"Happy Camper IPA",6.6,61149
-"179",1683,"Santa Fe Brewing Company",1323306562,4,4,3.5,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"180",1683,"Santa Fe Brewing Company",1323227875,3.5,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"181",1683,"Santa Fe Brewing Company",1323190398,4,3.5,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"182",1683,"Santa Fe Brewing Company",1322948269,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"183",1683,"Santa Fe Brewing Company",1321895410,3.5,3.5,4,"American IPA",3,4,"Happy Camper IPA",6.6,61149
-"184",1683,"Santa Fe Brewing Company",1320843147,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"185",1683,"Santa Fe Brewing Company",1320622945,1.5,3.5,4.5,"American IPA",1.5,1.5,"Happy Camper IPA",6.6,61149
-"186",1683,"Santa Fe Brewing Company",1320617745,3.5,3.5,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"187",1683,"Santa Fe Brewing Company",1319998388,3.5,4,3.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"188",1683,"Santa Fe Brewing Company",1318858453,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"189",1683,"Santa Fe Brewing Company",1318083378,3.5,4,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"190",1683,"Santa Fe Brewing Company",1317348330,3.5,4,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"191",1683,"Santa Fe Brewing Company",1315973913,4,4,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"192",1683,"Santa Fe Brewing Company",1315786528,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"193",1683,"Santa Fe Brewing Company",1315617383,3.5,3.5,3.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"194",1683,"Santa Fe Brewing Company",1315259261,4,4.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"195",1683,"Santa Fe Brewing Company",1315029458,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"196",1683,"Santa Fe Brewing Company",1314933999,4,4,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
-"197",1683,"Santa Fe Brewing Company",1314926506,4,3.5,3,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"198",1683,"Santa Fe Brewing Company",1311491081,4,4,3.5,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
-"199",1683,"Santa Fe Brewing Company",1314424264,3,3.5,3.5,"American IPA",3.5,3,"Happy Camper IPA",6.6,61149
-"200",1683,"Santa Fe Brewing Company",1314044268,4.5,4.5,4,"American IPA",3.5,4.5,"Happy Camper IPA",6.6,61149
-"201",1683,"Santa Fe Brewing Company",1313704786,4.5,4.5,4.5,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"202",1683,"Santa Fe Brewing Company",1313454551,4,3.5,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"203",1683,"Santa Fe Brewing Company",1313368391,4,3.5,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"204",1683,"Santa Fe Brewing Company",1312668753,4,4,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"205",1683,"Santa Fe Brewing Company",1311984610,4.5,4,4.5,"American IPA",4,5,"Happy Camper IPA",6.6,61149
-"206",1683,"Santa Fe Brewing Company",1311722375,4,3.5,3.5,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"207",1683,"Santa Fe Brewing Company",1311055587,3.5,3.5,3,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"208",1683,"Santa Fe Brewing Company",1311050255,3,3.5,3.5,"American IPA",2,3,"Happy Camper IPA",6.6,61149
-"209",1683,"Santa Fe Brewing Company",1310702192,3.5,3,4,"American IPA",3,3,"Happy Camper IPA",6.6,61149
-"210",1683,"Santa Fe Brewing Company",1310688949,4,4.5,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
-"211",1683,"Santa Fe Brewing Company",1310359663,3.5,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"212",1683,"Santa Fe Brewing Company",1310163657,3.5,3.5,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"213",1683,"Santa Fe Brewing Company",1309813293,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"214",1683,"Santa Fe Brewing Company",1309807983,4,3.5,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"215",1683,"Santa Fe Brewing Company",1303536691,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"216",1683,"Santa Fe Brewing Company",1309723201,4.5,4,5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"217",1683,"Santa Fe Brewing Company",1308178191,4.5,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"218",1683,"Santa Fe Brewing Company",1307757818,4,3.5,4.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"219",1683,"Santa Fe Brewing Company",1307747519,3.5,3.5,3,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"220",1683,"Santa Fe Brewing Company",1307632542,3.5,4,4,"American IPA",4,3,"Happy Camper IPA",6.6,61149
-"221",1683,"Santa Fe Brewing Company",1307253500,4,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"222",1683,"Santa Fe Brewing Company",1307251403,4,2,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"223",1683,"Santa Fe Brewing Company",1307152925,4,3.5,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"224",1683,"Santa Fe Brewing Company",1307129714,3.5,4,3.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"225",1683,"Santa Fe Brewing Company",1306605075,4,4,4.5,"American IPA",3.5,4.5,"Happy Camper IPA",6.6,61149
-"226",1683,"Santa Fe Brewing Company",1306445012,4,4,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"227",1683,"Santa Fe Brewing Company",1306086048,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"228",1683,"Santa Fe Brewing Company",1305507633,4,4,4.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"229",1683,"Santa Fe Brewing Company",1305497915,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"230",1683,"Santa Fe Brewing Company",1304380813,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"231",1683,"Santa Fe Brewing Company",1303264583,4,3.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"232",1683,"Santa Fe Brewing Company",1301376962,4,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"233",1683,"Santa Fe Brewing Company",1300573924,4.5,4.5,4.5,"American IPA",4.5,4.5,"Happy Camper IPA",6.6,61149
-"234",1683,"Santa Fe Brewing Company",1300135595,4,3.5,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"235",1683,"Santa Fe Brewing Company",1299647833,3.5,4,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
-"236",1683,"Santa Fe Brewing Company",1297437782,5,3,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
-"237",1683,"Santa Fe Brewing Company",1295218971,4,4,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"238",1683,"Santa Fe Brewing Company",1295154695,3.5,3.5,4.5,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
-"239",1683,"Santa Fe Brewing Company",1294361874,3,4,3.5,"American IPA",3,3,"Happy Camper IPA",6.6,61149
-"240",1683,"Santa Fe Brewing Company",1294285869,3,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"241",1683,"Santa Fe Brewing Company",1292385201,4.5,4,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"242",1683,"Santa Fe Brewing Company",1291088907,4,3.5,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
-"243",1683,"Santa Fe Brewing Company",1287897898,4,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
-"244",1683,"Santa Fe Brewing Company",1283813631,4.5,5,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"245",1683,"Santa Fe Brewing Company",1283717086,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"246",1683,"Santa Fe Brewing Company",1282169509,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
-"247",1683,"Santa Fe Brewing Company",1305241979,3,3,3,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
-"248",1683,"Santa Fe Brewing Company",1246911327,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
-"249",1683,"Santa Fe Brewing Company",1244780460,3.5,3,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
-"250",1683,"Santa Fe Brewing Company",1244755814,3.5,2,3.5,"American Pale Wheat Ale",3,3.5,"Santa Fe Wheat",5.25,25015
-"251",1683,"Santa Fe Brewing Company",1235866252,2,3,3.5,"American Pale Wheat Ale",3,1.5,"Santa Fe Wheat",5.25,25015
-"252",1683,"Santa Fe Brewing Company",1231647612,3,3,3,"American Pale Wheat Ale",3,3.5,"Santa Fe Wheat",5.25,25015
-"253",1683,"Santa Fe Brewing Company",1230692813,4,4,4,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
-"254",1683,"Santa Fe Brewing Company",1222916179,4,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"255",1683,"Santa Fe Brewing Company",1210984308,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
-"256",1683,"Santa Fe Brewing Company",1209950880,2.5,3,3,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
-"257",1683,"Santa Fe Brewing Company",1171286773,4,4,1.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
-"258",1683,"Santa Fe Brewing Company",1207356070,3,3.5,3,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"259",1683,"Santa Fe Brewing Company",1200542463,2.5,3.5,3.5,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
-"260",1683,"Santa Fe Brewing Company",1191052049,3,2.5,2.5,"American Pale Wheat Ale",2,2,"Santa Fe Wheat",5.25,25015
-"261",1683,"Santa Fe Brewing Company",1189381546,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
-"262",1683,"Santa Fe Brewing Company",1186958274,5,4,3.5,"American Pale Wheat Ale",3.5,4.5,"Santa Fe Wheat",5.25,25015
-"263",1683,"Santa Fe Brewing Company",1180148211,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"264",1683,"Santa Fe Brewing Company",1176267367,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"265",1683,"Santa Fe Brewing Company",1175372458,5,3.5,3,"American Pale Wheat Ale",4,4.5,"Santa Fe Wheat",5.25,25015
-"266",1683,"Santa Fe Brewing Company",1173634098,3.5,4,4,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"267",1683,"Santa Fe Brewing Company",1158863936,4,3.5,4,"American Pale Wheat Ale",4,4.5,"Santa Fe Wheat",5.25,25015
-"268",1683,"Santa Fe Brewing Company",1153192034,3,3.5,4,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
-"269",1683,"Santa Fe Brewing Company",1152479251,4.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
-"270",1683,"Santa Fe Brewing Company",1150945400,4,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
-"271",1683,"Santa Fe Brewing Company",1122612784,3.5,3.5,2.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
-"272",1683,"Santa Fe Brewing Company",1293546517,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Sangre De Frambuesa",12,43365
-"273",1683,"Santa Fe Brewing Company",1292283830,5,4.5,3.5,"Fruit / Vegetable Beer",4.5,5,"Sangre De Frambuesa",12,43365
-"274",1683,"Santa Fe Brewing Company",1278289868,3.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Sangre De Frambuesa",12,43365
-"275",1683,"Santa Fe Brewing Company",1275019627,2.5,5,3,"Fruit / Vegetable Beer",3,2.5,"Sangre De Frambuesa",12,43365
-"276",1683,"Santa Fe Brewing Company",1247630314,2.5,3.5,4,"Fruit / Vegetable Beer",3,2.5,"Sangre De Frambuesa",12,43365
-"277",1683,"Santa Fe Brewing Company",1242245632,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
-"278",1683,"Santa Fe Brewing Company",1230780091,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
-"279",1683,"Santa Fe Brewing Company",1230174366,3.5,4,3.5,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
-"280",1683,"Santa Fe Brewing Company",1227930637,2,2.5,4,"Fruit / Vegetable Beer",3,2,"Sangre De Frambuesa",12,43365
-"281",1683,"Santa Fe Brewing Company",1225589500,2.5,3.5,3.5,"Fruit / Vegetable Beer",2,2,"Sangre De Frambuesa",12,43365
-"282",1683,"Santa Fe Brewing Company",1312411631,4,4,4,"American Wild Ale",4,4,"Wild Ale #5",NA,59482
-"283",1683,"Santa Fe Brewing Company",1214322807,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Sangre De Frambuesa",12,43365
-"284",1683,"Santa Fe Brewing Company",1252565008,2.5,3,3,"American Blonde Ale",4,3,"Dirty Blonde",NA,52511
-"285",1683,"Santa Fe Brewing Company",1319417525,4,3.5,4,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
-"286",1683,"Santa Fe Brewing Company",1316565323,3.5,3.5,3,"American Wild Ale",3,3.5,"Wild Ale #5",NA,59482
-"287",1683,"Santa Fe Brewing Company",1307905505,3.5,4,4.5,"American Wild Ale",3,3.5,"Wild Ale #5",NA,59482
-"288",1683,"Santa Fe Brewing Company",1284508545,3.5,4.5,4,"American Wild Ale",4,3.5,"Wild Ale #3",NA,59483
-"289",1683,"Santa Fe Brewing Company",1291724802,3,1.5,3,"American Wild Ale",2.5,2.5,"Wild Ale #5",NA,59482
-"290",1683,"Santa Fe Brewing Company",1291681142,3,3,4,"American Wild Ale",4.5,4,"Wild Ale #5",NA,59482
-"291",1683,"Santa Fe Brewing Company",1291613324,4,2.5,3.5,"American Wild Ale",4.5,4,"Wild Ale #5",NA,59482
-"292",1683,"Santa Fe Brewing Company",1291579052,3,2,2.5,"American Wild Ale",4,4,"Wild Ale #5",NA,59482
-"293",1683,"Santa Fe Brewing Company",1291516818,3,1.5,2.5,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
-"294",1683,"Santa Fe Brewing Company",1284841545,4,4,4,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
-"295",1683,"Santa Fe Brewing Company",1277252735,5,4.5,4,"American Wild Ale",4,4.5,"Wild Ale #5",NA,59482
-"296",1683,"Santa Fe Brewing Company",1299892206,4,4,3.5,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
-"297",1683,"Santa Fe Brewing Company",1299891822,3,4,3,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
-"298",1683,"Santa Fe Brewing Company",1299891559,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #3",NA,59483
-"299",1683,"Santa Fe Brewing Company",1284215477,4,4.5,4,"American Wild Ale",4,4,"Wild Ale #3",NA,59483
-"300",1683,"Santa Fe Brewing Company",1278966575,3,3,3.5,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
-"301",1683,"Santa Fe Brewing Company",1278800890,2.5,3,3.5,"American Wild Ale",3.5,3,"Wild Ale #3",NA,59483
-"302",1683,"Santa Fe Brewing Company",1277694684,4,4,4,"American Wild Ale",4,4,"Wild Ale #3",NA,59483
-"303",1683,"Santa Fe Brewing Company",1277253014,4,4,4,"American Wild Ale",4,4.5,"Wild Ale #3",NA,59483
-"304",1683,"Santa Fe Brewing Company",1173892091,4,3,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"305",1683,"Santa Fe Brewing Company",1173080093,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
-"306",1683,"Santa Fe Brewing Company",1171058054,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"307",1683,"Santa Fe Brewing Company",1170646255,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"308",1683,"Santa Fe Brewing Company",1169671576,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"309",1683,"Santa Fe Brewing Company",1301682706,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"310",1683,"Santa Fe Brewing Company",1164761664,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"311",1683,"Santa Fe Brewing Company",1160275010,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"312",1683,"Santa Fe Brewing Company",1158897203,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Pale Ale",5.5,4798
-"313",1683,"Santa Fe Brewing Company",1156317948,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"314",1683,"Santa Fe Brewing Company",1156224123,2.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"315",1683,"Santa Fe Brewing Company",1155692113,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"316",1683,"Santa Fe Brewing Company",1153400168,4.5,2.5,4,"American Pale Ale (APA)",4.5,3.5,"Pale Ale",5.5,4798
-"317",1683,"Santa Fe Brewing Company",1151192492,3,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"318",1683,"Santa Fe Brewing Company",1279918836,3,3,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"319",1683,"Santa Fe Brewing Company",1147863920,3.5,4.5,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"320",1683,"Santa Fe Brewing Company",1144895658,3.5,4,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"321",1683,"Santa Fe Brewing Company",1124845634,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"322",1683,"Santa Fe Brewing Company",1122614036,4,3.5,2.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"323",1683,"Santa Fe Brewing Company",1121910845,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"324",1683,"Santa Fe Brewing Company",1098803330,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"325",1683,"Santa Fe Brewing Company",1098568188,3,3.5,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"326",1683,"Santa Fe Brewing Company",1097127507,2.5,1.5,4,"American Pale Ale (APA)",3.5,1.5,"Pale Ale",5.5,4798
-"327",1683,"Santa Fe Brewing Company",1077746299,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"328",1683,"Santa Fe Brewing Company",1052826952,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
-"329",1683,"Santa Fe Brewing Company",1049281859,3,3,4,"American Pale Ale (APA)",3,4,"Pale Ale",5.5,4798
-"330",1683,"Santa Fe Brewing Company",1323497562,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
-"331",1683,"Santa Fe Brewing Company",1322590336,3.5,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"332",1683,"Santa Fe Brewing Company",1321894970,3,3,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"333",1683,"Santa Fe Brewing Company",1319074202,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"334",1683,"Santa Fe Brewing Company",1318740943,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"335",1683,"Santa Fe Brewing Company",1314306245,3,3,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"336",1683,"Santa Fe Brewing Company",1310354857,3.5,3,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"337",1683,"Santa Fe Brewing Company",1309821900,3,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"338",1683,"Santa Fe Brewing Company",1308709863,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"339",1683,"Santa Fe Brewing Company",1307760312,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"340",1683,"Santa Fe Brewing Company",1304900186,3,2,2.5,"American Pale Ale (APA)",4,2.5,"Pale Ale",5.5,4798
-"341",1683,"Santa Fe Brewing Company",1302404437,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"342",1683,"Santa Fe Brewing Company",1300325109,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"343",1683,"Santa Fe Brewing Company",1298659381,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"344",1683,"Santa Fe Brewing Company",1298357214,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"345",1683,"Santa Fe Brewing Company",1297576106,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"346",1683,"Santa Fe Brewing Company",1297401471,4.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"347",1683,"Santa Fe Brewing Company",1296939649,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"348",1683,"Santa Fe Brewing Company",1292022752,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"349",1683,"Santa Fe Brewing Company",1286766828,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"350",1683,"Santa Fe Brewing Company",1285300245,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"351",1683,"Santa Fe Brewing Company",1284429308,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"352",1683,"Santa Fe Brewing Company",1280365804,3,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"353",1683,"Santa Fe Brewing Company",1279917191,4,3,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"354",1683,"Santa Fe Brewing Company",1277585769,4,3.5,3,"American Pale Ale (APA)",2,3,"Pale Ale",5.5,4798
-"355",1683,"Santa Fe Brewing Company",1276331351,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"356",1683,"Santa Fe Brewing Company",1274299839,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"357",1683,"Santa Fe Brewing Company",1273890389,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"358",1683,"Santa Fe Brewing Company",1273016811,4,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"359",1683,"Santa Fe Brewing Company",1256943058,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"360",1683,"Santa Fe Brewing Company",1256699442,3.5,3.5,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"361",1683,"Santa Fe Brewing Company",1256094462,4,3.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"362",1683,"Santa Fe Brewing Company",1255211060,3.5,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"363",1683,"Santa Fe Brewing Company",1208960689,3,3,3,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"364",1683,"Santa Fe Brewing Company",1253488709,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"365",1683,"Santa Fe Brewing Company",1253314165,4,3,3,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"366",1683,"Santa Fe Brewing Company",1253250888,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"367",1683,"Santa Fe Brewing Company",1249352739,4.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"368",1683,"Santa Fe Brewing Company",1249090048,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Pale Ale",5.5,4798
-"369",1683,"Santa Fe Brewing Company",1246911738,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"370",1683,"Santa Fe Brewing Company",1245975538,3.5,2.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"371",1683,"Santa Fe Brewing Company",1245200376,4,4.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
-"372",1683,"Santa Fe Brewing Company",1243380417,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"373",1683,"Santa Fe Brewing Company",1243216597,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"374",1683,"Santa Fe Brewing Company",1242593159,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"375",1683,"Santa Fe Brewing Company",1239142458,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"376",1683,"Santa Fe Brewing Company",1238021930,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"377",1683,"Santa Fe Brewing Company",1237849651,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"378",1683,"Santa Fe Brewing Company",1237519921,3.5,3.5,3,"American Pale Ale (APA)",3,4,"Pale Ale",5.5,4798
-"379",1683,"Santa Fe Brewing Company",1236656619,4,2.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"380",1683,"Santa Fe Brewing Company",1235266747,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"381",1683,"Santa Fe Brewing Company",1234376256,2,2.5,3,"American Pale Ale (APA)",1.5,1,"Pale Ale",5.5,4798
-"382",1683,"Santa Fe Brewing Company",1231648758,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"383",1683,"Santa Fe Brewing Company",1231253475,3.5,3,4.5,"American Pale Ale (APA)",3.5,2.5,"Pale Ale",5.5,4798
-"384",1683,"Santa Fe Brewing Company",1231133702,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
-"385",1683,"Santa Fe Brewing Company",1228623895,3.5,2,2,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"386",1683,"Santa Fe Brewing Company",1225376617,3.5,2.5,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"387",1683,"Santa Fe Brewing Company",1225138392,3.5,3,3.5,"American Pale Ale (APA)",2.5,3,"Pale Ale",5.5,4798
-"388",1683,"Santa Fe Brewing Company",1222917059,4,4,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"389",1683,"Santa Fe Brewing Company",1220015319,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"390",1683,"Santa Fe Brewing Company",1217539299,4,4,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"391",1683,"Santa Fe Brewing Company",1216401083,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"392",1683,"Santa Fe Brewing Company",1215982149,2.5,4,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"393",1683,"Santa Fe Brewing Company",1215840320,3,3,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"394",1683,"Santa Fe Brewing Company",1214443881,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"395",1683,"Santa Fe Brewing Company",1211939742,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"396",1683,"Santa Fe Brewing Company",1211829123,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"397",1683,"Santa Fe Brewing Company",1209828431,4,3,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"398",1683,"Santa Fe Brewing Company",1208749403,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"399",1683,"Santa Fe Brewing Company",1207706159,3,2,3.5,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
-"400",1683,"Santa Fe Brewing Company",1206143757,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"401",1683,"Santa Fe Brewing Company",1205439987,3.5,3,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"402",1683,"Santa Fe Brewing Company",1204409796,2.5,3,4,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
-"403",1683,"Santa Fe Brewing Company",1202090227,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"404",1683,"Santa Fe Brewing Company",1200321417,4.5,4,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"405",1683,"Santa Fe Brewing Company",1193932093,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"406",1683,"Santa Fe Brewing Company",1189388914,3,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
-"407",1683,"Santa Fe Brewing Company",1186959211,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
-"408",1683,"Santa Fe Brewing Company",1182653542,3,3,3,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
-"409",1683,"Santa Fe Brewing Company",1182489220,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"410",1683,"Santa Fe Brewing Company",1181702931,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"411",1683,"Santa Fe Brewing Company",1179886737,4.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"412",1683,"Santa Fe Brewing Company",1178854531,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"413",1683,"Santa Fe Brewing Company",1178788214,4,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
-"414",1683,"Santa Fe Brewing Company",1177384063,4.5,3.5,4,"American Pale Ale (APA)",3.5,4.5,"Pale Ale",5.5,4798
-"415",1683,"Santa Fe Brewing Company",1177252052,4,3.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
-"416",1683,"Santa Fe Brewing Company",1176742335,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
-"417",1683,"Santa Fe Brewing Company",1176697398,3.5,3,3,"American Pale Ale (APA)",4,3,"Pale Ale",5.5,4798
-"418",1683,"Santa Fe Brewing Company",1196741540,3.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"419",1683,"Santa Fe Brewing Company",1194745509,3.5,3.5,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"420",1683,"Santa Fe Brewing Company",1191554765,3.5,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"421",1683,"Santa Fe Brewing Company",1191534171,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"422",1683,"Santa Fe Brewing Company",1191466451,3.5,4,4,"American Porter",3,3.5,"State Pen Porter",6.4,36341
-"423",1683,"Santa Fe Brewing Company",1186983349,3,3.5,3.5,"American Porter",3,3.5,"State Pen Porter",6.4,36341
-"424",1683,"Santa Fe Brewing Company",1180673111,4,3.5,2.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"425",1683,"Santa Fe Brewing Company",1178078169,3,4,3,"American Porter",3.5,3,"State Pen Porter",6.4,36341
-"426",1683,"Santa Fe Brewing Company",1177128050,4,4,3,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"427",1683,"Santa Fe Brewing Company",1176521125,3,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"428",1683,"Santa Fe Brewing Company",1326048262,4,4,4.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"429",1683,"Santa Fe Brewing Company",1323838572,4.5,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"430",1683,"Santa Fe Brewing Company",1323041101,3.5,3.5,3.5,"American Porter",3,3,"State Pen Porter",6.4,36341
-"431",1683,"Santa Fe Brewing Company",1322615009,3.5,3.5,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"432",1683,"Santa Fe Brewing Company",1322200755,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"433",1683,"Santa Fe Brewing Company",1322022513,4,3.5,4,"American Porter",4.5,3.5,"State Pen Porter",6.4,36341
-"434",1683,"Santa Fe Brewing Company",1322009196,3.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"435",1683,"Santa Fe Brewing Company",1321593920,4,4.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"436",1683,"Santa Fe Brewing Company",1321451180,4,3.5,3,"American Porter",2.5,4,"State Pen Porter",6.4,36341
-"437",1683,"Santa Fe Brewing Company",1320516267,4,4,5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"438",1683,"Santa Fe Brewing Company",1319334923,3.5,4.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"439",1683,"Santa Fe Brewing Company",1319074372,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"440",1683,"Santa Fe Brewing Company",1318035561,4,4,3.5,"American Porter",4.5,4.5,"State Pen Porter",6.4,36341
-"441",1683,"Santa Fe Brewing Company",1317273591,4.5,4,4.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"442",1683,"Santa Fe Brewing Company",1266269262,4,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"443",1683,"Santa Fe Brewing Company",1316811622,3,3.5,3.5,"American Porter",3,3,"State Pen Porter",6.4,36341
-"444",1683,"Santa Fe Brewing Company",1315894583,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"445",1683,"Santa Fe Brewing Company",1309908987,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"446",1683,"Santa Fe Brewing Company",1301520516,4,3,3.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"447",1683,"Santa Fe Brewing Company",1300244335,4,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"448",1683,"Santa Fe Brewing Company",1298072663,3,2.5,3,"American Porter",3.5,2.5,"State Pen Porter",6.4,36341
-"449",1683,"Santa Fe Brewing Company",1297756544,4.5,3.5,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"450",1683,"Santa Fe Brewing Company",1297568078,3.5,4,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"451",1683,"Santa Fe Brewing Company",1296011344,3.5,4,4.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"452",1683,"Santa Fe Brewing Company",1265012016,4.5,4.5,4,"American Porter",4,5,"State Pen Porter",6.4,36341
-"453",1683,"Santa Fe Brewing Company",1295048080,3.5,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"454",1683,"Santa Fe Brewing Company",1292953984,2,3.5,3.5,"American Porter",3.5,2,"State Pen Porter",6.4,36341
-"455",1683,"Santa Fe Brewing Company",1291868058,4,4.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"456",1683,"Santa Fe Brewing Company",1289166358,4.5,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"457",1683,"Santa Fe Brewing Company",1288378252,4.5,4,4.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"458",1683,"Santa Fe Brewing Company",1286472234,4,4,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"459",1683,"Santa Fe Brewing Company",1285720269,3.5,4,4,"American Porter",3,3.5,"State Pen Porter",6.4,36341
-"460",1683,"Santa Fe Brewing Company",1284259400,4,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"461",1683,"Santa Fe Brewing Company",1282792268,2,1,4,"American Porter",4.5,1.5,"State Pen Porter",6.4,36341
-"462",1683,"Santa Fe Brewing Company",1281568561,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"463",1683,"Santa Fe Brewing Company",1280970506,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"464",1683,"Santa Fe Brewing Company",1280724024,4,3.5,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"465",1683,"Santa Fe Brewing Company",1279945710,4,4,4.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"466",1683,"Santa Fe Brewing Company",1279389209,4.5,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"467",1683,"Santa Fe Brewing Company",1278568574,4,3,4.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"468",1683,"Santa Fe Brewing Company",1275187418,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"469",1683,"Santa Fe Brewing Company",1274138010,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"470",1683,"Santa Fe Brewing Company",1272937701,4,3.5,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"471",1683,"Santa Fe Brewing Company",1268689707,4.5,4,4.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"472",1683,"Santa Fe Brewing Company",1258006407,3.5,3.5,3.5,"American Porter",3,3.5,"State Pen Porter",6.4,36341
-"473",1683,"Santa Fe Brewing Company",1257207963,4,3,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"474",1683,"Santa Fe Brewing Company",1256959718,3.5,4,3,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"475",1683,"Santa Fe Brewing Company",1256696117,2.5,3.5,4,"American Porter",3.5,2.5,"State Pen Porter",6.4,36341
-"476",1683,"Santa Fe Brewing Company",1255212819,3.5,4,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"477",1683,"Santa Fe Brewing Company",1254878093,4.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"478",1683,"Santa Fe Brewing Company",1253648210,3.5,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"479",1683,"Santa Fe Brewing Company",1253317528,3,3.5,3.5,"American Porter",2.5,2.5,"State Pen Porter",6.4,36341
-"480",1683,"Santa Fe Brewing Company",1253250506,4,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"481",1683,"Santa Fe Brewing Company",1250912830,4,4,4.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"482",1683,"Santa Fe Brewing Company",1250628642,4.5,4,4.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"483",1683,"Santa Fe Brewing Company",1249620088,4,4,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"484",1683,"Santa Fe Brewing Company",1249358329,4.5,3,4,"American Porter",4,3,"State Pen Porter",6.4,36341
-"485",1683,"Santa Fe Brewing Company",1246989528,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"486",1683,"Santa Fe Brewing Company",1245384918,3.5,3.5,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"487",1683,"Santa Fe Brewing Company",1244853421,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"488",1683,"Santa Fe Brewing Company",1244687954,4,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"489",1683,"Santa Fe Brewing Company",1244314092,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"490",1683,"Santa Fe Brewing Company",1244161766,4,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"491",1683,"Santa Fe Brewing Company",1224462426,4,3.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"492",1683,"Santa Fe Brewing Company",1244075790,3.5,4.5,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"493",1683,"Santa Fe Brewing Company",1242598571,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"494",1683,"Santa Fe Brewing Company",1241830152,3.5,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"495",1683,"Santa Fe Brewing Company",1240356477,4,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"496",1683,"Santa Fe Brewing Company",1239290009,3,4,3.5,"American Porter",2.5,3,"State Pen Porter",6.4,36341
-"497",1683,"Santa Fe Brewing Company",1238033528,4.5,4.5,3.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"498",1683,"Santa Fe Brewing Company",1236381688,4,3.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
-"499",1683,"Santa Fe Brewing Company",1233465870,3.5,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"500",1683,"Santa Fe Brewing Company",1225567689,4,4,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"501",1683,"Santa Fe Brewing Company",1223762406,3.5,3.5,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"502",1683,"Santa Fe Brewing Company",1221713426,3.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"503",1683,"Santa Fe Brewing Company",1220210690,4.5,3.5,4.5,"American Porter",5,4.5,"State Pen Porter",6.4,36341
-"504",1683,"Santa Fe Brewing Company",1219973586,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"505",1683,"Santa Fe Brewing Company",1215973718,4.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"506",1683,"Santa Fe Brewing Company",1215174242,4,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
-"507",1683,"Santa Fe Brewing Company",1213737641,4,4,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
-"508",1683,"Santa Fe Brewing Company",1210216998,4,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"509",1683,"Santa Fe Brewing Company",1209944239,4,3,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"510",1683,"Santa Fe Brewing Company",1206831481,4,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"511",1683,"Santa Fe Brewing Company",1206680865,4,3.5,4.5,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"512",1683,"Santa Fe Brewing Company",1206234866,4,3,3.5,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
-"513",1683,"Santa Fe Brewing Company",1204857104,4.5,4,4,"American Porter",4.5,4.5,"State Pen Porter",6.4,36341
-"514",1683,"Santa Fe Brewing Company",1204685995,4,4,4,"American Porter",4.5,3.5,"State Pen Porter",6.4,36341
-"515",1683,"Santa Fe Brewing Company",1204413086,3.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
-"516",1683,"Santa Fe Brewing Company",1203320841,4.5,3,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
-"517",1683,"Santa Fe Brewing Company",1199003893,3.5,3,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
-"518",1683,"Santa Fe Brewing Company",1324591644,3.5,3,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
-"519",1683,"Santa Fe Brewing Company",1322977221,3.5,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
-"520",1683,"Santa Fe Brewing Company",1322615862,3,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
-"521",1683,"Santa Fe Brewing Company",1322531146,3.5,2,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
-"522",1683,"Santa Fe Brewing Company",1320597815,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
-"523",1683,"Santa Fe Brewing Company",1320189465,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
-"524",1683,"Santa Fe Brewing Company",1319418046,4,4,3,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",6,62353
-"525",1683,"Santa Fe Brewing Company",1318263650,4.5,4.5,4.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",6,62353
-"526",1683,"Santa Fe Brewing Company",1317304987,4,2.5,4.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",6,62353
-"527",1683,"Santa Fe Brewing Company",1317273353,4,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
-"528",1683,"Santa Fe Brewing Company",1317263541,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
-"529",1683,"Santa Fe Brewing Company",1316998643,4.5,2,3.5,"Märzen / Oktoberfest",5,4,"Oktoberfest",6,62353
-"530",1683,"Santa Fe Brewing Company",1316820978,3,3,3.5,"Märzen / Oktoberfest",2.5,3,"Oktoberfest",6,62353
-"531",1683,"Santa Fe Brewing Company",1316484558,4.5,3,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
-"532",1683,"Santa Fe Brewing Company",1316403531,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
-"533",1683,"Santa Fe Brewing Company",1316392131,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
-"534",1683,"Santa Fe Brewing Company",1290288616,4,4,5,"Märzen / Oktoberfest",3.5,4.5,"Oktoberfest",6,62353
-"535",1683,"Santa Fe Brewing Company",1275677351,3.5,4.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
-"536",1683,"Santa Fe Brewing Company",1274301382,4.5,5,4,"American Wild Ale",4.5,4.5,"Wild Ale #4",NA,58457
-"537",1683,"Santa Fe Brewing Company",1287887362,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
-"538",1683,"Santa Fe Brewing Company",1286848894,4.5,4.5,4,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",6,62353
-"539",1683,"Santa Fe Brewing Company",1286256315,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
-"540",1683,"Santa Fe Brewing Company",1316566027,3.5,4,4,"American Wild Ale",4,3.5,"Wild Ale #4",NA,58457
-"541",1683,"Santa Fe Brewing Company",1316565098,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #4",NA,58457
-"542",1683,"Santa Fe Brewing Company",1307905280,4,4.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
-"543",1683,"Santa Fe Brewing Company",1279601442,3.5,4.5,4,"American Wild Ale",4,4.5,"Wild Ale #4",NA,58457
-"544",1683,"Santa Fe Brewing Company",1278378788,3.5,3.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
-"545",1683,"Santa Fe Brewing Company",1277252531,4.5,4,4,"American Wild Ale",4,4.5,"Wild Ale #4",NA,58457
-"546",1683,"Santa Fe Brewing Company",1277165844,4,3,4,"American Wild Ale",3.5,4,"Wild Ale #4",NA,58457
-"547",1683,"Santa Fe Brewing Company",1292283023,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
-"548",1683,"Santa Fe Brewing Company",1267329495,4.5,3.5,3,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
-"549",1683,"Santa Fe Brewing Company",1252789307,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Imperial Yippee IPA",9.5,47047
-"550",1683,"Santa Fe Brewing Company",1246921238,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Imperial Yippee IPA",9.5,47047
-"551",1683,"Santa Fe Brewing Company",1240325745,4,4,5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
-"552",1683,"Santa Fe Brewing Company",1240184798,4,4.5,4,"American Double / Imperial IPA",4,4,"Imperial Yippee IPA",9.5,47047
-"553",1683,"Santa Fe Brewing Company",1231039716,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
-"554",1683,"Santa Fe Brewing Company",1213818133,3.5,3.5,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"555",1683,"Santa Fe Brewing Company",1207338160,3.5,4,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"556",1683,"Santa Fe Brewing Company",1211855991,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"557",1683,"Santa Fe Brewing Company",1211168497,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"558",1683,"Santa Fe Brewing Company",1209608894,3,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"559",1683,"Santa Fe Brewing Company",1209552050,3,3.5,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
-"560",1683,"Santa Fe Brewing Company",1209528079,3.5,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"561",1683,"Santa Fe Brewing Company",1209350371,4,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"562",1683,"Santa Fe Brewing Company",1207929918,2.5,4,3,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
-"563",1683,"Santa Fe Brewing Company",1207445288,4,3,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"564",1683,"Santa Fe Brewing Company",1207266740,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"565",1683,"Santa Fe Brewing Company",1206571739,4.5,3.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"566",1683,"Santa Fe Brewing Company",1206394181,3,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"567",1683,"Santa Fe Brewing Company",1204327480,3,2.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"568",1683,"Santa Fe Brewing Company",1204217928,3.5,4,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"569",1683,"Santa Fe Brewing Company",1202917741,3.5,4,5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"570",1683,"Santa Fe Brewing Company",1202700634,4,3.5,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"571",1683,"Santa Fe Brewing Company",1201374137,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"572",1683,"Santa Fe Brewing Company",1201020746,2.5,3.5,3.5,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
-"573",1683,"Santa Fe Brewing Company",1198981393,3,3.5,3.5,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
-"574",1683,"Santa Fe Brewing Company",1198250820,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"575",1683,"Santa Fe Brewing Company",1196059981,2.5,3.5,3,"American Barleywine",4.5,3,"Chicken Killer Barley Wine",10,28817
-"576",1683,"Santa Fe Brewing Company",1195804640,4,3,3.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"577",1683,"Santa Fe Brewing Company",1195427791,3.5,3.5,4.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"578",1683,"Santa Fe Brewing Company",1194584075,5,4,4.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
-"579",1683,"Santa Fe Brewing Company",1194564884,4,3,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"580",1683,"Santa Fe Brewing Company",1193799589,3.5,4,3.5,"American Barleywine",3,4,"Chicken Killer Barley Wine",10,28817
-"581",1683,"Santa Fe Brewing Company",1191446327,4,4,3,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"582",1683,"Santa Fe Brewing Company",1190874074,3,4,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"583",1683,"Santa Fe Brewing Company",1189976247,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"584",1683,"Santa Fe Brewing Company",1189921771,3.5,3.5,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"585",1683,"Santa Fe Brewing Company",1184041767,3.5,4,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"586",1683,"Santa Fe Brewing Company",1179978301,4.5,3.5,5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
-"587",1683,"Santa Fe Brewing Company",1179209514,4,3.5,4,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
-"588",1683,"Santa Fe Brewing Company",1179104935,4.5,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"589",1683,"Santa Fe Brewing Company",1178686367,3.5,3.5,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"590",1683,"Santa Fe Brewing Company",1177715625,4,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"591",1683,"Santa Fe Brewing Company",1177131146,4,4,4,"American Barleywine",5,3.5,"Chicken Killer Barley Wine",10,28817
-"592",1683,"Santa Fe Brewing Company",1177088189,3.5,4.5,4.5,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"593",1683,"Santa Fe Brewing Company",1176875427,3,3,5,"American Barleywine",5,3,"Chicken Killer Barley Wine",10,28817
-"594",1683,"Santa Fe Brewing Company",1150908404,4,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"595",1683,"Santa Fe Brewing Company",1147863341,3,2.5,4,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
-"596",1683,"Santa Fe Brewing Company",1144852870,4,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"597",1683,"Santa Fe Brewing Company",1144085864,4,4,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"598",1683,"Santa Fe Brewing Company",1141705375,3,3,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"599",1683,"Santa Fe Brewing Company",1325792593,4,4,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"600",1683,"Santa Fe Brewing Company",1322193075,4,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"601",1683,"Santa Fe Brewing Company",1243820441,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"602",1683,"Santa Fe Brewing Company",1321835250,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"603",1683,"Santa Fe Brewing Company",1321650420,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"604",1683,"Santa Fe Brewing Company",1320626903,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"605",1683,"Santa Fe Brewing Company",1318707712,3.5,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"606",1683,"Santa Fe Brewing Company",1318104385,2.5,2,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"607",1683,"Santa Fe Brewing Company",1317075274,4,3.5,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"608",1683,"Santa Fe Brewing Company",1315248687,4,4,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"609",1683,"Santa Fe Brewing Company",1315196646,4.5,3.5,4,"American Barleywine",4.5,4.5,"Chicken Killer Barley Wine",10,28817
-"610",1683,"Santa Fe Brewing Company",1314565311,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"611",1683,"Santa Fe Brewing Company",1314476722,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"612",1683,"Santa Fe Brewing Company",1309152936,2,4,4,"American Barleywine",3.5,2,"Chicken Killer Barley Wine",10,28817
-"613",1683,"Santa Fe Brewing Company",1308006256,3,3.5,3.5,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
-"614",1683,"Santa Fe Brewing Company",1307675788,4,2,3,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
-"615",1683,"Santa Fe Brewing Company",1306561246,3.5,3.5,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
-"616",1683,"Santa Fe Brewing Company",1306559833,3,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"617",1683,"Santa Fe Brewing Company",1304535130,3.5,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"618",1683,"Santa Fe Brewing Company",1304484385,4,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"619",1683,"Santa Fe Brewing Company",1304308108,3,3,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
-"620",1683,"Santa Fe Brewing Company",1303307089,3.5,3.5,4.5,"American Barleywine",4.5,3,"Chicken Killer Barley Wine",10,28817
-"621",1683,"Santa Fe Brewing Company",1301698951,3.5,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"622",1683,"Santa Fe Brewing Company",1301094638,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"623",1683,"Santa Fe Brewing Company",1300994645,4.5,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"624",1683,"Santa Fe Brewing Company",1300578453,2.5,2.5,3.5,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
-"625",1683,"Santa Fe Brewing Company",1296368186,4,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"626",1683,"Santa Fe Brewing Company",1293642839,4,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"627",1683,"Santa Fe Brewing Company",1293253787,3.5,3.5,4.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"628",1683,"Santa Fe Brewing Company",1292991717,3,3,4.5,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"629",1683,"Santa Fe Brewing Company",1285470766,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"630",1683,"Santa Fe Brewing Company",1284125536,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"631",1683,"Santa Fe Brewing Company",1283570180,4,3.5,3.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
-"632",1683,"Santa Fe Brewing Company",1279509092,2,2,4,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
-"633",1683,"Santa Fe Brewing Company",1277937079,3.5,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"634",1683,"Santa Fe Brewing Company",1276577021,2.5,3,4.5,"American Barleywine",2,3,"Chicken Killer Barley Wine",10,28817
-"635",1683,"Santa Fe Brewing Company",1272770756,4,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"636",1683,"Santa Fe Brewing Company",1272124767,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"637",1683,"Santa Fe Brewing Company",1268621676,4,4,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"638",1683,"Santa Fe Brewing Company",1268542617,3.5,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"639",1683,"Santa Fe Brewing Company",1264119497,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"640",1683,"Santa Fe Brewing Company",1263419322,2.5,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"641",1683,"Santa Fe Brewing Company",1259813311,4.5,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"642",1683,"Santa Fe Brewing Company",1254707807,3,4,4,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
-"643",1683,"Santa Fe Brewing Company",1253935679,3.5,3,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"644",1683,"Santa Fe Brewing Company",1288286668,5,5,4.5,"American Wild Ale",4,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"645",1683,"Santa Fe Brewing Company",1252878794,2.5,4,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"646",1683,"Santa Fe Brewing Company",1251871688,3,3,4,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
-"647",1683,"Santa Fe Brewing Company",1251516818,2.5,3,3,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
-"648",1683,"Santa Fe Brewing Company",1251054432,3.5,4,4.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"649",1683,"Santa Fe Brewing Company",1250810386,2,3,4.5,"American Barleywine",2.5,2.5,"Chicken Killer Barley Wine",10,28817
-"650",1683,"Santa Fe Brewing Company",1249591346,2,3.5,4,"American Barleywine",3,2,"Chicken Killer Barley Wine",10,28817
-"651",1683,"Santa Fe Brewing Company",1249364149,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"652",1683,"Santa Fe Brewing Company",1247383454,3,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"653",1683,"Santa Fe Brewing Company",1244993105,5,4,4,"American Barleywine",4.5,4.5,"Chicken Killer Barley Wine",10,28817
-"654",1683,"Santa Fe Brewing Company",1242531907,4,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"655",1683,"Santa Fe Brewing Company",1242503866,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"656",1683,"Santa Fe Brewing Company",1241034765,3.5,3,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"657",1683,"Santa Fe Brewing Company",1239118664,3.5,4,4,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
-"658",1683,"Santa Fe Brewing Company",1238803073,3,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"659",1683,"Santa Fe Brewing Company",1238364685,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"660",1683,"Santa Fe Brewing Company",1237268533,3.5,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"661",1683,"Santa Fe Brewing Company",1219714561,3.5,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"662",1683,"Santa Fe Brewing Company",1233263165,3.5,3,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"663",1683,"Santa Fe Brewing Company",1232762554,3,4,3.5,"American Barleywine",2.5,3.5,"Chicken Killer Barley Wine",10,28817
-"664",1683,"Santa Fe Brewing Company",1231912375,3,3,3.5,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
-"665",1683,"Santa Fe Brewing Company",1231911891,2.5,3,3,"American Barleywine",3,2.5,"Chicken Killer Barley Wine",10,28817
-"666",1683,"Santa Fe Brewing Company",1231518731,3,3,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"667",1683,"Santa Fe Brewing Company",1231200761,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"668",1683,"Santa Fe Brewing Company",1230965032,3,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"669",1683,"Santa Fe Brewing Company",1230077670,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"670",1683,"Santa Fe Brewing Company",1219253856,4.5,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"671",1683,"Santa Fe Brewing Company",1229648879,2,3,3,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
-"672",1683,"Santa Fe Brewing Company",1229448615,4,4,3,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
-"673",1683,"Santa Fe Brewing Company",1228454549,2.5,3,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"674",1683,"Santa Fe Brewing Company",1227933881,4,4,3.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
-"675",1683,"Santa Fe Brewing Company",1226957144,4.5,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"676",1683,"Santa Fe Brewing Company",1226631368,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"677",1683,"Santa Fe Brewing Company",1226198927,4.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"678",1683,"Santa Fe Brewing Company",1226192050,4,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"679",1683,"Santa Fe Brewing Company",1224531605,4,3.5,3.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
-"680",1683,"Santa Fe Brewing Company",1224467763,4.5,4,4,"American Barleywine",3.5,4.5,"Chicken Killer Barley Wine",10,28817
-"681",1683,"Santa Fe Brewing Company",1223072897,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"682",1683,"Santa Fe Brewing Company",1218608191,3,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
-"683",1683,"Santa Fe Brewing Company",1217744820,4,2.5,3,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
-"684",1683,"Santa Fe Brewing Company",1216051109,4,3,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"685",1683,"Santa Fe Brewing Company",1215818429,4,4,4.5,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
-"686",1683,"Santa Fe Brewing Company",1215133841,3,3,4.5,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
-"687",1683,"Santa Fe Brewing Company",1215055875,3,4.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"688",1683,"Santa Fe Brewing Company",1214100623,2.5,3.5,4,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
-"689",1683,"Santa Fe Brewing Company",1213939755,3.5,3.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
-"690",1683,"Santa Fe Brewing Company",1324915331,4,3.5,3.5,"American Porter",3,3.5,"Bourbon Barrel State Pen Porter",7,74707
-"691",1683,"Santa Fe Brewing Company",1324802553,2,2,2,"American Porter",1,2.5,"Bourbon Barrel State Pen Porter",7,74707
-"692",1683,"Santa Fe Brewing Company",1323640859,3,3.5,4,"American Porter",3,3,"Bourbon Barrel State Pen Porter",7,74707
-"693",1683,"Santa Fe Brewing Company",1323133437,3.5,4,4,"American Porter",5,3,"Bourbon Barrel State Pen Porter",7,74707
-"694",1683,"Santa Fe Brewing Company",1322128616,2,2,3.5,"American Porter",3,1.5,"Bourbon Barrel State Pen Porter",7,74707
-"695",1683,"Santa Fe Brewing Company",1319990800,3.5,3,4,"American Porter",4,3,"Bourbon Barrel State Pen Porter",7,74707
-"696",1683,"Santa Fe Brewing Company",1319990739,3.5,2.5,4,"American Porter",3.5,3,"Bourbon Barrel State Pen Porter",7,74707
-"697",1683,"Santa Fe Brewing Company",1318981935,3.5,3.5,4,"American Wild Ale",3.5,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"698",1683,"Santa Fe Brewing Company",1316660705,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"699",1683,"Santa Fe Brewing Company",1314905057,3,3,3.5,"American Wild Ale",3,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"700",1683,"Santa Fe Brewing Company",1314640480,3.5,3.5,4,"American Wild Ale",4,3.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"701",1683,"Santa Fe Brewing Company",1313880321,3,3.5,3,"American Wild Ale",3,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"702",1683,"Santa Fe Brewing Company",1313800185,2,2,4,"American Wild Ale",2.5,2,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"703",1683,"Santa Fe Brewing Company",1313638180,3.5,3.5,3.5,"American Wild Ale",2,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"704",1683,"Santa Fe Brewing Company",1313463699,4,3.5,4,"American Wild Ale",3,4,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"705",1683,"Santa Fe Brewing Company",1310440407,4,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"706",1683,"Santa Fe Brewing Company",1312214784,4,4,3.5,"American Wild Ale",3.5,4,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"707",1683,"Santa Fe Brewing Company",1311119819,4,5,3.5,"American Wild Ale",3.5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"708",1683,"Santa Fe Brewing Company",1310625255,3.5,4,3.5,"American Wild Ale",2.5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"709",1683,"Santa Fe Brewing Company",1309999808,4.5,4.5,4,"American Wild Ale",5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
-"710",1683,"Santa Fe Brewing Company",1322370268,3,3,3.5,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"711",1683,"Santa Fe Brewing Company",1321228905,4,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"712",1683,"Santa Fe Brewing Company",1321051013,4,4,3,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"713",1683,"Santa Fe Brewing Company",1320787289,3.5,3.5,4,"American Wild Ale",3.5,3.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"714",1683,"Santa Fe Brewing Company",1307976436,3.5,3.5,3,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"715",1683,"Santa Fe Brewing Company",1307905791,4,4,4,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"716",1683,"Santa Fe Brewing Company",1304981979,4.5,4,3.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"717",1683,"Santa Fe Brewing Company",1304727601,4,4,3.5,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"718",1683,"Santa Fe Brewing Company",1304346948,4.5,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"719",1683,"Santa Fe Brewing Company",1304051512,4.5,4,4,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"720",1683,"Santa Fe Brewing Company",1303507138,2.5,3.5,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"721",1683,"Santa Fe Brewing Company",1299894369,2,4,4,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"722",1683,"Santa Fe Brewing Company",1299893946,2.5,3,3.5,"American Wild Ale",4,2.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"723",1683,"Santa Fe Brewing Company",1299893793,5,4,4,"American Wild Ale",5,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"724",1683,"Santa Fe Brewing Company",1299893697,4,4,3.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"725",1683,"Santa Fe Brewing Company",1293504395,3,3.5,3,"American Wild Ale",3,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"726",1683,"Santa Fe Brewing Company",1291836903,1.5,3.5,3.5,"American Wild Ale",4,2,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"727",1683,"Santa Fe Brewing Company",1290721021,3,3.5,4,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"728",1683,"Santa Fe Brewing Company",1290280230,3,4,4,"American Wild Ale",3,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"729",1683,"Santa Fe Brewing Company",1290097207,3,4.5,3.5,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"730",1683,"Santa Fe Brewing Company",1290044627,4.5,4.5,3.5,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"731",1683,"Santa Fe Brewing Company",1290044617,4,4,4,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"732",1683,"Santa Fe Brewing Company",1289889344,4,4,3.5,"American Wild Ale",4.5,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"733",1683,"Santa Fe Brewing Company",1289866524,4,4.5,4.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"734",1683,"Santa Fe Brewing Company",1289789789,3,3.5,3.5,"American Wild Ale",4,3.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"735",1683,"Santa Fe Brewing Company",1289755916,2.5,3.5,3.5,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"736",1683,"Santa Fe Brewing Company",1287880856,5,5,4,"American Wild Ale",4.5,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
-"737",1683,"Santa Fe Brewing Company",1318961784,4.5,3.5,3,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"738",1683,"Santa Fe Brewing Company",1318283902,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"739",1683,"Santa Fe Brewing Company",1314339332,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"740",1683,"Santa Fe Brewing Company",1312292926,4,4,3.5,"German Pilsener",3.5,3.5,"Freestyle Pilsner",5.5,30500
-"741",1683,"Santa Fe Brewing Company",1310954767,4,4,3.5,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
-"742",1683,"Santa Fe Brewing Company",1310257833,4,3.5,3.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
-"743",1683,"Santa Fe Brewing Company",1310014835,3,3.5,3.5,"German Pilsener",3.5,3,"Freestyle Pilsner",5.5,30500
-"744",1683,"Santa Fe Brewing Company",1309637750,4,4,4,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
-"745",1683,"Santa Fe Brewing Company",1309395800,3,3,3,"German Pilsener",3,3,"Freestyle Pilsner",5.5,30500
-"746",1683,"Santa Fe Brewing Company",1309308521,3.5,3.5,3,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
-"747",1683,"Santa Fe Brewing Company",1308455704,4.5,4,4.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
-"748",1683,"Santa Fe Brewing Company",1306037369,4.5,3,4,"German Pilsener",4,3.5,"Freestyle Pilsner",5.5,30500
-"749",1683,"Santa Fe Brewing Company",1305932354,4,3.5,4,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"750",1683,"Santa Fe Brewing Company",1287678312,4.5,4,4,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
-"751",1683,"Santa Fe Brewing Company",1283783087,4.5,4,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"752",1683,"Santa Fe Brewing Company",1283745914,5,4,4.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
-"753",1683,"Santa Fe Brewing Company",1282221405,4,4,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"754",1683,"Santa Fe Brewing Company",1281155758,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"755",1683,"Santa Fe Brewing Company",1280868236,4.5,3.5,4.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
-"756",1683,"Santa Fe Brewing Company",1246904152,4.5,4,4.5,"German Pilsener",4,3.5,"Freestyle Pilsner",5.5,30500
-"757",1683,"Santa Fe Brewing Company",1147620691,4,4,4,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
-"758",1683,"Santa Fe Brewing Company",1323495309,3.5,3,2.5,"Hefeweizen",1.5,4,"Hefeweizen Ale",5.25,55023
-"759",1683,"Santa Fe Brewing Company",1310876377,3,3,3.5,"Hefeweizen",3.5,3,"Hefeweizen Ale",5.25,55023
-"760",1683,"Santa Fe Brewing Company",1307937692,3.5,3,3,"Hefeweizen",3,3.5,"Hefeweizen Ale",5.25,55023
-"761",1683,"Santa Fe Brewing Company",1306631430,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
-"762",1683,"Santa Fe Brewing Company",1297786749,3.5,3,3,"Hefeweizen",3,3,"Hefeweizen Ale",5.25,55023
-"763",1683,"Santa Fe Brewing Company",1295300878,4,3,3.5,"Hefeweizen",3,3,"Hefeweizen Ale",5.25,55023
-"764",1683,"Santa Fe Brewing Company",1291617317,3,3,3,"Hefeweizen",3.5,3,"Hefeweizen Ale",5.25,55023
-"765",1683,"Santa Fe Brewing Company",1289232255,3,4,2.5,"Hefeweizen",2.5,3,"Hefeweizen Ale",5.25,55023
-"766",1683,"Santa Fe Brewing Company",1286255974,4,4,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
-"767",1683,"Santa Fe Brewing Company",1284255937,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
-"768",1683,"Santa Fe Brewing Company",1282889639,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
-"769",1683,"Santa Fe Brewing Company",1280109400,3.5,2.5,4,"Hefeweizen",4,3,"Hefeweizen Ale",5.25,55023
-"770",1683,"Santa Fe Brewing Company",1278878047,3.5,4,3,"Hefeweizen",3,4,"Hefeweizen Ale",5.25,55023
-"771",1683,"Santa Fe Brewing Company",1273115622,4,4,4,"Hefeweizen",3.5,4,"Hefeweizen Ale",5.25,55023
-"772",1683,"Santa Fe Brewing Company",1272504825,4,3,2.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
-"773",1683,"Santa Fe Brewing Company",1268109613,3,4,3,"Hefeweizen",3,3.5,"Hefeweizen Ale",5.25,55023
-"774",1683,"Santa Fe Brewing Company",1261878639,3.5,2.5,3.5,"Hefeweizen",4,3.5,"Hefeweizen Ale",5.25,55023
-"775",1683,"Santa Fe Brewing Company",1321808623,2.5,3,3,"American Barleywine",3,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"776",1683,"Santa Fe Brewing Company",1304051350,3.5,3.5,4,"American Barleywine",4,4,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"777",1683,"Santa Fe Brewing Company",1298575244,3,3,3.5,"American Barleywine",3,3.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"778",1683,"Santa Fe Brewing Company",1297389170,4,3.5,3.5,"American Barleywine",3.5,2.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"779",1683,"Santa Fe Brewing Company",1296529087,4,4.5,3,"American Barleywine",4,4,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"780",1683,"Santa Fe Brewing Company",1292173076,4,4,3.5,"American Barleywine",3.5,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"781",1683,"Santa Fe Brewing Company",1290212575,3,3.5,3,"American Barleywine",3.5,3.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"782",1683,"Santa Fe Brewing Company",1290212563,3,3,3.5,"American Barleywine",4,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
-"783",1683,"Santa Fe Brewing Company",1287882755,4,5,4.5,"American Barleywine",5,4.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+1683,"Santa Fe Brewing Company",1299891497,3.5,2.5,3.5,"American Wild Ale",2.5,3,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1309841542,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1159115758,4.5,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1158215730,2,3.5,2.5,"English Brown Ale",2,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1155870500,3.5,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1309822222,2.5,2.5,4,"English Brown Ale",3.5,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1151371368,3,3,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1147863582,3,4,4,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1052826561,3,3,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1324700371,3.5,3,3.5,"English Brown Ale",4,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1322450313,2,4,4,"English Brown Ale",2,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1320717315,3.5,3.5,3.5,"English Brown Ale",2.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1319257258,3,3,4,"English Brown Ale",4,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1319074285,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1317692782,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1315706545,3.5,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1312520431,3.5,3.5,4.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1304900895,4,3,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1292301961,4,4,4.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1289695732,4,3.5,4,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1286225491,4.5,3.5,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1282654245,4,3.5,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1280532413,3.5,4,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1280021577,4,2,4,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1279471013,3.5,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1274381238,3,3,3.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1270571860,4,4,4,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1270075987,3,2.5,4,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1269553660,2.5,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1204933418,3,4,4,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1269551512,3,2,3.5,"English Brown Ale",2.5,2,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1263605848,4,3.5,3,"English Brown Ale",4,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1253250279,3.5,3.5,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1249836610,3.5,3,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1243305569,4.5,3,4.5,"English Brown Ale",4.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1238637179,2.5,3,2.5,"English Brown Ale",2,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1238261740,2,1.5,3,"English Brown Ale",3,2,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1236904272,3,3,3.5,"English Brown Ale",2,2,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1236744195,3,3,4,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1235699919,3,2,4,"English Brown Ale",2,2,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1234498884,2.5,2,2.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1233522060,4.5,3,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1232917770,3.5,4,3.5,"English Brown Ale",2.5,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1232558865,2.5,2.5,4,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1232424857,3,3,3,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1232310723,3,3.5,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1231705219,3,3,3.5,"English Brown Ale",2.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1231388853,3,2,2.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1231252982,3.5,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1228507806,4,4,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1226541313,3.5,4.5,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1225568199,5,4,4.5,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1225051327,2.5,4.5,3,"English Brown Ale",2,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1222915221,3.5,3.5,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1222328590,4,4,3.5,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1221268507,3.5,4,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1221158958,3,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1220211000,4,3.5,4,"English Brown Ale",4.5,5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1216418819,3.5,3,3.5,"English Brown Ale",3,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1216401060,4,4,4,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1216295595,3.5,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1216089526,3,4,3,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1215840611,3,2.5,3.5,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1213044304,3,4,3.5,"English Brown Ale",3,2.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1211233543,2,3,4,"English Brown Ale",2.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1210106396,3,4,4.5,"English Brown Ale",3,2,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1209492257,4.5,3.5,3.5,"English Brown Ale",3,4.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1208808710,3,3.5,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1208387547,3,3,3,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1206495768,4.5,3,3,"English Brown Ale",4.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1206326384,4.5,3.5,4,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1206298584,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1206150265,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1205250682,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1204959053,3.5,3.5,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1204863151,3.5,3,3.5,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1204427702,4,4,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1203908187,3.5,3,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1203783944,4,4,4,"English Brown Ale",4,4.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1203037199,4,2,3,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1201805685,4,3.5,3,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1200799697,4,3.5,4,"English Brown Ale",3.5,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1199231470,4.5,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1195847804,4,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1190961039,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1189297783,3.5,3.5,4,"English Brown Ale",3,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1182478516,3.5,4,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1181747191,3,3.5,4,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1180299016,3.5,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1179528817,3.5,3,3,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1178150641,5,4,3.5,"English Brown Ale",3,4,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1175139007,4,4,3.5,"English Brown Ale",4,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1170128431,4,3.5,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1169701899,3,3,3.5,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1166153258,3.5,3,3.5,"English Brown Ale",3.5,3.5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1160972629,4.5,4,4.5,"English Brown Ale",4,5,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1160451398,3,2.5,3,"English Brown Ale",3.5,3,"Nut Brown Ale",5.2,4792
+1683,"Santa Fe Brewing Company",1325956095,4,3.5,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1325917897,4.5,4.5,4.5,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1325724629,4,3.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1325564648,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1325123476,4,4.5,4,"American Double / Imperial Stout",3.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1324616357,3,3.5,2.5,"American Double / Imperial Stout",3,3,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1324249636,3.5,4.5,3,"American Double / Imperial Stout",2.5,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1255217072,3,3.5,3,"American Pale Wheat Ale",3.5,3,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1319074514,4,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1318622273,4,3.5,4.5,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1317275342,4,4.5,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1316046437,4.5,4,4.5,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1313368334,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1312946497,4,3.5,4,"American Double / Imperial Stout",4.5,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1311073134,3,3.5,3.5,"American Double / Imperial Stout",2.5,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1307454042,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1307452439,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1307383776,4.5,4,3.5,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1306993785,3.5,3.5,3.5,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1306604865,3,4,4,"American Double / Imperial Stout",4,3,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1306112248,4,4,4,"American Double / Imperial Stout",3,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1305736911,4,4,3.5,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1305352059,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1305157000,4.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1304998135,3.5,4,3.5,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1304988102,4.5,4,4.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1304665674,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1302619491,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1302392078,4.5,4.5,4.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1302044483,4,3,3.5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1301111488,4.5,4.5,5,"American Double / Imperial Stout",4.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1300838521,4,4,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1319074444,3.5,4,4.5,"American IPA",3,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1300587247,4.5,3,4.5,"American Double / Imperial Stout",5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1299563407,3.5,4,4.5,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1299249638,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1299174552,3.5,4,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1299119141,4.5,4.5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1298660930,4,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1298526981,4.5,4.5,3.5,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1298346188,4,5,4,"American Double / Imperial Stout",3.5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1266980045,5,4,5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1297007335,4,3,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1295311291,4,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1295136778,4.5,3,3.5,"American Double / Imperial Stout",4,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1295054325,4.5,4.5,4,"American Double / Imperial Stout",4,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1294374300,4,4,4,"American Double / Imperial Stout",4.5,4.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1292634209,3.5,5,5,"American Double / Imperial Stout",5,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1256755026,4,4,4,"American Porter",4.5,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1292388476,3,3.5,4,"American Double / Imperial Stout",3,3.5,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1243181539,3.5,4,4,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1204431066,4,4,3,"American Double / Imperial Stout",4,4,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1175372062,2,2,1.5,"American Double / Imperial Stout",2,2,"Imperial Java Stout",8,36164
+1683,"Santa Fe Brewing Company",1293811811,4.5,4.5,4,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1292380667,5,5,4.5,"American Porter",4.5,5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1289541113,4.5,5,4.5,"American Porter",4,5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1287955583,4.5,4.5,4.5,"American Porter",4.5,5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1284125598,4,4,4,"American Porter",4,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1277665454,2,3.5,4.5,"American Porter",3,2.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1272052006,4.5,4,4.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1270644640,4.5,4.5,4,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1268120484,4.5,4,4.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1250377958,4,4.5,4.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1240099598,4,4,3.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1233625278,4,4,3.5,"American Porter",4,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1233447999,4,3.5,3.5,"American Porter",4,3.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1232907832,3.5,4,3.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1231108000,3.5,3,4.5,"American Porter",4.5,3.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1229398181,4.5,3.5,4.5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1228072872,3.5,3.5,4,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1227931065,4,4,4,"American Porter",4,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1227406304,4,3,4.5,"American Porter",4,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1225590464,3.5,4,4,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1319293936,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1222823947,4.5,4,3.5,"American Porter",4,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1216261122,3,3.5,4.5,"American Porter",4,3,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1213896733,4.5,3.5,5,"American Porter",3.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1210129761,4.5,4.5,4.5,"American Porter",4.5,4,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1209184520,4.5,4.5,4.5,"American Porter",4.5,4.5,"State Pen Imperial Porter",10,42336
+1683,"Santa Fe Brewing Company",1325915302,3.5,3.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1324350034,3.5,3.5,4.5,"American IPA",3,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1323306562,4,4,3.5,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1323227875,3.5,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1323190398,4,3.5,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1322948269,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1321895410,3.5,3.5,4,"American IPA",3,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1320843147,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1320622945,1.5,3.5,4.5,"American IPA",1.5,1.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1320617745,3.5,3.5,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1319998388,3.5,4,3.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1318858453,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1318083378,3.5,4,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1317348330,3.5,4,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1315973913,4,4,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1315786528,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1315617383,3.5,3.5,3.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1315259261,4,4.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1315029458,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1314933999,4,4,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1314926506,4,3.5,3,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1311491081,4,4,3.5,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1314424264,3,3.5,3.5,"American IPA",3.5,3,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1314044268,4.5,4.5,4,"American IPA",3.5,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1313704786,4.5,4.5,4.5,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1313454551,4,3.5,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1313368391,4,3.5,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1312668753,4,4,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1311984610,4.5,4,4.5,"American IPA",4,5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1311722375,4,3.5,3.5,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1311055587,3.5,3.5,3,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1311050255,3,3.5,3.5,"American IPA",2,3,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1310702192,3.5,3,4,"American IPA",3,3,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1310688949,4,4.5,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1310359663,3.5,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1310163657,3.5,3.5,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1309813293,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1309807983,4,3.5,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1303536691,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1309723201,4.5,4,5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1308178191,4.5,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307757818,4,3.5,4.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307747519,3.5,3.5,3,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307632542,3.5,4,4,"American IPA",4,3,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307253500,4,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307251403,4,2,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307152925,4,3.5,4,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1307129714,3.5,4,3.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1306605075,4,4,4.5,"American IPA",3.5,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1306445012,4,4,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1306086048,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1305507633,4,4,4.5,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1305497915,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1304380813,4,3.5,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1303264583,4,3.5,4,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1301376962,4,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1300573924,4.5,4.5,4.5,"American IPA",4.5,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1300135595,4,3.5,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1299647833,3.5,4,4.5,"American IPA",3.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1297437782,5,3,4,"American IPA",4.5,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1295218971,4,4,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1295154695,3.5,3.5,4.5,"American IPA",3.5,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1294361874,3,4,3.5,"American IPA",3,3,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1294285869,3,4,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1292385201,4.5,4,3.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1291088907,4,3.5,4,"American IPA",4,3.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1287897898,4,4.5,4,"American IPA",4,4.5,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1283813631,4.5,5,4.5,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1283717086,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1282169509,4,4,4,"American IPA",4,4,"Happy Camper IPA",6.6,61149
+1683,"Santa Fe Brewing Company",1305241979,3,3,3,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1246911327,3.5,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1244780460,3.5,3,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1244755814,3.5,2,3.5,"American Pale Wheat Ale",3,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1235866252,2,3,3.5,"American Pale Wheat Ale",3,1.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1231647612,3,3,3,"American Pale Wheat Ale",3,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1230692813,4,4,4,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1222916179,4,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1210984308,4,3.5,3.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1209950880,2.5,3,3,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1171286773,4,4,1.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1207356070,3,3.5,3,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1200542463,2.5,3.5,3.5,"American Pale Wheat Ale",3,3,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1191052049,3,2.5,2.5,"American Pale Wheat Ale",2,2,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1189381546,4,3.5,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1186958274,5,4,3.5,"American Pale Wheat Ale",3.5,4.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1180148211,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1176267367,3.5,3.5,3.5,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1175372458,5,3.5,3,"American Pale Wheat Ale",4,4.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1173634098,3.5,4,4,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1158863936,4,3.5,4,"American Pale Wheat Ale",4,4.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1153192034,3,3.5,4,"American Pale Wheat Ale",4,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1152479251,4.5,4,3.5,"American Pale Wheat Ale",3.5,4,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1150945400,4,3.5,3,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1122612784,3.5,3.5,2.5,"American Pale Wheat Ale",3.5,3.5,"Santa Fe Wheat",5.25,25015
+1683,"Santa Fe Brewing Company",1293546517,3.5,3,3.5,"Fruit / Vegetable Beer",3.5,3,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1292283830,5,4.5,3.5,"Fruit / Vegetable Beer",4.5,5,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1278289868,3.5,3.5,4,"Fruit / Vegetable Beer",4,3.5,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1275019627,2.5,5,3,"Fruit / Vegetable Beer",3,2.5,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1247630314,2.5,3.5,4,"Fruit / Vegetable Beer",3,2.5,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1242245632,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1230780091,3.5,4,4,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1230174366,3.5,4,3.5,"Fruit / Vegetable Beer",4,4,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1227930637,2,2.5,4,"Fruit / Vegetable Beer",3,2,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1225589500,2.5,3.5,3.5,"Fruit / Vegetable Beer",2,2,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1312411631,4,4,4,"American Wild Ale",4,4,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1214322807,3.5,3.5,4,"Fruit / Vegetable Beer",3.5,3.5,"Sangre De Frambuesa",12,43365
+1683,"Santa Fe Brewing Company",1252565008,2.5,3,3,"American Blonde Ale",4,3,"Dirty Blonde",NA,52511
+1683,"Santa Fe Brewing Company",1319417525,4,3.5,4,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1316565323,3.5,3.5,3,"American Wild Ale",3,3.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1307905505,3.5,4,4.5,"American Wild Ale",3,3.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1284508545,3.5,4.5,4,"American Wild Ale",4,3.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1291724802,3,1.5,3,"American Wild Ale",2.5,2.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1291681142,3,3,4,"American Wild Ale",4.5,4,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1291613324,4,2.5,3.5,"American Wild Ale",4.5,4,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1291579052,3,2,2.5,"American Wild Ale",4,4,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1291516818,3,1.5,2.5,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1284841545,4,4,4,"American Wild Ale",4,3.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1277252735,5,4.5,4,"American Wild Ale",4,4.5,"Wild Ale #5",NA,59482
+1683,"Santa Fe Brewing Company",1299892206,4,4,3.5,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1299891822,3,4,3,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1299891559,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1284215477,4,4.5,4,"American Wild Ale",4,4,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1278966575,3,3,3.5,"American Wild Ale",3.5,3.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1278800890,2.5,3,3.5,"American Wild Ale",3.5,3,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1277694684,4,4,4,"American Wild Ale",4,4,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1277253014,4,4,4,"American Wild Ale",4,4.5,"Wild Ale #3",NA,59483
+1683,"Santa Fe Brewing Company",1173892091,4,3,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1173080093,3,2.5,3,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1171058054,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1170646255,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1169671576,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1301682706,3.5,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1164761664,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1160275010,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1158897203,4.5,4,4,"American Pale Ale (APA)",4,4.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1156317948,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1156224123,2.5,3.5,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1155692113,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1153400168,4.5,2.5,4,"American Pale Ale (APA)",4.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1151192492,3,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1279918836,3,3,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1147863920,3.5,4.5,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1144895658,3.5,4,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1124845634,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1122614036,4,3.5,2.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1121910845,3,2.5,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1098803330,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1098568188,3,3.5,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1097127507,2.5,1.5,4,"American Pale Ale (APA)",3.5,1.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1077746299,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1052826952,3.5,3,3,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1049281859,3,3,4,"American Pale Ale (APA)",3,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1323497562,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1322590336,3.5,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1321894970,3,3,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1319074202,3.5,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1318740943,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1314306245,3,3,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1310354857,3.5,3,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1309821900,3,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1308709863,3.5,3.5,3,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1307760312,4.5,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1304900186,3,2,2.5,"American Pale Ale (APA)",4,2.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1302404437,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1300325109,3.5,3,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1298659381,4,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1298357214,4,3.5,4.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1297576106,4,3.5,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1297401471,4.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1296939649,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1292022752,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1286766828,4,4,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1285300245,4,4,3.5,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1284429308,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1280365804,3,3,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1279917191,4,3,3.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1277585769,4,3.5,3,"American Pale Ale (APA)",2,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1276331351,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1274299839,4,3.5,3,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1273890389,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1273016811,4,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1256943058,4,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1256699442,3.5,3.5,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1256094462,4,3.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1255211060,3.5,3.5,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1208960689,3,3,3,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1253488709,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1253314165,4,3,3,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1253250888,4,4,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1249352739,4.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1249090048,5,4.5,4.5,"American Pale Ale (APA)",4.5,4.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1246911738,3.5,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1245975538,3.5,2.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1245200376,4,4.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1243380417,4,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1243216597,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1242593159,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1239142458,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1238021930,3.5,3.5,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1237849651,3.5,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1237519921,3.5,3.5,3,"American Pale Ale (APA)",3,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1236656619,4,2.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1235266747,4,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1234376256,2,2.5,3,"American Pale Ale (APA)",1.5,1,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1231648758,3,3.5,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1231253475,3.5,3,4.5,"American Pale Ale (APA)",3.5,2.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1231133702,3.5,3.5,3.5,"American Pale Ale (APA)",3,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1228623895,3.5,2,2,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1225376617,3.5,2.5,4,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1225138392,3.5,3,3.5,"American Pale Ale (APA)",2.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1222917059,4,4,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1220015319,3.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1217539299,4,4,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1216401083,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1215982149,2.5,4,4.5,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1215840320,3,3,3.5,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1214443881,4.5,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1211939742,4,3.5,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1211829123,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1209828431,4,3,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1208749403,3.5,3,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1207706159,3,2,3.5,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1206143757,4,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1205439987,3.5,3,4.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1204409796,2.5,3,4,"American Pale Ale (APA)",3,2.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1202090227,3.5,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1200321417,4.5,4,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1193932093,4,4.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1189388914,3,4,4,"American Pale Ale (APA)",3.5,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1186959211,4,3.5,4,"American Pale Ale (APA)",3.5,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1182653542,3,3,3,"American Pale Ale (APA)",3,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1182489220,4,3.5,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1181702931,4,3,4,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1179886737,4.5,3,3.5,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1178854531,4,3.5,3.5,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1178788214,4,3,4.5,"American Pale Ale (APA)",3.5,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1177384063,4.5,3.5,4,"American Pale Ale (APA)",3.5,4.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1177252052,4,3.5,4,"American Pale Ale (APA)",4,4,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1176742335,3.5,3.5,4,"American Pale Ale (APA)",4,3.5,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1176697398,3.5,3,3,"American Pale Ale (APA)",4,3,"Pale Ale",5.5,4798
+1683,"Santa Fe Brewing Company",1196741540,3.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1194745509,3.5,3.5,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1191554765,3.5,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1191534171,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1191466451,3.5,4,4,"American Porter",3,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1186983349,3,3.5,3.5,"American Porter",3,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1180673111,4,3.5,2.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1178078169,3,4,3,"American Porter",3.5,3,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1177128050,4,4,3,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1176521125,3,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1326048262,4,4,4.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1323838572,4.5,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1323041101,3.5,3.5,3.5,"American Porter",3,3,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1322615009,3.5,3.5,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1322200755,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1322022513,4,3.5,4,"American Porter",4.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1322009196,3.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1321593920,4,4.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1321451180,4,3.5,3,"American Porter",2.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1320516267,4,4,5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1319334923,3.5,4.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1319074372,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1318035561,4,4,3.5,"American Porter",4.5,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1317273591,4.5,4,4.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1266269262,4,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1316811622,3,3.5,3.5,"American Porter",3,3,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1315894583,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1309908987,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1301520516,4,3,3.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1300244335,4,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1298072663,3,2.5,3,"American Porter",3.5,2.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1297756544,4.5,3.5,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1297568078,3.5,4,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1296011344,3.5,4,4.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1265012016,4.5,4.5,4,"American Porter",4,5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1295048080,3.5,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1292953984,2,3.5,3.5,"American Porter",3.5,2,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1291868058,4,4.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1289166358,4.5,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1288378252,4.5,4,4.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1286472234,4,4,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1285720269,3.5,4,4,"American Porter",3,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1284259400,4,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1282792268,2,1,4,"American Porter",4.5,1.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1281568561,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1280970506,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1280724024,4,3.5,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1279945710,4,4,4.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1279389209,4.5,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1278568574,4,3,4.5,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1275187418,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1274138010,4,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1272937701,4,3.5,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1268689707,4.5,4,4.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1258006407,3.5,3.5,3.5,"American Porter",3,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1257207963,4,3,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1256959718,3.5,4,3,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1256696117,2.5,3.5,4,"American Porter",3.5,2.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1255212819,3.5,4,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1254878093,4.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1253648210,3.5,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1253317528,3,3.5,3.5,"American Porter",2.5,2.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1253250506,4,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1250912830,4,4,4.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1250628642,4.5,4,4.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1249620088,4,4,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1249358329,4.5,3,4,"American Porter",4,3,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1246989528,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1245384918,3.5,3.5,3.5,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1244853421,4,4,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1244687954,4,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1244314092,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1244161766,4,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1224462426,4,3.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1244075790,3.5,4.5,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1242598571,4,3,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1241830152,3.5,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1240356477,4,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1239290009,3,4,3.5,"American Porter",2.5,3,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1238033528,4.5,4.5,3.5,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1236381688,4,3.5,4,"American Porter",4,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1233465870,3.5,4,4,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1225567689,4,4,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1223762406,3.5,3.5,4,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1221713426,3.5,3.5,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1220210690,4.5,3.5,4.5,"American Porter",5,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1219973586,4,4,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1215973718,4.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1215174242,4,4,3.5,"American Porter",3.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1213737641,4,4,4,"American Porter",4,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1210216998,4,4,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1209944239,4,3,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1206831481,4,3.5,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1206680865,4,3.5,4.5,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1206234866,4,3,3.5,"American Porter",3.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1204857104,4.5,4,4,"American Porter",4.5,4.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1204685995,4,4,4,"American Porter",4.5,3.5,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1204413086,3.5,3.5,4,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1203320841,4.5,3,3.5,"American Porter",4,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1199003893,3.5,3,4,"American Porter",4.5,4,"State Pen Porter",6.4,36341
+1683,"Santa Fe Brewing Company",1324591644,3.5,3,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1322977221,3.5,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1322615862,3,3.5,3,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1322531146,3.5,2,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1320597815,3.5,3,3,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1320189465,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1319418046,4,4,3,"Märzen / Oktoberfest",3.5,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1318263650,4.5,4.5,4.5,"Märzen / Oktoberfest",4,4.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1317304987,4,2.5,4.5,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1317273353,4,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1317263541,3.5,3,4,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316998643,4.5,2,3.5,"Märzen / Oktoberfest",5,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316820978,3,3,3.5,"Märzen / Oktoberfest",2.5,3,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316484558,4.5,3,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316403531,4,3.5,3.5,"Märzen / Oktoberfest",4,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316392131,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1290288616,4,4,5,"Märzen / Oktoberfest",3.5,4.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1275677351,3.5,4.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1274301382,4.5,5,4,"American Wild Ale",4.5,4.5,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1287887362,4,4,4,"Märzen / Oktoberfest",4,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1286848894,4.5,4.5,4,"Märzen / Oktoberfest",4.5,4,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1286256315,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Oktoberfest",6,62353
+1683,"Santa Fe Brewing Company",1316566027,3.5,4,4,"American Wild Ale",4,3.5,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1316565098,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1307905280,4,4.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1279601442,3.5,4.5,4,"American Wild Ale",4,4.5,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1278378788,3.5,3.5,4,"American Wild Ale",4,4,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1277252531,4.5,4,4,"American Wild Ale",4,4.5,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1277165844,4,3,4,"American Wild Ale",3.5,4,"Wild Ale #4",NA,58457
+1683,"Santa Fe Brewing Company",1292283023,4,4.5,4.5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1267329495,4.5,3.5,3,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1252789307,3.5,4,4,"American Double / Imperial IPA",3.5,4,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1246921238,4,4.5,4.5,"American Double / Imperial IPA",4.5,4,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1240325745,4,4,5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1240184798,4,4.5,4,"American Double / Imperial IPA",4,4,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1231039716,4,4,4.5,"American Double / Imperial IPA",4,4.5,"Imperial Yippee IPA",9.5,47047
+1683,"Santa Fe Brewing Company",1213818133,3.5,3.5,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1207338160,3.5,4,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1211855991,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1211168497,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1209608894,3,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1209552050,3,3.5,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1209528079,3.5,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1209350371,4,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1207929918,2.5,4,3,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1207445288,4,3,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1207266740,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1206571739,4.5,3.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1206394181,3,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1204327480,3,2.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1204217928,3.5,4,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1202917741,3.5,4,5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1202700634,4,3.5,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1201374137,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1201020746,2.5,3.5,3.5,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1198981393,3,3.5,3.5,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1198250820,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1196059981,2.5,3.5,3,"American Barleywine",4.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1195804640,4,3,3.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1195427791,3.5,3.5,4.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1194584075,5,4,4.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1194564884,4,3,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1193799589,3.5,4,3.5,"American Barleywine",3,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1191446327,4,4,3,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1190874074,3,4,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1189976247,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1189921771,3.5,3.5,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1184041767,3.5,4,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1179978301,4.5,3.5,5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1179209514,4,3.5,4,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1179104935,4.5,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1178686367,3.5,3.5,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1177715625,4,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1177131146,4,4,4,"American Barleywine",5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1177088189,3.5,4.5,4.5,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1176875427,3,3,5,"American Barleywine",5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1150908404,4,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1147863341,3,2.5,4,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1144852870,4,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1144085864,4,4,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1141705375,3,3,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1325792593,4,4,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1322193075,4,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1243820441,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1321835250,3.5,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1321650420,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1320626903,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1318707712,3.5,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1318104385,2.5,2,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1317075274,4,3.5,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1315248687,4,4,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1315196646,4.5,3.5,4,"American Barleywine",4.5,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1314565311,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1314476722,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1309152936,2,4,4,"American Barleywine",3.5,2,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1308006256,3,3.5,3.5,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1307675788,4,2,3,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1306561246,3.5,3.5,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1306559833,3,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1304535130,3.5,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1304484385,4,4,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1304308108,3,3,4,"American Barleywine",3,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1303307089,3.5,3.5,4.5,"American Barleywine",4.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1301698951,3.5,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1301094638,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1300994645,4.5,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1300578453,2.5,2.5,3.5,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1296368186,4,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1293642839,4,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1293253787,3.5,3.5,4.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1292991717,3,3,4.5,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1285470766,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1284125536,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1283570180,4,3.5,3.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1279509092,2,2,4,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1277937079,3.5,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1276577021,2.5,3,4.5,"American Barleywine",2,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1272770756,4,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1272124767,4,3.5,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1268621676,4,4,3.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1268542617,3.5,4,4,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1264119497,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1263419322,2.5,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1259813311,4.5,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1254707807,3,4,4,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1253935679,3.5,3,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1288286668,5,5,4.5,"American Wild Ale",4,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1252878794,2.5,4,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1251871688,3,3,4,"American Barleywine",3.5,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1251516818,2.5,3,3,"American Barleywine",2.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1251054432,3.5,4,4.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1250810386,2,3,4.5,"American Barleywine",2.5,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1249591346,2,3.5,4,"American Barleywine",3,2,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1249364149,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1247383454,3,3.5,4,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1244993105,5,4,4,"American Barleywine",4.5,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1242531907,4,3.5,3.5,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1242503866,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1241034765,3.5,3,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1239118664,3.5,4,4,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1238803073,3,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1238364685,4,3.5,4,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1237268533,3.5,3.5,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1219714561,3.5,4,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1233263165,3.5,3,4.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1232762554,3,4,3.5,"American Barleywine",2.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1231912375,3,3,3.5,"American Barleywine",4,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1231911891,2.5,3,3,"American Barleywine",3,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1231518731,3,3,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1231200761,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1230965032,3,3.5,4,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1230077670,3.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1219253856,4.5,3.5,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1229648879,2,3,3,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1229448615,4,4,3,"American Barleywine",3,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1228454549,2.5,3,3.5,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1227933881,4,4,3.5,"American Barleywine",4.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1226957144,4.5,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1226631368,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1226198927,4.5,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1226192050,4,4,4,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1224531605,4,3.5,3.5,"American Barleywine",4,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1224467763,4.5,4,4,"American Barleywine",3.5,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1223072897,4,4,4,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1218608191,3,3.5,4,"American Barleywine",3.5,3.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1217744820,4,2.5,3,"American Barleywine",3.5,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1216051109,4,3,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1215818429,4,4,4.5,"American Barleywine",4,4.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1215133841,3,3,4.5,"American Barleywine",3.5,3,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1215055875,3,4.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1214100623,2.5,3.5,4,"American Barleywine",4,2.5,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1213939755,3.5,3.5,4.5,"American Barleywine",4,4,"Chicken Killer Barley Wine",10,28817
+1683,"Santa Fe Brewing Company",1324915331,4,3.5,3.5,"American Porter",3,3.5,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1324802553,2,2,2,"American Porter",1,2.5,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1323640859,3,3.5,4,"American Porter",3,3,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1323133437,3.5,4,4,"American Porter",5,3,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1322128616,2,2,3.5,"American Porter",3,1.5,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1319990800,3.5,3,4,"American Porter",4,3,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1319990739,3.5,2.5,4,"American Porter",3.5,3,"Bourbon Barrel State Pen Porter",7,74707
+1683,"Santa Fe Brewing Company",1318981935,3.5,3.5,4,"American Wild Ale",3.5,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1316660705,3,3.5,3.5,"American Wild Ale",3,3.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1314905057,3,3,3.5,"American Wild Ale",3,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1314640480,3.5,3.5,4,"American Wild Ale",4,3.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1313880321,3,3.5,3,"American Wild Ale",3,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1313800185,2,2,4,"American Wild Ale",2.5,2,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1313638180,3.5,3.5,3.5,"American Wild Ale",2,3,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1313463699,4,3.5,4,"American Wild Ale",3,4,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1310440407,4,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1312214784,4,4,3.5,"American Wild Ale",3.5,4,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1311119819,4,5,3.5,"American Wild Ale",3.5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1310625255,3.5,4,3.5,"American Wild Ale",2.5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1309999808,4.5,4.5,4,"American Wild Ale",5,4.5,"Wild Ale #7 (Surf Mountain Sour)",8,70796
+1683,"Santa Fe Brewing Company",1322370268,3,3,3.5,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1321228905,4,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1321051013,4,4,3,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1320787289,3.5,3.5,4,"American Wild Ale",3.5,3.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1307976436,3.5,3.5,3,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1307905791,4,4,4,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1304981979,4.5,4,3.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1304727601,4,4,3.5,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1304346948,4.5,4,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1304051512,4.5,4,4,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1303507138,2.5,3.5,4,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1299894369,2,4,4,"American Wild Ale",3.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1299893946,2.5,3,3.5,"American Wild Ale",4,2.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1299893793,5,4,4,"American Wild Ale",5,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1299893697,4,4,3.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1293504395,3,3.5,3,"American Wild Ale",3,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1291836903,1.5,3.5,3.5,"American Wild Ale",4,2,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1290721021,3,3.5,4,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1290280230,3,4,4,"American Wild Ale",3,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1290097207,3,4.5,3.5,"American Wild Ale",4,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1290044627,4.5,4.5,3.5,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1290044617,4,4,4,"American Wild Ale",4.5,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1289889344,4,4,3.5,"American Wild Ale",4.5,4.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1289866524,4,4.5,4.5,"American Wild Ale",4,4,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1289789789,3,3.5,3.5,"American Wild Ale",4,3.5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1289755916,2.5,3.5,3.5,"American Wild Ale",3.5,3,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1287880856,5,5,4,"American Wild Ale",4.5,5,"Wild Ale #6 Bordeaux Barrel Series",5,62840
+1683,"Santa Fe Brewing Company",1318961784,4.5,3.5,3,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1318283902,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1314339332,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1312292926,4,4,3.5,"German Pilsener",3.5,3.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1310954767,4,4,3.5,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1310257833,4,3.5,3.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1310014835,3,3.5,3.5,"German Pilsener",3.5,3,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1309637750,4,4,4,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1309395800,3,3,3,"German Pilsener",3,3,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1309308521,3.5,3.5,3,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1308455704,4.5,4,4.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1306037369,4.5,3,4,"German Pilsener",4,3.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1305932354,4,3.5,4,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1287678312,4.5,4,4,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1283783087,4.5,4,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1283745914,5,4,4.5,"German Pilsener",4,4.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1282221405,4,4,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1281155758,4,3.5,3.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1280868236,4.5,3.5,4.5,"German Pilsener",4,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1246904152,4.5,4,4.5,"German Pilsener",4,3.5,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1147620691,4,4,4,"German Pilsener",3.5,4,"Freestyle Pilsner",5.5,30500
+1683,"Santa Fe Brewing Company",1323495309,3.5,3,2.5,"Hefeweizen",1.5,4,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1310876377,3,3,3.5,"Hefeweizen",3.5,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1307937692,3.5,3,3,"Hefeweizen",3,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1306631430,3.5,3.5,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1297786749,3.5,3,3,"Hefeweizen",3,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1295300878,4,3,3.5,"Hefeweizen",3,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1291617317,3,3,3,"Hefeweizen",3.5,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1289232255,3,4,2.5,"Hefeweizen",2.5,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1286255974,4,4,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1284255937,4,3.5,3.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1282889639,3.5,3.5,3,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1280109400,3.5,2.5,4,"Hefeweizen",4,3,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1278878047,3.5,4,3,"Hefeweizen",3,4,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1273115622,4,4,4,"Hefeweizen",3.5,4,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1272504825,4,3,2.5,"Hefeweizen",3.5,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1268109613,3,4,3,"Hefeweizen",3,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1261878639,3.5,2.5,3.5,"Hefeweizen",4,3.5,"Hefeweizen Ale",5.25,55023
+1683,"Santa Fe Brewing Company",1321808623,2.5,3,3,"American Barleywine",3,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1304051350,3.5,3.5,4,"American Barleywine",4,4,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1298575244,3,3,3.5,"American Barleywine",3,3.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1297389170,4,3.5,3.5,"American Barleywine",3.5,2.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1296529087,4,4.5,3,"American Barleywine",4,4,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1292173076,4,4,3.5,"American Barleywine",3.5,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1290212575,3,3.5,3,"American Barleywine",3.5,3.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1290212563,3,3,3.5,"American Barleywine",4,3,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842
+1683,"Santa Fe Brewing Company",1287882755,4,5,4.5,"American Barleywine",5,4.5,"Kickin' Chicken Bourbon Barrel Barley Wine",12,62842

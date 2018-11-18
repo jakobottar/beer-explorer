@@ -1,576 +1,576 @@
-"","brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
-"1",683,"Valkyrie Brewing",1112725445,3,3.5,3.5,"American Adjunct Lager",2.5,3.5,"Sylvan Springs",NA,6096
-"2",683,"Valkyrie Brewing",1104518427,4,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"3",683,"Valkyrie Brewing",1101693370,4,4,3,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"4",683,"Valkyrie Brewing",1204775139,4.5,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"5",683,"Valkyrie Brewing",1204741917,4.5,4,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"6",683,"Valkyrie Brewing",1159569341,3,3,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
-"7",683,"Valkyrie Brewing",1118916777,3.5,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Horse Piss Beer",5.5,23950
-"8",683,"Valkyrie Brewing",1117901172,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Horse Piss Beer",5.5,23950
-"9",683,"Valkyrie Brewing",1117772971,4,4,4,"Märzen / Oktoberfest",3.5,4,"Horse Piss Beer",5.5,23950
-"10",683,"Valkyrie Brewing",1117107758,4,4,4,"Märzen / Oktoberfest",3.5,4,"Horse Piss Beer",5.5,23950
-"11",683,"Valkyrie Brewing",1253662292,2,3.5,3.5,"Schwarzbier",2,2,"Mørketid",NA,29579
-"12",683,"Valkyrie Brewing",1224022008,3.5,4,3.5,"Schwarzbier",3,4,"Mørketid",NA,29579
-"13",683,"Valkyrie Brewing",1218628186,5,4,4,"Schwarzbier",4,4,"Mørketid",NA,29579
-"14",683,"Valkyrie Brewing",1154228184,4,3,3.5,"Schwarzbier",3.5,3,"Mørketid",NA,29579
-"15",683,"Valkyrie Brewing",1209875456,3,3.5,4,"Schwarzbier",3,3,"Mørketid",NA,29579
-"16",683,"Valkyrie Brewing",1191019837,2.5,2.5,2.5,"Schwarzbier",2.5,2.5,"Mørketid",NA,29579
-"17",683,"Valkyrie Brewing",1186316171,4,3.5,4,"Schwarzbier",3.5,3.5,"Mørketid",NA,29579
-"18",683,"Valkyrie Brewing",1183509730,2,3,3.5,"Schwarzbier",2.5,3.5,"Mørketid",NA,29579
-"19",683,"Valkyrie Brewing",1169891684,4,4,3.5,"Schwarzbier",4,4,"Mørketid",NA,29579
-"20",683,"Valkyrie Brewing",1165988751,1,2.5,3.5,"Schwarzbier",1.5,1.5,"Mørketid",NA,29579
-"21",683,"Valkyrie Brewing",1164442048,3,3.5,3.5,"Schwarzbier",3,3,"Mørketid",NA,29579
-"22",683,"Valkyrie Brewing",1164238772,3.5,4,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
-"23",683,"Valkyrie Brewing",1161825338,4,3.5,3.5,"Schwarzbier",3.5,3.5,"Mørketid",NA,29579
-"24",683,"Valkyrie Brewing",1159671318,3.5,4.5,4,"Schwarzbier",3.5,2.5,"Mørketid",NA,29579
-"25",683,"Valkyrie Brewing",1149809520,3.5,3.5,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
-"26",683,"Valkyrie Brewing",1145931697,4,4,4,"Schwarzbier",3.5,4.5,"Mørketid",NA,29579
-"27",683,"Valkyrie Brewing",1145591183,2,3,4,"Schwarzbier",2,2,"Mørketid",NA,29579
-"28",683,"Valkyrie Brewing",1144367558,3.5,4,4,"Schwarzbier",3,3.5,"Mørketid",NA,29579
-"29",683,"Valkyrie Brewing",1144364957,4,3.5,4,"Schwarzbier",3.5,4,"Mørketid",NA,29579
-"30",683,"Valkyrie Brewing",1259108779,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,4,"J.S. Helles Bock",NA,3046
-"31",683,"Valkyrie Brewing",1205350813,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
-"32",683,"Valkyrie Brewing",1199653717,4,3.5,3.5,"Maibock / Helles Bock",4,3.5,"J.S. Helles Bock",NA,3046
-"33",683,"Valkyrie Brewing",1164588888,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
-"34",683,"Valkyrie Brewing",1155006205,3,3,2.5,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
-"35",683,"Valkyrie Brewing",1154960455,3.5,3,3,"Maibock / Helles Bock",3,3.5,"J.S. Helles Bock",NA,3046
-"36",683,"Valkyrie Brewing",1150984847,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
-"37",683,"Valkyrie Brewing",1148422871,4.5,4,4,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
-"38",683,"Valkyrie Brewing",1147482842,3.5,4,3.5,"Maibock / Helles Bock",3.5,3,"J.S. Helles Bock",NA,3046
-"39",683,"Valkyrie Brewing",1143355597,4,4,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
-"40",683,"Valkyrie Brewing",1113015899,3,2.5,2.5,"Maibock / Helles Bock",4,2.5,"J.S. Helles Bock",NA,3046
-"41",683,"Valkyrie Brewing",1112633515,3.5,2.5,3.5,"Maibock / Helles Bock",2.5,3,"J.S. Helles Bock",NA,3046
-"42",683,"Valkyrie Brewing",1111716148,4,3.5,4,"Maibock / Helles Bock",3,3.5,"J.S. Helles Bock",NA,3046
-"43",683,"Valkyrie Brewing",1107448462,3.5,4,3.5,"Maibock / Helles Bock",3.5,3.5,"J.S. Helles Bock",NA,3046
-"44",683,"Valkyrie Brewing",1086152532,3.5,3.5,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
-"45",683,"Valkyrie Brewing",1051166854,4,4,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
-"46",683,"Valkyrie Brewing",1047943490,4.5,4,3,"Maibock / Helles Bock",4.5,4,"J.S. Helles Bock",NA,3046
-"47",683,"Valkyrie Brewing",1016545970,3.5,3,4,"Maibock / Helles Bock",4.5,3.5,"J.S. Helles Bock",NA,3046
-"48",683,"Valkyrie Brewing",1016413098,3,4,3.5,"Maibock / Helles Bock",2.5,3.5,"J.S. Helles Bock",NA,3046
-"49",683,"Valkyrie Brewing",1214853138,4,2.5,3,"American Adjunct Lager",4,4,"Sylvan Springs",NA,6096
-"50",683,"Valkyrie Brewing",1164673225,3.5,3,4,"American Adjunct Lager",3.5,3,"Sylvan Springs",NA,6096
-"51",683,"Valkyrie Brewing",1164064631,3.5,3,3.5,"American Adjunct Lager",4,3,"Sylvan Springs",NA,6096
-"52",683,"Valkyrie Brewing",1160658764,3.5,3.5,4,"American Adjunct Lager",3.5,3.5,"Sylvan Springs",NA,6096
-"53",683,"Valkyrie Brewing",1130201733,1.5,2,3,"American Adjunct Lager",2,1.5,"Sylvan Springs",NA,6096
-"54",683,"Valkyrie Brewing",1117582747,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Sylvan Springs",NA,6096
-"55",683,"Valkyrie Brewing",1117145053,3,3,3,"American Adjunct Lager",2.5,2.5,"Sylvan Springs",NA,6096
-"56",683,"Valkyrie Brewing",1116102128,4,3.5,4.5,"American Adjunct Lager",4,4,"Sylvan Springs",NA,6096
-"57",683,"Valkyrie Brewing",1065503590,2.5,3.5,2.5,"American Adjunct Lager",4,3,"Sylvan Springs",NA,6096
-"58",683,"Valkyrie Brewing",1061444508,3,4,3.5,"American Adjunct Lager",2.5,3.5,"Sylvan Springs",NA,6096
-"59",683,"Valkyrie Brewing",1051552053,3,2.5,3.5,"American Adjunct Lager",2.5,3,"Sylvan Springs",NA,6096
-"60",683,"Valkyrie Brewing",1032288846,3,3,3.5,"American Adjunct Lager",3,2.5,"Sylvan Springs",NA,6096
-"61",683,"Valkyrie Brewing",1263773872,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Copperhead",NA,5974
-"62",683,"Valkyrie Brewing",1259368386,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
-"63",683,"Valkyrie Brewing",1250387873,4,3.5,3.5,"Märzen / Oktoberfest",2.5,3,"Copperhead",NA,5974
-"64",683,"Valkyrie Brewing",1239908830,4,3.5,3,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
-"65",683,"Valkyrie Brewing",1200078077,4.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
-"66",683,"Valkyrie Brewing",1174177660,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Copperhead",NA,5974
-"67",683,"Valkyrie Brewing",1159452111,4,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
-"68",683,"Valkyrie Brewing",1154960347,3.5,3.5,3,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
-"69",683,"Valkyrie Brewing",1153758032,4,4,4,"Märzen / Oktoberfest",3,3.5,"Copperhead",NA,5974
-"70",683,"Valkyrie Brewing",1145600606,4,2,2,"Märzen / Oktoberfest",3,3.5,"Copperhead",NA,5974
-"71",683,"Valkyrie Brewing",1110987210,3.5,3.5,4,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
-"72",683,"Valkyrie Brewing",1107636250,4,4,4,"Märzen / Oktoberfest",3.5,4,"Copperhead",NA,5974
-"73",683,"Valkyrie Brewing",1101612339,3,4,4.5,"Märzen / Oktoberfest",2.5,3,"Copperhead",NA,5974
-"74",683,"Valkyrie Brewing",1093838913,3,3.5,3.5,"Märzen / Oktoberfest",2.5,3.5,"Copperhead",NA,5974
-"75",683,"Valkyrie Brewing",1071191445,3.5,3,3,"Märzen / Oktoberfest",2.5,3.5,"Copperhead",NA,5974
-"76",683,"Valkyrie Brewing",1062953613,4,4,4,"Märzen / Oktoberfest",4,3.5,"Copperhead",NA,5974
-"77",683,"Valkyrie Brewing",1032295250,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
-"78",683,"Valkyrie Brewing",1031860993,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Copperhead",NA,5974
-"79",683,"Valkyrie Brewing",1259806918,2.5,2.5,3,"English India Pale Ale (IPA)",2.5,3,"Queen Victoria's Secret IPA",NA,11511
-"80",683,"Valkyrie Brewing",1257115664,2,2,3,"English India Pale Ale (IPA)",2,2,"Queen Victoria's Secret IPA",NA,11511
-"81",683,"Valkyrie Brewing",1255876067,3,4.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Queen Victoria's Secret IPA",NA,11511
-"82",683,"Valkyrie Brewing",1235349242,3.5,2,4,"English India Pale Ale (IPA)",3.5,2,"Queen Victoria's Secret IPA",NA,11511
-"83",683,"Valkyrie Brewing",1223936756,4,3.5,4,"English India Pale Ale (IPA)",5,3.5,"Queen Victoria's Secret IPA",NA,11511
-"84",683,"Valkyrie Brewing",1217353862,4,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Queen Victoria's Secret IPA",NA,11511
-"85",683,"Valkyrie Brewing",1198293599,1.5,2,2,"English India Pale Ale (IPA)",2,1.5,"Queen Victoria's Secret IPA",NA,11511
-"86",683,"Valkyrie Brewing",1197330333,2,2,2.5,"English India Pale Ale (IPA)",1.5,1.5,"Queen Victoria's Secret IPA",NA,11511
-"87",683,"Valkyrie Brewing",1193725833,3.5,3,2.5,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
-"88",683,"Valkyrie Brewing",1170861435,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Queen Victoria's Secret IPA",NA,11511
-"89",683,"Valkyrie Brewing",1164505591,3,2.5,4,"English India Pale Ale (IPA)",2.5,2,"Queen Victoria's Secret IPA",NA,11511
-"90",683,"Valkyrie Brewing",1159756048,2.5,2.5,3,"English India Pale Ale (IPA)",2.5,2.5,"Queen Victoria's Secret IPA",NA,11511
-"91",683,"Valkyrie Brewing",1156907033,4,3,3,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
-"92",683,"Valkyrie Brewing",1175546820,2,1.5,2,"Rauchbier",2,2,"Rauch",NA,3920
-"93",683,"Valkyrie Brewing",1151589897,2.5,2,2.5,"English India Pale Ale (IPA)",1.5,3,"Queen Victoria's Secret IPA",NA,11511
-"94",683,"Valkyrie Brewing",1146192985,1.5,1.5,1.5,"English India Pale Ale (IPA)",2,1.5,"Queen Victoria's Secret IPA",NA,11511
-"95",683,"Valkyrie Brewing",1141581236,2,2.5,1.5,"English India Pale Ale (IPA)",1.5,2,"Queen Victoria's Secret IPA",NA,11511
-"96",683,"Valkyrie Brewing",1137642655,1.5,2.5,1,"English India Pale Ale (IPA)",3,2,"Queen Victoria's Secret IPA",NA,11511
-"97",683,"Valkyrie Brewing",1132787756,3,3,3,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
-"98",683,"Valkyrie Brewing",1130741186,2.5,2,2.5,"English India Pale Ale (IPA)",3,2.5,"Queen Victoria's Secret IPA",NA,11511
-"99",683,"Valkyrie Brewing",1122645441,2.5,2,2.5,"English India Pale Ale (IPA)",1.5,2,"Queen Victoria's Secret IPA",NA,11511
-"100",683,"Valkyrie Brewing",1090141617,3,3,3.5,"English India Pale Ale (IPA)",2.5,3,"Queen Victoria's Secret IPA",NA,11511
-"101",683,"Valkyrie Brewing",1062952119,3.5,3,3.5,"English India Pale Ale (IPA)",4,2.5,"Queen Victoria's Secret IPA",NA,11511
-"102",683,"Valkyrie Brewing",1062566620,2.5,2,3,"English India Pale Ale (IPA)",3,2.5,"Queen Victoria's Secret IPA",NA,11511
-"103",683,"Valkyrie Brewing",1060143206,3,2,4,"English India Pale Ale (IPA)",4,3,"Queen Victoria's Secret IPA",NA,11511
-"104",683,"Valkyrie Brewing",1058654344,2.5,2.5,4,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
-"105",683,"Valkyrie Brewing",1275706240,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
-"106",683,"Valkyrie Brewing",1275178267,3.5,3.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"107",683,"Valkyrie Brewing",1265503322,3,3,2.5,"Russian Imperial Stout",3,3.5,"Big Swede",NA,3679
-"108",683,"Valkyrie Brewing",1265000577,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
-"109",683,"Valkyrie Brewing",1262709130,4,4,3.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"110",683,"Valkyrie Brewing",1245788871,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"111",683,"Valkyrie Brewing",1262400378,3,3.5,3.5,"Russian Imperial Stout",3.5,3,"Big Swede",NA,3679
-"112",683,"Valkyrie Brewing",1259988865,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"113",683,"Valkyrie Brewing",1253996130,4.5,4,4,"Russian Imperial Stout",5,4.5,"Big Swede",NA,3679
-"114",683,"Valkyrie Brewing",1246079340,4,3.5,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"115",683,"Valkyrie Brewing",1245378684,3.5,4,2.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"116",683,"Valkyrie Brewing",1242630395,4,3,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"117",683,"Valkyrie Brewing",1235965877,2,2.5,3,"Russian Imperial Stout",3,2,"Big Swede",NA,3679
-"118",683,"Valkyrie Brewing",1235534761,4,4,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"119",683,"Valkyrie Brewing",1235340503,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"120",683,"Valkyrie Brewing",1178853142,2.5,3,4,"Russian Imperial Stout",3.5,3,"Big Swede",NA,3679
-"121",683,"Valkyrie Brewing",1232767401,3,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"122",683,"Valkyrie Brewing",1225329176,3,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"123",683,"Valkyrie Brewing",1225241912,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"124",683,"Valkyrie Brewing",1224946082,3.5,4,2.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"125",683,"Valkyrie Brewing",1224298293,4,4.5,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"126",683,"Valkyrie Brewing",1223414245,3,4,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"127",683,"Valkyrie Brewing",1215480829,4,4,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"128",683,"Valkyrie Brewing",1211712637,4.5,4.5,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"129",683,"Valkyrie Brewing",1208659696,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"130",683,"Valkyrie Brewing",1240975584,2.5,2,2,"American Porter",4,2,"Whole Stein",NA,3753
-"131",683,"Valkyrie Brewing",1202744520,3.5,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"132",683,"Valkyrie Brewing",1201110312,4,4.5,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"133",683,"Valkyrie Brewing",1200988717,4,3,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"134",683,"Valkyrie Brewing",1199430527,2.5,2.5,4,"Russian Imperial Stout",3.5,2.5,"Big Swede",NA,3679
-"135",683,"Valkyrie Brewing",1199377631,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
-"136",683,"Valkyrie Brewing",1190428936,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"137",683,"Valkyrie Brewing",1186369757,3.5,3.5,2.5,"Russian Imperial Stout",3,3.5,"Big Swede",NA,3679
-"138",683,"Valkyrie Brewing",1181941544,4,3,3,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
-"139",683,"Valkyrie Brewing",1177386783,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"140",683,"Valkyrie Brewing",1176445386,3.5,4,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"141",683,"Valkyrie Brewing",1173113860,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
-"142",683,"Valkyrie Brewing",1171950728,4,4.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"143",683,"Valkyrie Brewing",1170607458,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"144",683,"Valkyrie Brewing",1168742591,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"145",683,"Valkyrie Brewing",1168530447,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"146",683,"Valkyrie Brewing",1168115662,4,3,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"147",683,"Valkyrie Brewing",1167980779,4.5,3.5,4,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"148",683,"Valkyrie Brewing",1161835338,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"149",683,"Valkyrie Brewing",1161321014,4,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"150",683,"Valkyrie Brewing",1161191854,4,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"151",683,"Valkyrie Brewing",1157932206,3.5,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"152",683,"Valkyrie Brewing",1157468064,4,3.5,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"153",683,"Valkyrie Brewing",1154960851,4,3.5,3,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
-"154",683,"Valkyrie Brewing",1154841761,3.5,4,3,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"155",683,"Valkyrie Brewing",1153940391,4,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"156",683,"Valkyrie Brewing",1100662732,3.5,4,4,"Russian Imperial Stout",4.5,3.5,"Big Swede",NA,3679
-"157",683,"Valkyrie Brewing",1153701908,4.5,4,3.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"158",683,"Valkyrie Brewing",1151630439,4.5,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"159",683,"Valkyrie Brewing",1150823294,4,3.5,2.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"160",683,"Valkyrie Brewing",1149536216,2,4.5,3,"Russian Imperial Stout",3.5,2,"Big Swede",NA,3679
-"161",683,"Valkyrie Brewing",1145640745,4,3.5,3.5,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
-"162",683,"Valkyrie Brewing",1140901222,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"163",683,"Valkyrie Brewing",1139178370,4,3,4,"Russian Imperial Stout",5,4.5,"Big Swede",NA,3679
-"164",683,"Valkyrie Brewing",1138372464,4,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"165",683,"Valkyrie Brewing",1109637754,3.5,3.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"166",683,"Valkyrie Brewing",1136233285,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"167",683,"Valkyrie Brewing",1132279772,4,3.5,3,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"168",683,"Valkyrie Brewing",1126625325,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"169",683,"Valkyrie Brewing",1124305753,3.5,4,5,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
-"170",683,"Valkyrie Brewing",1123204608,4,4.5,4,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"171",683,"Valkyrie Brewing",1120507049,3.5,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"172",683,"Valkyrie Brewing",1120493963,4,4.5,4.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"173",683,"Valkyrie Brewing",1114980974,4.5,3.5,3.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
-"174",683,"Valkyrie Brewing",1110690811,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"175",683,"Valkyrie Brewing",1105061463,4,4.5,5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"176",683,"Valkyrie Brewing",1099518833,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"177",683,"Valkyrie Brewing",1089039360,4,4,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"178",683,"Valkyrie Brewing",1086241800,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"179",683,"Valkyrie Brewing",1081588838,4,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
-"180",683,"Valkyrie Brewing",1077563126,4,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
-"181",683,"Valkyrie Brewing",1076533701,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"182",683,"Valkyrie Brewing",1075599936,3.5,3.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"183",683,"Valkyrie Brewing",1066433915,4.5,4,5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"184",683,"Valkyrie Brewing",1065039436,4.5,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"185",683,"Valkyrie Brewing",1062476854,4,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"186",683,"Valkyrie Brewing",1060050349,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"187",683,"Valkyrie Brewing",1056640269,4,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"188",683,"Valkyrie Brewing",1053187760,3.5,4,4.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
-"189",683,"Valkyrie Brewing",1030482975,4,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
-"190",683,"Valkyrie Brewing",1021322753,4,4,3.5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
-"191",683,"Valkyrie Brewing",1264980654,4,4,4,"Braggot",2.5,4,"Mjød",NA,12001
-"192",683,"Valkyrie Brewing",1160188284,3.5,4,4,"Braggot",3.5,4,"Mjød",NA,12001
-"193",683,"Valkyrie Brewing",1260415470,4,4,3.5,"Braggot",4,4,"Mjød",NA,12001
-"194",683,"Valkyrie Brewing",1256684865,4,3.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
-"195",683,"Valkyrie Brewing",1251254312,4,4.5,4,"Braggot",4,4,"Mjød",NA,12001
-"196",683,"Valkyrie Brewing",1249956131,4.5,4,4.5,"Braggot",3.5,4,"Mjød",NA,12001
-"197",683,"Valkyrie Brewing",1240024015,3.5,2,3.5,"Braggot",4.5,4,"Mjød",NA,12001
-"198",683,"Valkyrie Brewing",1234601336,3.5,4,4.5,"Braggot",3.5,3.5,"Mjød",NA,12001
-"199",683,"Valkyrie Brewing",1203572415,4,4,4,"Braggot",4,4,"Mjød",NA,12001
-"200",683,"Valkyrie Brewing",1175910371,4,4,3.5,"Braggot",4,3.5,"Mjød",NA,12001
-"201",683,"Valkyrie Brewing",1139430287,4,4,4,"Braggot",4,4,"Mjød",NA,12001
-"202",683,"Valkyrie Brewing",1136777828,4.5,3.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
-"203",683,"Valkyrie Brewing",1119765595,3.5,4,4,"Braggot",3.5,3.5,"Mjød",NA,12001
-"204",683,"Valkyrie Brewing",1113258912,4,4.5,4.5,"Braggot",4.5,4,"Mjød",NA,12001
-"205",683,"Valkyrie Brewing",1104937383,1,3,3.5,"Braggot",1.5,1.5,"Mjød",NA,12001
-"206",683,"Valkyrie Brewing",1100222317,3.5,3.5,3,"Braggot",3.5,3.5,"Mjød",NA,12001
-"207",683,"Valkyrie Brewing",1098845534,3.5,4.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
-"208",683,"Valkyrie Brewing",1098197441,3,3.5,3.5,"Braggot",2.5,3,"Mjød",NA,12001
-"209",683,"Valkyrie Brewing",1060385602,3,4,4,"Braggot",3,3.5,"Mjød",NA,12001
-"210",683,"Valkyrie Brewing",1264462738,3,3.5,4,"American Dark Wheat Ale",3,2.5,"Weathertop Wheat",NA,22918
-"211",683,"Valkyrie Brewing",1224110556,3.5,4,4,"American Dark Wheat Ale",3,4,"Weathertop Wheat",NA,22918
-"212",683,"Valkyrie Brewing",1208751737,3.5,3.5,3.5,"American Dark Wheat Ale",3,3.5,"Weathertop Wheat",NA,22918
-"213",683,"Valkyrie Brewing",1203608584,2,3,4,"American Dark Wheat Ale",2.5,2,"Weathertop Wheat",NA,22918
-"214",683,"Valkyrie Brewing",1199420489,1,2.5,3.5,"American Dark Wheat Ale",1.5,1,"Weathertop Wheat",NA,22918
-"215",683,"Valkyrie Brewing",1161054327,2.5,2.5,4,"American Dark Wheat Ale",3.5,2.5,"Weathertop Wheat",NA,22918
-"216",683,"Valkyrie Brewing",1159986885,2.5,3,3.5,"American Dark Wheat Ale",2.5,2.5,"Weathertop Wheat",NA,22918
-"217",683,"Valkyrie Brewing",1154047289,3.5,3.5,3.5,"American Dark Wheat Ale",3.5,3,"Weathertop Wheat",NA,22918
-"218",683,"Valkyrie Brewing",1144282278,2,2.5,2.5,"American Dark Wheat Ale",1.5,2.5,"Weathertop Wheat",NA,22918
-"219",683,"Valkyrie Brewing",1300003592,4,4,3.5,"Braggot",4,4,"Honey Moon",10,3045
-"220",683,"Valkyrie Brewing",1131234608,2,2,3.5,"American Dark Wheat Ale",3,2.5,"Weathertop Wheat",NA,22918
-"221",683,"Valkyrie Brewing",1119236126,3,3,3.5,"American Dark Wheat Ale",3,3,"Weathertop Wheat",NA,22918
-"222",683,"Valkyrie Brewing",1116212072,2.5,2,3,"American Dark Wheat Ale",3,2,"Weathertop Wheat",NA,22918
-"223",683,"Valkyrie Brewing",1113516838,2.5,2,3,"American Dark Wheat Ale",2,2,"Weathertop Wheat",NA,22918
-"224",683,"Valkyrie Brewing",1112762053,1.5,3.5,3,"American Dark Wheat Ale",2,2,"Weathertop Wheat",NA,22918
-"225",683,"Valkyrie Brewing",1112558373,3,4,3.5,"American Dark Wheat Ale",2.5,2.5,"Weathertop Wheat",NA,22918
-"226",683,"Valkyrie Brewing",1112482134,3.5,3.5,3.5,"American Dark Wheat Ale",2,3.5,"Weathertop Wheat",NA,22918
-"227",683,"Valkyrie Brewing",1300061890,4,3.5,3.5,"Braggot",4,3.5,"Honey Moon",10,3045
-"228",683,"Valkyrie Brewing",1141175880,3.5,4,4,"Braggot",4,3.5,"Honey Moon",10,3045
-"229",683,"Valkyrie Brewing",1272998664,3.5,4,3,"Braggot",3.5,3.5,"Honey Moon",10,3045
-"230",683,"Valkyrie Brewing",1272850470,3,4,3.5,"Braggot",1.5,3.5,"Honey Moon",10,3045
-"231",683,"Valkyrie Brewing",1266204156,4,4,3,"Braggot",3.5,4,"Honey Moon",10,3045
-"232",683,"Valkyrie Brewing",1263763766,4.5,4.5,4.5,"Braggot",4.5,4.5,"Honey Moon",10,3045
-"233",683,"Valkyrie Brewing",1259256466,3.5,3.5,3.5,"Braggot",3,3.5,"Honey Moon",10,3045
-"234",683,"Valkyrie Brewing",1245992550,3.5,3,3.5,"Braggot",3.5,3.5,"Honey Moon",10,3045
-"235",683,"Valkyrie Brewing",1231301100,2.5,2.5,3,"Braggot",3,3,"Honey Moon",10,3045
-"236",683,"Valkyrie Brewing",1176124151,4,2.5,3,"Braggot",3,4,"Honey Moon",10,3045
-"237",683,"Valkyrie Brewing",1133148774,4.5,4.5,4.5,"Braggot",4.5,4.5,"Honey Moon",10,3045
-"238",683,"Valkyrie Brewing",1133110405,4,2,3,"Braggot",3,3.5,"Honey Moon",10,3045
-"239",683,"Valkyrie Brewing",1128309754,2.5,3.5,2.5,"Braggot",3,2.5,"Honey Moon",10,3045
-"240",683,"Valkyrie Brewing",1121910081,3,3.5,4,"Braggot",4,3.5,"Honey Moon",10,3045
-"241",683,"Valkyrie Brewing",1109542560,5,4,5,"Braggot",4.5,4.5,"Honey Moon",10,3045
-"242",683,"Valkyrie Brewing",1099877407,3.5,4,3.5,"Braggot",3.5,4,"Honey Moon",10,3045
-"243",683,"Valkyrie Brewing",1071790852,4.5,4,4,"Braggot",4,4,"Honey Moon",10,3045
-"244",683,"Valkyrie Brewing",1062968787,4,4,3.5,"Braggot",3.5,4,"Honey Moon",10,3045
-"245",683,"Valkyrie Brewing",1060013206,3,4,3.5,"Braggot",3.5,3,"Honey Moon",10,3045
-"246",683,"Valkyrie Brewing",1022710976,4,4.5,4,"Braggot",4,4.5,"Honey Moon",10,3045
-"247",683,"Valkyrie Brewing",1016545690,5,3,3,"Braggot",4,4,"Honey Moon",10,3045
-"248",683,"Valkyrie Brewing",1016412861,3,3,4,"Braggot",3,3,"Honey Moon",10,3045
-"249",683,"Valkyrie Brewing",1286934647,1,1,4,"Chile Beer",1.5,1,"Hot Chocolate",NA,21071
-"250",683,"Valkyrie Brewing",1277513866,1,4,2.5,"Chile Beer",1,2,"Hot Chocolate",NA,21071
-"251",683,"Valkyrie Brewing",1271292718,4,3.5,4,"Chile Beer",4.5,4,"Hot Chocolate",NA,21071
-"252",683,"Valkyrie Brewing",1270180705,3.5,3.5,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
-"253",683,"Valkyrie Brewing",1264544922,1.5,3.5,3.5,"Chile Beer",2,2,"Hot Chocolate",NA,21071
-"254",683,"Valkyrie Brewing",1262228173,1,1.5,1,"Chile Beer",3,2,"Hot Chocolate",NA,21071
-"255",683,"Valkyrie Brewing",1261618133,3.5,3,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
-"256",683,"Valkyrie Brewing",1248360149,4,3,4,"Chile Beer",3.5,4,"Hot Chocolate",NA,21071
-"257",683,"Valkyrie Brewing",1245788132,4,4,4,"Chile Beer",4,4,"Hot Chocolate",NA,21071
-"258",683,"Valkyrie Brewing",1237570446,3.5,4,3,"Chile Beer",4,3.5,"Hot Chocolate",NA,21071
-"259",683,"Valkyrie Brewing",1235955333,3.5,3,3,"Chile Beer",3.5,3.5,"Hot Chocolate",NA,21071
-"260",683,"Valkyrie Brewing",1233111686,3,3,2,"Chile Beer",4,3,"Hot Chocolate",NA,21071
-"261",683,"Valkyrie Brewing",1229307850,4,4,4,"Chile Beer",3.5,4,"Hot Chocolate",NA,21071
-"262",683,"Valkyrie Brewing",1210023153,4,3.5,3.5,"Chile Beer",4,4,"Hot Chocolate",NA,21071
-"263",683,"Valkyrie Brewing",1208440362,3.5,3.5,4,"Chile Beer",4,4,"Hot Chocolate",NA,21071
-"264",683,"Valkyrie Brewing",1205714818,3.5,3,2.5,"Chile Beer",3,3,"Hot Chocolate",NA,21071
-"265",683,"Valkyrie Brewing",1203308040,4.5,3,3,"Chile Beer",4,4.5,"Hot Chocolate",NA,21071
-"266",683,"Valkyrie Brewing",1176658604,4,3.5,3.5,"Chile Beer",4.5,4,"Hot Chocolate",NA,21071
-"267",683,"Valkyrie Brewing",1172029586,3.5,3.5,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
-"268",683,"Valkyrie Brewing",1170518375,2.5,3.5,3.5,"Chile Beer",3,3,"Hot Chocolate",NA,21071
-"269",683,"Valkyrie Brewing",1163640588,3.5,3,2,"Chile Beer",2,3.5,"Hot Chocolate",NA,21071
-"270",683,"Valkyrie Brewing",1160250455,1.5,3.5,2.5,"Chile Beer",3,2,"Hot Chocolate",NA,21071
-"271",683,"Valkyrie Brewing",1154960780,1.5,3.5,3,"Chile Beer",2,2.5,"Hot Chocolate",NA,21071
-"272",683,"Valkyrie Brewing",1152153850,2.5,2.5,3.5,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
-"273",683,"Valkyrie Brewing",1151965225,2.5,4,2,"Chile Beer",1.5,2.5,"Hot Chocolate",NA,21071
-"274",683,"Valkyrie Brewing",1148022668,2.5,3.5,3,"Chile Beer",4,3,"Hot Chocolate",NA,21071
-"275",683,"Valkyrie Brewing",1147310959,2,3.5,3.5,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
-"276",683,"Valkyrie Brewing",1142821733,2,3.5,3,"Chile Beer",2,2.5,"Hot Chocolate",NA,21071
-"277",683,"Valkyrie Brewing",1141347553,2,3.5,3,"Chile Beer",2.5,3,"Hot Chocolate",NA,21071
-"278",683,"Valkyrie Brewing",1139280423,2,3,3,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
-"279",683,"Valkyrie Brewing",1129088722,3.5,4.5,3.5,"Chile Beer",4,4,"Hot Chocolate",NA,21071
-"280",683,"Valkyrie Brewing",1121905122,1,3,2,"Chile Beer",1.5,1.5,"Hot Chocolate",NA,21071
-"281",683,"Valkyrie Brewing",1285522388,3.5,3.5,3,"English Barleywine",2.5,3.5,"Berserk",12,5850
-"282",683,"Valkyrie Brewing",1113029049,3,3.5,3.5,"Chile Beer",3,3.5,"Hot Chocolate",NA,21071
-"283",683,"Valkyrie Brewing",1112928442,3.5,3,2.5,"Chile Beer",4,3,"Hot Chocolate",NA,21071
-"284",683,"Valkyrie Brewing",1106946507,1,2.5,2,"Chile Beer",1.5,1,"Hot Chocolate",NA,21071
-"285",683,"Valkyrie Brewing",1106101785,2.5,3.5,3.5,"Chile Beer",3,2.5,"Hot Chocolate",NA,21071
-"286",683,"Valkyrie Brewing",1106003508,3,3.5,3,"Chile Beer",2.5,3,"Hot Chocolate",NA,21071
-"287",683,"Valkyrie Brewing",1103436670,2.5,3.5,3,"Chile Beer",3,3,"Hot Chocolate",NA,21071
-"288",683,"Valkyrie Brewing",1102695140,2,3.5,3.5,"Chile Beer",3,2.5,"Hot Chocolate",NA,21071
-"289",683,"Valkyrie Brewing",1159150245,3.5,3.5,4,"English Barleywine",4,3.5,"Berserk",12,5850
-"290",683,"Valkyrie Brewing",1266466803,4.5,4,3.5,"English Barleywine",4.5,4.5,"Berserk",12,5850
-"291",683,"Valkyrie Brewing",1263447279,4,3.5,3.5,"English Barleywine",3.5,4,"Berserk",12,5850
-"292",683,"Valkyrie Brewing",1221011188,3.5,4,3,"English Barleywine",2.5,4,"Berserk",12,5850
-"293",683,"Valkyrie Brewing",1216859726,3.5,3.5,2.5,"English Barleywine",3,3,"Berserk",12,5850
-"294",683,"Valkyrie Brewing",1215489330,3,3,3.5,"English Barleywine",4.5,3.5,"Berserk",12,5850
-"295",683,"Valkyrie Brewing",1211223376,3,4,4,"English Barleywine",3,3.5,"Berserk",12,5850
-"296",683,"Valkyrie Brewing",1204744172,3.5,4,4,"English Barleywine",4,4,"Berserk",12,5850
-"297",683,"Valkyrie Brewing",1154923928,4,4,4,"English Barleywine",4,4.5,"Berserk",12,5850
-"298",683,"Valkyrie Brewing",1200792388,3.5,4,4,"English Barleywine",3.5,4,"Berserk",12,5850
-"299",683,"Valkyrie Brewing",1200155756,4,3.5,4,"English Barleywine",4,4,"Berserk",12,5850
-"300",683,"Valkyrie Brewing",1197779899,4.5,4.5,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
-"301",683,"Valkyrie Brewing",1178087825,3,4,4,"English Barleywine",3.5,3,"Berserk",12,5850
-"302",683,"Valkyrie Brewing",1171419003,3.5,3.5,4,"English Barleywine",3,3.5,"Berserk",12,5850
-"303",683,"Valkyrie Brewing",1168128399,4.5,4.5,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
-"304",683,"Valkyrie Brewing",1167784482,4,4,4,"English Barleywine",3.5,3.5,"Berserk",12,5850
-"305",683,"Valkyrie Brewing",1162968908,4,4,4,"English Barleywine",3.5,4,"Berserk",12,5850
-"306",683,"Valkyrie Brewing",1162780574,4,4,4,"English Barleywine",3.5,3.5,"Berserk",12,5850
-"307",683,"Valkyrie Brewing",1153668554,4,4,4,"English Barleywine",4.5,4,"Berserk",12,5850
-"308",683,"Valkyrie Brewing",1153535871,4,4,4.5,"English Barleywine",4.5,4,"Berserk",12,5850
-"309",683,"Valkyrie Brewing",1153449771,4,4,3.5,"English Barleywine",4,4,"Berserk",12,5850
-"310",683,"Valkyrie Brewing",1144373653,3.5,3.5,4,"English Barleywine",3.5,4,"Berserk",12,5850
-"311",683,"Valkyrie Brewing",1142715221,3,1.5,3,"English Barleywine",3,4,"Berserk",12,5850
-"312",683,"Valkyrie Brewing",1142219875,4.5,3.5,4.5,"English Barleywine",4.5,3.5,"Berserk",12,5850
-"313",683,"Valkyrie Brewing",1141347462,3,4,4,"English Barleywine",2.5,2.5,"Berserk",12,5850
-"314",683,"Valkyrie Brewing",1134619118,3.5,3.5,3.5,"English Barleywine",4,2.5,"Berserk",12,5850
-"315",683,"Valkyrie Brewing",1110505056,4.5,4,3.5,"English Barleywine",4.5,4.5,"Berserk",12,5850
-"316",683,"Valkyrie Brewing",1098086678,3.5,4,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
-"317",683,"Valkyrie Brewing",1097161251,4.5,4,4,"English Barleywine",4,4,"Berserk",12,5850
-"318",683,"Valkyrie Brewing",1086330644,3.5,4,3.5,"English Barleywine",4,4,"Berserk",12,5850
-"319",683,"Valkyrie Brewing",1071643782,4,3.5,4,"English Barleywine",4,3.5,"Berserk",12,5850
-"320",683,"Valkyrie Brewing",1066266602,3,2.5,4.5,"English Barleywine",3.5,3,"Berserk",12,5850
-"321",683,"Valkyrie Brewing",1042594316,5,4,4.5,"English Barleywine",5,4,"Berserk",12,5850
-"322",683,"Valkyrie Brewing",1032036518,3,3,4,"English Barleywine",3.5,3,"Berserk",12,5850
-"323",683,"Valkyrie Brewing",1031257124,5,4,4.5,"English Barleywine",4,4.5,"Berserk",12,5850
-"324",683,"Valkyrie Brewing",1264121659,2.5,3,3.5,"American Pale Ale (APA)",2.5,3,"Honey Pale Ale",NA,12207
-"325",683,"Valkyrie Brewing",1205346968,2.5,3,2.5,"American Pale Ale (APA)",2.5,2.5,"Honey Pale Ale",NA,12207
-"326",683,"Valkyrie Brewing",1178086452,4,3,3,"American Pale Ale (APA)",4,2.5,"Honey Pale Ale",NA,12207
-"327",683,"Valkyrie Brewing",1164855583,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Honey Pale Ale",NA,12207
-"328",683,"Valkyrie Brewing",1161349083,3,3,4,"American Pale Ale (APA)",3,3,"Honey Pale Ale",NA,12207
-"329",683,"Valkyrie Brewing",1160659603,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Honey Pale Ale",NA,12207
-"330",683,"Valkyrie Brewing",1155669625,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Honey Pale Ale",NA,12207
-"331",683,"Valkyrie Brewing",1121904153,2.5,3,3.5,"American Pale Ale (APA)",2,2,"Honey Pale Ale",NA,12207
-"332",683,"Valkyrie Brewing",1119497553,2,3,3,"American Pale Ale (APA)",2,2.5,"Honey Pale Ale",NA,12207
-"333",683,"Valkyrie Brewing",1099077319,2.5,2.5,2.5,"American Pale Ale (APA)",2,2.5,"Honey Pale Ale",NA,12207
-"334",683,"Valkyrie Brewing",1095732985,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Honey Pale Ale",NA,12207
-"335",683,"Valkyrie Brewing",1061518290,3,3,3,"American Pale Ale (APA)",3,3,"Honey Pale Ale",NA,12207
-"336",683,"Valkyrie Brewing",1264999963,2,2,4.5,"Herbed / Spiced Beer",3,2,"Juleøl",NA,2647
-"337",683,"Valkyrie Brewing",1261702389,3,4,3.5,"Herbed / Spiced Beer",4,3,"Juleøl",NA,2647
-"338",683,"Valkyrie Brewing",1230309906,1.5,1.5,3,"Herbed / Spiced Beer",2.5,2,"Juleøl",NA,2647
-"339",683,"Valkyrie Brewing",1228627050,3.5,4,4,"Herbed / Spiced Beer",2,3,"Juleøl",NA,2647
-"340",683,"Valkyrie Brewing",1215540431,3.5,4,3.5,"Herbed / Spiced Beer",3.5,4,"Juleøl",NA,2647
-"341",683,"Valkyrie Brewing",1136765007,3,4,2.5,"Herbed / Spiced Beer",2,4,"Juleøl",NA,2647
-"342",683,"Valkyrie Brewing",1123157573,2.5,3.5,2.5,"Herbed / Spiced Beer",1.5,2.5,"Juleøl",NA,2647
-"343",683,"Valkyrie Brewing",1105295207,3,4,3,"Herbed / Spiced Beer",3.5,3,"Juleøl",NA,2647
-"344",683,"Valkyrie Brewing",1102466882,3.5,4,4,"Herbed / Spiced Beer",3,3.5,"Juleøl",NA,2647
-"345",683,"Valkyrie Brewing",1101766242,3,4,2,"Herbed / Spiced Beer",2,3.5,"Juleøl",NA,2647
-"346",683,"Valkyrie Brewing",1101223408,2.5,2.5,3,"Herbed / Spiced Beer",3,2,"Juleøl",NA,2647
-"347",683,"Valkyrie Brewing",1101205208,2.5,2.5,3,"Herbed / Spiced Beer",2,3,"Juleøl",NA,2647
-"348",683,"Valkyrie Brewing",1098900539,2,3,3.5,"Herbed / Spiced Beer",2,2,"Juleøl",NA,2647
-"349",683,"Valkyrie Brewing",1071297575,4,3.5,3,"Herbed / Spiced Beer",4.5,4,"Juleøl",NA,2647
-"350",683,"Valkyrie Brewing",1016412626,2,4.5,3,"Herbed / Spiced Beer",1.5,2,"Juleøl",NA,2647
-"351",683,"Valkyrie Brewing",1012003786,4,5,4.5,"Herbed / Spiced Beer",4,4,"Juleøl",NA,2647
-"352",683,"Valkyrie Brewing",1270082454,3,3.5,3,"Rauchbier",2.5,3,"Rauch",NA,3920
-"353",683,"Valkyrie Brewing",1199658079,3.5,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
-"354",683,"Valkyrie Brewing",1253671342,1,3,2,"Rauchbier",2,2,"Rauch",NA,3920
-"355",683,"Valkyrie Brewing",1250997566,3,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
-"356",683,"Valkyrie Brewing",1229461064,2,2,2.5,"Rauchbier",2,1.5,"Rauch",NA,3920
-"357",683,"Valkyrie Brewing",1214853192,2.5,2.5,2.5,"Rauchbier",2,3,"Rauch",NA,3920
-"358",683,"Valkyrie Brewing",1209470043,3,2.5,3,"Rauchbier",3,3,"Rauch",NA,3920
-"359",683,"Valkyrie Brewing",1208657850,2,3.5,3,"Rauchbier",3,3,"Rauch",NA,3920
-"360",683,"Valkyrie Brewing",1204816331,3.5,4,3.5,"Rauchbier",3.5,4,"Rauch",NA,3920
-"361",683,"Valkyrie Brewing",1201822670,3,4,3.5,"Rauchbier",2.5,3,"Rauch",NA,3920
-"362",683,"Valkyrie Brewing",1199376956,2.5,2.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
-"363",683,"Valkyrie Brewing",1171222471,4,3.5,3.5,"Rauchbier",3.5,4,"Rauch",NA,3920
-"364",683,"Valkyrie Brewing",1166568092,2,3,3,"Rauchbier",2.5,2.5,"Rauch",NA,3920
-"365",683,"Valkyrie Brewing",1164771458,4,3,4.5,"Rauchbier",4,4,"Rauch",NA,3920
-"366",683,"Valkyrie Brewing",1148844365,2.5,2.5,3,"Rauchbier",3,2.5,"Rauch",NA,3920
-"367",683,"Valkyrie Brewing",1136778444,1,2,1,"Rauchbier",2,2,"Rauch",NA,3920
-"368",683,"Valkyrie Brewing",1130989505,3,2.5,3.5,"Rauchbier",3,2.5,"Rauch",NA,3920
-"369",683,"Valkyrie Brewing",1129494756,3,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
-"370",683,"Valkyrie Brewing",1105298361,2.5,3.5,3,"Rauchbier",3,3,"Rauch",NA,3920
-"371",683,"Valkyrie Brewing",1101705006,3.5,2.5,2.5,"Rauchbier",3.5,2.5,"Rauch",NA,3920
-"372",683,"Valkyrie Brewing",1098081789,2.5,3,3.5,"Rauchbier",2.5,2.5,"Rauch",NA,3920
-"373",683,"Valkyrie Brewing",1098037863,2.5,4,2.5,"Rauchbier",2.5,3,"Rauch",NA,3920
-"374",683,"Valkyrie Brewing",1091811232,2.5,2.5,3,"Rauchbier",3,2.5,"Rauch",NA,3920
-"375",683,"Valkyrie Brewing",1078347938,2,2.5,3.5,"Rauchbier",2,2,"Rauch",NA,3920
-"376",683,"Valkyrie Brewing",1071198872,2.5,2,3.5,"Rauchbier",3,2,"Rauch",NA,3920
-"377",683,"Valkyrie Brewing",1059773171,2.5,2,4,"Rauchbier",3,3,"Rauch",NA,3920
-"378",683,"Valkyrie Brewing",1022709924,1.5,2,3.5,"Rauchbier",1.5,1.5,"Rauch",NA,3920
-"379",683,"Valkyrie Brewing",1217555033,1,2,3.5,"Fruit / Vegetable Beer",3,1.5,"Lime Twist",NA,25004
-"380",683,"Valkyrie Brewing",1215993982,4.5,4.5,4.5,"Fruit / Vegetable Beer",5,4.5,"Lime Twist",NA,25004
-"381",683,"Valkyrie Brewing",1212346136,2.5,3.5,2.5,"Fruit / Vegetable Beer",4,2.5,"Lime Twist",NA,25004
-"382",683,"Valkyrie Brewing",1164149734,1,1,3,"Fruit / Vegetable Beer",3,1.5,"Lime Twist",NA,25004
-"383",683,"Valkyrie Brewing",1155479540,3,3.5,3,"Fruit / Vegetable Beer",1,3.5,"Lime Twist",NA,25004
-"384",683,"Valkyrie Brewing",1148996197,4,4,2.5,"Fruit / Vegetable Beer",3.5,4,"Lime Twist",NA,25004
-"385",683,"Valkyrie Brewing",1146104846,2,1.5,2.5,"Fruit / Vegetable Beer",2.5,2,"Lime Twist",NA,25004
-"386",683,"Valkyrie Brewing",1126823944,2.5,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Lime Twist",NA,25004
-"387",683,"Valkyrie Brewing",1124147907,1,1.5,2.5,"Fruit / Vegetable Beer",2.5,1.5,"Lime Twist",NA,25004
-"388",683,"Valkyrie Brewing",1122904876,1.5,2.5,3.5,"Fruit / Vegetable Beer",1,1.5,"Lime Twist",NA,25004
-"389",683,"Valkyrie Brewing",1122569753,1.5,2,2,"Fruit / Vegetable Beer",1.5,1.5,"Lime Twist",NA,25004
-"390",683,"Valkyrie Brewing",1265482929,1,2,2,"Belgian Dark Ale",1,1,"Abby Normal",NA,8788
-"391",683,"Valkyrie Brewing",1252537792,2.5,3,3.5,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
-"392",683,"Valkyrie Brewing",1229650200,3,2.5,3,"Belgian Dark Ale",3,3,"Abby Normal",NA,8788
-"393",683,"Valkyrie Brewing",1211114971,2.5,3,3,"Belgian Dark Ale",2,2.5,"Abby Normal",NA,8788
-"394",683,"Valkyrie Brewing",1206945281,4,3.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
-"395",683,"Valkyrie Brewing",1204816723,4,3.5,4,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
-"396",683,"Valkyrie Brewing",1175546585,3,3,3,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
-"397",683,"Valkyrie Brewing",1167007508,2,2.5,4,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
-"398",683,"Valkyrie Brewing",1164769055,4,4.5,4,"Belgian Dark Ale",5,3.5,"Abby Normal",NA,8788
-"399",683,"Valkyrie Brewing",1145383468,3,4,4,"American Porter",3.5,4.5,"Whole Stein",NA,3753
-"400",683,"Valkyrie Brewing",1157468777,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Abby Normal",NA,8788
-"401",683,"Valkyrie Brewing",1155479918,3.5,3,3,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
-"402",683,"Valkyrie Brewing",1136591584,4,3.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
-"403",683,"Valkyrie Brewing",1135883247,4,3,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
-"404",683,"Valkyrie Brewing",1126540009,3,4,3,"Belgian Dark Ale",3,4,"Abby Normal",NA,8788
-"405",683,"Valkyrie Brewing",1099964360,4,4.5,4,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
-"406",683,"Valkyrie Brewing",1092737126,3.5,4,4,"Belgian Dark Ale",3.5,3.5,"Abby Normal",NA,8788
-"407",683,"Valkyrie Brewing",1086487818,2.5,3.5,4,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
-"408",683,"Valkyrie Brewing",1084218049,4,3.5,3.5,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
-"409",683,"Valkyrie Brewing",1080578347,3,4,3,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
-"410",683,"Valkyrie Brewing",1078196488,3.5,3,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
-"411",683,"Valkyrie Brewing",1071639598,3,3,3.5,"Belgian Dark Ale",3.5,3,"Abby Normal",NA,8788
-"412",683,"Valkyrie Brewing",1046727338,4,4.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
-"413",683,"Valkyrie Brewing",1252464652,3,4,3.5,"Witbier",3,3.5,"Dim Whit",NA,11957
-"414",683,"Valkyrie Brewing",1243655696,3,2.5,3,"Witbier",3.5,2.5,"Dim Whit",NA,11957
-"415",683,"Valkyrie Brewing",1208720652,3,3.5,3.5,"Witbier",3.5,3.5,"Dim Whit",NA,11957
-"416",683,"Valkyrie Brewing",1202698421,2,3,3,"Witbier",2,2.5,"Dim Whit",NA,11957
-"417",683,"Valkyrie Brewing",1166748366,3,3.5,4,"Witbier",3,3,"Dim Whit",NA,11957
-"418",683,"Valkyrie Brewing",1164678754,2.5,3.5,4,"Witbier",3,3,"Dim Whit",NA,11957
-"419",683,"Valkyrie Brewing",1164581558,2.5,3.5,3,"Witbier",3,2,"Dim Whit",NA,11957
-"420",683,"Valkyrie Brewing",1163167831,3,4,3.5,"Witbier",3.5,3.5,"Dim Whit",NA,11957
-"421",683,"Valkyrie Brewing",1161040440,4,2.5,3.5,"Witbier",3.5,4,"Dim Whit",NA,11957
-"422",683,"Valkyrie Brewing",1126394942,3.5,2.5,3,"Witbier",4,2.5,"Dim Whit",NA,11957
-"423",683,"Valkyrie Brewing",1126314410,3,2.5,2.5,"Witbier",2.5,3,"Dim Whit",NA,11957
-"424",683,"Valkyrie Brewing",1101606192,3.5,3.5,2.5,"Witbier",3,3.5,"Dim Whit",NA,11957
-"425",683,"Valkyrie Brewing",1100137873,3,3.5,3,"Witbier",3,3,"Dim Whit",NA,11957
-"426",683,"Valkyrie Brewing",1096446914,2,3,3.5,"Witbier",2,2,"Dim Whit",NA,11957
-"427",683,"Valkyrie Brewing",1095019642,3.5,4,3.5,"Witbier",2.5,3.5,"Dim Whit",NA,11957
-"428",683,"Valkyrie Brewing",1062562654,3,4,4,"Witbier",3,3.5,"Dim Whit",NA,11957
-"429",683,"Valkyrie Brewing",1060141013,4.5,5,4,"Witbier",4,4.5,"Dim Whit",NA,11957
-"430",683,"Valkyrie Brewing",1293831964,4,3,4,"American Porter",3.5,4,"Whole Stein",NA,3753
-"431",683,"Valkyrie Brewing",1290455391,4,3,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
-"432",683,"Valkyrie Brewing",1263076386,4,3.5,4,"American Porter",3.5,4,"Whole Stein",NA,3753
-"433",683,"Valkyrie Brewing",1259638408,3.5,4,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"434",683,"Valkyrie Brewing",1258684902,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"435",683,"Valkyrie Brewing",1254967924,4,4.5,4,"American Porter",4,3.5,"Whole Stein",NA,3753
-"436",683,"Valkyrie Brewing",1253668317,2.5,2,4,"American Porter",3,2.5,"Whole Stein",NA,3753
-"437",683,"Valkyrie Brewing",1253467492,3,3,3,"American Porter",1.5,2,"Whole Stein",NA,3753
-"438",683,"Valkyrie Brewing",1250982142,4,4,4,"American Porter",4,3.5,"Whole Stein",NA,3753
-"439",683,"Valkyrie Brewing",1235422832,3.5,3.5,4.5,"American Porter",3.5,3,"Whole Stein",NA,3753
-"440",683,"Valkyrie Brewing",1228683592,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"441",683,"Valkyrie Brewing",1228327791,3,3,3,"American Porter",3,3,"Whole Stein",NA,3753
-"442",683,"Valkyrie Brewing",1227928226,3.5,3,3,"American Porter",3,3.5,"Whole Stein",NA,3753
-"443",683,"Valkyrie Brewing",1226344511,3,4,3,"American Porter",3,3,"Whole Stein",NA,3753
-"444",683,"Valkyrie Brewing",1225579650,3,3,3,"American Porter",2.5,3.5,"Whole Stein",NA,3753
-"445",683,"Valkyrie Brewing",1224436780,3.5,4.5,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
-"446",683,"Valkyrie Brewing",1224192409,3.5,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"447",683,"Valkyrie Brewing",1220739281,3.5,3.5,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"448",683,"Valkyrie Brewing",1215172392,4,3.5,3,"American Porter",4,3.5,"Whole Stein",NA,3753
-"449",683,"Valkyrie Brewing",1144562327,4,3.5,4,"American Porter",4,4,"Whole Stein",NA,3753
-"450",683,"Valkyrie Brewing",1210289908,3,3.5,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
-"451",683,"Valkyrie Brewing",1204646341,5,4,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
-"452",683,"Valkyrie Brewing",1203309465,3.5,2.5,3,"American Porter",4,4,"Whole Stein",NA,3753
-"453",683,"Valkyrie Brewing",1201734266,3,3.5,3,"American Porter",2.5,3,"Whole Stein",NA,3753
-"454",683,"Valkyrie Brewing",1198535788,4,3.5,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
-"455",683,"Valkyrie Brewing",1197882911,4,3.5,4.5,"American Porter",4,3.5,"Whole Stein",NA,3753
-"456",683,"Valkyrie Brewing",1193580836,3,4,3.5,"American Porter",3,4,"Whole Stein",NA,3753
-"457",683,"Valkyrie Brewing",1191196060,4,3.5,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"458",683,"Valkyrie Brewing",1190333576,4,4,3.5,"American Porter",4,3,"Whole Stein",NA,3753
-"459",683,"Valkyrie Brewing",1140025645,4,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
-"460",683,"Valkyrie Brewing",1139550818,1,2,3,"American Porter",1,1,"Whole Stein",NA,3753
-"461",683,"Valkyrie Brewing",1189153262,4.5,4.5,3,"American Porter",4.5,4,"Whole Stein",NA,3753
-"462",683,"Valkyrie Brewing",1186633135,3,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"463",683,"Valkyrie Brewing",1184635316,3,3.5,4,"American Porter",3,3.5,"Whole Stein",NA,3753
-"464",683,"Valkyrie Brewing",1183583445,2,3.5,3,"American Porter",1.5,2.5,"Whole Stein",NA,3753
-"465",683,"Valkyrie Brewing",1176602448,3,3,3,"American Porter",3,2.5,"Whole Stein",NA,3753
-"466",683,"Valkyrie Brewing",1172209357,3.5,4,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
-"467",683,"Valkyrie Brewing",1170628719,3,3.5,4,"American Porter",3,3,"Whole Stein",NA,3753
-"468",683,"Valkyrie Brewing",1168254350,2,3,2.5,"American Porter",3.5,1,"Whole Stein",NA,3753
-"469",683,"Valkyrie Brewing",1167985553,5,3,5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
-"470",683,"Valkyrie Brewing",1164587879,3.5,3,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"471",683,"Valkyrie Brewing",1132448503,3.5,4,3.5,"American Porter",3,4,"Whole Stein",NA,3753
-"472",683,"Valkyrie Brewing",1164503379,3.5,3,3.5,"American Porter",3.5,3,"Whole Stein",NA,3753
-"473",683,"Valkyrie Brewing",1162824490,3.5,4,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
-"474",683,"Valkyrie Brewing",1160659299,4,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
-"475",683,"Valkyrie Brewing",1160535286,1.5,1.5,3,"American Porter",1,1.5,"Whole Stein",NA,3753
-"476",683,"Valkyrie Brewing",1159309941,3,3,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
-"477",683,"Valkyrie Brewing",1158641801,4,4,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
-"478",683,"Valkyrie Brewing",1155487929,4,4,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
-"479",683,"Valkyrie Brewing",1154960651,3.5,4,4,"American Porter",2,3.5,"Whole Stein",NA,3753
-"480",683,"Valkyrie Brewing",1154048846,4,3.5,4,"American Porter",4,4.5,"Whole Stein",NA,3753
-"481",683,"Valkyrie Brewing",1130788988,4,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
-"482",683,"Valkyrie Brewing",1130035676,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"483",683,"Valkyrie Brewing",1128459429,4.5,4,4,"American Porter",4,4.5,"Whole Stein",NA,3753
-"484",683,"Valkyrie Brewing",1126560069,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"485",683,"Valkyrie Brewing",1124158172,4,4,3,"American Porter",3.5,4.5,"Whole Stein",NA,3753
-"486",683,"Valkyrie Brewing",1122169359,4.5,4,4,"American Porter",4,4.5,"Whole Stein",NA,3753
-"487",683,"Valkyrie Brewing",1121146859,3.5,4,3.5,"American Porter",4,4.5,"Whole Stein",NA,3753
-"488",683,"Valkyrie Brewing",1119830997,2.5,3,3.5,"American Porter",2.5,2.5,"Whole Stein",NA,3753
-"489",683,"Valkyrie Brewing",1113874935,4,3,4.5,"American Porter",3,4,"Whole Stein",NA,3753
-"490",683,"Valkyrie Brewing",1109903279,4,4,4.5,"American Porter",2,3.5,"Whole Stein",NA,3753
-"491",683,"Valkyrie Brewing",1104022595,4.5,4.5,4,"American Porter",4,4.5,"Whole Stein",NA,3753
-"492",683,"Valkyrie Brewing",1095200983,5,4.5,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
-"493",683,"Valkyrie Brewing",1085644271,4.5,4.5,4,"American Porter",4.5,4.5,"Whole Stein",NA,3753
-"494",683,"Valkyrie Brewing",1084864802,4.5,4,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
-"495",683,"Valkyrie Brewing",1084143164,4.5,4,3,"American Porter",4.5,4,"Whole Stein",NA,3753
-"496",683,"Valkyrie Brewing",1076469224,4,3.5,4,"American Porter",4.5,4,"Whole Stein",NA,3753
-"497",683,"Valkyrie Brewing",1075756156,4.5,4,4,"American Porter",4.5,4,"Whole Stein",NA,3753
-"498",683,"Valkyrie Brewing",1065139456,5,4,5,"American Porter",4,4,"Whole Stein",NA,3753
-"499",683,"Valkyrie Brewing",1064260481,4.5,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
-"500",683,"Valkyrie Brewing",1063331764,4.5,4.5,3,"American Porter",3,4,"Whole Stein",NA,3753
-"501",683,"Valkyrie Brewing",1060012495,4,4.5,4,"American Porter",4.5,4,"Whole Stein",NA,3753
-"502",683,"Valkyrie Brewing",1058929032,4.5,4.5,4.5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
-"503",683,"Valkyrie Brewing",1057502063,4.5,4.5,4,"American Porter",4,3.5,"Whole Stein",NA,3753
-"504",683,"Valkyrie Brewing",1053189575,4.5,4,4.5,"American Porter",4,4,"Whole Stein",NA,3753
-"505",683,"Valkyrie Brewing",1031700681,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
-"506",683,"Valkyrie Brewing",1031175480,4.5,5,5,"American Porter",4.5,4,"Whole Stein",NA,3753
-"507",683,"Valkyrie Brewing",1021942403,4.5,4.5,4.5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
-"508",683,"Valkyrie Brewing",1263947661,3,3.5,3.5,"American Pale Lager",3,2.5,"Blonde",NA,5849
-"509",683,"Valkyrie Brewing",1262709012,3,3.5,2.5,"American Pale Lager",1.5,3,"Blonde",NA,5849
-"510",683,"Valkyrie Brewing",1252374916,3.5,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
-"511",683,"Valkyrie Brewing",1249340752,4,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
-"512",683,"Valkyrie Brewing",1233197906,3,2.5,3,"American Pale Lager",3,3,"Blonde",NA,5849
-"513",683,"Valkyrie Brewing",1230389555,2,2,3,"American Pale Lager",2,2.5,"Blonde",NA,5849
-"514",683,"Valkyrie Brewing",1197866409,3,2,2,"American Pale Lager",3,2,"Blonde",NA,5849
-"515",683,"Valkyrie Brewing",1168475606,2.5,3,3,"American Pale Lager",2.5,2.5,"Blonde",NA,5849
-"516",683,"Valkyrie Brewing",1161695095,3,3.5,4,"American Pale Lager",3.5,3,"Blonde",NA,5849
-"517",683,"Valkyrie Brewing",1152585538,4,3.5,4,"American Pale Lager",3.5,4,"Blonde",NA,5849
-"518",683,"Valkyrie Brewing",1111275922,2.5,2.5,2,"American Pale Lager",2,2.5,"Blonde",NA,5849
-"519",683,"Valkyrie Brewing",1107586863,4.5,3.5,4,"American Pale Lager",3.5,4,"Blonde",NA,5849
-"520",683,"Valkyrie Brewing",1101618222,1.5,3.5,2,"American Pale Lager",4,2,"Blonde",NA,5849
-"521",683,"Valkyrie Brewing",1098114371,3.5,3.5,3.5,"American Pale Lager",3,3,"Blonde",NA,5849
-"522",683,"Valkyrie Brewing",1092734275,3.5,4,3.5,"American Pale Lager",3,3.5,"Blonde",NA,5849
-"523",683,"Valkyrie Brewing",1032385970,4,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
-"524",683,"Valkyrie Brewing",1031254018,3.5,4,3.5,"American Pale Lager",3,3.5,"Blonde",NA,5849
-"525",683,"Valkyrie Brewing",1263432014,3.5,3.5,4,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
-"526",683,"Valkyrie Brewing",1263355109,2.5,2.5,3,"Vienna Lager",2.5,2.5,"Vienna Woods",NA,5976
-"527",683,"Valkyrie Brewing",1245039040,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
-"528",683,"Valkyrie Brewing",1231475333,3.5,3.5,3.5,"Vienna Lager",4,3,"Vienna Woods",NA,5976
-"529",683,"Valkyrie Brewing",1228925027,2,3,3,"Vienna Lager",2,2,"Vienna Woods",NA,5976
-"530",683,"Valkyrie Brewing",1226345152,2,3.5,2,"Vienna Lager",2,2,"Vienna Woods",NA,5976
-"531",683,"Valkyrie Brewing",1225554072,3.5,4,3.5,"Vienna Lager",4,4,"Vienna Woods",NA,5976
-"532",683,"Valkyrie Brewing",1223674637,3,4,3,"Vienna Lager",3,3,"Vienna Woods",NA,5976
-"533",683,"Valkyrie Brewing",1210553449,4,3.5,3,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
-"534",683,"Valkyrie Brewing",1205425844,3,3,4.5,"Vienna Lager",3.5,2.5,"Vienna Woods",NA,5976
-"535",683,"Valkyrie Brewing",1193276975,3.5,3.5,3,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
-"536",683,"Valkyrie Brewing",1184980586,3.5,4,4,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
-"537",683,"Valkyrie Brewing",1183848092,3,3,3,"Vienna Lager",3,2.5,"Vienna Woods",NA,5976
-"538",683,"Valkyrie Brewing",1169340053,3.5,4,4,"Vienna Lager",4,4,"Vienna Woods",NA,5976
-"539",683,"Valkyrie Brewing",1168648911,2.5,3,3.5,"Vienna Lager",3,2.5,"Vienna Woods",NA,5976
-"540",683,"Valkyrie Brewing",1164148482,4,3,4,"Vienna Lager",4,3.5,"Vienna Woods",NA,5976
-"541",683,"Valkyrie Brewing",1161051844,4,4,3.5,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
-"542",683,"Valkyrie Brewing",1157460479,4,4,4,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
-"543",683,"Valkyrie Brewing",1137882440,4,3,4.5,"Vienna Lager",4.5,2.5,"Vienna Woods",NA,5976
-"544",683,"Valkyrie Brewing",1131073745,3,2.5,3.5,"Vienna Lager",3.5,2.5,"Vienna Woods",NA,5976
-"545",683,"Valkyrie Brewing",1123726059,1.5,2,2.5,"Vienna Lager",1.5,2,"Vienna Woods",NA,5976
-"546",683,"Valkyrie Brewing",1108775294,3.5,3.5,3,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
-"547",683,"Valkyrie Brewing",1100663153,4.5,4,5,"Vienna Lager",4,3.5,"Vienna Woods",NA,5976
-"548",683,"Valkyrie Brewing",1100568977,3,3.5,4,"Vienna Lager",3,3,"Vienna Woods",NA,5976
-"549",683,"Valkyrie Brewing",1098113828,2,3.5,4,"Vienna Lager",3.5,2,"Vienna Woods",NA,5976
-"550",683,"Valkyrie Brewing",1090281993,4,3.5,4,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
-"551",683,"Valkyrie Brewing",1058917967,4.5,4,4,"Vienna Lager",4,4.5,"Vienna Woods",NA,5976
-"552",683,"Valkyrie Brewing",1054742548,3.5,3.5,4,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
-"553",683,"Valkyrie Brewing",1031862893,4.5,4,4,"Vienna Lager",4,4,"Vienna Woods",NA,5976
-"554",683,"Valkyrie Brewing",1236152064,5,4,3,"Doppelbock",5,4.5,"Invador Dopplebock",NA,3047
-"555",683,"Valkyrie Brewing",1222151652,1,2.5,4,"Doppelbock",2,1.5,"Invador Dopplebock",NA,3047
-"556",683,"Valkyrie Brewing",1206854074,3.5,3,3.5,"Doppelbock",2.5,3,"Invador Dopplebock",NA,3047
-"557",683,"Valkyrie Brewing",1112236491,4,4,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"558",683,"Valkyrie Brewing",1179496449,3.5,4,3.5,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"559",683,"Valkyrie Brewing",1176341976,4,4,4,"Doppelbock",4,4,"Invador Dopplebock",NA,3047
-"560",683,"Valkyrie Brewing",1175652196,3,3.5,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
-"561",683,"Valkyrie Brewing",1171820632,4,3.5,3,"Doppelbock",4.5,4,"Invador Dopplebock",NA,3047
-"562",683,"Valkyrie Brewing",1154960568,3.5,3.5,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
-"563",683,"Valkyrie Brewing",1148525250,4,4,3.5,"Doppelbock",4,3.5,"Invador Dopplebock",NA,3047
-"564",683,"Valkyrie Brewing",1145847709,3.5,3,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
-"565",683,"Valkyrie Brewing",1143355892,3.5,3.5,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"566",683,"Valkyrie Brewing",1113631919,3,3,3,"Doppelbock",2,3,"Invador Dopplebock",NA,3047
-"567",683,"Valkyrie Brewing",1109554510,4,4,3.5,"Doppelbock",4.5,4,"Invador Dopplebock",NA,3047
-"568",683,"Valkyrie Brewing",1106418035,3,4,2.5,"Doppelbock",2,3,"Invador Dopplebock",NA,3047
-"569",683,"Valkyrie Brewing",1105546116,4,4,3.5,"Doppelbock",3,3,"Invador Dopplebock",NA,3047
-"570",683,"Valkyrie Brewing",1085638035,4,3.5,3,"Doppelbock",3.5,4,"Invador Dopplebock",NA,3047
-"571",683,"Valkyrie Brewing",1060043054,3.5,3.5,4,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
-"572",683,"Valkyrie Brewing",1059015439,4,4,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"573",683,"Valkyrie Brewing",1056014683,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"574",683,"Valkyrie Brewing",1046728745,3.5,3.5,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
-"575",683,"Valkyrie Brewing",1016545820,4.5,4,4,"Doppelbock",4,4,"Invador Dopplebock",NA,3047
+"brewery_id","brewery_name","review_time","review_overall","review_aroma","review_appearance","beer_style","review_palate","review_taste","beer_name","beer_abv","beer_beerid"
+683,"Valkyrie Brewing",1112725445,3,3.5,3.5,"American Adjunct Lager",2.5,3.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1104518427,4,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1101693370,4,4,3,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1204775139,4.5,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1204741917,4.5,4,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1159569341,3,3,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1118916777,3.5,3.5,3.5,"Märzen / Oktoberfest",3,3.5,"Horse Piss Beer",5.5,23950
+683,"Valkyrie Brewing",1117901172,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Horse Piss Beer",5.5,23950
+683,"Valkyrie Brewing",1117772971,4,4,4,"Märzen / Oktoberfest",3.5,4,"Horse Piss Beer",5.5,23950
+683,"Valkyrie Brewing",1117107758,4,4,4,"Märzen / Oktoberfest",3.5,4,"Horse Piss Beer",5.5,23950
+683,"Valkyrie Brewing",1253662292,2,3.5,3.5,"Schwarzbier",2,2,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1224022008,3.5,4,3.5,"Schwarzbier",3,4,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1218628186,5,4,4,"Schwarzbier",4,4,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1154228184,4,3,3.5,"Schwarzbier",3.5,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1209875456,3,3.5,4,"Schwarzbier",3,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1191019837,2.5,2.5,2.5,"Schwarzbier",2.5,2.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1186316171,4,3.5,4,"Schwarzbier",3.5,3.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1183509730,2,3,3.5,"Schwarzbier",2.5,3.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1169891684,4,4,3.5,"Schwarzbier",4,4,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1165988751,1,2.5,3.5,"Schwarzbier",1.5,1.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1164442048,3,3.5,3.5,"Schwarzbier",3,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1164238772,3.5,4,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1161825338,4,3.5,3.5,"Schwarzbier",3.5,3.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1159671318,3.5,4.5,4,"Schwarzbier",3.5,2.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1149809520,3.5,3.5,4,"Schwarzbier",3.5,3,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1145931697,4,4,4,"Schwarzbier",3.5,4.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1145591183,2,3,4,"Schwarzbier",2,2,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1144367558,3.5,4,4,"Schwarzbier",3,3.5,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1144364957,4,3.5,4,"Schwarzbier",3.5,4,"Mørketid",NA,29579
+683,"Valkyrie Brewing",1259108779,3.5,3.5,3.5,"Maibock / Helles Bock",3.5,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1205350813,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1199653717,4,3.5,3.5,"Maibock / Helles Bock",4,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1164588888,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1155006205,3,3,2.5,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1154960455,3.5,3,3,"Maibock / Helles Bock",3,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1150984847,3,3,4,"Maibock / Helles Bock",3,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1148422871,4.5,4,4,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1147482842,3.5,4,3.5,"Maibock / Helles Bock",3.5,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1143355597,4,4,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1113015899,3,2.5,2.5,"Maibock / Helles Bock",4,2.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1112633515,3.5,2.5,3.5,"Maibock / Helles Bock",2.5,3,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1111716148,4,3.5,4,"Maibock / Helles Bock",3,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1107448462,3.5,4,3.5,"Maibock / Helles Bock",3.5,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1086152532,3.5,3.5,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1051166854,4,4,3.5,"Maibock / Helles Bock",4,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1047943490,4.5,4,3,"Maibock / Helles Bock",4.5,4,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1016545970,3.5,3,4,"Maibock / Helles Bock",4.5,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1016413098,3,4,3.5,"Maibock / Helles Bock",2.5,3.5,"J.S. Helles Bock",NA,3046
+683,"Valkyrie Brewing",1214853138,4,2.5,3,"American Adjunct Lager",4,4,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1164673225,3.5,3,4,"American Adjunct Lager",3.5,3,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1164064631,3.5,3,3.5,"American Adjunct Lager",4,3,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1160658764,3.5,3.5,4,"American Adjunct Lager",3.5,3.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1130201733,1.5,2,3,"American Adjunct Lager",2,1.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1117582747,3.5,3.5,3,"American Adjunct Lager",3,3.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1117145053,3,3,3,"American Adjunct Lager",2.5,2.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1116102128,4,3.5,4.5,"American Adjunct Lager",4,4,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1065503590,2.5,3.5,2.5,"American Adjunct Lager",4,3,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1061444508,3,4,3.5,"American Adjunct Lager",2.5,3.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1051552053,3,2.5,3.5,"American Adjunct Lager",2.5,3,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1032288846,3,3,3.5,"American Adjunct Lager",3,2.5,"Sylvan Springs",NA,6096
+683,"Valkyrie Brewing",1263773872,3.5,3.5,3.5,"Märzen / Oktoberfest",3.5,3,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1259368386,4,3.5,3.5,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1250387873,4,3.5,3.5,"Märzen / Oktoberfest",2.5,3,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1239908830,4,3.5,3,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1200078077,4.5,4,4,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1174177660,4,3.5,3.5,"Märzen / Oktoberfest",4,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1159452111,4,4,3.5,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1154960347,3.5,3.5,3,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1153758032,4,4,4,"Märzen / Oktoberfest",3,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1145600606,4,2,2,"Märzen / Oktoberfest",3,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1110987210,3.5,3.5,4,"Märzen / Oktoberfest",3,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1107636250,4,4,4,"Märzen / Oktoberfest",3.5,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1101612339,3,4,4.5,"Märzen / Oktoberfest",2.5,3,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1093838913,3,3.5,3.5,"Märzen / Oktoberfest",2.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1071191445,3.5,3,3,"Märzen / Oktoberfest",2.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1062953613,4,4,4,"Märzen / Oktoberfest",4,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1032295250,3.5,3.5,4,"Märzen / Oktoberfest",3.5,3.5,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1031860993,4.5,4,3.5,"Märzen / Oktoberfest",3.5,4,"Copperhead",NA,5974
+683,"Valkyrie Brewing",1259806918,2.5,2.5,3,"English India Pale Ale (IPA)",2.5,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1257115664,2,2,3,"English India Pale Ale (IPA)",2,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1255876067,3,4.5,3.5,"English India Pale Ale (IPA)",3.5,3.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1235349242,3.5,2,4,"English India Pale Ale (IPA)",3.5,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1223936756,4,3.5,4,"English India Pale Ale (IPA)",5,3.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1217353862,4,3,3.5,"English India Pale Ale (IPA)",3.5,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1198293599,1.5,2,2,"English India Pale Ale (IPA)",2,1.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1197330333,2,2,2.5,"English India Pale Ale (IPA)",1.5,1.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1193725833,3.5,3,2.5,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1170861435,4,3.5,4,"English India Pale Ale (IPA)",3.5,3.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1164505591,3,2.5,4,"English India Pale Ale (IPA)",2.5,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1159756048,2.5,2.5,3,"English India Pale Ale (IPA)",2.5,2.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1156907033,4,3,3,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1175546820,2,1.5,2,"Rauchbier",2,2,"Rauch",NA,3920
+683,"Valkyrie Brewing",1151589897,2.5,2,2.5,"English India Pale Ale (IPA)",1.5,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1146192985,1.5,1.5,1.5,"English India Pale Ale (IPA)",2,1.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1141581236,2,2.5,1.5,"English India Pale Ale (IPA)",1.5,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1137642655,1.5,2.5,1,"English India Pale Ale (IPA)",3,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1132787756,3,3,3,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1130741186,2.5,2,2.5,"English India Pale Ale (IPA)",3,2.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1122645441,2.5,2,2.5,"English India Pale Ale (IPA)",1.5,2,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1090141617,3,3,3.5,"English India Pale Ale (IPA)",2.5,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1062952119,3.5,3,3.5,"English India Pale Ale (IPA)",4,2.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1062566620,2.5,2,3,"English India Pale Ale (IPA)",3,2.5,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1060143206,3,2,4,"English India Pale Ale (IPA)",4,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1058654344,2.5,2.5,4,"English India Pale Ale (IPA)",3,3,"Queen Victoria's Secret IPA",NA,11511
+683,"Valkyrie Brewing",1275706240,4,3.5,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1275178267,3.5,3.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1265503322,3,3,2.5,"Russian Imperial Stout",3,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1265000577,3.5,4,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1262709130,4,4,3.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1245788871,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1262400378,3,3.5,3.5,"Russian Imperial Stout",3.5,3,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1259988865,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1253996130,4.5,4,4,"Russian Imperial Stout",5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1246079340,4,3.5,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1245378684,3.5,4,2.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1242630395,4,3,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1235965877,2,2.5,3,"Russian Imperial Stout",3,2,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1235534761,4,4,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1235340503,4.5,4.5,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1178853142,2.5,3,4,"Russian Imperial Stout",3.5,3,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1232767401,3,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1225329176,3,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1225241912,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1224946082,3.5,4,2.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1224298293,4,4.5,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1223414245,3,4,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1215480829,4,4,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1211712637,4.5,4.5,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1208659696,4,3.5,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1240975584,2.5,2,2,"American Porter",4,2,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1202744520,3.5,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1201110312,4,4.5,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1200988717,4,3,3.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1199430527,2.5,2.5,4,"Russian Imperial Stout",3.5,2.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1199377631,3.5,3.5,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1190428936,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1186369757,3.5,3.5,2.5,"Russian Imperial Stout",3,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1181941544,4,3,3,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1177386783,4.5,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1176445386,3.5,4,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1173113860,3.5,3,4,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1171950728,4,4.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1170607458,4.5,4.5,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1168742591,4,4,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1168530447,4.5,4,4.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1168115662,4,3,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1167980779,4.5,3.5,4,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1161835338,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1161321014,4,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1161191854,4,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1157932206,3.5,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1157468064,4,3.5,3.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1154960851,4,3.5,3,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1154841761,3.5,4,3,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1153940391,4,4,3,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1100662732,3.5,4,4,"Russian Imperial Stout",4.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1153701908,4.5,4,3.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1151630439,4.5,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1150823294,4,3.5,2.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1149536216,2,4.5,3,"Russian Imperial Stout",3.5,2,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1145640745,4,3.5,3.5,"Russian Imperial Stout",3,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1140901222,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1139178370,4,3,4,"Russian Imperial Stout",5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1138372464,4,4,4,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1109637754,3.5,3.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1136233285,4.5,4.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1132279772,4,3.5,3,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1126625325,4.5,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1124305753,3.5,4,5,"Russian Imperial Stout",3.5,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1123204608,4,4.5,4,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1120507049,3.5,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1120493963,4,4.5,4.5,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1114980974,4.5,3.5,3.5,"Russian Imperial Stout",4.5,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1110690811,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1105061463,4,4.5,5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1099518833,4,4.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1089039360,4,4,3.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1086241800,4,4,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1081588838,4,4,4.5,"Russian Imperial Stout",4.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1077563126,4,4,4,"Russian Imperial Stout",3.5,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1076533701,3.5,3.5,4,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1075599936,3.5,3.5,4,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1066433915,4.5,4,5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1065039436,4.5,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1062476854,4,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1060050349,4.5,4.5,4.5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1056640269,4,3.5,4,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1053187760,3.5,4,4.5,"Russian Imperial Stout",4,3.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1030482975,4,4.5,4.5,"Russian Imperial Stout",4,4,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1021322753,4,4,3.5,"Russian Imperial Stout",4,4.5,"Big Swede",NA,3679
+683,"Valkyrie Brewing",1264980654,4,4,4,"Braggot",2.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1160188284,3.5,4,4,"Braggot",3.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1260415470,4,4,3.5,"Braggot",4,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1256684865,4,3.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1251254312,4,4.5,4,"Braggot",4,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1249956131,4.5,4,4.5,"Braggot",3.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1240024015,3.5,2,3.5,"Braggot",4.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1234601336,3.5,4,4.5,"Braggot",3.5,3.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1203572415,4,4,4,"Braggot",4,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1175910371,4,4,3.5,"Braggot",4,3.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1139430287,4,4,4,"Braggot",4,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1136777828,4.5,3.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1119765595,3.5,4,4,"Braggot",3.5,3.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1113258912,4,4.5,4.5,"Braggot",4.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1104937383,1,3,3.5,"Braggot",1.5,1.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1100222317,3.5,3.5,3,"Braggot",3.5,3.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1098845534,3.5,4.5,3.5,"Braggot",3.5,4,"Mjød",NA,12001
+683,"Valkyrie Brewing",1098197441,3,3.5,3.5,"Braggot",2.5,3,"Mjød",NA,12001
+683,"Valkyrie Brewing",1060385602,3,4,4,"Braggot",3,3.5,"Mjød",NA,12001
+683,"Valkyrie Brewing",1264462738,3,3.5,4,"American Dark Wheat Ale",3,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1224110556,3.5,4,4,"American Dark Wheat Ale",3,4,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1208751737,3.5,3.5,3.5,"American Dark Wheat Ale",3,3.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1203608584,2,3,4,"American Dark Wheat Ale",2.5,2,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1199420489,1,2.5,3.5,"American Dark Wheat Ale",1.5,1,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1161054327,2.5,2.5,4,"American Dark Wheat Ale",3.5,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1159986885,2.5,3,3.5,"American Dark Wheat Ale",2.5,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1154047289,3.5,3.5,3.5,"American Dark Wheat Ale",3.5,3,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1144282278,2,2.5,2.5,"American Dark Wheat Ale",1.5,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1300003592,4,4,3.5,"Braggot",4,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1131234608,2,2,3.5,"American Dark Wheat Ale",3,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1119236126,3,3,3.5,"American Dark Wheat Ale",3,3,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1116212072,2.5,2,3,"American Dark Wheat Ale",3,2,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1113516838,2.5,2,3,"American Dark Wheat Ale",2,2,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1112762053,1.5,3.5,3,"American Dark Wheat Ale",2,2,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1112558373,3,4,3.5,"American Dark Wheat Ale",2.5,2.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1112482134,3.5,3.5,3.5,"American Dark Wheat Ale",2,3.5,"Weathertop Wheat",NA,22918
+683,"Valkyrie Brewing",1300061890,4,3.5,3.5,"Braggot",4,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1141175880,3.5,4,4,"Braggot",4,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1272998664,3.5,4,3,"Braggot",3.5,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1272850470,3,4,3.5,"Braggot",1.5,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1266204156,4,4,3,"Braggot",3.5,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1263763766,4.5,4.5,4.5,"Braggot",4.5,4.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1259256466,3.5,3.5,3.5,"Braggot",3,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1245992550,3.5,3,3.5,"Braggot",3.5,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1231301100,2.5,2.5,3,"Braggot",3,3,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1176124151,4,2.5,3,"Braggot",3,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1133148774,4.5,4.5,4.5,"Braggot",4.5,4.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1133110405,4,2,3,"Braggot",3,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1128309754,2.5,3.5,2.5,"Braggot",3,2.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1121910081,3,3.5,4,"Braggot",4,3.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1109542560,5,4,5,"Braggot",4.5,4.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1099877407,3.5,4,3.5,"Braggot",3.5,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1071790852,4.5,4,4,"Braggot",4,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1062968787,4,4,3.5,"Braggot",3.5,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1060013206,3,4,3.5,"Braggot",3.5,3,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1022710976,4,4.5,4,"Braggot",4,4.5,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1016545690,5,3,3,"Braggot",4,4,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1016412861,3,3,4,"Braggot",3,3,"Honey Moon",10,3045
+683,"Valkyrie Brewing",1286934647,1,1,4,"Chile Beer",1.5,1,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1277513866,1,4,2.5,"Chile Beer",1,2,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1271292718,4,3.5,4,"Chile Beer",4.5,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1270180705,3.5,3.5,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1264544922,1.5,3.5,3.5,"Chile Beer",2,2,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1262228173,1,1.5,1,"Chile Beer",3,2,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1261618133,3.5,3,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1248360149,4,3,4,"Chile Beer",3.5,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1245788132,4,4,4,"Chile Beer",4,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1237570446,3.5,4,3,"Chile Beer",4,3.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1235955333,3.5,3,3,"Chile Beer",3.5,3.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1233111686,3,3,2,"Chile Beer",4,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1229307850,4,4,4,"Chile Beer",3.5,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1210023153,4,3.5,3.5,"Chile Beer",4,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1208440362,3.5,3.5,4,"Chile Beer",4,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1205714818,3.5,3,2.5,"Chile Beer",3,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1203308040,4.5,3,3,"Chile Beer",4,4.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1176658604,4,3.5,3.5,"Chile Beer",4.5,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1172029586,3.5,3.5,2.5,"Chile Beer",3,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1170518375,2.5,3.5,3.5,"Chile Beer",3,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1163640588,3.5,3,2,"Chile Beer",2,3.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1160250455,1.5,3.5,2.5,"Chile Beer",3,2,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1154960780,1.5,3.5,3,"Chile Beer",2,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1152153850,2.5,2.5,3.5,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1151965225,2.5,4,2,"Chile Beer",1.5,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1148022668,2.5,3.5,3,"Chile Beer",4,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1147310959,2,3.5,3.5,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1142821733,2,3.5,3,"Chile Beer",2,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1141347553,2,3.5,3,"Chile Beer",2.5,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1139280423,2,3,3,"Chile Beer",2.5,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1129088722,3.5,4.5,3.5,"Chile Beer",4,4,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1121905122,1,3,2,"Chile Beer",1.5,1.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1285522388,3.5,3.5,3,"English Barleywine",2.5,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1113029049,3,3.5,3.5,"Chile Beer",3,3.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1112928442,3.5,3,2.5,"Chile Beer",4,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1106946507,1,2.5,2,"Chile Beer",1.5,1,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1106101785,2.5,3.5,3.5,"Chile Beer",3,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1106003508,3,3.5,3,"Chile Beer",2.5,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1103436670,2.5,3.5,3,"Chile Beer",3,3,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1102695140,2,3.5,3.5,"Chile Beer",3,2.5,"Hot Chocolate",NA,21071
+683,"Valkyrie Brewing",1159150245,3.5,3.5,4,"English Barleywine",4,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1266466803,4.5,4,3.5,"English Barleywine",4.5,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1263447279,4,3.5,3.5,"English Barleywine",3.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1221011188,3.5,4,3,"English Barleywine",2.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1216859726,3.5,3.5,2.5,"English Barleywine",3,3,"Berserk",12,5850
+683,"Valkyrie Brewing",1215489330,3,3,3.5,"English Barleywine",4.5,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1211223376,3,4,4,"English Barleywine",3,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1204744172,3.5,4,4,"English Barleywine",4,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1154923928,4,4,4,"English Barleywine",4,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1200792388,3.5,4,4,"English Barleywine",3.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1200155756,4,3.5,4,"English Barleywine",4,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1197779899,4.5,4.5,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1178087825,3,4,4,"English Barleywine",3.5,3,"Berserk",12,5850
+683,"Valkyrie Brewing",1171419003,3.5,3.5,4,"English Barleywine",3,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1168128399,4.5,4.5,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1167784482,4,4,4,"English Barleywine",3.5,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1162968908,4,4,4,"English Barleywine",3.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1162780574,4,4,4,"English Barleywine",3.5,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1153668554,4,4,4,"English Barleywine",4.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1153535871,4,4,4.5,"English Barleywine",4.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1153449771,4,4,3.5,"English Barleywine",4,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1144373653,3.5,3.5,4,"English Barleywine",3.5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1142715221,3,1.5,3,"English Barleywine",3,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1142219875,4.5,3.5,4.5,"English Barleywine",4.5,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1141347462,3,4,4,"English Barleywine",2.5,2.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1134619118,3.5,3.5,3.5,"English Barleywine",4,2.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1110505056,4.5,4,3.5,"English Barleywine",4.5,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1098086678,3.5,4,4,"English Barleywine",4.5,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1097161251,4.5,4,4,"English Barleywine",4,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1086330644,3.5,4,3.5,"English Barleywine",4,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1071643782,4,3.5,4,"English Barleywine",4,3.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1066266602,3,2.5,4.5,"English Barleywine",3.5,3,"Berserk",12,5850
+683,"Valkyrie Brewing",1042594316,5,4,4.5,"English Barleywine",5,4,"Berserk",12,5850
+683,"Valkyrie Brewing",1032036518,3,3,4,"English Barleywine",3.5,3,"Berserk",12,5850
+683,"Valkyrie Brewing",1031257124,5,4,4.5,"English Barleywine",4,4.5,"Berserk",12,5850
+683,"Valkyrie Brewing",1264121659,2.5,3,3.5,"American Pale Ale (APA)",2.5,3,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1205346968,2.5,3,2.5,"American Pale Ale (APA)",2.5,2.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1178086452,4,3,3,"American Pale Ale (APA)",4,2.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1164855583,3.5,3,4,"American Pale Ale (APA)",3,3.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1161349083,3,3,4,"American Pale Ale (APA)",3,3,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1160659603,3,3.5,3,"American Pale Ale (APA)",3,3.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1155669625,3.5,3.5,3.5,"American Pale Ale (APA)",3.5,3.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1121904153,2.5,3,3.5,"American Pale Ale (APA)",2,2,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1119497553,2,3,3,"American Pale Ale (APA)",2,2.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1099077319,2.5,2.5,2.5,"American Pale Ale (APA)",2,2.5,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1095732985,2.5,3,3,"American Pale Ale (APA)",2.5,3,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1061518290,3,3,3,"American Pale Ale (APA)",3,3,"Honey Pale Ale",NA,12207
+683,"Valkyrie Brewing",1264999963,2,2,4.5,"Herbed / Spiced Beer",3,2,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1261702389,3,4,3.5,"Herbed / Spiced Beer",4,3,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1230309906,1.5,1.5,3,"Herbed / Spiced Beer",2.5,2,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1228627050,3.5,4,4,"Herbed / Spiced Beer",2,3,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1215540431,3.5,4,3.5,"Herbed / Spiced Beer",3.5,4,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1136765007,3,4,2.5,"Herbed / Spiced Beer",2,4,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1123157573,2.5,3.5,2.5,"Herbed / Spiced Beer",1.5,2.5,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1105295207,3,4,3,"Herbed / Spiced Beer",3.5,3,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1102466882,3.5,4,4,"Herbed / Spiced Beer",3,3.5,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1101766242,3,4,2,"Herbed / Spiced Beer",2,3.5,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1101223408,2.5,2.5,3,"Herbed / Spiced Beer",3,2,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1101205208,2.5,2.5,3,"Herbed / Spiced Beer",2,3,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1098900539,2,3,3.5,"Herbed / Spiced Beer",2,2,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1071297575,4,3.5,3,"Herbed / Spiced Beer",4.5,4,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1016412626,2,4.5,3,"Herbed / Spiced Beer",1.5,2,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1012003786,4,5,4.5,"Herbed / Spiced Beer",4,4,"Juleøl",NA,2647
+683,"Valkyrie Brewing",1270082454,3,3.5,3,"Rauchbier",2.5,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1199658079,3.5,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1253671342,1,3,2,"Rauchbier",2,2,"Rauch",NA,3920
+683,"Valkyrie Brewing",1250997566,3,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1229461064,2,2,2.5,"Rauchbier",2,1.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1214853192,2.5,2.5,2.5,"Rauchbier",2,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1209470043,3,2.5,3,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1208657850,2,3.5,3,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1204816331,3.5,4,3.5,"Rauchbier",3.5,4,"Rauch",NA,3920
+683,"Valkyrie Brewing",1201822670,3,4,3.5,"Rauchbier",2.5,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1199376956,2.5,2.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1171222471,4,3.5,3.5,"Rauchbier",3.5,4,"Rauch",NA,3920
+683,"Valkyrie Brewing",1166568092,2,3,3,"Rauchbier",2.5,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1164771458,4,3,4.5,"Rauchbier",4,4,"Rauch",NA,3920
+683,"Valkyrie Brewing",1148844365,2.5,2.5,3,"Rauchbier",3,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1136778444,1,2,1,"Rauchbier",2,2,"Rauch",NA,3920
+683,"Valkyrie Brewing",1130989505,3,2.5,3.5,"Rauchbier",3,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1129494756,3,3.5,3.5,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1105298361,2.5,3.5,3,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1101705006,3.5,2.5,2.5,"Rauchbier",3.5,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1098081789,2.5,3,3.5,"Rauchbier",2.5,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1098037863,2.5,4,2.5,"Rauchbier",2.5,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1091811232,2.5,2.5,3,"Rauchbier",3,2.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1078347938,2,2.5,3.5,"Rauchbier",2,2,"Rauch",NA,3920
+683,"Valkyrie Brewing",1071198872,2.5,2,3.5,"Rauchbier",3,2,"Rauch",NA,3920
+683,"Valkyrie Brewing",1059773171,2.5,2,4,"Rauchbier",3,3,"Rauch",NA,3920
+683,"Valkyrie Brewing",1022709924,1.5,2,3.5,"Rauchbier",1.5,1.5,"Rauch",NA,3920
+683,"Valkyrie Brewing",1217555033,1,2,3.5,"Fruit / Vegetable Beer",3,1.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1215993982,4.5,4.5,4.5,"Fruit / Vegetable Beer",5,4.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1212346136,2.5,3.5,2.5,"Fruit / Vegetable Beer",4,2.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1164149734,1,1,3,"Fruit / Vegetable Beer",3,1.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1155479540,3,3.5,3,"Fruit / Vegetable Beer",1,3.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1148996197,4,4,2.5,"Fruit / Vegetable Beer",3.5,4,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1146104846,2,1.5,2.5,"Fruit / Vegetable Beer",2.5,2,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1126823944,2.5,3.5,3.5,"Fruit / Vegetable Beer",2,2.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1124147907,1,1.5,2.5,"Fruit / Vegetable Beer",2.5,1.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1122904876,1.5,2.5,3.5,"Fruit / Vegetable Beer",1,1.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1122569753,1.5,2,2,"Fruit / Vegetable Beer",1.5,1.5,"Lime Twist",NA,25004
+683,"Valkyrie Brewing",1265482929,1,2,2,"Belgian Dark Ale",1,1,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1252537792,2.5,3,3.5,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1229650200,3,2.5,3,"Belgian Dark Ale",3,3,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1211114971,2.5,3,3,"Belgian Dark Ale",2,2.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1206945281,4,3.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1204816723,4,3.5,4,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1175546585,3,3,3,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1167007508,2,2.5,4,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1164769055,4,4.5,4,"Belgian Dark Ale",5,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1145383468,3,4,4,"American Porter",3.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1157468777,3.5,3.5,3.5,"Belgian Dark Ale",3.5,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1155479918,3.5,3,3,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1136591584,4,3.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1135883247,4,3,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1126540009,3,4,3,"Belgian Dark Ale",3,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1099964360,4,4.5,4,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1092737126,3.5,4,4,"Belgian Dark Ale",3.5,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1086487818,2.5,3.5,4,"Belgian Dark Ale",2.5,2.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1084218049,4,3.5,3.5,"Belgian Dark Ale",4,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1080578347,3,4,3,"Belgian Dark Ale",3,3.5,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1078196488,3.5,3,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1071639598,3,3,3.5,"Belgian Dark Ale",3.5,3,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1046727338,4,4.5,4,"Belgian Dark Ale",3.5,4,"Abby Normal",NA,8788
+683,"Valkyrie Brewing",1252464652,3,4,3.5,"Witbier",3,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1243655696,3,2.5,3,"Witbier",3.5,2.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1208720652,3,3.5,3.5,"Witbier",3.5,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1202698421,2,3,3,"Witbier",2,2.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1166748366,3,3.5,4,"Witbier",3,3,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1164678754,2.5,3.5,4,"Witbier",3,3,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1164581558,2.5,3.5,3,"Witbier",3,2,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1163167831,3,4,3.5,"Witbier",3.5,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1161040440,4,2.5,3.5,"Witbier",3.5,4,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1126394942,3.5,2.5,3,"Witbier",4,2.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1126314410,3,2.5,2.5,"Witbier",2.5,3,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1101606192,3.5,3.5,2.5,"Witbier",3,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1100137873,3,3.5,3,"Witbier",3,3,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1096446914,2,3,3.5,"Witbier",2,2,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1095019642,3.5,4,3.5,"Witbier",2.5,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1062562654,3,4,4,"Witbier",3,3.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1060141013,4.5,5,4,"Witbier",4,4.5,"Dim Whit",NA,11957
+683,"Valkyrie Brewing",1293831964,4,3,4,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1290455391,4,3,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1263076386,4,3.5,4,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1259638408,3.5,4,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1258684902,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1254967924,4,4.5,4,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1253668317,2.5,2,4,"American Porter",3,2.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1253467492,3,3,3,"American Porter",1.5,2,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1250982142,4,4,4,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1235422832,3.5,3.5,4.5,"American Porter",3.5,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1228683592,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1228327791,3,3,3,"American Porter",3,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1227928226,3.5,3,3,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1226344511,3,4,3,"American Porter",3,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1225579650,3,3,3,"American Porter",2.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1224436780,3.5,4.5,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1224192409,3.5,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1220739281,3.5,3.5,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1215172392,4,3.5,3,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1144562327,4,3.5,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1210289908,3,3.5,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1204646341,5,4,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1203309465,3.5,2.5,3,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1201734266,3,3.5,3,"American Porter",2.5,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1198535788,4,3.5,3.5,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1197882911,4,3.5,4.5,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1193580836,3,4,3.5,"American Porter",3,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1191196060,4,3.5,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1190333576,4,4,3.5,"American Porter",4,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1140025645,4,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1139550818,1,2,3,"American Porter",1,1,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1189153262,4.5,4.5,3,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1186633135,3,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1184635316,3,3.5,4,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1183583445,2,3.5,3,"American Porter",1.5,2.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1176602448,3,3,3,"American Porter",3,2.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1172209357,3.5,4,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1170628719,3,3.5,4,"American Porter",3,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1168254350,2,3,2.5,"American Porter",3.5,1,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1167985553,5,3,5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1164587879,3.5,3,3.5,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1132448503,3.5,4,3.5,"American Porter",3,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1164503379,3.5,3,3.5,"American Porter",3.5,3,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1162824490,3.5,4,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1160659299,4,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1160535286,1.5,1.5,3,"American Porter",1,1.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1159309941,3,3,3.5,"American Porter",3,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1158641801,4,4,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1155487929,4,4,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1154960651,3.5,4,4,"American Porter",2,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1154048846,4,3.5,4,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1130788988,4,4,4,"American Porter",3.5,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1130035676,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1128459429,4.5,4,4,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1126560069,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1124158172,4,4,3,"American Porter",3.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1122169359,4.5,4,4,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1121146859,3.5,4,3.5,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1119830997,2.5,3,3.5,"American Porter",2.5,2.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1113874935,4,3,4.5,"American Porter",3,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1109903279,4,4,4.5,"American Porter",2,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1104022595,4.5,4.5,4,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1095200983,5,4.5,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1085644271,4.5,4.5,4,"American Porter",4.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1084864802,4.5,4,4.5,"American Porter",4,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1084143164,4.5,4,3,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1076469224,4,3.5,4,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1075756156,4.5,4,4,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1065139456,5,4,5,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1064260481,4.5,3.5,3.5,"American Porter",3.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1063331764,4.5,4.5,3,"American Porter",3,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1060012495,4,4.5,4,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1058929032,4.5,4.5,4.5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1057502063,4.5,4.5,4,"American Porter",4,3.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1053189575,4.5,4,4.5,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1031700681,4,4,4,"American Porter",4,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1031175480,4.5,5,5,"American Porter",4.5,4,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1021942403,4.5,4.5,4.5,"American Porter",4.5,4.5,"Whole Stein",NA,3753
+683,"Valkyrie Brewing",1263947661,3,3.5,3.5,"American Pale Lager",3,2.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1262709012,3,3.5,2.5,"American Pale Lager",1.5,3,"Blonde",NA,5849
+683,"Valkyrie Brewing",1252374916,3.5,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1249340752,4,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1233197906,3,2.5,3,"American Pale Lager",3,3,"Blonde",NA,5849
+683,"Valkyrie Brewing",1230389555,2,2,3,"American Pale Lager",2,2.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1197866409,3,2,2,"American Pale Lager",3,2,"Blonde",NA,5849
+683,"Valkyrie Brewing",1168475606,2.5,3,3,"American Pale Lager",2.5,2.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1161695095,3,3.5,4,"American Pale Lager",3.5,3,"Blonde",NA,5849
+683,"Valkyrie Brewing",1152585538,4,3.5,4,"American Pale Lager",3.5,4,"Blonde",NA,5849
+683,"Valkyrie Brewing",1111275922,2.5,2.5,2,"American Pale Lager",2,2.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1107586863,4.5,3.5,4,"American Pale Lager",3.5,4,"Blonde",NA,5849
+683,"Valkyrie Brewing",1101618222,1.5,3.5,2,"American Pale Lager",4,2,"Blonde",NA,5849
+683,"Valkyrie Brewing",1098114371,3.5,3.5,3.5,"American Pale Lager",3,3,"Blonde",NA,5849
+683,"Valkyrie Brewing",1092734275,3.5,4,3.5,"American Pale Lager",3,3.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1032385970,4,3.5,3,"American Pale Lager",3.5,3.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1031254018,3.5,4,3.5,"American Pale Lager",3,3.5,"Blonde",NA,5849
+683,"Valkyrie Brewing",1263432014,3.5,3.5,4,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1263355109,2.5,2.5,3,"Vienna Lager",2.5,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1245039040,3.5,3.5,4,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1231475333,3.5,3.5,3.5,"Vienna Lager",4,3,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1228925027,2,3,3,"Vienna Lager",2,2,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1226345152,2,3.5,2,"Vienna Lager",2,2,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1225554072,3.5,4,3.5,"Vienna Lager",4,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1223674637,3,4,3,"Vienna Lager",3,3,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1210553449,4,3.5,3,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1205425844,3,3,4.5,"Vienna Lager",3.5,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1193276975,3.5,3.5,3,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1184980586,3.5,4,4,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1183848092,3,3,3,"Vienna Lager",3,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1169340053,3.5,4,4,"Vienna Lager",4,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1168648911,2.5,3,3.5,"Vienna Lager",3,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1164148482,4,3,4,"Vienna Lager",4,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1161051844,4,4,3.5,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1157460479,4,4,4,"Vienna Lager",3.5,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1137882440,4,3,4.5,"Vienna Lager",4.5,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1131073745,3,2.5,3.5,"Vienna Lager",3.5,2.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1123726059,1.5,2,2.5,"Vienna Lager",1.5,2,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1108775294,3.5,3.5,3,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1100663153,4.5,4,5,"Vienna Lager",4,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1100568977,3,3.5,4,"Vienna Lager",3,3,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1098113828,2,3.5,4,"Vienna Lager",3.5,2,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1090281993,4,3.5,4,"Vienna Lager",3.5,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1058917967,4.5,4,4,"Vienna Lager",4,4.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1054742548,3.5,3.5,4,"Vienna Lager",3,3.5,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1031862893,4.5,4,4,"Vienna Lager",4,4,"Vienna Woods",NA,5976
+683,"Valkyrie Brewing",1236152064,5,4,3,"Doppelbock",5,4.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1222151652,1,2.5,4,"Doppelbock",2,1.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1206854074,3.5,3,3.5,"Doppelbock",2.5,3,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1112236491,4,4,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1179496449,3.5,4,3.5,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1176341976,4,4,4,"Doppelbock",4,4,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1175652196,3,3.5,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1171820632,4,3.5,3,"Doppelbock",4.5,4,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1154960568,3.5,3.5,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1148525250,4,4,3.5,"Doppelbock",4,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1145847709,3.5,3,3,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1143355892,3.5,3.5,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1113631919,3,3,3,"Doppelbock",2,3,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1109554510,4,4,3.5,"Doppelbock",4.5,4,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1106418035,3,4,2.5,"Doppelbock",2,3,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1105546116,4,4,3.5,"Doppelbock",3,3,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1085638035,4,3.5,3,"Doppelbock",3.5,4,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1060043054,3.5,3.5,4,"Doppelbock",3,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1059015439,4,4,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1056014683,3.5,3.5,3.5,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1046728745,3.5,3.5,4,"Doppelbock",3.5,3.5,"Invador Dopplebock",NA,3047
+683,"Valkyrie Brewing",1016545820,4.5,4,4,"Doppelbock",4,4,"Invador Dopplebock",NA,3047
