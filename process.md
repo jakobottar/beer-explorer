@@ -162,3 +162,44 @@ This still left us with the original 56,000 beers and 5,700 breweries, some of w
 We still wanted to be able to access individual reviews for each beer and brewery however, so instead of loading the entire dataset at once, we split the dataset into 1,600 `.csv` files - one for each brewery - to load when the user selects the brewery.
 
 All R code used and process documentation for the project can be seen in `R/ba-explore.md`.
+
+From here what we generated was a little hard to work with in javascript. The structure was a little hard to work with. So we did some further processing.
+
+The frst thing we were missing was the latitude and longitude data for our selected breweries. We solved this by using [Google's geocoding api](https://developers.google.com/maps/documentation/geocoding/start) and we wrote a python script to go through the list of breweries and grab their location data, and generate a `byBrewery-Locations.csv`.
+
+Now that we had the location data it was time for some more data cleaning. We wrote another python script that would use the brewery locations data file, and the 1600 brewery review files from earlier, and generate a `processed_data.json` file.
+
+This file is signifcantly smaller at approximately 10Mb, and we felt was reasonable to load all at once.
+This file is just an array of brewery objects that look approximately like the following:
+
+```
+{
+  "brewery_name": "(512) Brewing Company",
+  "brewery_id": "17863",
+  "lat": "30.2229723",
+  "lng": "-97.7701519",
+  "beers": [
+    {
+      "beer_id": "43535",
+      "beer_name": "(512) IPA",
+      "beer_abv": "7",
+      "beer_style": "American IPA",
+      "histogram": {
+        "overall": [0, 0, 0, 0, 0],
+        "aroma": [0, 0, 0, 0, 0],
+        "appearance": [0, 0, 0, 0, 0],
+        "palate": [0, 0, 0, 0, 0],
+        "taste": [0, 0, 0, 0, 0]
+      },
+      "n_reviews": 0,
+      "averages": {
+        "overall": 0,
+        "aroma": 0,
+        "appearance": 0,
+        "palate": 0,
+        "taste": 0
+      }
+    }
+  ]
+}
+```
