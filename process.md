@@ -148,3 +148,17 @@ This will be difficult as getting this data requires pulling from Google Maps or
 - Week 2 (Nov 12-16): Rough Table and Map completed, dashboard prototyped with placeholders (Prototype due)
 - Week 3 (Nov 19-23): Dashboard implementation, begin design work and cleanup
 - Week 4 (Nov 26-30): Final cleanup and animations
+
+# Prototype Work Documentation
+
+The first thing we did was load the dataset into R since it was way too big to view in Excel. Accessing it in R first allowed us to look at all the attributes and quickly determine what exactly we were dealing with. The original dataset was one single `.csv` file that was about 150 Mb in size - too big for GitHub to host - so we split the dataset into 4, 50 Mb files that we could store on GitHub and "bind" together and use as a single dataset for analysis.
+
+After that, we started cleaning up the dataset. The base dataset represented 1586616 different reviews of 56858 beers from 5744 different breweries. A 1.5 million row dataset is too big to reasonably manipulate in JavaScript, let alone load in a timely fashion.
+To counter this, since we didn't need to show every review or even every beer at once, we used R to summarize the table by beer, keeping the average ratings for aroma, appearance, palate, taste, and overall score. We also needed to keep track of the beer ID since there may be more than one beer with the same name, as well as count the number of reviews for each beer.
+We did the same for breweries, keeping the average rating for each of the 5 attributes, counting the number of beers listed, and storing the beers and beer IDs in a JSON structure to be read later on the site.
+
+This still left us with the original 56,000 beers and 5,700 breweries, some of which have very few reviews or beers. To clean up these micro-microbreweries, we removed any beers that had fewer than 5 reviews, and removed any breweries that had fewer than 5 beers (excluding those with <5 reviews). This brought us down to about 1,600 breweries with 21,000 beers.
+
+We still wanted to be able to access individual reviews for each beer and brewery however, so instead of loading the entire dataset at once, we split the dataset into 1,600 `.csv` files - one for each brewery - to load when the user selects the brewery.
+
+All R code used and process documentation for the project can be seen in `R/ba-explore.md`.
