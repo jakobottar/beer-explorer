@@ -1,0 +1,20 @@
+body {
+  background-color: #fafafa;
+}
+
+table {
+  background-color: white;
+  border-spacing: 0px;
+}
+
+tr:hover {
+  background-color: #ccc;
+}
+
+td.breweryName {
+  text-align: center;
+}
+
+td.breweryValues {
+  text-align: center;
+}

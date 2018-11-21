@@ -1,21 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>CS 5890</title>
-        <script src="https://d3js.org/d3.v5.min.js"></script>
-        <style>
-          rect.bar {
-          /*fill: #9f009f;*/
-            stroke-width: 0;
-          }
-        </style>
-    </head>
-    <body id="body" onload="init()">
-      <!-- <svg width=500 height=500 id="svg"></svg>
-      <br>
-      <br> -->
-      <button onclick="click()">CLICK ME</button>
-      <script src="script_test.js"></script>
-    </body>
+  <head>
+    <meta charset="utf-8" />
+    <title>CS 5890</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+      rect.bar {
+        /*fill: #9f009f;*/
+        stroke-width: 0;
+      }
+    </style>
+  </head>
+  <body id="body" onload="init()">
+    <table id="brewery_table">
+      <thead>
+        <td>Brewery</td>
+        <td>Overall</td>
+        <td>Taste</td>
+        <td>Appearance</td>
+        <td>Aroma</td>
+        <td>Palate</td>
+        <td># of Reviews</td>
+      </thead>
+    </table>
+    <br />
+    <br />
+    <br />
+    <table id="beer_table">
+      <thead>
+        <td>Beer</td>
+        <td>Overall</td>
+        <td>Taste</td>
+        <td>Appearance</td>
+        <td>Aroma</td>
+        <td>Palate</td>
+        <td># of Reviews</td>
+      </thead>
+    </table>
+    <br />
+    <br />
+    <script src="src/brewery_table.js"></script>
+    <script src="script_test.js"></script>
+  </body>
 </html>
