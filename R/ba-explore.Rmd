@@ -2,10 +2,9 @@
 title: "BeerAdvocate Data Exploration and Cleaning"
 author: "Jakob Johnson"
 date: "11/16/2018"
-output:
-# md_document
-html_document:
-css: styles.css
+output: github_document
+# html_document:
+# css: styles.css
 ---
 
 # BeerAdvocate Data Exploration and Cleaning
@@ -24,10 +23,10 @@ library(dplyr)
 In this exploration we will be using `ggplot2`, `dplyr`, and `data.table` to read in the data.
 
 ```{r import1, warning=FALSE}
-t1 <- fread("data/beer_reviews-1.csv")
-t2 <- fread("data/beer_reviews-2.csv")
-t3 <- fread("data/beer_reviews-3.csv")
-t4 <- fread("data/beer_reviews-4.csv")
+t1 <- fread("data/raw/beer_reviews-1.csv")
+t2 <- fread("data/raw/beer_reviews-2.csv")
+t3 <- fread("data/raw/beer_reviews-3.csv")
+t4 <- fread("data/raw/beer_reviews-4.csv")
   
 ba_raw <- rbind(t1, t2, t3, t4) %>% as_tibble() %>% select(-V1)# import the data as a dplyr tibble
 rm(t1, t2, t3, t4)
