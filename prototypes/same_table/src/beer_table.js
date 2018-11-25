@@ -1,23 +1,38 @@
-var UpdateBreweryTable = function(breweryData) {
-  console.log(breweryData);
-  var rows = d3
-    .select('#brewery_table')
-    .append('tbody')
-    .selectAll('tr')
-    .data(breweryData)
-    .enter()
-    .append('tr')
-    .on('click', (d, i) => {
-      UpdateBeerTable(d);
+var UpdateBeerTable = function(data) {
+  console.log(data.beers);
+
+  d3.select('#back_button')
+    .html('<' + data.brewery_name)
+    .on('click', function() {
+      init(data);
     });
 
-  let td = rows
+  var rows = d3
+    .select('#brewery_table')
+    .select('tbody')
+    .selectAll('tr')
+    .data(data.beers);
+
+  console.log(rows);
+  rows.exit().remove();
+  rows
+    .enter()
+    .append('tr')
+    .merge(rows)
+    .on('click', function(d) {
+      UpdateDetailView(d);
+    });
+
+  let td = d3
+    .select('#brewery_table')
+    .select('tbody')
+    .selectAll('tr')
     .selectAll('td')
     .data(d => {
       return [
         // d.lat,
         // d.lng,
-        { value: d.brewery_name, width: 350 },
+        { value: d.beer_name, width: 350 },
         { value: Math.round(d.averages.overall * 100) / 100, width: 100 },
         { value: Math.round(d.averages.taste * 100) / 100, width: 100 },
         { value: Math.round(d.averages.appearance * 100) / 100, width: 100 },
@@ -25,14 +40,12 @@ var UpdateBreweryTable = function(breweryData) {
         { value: Math.round(d.averages.palate * 100) / 100, width: 100 },
         { value: d.n_reviews, width: 200 }
       ];
-    })
-    .enter()
+    });
+
+  td.enter()
     .append('td')
-    .attr('height', 20)
-    .attr('width', d => {
-      return d.width;
-    })
     .append('text')
+    .merge(td)
     .text(d => {
       return d.value;
     });

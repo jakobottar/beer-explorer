@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CS 5890</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+      rect.bar {
+        /*fill: #9f009f;*/
+        stroke-width: 0;
+      }
+    </style>
+  </head>
+  <body id="body" onload="init()">
+    <button id="back_button">Reset</button>
+    <table id="brewery_table">
+      <thead>
+        <th>Brewery</th>
+        <th>Overall</th>
+        <th>Taste</th>
+        <th>Appearance</th>
+        <th>Aroma</th>
+        <th>Palate</th>
+        <th># of Reviews</th>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <br />
+    <br />
+    <svg id="detail-view"></svg>
+    <script src="src/brewery_table.js"></script>
+    <script src="src/beer_table.js"></script>
+    <script src="src/detail_view.js"></script>
+    <script src="script_test.js"></script>
+  </body>
+</html>

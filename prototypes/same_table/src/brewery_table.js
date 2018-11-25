@@ -1,15 +1,14 @@
-var UpdateBeerTable = async function(data) {
-  console.log(data);
-
+var UpdateBreweryTable = function(breweryData) {
+  console.log(breweryData);
   var rows = d3
-    .select('#beer_table')
-    .append('tbody')
+    .select('#brewery_table')
+    .select('tbody')
     .selectAll('tr')
-    .data(data.beers)
+    .data(breweryData)
     .enter()
     .append('tr')
-    .on('click', function(d) {
-      UpdateDetailView(d);
+    .on('click', (d, i) => {
+      UpdateBeerTable(d);
     });
 
   let td = rows
@@ -18,7 +17,7 @@ var UpdateBeerTable = async function(data) {
       return [
         // d.lat,
         // d.lng,
-        { value: d.beer_name, width: 350 },
+        { value: d.brewery_name, width: 350 },
         { value: Math.round(d.averages.overall * 100) / 100, width: 100 },
         { value: Math.round(d.averages.taste * 100) / 100, width: 100 },
         { value: Math.round(d.averages.appearance * 100) / 100, width: 100 },
