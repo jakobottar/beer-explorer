@@ -23,6 +23,8 @@ library(dplyr)
 In this exploration we will be using `ggplot2`, `dplyr`, and `data.table` to read in the data.
 
 ```{r import1, warning=FALSE}
+getwd()
+
 t1 <- fread("data/raw/beer_reviews-1.csv")
 t2 <- fread("data/raw/beer_reviews-2.csv")
 t3 <- fread("data/raw/beer_reviews-3.csv")
