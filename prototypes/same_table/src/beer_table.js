@@ -1,6 +1,4 @@
 var UpdateBeerTable = function(data) {
-  console.log(data.beers);
-
   d3.select('#back_button')
     .html('<' + data.brewery_name)
     .on('click', function() {
