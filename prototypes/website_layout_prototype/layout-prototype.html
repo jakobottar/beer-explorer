@@ -12,7 +12,10 @@
 
   <body>
 
-    <div class="container">
+    <button onclick="newTable()">Add New Table</button>
+    <button onclick="removeTable()">Remove Beer Table</button>
+
+    <div id="panes">
 
       <div id="map">
         <svg width="1200", height="400", id="map-image">
@@ -23,19 +26,19 @@
       <br>
 
       <div id="breweryTable">
-        <!-- <button onclick="newTable()">Add New Table</button> -->
+
         <svg width="400", height="1000", class="table">
           <text x="200", y="50", text-anchor="middle">Brewery Table</text>
         </svg>
       </div>
 
-      <div id="beerTable">
+      <div id="beerTable", class = "hidden">
         <svg width="400", height="1000", class="table">
           <text x="200", y="50", text-anchor="middle">Beer Table</text>
         </svg>
       </div>
 
-      <div id="summaryTable">
+      <div id="summaryTable", style="grid-column: 2; grid-row: 2;">
         <svg width="400", height="1000", class="table">
           <text x="200", y="50", text-anchor="middle">Summary Table</text>
         </svg>
