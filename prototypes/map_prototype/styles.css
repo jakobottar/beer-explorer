@@ -10,9 +10,9 @@
   grid-row: 1;
 }
 
-#map-image {
+/* .state {
   box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
-}
+} */
 
 .table {
   box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
@@ -42,5 +42,11 @@ path {
 .filtered {
   fill: green;
   stroke: darkgreen;
+  stroke-width: 1;
+}
+
+.selected {
+  fill: red;
+  stroke: darkred;
   stroke-width: 1;
 }

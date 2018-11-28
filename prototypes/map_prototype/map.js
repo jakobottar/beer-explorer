@@ -23,11 +23,11 @@ function buildMap(){
   d3.json("data/us-states.json", function(error, us) {
       if (error) throw error;
 
-
       d3.select("#mapLayer").selectAll("path")
         .data(us.features)
         .enter().append("path")
-          .attr("d", path);
+          .attr("d", path)
+          .attr("class", "state");
     });
 
     d3.json("data/processed_data.json", function(data){
