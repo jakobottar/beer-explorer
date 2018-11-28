@@ -1,7 +1,7 @@
 // TODO: Provide a "filtered" function that changes breweries' colors
 // TODO: Provide a "filtered" function that changes a selected breweries' colors
 // TODO: Brushing.
-// TODO: Zooming. 
+// TODO: Zooming.
 // TODO: Cosmetic Stuff
 
 class Map {
