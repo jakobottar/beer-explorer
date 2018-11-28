@@ -6,8 +6,15 @@ class Map {
   constructor(){
     this.svg = d3.select("#map")
 
-    this.width = parseInt(this.svg.attr("width"));
-    this.height = parseInt(this.svg.attr("height"));
+    let mapcontainer = d3.select('#map-container')
+    let svgbounds = mapcontainer.node().getBoundingClientRect();
+
+    this.svg
+      .attr("width", svgbounds.width - 50)
+      .attr("height", svgbounds.height - 50);
+
+    this.width = svgbounds.width - 50;
+    this.height = svgbounds.height - 50;
 
     this.projection = d3.geoAlbersUsa()
       .translate([this.width/2, this.height/2])
