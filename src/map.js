@@ -1,5 +1,3 @@
-// TODO: Provide a "filtered" function that changes breweries' colors
-// TODO: Provide a "filtered" function that changes a selected breweries' colors
 // TODO: Brushing.
 // TODO: Zooming.
 // TODO: Cosmetic Stuff
@@ -50,15 +48,34 @@ class Map {
       })
       .attr("r", "3")
       .attr("class", "filtered")
+      .attr("id", d => `br_${d.brewery_id}`)
       .append("title")
       .text(d => d.brewery_name);
   }
 
-  updateFiltered(ids){
-    // TODO
+  // Clears currently filtered items and colors passed-in ids
+  updateFiltered(ids){ // NOTE: ids must be passed in as array
+    d3.select("#breweryLayer") // de-filter everything
+      .selectAll("circle")
+      .classed("filtered", false)
+      .classed("unselected", true);
+
+    for(let i = 0; i < ids.length; i++){
+      d3.select(`#br_${ids[i]}`)
+        .classed("filtered", true)
+        .classed("unselected", false);
+    }
   }
 
-  updateSelected(ids){
-    // TODO
+  // Clears currently selected items and colors passed-in ids
+  updateSelected(ids){ // NOTE: ids must be passed in as array
+    d3.select("#breweryLayer") // de-select everything, ignore filters
+      .selectAll("circle")
+      .classed("selected", false);
+
+    for(let i = 0; i < ids.length; i++){
+      d3.select(`#br_${ids[i]}`)
+        .classed("selected", true);
+    }
   }
 }
