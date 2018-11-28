@@ -5,7 +5,7 @@
   grid-template-rows: 650px auto;
 }
 
-#map {
+#map-container {
   grid-column: 1 / 3;
   grid-row: 1;
 }
@@ -35,13 +35,13 @@
 }
 
 path {
-  fill: lightgrey;
-  stroke: darkgrey;
+  fill: rgba(164, 164, 164, 0.5);
+  stroke: rgba(164, 164, 164, 1);
 }
 
 .filtered {
-  fill: green;
-  stroke: darkgreen;
+  fill: rgba(51, 153, 0, 0.7);
+  stroke: #194C00;
   stroke-width: 1;
 }
 
@@ -52,7 +52,7 @@ path {
 }
 
 .unselected {
-  fill: grey;
-  stroke: darkgrey;
+  fill: rgba(164, 162, 164, 0.5);
+  stroke: rgba(126, 126, 126, 1);
   stroke-width: 1;
 }
