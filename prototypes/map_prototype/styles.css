@@ -38,3 +38,9 @@ path {
   fill: lightgrey;
   stroke: darkgrey;
 }
+
+.filtered {
+  fill: green;
+  stroke: darkgreen;
+  stroke-width: 1;
+}

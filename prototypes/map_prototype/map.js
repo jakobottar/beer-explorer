@@ -2,6 +2,12 @@ function init(){
   buildMap();
 }
 
+// TODO: Put in class, with constructor and such
+// TODO: Provide a "filtered" function that changes breweries' colors
+// TODO: Provide a "filtered" function that changes a selected breweries' colors
+// TODO: Brushing.
+// TODO: Cosmetic Stuff
+
 function buildMap(){
   let svg = d3.select("#map")
   let width = parseInt(svg.attr("width"));
@@ -9,7 +15,7 @@ function buildMap(){
 
   let projection = d3.geoAlbersUsa()
     .translate([width/2, height/2])
-    .scale([1000]);
+    .scale([1200]);
 
   let path = d3.geoPath()
     .projection(projection)
@@ -41,7 +47,10 @@ function buildMap(){
             return loc[1]
           }
         })
-        .attr("r", "7")
+        .attr("r", "3")
+        .attr("class", "filtered")
+        .append("title")
+        .text(d => d.brewery_name)
     });
 
 }
