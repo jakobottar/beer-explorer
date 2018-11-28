@@ -50,3 +50,9 @@ path {
   stroke: darkred;
   stroke-width: 1;
 }
+
+.unselected {
+  fill: grey;
+  stroke: darkgrey;
+  stroke-width: 1;
+}

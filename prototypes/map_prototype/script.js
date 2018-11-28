@@ -1,3 +1,11 @@
+let map = new Map();
+
+async function init(){
+  data = await d3.json("data/processed_data.json", data => {
+    map.buildMap(data);
+  });
+}
+
 function newTable() {
   if(document.getElementById('beerTable').getAttribute('class') == 'hidden'){
     // add the third column
