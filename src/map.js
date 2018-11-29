@@ -19,6 +19,9 @@ class Map {
     this.projection = d3.geoAlbersUsa()
       .translate([this.width/2, this.height/2])
       .scale([1200]);
+
+    this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
+    this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
   }
 
   buildMap(data){
@@ -43,12 +46,14 @@ class Map {
       .attr("cx", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
+          d.x = loc[0];
           return loc[0]
         }
       })
       .attr("cy", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
+          d.y = loc[1];
           return loc[1]
         }
       })
@@ -58,9 +63,7 @@ class Map {
       .append("title")
       .text(d => d.brewery_name);
 
-    let brush = d3.brush().on("end", brushended),
-      idleTimeout,
-      idleDelay = 350;
+    let brush = d3.brush().on("end", brushended)
 
     this.svg.append("g")
       .attr("class", "brush")
@@ -72,11 +75,11 @@ class Map {
     function brushended() {
       let s = d3.event.selection;
 
+      let brushed = [];
+
       if(s != null){
         let tr = s[0]
         let bl = s[1]
-
-        let brushed = [];
 
         for(let i = 1; i < data.length; i++){
           let dataSvgLoc = projection([data[i].lng, data[i].lat])
@@ -90,14 +93,17 @@ class Map {
           }
         }
 
-        map.updateFiltered(brushed)
-
         // TODO: instead of printing to console, update brewery table
         console.log(brushed)
+
+        d3.select(".brush").call(brush.move, null)
       }
       else{
         map.updateFiltered();
       }
+
+      map.updateFiltered(brushed)
+      map.zoom(s)
     }
   }
 
@@ -110,7 +116,7 @@ class Map {
       .classed("filtered", false)
       .classed("unselected", true);
 
-    if(ids == null){
+    if(ids == null || ids.length == 0){
       d3.select("#breweryLayer") // filter everything, on clear
         .selectAll("circle")
         .classed("filtered", true)
@@ -140,5 +146,31 @@ class Map {
       d3.select(`#br_${ids[i]}`)
         .classed("selected", true);
     }
+  }
+
+  zoom(s){
+    if(s == null){
+      this.x.domain([0, this.width]);
+      this.y.domain([0, this.height]);
+    }
+    else{
+      this.x.domain([s[0][0], s[1][0]].map(this.x.invert, this.x));
+      this.y.domain([s[0][1], s[1][1]].map(this.y.invert, this.y));
+    }
+
+    d3.select("#breweryLayer")
+      .selectAll("circle")
+      .transition()
+      .duration(750)
+      .attr("cx", d=>{
+        if(d.x != null){
+          return this.x(d.x)
+        }
+      })
+      .attr("cy", d =>{
+        if(d.y != null){
+          return this.y(d.y)
+        }
+      });
   }
 }
