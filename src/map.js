@@ -49,6 +49,7 @@ class Map {
           d.x = loc[0];
           return loc[0]
         }
+        return -10;
       })
       .attr("cy", d =>{
         let loc = this.projection([d.lng, d.lat]);
@@ -56,6 +57,7 @@ class Map {
           d.y = loc[1];
           return loc[1]
         }
+        return -10;
       })
       .attr("r", "3")
       .attr("class", "filtered")
@@ -158,7 +160,13 @@ class Map {
     };
 
     if(s == null){
-      //unzoom
+      d3.select("#mapLayer")
+        .transition()
+        .duration(750)
+        .attr("transform", "none")
+
+        this.x.domain([0, this.width]);
+        this.y.domain([0, this.height]);
     }
     else{
       console.log(s)
@@ -167,8 +175,8 @@ class Map {
       let selWidth = s[0][0] - s[1][0]
 
       if((selWidth / selHeight) > screenBox.aspect){ // too wide
-        screenBox.x1 = s[0][0];
-        screenBox.x2 = s[1][0];
+        screenBox.x1 = s[1][0];
+        screenBox.x2 = s[0][0];
 
         screenBox.y1 = s[0][1] + 0.5*((selWidth/screenBox.aspect) - selHeight);
         screenBox.y2 = s[1][1] - 0.5*((selWidth/screenBox.aspect) - selHeight);
@@ -177,13 +185,33 @@ class Map {
         screenBox.y1 = s[0][1];
         screenBox.y2 = s[1][1];
 
-        screenBox.x1 = s[0][0] + 0.5*((selHeight*screenBox.aspect) - selWidth);
-        screenBox.x2 = s[1][0] - 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x1 = s[1][0] - 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x2 = s[0][0] + 0.5*((selHeight*screenBox.aspect) - selWidth);
       }
 
-      this.svg.append("polygon")
-        .attr("points", `${screenBox.x1},${screenBox.y1} ${screenBox.x1},${screenBox.y2} ${screenBox.x2},${screenBox.y2} ${screenBox.x2},${screenBox.y1}`)
-        .attr("style", "fill:none;stroke:red;stroke-width:2");
+      let scaleFactor = this.height / (screenBox.y2 - screenBox.y1)
+
+      d3.select("#mapLayer")
+        .transition()
+        .duration(750)
+        .attr("transform", `translate(${-screenBox.x1 * scaleFactor}, ${-screenBox.y1 * scaleFactor}) scale(${scaleFactor})`)
+
+      this.x.domain([screenBox.x1, screenBox.x2].map(this.x.invert, this.x));
+      this.y.domain([screenBox.y1, screenBox.y2].map(this.y.invert, this.y));
     }
+    d3.select("#breweryLayer")
+      .selectAll("circle")
+      .transition()
+      .duration(750)
+      .attr("cx", d=>{
+        if(d.x != null){
+          return this.x(d.x)
+        }
+      })
+      .attr("cy", d =>{
+        if(d.y != null){
+          return this.y(d.y)
+        }
+    });
   }
 }
