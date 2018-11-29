@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>The Best Beer in the USA!</title>
+    <title>CS 5890 | Beer Explorer</title>
     <link rel="stylesheet" href="css/styles.css" />
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
@@ -16,8 +16,10 @@
     <div id="panes">
       <div id="map-container">
         <svg id="map" , width="1200" , height="600">
-          <g id="mapLayer"></g>
-          <g id="breweryLayer"></g>
+          <g id = fullMap>
+            <g id="mapLayer"></g>
+            <g id="breweryLayer"></g>
+          </g>
         </svg>
       </div>
 

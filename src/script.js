@@ -8,6 +8,8 @@ function init() {
   });
 }
 
+// BUG: map-container does not get resized with beer table addition. This breaks the brush.
+
 function newTable() {
   if (document.getElementById('beerTable').getAttribute('class') == 'hidden') {
     // add the third column

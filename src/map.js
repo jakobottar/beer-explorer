@@ -1,4 +1,3 @@
-// TODO: Zooming.
 // TODO: Cosmetic Stuff
 
 class Map {
@@ -19,6 +18,9 @@ class Map {
     this.projection = d3.geoAlbersUsa()
       .translate([this.width/2, this.height/2])
       .scale([1200]);
+
+    this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
+    this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
   }
 
   buildMap(data){
@@ -43,14 +45,18 @@ class Map {
       .attr("cx", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
-          return loc[0]
+           d.x = loc[0];
         }
+        else{d.x = -10};
+        return d.x;
       })
       .attr("cy", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
-          return loc[1]
+           d.y = loc[1];
         }
+        else{d.y = -10};
+        return d.y;
       })
       .attr("r", "3")
       .attr("class", "filtered")
@@ -58,9 +64,9 @@ class Map {
       .append("title")
       .text(d => d.brewery_name);
 
-    let brush = d3.brush().on("end", brushended),
-      idleTimeout,
-      idleDelay = 350;
+    let brush = d3.brush().on("end", brushended)
+    let idleTimeout;
+    let idleDelay = 350;
 
     this.svg.append("g")
       .attr("class", "brush")
@@ -68,18 +74,20 @@ class Map {
 
 
     let projection = this.projection;
+    let x = this.x;
+    let y = this.y;
 
     function brushended() {
       let s = d3.event.selection;
 
-      if(s != null){
-        let tr = s[0]
-        let bl = s[1]
+      let brushed = [];
 
-        let brushed = [];
+      if(s != null){
+        let tr = [x.invert(s[0][0]), y.invert(s[0][1])]
+        let bl = [x.invert(s[1][0]), y.invert(s[1][1])]
 
         for(let i = 1; i < data.length; i++){
-          let dataSvgLoc = projection([data[i].lng, data[i].lat])
+          let dataSvgLoc = [data[i].x, data[i].y]
 
           if(dataSvgLoc != null){
             if(dataSvgLoc[1] >= tr[1] && dataSvgLoc[1] <= bl[1]){
@@ -90,14 +98,26 @@ class Map {
           }
         }
 
-        map.updateFiltered(brushed)
-
         // TODO: instead of printing to console, update brewery table
         console.log(brushed)
+
+        d3.select(".brush").call(brush.move, null)
+        map.updateFiltered(brushed)
+        map.zoom(s)
       }
       else{
-        map.updateFiltered();
+        if(idleTimeout == null) {
+          return idleTimeout = setTimeout(idled, idleDelay);
+        }
+        else{
+          map.updateFiltered(null);
+          map.zoom(null);
+        }
       }
+    }
+
+    function idled(){
+      idleTimeout = null;
     }
   }
 
@@ -110,7 +130,7 @@ class Map {
       .classed("filtered", false)
       .classed("unselected", true);
 
-    if(ids == null){
+    if(ids == null || ids.length == 0){
       d3.select("#breweryLayer") // filter everything, on clear
         .selectAll("circle")
         .classed("filtered", true)
@@ -140,5 +160,77 @@ class Map {
       d3.select(`#br_${ids[i]}`)
         .classed("selected", true);
     }
+  }
+
+  zoom(s){
+    let screenBox = {
+      x1: 0,
+      x2: this.height,
+      y1: 0,
+      y2: this.width,
+      aspect: this.width/this.height
+    };
+
+    if(s == null){
+      d3.select("#mapLayer")
+        .transition()
+        .duration(750)
+        .attr("transform", "translate(0,0) scale(1)")
+
+      this.x.domain([0, this.width]);
+      this.y.domain([0, this.height]);
+    }
+    else{
+      s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
+
+      let selHeight = s[1][1] - s[0][1]
+      let selWidth = s[0][0] - s[1][0]
+
+      if((selWidth / selHeight) > screenBox.aspect){ // too wide
+        screenBox.x1 = s[1][0];
+        screenBox.x2 = s[0][0];
+
+        screenBox.y1 = s[0][1] + 0.5*((selWidth/screenBox.aspect) - selHeight);
+        screenBox.y2 = s[1][1] - 0.5*((selWidth/screenBox.aspect) - selHeight);
+      }
+      if((selWidth / selHeight) < screenBox.aspect){ // too tall
+        screenBox.y1 = s[0][1];
+        screenBox.y2 = s[1][1];
+
+        screenBox.x1 = s[1][0] - 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x2 = s[0][0] + 0.5*((selHeight*screenBox.aspect) - selWidth);
+      }
+
+      let scaleFactor = this.height / (screenBox.y2 - screenBox.y1)
+
+      // d3.select("#mapLayer").append("polygon")
+      //   .attr("points", `${screenBox.x1},${screenBox.y1} ${screenBox.x1},${screenBox.y2} ${screenBox.x2},${screenBox.y2} ${screenBox.x2},${screenBox.y1}`)
+      //   .attr("style", "fill:none;stroke:red;stroke-width:2");
+
+      d3.select("#mapLayer")
+        .transition()
+        .duration(750)
+        .attr("transform", `translate(${-screenBox.x1 * scaleFactor}, ${-screenBox.y1 * scaleFactor}) scale(${scaleFactor})`)
+
+      this.x.domain([screenBox.x1, screenBox.x2]);
+      this.y.domain([screenBox.y1, screenBox.y2]);
+    }
+    d3.select("#breweryLayer")
+      .selectAll("circle")
+      .transition()
+      .duration(750)
+      .attr("cx", d=>{
+        if(d.x != null){
+          return this.x(d.x)
+        }
+      })
+      .attr("cy", d =>{
+        if(d.y != null){
+          return this.y(d.y)
+        }
+      })
+      .attr("r", d => {
+        return (s == null) ? "3" : "5" ;
+      })
   }
 }
