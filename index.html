@@ -1,52 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>The Best Beer in the USA!</title>
-    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" href="css/styles.css" />
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
     <!-- <script src="d3.js"></script> -->
   </head>
 
   <body onload="init()">
-
     <button onclick="newTable()">Add New Table</button>
     <button onclick="removeTable()">Remove Beer Table</button>
 
     <div id="panes">
-
       <div id="map-container">
-        <svg id = "map", width = "1200", height = "600">
-          <g id = "mapLayer"></g>
-          <g id = "breweryLayer"></g>
+        <svg id="map" , width="1200" , height="600">
+          <g id="mapLayer"></g>
+          <g id="breweryLayer"></g>
         </svg>
       </div>
 
-      <br>
+      <br />
 
       <div id="breweryTable">
-
-        <svg width="400", height="1000", class="table">
-          <text x="200", y="50", text-anchor="middle">Brewery Table</text>
-        </svg>
+        <table>
+          <thead>
+            <th>Brewery Name</th>
+            <th>Overall</th>
+            <th># of Beers</th>
+          </thead>
+          <tbody></tbody>
+        </table>
       </div>
 
-      <div id="beerTable", class = "hidden">
-        <svg width="400", height="1000", class="table">
-          <text x="200", y="50", text-anchor="middle">Beer Table</text>
-        </svg>
+      <div id="beerTable" , class="hidden">
+        <table>
+          <thead>
+            <th>Beer Name</th>
+            <th>Overall</th>
+            <th># of Ratings</th>
+          </thead>
+          <tbody></tbody>
+        </table>
       </div>
 
-      <div id="summaryTable", style="grid-column: 2; grid-row: 2;">
-        <svg width="400", height="1000", class="table">
-          <text x="200", y="50", text-anchor="middle">Summary Table</text>
+      <div id="summaryTable" , style="grid-column: 2; grid-row: 2;">
+        <svg width="400" , height="1000" , class="table">
+          <text x="200" , y="50" , text-anchor="middle">Summary Table</text>
         </svg>
       </div>
-
     </div>
   </body>
-  <script type="application/javascript", src = "src/map.js"></script>
-  <script type="application/javascript", src = "src/script.js"></script>
+  <script type="application/javascript" , src="src/map.js"></script>
+  <script type="application/javascript" , src="src/brewery_table.js"></script>
+  <script type="application/javascript" , src="src/beer_table.js"></script>
+  <script type="application/javascript" , src="src/script.js"></script>
 </html>

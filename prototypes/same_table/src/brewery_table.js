@@ -15,15 +15,9 @@ var UpdateBreweryTable = function(breweryData) {
     .selectAll('td')
     .data(d => {
       return [
-        // d.lat,
-        // d.lng,
         { value: d.brewery_name, width: 350 },
         { value: Math.round(d.averages.overall * 100) / 100, width: 100 },
-        { value: Math.round(d.averages.taste * 100) / 100, width: 100 },
-        { value: Math.round(d.averages.appearance * 100) / 100, width: 100 },
-        { value: Math.round(d.averages.aroma * 100) / 100, width: 100 },
-        { value: Math.round(d.averages.palate * 100) / 100, width: 100 },
-        { value: d.n_reviews, width: 200 }
+        { value: d.beers.length, width: 100 }
       ];
     })
     .enter()

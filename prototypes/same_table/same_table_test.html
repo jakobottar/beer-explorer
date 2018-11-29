@@ -7,21 +7,24 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
   </head>
   <body id="body" onload="init()">
-    <button id="back_button">Reset</button>
     <table id="brewery_table">
       <thead>
-        <th>Brewery</th>
+        <th>Brewery Name</th>
         <th>Overall</th>
-        <th>Taste</th>
-        <th>Appearance</th>
-        <th>Aroma</th>
-        <th>Palate</th>
-        <th># of Reviews</th>
+        <th># of Beers</th>
       </thead>
       <tbody></tbody>
     </table>
     <br />
     <br />
+    <table id="beer_table">
+      <thead>
+        <th>Beer Name</th>
+        <th>Overall</th>
+        <th># of Ratings</th>
+      </thead>
+      <tbody></tbody>
+    </table>
     <svg id="detail-view"></svg>
     <script src="src/brewery_table.js"></script>
     <script src="src/beer_table.js"></script>
