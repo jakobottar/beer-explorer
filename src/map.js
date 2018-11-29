@@ -45,20 +45,18 @@ class Map {
       .attr("cx", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
-          d.x = loc[0];
-          return loc[0]
+           d.x = loc[0];
         }
-        d.x = -10
-        return -10;
+        else{d.x = -10};
+        return d.x;
       })
       .attr("cy", d =>{
         let loc = this.projection([d.lng, d.lat]);
         if(loc != null){
-          d.y = loc[1];
-          return loc[1]
+           d.y = loc[1];
         }
-        d.y = -10;
-        return -10;
+        else{d.y = -10};
+        return d.y;
       })
       .attr("r", "3")
       .attr("class", "filtered")
@@ -67,6 +65,8 @@ class Map {
       .text(d => d.brewery_name);
 
     let brush = d3.brush().on("end", brushended)
+    let idleTimeout;
+    let idleDelay = 350;
 
     this.svg.append("g")
       .attr("class", "brush")
@@ -101,15 +101,23 @@ class Map {
         // TODO: instead of printing to console, update brewery table
         console.log(brushed)
 
-        // d3.select(".brush").call(brush.move, null)
+        d3.select(".brush").call(brush.move, null)
+        map.updateFiltered(brushed)
+        map.zoom(s)
       }
       else{
-        map.updateFiltered();
+        if(idleTimeout == null) {
+          return idleTimeout = setTimeout(idled, idleDelay);
+        }
+        else{
+          map.updateFiltered(null);
+          map.zoom(null);
+        }  
       }
+    }
 
-      map.updateFiltered(brushed)
-
-      map.zoom(s)
+    function idled(){
+      idleTimeout = null;
     }
   }
 
@@ -168,8 +176,6 @@ class Map {
         .transition()
         .duration(750)
         .attr("transform", "translate(0,0) scale(1)")
-
-      console.log("resetting scales")
 
       this.x.domain([0, this.width]);
       this.y.domain([0, this.height]);
