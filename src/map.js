@@ -149,28 +149,41 @@ class Map {
   }
 
   zoom(s){
+    let screenBox = {
+      x1: 0,
+      x2: this.height,
+      y1: 0,
+      y2: this.width,
+      aspect: this.width/this.height
+    };
+
     if(s == null){
-      this.x.domain([0, this.width]);
-      this.y.domain([0, this.height]);
+      //unzoom
     }
     else{
-      this.x.domain([s[0][0], s[1][0]].map(this.x.invert, this.x));
-      this.y.domain([s[0][1], s[1][1]].map(this.y.invert, this.y));
-    }
+      console.log(s)
 
-    d3.select("#breweryLayer")
-      .selectAll("circle")
-      .transition()
-      .duration(750)
-      .attr("cx", d=>{
-        if(d.x != null){
-          return this.x(d.x)
-        }
-      })
-      .attr("cy", d =>{
-        if(d.y != null){
-          return this.y(d.y)
-        }
-      });
+      let selHeight = s[1][1] - s[0][1]
+      let selWidth = s[0][0] - s[1][0]
+
+      if((selWidth / selHeight) > screenBox.aspect){ // too wide
+        screenBox.x1 = s[0][0];
+        screenBox.x2 = s[1][0];
+
+        screenBox.y1 = s[0][1] + 0.5*((selWidth/screenBox.aspect) - selHeight);
+        screenBox.y2 = s[1][1] - 0.5*((selWidth/screenBox.aspect) - selHeight);
+      }
+      if((selWidth / selHeight) < screenBox.aspect){ // too tall
+        screenBox.y1 = s[0][1];
+        screenBox.y2 = s[1][1];
+
+        screenBox.x1 = s[0][0] + 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x2 = s[1][0] - 0.5*((selHeight*screenBox.aspect) - selWidth);
+      }
+
+      this.svg.append("polygon")
+        .attr("points", `${screenBox.x1},${screenBox.y1} ${screenBox.x1},${screenBox.y2} ${screenBox.x2},${screenBox.y2} ${screenBox.x2},${screenBox.y1}`)
+        .attr("style", "fill:none;stroke:red;stroke-width:2");
+    }
   }
 }
