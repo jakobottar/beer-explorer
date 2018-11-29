@@ -1,4 +1,3 @@
-// TODO: Zooming.
 // TODO: Cosmetic Stuff
 
 class Map {
@@ -75,6 +74,8 @@ class Map {
 
 
     let projection = this.projection;
+    let x = this.x;
+    let y = this.y;
 
     function brushended() {
       let s = d3.event.selection;
@@ -82,8 +83,8 @@ class Map {
       let brushed = [];
 
       if(s != null){
-        let tr = s[0]
-        let bl = s[1]
+        let tr = [x.invert(s[0][0]), y.invert(s[0][1])]
+        let bl = [x.invert(s[1][0]), y.invert(s[1][1])]
 
         for(let i = 1; i < data.length; i++){
           let dataSvgLoc = [data[i].x, data[i].y]
@@ -100,13 +101,14 @@ class Map {
         // TODO: instead of printing to console, update brewery table
         console.log(brushed)
 
-        d3.select(".brush").call(brush.move, null)
+        // d3.select(".brush").call(brush.move, null)
       }
       else{
         map.updateFiltered();
       }
 
       map.updateFiltered(brushed)
+
       map.zoom(s)
     }
   }
@@ -165,13 +167,15 @@ class Map {
       d3.select("#mapLayer")
         .transition()
         .duration(750)
-        .attr("transform", "none")
+        .attr("transform", "translate(0,0) scale(1)")
 
-        this.x.domain([0, this.width]);
-        this.y.domain([0, this.height]);
+      console.log("resetting scales")
+
+      this.x.domain([0, this.width]);
+      this.y.domain([0, this.height]);
     }
     else{
-      console.log(s)
+      s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
 
       let selHeight = s[1][1] - s[0][1]
       let selWidth = s[0][0] - s[1][0]
@@ -193,13 +197,17 @@ class Map {
 
       let scaleFactor = this.height / (screenBox.y2 - screenBox.y1)
 
+      // d3.select("#mapLayer").append("polygon")
+      //   .attr("points", `${screenBox.x1},${screenBox.y1} ${screenBox.x1},${screenBox.y2} ${screenBox.x2},${screenBox.y2} ${screenBox.x2},${screenBox.y1}`)
+      //   .attr("style", "fill:none;stroke:red;stroke-width:2");
+
       d3.select("#mapLayer")
         .transition()
         .duration(750)
         .attr("transform", `translate(${-screenBox.x1 * scaleFactor}, ${-screenBox.y1 * scaleFactor}) scale(${scaleFactor})`)
 
-      this.x.domain([screenBox.x1, screenBox.x2].map(this.x.invert, this.x));
-      this.y.domain([screenBox.y1, screenBox.y2].map(this.y.invert, this.y));
+      this.x.domain([screenBox.x1, screenBox.x2]);
+      this.y.domain([screenBox.y1, screenBox.y2]);
     }
     d3.select("#breweryLayer")
       .selectAll("circle")
