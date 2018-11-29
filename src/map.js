@@ -112,7 +112,7 @@ class Map {
         else{
           map.updateFiltered(null);
           map.zoom(null);
-        }  
+        }
       }
     }
 
@@ -228,6 +228,9 @@ class Map {
         if(d.y != null){
           return this.y(d.y)
         }
-    });
+      })
+      .attr("r", d => {
+        return (s == null) ? "3" : "5" ;
+      })
   }
 }
