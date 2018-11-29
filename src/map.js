@@ -49,6 +49,7 @@ class Map {
           d.x = loc[0];
           return loc[0]
         }
+        d.x = -10
         return -10;
       })
       .attr("cy", d =>{
@@ -57,6 +58,7 @@ class Map {
           d.y = loc[1];
           return loc[1]
         }
+        d.y = -10;
         return -10;
       })
       .attr("r", "3")
@@ -84,7 +86,7 @@ class Map {
         let bl = s[1]
 
         for(let i = 1; i < data.length; i++){
-          let dataSvgLoc = projection([data[i].lng, data[i].lat])
+          let dataSvgLoc = [data[i].x, data[i].y]
 
           if(dataSvgLoc != null){
             if(dataSvgLoc[1] >= tr[1] && dataSvgLoc[1] <= bl[1]){
