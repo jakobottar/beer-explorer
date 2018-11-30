@@ -6,20 +6,31 @@
     <link rel="stylesheet" href="css/styles.css" />
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Nunito|Roboto+Slab" rel="stylesheet">
     <!-- <script src="d3.js"></script> -->
   </head>
 
+  <header>
+    <h1 align="center">The Geography of Beer</h1>
+    <h3 align="center">
+      By <a class="email", href="mailto:jakob.johnson@usu.edu">Jakob Johnson</a>
+      and <a class="email", href="mailto:derek.hunter@aggiemail.usu.edu">Derek Hunter<a><h3>
+    <h2 align="center">
+      A geography-based brewery and beer explorer <br>
+      <a href="https://streamable.com/6vur6">How it works »<a>
+    </h2>
+  </header>
+  <br><br>
   <body onload="init()">
-    <button onclick="newTable()">Add New Table</button>
-    <button onclick="removeTable()">Remove Beer Table</button>
+    <!-- <button onclick="newTable()">Add New Table</button>
+    <button onclick="removeTable()">Remove Beer Table</button> -->
 
     <div id="panes">
       <div id="map-container">
-        <svg id="map" , width="1200" , height="600">
-          <g id = fullMap>
-            <g id="mapLayer"></g>
-            <g id="breweryLayer"></g>
-          </g>
+        <svg id="map" width="1200" , height="600", transform = "translate(25, 0)">
+          <g id="mapLayer"></g>
+          <g id="cityLayer"></g>
+          <g id="breweryLayer"></g>
         </svg>
       </div>
 

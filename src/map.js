@@ -21,6 +21,7 @@ class Map {
 
     this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
     this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
+
   }
 
   buildMap(data){
@@ -63,6 +64,8 @@ class Map {
       .attr("id", d => `br_${d.brewery_id}`)
       .append("title")
       .text(d => d.brewery_name);
+
+    map.buildLegend();
 
     let brush = d3.brush().on("end", brushended)
     let idleTimeout;
@@ -146,6 +149,37 @@ class Map {
     }
   }
 
+  buildLegend(){
+    let mapLegend = this.svg.append('g')
+      .attr("id", "legend")
+
+    var xLoc = [35, 95, 155];
+    var circ_class = ["unselected", "filtered", "selected"];
+    var lab = ["Ignored", "Filtered", "Selected"];
+
+    for(let i = 0; i < 3; i++){
+      mapLegend.append("text")
+        .attr("x", xLoc[i])
+        .attr("y", this.height - 15)
+        .attr("class", "legend")
+        .text(lab[i]);
+
+      mapLegend.append("circle")
+        .attr("cx", xLoc[i])
+        .attr("cy", this.height - 35)
+        .attr("class", circ_class[i])
+        // .attr("style", "stroke-width: 1.5")
+        .attr("r", 5);
+    }
+
+    mapLegend.append("text")
+      .attr("id", "helpText")
+      .attr("class", "legend")
+      .attr("x", 10)
+      .attr("dy", "1.2em")
+      .text("Drag to zoom")
+  }
+
   // Clears currently selected items and colors passed-in ids
   // ids must be passed in as array
   // if array is null, clear selection and return to starting scenario
@@ -163,11 +197,15 @@ class Map {
   }
 
   zoom(s){
+    let helpText = d3.select('#helpText')
+
     let screenBox = {
       x: [0, this.width],
       y: [0, this.height],
       aspect: this.width/this.height
     };
+
+    let scaleFactor = 1
 
     if(s == null){
       d3.select("#mapLayer")
@@ -177,6 +215,11 @@ class Map {
 
       this.x.domain([0, this.width]);
       this.y.domain([0, this.height]);
+
+      helpText
+        .transition()
+        .duration(750)
+        .text("Drag to zoom")
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -204,7 +247,7 @@ class Map {
         screenBox.x[1] = x2 + 0.5*((selHeight*screenBox.aspect) - selWidth);
       }
 
-      let scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
+      scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
 
       // d3.select('#mapLayer').append("circle")
       //   .attr("cx", s[0][0])
@@ -229,7 +272,13 @@ class Map {
 
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
       this.y.domain([screenBox.y[0], screenBox.y[1]]);
+
+      helpText
+        .transition()
+        .duration(750)
+        .text("Double-Click to return")
     }
+
     d3.select("#breweryLayer")
       .selectAll("circle")
       .transition()
@@ -246,6 +295,22 @@ class Map {
       })
       .attr("r", d => {
         return (s == null) ? "3" : "5" ;
-      })
+      });
+
+    let cityLayer = d3.select("#cityLayer").html("")
+
+    console.log(scaleFactor)
+    if(scaleFactor > 3){
+      d3.csv("data/cities.csv", data =>{
+        console.log(data);
+        console.log("City Dots Added!")
+        //add city dots
+
+        if (scaleFactor > 5) {
+          console.log("City Names Added!")
+          // add city names
+        }
+      });
+    }
   }
 }
