@@ -65,6 +65,32 @@ class Map {
       .append("title")
       .text(d => d.brewery_name);
 
+    let cityLayer = d3.select("#cityLayer")
+
+    d3.csv("data/cities.csv", d =>{
+      cityLayer.selectAll("circle")
+        .data(d)
+        .enter()
+        .append("circle")
+        .classed("city-dot", true)
+        .classed("hidden", true)
+        .attr("cx", d => {
+          let loc = this.projection([d.lng, d.lat]);
+          if(loc != null){
+            d.x = loc[0]
+            return d.x;
+          }
+        })
+        .attr("cy", d => {
+          let loc = this.projection([d.lng, d.lat]);
+          if(loc != null){
+            d.y = loc[1]
+            return d.y;
+           }
+        })
+        .attr("r", "3")
+    });
+
     map.buildLegend();
 
     let brush = d3.brush().on("end", brushended)
@@ -207,6 +233,8 @@ class Map {
 
     let scaleFactor = 1
 
+    let cityLayer = d3.select("#cityLayer")
+
     if(s == null){
       d3.select("#mapLayer")
         .transition()
@@ -220,6 +248,21 @@ class Map {
         .transition()
         .duration(750)
         .text("Drag to zoom")
+
+      cityLayer.selectAll("circle")
+        .classed("hidden", true)
+        .transition()
+        .duration(750)
+        .attr("cx", d=>{
+          if(d.x != null){
+            return this.x(d.x)
+          }
+        })
+        .attr("cy", d =>{
+          if(d.y != null){
+            return this.y(d.y)
+          }
+        });
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -297,20 +340,22 @@ class Map {
         return (s == null) ? "3" : "5" ;
       });
 
-    let cityLayer = d3.select("#cityLayer").html("")
-
-    console.log(scaleFactor)
     if(scaleFactor > 3){
-      d3.csv("data/cities.csv", data =>{
-        console.log(data);
-        console.log("City Dots Added!")
-        //add city dots
 
-        if (scaleFactor > 5) {
-          console.log("City Names Added!")
-          // add city names
-        }
-      });
+        cityLayer.selectAll("circle")
+          .classed("hidden", false)
+          .transition()
+          .duration(750)
+          .attr("cx", d=>{
+            if(d.x != null){
+              return this.x(d.x)
+            }
+          })
+          .attr("cy", d =>{
+            if(d.y != null){
+              return this.y(d.y)
+            }
+          });
     }
   }
 }
