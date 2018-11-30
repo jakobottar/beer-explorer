@@ -164,10 +164,8 @@ class Map {
 
   zoom(s){
     let screenBox = {
-      x1: 0,
-      x2: this.height,
-      y1: 0,
-      y2: this.width,
+      x: [0, this.width],
+      y: [0, this.height],
       aspect: this.width/this.height
     };
 
@@ -183,37 +181,54 @@ class Map {
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
 
-      let selHeight = s[1][1] - s[0][1]
-      let selWidth = s[0][0] - s[1][0]
+      let x1 = Math.min(s[0][0], s[1][0])
+      let x2 = Math.max(s[0][0], s[1][0])
+      let y1 = Math.min(s[0][1], s[1][1])
+      let y2 = Math.max(s[0][1], s[1][1])
+
+      let selHeight = y2 - y1
+      let selWidth = x2 - x1
 
       if((selWidth / selHeight) > screenBox.aspect){ // too wide
-        screenBox.x1 = s[1][0];
-        screenBox.x2 = s[0][0];
+        screenBox.x[0] = x1;
+        screenBox.x[1] = x2;
 
-        screenBox.y1 = s[0][1] + 0.5*((selWidth/screenBox.aspect) - selHeight);
-        screenBox.y2 = s[1][1] - 0.5*((selWidth/screenBox.aspect) - selHeight);
+        screenBox.y[0] = y1 - 0.5*((selWidth/screenBox.aspect) - selHeight);
+        screenBox.y[1] = y2 + 0.5*((selWidth/screenBox.aspect) - selHeight);
       }
-      if((selWidth / selHeight) < screenBox.aspect){ // too tall
-        screenBox.y1 = s[0][1];
-        screenBox.y2 = s[1][1];
+      else if((selWidth / selHeight) < screenBox.aspect){ // too tall
+        screenBox.y[0] = y1;
+        screenBox.y[1] = y2;
 
-        screenBox.x1 = s[1][0] - 0.5*((selHeight*screenBox.aspect) - selWidth);
-        screenBox.x2 = s[0][0] + 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x[0] = x1 - 0.5*((selHeight*screenBox.aspect) - selWidth);
+        screenBox.x[1] = x2 + 0.5*((selHeight*screenBox.aspect) - selWidth);
       }
 
-      let scaleFactor = this.height / (screenBox.y2 - screenBox.y1)
+      let scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
 
+      // d3.select('#mapLayer').append("circle")
+      //   .attr("cx", s[0][0])
+      //   .attr("cy", s[0][1])
+      //   .attr("r", 4)
+      //   .attr("fill", "red")
+      //
+      // d3.select('#mapLayer').append("circle")
+      //   .attr("cx", s[1][0])
+      //   .attr("cy", s[1][1])
+      //   .attr("r", 4)
+      //   .attr("fill", "blue")
+      //
       // d3.select("#mapLayer").append("polygon")
-      //   .attr("points", `${screenBox.x1},${screenBox.y1} ${screenBox.x1},${screenBox.y2} ${screenBox.x2},${screenBox.y2} ${screenBox.x2},${screenBox.y1}`)
+      //   .attr("points", `${screenBox.x[0]},${screenBox.y[0]} ${screenBox.x[0]},${screenBox.y[1]} ${screenBox.x[1]},${screenBox.y[1]} ${screenBox.x[1]},${screenBox.y[0]}`)
       //   .attr("style", "fill:none;stroke:red;stroke-width:2");
 
       d3.select("#mapLayer")
         .transition()
         .duration(750)
-        .attr("transform", `translate(${-screenBox.x1 * scaleFactor}, ${-screenBox.y1 * scaleFactor}) scale(${scaleFactor})`)
+        .attr("transform", `translate(${-screenBox.x[0]*scaleFactor}, ${-screenBox.y[0]*scaleFactor}) scale(${scaleFactor})`)
 
-      this.x.domain([screenBox.x1, screenBox.x2]);
-      this.y.domain([screenBox.y1, screenBox.y2]);
+      this.x.domain([screenBox.x[0], screenBox.x[1]]);
+      this.y.domain([screenBox.y[0], screenBox.y[1]]);
     }
     d3.select("#breweryLayer")
       .selectAll("circle")
