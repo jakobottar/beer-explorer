@@ -10,10 +10,14 @@
   grid-row: 1;
 }
 
+text {
+  font-family: 'Noto Sans', sans-serif;
+}
+
 .legend {
   text-anchor: middle;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 #map {

@@ -152,7 +152,7 @@ class Map {
     let mapLegend = this.svg.append('g')
       .attr("id", "legend")
 
-    var xLoc = [35, 85, 135];
+    var xLoc = [35, 95, 155];
     var circ_class = ["unselected", "filtered", "selected"];
     var lab = ["Ignored", "Filtered", "Selected"];
 
