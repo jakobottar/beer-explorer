@@ -255,10 +255,7 @@ class Map {
       this.x.domain([0, this.width]);
       this.y.domain([0, this.height]);
 
-      helpText
-        .transition()
-        .duration(this.duration)
-        .text("Drag to zoom")
+      helpText.text("Drag to zoom")
 
       cityLayer.selectAll("circle")
         .transition()
@@ -334,10 +331,7 @@ class Map {
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
       this.y.domain([screenBox.y[0], screenBox.y[1]]);
 
-      helpText
-        .transition()
-        .duration(this.duration)
-        .text("Double-Click to return")
+      helpText.text("Double-Click to return")
     }
 
     d3.select("#breweryLayer")
