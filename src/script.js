@@ -8,12 +8,13 @@ function init() {
   });
 }
 
-// BUG: map-container does not get resized with beer table addition. This breaks the brush.
-
 function newTable() {
   if (document.getElementById('beerTable').getAttribute('class') == 'hidden') {
     // add the third column
     document.getElementById('panes').style.gridTemplateColumns = '33% 33% 33%';
+
+    //resize the map
+    document.getElementById('map-container').style.gridColumnEnd = "span 3"
 
     // move the summary table to the third column
     document.getElementById('summaryTable').style.gridColumn = 3;
@@ -28,6 +29,9 @@ function removeTable() {
   if (document.getElementById('beerTable').getAttribute('class') == 'shown') {
     // remove the third column
     document.getElementById('panes').style.gridTemplateColumns = '50% 50%';
+
+    //resize the map
+    document.getElementById('map-container').style.gridColumnEnd = "span 2"
 
     // move the summary table to the second column
     document.getElementById('summaryTable').style.gridColumn = 2;
