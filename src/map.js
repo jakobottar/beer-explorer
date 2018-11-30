@@ -174,18 +174,10 @@ class Map {
 
     mapLegend.append("text")
       .attr("id", "helpText")
-      .attr("class", "shown")
-      .attr("font-size", "15px")
-      .append("tspan")
+      .attr("class", "legend")
       .attr("x", 10)
       .attr("dy", "1.2em")
-      .text("Brush to zoom")
-
-    d3.select("#helpText")
-      .append("tspan")
-      .attr("x", 10)
-      .attr("dy", "1.2em")
-      .text("Double-click to Return")
+      .text("Drag to zoom")
   }
 
   // Clears currently selected items and colors passed-in ids
@@ -207,13 +199,6 @@ class Map {
   zoom(s){
     let helpText = d3.select('#helpText')
 
-    if(helpText.attr("class") == "shown"){
-      helpText
-        .transition()
-        .duration(1200)
-        .attr("class", "hidden")
-    }
-
     let screenBox = {
       x: [0, this.width],
       y: [0, this.height],
@@ -230,6 +215,11 @@ class Map {
 
       this.x.domain([0, this.width]);
       this.y.domain([0, this.height]);
+
+      helpText
+        .transition()
+        .duration(750)
+        .text("Drag to zoom")
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -282,6 +272,11 @@ class Map {
 
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
       this.y.domain([screenBox.y[0], screenBox.y[1]]);
+
+      helpText
+        .transition()
+        .duration(750)
+        .text("Double-Click to return")
     }
 
     d3.select("#breweryLayer")
