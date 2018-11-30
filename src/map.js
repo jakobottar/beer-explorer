@@ -22,6 +22,7 @@ class Map {
     this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
     this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
 
+    this.duration = 750;
   }
 
   buildMap(data){
@@ -73,7 +74,7 @@ class Map {
         .enter()
         .append("circle")
         .classed("city-dot", true)
-        .classed("hidden", true)
+        .style("opacity", 0)
         .attr("cx", d => {
           let loc = this.projection([d.lng, d.lat]);
           if(loc != null){
@@ -86,9 +87,19 @@ class Map {
           if(loc != null){
             d.y = loc[1]
             return d.y;
-           }
+          }
         })
         .attr("r", "3")
+
+      cityLayer.selectAll("text")
+        .data(d)
+        .enter()
+        .append("text")
+        .classed("city-text", true)
+        .style("opacity", 0)
+        .attr("x", d => d.x + 7)
+        .attr("y", d => d.y)
+        .text(d => d.city)
     });
 
     map.buildLegend();
@@ -238,7 +249,7 @@ class Map {
     if(s == null){
       d3.select("#mapLayer")
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .attr("transform", "translate(0,0) scale(1)")
 
       this.x.domain([0, this.width]);
@@ -246,13 +257,13 @@ class Map {
 
       helpText
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .text("Drag to zoom")
 
       cityLayer.selectAll("circle")
-        .classed("hidden", true)
         .transition()
-        .duration(750)
+        .duration(this.duration)
+        .style("opacity", 0)
         .attr("cx", d=>{
           if(d.x != null){
             return this.x(d.x)
@@ -263,6 +274,13 @@ class Map {
             return this.y(d.y)
           }
         });
+
+      cityLayer.selectAll("text")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", 0)
+        .attr("x", d => this.x(d.x))
+        .attr("y", d => this.y(d.y));
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -310,7 +328,7 @@ class Map {
 
       d3.select("#mapLayer")
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .attr("transform", `translate(${-screenBox.x[0]*scaleFactor}, ${-screenBox.y[0]*scaleFactor}) scale(${scaleFactor})`)
 
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
@@ -318,14 +336,14 @@ class Map {
 
       helpText
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .text("Double-Click to return")
     }
 
     d3.select("#breweryLayer")
       .selectAll("circle")
       .transition()
-      .duration(750)
+      .duration(this.duration)
       .attr("cx", d=>{
         if(d.x != null){
           return this.x(d.x)
@@ -340,22 +358,24 @@ class Map {
         return (s == null) ? "3" : "5" ;
       });
 
-    if(scaleFactor > 3){
+      cityLayer.selectAll("circle")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", d => {
+          if(scaleFactor > 2){return 1}
+          return 0;
+        })
+        .attr("cx", d => this.x(d.x))
+        .attr("cy", d => this.y(d.y));
 
-        cityLayer.selectAll("circle")
-          .classed("hidden", false)
-          .transition()
-          .duration(750)
-          .attr("cx", d=>{
-            if(d.x != null){
-              return this.x(d.x)
-            }
-          })
-          .attr("cy", d =>{
-            if(d.y != null){
-              return this.y(d.y)
-            }
-          });
-    }
+      cityLayer.selectAll("text")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", d => {
+          if(scaleFactor > 4){return 1}
+          return 0;
+        })
+        .attr("x", d => this.x(d.x))
+        .attr("y", d => this.y(d.y));
   }
 }
