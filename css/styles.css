@@ -41,6 +41,10 @@ h3 {
   font-family: 'Noto Sans', sans-serif;
 }
 
+p{
+  margin: 5px;
+}
+
 .email {
   color: rgb(92, 92, 92);
   text-decoration: underline;
@@ -90,24 +94,41 @@ path {
 /* colors here: https://www.color-hex.com/color-palette/69001 */
 
 .filtered {
+  cursor: crosshair;
   fill: rgba(0, 159, 41, 0.7);
   stroke: #00502A;
-  /* SN IPA colors */
-  /* fill: rgba(35, 173, 73, 0.7);
-  stroke: #003427; */
   stroke-width: 1;
 }
 
 .selected {
+  cursor: crosshair;
   fill: rgba(255, 116, 0, 0.7);
   stroke: #953500;
   stroke-width: 1;
 }
 
 .unselected {
+  cursor: crosshair;
   fill: rgba(164, 162, 164, 0.5);
   stroke: #656565;
   stroke-width: 1;
+}
+
+#tooltip {
+  position: absolute;
+  width: auto;
+  height: 30px;
+  margin-top: 0px;
+  background-color: white;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+#val {
+  fill: #393939;
+  font-family: "Nunito", sans-serif;
+  font-size: 14px;
+  margin: 7.5px;
 }
 
 .city{

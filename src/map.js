@@ -23,9 +23,18 @@ class Map {
     this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
 
     this.duration = 750;
+    this.scaleFactor = 1;
   }
 
   buildMap(data){
+    let brush = d3.brush().on("end", brushended)
+    let idleTimeout;
+    let idleDelay = 350;
+
+    this.svg.append("g")
+      .attr("class", "brush")
+      .call(brush);
+
     let path = d3.geoPath()
       .projection(this.projection)
 
@@ -40,7 +49,8 @@ class Map {
     });
 
 
-    d3.select("#breweryLayer").selectAll("circle")
+    this.svg.append('g').attr("id", "breweryLayer")
+      .selectAll("circle")
       .data(data)
       .enter()
       .append("circle")
@@ -63,8 +73,28 @@ class Map {
       .attr("r", "3")
       .attr("class", "filtered")
       .attr("id", d => `br_${d.brewery_id}`)
-      .append("title")
-      .text(d => d.brewery_name);
+      .on("click", d => {
+        // Make this clicked brewery the "selected" brewery in the tables
+        console.log(d.brewery_id);
+        map.updateSelected([d.brewery_id])
+      })
+      .on("mouseover", d => {
+        let xPos = d3.mouse(d3.select('body').node())[0] + 15;
+        let yPos = d3.mouse(d3.select('body').node())[1] + 15;
+
+        d3.select("#tooltip")
+          .style("left", xPos + "px")
+          .style("top", yPos + "px")
+          .select("#val")
+          .text(d.brewery_name)
+
+        if(this.scaleFactor > 2){
+          d3.select("#tooltip").classed("hidden", false);
+        }
+      })
+      .on("mouseout", d => {
+        d3.select("#tooltip").classed("hidden", true);
+      });
 
     let cityLayer = d3.select("#cityLayer")
 
@@ -103,15 +133,6 @@ class Map {
     });
 
     map.buildLegend();
-
-    let brush = d3.brush().on("end", brushended)
-    let idleTimeout;
-    let idleDelay = 350;
-
-    this.svg.append("g")
-      .attr("class", "brush")
-      .call(brush);
-
 
     let projection = this.projection;
     let x = this.x;
@@ -242,7 +263,7 @@ class Map {
       aspect: this.width/this.height
     };
 
-    let scaleFactor = 1
+    this.scaleFactor = 1
 
     let cityLayer = d3.select("#cityLayer")
 
@@ -305,7 +326,7 @@ class Map {
         screenBox.x[1] = x2 + 0.5*((selHeight*screenBox.aspect) - selWidth);
       }
 
-      scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
+      this.scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
 
       // d3.select('#mapLayer').append("circle")
       //   .attr("cx", s[0][0])
@@ -326,7 +347,7 @@ class Map {
       d3.select("#mapLayer")
         .transition()
         .duration(this.duration)
-        .attr("transform", `translate(${-screenBox.x[0]*scaleFactor}, ${-screenBox.y[0]*scaleFactor}) scale(${scaleFactor})`)
+        .attr("transform", `translate(${-screenBox.x[0]*this.scaleFactor}, ${-screenBox.y[0]*this.scaleFactor}) scale(${this.scaleFactor})`)
 
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
       this.y.domain([screenBox.y[0], screenBox.y[1]]);
@@ -356,7 +377,7 @@ class Map {
         .transition()
         .duration(this.duration)
         .style("opacity", d => {
-          if(scaleFactor > 2){return 1}
+          if(this.scaleFactor > 2){return 1}
           return 0;
         })
         .attr("cx", d => this.x(d.x))
@@ -366,7 +387,7 @@ class Map {
         .transition()
         .duration(this.duration)
         .style("opacity", d => {
-          if(scaleFactor > 4){return 1}
+          if(this.scaleFactor > 4){return 1}
           return 0;
         })
         .attr("x", d => this.x(d.x)+7)
