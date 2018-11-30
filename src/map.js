@@ -64,6 +64,8 @@ class Map {
       .append("title")
       .text(d => d.brewery_name);
 
+    map.buildLegend();
+
     let brush = d3.brush().on("end", brushended)
     let idleTimeout;
     let idleDelay = 350;
@@ -143,6 +145,29 @@ class Map {
       d3.select(`#br_${ids[i]}`)
         .classed("filtered", true)
         .classed("unselected", false);
+    }
+  }
+
+  buildLegend(){
+    var xLoc = [35, 85, 135];
+    var circ_class = ["unselected", "filtered", "selected"];
+    var lab = ["Ignored", "Filtered", "Selected"];
+
+    for(let i = 0; i < 3; i++){
+      d3.select("#legend")
+        .append("text")
+        .attr("x", xLoc[i])
+        .attr("y", this.height - 15)
+        .attr("class", "legend")
+        .text(lab[i]);
+
+      d3.select('#legend')
+      .append("circle")
+      .attr("cx", xLoc[i])
+      .attr("cy", this.height - 35)
+      .attr("class", circ_class[i])
+      // .attr("style", "stroke-width: 1.5")
+      .attr("r", 5);
     }
   }
 
