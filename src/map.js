@@ -21,6 +21,7 @@ class Map {
 
     this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
     this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
+
   }
 
   buildMap(data){
@@ -206,8 +207,6 @@ class Map {
   zoom(s){
     let helpText = d3.select('#helpText')
 
-    console.log(helpText.attr("class"))
-
     if(helpText.attr("class") == "shown"){
       helpText
         .transition()
@@ -220,6 +219,8 @@ class Map {
       y: [0, this.height],
       aspect: this.width/this.height
     };
+
+    let scaleFactor = 1
 
     if(s == null){
       d3.select("#mapLayer")
@@ -256,7 +257,7 @@ class Map {
         screenBox.x[1] = x2 + 0.5*((selHeight*screenBox.aspect) - selWidth);
       }
 
-      let scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
+      scaleFactor = this.height / (screenBox.y[1] - screenBox.y[0])
 
       // d3.select('#mapLayer').append("circle")
       //   .attr("cx", s[0][0])
@@ -282,6 +283,7 @@ class Map {
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
       this.y.domain([screenBox.y[0], screenBox.y[1]]);
     }
+
     d3.select("#breweryLayer")
       .selectAll("circle")
       .transition()
@@ -298,6 +300,22 @@ class Map {
       })
       .attr("r", d => {
         return (s == null) ? "3" : "5" ;
-      })
+      });
+
+    let cityLayer = d3.select("#cityLayer").html("")
+
+    console.log(scaleFactor)
+    if(scaleFactor > 3){
+      d3.csv("data/cities.csv", data =>{
+        console.log(data);
+        console.log("City Dots Added!")
+        //add city dots
+
+        if (scaleFactor > 5) {
+          console.log("City Names Added!")
+          // add city names
+        }
+      });
+    }
   }
 }
