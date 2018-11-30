@@ -202,3 +202,16 @@ In this we will split the original `ba` dataset by brewery and write each to a c
 ba %>% group_by(brewery_name) %>%
   do(write.csv(., sprintf("data/breweries/%s.csv", .$brewery_id[1]), row.names = FALSE))
 ```
+
+# Cities Data
+
+To better give context on the map, we are including major US cities. 
+
+```{r cities}
+cities <- fread("data/raw/uscitiesv1.4.csv") %>% 
+  filter(population_proper > 150000) %>% 
+  select(city, lat, lng)
+
+write.csv(cities, "data/cities.csv", row.names = FALSE)
+
+```

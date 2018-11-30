@@ -20,7 +20,7 @@ function newTable() {
     document.getElementById('summaryTable').style.gridColumn = 3;
 
     // show the beer table and mark as shown
-    document.getElementById('beerTable').style.display = 'block';
+    // document.getElementById('beerTable').style.display = 'block';
     document.getElementById('beerTable').className = 'shown';
   }
 }
@@ -37,7 +37,7 @@ function removeTable() {
     document.getElementById('summaryTable').style.gridColumn = 2;
 
     // hide the beer table and mark as hidden
-    document.getElementById('beerTable').style.display = 'none';
+    // document.getElementById('beerTable').style.display = 'none';
     document.getElementById('beerTable').className = 'hidden';
   }
 }

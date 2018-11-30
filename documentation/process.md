@@ -206,3 +206,5 @@ This file is just an array of brewery objects that look approximately like the f
 
 This should be our final cleaned dataset.
 From here we built a very rudimentry table for breweries, as well as for a set of beers for the selected brewery(bottom of the page).
+
+Cities data from https://simplemaps.com/data/us-cities

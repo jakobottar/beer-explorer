@@ -45,7 +45,7 @@ text {
 }
 
 path {
-  fill: rgba(164, 164, 164, 0.5);
+  fill: rgba(231, 231, 231, 0.5);
   stroke: rgba(164, 164, 164, 1);
 }
 
@@ -65,4 +65,12 @@ path {
   fill: rgba(164, 162, 164, 0.5);
   stroke: rgba(126, 126, 126, 1);
   stroke-width: 1;
+}
+
+.hidden {
+  display: none;
+}
+
+.shown {
+  display: block;
 }

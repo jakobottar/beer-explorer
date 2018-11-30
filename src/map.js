@@ -170,6 +170,21 @@ class Map {
         // .attr("style", "stroke-width: 1.5")
         .attr("r", 5);
     }
+
+    mapLegend.append("text")
+      .attr("id", "helpText")
+      .attr("class", "shown")
+      .attr("font-size", "15px")
+      .append("tspan")
+      .attr("x", 10)
+      .attr("dy", "1.2em")
+      .text("Brush to zoom")
+
+    d3.select("#helpText")
+      .append("tspan")
+      .attr("x", 10)
+      .attr("dy", "1.2em")
+      .text("Double-click to Return")
   }
 
   // Clears currently selected items and colors passed-in ids
@@ -189,6 +204,17 @@ class Map {
   }
 
   zoom(s){
+    let helpText = d3.select('#helpText')
+
+    console.log(helpText.attr("class"))
+
+    if(helpText.attr("class") == "shown"){
+      helpText
+        .transition()
+        .duration(1200)
+        .attr("class", "hidden")
+    }
+
     let screenBox = {
       x: [0, this.width],
       y: [0, this.height],
