@@ -73,7 +73,7 @@ class Map {
         .data(d)
         .enter()
         .append("circle")
-        .classed("city-dot", true)
+        .classed("city", true)
         .style("opacity", 0)
         .attr("cx", d => {
           let loc = this.projection([d.lng, d.lat]);
@@ -95,10 +95,10 @@ class Map {
         .data(d)
         .enter()
         .append("text")
-        .classed("city-text", true)
+        .classed("city", true)
         .style("opacity", 0)
         .attr("x", d => d.x + 7)
-        .attr("y", d => d.y)
+        .attr("y", d => d.y + 6)
         .text(d => d.city)
     });
 
@@ -279,8 +279,8 @@ class Map {
         .transition()
         .duration(this.duration)
         .style("opacity", 0)
-        .attr("x", d => this.x(d.x))
-        .attr("y", d => this.y(d.y));
+        .attr("x", d => this.x(d.x)+7)
+        .attr("y", d => this.y(d.y)+6);
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -375,7 +375,7 @@ class Map {
           if(scaleFactor > 4){return 1}
           return 0;
         })
-        .attr("x", d => this.x(d.x))
-        .attr("y", d => this.y(d.y));
+        .attr("x", d => this.x(d.x)+7)
+        .attr("y", d => this.y(d.y)+4.5);
   }
 }
