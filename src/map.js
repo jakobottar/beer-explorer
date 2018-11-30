@@ -22,6 +22,7 @@ class Map {
     this.x = d3.scaleLinear().domain([0, this.width]).range([0, this.width])
     this.y = d3.scaleLinear().domain([0, this.height]).range([0, this.height])
 
+    this.duration = 750;
   }
 
   buildMap(data){
@@ -64,6 +65,42 @@ class Map {
       .attr("id", d => `br_${d.brewery_id}`)
       .append("title")
       .text(d => d.brewery_name);
+
+    let cityLayer = d3.select("#cityLayer")
+
+    d3.csv("data/cities.csv", d =>{
+      cityLayer.selectAll("circle")
+        .data(d)
+        .enter()
+        .append("circle")
+        .classed("city", true)
+        .style("opacity", 0)
+        .attr("cx", d => {
+          let loc = this.projection([d.lng, d.lat]);
+          if(loc != null){
+            d.x = loc[0]
+            return d.x;
+          }
+        })
+        .attr("cy", d => {
+          let loc = this.projection([d.lng, d.lat]);
+          if(loc != null){
+            d.y = loc[1]
+            return d.y;
+          }
+        })
+        .attr("r", "3")
+
+      cityLayer.selectAll("text")
+        .data(d)
+        .enter()
+        .append("text")
+        .classed("city", true)
+        .style("opacity", 0)
+        .attr("x", d => d.x + 7)
+        .attr("y", d => d.y + 6)
+        .text(d => d.city)
+    });
 
     map.buildLegend();
 
@@ -207,10 +244,12 @@ class Map {
 
     let scaleFactor = 1
 
+    let cityLayer = d3.select("#cityLayer")
+
     if(s == null){
       d3.select("#mapLayer")
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .attr("transform", "translate(0,0) scale(1)")
 
       this.x.domain([0, this.width]);
@@ -218,8 +257,30 @@ class Map {
 
       helpText
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .text("Drag to zoom")
+
+      cityLayer.selectAll("circle")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", 0)
+        .attr("cx", d=>{
+          if(d.x != null){
+            return this.x(d.x)
+          }
+        })
+        .attr("cy", d =>{
+          if(d.y != null){
+            return this.y(d.y)
+          }
+        });
+
+      cityLayer.selectAll("text")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", 0)
+        .attr("x", d => this.x(d.x)+7)
+        .attr("y", d => this.y(d.y)+6);
     }
     else{
       s = [[this.x.invert(s[0][0]), this.y.invert(s[0][1])], [this.x.invert(s[1][0]), this.y.invert(s[1][1])]]
@@ -267,7 +328,7 @@ class Map {
 
       d3.select("#mapLayer")
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .attr("transform", `translate(${-screenBox.x[0]*scaleFactor}, ${-screenBox.y[0]*scaleFactor}) scale(${scaleFactor})`)
 
       this.x.domain([screenBox.x[0], screenBox.x[1]]);
@@ -275,14 +336,14 @@ class Map {
 
       helpText
         .transition()
-        .duration(750)
+        .duration(this.duration)
         .text("Double-Click to return")
     }
 
     d3.select("#breweryLayer")
       .selectAll("circle")
       .transition()
-      .duration(750)
+      .duration(this.duration)
       .attr("cx", d=>{
         if(d.x != null){
           return this.x(d.x)
@@ -297,20 +358,24 @@ class Map {
         return (s == null) ? "3" : "5" ;
       });
 
-    let cityLayer = d3.select("#cityLayer").html("")
+      cityLayer.selectAll("circle")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", d => {
+          if(scaleFactor > 2){return 1}
+          return 0;
+        })
+        .attr("cx", d => this.x(d.x))
+        .attr("cy", d => this.y(d.y));
 
-    console.log(scaleFactor)
-    if(scaleFactor > 3){
-      d3.csv("data/cities.csv", data =>{
-        console.log(data);
-        console.log("City Dots Added!")
-        //add city dots
-
-        if (scaleFactor > 5) {
-          console.log("City Names Added!")
-          // add city names
-        }
-      });
-    }
+      cityLayer.selectAll("text")
+        .transition()
+        .duration(this.duration)
+        .style("opacity", d => {
+          if(scaleFactor > 4){return 1}
+          return 0;
+        })
+        .attr("x", d => this.x(d.x)+7)
+        .attr("y", d => this.y(d.y)+4.5);
   }
 }

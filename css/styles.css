@@ -48,6 +48,7 @@ h3 {
 
 .legend {
   text-anchor: middle;
+  fill: #333333;
   font-size: 13px;
   font-family: 'Nunito', sans-serif;
 }
@@ -107,6 +108,12 @@ path {
   fill: rgba(164, 162, 164, 0.5);
   stroke: #656565;
   stroke-width: 1;
+}
+
+.city{
+  fill: #393939;
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
 }
 
 .hidden {
