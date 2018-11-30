@@ -10,6 +10,10 @@
   grid-row: 1;
 }
 
+body{
+  background-color: #fafafa;
+}
+
 text {
   font-family: 'Noto Sans', sans-serif;
 }
@@ -82,15 +86,20 @@ path {
   stroke: rgba(164, 164, 164, 1);
 }
 
+/* colors here: https://www.color-hex.com/color-palette/69001 */
+
 .filtered {
-  fill: rgba(35, 173, 73, 0.7);
-  stroke: #003427;
+  fill: rgba(0, 159, 41, 0.7);
+  stroke: #00502A;
+  /* SN IPA colors */
+  /* fill: rgba(35, 173, 73, 0.7);
+  stroke: #003427; */
   stroke-width: 1;
 }
 
 .selected {
   fill: rgba(255, 116, 0, 0.7);
-  stroke: #ad3e00;
+  stroke: #953500;
   stroke-width: 1;
 }
 
