@@ -1,11 +1,14 @@
 var UpdateDetailView = function(histogramData) {
   function updateHistogram(location, histogram, attribute) {
     let dataArray = [{ x: 0, y: 0 }];
+    let resetArray = [{ x: 0, y: 0 }];
     let dataAccessAttribute = attribute.toLowerCase();
     for (let i = 0; i < histogramData[dataAccessAttribute].length; i++) {
       dataArray.push({ x: i + 1, y: histogramData[dataAccessAttribute][i] });
+      resetArray.push({ x: i + 1, y: 0 });
     }
     dataArray.push({ x: 5, y: 0 });
+    resetArray.push({ x: 5, y: 0 });
 
     let svg = d3.select('#summaryTable').select('svg');
 
@@ -83,9 +86,13 @@ var UpdateDetailView = function(histogramData) {
       })
       .curve(d3.curveBundle);
 
-    svg.select('#' + dataAccessAttribute + '_path').remove();
+    // svg.select('#' + dataAccessAttribute + '_path').remove();
+
     svg
-      .append('path')
+      .select('#' + dataAccessAttribute + '_path')
+      .attr('d', distributionLine(resetArray))
+      .transition()
+      .duration(500)
       .attr('id', dataAccessAttribute + '_path')
       .attr('d', distributionLine(dataArray))
       .attr('class', 'histogram');
