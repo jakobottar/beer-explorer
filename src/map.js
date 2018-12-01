@@ -27,7 +27,6 @@ class Map {
   }
 
   buildMap(data) {
-
     // First we will append a brush, so it is behind the points we add
     // we need this because otherwise 'mouseover' events won't trigger
     let brush = d3.brush().on('end', brushended);
@@ -89,7 +88,8 @@ class Map {
         console.log(d.brewery_id);
         map.updateSelected([d]);
       })
-      .on('mouseover', d => {// when a user mouses over a brewery dot, show a tooltip with the name of the brewery
+      .on('mouseover', d => {
+        // when a user mouses over a brewery dot, show a tooltip with the name of the brewery
 
         //get the mouse location
         let xPos = d3.mouse(d3.select('body').node())[0] + 15;
@@ -101,7 +101,8 @@ class Map {
           .select('#val')
           .text(d.brewery_name);
 
-        if (this.scaleFactor > 2) { // unhide if the map is zoomed in enough. We do this to keep the unzoomed map clean
+        if (this.scaleFactor > 2) {
+          // unhide if the map is zoomed in enough. We do this to keep the unzoomed map clean
           d3.select('#tooltip').classed('hidden', false);
         }
       })
@@ -120,7 +121,8 @@ class Map {
         .append('circle')
         .classed('city', true)
         .style('opacity', 0)
-        .attr('cx', d => { // same as breweries, project to map and store x/y coords
+        .attr('cx', d => {
+          // same as breweries, project to map and store x/y coords
           let loc = this.projection([d.lng, d.lat]);
           if (loc != null) {
             d.x = loc[0];
@@ -156,21 +158,25 @@ class Map {
     let x = this.x;
     let y = this.y;
 
-    function brushended() { // this function is called when the user brushes over the map
+    function brushended() {
+      // this function is called when the user brushes over the map
       let s = d3.event.selection; // get the selected area
 
       let brushed = []; // create an empty array to hold brushed-over breweries
 
-      if (s != null) { // if the user brushes an area,
+      if (s != null) {
+        // if the user brushes an area,
         // get the UNZOOMED position of the brushed area
         // we need to do this so that we can re-zoom while we are already zoomed in and properly check if a brewery has been brushed over
         let tr = [x.invert(s[0][0]), y.invert(s[0][1])];
         let bl = [x.invert(s[1][0]), y.invert(s[1][1])];
 
-        for (let i = 1; i < data.length; i++) { // loop over all the breweries
+        for (let i = 1; i < data.length; i++) {
+          // loop over all the breweries
           let dataSvgLoc = [data[i].x, data[i].y]; // get it's location
 
-          if (dataSvgLoc != null) { // if it's not null (null = outside USA, not in projection)
+          if (dataSvgLoc != null) {
+            // if it's not null (null = outside USA, not in projection)
             if (dataSvgLoc[1] >= tr[1] && dataSvgLoc[1] <= bl[1]) {
               if (dataSvgLoc[0] >= tr[0] && dataSvgLoc[0] <= bl[0]) {
                 brushed.push(data[i]); // if the brewery is inside the brushed area, add it to the brushed array
@@ -185,10 +191,13 @@ class Map {
         d3.select('.brush').call(brush.move, null); // clear the brush element
         map.updateFiltered(brushed.map(el => el.brewery_id)); // update the filtered brewery dots
         map.zoom(s); // zoom the map on the brushed area
-      } else { // if the user did not brush an area (but clicked)
-        if (idleTimeout == null) {  // start a timer on first click
+      } else {
+        // if the user did not brush an area (but clicked)
+        if (idleTimeout == null) {
+          // start a timer on first click
           return (idleTimeout = setTimeout(idled, idleDelay));
-        } else { // if the timer is still counting down on second click, unzoom the map
+        } else {
+          // if the timer is still counting down on second click, unzoom the map
           map.updateFiltered(null); // unfilter everything
           map.zoom(null); // unzoom
           UpdateBreweryTable(data); // update the table with every brewery
@@ -197,12 +206,14 @@ class Map {
       }
     }
 
-    function idled() { // function that runs at end of timeout
+    function idled() {
+      // function that runs at end of timeout
       idleTimeout = null;
     }
   }
 
-  buildLegend() { // build the legend elements
+  buildLegend() {
+    // build the legend elements
     let mapLegend = this.svg.append('g').attr('id', 'legend');
     // append a legend group that won't zoom
 
@@ -210,7 +221,8 @@ class Map {
     var circ_class = ['unselected', 'filtered', 'selected']; // classes for legend dots
     var lab = ['Ignored', 'Filtered', 'Selected']; // legend text
 
-    for (let i = 0; i < 3; i++) { // add the legend items
+    for (let i = 0; i < 3; i++) {
+      // add the legend items
       mapLegend // add the text
         .append('text')
         .attr('x', xLoc[i])
@@ -246,7 +258,8 @@ class Map {
       .classed('unselected', true) // unselect everything
       .classed('selected', false);
 
-    if (ids == null || ids.length == 0) { // if we don't pass anything in, clear filtered items
+    if (ids == null || ids.length == 0) {
+      // if we don't pass anything in, clear filtered items
       d3.select('#breweryLayer')
         .selectAll('circle')
         .classed('filtered', true) // set everything to 'filtered'
@@ -274,19 +287,20 @@ class Map {
       return;
     } // don't select anything new, on clear
 
-    for (let i = 0; i < ids.length; i++) {
-      d3.select(`#br_${ids[i]}`)
-        .classed('selected', true); // select the passed in breweries
+    for (let i = 0; i < breweries.length; i++) {
+      d3.select(`#br_${breweries[i].brewery_id}`).classed('selected', true); // select the passed in breweries
     }
     UpdateBeerTable(breweries[0]);
 
     console.log(breweries);
   }
 
-  zoom(s) { // zoom function, zooms on selected area
+  zoom(s) {
+    // zoom function, zooms on selected area
     let helpText = d3.select('#helpText'); // store helptext element
 
-    let screenBox = { // build a object to hold the edges of the "screen", or svg box.
+    let screenBox = {
+      // build a object to hold the edges of the "screen", or svg box.
       x: [0, this.width],
       y: [0, this.height],
       aspect: this.width / this.height
@@ -296,7 +310,8 @@ class Map {
 
     let cityLayer = d3.select('#cityLayer'); // store the city layer element
 
-    if (s == null) { // if we pass 'null' in, unzoom.
+    if (s == null) {
+      // if we pass 'null' in, unzoom.
       d3.select('#mapLayer')
         .transition()
         .duration(this.duration)
@@ -332,7 +347,8 @@ class Map {
         .style('opacity', 0)
         .attr('x', d => this.x(d.x) + 7)
         .attr('y', d => this.y(d.y) + 6);
-    } else { // if we need to zoom,
+    } else {
+      // if we need to zoom,
       // get an unzoomed selection box
       s = [
         [this.x.invert(s[0][0]), this.y.invert(s[0][1])],
@@ -408,7 +424,8 @@ class Map {
       .transition()
       .duration(this.duration)
       .style('opacity', d => {
-        if (this.scaleFactor > 2) { // if we've zoomed in 2x, show the city dots
+        if (this.scaleFactor > 2) {
+          // if we've zoomed in 2x, show the city dots
           return 1;
         }
         return 0;
@@ -421,7 +438,8 @@ class Map {
       .transition()
       .duration(this.duration)
       .style('opacity', d => {
-        if (this.scaleFactor > 4) { // if we've zoomed in 4x, show the city names
+        if (this.scaleFactor > 4) {
+          // if we've zoomed in 4x, show the city names
           return 1;
         }
         return 0;
