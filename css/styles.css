@@ -13,7 +13,7 @@
 }
 
 #about-link {
-  color: #0000EE;
+  color: #0000ee;
 }
 
 .chart-title {
@@ -51,11 +51,11 @@ tr {
 }
 
 tbody tr:hover {
-  background-color: rgba(255, 116, 0, 0.7);
+  background-color: rgba(255, 116, 0, 0.45);
 }
 
 tr.selected {
-  background-color: rgba(255, 116, 0, 0.7);
+  background-color: rgba(255, 116, 0, 0.45);
 }
 
 #breweryTable {
