@@ -2,32 +2,34 @@
 
 class Map {
   constructor() {
-    this.svg = d3.select('#map');
+    this.svg = d3.select('#map'); // select the map svg element
 
-    let svgbounds = this.svg.node().getBoundingClientRect();
-
+    let svgbounds = this.svg.node().getBoundingClientRect(); // get it's height/width
     this.width = svgbounds.width;
     this.height = svgbounds.height;
 
-    this.projection = d3
+    this.projection = d3 // map projection
       .geoAlbersUsa()
       .translate([this.width / 2, this.height / 2])
       .scale([1200]);
 
-    this.x = d3
+    this.x = d3 // x scale for brewery points
       .scaleLinear()
       .domain([0, this.width])
       .range([0, this.width]);
-    this.y = d3
+    this.y = d3 // y scale for brewery points
       .scaleLinear()
       .domain([0, this.height])
       .range([0, this.height]);
 
-    this.duration = 750;
-    this.scaleFactor = 1;
+    this.duration = 750; // transition duration
+    this.scaleFactor = 1; // keeps track of how zoomed in we are
   }
 
   buildMap(data) {
+
+    // First we will append a brush, so it is behind the points we add
+    // we need this because otherwise 'mouseover' events won't trigger
     let brush = d3.brush().on('end', brushended);
     let idleTimeout;
     let idleDelay = 350;
@@ -37,8 +39,10 @@ class Map {
       .attr('class', 'brush')
       .call(brush);
 
+    // now draw the map
     let path = d3.geoPath().projection(this.projection);
 
+    // read the geoJSON file and draw the states.
     d3.json('data/us-states.json', function(error, us) {
       if (error) throw error;
 
@@ -51,17 +55,18 @@ class Map {
         .attr('class', 'state');
     });
 
+    // now draw the brewery dots
     this.svg
       .append('g')
       .attr('id', 'breweryLayer')
       .selectAll('circle')
-      .data(data)
+      .data(data) // data contains our processed data json
       .enter()
       .append('circle')
       .attr('cx', d => {
-        let loc = this.projection([d.lng, d.lat]);
+        let loc = this.projection([d.lng, d.lat]); // project the lat/lng onto the svg
         if (loc != null) {
-          d.x = loc[0];
+          d.x = loc[0]; // store the x and y values in the data element, useful for future brushing checks
         } else {
           d.x = -10;
         }
