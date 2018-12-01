@@ -171,7 +171,7 @@ class Map {
         let tr = [x.invert(s[0][0]), y.invert(s[0][1])];
         let bl = [x.invert(s[1][0]), y.invert(s[1][1])];
 
-        for (let i = 1; i < data.length; i++) {
+        for (let i = 0; i < data.length; i++) {
           // loop over all the breweries
           let dataSvgLoc = [data[i].x, data[i].y]; // get it's location
 
