@@ -117,7 +117,7 @@ path {
 #tooltip {
   position: absolute;
   width: auto;
-  height: 30px;
+  height: auto;
   margin-top: 0px;
   background-color: white;
   box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
