@@ -17,6 +17,7 @@ var UpdateBreweryTable = function(breweryData) {
     .on('click', (d, i) => {
       newTable();
       UpdateBeerTable(d);
+      map.updateSelected([d.brewery_id]);
     });
 
   let td = newRows
