@@ -5,12 +5,7 @@ class Map {
   constructor(){
     this.svg = d3.select("#map")
 
-    let mapcontainer = d3.select('#map-container')
-    let svgbounds = mapcontainer.node().getBoundingClientRect();
-
-    this.svg
-      .attr("width", svgbounds.width - 50)
-      .attr("height", svgbounds.height - 50);
+    let svgbounds = this.svg.node().getBoundingClientRect();
 
     this.width = svgbounds.width - 50;
     this.height = svgbounds.height - 50;

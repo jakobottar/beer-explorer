@@ -1,13 +1,28 @@
 
 #panes {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: 650px auto;
+  grid-gap: 20px;
+  grid-template-areas: 'map map' 'beer1 beer3';
 }
 
-#map-container {
-  grid-column: 1 / span 2;
-  grid-row: 1;
+#map {
+  grid-area: map;
+  /* box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23); */
+  /* background-color: #e9f5ff; */
+}
+
+#breweryTable {
+  grid-area: beer1;
+}
+
+#beerTable {
+  grid-area: beer2;
+}
+
+#summaryTable {
+  grid-area: beer3;
 }
 
 body{
@@ -62,31 +77,12 @@ p{
   font-size: 15px;
 }
 
-#map {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
-}
-
 .table {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
-}
-
-#breweryTable {
-  grid-column: 1;
-  grid-row: 2;
-}
-
-#beerTable {
-  grid-column: 2;
-  grid-row: 2;
-}
-
-#summaryTable {
-  grid-column: 2;
-  grid-row: 2;
+  /* box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23); */
 }
 
 path {
-  fill: rgba(231, 231, 231, 0.5);
+  fill: #f1f1f1;
   stroke: rgba(164, 164, 164, 1);
 }
 

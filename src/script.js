@@ -11,16 +11,9 @@ function init() {
 function newTable() {
   if (document.getElementById('beerTable').getAttribute('class') == 'hidden') {
     // add the third column
-    document.getElementById('panes').style.gridTemplateColumns = '33% 33% 33%';
+    document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr 1fr';
+    document.getElementById('panes').style.gridTemplateAreas = "'map map map' 'beer1 beer2 beer3'";
 
-    //resize the map
-    document.getElementById('map-container').style.gridColumnEnd = "span 3"
-
-    // move the summary table to the third column
-    document.getElementById('summaryTable').style.gridColumn = 3;
-
-    // show the beer table and mark as shown
-    // document.getElementById('beerTable').style.display = 'block';
     document.getElementById('beerTable').className = 'shown';
   }
 }
@@ -28,16 +21,9 @@ function newTable() {
 function removeTable() {
   if (document.getElementById('beerTable').getAttribute('class') == 'shown') {
     // remove the third column
-    document.getElementById('panes').style.gridTemplateColumns = '50% 50%';
-
-    //resize the map
-    document.getElementById('map-container').style.gridColumnEnd = "span 2"
-
-    // move the summary table to the second column
-    document.getElementById('summaryTable').style.gridColumn = 2;
-
-    // hide the beer table and mark as hidden
-    // document.getElementById('beerTable').style.display = 'none';
+    document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr';
+    document.getElementById('panes').style.gridTemplateAreas = "'map map' 'beer1 beer3'";
+    
     document.getElementById('beerTable').className = 'hidden';
   }
 }
