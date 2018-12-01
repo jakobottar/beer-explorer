@@ -18,6 +18,7 @@ var UpdateBreweryTable = function(breweryData) {
       newTable();
       UpdateBeerTable(d);
       map.updateSelected([d.brewery_id]);
+      updateSummaryTableTitle('Summary of ' + d.brewery_name + ' Beers');
     });
 
   let td = newRows

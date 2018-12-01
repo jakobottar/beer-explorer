@@ -171,6 +171,7 @@ class Map {
 
         console.log(brushed);
         UpdateBreweryTable(brushed);
+        updateSummaryTableTitle('Summary of Filtered Breweries');
 
         d3.select('.brush').call(brush.move, null);
         map.updateFiltered(brushed.map(el => el.brewery_id));
@@ -182,6 +183,7 @@ class Map {
           map.updateFiltered(null);
           map.zoom(null);
           UpdateBreweryTable(data);
+          updateSummaryTableTitle('Summary of all Breweries');
         }
       }
     }
