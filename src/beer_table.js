@@ -1,5 +1,5 @@
 var UpdateBeerTable = function(data) {
-  console.log(data.beers);
+  UpdateDetailView(aggregateHistogramData(data.beers));
   var rows = d3
     .select('#beerTable')
     .select('table')
@@ -13,7 +13,7 @@ var UpdateBeerTable = function(data) {
     .append('tr')
     .merge(rows)
     .on('click', function(d) {
-      UpdateDetailView(d);
+      UpdateDetailView(d.histogram);
     });
 
   let td = d3
@@ -34,7 +34,6 @@ var UpdateBeerTable = function(data) {
     .append('td')
     .append('text')
     .merge(td)
-    .attr('width', d => d.width)
     .text(d => {
       return d.value;
     });

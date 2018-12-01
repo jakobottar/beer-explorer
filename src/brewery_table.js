@@ -1,5 +1,6 @@
 var UpdateBreweryTable = function(breweryData) {
-  console.log(breweryData);
+  UpdateDetailView(aggregateHistogramData(breweryData));
+  removeTable();
 
   var rows = d3
     .select('#breweryTable')
