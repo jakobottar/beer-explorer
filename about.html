@@ -7,8 +7,8 @@
 
   <body>
     <header>
-      <h1 align="center">The Geography of Beer</h1>
-      <h3 align="center">
+      <h1 align="center", class="header">The Geography of Beer</h1>
+      <h3 align="center", class="header">
         By <a class="email", href="mailto:jakob.johnson@usu.edu">Jakob Johnson</a>
         and <a class="email", href="mailto:derek.hunter@aggiemail.usu.edu">Derek Hunter<a><h3>
     </header>
@@ -17,17 +17,17 @@
 <div id="background-and-motivation" class="section level1">
 <h1>Background and Motivation</h1>
 <!-- Discuss your motivations and reasons for choosing this project, especially any background or research interests that may have influenced your decision. -->
-<p>In 2007, the Brewer’s Association of America consisted of 422 breweries. In 2017, it had grown to nearly 4,000. As the taste of American beer drinkers diversified, simply asking for “a pint of your finest ale, please” was no longer sufficient. Instead, the new craft beer drinkers needed a way to quantify and track which beers they liked and didn’t like. A number of beer rating sites sprang up, and BeerAdvocate rose to the top as the most popular.</p>
+<p>In 2007, the Brewer's Association of America consisted of 422 breweries. In 2017, it had grown to nearly 4,000. As the taste of American beer drinkers diversified, simply asking for "a pint of your finest ale, please" was no longer sufficient. Instead, the new craft beer drinkers needed a way to quantify and track which beers they liked and didn't like. A number of beer rating sites sprang up, and BeerAdvocate rose to the top as the most popular.</p>
 <p>I (Jakob) chose this dataset because beer is tasty and interests me greatly. Even though a number of beer review sites exist, none of them are particularly good-looking or have good visualizations of the massive databases they collect and store.</p>
 <p>BeerAdvocate Example 1</p>
-<p>This is an example of a beer’s page, and though it has a review histogram, very little other information is displayed. <a href="https://www.beeradvocate.com/beer/profile/22893/73618/">Link.</a></p>
+<p>This is an example of a beer's page, and though it has a review histogram, very little other information is displayed. <a href="https://www.beeradvocate.com/beer/profile/22893/73618/">Link.</a></p>
 <p>BeerAdvocate Example 2</p>
 <p>In the overall brewery page, there are no visualizations, only some basic summary stats and a table of beers (that often has duplicates). <a href="https://www.beeradvocate.com/beer/profile/22893/">Link.</a></p>
 </div>
 <div id="project-objectives" class="section level1">
 <h1>Project Objectives</h1>
 <!-- Provide the primary questions you are trying to answer with your visualization. What would you like to learn and accomplish? List the benefits. -->
-<p>In this project, we want to improve upon the BeerAdvocate platform and better visualize the massive amount of data stored in sites like these. We want to better show the “best beers” in regions and styles, and explore how the rating distribution changes between beer styles.</p>
+<p>In this project, we want to improve upon the BeerAdvocate platform and better visualize the massive amount of data stored in sites like these. We want to better show the "best beers" in regions and styles, and explore how the rating distribution changes between beer styles.</p>
 </div>
 <div id="data" class="section level1">
 <h1>Data</h1>
@@ -62,12 +62,12 @@
 <div id="visualization-design" class="section level1">
 <h1>Visualization Design</h1>
 <!-- How will you display your data? Provide some general ideas that you have for the visualization design. Develop three alternative prototype designs for your visualization. Create one final design that incorporates the best of your three designs. Describe your designs and justify your choices of visual encodings. We recommend you use the Five Design Sheet Methodology -->
-<p>Because of our relatively limited data columns and very large number of rows we’re faced with a couple of challenges for our visulization. We’re mostly interested in inspecting our data by brewery, for example which breweries, on average, have the best beer. Below is an example table idea we had.</p>
+<p>Because of our relatively limited data columns and very large number of rows we're faced with a couple of challenges for our visulization. We're mostly interested in inspecting our data by brewery, for example which breweries, on average, have the best beer. Below is an example table idea we had.</p>
 <div id="visualizing-brewery-information" class="section level2">
 <h2>Visualizing Brewery Information</h2>
 <p>Example Table Vis</p>
-<p>The basic idea is to do something similar to the world cup assignment, where each row in the table represents a brewery, and data cells would be some visualization of the average for that brewery. In the example given above, we used a horizontal boxplot to represent the rating. This could of course be represented by some kind of start system or even just a number. We feel this could end up being a little misleading because we’re throwing out the distributional information contained in the dataset. After then the intended behavior would be a user to click on a brewery of interest and this would add on new rows that would represent each beer that brewery has created. With similar information to the brewery itself.</p>
-<p>This method for visualizing the data has a couple issues though. The main one being that we don’t want to create a table with over 5000 rows. We wouldn’t be simplifying the dataset enough. To solve this problem we would like to be able to grab the lat/long of the breweries in the dataset, and draw them on a map. From there the user would be able to add a selection to the map which would filter down the rows in the table to just the breweries selected in the area.</p>
+<p>The basic idea is to do something similar to the world cup assignment, where each row in the table represents a brewery, and data cells would be some visualization of the average for that brewery. In the example given above, we used a horizontal boxplot to represent the rating. This could of course be represented by some kind of start system or even just a number. We feel this could end up being a little misleading because we're throwing out the distributional information contained in the dataset. After then the intended behavior would be a user to click on a brewery of interest and this would add on new rows that would represent each beer that brewery has created. With similar information to the brewery itself.</p>
+<p>This method for visualizing the data has a couple issues though. The main one being that we don't want to create a table with over 5000 rows. We wouldn't be simplifying the dataset enough. To solve this problem we would like to be able to grab the lat/long of the breweries in the dataset, and draw them on a map. From there the user would be able to add a selection to the map which would filter down the rows in the table to just the breweries selected in the area.</p>
 </div>
 <div id="visualizing-review-timestamp-information" class="section level2">
 <h2>Visualizing Review Timestamp Information</h2>
@@ -83,7 +83,7 @@
 <div id="proposed-visualization" class="section level2">
 <h2>Proposed Visualization</h2>
 <p>After reviewing our visualization ideas we decided that trying to build something relating to the timestamp information was really not feasible. Our proposed visualization incorporates the idea of the stacked distribution and the fitler-able table into the final design.</p>
-<p>The core of the design is of a dig-down style. The envisioned use would be to filter a table of all breweries to ones of interest, for instance breweries near me. Then for the user to select the brewery they’re interested in which would hide the table, and bring up a ‘dashboard’ for the brewery. Which has a list of beers grouped by style, as well as a group a distributions histograms for that brewery, for the 5 interesting review metrics(Overall, Aroma, Appearance, and Taste).</p>
+<p>The core of the design is of a dig-down style. The envisioned use would be to filter a table of all breweries to ones of interest, for instance breweries near me. Then for the user to select the brewery they're interested in which would hide the table, and bring up a 'dashboard' for the brewery. Which has a list of beers grouped by style, as well as a group a distributions histograms for that brewery, for the 5 interesting review metrics(Overall, Aroma, Appearance, and Taste).</p>
 <p>Proposed Vis Screen 1</p>
 <p>Proposed Vis Screen 2</p>
 </div>
@@ -92,14 +92,14 @@
 <h1>Must-Have Features</h1>
 <!-- List the features without which you would consider your project to be a failure. -->
 <p>A filterable table that summarizes a selection, either of beer style or brewery. We need to be able to look at a subset of the data because trying to plot or build a table of the whole dataset will be prohibitively intensive. So being able to have some kind of filter is necessary.</p>
-<p>When a brewery is selected from the table, a “dashboard” of information will be displayed, such as a “top 10” of individual beers, as well as a ratings breakdown by style.</p>
+<p>When a brewery is selected from the table, a "dashboard" of information will be displayed, such as a "top 10" of individual beers, as well as a ratings breakdown by style.</p>
 </div>
 <div id="optional-features" class="section level1">
 <h1>Optional Features</h1>
 <!-- List the features which you consider to be nice to have, but not critical. -->
 <p>We also need to have some kind of map showing geographic distribution of breweries. This may or may not display every brewery represented in the dataset.</p>
 <p>The map will be interactive, allowing brushing to select a subset to display in the table and will contain every brewery. This will be difficult as getting this data requires pulling from Google Maps or some similar map database.</p>
-<p>“falling” and “dropping” animations when styles are selected or deselected from the stacked distribution plot.</p>
+<p>"falling" and "dropping" animations when styles are selected or deselected from the stacked distribution plot.</p>
 </div>
 <div id="project-schedule" class="section level1">
 <h1>Project Schedule</h1>
@@ -113,8 +113,8 @@
 </div>
 <div id="prototype-work-documentation" class="section level1">
 <h1>Prototype Work Documentation</h1>
-<p>The first thing we did was load the dataset into R since it was way too big to view in Excel. Accessing it in R first allowed us to look at all the attributes and quickly determine what exactly we were dealing with. The original dataset was one single <code>.csv</code> file that was about 150 Mb in size - too big for GitHub to host - so we split the dataset into 4, 50 Mb files that we could store on GitHub and “bind” together and use as a single dataset for analysis.</p>
-<p>After that, we started cleaning up the dataset. The base dataset represented 1586616 different reviews of 56858 beers from 5744 different breweries. A 1.5 million row dataset is too big to reasonably manipulate in JavaScript, let alone load in a timely fashion. To counter this, since we didn’t need to show every review or even every beer at once, we used R to summarize the table by beer, keeping the average ratings for aroma, appearance, palate, taste, and overall score. We also needed to keep track of the beer ID since there may be more than one beer with the same name, as well as count the number of reviews for each beer. We did the same for breweries, keeping the average rating for each of the 5 attributes, counting the number of beers listed, and storing the beers and beer IDs in a JSON structure to be read later on the site.</p>
+<p>The first thing we did was load the dataset into R since it was way too big to view in Excel. Accessing it in R first allowed us to look at all the attributes and quickly determine what exactly we were dealing with. The original dataset was one single <code>.csv</code> file that was about 150 Mb in size - too big for GitHub to host - so we split the dataset into 4, 50 Mb files that we could store on GitHub and "bind" together and use as a single dataset for analysis.</p>
+<p>After that, we started cleaning up the dataset. The base dataset represented 1586616 different reviews of 56858 beers from 5744 different breweries. A 1.5 million row dataset is too big to reasonably manipulate in JavaScript, let alone load in a timely fashion. To counter this, since we didn't need to show every review or even every beer at once, we used R to summarize the table by beer, keeping the average ratings for aroma, appearance, palate, taste, and overall score. We also needed to keep track of the beer ID since there may be more than one beer with the same name, as well as count the number of reviews for each beer. We did the same for breweries, keeping the average rating for each of the 5 attributes, counting the number of beers listed, and storing the beers and beer IDs in a JSON structure to be read later on the site.</p>
 <p>This still left us with the original 56,000 beers and 5,700 breweries, some of which have very few reviews or beers. To clean up these micro-microbreweries, we removed any beers that had fewer than 5 reviews, and removed any breweries that had fewer than 5 beers (excluding those with &lt;5 reviews). This brought us down to about 1,600 breweries with 21,000 beers.</p>
 <p>We still wanted to be able to access individual reviews for each beer and brewery however, so instead of loading the entire dataset at once, we split the dataset into 1,600 <code>.csv</code> files - one for each brewery - to load when the user selects the brewery.</p>
 <p>All R code used and process documentation for the project can be seen in <code>R/ba-explore.md</code>.</p>
