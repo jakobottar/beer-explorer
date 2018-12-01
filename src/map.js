@@ -291,6 +291,7 @@ class Map {
       d3.select(`#br_${breweries[i].brewery_id}`).classed('selected', true); // select the passed in breweries
     }
     UpdateBeerTable(breweries[0]);
+    UpdateSelectedBreweryColors(breweries[0].brewery_id);
 
     console.log(breweries);
   }

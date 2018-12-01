@@ -1,8 +1,20 @@
+var UpdateSelectedBreweryColors = function(breweryId) {
+  d3.select('#breweryTable')
+    .selectAll('tr')
+    .classed('selected', false);
+  if (typeof breweryId != 'undefined') {
+    d3.select('#breweryTable')
+      .select('#id_' + breweryId)
+      .classed('selected', true);
+  }
+};
+
 var UpdateBreweryTable = function(breweryData) {
   UpdateDetailView(aggregateHistogramData(breweryData));
   removeTable();
 
-  console.log('BREWERY STUFF: ', breweryData);
+  UpdateSelectedBreweryColors();
+
   var rows = d3
     .select('#breweryTable')
     .select('table')
@@ -15,9 +27,14 @@ var UpdateBreweryTable = function(breweryData) {
   var newRows = rows
     .enter()
     .append('tr')
+    .merge(rows)
+    .attr('id', d => {
+      return 'id_' + d.brewery_id;
+    })
     .on('click', (d, i) => {
       UpdateBeerTable(d);
       map.updateSelected([d]);
+      UpdateSelectedBreweryColors(d.brewery_id);
     });
 
   let td = newRows
@@ -25,16 +42,22 @@ var UpdateBreweryTable = function(breweryData) {
     .selectAll('td')
     .data(d => {
       return [
-        { value: d.brewery_name, width: '60%' },
-        { value: Math.round(d.averages.overall * 100) / 100, width: '20%' },
-        { value: d.beers.length, width: '20%' }
+        { value: d.brewery_name, width: '40%', class: 'table-name-column' },
+        {
+          value: Math.round(d.averages.overall * 100) / 100,
+          width: '30%',
+          class: 'table-element'
+        },
+        { value: d.beers.length, width: '30%', class: 'table-element' }
       ];
     });
 
   td.enter()
     .append('td')
-    .append('text')
     .merge(td)
+    .attr('class', d => {
+      return d.class;
+    })
     .attr('width', d => d.width)
     .text(d => {
       return d.value;
