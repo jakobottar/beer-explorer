@@ -82,7 +82,7 @@ class Map {
       .on('click', d => {
         // Make this clicked brewery the "selected" brewery in the tables
         console.log(d.brewery_id);
-        map.updateSelected([d.brewery_id]);
+        map.updateSelected([d]);
       })
       .on('mouseover', d => {
         let xPos = d3.mouse(d3.select('body').node())[0] + 15;
@@ -255,20 +255,23 @@ class Map {
   // Clears currently selected items and colors passed-in ids
   // ids must be passed in as array
   // if array is null, clear selection and return to starting scenario
-  updateSelected(ids) {
+  updateSelected(breweries) {
     d3.select('#breweryLayer') // de-select everything, ignore filters
       .selectAll('circle')
       .classed('selected', false);
 
-    if (ids == null) {
+    if (breweries == null) {
       return;
     } // don't select anything new, on clear
 
-    for (let i = 0; i < ids.length; i++) {
-      d3.select(`#br_${ids[i]}`)
+    for (let i = 0; i < breweries.length; i++) {
+      d3.select(`#br_${breweries[i].brewery_id}`)
         // .classed("unselected", false)
         .classed('selected', true);
     }
+    UpdateBeerTable(breweries[0]);
+
+    console.log(breweries);
   }
 
   zoom(s) {

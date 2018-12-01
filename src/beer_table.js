@@ -1,5 +1,8 @@
 var UpdateBeerTable = function(data) {
+  console.log('BEERRRR STUFF: ', data);
+  newTable();
   UpdateDetailView(aggregateHistogramData(data.beers));
+  updateSummaryTableTitle('Summary of ' + data.brewery_name + ' Beers');
   var rows = d3
     .select('#beerTable')
     .select('table')
