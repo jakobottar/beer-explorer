@@ -92,25 +92,25 @@ path {
 
 /* colors here: https://www.color-hex.com/color-palette/69001 */
 
-.breweryLayer {
-  cursor: crosshair;
-  stroke-width: 1;
-}
-
 .unselected {
+  cursor: crosshair;
   fill: rgba(164, 162, 164, 0.5);
   stroke: #656565;
+  stroke-width: 1;
 }
 
 .filtered {
   cursor: crosshair;
   fill: rgba(0, 159, 41, 0.7);
   stroke: #00502A;
+  stroke-width: 1;
 }
 
 .selected {
+  cursor: crosshair;
   fill: rgba(255, 116, 0, 0.7);
   stroke: #953500;
+  stroke-width: 1;
 }
 
 #tooltip {
