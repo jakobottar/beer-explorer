@@ -14,6 +14,7 @@ var UpdateBeerTable = function(data) {
     .merge(rows)
     .on('click', function(d) {
       UpdateDetailView(d.histogram);
+      updateSummaryTableTitle('Summary of ' + d.beer_name);
     });
 
   let td = d3

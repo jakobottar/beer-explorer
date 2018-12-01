@@ -12,6 +12,21 @@
   /* background-color: #e9f5ff; */
 }
 
+.chart-title {
+  text-anchor: middle;
+}
+
+.axis-title {
+  font-size: 12px;
+  text-anchor: middle;
+}
+
+.summaryTableTitleContainer {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
 #breweryTable {
   grid-area: beer1;
   height: 625px;

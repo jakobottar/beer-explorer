@@ -8,6 +8,11 @@ function init() {
   });
 }
 
+function updateSummaryTableTitle(value) {
+  console.log(value);
+  document.getElementById('summaryTableTitle').innerHTML = value;
+}
+
 function aggregateHistogramData(data) {
   return data.reduce(function(acc, el) {
     if (typeof acc.overall == 'undefined') {
