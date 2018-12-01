@@ -2,6 +2,7 @@ var UpdateBreweryTable = function(breweryData) {
   UpdateDetailView(aggregateHistogramData(breweryData));
   removeTable();
 
+  console.log('BREWERY STUFF: ', breweryData);
   var rows = d3
     .select('#breweryTable')
     .select('table')
@@ -15,10 +16,8 @@ var UpdateBreweryTable = function(breweryData) {
     .enter()
     .append('tr')
     .on('click', (d, i) => {
-      newTable();
       UpdateBeerTable(d);
-      map.updateSelected([d.brewery_id]);
-      updateSummaryTableTitle('Summary of ' + d.brewery_name + ' Beers');
+      map.updateSelected([d]);
     });
 
   let td = newRows
