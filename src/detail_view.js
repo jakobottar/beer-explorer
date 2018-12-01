@@ -90,7 +90,7 @@ var UpdateDetailView = function(histogramData) {
 
     svg
       .select('#' + dataAccessAttribute + '_path')
-      .attr('d', distributionLine(resetArray))
+      // .attr('d', distributionLine(resetArray))
       .transition()
       .duration(500)
       .attr('id', dataAccessAttribute + '_path')
