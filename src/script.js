@@ -1,10 +1,10 @@
 let map = new Map();
 globaldata = [];
 function init() {
-  d3.json('data/processed_data.json', data => {
+  d3.json('data/processed_data.json', data => { // load the process data
     globalData = data;
-    map.buildMap(data);
-    UpdateBreweryTable(data);
+    map.buildMap(data); //build the map
+    UpdateBreweryTable(data); // build the tables
   });
 }
 
@@ -34,25 +34,25 @@ function aggregateHistogramData(data) {
   }, {});
 }
 
-function newTable() {
-  if (document.getElementById('beerTable').getAttribute('class') == 'hidden') {
+function newTable() { // add the center beer table
+  if (document.getElementById('beerTable').getAttribute('class') == 'hidden') { // if the beer table is hidden,
     // add the third column
     document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr 1fr';
     document.getElementById('panes').style.gridTemplateAreas =
-      "'map map map' 'beer1 beer2 beer3'";
+      "'map map map' 'beer1 beer2 beer3'"; // adjust the areas to account for the new table
 
-    document.getElementById('beerTable').className = 'shown';
+    document.getElementById('beerTable').className = 'shown'; // show the new table
   }
 }
 
-function removeTable() {
-  if (document.getElementById('beerTable').getAttribute('class') == 'shown') {
+function removeTable() { // remove the center beer table
+  if (document.getElementById('beerTable').getAttribute('class') == 'shown') { // if the beer table is shown,
     // remove the third column
     document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr';
     document.getElementById('panes').style.gridTemplateAreas =
-      "'map map' 'beer1 beer3'";
+      "'map map' 'beer1 beer3'"; // adjust the areas to remove the beer table
 
-    document.getElementById('beerTable').className = 'hidden';
+    document.getElementById('beerTable').className = 'hidden'; // hide the beer table
   }
 }
 
