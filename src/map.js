@@ -182,31 +182,6 @@ class Map {
     }
   }
 
-  // Clears currently filtered items and colors passed-in ids
-  // ids must be passed in as array
-  // if array is null, clear filters and return to starting scenario
-  updateFiltered(ids){
-    d3.select("#breweryLayer") // de-filter everything
-      .selectAll("circle")
-      .classed("filtered", false)
-      .classed("unselected", true);
-
-    if(ids == null || ids.length == 0){
-      d3.select("#breweryLayer") // filter everything, on clear
-        .selectAll("circle")
-        .classed("filtered", true)
-        .classed("unselected", false);
-
-      return;
-    }
-
-    for(let i = 0; i < ids.length; i++){
-      d3.select(`#br_${ids[i]}`)
-        .classed("filtered", true)
-        .classed("unselected", false);
-    }
-  }
-
   buildLegend(){
     let mapLegend = this.svg.append('g')
       .attr("id", "legend")
@@ -238,6 +213,32 @@ class Map {
       .text("Drag to zoom")
   }
 
+  // Clears currently filtered items and colors passed-in ids
+  // ids must be passed in as array
+  // if array is null, clear filters and return to starting scenario
+  updateFiltered(ids){
+    d3.select("#breweryLayer") // de-filter everything
+      .selectAll("circle")
+      .classed("filtered", false)
+      .classed("unselected", true)
+      .classed("selected", false);
+
+    if(ids == null || ids.length == 0){
+      d3.select("#breweryLayer") // filter everything, on clear
+        .selectAll("circle")
+        .classed("filtered", true)
+        .classed("unselected", false);
+
+      return;
+    }
+
+    for(let i = 0; i < ids.length; i++){
+      d3.select(`#br_${ids[i]}`)
+        .classed("filtered", true)
+        .classed("unselected", false);
+    }
+  }
+
   // Clears currently selected items and colors passed-in ids
   // ids must be passed in as array
   // if array is null, clear selection and return to starting scenario
@@ -250,6 +251,7 @@ class Map {
 
     for(let i = 0; i < ids.length; i++){
       d3.select(`#br_${ids[i]}`)
+        .classed("unselected", false)
         .classed("selected", true);
     }
   }
