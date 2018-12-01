@@ -7,8 +7,8 @@ class Map {
 
     let svgbounds = this.svg.node().getBoundingClientRect();
 
-    this.width = svgbounds.width - 50;
-    this.height = svgbounds.height - 50;
+    this.width = svgbounds.width;
+    this.height = svgbounds.height;
 
     this.projection = d3.geoAlbersUsa()
       .translate([this.width/2, this.height/2])
