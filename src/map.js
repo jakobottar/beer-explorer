@@ -251,7 +251,7 @@ class Map {
 
     for(let i = 0; i < ids.length; i++){
       d3.select(`#br_${ids[i]}`)
-        .classed("unselected", false)
+        // .classed("unselected", false)
         .classed("selected", true);
     }
   }
