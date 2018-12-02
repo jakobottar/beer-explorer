@@ -10,7 +10,6 @@ var UpdateSelectedBeerColors = function(beerId) {
 };
 
 var UpdateBeerTable = function(data) {
-  console.log('BEERRRR STUFF: ', data);
   newTable();
   UpdateDetailView(aggregateHistogramData(data.beers));
   updateSummaryTableTitle('Summary of ' + data.brewery_name + ' Beers');
@@ -79,7 +78,15 @@ var UpdateBeerTable = function(data) {
     })
     .on('click', function(d) {
       UpdateDetailView(d.histogram);
-      updateSummaryTableTitle('Summary of ' + d.beer_name);
+      updateSummaryTableTitle(
+        'Summary of ' +
+          d.beer_name +
+          ' (' +
+          d.beer_abv +
+          '% ' +
+          d.beer_style +
+          ')'
+      );
       UpdateSelectedBeerColors(d.beer_id);
     });
 
