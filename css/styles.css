@@ -51,9 +51,14 @@ table {
   width: 100%;
 }
 
+th {
+  font-family: 'Noto Sans', sans-serif;
+}
+
 tr {
   border-bottom: solid;
   border-width: 1px 0;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 tbody tr:hover {
@@ -66,6 +71,10 @@ tr.selected {
 
 tr.selected:hover {
   background-color: #ffd5b3;
+}
+
+#summaryTableTitle {
+  font-family: 'Noto Sans', sans-serif;
 }
 
 #breweryTable {
@@ -104,10 +113,6 @@ h1 {
 
   margin-top: 10px;
   margin-bottom: 15px;
-}
-
-th {
-  font-family: 'Noto Sans', sans-serif;
 }
 
 h2 {
