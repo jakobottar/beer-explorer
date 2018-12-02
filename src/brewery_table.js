@@ -15,6 +15,52 @@ var UpdateBreweryTable = function(breweryData) {
 
   UpdateSelectedBreweryColors();
 
+  d3.select('#breweryNameUp').on('click', () => {
+    breweryData.sort(function(a, b) {
+      var textA = a.brewery_name.toUpperCase();
+      var textB = b.brewery_name.toUpperCase();
+      return textA < textB ? -1 : textA > textB ? 1 : 0;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryNameDown').on('click', () => {
+    breweryData.sort(function(a, b) {
+      var textA = a.brewery_name.toUpperCase();
+      var textB = b.brewery_name.toUpperCase();
+      return textA < textB ? 1 : textA > textB ? -1 : 0;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryOverallUp').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return b.averages.overall - a.averages.overall;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryOverallDown').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return a.averages.overall - b.averages.overall;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryBeersUp').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return b.beers.length - a.beers.length;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryBeersDown').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return a.beers.length - b.beers.length;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
   var rows = d3
     .select('#breweryTable')
     .select('table')

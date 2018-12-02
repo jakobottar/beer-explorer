@@ -41,6 +41,11 @@
   text-align: left;
 }
 
+.filter-arrow {
+  font-size: 12px;
+  cursor: pointer;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;

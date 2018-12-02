@@ -3,11 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <title>CS 5890 | Beer Explorer</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Nunito|Roboto+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Nunito|Roboto+Slab" rel="stylesheet">
+    
     <!-- <script src="d3.js"></script> -->
   </head>
 
@@ -43,9 +46,22 @@
       <div id="breweryTable" border=1 frame=void rules=rows>
         <table>
           <thead>
-            <th>Brewery Name</th>
-            <th>Overall</th>
-            <th># of Beers</th>
+            <th>
+              Brewery Name 
+              <i id="breweryNameUp" class="filter-arrow material-icons">arrow_upward</i>
+              <i id="breweryNameDown" class="filter-arrow material-icons">arrow_downward</i>
+            </th>
+            <th>
+              Overall
+              <i id="breweryOverallUp" class="filter-arrow material-icons">arrow_upward</i>
+              <i id="breweryOverallDown" class="filter-arrow material-icons">arrow_downward</i>
+            </th>
+              
+            <th id="breweryBeers">
+              # of Beers
+              <i id="breweryBeersUp" class="filter-arrow material-icons">arrow_upward</i>
+              <i id="breweryBeersDown" class="filter-arrow material-icons">arrow_downward</i>
+            </th>
           </thead>
           <tbody></tbody>
         </table>
