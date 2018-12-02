@@ -28,19 +28,16 @@
       </h2>
     </header>
     <br><br>
-    <!-- <button onclick="newTable()">Add New Table</button>
-    <button onclick="removeTable()">Remove Beer Table</button> -->
 
     <div id="panes">
-        <svg id="map" width="100%", height="100%">
+      <svg id="map" width="100%", height="100%">
+        <g id="mapLayer"></g>
+        <g id="cityLayer"></g>
+      </svg>
 
-          <g id="mapLayer"></g>
-          <g id="cityLayer"></g>
-        </svg>
-
-        <div id="tooltip" class="hidden">
-          <p><span id="val"></span></p>
-        </div>
+      <div id="tooltip" class="hidden">
+        <p><span id="val"></span></p>
+      </div>
 
       <br>
 
