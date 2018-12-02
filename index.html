@@ -14,19 +14,20 @@
     <!-- <script src="d3.js"></script> -->
   </head>
 
-  <header>
-    <h1 align="center">The Geography of Beer</h1>
-    <h3 align="center">
-      By <a class="email", href="mailto:jakob.johnson@usu.edu">Jakob Johnson</a>
-      and <a class="email", href="mailto:derek.hunter@aggiemail.usu.edu">Derek Hunter<a><h3>
-    <h2 align="center">
-      A geography-based brewery and beer explorer <br>
-      <!-- https://streamable.com/6vur6 -->
-      <a id="about-link", href="./about.html">About this project »<a>
-    </h2>
-  </header>
-  <br><br>
+
   <body onload="init()">
+    <header>
+      <h1 align="center">The Geography of Beer</h1>
+      <h3 align="center">
+        By <a class="email", href="mailto:jakob.johnson@usu.edu">Jakob Johnson</a>
+        and <a class="email", href="mailto:derek.hunter@aggiemail.usu.edu">Derek Hunter<a><h3>
+      <h2 align="center">
+        A geography-based brewery and beer explorer <br>
+        <!-- https://streamable.com/6vur6 -->
+        <a class="link", href="./about.html">About this project »</a>
+      </h2>
+    </header>
+    <br><br>
     <!-- <button onclick="newTable()">Add New Table</button>
     <button onclick="removeTable()">Remove Beer Table</button> -->
 
@@ -102,6 +103,15 @@
         </svg>
       </div>
     </div>
+    <br>
+
+    <footer>
+      <div align="center", class="foot">
+        <span>Built with <a href="https://d3js.org/", class="link">D3.js</a></span>
+        <br> <br>
+        <a href="https://github.com/jakobottar/"><img src="images/GitHub-Mark-32px.png", width="25px"></img></a>
+      </div>
+    </footer>
   </body>
   <script type="application/javascript" , src="src/map.js"></script>
   <script type="application/javascript" , src="src/brewery_table.js"></script>

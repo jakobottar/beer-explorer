@@ -13,7 +13,7 @@
 }
 
 #about-link {
-  color: #006ebf;
+  color: ;
   text-decoration: none;
 }
 
@@ -228,4 +228,18 @@ path {
 
 .shown {
   display: block;
+}
+
+.foot {
+  font-size: 13px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.link{
+  color: #006ebf;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
 }

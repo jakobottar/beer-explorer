@@ -27,6 +27,14 @@ h3.header{
   text-decoration: underline;
 }
 
+.foot {
+  font-size: 13px;
+  font-family: "Noto Sans", sans-serif;
+}
+.foot.link {
+  color: inherit;;
+}
+
 .link {
   color: #006ebf;
   text-decoration: none;
