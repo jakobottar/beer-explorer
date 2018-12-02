@@ -15,6 +15,53 @@ var UpdateBeerTable = function(data) {
   UpdateDetailView(aggregateHistogramData(data.beers));
   updateSummaryTableTitle('Summary of ' + data.brewery_name + ' Beers');
   UpdateSelectedBeerColors();
+
+  d3.select('#beerNameUp').on('click', () => {
+    data.beers.sort(function(a, b) {
+      var textA = a.beer_name.toUpperCase();
+      var textB = b.beer_name.toUpperCase();
+      return textA < textB ? -1 : textA > textB ? 1 : 0;
+    });
+    UpdateBeerTable(data);
+  });
+
+  d3.select('#beerNameDown').on('click', () => {
+    data.beers.sort(function(a, b) {
+      var textA = a.beer_name.toUpperCase();
+      var textB = b.beer_name.toUpperCase();
+      return textA < textB ? 1 : textA > textB ? -1 : 0;
+    });
+    UpdateBeerTable(data);
+  });
+
+  d3.select('#beerOverallUp').on('click', () => {
+    data.beers.sort(function(a, b) {
+      return b.averages.overall - a.averages.overall;
+    });
+    UpdateBeerTable(data);
+  });
+
+  d3.select('#beerOverallDown').on('click', () => {
+    data.beers.sort(function(a, b) {
+      return a.averages.overall - b.averages.overall;
+    });
+    UpdateBeerTable(data);
+  });
+
+  d3.select('#beerRatingUp').on('click', () => {
+    data.beers.sort(function(a, b) {
+      return b.n_reviews - a.n_reviews;
+    });
+    UpdateBeerTable(data);
+  });
+
+  d3.select('#beerRatingDown').on('click', () => {
+    data.beers.sort(function(a, b) {
+      return a.n_reviews - b.n_reviews;
+    });
+    UpdateBeerTable(data);
+  });
+
   var rows = d3
     .select('#beerTable')
     .select('table')
