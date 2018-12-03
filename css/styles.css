@@ -94,12 +94,14 @@ tr.selected:hover {
   grid-area: beer1;
   height: 625px;
   overflow: scroll;
+  overflow-x: hidden;
 }
 
 #beerTable {
   grid-area: beer2;
   height: 625px;
   overflow: scroll;
+  overflow-x: hidden;
 }
 
 #summaryTable {
