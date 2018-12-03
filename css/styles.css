@@ -13,7 +13,12 @@
 }
 
 #about-link {
-  color: #0000ee;
+  color: ;
+  text-decoration: none;
+}
+
+#about-link:hover {
+  text-decoration: underline;
 }
 
 .chart-title {
@@ -58,9 +63,14 @@ table {
   width: 100%;
 }
 
+th {
+  font-family: 'Noto Sans', sans-serif;
+}
+
 tr {
   border-bottom: solid;
   border-width: 1px 0;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 tbody tr:hover {
@@ -68,11 +78,16 @@ tbody tr:hover {
 }
 
 tr.selected {
+  cursor: default;
   background-color: rgba(255, 221, 193, 0.8);
 }
 
 tr.selected:hover {
   background-color: #ffd5b3;
+}
+
+#summaryTableTitle {
+  font-family: 'Noto Sans', sans-serif;
 }
 
 #breweryTable {
@@ -111,10 +126,6 @@ h1 {
 
   margin-top: 10px;
   margin-bottom: 15px;
-}
-
-th {
-  font-family: 'Noto Sans', sans-serif;
 }
 
 h2 {
@@ -181,7 +192,8 @@ path {
   cursor: crosshair;
   fill: rgba(255, 116, 0, 0.7);
   stroke: #953500;
-  stroke-width: 1;
+  stroke-width: 2;
+  r: 7;
 }
 
 #tooltip {
@@ -231,4 +243,16 @@ path {
 
 .shownTable {
   display: table-row-group;
+.foot {
+  font-size: 13px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.link{
+  color: #006ebf;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
 }
