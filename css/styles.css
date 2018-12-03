@@ -92,13 +92,13 @@ tr.selected:hover {
 
 #breweryTable {
   grid-area: beer1;
-  height: 625px;
+  height: 630px;
   overflow: scroll;
 }
 
 #beerTable {
   grid-area: beer2;
-  height: 625px;
+  height: 630px;
   overflow: scroll;
 }
 

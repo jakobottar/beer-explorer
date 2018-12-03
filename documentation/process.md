@@ -227,10 +227,23 @@ After getting feedback from beta testers, I realized that without any sort of ci
 
 Another thing I noticed after beta testing was that users wanted to click on the map, and expected things to happen. To add these click events, I had to move the brush element behind the dots, as it covers the entire svg. Click selection was then very easy to implement, as well as brewery name tooltips.
 
-Finally, I cleaned up the visual aspects of the map, recolored the background, state lines, and brewery dots. I added a legend and some help text to let a user more easily understand what is going on and how to navigate the map.  
+Finally, I cleaned up the visual aspects of the map, recolored the background, state lines, and brewery dots. I added a legend and some help text to let a user more easily understand what is going on and how to navigate the map.
 
 ## Tables - Derek
 
+My job was to set up the lower half of the visualization; the tables. The functionality we wanted was a sort of drill down behavior. Where a user would filter the brewery table, based on the map selection. From there they could select a brewery of interest, which would then show the the list of beers that particular brewery has created. Then a user could select a beer of interest and the detailed review breakdown. And at each step showing an aggregate summary breakdown of the current selection. For instance, on initial load the detail view would a review breakdown of all breweries. Once filtered, it would update to be an aggregation of just the selected breweries. Once a brewery was selected, it would do the aggregation for the beers that brewery has created, and finally when the user selects a particular beer it would be the review breakdown for that beer.
+
+To do this I started by creating the basic skeleton of the two tables that would populate the brewery table with all of the breweries. Then when a user clicked on a brewery it would populate the beer table. The columns we decided on including for the brewery table was initially brewery name, overall rating, and number of beers. Later we decided to include number of reviews as well.
+For the beer table, we decided to include the name, overall rating, and number of reviews.
+
+Initially we would hide and show the beer table, depending on if a beer was selected. We found this to be a little bit jarring for the user, and later decided to have the column there permanently with a prompt to select a brewery if one was not selected.
+
+The final view that we cared about, was the summary view. We decided to create a smoothed distribution plot for this over a strict histogram. We just thought it looked better.
+As for the data being fed into this. All of brewery objects, and beer objects had a histogram object, for the 5 review pieces, that we pre-processed in python. For the summary of all brewries, we generated that on the fly in javascript, because it would change based on the current brewery filters.
+
+After I had everything functionally working, I tied in the tables to hooks in the map code, both for updating the map, and updating the tables. The functionality we wanted was, when a user made a selection on the map it would update the brewery table. Then, if a user selected a brewery either, by the table or by clicking on a circle on the map, it would update in the other place, as well as update the beer table, and summary view.
+
+The last piece of functionality we thought was important, was sorting both the brewery table, and beer table. I made it so that a user could sort by any column for that table.
 
 ## Formatting/About Page - Jakob
 
@@ -238,4 +251,4 @@ While most of the remaining webpage formatting was very basic, this was my first
 
 I found some good-looking and simple fonts for the site, [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab) for the headings and titles, [Nunito](https://fonts.google.com/specimen/Nunito) for the map text, and [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) for the body text. These were easy to read and made the page look professional and modern.
 
-The 'About' page was fairly simple, but getting CSS rules to work in the way I wanted them was a pain sometimes. I embedded the demo video and added links to the process page and the in-class presentation in pdf form. 
+The 'About' page was fairly simple, but getting CSS rules to work in the way I wanted them was a pain sometimes. I embedded the demo video and added links to the process page and the in-class presentation in pdf form.
