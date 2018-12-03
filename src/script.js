@@ -1,7 +1,8 @@
 let map = new Map();
 globaldata = [];
 function init() {
-  d3.json('data/processed_data.json', data => { // load the process data
+  d3.json('data/processed_data.json', data => {
+    // load the process data
     globalData = data;
     map.buildMap(data); //build the map
     UpdateBreweryTable(data); // build the tables
@@ -34,8 +35,20 @@ function aggregateHistogramData(data) {
   }, {});
 }
 
-function newTable() { // add the center beer table
-  if (document.getElementById('beerTable').getAttribute('class') == 'hidden') { // if the beer table is hidden,
+function showBeerTableStatus() {
+  document.getElementById('beer-table-status').className = 'shown';
+  document.getElementById('beer-table-body').className = 'hiddenTable';
+}
+
+function hideBeerTableStatus() {
+  document.getElementById('beer-table-status').className = 'hidden';
+  document.getElementById('beer-table-body').className = 'shownTable';
+}
+
+function newTable() {
+  // add the center beer table
+  if (document.getElementById('beerTable').getAttribute('class') == 'hidden') {
+    // if the beer table is hidden,
     // add the third column
     document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr 1fr';
     document.getElementById('panes').style.gridTemplateAreas =
@@ -45,8 +58,10 @@ function newTable() { // add the center beer table
   }
 }
 
-function removeTable() { // remove the center beer table
-  if (document.getElementById('beerTable').getAttribute('class') == 'shown') { // if the beer table is shown,
+function removeTable() {
+  // remove the center beer table
+  if (document.getElementById('beerTable').getAttribute('class') == 'shown') {
+    // if the beer table is shown,
     // remove the third column
     document.getElementById('panes').style.gridTemplateColumns = '1fr 1fr';
     document.getElementById('panes').style.gridTemplateAreas =

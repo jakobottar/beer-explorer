@@ -10,7 +10,7 @@ var UpdateSelectedBreweryColors = function(breweryId) {
 };
 
 var UpdateBreweryTable = function(breweryData) {
-  removeTable();
+  showBeerTableStatus();
   UpdateDetailView(aggregateHistogramData(breweryData));
 
   UpdateSelectedBreweryColors();
@@ -81,6 +81,7 @@ var UpdateBreweryTable = function(breweryData) {
       UpdateBeerTable(d);
       map.updateSelected([d]);
       UpdateSelectedBreweryColors(d.brewery_id);
+      hideBeerTableStatus();
     });
 
   let td = newRows

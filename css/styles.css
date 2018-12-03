@@ -1,9 +1,9 @@
 #panes {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 650px auto;
   grid-gap: 20px;
-  grid-template-areas: 'map map' 'beer1 beer3';
+  grid-template-areas: 'map map map' 'beer1 beer2 beer3';
 }
 
 #map {
@@ -30,6 +30,13 @@
 .summaryTableTitleContainer {
   width: 100%;
   margin: auto;
+  text-align: center;
+}
+
+#beer-table-status {
+  width: 100%;
+  padding-top: 75px;
+  font-family: 'Noto Sans', sans-serif;
   text-align: center;
 }
 
@@ -216,4 +223,12 @@ path {
 
 .shown {
   display: block;
+}
+
+.hiddenTable {
+  display: none;
+}
+
+.shownTable {
+  display: table-row-group;
 }

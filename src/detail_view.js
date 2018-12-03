@@ -1,4 +1,7 @@
 var UpdateDetailView = function(histogramData) {
+  if (typeof histogramData.overall == 'undefined') {
+    return;
+  }
   function updateHistogram(location, histogram, attribute) {
     let dataArray = [{ x: 0, y: 0 }];
     let resetArray = [{ x: 0, y: 0 }];
@@ -90,7 +93,7 @@ var UpdateDetailView = function(histogramData) {
 
     svg
       .select('#' + dataAccessAttribute + '_path')
-      .attr('d', distributionLine(resetArray))
+      // .attr('d', distributionLine(resetArray))
       .transition()
       .duration(500)
       .attr('id', dataAccessAttribute + '_path')
