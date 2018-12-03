@@ -235,7 +235,7 @@ class Map {
         .attr('cx', xLoc[i])
         .attr('cy', this.height - 35)
         .attr('class', circ_class[i])
-        .attr("style", "stroke-width: 1; r: 5")
+        .attr('style', 'stroke-width: 1; r: 5');
     }
 
     mapLegend // add some help text, to instruct the user
@@ -290,6 +290,7 @@ class Map {
       d3.select(`#br_${breweries[i].brewery_id}`).classed('selected', true); // select the passed in breweries
     }
     UpdateBeerTable(breweries[0]);
+    hideBeerTableStatus();
     UpdateSelectedBreweryColors(breweries[0].brewery_id);
 
     console.log(breweries);
