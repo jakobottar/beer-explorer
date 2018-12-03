@@ -207,4 +207,35 @@ This file is just an array of brewery objects that look approximately like the f
 This should be our final cleaned dataset.
 From here we built a very rudimentry table for breweries, as well as for a set of beers for the selected brewery(bottom of the page).
 
-Cities data from https://simplemaps.com/data/us-cities
+# Final Work Documentation
+
+## Map - Jakob
+
+My task was to visualize the location of breweries in our dataset, focusing on the United States, even though there are some foreign breweries in our dataset.
+
+In the `processed_data` file, I have the locations of the breweries but to show them on a map I first found a geoJSON file of the USA, and projected that. Once I had that, it was very simple to add the brewery dots on top.
+
+The next major task was brushing, which was fairly simple to implement, and check which breweries where in the selected area, on the non-zooming map but had to be re-worked later on (we will talk more about this later)
+
+In addition to brushing, I needed a way to visually show which brewery dots were filtered and which weren't. For this, I used CSS classes and the d3 `classed()` function which made re-coloring and re-sizing very easy.
+
+Zooming was by far the biggest challenge. I had to zoom both the background map and the brewery dots on a selection, resizing the brewery dots so they didn't grow too large, and preserve spacial distances. I chose to use two seperate methods for zooming the map and the points. In hindsight, there may have been easier ways, but this led to efficient map-zooming by using svg transformations, and the desired point-scaling effect through x and y scales.
+
+In order to make sure that the entire selection was inside of the viewable window, and in order to not distort the distances in the data, for each selection I calculate a new "view window" that the map will zoom on that accounts for too-wide or too-tall selections. Another problem in this was that of re-zooming and re-filtering. To check if a brewery was in a new selection after zooming required me to un-transform the selection to create a new smaller "view window" and re-check the brewery locations.
+
+After getting feedback from beta testers, I realized that without any sort of city or road mapping, zooming in too far leads to virtually no context to location. This made it very hard to pinpoint breweries in large states or where you may not be super familiar with the local cities. To solve this, I added a [collection of cities](https://simplemaps.com/data/us-cities). I chose cities with populations greater than 200,000 for simplicity. Plotting these dots and names on the map made it look very messy, so I implemented semantic zooming, adding the dots on a low zoom level and city names on a high zoom level. This added spacial context while keeping the look of the map simple.
+
+Another thing I noticed after beta testing was that users wanted to click on the map, and expected things to happen. To add these click events, I had to move the brush element behind the dots, as it covers the entire svg. Click selection was then very easy to implement, as well as brewery name tooltips.
+
+Finally, I cleaned up the visual aspects of the map, recolored the background, state lines, and brewery dots. I added a legend and some help text to let a user more easily understand what is going on and how to navigate the map.  
+
+## Tables - Derek
+
+
+## Formatting/About Page - Jakob
+
+While most of the remaining webpage formatting was very basic, this was my first time really building a webpage so most everything was a new experience.
+
+I found some good-looking and simple fonts for the site, [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab) for the headings and titles, [Nunito](https://fonts.google.com/specimen/Nunito) for the map text, and [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) for the body text. These were easy to read and made the page look professional and modern.
+
+The 'About' page was fairly simple, but getting CSS rules to work in the way I wanted them was a pain sometimes. I embedded the demo video and added links to the process page and the in-class presentation in pdf form. 
