@@ -273,9 +273,38 @@ $(document).ready(function () {
   ]
 }</code></pre>
 <p>This should be our final cleaned dataset. From here we built a very rudimentry table for breweries, as well as for a set of beers for the selected brewery(bottom of the page).</p>
-<p>Cities data from <a href="https://simplemaps.com/data/us-cities" class="uri">https://simplemaps.com/data/us-cities</a></p>
 </div>
 
+<div id="final-work-documentation" class="section level1">
+<h1>Final Work Documentation</h1>
+<div id="map---jakob" class="section level2">
+<h2>Map - Jakob</h2>
+<p>My task was to visualize the location of breweries in our dataset, focusing on the United States, even though there are some foreign breweries in our dataset.</p>
+<p>In the <code>processed_data</code> file, I have the locations of the breweries but to show them on a map I first found a geoJSON file of the USA, and projected that. Once I had that, it was very simple to add the brewery dots on top.</p>
+<p>The next major task was brushing, which was fairly simple to implement, and check which breweries where in the selected area, on the non-zooming map but had to be re-worked later on (we will talk more about this later)</p>
+<p>In addition to brushing, I needed a way to visually show which brewery dots were filtered and which weren’t. For this, I used CSS classes and the d3 <code>classed()</code> function which made re-coloring and re-sizing very easy.</p>
+<p>Zooming was by far the biggest challenge. I had to zoom both the background map and the brewery dots on a selection, resizing the brewery dots so they didn’t grow too large, and preserve spacial distances. I chose to use two seperate methods for zooming the map and the points. In hindsight, there may have been easier ways, but this led to efficient map-zooming by using svg transformations, and the desired point-scaling effect through x and y scales.</p>
+<p>In order to make sure that the entire selection was inside of the viewable window, and in order to not distort the distances in the data, for each selection I calculate a new “view window” that the map will zoom on that accounts for too-wide or too-tall selections. Another problem in this was that of re-zooming and re-filtering. To check if a brewery was in a new selection after zooming required me to un-transform the selection to create a new smaller “view window” and re-check the brewery locations.</p>
+<p>After getting feedback from beta testers, I realized that without any sort of city or road mapping, zooming in too far leads to virtually no context to location. This made it very hard to pinpoint breweries in large states or where you may not be super familiar with the local cities. To solve this, I added a <a href="https://simplemaps.com/data/us-cities">collection of cities</a>. I chose cities with populations greater than 200,000 for simplicity. Plotting these dots and names on the map made it look very messy, so I implemented semantic zooming, adding the dots on a low zoom level and city names on a high zoom level. This added spacial context while keeping the look of the map simple.</p>
+<p>Another thing I noticed after beta testing was that users wanted to click on the map, and expected things to happen. To add these click events, I had to move the brush element behind the dots, as it covers the entire svg. Click selection was then very easy to implement, as well as brewery name tooltips.</p>
+<p>Finally, I cleaned up the visual aspects of the map, recolored the background, state lines, and brewery dots. I added a legend and some help text to let a user more easily understand what is going on and how to navigate the map.</p>
+</div>
+<div id="tables---derek" class="section level2">
+<h2>Tables - Derek</h2>
+<p>My job was to set up the lower half of the visualization; the tables. The functionality we wanted was a sort of drill down behavior. Where a user would filter the brewery table, based on the map selection. From there they could select a brewery of interest, which would then show the the list of beers that particular brewery has created. Then a user could select a beer of interest and the detailed review breakdown. And at each step showing an aggregate summary breakdown of the current selection. For instance, on initial load the detail view would a review breakdown of all breweries. Once filtered, it would update to be an aggregation of just the selected breweries. Once a brewery was selected, it would do the aggregation for the beers that brewery has created, and finally when the user selects a particular beer it would be the review breakdown for that beer.</p>
+<p>To do this I started by creating the basic skeleton of the two tables that would populate the brewery table with all of the breweries. Then when a user clicked on a brewery it would populate the beer table. The columns we decided on including for the brewery table was initially brewery name, overall rating, and number of beers. Later we decided to include number of reviews as well. For the beer table, we decided to include the name, overall rating, and number of reviews.</p>
+<p>Initially we would hide and show the beer table, depending on if a beer was selected. We found this to be a little bit jarring for the user, and later decided to have the column there permanently with a prompt to select a brewery if one was not selected.</p>
+<p>The final view that we cared about, was the summary view. We decided to create a smoothed distribution plot for this over a strict histogram. We just thought it looked better. As for the data being fed into this. All of brewery objects, and beer objects had a histogram object, for the 5 review pieces, that we pre-processed in python. For the summary of all brewries, we generated that on the fly in javascript, because it would change based on the current brewery filters.</p>
+<p>After I had everything functionally working, I tied in the tables to hooks in the map code, both for updating the map, and updating the tables. The functionality we wanted was, when a user made a selection on the map it would update the brewery table. Then, if a user selected a brewery either, by the table or by clicking on a circle on the map, it would update in the other place, as well as update the beer table, and summary view.</p>
+<p>The last piece of functionality we thought was important, was sorting both the brewery table, and beer table. I made it so that a user could sort by any column for that table.</p>
+</div>
+<div id="formattingabout-page---jakob" class="section level2">
+<h2>Formatting/About Page - Jakob</h2>
+<p>While most of the remaining webpage formatting was very basic, this was my first time really building a webpage so most everything was a new experience.</p>
+<p>I found some good-looking and simple fonts for the site, <a href="https://fonts.google.com/specimen/Roboto+Slab">Roboto Slab</a> for the headings and titles, <a href="https://fonts.google.com/specimen/Nunito">Nunito</a> for the map text, and <a href="https://fonts.google.com/specimen/Noto+Sans">Noto Sans</a> for the body text. These were easy to read and made the page look professional and modern.</p>
+<p>The ‘About’ page was fairly simple, but getting CSS rules to work in the way I wanted them was a pain sometimes. I embedded the demo video and added links to the process page and the in-class presentation in pdf form.</p>
+</div>
+</div>
 
 
 
