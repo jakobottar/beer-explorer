@@ -243,12 +243,14 @@ path {
 
 .shownTable {
   display: table-row-group;
-.foot {
-  font-size: 13px;
-  font-family: "Noto Sans", sans-serif;
 }
 
-.link{
+.foot {
+  font-size: 13px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.link {
   color: #006ebf;
   text-decoration: none;
 }
