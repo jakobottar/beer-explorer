@@ -61,6 +61,20 @@ var UpdateBreweryTable = function(breweryData) {
     UpdateBreweryTable(breweryData);
   });
 
+  d3.select('#breweryReviewsUp').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return b.n_reviews - a.n_reviews;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
+  d3.select('#breweryReviewsDown').on('click', () => {
+    breweryData.sort(function(a, b) {
+      return a.n_reviews - b.n_reviews;
+    });
+    UpdateBreweryTable(breweryData);
+  });
+
   var rows = d3
     .select('#breweryTable')
     .select('table')
@@ -95,7 +109,8 @@ var UpdateBreweryTable = function(breweryData) {
           width: '30%',
           class: 'table-element'
         },
-        { value: d.beers.length, width: '30%', class: 'table-element' }
+        { value: d.beers.length, width: '30%', class: 'table-element' },
+        { value: d.n_reviews, width: '30%', class: 'table-element' }
       ];
     });
 
